@@ -1,7 +1,8 @@
 """
 src/generate.py
 每日自动抓取 CNN This Morning 文稿，调用 DeepSeek API 生成精读学习内容
-在 GitHub Actions 中运行
+- 周末/节假日自动回退到最近的工作日
+- 支持手动指定日期
 """
 
 import os, re, json, requests, sys
@@ -14,55 +15,95 @@ DEEPSEEK_URL     = 'https://api.deepseek.com/v1/chat/completions'
 OUTPUT_DIR       = Path('output')
 OUTPUT_DIR.mkdir(exist_ok=True)
 
-# 北京时间
-CST = timezone(timedelta(hours=8))
+CST = timezone(timedelta(hours=8))  # 北京时间
 
+
+# ── 日期处理 ──────────────────────────────────────────────────
 def get_target_date() -> str:
-    """从环境变量或当前北京时间获取目标日期"""
+    """
+    优先级：
+    1. 环境变量 TARGET_DATE（手动指定）
+    2. 今天（北京时间），如果是周末自动回退到上周五
+    """
     d = os.environ.get('TARGET_DATE', '').strip()
-    if d and re.match(r'\d{4}-\d{2}-\d{2}', d):
+    if d and re.match(r'^\d{4}-\d{2}-\d{2}$', d):
+        print(f'  使用指定日期：{d}')
         return d
-    return datetime.now(CST).strftime('%Y-%m-%d')
+    today = datetime.now(CST)
+    # 周六(5)→ 回退1天到周五，周日(6)→ 回退2天到周五
+    weekday = today.weekday()
+    if weekday == 5:
+        today -= timedelta(days=1)
+    elif weekday == 6:
+        today -= timedelta(days=2)
+    result = today.strftime('%Y-%m-%d')
+    if weekday >= 5:
+        print(f'  今天是周末，自动使用最近工作日：{result}')
+    return result
+
+
+def find_available_date(start_date: str, max_lookback: int = 7) -> str:
+    """
+    从 start_date 开始往前找，最多回溯 max_lookback 天，
+    返回 CNN 有文稿的最近日期
+    """
+    dt = datetime.strptime(start_date, '%Y-%m-%d')
+    for i in range(max_lookback):
+        candidate = (dt - timedelta(days=i)).strftime('%Y-%m-%d')
+        # 跳过周末
+        if (dt - timedelta(days=i)).weekday() >= 5:
+            print(f'  {candidate} 是周末，跳过')
+            continue
+        url = f'https://transcripts.cnn.com/show/ctmo/date/{candidate}/segment/01'
+        print(f'  检查是否有文稿：{url}')
+        try:
+            r = requests.head(url, headers={'User-Agent': 'Mozilla/5.0'}, timeout=10)
+            if r.status_code == 200:
+                print(f'  ✓ 找到有效日期：{candidate}')
+                return candidate
+            else:
+                print(f'  {candidate} 返回 {r.status_code}，继续往前找')
+        except Exception as e:
+            print(f'  {candidate} 请求失败：{e}')
+    raise RuntimeError(f'回溯 {max_lookback} 天内未找到有效的 CNN 文稿')
 
 
 # ── 抓取文稿 ──────────────────────────────────────────────────
 def fetch_transcript(date_str: str) -> str:
-    """
-    尝试抓取 segment/01 和 segment/02，合并文本
-    返回纯文字内容
-    """
+    """尝试抓取 segment/01 ~ 03，合并有效文本"""
     combined = []
-    for seg in [1, 2]:
+    for seg in [1, 2, 3]:
         url = f'https://transcripts.cnn.com/show/ctmo/date/{date_str}/segment/{seg:02d}'
         print(f'  Fetching: {url}')
         try:
             r = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'}, timeout=20)
             if r.status_code == 404:
-                print(f'  Segment {seg}: 404, skipping')
+                print(f'  Segment {seg}: 404，跳过')
                 continue
             r.raise_for_status()
-            # 提取 <div class="cnnTranscriptSection"> 内的文字（如存在）
             body = r.text
+            # 尝试提取正文区域
             section = re.search(r'<div[^>]+cnnTranscript[^>]*>(.*?)</div>', body, re.S)
             text = section.group(1) if section else body
-            # 去除所有 HTML 标签
             text = re.sub(r'<[^>]+>', ' ', text)
             text = re.sub(r'&nbsp;', ' ', text)
             text = re.sub(r'&amp;', '&', text)
             text = re.sub(r'&lt;', '<', text)
             text = re.sub(r'&gt;', '>', text)
             text = re.sub(r'\s+', ' ', text).strip()
-            if len(text) > 500:   # 有效内容才保留
+            if len(text) > 300:
                 combined.append(text)
-                print(f'  Segment {seg}: OK ({len(text)} chars)')
+                print(f'  Segment {seg}: OK（{len(text)} 字符）')
+            else:
+                print(f'  Segment {seg}: 内容过短，跳过')
         except Exception as e:
-            print(f'  Segment {seg} error: {e}')
+            print(f'  Segment {seg} 错误：{e}')
 
     if not combined:
-        raise RuntimeError(f'No transcript content fetched for {date_str}')
+        return ''
 
     full = '\n\n'.join(combined)
-    return full[:9000]   # DeepSeek 上下文限制
+    return full[:9000]
 
 
 # ── DeepSeek Prompt ───────────────────────────────────────────
@@ -83,14 +124,14 @@ def build_prompt(transcript: str, date_str: str, source_url: str) -> str:
 {{
   "date": "{date_str}",
   "source_url": "{source_url}",
-  "summary": "约150字中文摘要，涵盖文稿中所有主要新闻话题，每个话题用一句话概括",
+  "summary": "约150字中文摘要，涵盖文稿中所有主要新闻话题，每个话题一句话",
 
   "transcript_highlights": [
     {{
-      "speaker": "说话人（如 ANCHOR/REPORTER/GUEST）",
-      "text": "原文重要段落（逐字稿，保持原文）",
-      "cn": "中文对照翻译",
-      "note": "语境说明（可选）"
+      "speaker": "说话人角色（如 ANCHOR / REPORTER / GUEST）",
+      "text": "原文重要段落（逐字稿，保持原文，不少于3句话）",
+      "cn": "对应中文翻译",
+      "note": "语境说明（可选，一句话）"
     }}
   ],
 
@@ -102,7 +143,7 @@ def build_prompt(transcript: str, date_str: str, source_url: str) -> str:
       "level": "考研/六级/专四/专八/时事词汇",
       "cn": "中文释义（含常用搭配）",
       "en": "英文释义",
-      "example": "原文例句（完整句子，保持原文）",
+      "example": "原文例句（完整句子）",
       "example_cn": "例句中文翻译"
     }}
   ],
@@ -111,8 +152,8 @@ def build_prompt(transcript: str, date_str: str, source_url: str) -> str:
     {{
       "en": "原文长难句（完整句子）",
       "cn": "准确中文翻译",
-      "structure": "句子结构标注（主句/从句/插入语/不定式等）",
-      "analysis": "语法要点分析：嵌套结构/习语用法/修辞手法"
+      "structure": "句子结构标注（主句/从句/插入语等）",
+      "analysis": "语法要点：嵌套结构/习语/修辞手法"
     }}
   ],
 
@@ -138,18 +179,18 @@ def build_prompt(transcript: str, date_str: str, source_url: str) -> str:
 严格要求：
 - transcript_highlights：选取4-5段最重要的原文段落（逐字稿），含中文对照
 - vocabulary：恰好12个词，优先考研六级 + 新闻政治词汇，不选基础词
-- sentences：恰好5句，优先含多重从句/插入语/政治习语的复杂句
+- sentences：恰好5句，优先含多重从句/插入语/习语的复杂句
 - topics：恰好4个，对应文稿中4个主要新闻话题
 - quiz：恰好6道（前3道考词汇，后3道考句意/背景理解）
-- 所有内容必须源自文稿原文，不得虚构"""
+- 所有内容必须来自文稿原文，不得虚构"""
 
 
 # ── 调用 DeepSeek ─────────────────────────────────────────────
 def call_deepseek(prompt: str) -> dict:
     if not DEEPSEEK_API_KEY:
-        raise RuntimeError('DEEPSEEK_API_KEY is not set. Add it in GitHub Secrets.')
+        raise RuntimeError('DEEPSEEK_API_KEY 未设置，请在 GitHub Secrets 中添加。')
 
-    print('  Calling DeepSeek API...')
+    print('  调用 DeepSeek API...')
     resp = requests.post(
         DEEPSEEK_URL,
         headers={
@@ -157,7 +198,7 @@ def call_deepseek(prompt: str) -> dict:
             'Content-Type': 'application/json'
         },
         json={
-            'model': 'deepseek-v4-flash',
+            'model': 'deepseek-chat',
             'max_tokens': 4096,
             'temperature': 0.2,
             'messages': [
@@ -175,37 +216,50 @@ def call_deepseek(prompt: str) -> dict:
 
 # ── 主流程 ────────────────────────────────────────────────────
 def main():
-    date_str   = get_target_date()
-    out_path   = OUTPUT_DIR / f'{date_str}.json'
-    source_url = f'https://transcripts.cnn.com/show/ctmo/date/{date_str}/segment/01'
+    print('\n=== CNN精读生成器 ===')
 
-    print(f'\n=== CNN精读生成器 ===')
-    print(f'目标日期：{date_str}')
-    print(f'输出路径：{out_path}')
+    # 1. 确定目标日期（含周末自动回退）
+    requested_date = get_target_date()
 
+    # 2. 检查缓存
+    out_path = OUTPUT_DIR / f'{requested_date}.json'
     if out_path.exists():
-        print(f'已存在缓存，跳过生成。如需重新生成，请删除 {out_path}')
+        print(f'✓ 已有缓存：{out_path}，跳过生成。')
         return
 
-    # 1. 抓取文稿
-    print('\n[1/3] 抓取CNN文稿...')
-    transcript = fetch_transcript(date_str)
+    # 3. 验证 CNN 是否有该日期文稿，若无则继续往前找
+    print(f'\n[1/3] 查找有效文稿日期（从 {requested_date} 开始）...')
+    actual_date = find_available_date(requested_date, max_lookback=7)
+
+    # 如果实际日期有缓存也跳过
+    out_path = OUTPUT_DIR / f'{actual_date}.json'
+    if out_path.exists():
+        print(f'✓ 实际日期 {actual_date} 已有缓存，跳过。')
+        return
+
+    source_url = f'https://transcripts.cnn.com/show/ctmo/date/{actual_date}/segment/01'
+    print(f'目标日期：{actual_date}')
+    print(f'输出路径：{out_path}')
+
+    # 4. 抓取文稿
+    print(f'\n[2/3] 抓取 CNN 文稿...')
+    transcript = fetch_transcript(actual_date)
+    if not transcript:
+        raise RuntimeError(f'{actual_date} 文稿抓取失败或内容为空')
     print(f'      文稿长度：{len(transcript)} 字符')
 
-    # 2. 生成内容
-    print('\n[2/3] 调用 DeepSeek API 生成学习内容...')
-    prompt = build_prompt(transcript, date_str, source_url)
+    # 5. 调用 DeepSeek 生成内容
+    print(f'\n[3/3] 生成精读学习内容...')
+    prompt = build_prompt(transcript, actual_date, source_url)
     data   = call_deepseek(prompt)
-    print('      生成成功')
+    print(f'      生成成功：{len(data.get("vocabulary",[]))} 词汇，{len(data.get("sentences",[]))} 难句')
 
-    # 3. 保存
-    print('\n[3/3] 保存结果...')
+    # 6. 保存
     out_path.write_text(
         json.dumps(data, ensure_ascii=False, indent=2),
         encoding='utf-8'
     )
-    print(f'      已保存：{out_path}')
-    print(f'\n✅ 完成！词汇数：{len(data.get("vocabulary",[]))}，难句数：{len(data.get("sentences",[]))}')
+    print(f'\n✅ 已保存：{out_path}')
 
 
 if __name__ == '__main__':
