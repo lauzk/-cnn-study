@@ -2,379 +2,564 @@
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>CNN 英语精读 · 每日自动更新</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>CNN 英语精读</title>
 <style>
-:root {
-  --bg:#0f1117;--bg2:#1a1d27;--bg3:#232635;
+:root{
+  --bg:#0f1117;--bg2:#1a1d27;--bg3:#232635;--bg4:#2a2d3e;
   --border:#2e3247;--border2:#3a4060;
-  --text:#e8eaf0;--text2:#8b90a7;
-  --blue:#4a9eff;--blue-dim:#1a3a5c;
-  --red:#cc0000;--green:#2ecc71;
-  --amber:#f0a500;--coral:#e05a3a;--teal:#1abc9c;
+  --text:#e8eaf0;--text2:#8b90a7;--text3:#5a5f7a;
+  --blue:#4a9eff;--blue-dim:#1a3a5c;--blue2:#2563a8;
+  --red:#cc0000;--green:#2ecc71;--amber:#f0a500;
+  --coral:#e05a3a;--teal:#1abc9c;--purple:#a78bfa;
+  --hl-yellow:rgba(250,200,40,.22);
+  --hl-yellow-border:rgba(250,200,40,.7);
+  --hl-active:rgba(250,200,40,.45);
   --r:10px;--font:'Segoe UI',system-ui,sans-serif;--mono:'Consolas',monospace;
 }
 *{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
 body{background:var(--bg);color:var(--text);font-family:var(--font);min-height:100vh}
-a{color:var(--blue);text-decoration:none}
-a:hover{text-decoration:underline}
 
-.wrap{max-width:900px;margin:0 auto;padding:1.5rem 1rem 5rem}
+/* ── Layout ── */
+.layout{display:grid;grid-template-columns:260px 1fr;min-height:100vh}
+@media(max-width:800px){.layout{grid-template-columns:1fr}.sidebar{display:none}}
 
-/* Header */
-header{display:flex;align-items:center;gap:12px;margin-bottom:1.5rem;flex-wrap:wrap;padding-bottom:1rem;border-bottom:1px solid var(--border)}
-.logo{font-size:22px;font-weight:700;letter-spacing:-.5px}
-.logo span{color:var(--red)}
-.auto-badge{font-size:11px;padding:3px 9px;border-radius:20px;background:#0d2a1a;color:var(--green);font-weight:500;border:1px solid #1a4a2a}
-.gh-link{margin-left:auto;font-size:13px;color:var(--text2);display:flex;align-items:center;gap:6px}
+/* ── Sidebar ── */
+.sidebar{background:var(--bg2);border-right:1px solid var(--border);padding:1.25rem 0;position:sticky;top:0;height:100vh;overflow-y:auto;display:flex;flex-direction:column;gap:0}
+.sidebar-logo{padding:.75rem 1.25rem 1rem;font-size:17px;font-weight:700;letter-spacing:-.5px;border-bottom:1px solid var(--border);margin-bottom:.5rem}
+.sidebar-logo span{color:var(--red)}
+.sidebar-section{font-size:11px;font-weight:600;color:var(--text3);letter-spacing:.1em;text-transform:uppercase;padding:.75rem 1.25rem .25rem}
+.hist-item{display:flex;align-items:center;padding:.55rem 1.25rem;cursor:pointer;font-size:13px;color:var(--text2);gap:8px;transition:all .15s;border-left:2px solid transparent}
+.hist-item:hover{background:var(--bg3);color:var(--text)}
+.hist-item.active{background:var(--bg3);color:var(--blue);border-left-color:var(--blue)}
+.hist-item .date{font-family:var(--mono);font-size:12px}
+.hist-item .dot{width:6px;height:6px;border-radius:50%;background:var(--border2);flex-shrink:0}
+.hist-item.active .dot{background:var(--blue)}
+.sidebar-nav{margin-top:auto;border-top:1px solid var(--border);padding-top:.5rem}
+.nav-item{display:flex;align-items:center;gap:8px;padding:.55rem 1.25rem;cursor:pointer;font-size:13px;color:var(--text2);transition:all .15s}
+.nav-item:hover{color:var(--text)}
+.nav-item.active{color:var(--blue)}
 
-/* History */
-.history-wrap{margin-bottom:1.25rem}
-.history-label{font-size:12px;color:var(--text2);margin-bottom:8px}
-.history{display:flex;gap:6px;flex-wrap:wrap}
-.hist-btn{padding:4px 11px;font-size:12px;background:var(--bg2);border:1px solid var(--border);border-radius:20px;cursor:pointer;color:var(--text2);transition:all .15s;font-family:var(--mono)}
-.hist-btn:hover,.hist-btn.active{background:var(--blue-dim);border-color:var(--blue);color:var(--blue)}
+/* ── Main ── */
+.main{display:flex;flex-direction:column;min-height:100vh}
+.topbar{background:var(--bg2);border-bottom:1px solid var(--border);padding:.75rem 1.5rem;display:flex;align-items:center;gap:12px;position:sticky;top:0;z-index:50}
+.topbar-title{font-size:15px;font-weight:500;flex:1}
+.topbar-date{font-size:12px;color:var(--text2);font-family:var(--mono)}
+.badge{font-size:11px;padding:2px 8px;border-radius:20px;font-weight:500}
+.badge-auto{background:#0d2a1a;color:var(--green);border:1px solid #1a4a2a}
+.btn{padding:6px 14px;border:none;border-radius:var(--r);cursor:pointer;font-size:13px;font-weight:500;transition:all .15s}
+.btn-src{background:var(--bg3);color:var(--text2);font-size:12px}
+.btn-src:hover{color:var(--blue)}
 
-/* Summary */
-.summary-card{background:var(--bg2);border:1px solid var(--border);border-radius:var(--r);padding:1.25rem;margin-bottom:1.5rem}
-.card-label{font-size:11px;font-weight:600;color:var(--text2);letter-spacing:.08em;text-transform:uppercase;margin-bottom:8px}
-.summary-text{font-size:15px;line-height:1.85;color:var(--text)}
-.meta{display:flex;gap:14px;margin-top:10px;flex-wrap:wrap;font-size:12px;color:var(--text2)}
+.content{flex:1;padding:1.5rem}
 
-/* Tabs */
-.tabs{display:flex;gap:6px;margin-bottom:1.5rem;flex-wrap:wrap}
-.tab{padding:8px 16px;font-size:13px;background:var(--bg2);border:1px solid var(--border);border-radius:var(--r);cursor:pointer;color:var(--text2);transition:all .15s}
-.tab.active{background:var(--blue);color:#fff;border-color:var(--blue)}
+/* ── Tabs ── */
+.tabs{display:flex;gap:4px;margin-bottom:1.5rem;background:var(--bg2);border:1px solid var(--border);border-radius:var(--r);padding:4px}
+.tab{flex:1;padding:7px 0;font-size:13px;text-align:center;border-radius:7px;cursor:pointer;color:var(--text2);transition:all .15s}
+.tab.active{background:var(--blue);color:#fff}
 .section{display:none}.section.active{display:block}
 
-/* Transcript */
-.trans-intro{font-size:13px;color:var(--text2);margin-bottom:12px}
-.trans-card{background:var(--bg2);border:1px solid var(--border);border-radius:var(--r);padding:1.25rem;margin-bottom:12px}
-.trans-speaker{display:inline-block;font-size:11px;font-weight:600;padding:2px 10px;border-radius:20px;background:#1a2a4a;color:#7eb8f7;letter-spacing:.06em;margin-bottom:10px}
-.trans-en{font-size:14px;line-height:1.9;color:var(--text);margin-bottom:10px;font-style:italic;border-left:2px solid var(--blue);padding-left:12px}
-.trans-cn{font-size:14px;color:#6ab4f5;line-height:1.75;padding:8px 12px;background:var(--bg3);border-radius:6px;margin-bottom:8px}
-.trans-note{font-size:12px;color:var(--text2);margin-top:6px}
+/* ── Summary ── */
+.summary-card{background:var(--bg2);border:1px solid var(--border);border-radius:var(--r);padding:1.25rem;margin-bottom:1.5rem}
+.card-label{font-size:11px;font-weight:600;color:var(--text2);letter-spacing:.08em;text-transform:uppercase;margin-bottom:8px}
+.summary-text{font-size:15px;line-height:1.85}
 
-/* Vocab */
-.vcard{background:var(--bg2);border:1px solid var(--border);border-radius:var(--r);padding:1rem 1.25rem;margin-bottom:10px;transition:border .15s}
+/* ── Full Transcript ── */
+.transcript-wrap{display:grid;grid-template-columns:1fr 320px;gap:1.25rem;align-items:start}
+@media(max-width:900px){.transcript-wrap{grid-template-columns:1fr}}
+.transcript-body{background:var(--bg2);border:1px solid var(--border);border-radius:var(--r);padding:1.5rem;font-size:14.5px;line-height:2;position:relative}
+.transcript-hint{font-size:12px;color:var(--text2);margin-bottom:1rem;padding:.5rem .75rem;background:var(--bg3);border-radius:6px;border-left:2px solid var(--blue)}
+
+/* paragraph */
+.para{margin-bottom:1.1rem}
+.para:last-child{margin-bottom:0}
+.speaker-tag{display:inline-block;font-size:10px;font-weight:700;padding:1px 7px;border-radius:3px;background:#1a2a4a;color:#7eb8f7;letter-spacing:.06em;margin-right:6px;vertical-align:middle;white-space:nowrap}
+
+/* highlight */
+.hl{background:var(--hl-yellow);border-bottom:2px solid var(--hl-yellow-border);border-radius:2px;cursor:pointer;transition:background .15s;padding:0 1px}
+.hl:hover,.hl.active{background:var(--hl-active)}
+.hl.level-考研{border-bottom-color:#f0a500}
+.hl.level-六级{border-bottom-color:#4a9eff}
+.hl.level-专八,.hl.level-专四{border-bottom-color:#a78bfa}
+.hl.level-时事词汇{border-bottom-color:#2ecc71}
+
+/* tooltip popup */
+.vocab-popup{position:fixed;z-index:200;max-width:300px;background:var(--bg4);border:1px solid var(--border2);border-radius:var(--r);padding:1rem 1.1rem;box-shadow:0 8px 32px rgba(0,0,0,.5);display:none;pointer-events:none}
+.vocab-popup.show{display:block}
+.vp-word{font-size:17px;font-weight:700;color:#fff}
+.vp-ph{font-size:12px;color:var(--text2);font-family:var(--mono);margin-left:6px}
+.vp-badges{display:flex;gap:5px;margin:5px 0}
+.vp-pos{font-size:11px;padding:1px 7px;border-radius:20px;background:#1a2a4a;color:#7eb8f7;font-weight:500}
+.vp-lv{font-size:11px;padding:1px 7px;border-radius:20px;background:#2a1a0a;color:#f0a060;font-weight:500}
+.vp-cn{font-size:14px;color:var(--blue);font-weight:500;margin-bottom:3px}
+.vp-en{font-size:12px;color:var(--text2);line-height:1.6}
+
+/* word panel (right side) */
+.word-panel{background:var(--bg2);border:1px solid var(--border);border-radius:var(--r);padding:1rem;position:sticky;top:80px}
+.word-panel-title{font-size:12px;font-weight:600;color:var(--text2);letter-spacing:.08em;text-transform:uppercase;margin-bottom:10px}
+.word-list{display:flex;flex-direction:column;gap:4px;max-height:calc(100vh - 200px);overflow-y:auto}
+.word-chip{display:flex;align-items:center;gap:8px;padding:6px 10px;border-radius:7px;cursor:pointer;transition:all .15s;border:1px solid transparent}
+.word-chip:hover{background:var(--bg3);border-color:var(--border)}
+.word-chip.active{background:var(--blue-dim);border-color:var(--blue)}
+.wc-word{font-size:14px;font-weight:500;color:var(--text)}
+.wc-cn{font-size:12px;color:var(--text2);flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.wc-lv{width:6px;height:6px;border-radius:50%;flex-shrink:0}
+
+/* ── Vocab Cards ── */
+.vocab-grid{display:flex;flex-direction:column;gap:10px}
+.vcard{background:var(--bg2);border:1px solid var(--border);border-radius:var(--r);padding:1rem 1.25rem;transition:border .15s}
 .vcard:hover{border-color:var(--border2)}
 .vhead{display:flex;align-items:baseline;gap:8px;flex-wrap:wrap;margin-bottom:6px}
 .vword{font-size:18px;font-weight:700;color:#fff}
 .vph{font-size:13px;color:var(--text2);font-family:var(--mono)}
-.badge{font-size:11px;padding:2px 8px;border-radius:20px;font-weight:500}
-.bpos{background:#1a2a4a;color:#7eb8f7}
-.blv{background:#2a1a0a;color:#f0a060}
+.bpos{font-size:11px;padding:2px 8px;border-radius:20px;background:#1a2a4a;color:#7eb8f7;font-weight:500}
+.blv{font-size:11px;padding:2px 8px;border-radius:20px;background:#2a1a0a;color:#f0a060;font-weight:500}
 .vcn{font-size:14px;color:var(--blue);font-weight:500;margin-bottom:4px}
 .ven{font-size:13px;color:var(--text2);line-height:1.6;margin-bottom:8px}
 .veg{padding:8px 12px;background:var(--bg3);border-left:2px solid var(--blue);border-radius:0 6px 6px 0;font-size:13px;line-height:1.75}
 .veg em{color:var(--blue);font-style:normal;font-weight:600}
 .vegcn{font-size:12px;color:var(--text2);margin-top:4px}
 
-/* Sentences */
+/* ── Sentences ── */
 .scard{background:var(--bg2);border:1px solid var(--border);border-radius:var(--r);padding:1.25rem;margin-bottom:12px}
-.sen-num{display:inline-block;font-size:11px;font-weight:700;width:22px;height:22px;line-height:22px;text-align:center;background:var(--blue);color:#fff;border-radius:50%;margin-bottom:10px}
-.sen-en{font-size:15px;line-height:1.9;color:var(--text);margin-bottom:10px}
-.sen-en mark{background:var(--blue-dim);color:#90c8ff;padding:1px 4px;border-radius:3px}
+.snum{display:inline-flex;align-items:center;justify-content:center;width:22px;height:22px;border-radius:50%;background:var(--blue);color:#fff;font-size:12px;font-weight:700;margin-bottom:10px}
+.sen-en{font-size:15px;line-height:1.9;margin-bottom:10px}
 .sen-cn{font-size:14px;color:#6ab4f5;line-height:1.75;padding:8px 12px;background:var(--bg3);border-radius:6px;margin-bottom:10px}
-.divider{width:100%;height:1px;background:var(--border);margin:10px 0}
 .alabel{font-size:11px;font-weight:600;color:var(--text2);letter-spacing:.08em;text-transform:uppercase;margin-bottom:5px}
-.abody{font-size:13px;color:var(--text);line-height:1.75}
-.abody .hl{color:var(--coral);font-weight:600}
+.abody{font-size:13px;line-height:1.75;margin-bottom:8px}
+.hl2{color:var(--coral);font-weight:600}
+.divider{height:1px;background:var(--border);margin:10px 0}
 
-/* Topics */
+/* ── Topics ── */
 .tcard{background:var(--bg2);border:1px solid var(--border);border-radius:var(--r);padding:1.25rem;margin-bottom:12px}
-.ttitle{display:flex;align-items:center;gap:9px;font-size:15px;font-weight:600;color:var(--text);margin-bottom:10px}
+.ttitle{display:flex;align-items:center;gap:9px;font-size:15px;font-weight:600;margin-bottom:10px}
 .tdot{width:10px;height:10px;border-radius:50%;flex-shrink:0}
 .tcontent{font-size:13px;color:var(--text2);line-height:1.85;margin-bottom:8px}
-.tkw{font-size:12px;color:var(--blue);letter-spacing:.02em}
+.tkw{font-size:12px;color:var(--blue)}
 
-/* Quiz */
+/* ── Quiz ── */
 .qmeta{display:flex;align-items:center;gap:10px;margin-bottom:14px;font-size:12px;color:var(--text2)}
-.qbar-wrap{flex:1;height:5px;background:var(--bg3);border-radius:3px;overflow:hidden}
-.qbar-fill{height:100%;background:var(--blue);border-radius:3px;transition:width .35s}
+.qbar-w{flex:1;height:5px;background:var(--bg3);border-radius:3px;overflow:hidden}
+.qbar-f{height:100%;background:var(--blue);border-radius:3px;transition:width .3s}
 .qcard{background:var(--bg2);border:1px solid var(--border);border-radius:var(--r);padding:1.5rem}
 .qbadge{display:inline-block;font-size:11px;padding:2px 9px;border-radius:20px;margin-bottom:12px;font-weight:600}
 .qbadge.vocab{background:#1a2a4a;color:#7eb8f7}
 .qbadge.sentence{background:#2a1a2a;color:#c090f0}
-.qqtext{font-size:15px;line-height:1.8;color:var(--text);margin-bottom:1.25rem;white-space:pre-line}
+.qqtext{font-size:15px;line-height:1.8;margin-bottom:1.25rem;white-space:pre-line}
 .qopts{display:flex;flex-direction:column;gap:8px}
-.qopt{padding:11px 16px;border:1px solid var(--border);border-radius:8px;cursor:pointer;font-size:14px;color:var(--text);background:var(--bg3);transition:all .15s;line-height:1.5}
+.qopt{padding:11px 16px;border:1px solid var(--border);border-radius:8px;cursor:pointer;font-size:14px;background:var(--bg3);transition:all .15s;line-height:1.5}
 .qopt:hover:not(.disabled){border-color:var(--blue);color:var(--blue);background:var(--blue-dim)}
 .qopt.correct{border-color:var(--green);color:var(--green);background:#0d2a1a}
 .qopt.wrong{border-color:var(--coral);color:var(--coral);background:#2a120a}
 .qopt.disabled{cursor:default}
 .qexp{margin-top:12px;padding:12px 14px;background:var(--bg3);border-radius:8px;font-size:13px;color:var(--text2);display:none;line-height:1.75;border-left:3px solid var(--amber)}
 .qexp.show{display:block}
-.qnext{margin-top:12px;padding:9px 20px;background:var(--blue);color:#fff;border:none;border-radius:8px;cursor:pointer;font-size:14px;font-weight:500;display:none;transition:background .15s}
+.qnext{margin-top:12px;padding:9px 20px;background:var(--blue);color:#fff;border:none;border-radius:8px;cursor:pointer;font-size:14px;font-weight:500;display:none}
 .qnext:hover{background:#3a8ef0}
 .qnext.show{display:inline-block}
-.score-panel{text-align:center;padding:2.5rem 1rem}
+.score-panel{text-align:center;padding:2.5rem}
 .score-num{font-size:64px;font-weight:800;color:var(--blue);line-height:1}
-.score-sub{font-size:16px;color:var(--text2);margin-top:10px}
+.score-sub{font-size:16px;color:var(--text2);margin-top:8px}
 .score-stars{font-size:28px;margin:10px 0}
 .btn-restart{margin-top:16px;padding:10px 24px;background:var(--blue);color:#fff;border:none;border-radius:8px;cursor:pointer;font-size:14px;font-weight:500}
 
-/* Empty */
+/* ── Empty ── */
 .empty{text-align:center;padding:5rem 1rem;color:var(--text2)}
 .empty h3{font-size:18px;color:var(--text);margin-bottom:8px}
+
+/* ── Scrollbar ── */
+::-webkit-scrollbar{width:6px;height:6px}
+::-webkit-scrollbar-track{background:var(--bg)}
+::-webkit-scrollbar-thumb{background:var(--border2);border-radius:3px}
 </style>
 </head>
 <body>
-<div class="wrap">
+<div class="layout">
 
-  <header>
-    <div class="logo"><span>CNN</span> 英语精读</div>
-    <span class="auto-badge">⚡ GitHub Actions 每日自动更新</span>
-    <div class="gh-link">
-      <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0 0 24 12c0-6.63-5.37-12-12-12z"/></svg>
-      查看源码
-    </div>
-  </header>
+<!-- Sidebar -->
+<aside class="sidebar">
+  <div class="sidebar-logo"><span>CNN</span> 英语精读</div>
+  <div class="sidebar-section">历史记录</div>
+  <div id="histList"><div class="hist-item active" data-date="2026-06-05" onclick="loadDate('2026-06-05')"><span class="dot"></span><span class="date">2026-06-05</span></div></div>
+  <div class="sidebar-nav">
+    <div class="nav-item" onclick="window.open('https://transcripts.cnn.com','_blank')">🔗 CNN Transcripts</div>
+  </div>
+</aside>
 
-  <!-- History -->
-  <div class="history-wrap">
-    <div class="history-label">历史记录</div>
-    <div class="history" id="historyBar">
-      <button class="hist-btn active" data-date="2026-06-05" onclick="loadDate('2026-06-05')">2026-06-05</button>
-    </div>
+<!-- Main -->
+<div class="main">
+  <div class="topbar">
+    <div class="topbar-title" id="topbarTitle">CNN This Morning</div>
+    <span class="topbar-date" id="topbarDate"></span>
+    <span class="badge badge-auto">⚡ 每日自动更新</span>
+    <button class="btn btn-src" id="srcBtn" onclick="openSource()">查看原文 →</button>
   </div>
 
-  <!-- Main Content -->
-  <div id="mainContent">
+  <div class="content">
 
     <!-- Summary -->
     <div class="summary-card">
       <div class="card-label">📰 内容摘要</div>
-      <div class="summary-text" id="summaryText"></div>
-      <div class="meta">
-        <span id="metaDate"></span>
-        <a id="metaUrl" href="#" target="_blank">查看CNN原文 →</a>
-      </div>
+      <div class="summary-text" id="summaryText">加载中...</div>
     </div>
 
     <!-- Tabs -->
     <div class="tabs">
-      <div class="tab active" onclick="switchTab('transcript')">📝 逐字稿</div>
-      <div class="tab" onclick="switchTab('vocab')">📚 高频词汇</div>
-      <div class="tab" onclick="switchTab('sentences')">🔍 长难句</div>
-      <div class="tab" onclick="switchTab('topics')">🌐 话题背景</div>
+      <div class="tab active" onclick="switchTab('transcript')">📝 全文稿</div>
+      <div class="tab" onclick="switchTab('vocab')">📚 词汇</div>
+      <div class="tab" onclick="switchTab('sentences')">🔍 难句</div>
+      <div class="tab" onclick="switchTab('topics')">🌐 背景</div>
       <div class="tab" onclick="switchTab('quiz')">✅ 测验</div>
     </div>
 
+    <!-- Transcript Tab -->
     <div id="transcript" class="section active">
-      <p class="trans-intro">以下为CNN文稿中的关键段落逐字原文，附中文对照翻译。</p>
-      <div id="transcriptList"></div>
+      <div class="transcript-wrap">
+        <div>
+          <div class="transcript-hint">💡 点击 <span style="background:var(--hl-yellow);padding:0 4px;border-radius:2px;border-bottom:2px solid var(--hl-yellow-border)">高亮词汇</span> 查看注释 · 颜色代表难度：<span style="color:#f0a500">■</span>考研 <span style="color:#4a9eff">■</span>六级 <span style="color:#a78bfa">■</span>专四/八 <span style="color:#2ecc71">■</span>时事</div>
+          <div class="transcript-body" id="transcriptBody"></div>
+        </div>
+        <div>
+          <div class="word-panel">
+            <div class="word-panel-title">词汇索引</div>
+            <div class="word-list" id="wordList"></div>
+          </div>
+        </div>
+      </div>
     </div>
 
+    <!-- Vocab Tab -->
     <div id="vocab" class="section">
-      <div id="vocabGrid"></div>
+      <div class="vocab-grid" id="vocabGrid"></div>
     </div>
 
+    <!-- Sentences Tab -->
     <div id="sentences" class="section">
       <div id="sentenceList"></div>
     </div>
 
+    <!-- Topics Tab -->
     <div id="topics" class="section">
       <div id="topicList"></div>
     </div>
 
+    <!-- Quiz Tab -->
     <div id="quiz" class="section">
       <div class="qmeta">
-        <span id="qProgressText">第 1 题 / 共 6 题</span>
-        <div class="qbar-wrap"><div class="qbar-fill" id="qBarFill" style="width:0%"></div></div>
-        <span id="qScoreText" style="color:var(--green)"></span>
+        <span id="qProgText">第 1 题 / 共 6 题</span>
+        <div class="qbar-w"><div class="qbar-f" id="qBarF" style="width:0%"></div></div>
+        <span id="qScoreT" style="color:var(--green)"></span>
       </div>
       <div id="quizContainer"></div>
     </div>
 
   </div>
+</div>
+</div>
 
+<!-- Vocab Popup Tooltip -->
+<div class="vocab-popup" id="vocabPopup">
+  <div><span class="vp-word" id="vpWord"></span><span class="vp-ph" id="vpPh"></span></div>
+  <div class="vp-badges"><span class="vp-pos" id="vpPos"></span><span class="vp-lv" id="vpLv"></span></div>
+  <div class="vp-cn" id="vpCn"></div>
+  <div class="vp-en" id="vpEn"></div>
 </div>
 
 <script>
-const ALL_DATA = {"2026-06-05": {"date": "2026-06-05", "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-05/segment/01", "summary": "美国参议院通过700亿美元共和党移民法案，资助ICE和边境巡逻队至特朗普任期结束，但FISA重新授权法案受阻。缅因州参议员候选人Graham Platner再陷争议，《纽约时报》报道其过往暴力行为，他否认但承认曾与PTSD斗争。Kevin O'Leary因公众抗议缩减犹他州AI数据中心项目。其他新闻包括NBA总决赛、航母火灾、世界杯临近等。", "transcript_highlights": [{"speaker": "ANCHOR", "text": "The U.S. Senate took almost 20 hours voting down amendment after amendment. But just a short time ago, they voted to approve the $70 billion Republican immigration bill.", "cn": "美国参议院花了近20个小时否决了一个又一个修正案。但就在不久前，他们投票通过了700亿美元的共和党移民法案。", "note": "参议院通过重大移民法案，体现两党在边境安全上的分歧。"}, {"speaker": "ANCHOR", "text": "More unsettling allegations in the Graham Platner saga. This is just days after the Maine Senate candidate met with Senate Democrats to assure them no other shoes were going to drop.", "cn": "Graham Platner事件中出现了更多令人不安的指控。就在几天前，这位缅因州参议员候选人还与参议院民主党人会面，向他们保证不会有其他意外发生。", "note": "Platner的争议持续发酵，民主党面临是否继续支持他的困境。"}, {"speaker": "PLATNER", "text": "There are some allegations in this piece that I just want to be kind of unequivocal about are simply not true. Anything alleging physicality; anything alleging that I knew what my tattoo was.", "cn": "这篇报道中的一些指控，我想明确表示，根本不是真的。任何关于肢体暴力的指控，任何关于我知道我的纹身含义的指控。", "note": "Platner否认《纽约时报》报道中的严重指控，但承认曾自我治疗酒精问题。"}, {"speaker": "ANCHOR", "text": "Kevin O'Leary, pulling back on some of his A.I. data center project. Is that going to be enough to ease concerns in Utah?", "cn": "Kevin O'Leary正在缩减他的一些AI数据中心项目。这足以缓解犹他州的担忧吗？", "note": "公众对数据中心资源消耗的抗议导致项目调整。"}, {"speaker": "ANCHOR", "text": "And the World Cup opener less than a week away. But could the beautiful game be clouded by a climate of fear?", "cn": "世界杯开幕战不到一周了。但这项美丽的运动会被恐惧气氛笼罩吗？", "note": "提及世界杯前的安全担忧，可能涉及恐怖主义或社会动荡。"}], "vocabulary": [{"word": "amendment", "phonetic": "/əˈmendmənt/", "pos": "n.", "level": "考研", "cn": "修正案", "en": "a minor change or addition designed to improve a text, piece of legislation, etc.", "example": "The Senate voted down amendment after amendment.", "example_cn": "参议院否决了一个又一个修正案。"}, {"word": "contentious", "phonetic": "/kənˈtenʃəs/", "pos": "adj.", "level": "六级", "cn": "有争议的", "en": "causing or likely to cause an argument; controversial", "example": "Seven Senate Republicans voted to block consideration of a contentious bill.", "example_cn": "七名共和党参议员投票阻止审议一项有争议的法案。"}, {"word": "reauthorize", "phonetic": "/riːˈɔːθəraɪz/", "pos": "v.", "level": "时事词汇", "cn": "重新授权", "en": "to authorize again, especially to renew the legal authority for a program or agency", "example": "The bill would reauthorize the nation's spy powers.", "example_cn": "该法案将重新授权国家的间谍权力。"}, {"word": "allegation", "phonetic": "/ˌæləˈɡeɪʃn/", "pos": "n.", "level": "考研", "cn": "指控", "en": "a claim or assertion that someone has done something illegal or wrong, typically one made without proof", "example": "More unsettling allegations in the Graham Platner saga.", "example_cn": "Graham Platner事件中出现了更多令人不安的指控。"}, {"word": "unequivocal", "phonetic": "/ˌʌnɪˈkwɪvəkl/", "pos": "adj.", "level": "专八", "cn": "明确的", "en": "leaving no doubt; unambiguous", "example": "I just want to be kind of unequivocal about are simply not true.", "example_cn": "我想明确表示，这些根本不是真的。"}, {"word": "PTSD", "phonetic": "/ˌpiː tiː es ˈdiː/", "pos": "abbr.", "level": "时事词汇", "cn": "创伤后应激障碍", "en": "post-traumatic stress disorder, a mental health condition triggered by a terrifying event", "example": "He says he was struggling with PTSD.", "example_cn": "他说他当时正在与创伤后应激障碍作斗争。"}, {"word": "self-medicate", "phonetic": "/ˌself ˈmedɪkeɪt/", "pos": "v.", "level": "六级", "cn": "自我治疗（通常指滥用药物或酒精）", "en": "to treat oneself with medication or substances without professional supervision, often to alleviate symptoms of a condition", "example": "Self-medicating with alcohol.", "example_cn": "用酒精自我治疗。"}, {"word": "volatile", "phonetic": "/ˈvɒlətaɪl/", "pos": "adj.", "level": "考研", "cn": "不稳定的；易变的", "en": "liable to change rapidly and unpredictably, especially for the worse", "example": "Describing volatile and toxic relationships.", "example_cn": "描述不稳定且有害的关系。"}, {"word": "toxic", "phonetic": "/ˈtɒksɪk/", "pos": "adj.", "level": "六级", "cn": "有毒的；有害的", "en": "very harmful or unpleasant in a pervasive or insidious way", "example": "Volatile and toxic relationships.", "example_cn": "不稳定且有害的关系。"}, {"word": "saga", "phonetic": "/ˈsɑːɡə/", "pos": "n.", "level": "专四", "cn": "长篇故事；一连串事件", "en": "a long story of heroic achievement, especially a medieval prose narrative in Old Norse or Old Icelandic; a long, involved story or series of events", "example": "More unsettling allegations in the Graham Platner saga.", "example_cn": "Graham Platner事件中出现了更多令人不安的指控。"}, {"word": "tip off", "phonetic": "/tɪp ɒf/", "pos": "phr. v.", "level": "六级", "cn": "开球；开始", "en": "to start a game, especially basketball, with a jump ball; to give a warning or secret information", "example": "Game two of the NBA finals set to tip off in San Antonio tonight.", "example_cn": "NBA总决赛第二场今晚将在圣安东尼奥开球。"}, {"word": "charred", "phonetic": "/tʃɑːrd/", "pos": "adj.", "level": "六级", "cn": "烧焦的", "en": "burned and blackened", "example": "The charred interior of a U.S. aircraft carrier after a fast-moving fire on board.", "example_cn": "美国航母快速火灾后烧焦的内部。"}], "sentences": [{"en": "The U.S. Senate took almost 20 hours voting down amendment after amendment.", "cn": "美国参议院花了近20个小时否决了一个又一个修正案。", "structure": "主语 (The U.S. Senate) + 谓语 (took) + 宾语 (almost 20 hours) + 现在分词短语 (voting down amendment after amendment) 作状语", "analysis": "现在分词短语表示伴随动作，'amendment after amendment' 强调连续否决多个修正案。"}, {"en": "This is just days after the Maine Senate candidate met with Senate Democrats to assure them no other shoes were going to drop.", "cn": "就在几天前，这位缅因州参议员候选人还与参议院民主党人会面，向他们保证不会有其他意外发生。", "structure": "主句 (This is just days) + 时间状语从句 (after the Maine Senate candidate met with Senate Democrats to assure them no other shoes were going to drop)", "analysis": "'no other shoes were going to drop' 是习语，意为'没有其他坏消息会爆出'。"}, {"en": "There are some allegations in this piece that I just want to be kind of unequivocal about are simply not true.", "cn": "这篇报道中的一些指控，我想明确表示，根本不是真的。", "structure": "There be 句型 + 定语从句 (that I just want to be kind of unequivocal about) 修饰 allegations，主句谓语为 are", "analysis": "口语化表达，'kind of' 缓和语气，'unequivocal' 强调明确性。"}, {"en": "Seven Senate Republicans voted to block consideration of a contentious bill that would reauthorize the nation's spy powers.", "cn": "七名共和党参议员投票阻止审议一项有争议的法案，该法案将重新授权国家的间谍权力。", "structure": "主语 (Seven Senate Republicans) + 谓语 (voted) + 不定式短语 (to block consideration of a contentious bill) + 定语从句 (that would reauthorize the nation's spy powers) 修饰 bill", "analysis": "不定式短语表示目的，定语从句说明法案内容。"}, {"en": "Kevin O'Leary, pulling back on some of his A.I. data center project, is that going to be enough to ease concerns in Utah?", "cn": "Kevin O'Leary正在缩减他的一些AI数据中心项目，这足以缓解犹他州的担忧吗？", "structure": "主语 (Kevin O'Leary) + 现在分词短语 (pulling back on some of his A.I. data center project) 作伴随状语，主句为一般疑问句 (is that going to be enough to ease concerns in Utah?)", "analysis": "现在分词短语表示正在进行的动作，主句中的'that'指代前文提到的缩减行为。"}], "topics": [{"title": "美国参议院移民法案与FISA之争", "content": "2026年6月5日，美国参议院以20小时辩论后通过700亿美元共和党移民法案，旨在资助ICE和边境巡逻队至特朗普任期结束。但随后FISA（外国情报监视法）重新授权法案受阻，七名共和党参议员反对审议，该法将于一周后到期。这反映共和党内部在国家安全议题上的分歧，以及两党在移民和监控政策上的持续博弈。", "keywords": "移民法案 · FISA · 参议院 · 共和党 · 边境安全"}, {"title": "Graham Platner争议与民主党困境", "content": "缅因州参议员候选人Graham Platner（民主党）再陷争议，《纽约时报》报道其过往暴力行为，包括扭伤女性手臂等。Platner否认肢体暴力指控，但承认曾因PTSD酗酒。此前他刚向民主党高层保证无更多丑闻。民主党面临是否支持他的抉择，州长Janet Mills仍保留参选资格。此事件凸显政治候选人的背景审查与选民宽容度问题。", "keywords": "Graham Platner · 民主党 · 缅因州 · 性侵指控 · PTSD"}, {"title": "AI数据中心与公众抗议", "content": "Kevin O'Leary因公众抗议缩减犹他州AI数据中心项目。抗议者担忧数据中心消耗大量水资源和电力，影响当地环境。此事件反映AI产业扩张与社区资源保护之间的矛盾，类似争议在弗吉尼亚等地也曾出现。数据中心作为AI基础设施，其可持续性成为社会关注焦点。", "keywords": "AI数据中心 · 公众抗议 · 资源消耗 · 犹他州 · Kevin O'Leary"}, {"title": "世界杯前的安全担忧", "content": "2026年世界杯开幕在即，但报道提及'恐惧气氛'可能影响赛事。这可能指恐怖主义威胁、社会动荡或公共卫生问题。世界杯作为全球盛事，安全一直是主办方首要考虑。此前多届赛事曾面临类似挑战，如2014年巴西世界杯的抗议活动。", "keywords": "世界杯 · 安全 · 恐惧 · 恐怖主义 · 2026"}], "quiz": [{"type": "vocab", "question": "单词 'contentious' 最接近的含义是？", "options": ["A. 满意的", "B. 有争议的", "C. 连续的", "D. 满足的"], "answer": 1, "explanation": "contentious 意为'有争议的'，与 controversial 同义。"}, {"type": "vocab", "question": "短语 'no other shoes were going to drop' 在文中的意思是？", "options": ["A. 没有其他鞋子会掉下来", "B. 没有其他坏消息会爆出", "C. 没有其他鞋子会出售", "D. 没有其他事情会发生"], "answer": 1, "explanation": "习语 'the other shoe drops' 指坏消息或意料中的事件发生，此处意为没有其他丑闻。"}, {"type": "vocab", "question": "单词 'unequivocal' 的反义词是？", "options": ["A. 明确的", "B. 模糊的", "C. 平等的", "D. 独特的"], "answer": 1, "explanation": "unequivocal 意为'明确的'，反义词为 ambiguous（模糊的）。"}, {"type": "comprehension", "question": "参议院通过的移民法案主要目的是什么？", "options": ["A. 削减ICE预算", "B. 资助ICE和边境巡逻队至特朗普任期结束", "C. 废除FISA", "D. 增加移民配额"], "answer": 1, "explanation": "法案提供700亿美元资助ICE和边境巡逻队至特朗普任期结束。"}, {"type": "comprehension", "question": "关于Graham Platner，以下哪项陈述是正确的？", "options": ["A. 他承认所有指控", "B. 他否认肢体暴力指控但承认曾酗酒", "C. 他已退出竞选", "D. 民主党已放弃支持他"], "answer": 1, "explanation": "Platner否认肢体暴力指控，但承认曾因PTSD酗酒。"}, {"type": "comprehension", "question": "Kevin O'Leary缩减数据中心项目的原因是什么？", "options": ["A. 资金不足", "B. 公众抗议", "C. 技术问题", "D. 政府禁令"], "answer": 1, "explanation": "报道指出公众抗议导致项目缩减，担忧资源消耗。"}]}};
+const ALL_DATA = {"2026-06-05":{"date":"2026-06-05","source_url":"https://transcripts.cnn.com/show/ctmo/date/2026-06-05/segment/01","summary":"美国参议院通过700亿美元共和党移民法案，资助ICE和边境巡逻队至特朗普任期结束，但FISA重新授权法案受阻。缅因州参议员候选人Graham Platner再陷争议，《纽约时报》报道其过往暴力行为，他否认但承认曾与PTSD斗争。Kevin O'Leary因公众抗议缩减犹他州AI数据中心项目。其他新闻包括NBA总决赛、航母火灾、世界杯临近等。","transcript_highlights":[{"speaker":"ANCHOR","text":"The U.S. Senate took almost 20 hours voting down amendment after amendment. But just a short time ago, they voted to approve the $70 billion Republican immigration bill.","cn":"美国参议院花了近20个小时否决了一个又一个修正案。但就在不久前，他们投票通过了700亿美元的共和党移民法案。","note":"参议院通过重大移民法案，体现两党在边境安全上的分歧。"},{"speaker":"ANCHOR","text":"More unsettling allegations in the Graham Platner saga. This is just days after the Maine Senate candidate met with Senate Democrats to assure them no other shoes were going to drop.","cn":"Graham Platner事件中出现了更多令人不安的指控。就在几天前，这位缅因州参议员候选人还与参议院民主党人会面，向他们保证不会有其他意外发生。","note":"Platner的争议持续发酵，民主党面临是否继续支持他的困境。"},{"speaker":"PLATNER","text":"There are some allegations in this piece that I just want to be kind of unequivocal about are simply not true. Anything alleging physicality; anything alleging that I knew what my tattoo was.","cn":"这篇报道中的一些指控，我想明确表示，根本不是真的。任何关于肢体暴力的指控，任何关于我知道我的纹身含义的指控。","note":"Platner否认《纽约时报》报道中的严重指控，但承认曾自我治疗酒精问题。"},{"speaker":"ANCHOR","text":"Kevin O'Leary, pulling back on some of his A.I. data center project. Is that going to be enough to ease concerns in Utah?","cn":"Kevin O'Leary正在缩减他的一些AI数据中心项目。这足以缓解犹他州的担忧吗？","note":"公众对数据中心资源消耗的抗议导致项目调整。"},{"speaker":"ANCHOR","text":"And the World Cup opener less than a week away. But could the beautiful game be clouded by a climate of fear?","cn":"世界杯开幕战不到一周了。但这项美丽的运动会被恐惧气氛笼罩吗？","note":"提及世界杯前的安全担忧，可能涉及恐怖主义或社会动荡。"}],"vocabulary":[{"word":"amendment","phonetic":"/əˈmendmənt/","pos":"n.","level":"考研","cn":"修正案","en":"a minor change or addition designed to improve a text, piece of legislation, etc.","example":"The Senate voted down amendment after amendment.","example_cn":"参议院否决了一个又一个修正案。"},{"word":"contentious","phonetic":"/kənˈtenʃəs/","pos":"adj.","level":"六级","cn":"有争议的","en":"causing or likely to cause an argument; controversial","example":"Seven Senate Republicans voted to block consideration of a contentious bill.","example_cn":"七名共和党参议员投票阻止审议一项有争议的法案。"},{"word":"reauthorize","phonetic":"/riːˈɔːθəraɪz/","pos":"v.","level":"时事词汇","cn":"重新授权","en":"to authorize again, especially to renew the legal authority for a program or agency","example":"The bill would reauthorize the nation's spy powers.","example_cn":"该法案将重新授权国家的间谍权力。"},{"word":"allegation","phonetic":"/ˌæləˈɡeɪʃn/","pos":"n.","level":"考研","cn":"指控","en":"a claim or assertion that someone has done something illegal or wrong, typically one made without proof","example":"More unsettling allegations in the Graham Platner saga.","example_cn":"Graham Platner事件中出现了更多令人不安的指控。"},{"word":"unequivocal","phonetic":"/ˌʌnɪˈkwɪvəkl/","pos":"adj.","level":"专八","cn":"明确的","en":"leaving no doubt; unambiguous","example":"I just want to be kind of unequivocal about are simply not true.","example_cn":"我想明确表示，这些根本不是真的。"},{"word":"PTSD","phonetic":"/ˌpiː tiː es ˈdiː/","pos":"abbr.","level":"时事词汇","cn":"创伤后应激障碍","en":"post-traumatic stress disorder, a mental health condition triggered by a terrifying event","example":"He says he was struggling with PTSD.","example_cn":"他说他当时正在与创伤后应激障碍作斗争。"},{"word":"self-medicate","phonetic":"/ˌself ˈmedɪkeɪt/","pos":"v.","level":"六级","cn":"自我治疗（通常指滥用药物或酒精）","en":"to treat oneself with medication or substances without professional supervision, often to alleviate symptoms of a condition","example":"Self-medicating with alcohol.","example_cn":"用酒精自我治疗。"},{"word":"volatile","phonetic":"/ˈvɒlətaɪl/","pos":"adj.","level":"考研","cn":"不稳定的；易变的","en":"liable to change rapidly and unpredictably, especially for the worse","example":"Describing volatile and toxic relationships.","example_cn":"描述不稳定且有害的关系。"},{"word":"toxic","phonetic":"/ˈtɒksɪk/","pos":"adj.","level":"六级","cn":"有毒的；有害的","en":"very harmful or unpleasant in a pervasive or insidious way","example":"Volatile and toxic relationships.","example_cn":"不稳定且有害的关系。"},{"word":"saga","phonetic":"/ˈsɑːɡə/","pos":"n.","level":"专四","cn":"长篇故事；一连串事件","en":"a long story of heroic achievement, especially a medieval prose narrative in Old Norse or Old Icelandic; a long, involved story or series of events","example":"More unsettling allegations in the Graham Platner saga.","example_cn":"Graham Platner事件中出现了更多令人不安的指控。"},{"word":"tip off","phonetic":"/tɪp ɒf/","pos":"phr. v.","level":"六级","cn":"开球；开始","en":"to start a game, especially basketball, with a jump ball; to give a warning or secret information","example":"Game two of the NBA finals set to tip off in San Antonio tonight.","example_cn":"NBA总决赛第二场今晚将在圣安东尼奥开球。"},{"word":"charred","phonetic":"/tʃɑːrd/","pos":"adj.","level":"六级","cn":"烧焦的","en":"burned and blackened","example":"The charred interior of a U.S. aircraft carrier after a fast-moving fire on board.","example_cn":"美国航母快速火灾后烧焦的内部。"}],"sentences":[{"en":"The U.S. Senate took almost 20 hours voting down amendment after amendment.","cn":"美国参议院花了近20个小时否决了一个又一个修正案。","structure":"主语 (The U.S. Senate) + 谓语 (took) + 宾语 (almost 20 hours) + 现在分词短语 (voting down amendment after amendment) 作状语","analysis":"现在分词短语表示伴随动作，'amendment after amendment' 强调连续否决多个修正案。"},{"en":"This is just days after the Maine Senate candidate met with Senate Democrats to assure them no other shoes were going to drop.","cn":"就在几天前，这位缅因州参议员候选人还与参议院民主党人会面，向他们保证不会有其他意外发生。","structure":"主句 (This is just days) + 时间状语从句 (after the Maine Senate candidate met with Senate Democrats to assure them no other shoes were going to drop)","analysis":"'no other shoes were going to drop' 是习语，意为'没有其他坏消息会爆出'。"},{"en":"There are some allegations in this piece that I just want to be kind of unequivocal about are simply not true.","cn":"这篇报道中的一些指控，我想明确表示，根本不是真的。","structure":"There be 句型 + 定语从句 (that I just want to be kind of unequivocal about) 修饰 allegations，主句谓语为 are","analysis":"口语化表达，'kind of' 缓和语气，'unequivocal' 强调明确性。"},{"en":"Seven Senate Republicans voted to block consideration of a contentious bill that would reauthorize the nation's spy powers.","cn":"七名共和党参议员投票阻止审议一项有争议的法案，该法案将重新授权国家的间谍权力。","structure":"主语 (Seven Senate Republicans) + 谓语 (voted) + 不定式短语 (to block consideration of a contentious bill) + 定语从句 (that would reauthorize the nation's spy powers) 修饰 bill","analysis":"不定式短语表示目的，定语从句说明法案内容。"},{"en":"Kevin O'Leary, pulling back on some of his A.I. data center project, is that going to be enough to ease concerns in Utah?","cn":"Kevin O'Leary正在缩减他的一些AI数据中心项目，这足以缓解犹他州的担忧吗？","structure":"主语 (Kevin O'Leary) + 现在分词短语 (pulling back on some of his A.I. data center project) 作伴随状语，主句为一般疑问句 (is that going to be enough to ease concerns in Utah?)","analysis":"现在分词短语表示正在进行的动作，主句中的'that'指代前文提到的缩减行为。"}],"topics":[{"title":"美国参议院移民法案与FISA之争","content":"2026年6月5日，美国参议院以20小时辩论后通过700亿美元共和党移民法案，旨在资助ICE和边境巡逻队至特朗普任期结束。但随后FISA（外国情报监视法）重新授权法案受阻，七名共和党参议员反对审议，该法将于一周后到期。这反映共和党内部在国家安全议题上的分歧，以及两党在移民和监控政策上的持续博弈。","keywords":"移民法案 · FISA · 参议院 · 共和党 · 边境安全"},{"title":"Graham Platner争议与民主党困境","content":"缅因州参议员候选人Graham Platner（民主党）再陷争议，《纽约时报》报道其过往暴力行为，包括扭伤女性手臂等。Platner否认肢体暴力指控，但承认曾因PTSD酗酒。此前他刚向民主党高层保证无更多丑闻。民主党面临是否支持他的抉择，州长Janet Mills仍保留参选资格。此事件凸显政治候选人的背景审查与选民宽容度问题。","keywords":"Graham Platner · 民主党 · 缅因州 · 性侵指控 · PTSD"},{"title":"AI数据中心与公众抗议","content":"Kevin O'Leary因公众抗议缩减犹他州AI数据中心项目。抗议者担忧数据中心消耗大量水资源和电力，影响当地环境。此事件反映AI产业扩张与社区资源保护之间的矛盾，类似争议在弗吉尼亚等地也曾出现。数据中心作为AI基础设施，其可持续性成为社会关注焦点。","keywords":"AI数据中心 · 公众抗议 · 资源消耗 · 犹他州 · Kevin O'Leary"},{"title":"世界杯前的安全担忧","content":"2026年世界杯开幕在即，但报道提及'恐惧气氛'可能影响赛事。这可能指恐怖主义威胁、社会动荡或公共卫生问题。世界杯作为全球盛事，安全一直是主办方首要考虑。此前多届赛事曾面临类似挑战，如2014年巴西世界杯的抗议活动。","keywords":"世界杯 · 安全 · 恐惧 · 恐怖主义 · 2026"}],"quiz":[{"type":"vocab","question":"单词 'contentious' 最接近的含义是？","options":["A. 满意的","B. 有争议的","C. 连续的","D. 满足的"],"answer":1,"explanation":"contentious 意为'有争议的'，与 controversial 同义。"},{"type":"vocab","question":"短语 'no other shoes were going to drop' 在文中的意思是？","options":["A. 没有其他鞋子会掉下来","B. 没有其他坏消息会爆出","C. 没有其他鞋子会出售","D. 没有其他事情会发生"],"answer":1,"explanation":"习语 'the other shoe drops' 指坏消息或意料中的事件发生，此处意为没有其他丑闻。"},{"type":"vocab","question":"单词 'unequivocal' 的反义词是？","options":["A. 明确的","B. 模糊的","C. 平等的","D. 独特的"],"answer":1,"explanation":"unequivocal 意为'明确的'，反义词为 ambiguous（模糊的）。"},{"type":"comprehension","question":"参议院通过的移民法案主要目的是什么？","options":["A. 削减ICE预算","B. 资助ICE和边境巡逻队至特朗普任期结束","C. 废除FISA","D. 增加移民配额"],"answer":1,"explanation":"法案提供700亿美元资助ICE和边境巡逻队至特朗普任期结束。"},{"type":"comprehension","question":"关于Graham Platner，以下哪项陈述是正确的？","options":["A. 他承认所有指控","B. 他否认肢体暴力指控但承认曾酗酒","C. 他已退出竞选","D. 民主党已放弃支持他"],"answer":1,"explanation":"Platner否认肢体暴力指控，但承认曾因PTSD酗酒。"},{"type":"comprehension","question":"Kevin O'Leary缩减数据中心项目的原因是什么？","options":["A. 资金不足","B. 公众抗议","C. 技术问题","D. 政府禁令"],"answer":1,"explanation":"报道指出公众抗议导致项目缩减，担忧资源消耗。"}]}};
 
-// ── State ────────────────────────────────────────────────
+// ── State ──────────────────────────────────────────
 let currentData = null;
-let qState = { cur: 0, score: 0, answered: false, qs: [] };
+let qState = { cur:0, score:0, answered:false, qs:[] };
 const COLORS = ['#4a9eff','#e05a3a','#1abc9c','#f0a500'];
+const LV_COLORS = {'考研':'#f0a500','六级':'#4a9eff','专四':'#a78bfa','专八':'#a78bfa','时事词汇':'#2ecc71'};
 
-// ── Init ─────────────────────────────────────────────────
-(function init() {
-  const latestDate = '2026-06-05';
-  if (ALL_DATA[latestDate]) {
-    renderAll(ALL_DATA[latestDate]);
-    document.querySelector(`.hist-btn[data-date="${latestDate}"]`)?.classList.add('active');
-  }
+// ── Init ───────────────────────────────────────────
+(function init(){
+  const latest = '2026-06-05';
+  if(ALL_DATA[latest]) loadDate(latest);
+  // highlight active hist item
+  document.querySelector(`[data-date="${latest}"]`)?.classList.add('active');
 })();
 
-// ── Load Date ────────────────────────────────────────────
-function loadDate(date) {
-  if (!ALL_DATA[date]) return;
-  document.querySelectorAll('.hist-btn').forEach(b =>
-    b.classList.toggle('active', b.dataset.date === date));
+function openSource(){
+  if(currentData?.source_url) window.open(currentData.source_url,'_blank');
+}
+
+// ── Load Date ──────────────────────────────────────
+function loadDate(date){
+  if(!ALL_DATA[date]) return;
+  document.querySelectorAll('.hist-item').forEach(b=>
+    b.classList.toggle('active', b.dataset.date===date));
   renderAll(ALL_DATA[date]);
 }
 
-// ── Render All ───────────────────────────────────────────
-function renderAll(data) {
+// ── Render All ─────────────────────────────────────
+function renderAll(data){
   currentData = data;
-  document.getElementById('summaryText').textContent = data.summary || '';
-  document.getElementById('metaDate').textContent = '📅 ' + (data.date || '');
-  const link = document.getElementById('metaUrl');
-  link.href = data.source_url || '#';
+  document.getElementById('summaryText').textContent = data.summary||'';
+  document.getElementById('topbarDate').textContent = data.date||'';
+  document.getElementById('topbarTitle').textContent =
+    'CNN This Morning · ' + (data.date||'');
 
-  renderTranscript(data.transcript_highlights || []);
-  renderVocab(data.vocabulary || []);
-  renderSentences(data.sentences || []);
-  renderTopics(data.topics || []);
-  initQuiz(data.quiz || []);
+  renderTranscript(data.paragraphs||[], data.vocabulary||[]);
+  renderWordList(data.vocabulary||[]);
+  renderVocab(data.vocabulary||[]);
+  renderSentences(data.sentences||[]);
+  renderTopics(data.topics||[]);
+  initQuiz(data.quiz||[]);
   switchTab('transcript');
 }
 
-// ── Transcript ───────────────────────────────────────────
-function renderTranscript(list) {
-  document.getElementById('transcriptList').innerHTML = list.map(t => `
-    <div class="trans-card">
-      <div class="trans-speaker">${esc(t.speaker || 'ANCHOR')}</div>
-      <div class="trans-en">${esc(t.text)}</div>
-      <div class="trans-cn">${esc(t.cn)}</div>
-      ${t.note ? `<div class="trans-note">💡 ${esc(t.note)}</div>` : ''}
-    </div>`).join('') || '<div style="color:var(--text2);font-size:14px">暂无逐字稿内容</div>';
+// ── Transcript with Highlights ─────────────────────
+function renderTranscript(paragraphs, vocab){
+  const body = document.getElementById('transcriptBody');
+  if(!paragraphs.length){
+    body.innerHTML = '<div style="color:var(--text2)">暂无全文稿数据，请重新运行 Actions 生成。</div>';
+    return;
+  }
+
+  // Build word→vocab map (longest match first)
+  const vocabMap = {};
+  vocab.forEach(v=>{ vocabMap[v.word.toLowerCase()] = v; });
+  const sortedWords = Object.keys(vocabMap).sort((a,b)=>b.length-a.length);
+
+  body.innerHTML = paragraphs.map((p,pi)=>{
+    const tag = `<span class="speaker-tag">${esc(p.speaker||'ANCHOR')}</span>`;
+    const highlighted = highlightWords(p.text, sortedWords, vocabMap);
+    return `<div class="para">${tag}${highlighted}</div>`;
+  }).join('');
 }
 
-// ── Vocab ────────────────────────────────────────────────
-function renderVocab(list) {
-  document.getElementById('vocabGrid').innerHTML = list.map(v => `
+function highlightWords(text, sortedWords, vocabMap){
+  // Mark positions to highlight
+  let result = esc(text);
+  // Work on original text to find positions, then rebuild
+  const positions = []; // {start, end, word, vocab}
+
+  const lc = text.toLowerCase();
+  sortedWords.forEach(word=>{
+    // Find all occurrences
+    let idx = 0;
+    while((idx = lc.indexOf(word, idx)) !== -1){
+      // Check it's a word boundary (simple check)
+      const before = idx === 0 || !/[a-z]/i.test(text[idx-1]);
+      const after  = idx+word.length >= text.length || !/[a-z]/i.test(text[idx+word.length]);
+      if(before && after){
+        // Check not already covered
+        const overlaps = positions.some(p=> idx < p.end && idx+word.length > p.start);
+        if(!overlaps){
+          positions.push({start:idx, end:idx+word.length, word, vocab:vocabMap[word]});
+        }
+      }
+      idx += word.length;
+    }
+  });
+
+  if(!positions.length) return esc(text);
+
+  // Sort by start position
+  positions.sort((a,b)=>a.start-b.start);
+
+  // Build HTML
+  let html = '';
+  let last = 0;
+  positions.forEach(p=>{
+    html += esc(text.slice(last, p.start));
+    const lv = p.vocab.level||'';
+    const lvClass = `level-${lv.replace(/[\/\s]/g,'')}`;
+    const vidx = encodeURIComponent(p.vocab.word);
+    html += `<span class="hl ${lvClass}" data-word="${esc(p.vocab.word)}" onclick="showVocabPopup(event,'${esc(p.vocab.word)}')">${esc(text.slice(p.start,p.end))}</span>`;
+    last = p.end;
+  });
+  html += esc(text.slice(last));
+  return html;
+}
+
+// ── Vocab Popup ────────────────────────────────────
+let popupTimeout = null;
+function showVocabPopup(e, word){
+  e.stopPropagation();
+  const data = currentData?.vocabulary?.find(v=>v.word===word);
+  if(!data) return;
+
+  // Highlight all instances of this word
+  document.querySelectorAll('.hl').forEach(el=>{
+    el.classList.toggle('active', el.dataset.word===word);
+  });
+  // Highlight word chip
+  document.querySelectorAll('.word-chip').forEach(el=>{
+    el.classList.toggle('active', el.dataset.word===word);
+  });
+
+  document.getElementById('vpWord').textContent = data.word;
+  document.getElementById('vpPh').textContent   = data.phonetic||'';
+  document.getElementById('vpPos').textContent  = data.pos||'';
+  document.getElementById('vpLv').textContent   = data.level||'';
+  document.getElementById('vpCn').textContent   = data.cn||'';
+  document.getElementById('vpEn').textContent   = data.en||'';
+
+  const popup = document.getElementById('vocabPopup');
+  popup.classList.add('show');
+  popup.style.pointerEvents = 'auto';
+
+  // Position popup near click
+  const vw = window.innerWidth, vh = window.innerHeight;
+  let x = e.clientX + 12, y = e.clientY + 12;
+  if(x + 300 > vw) x = e.clientX - 312;
+  if(y + 160 > vh) y = e.clientY - 160;
+  popup.style.left = x + 'px';
+  popup.style.top  = y + 'px';
+}
+
+document.addEventListener('click', e=>{
+  if(!e.target.classList.contains('hl') && !e.target.closest('.vocab-popup') && !e.target.closest('.word-chip')){
+    document.getElementById('vocabPopup').classList.remove('show');
+    document.querySelectorAll('.hl.active').forEach(el=>el.classList.remove('active'));
+    document.querySelectorAll('.word-chip.active').forEach(el=>el.classList.remove('active'));
+  }
+});
+
+// ── Word List (right panel) ────────────────────────
+function renderWordList(vocab){
+  document.getElementById('wordList').innerHTML = vocab.map(v=>`
+    <div class="word-chip" data-word="${esc(v.word)}" onclick="jumpToWord('${esc(v.word)}')">
+      <span class="wc-lv" style="background:${LV_COLORS[v.level]||'#4a9eff'}"></span>
+      <span class="wc-word">${esc(v.word)}</span>
+      <span class="wc-cn">${esc(v.cn||'')}</span>
+    </div>`).join('');
+}
+
+function jumpToWord(word){
+  // Switch to transcript tab
+  switchTab('transcript');
+  // Find first highlight
+  setTimeout(()=>{
+    const el = document.querySelector(`.hl[data-word="${word}"]`);
+    if(el){
+      el.scrollIntoView({behavior:'smooth', block:'center'});
+      // Simulate click to show popup
+      el.click();
+    }
+  }, 50);
+}
+
+// ── Vocab Cards ────────────────────────────────────
+function renderVocab(list){
+  document.getElementById('vocabGrid').innerHTML = list.map(v=>`
     <div class="vcard">
       <div class="vhead">
         <span class="vword">${esc(v.word)}</span>
-        <span class="vph">${esc(v.phonetic || '')}</span>
-        <span class="badge bpos">${esc(v.pos || '')}</span>
-        <span class="badge blv">${esc(v.level || '')}</span>
+        <span class="vph">${esc(v.phonetic||'')}</span>
+        <span class="bpos">${esc(v.pos||'')}</span>
+        <span class="blv">${esc(v.level||'')}</span>
       </div>
       <div class="vcn">${esc(v.cn)}</div>
-      <div class="ven">${esc(v.en)}</div>
+      <div class="ven">${esc(v.en||'')}</div>
       <div class="veg">
-        ${hl(v.example || '', v.word)}
-        <div class="vegcn">${esc(v.example_cn || '')}</div>
+        ${hlWord(v.excerpt||v.example||'', v.word)}
+        <div class="vegcn">${esc(v.example_cn||'')}</div>
       </div>
     </div>`).join('');
 }
 
-function hl(text, word) {
-  if (!word) return esc(text);
+function hlWord(text, word){
+  if(!word||!text) return esc(text);
   const re = new RegExp(`(${word.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')})`, 'gi');
-  return esc(text).replace(re, '<em>$1</em>');
+  return esc(text).replace(re,'<em>$1</em>');
 }
 
-// ── Sentences ────────────────────────────────────────────
-function renderSentences(list) {
-  document.getElementById('sentenceList').innerHTML = list.map((s, i) => `
+// ── Sentences ──────────────────────────────────────
+function renderSentences(list){
+  document.getElementById('sentenceList').innerHTML = list.map((s,i)=>`
     <div class="scard">
-      <div class="sen-num">${i + 1}</div>
+      <div class="snum">${i+1}</div>
       <div class="sen-en">${esc(s.en)}</div>
       <div class="sen-cn">${esc(s.cn)}</div>
       <div class="divider"></div>
       <div class="alabel">句子结构</div>
-      <div class="abody" style="margin-bottom:8px">${esc(s.structure || '')}</div>
+      <div class="abody">${esc(s.structure||'')}</div>
       <div class="alabel">语法分析</div>
-      <div class="abody">${esc(s.analysis || '')}</div>
+      <div class="abody">${esc(s.analysis||'')}</div>
     </div>`).join('');
 }
 
-// ── Topics ───────────────────────────────────────────────
-function renderTopics(list) {
-  document.getElementById('topicList').innerHTML = list.map((t, i) => `
+// ── Topics ─────────────────────────────────────────
+function renderTopics(list){
+  document.getElementById('topicList').innerHTML = list.map((t,i)=>`
     <div class="tcard">
       <div class="ttitle">
-        <span class="tdot" style="background:${COLORS[i % COLORS.length]}"></span>
+        <span class="tdot" style="background:${COLORS[i%COLORS.length]}"></span>
         ${esc(t.title)}
       </div>
       <div class="tcontent">${esc(t.content)}</div>
-      <div class="tkw">🔑 ${esc(t.keywords || '')}</div>
+      <div class="tkw">🔑 ${esc(t.keywords||'')}</div>
     </div>`).join('');
 }
 
-// ── Quiz ─────────────────────────────────────────────────
-function initQuiz(qs) {
-  qState = { cur: 0, score: 0, answered: false, qs };
-  renderQ();
-}
-
-function renderQ() {
-  const { cur, qs, score } = qState;
-  if (!qs.length) return;
-
-  if (cur >= qs.length) {
-    const pct = Math.round(score / qs.length * 100);
-    const stars = pct >= 80 ? '⭐⭐⭐' : pct >= 60 ? '⭐⭐' : '⭐';
-    document.getElementById('quizContainer').innerHTML = `
+// ── Quiz ───────────────────────────────────────────
+function initQuiz(qs){ qState={cur:0,score:0,answered:false,qs}; renderQ(); }
+function renderQ(){
+  const {cur,qs,score}=qState;
+  if(!qs.length) return;
+  if(cur>=qs.length){
+    const pct=Math.round(score/qs.length*100);
+    document.getElementById('quizContainer').innerHTML=`
       <div class="qcard score-panel">
         <div class="score-num">${score}<span style="font-size:28px;color:var(--text2)">/${qs.length}</span></div>
-        <div class="score-stars">${stars}</div>
+        <div class="score-stars">${pct>=80?'⭐⭐⭐':pct>=60?'⭐⭐':'⭐'}</div>
         <div class="score-sub">答对 ${score} 题（${pct}%）</div>
         <button class="btn-restart" onclick="initQuiz(currentData.quiz)">重新测验</button>
       </div>`;
-    document.getElementById('qProgressText').textContent = '测验完成';
-    document.getElementById('qBarFill').style.width = '100%';
+    document.getElementById('qProgText').textContent='测验完成';
+    document.getElementById('qBarF').style.width='100%';
     return;
   }
-
-  const q = qs[cur];
-  const pct = (cur / qs.length * 100).toFixed(0);
-  document.getElementById('qProgressText').textContent = `第 ${cur+1} 题 / 共 ${qs.length} 题`;
-  document.getElementById('qBarFill').style.width = pct + '%';
-  document.getElementById('qScoreText').textContent = score > 0 ? `✓ ${score}` : '';
-  qState.answered = false;
-
-  document.getElementById('quizContainer').innerHTML = `
+  const q=qs[cur];
+  document.getElementById('qProgText').textContent=`第 ${cur+1} 题 / 共 ${qs.length} 题`;
+  document.getElementById('qBarF').style.width=(cur/qs.length*100)+'%';
+  document.getElementById('qScoreT').textContent=score>0?`✓ ${score}`:'';
+  qState.answered=false;
+  document.getElementById('quizContainer').innerHTML=`
     <div class="qcard">
-      <div class="qbadge ${q.type === 'vocab' ? 'vocab' : 'sentence'}">${q.type === 'vocab' ? '词汇题' : '理解题'}</div>
+      <div class="qbadge ${q.type==='vocab'?'vocab':'sentence'}">${q.type==='vocab'?'词汇题':'理解题'}</div>
       <div class="qqtext">${esc(q.question)}</div>
-      <div class="qopts">
-        ${(q.options || []).map((opt, i) => `
-          <div class="qopt" id="opt${i}" onclick="pick(${i})">${esc(opt)}</div>`).join('')}
+      <div class="qopts">${(q.options||[]).map((o,i)=>`
+        <div class="qopt" id="opt${i}" onclick="pick(${i})">${esc(o)}</div>`).join('')}
       </div>
       <div class="qexp" id="qexp"></div>
-      <button class="qnext" id="qnext" onclick="nextQ()">
-        ${cur < qs.length - 1 ? '下一题 →' : '查看结果'}
-      </button>
+      <button class="qnext" id="qnext" onclick="nextQ()">${cur<qs.length-1?'下一题 →':'查看结果'}</button>
     </div>`;
 }
-
-function pick(i) {
-  if (qState.answered) return;
-  qState.answered = true;
-  const q = qState.qs[qState.cur];
-  const ans = q.answer ?? 0;
-  document.querySelectorAll('.qopt').forEach((el, j) => {
+function pick(i){
+  if(qState.answered) return;
+  qState.answered=true;
+  const q=qState.qs[qState.cur], ans=q.answer??0;
+  document.querySelectorAll('.qopt').forEach((el,j)=>{
     el.classList.add('disabled');
-    if (j === ans) el.classList.add('correct');
-    else if (j === i) el.classList.add('wrong');
+    if(j===ans) el.classList.add('correct');
+    else if(j===i) el.classList.add('wrong');
   });
-  if (i === ans) qState.score++;
-  const exp = document.getElementById('qexp');
-  exp.textContent = '解析：' + (q.explanation || '');
+  if(i===ans) qState.score++;
+  const exp=document.getElementById('qexp');
+  exp.textContent='解析：'+(q.explanation||'');
   exp.classList.add('show');
   document.getElementById('qnext').classList.add('show');
 }
+function nextQ(){ qState.cur++; renderQ(); }
 
-function nextQ() { qState.cur++; renderQ(); }
-
-// ── Tabs ─────────────────────────────────────────────────
-function switchTab(id) {
-  ['transcript','vocab','sentences','topics','quiz'].forEach((t, i) => {
-    document.querySelectorAll('.tab')[i].classList.toggle('active', t === id);
-    document.getElementById(t).classList.toggle('active', t === id);
+// ── Tab Switch ─────────────────────────────────────
+function switchTab(id){
+  ['transcript','vocab','sentences','topics','quiz'].forEach((t,i)=>{
+    document.querySelectorAll('.tab')[i].classList.toggle('active',t===id);
+    document.getElementById(t).classList.toggle('active',t===id);
   });
 }
 
-// ── Util ─────────────────────────────────────────────────
-function esc(s) {
-  return String(s || '')
-    .replace(/&/g,'&amp;').replace(/</g,'&lt;')
-    .replace(/>/g,'&gt;').replace(/\n/g,'<br>');
+// ── Util ───────────────────────────────────────────
+function esc(s){
+  return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/\n/g,'<br>');
 }
 </script>
 </body>
