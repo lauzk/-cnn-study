@@ -1,6 +1,7 @@
 """
-src/generate.py  v7.1
-- 支持抓取任意数量的 segment（自动探测直到 404）
+src/generate.py  v7.2
+- 保留原文换行和段落结构（不压扁空白符）
+- 自动抓取所有 segment（无限循环直到 404）
 - 取消周末判断，原样提取全部字幕
 - 要求 DeepSeek 返回全文翻译 + 词汇（仅考研/六级，不限数量）
 - 句子（长难句，不限数量）+ 话题背景（不限数量），无测试题
@@ -24,7 +25,6 @@ def get_target_date() -> str:
         print(f'  使用指定日期：{d}')
         return d
     today = datetime.now(CST)
-    # 不再调整周末，直接返回当天日期
     return today.strftime('%Y-%m-%d')
 
 
@@ -33,7 +33,6 @@ def find_available_date(start_date: str, max_lookback: int = 7) -> str:
     for i in range(max_lookback):
         candidate_dt = dt - timedelta(days=i)
         candidate = candidate_dt.strftime('%Y-%m-%d')
-        # 不再跳过周末，直接尝试请求
         url = f'https://transcripts.cnn.com/show/ctmo/date/{candidate}/segment/01'
         print(f'  检查：{url}')
         try:
@@ -47,21 +46,28 @@ def find_available_date(start_date: str, max_lookback: int = 7) -> str:
     raise RuntimeError(f'回溯 {max_lookback} 天内未找到有效 CNN 文稿')
 
 
-# ── 文稿抓取 & 清理（支持任意数量 segment）────────────────────────
+# ── 文稿抓取 & 清理（保留换行和段落结构）────────────────────────
 def sanitize(text: str) -> str:
+    """清理文本，但保留换行符（\n）"""
+    # 智能引号
     text = text.replace('\u2018', "'").replace('\u2019', "'")
     text = text.replace('\u201c', '"').replace('\u201d', '"')
     text = text.replace('\u2014', ' -- ').replace('\u2013', '-')
     text = text.replace('\u00a0', ' ').replace('\u00ad', '')
+    # 删除控制字符（除了换行）
     text = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]', '', text)
-    text = re.sub(r' {3,}', '  ', text)
+    # 将连续空格/制表符压缩为单个空格，但不影响换行
+    text = re.sub(r'[ \t]+', ' ', text)
+    # 将连续换行（多于两个）压缩为两个换行
+    text = re.sub(r'\n{3,}', '\n\n', text)
     return text.strip()
 
 
 def fetch_transcript(date_str: str) -> tuple[str, list[dict]]:
     """
-    返回 (合并后全文, 各segment原始段落列表)
-    自动探测 segment 编号从 01 开始递增，直到返回 404 且没有新内容为止。
+    返回 (合并后全文, 各segment原始数据)
+    自动探测 segment 编号从 1 开始递增，直到 404 或内容过短。
+    每个segment的文本会尽量保留原始换行结构。
     """
     segments_data = []
     seg = 1
@@ -76,22 +82,29 @@ def fetch_transcript(date_str: str) -> tuple[str, list[dict]]:
             r.raise_for_status()
             body = r.text
 
-            # 提取纯文本（保留原始格式，不过滤说话人）
+            # 提取 transcript 区域
             section = re.search(r'<div[^>]+cnnTranscript[^>]*>(.*?)</div>', body, re.S)
-            raw = section.group(1) if section else body
-            raw = re.sub(r'<[^>]+>', ' ', raw)
-            raw = re.sub(r'&nbsp;', ' ', raw)
-            raw = re.sub(r'&amp;', '&', raw)
-            raw = re.sub(r'&lt;', '<', raw)
-            raw = re.sub(r'&gt;', '>', raw)
-            raw = re.sub(r'\s+', ' ', raw).strip()
-            raw = sanitize(raw)
+            if not section:
+                print(f'  Segment {seg:02d}: 未找到 transcript div，跳过')
+                seg += 1
+                continue
 
-            if len(raw) > 300:
-                segments_data.append({'seg': seg, 'url': url, 'text': raw})
-                print(f'  Segment {seg:02d}: OK（{len(raw)} 字符）')
+            raw_html = section.group(1)
+            # 将 <br> 和 </div><div> 等转换为换行
+            raw_html = re.sub(r'<br\s*/?>', '\n', raw_html)
+            raw_html = re.sub(r'</div>\s*<div', '\n', raw_html)
+            # 移除所有其他 HTML 标签
+            raw_text = re.sub(r'<[^>]+>', ' ', raw_html)
+            # 清理空格，但保留换行
+            raw_text = re.sub(r'[ \t]+', ' ', raw_text)
+            raw_text = re.sub(r'\n\s*\n', '\n\n', raw_text)
+            raw_text = sanitize(raw_text)
+
+            if len(raw_text) > 300:
+                segments_data.append({'seg': seg, 'url': url, 'text': raw_text})
+                print(f'  Segment {seg:02d}: OK（{len(raw_text)} 字符）')
             else:
-                print(f'  Segment {seg:02d}: 内容过短（{len(raw)} 字符），停止抓取')
+                print(f'  Segment {seg:02d}: 内容过短（{len(raw_text)} 字符），停止抓取')
                 break
             seg += 1
         except Exception as e:
@@ -101,10 +114,12 @@ def fetch_transcript(date_str: str) -> tuple[str, list[dict]]:
     if not segments_data:
         return '', []
 
-    # 直接合并所有 segment 的文本，保留原始换行和标点
-    full = sanitize('\n\n'.join(s['text'] for s in segments_data))
-    # 增加长度限制到 20000 字符（约 5000 token）
-    return full[:20000], segments_data
+    # 合并各 segment，用两个换行分隔（模拟不同时间段的分段）
+    full = '\n\n'.join(s['text'] for s in segments_data)
+    # 限制总长度（保留更多内容）
+    if len(full) > 30000:
+        full = full[:30000] + '\n...[truncated]'
+    return full, segments_data
 
 
 # ── JSON 解析容错 ─────────────────────────────────────────────
@@ -208,7 +223,7 @@ def call_deepseek(prompt: str) -> dict:
         headers={'Authorization': f'Bearer {DEEPSEEK_API_KEY}', 'Content-Type': 'application/json'},
         json={
             'model': 'deepseek-chat',
-            'max_tokens': 8192,      # 增加 token 以容纳全文翻译和更多内容
+            'max_tokens': 8192,
             'temperature': 0.1,
             'response_format': {'type': 'json_object'},
             'messages': [
@@ -226,7 +241,7 @@ def call_deepseek(prompt: str) -> dict:
 
 # ── 主流程 ────────────────────────────────────────────────────
 def main():
-    print('\n=== CNN精读生成器 v7.1（自动抓取所有 segment + 不限词汇/句子/话题） ===')
+    print('\n=== CNN精读生成器 v7.2（保留原文换行 + 全量segment） ===')
 
     requested_date = get_target_date()
     out_path = OUTPUT_DIR / f'{requested_date}.json'
@@ -245,7 +260,7 @@ def main():
     source_url = f'https://transcripts.cnn.com/show/ctmo/date/{actual_date}/segment/01'
     print(f'目标日期：{actual_date}  输出：{out_path}')
 
-    print(f'\n[2/3] 抓取文稿（自动探测所有 segment）...')
+    print(f'\n[2/3] 抓取文稿（自动探测所有 segment，保留换行）...')
     full_text, segments_data = fetch_transcript(actual_date)
     if not full_text:
         raise RuntimeError(f'{actual_date} 文稿抓取失败')
