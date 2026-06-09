@@ -72,83 +72,79 @@ class TranscriptExtractor(HTMLParser):
 
 
 def fetch_transcript(date_str: str) -> tuple[str, list[dict]]:
+    """
+    只抓取第一个 segment (01)，不再自动探测后续 segment。
+    返回 (全文, segments列表，仅包含一个segment)
+    """
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
     }
-    segments_data = []
-    for seg in range(1, 20):
-        url = f'https://transcripts.cnn.com/show/ctmo/date/{date_str}/segment/{seg:02d}'
-        print(f'  尝试 Segment {seg:02d}: {url}')
-        try:
-            resp = requests.get(url, headers=headers, timeout=30)
-            if resp.status_code == 404:
-                print(f'  Segment {seg:02d}: 404，停止抓取')
-                break
-            if resp.status_code != 200:
-                print(f'  Segment {seg:02d}: HTTP {resp.status_code}，跳过')
-                continue
-
-            # 提取标题
-            title_match = re.search(r'<title>(.*?)</title>', resp.text, re.DOTALL | re.IGNORECASE)
-            raw_title = title_match.group(1).strip() if title_match else ''
-            time_match = re.search(r'(Aired\s+[\d:]+[ap]m?\s*ET)', resp.text, re.IGNORECASE)
-            segment_title = time_match.group(1) if time_match else raw_title
-
-            body_text = ""
-            # 策略1: id="transcriptBody"
-            match = re.search(r'<(div|section)[^>]*id=["\']transcriptBody["\'][^>]*>(.*?)</\1>', resp.text, re.DOTALL | re.IGNORECASE)
-            if not match:
-                match = re.search(r'<(div|section)[^>]*class=["\'][^"\']*cnnTranscript[^"\']*["\'][^>]*>(.*?)</\1>', resp.text, re.DOTALL | re.IGNORECASE)
-            if match:
-                inner = match.group(2)
-                inner = re.sub(r'<br\s*/?>', '\n', inner)
-                inner = re.sub(r'</?(p|div|section|h\d|span)[^>]*>', '\n', inner)
-                body_text = re.sub(r'<[^>]+>', ' ', inner)
+    seg = 1
+    url = f'https://transcripts.cnn.com/show/ctmo/date/{date_str}/segment/{seg:02d}'
+    print(f'  抓取 Segment {seg:02d}: {url}')
+    try:
+        resp = requests.get(url, headers=headers, timeout=30)
+        if resp.status_code != 200:
+            print(f'  Segment {seg:02d}: HTTP {resp.status_code}，抓取失败')
+            return '', []
+        
+        # 提取标题
+        title_match = re.search(r'<title>(.*?)</title>', resp.text, re.DOTALL | re.IGNORECASE)
+        raw_title = title_match.group(1).strip() if title_match else ''
+        time_match = re.search(r'(Aired\s+[\d:]+[ap]m?\s*ET)', resp.text, re.IGNORECASE)
+        segment_title = time_match.group(1) if time_match else raw_title
+        
+        body_text = ""
+        # 策略1: id="transcriptBody" 或 class="cnnTranscript"
+        match = re.search(r'<(div|section)[^>]*id=["\']transcriptBody["\'][^>]*>(.*?)</\1>', resp.text, re.DOTALL | re.IGNORECASE)
+        if not match:
+            match = re.search(r'<(div|section)[^>]*class=["\'][^"\']*cnnTranscript[^"\']*["\'][^>]*>(.*?)</\1>', resp.text, re.DOTALL | re.IGNORECASE)
+        if match:
+            inner = match.group(2)
+            inner = re.sub(r'<br\s*/?>', '\n', inner)
+            inner = re.sub(r'</?(p|div|section|h\d|span)[^>]*>', '\n', inner)
+            body_text = re.sub(r'<[^>]+>', ' ', inner)
+            body_text = re.sub(r'[ \t]+', ' ', body_text)
+            body_text = re.sub(r'\n\s*\n', '\n\n', body_text).strip()
+            print(f'      策略1成功，长度 {len(body_text)}')
+        
+        if len(body_text) < 300:
+            print(f'      策略1失败，尝试自定义解析器...')
+            parser = TranscriptExtractor()
+            parser.feed(resp.text)
+            body_text = parser.get_text()
+            if body_text:
                 body_text = re.sub(r'[ \t]+', ' ', body_text)
-                body_text = re.sub(r'\n\s*\n', '\n\n', body_text).strip()
-                print(f'      策略1成功，长度 {len(body_text)}')
-
-            if len(body_text) < 300:
-                print(f'      策略1失败，尝试自定义解析器...')
-                parser = TranscriptExtractor()
-                parser.feed(resp.text)
-                body_text = parser.get_text()
-                if body_text:
-                    body_text = re.sub(r'[ \t]+', ' ', body_text)
-                    body_text = re.sub(r'\n{3,}', '\n\n', body_text).strip()
-                    print(f'      策略2成功，长度 {len(body_text)}')
-
-            if len(body_text) < 300:
-                print(f'      策略2失败，尝试全文回退...')
-                raw_text = re.sub(r'<[^>]+>', ' ', resp.text)
-                raw_text = re.sub(r'\s+', ' ', raw_text)
-                aired_pos = raw_text.find('Aired')
-                if aired_pos != -1:
-                    body_text = raw_text[aired_pos:aired_pos+20000].strip()
-                else:
-                    body_text = raw_text[:20000].strip()
-                print(f'      策略3完成，长度 {len(body_text)}')
-
-            if len(body_text) > 300:
-                segments_data.append({
-                    'seg': seg,
-                    'url': url,
-                    'title': segment_title,
-                    'text': body_text
-                })
-                print(f'  Segment {seg:02d}: 提取成功 ({len(body_text)} 字符)')
+                body_text = re.sub(r'\n{3,}', '\n\n', body_text).strip()
+                print(f'      策略2成功，长度 {len(body_text)}')
+        
+        if len(body_text) < 300:
+            print(f'      策略2失败，尝试全文回退...')
+            raw_text = re.sub(r'<[^>]+>', ' ', resp.text)
+            raw_text = re.sub(r'\s+', ' ', raw_text)
+            aired_pos = raw_text.find('Aired')
+            if aired_pos != -1:
+                body_text = raw_text[aired_pos:aired_pos+20000].strip()
             else:
-                print(f'  Segment {seg:02d}: 内容过短 ({len(body_text)} 字符)，停止抓取')
-                break
-        except Exception as e:
-            print(f'  Segment {seg:02d} 异常: {e}')
-            break
-
-    if not segments_data:
+                body_text = raw_text[:20000].strip()
+            print(f'      策略3完成，长度 {len(body_text)}')
+        
+        if len(body_text) > 300:
+            segments_data = [{
+                'seg': seg,
+                'url': url,
+                'title': segment_title,
+                'text': body_text
+            }]
+            print(f'  Segment {seg:02d}: 提取成功 ({len(body_text)} 字符)')
+            return body_text, segments_data
+        else:
+            print(f'  Segment {seg:02d}: 内容过短 ({len(body_text)} 字符)，抓取失败')
+            return '', []
+    except Exception as e:
+        print(f'  Segment {seg:02d} 异常: {e}')
         return '', []
-    full_text = '\n\n'.join(s['text'] for s in segments_data)
-    return full_text, segments_data
 
 
 def parse_json_robust(raw: str) -> dict:
