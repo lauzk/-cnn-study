@@ -1,9 +1,8 @@
 """
-src/generate.py  v4
-新增：
-- 保存完整原始文稿到 JSON（full_transcript 字段）
-- 词汇标注包含 excerpt（原文片段）用于前端高亮匹配
-- 周末自动回退 / HEAD→GET 修复 / JSON 多层容错
+src/generate.py  v7
+- 取消周末判断，原样提取全部字幕
+- 要求 DeepSeek 返回全文翻译 + 词汇（仅考研/六级，不限数量）
+- 句子（长难句，不限数量）+ 话题背景（不限数量），无测试题
 """
 
 import os, re, json, requests, sys
@@ -24,13 +23,8 @@ def get_target_date() -> str:
         print(f'  使用指定日期：{d}')
         return d
     today = datetime.now(CST)
-    wd = today.weekday()
-    if wd == 5:   today -= timedelta(days=1)
-    elif wd == 6: today -= timedelta(days=2)
-    result = today.strftime('%Y-%m-%d')
-    if wd >= 5:
-        print(f'  今天是周末，自动使用最近工作日：{result}')
-    return result
+    # 不再调整周末，直接返回当天日期
+    return today.strftime('%Y-%m-%d')
 
 
 def find_available_date(start_date: str, max_lookback: int = 7) -> str:
@@ -38,9 +32,7 @@ def find_available_date(start_date: str, max_lookback: int = 7) -> str:
     for i in range(max_lookback):
         candidate_dt = dt - timedelta(days=i)
         candidate = candidate_dt.strftime('%Y-%m-%d')
-        if candidate_dt.weekday() >= 5:
-            print(f'  {candidate} 是周末，跳过')
-            continue
+        # 不再跳过周末，直接尝试请求
         url = f'https://transcripts.cnn.com/show/ctmo/date/{candidate}/segment/01'
         print(f'  检查：{url}')
         try:
@@ -68,7 +60,7 @@ def sanitize(text: str) -> str:
 def fetch_transcript(date_str: str) -> tuple[str, list[dict]]:
     """
     返回 (合并后全文, 各segment原始段落列表)
-    segments 格式: [{"seg": 1, "url": "...", "text": "..."}]
+    segments_data 保留原始结构，但后续不再拆分为说话人段落
     """
     segments_data = []
     for seg in [1, 2, 3]:
@@ -82,8 +74,7 @@ def fetch_transcript(date_str: str) -> tuple[str, list[dict]]:
             r.raise_for_status()
             body = r.text
 
-            # 提取说话人段落：格式通常是 SPEAKER NAME: text
-            # 先提取纯文本
+            # 提取纯文本（保留原始格式，不过滤说话人）
             section = re.search(r'<div[^>]+cnnTranscript[^>]*>(.*?)</div>', body, re.S)
             raw = section.group(1) if section else body
             raw = re.sub(r'<[^>]+>', ' ', raw)
@@ -105,49 +96,9 @@ def fetch_transcript(date_str: str) -> tuple[str, list[dict]]:
     if not segments_data:
         return '', []
 
+    # 直接合并所有 segment 的文本，保留原始换行和标点
     full = sanitize('\n\n'.join(s['text'] for s in segments_data))
-    return full[:9000], segments_data
-
-
-def extract_paragraphs(segments_data: list[dict]) -> list[dict]:
-    """
-    把文稿拆成段落列表，识别说话人标签
-    格式: [{"speaker": "ANCHOR", "text": "..."}]
-    """
-    paragraphs = []
-    # CNN 文稿格式：SPEAKER NAME (AFFILIATION): text 或 全大写开头
-    speaker_re = re.compile(r'^([A-Z][A-Z\s\.\-]{2,40}):\s*(.+)', re.S)
-
-    for seg in segments_data:
-        # 按句号+空格或换行分段
-        raw = seg['text']
-        # 先按换行分
-        chunks = re.split(r'\n{1,}', raw)
-        current_speaker = 'ANCHOR'
-        for chunk in chunks:
-            chunk = chunk.strip()
-            if not chunk:
-                continue
-            m = speaker_re.match(chunk)
-            if m:
-                current_speaker = m.group(1).strip()
-                text = m.group(2).strip()
-            else:
-                text = chunk
-            if text:
-                # 长段拆成≤400字的小段
-                while len(text) > 400:
-                    cut = text[:400].rfind('. ')
-                    if cut < 100:
-                        cut = 400
-                    else:
-                        cut += 1
-                    paragraphs.append({'speaker': current_speaker, 'text': text[:cut].strip()})
-                    text = text[cut:].strip()
-                if text:
-                    paragraphs.append({'speaker': current_speaker, 'text': text})
-
-    return paragraphs
+    return full[:12000], segments_data   # 增加长度限制到12000字符
 
 
 # ── JSON 解析容错 ─────────────────────────────────────────────
@@ -180,7 +131,7 @@ def parse_json_robust(raw: str) -> dict:
     raise ValueError(f'JSON 解析失败，原始内容前200字：\n{raw[:200]}')
 
 
-# ── Prompt ────────────────────────────────────────────────────
+# ── Prompt（不限制句子和话题个数，只提取考研/六级词汇）─────────────────
 SYSTEM = """你是专业英语精读教学助手，专注新闻英语。
 目标学习者：考研六级以上。
 输出规则：
@@ -199,14 +150,14 @@ def build_prompt(transcript: str, date_str: str, source_url: str) -> str:
 {{
   "date": "{date_str}",
   "source_url": "{source_url}",
-  "summary": "150字中文摘要，涵盖所有主要话题",
+  "full_translation": "整篇文稿的逐句中文翻译，保留原文换行和说话人标记（如 ANCHOR: ...）",
 
   "vocabulary": [
     {{
       "word": "单词或短语",
       "phonetic": "/音标/",
       "pos": "词性",
-      "level": "考研/六级/专四/专八/时事词汇",
+      "level": "考研/六级",   # 只允许这两个值
       "cn": "中文释义（含搭配）",
       "en": "英文释义",
       "excerpt": "包含该词的原文片段（10-20词，用于高亮定位，单引号代替双引号）",
@@ -229,24 +180,16 @@ def build_prompt(transcript: str, date_str: str, source_url: str) -> str:
       "content": "120字中文背景知识，含关键英文术语",
       "keywords": "词1 · 词2 · 词3"
     }}
-  ],
-
-  "quiz": [
-    {{
-      "type": "vocab",
-      "question": "题目（含原文语境）",
-      "options": ["A. ...", "B. ...", "C. ...", "D. ..."],
-      "answer": 0,
-      "explanation": "详细解析"
-    }}
   ]
 }}
 
 严格要求：
-- vocabulary：12个，excerpt字段必须是文稿中真实存在的原文片段
-- sentences：5个长难句
-- topics：4个话题
-- quiz：6道（前3词汇，后3理解）"""
+- vocabulary：只提取考研和六级水平的词汇或短语，忽略其他难度。不限个数，至少12个，上不封顶
+- sentences：提取文稿中的所有长难句（结构复杂、含从句或特殊语法），不限个数，有多少提取多少
+- topics：提取所有值得展开的背景话题，不限个数，至少4个，上不封顶
+- 不需要 summary 字段
+- 不需要 quiz 字段
+- 必须包含 full_translation，逐句对应原文，保证完整"""
 
 
 # ── 调用 DeepSeek ─────────────────────────────────────────────
@@ -259,7 +202,7 @@ def call_deepseek(prompt: str) -> dict:
         headers={'Authorization': f'Bearer {DEEPSEEK_API_KEY}', 'Content-Type': 'application/json'},
         json={
             'model': 'deepseek-chat',
-            'max_tokens': 4096,
+            'max_tokens': 8192,      # 增加 token 以容纳全文翻译和更多内容
             'temperature': 0.1,
             'response_format': {'type': 'json_object'},
             'messages': [
@@ -267,7 +210,7 @@ def call_deepseek(prompt: str) -> dict:
                 {'role': 'user',   'content': prompt}
             ]
         },
-        timeout=120
+        timeout=150
     )
     resp.raise_for_status()
     raw = resp.json()['choices'][0]['message']['content']
@@ -277,7 +220,7 @@ def call_deepseek(prompt: str) -> dict:
 
 # ── 主流程 ────────────────────────────────────────────────────
 def main():
-    print('\n=== CNN精读生成器 v4 ===')
+    print('\n=== CNN精读生成器 v7（不限词汇/句子/话题 + 全文翻译） ===')
 
     requested_date = get_target_date()
     out_path = OUTPUT_DIR / f'{requested_date}.json'
@@ -285,7 +228,7 @@ def main():
         print(f'✓ 缓存已存在：{out_path}')
         return
 
-    print(f'\n[1/3] 查找有效文稿（从 {requested_date} 开始）...')
+    print(f'\n[1/3] 查找有效文稿（从 {requested_date} 开始，不跳过周末）...')
     actual_date = find_available_date(requested_date, max_lookback=7)
 
     out_path = OUTPUT_DIR / f'{actual_date}.json'
@@ -302,20 +245,16 @@ def main():
         raise RuntimeError(f'{actual_date} 文稿抓取失败')
     print(f'      文稿长度：{len(full_text)} 字符')
 
-    # 拆分段落（用于前端全文显示）
-    paragraphs = extract_paragraphs(segments_data)
-    print(f'      段落数：{len(paragraphs)}')
-
-    print(f'\n[3/3] 生成精读内容...')
+    print(f'\n[3/3] 生成精读内容（不限个数）...')
     prompt = build_prompt(full_text, actual_date, source_url)
     data   = call_deepseek(prompt)
 
-    # 注入完整段落数据
-    data['paragraphs'] = paragraphs
-    data['date']       = actual_date
-    data['source_url'] = source_url
+    # 注入原始完整文稿（原样保留）
+    data['raw_transcript'] = full_text
+    data['date']           = actual_date
+    data['source_url']     = source_url
 
-    print(f'      词汇：{len(data.get("vocabulary",[]))} 难句：{len(data.get("sentences",[]))}')
+    print(f'      词汇数：{len(data.get("vocabulary",[]))}  难句：{len(data.get("sentences",[]))}  话题：{len(data.get("topics",[]))}')
 
     out_path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding='utf-8')
     print(f'\n✅ 已保存：{out_path}')
