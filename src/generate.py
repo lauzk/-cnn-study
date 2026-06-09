@@ -152,35 +152,46 @@ def fetch_transcript(date_str: str) -> tuple[str, list[dict]]:
 
 
 def parse_json_robust(raw: str) -> dict:
-    # 1. 去除 markdown 代码块
+    # 去除可能的 Markdown 代码块标记和首尾空白
     cleaned = re.sub(r'^```(?:json)?\s*|\s*```$', '', raw.strip(), flags=re.MULTILINE).strip()
-    # 2. 尝试直接解析
+    
+    # 尝试直接解析
     try:
         return json.loads(cleaned)
     except json.JSONDecodeError:
         pass
-    # 3. 查找第一个 '{' 和最后一个 '}'
+
+    # 尝试提取第一个 { 到最后一个 } 之间的内容（考虑嵌套）
+    # 使用栈来匹配最外层的 {}
     start = cleaned.find('{')
-    end = cleaned.rfind('}')
-    if start != -1 and end > start:
-        candidate = cleaned[start:end+1]
-        # 尝试补齐缺失的括号
-        open_braces = candidate.count('{') - candidate.count('}')
-        open_brackets = candidate.count('[') - candidate.count(']')
-        if open_braces > 0:
-            candidate += '}' * open_braces
-        if open_brackets > 0:
-            candidate += ']' * open_brackets
-        try:
-            return json.loads(candidate)
-        except json.JSONDecodeError as e:
-            print(f'  修复后 JSON 解析仍然失败: {e}')
-            # 保存原始响应用于调试
-            debug_file = OUTPUT_DIR / 'last_api_response.txt'
-            debug_file.write_text(raw, encoding='utf-8')
-            print(f'  已保存原始响应到 {debug_file}')
-            raise ValueError(f'JSON解析失败，已保存原始响应。错误位置: {e}')
-    raise ValueError('未找到有效的 JSON 对象')
+    if start == -1:
+        raise ValueError('未找到 JSON 起始字符 "{"')
+    
+    brace_count = 0
+    end = -1
+    for i, ch in enumerate(cleaned[start:], start):
+        if ch == '{':
+            brace_count += 1
+        elif ch == '}':
+            brace_count -= 1
+            if brace_count == 0:
+                end = i
+                break
+    if end == -1:
+        raise ValueError('未找到匹配的 "}"')
+    
+    candidate = cleaned[start:end+1]
+    # 尝试解析提取出的字符串
+    try:
+        return json.loads(candidate)
+    except json.JSONDecodeError as e:
+        # 记录原始响应的前后内容用于调试
+        debug_file = OUTPUT_DIR / 'last_api_response.txt'
+        debug_file.write_text(raw, encoding='utf-8')
+        print(f'  已保存原始响应到 {debug_file}')
+        print(f'  提取的 JSON 片段（前 500 字符）:\n{candidate[:500]}')
+        print(f'  提取的 JSON 片段（后 500 字符）:\n{candidate[-500:]}')
+        raise ValueError(f'JSON解析失败，已保存原始响应。错误位置: {e}')
 
 
 SYSTEM = """你是专业英语精读教学助手，专注新闻英语。
@@ -197,7 +208,7 @@ def build_prompt(transcript: str, date_str: str, source_url: str) -> str:
 
 {safe}
 
-输出以下JSON（所有字段必须存在）：
+你必须严格输出一个合法的 JSON 对象，不要输出任何额外的解释、说明或 Markdown 格式。JSON 对象必须包含以下字段：
 
 {{
   "date": "{date_str}",
@@ -240,9 +251,7 @@ def build_prompt(transcript: str, date_str: str, source_url: str) -> str:
 - sentences：提取文稿中的所有长难句，不限个数
 - topics：提取所有值得展开的背景话题，不限个数，至少4个，上不封顶
 - 不需要 summary 和 quiz 字段
-- 必须包含 full_translation，**逐句对应原文，且必须保留原文的空行和段落结构**，让翻译后的文本有清晰的阅读层次"""
-
-
+- 必须包含 full_translation，逐句对应原文，且必须保留原文的空行和段落结构，让翻译后的文本有清晰的阅读层次"""
 
 
 
