@@ -87,21 +87,8 @@ body{background:var(--bg);color:var(--text);font-family:var(--font);min-height:1
 .hl:hover,.hl.active{background:var(--hl-active)}
 .hl.level-考研{border-bottom-color:#e68a2e}
 .hl.level-六级{border-bottom-color:#0a58ca}
-
-/* 单词注释行 - 直接显示在高亮词下方 */
-.word-annotation {
-  display: block;
-  font-size: 0.75rem;
-  line-height: 1.3;
-  color: var(--text2);
-  background: var(--bg3);
-  border-radius: 4px;
-  padding: 4px 8px;
-  margin-top: 4px;
-  margin-bottom: 4px;
-  border-left: 3px solid var(--blue);
-  font-family: sans-serif;
-}
+/* 浏览器默认 tooltip 样式优化 */
+[title]{cursor:help}
 
 .vocab-popup{position:fixed;z-index:200;max-width:300px;background:var(--bg4);border:1px solid var(--border2);border-radius:var(--r);padding:1rem 1.1rem;box-shadow:0 8px 32px rgba(0,0,0,0.15);display:none;pointer-events:none}
 .vocab-popup.show{display:block}
@@ -189,7 +176,7 @@ body{background:var(--bg);color:var(--text);font-family:var(--font);min-height:1
     <div id="transcript" class="section active">
       <div class="transcript-wrap">
         <div>
-          <div class="transcript-hint">💡 点击高亮单词显示详细释义 · 下方自动显示中文翻译</div>
+          <div class="transcript-hint">💡 鼠标悬停高亮单词查看中文释义 · 点击显示详细解析</div>
           <div class="transcript-body" id="transcriptBody"></div>
         </div>
         <div>
@@ -277,11 +264,11 @@ function renderRawTranscript(rawText, vocab){
   const vocabMap = {};
   vocab.forEach(v=>{ vocabMap[v.word.toLowerCase()] = v; });
   const sortedWords = Object.keys(vocabMap).sort((a,b)=>b.length-a.length);
-  const highlighted = highlightWordsWithAnnotations(rawText, sortedWords, vocabMap);
+  const highlighted = highlightWordsWithHover(rawText, sortedWords, vocabMap);
   container.innerHTML = highlighted;
 }
 
-function highlightWordsWithAnnotations(text, sortedWords, vocabMap){
+function highlightWordsWithHover(text, sortedWords, vocabMap){
   const positions = [];
   const lc = text.toLowerCase();
   sortedWords.forEach(word=>{
@@ -320,16 +307,15 @@ function highlightWordsWithAnnotations(text, sortedWords, vocabMap){
     for (let p of paraPositions) {
       // 添加高亮前的普通文本
       result += esc(text.slice(lastParaPos, p.start));
-      // 添加高亮词本身
+      // 添加高亮词本身，并设置 title 属性为中文释义（悬停显示）
       const word = p.word;
       const vocabData = p.vocab;
       const lv = vocabData.level || '';
       const lvClass = `level-${lv}`;
-      result += `<span class="hl ${lvClass}" data-word="${esc(word)}">${esc(word)}</span>`;
-      // 添加单词翻译（直接显示）
-      if (vocabData && vocabData.cn) {
-        result += `<span class="word-annotation">${esc(vocabData.cn)}</span>`;
-      }
+      const cnMeaning = vocabData.cn || '';
+      // 注意转义 title 中的引号
+      const safeTitle = cnMeaning.replace(/["']/g, '&quot;');
+      result += `<span class="hl ${lvClass}" data-word="${esc(word)}" title="${safeTitle}" onclick="showVocabPopup(event,'${esc(word)}')">${esc(word)}</span>`;
       lastParaPos = p.end;
     }
     // 添加剩余文本
