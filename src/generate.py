@@ -190,6 +190,7 @@ SYSTEM = """你是专业英语精读教学助手，专注新闻英语。
 2. JSON字符串中的双引号用 \\\" 转义
 3. 例句中的双引号改为单引号"""
 
+
 def build_prompt(transcript: str, date_str: str, source_url: str) -> str:
     safe = transcript.replace('\\', '\\\\').replace('"', '\\"')
     return f"""CNN This Morning 逐字稿（{date_str}）：
@@ -201,7 +202,7 @@ def build_prompt(transcript: str, date_str: str, source_url: str) -> str:
 {{
   "date": "{date_str}",
   "source_url": "{source_url}",
-  "full_translation": "整篇文稿的逐句中文翻译，保留原文换行和说话人标记（如 ANCHOR: ...）",
+  "full_translation": "整篇文稿的逐句中文翻译，必须严格保留原文的换行和段落分隔（即原文中的空行在翻译中也用空行表示，每个说话人段落之间用换行分隔，不要把所有句子挤在一起）。",
 
   "vocabulary": [
     {{
@@ -239,7 +240,10 @@ def build_prompt(transcript: str, date_str: str, source_url: str) -> str:
 - sentences：提取文稿中的所有长难句，不限个数
 - topics：提取所有值得展开的背景话题，不限个数，至少4个，上不封顶
 - 不需要 summary 和 quiz 字段
-- 必须包含 full_translation，逐句对应原文，保证完整"""
+- 必须包含 full_translation，**逐句对应原文，且必须保留原文的空行和段落结构**，让翻译后的文本有清晰的阅读层次"""
+
+
+
 
 
 def call_deepseek(prompt: str) -> dict:
