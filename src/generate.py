@@ -1,8 +1,9 @@
 """
-src/generate.py  v7.4
-- 取消字符截断，保留完整文稿
-- 保存每个 segment 的原始文本和标题（时间范围）
-- 前端按 segment 分区展示
+src/generate.py  v7.5
+- 无截断，保留完整文稿
+- 分段保存（segments 包含标题和文本）
+- 增强 JSON 解析，支持修复未闭合括号、去除额外文本
+- 解析失败时保存原始响应用于调试
 """
 
 import os, re, json, requests, sys
@@ -71,19 +72,12 @@ class TranscriptExtractor(HTMLParser):
 
 
 def fetch_transcript(date_str: str) -> tuple[str, list[dict]]:
-    """
-    返回 (合并后全文, segments列表)
-    每个 segment 包含: seg, url, title(时间范围), text(原始文本)
-    """
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
     }
     segments_data = []
-    seg = 1
-    max_segments = 20
-
-    for seg in range(1, max_segments+1):
+    for seg in range(1, 20):
         url = f'https://transcripts.cnn.com/show/ctmo/date/{date_str}/segment/{seg:02d}'
         print(f'  尝试 Segment {seg:02d}: {url}')
         try:
@@ -95,16 +89,14 @@ def fetch_transcript(date_str: str) -> tuple[str, list[dict]]:
                 print(f'  Segment {seg:02d}: HTTP {resp.status_code}，跳过')
                 continue
 
-            # 提取标题（时间范围）
+            # 提取标题
             title_match = re.search(r'<title>(.*?)</title>', resp.text, re.DOTALL | re.IGNORECASE)
             raw_title = title_match.group(1).strip() if title_match else ''
-            # 提取类似 "Aired 5-5:30a ET" 的信息
             time_match = re.search(r'(Aired\s+[\d:]+[ap]m?\s*ET)', resp.text, re.IGNORECASE)
             segment_title = time_match.group(1) if time_match else raw_title
 
             body_text = ""
-
-            # 策略1：查找 id="transcriptBody" 或 class="cnnTranscript"
+            # 策略1: id="transcriptBody"
             match = re.search(r'<(div|section)[^>]*id=["\']transcriptBody["\'][^>]*>(.*?)</\1>', resp.text, re.DOTALL | re.IGNORECASE)
             if not match:
                 match = re.search(r'<(div|section)[^>]*class=["\'][^"\']*cnnTranscript[^"\']*["\'][^>]*>(.*?)</\1>', resp.text, re.DOTALL | re.IGNORECASE)
@@ -115,7 +107,7 @@ def fetch_transcript(date_str: str) -> tuple[str, list[dict]]:
                 body_text = re.sub(r'<[^>]+>', ' ', inner)
                 body_text = re.sub(r'[ \t]+', ' ', body_text)
                 body_text = re.sub(r'\n\s*\n', '\n\n', body_text).strip()
-                print(f'      策略1 (transcriptBody) 成功，长度 {len(body_text)}')
+                print(f'      策略1成功，长度 {len(body_text)}')
 
             if len(body_text) < 300:
                 print(f'      策略1失败，尝试自定义解析器...')
@@ -147,46 +139,48 @@ def fetch_transcript(date_str: str) -> tuple[str, list[dict]]:
                 })
                 print(f'  Segment {seg:02d}: 提取成功 ({len(body_text)} 字符)')
             else:
-                print(f'  Segment {seg:02d}: 提取内容过短 ({len(body_text)} 字符)，停止抓取')
+                print(f'  Segment {seg:02d}: 内容过短 ({len(body_text)} 字符)，停止抓取')
                 break
-
         except Exception as e:
             print(f'  Segment {seg:02d} 异常: {e}')
             break
 
     if not segments_data:
         return '', []
-
-    # 不再截断！保留完整内容
     full_text = '\n\n'.join(s['text'] for s in segments_data)
     return full_text, segments_data
 
 
 def parse_json_robust(raw: str) -> dict:
-    for attempt in [
-        lambda s: json.loads(s),
-        lambda s: json.loads(re.sub(r'^```(?:json)?\s*|\s*```$', '', s.strip(), flags=re.MULTILINE).strip()),
-    ]:
-        try:
-            return attempt(raw)
-        except (json.JSONDecodeError, Exception):
-            pass
-    start = raw.find('{')
-    end   = raw.rfind('}')
+    # 1. 去除 markdown 代码块
+    cleaned = re.sub(r'^```(?:json)?\s*|\s*```$', '', raw.strip(), flags=re.MULTILINE).strip()
+    # 2. 尝试直接解析
+    try:
+        return json.loads(cleaned)
+    except json.JSONDecodeError:
+        pass
+    # 3. 查找第一个 '{' 和最后一个 '}'
+    start = cleaned.find('{')
+    end = cleaned.rfind('}')
     if start != -1 and end > start:
-        chunk = raw[start:end+1]
+        candidate = cleaned[start:end+1]
+        # 尝试补齐缺失的括号
+        open_braces = candidate.count('{') - candidate.count('}')
+        open_brackets = candidate.count('[') - candidate.count(']')
+        if open_braces > 0:
+            candidate += '}' * open_braces
+        if open_brackets > 0:
+            candidate += ']' * open_brackets
         try:
-            return json.loads(chunk)
+            return json.loads(candidate)
         except json.JSONDecodeError as e:
-            print(f'  JSON错误 line {e.lineno} col {e.colno}：{repr(raw[max(0,e.pos-60):e.pos+60])}')
-            ob = chunk.count('{') - chunk.count('}')
-            ob2 = chunk.count('[') - chunk.count(']')
-            repaired = chunk + (']' * max(0, ob2)) + ('}' * max(0, ob))
-            try:
-                return json.loads(repaired)
-            except Exception:
-                pass
-    raise ValueError(f'JSON 解析失败，原始内容前200字：\n{raw[:200]}')
+            print(f'  修复后 JSON 解析仍然失败: {e}')
+            # 保存原始响应用于调试
+            debug_file = OUTPUT_DIR / 'last_api_response.txt'
+            debug_file.write_text(raw, encoding='utf-8')
+            print(f'  已保存原始响应到 {debug_file}')
+            raise ValueError(f'JSON解析失败，已保存原始响应。错误位置: {e}')
+    raise ValueError('未找到有效的 JSON 对象')
 
 
 SYSTEM = """你是专业英语精读教学助手，专注新闻英语。
@@ -274,7 +268,7 @@ def call_deepseek(prompt: str) -> dict:
 
 
 def main():
-    print('\n=== CNN精读生成器 v7.4（无截断 + 分段展示） ===')
+    print('\n=== CNN精读生成器 v7.5（无截断 + 分段展示 + 增强JSON解析） ===')
 
     requested_date = get_target_date()
     out_path = OUTPUT_DIR / f'{requested_date}.json'
@@ -303,9 +297,8 @@ def main():
     prompt = build_prompt(full_text, actual_date, source_url)
     data = call_deepseek(prompt)
 
-    # 注入原始完整文稿及分段信息
     data['raw_transcript'] = full_text
-    data['segments'] = segments_data   # 包含每个 segment 的 title 和 text
+    data['segments'] = segments_data
     data['date'] = actual_date
     data['source_url'] = source_url
 
