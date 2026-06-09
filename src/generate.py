@@ -1,5 +1,6 @@
 """
-src/generate.py  v7
+src/generate.py  v7.1
+- 支持抓取任意数量的 segment（自动探测直到 404）
 - 取消周末判断，原样提取全部字幕
 - 要求 DeepSeek 返回全文翻译 + 词汇（仅考研/六级，不限数量）
 - 句子（长难句，不限数量）+ 话题背景（不限数量），无测试题
@@ -46,7 +47,7 @@ def find_available_date(start_date: str, max_lookback: int = 7) -> str:
     raise RuntimeError(f'回溯 {max_lookback} 天内未找到有效 CNN 文稿')
 
 
-# ── 文稿抓取 & 清理 ───────────────────────────────────────────
+# ── 文稿抓取 & 清理（支持任意数量 segment）────────────────────────
 def sanitize(text: str) -> str:
     text = text.replace('\u2018', "'").replace('\u2019', "'")
     text = text.replace('\u201c', '"').replace('\u201d', '"')
@@ -60,17 +61,18 @@ def sanitize(text: str) -> str:
 def fetch_transcript(date_str: str) -> tuple[str, list[dict]]:
     """
     返回 (合并后全文, 各segment原始段落列表)
-    segments_data 保留原始结构，但后续不再拆分为说话人段落
+    自动探测 segment 编号从 01 开始递增，直到返回 404 且没有新内容为止。
     """
     segments_data = []
-    for seg in [1, 2, 3]:
+    seg = 1
+    while True:
         url = f'https://transcripts.cnn.com/show/ctmo/date/{date_str}/segment/{seg:02d}'
-        print(f'  Fetching: {url}')
+        print(f'  尝试 Segment {seg:02d}: {url}')
         try:
             r = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'}, timeout=20)
             if r.status_code == 404:
-                print(f'  Segment {seg}: 404，跳过')
-                continue
+                print(f'  Segment {seg:02d}: 404，停止抓取')
+                break
             r.raise_for_status()
             body = r.text
 
@@ -87,18 +89,22 @@ def fetch_transcript(date_str: str) -> tuple[str, list[dict]]:
 
             if len(raw) > 300:
                 segments_data.append({'seg': seg, 'url': url, 'text': raw})
-                print(f'  Segment {seg}: OK（{len(raw)} 字符）')
+                print(f'  Segment {seg:02d}: OK（{len(raw)} 字符）')
             else:
-                print(f'  Segment {seg}: 内容过短，跳过')
+                print(f'  Segment {seg:02d}: 内容过短（{len(raw)} 字符），停止抓取')
+                break
+            seg += 1
         except Exception as e:
-            print(f'  Segment {seg} 错误：{e}')
+            print(f'  Segment {seg:02d} 错误：{e}')
+            break
 
     if not segments_data:
         return '', []
 
     # 直接合并所有 segment 的文本，保留原始换行和标点
     full = sanitize('\n\n'.join(s['text'] for s in segments_data))
-    return full[:12000], segments_data   # 增加长度限制到12000字符
+    # 增加长度限制到 20000 字符（约 5000 token）
+    return full[:20000], segments_data
 
 
 # ── JSON 解析容错 ─────────────────────────────────────────────
@@ -220,7 +226,7 @@ def call_deepseek(prompt: str) -> dict:
 
 # ── 主流程 ────────────────────────────────────────────────────
 def main():
-    print('\n=== CNN精读生成器 v7（不限词汇/句子/话题 + 全文翻译） ===')
+    print('\n=== CNN精读生成器 v7.1（自动抓取所有 segment + 不限词汇/句子/话题） ===')
 
     requested_date = get_target_date()
     out_path = OUTPUT_DIR / f'{requested_date}.json'
@@ -239,13 +245,13 @@ def main():
     source_url = f'https://transcripts.cnn.com/show/ctmo/date/{actual_date}/segment/01'
     print(f'目标日期：{actual_date}  输出：{out_path}')
 
-    print(f'\n[2/3] 抓取文稿...')
+    print(f'\n[2/3] 抓取文稿（自动探测所有 segment）...')
     full_text, segments_data = fetch_transcript(actual_date)
     if not full_text:
         raise RuntimeError(f'{actual_date} 文稿抓取失败')
-    print(f'      文稿长度：{len(full_text)} 字符')
+    print(f'      抓取到 {len(segments_data)} 个 segment，文稿总长度：{len(full_text)} 字符')
 
-    print(f'\n[3/3] 生成精读内容（不限个数）...')
+    print(f'\n[3/3] 生成精读内容（仅考研/六级词汇）...')
     prompt = build_prompt(full_text, actual_date, source_url)
     data   = call_deepseek(prompt)
 
