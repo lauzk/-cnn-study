@@ -5,39 +5,13 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>CNN 英语精读</title>
 <style>
-:root{
-  --bg:#ffffff;
-  --bg2:#ffffff;
-  --bg3:#f8f9fa;
-  --bg4:#f1f3f5;
-  --border:#e9ecef;
-  --border2:#dee2e6;
-  --text:#212529;
-  --text2:#495057;
-  --text3:#6c757d;
-  --blue:#0a58ca;
-  --blue-dim:#e7f1ff;
-  --blue2:#084298;
-  --red:#b02a37;
-  --green:#146c43;
-  --amber:#e68a2e;
-  --coral:#d6336c;
-  --teal:#0f8b8b;
-  --purple:#6f42c1;
-  --hl-yellow:rgba(255,243,205,0.8);
-  --hl-yellow-border:rgba(255,193,7,0.8);
-  --hl-active:rgba(255,230,150,0.9);
-  --r:6px;
-  --font:'Georgia', 'Times New Roman', 'Segoe UI', serif;
-  --mono:'Consolas','Monaco',monospace;
-}
+/* 之前的 CSS 保持不变（浅色主题，悬停样式等） */
+:root{ --bg:#ffffff; --bg2:#ffffff; --bg3:#f8f9fa; --bg4:#f1f3f5; --border:#e9ecef; --border2:#dee2e6; --text:#212529; --text2:#495057; --text3:#6c757d; --blue:#0a58ca; --blue-dim:#e7f1ff; --blue2:#084298; --red:#b02a37; --green:#146c43; --amber:#e68a2e; --coral:#d6336c; --teal:#0f8b8b; --purple:#6f42c1; --hl-yellow:rgba(255,243,205,0.8); --hl-yellow-border:rgba(255,193,7,0.8); --hl-active:rgba(255,230,150,0.9); --r:6px; --font:'Georgia', 'Times New Roman', 'Segoe UI', serif; --mono:'Consolas','Monaco',monospace; }
 *{box-sizing:border-box;margin:0;padding:0}
 html{scroll-behavior:smooth}
 body{background:var(--bg);color:var(--text);font-family:var(--font);min-height:100vh}
-
 .layout{display:grid;grid-template-columns:260px 1fr;min-height:100vh}
 @media(max-width:800px){.layout{grid-template-columns:1fr}.sidebar{display:none}}
-
 .sidebar{background:var(--bg3);border-right:1px solid var(--border);padding:1.25rem 0;position:sticky;top:0;height:100vh;overflow-y:auto;display:flex;flex-direction:column;gap:0}
 .sidebar-logo{padding:.75rem 1.25rem 1rem;font-size:17px;font-weight:700;letter-spacing:-.5px;border-bottom:1px solid var(--border);margin-bottom:.5rem}
 .sidebar-logo span{color:var(--red)}
@@ -52,7 +26,6 @@ body{background:var(--bg);color:var(--text);font-family:var(--font);min-height:1
 .nav-item{display:flex;align-items:center;gap:8px;padding:.55rem 1.25rem;cursor:pointer;font-size:13px;color:var(--text2);transition:all .15s}
 .nav-item:hover{color:var(--text)}
 .nav-item.active{color:var(--blue)}
-
 .main{display:flex;flex-direction:column;min-height:100vh}
 .topbar{background:var(--bg2);border-bottom:1px solid var(--border);padding:.75rem 1.5rem;display:flex;align-items:center;gap:12px;position:sticky;top:0;z-index:50}
 .topbar-title{font-size:15px;font-weight:500;flex:1}
@@ -62,34 +35,30 @@ body{background:var(--bg);color:var(--text);font-family:var(--font);min-height:1
 .btn{padding:6px 14px;border:none;border-radius:var(--r);cursor:pointer;font-size:13px;font-weight:500;transition:all .15s}
 .btn-src{background:var(--bg3);color:var(--text2);font-size:12px}
 .btn-src:hover{color:var(--blue)}
-
 .content{flex:1;padding:1rem 1.2rem}
 @media(max-width:600px){.content{padding:0.8rem}}
-
 .tabs{display:flex;gap:4px;margin-bottom:1.5rem;background:var(--bg2);border:1px solid var(--border);border-radius:var(--r);padding:4px}
 .tab{flex:1;padding:7px 0;font-size:13px;text-align:center;border-radius:7px;cursor:pointer;color:var(--text2);transition:all .15s}
 .tab.active{background:var(--blue);color:#fff}
 .section{display:none}.section.active{display:block}
-
 .transcript-wrap{display:grid;grid-template-columns:1fr 280px;gap:1.25rem;align-items:start}
 @media(max-width:900px){.transcript-wrap{grid-template-columns:1fr}}
 .transcript-body{background:var(--bg2);border:1px solid var(--border);border-radius:var(--r);padding:1.5rem;font-size:15px;line-height:1.75;font-family:var(--font);position:relative}
+.segment-block{margin-bottom:2rem;border-bottom:1px solid var(--border);padding-bottom:1rem}
+.segment-block:last-child{border-bottom:none;margin-bottom:0}
+.segment-title{font-size:16px;font-weight:600;color:var(--blue);margin-bottom:1rem;padding-bottom:6px;border-bottom:2px solid var(--blue-dim);display:inline-block}
 .transcript-body .para{margin-bottom:1.2rem}
 .transcript-body .para:last-child{margin-bottom:0}
 .transcript-body .speaker-tag{display:inline-block;font-size:12px;font-weight:600;color:var(--blue);margin-right:6px;vertical-align:middle}
 .transcript-hint{font-size:12px;color:var(--text2);margin-bottom:1rem;padding:.5rem .75rem;background:var(--bg3);border-radius:6px;border-left:2px solid var(--blue);font-family:var(--font)}
-
 .translation-box{background:var(--bg2);border:1px solid var(--border);border-radius:var(--r);padding:1.5rem}
 .translation-box .card-label{font-size:11px;font-weight:600;color:var(--text2);letter-spacing:.08em;text-transform:uppercase;margin-bottom:12px}
 #fullTranslation{white-space:pre-wrap;line-height:1.8;font-size:14px;font-family:var(--font)}
-
 .hl{background:var(--hl-yellow);border-bottom:1px solid var(--hl-yellow-border);border-radius:2px;cursor:pointer;transition:background .15s;padding:0 2px;position:relative}
 .hl:hover,.hl.active{background:var(--hl-active)}
 .hl.level-考研{border-bottom-color:#e68a2e}
 .hl.level-六级{border-bottom-color:#0a58ca}
-/* 浏览器默认 tooltip 样式优化 */
 [title]{cursor:help}
-
 .vocab-popup{position:fixed;z-index:200;max-width:300px;background:var(--bg4);border:1px solid var(--border2);border-radius:var(--r);padding:1rem 1.1rem;box-shadow:0 8px 32px rgba(0,0,0,0.15);display:none;pointer-events:none}
 .vocab-popup.show{display:block}
 .vp-word{font-size:17px;font-weight:700;color:var(--text)}
@@ -99,7 +68,6 @@ body{background:var(--bg);color:var(--text);font-family:var(--font);min-height:1
 .vp-lv{font-size:11px;padding:1px 7px;border-radius:20px;background:#fef2e0;color:#b45b0a;font-weight:500}
 .vp-cn{font-size:14px;color:var(--blue);font-weight:500;margin-bottom:3px}
 .vp-en{font-size:12px;color:var(--text2);line-height:1.6}
-
 .word-panel{background:var(--bg2);border:1px solid var(--border);border-radius:var(--r);padding:1rem;position:sticky;top:80px}
 .word-panel-title{font-size:12px;font-weight:600;color:var(--text2);letter-spacing:.08em;text-transform:uppercase;margin-bottom:10px}
 .word-list{display:flex;flex-direction:column;gap:4px;max-height:calc(100vh - 200px);overflow-y:auto}
@@ -109,7 +77,6 @@ body{background:var(--bg);color:var(--text);font-family:var(--font);min-height:1
 .wc-word{font-size:14px;font-weight:500;color:var(--text)}
 .wc-cn{font-size:12px;color:var(--text2);flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .wc-lv{width:6px;height:6px;border-radius:50%;flex-shrink:0}
-
 .vocab-grid{display:flex;flex-direction:column;gap:10px}
 .vcard{background:var(--bg2);border:1px solid var(--border);border-radius:var(--r);padding:1rem 1.25rem;transition:border .15s}
 .vcard:hover{border-color:var(--border2)}
@@ -123,7 +90,6 @@ body{background:var(--bg);color:var(--text);font-family:var(--font);min-height:1
 .veg{padding:8px 12px;background:var(--bg3);border-left:2px solid var(--blue);border-radius:0 6px 6px 0;font-size:13px;line-height:1.75}
 .veg em{color:var(--blue);font-style:normal;font-weight:600}
 .vegcn{font-size:12px;color:var(--text2);margin-top:4px}
-
 .scard{background:var(--bg2);border:1px solid var(--border);border-radius:var(--r);padding:1.25rem;margin-bottom:12px}
 .snum{display:inline-flex;align-items:center;justify-content:center;width:22px;height:22px;border-radius:50%;background:var(--blue);color:#fff;font-size:12px;font-weight:700;margin-bottom:10px}
 .sen-en{font-size:15px;line-height:1.9;margin-bottom:10px}
@@ -131,13 +97,11 @@ body{background:var(--bg);color:var(--text);font-family:var(--font);min-height:1
 .alabel{font-size:11px;font-weight:600;color:var(--text2);letter-spacing:.08em;text-transform:uppercase;margin-bottom:5px}
 .abody{font-size:13px;line-height:1.75;margin-bottom:8px}
 .divider{height:1px;background:var(--border);margin:10px 0}
-
 .tcard{background:var(--bg2);border:1px solid var(--border);border-radius:var(--r);padding:1.25rem;margin-bottom:12px}
 .ttitle{display:flex;align-items:center;gap:9px;font-size:15px;font-weight:600;margin-bottom:10px}
 .tdot{width:10px;height:10px;border-radius:50%;flex-shrink:0}
 .tcontent{font-size:13px;color:var(--text2);line-height:1.85;margin-bottom:8px}
 .tkw{font-size:12px;color:var(--blue)}
-
 .empty{text-align:center;padding:5rem 1rem;color:var(--text2)}
 ::-webkit-scrollbar{width:6px;height:6px}
 ::-webkit-scrollbar-track{background:var(--bg)}
@@ -146,7 +110,6 @@ body{background:var(--bg);color:var(--text);font-family:var(--font);min-height:1
 </head>
 <body>
 <div class="layout">
-
 <aside class="sidebar">
   <div class="sidebar-logo"><span>CNN</span> 英语精读</div>
   <div class="sidebar-section">历史记录</div>
@@ -155,7 +118,6 @@ body{background:var(--bg);color:var(--text);font-family:var(--font);min-height:1
     <div class="nav-item" onclick="window.open('https://transcripts.cnn.com','_blank')">🔗 CNN Transcripts</div>
   </div>
 </aside>
-
 <div class="main">
   <div class="topbar">
     <div class="topbar-title" id="topbarTitle">CNN This Morning</div>
@@ -163,7 +125,6 @@ body{background:var(--bg);color:var(--text);font-family:var(--font);min-height:1
     <span class="badge badge-auto">⚡ 每日自动更新</span>
     <button class="btn btn-src" id="srcBtn" onclick="openSource()">查看原文 →</button>
   </div>
-
   <div class="content">
     <div class="tabs">
       <div class="tab active" onclick="switchTab('transcript')">📝 全文稿</div>
@@ -172,7 +133,6 @@ body{background:var(--bg);color:var(--text);font-family:var(--font);min-height:1
       <div class="tab" onclick="switchTab('sentences')">🔍 难句</div>
       <div class="tab" onclick="switchTab('topics')">🌍 背景</div>
     </div>
-
     <div id="transcript" class="section active">
       <div class="transcript-wrap">
         <div>
@@ -187,39 +147,32 @@ body{background:var(--bg);color:var(--text);font-family:var(--font);min-height:1
         </div>
       </div>
     </div>
-
     <div id="translation" class="section">
       <div class="translation-box">
         <div class="card-label">📖 完整中文翻译</div>
         <div id="fullTranslation">加载中...</div>
       </div>
     </div>
-
     <div id="vocab" class="section">
       <div class="vocab-grid" id="vocabGrid"></div>
     </div>
-
     <div id="sentences" class="section">
       <div id="sentenceList"></div>
     </div>
-
     <div id="topics" class="section">
       <div id="topicList"></div>
     </div>
   </div>
 </div>
 </div>
-
 <div class="vocab-popup" id="vocabPopup">
   <div><span class="vp-word" id="vpWord"></span><span class="vp-ph" id="vpPh"></span></div>
   <div class="vp-badges"><span class="vp-pos" id="vpPos"></span><span class="vp-lv" id="vpLv"></span></div>
   <div class="vp-cn" id="vpCn"></div>
   <div class="vp-en" id="vpEn"></div>
 </div>
-
 <script>
 /* ALL_DATA_PLACEHOLDER */
-
 let currentData = null;
 const LV_COLORS = {'考研':'#e68a2e','六级':'#0a58ca'};
 
@@ -244,31 +197,45 @@ function renderAll(data){
   currentData = data;
   document.getElementById('topbarDate').textContent = data.date||'';
   document.getElementById('topbarTitle').textContent = 'CNN This Morning · ' + (data.date||'');
-
-  renderRawTranscript(data.raw_transcript || '', data.vocabulary || []);
+  
+  // 使用 segments 数组渲染分块原文
+  renderSegmentedTranscript(data.segments || [], data.vocabulary || []);
   renderWordList(data.vocabulary || []);
   renderVocab(data.vocabulary || []);
   renderSentences(data.sentences || []);
   renderTopics(data.topics || []);
-
+  
   const transDiv = document.getElementById('fullTranslation');
   if(transDiv) transDiv.innerHTML = esc(data.full_translation || '暂无全文翻译，请重新运行生成。');
 }
 
-function renderRawTranscript(rawText, vocab){
+function renderSegmentedTranscript(segments, vocab){
   const container = document.getElementById('transcriptBody');
-  if(!rawText){
-    container.innerHTML = '<div style="color:var(--text2)">无原文数据</div>';
+  if(!segments || segments.length === 0){
+    container.innerHTML = '<div style="color:var(--text2)">无分段数据</div>';
     return;
   }
   const vocabMap = {};
   vocab.forEach(v=>{ vocabMap[v.word.toLowerCase()] = v; });
   const sortedWords = Object.keys(vocabMap).sort((a,b)=>b.length-a.length);
-  const highlighted = highlightWordsWithHover(rawText, sortedWords, vocabMap);
-  container.innerHTML = highlighted;
+  
+  let html = '';
+  for(let seg of segments){
+    const title = seg.title || `Segment ${seg.seg}`;
+    const rawText = seg.text || '';
+    const highlighted = highlightWordsWithHover(rawText, sortedWords, vocabMap);
+    html += `
+      <div class="segment-block">
+        <div class="segment-title">📺 ${esc(title)}</div>
+        ${highlighted}
+      </div>
+    `;
+  }
+  container.innerHTML = html;
 }
 
 function highlightWordsWithHover(text, sortedWords, vocabMap){
+  if(!text) return '';
   const positions = [];
   const lc = text.toLowerCase();
   sortedWords.forEach(word=>{
@@ -287,43 +254,31 @@ function highlightWordsWithHover(text, sortedWords, vocabMap){
   });
   if(!positions.length) return `<div class="para">${esc(text)}</div>`;
   positions.sort((a,b)=>a.start-b.start);
-  
   let result = '';
   let last = 0;
-  
-  // 将文本按段落分割（简单按双换行分割）
   const paragraphs = text.split(/\n\s*\n/);
   let globalPos = 0;
-  
   for (let para of paragraphs) {
     result += '<div class="para">';
     let paraStart = globalPos;
     let paraEnd = globalPos + para.length;
-    
-    // 找出落在此段落内的所有高亮
     const paraPositions = positions.filter(p => p.start >= paraStart && p.start < paraEnd);
     let lastParaPos = paraStart;
-    
     for (let p of paraPositions) {
-      // 添加高亮前的普通文本
       result += esc(text.slice(lastParaPos, p.start));
-      // 添加高亮词本身，并设置 title 属性为中文释义（悬停显示）
       const word = p.word;
       const vocabData = p.vocab;
       const lv = vocabData.level || '';
       const lvClass = `level-${lv}`;
       const cnMeaning = vocabData.cn || '';
-      // 注意转义 title 中的引号
       const safeTitle = cnMeaning.replace(/["']/g, '&quot;');
       result += `<span class="hl ${lvClass}" data-word="${esc(word)}" title="${safeTitle}" onclick="showVocabPopup(event,'${esc(word)}')">${esc(word)}</span>`;
       lastParaPos = p.end;
     }
-    // 添加剩余文本
     result += esc(text.slice(lastParaPos, paraEnd));
     result += '</div>';
-    globalPos = paraEnd + 2; // 跳过换行符
+    globalPos = paraEnd + 2;
   }
-  
   return result;
 }
 
@@ -331,25 +286,21 @@ function showVocabPopup(e, word){
   e.stopPropagation();
   const data = currentData?.vocabulary?.find(v=>v.word===word);
   if(!data) return;
-
   document.querySelectorAll('.hl').forEach(el=>{
     el.classList.toggle('active', el.dataset.word===word);
   });
   document.querySelectorAll('.word-chip').forEach(el=>{
     el.classList.toggle('active', el.dataset.word===word);
   });
-
   document.getElementById('vpWord').textContent = data.word;
   document.getElementById('vpPh').textContent   = data.phonetic||'';
   document.getElementById('vpPos').textContent  = data.pos||'';
   document.getElementById('vpLv').textContent   = data.level||'';
   document.getElementById('vpCn').textContent   = data.cn||'';
   document.getElementById('vpEn').textContent   = data.en||'';
-
   const popup = document.getElementById('vocabPopup');
   popup.classList.add('show');
   popup.style.pointerEvents = 'auto';
-
   let x = e.clientX + 12, y = e.clientY + 12;
   if(x + 300 > window.innerWidth) x = e.clientX - 312;
   if(y + 160 > window.innerHeight) y = e.clientY - 160;
