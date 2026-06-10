@@ -482,7 +482,29 @@ function loadDate(date){
     currentData = ALL_DATA[date];
     
     // 更新顶部日期显示
-    document.getElementById('topbarDate').textContent = date;
+// 渲染翻译（支持数组格式）
+const translationDiv = document.getElementById('fullTranslation');
+if (Array.isArray(data.full_translation) && data.full_translation.length) {
+    let transHtml = '';
+    for (let item of data.full_translation) {
+        if (item.paragraph && item.translation) {
+            transHtml += `<div style="margin-bottom: 1rem; white-space: pre-wrap;">
+                            <strong>${escapeHtml(item.paragraph)}</strong><br>
+                            ${escapeHtml(item.translation)}
+                          </div>`;
+        } else if (item.en && item.cn) {
+            // 兼容旧格式
+            transHtml += `<div style="margin-bottom: 1rem;">${escapeHtml(item.en)}<br>${escapeHtml(item.cn)}</div>`;
+        } else {
+            transHtml += `<div>${escapeHtml(JSON.stringify(item))}</div>`;
+        }
+    }
+    translationDiv.innerHTML = transHtml;
+} else if (typeof data.full_translation === 'string') {
+    translationDiv.innerHTML = escapeHtml(data.full_translation).replace(/\n/g, '<br>');
+} else {
+    translationDiv.innerHTML = '暂无全文翻译';
+}
     
     // 渲染内容
     renderTranscript(currentData);
