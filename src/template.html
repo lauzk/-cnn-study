@@ -30,28 +30,22 @@
             --font: 'Verdana', 'Arial', 'Helvetica', sans-serif;
             --mono: 'Consolas', 'Monaco', monospace;
         }
-        /* ... (重置样式保持不变) ... */
         * {
             box-sizing: border-box;
             margin: 0;
             padding: 0;
         }
-
-        /* 全局样式 */
         body {
             background: var(--bg);
             color: var(--text);
             font-family: var(--font);
             min-height: 100vh;
         }
-
-        /* 布局 */
         .layout {
             display: grid;
             grid-template-columns: 300px 1fr;
             min-height: 100vh;
         }
-
         @media (max-width: 800px) {
             .layout {
                 grid-template-columns: 1fr;
@@ -60,8 +54,6 @@
                 display: none;
             }
         }
-
-        /* 侧边栏样式（模拟 CNN 目录风格） */
         .sidebar {
             background: var(--bg3);
             border-right: 1px solid var(--border);
@@ -71,7 +63,6 @@
             height: 100vh;
             overflow-y: auto;
         }
-
         .sidebar-logo {
             font-size: 18px;
             font-weight: bold;
@@ -80,11 +71,9 @@
             padding-bottom: 1rem;
             margin-bottom: 1rem;
         }
-
         .directory-section {
             margin-bottom: 1.5rem;
         }
-
         .directory-section .section-title {
             font-size: 12px;
             font-weight: 600;
@@ -93,7 +82,6 @@
             letter-spacing: 0.5px;
             margin-bottom: 0.5rem;
         }
-
         .directory-item {
             cursor: pointer;
             padding: 0.5rem;
@@ -101,41 +89,32 @@
             transition: background 0.15s;
             margin-bottom: 8px;
         }
-
         .directory-item:hover {
             background: var(--bg4);
         }
-
         .directory-item.active {
             background: var(--blue-dim);
             border-left: 3px solid var(--blue);
         }
-
         .item-header {
             display: flex;
             align-items: baseline;
             gap: 8px;
             flex-wrap: wrap;
         }
-
         .item-date {
             font-family: var(--mono);
             font-size: 12px;
             font-weight: 600;
             color: var(--text);
         }
-
         .item-title {
             font-size: 12px;
             color: var(--text2);
         }
-
-        /* 主内容区 */
         .main {
             padding: 1.5rem;
         }
-
-        /* 顶部栏 */
         .topbar {
             display: flex;
             align-items: baseline;
@@ -145,19 +124,16 @@
             padding-bottom: 1rem;
             border-bottom: 1px solid var(--border);
         }
-
         .topbar-title {
             font-size: 18px;
             font-weight: bold;
             color: var(--red);
         }
-
         .topbar-date {
             font-family: var(--mono);
             font-size: 12px;
             color: var(--text2);
         }
-
         .btn-src {
             background: var(--bg3);
             border: 1px solid var(--border);
@@ -167,12 +143,9 @@
             cursor: pointer;
             margin-left: auto;
         }
-
         .btn-src:hover {
             background: var(--bg4);
         }
-
-        /* Tabs 标签页 */
         .tabs {
             display: flex;
             gap: 4px;
@@ -182,7 +155,6 @@
             border-radius: var(--r);
             padding: 4px;
         }
-
         .tab {
             flex: 1;
             padding: 7px 0;
@@ -193,39 +165,27 @@
             color: var(--text2);
             transition: all .15s;
         }
-
         .tab.active {
             background: var(--blue);
             color: #fff;
         }
-
         .section {
             display: none;
         }
-
         .section.active {
             display: block;
         }
-
-        /* 目录视图 */
-        .directory-view {
-            display: block;
-        }
-
-        /* 原文内容区域 */
         .transcript-wrap {
             display: grid;
             grid-template-columns: 1fr 280px;
             gap: 1.25rem;
             align-items: start;
         }
-
         @media (max-width: 900px) {
             .transcript-wrap {
                 grid-template-columns: 1fr;
             }
         }
-
         .transcript-body {
             background: var(--bg2);
             border: 1px solid var(--border);
@@ -233,20 +193,16 @@
             padding: 1.5rem;
             font-family: var(--font);
             line-height: 1.75;
-            position: relative;
         }
-
         .segment-block {
             margin-bottom: 2rem;
             border-bottom: 1px solid var(--border);
             padding-bottom: 1rem;
         }
-
         .segment-block:last-child {
             border-bottom: none;
             margin-bottom: 0;
         }
-
         .segment-title {
             font-size: 14px;
             font-weight: bold;
@@ -255,59 +211,26 @@
             padding-bottom: 4px;
             border-bottom: 1px solid var(--border);
         }
-
         .para {
             margin-bottom: 1rem;
             white-space: pre-wrap;
         }
-
-        .speaker-tag {
-            display: inline-block;
-            font-size: 12px;
-            font-weight: 600;
-            color: var(--blue);
-            margin-right: 6px;
-        }
-
-        /* 翻译区域 */
-        .translation-box {
-            background: var(--bg2);
-            border: 1px solid var(--border);
-            border-radius: var(--r);
-            padding: 1.5rem;
-        }
-
-        #fullTranslation {
-            white-space: pre-wrap;
-            line-height: 1.8;
-            font-size: 14px;
-            font-family: var(--font);
-        }
-
-        /* 高亮词汇 */
         .hl {
             background: var(--hl-yellow);
             border-bottom: 1px solid var(--hl-yellow-border);
             border-radius: 2px;
             cursor: pointer;
-            transition: background .15s;
             padding: 0 2px;
         }
-
-        .hl:hover,
-        .hl.active {
+        .hl:hover, .hl.active {
             background: var(--hl-active);
         }
-
         .hl.level-考研 {
             border-bottom-color: #e68a2e;
         }
-
         .hl.level-六级 {
             border-bottom-color: #0a58ca;
         }
-
-        /* Tooltip 弹窗 */
         .vocab-popup {
             position: fixed;
             z-index: 200;
@@ -316,15 +239,12 @@
             border: 1px solid var(--border2);
             border-radius: var(--r);
             padding: 1rem;
-            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15);
+            box-shadow: 0 8px 32px rgba(0,0,0,0.15);
             display: none;
         }
-
         .vocab-popup.show {
             display: block;
         }
-
-        /* 词汇索引 */
         .word-panel {
             background: var(--bg2);
             border: 1px solid var(--border);
@@ -333,7 +253,6 @@
             position: sticky;
             top: 80px;
         }
-
         .word-list {
             display: flex;
             flex-direction: column;
@@ -341,7 +260,6 @@
             max-height: calc(100vh - 200px);
             overflow-y: auto;
         }
-
         .word-chip {
             display: flex;
             align-items: center;
@@ -349,64 +267,59 @@
             padding: 6px 10px;
             border-radius: 7px;
             cursor: pointer;
-            transition: all .15s;
         }
-
         .word-chip:hover {
             background: var(--bg3);
         }
-
         .word-chip.active {
             background: var(--blue-dim);
         }
-
-        /* 词汇/句子/话题卡片 */
-        .vocab-grid {
-            display: flex;
-            flex-direction: column;
-            gap: 10px;
-        }
-
-        .vcard,
-        .scard,
-        .tcard {
+        .vocab-grid, .scard, .tcard {
             background: var(--bg2);
             border: 1px solid var(--border);
             border-radius: var(--r);
             padding: 1rem;
             margin-bottom: 12px;
         }
-
         .vword {
             font-size: 18px;
             font-weight: 700;
             color: var(--red);
         }
-
-        /* 其他样式... */
         .empty {
             text-align: center;
             padding: 3rem;
             color: var(--text2);
         }
-
         ::-webkit-scrollbar {
             width: 6px;
         }
-
         ::-webkit-scrollbar-track {
             background: var(--bg);
         }
-
         ::-webkit-scrollbar-thumb {
             background: var(--border2);
             border-radius: 3px;
+        }
+        .translation-box {
+            background: var(--bg2);
+            border: 1px solid var(--border);
+            border-radius: var(--r);
+            padding: 1.5rem;
+        }
+        #fullTranslation {
+            white-space: pre-wrap;
+            line-height: 1.8;
+            font-size: 14px;
+        }
+        .card-label {
+            font-weight: bold;
+            margin-bottom: 12px;
         }
     </style>
 </head>
 <body>
 <div class="layout">
-    <!-- 侧边栏：CNN风格目录 -->
     <aside class="sidebar">
         <div class="sidebar-logo">CNN 英语精读</div>
         <div class="directory-section">
@@ -420,7 +333,6 @@
         </div>
     </aside>
 
-    <!-- 主内容区 -->
     <div class="main">
         <div class="topbar">
             <span class="topbar-title">CNN This Morning</span>
@@ -436,7 +348,6 @@
             <div class="tab" onclick="switchTab('topics')">🌍 背景</div>
         </div>
 
-        <!-- 内容容器：动态加载 -->
         <div id="contentContainer">
             <div class="directory-view">
                 <div class="empty">请从左侧选择日期加载内容</div>
@@ -445,12 +356,11 @@
     </div>
 </div>
 
-<!-- Tooltip 弹窗 -->
 <div class="vocab-popup" id="vocabPopup">
     <div><span class="vp-word" id="vpWord"></span><span class="vp-ph" id="vpPh"></span></div>
-    <div class="vp-badges"><span class="vp-pos" id="vpPos"></span><span class="vp-lv" id="vpLv"></span></div>
-    <div class="vp-cn" id="vpCn"></div>
-    <div class="vp-en" id="vpEn"></div>
+    <div><span class="vp-pos" id="vpPos"></span><span class="vp-lv" id="vpLv"></span></div>
+    <div id="vpCn" style="color: var(--red);"></div>
+    <div id="vpEn" style="font-size: 12px;"></div>
 </div>
 
 <script>
@@ -459,7 +369,6 @@ let currentData = null;
 let currentDate = null;
 const LV_COLORS = {'考研':'#e68a2e','六级':'#0a58ca'};
 
-// 初始化
 (function init(){
     const latestDate = '<!-- LATEST_DATE -->';
     if(latestDate && ALL_DATA[latestDate]) {
@@ -468,7 +377,6 @@ const LV_COLORS = {'考研':'#e68a2e','六级':'#0a58ca'};
         const firstDate = Object.keys(ALL_DATA)[0];
         if(firstDate) loadDate(firstDate);
     }
-    // 高亮当前选中的目录项
     updateActiveDirectory();
 })();
 
@@ -480,43 +388,9 @@ function loadDate(date){
     if(!ALL_DATA[date]) return;
     currentDate = date;
     currentData = ALL_DATA[date];
-    
-    // 更新顶部日期显示
-// 渲染翻译（支持数组格式）
-const translationDiv = document.getElementById('fullTranslation');
-if (Array.isArray(data.full_translation) && data.full_translation.length) {
-    let transHtml = '';
-    for (let item of data.full_translation) {
-        if (item.paragraph && item.translation) {
-            transHtml += `<div style="margin-bottom: 1rem; white-space: pre-wrap;">
-                            <strong>${escapeHtml(item.paragraph)}</strong><br>
-                            ${escapeHtml(item.translation)}
-                          </div>`;
-        } else if (item.en && item.cn) {
-            // 兼容旧格式
-            transHtml += `<div style="margin-bottom: 1rem;">${escapeHtml(item.en)}<br>${escapeHtml(item.cn)}</div>`;
-        } else {
-            transHtml += `<div>${escapeHtml(JSON.stringify(item))}</div>`;
-        }
-    }
-    translationDiv.innerHTML = transHtml;
-} else if (typeof data.full_translation === 'string') {
-    translationDiv.innerHTML = escapeHtml(data.full_translation).replace(/\n/g, '<br>');
-} else {
-    translationDiv.innerHTML = '暂无全文翻译';
-}
-    
-    // 渲染内容
-    renderTranscript(currentData);
-    renderTranslation(currentData);
-    renderVocab(currentData);
-    renderSentences(currentData);
-    renderTopics(currentData);
-    
-    // 切换到全文稿标签
+    document.getElementById('topbarDate').textContent = date;
+    renderContent(currentData);
     switchTab('transcript');
-    
-    // 更新目录激活状态
     updateActiveDirectory();
 }
 
@@ -531,18 +405,15 @@ function updateActiveDirectory() {
     });
 }
 
-// 渲染原文（分段展示，保留换行）
-function renderTranscript(data) {
-    const container = document.getElementById('contentContainer');
+function renderContent(data) {
     const segments = data.segments || [];
     const vocab = data.vocabulary || [];
     
     if(!segments.length) {
-        container.innerHTML = '<div class="empty">暂无内容</div>';
+        document.getElementById('contentContainer').innerHTML = '<div class="empty">暂无内容</div>';
         return;
     }
     
-    // 构建词汇映射
     const vocabMap = {};
     vocab.forEach(v => { vocabMap[v.word.toLowerCase()] = v; });
     const sortedWords = Object.keys(vocabMap).sort((a,b) => b.length - a.length);
@@ -550,51 +421,53 @@ function renderTranscript(data) {
     let html = `
         <div class="section active" id="transcriptSection">
             <div class="transcript-wrap">
-                <div>
-                    <div class="transcript-body" id="transcriptBody"></div>
-                </div>
-                <div>
-                    <div class="word-panel">
-                        <div class="word-panel-title">词汇索引</div>
-                        <div class="word-list" id="wordList"></div>
-                    </div>
-                </div>
+                <div><div class="transcript-body" id="transcriptBody"></div></div>
+                <div><div class="word-panel"><div class="word-panel-title">词汇索引</div><div class="word-list" id="wordList"></div></div></div>
             </div>
         </div>
         <div class="section" id="translationSection">
-            <div class="translation-box">
-                <div class="card-label">📖 完整中文翻译</div>
-                <div id="fullTranslation"></div>
-            </div>
+            <div class="translation-box"><div class="card-label">📖 完整中文翻译</div><div id="fullTranslation"></div></div>
         </div>
         <div class="section" id="vocabSection"><div class="vocab-grid" id="vocabGrid"></div></div>
         <div class="section" id="sentencesSection"><div id="sentenceList"></div></div>
         <div class="section" id="topicsSection"><div id="topicList"></div></div>
     `;
-    container.innerHTML = html;
+    document.getElementById('contentContainer').innerHTML = html;
     
-    // 渲染原文内容
+    // 原文
     let transcriptHtml = '';
     for(let seg of segments) {
         const title = seg.title || `Segment ${seg.seg}`;
         const rawText = seg.text || '';
         const highlighted = highlightWords(rawText, sortedWords, vocabMap);
-        transcriptHtml += `
-            <div class="segment-block">
-                <div class="segment-title">📺 ${escapeHtml(title)}</div>
-                <div class="para">${highlighted}</div>
-            </div>
-        `;
+        transcriptHtml += `<div class="segment-block"><div class="segment-title">📺 ${escapeHtml(title)}</div><div class="para">${highlighted}</div></div>`;
     }
     document.getElementById('transcriptBody').innerHTML = transcriptHtml;
     
-    // 渲染词汇索引
+    // 词汇索引
     renderWordList(vocab);
     
-    // 渲染翻译
-    document.getElementById('fullTranslation').innerHTML = escapeHtml(data.full_translation || '暂无全文翻译');
+    // 翻译（数组格式）
+    const transDiv = document.getElementById('fullTranslation');
+    if (Array.isArray(data.full_translation) && data.full_translation.length) {
+        let transHtml = '';
+        for (let item of data.full_translation) {
+            if (item.paragraph && item.translation) {
+                transHtml += `<div style="margin-bottom: 1rem;"><strong>${escapeHtml(item.paragraph)}</strong><br>${escapeHtml(item.translation)}</div>`;
+            } else if (item.en && item.cn) {
+                // 兼容旧格式（如有）
+                transHtml += `<div style="margin-bottom: 1rem;">${escapeHtml(item.en)}<br>${escapeHtml(item.cn)}</div>`;
+            } else {
+                transHtml += `<div>${escapeHtml(JSON.stringify(item))}</div>`;
+            }
+        }
+        transDiv.innerHTML = transHtml;
+    } else if (typeof data.full_translation === 'string') {
+        transDiv.innerHTML = escapeHtml(data.full_translation).replace(/\n/g, '<br>');
+    } else {
+        transDiv.innerHTML = '暂无全文翻译';
+    }
     
-    // 渲染其他组件
     renderVocabCards(vocab);
     renderSentencesList(data.sentences || []);
     renderTopicsList(data.topics || []);
@@ -602,7 +475,6 @@ function renderTranscript(data) {
 
 function highlightWords(text, sortedWords, vocabMap) {
     if(!text) return '';
-    // 构建位置数组
     const positions = [];
     const lc = text.toLowerCase();
     sortedWords.forEach(word => {
@@ -612,27 +484,20 @@ function highlightWords(text, sortedWords, vocabMap) {
             const after = idx+word.length >= text.length || !/[a-z]/i.test(text[idx+word.length]);
             if(before && after) {
                 const overlaps = positions.some(p => idx < p.end && idx+word.length > p.start);
-                if(!overlaps) {
-                    positions.push({start:idx, end:idx+word.length, word, vocab:vocabMap[word]});
-                }
+                if(!overlaps) positions.push({start:idx, end:idx+word.length, word, vocab:vocabMap[word]});
             }
             idx += word.length;
         }
     });
     if(!positions.length) return escapeHtml(text);
     positions.sort((a,b) => a.start - b.start);
-    
-    let result = '';
-    let last = 0;
+    let result = '', last = 0;
     for(let p of positions) {
         result += escapeHtml(text.slice(last, p.start));
-        const word = p.word;
-        const vocabData = p.vocab;
-        const lv = vocabData.level || '';
-        const lvClass = `level-${lv}`;
-        const cnMeaning = vocabData.cn || '';
+        const lv = p.vocab.level || '';
+        const cnMeaning = p.vocab.cn || '';
         const safeTitle = cnMeaning.replace(/["']/g, '&quot;');
-        result += `<span class="hl ${lvClass}" data-word="${escapeHtml(word)}" title="${safeTitle}" onclick="showVocabPopup(event,'${escapeHtml(word)}')">${escapeHtml(word)}</span>`;
+        result += `<span class="hl level-${lv}" data-word="${escapeHtml(p.word)}" title="${safeTitle}" onclick="showVocabPopup(event,'${escapeHtml(p.word)}')">${escapeHtml(p.word)}</span>`;
         last = p.end;
     }
     result += escapeHtml(text.slice(last));
@@ -643,22 +508,14 @@ function showVocabPopup(e, word) {
     e.stopPropagation();
     const data = currentData?.vocabulary?.find(v => v.word === word);
     if(!data) return;
-    
-    // 高亮当前单词
-    document.querySelectorAll('.hl').forEach(el => {
-        el.classList.toggle('active', el.dataset.word === word);
-    });
-    document.querySelectorAll('.word-chip').forEach(el => {
-        el.classList.toggle('active', el.dataset.word === word);
-    });
-    
+    document.querySelectorAll('.hl').forEach(el => el.classList.toggle('active', el.dataset.word === word));
+    document.querySelectorAll('.word-chip').forEach(el => el.classList.toggle('active', el.dataset.word === word));
     document.getElementById('vpWord').textContent = data.word;
     document.getElementById('vpPh').textContent = data.phonetic || '';
     document.getElementById('vpPos').textContent = data.pos || '';
     document.getElementById('vpLv').textContent = data.level || '';
     document.getElementById('vpCn').textContent = data.cn || '';
     document.getElementById('vpEn').textContent = data.en || '';
-    
     const popup = document.getElementById('vocabPopup');
     popup.classList.add('show');
     let x = e.clientX + 12, y = e.clientY + 12;
@@ -681,9 +538,9 @@ function renderWordList(vocab) {
     if(!container) return;
     container.innerHTML = vocab.map(v => `
         <div class="word-chip" data-word="${escapeHtml(v.word)}" onclick="jumpToWord('${escapeHtml(v.word)}')">
-            <span class="wc-lv" style="background:${LV_COLORS[v.level] || '#0a58ca'}; width:8px; height:8px; border-radius:50%; display:inline-block; margin-right:6px;"></span>
-            <span class="wc-word">${escapeHtml(v.word)}</span>
-            <span class="wc-cn">${escapeHtml(v.cn || '')}</span>
+            <span style="display:inline-block; width:8px; height:8px; background:${LV_COLORS[v.level] || '#0a58ca'}; border-radius:50%; margin-right:6px;"></span>
+            <span>${escapeHtml(v.word)}</span>
+            <span style="margin-left:8px; color:var(--text2);">${escapeHtml(v.cn || '')}</span>
         </div>
     `).join('');
 }
@@ -692,10 +549,7 @@ function jumpToWord(word) {
     switchTab('transcript');
     setTimeout(() => {
         const el = document.querySelector(`.hl[data-word="${word}"]`);
-        if(el) {
-            el.scrollIntoView({behavior: 'smooth', block: 'center'});
-            el.click();
-        }
+        if(el) { el.scrollIntoView({behavior:'smooth', block:'center'}); el.click(); }
     }, 50);
 }
 
@@ -704,42 +558,19 @@ function renderVocabCards(vocab) {
     if(!container) return;
     container.innerHTML = vocab.map(v => `
         <div class="vcard">
-            <div class="vhead">
-                <span class="vword">${escapeHtml(v.word)}</span>
-                <span class="vph">${escapeHtml(v.phonetic || '')}</span>
-                <span class="bpos">${escapeHtml(v.pos || '')}</span>
-                <span class="blv">${escapeHtml(v.level || '')}</span>
-            </div>
-            <div class="vcn">${escapeHtml(v.cn)}</div>
-            <div class="ven">${escapeHtml(v.en || '')}</div>
-            <div class="veg">
-                ${highlightExcerpt(v.excerpt || v.example || '', v.word)}
-                <div class="vegcn">${escapeHtml(v.example_cn || '')}</div>
-            </div>
+            <div><span class="vword">${escapeHtml(v.word)}</span> <span>${escapeHtml(v.phonetic || '')}</span> <span>${escapeHtml(v.pos || '')}</span> <span>${escapeHtml(v.level || '')}</span></div>
+            <div>${escapeHtml(v.cn)}</div>
+            <div>${escapeHtml(v.en || '')}</div>
+            <div><em>${escapeHtml(v.excerpt || v.example || '')}</em><div>${escapeHtml(v.example_cn || '')}</div></div>
         </div>
     `).join('');
-}
-
-function highlightExcerpt(text, word) {
-    if(!word || !text) return escapeHtml(text);
-    const re = new RegExp(`(${word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
-    return escapeHtml(text).replace(re, '<em>$1</em>');
 }
 
 function renderSentencesList(sentences) {
     const container = document.getElementById('sentenceList');
     if(!container) return;
-    container.innerHTML = sentences.map((s, i) => `
-        <div class="scard">
-            <div class="snum">${i+1}</div>
-            <div class="sen-en">${escapeHtml(s.en)}</div>
-            <div class="sen-cn">${escapeHtml(s.cn)}</div>
-            <div class="divider"></div>
-            <div class="alabel">句子结构</div>
-            <div class="abody">${escapeHtml(s.structure || '')}</div>
-            <div class="alabel">语法分析</div>
-            <div class="abody">${escapeHtml(s.analysis || '')}</div>
-        </div>
+    container.innerHTML = sentences.map((s,i) => `
+        <div class="scard"><strong>${i+1}.</strong> <div>${escapeHtml(s.en)}</div><div>${escapeHtml(s.cn)}</div><div><em>结构：</em>${escapeHtml(s.structure || '')}</div><div><em>分析：</em>${escapeHtml(s.analysis || '')}</div></div>
     `).join('');
 }
 
@@ -747,49 +578,30 @@ function renderTopicsList(topics) {
     const container = document.getElementById('topicList');
     if(!container) return;
     const colors = ['#0a58ca','#d6336c','#146c43','#e68a2e'];
-    container.innerHTML = topics.map((t, i) => `
-        <div class="tcard">
-            <div class="ttitle">
-                <span class="tdot" style="background:${colors[i % colors.length]}"></span>
-                ${escapeHtml(t.title)}
-            </div>
-            <div class="tcontent">${escapeHtml(t.content)}</div>
-            <div class="tkw">🔑 ${escapeHtml(t.keywords || '')}</div>
-        </div>
+    container.innerHTML = topics.map((t,i) => `
+        <div class="tcard"><strong style="color:${colors[i%colors.length]}">${escapeHtml(t.title)}</strong><div>${escapeHtml(t.content)}</div><div>🔑 ${escapeHtml(t.keywords || '')}</div></div>
     `).join('');
 }
 
 function switchTab(tabId) {
-    // 更新 Tab 按钮样式
-    document.querySelectorAll('.tab').forEach(tab => {
-        tab.classList.remove('active');
-    });
-    const targetTab = Array.from(document.querySelectorAll('.tab')).find(tab => {
-        const onclickAttr = tab.getAttribute('onclick');
-        return onclickAttr && onclickAttr.includes(tabId);
-    });
-    if(targetTab) targetTab.classList.add('active');
-    
-    // 显示对应的 Section
     const sections = ['transcriptSection', 'translationSection', 'vocabSection', 'sentencesSection', 'topicsSection'];
-    sections.forEach(id => {
-        const el = document.getElementById(id);
-        if(el) el.classList.remove('active');
+    const tabMap = { transcript: 0, translation: 1, vocab: 2, sentences: 3, topics: 4 };
+    const idx = tabMap[tabId];
+    if(idx === undefined) return;
+    document.querySelectorAll('.tab').forEach((tab,i) => {
+        if(i === idx) tab.classList.add('active');
+        else tab.classList.remove('active');
     });
-    const targetSection = document.getElementById(`${tabId}Section`);
-    if(targetSection) targetSection.classList.add('active');
+    sections.forEach((id, i) => {
+        const el = document.getElementById(id);
+        if(el) el.classList.toggle('active', i === idx);
+    });
 }
 
 function escapeHtml(str) {
     if(!str) return '';
     return String(str).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/\n/g, '<br>');
 }
-
-// 辅助函数（兼容旧版）
-function renderTranslation(data) {}
-function renderVocab(data) {}
-function renderSentences(data) {}
-function renderTopics(data) {}
 </script>
 </body>
 </html>
