@@ -199,17 +199,24 @@ SYSTEM = """你是专业英语精读教学助手，专注新闻英语。
 
 
 def build_prompt(transcript: str, date_str: str, source_url: str) -> str:
-    safe = transcript.replace('\\', '\\\\').replace('"', '\\"')
+    # 截取前7000字符，避免超出模型上下文导致输出被截断
+    safe = transcript[:7000].replace('\\', '\\\\').replace('"', '\\"')
     return f"""CNN This Morning 逐字稿（{date_str}）：
 
 {safe}
 
-你必须严格输出一个合法的 JSON 对象，不要输出任何额外的解释、说明或 Markdown 格式。JSON 对象必须包含以下字段：
+你必须严格输出合法JSON对象，不输出任何解释或Markdown格式。必须包含以下字段：
 
 {{
   "date": "{date_str}",
   "source_url": "{source_url}",
-  "full_translation": "整篇文稿的逐句中文翻译，必须严格保留原文的换行和段落分隔（即原文中的空行在翻译中也用空行表示，每个说话人段落之间用换行分隔，不要把所有句子挤在一起）。",
+
+  "full_translation": [
+    {{
+      "en": "原文一个段落（保持原文顺序）",
+      "cn": "对应中文翻译"
+    }}
+  ],
 
   "vocabulary": [
     {{
@@ -219,17 +226,17 @@ def build_prompt(transcript: str, date_str: str, source_url: str) -> str:
       "level": "考研/六级",
       "cn": "中文释义（含搭配）",
       "en": "英文释义",
-      "excerpt": "包含该词的原文片段（10-20词，用于高亮定位，单引号代替双引号）",
+      "excerpt": "含该词的原文片段（10-20词，单引号代替双引号）",
       "example_cn": "该片段中文翻译"
     }}
   ],
 
   "sentences": [
     {{
-      "en": "原文长难句（完整句子）",
-      "cn": "准确中文翻译",
-      "structure": "句子结构（主句/从句/插入语等）",
-      "analysis": "语法要点/习语/修辞分析"
+      "en": "原文长难句",
+      "cn": "中文翻译",
+      "structure": "句子结构",
+      "analysis": "语法/习语分析"
     }}
   ],
 
@@ -243,13 +250,11 @@ def build_prompt(transcript: str, date_str: str, source_url: str) -> str:
 }}
 
 严格要求：
-- vocabulary：只提取考研和六级水平的词汇或短语，忽略其他难度。不限个数，至少12个，上不封顶
-- sentences：提取文稿中的所有长难句，不限个数
-- topics：提取所有值得展开的背景话题，不限个数，至少4个，上不封顶
-- 不需要 summary 和 quiz 字段
-- 必须包含 full_translation，逐句对应原文，且必须保留原文的空行和段落结构，让翻译后的文本有清晰的阅读层次"""
-
-
+- full_translation：按自然段逐段翻译，每个en/cn对应一个段落，保持顺序不遗漏
+- vocabulary：只提取考研和六级词汇短语，不限个数，至少12个，全部提取
+- sentences：所有含嵌套从句/插入语/习语的长难句，不限个数
+- topics：所有值得展开的背景话题，至少4个，不限个数
+- 不需要summary和quiz字段"""
 
 def call_deepseek(prompt: str) -> dict:
     if not DEEPSEEK_API_KEY:
@@ -260,7 +265,7 @@ def call_deepseek(prompt: str) -> dict:
         headers={'Authorization': f'Bearer {DEEPSEEK_API_KEY}', 'Content-Type': 'application/json'},
         json={
             'model': 'deepseek-chat',
-            'max_tokens': 8192,
+            'max_tokens': 16384,
             'temperature': 0.1,
             'response_format': {'type': 'json_object'},
             'messages': [
