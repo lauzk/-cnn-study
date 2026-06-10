@@ -1,422 +1,783 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>CNN 英语精读</title>
-<style>
-/* 全局重置 + CNN 风格 */
-* { margin: 0; padding: 0; box-sizing: border-box; }
-body {
-    background: #ffffff;
-    color: #000000;
-    font-family: Verdana, Arial, Helvetica, sans-serif;
-    line-height: 1.4;
-}
-/* 侧边栏 */
-.sidebar {
-    position: fixed;
-    left: 0;
-    top: 0;
-    width: 220px;
-    height: 100%;
-    background: #f5f5f5;
-    border-right: 1px solid #ddd;
-    overflow-y: auto;
-    padding: 16px;
-    font-size: 13px;
-}
-.sidebar-logo {
-    font-weight: bold;
-    font-size: 16px;
-    color: #cc0000;
-    border-bottom: 1px solid #ccc;
-    padding-bottom: 8px;
-    margin-bottom: 16px;
-}
-.hist-item {
-    margin-bottom: 8px;
-    cursor: pointer;
-    display: flex;
-    align-items: center;
-    gap: 6px;
-}
-.hist-item .dot {
-    width: 8px;
-    height: 8px;
-    background: #999;
-    border-radius: 50%;
-}
-.hist-item.active .dot { background: #cc0000; }
-.hist-item .date { color: #006598; font-size: 12px; }
-.hist-item.active .date { font-weight: bold; color: #cc0000; }
-.sidebar-nav { margin-top: 24px; padding-top: 12px; border-top: 1px solid #ddd; }
-.nav-item { cursor: pointer; color: #006598; font-size: 12px; }
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CNN 英语精读</title>
+    <style>
+        :root {
+            --bg: #ffffff;
+            --bg2: #ffffff;
+            --bg3: #f8f9fa;
+            --bg4: #f1f3f5;
+            --border: #e9ecef;
+            --border2: #dee2e6;
+            --text: #212529;
+            --text2: #495057;
+            --text3: #6c757d;
+            --blue: #0a58ca;
+            --blue-dim: #e7f1ff;
+            --red: #cc0000;
+            --green: #146c43;
+            --amber: #e68a2e;
+            --coral: #d6336c;
+            --teal: #0f8b8b;
+            --purple: #6f42c1;
+            --hl-yellow: rgba(255, 243, 205, 0.8);
+            --hl-yellow-border: rgba(255, 193, 7, 0.8);
+            --hl-active: rgba(255, 230, 150, 0.9);
+            --r: 6px;
+            --font: 'Verdana', 'Arial', 'Helvetica', sans-serif;
+            --mono: 'Consolas', 'Monaco', monospace;
+        }
+        /* ... (重置样式保持不变) ... */
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
 
-/* 主内容区 */
-.main {
-    margin-left: 240px;
-    padding: 20px 30px;
-}
-.topbar {
-    margin-bottom: 20px;
-    border-bottom: 1px solid #eee;
-    padding-bottom: 10px;
-}
-.topbar-title {
-    font-size: 18px;
-    font-weight: bold;
-    color: #cc0000;
-}
-.topbar-date {
-    font-size: 12px;
-    color: #666;
-    margin-left: 12px;
-}
-.btn-src {
-    float: right;
-    background: #f0f0f0;
-    border: 1px solid #ccc;
-    padding: 4px 12px;
-    cursor: pointer;
-    font-size: 12px;
-}
-.btn-src:hover { background: #e0e0e0; }
+        /* 全局样式 */
+        body {
+            background: var(--bg);
+            color: var(--text);
+            font-family: var(--font);
+            min-height: 100vh;
+        }
 
-/* 选项卡 */
-.tabs {
-    border-bottom: 1px solid #ddd;
-    margin-bottom: 20px;
-    padding-bottom: 6px;
-}
-.tab {
-    display: inline-block;
-    margin-right: 20px;
-    font-weight: bold;
-    font-size: 13px;
-    color: #006598;
-    cursor: pointer;
-    padding: 4px 0;
-}
-.tab.active { color: #cc0000; border-bottom: 2px solid #cc0000; }
+        /* 布局 */
+        .layout {
+            display: grid;
+            grid-template-columns: 300px 1fr;
+            min-height: 100vh;
+        }
 
-/* 原文区域：关键！保留换行和空格 */
-.transcript-body {
-    white-space: pre-wrap;    /* 保留换行和空格，自动换行 */
-    font-family: Verdana, Arial, Helvetica, sans-serif;
-    font-size: 13px;
-    line-height: 1.6;
-    background: #fff;
-    padding: 12px;
-    border: 1px solid #eaeaea;
-}
-.segment-block {
-    margin-bottom: 28px;
-}
-.segment-title {
-    font-weight: bold;
-    font-size: 14px;
-    color: #cc0000;
-    margin-bottom: 12px;
-    border-bottom: 1px solid #ccc;
-    padding-bottom: 4px;
-}
-/* 高亮词汇样式 */
-.cnnTransHighlight {
-    background-color: #ffffe0;
-    border-bottom: 1px dotted #cc0000;
-    cursor: pointer;
-}
-.cnnTransHighlight:hover {
-    background-color: #fff0b0;
-}
-/* 词汇索引 */
-.word-panel {
-    background: #fafafa;
-    border: 1px solid #ddd;
-    padding: 12px;
-}
-.word-list .word-chip {
-    cursor: pointer;
-    margin-bottom: 6px;
-    font-size: 12px;
-    padding: 4px;
-}
-.word-list .word-chip:hover { background: #f0f0f0; }
-/* 词汇卡片等 */
-.vcard, .scard, .tcard {
-    background: #fff;
-    border: 1px solid #e0e0e0;
-    margin-bottom: 12px;
-    padding: 12px;
-}
-.vword { font-weight: bold; color: #cc0000; }
-/* 翻译区域 */
-.translation-box {
-    background: #fefefe;
-    border: 1px solid #ddd;
-    padding: 16px;
-}
-#fullTranslation {
-    white-space: pre-wrap;
-    font-family: Verdana, Arial, sans-serif;
-    font-size: 13px;
-    line-height: 1.6;
-}
-</style>
+        @media (max-width: 800px) {
+            .layout {
+                grid-template-columns: 1fr;
+            }
+            .sidebar {
+                display: none;
+            }
+        }
+
+        /* 侧边栏样式（模拟 CNN 目录风格） */
+        .sidebar {
+            background: var(--bg3);
+            border-right: 1px solid var(--border);
+            padding: 1.5rem;
+            position: sticky;
+            top: 0;
+            height: 100vh;
+            overflow-y: auto;
+        }
+
+        .sidebar-logo {
+            font-size: 18px;
+            font-weight: bold;
+            color: var(--red);
+            border-bottom: 1px solid var(--border);
+            padding-bottom: 1rem;
+            margin-bottom: 1rem;
+        }
+
+        .directory-section {
+            margin-bottom: 1.5rem;
+        }
+
+        .directory-section .section-title {
+            font-size: 12px;
+            font-weight: 600;
+            color: var(--text3);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 0.5rem;
+        }
+
+        .directory-item {
+            cursor: pointer;
+            padding: 0.5rem;
+            border-radius: 4px;
+            transition: background 0.15s;
+            margin-bottom: 8px;
+        }
+
+        .directory-item:hover {
+            background: var(--bg4);
+        }
+
+        .directory-item.active {
+            background: var(--blue-dim);
+            border-left: 3px solid var(--blue);
+        }
+
+        .item-header {
+            display: flex;
+            align-items: baseline;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+
+        .item-date {
+            font-family: var(--mono);
+            font-size: 12px;
+            font-weight: 600;
+            color: var(--text);
+        }
+
+        .item-title {
+            font-size: 12px;
+            color: var(--text2);
+        }
+
+        /* 主内容区 */
+        .main {
+            padding: 1.5rem;
+        }
+
+        /* 顶部栏 */
+        .topbar {
+            display: flex;
+            align-items: baseline;
+            gap: 12px;
+            flex-wrap: wrap;
+            margin-bottom: 1.5rem;
+            padding-bottom: 1rem;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .topbar-title {
+            font-size: 18px;
+            font-weight: bold;
+            color: var(--red);
+        }
+
+        .topbar-date {
+            font-family: var(--mono);
+            font-size: 12px;
+            color: var(--text2);
+        }
+
+        .btn-src {
+            background: var(--bg3);
+            border: 1px solid var(--border);
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-size: 11px;
+            cursor: pointer;
+            margin-left: auto;
+        }
+
+        .btn-src:hover {
+            background: var(--bg4);
+        }
+
+        /* Tabs 标签页 */
+        .tabs {
+            display: flex;
+            gap: 4px;
+            margin-bottom: 1.5rem;
+            background: var(--bg2);
+            border: 1px solid var(--border);
+            border-radius: var(--r);
+            padding: 4px;
+        }
+
+        .tab {
+            flex: 1;
+            padding: 7px 0;
+            font-size: 13px;
+            text-align: center;
+            border-radius: 7px;
+            cursor: pointer;
+            color: var(--text2);
+            transition: all .15s;
+        }
+
+        .tab.active {
+            background: var(--blue);
+            color: #fff;
+        }
+
+        .section {
+            display: none;
+        }
+
+        .section.active {
+            display: block;
+        }
+
+        /* 目录视图 */
+        .directory-view {
+            display: block;
+        }
+
+        /* 原文内容区域 */
+        .transcript-wrap {
+            display: grid;
+            grid-template-columns: 1fr 280px;
+            gap: 1.25rem;
+            align-items: start;
+        }
+
+        @media (max-width: 900px) {
+            .transcript-wrap {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .transcript-body {
+            background: var(--bg2);
+            border: 1px solid var(--border);
+            border-radius: var(--r);
+            padding: 1.5rem;
+            font-family: var(--font);
+            line-height: 1.75;
+            position: relative;
+        }
+
+        .segment-block {
+            margin-bottom: 2rem;
+            border-bottom: 1px solid var(--border);
+            padding-bottom: 1rem;
+        }
+
+        .segment-block:last-child {
+            border-bottom: none;
+            margin-bottom: 0;
+        }
+
+        .segment-title {
+            font-size: 14px;
+            font-weight: bold;
+            color: var(--red);
+            margin-bottom: 0.75rem;
+            padding-bottom: 4px;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .para {
+            margin-bottom: 1rem;
+            white-space: pre-wrap;
+        }
+
+        .speaker-tag {
+            display: inline-block;
+            font-size: 12px;
+            font-weight: 600;
+            color: var(--blue);
+            margin-right: 6px;
+        }
+
+        /* 翻译区域 */
+        .translation-box {
+            background: var(--bg2);
+            border: 1px solid var(--border);
+            border-radius: var(--r);
+            padding: 1.5rem;
+        }
+
+        #fullTranslation {
+            white-space: pre-wrap;
+            line-height: 1.8;
+            font-size: 14px;
+            font-family: var(--font);
+        }
+
+        /* 高亮词汇 */
+        .hl {
+            background: var(--hl-yellow);
+            border-bottom: 1px solid var(--hl-yellow-border);
+            border-radius: 2px;
+            cursor: pointer;
+            transition: background .15s;
+            padding: 0 2px;
+        }
+
+        .hl:hover,
+        .hl.active {
+            background: var(--hl-active);
+        }
+
+        .hl.level-考研 {
+            border-bottom-color: #e68a2e;
+        }
+
+        .hl.level-六级 {
+            border-bottom-color: #0a58ca;
+        }
+
+        /* Tooltip 弹窗 */
+        .vocab-popup {
+            position: fixed;
+            z-index: 200;
+            max-width: 300px;
+            background: var(--bg4);
+            border: 1px solid var(--border2);
+            border-radius: var(--r);
+            padding: 1rem;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15);
+            display: none;
+        }
+
+        .vocab-popup.show {
+            display: block;
+        }
+
+        /* 词汇索引 */
+        .word-panel {
+            background: var(--bg2);
+            border: 1px solid var(--border);
+            border-radius: var(--r);
+            padding: 1rem;
+            position: sticky;
+            top: 80px;
+        }
+
+        .word-list {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+            max-height: calc(100vh - 200px);
+            overflow-y: auto;
+        }
+
+        .word-chip {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 6px 10px;
+            border-radius: 7px;
+            cursor: pointer;
+            transition: all .15s;
+        }
+
+        .word-chip:hover {
+            background: var(--bg3);
+        }
+
+        .word-chip.active {
+            background: var(--blue-dim);
+        }
+
+        /* 词汇/句子/话题卡片 */
+        .vocab-grid {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .vcard,
+        .scard,
+        .tcard {
+            background: var(--bg2);
+            border: 1px solid var(--border);
+            border-radius: var(--r);
+            padding: 1rem;
+            margin-bottom: 12px;
+        }
+
+        .vword {
+            font-size: 18px;
+            font-weight: 700;
+            color: var(--red);
+        }
+
+        /* 其他样式... */
+        .empty {
+            text-align: center;
+            padding: 3rem;
+            color: var(--text2);
+        }
+
+        ::-webkit-scrollbar {
+            width: 6px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: var(--bg);
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: var(--border2);
+            border-radius: 3px;
+        }
+    </style>
 </head>
 <body>
-
-<div class="sidebar">
-    <div class="sidebar-logo">📰 CNN 英语精读</div>
-    <div id="histList"><div class="hist-item active" data-date="2026-06-10" onclick="loadDate('2026-06-10')"><span class="dot"></span><span class="date">2026-06-10</span></div></div>
-    <div class="sidebar-nav">
-        <div class="nav-item" onclick="window.open('https://transcripts.cnn.com','_blank')">🔗 CNN Transcripts</div>
-    </div>
-</div>
-
-<div class="main">
-    <div class="topbar">
-        <span class="topbar-title" id="topbarTitle">CNN This Morning</span>
-        <span class="topbar-date" id="topbarDate"></span>
-        <button class="btn-src" onclick="openSource()">查看原文 →</button>
-    </div>
-
-    <div class="tabs">
-        <div class="tab active" onclick="switchTab('transcript')">📝 全文稿</div>
-        <div class="tab" onclick="switchTab('translation')">🌐 全文翻译</div>
-        <div class="tab" onclick="switchTab('vocab')">📚 词汇</div>
-        <div class="tab" onclick="switchTab('sentences')">🔍 难句</div>
-        <div class="tab" onclick="switchTab('topics')">🌍 背景</div>
-    </div>
-
-    <div id="transcript" class="section active">
-        <div style="display: flex; gap: 20px;">
-            <div style="flex: 3;">
-                <div class="transcript-body" id="transcriptBody"></div>
+<div class="layout">
+    <!-- 侧边栏：CNN风格目录 -->
+    <aside class="sidebar">
+        <div class="sidebar-logo">CNN 英语精读</div>
+        <div class="directory-section">
+            <div class="section-title">📅 历史记录</div>
+            <div id="directoryList">
+                
+        <div class="directory-item" data-date="2026-06-09">
+            <div class="item-header">
+                <span class="item-date">2026-06-09</span>
+                <span class="item-title">CNN.com - Transcripts</span>
             </div>
-            <div style="flex: 1;">
-                <div class="word-panel">
-                    <div style="font-weight: bold; margin-bottom: 8px;">📖 词汇索引</div>
-                    <div id="wordList"></div>
-                </div>
+            <div class="item-segments">
+                <!-- segments 占位，详情页面加载后填充 -->
+            </div>
+        </div>
+        
+            </div>
+        </div>
+        <div class="sidebar-nav" style="margin-top: auto; padding-top: 1rem; border-top: 1px solid var(--border);">
+            <div class="nav-item" onclick="window.open('https://transcripts.cnn.com','_blank')" style="cursor: pointer;">🔗 CNN Transcripts</div>
+        </div>
+    </aside>
+
+    <!-- 主内容区 -->
+    <div class="main">
+        <div class="topbar">
+            <span class="topbar-title">CNN This Morning</span>
+            <span class="topbar-date" id="topbarDate"></span>
+            <button class="btn-src" id="srcBtn" onclick="openSource()">查看原文 →</button>
+        </div>
+
+        <div class="tabs">
+            <div class="tab active" onclick="switchTab('transcript')">📝 全文稿</div>
+            <div class="tab" onclick="switchTab('translation')">🌐 全文翻译</div>
+            <div class="tab" onclick="switchTab('vocab')">📚 词汇</div>
+            <div class="tab" onclick="switchTab('sentences')">🔍 难句</div>
+            <div class="tab" onclick="switchTab('topics')">🌍 背景</div>
+        </div>
+
+        <!-- 内容容器：动态加载 -->
+        <div id="contentContainer">
+            <div class="directory-view">
+                <div class="empty">请从左侧选择日期加载内容</div>
             </div>
         </div>
     </div>
-
-    <div id="translation" class="section">
-        <div class="translation-box">
-            <div style="font-weight: bold; margin-bottom: 12px;">📖 完整中文翻译</div>
-            <div id="fullTranslation">加载中...</div>
-        </div>
-    </div>
-
-    <div id="vocab" class="section"><div id="vocabGrid"></div></div>
-    <div id="sentences" class="section"><div id="sentenceList"></div></div>
-    <div id="topics" class="section"><div id="topicList"></div></div>
 </div>
 
-<div id="vocabPopup" style="position:fixed; background:#fff; border:1px solid #aaa; padding:8px; display:none; z-index:1000; max-width:280px;">
-    <div><span id="vpWord" style="font-weight:bold;"></span> <span id="vpPh"></span></div>
-    <div><span id="vpPos"></span> <span id="vpLv"></span></div>
-    <div id="vpCn" style="color:#cc0000;"></div>
-    <div id="vpEn" style="font-size:12px;"></div>
+<!-- Tooltip 弹窗 -->
+<div class="vocab-popup" id="vocabPopup">
+    <div><span class="vp-word" id="vpWord"></span><span class="vp-ph" id="vpPh"></span></div>
+    <div class="vp-badges"><span class="vp-pos" id="vpPos"></span><span class="vp-lv" id="vpLv"></span></div>
+    <div class="vp-cn" id="vpCn"></div>
+    <div class="vp-en" id="vpEn"></div>
 </div>
 
 <script>
-const ALL_DATA = {"2026-06-10":{"date":"2026-06-10","source_url":"https://transcripts.cnn.com/show/ctmo/date/2026-06-10/segment/01","full_translation":[{"en":"CNN This Morning 逐字稿（2026-06-10）：","cn":"CNN This Morning 逐字稿（2026-06-10）："},{"en":"Return to Transcripts main page","cn":"返回文稿主页"},{"en":"Platner Easily Wins Democratic Senate Primary in Maine; U.S. Hits Iran after Helicopter Downed; OpenAI Files for IPO, Joins Anthropic and SpaceX. Aired 6-6:30a ET","cn":"普拉特纳轻松赢得缅因州民主党参议员初选；直升机被击落后美国打击伊朗；OpenAI申请IPO，加入Anthropic和SpaceX。美国东部时间上午6点至6点30分播出。"},{"en":"Aired June 10, 2026 - 06:00   ET","cn":"播出日期：2026年6月10日 - 美国东部时间06:00"},{"en":"THIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.","cn":"这是速记稿。此副本可能不是最终版本，可能会更新。"},{"en":"AUDIE CORNISH, CNN ANCHOR: Today in the group chat, Democrats in Maine vote to stick with Graham Platner. Could that cost the party a shot at flipping the Senate this fall?","cn":"CNN主播奥黛·科尼什：今天在群聊中，缅因州民主党人投票支持格雷厄姆·普拉特纳。这会令该党失去今年秋天翻转参议院的机会吗？"},{"en":"REP. ALEXANDRIA OCASIO-CORTEZ (D-NY): If the choice on the ballot is between that and a senator who's voted to take health care away from millions of Americans, that's the situation that we have to weigh.","cn":"纽约州民主党众议员亚历山大·奥卡西奥-科尔特斯：如果选票上的选择是在那（指普拉特纳的丑闻）和一位投票剥夺数百万美国人医保的参议员之间，那就是我们必须权衡的情况。"},{"en":"CORNISH: Missiles light up the sky in the Middle East again. Will the strained ceasefire last long enough for the U.S. to deliver that long- promised deal with Iran?","cn":"科尼什：导弹再次照亮中东天空。紧张的停火能否持续足够长的时间，让美国兑现与伊朗长期承诺的协议？"},{"en":"And a big day for the Epstein files. What will Bill Gates tell lawmakers about his links to the late convicted sex offender.","cn":"爱泼斯坦文件迎来重要一天。比尔·盖茨将就他与已故被定罪性犯罪者的联系向立法者说些什么。"},{"en":"UNIDENTIFIED MALE: Do you think that you've killed people as an adult?","cn":"身份不明的男性：你认为你成年后杀过人吗？"},{"en":"VICTOR MARX (R), COLORADO GUBERNATORIAL CANDIDATE: Does it matter?","cn":"科罗拉多州共和党州长候选人维克多·马克斯：这重要吗？"},{"en":"CORNISH: This is a candidate who also claims he killed someone as a child. Meet the frontrunner in the Republican race for governor of Colorado.","cn":"科尼什：这是一位自称童年时杀过人的候选人。来认识一下科罗拉多州共和党州长竞选的领跑者。"},{"en":"And it's the $3.5 trillion question on Wall Street. Has the A.I. boom gotten ahead of itself?","cn":"华尔街面临3.5万亿美元的问题。人工智能热潮是否超前了？"},{"en":"UNIDENTIFIED MALE: OpenAI and Anthropic plan to have IPOs at release before the end of this year, signaling to me that the A.I. bubble is about to pop.","cn":"身份不明的男性：OpenAI和Anthropic计划在今年年底前进行IPO，这向我表明人工智能泡沫即将破裂。"},{"en":"(END VIDEO CLIP) (BEGIN VIDEO CLIP)","cn":"（视频片段结束）（视频片段开始）"},{"en":"GRAHAM PLATNER (D), MAINE SENATE CANDIDATE: To any of those who feel let down or disappointed or disillusioned, it is my job to earn your trust, faith, and support. And I will spend every day of this campaign. And if I have the privilege every day in the United States Senate doing exactly that.","cn":"缅因州参议员候选人格雷厄姆·普拉特纳（民主党）：对于任何感到失望、沮丧或幻灭的人，我的工作是赢得你们的信任、信念和支持。我将用尽这场竞选的每一天。如果我有幸进入美国参议院，每一天都会这样做。"},{"en":"CORNISH: Graham Platner punches his ticket. But now he's got to convince voters to choose him over a five-term senator.","cn":"科尼什：格雷厄姆·普拉特纳获得了提名。但现在他必须说服选民选择他而不是一位连任五届的参议员。"},{"en":"Good morning everybody. I'm Audie Cornish. Here is where we begin. That big statement out of Maine.","cn":"大家早上好。我是奥黛·科尼什。我们开始吧。来自缅因州的重磅声明。"},{"en":"Democrat Graham Platner, despite all the scandals, earned about three- fourths of primary voters' support over Governor Janet Mills.","cn":"民主党人格雷厄姆·普拉特纳，尽管丑闻缠身，仍赢得了约四分之三初选选民的支持，击败了州长珍妮特·米尔斯。"},{"en":"Moments after clinching the nomination, he turned his attention to his new opponent, Republican Senator Susan Collins.","cn":"在获得提名后不久，他将注意力转向了他的新对手，共和党参议员苏珊·柯林斯。"},{"en":"PLATNER: Susan Collins may have started -- may have started her career decades ago in Washington with good intentions, but she has become just as spineless and corrupt as the establishment she now serves. If you are an independent voice, why do you vote with Donald Trump 95 percent of the time?","cn":"普拉特纳：苏珊·柯林斯可能几十年前在华盛顿开始她的职业生涯时怀有良好意图，但她已经变得和她现在所服务的建制派一样软弱和腐败。如果你是一个独立的声音，为什么你95%的时间都和唐纳德·特朗普投票一致？"},{"en":"CORNISH: Platner has a lot of work to do to get Mills voters on his side.","cn":"科尼什：普拉特纳需要做很多工作来争取米尔斯选民的支持。"},{"en":"UNIDENTIFIED FEMALE: I couldn't honestly support Platner, even though some of the things that he says are really good.","cn":"身份不明的女性：我无法诚实地支持普拉特纳，尽管他说的一些话确实很好。"},{"en":"UNIDENTIFIED MALE: I don't think he's ready to be a senator. I'm leaning towards Collins unless the guy shows something else, but I just -- he's not there yet. And --","cn":"身份不明的男性：我认为他还没有准备好成为参议员。我倾向于柯林斯，除非这家伙表现出其他东西，但我只是——他还没到那个水平。而且——"},{"en":"UNIDENTIFIED FEMALE: And so, what will you do in November if its Platner versus Collins?","cn":"身份不明的女性：那么，如果11月是普拉特纳对阵柯林斯，你会怎么做？"},{"en":"UNIDENTIFIED FEMALE: That's a really good question. I'm a Democrat, but I voted for Susan Collins several times, because I think that she does care about the state of Maine. But it's going to be a real problem for me in November.","cn":"身份不明的女性：这是个非常好的问题。我是民主党人，但我多次投票给苏珊·柯林斯，因为我认为她确实关心缅因州。但这对11月的我来说将是一个真正的问题。"},{"en":"CORNISH: So, today in the group chat, Mike Leon, host of the \"Can We Please Talk\" podcast; Jared Stepman, columnist with \"The Daily Signal\"; and Max Rose, former Democratic congressman from New York.","cn":"科尼什：所以，今天在群聊中，有《我们能谈谈吗》播客主持人迈克·莱昂；《每日信号》专栏作家贾里德·斯特普曼；以及前纽约州民主党众议员马克斯·罗斯。"},{"en":"And Max, I'm actually going to start with you, because you're with VoteVets, which means you guys had a dog in the fight in this race. You guys have been giving a lot of money across the country.","cn":"马克斯，我实际上要从你开始，因为你在VoteVets工作，这意味着你们在这场竞选中有利害关系。你们在全国各地投入了大量资金。"},{"en":"And what is it? Let me just show what -- what's at stake here.","cn":"这是什么？让我展示一下——这里的关键是什么。"},{"en":"Democrats' chances of flipping the Maine Senate seat. It was pretty good. Maybe this has jeopardized it. We're going to show people a chart while you're talking so you can see what's at stake.","cn":"民主党翻转缅因州参议院席位的机会。本来相当不错。也许这已经危及到了。我们会在你说话时向人们展示一张图表，这样你就能看到关键所在。"},{"en":"Is this race as close as you all hoped it would be, now that Graham has struggled with these scandals?","cn":"既然格雷厄姆因这些丑闻而挣扎，这场竞选是否像你们所有人希望的那样接近？"},{"en":"MAX ROSE (D), FORMER NEW YORK CONGRESSMAN: The race is always going to be close. Because --","cn":"前纽约州民主党众议员马克斯·罗斯：这场竞选总是会很接近。因为——"},{"en":"CORNISH: Not with a five-term senator, it's not. A lot of times it can be a blowout, right? Like what -- how do you look at what he needs to accomplish?","cn":"科尼什：面对一位连任五届的参议员，不会。很多时候可能是压倒性的，对吧？比如——你怎么看他需要完成什么？"},{"en":"ROSE: Well, I think that we're saying the same thing --","cn":"罗斯：嗯，我认为我们说的是同一件事——"},{"en":"ROSE: -- in essence, right? Susan Collins is tough to beat.","cn":"罗斯：——本质上，对吧？苏珊·柯林斯很难击败。"},{"en":"What I would say about the Susan Collins race is that we've seen in the past, is you're not going to win this seat by electing a Susan Collins light or putting forward a Susan Collins light in a race.","cn":"关于苏珊·柯林斯的竞选，我想说的是，我们过去看到的是，你不可能通过选举一个“苏珊·柯林斯轻量版”或在竞选中推出一个“苏珊·柯林斯轻量版”来赢得这个席位。"},{"en":"You are going to beat her by energizing your base, particularly in a midterm election.","cn":"你要通过激励你的基本盘来击败她，尤其是在中期选举中。"},{"en":"There is no doubt, though, that this election has got to be a referendum on Susan Collins: on the ways in which she has voted to empower Donald Trump; on her refusal to hold Donald Trump accountable; on the ways in which she has said, I might be fair, but I want to take healthcare away from millions of people. Says the right thing often; does the wrong thing very frequently.","cn":"不过，毫无疑问，这次选举必须是对苏珊·柯林斯的公投：关于她投票赋予唐纳德·特朗普权力的方式；关于她拒绝追究唐纳德·特朗普责任的方式；关于她所说的，我可能公平，但我想剥夺数百万人的医保。经常说正确的话；却非常频繁地做错误的事。"},{"en":"CORNISH: Yes. So, this is very much the message we hear over and over again. And I love that Platner in front of him, it said, \"They don't know Maine.\" You know what I mean? Usually not his own name, not a bunch of other things. It was like, hello, media, this one is for you.","cn":"科尼什：是的。所以，这正是我们反复听到的信息。我喜欢普拉特纳面前的标语，上面写着“他们不了解缅因州”。你明白我的意思吗？通常不是他自己的名字，不是一堆其他东西。就像是在说，媒体你好，这个是给你的。"},{"en":"I want to play two clips back-to-back, because it sort of, I think, represents something of this race.","cn":"我想连续播放两段视频，因为我认为这在一定程度上代表了这场竞选。"},{"en":"First, I'm going to play for you J.D. Vance and how he talks about Susan Collins. And then I'm going to play AOC and how she's talking about Platner. You tell me how you hear the tone of these.","cn":"首先，我将播放J.D.万斯谈论苏珊·柯林斯的片段。然后我将播放AOC谈论普拉特纳的片段。你告诉我你如何听出这些的语气。"},{"en":"J.D. VANCE (R), U.S. VICE PRESIDENT: Here's the thing I'll say about Susan Collins, is sometimes I get frustrated with Susan Collins. I almost wish that she was more partisan.","cn":"美国副总统J.D.万斯（共和党）：关于苏珊·柯林斯，我要说的是，有时我对苏珊·柯林斯感到沮丧。我几乎希望她更党派化一些。"},{"en":"But the thing I love about Susan is she is independent, because Maine is an independent state. And frankly, if she was as partisan as I sometimes wish that she was, she would not be a good fit for the people of Maine.","cn":"但我喜欢苏珊的一点是她很独立，因为缅因州是一个独立的州。坦率地说，如果她像我有时希望的那样党派化，她就不适合缅因州人民。"},{"en":"So, let's give a shout-out to Susan Collins, who's doing a great job.","cn":"所以，让我们向苏珊·柯林斯致敬，她做得很好。"},{"en":"OCASIO-CORTEZ: When it comes to the substance of this reporting, obviously, there's a lot in that behavior that's really challenging. It's hard to stomach, you know, in some of it.","cn":"奥卡西奥-科尔特斯：关于这份报道的实质内容，显然，那种行为中有很多非常具有挑战性。有些部分令人难以接受，你知道。"},{"en":"But -- but at the end of the day, I think that this is a choice. If that choice on the ballot is between that and a senator who's voted to take healthcare away from millions of Americans, that's the situation that we have to weigh.","cn":"但是——但归根结底，我认为这是一个选择。如果选票上的选择是在那（指普拉特纳的丑闻）和一位投票剥夺数百万美国人医保的参议员之间，那就是我们必须权衡的情况。"},{"en":"CORNISH: I played these, because one is like, it's hard to stomach. And the other is like, I get frustrated. Shout-out though, anyway, because I guess Maine. And I was, like, these are not ringing endorsements.","cn":"科尼什：我播放这些，因为一个像是“难以接受”，另一个像是“我感到沮丧”。不过还是致敬，因为我想是缅因州。我当时想，这些都不是有力的支持。"},{"en":"MIKE LEON, HOST, \"CAN WE PLEASE TALK?\" PODCAST: But Audie, not only are they not ringing endorsements, the voter that we played in the package before listen to her tone. Maine independents are the second largest party i","cn":"《我们能谈谈吗》播客主持人迈克·莱昂：但是奥黛，它们不仅不是有力的支持，我们之前播放的片段中那位选民，听听她的语气。缅因州独立人士是第二大政党，我"}],"vocabulary":[{"word":"primary","phonetic":"/ˈpraɪməri/","pos":"n.","level":"考研","cn":"初选","en":"a preliminary election to appoint delegates to a party conference or to select the candidates for a principal election","excerpt":"Platner Easily Wins Democratic Senate Primary in Maine","example_cn":"普拉特纳轻松赢得缅因州民主党参议员初选"},{"word":"flip","phonetic":"/flɪp/","pos":"v.","level":"六级","cn":"翻转，改变（政治控制）","en":"to change the political control of a seat or district from one party to another","excerpt":"Could that cost the party a shot at flipping the Senate this fall?","example_cn":"这会令该党失去今年秋天翻转参议院的机会吗？"},{"word":"weigh","phonetic":"/weɪ/","pos":"v.","level":"考研","cn":"权衡，考虑","en":"to consider carefully the relative importance of factors","excerpt":"that's the situation that we have to weigh.","example_cn":"那就是我们必须权衡的情况。"},{"word":"ceasefire","phonetic":"/ˈsiːsfaɪər/","pos":"n.","level":"六级","cn":"停火","en":"a temporary suspension of fighting","excerpt":"Will the strained ceasefire last long enough for the U.S. to deliver that long-promised deal with Iran?","example_cn":"紧张的停火能否持续足够长的时间，让美国兑现与伊朗长期承诺的协议？"},{"word":"convicted","phonetic":"/kənˈvɪktɪd/","pos":"adj.","level":"考研","cn":"已被定罪的","en":"having been found guilty of a crime","excerpt":"his links to the late convicted sex offender.","example_cn":"他与已故被定罪性犯罪者的联系。"},{"word":"frontrunner","phonetic":"/ˈfrʌntrʌnər/","pos":"n.","level":"六级","cn":"领先者，领跑者","en":"the person or thing that is most likely to win a competition","excerpt":"Meet the frontrunner in the Republican race for governor of Colorado.","example_cn":"来认识一下科罗拉多州共和党州长竞选的领跑者。"},{"word":"bubble","phonetic":"/ˈbʌbl/","pos":"n.","level":"考研","cn":"泡沫（经济）","en":"a situation in which the price of an asset is inflated beyond its intrinsic value","excerpt":"the A.I. bubble is about to pop.","example_cn":"人工智能泡沫即将破裂。"},{"word":"clinch","phonetic":"/klɪntʃ/","pos":"v.","level":"六级","cn":"赢得，确定（胜利）","en":"to settle or finalize something, especially a victory","excerpt":"Moments after clinching the nomination","example_cn":"在获得提名后不久"},{"word":"spineless","phonetic":"/ˈspaɪnləs/","pos":"adj.","level":"六级","cn":"没有骨气的，软弱的","en":"lacking courage or determination","excerpt":"she has become just as spineless and corrupt as the establishment she now serves.","example_cn":"她已经变得和她现在所服务的建制派一样软弱和腐败。"},{"word":"corrupt","phonetic":"/kəˈrʌpt/","pos":"adj.","level":"考研","cn":"腐败的","en":"willing to act dishonestly in return for money or personal gain","excerpt":"she has become just as spineless and corrupt as the establishment she now serves.","example_cn":"她已经变得和她现在所服务的建制派一样软弱和腐败。"},{"word":"establishment","phonetic":"/ɪˈstæblɪʃmənt/","pos":"n.","level":"考研","cn":"建制派，当权派","en":"the group in a society exercising power and influence over matters of policy or opinion","excerpt":"the establishment she now serves.","example_cn":"她现在所服务的建制派。"},{"word":"referendum","phonetic":"/ˌrefəˈrendəm/","pos":"n.","level":"六级","cn":"公投，全民公决","en":"a general vote by the electorate on a single political question","excerpt":"this election has got to be a referendum on Susan Collins","example_cn":"这次选举必须是对苏珊·柯林斯的公投"},{"word":"energize","phonetic":"/ˈenərdʒaɪz/","pos":"v.","level":"六级","cn":"激励，激发","en":"to give energy or enthusiasm to","excerpt":"You are going to beat her by energizing your base","example_cn":"你要通过激励你的基本盘来击败她"},{"word":"base","phonetic":"/beɪs/","pos":"n.","level":"考研","cn":"基本盘，支持者群体","en":"the group of people who support a political party or candidate","excerpt":"energizing your base","example_cn":"激励你的基本盘"},{"word":"midterm","phonetic":"/ˈmɪdtɜːrm/","pos":"adj.","level":"六级","cn":"中期（选举）的","en":"relating to an election held in the middle of a presidential term","excerpt":"particularly in a midterm election.","example_cn":"尤其是在中期选举中。"},{"word":"accountable","phonetic":"/əˈkaʊntəbl/","pos":"adj.","level":"考研","cn":"负有责任的","en":"required or expected to justify actions or decisions","excerpt":"her refusal to hold Donald Trump accountable","example_cn":"她拒绝追究唐纳德·特朗普的责任"},{"word":"partisan","phonetic":"/ˈpɑːrtɪzən/","pos":"adj.","level":"六级","cn":"党派性的，偏袒的","en":"prejudiced in favor of a particular cause or party","excerpt":"I almost wish that she was more partisan.","example_cn":"我几乎希望她更党派化一些。"},{"word":"independent","phonetic":"/ˌɪndɪˈpendənt/","pos":"adj./n.","level":"考研","cn":"独立的；独立人士","en":"not belonging to or influenced by a political party","excerpt":"Maine independents are the second largest party","example_cn":"缅因州独立人士是第二大政党"},{"word":"ringing endorsement","phonetic":"/ˈrɪŋɪŋ ɪnˈdɔːrsmənt/","pos":"phrase","level":"六级","cn":"有力的支持","en":"a strong and enthusiastic expression of support","excerpt":"these are not ringing endorsements.","example_cn":"这些都不是有力的支持。"},{"word":"stomach","phonetic":"/ˈstʌmək/","pos":"v.","level":"六级","cn":"忍受，接受","en":"to endure or tolerate something unpleasant","excerpt":"It's hard to stomach","example_cn":"难以接受"}],"sentences":[{"en":"If the choice on the ballot is between that and a senator who's voted to take health care away from millions of Americans, that's the situation that we have to weigh.","cn":"如果选票上的选择是在那（指普拉特纳的丑闻）和一位投票剥夺数百万美国人医保的参议员之间，那就是我们必须权衡的情况。","structure":"条件状语从句（If...）+ 主句（that's...），其中包含定语从句（who's voted...）修饰senator，以及定语从句（that we have to weigh）修饰situation。","analysis":"习语'weigh the situation'意为权衡情况。'take health care away from'意为剥夺医保。"},{"en":"Susan Collins may have started -- may have started her career decades ago in Washington with good intentions, but she has become just as spineless and corrupt as the establishment she now serves.","cn":"苏珊·柯林斯可能几十年前在华盛顿开始她的职业生涯时怀有良好意图，但她已经变得和她现在所服务的建制派一样软弱和腐败。","structure":"并列句（may have started... but...），包含插入语（-- may have started...），以及比较结构（just as... as...）和定语从句（she now serves）。","analysis":"'may have started'表示对过去的推测。'just as... as...'表示同等程度。'spineless and corrupt'是并列形容词。"},{"en":"There is no doubt, though, that this election has got to be a referendum on Susan Collins: on the ways in which she has voted to empower Donald Trump; on her refusal to hold Donald Trump accountable; on the ways in which she has said, I might be fair, but I want to take healthcare away from millions of people.","cn":"不过，毫无疑问，这次选举必须是对苏珊·柯林斯的公投：关于她投票赋予唐纳德·特朗普权力的方式；关于她拒绝追究唐纳德·特朗普责任的方式；关于她所说的，我可能公平，但我想剥夺数百万人的医保。","structure":"主句（There is no doubt...）+ 同位语从句（that...），后接三个并列的介词短语（on...），每个包含定语从句（in which...）。","analysis":"'has got to be'表示强烈必要性。'referendum on'意为对...的公投。'hold...accountable'意为追究...的责任。"},{"en":"But the thing I love about Susan is she is independent, because Maine is an independent state.","cn":"但我喜欢苏珊的一点是她很独立，因为缅因州是一个独立的州。","structure":"主句（the thing... is...），包含定语从句（I love about Susan）和表语从句（she is independent），后接原因状语从句（because...）。","analysis":"'the thing I love about Susan'是主语，'is'是系动词，'she is independent'是表语从句。"},{"en":"When it comes to the substance of this reporting, obviously, there's a lot in that behavior that's really challenging.","cn":"关于这份报道的实质内容，显然，那种行为中有很多非常具有挑战性。","structure":"时间状语从句（When it comes to...）+ 主句（there's...），包含定语从句（that's really challenging）修饰a lot。","analysis":"'When it comes to'是固定短语，意为'当谈到...时'。'substance'意为实质内容。"},{"en":"If that choice on the ballot is between that and a senator who's voted to take healthcare away from millions of Americans, that's the situation that we have to weigh.","cn":"如果选票上的选择是在那（指普拉特纳的丑闻）和一位投票剥夺数百万美国人医保的参议员之间，那就是我们必须权衡的情况。","structure":"条件状语从句（If...）+ 主句（that's...），从句中包含定语从句（who's voted...），主句包含定语从句（that we have to weigh）。","analysis":"与第一句类似，但'healthcare'连写。'weigh'意为权衡。"}],"topics":[{"title":"缅因州参议员选举与Susan Collins的连任挑战","content":"缅因州是美国东北部的一个州，政治倾向较为独立。现任共和党参议员Susan Collins自1997年起任职，以温和派和独立形象著称，但近年来因投票支持特朗普政策而受到民主党批评。2026年中期选举中，民主党候选人Graham Platner尽管面临丑闻，仍赢得初选，但需争取党内团结以挑战Collins。该选举被视为对Collins的公投，涉及医保、特朗普关联等议题。","keywords":"Susan Collins · Graham Platner · 缅因州 · 中期选举 · 独立选民"},{"title":"美国与伊朗的紧张关系及停火协议","content":"美国与伊朗长期存在冲突，涉及核问题、地区代理战争等。2026年，美国在直升机被击落后对伊朗实施打击，同时试图维持脆弱的停火以推动长期承诺的协议。该协议可能涉及核限制或地区安全，但双方互信不足，停火面临考验。","keywords":"Iran · ceasefire · 美国打击 · 核协议 · 中东"},{"title":"Epstein文件与Bill Gates的国会听证","content":"Jeffrey Epstein是已故美国金融家，因性犯罪和性贩卖被定罪，其案件涉及多名政商名流。2026年，国会就Epstein文件举行听证，Bill Gates因与Epstein的会面等联系被传唤。Gates需解释其与Epstein的关系，可能影响其公众形象。","keywords":"Epstein · Bill Gates · 性犯罪 · 国会听证 · 文件"},{"title":"AI公司IPO热潮与市场泡沫担忧","content":"OpenAI和Anthropic是领先的人工智能公司，分别开发ChatGPT和Claude等模型。2026年，它们计划进行首次公开募股（IPO），引发市场对AI泡沫的担忧。此前，SpaceX等科技公司也推动IPO，但AI行业的高估值和盈利不确定性使投资者警惕泡沫破裂。","keywords":"OpenAI · Anthropic · IPO · AI泡沫 · 华尔街"},{"title":"科罗拉多州州长选举与Victor Marx的争议言论","content":"Victor Marx是科罗拉多州共和党州长候选人，曾声称童年时杀人，并在被问及成年后是否杀人时回应'这重要吗？'，引发道德争议。该言论可能影响其选情，反映美国政治中极端言论的接受度。","keywords":"Victor Marx · 科罗拉多州 · 州长选举 · 争议言论 · 共和党"}],"raw_transcript":"Return to Transcripts main page\n\nPlatner Easily Wins Democratic Senate Primary in Maine; U.S. Hits Iran after Helicopter Downed; OpenAI Files for IPO, Joins Anthropic and SpaceX. Aired 6-6:30a ET\n\nAired June 10, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nAUDIE CORNISH, CNN ANCHOR: Today in the group chat, Democrats in Maine vote to stick with Graham Platner. Could that cost the party a shot at flipping the Senate this fall?\n\nREP. ALEXANDRIA OCASIO-CORTEZ (D-NY): If the choice on the ballot is between that and a senator who's voted to take health care away from millions of Americans, that's the situation that we have to weigh.\n\nCORNISH: Missiles light up the sky in the Middle East again. Will the strained ceasefire last long enough for the U.S. to deliver that long- promised deal with Iran?\n\nAnd a big day for the Epstein files. What will Bill Gates tell lawmakers about his links to the late convicted sex offender.\n\nUNIDENTIFIED MALE: Do you think that you've killed people as an adult?\n\nVICTOR MARX (R), COLORADO GUBERNATORIAL CANDIDATE: Does it matter?\n\nCORNISH: This is a candidate who also claims he killed someone as a child. Meet the frontrunner in the Republican race for governor of Colorado.\n\nAnd it's the $3.5 trillion question on Wall Street. Has the A.I. boom gotten ahead of itself?\n\nUNIDENTIFIED MALE: OpenAI and Anthropic plan to have IPOs at release before the end of this year, signaling to me that the A.I. bubble is about to pop.\n\n(END VIDEO CLIP) (BEGIN VIDEO CLIP)\n\nGRAHAM PLATNER (D), MAINE SENATE CANDIDATE: To any of those who feel let down or disappointed or disillusioned, it is my job to earn your trust, faith, and support. And I will spend every day of this campaign. And if I have the privilege every day in the United States Senate doing exactly that.\n\nCORNISH: Graham Platner punches his ticket. But now he's got to convince voters to choose him over a five-term senator.\n\nGood morning everybody. I'm Audie Cornish. Here is where we begin. That big statement out of Maine.\n\nDemocrat Graham Platner, despite all the scandals, earned about three- fourths of primary voters' support over Governor Janet Mills.\n\nMoments after clinching the nomination, he turned his attention to his new opponent, Republican Senator Susan Collins.\n\nPLATNER: Susan Collins may have started -- may have started her career decades ago in Washington with good intentions, but she has become just as spineless and corrupt as the establishment she now serves. If you are an independent voice, why do you vote with Donald Trump 95 percent of the time?\n\nCORNISH: Platner has a lot of work to do to get Mills voters on his side.\n\nUNIDENTIFIED FEMALE: I couldn't honestly support Platner, even though some of the things that he says are really good.\n\nUNIDENTIFIED MALE: I don't think he's ready to be a senator. I'm leaning towards Collins unless the guy shows something else, but I just -- he's not there yet. And --\n\nUNIDENTIFIED FEMALE: And so, what will you do in November if its Platner versus Collins?\n\nUNIDENTIFIED FEMALE: That's a really good question. I'm a Democrat, but I voted for Susan Collins several times, because I think that she does care about the state of Maine. But it's going to be a real problem for me in November.\n\nCORNISH: So, today in the group chat, Mike Leon, host of the \"Can We Please Talk\" podcast; Jared Stepman, columnist with \"The Daily Signal\"; and Max Rose, former Democratic congressman from New York.\n\nAnd Max, I'm actually going to start with you, because you're with VoteVets, which means you guys had a dog in the fight in this race. You guys have been giving a lot of money across the country.\n\nAnd what is it? Let me just show what -- what's at stake here.\n\nDemocrats' chances of flipping the Maine Senate seat. It was pretty good. Maybe this has jeopardized it. We're going to show people a chart while you're talking so you can see what's at stake.\n\nIs this race as close as you all hoped it would be, now that Graham has struggled with these scandals?\n\nMAX ROSE (D), FORMER NEW YORK CONGRESSMAN: The race is always going to be close. Because --\n\nCORNISH: Not with a five-term senator, it's not. A lot of times it can be a blowout, right? Like what -- how do you look at what he needs to accomplish?\n\nROSE: Well, I think that we're saying the same thing --\n\nROSE: -- in essence, right? Susan Collins is tough to beat.\n\nWhat I would say about the Susan Collins race is that we've seen in the past, is you're not going to win this seat by electing a Susan Collins light or putting forward a Susan Collins light in a race.\n\nYou are going to beat her by energizing your base, particularly in a midterm election.\n\nThere is no doubt, though, that this election has got to be a referendum on Susan Collins: on the ways in which she has voted to empower Donald Trump; on her refusal to hold Donald Trump accountable; on the ways in which she has said, I might be fair, but I want to take healthcare away from millions of people. Says the right thing often; does the wrong thing very frequently.\n\nCORNISH: Yes. So, this is very much the message we hear over and over again. And I love that Platner in front of him, it said, \"They don't know Maine.\" You know what I mean? Usually not his own name, not a bunch of other things. It was like, hello, media, this one is for you.\n\nI want to play two clips back-to-back, because it sort of, I think, represents something of this race.\n\nFirst, I'm going to play for you J.D. Vance and how he talks about Susan Collins. And then I'm going to play AOC and how she's talking about Platner. You tell me how you hear the tone of these.\n\nJ.D. VANCE (R), U.S. VICE PRESIDENT: Here's the thing I'll say about Susan Collins, is sometimes I get frustrated with Susan Collins. I almost wish that she was more partisan.\n\nBut the thing I love about Susan is she is independent, because Maine is an independent state. And frankly, if she was as partisan as I sometimes wish that she was, she would not be a good fit for the people of Maine.\n\nSo, let's give a shout-out to Susan Collins, who's doing a great job.\n\nOCASIO-CORTEZ: When it comes to the substance of this reporting, obviously, there's a lot in that behavior that's really challenging. It's hard to stomach, you know, in some of it.\n\nBut -- but at the end of the day, I think that this is a choice. If that choice on the ballot is between that and a senator who's voted to take healthcare away from millions of Americans, that's the situation that we have to weigh.\n\nCORNISH: I played these, because one is like, it's hard to stomach. And the other is like, I get frustrated. Shout-out though, anyway, because I guess Maine. And I was, like, these are not ringing endorsements.\n\nMIKE LEON, HOST, \"CAN WE PLEASE TALK?\" PODCAST: But Audie, not only are they not ringing endorsements, the voter that we played in the package before listen to her tone. Maine independents are the second largest party in Maine.\n\nCORNISH: Yes. And a woman, in particular.\n\nLEON: And a woman and a Democrat who said she voted for Susan Collins, against her will, it sounded like, from that thing.\n\nSo -- but those are -- those are some of the things that we're going to have to consider now. It's really about the character quality is what something that Graham Platner has been trying to say: Forget about that. I'm from here. It's how she's voted, to Max's point.\n\nLEON: But then also you hear the voters, and they're, like, a little, still unsure because of those character issues with Platner. So, it's going to be really interesting.\n\nCORNISH: And he's been telling a story for a while of, like, you know, I was -- went through difficult times. Now I'm a person who has changed.\n\nI want to ask one more thing. Collins and Trump, that's not a tight bond. OK? Can I just put it that way? Here's a list I'm going to play for you. Just some moments over the past couple of months where you hear her talking around Trump policies and where she stands on them.\n\n(BEGIN VIDEO CLIP) SEN. SUSAN COLLINS (R-ME): The 60 days is a trigger. After 60 days, in\n\nmy view, the president has to obtain congressional approval or Congress can block it.\n\nI do not believe that individuals who were convicted of violence against police officers on January 6th should be entitled to reimbursement for their legal fees.\n\nConcerned about the cuts in Medicaid and the impact on my state, but other states, as well.\n\nI've talked with the secretary of homeland security. I have strongly recommended to her that there be a pause on the enforcement surge in both Maine and in Minnesota.\n\nCORNISH: Now, I've chased her in the hallways before, too. She often ends up voting with Republicans, whatever that party line is.\n\nBut is Trump going to get involved in this simply because of what's at stake with the Senate? Or is he going to send surrogates? He'll be like, OK, J.D., you go there? Like, can she expect any support there?\n\nJARRETT STEPMAN, COLUMNIST, \"THE DAILY SIGNAL\": Yes, I feel that's why he sent J.D. and I feel he will, if he's smart, actually keep some distance from this. I mean part of the -- the thing at stake here is that they're independent. Maine is a little bit different.\n\nI mean, both these candidates come from sort of -- almost independent of the party.\n\nSTEPMAN: Because they -- they really focus on the issues related to Maine.\n\nCORNISH: We should say, Platner is recruiting from outside the party. Yes.\n\nSTEPMAN: Exactly. So, they're both sort of weirdly outsiders, even though Collins has been Republican part of the party for a long time, she's always struck an independent game this entire time.\n\nSo, I think that's going to continue during this race. That is her path. Because if she does get too close to Trump, that's going to be the argument saying, whoa, she's too MAGA. She's not -- too much for me, which is more or less a blue state.\n\nCORNISH: So, you're saying there's nothing to be gained there of him coming.\n\nCORNISH: OK, you guys stay with me, because we're going to talk about a couple other states this hour, as well.\n\nWe're also still waiting for news about some sort of proposed deal with Iran. But in the meantime, the U.S. has launched new strikes against Iran overnight.\n\nPlus, Epstein's former assistant testifies before Congress. What she says she did not see.\n\nAnd a Texas teenager convicted of killing a rival track star. Why the jury rejected his claim of self-defense.\n\nUNIDENTIFIED MALE: It's just sad that it had to come to this. It was just a bad, bad decision he made.\n\nCORNISH: Right now, we are following the latest round of escalation between the U.S. and Iran. U.S. CENTRAL COMMAND saying they are now finished hitting targets in Iran in response to an Army helicopter getting shot down over the Strait of Hormuz.\n\nIran's state media, however, released new video overnight, saying they retaliated to the U.S. by attack -- by launching missiles against targets in Bahrain and Kuwait and an air base in Jordan.\n\nJoining me now with the latest, CNN international correspondent Paula Hancocks in Abu Dhabi.\n\nPaula, can you talk about this? We know Iran, throughout the last couple of weeks, has -- they've tried to spread the war throughout the region. What have you heard from officials in Kuwait or Bahrain about confirmed damage?\n\nPAULA HANCOCKS, CNN INTERNATIONAL CORRESPONDENT: The next few hours are going to be crucial as to whether or not this is an isolated escalation between the U.S. and Iran, or whether it is a step on the escalatory ladder.\n\nNow, at this point, we have not heard any damage assessment or casualty figures from those countries which were targeted by Iran. That is, Jordan, Kuwait, and Bahrain.\n\nIran said that it had targeted the fifth fleet headquarters in Bahrain. They also say that they targeted a military base in Jordan, Kuwait, as well, saying that it was intercepting incoming aerial missiles and drones.\n\nSo, what we've heard from Iran's side is that they have said that there will -- no attack will go unanswered from the United States. What we had seen from U.S. CENTRAL COMMAND is they said they had\n\ncarried out what they called a, quote, \"proportional response\" to the shooting down of that Apache helicopter, saying that there were three locations along the Strait of Hormuz that were targeted.\n\nThey say that they hit air defense, ground control stations, radar sites, as well.\n\nNow, one U.S. official telling CNN that this was really intended to be a warning to Iran, and they do hope that they will still be able to keep the talks on track, that it won't hinder those talks, although we've heard from Iran's foreign ministry spokesperson that Iran is reviewing negotiations at this point, accusing the U.S. of negotiating in bad faith, Audie.\n\nCORNISH: OK. That's Paula Hancocks with that update. Thank you so much.\n\nIt is now 17 minutes past the hour. I want to give you your morning roundup.\n\nHappening today, the House Oversight Committee will hear from Microsoft billionaire Bill Gates behind closed doors. He's scheduled to testify about his professional relationship with Jeffrey Epstein.\n\nGates has not been accused of wrongdoing.\n\nMeanwhile, Epstein's former assistant, Lesley Groff, testified on Tuesday, saying that she, quote, \"never witnessed anything improper or illegal.\"\n\nShe also told lawmakers she arranged multiple calls between Epstein and Donald Trump before he was president. President Trump is not accused of any wrongdoing in connection to Epstein.\n\nAnd in Texas, a teen who fatally stabbed a 17-year-old track athlete from a rival team has been convicted of murder and sentenced to 35 years in prison.\n\nA jury rejected Karmelo Anthony's claims of self-defense during a confrontation with Austin Metcalf in the stadium bleachers last year.\n\nUNIDENTIFIED MALE: It's just sad that it had to come to this. It was just a bad, bad decision he made. But he took a life. And it's unfortunate that two young lives are affected so negatively about this.\n\nCORNISH: Anthony did not testify. His mother took the stand during the sentencing phase, telling jurors her son was sorry.\n\nAnd CNN now projecting Republican Steve Hilton will advance to the November election in the California governor's race against Democrat Xavier Becerra.\n\nBecerra, the former health secretary, finished on top with nearly 28 percent of the vote, three points ahead of Hilton, a former FOX News host who has President Trump's endorsement.\n\nSTEVE HILTON (R), CALIFORNIA GUBERNATORIAL CANDIDATE; Californians will have a real choice for change in November. Whether they want to keep going with the policies that have brought us to the highest poverty rate, the highest unemployment rate, the highest cost of living in the country, where they want more of that with Xavier Becerra, or whether they want to go in a new direction.\n\nCORNISH: I have to ask quickly: if Hilton does well, is California still going to be the corrupt election state that Republicans are saying it is?\n\nSTEPMAN: Yes. I mean, the question is how well, of course. How much can he actually make some --\n\nCORNISH: Is there a certain threshold after which --\n\nCORNISH: -- it's no longer considered corrupt if a Republican wins?\n\nSTEPMAN: Well, you know, you know what? Especially given the state, it'll depend on how the votes are counted. I feel that especially after the next --\n\nLEON: I knew that answer.\n\nCORNISH: Yes. But you can see why I'm asking, right? Like, if he wins, it's fine. But if he doesn't win, it's corrupt.\n\nCORNISH: But if he wins, it's still corrupt, but somehow --\n\nROSE: Maybe, maybe. I think it's still fairly unlikely that he's going to win this race. I will also say that it's been the process in California taking so long to discover who --\n\nCORNISH: Yes, everyone's talking about that.\n\nROSE: -- is going to win it. Everybody's talking about this.\n\nCORNISH: But everyone's disagreeing on what that means.\n\nCORNISH: That's by definition nefarious.\n\nROSE: But it makes people uncomfortable with the results.\n\nCORNISH: I have to mention one other thing, just because the number's astounding. Tom Steyer's spending: 215 million.\n\nI'm not good at long division, so I didn't want to know how much per voter that spend was, and I can't do it. I can't do it. And someone on -- online was saying, oh, have you ever heard of effective altruism, and that this was ineffective altruism, basically.\n\nLEON: Basically, an ROI in the business term, right? You need a return on that investment.\n\nThis is twice for Steyer now. He has not gotten that ROI. When is enough, enough?\n\nIf I had that kind of money, I would invest it in something else. He has tried this political acumen.\n\nLEON: It has not worked out.\n\nCORNISH: Yes. I was about to say --\n\nLEON: Voters have said that.\n\nCORNISH: The voters have rejected it.\n\nLEON: Especially with the billionaire. When the billionaire class. We've got AOC and others that have talked about the billionaire class, and we have somebody here spending his own money like this, it seems like a waste where it could be invested in other.\n\nCORNISH: Well, it's been a wild race coming from last year to all of a sudden have Becerra at the front.\n\nCORNISH: We couldn't have seen that then.\n\nCORNISH: Now, after the break on CNN THIS MORNING, two controversial to win? So, the Colorado frontrunner for governor claims he killed a man when he was 7 years old. I have more stories like that from him.\n\nPlus, A.I. companies are rushing to the stock market. Is it the next tech boom or is the A.I. bubble about to burst?\n\nAnd for viewers watching us from right here in New York City, Knicks versus Spurs again tonight at the Garden. Good morning.\n\nCORNISH: So, a bunch of IPOs in the A.I. sector are about to hit Wall Street after OpenAI announced on Monday it filed for an initial public offering, an IPO.\n\nThe three biggest A.I. companies are now in line to go public, as well. That includes Anthropic and SpaceX. A fourth, Perplexity, is expected to file in 2028.\n\nDONALD TRUMP, U.S. PRESIDENT: We're talking about it. Where the American people can benefit from the success of A.I. And by doing that, they're going to like it better. Because we're leading China. We're leading everybody in the world with A.I., and we want to keep it that way. It's like you make them a partnership in this revolution. It would be a beautiful thing.\n\nCORNISH: Now, investors who get in early could make a fortune. But has the A.I. boom gotten ahead of itself?\n\nMadison Mills joins the group chat. She's the senior A.I. reporter at Axios. You guys have done some fantastic reporting on this industry.\n\nJust to show people the amount of money at stake. When you look at OpenAI and SpaceX and Anthropic, there were 3.5 trillion. We dug around, and we found out that's, like, as much money as, you know, France. Like, OK? So, we're dealing with a lot of money.\n\nBut is it a bubble? And I ask because we've got some people on TikTok who think that it is. I'm going to play for you, the finance experts online.\n\nUNIDENTIFIED MALE: A.I. companies are now trying to save themselves by applying for IPOs.\n\nUNIDENTIFIED MALE: OpenAI and Anthropic plan to have IPOs at release before the end of this year, signaling to me that the A.I. bubble is about to pop and that these insiders and institutional investors know that they better cash out now, or they may not ever get the chance.\n\nCORNISH: Why is this the word on the street?\n\nMADISON MILLS, SENIOR A.I. REPORTER, AXIOS: Yes, I would push back on a lot of the financial finfluencing that we hear about on finance.\n\nCORNISH: Finfluencing. You said it. Go on. MILLS: Yes. But -- but just because companies are IPOing doesn't\n\nnecessarily mean that the bubble is going to happen this Friday when SpaceX lists on the NASDAQ.\n\nMILLS: Right? But the concept of the bubble is this idea that valuations are completely divorced from reality: the underlying business fundamentals, the things that we would learn about in journalism and business school --\n\nMILLS: -- that make a company profitable, right?\n\nCORNISH: So, the street phrase would be they're high on their own supply?\n\nMILLS: Absolutely. And that's very clear with a company like SpaceX. Their expected valuation is $1.8 trillion. They're trading at about 90 times their sales -- not their profits, just their sales -- as of this Friday, when they're expected to list.\n\nSo, that is an example of a company you might look at and say, not sure if the valuation is high.\n\nCORNISH: I know. There's also this thing I've been learning about circular financing.\n\nCORNISH: So, I'm understanding this as, you use money from one A.I. company to do work in your A.I. company. and then another A.I. company gets work from you. It's like the same money going around and around. Do I have that right?\n\nMILLS: Absolutely. That's perfect. And part of --\n\nCORNISH: I'm ready to finfluence.\n\nMILLS: You're ready to finfluence. And more than that, you can be the CFO of an A.I. company. You know?\n\nBut part of the problem with that is that Anthropic can -- or OpenAI, any of the A.I. labs, can book that as revenue. And that feeds into that valuation number that we're getting.\n\nBut that revenue could also just be money that they are getting from Google, that then they're giving back to Google in the form of compute capacity. And then Google has that compute capacity and is giving it over to another A.I. lab. And so, it's all very circular right now. And that's the concern.\n\nCORNISH: And it's giving shell game. I'm going to listen to you, because I believe that this market is the future. I understand that, but I think people rightly have questions. [06:30:00]","segments":[{"seg":1,"url":"https://transcripts.cnn.com/show/ctmo/date/2026-06-10/segment/01","title":"CNN.com - Transcripts","text":"Return to Transcripts main page\n\nPlatner Easily Wins Democratic Senate Primary in Maine; U.S. Hits Iran after Helicopter Downed; OpenAI Files for IPO, Joins Anthropic and SpaceX. Aired 6-6:30a ET\n\nAired June 10, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nAUDIE CORNISH, CNN ANCHOR: Today in the group chat, Democrats in Maine vote to stick with Graham Platner. Could that cost the party a shot at flipping the Senate this fall?\n\nREP. ALEXANDRIA OCASIO-CORTEZ (D-NY): If the choice on the ballot is between that and a senator who's voted to take health care away from millions of Americans, that's the situation that we have to weigh.\n\nCORNISH: Missiles light up the sky in the Middle East again. Will the strained ceasefire last long enough for the U.S. to deliver that long- promised deal with Iran?\n\nAnd a big day for the Epstein files. What will Bill Gates tell lawmakers about his links to the late convicted sex offender.\n\nUNIDENTIFIED MALE: Do you think that you've killed people as an adult?\n\nVICTOR MARX (R), COLORADO GUBERNATORIAL CANDIDATE: Does it matter?\n\nCORNISH: This is a candidate who also claims he killed someone as a child. Meet the frontrunner in the Republican race for governor of Colorado.\n\nAnd it's the $3.5 trillion question on Wall Street. Has the A.I. boom gotten ahead of itself?\n\nUNIDENTIFIED MALE: OpenAI and Anthropic plan to have IPOs at release before the end of this year, signaling to me that the A.I. bubble is about to pop.\n\n(END VIDEO CLIP) (BEGIN VIDEO CLIP)\n\nGRAHAM PLATNER (D), MAINE SENATE CANDIDATE: To any of those who feel let down or disappointed or disillusioned, it is my job to earn your trust, faith, and support. And I will spend every day of this campaign. And if I have the privilege every day in the United States Senate doing exactly that.\n\nCORNISH: Graham Platner punches his ticket. But now he's got to convince voters to choose him over a five-term senator.\n\nGood morning everybody. I'm Audie Cornish. Here is where we begin. That big statement out of Maine.\n\nDemocrat Graham Platner, despite all the scandals, earned about three- fourths of primary voters' support over Governor Janet Mills.\n\nMoments after clinching the nomination, he turned his attention to his new opponent, Republican Senator Susan Collins.\n\nPLATNER: Susan Collins may have started -- may have started her career decades ago in Washington with good intentions, but she has become just as spineless and corrupt as the establishment she now serves. If you are an independent voice, why do you vote with Donald Trump 95 percent of the time?\n\nCORNISH: Platner has a lot of work to do to get Mills voters on his side.\n\nUNIDENTIFIED FEMALE: I couldn't honestly support Platner, even though some of the things that he says are really good.\n\nUNIDENTIFIED MALE: I don't think he's ready to be a senator. I'm leaning towards Collins unless the guy shows something else, but I just -- he's not there yet. And --\n\nUNIDENTIFIED FEMALE: And so, what will you do in November if its Platner versus Collins?\n\nUNIDENTIFIED FEMALE: That's a really good question. I'm a Democrat, but I voted for Susan Collins several times, because I think that she does care about the state of Maine. But it's going to be a real problem for me in November.\n\nCORNISH: So, today in the group chat, Mike Leon, host of the \"Can We Please Talk\" podcast; Jared Stepman, columnist with \"The Daily Signal\"; and Max Rose, former Democratic congressman from New York.\n\nAnd Max, I'm actually going to start with you, because you're with VoteVets, which means you guys had a dog in the fight in this race. You guys have been giving a lot of money across the country.\n\nAnd what is it? Let me just show what -- what's at stake here.\n\nDemocrats' chances of flipping the Maine Senate seat. It was pretty good. Maybe this has jeopardized it. We're going to show people a chart while you're talking so you can see what's at stake.\n\nIs this race as close as you all hoped it would be, now that Graham has struggled with these scandals?\n\nMAX ROSE (D), FORMER NEW YORK CONGRESSMAN: The race is always going to be close. Because --\n\nCORNISH: Not with a five-term senator, it's not. A lot of times it can be a blowout, right? Like what -- how do you look at what he needs to accomplish?\n\nROSE: Well, I think that we're saying the same thing --\n\nROSE: -- in essence, right? Susan Collins is tough to beat.\n\nWhat I would say about the Susan Collins race is that we've seen in the past, is you're not going to win this seat by electing a Susan Collins light or putting forward a Susan Collins light in a race.\n\nYou are going to beat her by energizing your base, particularly in a midterm election.\n\nThere is no doubt, though, that this election has got to be a referendum on Susan Collins: on the ways in which she has voted to empower Donald Trump; on her refusal to hold Donald Trump accountable; on the ways in which she has said, I might be fair, but I want to take healthcare away from millions of people. Says the right thing often; does the wrong thing very frequently.\n\nCORNISH: Yes. So, this is very much the message we hear over and over again. And I love that Platner in front of him, it said, \"They don't know Maine.\" You know what I mean? Usually not his own name, not a bunch of other things. It was like, hello, media, this one is for you.\n\nI want to play two clips back-to-back, because it sort of, I think, represents something of this race.\n\nFirst, I'm going to play for you J.D. Vance and how he talks about Susan Collins. And then I'm going to play AOC and how she's talking about Platner. You tell me how you hear the tone of these.\n\nJ.D. VANCE (R), U.S. VICE PRESIDENT: Here's the thing I'll say about Susan Collins, is sometimes I get frustrated with Susan Collins. I almost wish that she was more partisan.\n\nBut the thing I love about Susan is she is independent, because Maine is an independent state. And frankly, if she was as partisan as I sometimes wish that she was, she would not be a good fit for the people of Maine.\n\nSo, let's give a shout-out to Susan Collins, who's doing a great job.\n\nOCASIO-CORTEZ: When it comes to the substance of this reporting, obviously, there's a lot in that behavior that's really challenging. It's hard to stomach, you know, in some of it.\n\nBut -- but at the end of the day, I think that this is a choice. If that choice on the ballot is between that and a senator who's voted to take healthcare away from millions of Americans, that's the situation that we have to weigh.\n\nCORNISH: I played these, because one is like, it's hard to stomach. And the other is like, I get frustrated. Shout-out though, anyway, because I guess Maine. And I was, like, these are not ringing endorsements.\n\nMIKE LEON, HOST, \"CAN WE PLEASE TALK?\" PODCAST: But Audie, not only are they not ringing endorsements, the voter that we played in the package before listen to her tone. Maine independents are the second largest party in Maine.\n\nCORNISH: Yes. And a woman, in particular.\n\nLEON: And a woman and a Democrat who said she voted for Susan Collins, against her will, it sounded like, from that thing.\n\nSo -- but those are -- those are some of the things that we're going to have to consider now. It's really about the character quality is what something that Graham Platner has been trying to say: Forget about that. I'm from here. It's how she's voted, to Max's point.\n\nLEON: But then also you hear the voters, and they're, like, a little, still unsure because of those character issues with Platner. So, it's going to be really interesting.\n\nCORNISH: And he's been telling a story for a while of, like, you know, I was -- went through difficult times. Now I'm a person who has changed.\n\nI want to ask one more thing. Collins and Trump, that's not a tight bond. OK? Can I just put it that way? Here's a list I'm going to play for you. Just some moments over the past couple of months where you hear her talking around Trump policies and where she stands on them.\n\n(BEGIN VIDEO CLIP) SEN. SUSAN COLLINS (R-ME): The 60 days is a trigger. After 60 days, in\n\nmy view, the president has to obtain congressional approval or Congress can block it.\n\nI do not believe that individuals who were convicted of violence against police officers on January 6th should be entitled to reimbursement for their legal fees.\n\nConcerned about the cuts in Medicaid and the impact on my state, but other states, as well.\n\nI've talked with the secretary of homeland security. I have strongly recommended to her that there be a pause on the enforcement surge in both Maine and in Minnesota.\n\nCORNISH: Now, I've chased her in the hallways before, too. She often ends up voting with Republicans, whatever that party line is.\n\nBut is Trump going to get involved in this simply because of what's at stake with the Senate? Or is he going to send surrogates? He'll be like, OK, J.D., you go there? Like, can she expect any support there?\n\nJARRETT STEPMAN, COLUMNIST, \"THE DAILY SIGNAL\": Yes, I feel that's why he sent J.D. and I feel he will, if he's smart, actually keep some distance from this. I mean part of the -- the thing at stake here is that they're independent. Maine is a little bit different.\n\nI mean, both these candidates come from sort of -- almost independent of the party.\n\nSTEPMAN: Because they -- they really focus on the issues related to Maine.\n\nCORNISH: We should say, Platner is recruiting from outside the party. Yes.\n\nSTEPMAN: Exactly. So, they're both sort of weirdly outsiders, even though Collins has been Republican part of the party for a long time, she's always struck an independent game this entire time.\n\nSo, I think that's going to continue during this race. That is her path. Because if she does get too close to Trump, that's going to be the argument saying, whoa, she's too MAGA. She's not -- too much for me, which is more or less a blue state.\n\nCORNISH: So, you're saying there's nothing to be gained there of him coming.\n\nCORNISH: OK, you guys stay with me, because we're going to talk about a couple other states this hour, as well.\n\nWe're also still waiting for news about some sort of proposed deal with Iran. But in the meantime, the U.S. has launched new strikes against Iran overnight.\n\nPlus, Epstein's former assistant testifies before Congress. What she says she did not see.\n\nAnd a Texas teenager convicted of killing a rival track star. Why the jury rejected his claim of self-defense.\n\nUNIDENTIFIED MALE: It's just sad that it had to come to this. It was just a bad, bad decision he made.\n\nCORNISH: Right now, we are following the latest round of escalation between the U.S. and Iran. U.S. CENTRAL COMMAND saying they are now finished hitting targets in Iran in response to an Army helicopter getting shot down over the Strait of Hormuz.\n\nIran's state media, however, released new video overnight, saying they retaliated to the U.S. by attack -- by launching missiles against targets in Bahrain and Kuwait and an air base in Jordan.\n\nJoining me now with the latest, CNN international correspondent Paula Hancocks in Abu Dhabi.\n\nPaula, can you talk about this? We know Iran, throughout the last couple of weeks, has -- they've tried to spread the war throughout the region. What have you heard from officials in Kuwait or Bahrain about confirmed damage?\n\nPAULA HANCOCKS, CNN INTERNATIONAL CORRESPONDENT: The next few hours are going to be crucial as to whether or not this is an isolated escalation between the U.S. and Iran, or whether it is a step on the escalatory ladder.\n\nNow, at this point, we have not heard any damage assessment or casualty figures from those countries which were targeted by Iran. That is, Jordan, Kuwait, and Bahrain.\n\nIran said that it had targeted the fifth fleet headquarters in Bahrain. They also say that they targeted a military base in Jordan, Kuwait, as well, saying that it was intercepting incoming aerial missiles and drones.\n\nSo, what we've heard from Iran's side is that they have said that there will -- no attack will go unanswered from the United States. What we had seen from U.S. CENTRAL COMMAND is they said they had\n\ncarried out what they called a, quote, \"proportional response\" to the shooting down of that Apache helicopter, saying that there were three locations along the Strait of Hormuz that were targeted.\n\nThey say that they hit air defense, ground control stations, radar sites, as well.\n\nNow, one U.S. official telling CNN that this was really intended to be a warning to Iran, and they do hope that they will still be able to keep the talks on track, that it won't hinder those talks, although we've heard from Iran's foreign ministry spokesperson that Iran is reviewing negotiations at this point, accusing the U.S. of negotiating in bad faith, Audie.\n\nCORNISH: OK. That's Paula Hancocks with that update. Thank you so much.\n\nIt is now 17 minutes past the hour. I want to give you your morning roundup.\n\nHappening today, the House Oversight Committee will hear from Microsoft billionaire Bill Gates behind closed doors. He's scheduled to testify about his professional relationship with Jeffrey Epstein.\n\nGates has not been accused of wrongdoing.\n\nMeanwhile, Epstein's former assistant, Lesley Groff, testified on Tuesday, saying that she, quote, \"never witnessed anything improper or illegal.\"\n\nShe also told lawmakers she arranged multiple calls between Epstein and Donald Trump before he was president. President Trump is not accused of any wrongdoing in connection to Epstein.\n\nAnd in Texas, a teen who fatally stabbed a 17-year-old track athlete from a rival team has been convicted of murder and sentenced to 35 years in prison.\n\nA jury rejected Karmelo Anthony's claims of self-defense during a confrontation with Austin Metcalf in the stadium bleachers last year.\n\nUNIDENTIFIED MALE: It's just sad that it had to come to this. It was just a bad, bad decision he made. But he took a life. And it's unfortunate that two young lives are affected so negatively about this.\n\nCORNISH: Anthony did not testify. His mother took the stand during the sentencing phase, telling jurors her son was sorry.\n\nAnd CNN now projecting Republican Steve Hilton will advance to the November election in the California governor's race against Democrat Xavier Becerra.\n\nBecerra, the former health secretary, finished on top with nearly 28 percent of the vote, three points ahead of Hilton, a former FOX News host who has President Trump's endorsement.\n\nSTEVE HILTON (R), CALIFORNIA GUBERNATORIAL CANDIDATE; Californians will have a real choice for change in November. Whether they want to keep going with the policies that have brought us to the highest poverty rate, the highest unemployment rate, the highest cost of living in the country, where they want more of that with Xavier Becerra, or whether they want to go in a new direction.\n\nCORNISH: I have to ask quickly: if Hilton does well, is California still going to be the corrupt election state that Republicans are saying it is?\n\nSTEPMAN: Yes. I mean, the question is how well, of course. How much can he actually make some --\n\nCORNISH: Is there a certain threshold after which --\n\nCORNISH: -- it's no longer considered corrupt if a Republican wins?\n\nSTEPMAN: Well, you know, you know what? Especially given the state, it'll depend on how the votes are counted. I feel that especially after the next --\n\nLEON: I knew that answer.\n\nCORNISH: Yes. But you can see why I'm asking, right? Like, if he wins, it's fine. But if he doesn't win, it's corrupt.\n\nCORNISH: But if he wins, it's still corrupt, but somehow --\n\nROSE: Maybe, maybe. I think it's still fairly unlikely that he's going to win this race. I will also say that it's been the process in California taking so long to discover who --\n\nCORNISH: Yes, everyone's talking about that.\n\nROSE: -- is going to win it. Everybody's talking about this.\n\nCORNISH: But everyone's disagreeing on what that means.\n\nCORNISH: That's by definition nefarious.\n\nROSE: But it makes people uncomfortable with the results.\n\nCORNISH: I have to mention one other thing, just because the number's astounding. Tom Steyer's spending: 215 million.\n\nI'm not good at long division, so I didn't want to know how much per voter that spend was, and I can't do it. I can't do it. And someone on -- online was saying, oh, have you ever heard of effective altruism, and that this was ineffective altruism, basically.\n\nLEON: Basically, an ROI in the business term, right? You need a return on that investment.\n\nThis is twice for Steyer now. He has not gotten that ROI. When is enough, enough?\n\nIf I had that kind of money, I would invest it in something else. He has tried this political acumen.\n\nLEON: It has not worked out.\n\nCORNISH: Yes. I was about to say --\n\nLEON: Voters have said that.\n\nCORNISH: The voters have rejected it.\n\nLEON: Especially with the billionaire. When the billionaire class. We've got AOC and others that have talked about the billionaire class, and we have somebody here spending his own money like this, it seems like a waste where it could be invested in other.\n\nCORNISH: Well, it's been a wild race coming from last year to all of a sudden have Becerra at the front.\n\nCORNISH: We couldn't have seen that then.\n\nCORNISH: Now, after the break on CNN THIS MORNING, two controversial to win? So, the Colorado frontrunner for governor claims he killed a man when he was 7 years old. I have more stories like that from him.\n\nPlus, A.I. companies are rushing to the stock market. Is it the next tech boom or is the A.I. bubble about to burst?\n\nAnd for viewers watching us from right here in New York City, Knicks versus Spurs again tonight at the Garden. Good morning.\n\nCORNISH: So, a bunch of IPOs in the A.I. sector are about to hit Wall Street after OpenAI announced on Monday it filed for an initial public offering, an IPO.\n\nThe three biggest A.I. companies are now in line to go public, as well. That includes Anthropic and SpaceX. A fourth, Perplexity, is expected to file in 2028.\n\nDONALD TRUMP, U.S. PRESIDENT: We're talking about it. Where the American people can benefit from the success of A.I. And by doing that, they're going to like it better. Because we're leading China. We're leading everybody in the world with A.I., and we want to keep it that way. It's like you make them a partnership in this revolution. It would be a beautiful thing.\n\nCORNISH: Now, investors who get in early could make a fortune. But has the A.I. boom gotten ahead of itself?\n\nMadison Mills joins the group chat. She's the senior A.I. reporter at Axios. You guys have done some fantastic reporting on this industry.\n\nJust to show people the amount of money at stake. When you look at OpenAI and SpaceX and Anthropic, there were 3.5 trillion. We dug around, and we found out that's, like, as much money as, you know, France. Like, OK? So, we're dealing with a lot of money.\n\nBut is it a bubble? And I ask because we've got some people on TikTok who think that it is. I'm going to play for you, the finance experts online.\n\nUNIDENTIFIED MALE: A.I. companies are now trying to save themselves by applying for IPOs.\n\nUNIDENTIFIED MALE: OpenAI and Anthropic plan to have IPOs at release before the end of this year, signaling to me that the A.I. bubble is about to pop and that these insiders and institutional investors know that they better cash out now, or they may not ever get the chance.\n\nCORNISH: Why is this the word on the street?\n\nMADISON MILLS, SENIOR A.I. REPORTER, AXIOS: Yes, I would push back on a lot of the financial finfluencing that we hear about on finance.\n\nCORNISH: Finfluencing. You said it. Go on. MILLS: Yes. But -- but just because companies are IPOing doesn't\n\nnecessarily mean that the bubble is going to happen this Friday when SpaceX lists on the NASDAQ.\n\nMILLS: Right? But the concept of the bubble is this idea that valuations are completely divorced from reality: the underlying business fundamentals, the things that we would learn about in journalism and business school --\n\nMILLS: -- that make a company profitable, right?\n\nCORNISH: So, the street phrase would be they're high on their own supply?\n\nMILLS: Absolutely. And that's very clear with a company like SpaceX. Their expected valuation is $1.8 trillion. They're trading at about 90 times their sales -- not their profits, just their sales -- as of this Friday, when they're expected to list.\n\nSo, that is an example of a company you might look at and say, not sure if the valuation is high.\n\nCORNISH: I know. There's also this thing I've been learning about circular financing.\n\nCORNISH: So, I'm understanding this as, you use money from one A.I. company to do work in your A.I. company. and then another A.I. company gets work from you. It's like the same money going around and around. Do I have that right?\n\nMILLS: Absolutely. That's perfect. And part of --\n\nCORNISH: I'm ready to finfluence.\n\nMILLS: You're ready to finfluence. And more than that, you can be the CFO of an A.I. company. You know?\n\nBut part of the problem with that is that Anthropic can -- or OpenAI, any of the A.I. labs, can book that as revenue. And that feeds into that valuation number that we're getting.\n\nBut that revenue could also just be money that they are getting from Google, that then they're giving back to Google in the form of compute capacity. And then Google has that compute capacity and is giving it over to another A.I. lab. And so, it's all very circular right now. And that's the concern.\n\nCORNISH: And it's giving shell game. I'm going to listen to you, because I believe that this market is the future. I understand that, but I think people rightly have questions. [06:30:00]"}]}};
-
+const ALL_DATA = {"2026-06-09":{"date":"2026-06-09","source_url":"https://transcripts.cnn.com/show/ctmo/date/2026-06-09/segment/01","full_translation":[{"en":"CNN This Morning 逐字稿（2026-06-09）：","cn":"CNN This Morning 逐字稿（2026-06-09）："},{"en":"Return to Transcripts main page","cn":"返回文稿主页"},{"en":"Trump Attends NBA Finals Game and Knicks Lose; Texas Tech QB Ruled Eligible after Sports Betting Ban. Aired 6-6:30a ET","cn":"特朗普出席NBA总决赛，尼克斯输球；德州理工四分卫在体育博彩禁令后被裁定有资格参赛。播出时间：美国东部时间上午6点至6点30分"},{"en":"Aired June 09, 2026 - 06:00   ET","cn":"播出日期：2026年6月9日 - 美国东部时间06:00"},{"en":"THIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.","cn":"这是速记稿。此文本可能不是最终版本，可能会更新。"},{"en":"BRAD SMITH, CNN ANCHOR: Fortunately, no one was hurt.","cn":"CNN主播布拉德·史密斯：幸运的是，没有人受伤。"},{"en":"And in Texas, a nearly 8-foot alligator was caught horsing around in a stable. An employee was able to wrangle the reptile with a lasso and pull it into an empty horse stall.","cn":"在德克萨斯州，一条近8英尺长的短吻鳄被发现在马厩里胡闹。一名员工用套索制服了这只爬行动物，并将其拖进一个空马厩。"},{"en":"Game wardens say that the gator was safely returned to a nearby bayou.","cn":"野生动物保护官员表示，这条鳄鱼已被安全送回附近的河口。"},{"en":"Well, that does it for CNN HEADLINE EXPRESS. I'm Brad Smith. CNN THIS MORNING with Audie Cornish starts right now.","cn":"好了，CNN新闻速递到此结束。我是布拉德·史密斯。由奥黛·科尼什主持的《CNN今晨》节目现在开始。"},{"en":"AUDIE CORNISH, CNN ANCHOR: There are polls opening up right at this moment in Maine. Today in the group chat, should Graham Platner be the Democrat on the ballot in November, even if he wins today's primary?","cn":"CNN主播奥黛·科尼什：就在此刻，缅因州的投票站正在开放。今天在我们的群聊中：即使格雷厄姆·普拉特纳赢得今天的初选，他是否应该成为11月大选中的民主党候选人？"},{"en":"UNIDENTIFIED FEMALE: The most important thing in this election is unseating Susan Collins.","cn":"未具名女性：这次选举中最重要的是击败苏珊·柯林斯。"},{"en":"CORNISH: Donald Trump becomes the first sitting president to attend an NBA finals game, and the home team blows a 13-game winning streak. Coincidence?","cn":"科尼什：唐纳德·特朗普成为首位出席NBA总决赛的在任总统，而主队却输掉了13连胜。巧合吗？"},{"en":"UNIDENTIFIED FEMALE: I yelled for help and that's -- Thank God for them. You know, because I (EXPLETIVE DELETED) made it.","cn":"未具名女性：我大声呼救，然后——感谢上帝有他们。你知道，因为我（脏话已删除）成功了。"},{"en":"CORNISH: There are flood waters on the rise in the Midwest. The harrowing rescue tales this morning as waters recede.","cn":"科尼什：中西部洪水水位正在上涨。今早随着洪水退去，传来令人痛心的救援故事。"},{"en":"And a private jet bursts into a massive fireball during an emergency crash landing. The investigation into what went wrong this morning.","cn":"一架私人飞机在紧急迫降时爆炸成一个巨大的火球。今早对事故原因的调查。"},{"en":"BRAD PAISLEY, COUNTRY SUPERSTAR: That they want to build next to the Nashville Zoo, which is an absolute nightmare scenario. (END VIDEO CLIP)","cn":"乡村巨星布拉德·佩斯利：他们想在纳什维尔动物园旁边建造，这绝对是一场噩梦。（视频片段结束）"},{"en":"CORNISH: That's country superstar Brad Paisley, speaking out against a proposed data center near the Nashville Zoo. Could it pose a threat to the thousands of animals there?","cn":"科尼什：乡村巨星布拉德·佩斯利公开反对在纳什维尔动物园附近拟建的数据中心。这会对那里的数千只动物构成威胁吗？"},{"en":"And the World Cup starts this week. Could money and greed overshadow the beautiful game?","cn":"世界杯本周开赛。金钱和贪婪会掩盖这项美丽运动的光芒吗？"},{"en":"UNIDENTIFIED MALE: Senegal-France game, it's almost like $2,000 ticket. That's outrageous. That's outrageous.","cn":"未具名男性：塞内加尔对法国的比赛，票价几乎要2000美元。太离谱了。太离谱了。"},{"en":"CORNISH: So, people here in New York waking up -- I don't know -- in a foul mood, maybe pointing fingers after the Knicks lose a much-hyped game three of the NBA finals.","cn":"科尼什：所以，纽约这里的人们醒来时——我不知道——心情很糟，也许在尼克斯输掉备受瞩目的NBA总决赛第三场后互相指责。"},{"en":"Good morning, everybody. Good morning to New York. I'm Audie Cornish.","cn":"大家早上好。纽约早上好。我是奥黛·科尼什。"},{"en":"You know, when you mix sports and politics, you do so at your own peril. For instance, here's Stephen A. Smith before last night's tipoff at the Garden.","cn":"你知道，当你把体育和政治混在一起时，你要自担风险。例如，昨晚在麦迪逊广场花园开球前，斯蒂芬·A·史密斯是这样说的。"},{"en":"STEPHEN A. SMITH, SPORTS BROADCASTER: If the New York Knicks lose game three, this is on Donald Trump.","cn":"体育解说员斯蒂芬·A·史密斯：如果纽约尼克斯输掉第三场，这要怪唐纳德·特朗普。"},{"en":"You think I've been on him before? I'm going to be on his ass like back pockets. Like white on rice. He got no business doing this. He doesn't belong at this game. No president does. None of them. Democrat, Republican, independent. I don't give a damn.","cn":"你以为我以前就针对过他？我会像后口袋一样黏着他。像米饭上的白色一样。他没资格这么做。他不属于这场比赛。任何总统都不该来。没有一个。民主党、共和党、独立人士。我他妈才不在乎。"},{"en":"CORNISH: So, the president, who is a New Yorker, showed up anyway. And that's not unusual. Trump has attended the Super Bowl, the U.S. Open, college football national championship. He's now the first sitting president to attend the NBA finals.","cn":"科尼什：所以，这位纽约人总统还是出现了。这并不罕见。特朗普出席过超级碗、美国公开赛、大学橄榄球全国冠军赛。他现在是首位出席NBA总决赛的在任总统。"},{"en":"But now, the Knicks' 13-game playoff winning streak is over. And Knicks fans, well, this is what they're saying about it.","cn":"但现在，尼克斯的13场季后赛连胜结束了。尼克斯球迷们，嗯，他们是这样说的。"},{"en":"UNIDENTIFIED MALE: -- right there.","cn":"未具名男性：——就在那里。"},{"en":"UNIDENTIFIED MALE: I wanted the Knicks to win this game. Trump just had to bring his ass down.","cn":"未具名男性：我希望尼克斯赢下这场比赛。特朗普非得把他那屁股带过来。"},{"en":"UNIDENTIFIED MALE: He's a jinx. It's like the goat in Chicago. He freaking jinxed everything.","cn":"未具名男性：他是个扫把星。就像芝加哥的那只山羊。他他妈的把一切都搞砸了。"},{"en":"CORNISH: OK, today in the group chat, we've got Brianna Lyman, reporter for \"The Federalist\"; and Christine Quinn, executive committee chair for the New York state Democratic committee.","cn":"科尼什：好的，今天在我们的群聊中，我们有《联邦党人》记者布里安娜·莱曼，以及纽约州民主党委员会执行委员会主席克里斯汀·奎因。"},{"en":"Sports people are very superstitious. Let's just say that. There was this tweet from Ron Filipkowski: \"I'm not an expert on jinxes, hexes, curses, and voodoo. Not superstitious either, but if I was the Knicks, I probably wouldn't let Trump near the arena for game four, just to be on the safe side.\"","cn":"体育界人士非常迷信。我们就这么说吧。罗恩·菲利普科夫斯基发了这样一条推文：'我不是扫把星、厄运、诅咒和巫毒方面的专家。也不迷信，但如果我是尼克斯，我可能不会让特朗普靠近第四场比赛的场馆，为了保险起见。'"},{"en":"What was the point of this for Trump?","cn":"这对特朗普来说有什么意义？"},{"en":"BRIANNA LYMAN, REPORTER, \"THE FEDERALIST\": Well, I think Trump has been a lifelong Knicks fan. There are pictures of him with Marla Maples, with Melania Trump in the '90s and early 2000s. So, this is someone who probably is rooting for the same team he's been rooting for, for decades.","cn":"《联邦党人》记者布里安娜·莱曼：嗯，我认为特朗普一直是尼克斯的终身球迷。有他和玛拉·梅普尔斯、梅拉尼娅·特朗普在90年代和21世纪初的照片。所以，他可能几十年来一直在支持同一支球队。"},{"en":"CORNISH: Yes. This is the argument from Whoopi Goldberg. She said --","cn":"科尼什：是的。这是乌比·戈德堡的观点。她说——"},{"en":"CORNISH: -- the same thing. Trump --","cn":"科尼什：——同样的事情。特朗普——"},{"en":"LYMAN: She defended him.","cn":"莱曼：她为他辩护。"},{"en":"CORNISH: -- and Mamdani are Knicks fans. They've been New Yorkers.","cn":"科尼什：——和马姆达尼都是尼克斯球迷。他们一直是纽约人。"},{"en":"CORNISH: You can't tell them what they're not going to do.","cn":"科尼什：你不能告诉他们他们不会做什么。"},{"en":"I think the thing I found interesting is Trump is very much our sports president.","cn":"我觉得有趣的是，特朗普非常像我们的体育总统。"},{"en":"CORNISH: Has been. Obama was an NBA guy. And he didn't go to games, because he said it creates too much of a problem for the fans.","cn":"科尼什：一直如此。奥巴马是个NBA迷。但他不去看比赛，因为他说这会给球迷带来太多麻烦。"},{"en":"CHRISTINE QUINN, EXECUTIVE COMMITTEE CHAIR, NEW YORK STATE DEMOCRATIC COMMITTEE: Absolutely. Look, I live on the west side of Manhattan. It was a mess yesterday.","cn":"纽约州民主党委员会执行委员会主席克里斯汀·奎因：绝对。你看，我住在曼哈顿西区。昨天一片混乱。"},{"en":"CORNISH: I was about to say, how are you here?","cn":"科尼什：我正想说，你怎么在这里？"},{"en":"QUINN: Exactly, exactly. It was a total mess. Fans had to get there at least two hours early. There didn't get to be a watch party right outside the Garden.","cn":"奎因：没错，没错。完全是一团糟。球迷们必须至少提前两小时到达。花园外面没有观赛派对。"},{"en":"I -- I get that he may be a fan, but you have to really appreciate when you're president, you're not just popping in and popping out. You're putting a whole bunch of people out. And in this case, he was a jinx. There is no question about it.","cn":"我——我理解他可能是个球迷，但你必须意识到，当你身为总统时，你不是随便进进出出。你给很多人带来了不便。在这种情况下，他是个扫把星。毫无疑问。"},{"en":"LYMAN: Mamdani could have been the jinx.","cn":"莱曼：马姆达尼可能才是扫把星。"},{"en":"CORNISH: Completely like, he was a jinx. Christine Quinn, jinx expert.","cn":"科尼什：完全就像，他是个扫把星。克里斯汀·奎因，扫把星专家。"},{"en":"CORNISH: Put that under your name.","cn":"科尼什：把这个放在你的名字下面。"},{"en":"Well, here's the thing. The reason why I'm asking about this is not just because it's funny, but also because one of the things people are accusing the administration of being in this moment, when there's economic difficulty for people, is tone deaf.","cn":"嗯，事情是这样的。我问这个问题的原因不仅仅是因为它有趣，还因为人们指责政府在人们面临经济困难时的一个问题就是麻木不仁。"},{"en":"The idea that, look, we're here, the regular schmoes who want to be involved in this thing, and he comes and just says, kind of let them eat cake, right? You can watch it on TV.","cn":"这种想法是，你看，我们在这里，那些想参与其中的普通人，而他来了，就像在说，让他们吃蛋糕吧，对吧？你可以在电视上看。"},{"en":"And was -- what was the sort of -- I understand he's a fan, but does that contribute to the tone-deaf narrative?","cn":"那么——这算是一种——我理解他是个球迷，但这会助长那种麻木不仁的说法吗？"},{"en":"LYMAN: Oh, I don't think this was tone-deaf at all. I think, first of all, a lot of those tickets, I mean, some of them are going for thousands of dollars. I think I saw one ticket price at $7,000.","cn":"莱曼：哦，我完全不认为这是麻木不仁。首先，很多那些门票，我的意思是，有些售价高达数千美元。我记得我看到一张票的价格是7000美元。"},{"en":"LYMAN: And the people who were buying them and who were courtside were a lot of people very popular among the left and celebrities, right? And I don't --","cn":"莱曼：而买这些票、坐在场边的人很多都是左派中非常受欢迎的人和名人，对吧？我不——"},{"en":"CORNISH: Did they have motorcades and massive security. Or --","cn":"科尼什：他们有车队和大量安保吗？还是——"},{"en":"LYMAN: No, but those are the same people who, for four years, lectured us that things were fine under Joe Biden. So, they also could be considered tone-deaf.","cn":"莱曼：没有，但那些人正是四年来教训我们说乔·拜登治下一切安好的人。所以，他们也可以被认为是麻木不仁的。"},{"en":"But I think the president -- politics is obviously very hostile, but sports is one of those last remaining arenas where people do put politics aside. I do --","cn":"但我认为总统——政治显然非常敌对，但体育是少数几个人们确实能把政治放在一边的领域之一。我确实——"},{"en":"CORNISH: Let me play for you the reception Trump got.","cn":"科尼什：让我给你播放一下特朗普受到的待遇。"},{"en":"LYMAN: I know he got booed.","cn":"莱曼：我知道他被嘘了。"},{"en":"CORNISH: I just want to play it.","cn":"科尼什：我只是想播放一下。"},{"en":"LYMAN: Because it's also New York City.","cn":"莱曼：因为这也是纽约市。"},{"en":"CORNISH: Because it's -- it's Madison Square Garden. He is the New Yorker of New Yorkers.","cn":"科尼什：因为这是——这是麦迪逊广场花园。他是纽约人中的纽约人。"},{"en":"CORNISH: And this is ho","cn":"科尼什：而这是"}],"vocabulary":[{"word":"sitting president","phonetic":"/ˈsɪtɪŋ ˈprɛzɪdənt/","pos":"noun phrase","level":"考研","cn":"在任总统","en":"the current president in office","excerpt":"Donald Trump becomes the first sitting president to attend an NBA finals game","example_cn":"唐纳德·特朗普成为首位出席NBA总决赛的在任总统。"},{"word":"blow a winning streak","phonetic":"/bloʊ ə ˈwɪnɪŋ striːk/","pos":"verb phrase","level":"六级","cn":"输掉连胜","en":"to lose a series of consecutive wins","excerpt":"the home team blows a 13-game winning streak","example_cn":"主队输掉了13连胜。"},{"word":"harrowing","phonetic":"/ˈhæroʊɪŋ/","pos":"adj.","level":"考研","cn":"令人痛心的，折磨人的","en":"extremely distressing or painful","excerpt":"The harrowing rescue tales this morning as waters recede.","example_cn":"今早随着洪水退去，传来令人痛心的救援故事。"},{"word":"burst into","phonetic":"/bɜːrst ˈɪntuː/","pos":"verb phrase","level":"六级","cn":"突然变成（火球等）","en":"to suddenly start producing something (e.g., flames)","excerpt":"a private jet bursts into a massive fireball during an emergency crash landing","example_cn":"一架私人飞机在紧急迫降时爆炸成一个巨大的火球。"},{"word":"nightmare scenario","phonetic":"/ˈnaɪtmeər sɪˈnærioʊ/","pos":"noun phrase","level":"六级","cn":"噩梦般的情景","en":"a very bad or frightening situation","excerpt":"which is an absolute nightmare scenario","example_cn":"这绝对是一场噩梦。"},{"word":"speak out against","phonetic":"/spiːk aʊt əˈɡeɪnst/","pos":"verb phrase","level":"考研","cn":"公开反对","en":"to express strong opposition publicly","excerpt":"Brad Paisley, speaking out against a proposed data center near the Nashville Zoo","example_cn":"布拉德·佩斯利公开反对在纳什维尔动物园附近拟建的数据中心。"},{"word":"pose a threat","phonetic":"/poʊz ə θrɛt/","pos":"verb phrase","level":"六级","cn":"构成威胁","en":"to present a danger","excerpt":"Could it pose a threat to the thousands of animals there?","example_cn":"这会对那里的数千只动物构成威胁吗？"},{"word":"overshadow","phonetic":"/ˌoʊvərˈʃædoʊ/","pos":"verb","level":"考研","cn":"使……黯然失色，掩盖","en":"to make something seem less important or noticeable","excerpt":"Could money and greed overshadow the beautiful game?","example_cn":"金钱和贪婪会掩盖这项美丽运动的光芒吗？"},{"word":"outrageous","phonetic":"/aʊtˈreɪdʒəs/","pos":"adj.","level":"六级","cn":"离谱的，令人愤慨的","en":"shockingly bad or excessive","excerpt":"it's almost like $2,000 ticket. That's outrageous.","example_cn":"票价几乎要2000美元。太离谱了。"},{"word":"foul mood","phonetic":"/faʊl muːd/","pos":"noun phrase","level":"六级","cn":"糟糕的心情","en":"a bad or irritable mood","excerpt":"people here in New York waking up ... in a foul mood","example_cn":"纽约这里的人们醒来时心情很糟。"},{"word":"point fingers","phonetic":"/pɔɪnt ˈfɪŋɡərz/","pos":"verb phrase","level":"考研","cn":"指责，归咎","en":"to blame someone","excerpt":"maybe pointing fingers after the Knicks lose","example_cn":"也许在尼克斯输球后互相指责。"},{"word":"at your own peril","phonetic":"/æt jɔːr oʊn ˈpɛrɪl/","pos":"phrase","level":"考研","cn":"自担风险","en":"at your own risk","excerpt":"when you mix sports and politics, you do so at your own peril","example_cn":"当你把体育和政治混在一起时，你要自担风险。"},{"word":"tipoff","phonetic":"/ˈtɪp ɔːf/","pos":"noun","level":"六级","cn":"开球（篮球）","en":"the start of a basketball game","excerpt":"before last night's tipoff at the Garden","example_cn":"昨晚在花园球馆开球前。"},{"word":"jinx","phonetic":"/dʒɪŋks/","pos":"noun/verb","level":"六级","cn":"扫把星，厄运","en":"a person or thing that brings bad luck","excerpt":"He's a jinx. It's like the goat in Chicago.","example_cn":"他是个扫把星。就像芝加哥的那只山羊。"},{"word":"tone-deaf","phonetic":"/ˈtoʊn dɛf/","pos":"adj.","level":"考研","cn":"麻木不仁的，不合时宜的","en":"insensitive to the feelings or opinions of others","excerpt":"one of the things people are accusing the administration of ... is tone deaf","example_cn":"人们指责政府的一个问题就是麻木不仁。"},{"word":"let them eat cake","phonetic":"/lɛt ðɛm iːt keɪk/","pos":"phrase","level":"考研","cn":"让他们吃蛋糕（指对民众苦难漠不关心）","en":"a phrase attributed to Marie Antoinette, indicating indifference to the plight of the poor","excerpt":"kind of let them eat cake, right?","example_cn":"就像在说，让他们吃蛋糕吧，对吧？"},{"word":"motorcade","phonetic":"/ˈmoʊtərkeɪd/","pos":"noun","level":"六级","cn":"车队","en":"a procession of motor vehicles","excerpt":"Did they have motorcades and massive security.","example_cn":"他们有车队和大量安保吗？"},{"word":"boo","phonetic":"/buː/","pos":"verb","level":"六级","cn":"发出嘘声","en":"to make a sound to show disapproval","excerpt":"I know he got booed.","example_cn":"我知道他被嘘了。"}],"sentences":[{"en":"Donald Trump becomes the first sitting president to attend an NBA finals game, and the home team blows a 13-game winning streak.","cn":"唐纳德·特朗普成为首位出席NBA总决赛的在任总统，而主队却输掉了13连胜。","structure":"并列句，由and连接两个分句。第一个分句主语Donald Trump，谓语becomes，宾语the first sitting president，不定式to attend...作定语。第二个分句主语the home team，谓语blows，宾语a 13-game winning streak。","analysis":"sitting president意为在任总统；blow a winning streak是习语，意为输掉连胜。"},{"en":"You think I've been on him before? I'm going to be on his ass like back pockets. Like white on rice.","cn":"你以为我以前就针对过他？我会像后口袋一样黏着他。像米饭上的白色一样。","structure":"三个句子。第一句是反问句。第二句主语I，谓语am going to be，表语on his ass，介词短语like back pockets作状语。第三句是省略句，完整为I'm going to be on him like white on rice。","analysis":"on his ass是俚语，意为紧盯着某人、找麻烦；like white on rice是习语，意为非常紧密地、毫不松懈地。"},{"en":"He got no business doing this. He doesn't belong at this game. No president does. None of them. Democrat, Republican, independent. I don't give a damn.","cn":"他没资格这么做。他不属于这场比赛。任何总统都不该来。没有一个。民主党、共和党、独立人士。我他妈才不在乎。","structure":"多个短句并列。第一句主语He，谓语got no business，动名词doing this作宾语。第二句主语He，谓语doesn't belong，介词短语at this game。第三句主语No president，谓语does（替代belong）。第四句省略句。第五句名词列举。第六句主语I，谓语don't give a damn。","analysis":"have no business doing sth.意为无权做某事；don't give a damn是俚语，意为毫不在乎。"},{"en":"The reason why I'm asking about this is not just because it's funny, but also because one of the things people are accusing the administration of being in this moment, when there's economic difficulty for people, is tone deaf.","cn":"我问这个问题的原因不仅仅是因为它有趣，还因为人们指责政府在人们面临经济困难时的一个问题就是麻木不仁。","structure":"主句主语The reason，why引导定语从句，系动词is，表语由not just because...but also because...并列。第二个because从句中，主语one of the things，定语从句people are accusing the administration of being，插入时间状语从句when there's economic difficulty for people，系动词is，表语tone deaf。","analysis":"accuse sb. of being sth.意为指责某人具有某种特质；tone deaf本意是音盲，这里比喻对民众感受麻木不仁。"},{"en":"The idea that, look, we're here, the regular schmoes who want to be involved in this thing, and he comes and just says, kind of let them eat cake, right?","cn":"这种想法是，你看，我们在这里，那些想参与其中的普通人，而他来了，就像在说，让他们吃蛋糕吧，对吧？","structure":"主句主语The idea，that引导同位语从句。从句中插入look，主语we，系动词are，表语here，同位语the regular schmoes，who引导定语从句；and连接另一个分句，主语he，谓语comes and says，宾语kind of let them eat cake，right是附加问句。","analysis":"regular schmoes是俚语，意为普通人、小人物；let them eat cake是历史典故，指玛丽·安托瓦内特对民众饥饿的冷漠回应，这里比喻对民众困境漠不关心。"}],"topics":[{"title":"特朗普出席NBA总决赛的政治与体育交叉","content":"唐纳德·特朗普成为首位出席NBA总决赛的在任总统，引发关于体育与政治交叉的讨论。支持者认为他作为终身尼克斯球迷有权观赛，反对者则批评其出现造成交通混乱、安保负担，并被视为在民众经济困难时麻木不仁。此前奥巴马虽为NBA球迷，但为避免给球迷添麻烦而选择不去现场。","keywords":"sitting president · NBA finals · tone-deaf · motorcade"},{"title":"体育迷信与‘扫把星’文化","content":"尼克斯输掉13连胜后，球迷将失利归咎于特朗普到场，称其为‘jinx’（扫把星）。体育界普遍存在迷信，如芝加哥小熊队的‘山羊诅咒’（Curse of the Billy Goat）。主持人调侃克里斯汀·奎因为‘jinx expert’，反映体育文化中迷信与幽默的结合。","keywords":"jinx · hex · curse · voodoo · superstition"},{"title":"缅因州初选与‘击败苏珊·柯林斯’","content":"节目提到缅因州初选，民主党候选人格雷厄姆·普拉特纳若获胜是否应成为11月大选候选人。未具名女性强调‘最重要的事情是击败苏珊·柯林斯’。苏珊·柯林斯是缅因州共和党参议员，自1997年起任职，民主党视其为关键竞选目标。","keywords":"primary · unseat · Susan Collins · Graham Platner"},{"title":"纳什维尔动物园附近拟建数据中心的争议","content":"乡村巨星布拉德·佩斯利公开反对在纳什维尔动物园附近建造数据中心，称其为‘噩梦情景’。数据中心可能产生噪音、热量和电磁干扰，对动物造成威胁。此争议反映科技发展与环境保护之间的冲突。","keywords":"data center · Nashville Zoo · Brad Paisley · threat to animals"},{"title":"世界杯票价过高与商业化问题","content":"节目提到世界杯即将开幕，塞内加尔对法国比赛票价高达2000美元，被批评为‘outrageous’。这引发对足球运动被金钱和贪婪‘overshadow’的担忧，反映大型体育赛事日益商业化的趋势。","keywords":"World Cup · ticket price · outrageous · commercialization"},{"title":"中西部洪水与救援故事","content":"中西部洪水水位上涨，随着洪水退去，传来‘harrowing rescue tales’。节目提及私人飞机迫降爆炸等灾难，展现自然灾害和事故的紧急救援情况。","keywords":"flood waters · Midwest · rescue · harrowing"}],"raw_transcript":"Return to Transcripts main page\n\nTrump Attends NBA Finals Game and Knicks Lose; Texas Tech QB Ruled Eligible after Sports Betting Ban. Aired 6-6:30a ET\n\nAired June 09, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nBRAD SMITH, CNN ANCHOR: Fortunately, no one was hurt.\n\nAnd in Texas, a nearly 8-foot alligator was caught horsing around in a stable. An employee was able to wrangle the reptile with a lasso and pull it into an empty horse stall.\n\nGame wardens say that the gator was safely returned to a nearby bayou.\n\nWell, that does it for CNN HEADLINE EXPRESS. I'm Brad Smith. CNN THIS MORNING with Audie Cornish starts right now.\n\nAUDIE CORNISH, CNN ANCHOR: There are polls opening up right at this moment in Maine. Today in the group chat, should Graham Platner be the Democrat on the ballot in November, even if he wins today's primary?\n\nUNIDENTIFIED FEMALE: The most important thing in this election is unseating Susan Collins.\n\nCORNISH: Donald Trump becomes the first sitting president to attend an NBA finals game, and the home team blows a 13-game winning streak. Coincidence?\n\nUNIDENTIFIED FEMALE: I yelled for help and that's -- Thank God for them. You know, because I (EXPLETIVE DELETED) made it.\n\nCORNISH: There are flood waters on the rise in the Midwest. The harrowing rescue tales this morning as waters recede.\n\nAnd a private jet bursts into a massive fireball during an emergency crash landing. The investigation into what went wrong this morning.\n\nBRAD PAISLEY, COUNTRY SUPERSTAR: That they want to build next to the Nashville Zoo, which is an absolute nightmare scenario. (END VIDEO CLIP)\n\nCORNISH: That's country superstar Brad Paisley, speaking out against a proposed data center near the Nashville Zoo. Could it pose a threat to the thousands of animals there?\n\nAnd the World Cup starts this week. Could money and greed overshadow the beautiful game?\n\nUNIDENTIFIED MALE: Senegal-France game, it's almost like $2,000 ticket. That's outrageous. That's outrageous.\n\nCORNISH: So, people here in New York waking up -- I don't know -- in a foul mood, maybe pointing fingers after the Knicks lose a much-hyped game three of the NBA finals.\n\nGood morning, everybody. Good morning to New York. I'm Audie Cornish.\n\nYou know, when you mix sports and politics, you do so at your own peril. For instance, here's Stephen A. Smith before last night's tipoff at the Garden.\n\nSTEPHEN A. SMITH, SPORTS BROADCASTER: If the New York Knicks lose game three, this is on Donald Trump.\n\nYou think I've been on him before? I'm going to be on his ass like back pockets. Like white on rice. He got no business doing this. He doesn't belong at this game. No president does. None of them. Democrat, Republican, independent. I don't give a damn.\n\nCORNISH: So, the president, who is a New Yorker, showed up anyway. And that's not unusual. Trump has attended the Super Bowl, the U.S. Open, college football national championship. He's now the first sitting president to attend the NBA finals.\n\nBut now, the Knicks' 13-game playoff winning streak is over. And Knicks fans, well, this is what they're saying about it.\n\nUNIDENTIFIED MALE: -- right there.\n\nUNIDENTIFIED MALE: I wanted the Knicks to win this game. Trump just had to bring his ass down.\n\nUNIDENTIFIED MALE: He's a jinx. It's like the goat in Chicago. He freaking jinxed everything.\n\nCORNISH: OK, today in the group chat, we've got Brianna Lyman, reporter for \"The Federalist\"; and Christine Quinn, executive committee chair for the New York state Democratic committee.\n\nSports people are very superstitious. Let's just say that. There was this tweet from Ron Filipkowski: \"I'm not an expert on jinxes, hexes, curses, and voodoo. Not superstitious either, but if I was the Knicks, I probably wouldn't let Trump near the arena for game four, just to be on the safe side.\"\n\nWhat was the point of this for Trump?\n\nBRIANNA LYMAN, REPORTER, \"THE FEDERALIST\": Well, I think Trump has been a lifelong Knicks fan. There are pictures of him with Marla Maples, with Melania Trump in the '90s and early 2000s. So, this is someone who probably is rooting for the same team he's been rooting for, for decades.\n\nCORNISH: Yes. This is the argument from Whoopi Goldberg. She said --\n\nCORNISH: -- the same thing. Trump --\n\nLYMAN: She defended him.\n\nCORNISH: -- and Mamdani are Knicks fans. They've been New Yorkers.\n\nCORNISH: You can't tell them what they're not going to do.\n\nI think the thing I found interesting is Trump is very much our sports president.\n\nCORNISH: Has been. Obama was an NBA guy. And he didn't go to games, because he said it creates too much of a problem for the fans.\n\nCHRISTINE QUINN, EXECUTIVE COMMITTEE CHAIR, NEW YORK STATE DEMOCRATIC COMMITTEE: Absolutely. Look, I live on the west side of Manhattan. It was a mess yesterday.\n\nCORNISH: I was about to say, how are you here?\n\nQUINN: Exactly, exactly. It was a total mess. Fans had to get there at least two hours early. There didn't get to be a watch party right outside the Garden.\n\nI -- I get that he may be a fan, but you have to really appreciate when you're president, you're not just popping in and popping out. You're putting a whole bunch of people out. And in this case, he was a jinx. There is no question about it.\n\nLYMAN: Mamdani could have been the jinx.\n\nCORNISH: Completely like, he was a jinx. Christine Quinn, jinx expert.\n\nCORNISH: Put that under your name.\n\nWell, here's the thing. The reason why I'm asking about this is not just because it's funny, but also because one of the things people are accusing the administration of being in this moment, when there's economic difficulty for people, is tone deaf.\n\nThe idea that, look, we're here, the regular schmoes who want to be involved in this thing, and he comes and just says, kind of let them eat cake, right? You can watch it on TV.\n\nAnd was -- what was the sort of -- I understand he's a fan, but does that contribute to the tone-deaf narrative?\n\nLYMAN: Oh, I don't think this was tone-deaf at all. I think, first of all, a lot of those tickets, I mean, some of them are going for thousands of dollars. I think I saw one ticket price at $7,000.\n\nLYMAN: And the people who were buying them and who were courtside were a lot of people very popular among the left and celebrities, right? And I don't --\n\nCORNISH: Did they have motorcades and massive security. Or --\n\nLYMAN: No, but those are the same people who, for four years, lectured us that things were fine under Joe Biden. So, they also could be considered tone-deaf.\n\nBut I think the president -- politics is obviously very hostile, but sports is one of those last remaining arenas where people do put politics aside. I do --\n\nCORNISH: Let me play for you the reception Trump got.\n\nLYMAN: I know he got booed.\n\nCORNISH: I just want to play it.\n\nLYMAN: Because it's also New York City.\n\nCORNISH: Because it's -- it's Madison Square Garden. He is the New Yorker of New Yorkers.\n\nCORNISH: And this is how people reacted.\n\n(BEGIN VIDEO CLIP) DONALD TRUMP, U.S. PRESIDENT: It was amazing actually. You mean when they had the camera on me? I thought it was very good. Yes, it was certainly amazing. It was -- it was, I think, mostly cheers. It was --\n\nCORNISH: Cari Champion here, CNN contributor and host of the \"Flagrant and Funny\" podcast. We had to bring in a little bit of an expert, because we're political people. We don't know. We know about jinxes.\n\nCARI CHAMPION, CNN CONTRIBUTOR: Yes.\n\nCORNISH: We know about hoaxes. We don't know when politics and sports clash --\n\nCORNISH: -- What is the outcome? It's just New York. New York wasn't voting for Trump, en masse, anyway. But is this a problem?\n\nCHAMPION: Listen, well, first of all, you said, you know, people in sports normally I hear you say that normally they don't really care so much about politics. They absolutely cared about politics.\n\nThis is such a rare moment for New Yorkers. People have waited their entire lives. The last time they won a ship (Ph) was 1973.\n\nCORNISH: Yes. But isn't that why the president of the United States, who is a New Yorker, would want to be there?\n\nCHAMPION: No. In fact, you should not want to be there, because you want to keep that same momentum going.\n\nYou know, New York is such a rare place. I've never seen fans like this before in my entire life, and they deserve to have this moment. And it was supposed to be uninterrupted, meaning we were supposed to have our watch parties around MSG. We were supposed to be in that moment.\n\nAnd I do believe -- and you know, the great Stephen A. Smith said just the other day --\n\nCORNISH: Yes, we played him earlier.\n\nCHAMPION: You played him? So, he fully blames him. But. So that was the -- that was the vibe.\n\nCORNISH: You can't be the cooler, Brianna. You can't be on a streak and then have someone come in and cool the street.\n\nCORNISH: That's not political.\n\nCHAMPION: He was the cooler.\n\nCORNISH: I'm saying cooler. Let me play one more thing. Tommy Vietor, \"Pod Save America\" host. Obviously, these are Obama guys. But they're talking about the power of sports and why politicians would want to be involved. Here's that.\n\nTOMMY VIETOR, HOST, \"POST SAVE AMERICA\": He knows the power of live professional sports. And that's the only, like, kind of mono cultural events we really have left. That's why he goes to a lot of games. Usually, it's the NFL. He went to the Super Bowl.\n\nUsually he's more welcome in those, you know, sort of Southern NFL spaces. I -- I don't think he will be here. I mean, he's also buddies with James Dolan, I think, the owner of the Knicks.\n\nUNIDENTIFIED MALE: Always pals with the owners.\n\nUNIDENTIFIED MALE: Not a real player guy.\n\nVIETOR: Yes. No. But like, look, he loves the limelight. He loves every spotlight. And he will attempt to co-opt this one, too.\n\nCORNISH: Just that word. Corrupt -- co-opt. We know that he loves sports. UFC Claw rising like a phoenix on the lawn.\n\nCHAMPION: I don't know if he -- do you really think? I don't think he loves sports. I --\n\nCORNISH: He's always been. He's been going to ringside games and matches.\n\nCHAMPION: No sitting -- no sitting president has ever attended a finals. Right?\n\nLook, Barack loved NBA, as you pointed out.\n\nCHAMPION: And he went to a few games, but he would never do that. One, it's on our dime. Two, it disrupts everything that goes on while you're there.\n\nAnd yes, UFC is a different thing for him in terms of for Donald Trump. That's more of his fan base. That's where he lives. That's where people love to see him. He has, obviously, the relationship with Dana. So, when we see him at the NBA finals, it really throws off everything\n\nthat people wanted to be a part of. It changes the --\n\nCORNISH: Yes, it'll be interesting to see if any of this comes down on Dolan, who obviously --\n\nCORNISH: -- has some interesting --\n\nCHAMPION: Like, why invite?\n\nCORNISH: Renovating Penn Station. And there's a bunch of questions there about that relationship that I wonder if people are going to probe more now that they are -- I don't know -- angry.\n\nCORNISH: Being from Boston, let me tell you, I know to keep my mouth shut. I'm not messing with no New York fans, because I'm trying to live out a long, happy life.\n\nAll right. Coming up on CNN THIS MORNING, we're going to talk about L.A. now. It looks like Spencer Pratt might be out in that mayoral race. The former reality TV star finding he's falling behind. So, was the red wave in L.A. just a splash?\n\nPlus, the queen ready for her return. Serena Williams back on the tennis court today. Why now?\n\nAnd then were going to talk about Hunter Biden trying to reclaim the narrative. Is it working?\n\nHUNTER BIDEN, FORMER PRESIDENT JOE BIDEN'S SON: I know there's going to be a lot of haters, and a lot of trolls, and a lot of people saying really, really awful things. But I've heard it all before. It doesn't even faze me.\n\nCORNISH: It is now 15 minutes past the hour. This is your morning roundup.\n\nSam Bankman-Fried, who orchestrated one of the world's largest financial frauds, wants a pardon.\n\nThe co-founder and CEO of the crypto exchange FTX was convicted on multiple counts of fraud and conspiracy. And in fact, he's serving a 25-year prison sentence. He officially applied for a pardon, according to the Justice Department.\n\nBut back in January, Trump told \"The New York Times\" he would not pardon Bankman-Fried.\n\nAnd two people confirmed dead after a private jet crashed while attempting to land in the Dominican Republic. The plane blew up in flames after skidding across the runway.\n\nOfficials say the pilot and copilot, both U.S. nationals, died. No passengers were on board.\n\nAnd the Nashville Zoo pushing back on a proposal to build a nearly 70,000-square-foot data center right on the edge of its property.\n\nCountry music star, Nashville resident Brad Paisley, trying to drum up support for a petition against the project.\n\nPAISLEY: Let's stop it. We don't have to do this here. Build them somewhere else. But let's keep Nashville as beautiful and as -- as great an attraction as it's always been.\n\nCORNISH: D.C. Blocks, the company behind the proposal, assures there would be no health risks to the residents or the animals.\n\nAnd don't call it a comeback. Today, the GOAT, Serena Williams, officially coming out of retirement. The 44-year-old will play a doubles match at the Queens Club Championships alongside a Canadian teenager.\n\nWhen asked why now, she told reporters why not? Now is the best time for her and her family.\n\nI have to take this to Cari Champion. What is your thesis on the coming back?\n\nCHAMPION: So, I love how she's like, she's preparing us. She's managing us. She's managing upwards, as they would say.\n\nCORNISH: Managing the expectations.\n\nCHAMPION: Exactly. She says, oh, it's just for my kids to see me play.\n\nI totally believe that. But I think she, like Allyson Felix, like Lindsey Vonn had done. Everyone's prepping for the Olympics. My theory is that she's like, yes, I'll work my way to playing singles.\n\nCORNISH: Hey, don't say Lindsey Vonn, then. I mean --\n\nCHAMPION: Well, not in that way. But she came out of retirement.\n\nCORNISH: Yes, yes. CHAMPION: All of these women are coming out of retirement, because they're meeting the expectations of guess what? So what if I'm 40? So, what if I'm 40 plus?\n\nCHAMPION: I'm still going to play. I still have the desire.\n\nCORNISH: I thought she did it because she saw big sis on the court and was like, you know what? I miss it.\n\nCHAMPION: I know. I mean --\n\nCORNISH: I have a sister so I feel like that's what would happen.\n\nCHAMPION: That might be a little bit of it, but I have a feeling she'll play the Olympics.\n\nCORNISH: Well, listen, I want her kid to see her play, too.\n\nCORNISH: Shout-out to Olympia. OK.\n\nAfter the break on CNN THIS MORNING, prediction markets and pro sports. Is it time for new rules to protect players and the integrity of the games?\n\nPlus, there is dangerous flooding. There's also efforts to rescue people from rising waters.\n\nWe're going to be going live to Mexico City, as well, which will host their first World Cup match two days from now. Mexico versus South Africa.\n\nPAT MCAFEE, ESPN SPORTS ANALYST: We are getting a ruling just one day after the NCAA basically comes out and says, This guy's not allowed. OK? This is not -- we're not doing this. This judge comes out and says, Actually, can play.\n\nCORNISH: All right. As the sports world grapples with the world of sports gambling and prediction markets, a new ruling is sending shock waves through college football.\n\nThe NCAA ruled Texas Tech quarterback Brendan Sorsby was ineligible after placing more than $90,000 in bets on college sports, and that includes 40 bets on his own team when he played at Indiana. Now, a federal judge has overruled all of that. The judge,\n\nconveniently based in Texas Tech's hometown of Lubbock, argued that Sorsby will suffer, quote, \"probable, imminent and irreparable injury\" if he's not able to play for the Red Raiders this year.\n\nAnd the chairman of the NCAA calls the decision a glaring integrity threat. He wants Congress to pass a new bill which would allow them to enforce their gambling restrictions, adding, quote, \"It's needed now more than ever.\"\n\nI want to note here that CNN has a partnership with Kalshi, a prediction market.\n\nAnd I'm bringing in Randall Williams, sports business reporter at Bloomberg.\n\nI wanted to talk to you, because as we are having this conversation about betting in general --\n\nRANDALL WILLIAMS, SPORTS BUSINESS REPORTER, BLOOMBERG NEWS: Sure.\n\nCORNISH: -- there is this push to regulate harder prediction markets. What's the difference between betting in a prediction market and betting with DraftKings or regular sports betting book at Vegas?\n\nWILLIAMS: Sure. So, let's say sports gambling is more \"I'm putting money into a sports book\" than \"I'm going to get that money right back.\"\n\nIn Kalshi and Polymarket, it's derivative based. And so, what the offerings of Kalshi and Polymarket have seen, you've been able to bet on Gatorade. You've been able to bet on the Gatorade color after a team wins a Super Bowl. You've been able to --\n\nCORNISH: Strikes in Iran.\n\nCORNISH: Capturing Maduro.\n\nWILLIAMS: All of these things are very, very manipulative because of the fact that people will seek out information in order to make a ton of money. That's called insider trading.\n\nAnd so, from a sports perspective, the last thing that you want, especially after all of these years of sports gambling with the MLB, with the NBA, with the NFL. We've seen suspensions across all of them in different cases and even at the federal level, as well. They're trying to get a handle on these things.\n\nWILLIAMS: Now, different leagues have different approaches. Some are partnering with them and trying to say, Hey, if we don't partner with them, then they're going to run rampant. Others are saying, not so fast. CORNISH: Yes.\n\nWILLIAMS: We want to see what happens first.\n\nCORNISH: So, to your point, the MLB has a data sharing agreement again, because they're trying to catch bad actors.\n\nCORNISH: I've been paying attention to this story, because we've actually talked here at CNN to, like, college-age adults. There was one story where the student said, the ads got me, and he was talking about prediction markets specifically.\n\nHe says, \"Predictions absolutely mean gambling. And frankly, I'm surprised you loopholed this so well to allow someone like me to gamble on this stuff.\"\n\nThis is what he was writing in his comments.\n\nCORNISH: \"A hundred percent should be banned before my -- before more kids like me use it, because God knows they shouldn't.\"\n\nNow, there's a couple of things that the sports leagues have written to federal regulators asking for: raising the betting age from 18 to 21.\n\nCORNISH: A ban on waging on your own team. We just talked about that in the introduction. Ban over/under bets on fouls and injuries, getting injured.\n\nCORNISH: And then mandatory fan conduct rules. What's going on there?\n\nWILLIAMS: Well, first of all, multifaceted. As far as the betting age, when you think about if you're on TikTok, if you're on ESPN, if you're on NBC, there are so many betting ads; and there's even betting sections of the shows.\n\nAs far as the kids themselves, when you're watching these things, whether it be Pat McAfee, whether it be \"First Take,\" whether it be \"SportsCenter,\" whether it be from FS1 and FOX, you're going to see so much of it that you're going to be like, well, why not?\n\nCORNISH: How bad could it be?\n\nWILLIAMS: How bad could it be? And then, it's like, you win once. Now you're chasing that thrill. And that can be a very addictive process. So, from the league perspective, they're like, OK, let's try to push\n\nthis until their brain is a little bit more fully developed, and then they can make their own decisions.\n\nBut the reality is the floodgates of gambling are already open. When you accept money, this is a possibility, and people are going to try to win a lot of it.\n\nCORNISH: So, Donald Trump actually was just posting about this on Truth Social, where he said, \"It's critically important that the CFTC's exclusive authority over prediction markets is maintained and that they will thrive.\"\n\nCan you talk about where he's coming down on this issue and where that compares to what the leagues are asking?\n\nWILLIAMS: Well, I think what President Trump is asking, I think is more impartial to or more partial to the fact that Kalshi and Polymarket have things that are outside of sports offering.\n\nYou mentioned some of the Iran war strikes. You mentioned when President Maduro was -- was captured. If you can bet on some of those things, like who's to say that doesn't leak and compromise an operation?\n\nAnd so, he is trying to get a hold on and say, hey, we have some things going on at the federal level that are a serious issue. I think those things run in line with some of the sports offerings, as well.\n\nBut it remains to be seen how well the sports world and President Trump will work together on these, because President Trump was at the Knicks game yesterday. He's also targeted the NFL for the Sports Broadcasting Act and trying to see if -- if you know, the district -- excuse me, the distribution among streamers and traditional broadcasters is too wide.\n\nSo, I think they are walking in the same path, but just at different paces.\n\nCORNISH: Do you have a question? You were looking.\n\nCHAMPION: No, I was just really curious, like, why is that his business?\n\nWILLIAMS: President Trump's?\n\nWILLIAMS: I think it's his business because of the fact that he just doesn't want leaks out there. He doesn't want to be known as the president who had insider trading at all of these different things that were going on that were a result of him. So, if someone's going to be making money from his operations, he wants it to be himself or the people around him.\n\nCORNISH: Well, I -- I should say -- we should note there is currently, I think, a U.S. service member who is facing --\n\nCORNISH: -- charges for allegedly placing wagers, contracts in prediction markets over the when and where of Maduro. So, it feels like these things are just now sort of entering the judicial system --\n\nCORNISH: -- where a lot of it will be hashed out.\n\nRandall, I want to let you go. But before I do, Knicks. Are you -- where are you on Trump as cooler or Knicks just had a bad night?\n\nWILLIAMS: Oh, I believe President Trump absolutely cursed the Knicks.\n\nCORNISH: Strong language. All day.\n\nWILLIAMS: Listen, I've been to several events that President Trump has attended: UFC events. I was at the Super Bowl that he attended, and all of them had different results.\n\nBut this one, I was like, I don't think he should go to this one just because of the fact that they were riding high. And now he shows up, and we see what happens.\n\nCHAMPION: Cooler. Yes.\n\nCORNISH: OK, the word from Bloomberg business. Local man says. No.\n\nStraight ahead on CNN THIS MORNING, it's primary day in Maine. We want to talk about that. Can voters there get over the scandals weighing down Democrat Graham Platner's campaign?\n\nPlus, a U.S. Army helicopter goes down in the Middle East. President Trump will be giving an update on the crew on board.","segments":[{"seg":1,"url":"https://transcripts.cnn.com/show/ctmo/date/2026-06-09/segment/01","title":"CNN.com - Transcripts","text":"Return to Transcripts main page\n\nTrump Attends NBA Finals Game and Knicks Lose; Texas Tech QB Ruled Eligible after Sports Betting Ban. Aired 6-6:30a ET\n\nAired June 09, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nBRAD SMITH, CNN ANCHOR: Fortunately, no one was hurt.\n\nAnd in Texas, a nearly 8-foot alligator was caught horsing around in a stable. An employee was able to wrangle the reptile with a lasso and pull it into an empty horse stall.\n\nGame wardens say that the gator was safely returned to a nearby bayou.\n\nWell, that does it for CNN HEADLINE EXPRESS. I'm Brad Smith. CNN THIS MORNING with Audie Cornish starts right now.\n\nAUDIE CORNISH, CNN ANCHOR: There are polls opening up right at this moment in Maine. Today in the group chat, should Graham Platner be the Democrat on the ballot in November, even if he wins today's primary?\n\nUNIDENTIFIED FEMALE: The most important thing in this election is unseating Susan Collins.\n\nCORNISH: Donald Trump becomes the first sitting president to attend an NBA finals game, and the home team blows a 13-game winning streak. Coincidence?\n\nUNIDENTIFIED FEMALE: I yelled for help and that's -- Thank God for them. You know, because I (EXPLETIVE DELETED) made it.\n\nCORNISH: There are flood waters on the rise in the Midwest. The harrowing rescue tales this morning as waters recede.\n\nAnd a private jet bursts into a massive fireball during an emergency crash landing. The investigation into what went wrong this morning.\n\nBRAD PAISLEY, COUNTRY SUPERSTAR: That they want to build next to the Nashville Zoo, which is an absolute nightmare scenario. (END VIDEO CLIP)\n\nCORNISH: That's country superstar Brad Paisley, speaking out against a proposed data center near the Nashville Zoo. Could it pose a threat to the thousands of animals there?\n\nAnd the World Cup starts this week. Could money and greed overshadow the beautiful game?\n\nUNIDENTIFIED MALE: Senegal-France game, it's almost like $2,000 ticket. That's outrageous. That's outrageous.\n\nCORNISH: So, people here in New York waking up -- I don't know -- in a foul mood, maybe pointing fingers after the Knicks lose a much-hyped game three of the NBA finals.\n\nGood morning, everybody. Good morning to New York. I'm Audie Cornish.\n\nYou know, when you mix sports and politics, you do so at your own peril. For instance, here's Stephen A. Smith before last night's tipoff at the Garden.\n\nSTEPHEN A. SMITH, SPORTS BROADCASTER: If the New York Knicks lose game three, this is on Donald Trump.\n\nYou think I've been on him before? I'm going to be on his ass like back pockets. Like white on rice. He got no business doing this. He doesn't belong at this game. No president does. None of them. Democrat, Republican, independent. I don't give a damn.\n\nCORNISH: So, the president, who is a New Yorker, showed up anyway. And that's not unusual. Trump has attended the Super Bowl, the U.S. Open, college football national championship. He's now the first sitting president to attend the NBA finals.\n\nBut now, the Knicks' 13-game playoff winning streak is over. And Knicks fans, well, this is what they're saying about it.\n\nUNIDENTIFIED MALE: -- right there.\n\nUNIDENTIFIED MALE: I wanted the Knicks to win this game. Trump just had to bring his ass down.\n\nUNIDENTIFIED MALE: He's a jinx. It's like the goat in Chicago. He freaking jinxed everything.\n\nCORNISH: OK, today in the group chat, we've got Brianna Lyman, reporter for \"The Federalist\"; and Christine Quinn, executive committee chair for the New York state Democratic committee.\n\nSports people are very superstitious. Let's just say that. There was this tweet from Ron Filipkowski: \"I'm not an expert on jinxes, hexes, curses, and voodoo. Not superstitious either, but if I was the Knicks, I probably wouldn't let Trump near the arena for game four, just to be on the safe side.\"\n\nWhat was the point of this for Trump?\n\nBRIANNA LYMAN, REPORTER, \"THE FEDERALIST\": Well, I think Trump has been a lifelong Knicks fan. There are pictures of him with Marla Maples, with Melania Trump in the '90s and early 2000s. So, this is someone who probably is rooting for the same team he's been rooting for, for decades.\n\nCORNISH: Yes. This is the argument from Whoopi Goldberg. She said --\n\nCORNISH: -- the same thing. Trump --\n\nLYMAN: She defended him.\n\nCORNISH: -- and Mamdani are Knicks fans. They've been New Yorkers.\n\nCORNISH: You can't tell them what they're not going to do.\n\nI think the thing I found interesting is Trump is very much our sports president.\n\nCORNISH: Has been. Obama was an NBA guy. And he didn't go to games, because he said it creates too much of a problem for the fans.\n\nCHRISTINE QUINN, EXECUTIVE COMMITTEE CHAIR, NEW YORK STATE DEMOCRATIC COMMITTEE: Absolutely. Look, I live on the west side of Manhattan. It was a mess yesterday.\n\nCORNISH: I was about to say, how are you here?\n\nQUINN: Exactly, exactly. It was a total mess. Fans had to get there at least two hours early. There didn't get to be a watch party right outside the Garden.\n\nI -- I get that he may be a fan, but you have to really appreciate when you're president, you're not just popping in and popping out. You're putting a whole bunch of people out. And in this case, he was a jinx. There is no question about it.\n\nLYMAN: Mamdani could have been the jinx.\n\nCORNISH: Completely like, he was a jinx. Christine Quinn, jinx expert.\n\nCORNISH: Put that under your name.\n\nWell, here's the thing. The reason why I'm asking about this is not just because it's funny, but also because one of the things people are accusing the administration of being in this moment, when there's economic difficulty for people, is tone deaf.\n\nThe idea that, look, we're here, the regular schmoes who want to be involved in this thing, and he comes and just says, kind of let them eat cake, right? You can watch it on TV.\n\nAnd was -- what was the sort of -- I understand he's a fan, but does that contribute to the tone-deaf narrative?\n\nLYMAN: Oh, I don't think this was tone-deaf at all. I think, first of all, a lot of those tickets, I mean, some of them are going for thousands of dollars. I think I saw one ticket price at $7,000.\n\nLYMAN: And the people who were buying them and who were courtside were a lot of people very popular among the left and celebrities, right? And I don't --\n\nCORNISH: Did they have motorcades and massive security. Or --\n\nLYMAN: No, but those are the same people who, for four years, lectured us that things were fine under Joe Biden. So, they also could be considered tone-deaf.\n\nBut I think the president -- politics is obviously very hostile, but sports is one of those last remaining arenas where people do put politics aside. I do --\n\nCORNISH: Let me play for you the reception Trump got.\n\nLYMAN: I know he got booed.\n\nCORNISH: I just want to play it.\n\nLYMAN: Because it's also New York City.\n\nCORNISH: Because it's -- it's Madison Square Garden. He is the New Yorker of New Yorkers.\n\nCORNISH: And this is how people reacted.\n\n(BEGIN VIDEO CLIP) DONALD TRUMP, U.S. PRESIDENT: It was amazing actually. You mean when they had the camera on me? I thought it was very good. Yes, it was certainly amazing. It was -- it was, I think, mostly cheers. It was --\n\nCORNISH: Cari Champion here, CNN contributor and host of the \"Flagrant and Funny\" podcast. We had to bring in a little bit of an expert, because we're political people. We don't know. We know about jinxes.\n\nCARI CHAMPION, CNN CONTRIBUTOR: Yes.\n\nCORNISH: We know about hoaxes. We don't know when politics and sports clash --\n\nCORNISH: -- What is the outcome? It's just New York. New York wasn't voting for Trump, en masse, anyway. But is this a problem?\n\nCHAMPION: Listen, well, first of all, you said, you know, people in sports normally I hear you say that normally they don't really care so much about politics. They absolutely cared about politics.\n\nThis is such a rare moment for New Yorkers. People have waited their entire lives. The last time they won a ship (Ph) was 1973.\n\nCORNISH: Yes. But isn't that why the president of the United States, who is a New Yorker, would want to be there?\n\nCHAMPION: No. In fact, you should not want to be there, because you want to keep that same momentum going.\n\nYou know, New York is such a rare place. I've never seen fans like this before in my entire life, and they deserve to have this moment. And it was supposed to be uninterrupted, meaning we were supposed to have our watch parties around MSG. We were supposed to be in that moment.\n\nAnd I do believe -- and you know, the great Stephen A. Smith said just the other day --\n\nCORNISH: Yes, we played him earlier.\n\nCHAMPION: You played him? So, he fully blames him. But. So that was the -- that was the vibe.\n\nCORNISH: You can't be the cooler, Brianna. You can't be on a streak and then have someone come in and cool the street.\n\nCORNISH: That's not political.\n\nCHAMPION: He was the cooler.\n\nCORNISH: I'm saying cooler. Let me play one more thing. Tommy Vietor, \"Pod Save America\" host. Obviously, these are Obama guys. But they're talking about the power of sports and why politicians would want to be involved. Here's that.\n\nTOMMY VIETOR, HOST, \"POST SAVE AMERICA\": He knows the power of live professional sports. And that's the only, like, kind of mono cultural events we really have left. That's why he goes to a lot of games. Usually, it's the NFL. He went to the Super Bowl.\n\nUsually he's more welcome in those, you know, sort of Southern NFL spaces. I -- I don't think he will be here. I mean, he's also buddies with James Dolan, I think, the owner of the Knicks.\n\nUNIDENTIFIED MALE: Always pals with the owners.\n\nUNIDENTIFIED MALE: Not a real player guy.\n\nVIETOR: Yes. No. But like, look, he loves the limelight. He loves every spotlight. And he will attempt to co-opt this one, too.\n\nCORNISH: Just that word. Corrupt -- co-opt. We know that he loves sports. UFC Claw rising like a phoenix on the lawn.\n\nCHAMPION: I don't know if he -- do you really think? I don't think he loves sports. I --\n\nCORNISH: He's always been. He's been going to ringside games and matches.\n\nCHAMPION: No sitting -- no sitting president has ever attended a finals. Right?\n\nLook, Barack loved NBA, as you pointed out.\n\nCHAMPION: And he went to a few games, but he would never do that. One, it's on our dime. Two, it disrupts everything that goes on while you're there.\n\nAnd yes, UFC is a different thing for him in terms of for Donald Trump. That's more of his fan base. That's where he lives. That's where people love to see him. He has, obviously, the relationship with Dana. So, when we see him at the NBA finals, it really throws off everything\n\nthat people wanted to be a part of. It changes the --\n\nCORNISH: Yes, it'll be interesting to see if any of this comes down on Dolan, who obviously --\n\nCORNISH: -- has some interesting --\n\nCHAMPION: Like, why invite?\n\nCORNISH: Renovating Penn Station. And there's a bunch of questions there about that relationship that I wonder if people are going to probe more now that they are -- I don't know -- angry.\n\nCORNISH: Being from Boston, let me tell you, I know to keep my mouth shut. I'm not messing with no New York fans, because I'm trying to live out a long, happy life.\n\nAll right. Coming up on CNN THIS MORNING, we're going to talk about L.A. now. It looks like Spencer Pratt might be out in that mayoral race. The former reality TV star finding he's falling behind. So, was the red wave in L.A. just a splash?\n\nPlus, the queen ready for her return. Serena Williams back on the tennis court today. Why now?\n\nAnd then were going to talk about Hunter Biden trying to reclaim the narrative. Is it working?\n\nHUNTER BIDEN, FORMER PRESIDENT JOE BIDEN'S SON: I know there's going to be a lot of haters, and a lot of trolls, and a lot of people saying really, really awful things. But I've heard it all before. It doesn't even faze me.\n\nCORNISH: It is now 15 minutes past the hour. This is your morning roundup.\n\nSam Bankman-Fried, who orchestrated one of the world's largest financial frauds, wants a pardon.\n\nThe co-founder and CEO of the crypto exchange FTX was convicted on multiple counts of fraud and conspiracy. And in fact, he's serving a 25-year prison sentence. He officially applied for a pardon, according to the Justice Department.\n\nBut back in January, Trump told \"The New York Times\" he would not pardon Bankman-Fried.\n\nAnd two people confirmed dead after a private jet crashed while attempting to land in the Dominican Republic. The plane blew up in flames after skidding across the runway.\n\nOfficials say the pilot and copilot, both U.S. nationals, died. No passengers were on board.\n\nAnd the Nashville Zoo pushing back on a proposal to build a nearly 70,000-square-foot data center right on the edge of its property.\n\nCountry music star, Nashville resident Brad Paisley, trying to drum up support for a petition against the project.\n\nPAISLEY: Let's stop it. We don't have to do this here. Build them somewhere else. But let's keep Nashville as beautiful and as -- as great an attraction as it's always been.\n\nCORNISH: D.C. Blocks, the company behind the proposal, assures there would be no health risks to the residents or the animals.\n\nAnd don't call it a comeback. Today, the GOAT, Serena Williams, officially coming out of retirement. The 44-year-old will play a doubles match at the Queens Club Championships alongside a Canadian teenager.\n\nWhen asked why now, she told reporters why not? Now is the best time for her and her family.\n\nI have to take this to Cari Champion. What is your thesis on the coming back?\n\nCHAMPION: So, I love how she's like, she's preparing us. She's managing us. She's managing upwards, as they would say.\n\nCORNISH: Managing the expectations.\n\nCHAMPION: Exactly. She says, oh, it's just for my kids to see me play.\n\nI totally believe that. But I think she, like Allyson Felix, like Lindsey Vonn had done. Everyone's prepping for the Olympics. My theory is that she's like, yes, I'll work my way to playing singles.\n\nCORNISH: Hey, don't say Lindsey Vonn, then. I mean --\n\nCHAMPION: Well, not in that way. But she came out of retirement.\n\nCORNISH: Yes, yes. CHAMPION: All of these women are coming out of retirement, because they're meeting the expectations of guess what? So what if I'm 40? So, what if I'm 40 plus?\n\nCHAMPION: I'm still going to play. I still have the desire.\n\nCORNISH: I thought she did it because she saw big sis on the court and was like, you know what? I miss it.\n\nCHAMPION: I know. I mean --\n\nCORNISH: I have a sister so I feel like that's what would happen.\n\nCHAMPION: That might be a little bit of it, but I have a feeling she'll play the Olympics.\n\nCORNISH: Well, listen, I want her kid to see her play, too.\n\nCORNISH: Shout-out to Olympia. OK.\n\nAfter the break on CNN THIS MORNING, prediction markets and pro sports. Is it time for new rules to protect players and the integrity of the games?\n\nPlus, there is dangerous flooding. There's also efforts to rescue people from rising waters.\n\nWe're going to be going live to Mexico City, as well, which will host their first World Cup match two days from now. Mexico versus South Africa.\n\nPAT MCAFEE, ESPN SPORTS ANALYST: We are getting a ruling just one day after the NCAA basically comes out and says, This guy's not allowed. OK? This is not -- we're not doing this. This judge comes out and says, Actually, can play.\n\nCORNISH: All right. As the sports world grapples with the world of sports gambling and prediction markets, a new ruling is sending shock waves through college football.\n\nThe NCAA ruled Texas Tech quarterback Brendan Sorsby was ineligible after placing more than $90,000 in bets on college sports, and that includes 40 bets on his own team when he played at Indiana. Now, a federal judge has overruled all of that. The judge,\n\nconveniently based in Texas Tech's hometown of Lubbock, argued that Sorsby will suffer, quote, \"probable, imminent and irreparable injury\" if he's not able to play for the Red Raiders this year.\n\nAnd the chairman of the NCAA calls the decision a glaring integrity threat. He wants Congress to pass a new bill which would allow them to enforce their gambling restrictions, adding, quote, \"It's needed now more than ever.\"\n\nI want to note here that CNN has a partnership with Kalshi, a prediction market.\n\nAnd I'm bringing in Randall Williams, sports business reporter at Bloomberg.\n\nI wanted to talk to you, because as we are having this conversation about betting in general --\n\nRANDALL WILLIAMS, SPORTS BUSINESS REPORTER, BLOOMBERG NEWS: Sure.\n\nCORNISH: -- there is this push to regulate harder prediction markets. What's the difference between betting in a prediction market and betting with DraftKings or regular sports betting book at Vegas?\n\nWILLIAMS: Sure. So, let's say sports gambling is more \"I'm putting money into a sports book\" than \"I'm going to get that money right back.\"\n\nIn Kalshi and Polymarket, it's derivative based. And so, what the offerings of Kalshi and Polymarket have seen, you've been able to bet on Gatorade. You've been able to bet on the Gatorade color after a team wins a Super Bowl. You've been able to --\n\nCORNISH: Strikes in Iran.\n\nCORNISH: Capturing Maduro.\n\nWILLIAMS: All of these things are very, very manipulative because of the fact that people will seek out information in order to make a ton of money. That's called insider trading.\n\nAnd so, from a sports perspective, the last thing that you want, especially after all of these years of sports gambling with the MLB, with the NBA, with the NFL. We've seen suspensions across all of them in different cases and even at the federal level, as well. They're trying to get a handle on these things.\n\nWILLIAMS: Now, different leagues have different approaches. Some are partnering with them and trying to say, Hey, if we don't partner with them, then they're going to run rampant. Others are saying, not so fast. CORNISH: Yes.\n\nWILLIAMS: We want to see what happens first.\n\nCORNISH: So, to your point, the MLB has a data sharing agreement again, because they're trying to catch bad actors.\n\nCORNISH: I've been paying attention to this story, because we've actually talked here at CNN to, like, college-age adults. There was one story where the student said, the ads got me, and he was talking about prediction markets specifically.\n\nHe says, \"Predictions absolutely mean gambling. And frankly, I'm surprised you loopholed this so well to allow someone like me to gamble on this stuff.\"\n\nThis is what he was writing in his comments.\n\nCORNISH: \"A hundred percent should be banned before my -- before more kids like me use it, because God knows they shouldn't.\"\n\nNow, there's a couple of things that the sports leagues have written to federal regulators asking for: raising the betting age from 18 to 21.\n\nCORNISH: A ban on waging on your own team. We just talked about that in the introduction. Ban over/under bets on fouls and injuries, getting injured.\n\nCORNISH: And then mandatory fan conduct rules. What's going on there?\n\nWILLIAMS: Well, first of all, multifaceted. As far as the betting age, when you think about if you're on TikTok, if you're on ESPN, if you're on NBC, there are so many betting ads; and there's even betting sections of the shows.\n\nAs far as the kids themselves, when you're watching these things, whether it be Pat McAfee, whether it be \"First Take,\" whether it be \"SportsCenter,\" whether it be from FS1 and FOX, you're going to see so much of it that you're going to be like, well, why not?\n\nCORNISH: How bad could it be?\n\nWILLIAMS: How bad could it be? And then, it's like, you win once. Now you're chasing that thrill. And that can be a very addictive process. So, from the league perspective, they're like, OK, let's try to push\n\nthis until their brain is a little bit more fully developed, and then they can make their own decisions.\n\nBut the reality is the floodgates of gambling are already open. When you accept money, this is a possibility, and people are going to try to win a lot of it.\n\nCORNISH: So, Donald Trump actually was just posting about this on Truth Social, where he said, \"It's critically important that the CFTC's exclusive authority over prediction markets is maintained and that they will thrive.\"\n\nCan you talk about where he's coming down on this issue and where that compares to what the leagues are asking?\n\nWILLIAMS: Well, I think what President Trump is asking, I think is more impartial to or more partial to the fact that Kalshi and Polymarket have things that are outside of sports offering.\n\nYou mentioned some of the Iran war strikes. You mentioned when President Maduro was -- was captured. If you can bet on some of those things, like who's to say that doesn't leak and compromise an operation?\n\nAnd so, he is trying to get a hold on and say, hey, we have some things going on at the federal level that are a serious issue. I think those things run in line with some of the sports offerings, as well.\n\nBut it remains to be seen how well the sports world and President Trump will work together on these, because President Trump was at the Knicks game yesterday. He's also targeted the NFL for the Sports Broadcasting Act and trying to see if -- if you know, the district -- excuse me, the distribution among streamers and traditional broadcasters is too wide.\n\nSo, I think they are walking in the same path, but just at different paces.\n\nCORNISH: Do you have a question? You were looking.\n\nCHAMPION: No, I was just really curious, like, why is that his business?\n\nWILLIAMS: President Trump's?\n\nWILLIAMS: I think it's his business because of the fact that he just doesn't want leaks out there. He doesn't want to be known as the president who had insider trading at all of these different things that were going on that were a result of him. So, if someone's going to be making money from his operations, he wants it to be himself or the people around him.\n\nCORNISH: Well, I -- I should say -- we should note there is currently, I think, a U.S. service member who is facing --\n\nCORNISH: -- charges for allegedly placing wagers, contracts in prediction markets over the when and where of Maduro. So, it feels like these things are just now sort of entering the judicial system --\n\nCORNISH: -- where a lot of it will be hashed out.\n\nRandall, I want to let you go. But before I do, Knicks. Are you -- where are you on Trump as cooler or Knicks just had a bad night?\n\nWILLIAMS: Oh, I believe President Trump absolutely cursed the Knicks.\n\nCORNISH: Strong language. All day.\n\nWILLIAMS: Listen, I've been to several events that President Trump has attended: UFC events. I was at the Super Bowl that he attended, and all of them had different results.\n\nBut this one, I was like, I don't think he should go to this one just because of the fact that they were riding high. And now he shows up, and we see what happens.\n\nCHAMPION: Cooler. Yes.\n\nCORNISH: OK, the word from Bloomberg business. Local man says. No.\n\nStraight ahead on CNN THIS MORNING, it's primary day in Maine. We want to talk about that. Can voters there get over the scandals weighing down Democrat Graham Platner's campaign?\n\nPlus, a U.S. Army helicopter goes down in the Middle East. President Trump will be giving an update on the crew on board."}]}};
 let currentData = null;
+let currentDate = null;
 const LV_COLORS = {'考研':'#e68a2e','六级':'#0a58ca'};
 
+// 初始化
 (function init(){
-  const latest = '2026-06-10';
-  if(ALL_DATA[latest]) loadDate(latest);
-  document.querySelector(`[data-date="${latest}"]`)?.classList.add('active');
+    const latestDate = '2026-06-09';
+    if(latestDate && ALL_DATA[latestDate]) {
+        loadDate(latestDate);
+    } else {
+        const firstDate = Object.keys(ALL_DATA)[0];
+        if(firstDate) loadDate(firstDate);
+    }
+    // 高亮当前选中的目录项
+    updateActiveDirectory();
 })();
 
 function openSource(){
-  if(currentData?.source_url) window.open(currentData.source_url,'_blank');
+    if(currentData?.source_url) window.open(currentData.source_url,'_blank');
 }
 
 function loadDate(date){
-  if(!ALL_DATA[date]) return;
-  document.querySelectorAll('.hist-item').forEach(b=>
-    b.classList.toggle('active', b.dataset.date===date));
-  renderAll(ALL_DATA[date]);
+    if(!ALL_DATA[date]) return;
+    currentDate = date;
+    currentData = ALL_DATA[date];
+    
+    // 更新顶部日期显示
+    document.getElementById('topbarDate').textContent = date;
+    
+    // 渲染内容
+    renderTranscript(currentData);
+    renderTranslation(currentData);
+    renderVocab(currentData);
+    renderSentences(currentData);
+    renderTopics(currentData);
+    
+    // 切换到全文稿标签
+    switchTab('transcript');
+    
+    // 更新目录激活状态
+    updateActiveDirectory();
 }
 
-function renderAll(data){
-  currentData = data;
-  document.getElementById('topbarDate').textContent = data.date||'';
-  document.getElementById('topbarTitle').textContent = 'CNN This Morning · ' + (data.date||'');
-
-  renderSegmentedTranscript(data.segments || [], data.vocabulary || []);
-  renderWordList(data.vocabulary || []);
-  renderVocab(data.vocabulary || []);
-  renderSentences(data.sentences || []);
-  renderTopics(data.topics || []);
-
-  const transDiv = document.getElementById('fullTranslation');
-  if(transDiv) transDiv.innerHTML = esc(data.full_translation || '暂无全文翻译，请重新运行生成。');
-}
-
-function renderSegmentedTranscript(segments, vocab){
-  const container = document.getElementById('transcriptBody');
-  if(!segments || segments.length === 0){
-    container.innerHTML = '<div>无分段数据</div>';
-    return;
-  }
-  const vocabMap = {};
-  vocab.forEach(v=>{ vocabMap[v.word.toLowerCase()] = v; });
-  const sortedWords = Object.keys(vocabMap).sort((a,b)=>b.length-a.length);
-
-  let html = '';
-  for(let seg of segments){
-    const title = seg.title || `Segment ${seg.seg}`;
-    let rawText = seg.text || '';
-    // 高亮处理（保留换行）
-    const highlighted = highlightWordsKeepWhitespace(rawText, sortedWords, vocabMap);
-    html += `
-      <div class="segment-block">
-        <div class="segment-title">📺 ${esc(title)}</div>
-        ${highlighted}
-      </div>
-    `;
-  }
-  container.innerHTML = html;
-}
-
-function highlightWordsKeepWhitespace(text, sortedWords, vocabMap){
-  if(!text) return '';
-  // 构建位置数组
-  const positions = [];
-  const lc = text.toLowerCase();
-  sortedWords.forEach(word=>{
-    let idx = 0;
-    while((idx = lc.indexOf(word, idx)) !== -1){
-      const before = idx === 0 || !/[a-z]/i.test(text[idx-1]);
-      const after  = idx+word.length >= text.length || !/[a-z]/i.test(text[idx+word.length]);
-      if(before && after){
-        const overlaps = positions.some(p=> idx < p.end && idx+word.length > p.start);
-        if(!overlaps){
-          positions.push({start:idx, end:idx+word.length, word, vocab:vocabMap[word]});
+function updateActiveDirectory() {
+    document.querySelectorAll('.directory-item').forEach(item => {
+        const date = item.getAttribute('data-date');
+        if(date === currentDate) {
+            item.classList.add('active');
+        } else {
+            item.classList.remove('active');
         }
-      }
-      idx += word.length;
+    });
+}
+
+// 渲染原文（分段展示，保留换行）
+function renderTranscript(data) {
+    const container = document.getElementById('contentContainer');
+    const segments = data.segments || [];
+    const vocab = data.vocabulary || [];
+    
+    if(!segments.length) {
+        container.innerHTML = '<div class="empty">暂无内容</div>';
+        return;
     }
-  });
-  if(!positions.length) return `<pre style="white-space: pre-wrap; margin:0;">${esc(text)}</pre>`;
-  positions.sort((a,b)=>a.start-b.start);
-  
-  let result = '';
-  let last = 0;
-  for (let p of positions) {
-    result += esc(text.slice(last, p.start));
-    const word = p.word;
-    const vocabData = p.vocab;
-    const lv = vocabData.level || '';
-    const cnMeaning = vocabData.cn || '';
-    const safeTitle = cnMeaning.replace(/["']/g, '&quot;');
-    result += `<span class="cnnTransHighlight" data-word="${esc(word)}" title="${safeTitle}" onclick="showVocabPopup(event,'${esc(word)}')">${esc(word)}</span>`;
-    last = p.end;
-  }
-  result += esc(text.slice(last));
-  // 使用 pre 包裹以保留原始空白和换行，但允许自动换行
-  return `<pre style="white-space: pre-wrap; margin:0; font-family: inherit;">${result}</pre>`;
+    
+    // 构建词汇映射
+    const vocabMap = {};
+    vocab.forEach(v => { vocabMap[v.word.toLowerCase()] = v; });
+    const sortedWords = Object.keys(vocabMap).sort((a,b) => b.length - a.length);
+    
+    let html = `
+        <div class="section active" id="transcriptSection">
+            <div class="transcript-wrap">
+                <div>
+                    <div class="transcript-body" id="transcriptBody"></div>
+                </div>
+                <div>
+                    <div class="word-panel">
+                        <div class="word-panel-title">词汇索引</div>
+                        <div class="word-list" id="wordList"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="section" id="translationSection">
+            <div class="translation-box">
+                <div class="card-label">📖 完整中文翻译</div>
+                <div id="fullTranslation"></div>
+            </div>
+        </div>
+        <div class="section" id="vocabSection"><div class="vocab-grid" id="vocabGrid"></div></div>
+        <div class="section" id="sentencesSection"><div id="sentenceList"></div></div>
+        <div class="section" id="topicsSection"><div id="topicList"></div></div>
+    `;
+    container.innerHTML = html;
+    
+    // 渲染原文内容
+    let transcriptHtml = '';
+    for(let seg of segments) {
+        const title = seg.title || `Segment ${seg.seg}`;
+        const rawText = seg.text || '';
+        const highlighted = highlightWords(rawText, sortedWords, vocabMap);
+        transcriptHtml += `
+            <div class="segment-block">
+                <div class="segment-title">📺 ${escapeHtml(title)}</div>
+                <div class="para">${highlighted}</div>
+            </div>
+        `;
+    }
+    document.getElementById('transcriptBody').innerHTML = transcriptHtml;
+    
+    // 渲染词汇索引
+    renderWordList(vocab);
+    
+    // 渲染翻译
+    document.getElementById('fullTranslation').innerHTML = escapeHtml(data.full_translation || '暂无全文翻译');
+    
+    // 渲染其他组件
+    renderVocabCards(vocab);
+    renderSentencesList(data.sentences || []);
+    renderTopicsList(data.topics || []);
 }
 
-function showVocabPopup(e, word){
-  e.stopPropagation();
-  const data = currentData?.vocabulary?.find(v=>v.word===word);
-  if(!data) return;
-
-  document.querySelectorAll('.cnnTransHighlight').forEach(el=>{
-    el.classList.toggle('active', el.dataset.word===word);
-  });
-  document.querySelectorAll('.word-chip').forEach(el=>{
-    el.classList.toggle('active', el.dataset.word===word);
-  });
-
-  document.getElementById('vpWord').textContent = data.word;
-  document.getElementById('vpPh').textContent   = data.phonetic||'';
-  document.getElementById('vpPos').textContent  = data.pos||'';
-  document.getElementById('vpLv').textContent   = data.level||'';
-  document.getElementById('vpCn').textContent   = data.cn||'';
-  document.getElementById('vpEn').textContent   = data.en||'';
-
-  const popup = document.getElementById('vocabPopup');
-  popup.style.display = 'block';
-  let x = e.clientX + 12, y = e.clientY + 12;
-  if(x + 280 > window.innerWidth) x = e.clientX - 290;
-  if(y + 150 > window.innerHeight) y = e.clientY - 150;
-  popup.style.left = x + 'px';
-  popup.style.top  = y + 'px';
+function highlightWords(text, sortedWords, vocabMap) {
+    if(!text) return '';
+    // 构建位置数组
+    const positions = [];
+    const lc = text.toLowerCase();
+    sortedWords.forEach(word => {
+        let idx = 0;
+        while((idx = lc.indexOf(word, idx)) !== -1) {
+            const before = idx === 0 || !/[a-z]/i.test(text[idx-1]);
+            const after = idx+word.length >= text.length || !/[a-z]/i.test(text[idx+word.length]);
+            if(before && after) {
+                const overlaps = positions.some(p => idx < p.end && idx+word.length > p.start);
+                if(!overlaps) {
+                    positions.push({start:idx, end:idx+word.length, word, vocab:vocabMap[word]});
+                }
+            }
+            idx += word.length;
+        }
+    });
+    if(!positions.length) return escapeHtml(text);
+    positions.sort((a,b) => a.start - b.start);
+    
+    let result = '';
+    let last = 0;
+    for(let p of positions) {
+        result += escapeHtml(text.slice(last, p.start));
+        const word = p.word;
+        const vocabData = p.vocab;
+        const lv = vocabData.level || '';
+        const lvClass = `level-${lv}`;
+        const cnMeaning = vocabData.cn || '';
+        const safeTitle = cnMeaning.replace(/["']/g, '&quot;');
+        result += `<span class="hl ${lvClass}" data-word="${escapeHtml(word)}" title="${safeTitle}" onclick="showVocabPopup(event,'${escapeHtml(word)}')">${escapeHtml(word)}</span>`;
+        last = p.end;
+    }
+    result += escapeHtml(text.slice(last));
+    return result;
 }
 
-document.addEventListener('click', e=>{
-  if(!e.target.classList.contains('cnnTransHighlight') && !e.target.closest('#vocabPopup') && !e.target.closest('.word-chip')){
-    document.getElementById('vocabPopup').style.display = 'none';
-    document.querySelectorAll('.cnnTransHighlight.active').forEach(el=>el.classList.remove('active'));
-    document.querySelectorAll('.word-chip.active').forEach(el=>el.classList.remove('active'));
-  }
+function showVocabPopup(e, word) {
+    e.stopPropagation();
+    const data = currentData?.vocabulary?.find(v => v.word === word);
+    if(!data) return;
+    
+    // 高亮当前单词
+    document.querySelectorAll('.hl').forEach(el => {
+        el.classList.toggle('active', el.dataset.word === word);
+    });
+    document.querySelectorAll('.word-chip').forEach(el => {
+        el.classList.toggle('active', el.dataset.word === word);
+    });
+    
+    document.getElementById('vpWord').textContent = data.word;
+    document.getElementById('vpPh').textContent = data.phonetic || '';
+    document.getElementById('vpPos').textContent = data.pos || '';
+    document.getElementById('vpLv').textContent = data.level || '';
+    document.getElementById('vpCn').textContent = data.cn || '';
+    document.getElementById('vpEn').textContent = data.en || '';
+    
+    const popup = document.getElementById('vocabPopup');
+    popup.classList.add('show');
+    let x = e.clientX + 12, y = e.clientY + 12;
+    if(x + 300 > window.innerWidth) x = e.clientX - 312;
+    if(y + 160 > window.innerHeight) y = e.clientY - 160;
+    popup.style.left = x + 'px';
+    popup.style.top = y + 'px';
+}
+
+document.addEventListener('click', e => {
+    if(!e.target.classList.contains('hl') && !e.target.closest('.vocab-popup') && !e.target.closest('.word-chip')) {
+        document.getElementById('vocabPopup').classList.remove('show');
+        document.querySelectorAll('.hl.active').forEach(el => el.classList.remove('active'));
+        document.querySelectorAll('.word-chip.active').forEach(el => el.classList.remove('active'));
+    }
 });
 
-function renderWordList(vocab){
-  document.getElementById('wordList').innerHTML = vocab.map(v=>`
-    <div class="word-chip" data-word="${esc(v.word)}" onclick="jumpToWord('${esc(v.word)}')">
-      <span style="display:inline-block; width:8px; height:8px; background:${LV_COLORS[v.level]||'#0a58ca'}; border-radius:50%; margin-right:6px;"></span>
-      <span>${esc(v.word)}</span>
-      <span style="color:#666; margin-left:8px;">${esc(v.cn||'')}</span>
-    </div>`).join('');
+function renderWordList(vocab) {
+    const container = document.getElementById('wordList');
+    if(!container) return;
+    container.innerHTML = vocab.map(v => `
+        <div class="word-chip" data-word="${escapeHtml(v.word)}" onclick="jumpToWord('${escapeHtml(v.word)}')">
+            <span class="wc-lv" style="background:${LV_COLORS[v.level] || '#0a58ca'}; width:8px; height:8px; border-radius:50%; display:inline-block; margin-right:6px;"></span>
+            <span class="wc-word">${escapeHtml(v.word)}</span>
+            <span class="wc-cn">${escapeHtml(v.cn || '')}</span>
+        </div>
+    `).join('');
 }
 
-function jumpToWord(word){
-  switchTab('transcript');
-  setTimeout(()=>{
-    const el = document.querySelector(`.cnnTransHighlight[data-word="${word}"]`);
-    if(el){
-      el.scrollIntoView({behavior:'smooth', block:'center'});
-      el.click();
-    }
-  }, 50);
+function jumpToWord(word) {
+    switchTab('transcript');
+    setTimeout(() => {
+        const el = document.querySelector(`.hl[data-word="${word}"]`);
+        if(el) {
+            el.scrollIntoView({behavior: 'smooth', block: 'center'});
+            el.click();
+        }
+    }, 50);
 }
 
-function renderVocab(list){
-  document.getElementById('vocabGrid').innerHTML = list.map(v=>`
-    <div class="vcard">
-      <div><strong class="vword">${esc(v.word)}</strong> <span>${esc(v.phonetic||'')}</span> <span>${esc(v.pos||'')}</span> <span>${esc(v.level||'')}</span></div>
-      <div class="vcn">${esc(v.cn)}</div>
-      <div class="ven">${esc(v.en||'')}</div>
-      <div class="veg"><em>${esc(v.excerpt||v.example||'')}</em><div class="vegcn">${esc(v.example_cn||'')}</div></div>
-    </div>`).join('');
+function renderVocabCards(vocab) {
+    const container = document.getElementById('vocabGrid');
+    if(!container) return;
+    container.innerHTML = vocab.map(v => `
+        <div class="vcard">
+            <div class="vhead">
+                <span class="vword">${escapeHtml(v.word)}</span>
+                <span class="vph">${escapeHtml(v.phonetic || '')}</span>
+                <span class="bpos">${escapeHtml(v.pos || '')}</span>
+                <span class="blv">${escapeHtml(v.level || '')}</span>
+            </div>
+            <div class="vcn">${escapeHtml(v.cn)}</div>
+            <div class="ven">${escapeHtml(v.en || '')}</div>
+            <div class="veg">
+                ${highlightExcerpt(v.excerpt || v.example || '', v.word)}
+                <div class="vegcn">${escapeHtml(v.example_cn || '')}</div>
+            </div>
+        </div>
+    `).join('');
 }
 
-function renderSentences(list){
-  document.getElementById('sentenceList').innerHTML = list.map((s,i)=>`
-    <div class="scard"><strong>${i+1}.</strong> <div>${esc(s.en)}</div><div class="sen-cn">${esc(s.cn)}</div><div><em>结构:</em> ${esc(s.structure||'')}</div><div><em>分析:</em> ${esc(s.analysis||'')}</div></div>
-  `).join('');
+function highlightExcerpt(text, word) {
+    if(!word || !text) return escapeHtml(text);
+    const re = new RegExp(`(${word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
+    return escapeHtml(text).replace(re, '<em>$1</em>');
 }
 
-function renderTopics(list){
-  const colors = ['#cc0000','#006598','#2c7da0','#e68a2e'];
-  document.getElementById('topicList').innerHTML = list.map((t,i)=>`
-    <div class="tcard"><strong style="color:${colors[i%colors.length]}">${esc(t.title)}</strong><div>${esc(t.content)}</div><div>🔑 ${esc(t.keywords||'')}</div></div>
-  `).join('');
+function renderSentencesList(sentences) {
+    const container = document.getElementById('sentenceList');
+    if(!container) return;
+    container.innerHTML = sentences.map((s, i) => `
+        <div class="scard">
+            <div class="snum">${i+1}</div>
+            <div class="sen-en">${escapeHtml(s.en)}</div>
+            <div class="sen-cn">${escapeHtml(s.cn)}</div>
+            <div class="divider"></div>
+            <div class="alabel">句子结构</div>
+            <div class="abody">${escapeHtml(s.structure || '')}</div>
+            <div class="alabel">语法分析</div>
+            <div class="abody">${escapeHtml(s.analysis || '')}</div>
+        </div>
+    `).join('');
 }
 
-function switchTab(id){
-  const tabs = ['transcript','translation','vocab','sentences','topics'];
-  tabs.forEach(t=>{
-    const idx = tabs.indexOf(t);
-    document.querySelectorAll('.tab')[idx].classList.toggle('active', t===id);
-    document.getElementById(t).classList.toggle('active', t===id);
-  });
+function renderTopicsList(topics) {
+    const container = document.getElementById('topicList');
+    if(!container) return;
+    const colors = ['#0a58ca','#d6336c','#146c43','#e68a2e'];
+    container.innerHTML = topics.map((t, i) => `
+        <div class="tcard">
+            <div class="ttitle">
+                <span class="tdot" style="background:${colors[i % colors.length]}"></span>
+                ${escapeHtml(t.title)}
+            </div>
+            <div class="tcontent">${escapeHtml(t.content)}</div>
+            <div class="tkw">🔑 ${escapeHtml(t.keywords || '')}</div>
+        </div>
+    `).join('');
 }
 
-function esc(s){
-  return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/\n/g,'<br>');
+function switchTab(tabId) {
+    // 更新 Tab 按钮样式
+    document.querySelectorAll('.tab').forEach(tab => {
+        tab.classList.remove('active');
+    });
+    const targetTab = Array.from(document.querySelectorAll('.tab')).find(tab => {
+        const onclickAttr = tab.getAttribute('onclick');
+        return onclickAttr && onclickAttr.includes(tabId);
+    });
+    if(targetTab) targetTab.classList.add('active');
+    
+    // 显示对应的 Section
+    const sections = ['transcriptSection', 'translationSection', 'vocabSection', 'sentencesSection', 'topicsSection'];
+    sections.forEach(id => {
+        const el = document.getElementById(id);
+        if(el) el.classList.remove('active');
+    });
+    const targetSection = document.getElementById(`${tabId}Section`);
+    if(targetSection) targetSection.classList.add('active');
 }
+
+function escapeHtml(str) {
+    if(!str) return '';
+    return String(str).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/\n/g, '<br>');
+}
+
+// 辅助函数（兼容旧版）
+function renderTranslation(data) {}
+function renderVocab(data) {}
+function renderSentences(data) {}
+function renderTopics(data) {}
 </script>
 </body>
 </html>
