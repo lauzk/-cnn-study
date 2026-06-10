@@ -211,16 +211,40 @@ def build_prompt(transcript: str, date_str: str, source_url: str) -> str:
       "translation": "对应中文翻译"
     }}
   ],
-  "vocabulary": [...],
-  "sentences": [...],
-  "topics": [...]
+  "vocabulary": [
+    {{
+      "word": "单词或短语",
+      "phonetic": "/音标/",
+      "pos": "词性",
+      "level": "考研/六级/专四/专八",   # 从这四个中选一个
+      "cn": "中文释义（含搭配）",
+      "en": "英文释义",
+      "excerpt": "包含该词的原文片段（10-20词，单引号代替双引号）",
+      "example_cn": "该片段中文翻译"
+    }}
+  ],
+  "sentences": [
+    {{
+      "en": "原文长难句（完整句子）",
+      "cn": "准确中文翻译",
+      "structure": "句子结构（主句/从句/插入语等）",
+      "analysis": "语法要点/习语/修辞分析"
+    }}
+  ],
+  "topics": [
+    {{
+      "title": "话题标题",
+      "content": "120字中文背景知识，含关键英文术语",
+      "keywords": "词1 · 词2 · 词3"
+    }}
+  ]
 }}
 
 严格要求：
 - full_translation：按自然段逐段翻译，每个段落一个对象，保持原文顺序，不要遗漏
-- vocabulary：只提取考研和六级词汇短语，不限个数，至少12个
+- vocabulary：提取考研、六级、专四、专八水平的词汇或短语，不限个数，至少30个，全部提取
 - sentences：所有长难句，不限个数
-- topics：所有值得展开的背景话题，至少4个
+- topics：所有值得展开的背景话题，至少10个
 - 不需要 summary 和 quiz 字段"""
 
 def call_deepseek(prompt: str) -> dict:
