@@ -3,239 +3,172 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<!-- 模拟 CNN 官网标题格式 -->
-<title>CNN.com - Transcripts</title>
+<title>CNN 英语精读</title>
 <style>
-/* 全局样式重置 + 字体/颜色还原 */
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
+/* 全局重置 + CNN 风格 */
+* { margin: 0; padding: 0; box-sizing: border-box; }
 body {
     background: #ffffff;
     color: #000000;
-    font-family: verdana, arial, helvetica, sans-serif;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
     line-height: 1.4;
 }
-/* CNN 官网主容器宽度和边距 */
-#cnnContainer {
-    font-size: 16px;
-    line-height: 1.75;
-    margin: 10px auto 0;
-    max-width: 1100px;
-}
-/* 链接颜色 (完全复制官网) */
-#cnnContainer a {
-    color: #006598;
-    text-decoration: none;
-}
-#cnnContainer a:hover {
-    color: #C00;
-    text-decoration: underline;
-}
-/* ---- CNN 官方文本样式（严格按照官网注释）---- */
-.cnnTransHeaders,
-.cnnTransDate {
-    font-family: verdana, arial, sans-serif;
-}
-.cnnTransCal,
-.cnnTransHead,
-.cnnTransStoryHead,
-.cnnTransSubHead {
-    font-family: arial, helvetica, sans-serif;
-}
-.cnnTransHeaders,
-.cnnTransDate,
-.cnnTransProv {
-    font-size: 10px;
-}
-.cnnTransSubHead {
-    font-size: 12px;
-}
-.cnnTransHead {
-    font-size: 14px;
-}
-.cnnTransStoryHead {
-    font-size: 16px;
-}
-.cnnTransHeaders,
-.cnnTransDate,
-.cnnTransHead,
-.cnnTransStoryHead,
-.cnnTransSubHead,
-.cnnTransProv {
-    font-weight: bold;
-}
-.cnnTransHeaders,
-.cnnTransSubHead,
-.cnnTransDate {
-    color: #000000;
-}
-.cnnTransHead,
-.cnnTransStoryHead {
-    color: #CC0000;
-}
-.cnnTransHeaders,
-.cnnTransCal {
-    padding: 6px;
-}
-.cnnTransProv {
-    font-family: verdana, helvetica, sans-serif;
-    padding: 1px;
-}
-.cnnBodyText {
-    font-family: verdana, arial, sans-serif;
-    font-size: 13px;
-    line-height: 1.6;
-    margin-bottom: 1em;
-}
-/* 模拟 CNN 官方的粗体、标红等辅助样式 */
-.cnnBold {
-    font-weight: bold;
-}
-.cnnRed {
-    color: #CC0000;
-}
-.cnnTransHighlight {
-    background: #FFFFE0;
-    border-bottom: 1px dotted #CC0000;
-    cursor: pointer;
-}
-.cnnTransHighlight:hover {
-    background: #FFF0B0;
-}
-/* 左侧日期导航栏样式（保留原有布局，但严格遵循官网） */
+/* 侧边栏 */
 .sidebar {
     position: fixed;
     left: 0;
     top: 0;
-    width: 200px;
+    width: 220px;
     height: 100%;
-    background: #f2f2f2;
+    background: #f5f5f5;
     border-right: 1px solid #ddd;
     overflow-y: auto;
-    padding: 12px;
-    font-family: verdana, arial, sans-serif;
-    font-size: 12px;
-    z-index: 100;
+    padding: 16px;
+    font-size: 13px;
 }
-.sidebar .sidebar-logo {
+.sidebar-logo {
     font-weight: bold;
-    font-size: 14px;
-    color: #CC0000;
+    font-size: 16px;
+    color: #cc0000;
     border-bottom: 1px solid #ccc;
-    margin-bottom: 12px;
     padding-bottom: 8px;
+    margin-bottom: 16px;
 }
 .hist-item {
-    margin-bottom: 6px;
+    margin-bottom: 8px;
     cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 6px;
 }
 .hist-item .dot {
-    display: inline-block;
     width: 8px;
     height: 8px;
     background: #999;
     border-radius: 50%;
-    margin-right: 8px;
 }
-.hist-item.active .dot {
-    background: #CC0000;
-}
-.hist-item .date {
-    color: #006598;
-    font-size: 12px;
-}
-.hist-item.active .date {
-    font-weight: bold;
-    color: #CC0000;
-}
+.hist-item.active .dot { background: #cc0000; }
+.hist-item .date { color: #006598; font-size: 12px; }
+.hist-item.active .date { font-weight: bold; color: #cc0000; }
+.sidebar-nav { margin-top: 24px; padding-top: 12px; border-top: 1px solid #ddd; }
+.nav-item { cursor: pointer; color: #006598; font-size: 12px; }
+
+/* 主内容区 */
 .main {
-    margin-left: 220px;
+    margin-left: 240px;
     padding: 20px 30px;
 }
-/* 选项卡、词汇表等组件不影响主体风格，保留交互，但整体色调、字体贴近 CNN */
-.tabs {
+.topbar {
     margin-bottom: 20px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+}
+.topbar-title {
+    font-size: 18px;
+    font-weight: bold;
+    color: #cc0000;
+}
+.topbar-date {
+    font-size: 12px;
+    color: #666;
+    margin-left: 12px;
+}
+.btn-src {
+    float: right;
+    background: #f0f0f0;
+    border: 1px solid #ccc;
+    padding: 4px 12px;
+    cursor: pointer;
+    font-size: 12px;
+}
+.btn-src:hover { background: #e0e0e0; }
+
+/* 选项卡 */
+.tabs {
     border-bottom: 1px solid #ddd;
-    padding-bottom: 8px;
+    margin-bottom: 20px;
+    padding-bottom: 6px;
 }
 .tab {
     display: inline-block;
-    margin-right: 16px;
-    font-family: verdana, arial, sans-serif;
+    margin-right: 20px;
     font-weight: bold;
     font-size: 13px;
     color: #006598;
     cursor: pointer;
-    padding: 4px 8px;
+    padding: 4px 0;
 }
-.tab.active {
-    color: #CC0000;
-    border-bottom: 2px solid #CC0000;
-}
-.word-panel {
-    background: #f8f8f8;
-    border: 1px solid #e0e0e0;
-    padding: 12px;
-    margin-top: 20px;
-    max-width: 280px;
-}
-.word-list .word-chip {
-    cursor: pointer;
-    margin-bottom: 6px;
-    font-size: 12px;
-}
-/* 其他词汇卡、句子卡尽量沿用原有结构，确保功能不变，只调颜色/字体以契合 CNN 风格 */
-.vcard, .scard, .tcard {
-    background: #ffffff;
-    border: 1px solid #e0e0e0;
-    margin-bottom: 12px;
-    padding: 12px;
-    font-family: verdana, arial, sans-serif;
-}
-.vword {
-    font-weight: bold;
-    color: #CC0000;
-}
-/* 确保高亮单词下方注释字体比正文稍小，但完全保留功能 */
-.word-annotation {
-    display: block;
-    font-size: 0.75rem;
-    color: #333;
-    margin-top: 2px;
-    background: #f9f9f9;
-    padding: 2px 6px;
-    border-left: 2px solid #CC0000;
-}
-/* 段落自动换行，模拟 CNN 页面原生的展示效果 */
+.tab.active { color: #cc0000; border-bottom: 2px solid #cc0000; }
+
+/* 原文区域：关键！保留换行和空格 */
 .transcript-body {
-    white-space: pre-wrap;
-    font-family: verdana, arial, sans-serif;
-    font-size: 14px;
+    white-space: pre-wrap;    /* 保留换行和空格，自动换行 */
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
     line-height: 1.6;
+    background: #fff;
+    padding: 12px;
+    border: 1px solid #eaeaea;
 }
 .segment-block {
     margin-bottom: 28px;
 }
 .segment-title {
-    font-family: arial, helvetica, sans-serif;
-    font-size: 14px;
     font-weight: bold;
-    color: #CC0000;
-    margin-bottom: 8px;
+    font-size: 14px;
+    color: #cc0000;
+    margin-bottom: 12px;
     border-bottom: 1px solid #ccc;
     padding-bottom: 4px;
+}
+/* 高亮词汇样式 */
+.cnnTransHighlight {
+    background-color: #ffffe0;
+    border-bottom: 1px dotted #cc0000;
+    cursor: pointer;
+}
+.cnnTransHighlight:hover {
+    background-color: #fff0b0;
+}
+/* 词汇索引 */
+.word-panel {
+    background: #fafafa;
+    border: 1px solid #ddd;
+    padding: 12px;
+}
+.word-list .word-chip {
+    cursor: pointer;
+    margin-bottom: 6px;
+    font-size: 12px;
+    padding: 4px;
+}
+.word-list .word-chip:hover { background: #f0f0f0; }
+/* 词汇卡片等 */
+.vcard, .scard, .tcard {
+    background: #fff;
+    border: 1px solid #e0e0e0;
+    margin-bottom: 12px;
+    padding: 12px;
+}
+.vword { font-weight: bold; color: #cc0000; }
+/* 翻译区域 */
+.translation-box {
+    background: #fefefe;
+    border: 1px solid #ddd;
+    padding: 16px;
+}
+#fullTranslation {
+    white-space: pre-wrap;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 13px;
+    line-height: 1.6;
 }
 </style>
 </head>
 <body>
 
-<!-- 固定左侧日期导航栏 -->
 <div class="sidebar">
-    <div class="sidebar-logo"><span>📰</span> CNN 英语精读</div>
-    <div class="sidebar-section">历史记录</div>
+    <div class="sidebar-logo">📰 CNN 英语精读</div>
     <div id="histList"><!-- HISTORY_ITEMS --></div>
     <div class="sidebar-nav">
         <div class="nav-item" onclick="window.open('https://transcripts.cnn.com','_blank')">🔗 CNN Transcripts</div>
@@ -243,10 +176,10 @@ body {
 </div>
 
 <div class="main">
-    <div class="topbar" style="margin-bottom:15px;">
-        <span class="topbar-title" id="topbarTitle" style="font-size:16px; font-weight:bold; color:#CC0000;">CNN This Morning</span>
-        <span class="topbar-date" id="topbarDate" style="margin-left:15px; font-size:12px; color:#555;"></span>
-        <button class="btn btn-src" id="srcBtn" onclick="openSource()" style="float:right; background:#f2f2f2; border:1px solid #ccc; padding:4px 8px; cursor:pointer;">查看原文 →</button>
+    <div class="topbar">
+        <span class="topbar-title" id="topbarTitle">CNN This Morning</span>
+        <span class="topbar-date" id="topbarDate"></span>
+        <button class="btn-src" onclick="openSource()">查看原文 →</button>
     </div>
 
     <div class="tabs">
@@ -258,39 +191,36 @@ body {
     </div>
 
     <div id="transcript" class="section active">
-        <div class="transcript-wrap" style="display:flex; gap:20px;">
-            <div style="flex:3;">
-                <div class="transcript-hint" style="background:#f6f6f6; padding:6px; margin-bottom:12px; font-size:12px;">
-                    💡 鼠标悬停高亮单词查看中文释义 · 点击显示详细解析
-                </div>
+        <div style="display: flex; gap: 20px;">
+            <div style="flex: 3;">
                 <div class="transcript-body" id="transcriptBody"></div>
             </div>
-            <div style="flex:1;">
+            <div style="flex: 1;">
                 <div class="word-panel">
-                    <div class="word-panel-title" style="font-weight:bold;">📖 词汇索引</div>
-                    <div class="word-list" id="wordList"></div>
+                    <div style="font-weight: bold; margin-bottom: 8px;">📖 词汇索引</div>
+                    <div id="wordList"></div>
                 </div>
             </div>
         </div>
     </div>
 
     <div id="translation" class="section">
-        <div style="background:#fff; border:1px solid #ddd; padding:16px;">
-            <div class="card-label" style="font-weight:bold; margin-bottom:12px;">📖 完整中文翻译</div>
-            <div id="fullTranslation" style="white-space: pre-wrap; font-family: verdana, arial, sans-serif; font-size:14px; line-height:1.6;"></div>
+        <div class="translation-box">
+            <div style="font-weight: bold; margin-bottom: 12px;">📖 完整中文翻译</div>
+            <div id="fullTranslation">加载中...</div>
         </div>
     </div>
 
-    <div id="vocab" class="section"><div class="vocab-grid" id="vocabGrid"></div></div>
+    <div id="vocab" class="section"><div id="vocabGrid"></div></div>
     <div id="sentences" class="section"><div id="sentenceList"></div></div>
     <div id="topics" class="section"><div id="topicList"></div></div>
 </div>
 
-<div class="vocab-popup" id="vocabPopup" style="position:fixed; background:#fff; border:1px solid #aaa; padding:8px; display:none; z-index:1000;">
-    <div><span id="vpWord"></span><span id="vpPh"></span></div>
-    <div><span id="vpPos"></span><span id="vpLv"></span></div>
-    <div id="vpCn"></div>
-    <div id="vpEn"></div>
+<div id="vocabPopup" style="position:fixed; background:#fff; border:1px solid #aaa; padding:8px; display:none; z-index:1000; max-width:280px;">
+    <div><span id="vpWord" style="font-weight:bold;"></span> <span id="vpPh"></span></div>
+    <div><span id="vpPos"></span> <span id="vpLv"></span></div>
+    <div id="vpCn" style="color:#cc0000;"></div>
+    <div id="vpEn" style="font-size:12px;"></div>
 </div>
 
 <script>
@@ -321,7 +251,6 @@ function renderAll(data){
   document.getElementById('topbarDate').textContent = data.date||'';
   document.getElementById('topbarTitle').textContent = 'CNN This Morning · ' + (data.date||'');
 
-  // 使用 segments 数组渲染原文
   renderSegmentedTranscript(data.segments || [], data.vocabulary || []);
   renderWordList(data.vocabulary || []);
   renderVocab(data.vocabulary || []);
@@ -335,7 +264,7 @@ function renderAll(data){
 function renderSegmentedTranscript(segments, vocab){
   const container = document.getElementById('transcriptBody');
   if(!segments || segments.length === 0){
-    container.innerHTML = '<div class="cnnBodyText">无分段数据</div>';
+    container.innerHTML = '<div>无分段数据</div>';
     return;
   }
   const vocabMap = {};
@@ -345,20 +274,22 @@ function renderSegmentedTranscript(segments, vocab){
   let html = '';
   for(let seg of segments){
     const title = seg.title || `Segment ${seg.seg}`;
-    const rawText = seg.text || '';
-    const highlighted = highlightWordsWithHover(rawText, sortedWords, vocabMap);
+    let rawText = seg.text || '';
+    // 高亮处理（保留换行）
+    const highlighted = highlightWordsKeepWhitespace(rawText, sortedWords, vocabMap);
     html += `
       <div class="segment-block">
         <div class="segment-title">📺 ${esc(title)}</div>
-        <div class="cnnBodyText">${highlighted}</div>
+        ${highlighted}
       </div>
     `;
   }
   container.innerHTML = html;
 }
 
-function highlightWordsWithHover(text, sortedWords, vocabMap){
+function highlightWordsKeepWhitespace(text, sortedWords, vocabMap){
   if(!text) return '';
+  // 构建位置数组
   const positions = [];
   const lc = text.toLowerCase();
   sortedWords.forEach(word=>{
@@ -375,34 +306,24 @@ function highlightWordsWithHover(text, sortedWords, vocabMap){
       idx += word.length;
     }
   });
-  if(!positions.length) return esc(text);
+  if(!positions.length) return `<pre style="white-space: pre-wrap; margin:0;">${esc(text)}</pre>`;
   positions.sort((a,b)=>a.start-b.start);
-
+  
   let result = '';
   let last = 0;
-  // 段落分割（保留原始格式）
-  const paragraphs = text.split(/\n\s*\n/);
-  let globalPos = 0;
-  for (let para of paragraphs) {
-    let paraStart = globalPos;
-    let paraEnd = globalPos + para.length;
-    const paraPositions = positions.filter(p => p.start >= paraStart && p.start < paraEnd);
-    let lastParaPos = paraStart;
-    for (let p of paraPositions) {
-      result += esc(text.slice(lastParaPos, p.start));
-      const word = p.word;
-      const vocabData = p.vocab;
-      const lv = vocabData.level || '';
-      const lvClass = `level-${lv}`;
-      const cnMeaning = vocabData.cn || '';
-      const safeTitle = cnMeaning.replace(/["']/g, '&quot;');
-      result += `<span class="cnnTransHighlight" data-word="${esc(word)}" title="${safeTitle}" onclick="showVocabPopup(event,'${esc(word)}')">${esc(word)}</span>`;
-      lastParaPos = p.end;
-    }
-    result += esc(text.slice(lastParaPos, paraEnd));
-    globalPos = paraEnd + 2;
+  for (let p of positions) {
+    result += esc(text.slice(last, p.start));
+    const word = p.word;
+    const vocabData = p.vocab;
+    const lv = vocabData.level || '';
+    const cnMeaning = vocabData.cn || '';
+    const safeTitle = cnMeaning.replace(/["']/g, '&quot;');
+    result += `<span class="cnnTransHighlight" data-word="${esc(word)}" title="${safeTitle}" onclick="showVocabPopup(event,'${esc(word)}')">${esc(word)}</span>`;
+    last = p.end;
   }
-  return result;
+  result += esc(text.slice(last));
+  // 使用 pre 包裹以保留原始空白和换行，但允许自动换行
+  return `<pre style="white-space: pre-wrap; margin:0; font-family: inherit;">${result}</pre>`;
 }
 
 function showVocabPopup(e, word){
@@ -425,20 +346,16 @@ function showVocabPopup(e, word){
   document.getElementById('vpEn').textContent   = data.en||'';
 
   const popup = document.getElementById('vocabPopup');
-  popup.classList.add('show');
-  popup.style.pointerEvents = 'auto';
   popup.style.display = 'block';
-
   let x = e.clientX + 12, y = e.clientY + 12;
-  if(x + 300 > window.innerWidth) x = e.clientX - 312;
-  if(y + 160 > window.innerHeight) y = e.clientY - 160;
+  if(x + 280 > window.innerWidth) x = e.clientX - 290;
+  if(y + 150 > window.innerHeight) y = e.clientY - 150;
   popup.style.left = x + 'px';
   popup.style.top  = y + 'px';
 }
 
 document.addEventListener('click', e=>{
-  if(!e.target.classList.contains('cnnTransHighlight') && !e.target.closest('.vocab-popup') && !e.target.closest('.word-chip')){
-    document.getElementById('vocabPopup').classList.remove('show');
+  if(!e.target.classList.contains('cnnTransHighlight') && !e.target.closest('#vocabPopup') && !e.target.closest('.word-chip')){
     document.getElementById('vocabPopup').style.display = 'none';
     document.querySelectorAll('.cnnTransHighlight.active').forEach(el=>el.classList.remove('active'));
     document.querySelectorAll('.word-chip.active').forEach(el=>el.classList.remove('active'));
@@ -448,9 +365,9 @@ document.addEventListener('click', e=>{
 function renderWordList(vocab){
   document.getElementById('wordList').innerHTML = vocab.map(v=>`
     <div class="word-chip" data-word="${esc(v.word)}" onclick="jumpToWord('${esc(v.word)}')">
-      <span class="wc-lv" style="background:${LV_COLORS[v.level]||'#0a58ca'}"></span>
-      <span class="wc-word">${esc(v.word)}</span>
-      <span class="wc-cn">${esc(v.cn||'')}</span>
+      <span style="display:inline-block; width:8px; height:8px; background:${LV_COLORS[v.level]||'#0a58ca'}; border-radius:50%; margin-right:6px;"></span>
+      <span>${esc(v.word)}</span>
+      <span style="color:#666; margin-left:8px;">${esc(v.cn||'')}</span>
     </div>`).join('');
 }
 
@@ -468,62 +385,32 @@ function jumpToWord(word){
 function renderVocab(list){
   document.getElementById('vocabGrid').innerHTML = list.map(v=>`
     <div class="vcard">
-      <div class="vhead">
-        <span class="vword">${esc(v.word)}</span>
-        <span class="vph">${esc(v.phonetic||'')}</span>
-        <span class="bpos">${esc(v.pos||'')}</span>
-        <span class="blv">${esc(v.level||'')}</span>
-      </div>
+      <div><strong class="vword">${esc(v.word)}</strong> <span>${esc(v.phonetic||'')}</span> <span>${esc(v.pos||'')}</span> <span>${esc(v.level||'')}</span></div>
       <div class="vcn">${esc(v.cn)}</div>
       <div class="ven">${esc(v.en||'')}</div>
-      <div class="veg">
-        ${hlWord(v.excerpt||v.example||'', v.word)}
-        <div class="vegcn">${esc(v.example_cn||'')}</div>
-      </div>
+      <div class="veg"><em>${esc(v.excerpt||v.example||'')}</em><div class="vegcn">${esc(v.example_cn||'')}</div></div>
     </div>`).join('');
-}
-
-function hlWord(text, word){
-  if(!word||!text) return esc(text);
-  const re = new RegExp(`(${word.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')})`, 'gi');
-  return esc(text).replace(re,'<em>$1</em>');
 }
 
 function renderSentences(list){
   document.getElementById('sentenceList').innerHTML = list.map((s,i)=>`
-    <div class="scard">
-      <div class="snum">${i+1}</div>
-      <div class="sen-en">${esc(s.en)}</div>
-      <div class="sen-cn">${esc(s.cn)}</div>
-      <div class="divider"></div>
-      <div class="alabel">句子结构</div>
-      <div class="abody">${esc(s.structure||'')}</div>
-      <div class="alabel">语法分析</div>
-      <div class="abody">${esc(s.analysis||'')}</div>
-    </div>`).join('');
+    <div class="scard"><strong>${i+1}.</strong> <div>${esc(s.en)}</div><div class="sen-cn">${esc(s.cn)}</div><div><em>结构:</em> ${esc(s.structure||'')}</div><div><em>分析:</em> ${esc(s.analysis||'')}</div></div>
+  `).join('');
 }
 
 function renderTopics(list){
-  const colors = ['#0a58ca','#d6336c','#146c43','#e68a2e'];
+  const colors = ['#cc0000','#006598','#2c7da0','#e68a2e'];
   document.getElementById('topicList').innerHTML = list.map((t,i)=>`
-    <div class="tcard">
-      <div class="ttitle">
-        <span class="tdot" style="background:${colors[i%colors.length]}"></span>
-        ${esc(t.title)}
-      </div>
-      <div class="tcontent">${esc(t.content)}</div>
-      <div class="tkw">🔑 ${esc(t.keywords||'')}</div>
-    </div>`).join('');
+    <div class="tcard"><strong style="color:${colors[i%colors.length]}">${esc(t.title)}</strong><div>${esc(t.content)}</div><div>🔑 ${esc(t.keywords||'')}</div></div>
+  `).join('');
 }
 
 function switchTab(id){
   const tabs = ['transcript','translation','vocab','sentences','topics'];
   tabs.forEach(t=>{
     const idx = tabs.indexOf(t);
-    const tabBtn = document.querySelectorAll('.tab')[idx];
-    if(tabBtn) tabBtn.classList.toggle('active', t===id);
-    const section = document.getElementById(t);
-    if(section) section.classList.toggle('active', t===id);
+    document.querySelectorAll('.tab')[idx].classList.toggle('active', t===id);
+    document.getElementById(t).classList.toggle('active', t===id);
   });
 }
 
