@@ -1,11 +1,8 @@
 """
-src/generate.py  v7.5
-- 无截断，保留完整文稿
-- 分段保存（segments 包含标题和文本）
-- 增强 JSON 解析，支持修复未闭合括号、缺失逗号、裸换行、尾逗号等问题
-- 新增 API 调用重试机制
-- 强化 Prompt 约束，严格输出标准 JSON
-- 解析失败时保存原始响应用于调试
+src/generate.py  v7.6
+- 彻底修复JSON字符串内裸换行解析错误
+- 全局字符清洗 + 多层JSON容错
+- 保留原有抓取、缓存、重试逻辑
 """
 import os, re, json, requests, sys, time
 from datetime import datetime, timezone, timedelta
@@ -73,9 +70,6 @@ class TranscriptExtractor(HTMLParser):
 
 
 def fetch_transcript(date_str: str) -> tuple[str, list[dict]]:
-    """
-    只抓取第一个 segment (01)，完整保留原文的换行和段落结构。
-    """
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0 Safari/537.36',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
@@ -89,33 +83,25 @@ def fetch_transcript(date_str: str) -> tuple[str, list[dict]]:
             print(f'  Segment {seg:02d}: HTTP {resp.status_code}，抓取失败')
             return '', []
 
-        # 提取标题
         title_match = re.search(r'<title>(.*?)</title>', resp.text, re.DOTALL | re.IGNORECASE)
         raw_title = title_match.group(1).strip() if title_match else ''
         time_match = re.search(r'(Aired\s+[\d:]+[ap]m?\s*ET)', resp.text, re.IGNORECASE)
         segment_title = time_match.group(1) if time_match else raw_title
 
-        # 优先提取 transcriptBody 区域
         match = re.search(r'<(div|section)[^>]*id=["\']transcriptBody["\'][^>]*>(.*?)</\1>', resp.text, re.DOTALL | re.IGNORECASE)
         if not match:
             match = re.search(r'<(div|section)[^>]*class=["\'][^"\']*cnnTranscript[^"\']*["\'][^>]*>(.*?)</\1>', resp.text, re.DOTALL | re.IGNORECASE)
 
         if match:
             inner = match.group(2)
-            # 将 <br> 转换为换行符，保留段落结构
             inner = re.sub(r'<br\s*/?>', '\n', inner)
-            # 将块级结束标签转换为双换行
             inner = re.sub(r'</(p|div|section|h\d)>', '\n\n', inner, flags=re.IGNORECASE)
-            # 移除其余 HTML 标签
             body_text = re.sub(r'<[^>]+>', '', inner)
-            # 清理多余空格
             body_text = re.sub(r'[ \t]+', ' ', body_text)
-            # 压缩连续换行
             body_text = re.sub(r'\n{3,}', '\n\n', body_text)
             body_text = body_text.strip()
             print(f'      策略1成功，长度 {len(body_text)}')
         else:
-            # 回退：自定义解析器
             print(f'      策略1失败，尝试自定义解析器...')
             parser = TranscriptExtractor()
             parser.feed(resp.text)
@@ -142,56 +128,73 @@ def fetch_transcript(date_str: str) -> tuple[str, list[dict]]:
         return '', []
 
 
+def deep_clean_json_str(raw: str) -> str:
+    """全局深度清洗JSON字符串，解决裸换行、非法字符、多余逗号"""
+    # 1. 移除代码块标记
+    txt = re.sub(r'^```(?:json)?\s*|\s*```$', '', raw.strip(), flags=re.MULTILINE).strip()
+
+    # 2. 统一换行符并全局转义（核心修复：解决字符串内裸换行）
+    txt = txt.replace('\r\n', '\n').replace('\r', '\n')
+    # 对双引号包裹的内容，强制把 \n 转为 \\n
+    in_quote = False
+    result = []
+    for char in txt:
+        if char == '"':
+            in_quote = not in_quote
+            result.append(char)
+        elif char == '\n' and in_quote:
+            result.append('\\n')
+        else:
+            result.append(char)
+    txt = ''.join(result)
+
+    # 3. 移除列表/对象末尾多余逗号
+    txt = re.sub(r',\s*([}\]])', r'\1', txt)
+    # 4. 清理不可见控制字符
+    txt = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f]', '', txt)
+    return txt
+
+
 def parse_json_robust(raw: str) -> dict:
-    """超强容错JSON解析：修复代码块、裸换行、缺失逗号、尾逗号、括号不匹配"""
-    # 移除 markdown 代码块标记
-    cleaned = re.sub(r'^```(?:json)?\s*|\s*```$', '', raw.strip(), flags=re.MULTILINE).strip()
+    cleaned = deep_clean_json_str(raw)
 
-    # 1. 转义字符串内裸换行（JSON 不允许字符串直接含 \n）
-    cleaned = re.sub(r'(?<=")[^"]*\n[^"]*(?=")', lambda m: m.group(0).replace('\n', '\\n'), cleaned)
-    # 2. 移除列表/对象末尾多余逗号
-    cleaned = re.sub(r',\s*([}\]])', r'\1', cleaned)
-    # 3. 简单补全缺失分隔逗号
-    cleaned = re.sub(r'("[\s\S]*?")(?=[]}])', r'\1,', cleaned)
-
-    # 第一次尝试解析
+    # 首次解析
     try:
         return json.loads(cleaned)
     except json.JSONDecodeError:
         pass
 
-    # 定位完整 JSON 大括号块
+    # 截取外层完整 JSON 对象
     start = cleaned.find('{')
     if start == -1:
         raise ValueError('未找到 JSON 起始字符 "{"')
 
     stack = []
-    end = -1
-    for i, ch in enumerate(cleaned[start:], start):
+    end_idx = -1
+    for idx, ch in enumerate(cleaned[start:], start):
         if ch == '{':
-            stack.append(i)
+            stack.append(idx)
         elif ch == '}':
             if stack:
                 stack.pop()
                 if not stack:
-                    end = i
-    # 兜底取最后一个 }
-    if end == -1:
-        end = cleaned.rfind('}')
-        if end == -1:
-            raise ValueError('未找到 "}"')
-        # 补齐缺失右括号
-        left_cnt = cleaned[start:end+1].count('{')
-        right_cnt = cleaned[start:end+1].count('}')
-        missing = left_cnt - right_cnt
-        if missing > 0:
-            cleaned = cleaned[:end+1] + '}' * missing
-            end = len(cleaned) - 1
+                    end_idx = idx
+                    break
 
-    candidate = cleaned[start:end+1]
-    # 二次清洗候选片段
-    candidate = re.sub(r'(?<=")[^"]*\n[^"]*(?=")', lambda m: m.group(0).replace('\n', '\\n'), candidate)
-    candidate = re.sub(r',\s*([}\]])', r'\1', candidate)
+    # 兜底处理括号
+    if end_idx == -1:
+        end_idx = cleaned.rfind('}')
+        if end_idx == -1:
+            raise ValueError('未找到 JSON 结束符 "}"')
+        left = cleaned[start:end_idx+1].count('{')
+        right = cleaned[start:end_idx+1].count('}')
+        if left > right:
+            cleaned = cleaned[:end_idx+1] + '}' * (left - right)
+            end_idx = len(cleaned) - 1
+
+    candidate = cleaned[start:end_idx+1]
+    # 二次清洗
+    candidate = deep_clean_json_str(candidate)
 
     try:
         return json.loads(candidate)
@@ -199,73 +202,71 @@ def parse_json_robust(raw: str) -> dict:
         debug_file = OUTPUT_DIR / 'last_api_response.txt'
         debug_file.write_text(raw, encoding='utf-8')
         print(f'  已保存原始响应到 {debug_file}')
-        print(f'  提取的 JSON 片段（前 500）:\n{candidate[:500]}')
-        print(f'  提取的 JSON 片段（后 500）:\n{candidate[-500:]}')
-        raise ValueError(f'JSON解析失败，错误位置: {e}')
+        print(f'  解析片段前500:\n{candidate[:500]}')
+        raise ValueError(f'JSON解析失败: {e}')
 
 
 SYSTEM = """你是专业英语精读教学助手，专注新闻英语。
 目标学习者：考研六级以上。
-输出强制规则：
-1. 仅输出合法标准JSON，禁止Markdown、解释、额外文字
-2. JSON字符串内双引号用 \\" 转义
-3. 例句中的双引号改为单引号
-4. 字符串内换行必须转义为 \\n，禁止裸换行
-5. 列表、对象末尾不允许多余逗号"""
+# 硬性输出规则（必须遵守）
+1. 仅输出纯JSON，无任何额外文字、注释、Markdown代码块；
+2. 所有字符串内**换行必须转义为 \\n**，禁止裸换行；
+3. 字符串内双引号用 \\" 转义，例句改用单引号；
+4. 数组/对象末尾**禁止多余逗号**；
+5. 严格使用标准双引号包裹字段名，不使用单引号。"""
 
 
 def build_prompt(transcript: str, date_str: str, source_url: str) -> str:
-    # 前置转义关键字符
+    # 前置对原文做全转义，避免污染JSON结构
     safe_text = transcript.replace('\\', '\\\\').replace('"', '\\"').replace('\n', '\\n')
     return f"""CNN This Morning 逐字稿（{date_str}）：
 {safe_text}
 
-严格输出**标准合法JSON**，可被Python json.loads直接解析，不添加任何额外内容。
-必须包含以下全部字段与结构，字段名称、层级不能修改：
+请严格输出**标准可解析JSON**，结构、字段名完全遵循下方模板，不得增删改：
 {{
   "date": "{date_str}",
   "source_url": "{source_url}",
   "full_translation": [
     {{
-      "paragraph": "原文段落（保持原文顺序，每个自然段一个条目）",
+      "paragraph": "原文段落",
       "translation": "对应中文翻译"
     }}
   ],
   "vocabulary": [
     {{
-      "word": "单词或短语",
+      "word": "单词/短语",
       "phonetic": "/音标/",
       "pos": "词性",
       "level": "考研/六级/专四/专八",
-      "cn": "中文释义（含搭配）",
+      "cn": "中文释义",
       "en": "英文释义",
-      "excerpt": "包含该词的原文片段（10-20词，单引号代替双引号）",
-      "example_cn": "该片段中文翻译"
+      "excerpt": "原文片段",
+      "example_cn": "片段翻译"
     }}
   ],
   "sentences": [
     {{
-      "en": "原文长难句（完整句子）",
-      "cn": "准确中文翻译",
-      "structure": "句子结构（主句/从句/插入语等）",
-      "analysis": "语法要点/习语/修辞分析"
+      "en": "原文长难句",
+      "cn": "中文翻译",
+      "structure": "句子结构",
+      "analysis": "语法分析"
     }}
   ],
   "topics": [
     {{
       "title": "话题标题",
-      "content": "120字中文背景知识，含关键英文术语",
-      "keywords": "词1 · 词2 · 词3"
+      "content": "背景知识",
+      "keywords": "关键词"
     }}
   ]
 }}
 
-补充要求：
-1. full_translation：按自然段逐段翻译，不遗漏内容
-2. vocabulary：提取考研/六级/专四/专八词汇短语，至少30个
-3. sentences：整理全文所有长难句
-4. topics：整理相关背景话题，至少10个
-5. 禁止新增、删除、重命名任何字段"""
+业务要求：
+1. full_translation 按原文段落逐段翻译；
+2. vocabulary 提取至少30个考研/六级/专四/专八词汇；
+3. sentences 整理全部长难句；
+4. topics 整理至少10个相关背景话题；
+5. 所有段落换行统一使用转义符 \\n，严禁直接换行。"""
 
 
 def call_deepseek(prompt: str, max_retries: int = 3) -> dict:
@@ -305,14 +306,14 @@ def call_deepseek(prompt: str, max_retries: int = 3) -> dict:
 
 
 def main():
-    print('\n=== CNN精读生成器 v7.5（无截断 + 分段展示 + 增强JSON解析 + 接口重试） ===')
+    print('\n=== CNN精读生成器 v7.6（彻底修复JSON换行解析问题） ===')
     requested_date = get_target_date()
     out_path = OUTPUT_DIR / f'{requested_date}.json'
     if out_path.exists():
         print(f'✓ 缓存已存在：{out_path}')
         return
 
-    print(f'\n[1/3] 查找有效文稿（从 {requested_date} 开始，不跳过周末）...')
+    print(f'\n[1/3] 查找有效文稿（从 {requested_date} 开始）...')
     actual_date = find_available_date(requested_date, max_lookback=7)
     out_path = OUTPUT_DIR / f'{actual_date}.json'
     if out_path.exists():
@@ -322,7 +323,7 @@ def main():
     source_url = f'https://transcripts.cnn.com/show/ctmo/date/{actual_date}/segment/01'
     print(f'目标日期：{actual_date}  输出：{out_path}')
 
-    print(f'\n[2/3] 抓取文稿（保留原始段落结构）...')
+    print(f'\n[2/3] 抓取文稿...')
     full_text, segments_data = fetch_transcript(actual_date)
     if not full_text:
         raise RuntimeError(f'{actual_date} 文稿抓取失败')
@@ -332,7 +333,6 @@ def main():
     prompt = build_prompt(full_text, actual_date, source_url)
     data = call_deepseek(prompt)
 
-    # 补充原始文稿与分段信息
     data['raw_transcript'] = full_text
     data['segments'] = segments_data
     data['date'] = actual_date
