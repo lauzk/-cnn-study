@@ -142,57 +142,47 @@ def fetch_transcript(date_str: str) -> tuple[str, list[dict]]:
 
 
 def parse_json_robust(raw: str) -> dict:
-    # 预处理：将字符串值中的未转义换行符转义（粗略但有效）
-    # 匹配 "full_translation": " ... " 中的内容，将里面的 \n 转义为 \\n
-    # 更简单的方法：先尝试直接解析，失败后手动转义
     cleaned = re.sub(r'^```(?:json)?\s*|\s*```$', '', raw.strip(), flags=re.MULTILINE).strip()
-    # 尝试直接解析
     try:
         return json.loads(cleaned)
     except json.JSONDecodeError:
-        # 尝试将字符串中的换行符替换为转义序列
-        # 这个方法比较激进，但能修复多数问题
-        try:
-            # 找到 "full_translation" 之后的值，将其中的换行符转义
-            fixed = re.sub(r'(?<="full_translation":\s*")([^"]*(?:\\.[^"]*)*)"', 
-                           lambda m: m.group(1).replace('\n', '\\n').replace('\r', '\\r'), 
-                           cleaned, flags=re.DOTALL)
-            return json.loads(fixed)
-        except:
-            pass
+        pass
 
-    # 后续原有逻辑...
-
-    # 尝试提取第一个 { 到最后一个 } 之间的内容（考虑嵌套）
-    # 使用栈来匹配最外层的 {}
     start = cleaned.find('{')
     if start == -1:
         raise ValueError('未找到 JSON 起始字符 "{"')
     
-    brace_count = 0
+    # 使用栈找到最后一个正确的结束位置
+    stack = []
     end = -1
     for i, ch in enumerate(cleaned[start:], start):
         if ch == '{':
-            brace_count += 1
+            stack.append(i)
         elif ch == '}':
-            brace_count -= 1
-            if brace_count == 0:
-                end = i
-                break
+            if stack:
+                stack.pop()
+                if not stack:
+                    end = i
     if end == -1:
-        raise ValueError('未找到匹配的 "}"')
+        # 如果没找到完整匹配，取最后一个 '}' 并补齐
+        end = cleaned.rfind('}')
+        if end == -1:
+            raise ValueError('未找到 "}"')
+        # 补齐缺失的括号
+        missing = cleaned[start:end+1].count('{') - cleaned[start:end+1].count('}')
+        if missing > 0:
+            cleaned = cleaned[:end+1] + '}' * missing
+            end = len(cleaned) - 1
     
     candidate = cleaned[start:end+1]
-    # 尝试解析提取出的字符串
     try:
         return json.loads(candidate)
     except json.JSONDecodeError as e:
-        # 记录原始响应的前后内容用于调试
         debug_file = OUTPUT_DIR / 'last_api_response.txt'
         debug_file.write_text(raw, encoding='utf-8')
         print(f'  已保存原始响应到 {debug_file}')
-        print(f'  提取的 JSON 片段（前 500 字符）:\n{candidate[:500]}')
-        print(f'  提取的 JSON 片段（后 500 字符）:\n{candidate[-500:]}')
+        print(f'  提取的 JSON 片段（前 500）:\n{candidate[:500]}')
+        print(f'  提取的 JSON 片段（后 500）:\n{candidate[-500:]}')
         raise ValueError(f'JSON解析失败，已保存原始响应。错误位置: {e}')
 
 
@@ -205,7 +195,6 @@ SYSTEM = """你是专业英语精读教学助手，专注新闻英语。
 
 
 def build_prompt(transcript: str, date_str: str, source_url: str) -> str:
-    # 不再截断，使用完整文稿（DeepSeek 支持 128K 上下文）
     safe = transcript.replace('\\', '\\\\').replace('"', '\\"')
     return f"""CNN This Morning 逐字稿（{date_str}）：
 
@@ -216,44 +205,22 @@ def build_prompt(transcript: str, date_str: str, source_url: str) -> str:
 {{
   "date": "{date_str}",
   "source_url": "{source_url}",
-  "full_translation": "整篇文稿的逐句中文翻译，必须严格保留原文的换行和段落分隔（即原文中的空行在翻译中也用空行表示，每个说话人段落之间用换行分隔，不要把所有句子挤在一起）。",
-
-  "vocabulary": [
+  "full_translation": [
     {{
-      "word": "单词或短语",
-      "phonetic": "/音标/",
-      "pos": "词性",
-      "level": "考研/六级",
-      "cn": "中文释义（含搭配）",
-      "en": "英文释义",
-      "excerpt": "包含该词的原文片段（10-20词，单引号代替双引号）",
-      "example_cn": "该片段中文翻译"
+      "paragraph": "原文段落（保持原文顺序，每个自然段一个条目）",
+      "translation": "对应中文翻译"
     }}
   ],
-
-  "sentences": [
-    {{
-      "en": "原文长难句（完整句子）",
-      "cn": "准确中文翻译",
-      "structure": "句子结构（主句/从句/插入语等）",
-      "analysis": "语法要点/习语/修辞分析"
-    }}
-  ],
-
-  "topics": [
-    {{
-      "title": "话题标题",
-      "content": "120字中文背景知识，含关键英文术语",
-      "keywords": "词1 · 词2 · 词3"
-    }}
-  ]
+  "vocabulary": [...],
+  "sentences": [...],
+  "topics": [...]
 }}
 
 严格要求：
-- full_translation：必须是字符串，逐段翻译，保留原文换行和段落空行
-- vocabulary：只提取考研和六级水平的词汇或短语，忽略其他难度。不限个数，至少12个，上不封顶
-- sentences：提取文稿中的所有长难句，不限个数
-- topics：提取所有值得展开的背景话题，不限个数，至少4个，上不封顶
+- full_translation：按自然段逐段翻译，每个段落一个对象，保持原文顺序，不要遗漏
+- vocabulary：只提取考研和六级词汇短语，不限个数，至少12个
+- sentences：所有长难句，不限个数
+- topics：所有值得展开的背景话题，至少4个
 - 不需要 summary 和 quiz 字段"""
 
 def call_deepseek(prompt: str) -> dict:
