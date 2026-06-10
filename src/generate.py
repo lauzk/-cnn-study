@@ -73,8 +73,7 @@ class TranscriptExtractor(HTMLParser):
 
 def fetch_transcript(date_str: str) -> tuple[str, list[dict]]:
     """
-    只抓取第一个 segment (01)，不再自动探测后续 segment。
-    返回 (全文, segments列表，仅包含一个segment)
+    只抓取第一个 segment (01)，完整保留原文的换行和段落结构。
     """
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
@@ -95,21 +94,27 @@ def fetch_transcript(date_str: str) -> tuple[str, list[dict]]:
         time_match = re.search(r'(Aired\s+[\d:]+[ap]m?\s*ET)', resp.text, re.IGNORECASE)
         segment_title = time_match.group(1) if time_match else raw_title
         
-        body_text = ""
-        # 策略1: id="transcriptBody" 或 class="cnnTranscript"
+        # 优先提取 transcriptBody 区域
         match = re.search(r'<(div|section)[^>]*id=["\']transcriptBody["\'][^>]*>(.*?)</\1>', resp.text, re.DOTALL | re.IGNORECASE)
         if not match:
             match = re.search(r'<(div|section)[^>]*class=["\'][^"\']*cnnTranscript[^"\']*["\'][^>]*>(.*?)</\1>', resp.text, re.DOTALL | re.IGNORECASE)
+        
         if match:
             inner = match.group(2)
+            # 关键：将 <br> 转换为换行符，保留段落结构
             inner = re.sub(r'<br\s*/?>', '\n', inner)
-            inner = re.sub(r'</?(p|div|section|h\d|span)[^>]*>', '\n', inner)
-            body_text = re.sub(r'<[^>]+>', ' ', inner)
+            # 将 </p> 和 </div> 等块级结束标签转换为双换行（段落分隔）
+            inner = re.sub(r'</(p|div|section|h\d)>', '\n\n', inner, flags=re.IGNORECASE)
+            # 移除其余所有 HTML 标签，但保留已经转换的换行符
+            body_text = re.sub(r'<[^>]+>', '', inner)
+            # 清理多余空格，但绝对不要压缩换行符
             body_text = re.sub(r'[ \t]+', ' ', body_text)
-            body_text = re.sub(r'\n\s*\n', '\n\n', body_text).strip()
+            # 将连续三个以上的换行压缩为两个换行（保留段落间距）
+            body_text = re.sub(r'\n{3,}', '\n\n', body_text)
+            body_text = body_text.strip()
             print(f'      策略1成功，长度 {len(body_text)}')
-        
-        if len(body_text) < 300:
+        else:
+            # 回退：自定义解析器（同样保留换行）
             print(f'      策略1失败，尝试自定义解析器...')
             parser = TranscriptExtractor()
             parser.feed(resp.text)
@@ -118,17 +123,6 @@ def fetch_transcript(date_str: str) -> tuple[str, list[dict]]:
                 body_text = re.sub(r'[ \t]+', ' ', body_text)
                 body_text = re.sub(r'\n{3,}', '\n\n', body_text).strip()
                 print(f'      策略2成功，长度 {len(body_text)}')
-        
-        if len(body_text) < 300:
-            print(f'      策略2失败，尝试全文回退...')
-            raw_text = re.sub(r'<[^>]+>', ' ', resp.text)
-            raw_text = re.sub(r'\s+', ' ', raw_text)
-            aired_pos = raw_text.find('Aired')
-            if aired_pos != -1:
-                body_text = raw_text[aired_pos:aired_pos+20000].strip()
-            else:
-                body_text = raw_text[:20000].strip()
-            print(f'      策略3完成，长度 {len(body_text)}')
         
         if len(body_text) > 300:
             segments_data = [{
