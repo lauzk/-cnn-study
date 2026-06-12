@@ -2,8 +2,8 @@
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
-    <!-- 完全关闭移动端适配：强制桌面宽度，手机横向滚动/缩放查看 -->
-<meta name="viewport" content="width=1200, initial-scale=1.0">
+    <!-- 关闭移动端适配，强制桌面宽度，彻底解决弹窗偏移 -->
+    <meta name="viewport" content="width=1200, initial-scale=1.0">
     <title>CNN 英语精读</title>
     <style>
         :root {
@@ -36,7 +36,9 @@
             margin: 0;
             padding: 0;
         }
-        body {
+        html, body {
+            min-width: 1200px;
+            overflow-x: auto;
             background: var(--bg);
             color: var(--text);
             font-family: var(--font);
@@ -46,14 +48,6 @@
             display: grid;
             grid-template-columns: 300px 1fr;
             min-height: 100vh;
-        }
-        @media (max-width: 800px) {
-            .layout {
-                grid-template-columns: 1fr;
-            }
-            .sidebar {
-                display: none;
-            }
         }
         .sidebar {
             background: var(--bg3);
@@ -147,6 +141,7 @@
         .btn-src:hover {
             background: var(--bg4);
         }
+        /* 标签栏：仅保留 原文/词汇/难句/背景，移除翻译 */
         .tabs {
             display: flex;
             gap: 4px;
@@ -175,17 +170,6 @@
         }
         .section.active {
             display: block;
-        }
-        .transcript-wrap {
-            display: grid;
-            grid-template-columns: 1fr 280px;
-            gap: 1.25rem;
-            align-items: start;
-        }
-        @media (max-width: 900px) {
-            .transcript-wrap {
-                grid-template-columns: 1fr;
-            }
         }
         .transcript-body {
             background: var(--bg2);
@@ -239,6 +223,7 @@
         .hl.level-专八 {
             border-bottom-color: #d6336c;
         }
+        /* 单词弹窗样式（桌面稳定，手机不再自适应） */
         .vocab-popup {
             position: fixed;
             z-index: 200;
@@ -301,35 +286,6 @@
             font-size: 12px;
             margin-top: 6px;
         }
-        .word-panel {
-            background: var(--bg2);
-            border: 1px solid var(--border);
-            border-radius: var(--r);
-            padding: 1rem;
-            position: sticky;
-            top: 80px;
-        }
-        .word-list {
-            display: flex;
-            flex-direction: column;
-            gap: 4px;
-            max-height: calc(100vh - 200px);
-            overflow-y: auto;
-        }
-        .word-chip {
-            display: flex;
-            align-items: center;
-            gap: 8px;
-            padding: 6px 10px;
-            border-radius: 7px;
-            cursor: pointer;
-        }
-        .word-chip:hover {
-            background: var(--bg3);
-        }
-        .word-chip.active {
-            background: var(--blue-dim);
-        }
         .vocab-grid, .scard, .tcard {
             background: var(--bg2);
             border: 1px solid var(--border);
@@ -346,17 +302,6 @@
             text-align: center;
             padding: 3rem;
             color: var(--text2);
-        }
-        .translation-box {
-            background: var(--bg2);
-            border: 1px solid var(--border);
-            border-radius: var(--r);
-            padding: 1.5rem;
-        }
-        #fullTranslation {
-            white-space: pre-wrap;
-            line-height: 1.8;
-            font-size: 14px;
         }
         .card-label {
             font-weight: bold;
@@ -386,9 +331,9 @@
             <button class="btn-src" onclick="openSource()">查看原文 →</button>
         </div>
 
+        <!-- 已删除【全文翻译】标签 -->
         <div class="tabs">
             <div class="tab active" onclick="switchTab('transcript')">📝 全文稿</div>
-            <div class="tab" onclick="switchTab('translation')">🌐 全文翻译</div>
             <div class="tab" onclick="switchTab('vocab')">📚 词汇</div>
             <div class="tab" onclick="switchTab('sentences')">🔍 难句</div>
             <div class="tab" onclick="switchTab('topics')">🌍 背景</div>
@@ -402,7 +347,7 @@
 
 <div class="vocab-popup" id="vocabPopup">
     <div><span class="popup-word" id="popupWord"></span><span class="popup-phonetic" id="popupPhonetic"></span></div>
-    <div class="popup-badges"><span class="popup-pos" id="popupPos"></span><span class="popup-level" id="popupLevel"></span></div>
+    <div class="popup-badges"><span class="popup-pos" id="popupPos"></span><span class="popupLevel" id="popupLevel"></span></div>
     <div class="popup-cn" id="popupCn"></div>
     <div class="popup-en" id="popupEn"></div>
     <div class="popup-excerpt" id="popupExcerpt"></div>
@@ -420,7 +365,6 @@ const LEVEL_COLORS = {
 };
 
 (function init() {
-    // 为每个目录项绑定点击事件
     document.querySelectorAll('.directory-item').forEach(item => {
         const date = item.getAttribute('data-date');
         if (date) {
@@ -462,13 +406,7 @@ function renderContent(data) {
     
     let html = `
         <div class="section active" id="transcriptSection">
-            <div class="transcript-wrap">
-                <div><div class="transcript-body" id="transcriptBody"></div></div>
-                <div><div class="word-panel"><div class="word-panel-title">词汇索引</div><div class="word-list" id="wordList"></div></div></div>
-            </div>
-        </div>
-        <div class="section" id="translationSection">
-            <div class="translation-box"><div class="card-label">📖 完整中文翻译</div><div id="fullTranslation"></div></div>
+            <div class="transcript-body" id="transcriptBody"></div>
         </div>
         <div class="section" id="vocabSection"><div class="vocab-grid" id="vocabGrid"></div></div>
         <div class="section" id="sentencesSection"><div id="sentenceList"></div></div>
@@ -476,7 +414,7 @@ function renderContent(data) {
     `;
     document.getElementById('contentContainer').innerHTML = html;
     
-    // 原文
+    // 渲染原文
     let transcriptHtml = '';
     for (let seg of segments) {
         const title = seg.title || `Segment ${seg.seg}`;
@@ -486,30 +424,6 @@ function renderContent(data) {
     }
     document.getElementById('transcriptBody').innerHTML = transcriptHtml;
     
-    // 词汇索引
-    renderWordList(vocab);
-    
-    // 翻译：只显示中文（不显示英文原文）
-    const transDiv = document.getElementById('fullTranslation');
-    if (Array.isArray(data.full_translation) && data.full_translation.length) {
-        let transHtml = '';
-        for (let item of data.full_translation) {
-            if (item.translation) {
-                transHtml += `<div style="margin-bottom: 1rem;">${escapeHtml(item.translation)}</div>`;
-            } else if (item.cn) {
-                transHtml += `<div style="margin-bottom: 1rem;">${escapeHtml(item.cn)}</div>`;
-            } else {
-                transHtml += `<div>${escapeHtml(JSON.stringify(item))}</div>`;
-            }
-        }
-        transDiv.innerHTML = transHtml;
-    } else if (typeof data.full_translation === 'string') {
-        transDiv.innerHTML = escapeHtml(data.full_translation).replace(/\n/g, '<br>');
-    } else {
-        transDiv.innerHTML = '暂无全文翻译';
-    }
-    
-    // 词汇卡片、难句、背景
     renderVocabCards(vocab);
     renderSentencesList(data.sentences || []);
     renderTopicsList(data.topics || []);
@@ -555,7 +469,6 @@ function showVocabPopup(e, word) {
     const data = currentData?.vocabulary?.find(v => v.word === word);
     if (!data) return;
     document.querySelectorAll('.hl').forEach(el => el.classList.toggle('active', el.dataset.word === word));
-    document.querySelectorAll('.word-chip').forEach(el => el.classList.toggle('active', el.dataset.word === word));
     document.getElementById('popupWord').textContent = data.word;
     document.getElementById('popupPhonetic').textContent = data.phonetic || '';
     document.getElementById('popupPos').textContent = data.pos || '';
@@ -578,42 +491,11 @@ function showVocabPopup(e, word) {
 }
 
 document.addEventListener('click', e => {
-    if (!e.target.classList.contains('hl') && !e.target.closest('.vocab-popup') && !e.target.closest('.word-chip')) {
+    if (!e.target.classList.contains('hl') && !e.target.closest('.vocab-popup')) {
         document.getElementById('vocabPopup').classList.remove('show');
         document.querySelectorAll('.hl.active').forEach(el => el.classList.remove('active'));
-        document.querySelectorAll('.word-chip.active').forEach(el => el.classList.remove('active'));
     }
 });
-
-function renderWordList(vocab) {
-    const container = document.getElementById('wordList');
-    if (!container) return;
-    container.innerHTML = vocab.map(v => {
-        let level = v.level || '';
-        let levelKey = '';
-        if (level.includes('考研')) levelKey = '考研';
-        else if (level.includes('六级')) levelKey = '六级';
-        else if (level.includes('专四')) levelKey = '专四';
-        else if (level.includes('专八')) levelKey = '专八';
-        else levelKey = level;
-        const color = LEVEL_COLORS[levelKey] || '#0a58ca';
-        return `
-            <div class="word-chip" data-word="${escapeHtml(v.word)}" onclick="jumpToWord('${escapeHtml(v.word)}')">
-                <span style="display:inline-block; width:8px; height:8px; background:${color}; border-radius:50%; margin-right:6px;"></span>
-                <span>${escapeHtml(v.word)}</span>
-                <span style="margin-left:8px; color:var(--text2);">${escapeHtml(v.cn || '')}</span>
-            </div>
-        `;
-    }).join('');
-}
-
-function jumpToWord(word) {
-    switchTab('transcript');
-    setTimeout(() => {
-        const el = document.querySelector(`.hl[data-word="${word}"]`);
-        if (el) { el.scrollIntoView({behavior:'smooth', block:'center'}); el.click(); }
-    }, 50);
-}
 
 function renderVocabCards(vocab) {
     const container = document.getElementById('vocabGrid');
@@ -645,9 +527,10 @@ function renderTopicsList(topics) {
     `).join('');
 }
 
+// 已删除翻译标签对应逻辑
 function switchTab(tabId) {
-    const sections = ['transcriptSection', 'translationSection', 'vocabSection', 'sentencesSection', 'topicsSection'];
-    const tabMap = { transcript: 0, translation: 1, vocab: 2, sentences: 3, topics: 4 };
+    const sections = ['transcriptSection', 'vocabSection', 'sentencesSection', 'topicsSection'];
+    const tabMap = { transcript: 0, vocab: 1, sentences: 2, topics: 3 };
     const idx = tabMap[tabId];
     if (idx === undefined) return;
     document.querySelectorAll('.tab').forEach((tab,i) => {
