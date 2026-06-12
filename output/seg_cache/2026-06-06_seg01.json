@@ -1,0 +1,509 @@
+{
+  "date": "2026-06-06",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-06/segment/01",
+  "vocabulary": [
+    {
+      "word": "rally",
+      "phonetic": "/ˈræli/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "集会",
+      "en": "a large public meeting, especially one held to support a particular idea or political party",
+      "excerpt": "President Trump returned to the campaign trail yesterday as he tries to rally his MAGA base for the upcoming midterm elections.",
+      "example_cn": "总统特朗普昨日重返竞选之路，试图为其MAGA基础选民在即将到来的中期选举中鼓劲。"
+    },
+    {
+      "word": "midterm",
+      "phonetic": "/ˌmɪdˈtɜːrm/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "中期的",
+      "en": "relating to the middle of a period of time, especially a political term of office",
+      "excerpt": "President Trump returned to the campaign trail yesterday as he tries to rally his MAGA base for the upcoming midterm elections.",
+      "example_cn": "总统特朗普昨日重返竞选之路，试图为其MAGA基础选民在即将到来的中期选举中鼓劲。"
+    },
+    {
+      "word": "battleground",
+      "phonetic": "/ˈbætlɡraʊnd/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "战场；关键选区",
+      "en": "a place where a battle is being fought; a state or region where political competition is intense",
+      "excerpt": "Now this is one of the biggest battlegrounds in the country in the fight for the midterm elections.",
+      "example_cn": "这是该国中期选举争夺中最大的关键选区之一。"
+    },
+    {
+      "word": "tariff",
+      "phonetic": "/ˈtærɪf/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "关税",
+      "en": "a tax on goods coming into a country or going out of a country",
+      "excerpt": "The impact of the President's tariff policies and trade policies are being felt quite deeply here in rural America.",
+      "example_cn": "总统的关税政策和贸易政策的影响在美国农村地区感受颇深。"
+    },
+    {
+      "word": "frontrunner",
+      "phonetic": "/ˈfrʌntrʌnər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "领先者",
+      "en": "the person or thing that is most likely to succeed in a competition",
+      "excerpt": "Platner is a Marine vet, an oyster farmer and the frontrunner to take on Susan Collins in the November election.",
+      "example_cn": "普拉特纳是一名海军退伍军人、牡蛎养殖户，也是在11月选举中挑战苏珊·柯林斯的领先者。"
+    },
+    {
+      "word": "scandal",
+      "phonetic": "/ˈskændl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "丑闻",
+      "en": "an action or event that causes a public feeling of shock or disapproval",
+      "excerpt": "But a barrage of scandals, from a covered up Nazi link tattoo to toxic relationship allegations has voters ready to cast their ballots while holding their noses.",
+      "example_cn": "但一连串丑闻——从掩盖的纳粹关联纹身到有毒关系指控——让选民准备捏着鼻子投票。"
+    },
+    {
+      "word": "allegation",
+      "phonetic": "/ˌæləˈɡeɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "指控",
+      "en": "a statement that someone has done something wrong or illegal, but that has not been proved",
+      "excerpt": "But a barrage of scandals, from a covered up Nazi link tattoo to toxic relationship allegations has voters ready to cast their ballots while holding their noses.",
+      "example_cn": "但一连串丑闻——从掩盖的纳粹关联纹身到有毒关系指控——让选民准备捏着鼻子投票。"
+    },
+    {
+      "word": "ballot",
+      "phonetic": "/ˈbælət/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "选票",
+      "en": "a piece of paper on which you mark your vote",
+      "excerpt": "But a barrage of scandals, from a covered up Nazi link tattoo to toxic relationship allegations has voters ready to cast their ballots while holding their noses.",
+      "example_cn": "但一连串丑闻——从掩盖的纳粹关联纹身到有毒关系指控——让选民准备捏着鼻子投票。"
+    },
+    {
+      "word": "blockade",
+      "phonetic": "/blɑːˈkeɪd/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "封锁",
+      "en": "the action of surrounding a place with soldiers or ships to stop people or goods from entering or leaving",
+      "excerpt": "A top official in Iran tells CNN a potential deal hinges on the Trump administration agreeing to end its naval blockade and releasing $24 billion in frozen Iranian assets.",
+      "example_cn": "伊朗一名高级官员告诉CNN，潜在协议取决于特朗普政府同意结束其海军封锁并释放240亿美元冻结的伊朗资产。"
+    },
+    {
+      "word": "intercept",
+      "phonetic": "/ˌɪntərˈsept/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "拦截",
+      "en": "to stop something or someone that is going from one place to another before they get there",
+      "excerpt": "It also intercepted a wave of missiles and drones launched by Iran toward the Strait of Hormuz as well as toward Kuwait and Bahrain.",
+      "example_cn": "它还拦截了伊朗向霍尔木兹海峡以及科威特和巴林发射的一波导弹和无人机。"
+    },
+    {
+      "word": "ceasefire",
+      "phonetic": "/ˈsiːsfaɪər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "停火",
+      "en": "an agreement to stop fighting for a period of time",
+      "excerpt": "It also intercepted a wave of missiles and drones launched by Iran toward the Strait of Hormuz as well as toward Kuwait and Bahrain that's threatening an already fragile ceasefire.",
+      "example_cn": "它还拦截了伊朗向霍尔木兹海峡以及科威特和巴林发射的一波导弹和无人机，这威胁到本已脆弱的停火。"
+    },
+    {
+      "word": "ramp up",
+      "phonetic": "/ræmp ʌp/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "增加；加强",
+      "en": "to increase something, especially the amount of an activity",
+      "excerpt": "Israeli forces also ramped up attacks against Hezbollah targets in Lebanon.",
+      "example_cn": "以色列军队还加强了对黎巴嫩真主党目标的攻击。"
+    },
+    {
+      "word": "escalation",
+      "phonetic": "/ˌeskəˈleɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "升级",
+      "en": "the process of becoming greater or more serious",
+      "excerpt": "Yes, you know, Victor, there's a lot of talk about peace, but when you see this sort of escalation of military activity over the last couple of days, it's really hard to understand what that is starting to look like.",
+      "example_cn": "是的，你知道，维克多，有很多关于和平的讨论，但当你看到过去几天这种军事活动的升级，真的很难理解那开始看起来像什么。"
+    },
+    {
+      "word": "bargaining chip",
+      "phonetic": "/ˈbɑːrɡənɪŋ tʃɪp/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "谈判筹码",
+      "en": "something that you can use to get an advantage when you are trying to make a deal",
+      "excerpt": "We heard the president of Lebanon tell CNN's Christiane Amanpour that he felt Lebanon was being used as a bargaining chip.",
+      "example_cn": "我们听到黎巴嫩总统告诉CNN的克里斯蒂安·阿曼普尔，他感到黎巴嫩被用作谈判筹码。"
+    },
+    {
+      "word": "polarization",
+      "phonetic": "/ˌpoʊlərəˈzeɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "两极分化",
+      "en": "the process of dividing into two opposite groups",
+      "excerpt": "Pope Leo is kicking off a visit to Spain with political polarization and migration front and center.",
+      "example_cn": "教皇利奥开始对西班牙的访问，政治两极分化和移民问题成为焦点。"
+    },
+    {
+      "word": "migration",
+      "phonetic": "/maɪˈɡreɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "移民；迁徙",
+      "en": "the movement of people from one place to another, especially to live or work",
+      "excerpt": "Pope Leo is kicking off a visit to Spain with political polarization and migration front and center.",
+      "example_cn": "教皇利奥开始对西班牙的访问，政治两极分化和移民问题成为焦点。"
+    },
+    {
+      "word": "papacy",
+      "phonetic": "/ˈpeɪpəsi/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "教皇职位；教皇任期",
+      "en": "the position or period of office of the Pope",
+      "excerpt": "Investigate -- immigration rather has become a key priority for his papacy.",
+      "example_cn": "调查——移民已成为他教皇任期的一个关键优先事项。"
+    },
+    {
+      "word": "cadaver dog",
+      "phonetic": "/kəˈdævər dɔːɡ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "尸体搜寻犬",
+      "en": "a dog trained to find human remains",
+      "excerpt": "Cadaver dogs, divers, specialized equipment, they were brought in earlier this week as search teams look for any remains.",
+      "example_cn": "本周早些时候，尸体搜寻犬、潜水员、专业设备被调来，搜索队寻找任何遗骸。"
+    },
+    {
+      "word": "negligent",
+      "phonetic": "/ˈneɡlɪdʒənt/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "疏忽的",
+      "en": "failing to take proper care of something",
+      "excerpt": "The jury found socialite Rebecca Grossman and former major league pitcher Scott Erickson negligent.",
+      "example_cn": "陪审团认定社交名流丽贝卡·格罗斯曼和前大联盟投手斯科特·埃里克森疏忽。"
+    },
+    {
+      "word": "sentence",
+      "phonetic": "/ˈsentəns/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "判决",
+      "en": "to give a punishment to someone who has been found guilty of a crime",
+      "excerpt": "In Virginia, a man convicted in a double murder plot has been sentenced to life in prison.",
+      "example_cn": "在弗吉尼亚州，一名在双重谋杀阴谋中被定罪的人被判处终身监禁。"
+    },
+    {
+      "word": "au pair",
+      "phonetic": "/ˌoʊ ˈper/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "互惠生",
+      "en": "a young person, usually a woman, who lives with a family in a foreign country and helps with housework and childcare in exchange for room and board",
+      "excerpt": "This was a case that centered on an affair with the family's au pair.",
+      "example_cn": "这是一个以与家庭互惠生有染为中心的案件。"
+    },
+    {
+      "word": "manslaughter",
+      "phonetic": "/ˈmænslɔːtər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "过失杀人",
+      "en": "the crime of killing someone unintentionally",
+      "excerpt": "She pleaded guilty in October 2020 -- 2024 to involuntary manslaughter for fatally shooting Ryan and agreed to testify against her former lover in exchange for that plea deal.",
+      "example_cn": "她于2020年10月至2024年对过失杀人罪认罪，因致命枪击瑞安，并同意作证指控她的前情人以换取认罪协议。"
+    },
+    {
+      "word": "intelligence",
+      "phonetic": "/ɪnˈtelɪdʒəns/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "情报",
+      "en": "information about the activities of foreign governments or groups, especially one's enemies",
+      "excerpt": "President Trump says he's interviewing five candidates for the job of Director of National Intelligence.",
+      "example_cn": "总统特朗普表示他正在面试五位国家情报总监职位的候选人。"
+    },
+    {
+      "word": "security clearance",
+      "phonetic": "/sɪˈkjʊrəti ˈklɪrəns/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "安全许可",
+      "en": "official permission to see secret information",
+      "excerpt": "He also did not have a security clearance before Trump chose him.",
+      "example_cn": "在特朗普选择他之前，他也没有安全许可。"
+    },
+    {
+      "word": "retribution",
+      "phonetic": "/ˌretrɪˈbjuːʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "报复",
+      "en": "punishment for something bad that someone has done",
+      "excerpt": "And I think some of the alarm that you saw on Capitol Hill at the notion of this person getting intel -- control of the intelligence apparatus is that he's already shown that he's part of the retribution campaign that the President is waging.",
+      "example_cn": "我认为你在国会山看到的对这个人获得情报——控制情报机构的担忧，是因为他已经表明他是总统发起的报复运动的一部分。"
+    },
+    {
+      "word": "moot",
+      "phonetic": "/muːt/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "无实际意义的",
+      "en": "having no practical importance; not worth discussing",
+      "excerpt": "The Department of Justice has now told two federal courts that cases challenging that fund are moot because the administration has abandoned the program.",
+      "example_cn": "司法部现已告知两个联邦法院，质疑该基金的案件已无实际意义，因为政府已放弃该计划。"
+    },
+    {
+      "word": "fraud",
+      "phonetic": "/frɔːd/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "欺诈",
+      "en": "the crime of deceiving someone in order to get money or goods illegally",
+      "excerpt": "One of the cases is 35 former federal judges alleging that the President and the Department of Justice defrauded the court, that there was no real conflict and they colluded to create this fund.",
+      "example_cn": "其中一起案件是35名前联邦法官指控总统和司法部欺诈法庭，称没有真正的冲突，他们合谋创建了这个基金。"
+    },
+    {
+      "word": "collude",
+      "phonetic": "/kəˈluːd/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "勾结",
+      "en": "to work together secretly to do something dishonest",
+      "excerpt": "One of the cases is 35 former federal judges alleging that the President and the Department of Justice defrauded the court, that there was no real conflict and they colluded to create this fund.",
+      "example_cn": "其中一起案件是35名前联邦法官指控总统和司法部欺诈法庭，称没有真正的冲突，他们合谋创建了这个基金。"
+    },
+    {
+      "word": "slush fund",
+      "phonetic": "/slʌʃ fʌnd/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "贿赂基金；秘密资金",
+      "en": "a sum of money used for illegal or dishonest purposes, especially in politics",
+      "excerpt": "Now the funding is there for the slush fund.",
+      "example_cn": "现在资金已到位，用于这个秘密基金。"
+    },
+    {
+      "word": "guardrail",
+      "phonetic": "/ˈɡɑːrdreɪl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "护栏；限制措施",
+      "en": "a bar that prevents people from falling off a bridge or road; a measure to prevent something from going wrong",
+      "excerpt": "It's going to take real guardrails, you know, sort of talking about it, talking about breaking from the pack after you've been defeated, after you're on your way out and you're a lame duck, that's really not going to get it.",
+      "example_cn": "这需要真正的限制措施，你知道，谈论它，谈论在被打败后、在即将离任且成为跛脚鸭后脱离群体，这真的行不通。"
+    },
+    {
+      "word": "lame duck",
+      "phonetic": "/leɪm dʌk/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "跛脚鸭（任期将满的官员）",
+      "en": "a politician who is in the last period of their term of office and has less power",
+      "excerpt": "It's going to take real guardrails, you know, sort of talking about it, talking about breaking from the pack after you've been defeated, after you're on your way out and you're a lame duck, that's really not going to get it.",
+      "example_cn": "这需要真正的限制措施，你知道，谈论它，谈论在被打败后、在即将离任且成为跛脚鸭后脱离群体，这真的行不通。"
+    },
+    {
+      "word": "decarbonization",
+      "phonetic": "/diːˌkɑːrbənaɪˈzeɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "脱碳",
+      "en": "the process of reducing the amount of carbon dioxide produced by a country, company, etc.",
+      "excerpt": "We know that carbon emissions are high and adding more electricity demand to our needs, to our portfolio means that we have to -- we will compromise the decarbonization process and create a lot of problems.",
+      "example_cn": "我们知道碳排放很高，增加更多的电力需求到我们的需求、到我们的组合意味着我们必须——我们将损害脱碳过程并造成许多问题。"
+    },
+    {
+      "word": "indigenous",
+      "phonetic": "/ɪnˈdɪdʒənəs/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "本土的；原生的",
+      "en": "originating naturally in a particular place",
+      "excerpt": "That's why you see in many parts of the world, including the United States, now, people are having conflicts over the establishment of these data centers because farmers are worried or cities are worried, urban population, indigenous communities around the world are worried about these data centers coming to their place, and they are only bearing the cost, not taking advantage of the benefits.",
+      "example_cn": "这就是为什么你在世界许多地方，包括美国，现在人们就这些数据中心的建立发生冲突，因为农民担心，城市担心，城市人口、世界各地的原住民社区担心这些数据中心来到他们的地方，他们只承担成本，而没有利用好处。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "President Trump returned to the campaign trail yesterday as he tries to rally his MAGA base for the upcoming midterm elections.",
+      "cn": "总统特朗普昨日重返竞选之路，试图为其MAGA基础选民在即将到来的中期选举中鼓劲。",
+      "structure": "主句 + as引导的时间状语从句",
+      "analysis": "主句为President Trump returned to the campaign trail yesterday，as引导时间状语从句，表示主句动作发生的同时，从句动作也在进行。从句中tries to rally his MAGA base为不定式短语作宾语，for the upcoming midterm elections为介词短语作目的状语。"
+    },
+    {
+      "en": "But a barrage of scandals, from a covered up Nazi link tattoo to toxic relationship allegations has voters ready to cast their ballots while holding their noses.",
+      "cn": "但一连串丑闻——从掩盖的纳粹关联纹身到有毒关系指控——让选民准备捏着鼻子投票。",
+      "structure": "主语 + 谓语 + 宾语 + 宾语补足语 + while引导的伴随状语",
+      "analysis": "主语为a barrage of scandals，谓语has，宾语voters，宾语补足语ready to cast their ballots，while holding their noses为现在分词短语作伴随状语。from...to...结构修饰scandals。"
+    },
+    {
+      "en": "A top official in Iran tells CNN a potential deal hinges on the Trump administration agreeing to end its naval blockade and releasing $24 billion in frozen Iranian assets.",
+      "cn": "伊朗一名高级官员告诉CNN，潜在协议取决于特朗普政府同意结束其海军封锁并释放240亿美元冻结的伊朗资产。",
+      "structure": "主句 + 宾语从句",
+      "analysis": "主句为A top official in Iran tells CNN，其后为省略that的宾语从句。从句主语为a potential deal，谓语hinges on，宾语为the Trump administration agreeing to end its naval blockade and releasing $24 billion in frozen Iranian assets，其中agreeing和releasing为现在分词短语作宾语补足语。"
+    },
+    {
+      "en": "It also intercepted a wave of missiles and drones launched by Iran toward the Strait of Hormuz as well as toward Kuwait and Bahrain that's threatening an already fragile ceasefire.",
+      "cn": "它还拦截了伊朗向霍尔木兹海峡以及科威特和巴林发射的一波导弹和无人机，这威胁到本已脆弱的停火。",
+      "structure": "主句 + 定语从句",
+      "analysis": "主句为It also intercepted a wave of missiles and drones，launched by Iran toward the Strait of Hormuz as well as toward Kuwait and Bahrain为过去分词短语作后置定语，修饰missiles and drones。that's threatening an already fragile ceasefire为定语从句，修饰先行词a wave of missiles and drones。"
+    },
+    {
+      "en": "We heard the president of Lebanon tell CNN's Christiane Amanpour that he felt Lebanon was being used as a bargaining chip.",
+      "cn": "我们听到黎巴嫩总统告诉CNN的克里斯蒂安·阿曼普尔，他感到黎巴嫩被用作谈判筹码。",
+      "structure": "主句 + 宾语从句 + 宾语从句",
+      "analysis": "主句为We heard the president of Lebanon tell CNN's Christiane Amanpour，其中tell为不带to的不定式作宾语补足语。其后为that引导的宾语从句，从句中又包含一个省略that的宾语从句Lebanon was being used as a bargaining chip。"
+    },
+    {
+      "en": "The judge in the case said she had no qualms about handing down the sentence.",
+      "cn": "该案法官表示，她对宣判毫无疑虑。",
+      "structure": "主句 + 宾语从句",
+      "analysis": "主句为The judge in the case said，其后为省略that的宾语从句。从句主语为she，谓语had no qualms about handing down the sentence，其中handing down为动名词短语作介词about的宾语。"
+    },
+    {
+      "en": "Prosecutors said Banfield hatched a plan to kill his wife, Christine Banfield, and another man, Joseph Ryan.",
+      "cn": "检察官称，班菲尔德策划了一个杀害其妻子克里斯汀·班菲尔德和另一名男子约瑟夫·瑞安的计划。",
+      "structure": "主句 + 宾语从句",
+      "analysis": "主句为Prosecutors said，其后为省略that的宾语从句。从句主语为Banfield，谓语hatched，宾语a plan，不定式短语to kill his wife, Christine Banfield, and another man, Joseph Ryan作后置定语修饰plan。"
+    },
+    {
+      "en": "They say he used a fetish website to lure Ryan to his house under the guise of having consensual sex with his wife.",
+      "cn": "他们称他利用一个恋物网站，以与妻子发生自愿性行为为幌子，将瑞安引诱到他的房子。",
+      "structure": "主句 + 宾语从句",
+      "analysis": "主句为They say，其后为省略that的宾语从句。从句主语为he，谓语used，宾语a fetish website，不定式短语to lure Ryan to his house作目的状语，under the guise of having consensual sex with his wife为介词短语作方式状语。"
+    },
+    {
+      "en": "The plot was to frame Ryan, whom Banfield would allege attacked his wife, telling the jury he killed Ryan in an attempt to save his wife's life.",
+      "cn": "该计划是为了陷害瑞安，班菲尔德会声称瑞安袭击了他的妻子，并告诉陪审团他杀死瑞安是为了救他妻子的命。",
+      "structure": "主句 + 定语从句 + 伴随状语",
+      "analysis": "主句为The plot was to frame Ryan，whom引导定语从句修饰Ryan，从句中Banfield would allege为插入语，attacked his wife为省略that的宾语从句。telling the jury...为现在分词短语作伴随状语，其中he killed Ryan in an attempt to save his wife's life为省略that的宾语从句。"
+    },
+    {
+      "en": "The au pair said Banfield wanted to be with her but did not want to pay for a divorce or share custody of the couple's daughter.",
+      "cn": "互惠生说班菲尔德想和她在一起，但不想支付离婚费用或分享这对夫妇女儿的监护权。",
+      "structure": "主句 + 宾语从句",
+      "analysis": "主句为The au pair said，其后为省略that的宾语从句。从句主语为Banfield，谓语由wanted和did not want并列，wanted to be with her为不定式短语作宾语，did not want to pay for a divorce or share custody of the couple's daughter中pay和share并列作不定式宾语。"
+    },
+    {
+      "en": "The Justice Department has officially killed plans for President Trump's so called anti-weaponization fund.",
+      "cn": "司法部已正式取消了特朗普总统所谓的反武器化基金的计划。",
+      "structure": "主谓宾结构",
+      "analysis": "主语为The Justice Department，谓语has killed，宾语plans，介词短语for President Trump's so called anti-weaponization fund作后置定语修饰plans。"
+    },
+    {
+      "en": "President Trump says he's interviewing five candidates for the job of Director of National Intelligence.",
+      "cn": "总统特朗普表示他正在面试五位国家情报总监职位的候选人。",
+      "structure": "主句 + 宾语从句",
+      "analysis": "主句为President Trump says，其后为省略that的宾语从句。从句主语为he，谓语is interviewing，宾语five candidates，介词短语for the job of Director of National Intelligence作后置定语。"
+    },
+    {
+      "en": "And I think some of the alarm that you saw on Capitol Hill at the notion of this person getting intel -- control of the intelligence apparatus is that he's already shown that he's part of the retribution campaign that the President is waging.",
+      "cn": "我认为你在国会山看到的对这个人获得情报——控制情报机构的担忧，是因为他已经表明他是总统发起的报复运动的一部分。",
+      "structure": "主句 + 宾语从句 + 定语从句 + 表语从句",
+      "analysis": "主句为I think，其后为省略that的宾语从句。从句主语为some of the alarm，that you saw on Capitol Hill at the notion of this person getting intel -- control of the intelligence apparatus为定语从句修饰alarm，其中at the notion of...为介词短语作状语。is为系动词，that he's already shown that he's part of the retribution campaign that the President is waging为表语从句，其中that he's already shown为宾语从句，that he's part of the retribution campaign that the President is waging为shown的宾语从句，其中that the President is waging为定语从句修饰campaign。"
+    },
+    {
+      "en": "The Department of Justice has now told two federal courts that cases challenging that fund are moot because the administration has abandoned the program.",
+      "cn": "司法部现已告知两个联邦法院，质疑该基金的案件已无实际意义，因为政府已放弃该计划。",
+      "structure": "主句 + 宾语从句 + 原因状语从句",
+      "analysis": "主句为The Department of Justice has now told two federal courts，其后为that引导的宾语从句。从句主语为cases，challenging that fund为现在分词短语作后置定语，谓语are moot，because引导原因状语从句。"
+    },
+    {
+      "en": "One of the cases is 35 former federal judges alleging that the President and the Department of Justice defrauded the court, that there was no real conflict and they colluded to create this fund.",
+      "cn": "其中一起案件是35名前联邦法官指控总统和司法部欺诈法庭，称没有真正的冲突，他们合谋创建了这个基金。",
+      "structure": "主系表结构 + 定语 + 宾语从句",
+      "analysis": "主语为One of the cases，系动词is，表语35 former federal judges，alleging that...为现在分词短语作后置定语修饰judges，其后为两个that引导的并列宾语从句，第一个that从句中主语为the President and the Department of Justice，谓语defrauded，宾语the court；第二个that从句中主语为there，系动词was，表语no real conflict，and连接并列句they colluded to create this fund。"
+    },
+    {
+      "en": "It found that A.I. data centers consume more electricity than most countries on average, and they also require massive amounts of water.",
+      "cn": "它发现人工智能数据中心平均消耗的电力比大多数国家还多，并且它们还需要大量的水。",
+      "structure": "主句 + 宾语从句",
+      "analysis": "主句为It found，其后为that引导的宾语从句。从句由两个并列分句组成：第一个分句主语为A.I. data centers，谓语consume，宾语more electricity，than most countries on average为比较状语；第二个分句主语为they，谓语require，宾语massive amounts of water。"
+    },
+    {
+      "en": "The report explores the tens of billions of watt hours that it takes to train some of these A.I. models, massive amounts of energy.",
+      "cn": "该报告探讨了训练其中一些人工智能模型所需的数百亿瓦时，即大量的能源。",
+      "structure": "主句 + 定语从句",
+      "analysis": "主句为The report explores the tens of billions of watt hours，that it takes to train some of these A.I. models为定语从句修饰watt hours，其中it为形式主语，真正主语为不定式短语to train some of these A.I. models。massive amounts of energy为同位语，补充说明tens of billions of watt hours。"
+    },
+    {
+      "en": "One of the things that is always unfair in this comparison is people talk about how much energy it takes to train an A.I. model, relative to how much it costs a human to do one inference query.",
+      "cn": "在这种比较中，总是不公平的一点是，人们谈论训练一个人工智能模型需要多少能量，相对于人类进行一次推理查询需要多少成本。",
+      "structure": "主句 + 定语从句 + 表语从句 + 宾语从句",
+      "analysis": "主语为One of the things，that is always unfair in this comparison为定语从句修饰things，系动词is，表语为省略that的表语从句people talk about how much energy it takes to train an A.I. model, relative to how much it costs a human to do one inference query，其中how much energy it takes to train an A.I. model为宾语从句，relative to...为介词短语作状语，how much it costs a human to do one inference query为宾语从句。"
+    },
+    {
+      "en": "But it also takes a lot of energy to train a human.",
+      "cn": "但训练一个人也需要大量能量。",
+      "structure": "主谓宾结构，it作形式主语",
+      "analysis": "it为形式主语，真正主语为不定式短语to train a human，谓语takes，宾语a lot of energy。"
+    },
+    {
+      "en": "It takes like 20 years of life, and all of the food you eat during that time before you get smart.",
+      "cn": "这需要大约20年的生命，以及你在那段时间里吃的所有食物，然后你才能变得聪明。",
+      "structure": "并列句",
+      "analysis": "第一个分句It takes like 20 years of life，第二个分句and all of the food you eat during that time before you get smart，其中you eat during that time为定语从句修饰food，before you get smart为时间状语从句。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "美国中期选举",
+      "content": "美国中期选举每两年举行一次，在总统任期中间进行，改选众议院全部席位和参议院部分席位。2026年中期选举将决定国会控制权，对总统特朗普的施政至关重要。本文提到特朗普在威斯康星州为农民举行集会，试图巩固其MAGA基础选民的支持，同时共和党努力维持参议院多数。",
+      "keywords": "midterm elections, MAGA base, Senate majority, campaign trail"
+    },
+    {
+      "title": "美伊关系与核谈判",
+      "content": "美国与伊朗的核谈判陷入僵局。伊朗要求美国解除海军封锁并释放240亿美元冻结资产，否则将把战争扩大到印度洋、红海等地。美国军方拦截了伊朗发射的导弹和无人机，以色列也加强了对黎巴嫩真主党的打击。特朗普表示将很快以强硬方式解决伊朗问题。",
+      "keywords": "Iran, naval blockade, frozen assets, ceasefire, Hezbollah"
+    },
+    {
+      "title": "人工智能的环境影响",
+      "content": "联合国大学报告指出，人工智能数据中心消耗大量电力和水资源，其碳排放相当于一些大国的排放量。随着AI模型训练和运行的需求增长，预计到2030年能源和水资源消耗将翻倍。这引发了关于AI可持续性的讨论，以及数据中心选址与当地社区的冲突。",
+      "keywords": "AI data centers, electricity consumption, water usage, carbon emissions, sustainability"
+    },
+    {
+      "title": "缅因州参议员选举",
+      "content": "民主党候选人格雷厄姆·普拉特纳是缅因州参议员选举的领先者，但面临一系列丑闻，包括纳粹纹身和有毒关系指控。选民对其态度矛盾，部分人仍计划投票给他，但缺乏热情。现任共和党参议员苏珊·柯林斯寻求连任，选举结果可能影响参议院控制权。",
+      "keywords": "Graham Platner, Susan Collins, Maine primary, scandals, voter enthusiasm"
+    },
+    {
+      "title": "特朗普情报总监任命争议",
+      "content": "特朗普任命联邦住房金融局局长比尔·普尔特临时担任国家情报总监，但普尔特缺乏情报经验且未获安全许可。此举引发国会担忧，认为普尔特可能参与总统的报复行动。特朗普表示将寻找永久人选，但普尔特任期可能持续到11月大选后。",
+      "keywords": "Bill Pulte, Director of National Intelligence, security clearance, retribution campaign"
+    },
+    {
+      "title": "反武器化基金争议",
+      "content": "司法部告知法院，特朗普的“反武器化基金”计划已被放弃，相关案件已无实际意义。但35名前联邦法官指控总统和司法部欺诈法庭，合谋创建该基金。尽管政府声称放弃，但基金可能被重新启用，且已有资金用于和解。",
+      "keywords": "anti-weaponization fund, Justice Department, fraud on the court, moot"
+    },
+    {
+      "title": "弗吉尼亚州双重谋杀案",
+      "content": "前国税局特工布伦丹·班菲尔德因谋杀妻子和另一名男子被判处终身监禁。案件涉及与家庭互惠生的婚外情，班菲尔德利用恋物网站引诱受害者，并试图嫁祸于人。互惠生认罪并作证，被判10年监禁。",
+      "keywords": "Brendan Banfield, au pair, double murder, life sentence, fetish website"
+    },
+    {
+      "title": "教皇利奥访问西班牙",
+      "content": "教皇利奥开始对西班牙进行为期六天的访问，重点关注政治两极分化和移民问题。他将访问移民中心并在议会发表演讲，还会在巴塞罗那参观圣家堂，并预计会见性虐待幸存者。",
+      "keywords": "Pope Leo, Spain, migration, political polarization, sexual abuse survivors"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nPresident Trump Visits Northwestern Wisconsin To Talk Agriculture; Graham Platner Faces New Allegations Just Days Ahead Of Maine Primary; Iran Warns Of Wider War, Demands Release Of Frozen Assets; Israel Ramps Up Strikes Against Hezbollah In Lebanon; Brendan Banfield Sentenced To Life In Au Pair Affair Murder Case. Justice Department Tells Courts that Challenges to Trump's \"Anti- Weaponization\" Fund are Moot; Tech Stocks Lose Ground Amid Weakness in A.I. Stocks; Sherpa Rescued After Surviving on Mount Everest Without Food and Oxygen. Aired 6-7a ET\n\nAired June 06, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nVICTOR BLACKWELL, CNN ANCHOR: Welcome to CNN This Morning. Here's what you need to know to start your weekend.\n\nPresident Trump was in Wisconsin yesterday to pitch farmers on his trade policy kind of.\n\nDONALD TRUMP, U.S. PRESIDENT: Come up here today. I don't need this. I got elected. I don't know. What the hell do I have to be here for. I got elected. I'm here because I like the farmer.\n\nBLACKWELL: So we'll talk about the importance of his visit, what he was supposed to do there, and the GOP efforts to hold the Senate in the midterms.\n\nThe road to the Senate majority also runs through Maine. And Democrats are being forced to make some tough choices.\n\nUNIDENTIFIED FEMALE: Either get it all out there or shut up. One of the two.\n\nUNIDENTIFIED FEMALE: I'm going to vote for him. Yes, but I don't like it.\n\nBLACKWELL: How Graham Platner's mounted controversies are impacting that race.\n\nAnd a new U.N. report says that AI data centers put out as much pollution as some large countries. One of the authors of that study is here.\n\nPlus a Sherpa guide stuck for six days on Mount Everest. No food, no bottled oxygen. Everyone thought that he was dead until he came crawling back to base camp.\n\nIt's Saturday, June 6th, 2026. I'm Victor Blackwell. Good to have you along.\n\nPresident Trump returned to the campaign trail yesterday as he tries to rally his MAGA base for the upcoming midterm elections. The president visited Chippewa, Wisconsin, for a rally branded as Fighting for American Farmers. Some farmers say that they've been hurt by some of the administration's trade policies and the war with Iran.\n\nBut in his remarks, the president seemed more focused on other topics, like his beautification projects. Back in D.C. CNN's Jeff Zeleny is in Wisconsin with more on the president's message to farmers.\n\nJEFF ZELENY, CNN CHIEF NATIONAL AFFAIRS CORRRESPONDENT: Victor, it was a return to the campaign trail of sorts for President Trump on Friday as he campaigned here in western Wisconsin. Now this is the makings of the roundtable. It actually had more of a feeling of a rally as his supporters are taking their lead.\n\nNow this is one of the biggest battlegrounds in the country in the fight for the midterm elections. Republican Representative Derek Van Orden is in a very tough race. Even Republicans acknowledge that and the impact of the President's tariff policies and trade policies are being felt quite deeply here in rural America.\n\nThe President signaled that he's interested in helping the American farmer, but he also seemed to suggest he doesn't need to be campaigning at all.\n\nTRUMP: I fought for the American farmer like no one has ever fought before. Nobody's like, I'm up here today. I don't need this. I got elected. I don't have. What the hell do I have to be here for? I got elected. I'm here because I like the farmer.\n\nI mean, when you think about it, I guess there's a lot of truth to that, right? I could be home right now in the beautiful White House, enjoying watching somebody else on television talking. Life is much better than my life. I will tell you. Your ear wasn't a little pierced over here. You didn't get pierced. You have a nice, safe, beautiful life.\n\nZELENY: There's no doubt we'll be seeing more from the President over the next five months between now and November as Republicans try and hold their House majority and their Senate majority as well. A question here is, are Democrats more energized by the President visiting these areas? Are they more turned on by trying to change policies or is the president really trying to rally his base?\n\nHe of course won reelection less than two years ago, but history shows that the midterm election is always rough for the President's party Victor.\n\nBLACKWELL: Jeff Zeleny, thank you. New this morning, CNN projects that Democrat Javier Becerra will advance to the November general election in the race for California Governor. Becerra previously served as California's Attorney General and L.A. based congressman.\n\nBallots in California are still being counted so it is still not clear who Becerra will run against. He will either face off against Trump backed Republican Steve Hilton or fellow Democratic candidate Tom Steyer. The eventual winner will succeed term limited, Democratic Governor Gavin Newsom.\n\nDemocratic Senate candidate Graham Platner, let's talk about him. He may be a favorite to win Tuesday's primary in Maine, but he is also quickly losing voters enthusiasm.\n\nPlatner is a Marine vet, an oyster farmer and the frontrunner to take on Susan Collins in the November election. But a barrage of scandals, from a covered up Nazi link tattoo to toxic relationship allegations has voters ready to cast their ballots while holding their noses. CNN's Danny Freeman talked to voters in Maine about how they feel about voting for Platner.\n\nBONNIE DEPP, MAINE DEMOCRAT: Either get it all out there or shut up. One of the two.\n\nDANNY FREEMAN, CNN CORRESPONDENT (voice-over): Many Maine Democratic voters we spoke with, they said they're frustrated with Democratic Senate candidate Graham Platner, who they feel could give them their best shot at defeating longtime Republican Senator Susan Collins and help pave the way for Democrats to retake control of the Senate.\n\nFREEMAN: Are you considering holding your breath and voting for him?\n\nDEPP: I got until Tuesday to decide, but I'm pretty sure I'll vote for him. I don't think a lot of this crime is anybody else's business.\n\nFREEMAN (voice-over): For some Democrats, they're willing to look past the interpersonal stories.\n\nZOO CAIN, MAINE DEMOCRAT: I'm not really interested in the guy's foibles, you know, I'm interested in his vision and what he has to say. And I love what he has to say. So yes, it's been definitely difficult because everybody is piling on this guy.\n\nFREEMAN (voice-over): But others did not buy Platner's tattoo explanation.\n\nSANDRA BRADEN, MAINE DEMOCRAT: He's an intelligent man. Of course he knew about it. I don't blame him for denying it.\n\nFREEMAN: But that's still not enough not to vote for him. You're still going to vote for him likely?\n\nBRADEN: I'm going to vote for him, yes. But I don't like it. I'm not in favor of all that.\n\nFREEMAN (voice-over): Still for some, the drip, drip has left voters confused.\n\nWOODY HAYWOOD, MAINE DEMOCRAT: I don't know if it's misinformation or disinformation. Right? Like I don't know, do we -- do any of us really know what's going to be or what kind of character he has? Don't know, unproven. Unproven. So is it the devil that we have or the devil, the devil we know or the devil that we don't know yet?\n\nFREEMAN (voice-over): According to a pair of recent polls conducted before the latest allegations, a head to head matchup between Platner and Senator Collins appears competitive. One with no clear leader and the other showing Platner with an advantage. While Platner is the clear favorite to win the Democratic nomination on Tuesday, another high profile candidate's name is still on the ballot. Governor Janet Mills suspended her campaign back in April, but a source now tells CNN she's been getting encouragement to reenter the primary.\n\nBeth Dindas, a Mills supporter from the start, thinks it's likely too late.\n\nBETH DINDAS, MAINE DEMOCRAT: I think that ultimately, unfortunately, we're going to lose this race again and we're going to have six more years of Susan Collins, who has let down the people of Maine time after time.\n\nFREEMAN: Now, Victor, on Friday night, Platner had a rally in Bar Harbor, Maine, and he was defiant, saying we are in the of our lives and adding, when politically motivated, serious and false accusations are made against me, Maine, you have my back. We'll see what voters say on Tuesday. Victor.\n\nBLACKWELL: Indeed we will. Danny Freeman reporting. Thank you very much. Peace talks between the U.S. and Iran have reached a critical stage. A top official in Iran tells CNN a potential deal hinges on the Trump administration agreeing to end its naval blockade and releasing $24 billion in frozen Iranian assets.\n\nGEN. MOHSEN REZAEI, SENIOR MILITARY ADVISER TO IRAN'S SUPREME LEADER (through translator): If the war continues and the naval blockade is not lifted, we will drag the war to the Indian Ocean, the Bab El Mandeb Strait, the Red Sea and the Mediterranean. (END VIDEO CLIP)\n\nOvernight, the U.S. military struck several coastal sites in Iran. It also intercepted a wave of missiles and drones launched by Iran toward the Strait of Hormuz as well as toward Kuwait and Bahrain that's threatening an already fragile ceasefire. Israeli forces also ramped up attacks against Hezbollah targets in Lebanon. It killed more than 20 people.\n\nCNN's Barbie Nadeau is tracking the latest developments. She joins us now live from Rome. Barbie?\n\nBARBIE NADEAU, CNN CORRESPONDENT: Yes, you know, Victor, there's a lot of talk about peace, but when you see this sort of escalation of military activity over the last couple of days, it's really hard to understand what that is starting to look like. We've had 20 people killed in Lebanon. We heard the president of Lebanon tell CNN's Christiane Amanpour that he felt Lebanon was being used as a bargaining chip. We hear Iran saying that's not true. There's just a lot of back and forth.\n\nAnd as you say, these interceptions of drones and missiles and attacks towards Kuwait and Bahrain, sending people to take shelters, very unsettling. But we did hear from President Donald Trump. Let's listen for a second, hear what he had to say about these peace talks.\n\nTRUMP: We're at a point we're going to come out of Iran very quickly and it's going to be very strong one way or the other, whether it's a piece of paper or the very tough way. OK. The very tough way is maybe the easier way.\n\nNADEAU: And you know, Victor, one way or another, the tough way, the piece of paper, that's very unsettling for people in the region there, you know, and for the global economy as it stands. So it's a lot of waiting, wishing, wondering and trying to interpret what messages really mean. Victor.\n\nBLACKWELL: Barbara Nadeau reporting for us. Thank you, Barbie.\n\nHappening now, we are following Pope Leo as he kicks off a six-day tour of Spain. How he's confronting one of the church's biggest controversies along the way.\n\nPlus, father in Virginia is sentenced in that double murder plot involving his family's au pair. We have details for you that ahead.\n\nAnd President Trump is facing backlash over his pick to lead the intelligence community. Why the president is waving off questions about Bill Pulte's qualifications.\n\nBLACKWELL: All right. Here are some of the headlines we're watching this morning. Pope Leo is kicking off a visit to Spain with political polarization and migration front and center. Pope Leo is set to visit migrant centers and address Spain's parliament. Investigate -- immigration rather has become a key priority for his papacy. And he's been outspoken about how migrants are treated.\n\nThis six-day trip also includes a major stop in Barcelona to visit Sagrada Familia Basilica. It is also expected that he will meet with sexual abuse survivors.\n\nThe search is intensifying in the Bahamas in that mysterious disappearance of an American sailor. The U.S. Coast Guard has now taken custody of the dinghy where Lynette Hooker was last seen. Her husband, Brian Hooker, told investigators that she fell overboard on April 8. Officials opened a criminal investigation three days later after raising questions about that account.\n\nCadaver dogs, divers, specialized equipment, they were brought in earlier this week as search teams look for any remains. So far, no suspects have been publicly identified. Her husband has repeatedly denied any wrongdoing.\n\nIn California, a jury has awarded millions to the family of two young boys killed in a hit and run. It happened back in 2020. Prosecutors say the boys were hit in a crosswalk. Their parents and younger brother were awarded $176 million after the jury found socialite Rebecca Grossman and former major league pitcher Scott Erickson negligent. Grossman was driving the car and was already convicted in a criminal case. She's serving 15 years to life.\n\nIn Virginia, a man convicted in a double murder plot has been sentenced to life in prison. In February, a jury convicted Brendan Banfield of killing his wife and another man. This was a case that centered on an affair with the family's au pair. You might remember it. The family members faced him in court yesterday and delivered emotional statements before the sentence. CNN's Sherrell Hubbard has more.\n\nUNIDENTIFIED MALE: Sir, is there anything you wish to say?\n\nSHERRELL HUBBARD, CNN CORRESPONDENT (voice-over): Convicted murderer Brendan Banfield, a former IRS agent still attempting to maintain his innocence before being sentenced to life in prison without parole Friday.\n\nBRENDAN BANFIELD, SENTENCED TO LIFE IN PRISON: I loved her very much, despite what you may think of my affairs.\n\nHUBBARD (voice-over): The judge in the case said she had no qualms about handing down the sentence. JUDGE PENNEY AZCARATE, CIRCUIT COURT IN FAIRFAX COUNTY: The level of cruelty calculation and inhumanity in this case reflects something far deeper than anger or impulse. It reflects evil.\n\nHUBBARD (voice-over): Prosecutors said Banfield hatched a plan to kill his wife, Christine Banfield, and another man, Joseph Ryan. They say he used a fetish website to lure Ryan to his house under the guise of having consensual sex with his wife. The plot was to frame Ryan, whom Banfield would allege attacked his wife, telling the jury he killed Ryan in an attempt to save his wife's life.\n\nDANIELLE HOCKER, CHRISTINE'S OLDER SISTER: I didn't truly know Brendan at all. I don't believe anyone did. Not family, not friends, and certainly not Christine.\n\nDEIRDRE FISHER, JOSEPH RYAN'S MOTHER: Joe wasn't just the disposable caricature. He had a name. My son was a kind human being.\n\nHUBBARD (voice-over): Over five days of the trial, Fairfax county prosecutors called more than 20 witnesses, including the au pair at the center of the case, who testified about the scheme to, quote, get rid of Christine Banfield. The au pair said Banfield wanted to be with her but did not want to pay for a divorce or share custody of the couple's daughter.\n\nUNIDENTIFIED MALE: He thought he could create the perfect crime. He thought he was smarter than everybody else. He wasn't.\n\nHUBBARD (voice-over): I'm Sherrell Hubbard reporting.\n\nBLACKWELL: All right, Sherrell, thank you. The au pair is serving a 10-year sentence. She pleaded guilty in October 2020 -- 2024 to involuntary manslaughter for fatally shooting Ryan and agreed to testify against her former lover in exchange for that plea deal.\n\nStill ahead, the Justice Department has officially killed plans for President Trump's so called anti-weaponization fund. But is there a chance that it could come back?\n\nBLACKWELL: President Trump says he's interviewing five candidates for the job of Director of National Intelligence. Trump made these remarks yesterday aboard Air Force One. Now, this is after the firestorm over his decision to install Bill Pulte, his Federal Housing Finance Agency director, in that position. And Trump, of course, clarified that his appointment is only temporary.\n\nAnd he does plan to name another permanent replacement. Pulte has no known intelligence experience. He also did not have a security clearance before Trump chose him.\n\nLet's talk about this now with Errol Louis, political anchor for Spectrum News. He's also the host of the Big Deal with Errol Lewis. Errol, good morning to you.\n\nSo let's start here. The President probably knew that Bill Pulte didn't have the security clearance, but he knew that he was loyal. Right? And that is what is most important to the President.\n\nLet me play here what the President said about his choice.\n\nTRUMP: I don't think he'd want to be permanent, but he's a very smart guy, and he may find out some things about the rigged elections, et cetera, et cetera. I think he'd like to do it.\n\nBLACKWELL: Trump also told the Wall Street Journal that he wants him to make the ODNI smaller and maybe consider getting rid of it. What do you make of the marching orders to Bill Pulte?\n\nERROL LOUIS, POLITICAL ANCHOR, SPECTRUM NEWS: Good morning, Victor. Well, it was kind of obvious what Bill Pulte is there to do or selected to do. This was the same person who provided a lot of the information for some of the baseless indictments of Donald Trump's enemies. These are indictments that grand juries rejected in one jurisdiction after another.\n\nBut it was based on information, in part, whenever you hear about these allegedly fraudulent mortgages that the president's enemies appear to or have been accused of taking out. Well, this was information from the housing agencies controlled by Bill Pulte.\n\nSo this was somebody who was already working hand in glove with the President to try and take out his enemies. And I think some of the alarm that you saw on Capitol Hill at the notion of this person getting intel -- control of the intelligence apparatus is that he's already shown that he's part of the retribution campaign that the President is waging.\n\nBLACKWELL: He's got 210 days max in that position, which, of course, if anybody's counting, takes us right through the November elections.\n\nLet's talk about Graham Platner, likely to be the Democratic nominee for Senate in Maine. The claims that he admits to and those that he denies. Do those complicate the races outside of Maine?\n\nLOUIS: I mean, you talk with Democrats about Graham Platner, they bring up Ken Paxton, the Republican nominee in Texas. Does this have residue that stains other races for Democrats across the country?\n\nLOUIS: Well, there's a resource question, if nothing else. Republicans have said they're going to spend $42 million to defend Susan Collins in Maine. Democrats have said that they're going to spend $24 million to try and prop up Graham Platner. Now, that number may change Depending on what else is learned about him.\n\nAnd if it starts to look like he's not viable, that might change. But that's $24 million that would not go to other candidates. So, yes, it all works together as far as brain space, you know, talking about scandals. Sure. It enables Republicans to say, well, we've got Ken Paxton, who's got a lot of problems. Well, you've got this guy, Graham Platner. And so everybody's got problems. And it kind of takes away certainly a talking point for Democrats.\n\nBLACKWELL: Let me ask you about the so called anti-weaponization fund. The Department of Justice has now told two federal courts that cases challenging that fund are moot because the administration has abandoned the program. Two points here. First, one of the cases is 35 former federal judges alleging that the President and the Department of Justice defrauded the court, that there was no real conflict and they colluded to create this fund.\n\nDoes that just go away? Because Todd Blanch says, never mind.\n\nLOUIS: Oh no. Oh no, no. The issue of whether or not there was a fraud on the court, whether or not there was a real case and controversy at the core of all of this, that's been reopened and there judges, I think the jurisdiction is in Florida where they're looking at that.\n\nOh no, by no means has that question gone away. Now the funding is there for the slush fund. And by the way, Victor, you have to point out there have already been a number of settlements. I mean, using existing programs, the Justice Department can funnel maybe not $2 billion, but quite a lot of money to two people that the administration or the President thinks are deserving of some, quote, anti-weaponization money.\n\nSo the issue has not gone away. The question of whether or not the fund should ever have been created has not gone away. And what Todd Blanche says about what they plan to do with it, frankly, never really had very much credibility. You really have to watch the numbers, not the statements from Todd Blanche.\n\nBLACKWELL: And there are some members of Congress, including Republicans, Senator Cassidy, Senator Tillis, who wanted to codify that this fund would never exist. Is it possible even if we hear from and read from the DOJ to courts, that it's a moot point because they've abandoned it, that it could be resurrected?\n\nLOUIS: Well, you know, it can be resurrected because the two gentlemen you just mentioned, Thom Tillis, Senator Cassidy, Senator Cornyn, these are all Republicans who are on their way out because they were not hand-in-glove, in lockstep with the President.\n\nAnd so, yes, they -- they're trying to sort of maybe show a glimmer of independence now, but it's too late and they don't have the votes. And the bill that just passed, in fact, did not outlaw it as they could have when they considered getting rid of this fund and making clear that it should not exist. And so, now the fund -- the fund will probably exist, it will be\n\nfunded. It's going to take real guardrails, you know, sort of talking about it, talking about breaking from the pack after you've been defeated, after you're on your way out and you're a lame duck, that's really not going to get it.\n\nBLACKWELL: One more here for a New Yorker. The President says that he's going to be at game three of the NBA finals at Madison Square Garden. Knicks up 2-0. NBA Commissioner Adam Silver said that the President will be the first sitting President to attend the NBA finals.\n\nHe also said that sports is something where we can emphasize, we -- what we have in common, not what pulls us apart. It creates a sense of belonging. I wonder, Errol, is that what you expect we'll see when the President's face is flashed up on the big board at MSG?\n\nLOUIS: No, I don't think so. This is much bigger than the President, to be honest with you -- the energy here. You spent many years living up here, Victor --\n\nLOUIS: You know how long we've been waiting, half a century, most of my adult life we've been waiting for this. So, no, I don't think so. In fact, you know, to be honest with you, positive or negative reaction when the President's face is flashed on the screen, that's just a sideshow. I mean, we got real business here. We've got -- we've got a really important third game to win.\n\nBLACKWELL: All right, we'll see if they can do it in four. They're up 2-0. Errol Louis, always good to have you on a Saturday morning, thanks so much.\n\nBLACKWELL: Wall Street closed for the week with most major indices in the red. And tech stocks accounted for much of the heavy losses. CNN's Richard Quest breaks down what led to the massive downturns in that space, and why A.I. could be responsible.\n\nRICHARD QUEST, CNN BUSINESS EDITOR-AT-LARGE (on camera): It was an unpleasant end to the stock market week with the Nasdaq, the S&P and the Dow all losing ground, and in some cases, the worst sessions for many months. But today's accident didn't just happen on a Friday.\n\nThe warning signs had been there for several days, particularly when Broadcom announced its results and the market gave it a thorough beating up. It simply wasn't good enough. And then, as the week continued, so the rot set in.\n\nBy the time you get to Friday, where we're seeing some impressive losses, Nvidia down 6.25 percent, Broadcom down another 7.9 percent, Intel off 11 percent. And the reason is the same. The market is coming to the realization that the sheer amount of money being plowed into A.I. by these companies simply will not bring the returns in the short to medium term.\n\nThey are worried that huge sums are being spent and the path to profitability, whilst certainly, the businesses are making money, can't justify those levels of investment. But here's the conundrum. Everybody knows that A.I. is the only game in town.\n\nTherefore, if you are one of those companies, you have no choice. You have to find the money and you have to keep spending, and yes, the market will exact its wrath. Richard Quest, CNN, New York.\n\nBLACKWELL: All right, Richard, thank you very much. And let's stay with this, this theme of A.I., because there's a new report that really paints a troubling picture as there are more data centers being built across the U.S. What we're learning about the economic and the environmental costs.\n\nAnd if you're heading out, take me with you, please. Remember, you can go straight to the CNN app and stream our show anywhere in the U.S. You can also go to cnn.com/watch.\n\nBLACKWELL: President Trump announced plans to host leaders from major A.I. companies in the White House, possibly as soon as next week. The President signed a new A.I. and cybersecurity executive order, asking tech companies to voluntarily submit new A.I. models to federal government for review before releasing them to the public.\n\nThis week, a new report by the United Nations University raised concerns about the real-world environmental impact of A.I. It found that A.I. data centers consume more electricity than most countries on average, and they also require massive amounts of water.\n\nProfessor Kay Ivey Mamdani is co-author of that study and its lead investigator, and he joins me now. Thank you so much for being with me. And I want to start with just some of the numbers that are astonishing from this report.\n\nLet's put them on the screen. Global data centers use 448 trillion- watt hours of electricity. That electricity used to produce about 208 million tons of carbon dioxide, and consumed about 1.2 trillion gallons of water, and you predict the water and energy usage will double by 2030. Talk to me about the environmental impact of just the extraordinary level of consumption.\n\nKAVEH MADANI, UNITED NATIONS UNIVERSITY: And let me tell you that this is only the tip of the iceberg, because those numbers are only related to the electricity consumption and the amount of water, we need for the electricity consumption and some other elements of the process.\n\nIt doesn't include the water that we pollute and use during the extraction of critical minerals that we need to produce the basic infrastructure and hardware for our A.I. operations. And then also, what we need to do at the end with its e-waste, and all those processes, we use water and energy.\n\nAnd there's nothing there that is dry and doesn't require water. Why is this important? Because most people around the world, most societies, still the dominant discourse around A.I. is thinking that A.I. is just a virtual thing, right? It's a -- it's a virtual product.\n\nIt's a digital technology, not associating it with all this massive infrastructure, the physics behind it, the major material supply chains behind A.I. And then that was the -- what we wanted to do. Not to say that A.I. is bad, not to say that governments should not be investing in A.I., but to remind them that we have to also worry about these impacts because we already know that the world is water bankrupt.\n\nWe don't have enough water in many regions of the world. We know that carbon emissions are high and adding more electricity demand to our needs, to our portfolio means that we have to -- we will compromise the decarbonization process and create a lot of problems.\n\nThat's why you see in many parts of the world, including the United States, now, people are having conflicts over the establishment of these data centers because farmers are worried or cities are worried, urban population, indigenous communities around the world are worried about these data centers coming to their place, and they are only bearing the cost, not taking advantage of the benefits.\n\nBLACKWELL: Yes, and there are some communities who are trying to keep these data centers out of their communities locally. More on this report. It explores the tens of billions of watt hours that it takes to train some of these A.I. models, massive amounts of energy.\n\nI want you to listen here to OpenAI CEO Sam Altman on what he says when it comes to training these models is an unfair comparison. Watch.\n\nSAM ALTMAN, CEO, OPENAI: One of the things that is always unfair in this comparison is people talk about how much energy it takes to train an A.I. model, relative to how much it costs a human to do one inference query.\n\nBut it also takes a lot of energy to train a human. It takes like 20 years of life, and all of the food you eat during that time before you get smart. And not only that, it took like the very widespread evolution of the 100 billion people that have ever lived and learned not to get eaten by predators and learned how to --\n\nUNIDENTIFIED MALE: Yes --\n\nALTMAN: Like, figure out science and whatever to produce you. And then you took whatever you know, you took. So, the fair comparison is, if you ask ChatGPT a question, how much energy does it take once its model is trained to answer that question versus a human, and probably A.I. has already caught up on an energy efficiency basis measured that way.\n\nBLACKWELL: Do you agree with that? You think it's -- his framework is fair?\n\nMADANI: His framework is reflective of part of the problem. His narrative is correct, but not necessarily complete. Actually, it is true that, and the -- it is not enough to only focus on training. Training uses a lot of energy that ",
+  "segments": [
+    {
+      "seg": 1,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-06/segment/01",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nPresident Trump Visits Northwestern Wisconsin To Talk Agriculture; Graham Platner Faces New Allegations Just Days Ahead Of Maine Primary; Iran Warns Of Wider War, Demands Release Of Frozen Assets; Israel Ramps Up Strikes Against Hezbollah In Lebanon; Brendan Banfield Sentenced To Life In Au Pair Affair Murder Case. Justice Department Tells Courts that Challenges to Trump's \"Anti- Weaponization\" Fund are Moot; Tech Stocks Lose Ground Amid Weakness in A.I. Stocks; Sherpa Rescued After Surviving on Mount Everest Without Food and Oxygen. Aired 6-7a ET\n\nAired June 06, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nVICTOR BLACKWELL, CNN ANCHOR: Welcome to CNN This Morning. Here's what you need to know to start your weekend.\n\nPresident Trump was in Wisconsin yesterday to pitch farmers on his trade policy kind of.\n\nDONALD TRUMP, U.S. PRESIDENT: Come up here today. I don't need this. I got elected. I don't know. What the hell do I have to be here for. I got elected. I'm here because I like the farmer.\n\nBLACKWELL: So we'll talk about the importance of his visit, what he was supposed to do there, and the GOP efforts to hold the Senate in the midterms.\n\nThe road to the Senate majority also runs through Maine. And Democrats are being forced to make some tough choices.\n\nUNIDENTIFIED FEMALE: Either get it all out there or shut up. One of the two.\n\nUNIDENTIFIED FEMALE: I'm going to vote for him. Yes, but I don't like it.\n\nBLACKWELL: How Graham Platner's mounted controversies are impacting that race.\n\nAnd a new U.N. report says that AI data centers put out as much pollution as some large countries. One of the authors of that study is here.\n\nPlus a Sherpa guide stuck for six days on Mount Everest. No food, no bottled oxygen. Everyone thought that he was dead until he came crawling back to base camp.\n\nIt's Saturday, June 6th, 2026. I'm Victor Blackwell. Good to have you along.\n\nPresident Trump returned to the campaign trail yesterday as he tries to rally his MAGA base for the upcoming midterm elections. The president visited Chippewa, Wisconsin, for a rally branded as Fighting for American Farmers. Some farmers say that they've been hurt by some of the administration's trade policies and the war with Iran.\n\nBut in his remarks, the president seemed more focused on other topics, like his beautification projects. Back in D.C. CNN's Jeff Zeleny is in Wisconsin with more on the president's message to farmers.\n\nJEFF ZELENY, CNN CHIEF NATIONAL AFFAIRS CORRRESPONDENT: Victor, it was a return to the campaign trail of sorts for President Trump on Friday as he campaigned here in western Wisconsin. Now this is the makings of the roundtable. It actually had more of a feeling of a rally as his supporters are taking their lead.\n\nNow this is one of the biggest battlegrounds in the country in the fight for the midterm elections. Republican Representative Derek Van Orden is in a very tough race. Even Republicans acknowledge that and the impact of the President's tariff policies and trade policies are being felt quite deeply here in rural America.\n\nThe President signaled that he's interested in helping the American farmer, but he also seemed to suggest he doesn't need to be campaigning at all.\n\nTRUMP: I fought for the American farmer like no one has ever fought before. Nobody's like, I'm up here today. I don't need this. I got elected. I don't have. What the hell do I have to be here for? I got elected. I'm here because I like the farmer.\n\nI mean, when you think about it, I guess there's a lot of truth to that, right? I could be home right now in the beautiful White House, enjoying watching somebody else on television talking. Life is much better than my life. I will tell you. Your ear wasn't a little pierced over here. You didn't get pierced. You have a nice, safe, beautiful life.\n\nZELENY: There's no doubt we'll be seeing more from the President over the next five months between now and November as Republicans try and hold their House majority and their Senate majority as well. A question here is, are Democrats more energized by the President visiting these areas? Are they more turned on by trying to change policies or is the president really trying to rally his base?\n\nHe of course won reelection less than two years ago, but history shows that the midterm election is always rough for the President's party Victor.\n\nBLACKWELL: Jeff Zeleny, thank you. New this morning, CNN projects that Democrat Javier Becerra will advance to the November general election in the race for California Governor. Becerra previously served as California's Attorney General and L.A. based congressman.\n\nBallots in California are still being counted so it is still not clear who Becerra will run against. He will either face off against Trump backed Republican Steve Hilton or fellow Democratic candidate Tom Steyer. The eventual winner will succeed term limited, Democratic Governor Gavin Newsom.\n\nDemocratic Senate candidate Graham Platner, let's talk about him. He may be a favorite to win Tuesday's primary in Maine, but he is also quickly losing voters enthusiasm.\n\nPlatner is a Marine vet, an oyster farmer and the frontrunner to take on Susan Collins in the November election. But a barrage of scandals, from a covered up Nazi link tattoo to toxic relationship allegations has voters ready to cast their ballots while holding their noses. CNN's Danny Freeman talked to voters in Maine about how they feel about voting for Platner.\n\nBONNIE DEPP, MAINE DEMOCRAT: Either get it all out there or shut up. One of the two.\n\nDANNY FREEMAN, CNN CORRESPONDENT (voice-over): Many Maine Democratic voters we spoke with, they said they're frustrated with Democratic Senate candidate Graham Platner, who they feel could give them their best shot at defeating longtime Republican Senator Susan Collins and help pave the way for Democrats to retake control of the Senate.\n\nFREEMAN: Are you considering holding your breath and voting for him?\n\nDEPP: I got until Tuesday to decide, but I'm pretty sure I'll vote for him. I don't think a lot of this crime is anybody else's business.\n\nFREEMAN (voice-over): For some Democrats, they're willing to look past the interpersonal stories.\n\nZOO CAIN, MAINE DEMOCRAT: I'm not really interested in the guy's foibles, you know, I'm interested in his vision and what he has to say. And I love what he has to say. So yes, it's been definitely difficult because everybody is piling on this guy.\n\nFREEMAN (voice-over): But others did not buy Platner's tattoo explanation.\n\nSANDRA BRADEN, MAINE DEMOCRAT: He's an intelligent man. Of course he knew about it. I don't blame him for denying it.\n\nFREEMAN: But that's still not enough not to vote for him. You're still going to vote for him likely?\n\nBRADEN: I'm going to vote for him, yes. But I don't like it. I'm not in favor of all that.\n\nFREEMAN (voice-over): Still for some, the drip, drip has left voters confused.\n\nWOODY HAYWOOD, MAINE DEMOCRAT: I don't know if it's misinformation or disinformation. Right? Like I don't know, do we -- do any of us really know what's going to be or what kind of character he has? Don't know, unproven. Unproven. So is it the devil that we have or the devil, the devil we know or the devil that we don't know yet?\n\nFREEMAN (voice-over): According to a pair of recent polls conducted before the latest allegations, a head to head matchup between Platner and Senator Collins appears competitive. One with no clear leader and the other showing Platner with an advantage. While Platner is the clear favorite to win the Democratic nomination on Tuesday, another high profile candidate's name is still on the ballot. Governor Janet Mills suspended her campaign back in April, but a source now tells CNN she's been getting encouragement to reenter the primary.\n\nBeth Dindas, a Mills supporter from the start, thinks it's likely too late.\n\nBETH DINDAS, MAINE DEMOCRAT: I think that ultimately, unfortunately, we're going to lose this race again and we're going to have six more years of Susan Collins, who has let down the people of Maine time after time.\n\nFREEMAN: Now, Victor, on Friday night, Platner had a rally in Bar Harbor, Maine, and he was defiant, saying we are in the of our lives and adding, when politically motivated, serious and false accusations are made against me, Maine, you have my back. We'll see what voters say on Tuesday. Victor.\n\nBLACKWELL: Indeed we will. Danny Freeman reporting. Thank you very much. Peace talks between the U.S. and Iran have reached a critical stage. A top official in Iran tells CNN a potential deal hinges on the Trump administration agreeing to end its naval blockade and releasing $24 billion in frozen Iranian assets.\n\nGEN. MOHSEN REZAEI, SENIOR MILITARY ADVISER TO IRAN'S SUPREME LEADER (through translator): If the war continues and the naval blockade is not lifted, we will drag the war to the Indian Ocean, the Bab El Mandeb Strait, the Red Sea and the Mediterranean. (END VIDEO CLIP)\n\nOvernight, the U.S. military struck several coastal sites in Iran. It also intercepted a wave of missiles and drones launched by Iran toward the Strait of Hormuz as well as toward Kuwait and Bahrain that's threatening an already fragile ceasefire. Israeli forces also ramped up attacks against Hezbollah targets in Lebanon. It killed more than 20 people.\n\nCNN's Barbie Nadeau is tracking the latest developments. She joins us now live from Rome. Barbie?\n\nBARBIE NADEAU, CNN CORRESPONDENT: Yes, you know, Victor, there's a lot of talk about peace, but when you see this sort of escalation of military activity over the last couple of days, it's really hard to understand what that is starting to look like. We've had 20 people killed in Lebanon. We heard the president of Lebanon tell CNN's Christiane Amanpour that he felt Lebanon was being used as a bargaining chip. We hear Iran saying that's not true. There's just a lot of back and forth.\n\nAnd as you say, these interceptions of drones and missiles and attacks towards Kuwait and Bahrain, sending people to take shelters, very unsettling. But we did hear from President Donald Trump. Let's listen for a second, hear what he had to say about these peace talks.\n\nTRUMP: We're at a point we're going to come out of Iran very quickly and it's going to be very strong one way or the other, whether it's a piece of paper or the very tough way. OK. The very tough way is maybe the easier way.\n\nNADEAU: And you know, Victor, one way or another, the tough way, the piece of paper, that's very unsettling for people in the region there, you know, and for the global economy as it stands. So it's a lot of waiting, wishing, wondering and trying to interpret what messages really mean. Victor.\n\nBLACKWELL: Barbara Nadeau reporting for us. Thank you, Barbie.\n\nHappening now, we are following Pope Leo as he kicks off a six-day tour of Spain. How he's confronting one of the church's biggest controversies along the way.\n\nPlus, father in Virginia is sentenced in that double murder plot involving his family's au pair. We have details for you that ahead.\n\nAnd President Trump is facing backlash over his pick to lead the intelligence community. Why the president is waving off questions about Bill Pulte's qualifications.\n\nBLACKWELL: All right. Here are some of the headlines we're watching this morning. Pope Leo is kicking off a visit to Spain with political polarization and migration front and center. Pope Leo is set to visit migrant centers and address Spain's parliament. Investigate -- immigration rather has become a key priority for his papacy. And he's been outspoken about how migrants are treated.\n\nThis six-day trip also includes a major stop in Barcelona to visit Sagrada Familia Basilica. It is also expected that he will meet with sexual abuse survivors.\n\nThe search is intensifying in the Bahamas in that mysterious disappearance of an American sailor. The U.S. Coast Guard has now taken custody of the dinghy where Lynette Hooker was last seen. Her husband, Brian Hooker, told investigators that she fell overboard on April 8. Officials opened a criminal investigation three days later after raising questions about that account.\n\nCadaver dogs, divers, specialized equipment, they were brought in earlier this week as search teams look for any remains. So far, no suspects have been publicly identified. Her husband has repeatedly denied any wrongdoing.\n\nIn California, a jury has awarded millions to the family of two young boys killed in a hit and run. It happened back in 2020. Prosecutors say the boys were hit in a crosswalk. Their parents and younger brother were awarded $176 million after the jury found socialite Rebecca Grossman and former major league pitcher Scott Erickson negligent. Grossman was driving the car and was already convicted in a criminal case. She's serving 15 years to life.\n\nIn Virginia, a man convicted in a double murder plot has been sentenced to life in prison. In February, a jury convicted Brendan Banfield of killing his wife and another man. This was a case that centered on an affair with the family's au pair. You might remember it. The family members faced him in court yesterday and delivered emotional statements before the sentence. CNN's Sherrell Hubbard has more.\n\nUNIDENTIFIED MALE: Sir, is there anything you wish to say?\n\nSHERRELL HUBBARD, CNN CORRESPONDENT (voice-over): Convicted murderer Brendan Banfield, a former IRS agent still attempting to maintain his innocence before being sentenced to life in prison without parole Friday.\n\nBRENDAN BANFIELD, SENTENCED TO LIFE IN PRISON: I loved her very much, despite what you may think of my affairs.\n\nHUBBARD (voice-over): The judge in the case said she had no qualms about handing down the sentence. JUDGE PENNEY AZCARATE, CIRCUIT COURT IN FAIRFAX COUNTY: The level of cruelty calculation and inhumanity in this case reflects something far deeper than anger or impulse. It reflects evil.\n\nHUBBARD (voice-over): Prosecutors said Banfield hatched a plan to kill his wife, Christine Banfield, and another man, Joseph Ryan. They say he used a fetish website to lure Ryan to his house under the guise of having consensual sex with his wife. The plot was to frame Ryan, whom Banfield would allege attacked his wife, telling the jury he killed Ryan in an attempt to save his wife's life.\n\nDANIELLE HOCKER, CHRISTINE'S OLDER SISTER: I didn't truly know Brendan at all. I don't believe anyone did. Not family, not friends, and certainly not Christine.\n\nDEIRDRE FISHER, JOSEPH RYAN'S MOTHER: Joe wasn't just the disposable caricature. He had a name. My son was a kind human being.\n\nHUBBARD (voice-over): Over five days of the trial, Fairfax county prosecutors called more than 20 witnesses, including the au pair at the center of the case, who testified about the scheme to, quote, get rid of Christine Banfield. The au pair said Banfield wanted to be with her but did not want to pay for a divorce or share custody of the couple's daughter.\n\nUNIDENTIFIED MALE: He thought he could create the perfect crime. He thought he was smarter than everybody else. He wasn't.\n\nHUBBARD (voice-over): I'm Sherrell Hubbard reporting.\n\nBLACKWELL: All right, Sherrell, thank you. The au pair is serving a 10-year sentence. She pleaded guilty in October 2020 -- 2024 to involuntary manslaughter for fatally shooting Ryan and agreed to testify against her former lover in exchange for that plea deal.\n\nStill ahead, the Justice Department has officially killed plans for President Trump's so called anti-weaponization fund. But is there a chance that it could come back?\n\nBLACKWELL: President Trump says he's interviewing five candidates for the job of Director of National Intelligence. Trump made these remarks yesterday aboard Air Force One. Now, this is after the firestorm over his decision to install Bill Pulte, his Federal Housing Finance Agency director, in that position. And Trump, of course, clarified that his appointment is only temporary.\n\nAnd he does plan to name another permanent replacement. Pulte has no known intelligence experience. He also did not have a security clearance before Trump chose him.\n\nLet's talk about this now with Errol Louis, political anchor for Spectrum News. He's also the host of the Big Deal with Errol Lewis. Errol, good morning to you.\n\nSo let's start here. The President probably knew that Bill Pulte didn't have the security clearance, but he knew that he was loyal. Right? And that is what is most important to the President.\n\nLet me play here what the President said about his choice.\n\nTRUMP: I don't think he'd want to be permanent, but he's a very smart guy, and he may find out some things about the rigged elections, et cetera, et cetera. I think he'd like to do it.\n\nBLACKWELL: Trump also told the Wall Street Journal that he wants him to make the ODNI smaller and maybe consider getting rid of it. What do you make of the marching orders to Bill Pulte?\n\nERROL LOUIS, POLITICAL ANCHOR, SPECTRUM NEWS: Good morning, Victor. Well, it was kind of obvious what Bill Pulte is there to do or selected to do. This was the same person who provided a lot of the information for some of the baseless indictments of Donald Trump's enemies. These are indictments that grand juries rejected in one jurisdiction after another.\n\nBut it was based on information, in part, whenever you hear about these allegedly fraudulent mortgages that the president's enemies appear to or have been accused of taking out. Well, this was information from the housing agencies controlled by Bill Pulte.\n\nSo this was somebody who was already working hand in glove with the President to try and take out his enemies. And I think some of the alarm that you saw on Capitol Hill at the notion of this person getting intel -- control of the intelligence apparatus is that he's already shown that he's part of the retribution campaign that the President is waging.\n\nBLACKWELL: He's got 210 days max in that position, which, of course, if anybody's counting, takes us right through the November elections.\n\nLet's talk about Graham Platner, likely to be the Democratic nominee for Senate in Maine. The claims that he admits to and those that he denies. Do those complicate the races outside of Maine?\n\nLOUIS: I mean, you talk with Democrats about Graham Platner, they bring up Ken Paxton, the Republican nominee in Texas. Does this have residue that stains other races for Democrats across the country?\n\nLOUIS: Well, there's a resource question, if nothing else. Republicans have said they're going to spend $42 million to defend Susan Collins in Maine. Democrats have said that they're going to spend $24 million to try and prop up Graham Platner. Now, that number may change Depending on what else is learned about him.\n\nAnd if it starts to look like he's not viable, that might change. But that's $24 million that would not go to other candidates. So, yes, it all works together as far as brain space, you know, talking about scandals. Sure. It enables Republicans to say, well, we've got Ken Paxton, who's got a lot of problems. Well, you've got this guy, Graham Platner. And so everybody's got problems. And it kind of takes away certainly a talking point for Democrats.\n\nBLACKWELL: Let me ask you about the so called anti-weaponization fund. The Department of Justice has now told two federal courts that cases challenging that fund are moot because the administration has abandoned the program. Two points here. First, one of the cases is 35 former federal judges alleging that the President and the Department of Justice defrauded the court, that there was no real conflict and they colluded to create this fund.\n\nDoes that just go away? Because Todd Blanch says, never mind.\n\nLOUIS: Oh no. Oh no, no. The issue of whether or not there was a fraud on the court, whether or not there was a real case and controversy at the core of all of this, that's been reopened and there judges, I think the jurisdiction is in Florida where they're looking at that.\n\nOh no, by no means has that question gone away. Now the funding is there for the slush fund. And by the way, Victor, you have to point out there have already been a number of settlements. I mean, using existing programs, the Justice Department can funnel maybe not $2 billion, but quite a lot of money to two people that the administration or the President thinks are deserving of some, quote, anti-weaponization money.\n\nSo the issue has not gone away. The question of whether or not the fund should ever have been created has not gone away. And what Todd Blanche says about what they plan to do with it, frankly, never really had very much credibility. You really have to watch the numbers, not the statements from Todd Blanche.\n\nBLACKWELL: And there are some members of Congress, including Republicans, Senator Cassidy, Senator Tillis, who wanted to codify that this fund would never exist. Is it possible even if we hear from and read from the DOJ to courts, that it's a moot point because they've abandoned it, that it could be resurrected?\n\nLOUIS: Well, you know, it can be resurrected because the two gentlemen you just mentioned, Thom Tillis, Senator Cassidy, Senator Cornyn, these are all Republicans who are on their way out because they were not hand-in-glove, in lockstep with the President.\n\nAnd so, yes, they -- they're trying to sort of maybe show a glimmer of independence now, but it's too late and they don't have the votes. And the bill that just passed, in fact, did not outlaw it as they could have when they considered getting rid of this fund and making clear that it should not exist. And so, now the fund -- the fund will probably exist, it will be\n\nfunded. It's going to take real guardrails, you know, sort of talking about it, talking about breaking from the pack after you've been defeated, after you're on your way out and you're a lame duck, that's really not going to get it.\n\nBLACKWELL: One more here for a New Yorker. The President says that he's going to be at game three of the NBA finals at Madison Square Garden. Knicks up 2-0. NBA Commissioner Adam Silver said that the President will be the first sitting President to attend the NBA finals.\n\nHe also said that sports is something where we can emphasize, we -- what we have in common, not what pulls us apart. It creates a sense of belonging. I wonder, Errol, is that what you expect we'll see when the President's face is flashed up on the big board at MSG?\n\nLOUIS: No, I don't think so. This is much bigger than the President, to be honest with you -- the energy here. You spent many years living up here, Victor --\n\nLOUIS: You know how long we've been waiting, half a century, most of my adult life we've been waiting for this. So, no, I don't think so. In fact, you know, to be honest with you, positive or negative reaction when the President's face is flashed on the screen, that's just a sideshow. I mean, we got real business here. We've got -- we've got a really important third game to win.\n\nBLACKWELL: All right, we'll see if they can do it in four. They're up 2-0. Errol Louis, always good to have you on a Saturday morning, thanks so much.\n\nBLACKWELL: Wall Street closed for the week with most major indices in the red. And tech stocks accounted for much of the heavy losses. CNN's Richard Quest breaks down what led to the massive downturns in that space, and why A.I. could be responsible.\n\nRICHARD QUEST, CNN BUSINESS EDITOR-AT-LARGE (on camera): It was an unpleasant end to the stock market week with the Nasdaq, the S&P and the Dow all losing ground, and in some cases, the worst sessions for many months. But today's accident didn't just happen on a Friday.\n\nThe warning signs had been there for several days, particularly when Broadcom announced its results and the market gave it a thorough beating up. It simply wasn't good enough. And then, as the week continued, so the rot set in.\n\nBy the time you get to Friday, where we're seeing some impressive losses, Nvidia down 6.25 percent, Broadcom down another 7.9 percent, Intel off 11 percent. And the reason is the same. The market is coming to the realization that the sheer amount of money being plowed into A.I. by these companies simply will not bring the returns in the short to medium term.\n\nThey are worried that huge sums are being spent and the path to profitability, whilst certainly, the businesses are making money, can't justify those levels of investment. But here's the conundrum. Everybody knows that A.I. is the only game in town.\n\nTherefore, if you are one of those companies, you have no choice. You have to find the money and you have to keep spending, and yes, the market will exact its wrath. Richard Quest, CNN, New York.\n\nBLACKWELL: All right, Richard, thank you very much. And let's stay with this, this theme of A.I., because there's a new report that really paints a troubling picture as there are more data centers being built across the U.S. What we're learning about the economic and the environmental costs.\n\nAnd if you're heading out, take me with you, please. Remember, you can go straight to the CNN app and stream our show anywhere in the U.S. You can also go to cnn.com/watch.\n\nBLACKWELL: President Trump announced plans to host leaders from major A.I. companies in the White House, possibly as soon as next week. The President signed a new A.I. and cybersecurity executive order, asking tech companies to voluntarily submit new A.I. models to federal government for review before releasing them to the public.\n\nThis week, a new report by the United Nations University raised concerns about the real-world environmental impact of A.I. It found that A.I. data centers consume more electricity than most countries on average, and they also require massive amounts of water.\n\nProfessor Kay Ivey Mamdani is co-author of that study and its lead investigator, and he joins me now. Thank you so much for being with me. And I want to start with just some of the numbers that are astonishing from this report.\n\nLet's put them on the screen. Global data centers use 448 trillion- watt hours of electricity. That electricity used to produce about 208 million tons of carbon dioxide, and consumed about 1.2 trillion gallons of water, and you predict the water and energy usage will double by 2030. Talk to me about the environmental impact of just the extraordinary level of consumption.\n\nKAVEH MADANI, UNITED NATIONS UNIVERSITY: And let me tell you that this is only the tip of the iceberg, because those numbers are only related to the electricity consumption and the amount of water, we need for the electricity consumption and some other elements of the process.\n\nIt doesn't include the water that we pollute and use during the extraction of critical minerals that we need to produce the basic infrastructure and hardware for our A.I. operations. And then also, what we need to do at the end with its e-waste, and all those processes, we use water and energy.\n\nAnd there's nothing there that is dry and doesn't require water. Why is this important? Because most people around the world, most societies, still the dominant discourse around A.I. is thinking that A.I. is just a virtual thing, right? It's a -- it's a virtual product.\n\nIt's a digital technology, not associating it with all this massive infrastructure, the physics behind it, the major material supply chains behind A.I. And then that was the -- what we wanted to do. Not to say that A.I. is bad, not to say that governments should not be investing in A.I., but to remind them that we have to also worry about these impacts because we already know that the world is water bankrupt.\n\nWe don't have enough water in many regions of the world. We know that carbon emissions are high and adding more electricity demand to our needs, to our portfolio means that we have to -- we will compromise the decarbonization process and create a lot of problems.\n\nThat's why you see in many parts of the world, including the United States, now, people are having conflicts over the establishment of these data centers because farmers are worried or cities are worried, urban population, indigenous communities around the world are worried about these data centers coming to their place, and they are only bearing the cost, not taking advantage of the benefits.\n\nBLACKWELL: Yes, and there are some communities who are trying to keep these data centers out of their communities locally. More on this report. It explores the tens of billions of watt hours that it takes to train some of these A.I. models, massive amounts of energy.\n\nI want you to listen here to OpenAI CEO Sam Altman on what he says when it comes to training these models is an unfair comparison. Watch.\n\nSAM ALTMAN, CEO, OPENAI: One of the things that is always unfair in this comparison is people talk about how much energy it takes to train an A.I. model, relative to how much it costs a human to do one inference query.\n\nBut it also takes a lot of energy to train a human. It takes like 20 years of life, and all of the food you eat during that time before you get smart. And not only that, it took like the very widespread evolution of the 100 billion people that have ever lived and learned not to get eaten by predators and learned how to --\n\nUNIDENTIFIED MALE: Yes --\n\nALTMAN: Like, figure out science and whatever to produce you. And then you took whatever you know, you took. So, the fair comparison is, if you ask ChatGPT a question, how much energy does it take once its model is trained to answer that question versus a human, and probably A.I. has already caught up on an energy efficiency basis measured that way.\n\nBLACKWELL: Do you agree with that? You think it's -- his framework is fair?\n\nMADANI: His framework is reflective of part of the problem. His narrative is correct, but not necessarily complete. Actually, it is true that, and the -- it is not enough to only focus on training. Training uses a lot of energy that "
+    }
+  ]
+}

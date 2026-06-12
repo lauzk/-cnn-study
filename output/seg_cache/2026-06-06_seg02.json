@@ -1,0 +1,624 @@
+{
+  "date": "2026-06-06",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-06/segment/02",
+  "vocabulary": [
+    {
+      "word": "intercept",
+      "phonetic": "/ˌɪntərˈsept/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "拦截",
+      "en": "to stop, catch, or seize something or someone before they reach their destination",
+      "excerpt": "The U.S. says it has intercepted new Iranian attacks in the Strait of Hormuz.",
+      "example_cn": "美国称已在霍尔木兹海峡拦截了伊朗的新攻击。"
+    },
+    {
+      "word": "stalemate",
+      "phonetic": "/ˈsteɪlmeɪt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "僵局",
+      "en": "a situation in which neither side in a conflict can make progress",
+      "excerpt": "Peace talks are at a stalemate between the two countries.",
+      "example_cn": "两国之间的和平谈判陷入僵局。"
+    },
+    {
+      "word": "blockade",
+      "phonetic": "/blɑːˈkeɪd/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "封锁",
+      "en": "an act of sealing off a place to prevent goods or people from entering or leaving",
+      "excerpt": "The Trump administration must agree to end its naval blockade.",
+      "example_cn": "特朗普政府必须同意结束其海军封锁。"
+    },
+    {
+      "word": "frozen assets",
+      "phonetic": "/ˈfroʊzən ˈæsets/",
+      "pos": "n. pl.",
+      "level": "考研",
+      "cn": "冻结资产",
+      "en": "assets that are legally prevented from being moved or sold",
+      "excerpt": "Release $24 billion in frozen Iranian assets to end this war.",
+      "example_cn": "释放240亿美元的冻结伊朗资产以结束这场战争。"
+    },
+    {
+      "word": "ramp up",
+      "phonetic": "/ræmp ʌp/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "增加，加强",
+      "en": "to increase in amount or intensity",
+      "excerpt": "Israeli forces also ramped up attacks against Hezbollah targets in Lebanon.",
+      "example_cn": "以色列军队也加强了对黎巴嫩真主党目标的攻击。"
+    },
+    {
+      "word": "fragile ceasefire",
+      "phonetic": "/ˈfrædʒəl ˈsiːsfaɪər/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "脆弱的停火",
+      "en": "a ceasefire that is unstable and could easily break down",
+      "excerpt": "Threatening to unravel a very fragile ceasefire.",
+      "example_cn": "威胁要破坏一个非常脆弱的停火。"
+    },
+    {
+      "word": "surveillance",
+      "phonetic": "/sɜːrˈveɪləns/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "监视",
+      "en": "close observation, especially of a suspected person or group",
+      "excerpt": "Carried out strikes on two surveillance radar sites on Iran's coast.",
+      "example_cn": "对伊朗海岸的两个监视雷达站进行了打击。"
+    },
+    {
+      "word": "ballistic missile",
+      "phonetic": "/bəˈlɪstɪk ˈmɪsəl/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "弹道导弹",
+      "en": "a missile that follows a ballistic trajectory",
+      "excerpt": "Iran then launched seven ballistic missiles.",
+      "example_cn": "伊朗随后发射了七枚弹道导弹。"
+    },
+    {
+      "word": "deadlocked",
+      "phonetic": "/ˈdedlɑːkt/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "陷入僵局的",
+      "en": "unable to reach an agreement because of opposing views",
+      "excerpt": "An adviser to Iran's supreme leader says the talks are deadlocked.",
+      "example_cn": "伊朗最高领袖的一名顾问表示谈判陷入僵局。"
+    },
+    {
+      "word": "midterm elections",
+      "phonetic": "/ˈmɪdtɜːrm ɪˈlekʃənz/",
+      "pos": "n. pl.",
+      "level": "考研",
+      "cn": "中期选举",
+      "en": "elections held in the middle of a president's term",
+      "excerpt": "President Trump was back on the campaign trail yesterday for the upcoming midterm elections.",
+      "example_cn": "特朗普总统昨天回到竞选活动中，为即将到来的中期选举造势。"
+    },
+    {
+      "word": "rally",
+      "phonetic": "/ˈræli/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "集会",
+      "en": "a large public meeting, especially one held to support a particular cause or person",
+      "excerpt": "The president visited Chippewa Falls, Wisconsin, for a rally branded as Fighting for American Farmers.",
+      "example_cn": "总统访问了威斯康星州奇珀瓦福尔斯，参加一场名为“为美国农民而战”的集会。"
+    },
+    {
+      "word": "ballot",
+      "phonetic": "/ˈbælət/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "选票",
+      "en": "a piece of paper used to cast a vote in an election",
+      "excerpt": "Ballots in California are still being counted.",
+      "example_cn": "加利福尼亚州的选票仍在统计中。"
+    },
+    {
+      "word": "mail-in ballot",
+      "phonetic": "/meɪl ɪn ˈbælət/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "邮寄选票",
+      "en": "a ballot that is sent by mail to be counted",
+      "excerpt": "It's largely due to the time it takes to count the mail-in ballots.",
+      "example_cn": "这主要是由于统计邮寄选票所需的时间。"
+    },
+    {
+      "word": "dispatch",
+      "phonetic": "/dɪˈspætʃ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "派遣",
+      "en": "to send someone or something to a particular place for a particular purpose",
+      "excerpt": "The Justice Department has now sent one of its attorneys to observe ballot processing in Los Angeles.",
+      "example_cn": "司法部现已派遣一名律师前往洛杉矶观察选票处理过程。"
+    },
+    {
+      "word": "fraud",
+      "phonetic": "/frɔːd/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "欺诈",
+      "en": "wrongful or criminal deception intended to result in financial or personal gain",
+      "excerpt": "President Trump has made false claims of election fraud there.",
+      "example_cn": "特朗普总统在那里提出了关于选举欺诈的虚假指控。"
+    },
+    {
+      "word": "prosecutor",
+      "phonetic": "/ˈprɑːsɪkjuːtər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "检察官",
+      "en": "a person who conducts a case against a defendant in a court of law",
+      "excerpt": "The top federal prosecutor there was investigating the vote counting.",
+      "example_cn": "那里的最高联邦检察官正在调查计票情况。"
+    },
+    {
+      "word": "drone strike",
+      "phonetic": "/droʊn straɪk/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "无人机袭击",
+      "en": "an attack carried out by an unmanned aerial vehicle",
+      "excerpt": "Ukraine has launched a major drone strike on Saint Petersburg.",
+      "example_cn": "乌克兰对圣彼得堡发动了一次大规模无人机袭击。"
+    },
+    {
+      "word": "outbreak",
+      "phonetic": "/ˈaʊtbreɪk/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "爆发",
+      "en": "the sudden occurrence of something unwelcome, such as a disease",
+      "excerpt": "The CDC says the current Ebola outbreak in the Democratic Republic of Congo could become the largest on record.",
+      "example_cn": "美国疾病控制与预防中心表示，刚果民主共和国当前的埃博拉疫情可能成为有记录以来最大的一次。"
+    },
+    {
+      "word": "take shelter",
+      "phonetic": "/teɪk ˈʃeltər/",
+      "pos": "phr.",
+      "level": "考研",
+      "cn": "躲避，寻求庇护",
+      "en": "to find a place of safety from danger or bad weather",
+      "excerpt": "Five astronauts on the International Space Station were told to take shelter on Friday.",
+      "example_cn": "周五，国际空间站上的五名宇航员被告知要躲避。"
+    },
+    {
+      "word": "polarization",
+      "phonetic": "/ˌpoʊləraɪˈzeɪʃən/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "两极分化",
+      "en": "division into two sharply contrasting groups or sets of opinions",
+      "excerpt": "Pope Leo is kicking off a visit to Spain with political polarization and migration front and center.",
+      "example_cn": "教皇利奥开始对西班牙进行访问，政治两极分化和移民问题成为焦点。"
+    },
+    {
+      "word": "migration",
+      "phonetic": "/maɪˈɡreɪʃən/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "移民，迁徙",
+      "en": "the movement of people from one place to another, especially to find work or better living conditions",
+      "excerpt": "We're expected to see a strong focus on migration.",
+      "example_cn": "预计我们将看到对移民问题的高度关注。"
+    },
+    {
+      "word": "secularized",
+      "phonetic": "/ˈsekjələraɪzd/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "世俗化的",
+      "en": "made secular; separated from religious or spiritual influence",
+      "excerpt": "It's a secularized country here, but there are strong catholic roots.",
+      "example_cn": "这是一个世俗化的国家，但有深厚的天主教根基。"
+    },
+    {
+      "word": "impasse",
+      "phonetic": "/ˈɪmpæs/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "僵局",
+      "en": "a situation in which no progress is possible",
+      "excerpt": "Peace talks are at an impasse.",
+      "example_cn": "和平谈判陷入僵局。"
+    },
+    {
+      "word": "escalate",
+      "phonetic": "/ˈeskəleɪt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "升级",
+      "en": "to increase in intensity or extent",
+      "excerpt": "The violence is escalating in the war with Iran.",
+      "example_cn": "与伊朗的战争暴力正在升级。"
+    },
+    {
+      "word": "hubristic",
+      "phonetic": "/hjuːˈbrɪstɪk/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "傲慢的",
+      "en": "having excessive pride or self-confidence",
+      "excerpt": "Yes, the regime is hubristic and proud.",
+      "example_cn": "是的，该政权傲慢而自负。"
+    },
+    {
+      "word": "ideological",
+      "phonetic": "/ˌaɪdiəˈlɑːdʒɪkəl/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "意识形态的",
+      "en": "based on or relating to a system of ideas and ideals",
+      "excerpt": "But more importantly, it's ideological.",
+      "example_cn": "但更重要的是，它是意识形态的。"
+    },
+    {
+      "word": "gray zone",
+      "phonetic": "/ɡreɪ zoʊn/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "灰色地带",
+      "en": "an area of activity that is not clearly defined or regulated",
+      "excerpt": "The Iranian strategy here by exploiting the gray zone.",
+      "example_cn": "伊朗在此的策略是利用灰色地带。"
+    },
+    {
+      "word": "chokepoint",
+      "phonetic": "/ˈtʃoʊkpɔɪnt/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "咽喉要道",
+      "en": "a point of congestion or blockage, especially in a transportation or communication system",
+      "excerpt": "The ability to go after a strategic chokepoint in the Red Sea.",
+      "example_cn": "攻击红海战略咽喉要道的能力。"
+    },
+    {
+      "word": "bankruptcy",
+      "phonetic": "/ˈbæŋkrʌptsi/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "破产",
+      "en": "the state of being legally declared unable to pay debts",
+      "excerpt": "They are facing bankruptcy.",
+      "example_cn": "他们正面临破产。"
+    },
+    {
+      "word": "bargaining chip",
+      "phonetic": "/ˈbɑːrɡənɪŋ tʃɪp/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "谈判筹码",
+      "en": "something that can be used to gain an advantage in negotiations",
+      "excerpt": "They are using Lebanon as a bargaining chip in their negotiation with the United States.",
+      "example_cn": "他们正在利用黎巴嫩作为与美国谈判的筹码。"
+    },
+    {
+      "word": "proxy",
+      "phonetic": "/ˈprɑːksi/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "代理人，代理",
+      "en": "a person or thing acting on behalf of another",
+      "excerpt": "Hezbollah, which is their most powerful proxy.",
+      "example_cn": "真主党是他们最强大的代理人。"
+    },
+    {
+      "word": "clobbered",
+      "phonetic": "/ˈklɑːbərd/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "痛击，重创",
+      "en": "to hit or defeat severely",
+      "excerpt": "Its most powerful proxy in Lebanon got clobbered by Israel.",
+      "example_cn": "其在黎巴嫩最强大的代理人被以色列重创。"
+    },
+    {
+      "word": "vanished",
+      "phonetic": "/ˈvænɪʃt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "消失",
+      "en": "disappeared suddenly and completely",
+      "excerpt": "A 20-year-old college student from Alabama, who vanished during a family vacation.",
+      "example_cn": "一名来自阿拉巴马州的20岁大学生，在一次家庭度假中消失。"
+    },
+    {
+      "word": "avid hiker",
+      "phonetic": "/ˈævɪd ˈhaɪkər/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "热衷徒步者",
+      "en": "a person who enjoys hiking very much",
+      "excerpt": "He is known as an avid hiker.",
+      "example_cn": "他以热衷徒步而闻名。"
+    },
+    {
+      "word": "K-9 unit",
+      "phonetic": "/keɪ naɪn ˈjuːnɪt/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "警犬队",
+      "en": "a police unit that uses dogs for search and rescue or detection",
+      "excerpt": "Police are relying on K-9 units to sniff out any trace of Weston.",
+      "example_cn": "警方依靠警犬队来嗅探韦斯顿的任何踪迹。"
+    },
+    {
+      "word": "panic set in",
+      "phonetic": "/ˈpænɪk set ɪn/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "恐慌开始",
+      "en": "a feeling of panic began to affect someone",
+      "excerpt": "When he seemingly turned off his phone location, panic set in.",
+      "example_cn": "当他似乎关闭了手机定位时，恐慌开始了。"
+    },
+    {
+      "word": "appeal",
+      "phonetic": "/əˈpiːl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "呼吁",
+      "en": "a serious or urgent request",
+      "excerpt": "Nancy has posted daily appeals on social media.",
+      "example_cn": "南希每天都在社交媒体上发布呼吁。"
+    },
+    {
+      "word": "flyer",
+      "phonetic": "/ˈflaɪər/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "传单",
+      "en": "a small handbill or leaflet advertising something",
+      "excerpt": "Sharing Weston's photo and distributing flyers to help find him.",
+      "example_cn": "分享韦斯顿的照片并分发传单以帮助找到他。"
+    },
+    {
+      "word": "severe weather",
+      "phonetic": "/sɪˈvɪr ˈweðər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "恶劣天气",
+      "en": "dangerous weather conditions such as storms, hurricanes, etc.",
+      "excerpt": "Millions of people could see some strong storms today.",
+      "example_cn": "今天数百万人可能会遭遇强风暴。"
+    },
+    {
+      "word": "cold front",
+      "phonetic": "/koʊld frʌnt/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "冷锋",
+      "en": "the boundary between a mass of cold air and a mass of warmer air",
+      "excerpt": "That will be the trigger point, along with heat to fire up more storms later on today.",
+      "example_cn": "那将是触发点，加上热量，今天晚些时候会引发更多风暴。"
+    },
+    {
+      "word": "backlash",
+      "phonetic": "/ˈbæklæʃ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "强烈反对",
+      "en": "a strong negative reaction to a recent event or decision",
+      "excerpt": "President Trump is facing backlash over his pick to lead the intelligence community.",
+      "example_cn": "特朗普总统因选择领导情报界的人选而面临强烈反对。"
+    },
+    {
+      "word": "acting director",
+      "phonetic": "/ˈæktɪŋ dɪˈrektər/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "代理主任",
+      "en": "a person who temporarily performs the duties of a director",
+      "excerpt": "Pulte will only serve as acting director of National Intelligence.",
+      "example_cn": "普尔特将仅担任国家情报代理主任。"
+    },
+    {
+      "word": "hatchet man",
+      "phonetic": "/ˈhætʃɪt mæn/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "打手，执行不受欢迎任务的人",
+      "en": "a person employed to carry out unpleasant or aggressive tasks",
+      "excerpt": "Essentially, going to be the hatchet man.",
+      "example_cn": "本质上，将成为执行不受欢迎任务的人。"
+    },
+    {
+      "word": "terminate",
+      "phonetic": "/ˈtɜːrmɪneɪt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "终止",
+      "en": "to bring to an end",
+      "excerpt": "This should maybe even be terminated.",
+      "example_cn": "这甚至可能应该被终止。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "A top Iranian official tells CNN the Trump administration must agree to end its naval blockade and also release $24 billion in frozen Iranian assets to end this war.",
+      "cn": "一名伊朗高级官员告诉CNN，特朗普政府必须同意结束其海军封锁，并释放240亿美元的冻结伊朗资产，以结束这场战争。",
+      "structure": "主句（A top Iranian official tells CNN）+ 宾语从句（the Trump administration must agree to end its naval blockade and also release $24 billion in frozen Iranian assets to end this war）",
+      "analysis": "主句为简单主谓宾结构，宾语从句中并列两个动词短语（agree to end... and release...），不定式to end this war表示目的。"
+    },
+    {
+      "en": "Overnight, the U.S. military struck several coastal sites in Iran, and the Iranians launched waves of missiles and drones toward the Strait of Hormuz, toward Kuwait, Bahrain, threatening to unravel a very fragile ceasefire.",
+      "cn": "一夜之间，美军打击了伊朗的多个沿海地点，伊朗人向霍尔木兹海峡、科威特、巴林发射了多波导弹和无人机，威胁要破坏一个非常脆弱的停火。",
+      "structure": "并列句（the U.S. military struck... and the Iranians launched...）+ 现在分词短语（threatening to unravel...）作结果状语",
+      "analysis": "两个并列句由and连接，现在分词短语threatening...表示伴随结果，unravel意为“破坏”。"
+    },
+    {
+      "en": "U.S. Central Command, which governs military operations in the Middle East and in the Gulf, says they intercepted four one-way attack drones and then carried out strikes on two surveillance radar sites on Iran's coast that they say will ensure the safety and maritime security in the region there.",
+      "cn": "美国中央司令部负责中东和海湾地区的军事行动，称他们拦截了四架单向攻击无人机，然后对伊朗海岸的两个监视雷达站进行了打击，他们称这将确保该地区的安全和海上安全。",
+      "structure": "主句（U.S. Central Command says）+ 宾语从句（they intercepted... and then carried out...）+ 定语从句（that they say will ensure...）修饰sites",
+      "analysis": "主句主语后跟非限制性定语从句which governs...，宾语从句中并列两个谓语动词，定语从句中they say为插入语。"
+    },
+    {
+      "en": "Now, President Donald Trump has said that the ceasefire negotiations and the talks were moving very fast, but it doesn't appear that anything is moving fast here.",
+      "cn": "现在，唐纳德·特朗普总统表示停火谈判进展非常迅速，但似乎这里没有任何事情进展迅速。",
+      "structure": "并列句（President Donald Trump has said that... but it doesn't appear that...）",
+      "analysis": "第一个分句包含that引导的宾语从句，第二个分句包含that引导的主语从句（it为形式主语）。"
+    },
+    {
+      "en": "An adviser to Iran's supreme leader says the talks are deadlocked, and Iran continues to operate and negotiate from what they see as a position of strength.",
+      "cn": "伊朗最高领袖的一名顾问表示谈判陷入僵局，伊朗继续从他们认为的强势地位运作和谈判。",
+      "structure": "并列句（An adviser says... and Iran continues to...）+ 介词from后接宾语从句（what they see as a position of strength）",
+      "analysis": "第一个分句为简单主谓宾，第二个分句中from后接what引导的宾语从句，as a position of strength为宾语补足语。"
+    },
+    {
+      "en": "The president visited Chippewa Falls, Wisconsin, for a rally branded as Fighting for American Farmers, but in his remarks, the president seemed more focused on fountains and reflecting pools back in D.C.",
+      "cn": "总统访问了威斯康星州奇珀瓦福尔斯，参加一场名为“为美国农民而战”的集会，但在他的讲话中，总统似乎更关注华盛顿特区的喷泉和倒影池。",
+      "structure": "并列句（The president visited... but the president seemed...）",
+      "analysis": "第一个分句中branded as...为过去分词短语作定语修饰rally，第二个分句中more focused on...为形容词短语作表语。"
+    },
+    {
+      "en": "The Justice Department has now sent one of its attorneys to observe ballot processing in Los Angeles, and President Trump has made false claims of election fraud there.",
+      "cn": "司法部现已派遣一名律师前往洛杉矶观察选票处理过程，特朗普总统在那里提出了关于选举欺诈的虚假指控。",
+      "structure": "并列句（The Justice Department has sent... and President Trump has made...）",
+      "analysis": "两个并列句由and连接，第一个分句中不定式to observe...表示目的。"
+    },
+    {
+      "en": "County officials have defended their processes, writing on social media on Thursday that the dedicated staff is working to ensure that every vote is accurately processed and verified for counting.",
+      "cn": "县官员为其流程辩护，周四在社交媒体上写道，敬业的工作人员正在努力确保每张选票都得到准确处理和验证以进行计数。",
+      "structure": "主句（County officials have defended their processes）+ 现在分词短语（writing...）作伴随状语，内含that引导的宾语从句，宾语从句中又包含ensure后that引导的宾语从句",
+      "analysis": "现在分词短语writing...中，that引导的宾语从句作writing的宾语，该从句中ensure后接that引导的宾语从句。"
+    },
+    {
+      "en": "Ukraine has launched a major drone strike on Saint Petersburg as Russia hosts President Vladimir Putin's signature economic forum, which has drawn thousands of attendees from around the world.",
+      "cn": "乌克兰对圣彼得堡发动了一次大规模无人机袭击，而俄罗斯正在举办总统弗拉基米尔·普京的标志性经济论坛，该论坛吸引了来自世界各地的数千名与会者。",
+      "structure": "主句（Ukraine has launched...）+ as引导的时间状语从句（as Russia hosts...）+ 非限制性定语从句（which has drawn...）修饰forum",
+      "analysis": "主句为现在完成时，as从句表示同时发生，which从句补充说明论坛的影响。"
+    },
+    {
+      "en": "The CDC says the current Ebola outbreak in the Democratic Republic of Congo could become the largest on record, and researchers say without rapid public health action, the outbreak could surpass past epidemics.",
+      "cn": "美国疾病控制与预防中心表示，刚果民主共和国当前的埃博拉疫情可能成为有记录以来最大的一次，研究人员表示，如果不采取迅速的公共卫生行动，疫情可能超过以往的流行病。",
+      "structure": "并列句（The CDC says... and researchers say...）",
+      "analysis": "两个分句均为say后接宾语从句，第二个分句中without rapid public health action为条件状语。"
+    },
+    {
+      "en": "Five astronauts on the International Space Station were told to take shelter on Friday after a leak was found in the Russian-controlled side of the orbiting lab.",
+      "cn": "周五，国际空间站上的五名宇航员被告知要躲避，因为在轨道实验室的俄罗斯控制侧发现了一个泄漏。",
+      "structure": "主句（Five astronauts were told to take shelter）+ after引导的时间状语从句（after a leak was found...）",
+      "analysis": "主句为被动语态，不定式to take shelter作主语补足语，after从句为被动语态。"
+    },
+    {
+      "en": "Pope Leo is in Madrid this morning, the first stop on his six-day tour of Spain, and we'll talk about how he's using the trip to address one of the church's biggest controversies.",
+      "cn": "教皇利奥今早在马德里，这是他为期六天的西班牙之行的第一站，我们将讨论他如何利用这次旅行来解决教会最大的争议之一。",
+      "structure": "并列句（Pope Leo is in Madrid... and we'll talk about...）+ 宾语从句（how he's using the trip to address...）",
+      "analysis": "第一个分句中the first stop...为同位语，第二个分句中how引导宾语从句，不定式to address表示目的。"
+    },
+    {
+      "en": "He's also here to try and encourage the catholic church in Spain, which, you know, it's a secularized country here, but there are strong catholic roots.",
+      "cn": "他来这里也是为了尝试鼓励西班牙的天主教会，你知道，这是一个世俗化的国家，但有深厚的天主教根基。",
+      "structure": "主句（He's also here to try and encourage...）+ 非限制性定语从句（which... it's a secularized country...）",
+      "analysis": "主句中不定式to try and encourage表示目的，定语从句中which指代Spain，you know为插入语，从句由but连接的两个并列分句组成。"
+    },
+    {
+      "en": "He also pointed out, though, that his trip to Madrid coincides with a concert by the musician Bad Bunny, and he said that many young people will probably go to see Bad Bunny rather than see the pope.",
+      "cn": "不过，他也指出，他的马德里之行恰逢音乐家坏兔子的音乐会，他说许多年轻人可能会去看坏兔子而不是看教皇。",
+      "structure": "主句（He also pointed out that... and he said that...）",
+      "analysis": "两个that引导的宾语从句并列，第一个从句中coincides with意为“与...同时发生”，第二个从句中rather than表示对比。"
+    },
+    {
+      "en": "Iran's military launched a wave of missile and drone strikes overnight, targeted the Strait of Hormuz, Kuwait, Bahrain, and the U.S. countered with strikes on several targets along Iran's coastline.",
+      "cn": "伊朗军方一夜之间发动了一波导弹和无人机袭击，目标是霍尔木兹海峡、科威特、巴林，美国则对伊朗海岸线上的多个目标进行了打击作为回应。",
+      "structure": "并列句（Iran's military launched... and the U.S. countered...）",
+      "analysis": "第一个分句中targeted为过去分词作伴随状语，第二个分句中with strikes...表示方式。"
+    },
+    {
+      "en": "The Iranian strategy here by exploiting the gray zone, by continuing low intensity fighting during the ceasefire, and also saying yes, no, and maybe to talks all at the same time, is designed to put America to the choice and see what we'll want versus what we will settle for.",
+      "cn": "伊朗在此的策略是利用灰色地带，在停火期间继续低强度战斗，同时对话谈说“是”、“不”和“也许”，旨在让美国做出选择，看看我们想要什么与我们愿意接受什么。",
+      "structure": "主句（The Iranian strategy... is designed to put America to the choice and see...）+ 方式状语（by exploiting..., by continuing..., and also saying...）",
+      "analysis": "主语strategy后跟三个并列的by短语作方式状语，谓语is designed to后接两个并列不定式，see后接两个what引导的宾语从句。"
+    },
+    {
+      "en": "The Islamic Republic of Iran's entire military strategy is basically reliant on working by, with, and through downtrodden and dispossessed persons in the heartland of the Arab and Muslim world to continue its fighting for it.",
+      "cn": "伊朗伊斯兰共和国的整个军事战略基本上依赖于通过、与、以及利用阿拉伯和穆斯林世界腹地受压迫和被剥夺的人来继续为其战斗。",
+      "structure": "主句（The entire military strategy is reliant on working...）+ 不定式短语（to continue its fighting for it）作目的状语",
+      "analysis": "working后接三个并列介词by, with, and through，downtrodden and dispossessed persons为宾语，不定式表示目的。"
+    },
+    {
+      "en": "The question is, what kind of capacity does the Lebanese state have to push back, and what can and can't America and Israel do to help them?",
+      "cn": "问题是，黎巴嫩国家有什么能力进行反击，美国和以色列能做什么和不能做什么来帮助他们？",
+      "structure": "主句（The question is）+ 两个并列的疑问句（what kind of capacity... and what can and can't...）",
+      "analysis": "主句为系表结构，表语为两个并列的疑问句，第二个疑问句中can and can't为并列情态动词。"
+    },
+    {
+      "en": "Because look at what the Islamic Republic of Iran is doing: its most powerful proxy in Lebanon got clobbered by Israel, and yet still, as much as this regime needs cash, it is risking losing all of that just to stand by its partner and proxy, Hezbollah.",
+      "cn": "因为看看伊朗伊斯兰共和国在做什么：其在黎巴嫩最强大的代理人被以色列重创，然而，尽管该政权急需现金，它仍冒着失去所有这些的风险，只是为了支持其伙伴和代理人真主党。",
+      "structure": "祈使句（look at...）+ 冒号后解释说明（its most powerful proxy got clobbered... and yet still... it is risking...）",
+      "analysis": "look at后接what引导的宾语从句，冒号后为两个并列分句，第二个分句中as much as引导让步状语从句，不定式to stand by表示目的。"
+    },
+    {
+      "en": "The Higginbothams were vacationing in Kyoto, Japan, a major tourist destination in one of the world's safest countries, but after a small disagreement with his mom, they agreed to give each other some space.",
+      "cn": "希金博特姆一家正在日本京都度假，京都是世界上最安全的国家之一的主要旅游目的地，但在与母亲发生小争执后，他们同意给彼此一些空间。",
+      "structure": "并列句（The Higginbothams were vacationing... but they agreed to...）",
+      "analysis": "第一个分句中a major tourist destination...为同位语，第二个分句中after...为时间状语。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "Iran-U.S. Conflict and Ceasefire Negotiations",
+      "content": "The transcript covers the ongoing military conflict between Iran and the U.S., including missile and drone strikes, naval blockades, and ceasefire negotiations. Iran demands the release of frozen assets and an end to the blockade, while the U.S. conducts strikes on Iranian coastal sites. The situation is described as a fragile ceasefire with escalating violence.",
+      "keywords": "Iran, U.S., ceasefire, naval blockade, frozen assets, Strait of Hormuz, ballistic missiles, drone strikes"
+    },
+    {
+      "title": "U.S. Midterm Elections and Trump's Campaign",
+      "content": "President Trump is campaigning for the upcoming midterm elections, holding a rally in Wisconsin branded as 'Fighting for American Farmers.' The transcript highlights his remarks, including his reluctance to campaign and focus on D.C. fountains. The Justice Department sends an attorney to observe ballot counting in Los Angeles amid Trump's false claims of election fraud.",
+      "keywords": "midterm elections, Trump, rally, ballot counting, election fraud, Justice Department"
+    },
+    {
+      "title": "Pope Leo's Visit to Spain",
+      "content": "Pope Leo begins a six-day visit to Spain, focusing on migration and political polarization. He plans to visit migrant centers, address Spain's parliament, and meet with Prime Minister Pedro Sanchez. The visit is his first major European trip since election, and he also comments on young people's interest in Catholicism.",
+      "keywords": "Pope Leo, Spain, migration, political polarization, parliament, Bad Bunny"
+    },
+    {
+      "title": "Missing American Student in Japan",
+      "content": "20-year-old Auburn University student James Weston Higginbotham goes missing during a family vacation in Kyoto, Japan. The family refuses to leave without him, and search efforts involve K-9 units and volunteer hikers. His mother posts daily appeals on social media, and police continue the search.",
+      "keywords": "missing student, Japan, Kyoto, search, K-9 unit, volunteer, family"
+    },
+    {
+      "title": "International Space Station Leak",
+      "content": "Five astronauts on the International Space Station are told to take shelter after a leak is found in the Russian-controlled side. They move into a SpaceX Crew Dragon capsule for potential escape. Repairs are delayed for further assessment.",
+      "keywords": "International Space Station, leak, shelter, SpaceX Crew Dragon, NASA"
+    },
+    {
+      "title": "Ebola Outbreak in DRC",
+      "content": "The CDC warns that the current Ebola outbreak in the Democratic Republic of Congo could become the largest on record, with at least 60 confirmed deaths. Researchers emphasize the need for rapid public health action to prevent it from surpassing past epidemics.",
+      "keywords": "Ebola, DRC, outbreak, CDC, public health"
+    },
+    {
+      "title": "Ukraine Drone Strike on Saint Petersburg",
+      "content": "Ukraine launches a major drone strike on Saint Petersburg during Russia's economic forum. Russian officials report over 100 drones shot down, with damage and fires. The strike occurs amid ongoing tensions.",
+      "keywords": "Ukraine, drone strike, Saint Petersburg, Russia, economic forum"
+    },
+    {
+      "title": "Trump's Pick for Acting Director of National Intelligence",
+      "content": "President Trump faces backlash over his choice of Bill Pulte as acting Director of National Intelligence, citing Pulte's lack of national security qualifications. Trump defends the pick, suggesting Pulte may reduce the size of the office or even terminate it.",
+      "keywords": "Bill Pulte, Director of National Intelligence, backlash, qualifications, ODNI"
+    },
+    {
+      "title": "Severe Weather in the U.S.",
+      "content": "A cold front brings severe storms to the Midwest and Northeast, including New York City and Philadelphia, with damaging winds and hail. The heat builds up before the storms, and a brief cool-down is expected before more heat later in the week.",
+      "keywords": "severe weather, storms, cold front, Midwest, Northeast, heat"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nIran Warns Of Wider War, Demands Release Of Frozen Assets; Dept. Of Justice Sends Prosecutor To Observe LA Ballot Counting; Pope Leo Kicks Off High-Stakes Visit To Spain; Search For Alabama Engineering Student Continues, Trump Selected Acting Director Of National Intelligence With No Intelligence Experience; Knicks Take 2-0 Finals Lead After Wemby Misses Last Shot. Aired 7-8a ET\n\nAired June 06, 2026 - 07:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nVICTOR BLACKWELL, CNN ANCHOR: Welcome back to CNN THIS MORNING WEEKEND. Here's what's happening. The U.S. says it has intercepted new Iranian attacks in the Strait of Hormuz. What President Trump is saying about the war, now in its third month. The president was in Wisconsin yesterday to pitch farmers on his trade policy. He kind of did that.\n\nDONALD TRUMP, PRESIDENT OF THE UNITED STATES: Come up here today. I don't need this. I got elected. I don't know what the hell do I have to be here for? I got elected. I'm here because I like the farmer.\n\nBLACKWELL: We'll talk about the purpose of the visit for both his base and for the GOP efforts to keep the majority. And the family of a man missing in Japan is holding out hope that he will be found alive.\n\nNANCY HIGGINBOTHAM, MISSING STUDENT'S MOTHER: I know Weston. I know he's in those woods. And I know he's alive.\n\nBLACKWELL: What we know about what led up to his disappearance and the moment his family knew something was wrong. Plus, why NASA ordered the crew aboard the International Space Station to seek shelter in an emergency escape capsule.\n\nWelcome to your weekend. Saturday, June 6. I'm Victor Blackwell.\n\nIran is threatening to expand its war with the U.S. Peace talks are at a stalemate between the two countries. A top Iranian official tells CNN the Trump administration must agree to end its naval blockade and also release $24 billion in frozen Iranian assets to end this war. Overnight, the U.S. military struck several coastal sites in Iran. And the Iranians launched waves of missiles and drones toward the Strait of Hormuz, toward Kuwait, Bahrain, threatening to unravel a very fragile ceasefire.\n\nIsraeli forces? They also ramped up attacks against Hezbollah targets in Lebanon that killed more than 20 people. Here's what President Trump had to say about the war during that event in Wisconsin yesterday.\n\nTRUMP: We're at a point where we're going to come out of Iran very quickly, and it's going to be very strong one way or the other. Whether it's a piece of paper or the very tough way. OK? The very tough way is maybe the easier way.\n\nBLACKWELL: Let's get more now from CNN'S Oren Liebermann.\n\nOREN LIEBERMANN, CNN JERUSALEM CORRESPONDENT: We have seen a number of attacks and intercepts on Saturday morning in the Gulf region and between the U.S. and Iran. And all of that puts into question the fragile ceasefire itself, as well as the diplomatic track around that ceasefire to try to get to a broader agreement.\n\nEarly on Saturday morning, Iran's semiofficial news agency says they launched what they called warning shots to what they say may have been U.S. Navy vessels operating in the region. U.S. Central Command, which governs military operations in the Middle East and in the Gulf, says they intercepted four one-way attack drones and then carried out strikes on two surveillance radar sites on Iran's coast that they say will ensure the safety and maritime security in the region there. Iran then launched seven ballistic missiles, according to CENTCOM. Six of those were intercepted, CENTCOM said, while one of those did not reach its target.\n\nThe targets of those ballistic missiles were Kuwait and Bahrain. And we saw warning sirens in both of those countries as well as Kuwait, saying they were responding to incoming fire. It was just earlier this week that an Iranian attack struck Kuwait's airport, killing one and wounding more than 60 others. So, you see here, what is a pattern of ongoing fighting around that ceasefire here.\n\nNow, President Donald Trump has said that the ceasefire negotiations and the talks were moving very fast. But it doesn't appear that anything is moving fast here. Certainly, not the reopening of the Strait of Hormuz, which is supposed to be the first step in that ceasefire agreement and the immediate goal of the talks here.\n\nMeanwhile, an adviser to Iran's supreme leader says the talks are deadlocked. Iran continues to operate and negotiate from what they see as a -- as a position of strength. They're not rushing to an agreement, no matter what Trump has claimed about Iran trying to get to an agreement.\n\nAnd that's why, you see -- at least part of the reason why you see this long, dragged-out process and the fighting that's ongoing around a fragile ceasefire. Oren Liebermann, CNN in Jerusalem.\n\nBLACKWELL: Oren, thank you for that report. President Trump was back on the campaign trail yesterday. He's trying to rally his MAGA base for the upcoming midterm elections. The president visited Chippewa Falls, Wisconsin, for a rally branded as Fighting for American Farmers. Now, some farmers say that they've been hurt by some of the administration's trade policies and the war with Iran.\n\nBut in his remarks, the president seemed more focused on fountains and reflecting pools back in D.C. Even went so far as to say that he didn't need to campaign for Republicans, and suggested he would rather be at home watching TV.\n\nTRUMP: As president, I fought for the American farmer like no one has ever fought before. Nobodys -- like, I'm up here today. I don't need this.\n\nI got elected. I don't know what the hell do I have to be here for? I got elected. I'm here because I like the farmer.\n\nI mean, when you think about it, I guess there's a lot of truth to that, right? I could be home right now in the beautiful White House, enjoying watching somebody else on television talk.\n\nBLACKWELL: President Trump is expected to continue campaigning for Republicans over the next five months, as they try to hold on to the House and Senate majorities.\n\nNew this morning. CNN projects that democrat and former HHS Secretary Xavier Becerra will advance to the November general election in the race for California governor. Ballots in California are still being counted, so it's not clear who Becerra will run against. California has long had a reputation for being really slow to report election results.\n\nIt's largely due to the time it takes to count the mail-in ballots. And the slow pace has made it a target for critics, including the president. The Justice Department has now sent one of its attorneys to observe ballot processing in Los Angeles. President Trump has made false claims of election fraud there. Here's CNN'S Evan Perez.\n\nEVAN PEREZ, CNN SENIOR JUSTICE CORRESPONDENT: The Justice Department sent an attorney to observe ballot processing in Los Angeles on Friday. The move comes days after President Donald Trump said that the top federal prosecutor there was investigating the vote counting after Tuesday's primary elections. The L.A. County elections office told CNN that it was notified that an assistant U.S. Attorney was being dispatched to watch ballot-counting activities.\n\nNow, it's not uncommon for election results in California to take sometimes weeks before they're finalized, in part because of the processing of mail-in ballots. Trump has claimed, without evidence, that the slow pace of the count from Tuesday's primary was a sign of Democratic \"Cheating.\" Several key races in the state, including for governor and LA mayor, are still being counted.\n\nWe haven't seen any public signs that the Justice Department has found any evidence of a crime. Earlier Friday, First Assistant U.S. Attorney Bill Essayli, a Trump appointee who leads the U.S. Attorney's office in Los Angeles, said that his office had \"Multiple election fraud investigations underway,\" in a social media post that also bashed California's election system.\n\nCounty officials have defended their processes, writing on social media on Thursday that the dedicated staff is working to ensure that every vote is accurately processed and verified for counting. The Los Angeles County district attorney's office told CNN that it had not received any complaints from the federal government regarding criminal misconduct related to the vote counting or fraud in the Los Angeles County primary election. Evan Perez, CNN, Washington.\n\nBLACKWELL: All right. Here's what else we're following this morning. Ukraine has launched a major drone strike on Saint Petersburg as Russia hosts President Vladimir Putin's signature economic forum. Russian officials say more than 100 drones were shot down, with damage and fires reported across that region. People were told to stay indoors as air defenses responded.\n\nThis is after another strike earlier this week during that same high- profile gathering. It's often called Putin's Davos. It has drawn thousands of attendees from around the world.\n\nThe CDC says the current Ebola outbreak in the Democratic Republic of Congo could become the largest on record. It's already the fourth largest, with at least 60 confirmed deaths. Researchers say without rapid public health action, the outbreak could surpass past epidemics. They warned that it could approach the scale of the 2014 to 2016 West Africa outbreak that infected more than 28,000 people and killed more than 11,000.\n\nFive astronauts on the International Space Station were told to take shelter on Friday. Now, this order came after a leak was found in the Russian-controlled side of the orbiting lab. NASA moved them into a SpaceX Crew Dragon Capsule so that they could escape quickly if needed. Now, the all-clear was given later after repairs were delayed, in order to assess more information about that leak. Still not clear when repair efforts will resume. [07:10:23]\n\nPope Leo is in Madrid this morning, the first stop on his six-day tour of Spain. We'll talk about how he's using the trip to address one of the church's biggest controversies.\n\nAlso, an American student is missing in Japan. His family says they're now getting extra help in their desperate search. Well explain when we return.\n\nBLACKWELL: This morning, Pope Leo is kicking off a visit to Spain with political polarization and migration front and center. Live pictures for you in Madrid. There's Pope Leo. The pope landed there about half an hour -- half an hour ago. He's expected to visit migrant centers and address Spain's parliament.\n\nCNN Vatican Correspondent Christopher Lamb joins us now. So, six days. What should we expect during this visit?\n\nCHRISTOPHER LAMB, CNN VATICAN CORRESPONDENT: Well, Victor, it is a significant trip by Pope Leo because it's his first major European visit since his election. Spain, traditionally a catholic stronghold of Europe. This is the first papal visit in 15 years.\n\nWe're expected to see a strong focus on migration. The pope's going to go to the Canary Islands, which is a major entry point for immigrants from Africa. He's also going to address the political scene here in Spain, which is very polarized.\n\nHe's going to be talking to Spain's parliament. That's the first time a pope has done that. He'll also be meeting with Prime Minister Pedro Sanchez, who is something of an ally of Pope Leo when it comes to the war in Iran.\n\nPedro Sanchez, the prime minister, has been outspoken against the war. That's something that Pope Leo has also spoken out against. And Sanchez also defended the pope when President Trump attacked Leo those weeks ago in April.\n\nLeo starting the trip by meeting with the king and queen of Spain and will address the political and civic authorities. He's also here to try and encourage the catholic church in Spain, which, you know, it's a secularized country here, but there are strong catholic roots. I actually spoke to him on board the plane about the rise in numbers that we're seeing in young people converting or showing an interest in Catholicism. And he said he's encouraged by that.\n\nHe also pointed out, though, that his trip to Madrid coincides with a concert by the musician Bad Bunny. And he said that, you know, many young people will probably go to see Bad Bunny rather than see the pope. But there are some seeing the pope. So, that is at least something. So, quite a lot for the Pope on this action-packed schedule in Spain. Victor.\n\nBLACKWELL: Yes, competing with Bad Bunny for attention here. Christopher Lamb reporting on the pope's trip to Spain. Thanks so much.\n\nStill ahead. The search continues for that missing American in Japan. Investigators are now getting extra help in their search. We'll get that information for you when we return.\n\nPlus, customers at one restaurant got dinner and a show. More of this amazing video after the break.\n\nBLACKWELL: Peace talks are at an impasse, and the violence is escalating in the war with Iran. Iran's military launched a wave of missile and drone strikes overnight, targeted the Strait of Hormuz, Kuwait, Bahrain. The U.S. countered with strikes on several targets along Iran's coastline.\n\nLet's bring in now Behnam Ben Taleblu. He's the senior director of the Iran program at the Foundation for Defense of Democracies. Thank you so much for being back.\n\nWe have heard from the principals in this war over the last 24 hours. I'm going to play a lot of the sound. I want you to give us the context around it.\n\nLet's start with President Trump, who spoke with NBC News. And Kristen Welker asked him if the Iranians are so desperate to reach a deal, as he has said they are for months, why have they not reached one? Here's what the president said.\n\nTRUMP: I think they can't believe they're in the situation where they've been virtually decapitated.\n\nKRISTEN WELKER, ANCHOR, NBC NEWS: But if they're so desperate, Mr. President, why haven't they said yes to the terms you're proposing?\n\nTRUMP: Because they're proud. There are things they never thought they'd be doing that they're going to have to do. They've got no choice.\n\nBLACKWELL: So, what do you think of that? The president says that this is just a delayed resignation to the inevitable.\n\nBEHNAM BEN TALEBLU, SENIOR DIRECTOR OF IRAN PROGRAM, FOUNDATION FOR DEFENSE OF DEMOCRACIES: Well, great to be with you. That seems to be the million-dollar question. But forgive me, that seems to also misunderstand elements of Iran's strategy. Yes, the regime is hubristic and proud. But more importantly, it's ideological. And it's keen to avoid giving America -- not just American presidents, but this American president, a victory image, particularly after not one but two rounds of overt military action against the Islamic Republic. There's that.\n\nBut then there's also the larger strategy here at play. And that strategy is to force America either into a bad deal that kind of guarantees more Iranian access to cash or a conflict that doesn't guarantee a military and political outcome that America and/or Israel would be willing to pay for. So, you may remember back in Trump term one, Trump administration officials talked about putting Iran to the choice. The Iranian strategy here by exploiting the gray zone, by continuing low intensity fighting during the ceasefire, and also saying yes, no, and maybe to talks all at the same time, is designed to put America to the choice and see what we'll want versus what we will settle for.\n\nBLACKWELL: All right. So, you pointed out the military element and the cash element that Iran is forcing here. Our Fred Pleitgen had an exclusive interview with the military advisor to the Ayatollah Mojtaba Khamenei. And I want to play for you first on the fighting. Here's what he said could happen if this blockade continues.\n\nMOHSEN REZAI, SENIOR MILITARY ADVISER TO IRAN'S SUPREME LEADER (through a translator): If the war continues and the naval blockade is not lifted, we will drag the war to the Indian Ocean, the Bab El Mandeb Strait, the Red Sea, and the Mediterranean. And we will give another dimension to the war by attacking these other American bases that we have been attacking so far.\n\nBLACKWELL: And so, what do you know about the capabilities of the Iranians to make good on that threat?\n\nTALEBLU: Well, certainly, the Islamic Republic has proven an ability to export maritime harassment and terrorism. You know, when the Houthis were doing that a few years ago, that was actually because they had learned from their patron and were equipped from weapons from their patron, the Islamic Republic of Iran, the ability to go after these ships, these vessels, and to go after a strategic chokepoint in the Red Sea and the Bab El Mandeb. As we saw the Houthis do, their partners on the southern part of the Arabian Peninsula just a few years back.\n\nNow, that's a sort of Damocles. The regime is dangling over, not just the Arab States, not just over the West, but over the international economy. And in my view, that only heightens the choice before the Trump administration.\n\nAnd here, actually, we have other tools, not just military, but economic tools against the administration -- against the regime that the administration should consider. The latest data, particularly for the month of May, which is when the full blockade has been in effect, meaning start to finish the whole month was Iran was only able to export 64,000 barrels of oil per day. Meaning, only four vessels -- four smaller vessels got past the U.S. blockade.\n\nWhen the regime's, you know, major parts of its economy are reliant on hydrocarbons and petrochemical product sales, and they can only export up to 64,000 barrels per day, when just back in February, before the conflict began, they were exporting over 2.1 million barrels of oil per day, they are facing bankruptcy. And that's precisely why they're going to be lashing out and threatening this wider circle of escalation.\n\nBLACKWELL: Yes. And of course, as we reported that the Iranians are demanding a $24 billion release of their assets. $12 billion ahead of the signing and $12 billion later. Control room, let's go to the Christiane Amanpour exclusive interview with the Lebanese president, Joseph Aoun. And this is what he said about the accusations -- strong accusations about the IRGC and their influence on what's happening in Lebanon. Let's watch.\n\nJOSEPH AOUN, PRESIDENT, LEBANON: Our people being killed. Our people being -- our houses being destroyed. They are using Lebanon as a bargaining chip in their negotiation with the United States. It's unacceptable.\n\nBLACKWELL: Now, the IRGC denies that. Is he right? You've written that the IRGC is feeling emboldened as it relates to Lebanon.\n\nTALEBLU: Certainly, feeling emboldened as it relates to Lebanon and their proxy -- their Hezbollah, which is their most powerful proxy, and still the one that they're hoping to recreate and rebuild, hoping that America and Israel tire of this conflict. But no, the Lebanese president you mentioned right now is absolutely right. 110 percent right.\n\nThe Islamic Republic of Iran's entire military strategy is basically reliant on working by, with, and through downtrodden and dispossessed persons in the heartland of the Arab and Muslim world to continue its fighting for it. And unfortunately, Lebanon, a proud country, has been one of the main theaters that has been sacrificed in this larger, decades-long war against Israel, America, and the West. And certainly, Lebanese citizenry and even Lebanese Shia have been paying a price for being this battleground.\n\nThe question is, what kind of capacity does the Lebanese state have to push back? Lebanese society, what can they do to push back, and what can and can't America and Israel do to help them? And this is why it's critical to know who is your friend and who is your ally versus who is a fair-weather friend, and who is your adversary. Because look at what the Islamic Republic of Iran is doing. Its most powerful proxy in Lebanon got clobbered by Israel. And yet still, as much as this regime needs cash, and you mentioned the billions that it wants and is trying to get from America, it is risking losing all of that just to stand by its partner and proxy, Hezbollah. The question is, where are we when it comes to standing with our partners?\n\nBLACKWELL: Behnam Ben Taleblu, always good to have the analysis. Thank you.\n\nBLACKWELL: A desperate search for an Alabama student who was missing -- is still missing in Japan, is continuing this morning after a typhoon impacted those rescue efforts.\n\n20-year-old Auburn University student, James Weston Higginbotham, disappeared last month, while on vacation with his family. They have refused to leave the country without him. His mother, Nancy, spoke last night with our Erin Burnett.\n\nNANCY HIGGINBOTHAM, MOTHER OF MISSING STUDENT: We had a little argument, so, after lunch we reconvened in the hotel and decided, you know, that we all probably needed a little bit of space. So, Weston, we went -- my son -- my husband, and I went to a temple, and Weston chilled out in the hotel room for a little bit. And then, he walked by the river and went to a couple stores, and then he took the train, and that's when, you know, unfortunately, he turned off his location.\n\nBLACKWELL: CNN's Hanako Montgomery has the latest details on the search in Kyoto.\n\nHANAKO MONTGOMERY, CNN INTERNATIONAL CORRESPONDENT (voice over): Deep in Japan's forests, a search is underway for Weston Higginbotham, a 20-year-old college student from Alabama, who vanished during a family vacation.\n\nMONTGOMERY: So, this is the type of trail that the Japanese police have been investigating to search for Weston. He is known as an avid hiker, so, they think that maybe he might have disappeared into the woods when he went missing on May 29th.\n\nMONTGOMERY (voice over): Police are relying on K-9 units to sniff out any trace of Weston. But the forest search ends for now with no answers. Just more anguish for a family still waiting for news.\n\nHIGGINBOTHAM: There are so many possibilities that we have thought through. KEITH HIGGINBOTHAM, FATHER OF MISSING STUDENT: Yes.\n\nN. HIGGINBOTHAM: Because as a -- you know, as a parent, you don't want to think the worst, and you know, you keep seeing these sightings here and there. It's like, well, maybe, you know, I don't know. I don't know.\n\nMONTGOMERY (voice over): The day Weston disappeared, the Higginbothams were vacationing in Kyoto, Japan, a major tourist destination in one of the world's safest countries.\n\nBut after a small disagreement with his mom, they agreed to give each other some space.\n\nNancy, his mother, tells me, it's not unusual for Weston to clear his head in nature.\n\nN. HIGGINBOTHAM: But I will say that, you know, a local resident --\n\nMONTGOMERY (voice over): But when he seemingly turned off his phone location, panic set in.\n\nN. HIGGINBOTHAM: Well, it was scary, because that's not Weston. I mean, we are just -- we don't do that in our family. Even when we are mad, we don't do that in our family.\n\nMONTGOMERY: Since then, Nancy has posted daily appeals on social media, asking anyone with information to come forward.\n\nN. HIGGINBOTHAM: He has a heart of gold, and we all want him to come back safely.\n\nMONTGOMERY: Strangers have answered her call. Sharing Weston's photo and distributing flyers to help find him.\n\nMANAMI NAKAGAWA, VOLUNTEER (text): The search ends when people stop looking. For as long as it takes, I'll keep doing everything I can until he is found.\n\nMONTGOMERY: The police have told us that until they find Weston, they won't stop looking, and as the search continues, so does a mother's hope.\n\nAnd today, the search is getting extra help. Citizen hikers are now heading to the mountains after Higginbotham's family organized a search and rescue party of volunteers.\n\nHanako Montgomery, CNN, Kyoto.\n\nBLACKWELL: Huge waves had people nearby screaming in Hawaii. Now, officials say that the waves were up to six feet high, but I mean, look at that. The witnesses thought they were even higher.\n\nThese big waves started on Tuesday on the west side of the Big Island of Hawaii. Now, a stormy weather system out of New Zealand last week is what generated these huge waves. That looked like more than six feet.\n\nHeat is building up, and so, is the storm threat from the Midwest and the Northeast. Millions of people could see some strong storms today.\n\nMeteorologist Melissa Nord, is tracking it all. That's more than six feet.\n\nMELISSA NORD, PART-TIME CNN METEOROLOGIST: It looks more. And you know, it hits the sea wall, so it all comes crashing over, and it's a little startling.\n\nBLACKWELL: Yes. I mean, it's good entertainment if you are inside. Right?\n\nBLACKWELL: If you are there on the wall, it's not as entertaining.\n\nNORD: And not a good situation as well, for surfers the last couple days with those large swells, as well, dangerous. So, some events were canceled there.\n\nWe do have to talk about storms, though, because it's going to be a highly populated area in the risk of severe weather later on today. Victor, we are talking about New York City, we are talking about Philadelphia, even out towards Pittsburgh, Cleveland, and also Columbus, Ohio, in a level two risk of severe weather today.\n\nNow, this is mostly going to be a damaging wind threat. Some of those winds could be easily 60, even 70 miles an hour, but also some hail possible. Quarter size approaching that 95 corridor. The timing for that is going to be later this evening for those big cities on the East Coast, but right now we are already seeing some shower and storm activity in the Corn Belt and the Midwest, as well, right ahead of this cold front.\n\nSo, that will be the trigger point, along with heat to fire up more storms later on today.\n\nCouple those moving now through the south side of Chicago, we'll see them regenerate this afternoon as we add that daytime heating, lot of spots getting to the 80s and 90s this afternoon, and you can see those storms popping up in interior new east -- New England and northeast, and then, moving in towards the 95 corridor after 8:00 this evening. So, it might be a hot and sunny afternoon, but then those storms will come in, and they could pack a punch to the south, though a lot of moisture coming off the Gulf produces that localized flash flooding threat, even though the severe weather threat is not as high there.\n\nAll right. So, little relief coming from some of these cities, for some of these cities. Thanks to this cold front, but it's not going to last for long. I do expect more heat to build in later in the week. Another day in the 90s there, New York, and also Washington, D.C. Boston, 86 degrees, that's about 15 degrees above average for them. Little cool down coming the second half of the weekend, more heat builds later next week. Victor?\n\nBLACKWELL: All right. Melissa, thank you very much.\n\nStill ahead, President Trump is facing backlash over his pick to lead the intelligence community. The president is waving off questions about Bill Pulte's qualifications.\n\nHey, if you are headed out, I'll ride shotgun. You can watch the show, stream our show from anywhere in the U.S., right from the CNN app. You can also go to cnn.com/watch.\n\nBLACKWELL: Top stories this morning. The chief of staff for Texas Republican Pete Sessions has been charged with carrying a gun onto U.S. Capitol grounds. Capitol police say they found a black pistol and ammunition in the staffer's bag as he was going through a security checkpoint in December.\n\nPolice say he admitted he did not have a license to carry that gun. Court documents note the staffer typically enters the House Office Building with Sessions, who is exempt from being screened.\n\nThe FAA says President Trump's proposed triumphal arch does not appear to pose a potential risk to air travel.\n\nThis is 250 feet tall. Now, it's set to be a place less than two miles from the Ronald Reagan Washington Airport. However, officials at the FAA are recommending that red obstruction lights be added.\n\nPresident Trump says he is interviewing five well-known people to be the next director of National Intelligence. This is after the bipartisan backlash to his choice of Bill Pulte to succeed Tulsi Gabbard in that position. Now, critics say Pulte has no known national security qualifications. Trump has since said that Pulte, who will continue to head up the Federal Housing Finance Agency, will only serve as acting director of National Intelligence. So, up to 210 days.\n\nWe are joined now by Shawn Turner, the former Director of Communications for U.S. National Intelligence.\n\nSean, welcome back to the show. Let me read here first from the Wall Street Journal's interview with the president about his choice of Bill Pulte. He says, \"Frankly, it might be good for him to shake it up before people come. Because if he reduced the size in conjunction with me and in conjunction with possibly the person coming in, he can do a lot of the hard work, and we wouldn't have to saddle somebody that goes in. We've made the Department of Education much smaller, and likewise, this should be much smaller. And this should maybe even be terminated, and we'll make that decision.\"\n\nWhat's your reaction to hearing that the president -- once Pulte -- essentially, going to be the hatchet man? Make it smaller, or maybe we'll just get rid of the ODNI.\n\nSHAWN TURNER, FORMER DIRECTOR OF COMMUNICATION FOR UNITED STATES NATIONAL INTELLIGENCE: Yes, Victor. Good morning. It's good to see you. Good to be with you again.\n\nWhen I hear those words, that maybe even the Office of the Director of National Intelligence should be terminated, I will tell you, as a student of history and someone who spent a long time in government national security, and intelligence, that's a scary thought.\n\nWe have to remember that there are few places in government where the stakes are higher than in the intelligence community. The most consequential decisions that any p",
+  "segments": [
+    {
+      "seg": 2,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-06/segment/02",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nIran Warns Of Wider War, Demands Release Of Frozen Assets; Dept. Of Justice Sends Prosecutor To Observe LA Ballot Counting; Pope Leo Kicks Off High-Stakes Visit To Spain; Search For Alabama Engineering Student Continues, Trump Selected Acting Director Of National Intelligence With No Intelligence Experience; Knicks Take 2-0 Finals Lead After Wemby Misses Last Shot. Aired 7-8a ET\n\nAired June 06, 2026 - 07:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nVICTOR BLACKWELL, CNN ANCHOR: Welcome back to CNN THIS MORNING WEEKEND. Here's what's happening. The U.S. says it has intercepted new Iranian attacks in the Strait of Hormuz. What President Trump is saying about the war, now in its third month. The president was in Wisconsin yesterday to pitch farmers on his trade policy. He kind of did that.\n\nDONALD TRUMP, PRESIDENT OF THE UNITED STATES: Come up here today. I don't need this. I got elected. I don't know what the hell do I have to be here for? I got elected. I'm here because I like the farmer.\n\nBLACKWELL: We'll talk about the purpose of the visit for both his base and for the GOP efforts to keep the majority. And the family of a man missing in Japan is holding out hope that he will be found alive.\n\nNANCY HIGGINBOTHAM, MISSING STUDENT'S MOTHER: I know Weston. I know he's in those woods. And I know he's alive.\n\nBLACKWELL: What we know about what led up to his disappearance and the moment his family knew something was wrong. Plus, why NASA ordered the crew aboard the International Space Station to seek shelter in an emergency escape capsule.\n\nWelcome to your weekend. Saturday, June 6. I'm Victor Blackwell.\n\nIran is threatening to expand its war with the U.S. Peace talks are at a stalemate between the two countries. A top Iranian official tells CNN the Trump administration must agree to end its naval blockade and also release $24 billion in frozen Iranian assets to end this war. Overnight, the U.S. military struck several coastal sites in Iran. And the Iranians launched waves of missiles and drones toward the Strait of Hormuz, toward Kuwait, Bahrain, threatening to unravel a very fragile ceasefire.\n\nIsraeli forces? They also ramped up attacks against Hezbollah targets in Lebanon that killed more than 20 people. Here's what President Trump had to say about the war during that event in Wisconsin yesterday.\n\nTRUMP: We're at a point where we're going to come out of Iran very quickly, and it's going to be very strong one way or the other. Whether it's a piece of paper or the very tough way. OK? The very tough way is maybe the easier way.\n\nBLACKWELL: Let's get more now from CNN'S Oren Liebermann.\n\nOREN LIEBERMANN, CNN JERUSALEM CORRESPONDENT: We have seen a number of attacks and intercepts on Saturday morning in the Gulf region and between the U.S. and Iran. And all of that puts into question the fragile ceasefire itself, as well as the diplomatic track around that ceasefire to try to get to a broader agreement.\n\nEarly on Saturday morning, Iran's semiofficial news agency says they launched what they called warning shots to what they say may have been U.S. Navy vessels operating in the region. U.S. Central Command, which governs military operations in the Middle East and in the Gulf, says they intercepted four one-way attack drones and then carried out strikes on two surveillance radar sites on Iran's coast that they say will ensure the safety and maritime security in the region there. Iran then launched seven ballistic missiles, according to CENTCOM. Six of those were intercepted, CENTCOM said, while one of those did not reach its target.\n\nThe targets of those ballistic missiles were Kuwait and Bahrain. And we saw warning sirens in both of those countries as well as Kuwait, saying they were responding to incoming fire. It was just earlier this week that an Iranian attack struck Kuwait's airport, killing one and wounding more than 60 others. So, you see here, what is a pattern of ongoing fighting around that ceasefire here.\n\nNow, President Donald Trump has said that the ceasefire negotiations and the talks were moving very fast. But it doesn't appear that anything is moving fast here. Certainly, not the reopening of the Strait of Hormuz, which is supposed to be the first step in that ceasefire agreement and the immediate goal of the talks here.\n\nMeanwhile, an adviser to Iran's supreme leader says the talks are deadlocked. Iran continues to operate and negotiate from what they see as a -- as a position of strength. They're not rushing to an agreement, no matter what Trump has claimed about Iran trying to get to an agreement.\n\nAnd that's why, you see -- at least part of the reason why you see this long, dragged-out process and the fighting that's ongoing around a fragile ceasefire. Oren Liebermann, CNN in Jerusalem.\n\nBLACKWELL: Oren, thank you for that report. President Trump was back on the campaign trail yesterday. He's trying to rally his MAGA base for the upcoming midterm elections. The president visited Chippewa Falls, Wisconsin, for a rally branded as Fighting for American Farmers. Now, some farmers say that they've been hurt by some of the administration's trade policies and the war with Iran.\n\nBut in his remarks, the president seemed more focused on fountains and reflecting pools back in D.C. Even went so far as to say that he didn't need to campaign for Republicans, and suggested he would rather be at home watching TV.\n\nTRUMP: As president, I fought for the American farmer like no one has ever fought before. Nobodys -- like, I'm up here today. I don't need this.\n\nI got elected. I don't know what the hell do I have to be here for? I got elected. I'm here because I like the farmer.\n\nI mean, when you think about it, I guess there's a lot of truth to that, right? I could be home right now in the beautiful White House, enjoying watching somebody else on television talk.\n\nBLACKWELL: President Trump is expected to continue campaigning for Republicans over the next five months, as they try to hold on to the House and Senate majorities.\n\nNew this morning. CNN projects that democrat and former HHS Secretary Xavier Becerra will advance to the November general election in the race for California governor. Ballots in California are still being counted, so it's not clear who Becerra will run against. California has long had a reputation for being really slow to report election results.\n\nIt's largely due to the time it takes to count the mail-in ballots. And the slow pace has made it a target for critics, including the president. The Justice Department has now sent one of its attorneys to observe ballot processing in Los Angeles. President Trump has made false claims of election fraud there. Here's CNN'S Evan Perez.\n\nEVAN PEREZ, CNN SENIOR JUSTICE CORRESPONDENT: The Justice Department sent an attorney to observe ballot processing in Los Angeles on Friday. The move comes days after President Donald Trump said that the top federal prosecutor there was investigating the vote counting after Tuesday's primary elections. The L.A. County elections office told CNN that it was notified that an assistant U.S. Attorney was being dispatched to watch ballot-counting activities.\n\nNow, it's not uncommon for election results in California to take sometimes weeks before they're finalized, in part because of the processing of mail-in ballots. Trump has claimed, without evidence, that the slow pace of the count from Tuesday's primary was a sign of Democratic \"Cheating.\" Several key races in the state, including for governor and LA mayor, are still being counted.\n\nWe haven't seen any public signs that the Justice Department has found any evidence of a crime. Earlier Friday, First Assistant U.S. Attorney Bill Essayli, a Trump appointee who leads the U.S. Attorney's office in Los Angeles, said that his office had \"Multiple election fraud investigations underway,\" in a social media post that also bashed California's election system.\n\nCounty officials have defended their processes, writing on social media on Thursday that the dedicated staff is working to ensure that every vote is accurately processed and verified for counting. The Los Angeles County district attorney's office told CNN that it had not received any complaints from the federal government regarding criminal misconduct related to the vote counting or fraud in the Los Angeles County primary election. Evan Perez, CNN, Washington.\n\nBLACKWELL: All right. Here's what else we're following this morning. Ukraine has launched a major drone strike on Saint Petersburg as Russia hosts President Vladimir Putin's signature economic forum. Russian officials say more than 100 drones were shot down, with damage and fires reported across that region. People were told to stay indoors as air defenses responded.\n\nThis is after another strike earlier this week during that same high- profile gathering. It's often called Putin's Davos. It has drawn thousands of attendees from around the world.\n\nThe CDC says the current Ebola outbreak in the Democratic Republic of Congo could become the largest on record. It's already the fourth largest, with at least 60 confirmed deaths. Researchers say without rapid public health action, the outbreak could surpass past epidemics. They warned that it could approach the scale of the 2014 to 2016 West Africa outbreak that infected more than 28,000 people and killed more than 11,000.\n\nFive astronauts on the International Space Station were told to take shelter on Friday. Now, this order came after a leak was found in the Russian-controlled side of the orbiting lab. NASA moved them into a SpaceX Crew Dragon Capsule so that they could escape quickly if needed. Now, the all-clear was given later after repairs were delayed, in order to assess more information about that leak. Still not clear when repair efforts will resume. [07:10:23]\n\nPope Leo is in Madrid this morning, the first stop on his six-day tour of Spain. We'll talk about how he's using the trip to address one of the church's biggest controversies.\n\nAlso, an American student is missing in Japan. His family says they're now getting extra help in their desperate search. Well explain when we return.\n\nBLACKWELL: This morning, Pope Leo is kicking off a visit to Spain with political polarization and migration front and center. Live pictures for you in Madrid. There's Pope Leo. The pope landed there about half an hour -- half an hour ago. He's expected to visit migrant centers and address Spain's parliament.\n\nCNN Vatican Correspondent Christopher Lamb joins us now. So, six days. What should we expect during this visit?\n\nCHRISTOPHER LAMB, CNN VATICAN CORRESPONDENT: Well, Victor, it is a significant trip by Pope Leo because it's his first major European visit since his election. Spain, traditionally a catholic stronghold of Europe. This is the first papal visit in 15 years.\n\nWe're expected to see a strong focus on migration. The pope's going to go to the Canary Islands, which is a major entry point for immigrants from Africa. He's also going to address the political scene here in Spain, which is very polarized.\n\nHe's going to be talking to Spain's parliament. That's the first time a pope has done that. He'll also be meeting with Prime Minister Pedro Sanchez, who is something of an ally of Pope Leo when it comes to the war in Iran.\n\nPedro Sanchez, the prime minister, has been outspoken against the war. That's something that Pope Leo has also spoken out against. And Sanchez also defended the pope when President Trump attacked Leo those weeks ago in April.\n\nLeo starting the trip by meeting with the king and queen of Spain and will address the political and civic authorities. He's also here to try and encourage the catholic church in Spain, which, you know, it's a secularized country here, but there are strong catholic roots. I actually spoke to him on board the plane about the rise in numbers that we're seeing in young people converting or showing an interest in Catholicism. And he said he's encouraged by that.\n\nHe also pointed out, though, that his trip to Madrid coincides with a concert by the musician Bad Bunny. And he said that, you know, many young people will probably go to see Bad Bunny rather than see the pope. But there are some seeing the pope. So, that is at least something. So, quite a lot for the Pope on this action-packed schedule in Spain. Victor.\n\nBLACKWELL: Yes, competing with Bad Bunny for attention here. Christopher Lamb reporting on the pope's trip to Spain. Thanks so much.\n\nStill ahead. The search continues for that missing American in Japan. Investigators are now getting extra help in their search. We'll get that information for you when we return.\n\nPlus, customers at one restaurant got dinner and a show. More of this amazing video after the break.\n\nBLACKWELL: Peace talks are at an impasse, and the violence is escalating in the war with Iran. Iran's military launched a wave of missile and drone strikes overnight, targeted the Strait of Hormuz, Kuwait, Bahrain. The U.S. countered with strikes on several targets along Iran's coastline.\n\nLet's bring in now Behnam Ben Taleblu. He's the senior director of the Iran program at the Foundation for Defense of Democracies. Thank you so much for being back.\n\nWe have heard from the principals in this war over the last 24 hours. I'm going to play a lot of the sound. I want you to give us the context around it.\n\nLet's start with President Trump, who spoke with NBC News. And Kristen Welker asked him if the Iranians are so desperate to reach a deal, as he has said they are for months, why have they not reached one? Here's what the president said.\n\nTRUMP: I think they can't believe they're in the situation where they've been virtually decapitated.\n\nKRISTEN WELKER, ANCHOR, NBC NEWS: But if they're so desperate, Mr. President, why haven't they said yes to the terms you're proposing?\n\nTRUMP: Because they're proud. There are things they never thought they'd be doing that they're going to have to do. They've got no choice.\n\nBLACKWELL: So, what do you think of that? The president says that this is just a delayed resignation to the inevitable.\n\nBEHNAM BEN TALEBLU, SENIOR DIRECTOR OF IRAN PROGRAM, FOUNDATION FOR DEFENSE OF DEMOCRACIES: Well, great to be with you. That seems to be the million-dollar question. But forgive me, that seems to also misunderstand elements of Iran's strategy. Yes, the regime is hubristic and proud. But more importantly, it's ideological. And it's keen to avoid giving America -- not just American presidents, but this American president, a victory image, particularly after not one but two rounds of overt military action against the Islamic Republic. There's that.\n\nBut then there's also the larger strategy here at play. And that strategy is to force America either into a bad deal that kind of guarantees more Iranian access to cash or a conflict that doesn't guarantee a military and political outcome that America and/or Israel would be willing to pay for. So, you may remember back in Trump term one, Trump administration officials talked about putting Iran to the choice. The Iranian strategy here by exploiting the gray zone, by continuing low intensity fighting during the ceasefire, and also saying yes, no, and maybe to talks all at the same time, is designed to put America to the choice and see what we'll want versus what we will settle for.\n\nBLACKWELL: All right. So, you pointed out the military element and the cash element that Iran is forcing here. Our Fred Pleitgen had an exclusive interview with the military advisor to the Ayatollah Mojtaba Khamenei. And I want to play for you first on the fighting. Here's what he said could happen if this blockade continues.\n\nMOHSEN REZAI, SENIOR MILITARY ADVISER TO IRAN'S SUPREME LEADER (through a translator): If the war continues and the naval blockade is not lifted, we will drag the war to the Indian Ocean, the Bab El Mandeb Strait, the Red Sea, and the Mediterranean. And we will give another dimension to the war by attacking these other American bases that we have been attacking so far.\n\nBLACKWELL: And so, what do you know about the capabilities of the Iranians to make good on that threat?\n\nTALEBLU: Well, certainly, the Islamic Republic has proven an ability to export maritime harassment and terrorism. You know, when the Houthis were doing that a few years ago, that was actually because they had learned from their patron and were equipped from weapons from their patron, the Islamic Republic of Iran, the ability to go after these ships, these vessels, and to go after a strategic chokepoint in the Red Sea and the Bab El Mandeb. As we saw the Houthis do, their partners on the southern part of the Arabian Peninsula just a few years back.\n\nNow, that's a sort of Damocles. The regime is dangling over, not just the Arab States, not just over the West, but over the international economy. And in my view, that only heightens the choice before the Trump administration.\n\nAnd here, actually, we have other tools, not just military, but economic tools against the administration -- against the regime that the administration should consider. The latest data, particularly for the month of May, which is when the full blockade has been in effect, meaning start to finish the whole month was Iran was only able to export 64,000 barrels of oil per day. Meaning, only four vessels -- four smaller vessels got past the U.S. blockade.\n\nWhen the regime's, you know, major parts of its economy are reliant on hydrocarbons and petrochemical product sales, and they can only export up to 64,000 barrels per day, when just back in February, before the conflict began, they were exporting over 2.1 million barrels of oil per day, they are facing bankruptcy. And that's precisely why they're going to be lashing out and threatening this wider circle of escalation.\n\nBLACKWELL: Yes. And of course, as we reported that the Iranians are demanding a $24 billion release of their assets. $12 billion ahead of the signing and $12 billion later. Control room, let's go to the Christiane Amanpour exclusive interview with the Lebanese president, Joseph Aoun. And this is what he said about the accusations -- strong accusations about the IRGC and their influence on what's happening in Lebanon. Let's watch.\n\nJOSEPH AOUN, PRESIDENT, LEBANON: Our people being killed. Our people being -- our houses being destroyed. They are using Lebanon as a bargaining chip in their negotiation with the United States. It's unacceptable.\n\nBLACKWELL: Now, the IRGC denies that. Is he right? You've written that the IRGC is feeling emboldened as it relates to Lebanon.\n\nTALEBLU: Certainly, feeling emboldened as it relates to Lebanon and their proxy -- their Hezbollah, which is their most powerful proxy, and still the one that they're hoping to recreate and rebuild, hoping that America and Israel tire of this conflict. But no, the Lebanese president you mentioned right now is absolutely right. 110 percent right.\n\nThe Islamic Republic of Iran's entire military strategy is basically reliant on working by, with, and through downtrodden and dispossessed persons in the heartland of the Arab and Muslim world to continue its fighting for it. And unfortunately, Lebanon, a proud country, has been one of the main theaters that has been sacrificed in this larger, decades-long war against Israel, America, and the West. And certainly, Lebanese citizenry and even Lebanese Shia have been paying a price for being this battleground.\n\nThe question is, what kind of capacity does the Lebanese state have to push back? Lebanese society, what can they do to push back, and what can and can't America and Israel do to help them? And this is why it's critical to know who is your friend and who is your ally versus who is a fair-weather friend, and who is your adversary. Because look at what the Islamic Republic of Iran is doing. Its most powerful proxy in Lebanon got clobbered by Israel. And yet still, as much as this regime needs cash, and you mentioned the billions that it wants and is trying to get from America, it is risking losing all of that just to stand by its partner and proxy, Hezbollah. The question is, where are we when it comes to standing with our partners?\n\nBLACKWELL: Behnam Ben Taleblu, always good to have the analysis. Thank you.\n\nBLACKWELL: A desperate search for an Alabama student who was missing -- is still missing in Japan, is continuing this morning after a typhoon impacted those rescue efforts.\n\n20-year-old Auburn University student, James Weston Higginbotham, disappeared last month, while on vacation with his family. They have refused to leave the country without him. His mother, Nancy, spoke last night with our Erin Burnett.\n\nNANCY HIGGINBOTHAM, MOTHER OF MISSING STUDENT: We had a little argument, so, after lunch we reconvened in the hotel and decided, you know, that we all probably needed a little bit of space. So, Weston, we went -- my son -- my husband, and I went to a temple, and Weston chilled out in the hotel room for a little bit. And then, he walked by the river and went to a couple stores, and then he took the train, and that's when, you know, unfortunately, he turned off his location.\n\nBLACKWELL: CNN's Hanako Montgomery has the latest details on the search in Kyoto.\n\nHANAKO MONTGOMERY, CNN INTERNATIONAL CORRESPONDENT (voice over): Deep in Japan's forests, a search is underway for Weston Higginbotham, a 20-year-old college student from Alabama, who vanished during a family vacation.\n\nMONTGOMERY: So, this is the type of trail that the Japanese police have been investigating to search for Weston. He is known as an avid hiker, so, they think that maybe he might have disappeared into the woods when he went missing on May 29th.\n\nMONTGOMERY (voice over): Police are relying on K-9 units to sniff out any trace of Weston. But the forest search ends for now with no answers. Just more anguish for a family still waiting for news.\n\nHIGGINBOTHAM: There are so many possibilities that we have thought through. KEITH HIGGINBOTHAM, FATHER OF MISSING STUDENT: Yes.\n\nN. HIGGINBOTHAM: Because as a -- you know, as a parent, you don't want to think the worst, and you know, you keep seeing these sightings here and there. It's like, well, maybe, you know, I don't know. I don't know.\n\nMONTGOMERY (voice over): The day Weston disappeared, the Higginbothams were vacationing in Kyoto, Japan, a major tourist destination in one of the world's safest countries.\n\nBut after a small disagreement with his mom, they agreed to give each other some space.\n\nNancy, his mother, tells me, it's not unusual for Weston to clear his head in nature.\n\nN. HIGGINBOTHAM: But I will say that, you know, a local resident --\n\nMONTGOMERY (voice over): But when he seemingly turned off his phone location, panic set in.\n\nN. HIGGINBOTHAM: Well, it was scary, because that's not Weston. I mean, we are just -- we don't do that in our family. Even when we are mad, we don't do that in our family.\n\nMONTGOMERY: Since then, Nancy has posted daily appeals on social media, asking anyone with information to come forward.\n\nN. HIGGINBOTHAM: He has a heart of gold, and we all want him to come back safely.\n\nMONTGOMERY: Strangers have answered her call. Sharing Weston's photo and distributing flyers to help find him.\n\nMANAMI NAKAGAWA, VOLUNTEER (text): The search ends when people stop looking. For as long as it takes, I'll keep doing everything I can until he is found.\n\nMONTGOMERY: The police have told us that until they find Weston, they won't stop looking, and as the search continues, so does a mother's hope.\n\nAnd today, the search is getting extra help. Citizen hikers are now heading to the mountains after Higginbotham's family organized a search and rescue party of volunteers.\n\nHanako Montgomery, CNN, Kyoto.\n\nBLACKWELL: Huge waves had people nearby screaming in Hawaii. Now, officials say that the waves were up to six feet high, but I mean, look at that. The witnesses thought they were even higher.\n\nThese big waves started on Tuesday on the west side of the Big Island of Hawaii. Now, a stormy weather system out of New Zealand last week is what generated these huge waves. That looked like more than six feet.\n\nHeat is building up, and so, is the storm threat from the Midwest and the Northeast. Millions of people could see some strong storms today.\n\nMeteorologist Melissa Nord, is tracking it all. That's more than six feet.\n\nMELISSA NORD, PART-TIME CNN METEOROLOGIST: It looks more. And you know, it hits the sea wall, so it all comes crashing over, and it's a little startling.\n\nBLACKWELL: Yes. I mean, it's good entertainment if you are inside. Right?\n\nBLACKWELL: If you are there on the wall, it's not as entertaining.\n\nNORD: And not a good situation as well, for surfers the last couple days with those large swells, as well, dangerous. So, some events were canceled there.\n\nWe do have to talk about storms, though, because it's going to be a highly populated area in the risk of severe weather later on today. Victor, we are talking about New York City, we are talking about Philadelphia, even out towards Pittsburgh, Cleveland, and also Columbus, Ohio, in a level two risk of severe weather today.\n\nNow, this is mostly going to be a damaging wind threat. Some of those winds could be easily 60, even 70 miles an hour, but also some hail possible. Quarter size approaching that 95 corridor. The timing for that is going to be later this evening for those big cities on the East Coast, but right now we are already seeing some shower and storm activity in the Corn Belt and the Midwest, as well, right ahead of this cold front.\n\nSo, that will be the trigger point, along with heat to fire up more storms later on today.\n\nCouple those moving now through the south side of Chicago, we'll see them regenerate this afternoon as we add that daytime heating, lot of spots getting to the 80s and 90s this afternoon, and you can see those storms popping up in interior new east -- New England and northeast, and then, moving in towards the 95 corridor after 8:00 this evening. So, it might be a hot and sunny afternoon, but then those storms will come in, and they could pack a punch to the south, though a lot of moisture coming off the Gulf produces that localized flash flooding threat, even though the severe weather threat is not as high there.\n\nAll right. So, little relief coming from some of these cities, for some of these cities. Thanks to this cold front, but it's not going to last for long. I do expect more heat to build in later in the week. Another day in the 90s there, New York, and also Washington, D.C. Boston, 86 degrees, that's about 15 degrees above average for them. Little cool down coming the second half of the weekend, more heat builds later next week. Victor?\n\nBLACKWELL: All right. Melissa, thank you very much.\n\nStill ahead, President Trump is facing backlash over his pick to lead the intelligence community. The president is waving off questions about Bill Pulte's qualifications.\n\nHey, if you are headed out, I'll ride shotgun. You can watch the show, stream our show from anywhere in the U.S., right from the CNN app. You can also go to cnn.com/watch.\n\nBLACKWELL: Top stories this morning. The chief of staff for Texas Republican Pete Sessions has been charged with carrying a gun onto U.S. Capitol grounds. Capitol police say they found a black pistol and ammunition in the staffer's bag as he was going through a security checkpoint in December.\n\nPolice say he admitted he did not have a license to carry that gun. Court documents note the staffer typically enters the House Office Building with Sessions, who is exempt from being screened.\n\nThe FAA says President Trump's proposed triumphal arch does not appear to pose a potential risk to air travel.\n\nThis is 250 feet tall. Now, it's set to be a place less than two miles from the Ronald Reagan Washington Airport. However, officials at the FAA are recommending that red obstruction lights be added.\n\nPresident Trump says he is interviewing five well-known people to be the next director of National Intelligence. This is after the bipartisan backlash to his choice of Bill Pulte to succeed Tulsi Gabbard in that position. Now, critics say Pulte has no known national security qualifications. Trump has since said that Pulte, who will continue to head up the Federal Housing Finance Agency, will only serve as acting director of National Intelligence. So, up to 210 days.\n\nWe are joined now by Shawn Turner, the former Director of Communications for U.S. National Intelligence.\n\nSean, welcome back to the show. Let me read here first from the Wall Street Journal's interview with the president about his choice of Bill Pulte. He says, \"Frankly, it might be good for him to shake it up before people come. Because if he reduced the size in conjunction with me and in conjunction with possibly the person coming in, he can do a lot of the hard work, and we wouldn't have to saddle somebody that goes in. We've made the Department of Education much smaller, and likewise, this should be much smaller. And this should maybe even be terminated, and we'll make that decision.\"\n\nWhat's your reaction to hearing that the president -- once Pulte -- essentially, going to be the hatchet man? Make it smaller, or maybe we'll just get rid of the ODNI.\n\nSHAWN TURNER, FORMER DIRECTOR OF COMMUNICATION FOR UNITED STATES NATIONAL INTELLIGENCE: Yes, Victor. Good morning. It's good to see you. Good to be with you again.\n\nWhen I hear those words, that maybe even the Office of the Director of National Intelligence should be terminated, I will tell you, as a student of history and someone who spent a long time in government national security, and intelligence, that's a scary thought.\n\nWe have to remember that there are few places in government where the stakes are higher than in the intelligence community. The most consequential decisions that any p"
+    }
+  ]
+}
