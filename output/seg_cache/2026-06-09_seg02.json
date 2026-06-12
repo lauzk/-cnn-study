@@ -1,0 +1,404 @@
+{
+  "date": "2026-06-09",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-09/segment/02",
+  "vocabulary": [
+    {
+      "word": "rigged",
+      "phonetic": "/rɪɡd/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "被操纵的",
+      "en": "dishonestly arranged to achieve a particular result",
+      "excerpt": "Trump Claims California Elections are Rigged",
+      "example_cn": "特朗普声称加州选举被操纵。"
+    },
+    {
+      "word": "unopposed",
+      "phonetic": "/ˌʌnəˈpoʊzd/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "无对手的",
+      "en": "with no opponent or competitor",
+      "excerpt": "Graham Platner is essentially running unopposed after his primary rival, Governor Janet Mills, suspended her campaign.",
+      "example_cn": "格雷厄姆·普拉特纳基本上是在无对手的情况下参选，因为他的初选对手、州长珍妮特·米尔斯暂停了竞选活动。"
+    },
+    {
+      "word": "scandal",
+      "phonetic": "/ˈskændl/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "丑闻",
+      "en": "an action or event that causes public outrage",
+      "excerpt": "Platner is seeking to overcome a wave of scandal, including claims of knowingly getting a Nazi tattoo and allegations of inappropriate behavior with past girlfriends.",
+      "example_cn": "普拉特纳正试图克服一波丑闻，包括明知故犯地纹纳粹纹身以及与前女友不当行为的指控。"
+    },
+    {
+      "word": "allegation",
+      "phonetic": "/ˌæləˈɡeɪʃn/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "指控",
+      "en": "a claim that someone has done something illegal or wrong",
+      "excerpt": "allegations of inappropriate behavior with past girlfriends",
+      "example_cn": "关于与前女友不当行为的指控。"
+    },
+    {
+      "word": "derail",
+      "phonetic": "/dɪˈreɪl/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "使偏离轨道；破坏",
+      "en": "to prevent something from continuing as planned",
+      "excerpt": "Democrats are wondering if his past will derail their chances to unseat Republican Susan Collins in November.",
+      "example_cn": "民主党人想知道他的过去是否会破坏他们在11月击败共和党人苏珊·柯林斯的机会。"
+    },
+    {
+      "word": "unseat",
+      "phonetic": "/ʌnˈsiːt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "使下台；罢免",
+      "en": "to remove someone from a position of power",
+      "excerpt": "Democrats are wondering if his past will derail their chances to unseat Republican Susan Collins in November.",
+      "example_cn": "民主党人想知道他的过去是否会破坏他们在11月击败共和党人苏珊·柯林斯的机会。"
+    },
+    {
+      "word": "vet",
+      "phonetic": "/vet/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "审查",
+      "en": "to examine someone or something carefully to decide if they are suitable",
+      "excerpt": "did you vet this guy?",
+      "example_cn": "你们审查过这个人吗？"
+    },
+    {
+      "word": "vat-grown",
+      "phonetic": "/væt ɡroʊn/",
+      "pos": "adj.",
+      "level": "专八",
+      "cn": "人工培养的；非自然的",
+      "en": "produced artificially in a vat, not naturally",
+      "excerpt": "Part of our thesis here is that people do not want their candidates grown in vats.",
+      "example_cn": "我们的论点之一是，人们不希望他们的候选人是人工培养出来的。"
+    },
+    {
+      "word": "hand-wringing",
+      "phonetic": "/ˈhænd rɪŋɪŋ/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "焦虑；束手无策",
+      "en": "an expression of worry or distress",
+      "excerpt": "And then, you know, there are folks who are hand-wringing and trying to figure out how they support the candidate or not.",
+      "example_cn": "然后，你知道，有些人焦虑不安，试图弄清楚他们是否支持这位候选人。"
+    },
+    {
+      "word": "chattering class",
+      "phonetic": "/ˈtʃætərɪŋ klæs/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "评论界；舆论界",
+      "en": "people who comment on current events, especially in the media",
+      "excerpt": "And it's a shame that, you know, the chattering class was all in for someone who has all these flaws.",
+      "example_cn": "遗憾的是，舆论界全力支持一个有这样那样缺点的人。"
+    },
+    {
+      "word": "postmarked",
+      "phonetic": "/ˈpoʊstmɑːrkt/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "盖邮戳的",
+      "en": "having an official postmark",
+      "excerpt": "postmarked mail-in ballots, received up to a week after election day, can still be counted",
+      "example_cn": "盖有邮戳的邮寄选票，在选举日后一周内收到，仍可计入。"
+    },
+    {
+      "word": "rigger roll",
+      "phonetic": "/ˈrɪɡər roʊl/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "选民名册（非标准术语，此处为口误或特定用法）",
+      "en": "voter roll (non-standard term, possibly a slip)",
+      "excerpt": "What kind of you, you know, rigger roll do you go through?",
+      "example_cn": "你经过什么样的选民名册审查？"
+    },
+    {
+      "word": "clapback",
+      "phonetic": "/ˈklæpbæk/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "回击；反驳",
+      "en": "a sharp or witty response to criticism",
+      "excerpt": "Hunter Biden has become the clapback king online after reactivating his X account.",
+      "example_cn": "亨特·拜登在重新激活他的X账户后，成为了网络回击之王。"
+    },
+    {
+      "word": "relitigate",
+      "phonetic": "/riːˈlɪtɪɡeɪt/",
+      "pos": "v.",
+      "level": "专八",
+      "cn": "重新争论",
+      "en": "to argue about something again, especially in a legal context",
+      "excerpt": "I think it's interesting that he is relitigating some of these issues direct into the lifeblood of the media ecosystem on the right.",
+      "example_cn": "我认为有趣的是，他正在重新争论其中一些问题，直接触及右翼媒体生态系统的命脉。"
+    },
+    {
+      "word": "platform",
+      "phonetic": "/ˈplætfɔːrm/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "为…提供平台",
+      "en": "to give someone an opportunity to express their views",
+      "excerpt": "Candace Owens has been platforming people that have spewed stuff that is egregiously false and controversial.",
+      "example_cn": "坎迪斯·欧文斯一直在为那些散布极其虚假和有争议言论的人提供平台。"
+    },
+    {
+      "word": "egregiously",
+      "phonetic": "/ɪˈɡriːdʒəsli/",
+      "pos": "adv.",
+      "level": "专八",
+      "cn": "极其地；惊人地",
+      "en": "in a shocking or outstandingly bad way",
+      "excerpt": "Candace Owens has been platforming people that have spewed stuff that is egregiously false and controversial.",
+      "example_cn": "坎迪斯·欧文斯一直在为那些散布极其虚假和有争议言论的人提供平台。"
+    },
+    {
+      "word": "sanitize",
+      "phonetic": "/ˈsænɪtaɪz/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "美化；净化",
+      "en": "to make something seem more acceptable or less offensive",
+      "excerpt": "I think Hunter Biden coming back into the limelight, this is a way to kind of sanitize the public image of himself.",
+      "example_cn": "我认为亨特·拜登重新回到聚光灯下，这是一种美化自己公众形象的方式。"
+    },
+    {
+      "word": "limelight",
+      "phonetic": "/ˈlaɪmlaɪt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "公众注意的中心",
+      "en": "the focus of public attention",
+      "excerpt": "I think Hunter Biden coming back into the limelight",
+      "example_cn": "我认为亨特·拜登重新回到聚光灯下"
+    },
+    {
+      "word": "Substack",
+      "phonetic": "/ˈsʌbstæk/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "Substack（新闻通讯平台）",
+      "en": "a platform for publishing newsletters",
+      "excerpt": "I think he said he's opening a Substack soon.",
+      "example_cn": "我想他说他很快就要开一个Substack。"
+    },
+    {
+      "word": "problematic fave",
+      "phonetic": "/ˌprɑːbləˈmætɪk feɪv/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "有问题的喜爱对象",
+      "en": "a favorite person or thing that is controversial or problematic",
+      "excerpt": "He's letting us know that people he's going to be that problematic fave, as they say.",
+      "example_cn": "他让我们知道，他会成为人们所说的那种有问题的喜爱对象。"
+    },
+    {
+      "word": "astronomically",
+      "phonetic": "/ˌæstrəˈnɑːmɪkli/",
+      "pos": "adv.",
+      "level": "六级",
+      "cn": "天文数字地；极其",
+      "en": "extremely; to a very large degree",
+      "excerpt": "those prices were astronomically ridiculous.",
+      "example_cn": "那些价格高得离谱。"
+    },
+    {
+      "word": "revoke",
+      "phonetic": "/rɪˈvoʊk/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "撤销；取消",
+      "en": "to officially cancel something",
+      "excerpt": "The Spurs have revoked those memberships and revoked those season ticket holders",
+      "example_cn": "马刺队已经撤销了那些会员资格和季票持有者资格。"
+    },
+    {
+      "word": "kickoff",
+      "phonetic": "/ˈkɪkɔːf/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "开始；开幕",
+      "en": "the start of something",
+      "excerpt": "I went to the two kickoff concerts for the Bruce Springsteen Center for American Music.",
+      "example_cn": "我参加了布鲁斯·斯普林斯汀美国音乐中心的两场开幕音乐会。"
+    },
+    {
+      "word": "uplifting",
+      "phonetic": "/ʌpˈlɪftɪŋ/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "令人振奋的",
+      "en": "making someone feel happier or more hopeful",
+      "excerpt": "it was uplifting and exciting.",
+      "example_cn": "它令人振奋且激动人心。"
+    },
+    {
+      "word": "bog",
+      "phonetic": "/bɑːɡ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "使陷入；纠缠",
+      "en": "to cause someone to be stuck or overwhelmed",
+      "excerpt": "My family knows I bog them every single day with history stuff.",
+      "example_cn": "我的家人知道，我每天都用历史知识纠缠他们。"
+    },
+    {
+      "word": "motion",
+      "phonetic": "/ˈmoʊʃn/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "动议；提议",
+      "en": "a formal proposal put to a vote",
+      "excerpt": "Richard Henry Lee had introduced a motion just on June 8th which said that the colony should call for independence.",
+      "example_cn": "理查德·亨利·李在6月8日提出了一项动议，称殖民地应该要求独立。"
+    },
+    {
+      "word": "committee of five",
+      "phonetic": "/kəˈmɪti əv faɪv/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "五人委员会（指起草《独立宣言》的委员会）",
+      "en": "the committee appointed to draft the Declaration of Independence",
+      "excerpt": "the committee of five appointed on June 11th Thursday, which is when Thomas Jefferson was assigned to write the Declaration of Independence.",
+      "example_cn": "6月11日星期四任命的五人委员会，正是托马斯·杰斐逊被指派撰写《独立宣言》的时候。"
+    },
+    {
+      "word": "declaration",
+      "phonetic": "/ˌdekləˈreɪʃn/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "宣言；声明",
+      "en": "a formal statement",
+      "excerpt": "they actually vote on that declaration on July 2nd.",
+      "example_cn": "他们实际上在7月2日对那份宣言进行了投票。"
+    },
+    {
+      "word": "affirmation",
+      "phonetic": "/ˌæfərˈmeɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "肯定； affirmation",
+      "en": "a statement that something is true or that you support something",
+      "excerpt": "And I write down all the different things that I'm declaring for myself. And it's more of an affirmation",
+      "example_cn": "我写下所有我为自己宣告的不同事物。这更像是一种肯定。"
+    },
+    {
+      "word": "scroll",
+      "phonetic": "/skroʊl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "卷轴",
+      "en": "a long roll of paper or parchment for writing",
+      "excerpt": "if you write it on a scroll",
+      "example_cn": "如果你把它写在卷轴上"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Platner is seeking to overcome a wave of scandal, including claims of knowingly getting a Nazi tattoo and allegations of inappropriate behavior with past girlfriends, all of which he has denied.",
+      "cn": "普拉特纳正试图克服一波丑闻，包括明知故犯地纹纳粹纹身以及与前女友不当行为的指控，所有这些他都否认了。",
+      "structure": "主谓宾 + 同位语（including...） + 定语从句（all of which...）",
+      "analysis": "主句为Platner is seeking to overcome a wave of scandal，后接including引导的短语作同位语，列举丑闻内容，最后all of which引导非限制性定语从句修饰claims和allegations。"
+    },
+    {
+      "en": "Part of our thesis here is that people do not want their candidates grown in vats; they want people who are real human beings, and they want people who do not look and sound like the vat-grown people who have been leading this country off a cliff for the last century.",
+      "cn": "我们的论点之一是，人们不希望他们的候选人是人工培养出来的；他们想要真实的人，他们想要那些看起来和听起来都不像上个世纪一直把这个国家引向悬崖的人工培养的人。",
+      "structure": "主系表 + 表语从句（that...） + 并列句（they want...）",
+      "analysis": "主句为Part of our thesis here is that...，that引导表语从句，从句中包含两个并列分句，第二个分句中包含两个who引导的定语从句修饰people。"
+    },
+    {
+      "en": "I get and understand the frustration of going through the party filter sometimes, but there's a level of quality checks that, when you go through that process, you understand what you are getting in the end, instead of this wild card now.",
+      "cn": "我理解有时通过政党筛选的挫败感，但有一定程度的质量检查，当你经历那个过程时，你最终会明白你得到的是什么，而不是现在这种未知数。",
+      "structure": "主谓宾 + but连接并列句 + that引导定语从句 + when引导时间状语从句",
+      "analysis": "主句为I get and understand the frustration，but后为并列句，其中that引导定语从句修饰quality checks，从句中嵌套when引导的时间状语从句。"
+    },
+    {
+      "en": "And it's a shame that, you know, the chattering class was all in for someone who has all these flaws, and we knew it from the start.",
+      "cn": "遗憾的是，你知道，舆论界全力支持一个有这样那样缺点的人，而我们从一开始就知道。",
+      "structure": "主系表 + that引导主语从句 + who引导定语从句",
+      "analysis": "主句为It's a shame，that引导主语从句，从句中who引导定语从句修饰someone。"
+    },
+    {
+      "en": "California's elections often take days to get resolved because postmarked mail-in ballots, received up to a week after election day, can still be counted, again, as long as they are postmarked on election day.",
+      "cn": "加州的选举通常需要几天才能有结果，因为盖有邮戳的邮寄选票，在选举日后一周内收到，仍可计入，只要它们在选举日当天盖有邮戳。",
+      "structure": "主谓宾 + because引导原因状语从句 + as long as引导条件状语从句",
+      "analysis": "主句为California's elections often take days to get resolved，because引导原因状语从句，从句中嵌套as long as引导的条件状语从句。"
+    },
+    {
+      "en": "I think it's interesting that he is relitigating some of these issues direct into the lifeblood of the media ecosystem on the right.",
+      "cn": "我认为有趣的是，他正在重新争论其中一些问题，直接触及右翼媒体生态系统的命脉。",
+      "structure": "主谓宾 + that引导宾语从句",
+      "analysis": "主句为I think，后接省略that的宾语从句，从句中it为形式主语，真正主语为that引导的从句。"
+    },
+    {
+      "en": "And it's very reminiscent of when Charlie Sheen had said, if there are drugs in the house I'm going to find them.",
+      "cn": "这让人想起查理·辛曾说过的话：如果房子里有毒品，我会找到它们。",
+      "structure": "主系表 + of介词短语 + when引导宾语从句 + if引导条件状语从句",
+      "analysis": "主句为It's very reminiscent of...，of后接when引导的宾语从句，从句中嵌套if引导的条件状语从句。"
+    },
+    {
+      "en": "And this concert was fascinating because they went from the Revolutionary War to the present, kind of decade by decade.",
+      "cn": "这场音乐会非常吸引人，因为他们从独立战争一直演到现在，差不多每十年一个阶段。",
+      "structure": "主系表 + because引导原因状语从句",
+      "analysis": "主句为this concert was fascinating，because引导原因状语从句。"
+    },
+    {
+      "en": "And this next week you will see the committee of five appointed on June 11th Thursday, which is when Thomas Jefferson was assigned to write the Declaration of Independence.",
+      "cn": "下周你将看到6月11日星期四任命的五人委员会，正是托马斯·杰斐逊被指派撰写《独立宣言》的时候。",
+      "structure": "主谓宾 + which引导非限制性定语从句 + when引导表语从句",
+      "analysis": "主句为you will see the committee of five，which引导非限制性定语从句修饰committee，从句中when引导表语从句。"
+    },
+    {
+      "en": "And all of us have done something like that, something where we —",
+      "cn": "我们所有人都做过类似的事情，一些我们——",
+      "structure": "主谓宾 + 同位语 + where引导定语从句",
+      "analysis": "主句为all of us have done something，something like that为同位语，where引导定语从句修饰something。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "Maine Democratic Primary and Candidate Scandal",
+      "content": "缅因州民主党初选中，候选人Graham Platner面临纳粹纹身和不当行为指控，但其仍领先。前州长Janet Mills虽暂停竞选但仍出现在选票上。讨论涉及政党筛选、选民对丑闻的态度以及民主党内部策略。",
+      "keywords": "Maine primary, Graham Platner, Nazi tattoo, Janet Mills, Democratic Party, scandal, voter behavior"
+    },
+    {
+      "title": "California Election Integrity and Trump's Claims",
+      "content": "加州选举因邮寄选票计票缓慢引发争议，特朗普声称选举被操纵，但无证据。共和党候选人Steve Hilton表示未发现问题。讨论涉及选举制度、选民信任以及联邦与州在选民名单管理上的冲突。",
+      "keywords": "California election, mail-in ballots, Trump, rigged, voter rolls, HAVA, federal vs state"
+    },
+    {
+      "title": "Hunter Biden's Public Comeback",
+      "content": "亨特·拜登重新活跃于社交媒体，回击批评者，并接受右翼媒体采访。讨论其动机、公众形象重塑以及民主党内部对其复出的不同看法。",
+      "keywords": "Hunter Biden, clapback, public image, Candace Owens, Substack, Democratic reaction"
+    },
+    {
+      "title": "World Cup Ticket Prices and Fan Frustration",
+      "content": "世界杯门票价格高昂引发球迷不满，讨论市场定价、球队管理以及球迷的应对方式。",
+      "keywords": "World Cup, ticket prices, fan frustration, Spurs, secondary market"
+    },
+    {
+      "title": "America 250 and Personal Declarations of Independence",
+      "content": "美国250周年纪念，讨论历史事件如《独立宣言》的起草，以及个人如何通过撰写自己的独立宣言来庆祝。",
+      "keywords": "America 250, Declaration of Independence, Richard Henry Lee, Thomas Jefferson, personal declaration"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nJamie Harrison is Interviewed about the Platner Controversies; Trump Claims California Elections are Rigged; Hunter Biden Steps Back into Public. Aired 6:30-7a ET\n\nAired June 09, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nUNIDENTIFIED FEMALE: I'm a Democrat, but I don't feel like he's going to be my choice.\n\nUNIDENTIFIED FEMALE: I don't want Susan Collins to win. And I think that maybe Janet Mills has a greater chance of beating Susan than Graham did.\n\nAUDIE CORNISH, CNN ANCHOR: So, voting is underway for primary day in Maine. Democrats choosing between Graham Platner or Janet Mills, who is still on the ballot. We're going to talk about that more in a moment.\n\nGood morning, everybody. I'm Audie Cornish. And thank you for joining me on CNN THIS MORNING.\n\nIt is now half past the hour. And here's what's happening right now.\n\nPresident Trump saying pilots are OK after a report of an Apache helicopter going down near the Strait of Hormuz. \"The New York Times\" reported that two crew members had to be rescued. The president says he plans to release more detail about what happened later today.\n\nChinese President Xi Jinping wrapping up his two-day visit in North Korea with leader Kim Jong-un.\n\nIt's been seven years since Xi's last visit. He's called for deepening, quote, \"strategic cooperation\" with North Korea.\n\nAnd intense flash flooding hits Missouri, with multiple people needing to be rescued from their homes and cars. We're talking about four to six inches of rain falling on parts of the state on Monday. And it did trigger an emergency.\n\nUNIDENTIFIED FEMALE: We pretty much just woke up to our whole house completely full of water.\n\nUNIDENTIFIED MALE: We're screwed. I mean, there's no really -- no other way to put it.\n\nCORNISH: Local officials are saying that it remains unclear exactly how many people were impacted by the floods.\n\nAnd some polls are now open in Maine, one of four states holding primaries today. Voters will decide who will go head-to-head in a race that could decide which party controls the Senate. Graham Platner is essentially running unopposed after his primary rival, Governor Janet Mills, suspended her campaign. But here's the thing, she's still on the ballot and votes for her will still count. Platner is seeking to overcome a wave of scandal, including claims of knowingly getting a Nazi tattoo and allegations of inappropriate behavior with past girlfriends, all of which he has denied. Democrats are wondering if his past will derail their chances to unseat Republican Susan Collins in November.\n\nUNIDENTIFIED FEMALE: I don't like it.\n\nBut if he votes the way I want him to, and he can defeat Susan Collins, yes, go for it.\n\nUNIDENTIFIED FEMALE: The truth is, is the Nazi tattoo should have been enough.\n\nUNIDENTIFIED FEMALE: If his wife can deal with it, who am I to argue?\n\nUNIDENTIFIED FEMALE: The problems that are facing Maine and this country are too serious for us to focus on this purity politics kind of stuff.\n\nUNIDENTIFIED FEMALE: I'm definitely voting for him. I, honestly, I would vote for a doorknob over Susan Collins.\n\nCORNISH: Joining me now, Jamie Harrison, former chair of the former Democratic National Committee.\n\nJamie, thank you so much for being here.\n\nI wanted you to be here because this race has gotten so much attention. Platner was recruited by people who weren't the Democratic Party, right?\n\nJAMIE HARRISON, FORMER DEMOCRATIC NATIONAL COMMITTEE CHAIR: Yes.\n\nCORNISH: And now we've seen a lot of questions as a result.\n\n\"The Wall Street Journal\" actually interviewed the people who recruited him, and they said, did you vet this guy? What questions did you ask? How do you feel about it with the controversies now? Here's how they replied.\n\nDANIEL MORAFF, SENIOR STRATEGIST, Platner CAMPAIGN: I think, if what the voters wanted were people who were grown in vats and had never done or said anything that they might regret their entire lives, we'd have a very different country. Part of our thesis here is that people do not want their candidates grown in vats. They want people who are real human beings, and they want people who do not look and sound like the vat-grown people who have been leading this country off a cliff for the last century. And that was Graham.\n\nCORNISH: What side of the argument are you on here?\n\nHARRISON: Well, my apologies for being in this little, small phone booth in an American Airlines lounge, Audie.\n\nBut listen, the bottom line is this. I supported Governor Janet Mills because I thought she was the strongest candidate in the race. And I can tell you, if I were voting in Maine today, she would still get my vote.\n\nBut the Democratic voters will --\n\nCORNISH: But can you address the argument that they're saying? Like, they -- we're seeing this more and more. Mamdani is a great example.\n\nCORNISH: People who are entering and they don't enter with the permission, so to speak, of the DNC or anyone from any formal organization.\n\nHARRISON: Well, but this is the thing. When you -- when you don't go through the regular process, then you get problems and issues like we have now, folks who aren't properly vetted, folks whose backgrounds have a lot of issues and problems in it that that jeopardize whether or not you win in the general election.\n\nI get and understand the frustration of going through the party filter sometimes. I totally get that as someone who's been a state party chair and the national chair. But at -- but there's a level of quality checks that, when you go through that process, you understand what you are getting in the end, instead of this wild card now. And then, you know, there are folks who are hand-wringing and trying to figure out how they support the candidate or not.\n\nIn the end of the day, you know, Graham Platner becomes the nominee because Mainers in the Democratic primary vote for him. This will be a contest between Graham Platner and Susan Collins. And we know what we get with Susan Collins. Her legacy is tied to Supreme Court confirmations that have fundamentally changed the country.\n\nCORNISH: Well, Jamie, let me stop you there, because we also just heard a voter say that they'd rather vote for a doorknob than Collins. So, you don't have to sell it on election day.\n\nBut it is seen as one of a pickup opportunity.\n\nCORNISH: You said you're a supporter of Mills. She suspended her campaign.\n\nBut she's not all the way gone, right?\n\nCORNISH: Like, not formally withdrawn.\n\nHere's what she told \"The Portland Press.\" And I think she was saying that, \"people have the impression that I 'withdrew' or 'dropped out,' but I simply suspended active campaigning. And I'm still on the ballot.\"\n\nSo, then Senator John Fetterman weighs in on why he thinks she may not be connecting with voters.\n\nSEN. JOHN FETTERMAN (D-PA): In was a setting --\n\nMANU RAJU, CNN CHIEF CONGRESSIONAL CORRESPONDENT: She's the sitting governor and upstanding as a -- as a committed Democrat, you know. And it seems like the only thing wrong with her is she happens to be 78. So --\n\nCORNISH: He's talking about age as a factor. Can you talk about whether or not people, do you think, will be writing her in today or will be checking her name off, since she's still on the ballot, or is that wishful thinking?\n\nHARRISON: No, I think people would. I mean, if I were voting in Maine today, that's who I would be voting for as well. And that's the problem that I have with some parts of the Democratic Party at this point. It is -- you know, they can look past every other flaw but age, right? If you're an older Democrat, then that -- that is the fundamental flaw that everything else breaks down.\n\nBut in the end of the day, what people want is, somebody's going to fight for them regardless of their age. Someone who has experience, who can be effective in terms of legislating. And Janet Mills has that proven record. And it's a shame that, you know, the chattering class was all in for someone who has all these flaws. And we knew it from the start.\n\nBut in the end, again, you know, regardless of what happens in this primary, it's about the general election.\n\nCORNISH: Well one -- yes, it is.\n\nHARRISON: And it's between Susan Collins and likely Graham Platner. Yes.\n\nCORNISH: Thank you for being on. This is a fascinating race, especially since it was voters, right, in polling who put Platner so far ahead. And I'm going to be interested to see what kind of lessons Democrats take from this.\n\nJamie, thank you for your time. Good luck catching your flight.\n\nCORNISH: And tonight at 8 Eastern, CNN has live coverage of some of these key primaries across the country. And you can watch them on CNN or on the CNN app.\n\nIn California, former reality star Spencer Pratt is out in the Los Angeles mayoral election. The CNN decision desk projects that Nithya Raman will advance to the general election to take on incumbent Karen Bass. In the governor's race, the CNN decision desk projects that Democrat Xavier Becerra will advance to November. Republican Steve Hilton is holding a lead for second.\n\nCalifornia's elections often take days to get resolved because postmarked mail-in ballots, received up to a week after election day, can still be counted, again, as long as they are postmarked on election day.\n\nThis has fueled President Trump's claims that the California elections are rigged. There is no evidence provided for that. Steve Hilton told CNN's Erin Burnett last night that's not what he's seeing.\n\nSTEVE HILTON (R), CALIFORNIA GUBERNATORIAL CANDIDATE: We've got teams standing by, lawyers standing by, and actually, it's the same answer that actually I've been giving for a few days now. We've seen nothing that would give us cause to intervene in that way.\n\nCORNISH: I want to bring it back to the group chat.\n\nWe've got this sort of thing where, again, you've got the leading Republican in the statewide race saying, I actually think it's going pretty well, probably because he's second. But we also saw Trump blow up at Kristen Welker at NBC for getting -- specifically on this issue, which is crazy considering they were talking about Iran and a variety of other things.\n\nWhy do you think this issue has captured the imagination, especially on the right? Like, why are people looking at these two races and saying, aha, indicative of nationwide problems?\n\nBRIANNA LYMAN, REPORTER, \"THE FEDERALIST\": Well, I think it's fair skepticism for voters to look at a place like Los Angeles, for example. And you see that on election night, Spencer Pratt was up by about eight to 10 points. And when you went to bed, he was up by eight to 10 points. The next morning --\n\nCORNISH: And that's what the percentage of vote counted being 28 percent, 35 percent.\n\nCORNISH: Just as a reporter, you're not looking at the full count.\n\nLYMAN: Sure. Sure. So, traditionally, Americans, for decades, have expected to receive results on election night. That has not been the same for probably the past six years, really, with Covid starting, people began to expect a delay in results. But for a lot of Americans, they expect results on election night. And I think that there are Americans who say, look, a week after this election, a week after Nithya Raman, she gave a speech that even CSPAN characterized as a concession speech. She almost publicly dismissed any possibility for a path forward.\n\nLYMAN: So, you put that into play. And then you see all these ballot drops, which tend to favor Nithya Raman even over Karen Bass, especially when Nithya Raman actually underperformed in her own city council district.\n\nI do think it's fair for people just to say, a week later suddenly the guy who was in second place on the night of the election, there are some questions --\n\nCORNISH: So, let me bring in someone who's run a mayoral race and may have some thoughts about why you give a concession speech when there's only x amount of percentage of the ballots counted.\n\nWas that a mistake? Can you talk about the dynamics at play here?\n\nCHRISTINE QUINN, EXEC. COMMITTEE CHAIR, NY STATE DEMOCRATIC COMMITTEE: I mean the way it works in California is very different than a lot of other states. The way you can mail in ballots. And one thing we see in California is the ballots that come in later tend to be Democratic ballots, which is not a surprise.\n\nCORNISH: Yes. But then so why wouldn't Raman be like, hey, everyone chill.\n\nQUINN: I thought it was strange.\n\nQUINN: I thought it was strange that she gave that kind of a speech, as opposed to, let's all wait and see.\n\nQUINN: I think she missed the mark and probably got, you know, I think it -- look, election night is crazy. And if you're not winning, clearly you just want it to end and be over.\n\nCARI CHAMPION, HOST, \"FLAGRANT AND FUNNY\": That is what I thought. I thought the narrative got to her.\n\nQUINN: Yes, I think that's right.\n\nCHAMPION: I think that's what happened. I think the narrative of perhaps this Spencer Pratt being someone that people were really excited about, and it's usually those who can't vote for mayor in L.A.\n\nCHAMPION: Because I am a California resident. I vote --\n\nCORNISH: Yes, he was the internet's mayor for a week.\n\nCORNISH: Mamdani was the internet's mayor last fall.\n\nCHAMPION: Exactly. Exactly.\n\nCORNISH: Won our hearts with vigorous use of A.I.\n\nWhen I look at the L.A. voter breakdown, he was winning areas, you're talking about Westside, Pacific Palisades, which makes sense. He was fighting for their issue around rebuilding after the fires.\n\nCORNISH: You've got Karen Bass getting south of L.A., south of Santa Monica Freeway. Nithya Raman, Echo Park, Hollywood, to Highland Park.\n\nCHAMPION: Makes sense.\n\nCORNISH: The reason why it -- yes, it makes sense, right, for California here.\n\nCHAMPION: It makes perfect sense.\n\nCORNISH: I think the reason why I wanted to ask is because we're in this weird situation now where we're like, oh, this heavily Democratic city went to Democrats. Scandal. Skepticism. You know what I mean? And I feel like when I look at the Texas race, I'm not like, there should be bigger numbers here for the DSA. It's like, well, it kind of is breaking down the way the overall voter rolls break down.\n\nQUINN: And it's interesting for the president to be kind of so, you know, animated, to put it mildly, about the mayor's race when in the governor's race you're probably most likely going to have a Republican and a Democrat. So --\n\nCHAMPION: Yes, which is why Hilton's like, it's fine to me. No big deal.\n\nQUINN: Exactly. Exactly.\n\nCHAMPION: Everything looks good here.\n\nCORNISH: How will people -- I just want to give the last word to you, Brianna, because you are bringing this up. We're in a moment where you've got several states fighting Trump and fighting his DOJ on having to turn over their voter rolls. The administration has a new initiative where they say, look, states, we want everybody's unredacted voter rolls, names, birth dates, all the things. We're going to check it against a database we have. And there are some states who are saying, yes, and some states that are like, wait, that's not legal. Under the Constitution, states deal with voter rolls. Is his talking about California really about this fight?\n\nLYMAN: Well, I think so. And actually, when it comes to voter rolls, so under HAV (ph) and HAVA, which are 2001 and 2004 election, federal election laws, states do have to comply with federal election voter roll audits.\n\nLYMAN: California is one of those states that said, I am not going to comply. And I do think there is reason for people to question California's audit rules (ph).\n\nFor example, in California, you're supposed to provide your driver's license identification number and your Social Security Number when registering to vote, which neither one of them necessarily guarantees a check citizenship, but it's a pretty decent check. But in California, if you are unable to provide either of those documents, you can actually provide proof of identity to register to vote with something as simple as a gym membership.\n\nLYMAN: What kind of you, you know, rigger roll (ph) do you go through?\n\nCORNISH: And so far they have not reported widespread fraud when they've done their audits.\n\nLYMAN: Well, they're also not -- they 're also -- right, but they're also not letting the federal government check their audits. So, I think that's a concern that people have.\n\nCORNISH: Absolutely. And I think -- the reason why I'm not addressing it now is because it's before the courts, right?\n\nCORNISH: Actively asking whether or not the government has the right to ask for it.\n\nCORNISH: And the extent of information they do, and to use that to check against a database with known flaws, right? Because then you're kicking people off the rolls based on a database that isn't working so well.\n\nSo, this story is not going to go away.\n\nCORNISH: Even though it sounds like it's just about California's races.\n\nNext on CNN THIS MORNING, Hunter Biden has been out talking a lot, and now he's really clapping back. We're going to ask why? Why now?\n\nUNIDENTIFIED MALE: We can't afford it. We can't -- we'd rather stay home and just watch the game.\n\nCORNISH: Staggering prices. The ugly cost of the beautiful game.\n\nUNIDENTIFIED MALE: Hunter Biden, my guy, a natural born poster, a beacon of light in a dark world.\n\nUNIDENTIFIED MALE: Hunter Biden is proof that you can't hurt somebody's feelings if they are 100 percent honest about who they are.\n\nUNIDENTIFIED FEMALE: When they go low, we go Hunter Biden. And I will not be explaining any further.\n\nCORNISH: I can't do better than that. Hunter Biden has entered the chat. The son of the former president, Joe Biden, has become the clapback king online after reactivating his X account. His posts are a mix of political attacks, hitting back at critics, personal reflection and addressing his past addictions and controversies.\n\nHUNTER BIDEN: I know there's going to be a lot of haters, a lot of trolls, a lot of people saying really, really awful things. But I've heard it all before. It doesn't even faze me. I promise you. I know who I am. I know what I've done. I know the amends that I need to make.\n\nCORNISH: Hunter's reshaping of his image comes at the same time his stepmother, former First Lady Jill Biden, is getting mixed reviews from her post-White House memoir, where she shares her view of the 2024 election. Some Democrats say it's reopening old political wounds.\n\nI don't know who to start with here.\n\nCari, who actually went, oh, when you were watching that, or Christine, who maybe has more doubts. More doubts. Why do people have political comebacks? Like, where are they effective? Where are they not?\n\nQUINN: Well, when you're Hunter Biden and your father had to, you know, pardon you for everything you may ever think, do or possibly have done, comeback, it should not be in your vocabulary. Keep your head down. Hope that people forget. That should be in your vocabulary.\n\nCORNISH: See, that is the least American thing you could say.\n\nCHAMPION: That's the least of what -- yes.\n\nCORNISH: We love a second act (ph).\n\nQUINN: But as a Democrat, I -- as a Democrat, I do not need Hunter Biden out there reminding people.\n\nCHAMPION: Oh, no. Oh, no. I totally -- I totally disagree with that. And I think it goes very much to what we were talking about earlier. We were talking about what was going on in Maine.\n\nI think people really enjoy the fact that he is so authentic, almost to the point where it's embarrassing. And yes, he is reopening probably perhaps some new -- old wounds, but he's saying, so what? This is what it is.\n\nWhat do you do when someone -- you say, you know what, you really are a horrible human. You're right. I am. There's no response to that. Like, and I'm not saying that he's a horrible human, but I'm like, there's just --\n\nCORNISH: Yes, yes, yes. Although that lady was. That was --\n\nQUINN: Yes, she was. Right. CORNISH: (INAUDIBLE) compliment I've ever heard.\n\nCORNISH: So, you said no Democrats want him back. But I can think of some people do.\n\nCORNISH: This is Hunter Biden on the Candace Owens podcast.\n\nHUNTER BIDEN: But they had a problem with me as being this emblematic emblem of corruption. These guys, OK, Don Junior got the single largest loan guarantee from the Department of Defense ever handed out of over $600 million for an energy company, a fusion energy company, of which he has zero, zero experience in it.\n\nCORNISH: Brianna, I think it's interesting that he is relitigating some of these issues direct into the lifeblood of the media ecosystem on the right. He's not going to any random place, right? He's going to Candace Owens, who's in the middle of a massive brawl, so to speak, with TPUSA. He's talking about Epstein. He's talking about things that this particular world of people agree with him on.\n\nLYMAN: Well, I think, first of all, I think Hunter Biden coming back into the limelight, this is a way to kind of sanitize the public image of himself that I think he himself had tarnished for a few years.\n\nCORNISH: But why would Candace Owens sanitize it?\n\nLYMAN: Candace Owens -- well, Candace Owens has been platforming people that have spewed stuff that is egregiously false and controversial and insulting to a lot of people, and I don't think she's someone that should be platformed. So, I'm not going to take any -- I'm going to take this interview with a grain of salt.\n\nI think when it comes to Hunter Biden, I will say, something that appeals to younger people is that level of honesty. You know, he said, look, if those were my drugs at the White House, you think I'd leave them there?\n\nLYMAN: And it's very reminiscent of when Charlie Sheen had said, if there are drugs --\n\nLYMAN: He was like, if there are drugs in the house I'm going to find them. That was Charlie Sheen years ago. And that's kind of become an internet meme. So, I think Hunter Biden is trying to reestablish himself and maybe in part because he does see himself as needing some kind of online support base in order to have a future career. I think he said he's opening a Substack soon. So, he wants to garner --\n\nCHAMPION OK. Who doesn't have a Substack?\n\nCORNISH: OK. Next you're going to say he has a podcast.\n\nLYMAN: But he wants to -- he wants to garner that -- that big audience.\n\nCORNISH: You think it's laying the ground for something else?\n\nLYMAN: I think he's laying the ground for a future career.\n\nCORNISH: This is like the Serena Williams Olympics thesis over here.\n\nCHAMPION: Right. He's not -- and, by the way, he's not even managing our expectations. He's letting us know that people he's going to be that problematic fave, as they say.\n\nCHAMPION: And people will enjoy it and they'll go to him and they're like, I don't know why I enjoy it, but I simply do.\n\nCORNISH: OK. I want to turn to our group chats because in mine are all the family in the Cornish Hen WhatsApp group. They're not loving these World Cup prices. It's a problem. They are very unhappy.\n\nCORNISH: Before we get to yours, what's the deal? Like, are people just going to have to suck it up?\n\nCORNISH: Or is FIFA creating long term engendering frustration?\n\nCHAMPION: No, I think -- and I hate to even bring up, you know, game three last night, those prices were astronomically ridiculous. And let me tell you, just side note, Spurs, this is what the Spurs have done. They have season ticket holders who have these courtside seats and they've been reselling them on the second market -- secondary market to other players, other people, like the Knicks. The Spurs have revoked those memberships and revoked those season ticket holders because they want to give them -- they're making a point here.\n\nLook, this is ridiculous. The prices are out of control.\n\nCORNISH: So, there are things they can do?\n\nCHAMPION: There are things you can do. But for the most part we're just going to -- if you really want to see it, this is every so often it's here. People are going to pay.\n\nCHAMPION: People have saved up all -- you have no choice. You just have no choice.\n\nCORNISH: I know. It's what the market will (ph) bear.\n\nCHAMPION: It's what it is.\n\nCORNISH: OK, Christine, what's in your group chat?\n\nQUINN: Well, this past weekend, Thursday and Friday actually of last week, I went to the two kickoff concerts for the Bruce Springsteen Center for American Music.\n\nCORNISH: We're -- whoa, wait, Bruce Springsteen has a museum?\n\nQUINN: Monmouth University. Yes. It just opened at Monmouth University, down the shore in Jersey. And it's obviously about him, but more broadly it's about the history of American music. And this concert was fascinating because they went from the Revolutionary War to the present, kind of decade by decade.\n\nCORNISH: What? For Bruce Springsteen?\n\nCORNISH: Is this his presidential library?\n\nQUINN: It was kind of like that.\n\nCORNISH: What's happening here?\n\nQUINN: It was kind of like that, but it was uplifting and exciting.\n\nCORNISH: OK, I take it. .I'll take time land cleanse from you, Christine.\n\nBrianna, what are you thinking about? What's going on in the group chat?\n\nLYMAN: Well, she brought up the Revolution. My family knows I bog them every single day with history stuff. And this week is very important in America 250.\n\nCORNISH: Your America 250.\n\nLYMAN: Robert E. Lee had introduced -- or Richard Henry Lee had introduced a motion just on June 8th which said that the colony should call for independence. And this next week you will see the committee of five appointed on June 11th Thursday, which is when Thomas Jefferson was assigned to write the Declaration of Independence. And then we'll see, in about two and a half weeks from now, they actually vote on that declaration on July 2nd. So, I've been reminding --\n\nCORNISH: You're doing a timeline. You're doing these --\n\nLYMAN: A whole -- every -- my parents know about it every day.\n\nCORNISH: I like it. I like it.\n\nCORNISH: Also, I've been trying to find ways to celebrate the 250 that are not from the government.\n\nCORNISH: Like, there's just ways to look into your own history and share that with family and friends. What are you thinking about?\n\nCHAMPION: Well, I wasn't -- this wasn't in my group chat, but since she said it, for 250 anniversary, a group of friends, we have decided to write our own Declaration of Independence.\n\nLYMAN: Oh, I love it.\n\nCHAMPION: And it's a group of us, a large group rather. And we all have decided, let me tell you what I am independent of. And so mine has been, just as a black woman here in the United States of America, I removed the mask of trying to fit in to something that I can't fit into. And I write down all the different things that I'm declaring for myself. And it's more of an affirmation so that I know that I can push forward. And all of us have done something like that. Something where we --\n\nCORNISH: That's amazing.\n\nThat is a great idea.\n\nCHAMPION: Yes, where we -- it really is.\n\nCORNISH: And also, if you write it on a scroll, in a --\n\nLYMAN: In a Chrome Pad (ph).\n\nCORNISH: In the Bruce Springsteen Museum of American History.\n\nQUINN: Exactly. Exactly. And it all goes together.\n\nCORNISH: You guys are a fantastic group. I'm so glad to be with you.\n\nThank you for waking up with us. We have plenty more headlines. So, please, stick around.\n\nI'm Audie Cornish. And you're going to be listening to CNC, \"NEWS CENTRAL,\" next.",
+  "segments": [
+    {
+      "seg": 2,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-09/segment/02",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nJamie Harrison is Interviewed about the Platner Controversies; Trump Claims California Elections are Rigged; Hunter Biden Steps Back into Public. Aired 6:30-7a ET\n\nAired June 09, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nUNIDENTIFIED FEMALE: I'm a Democrat, but I don't feel like he's going to be my choice.\n\nUNIDENTIFIED FEMALE: I don't want Susan Collins to win. And I think that maybe Janet Mills has a greater chance of beating Susan than Graham did.\n\nAUDIE CORNISH, CNN ANCHOR: So, voting is underway for primary day in Maine. Democrats choosing between Graham Platner or Janet Mills, who is still on the ballot. We're going to talk about that more in a moment.\n\nGood morning, everybody. I'm Audie Cornish. And thank you for joining me on CNN THIS MORNING.\n\nIt is now half past the hour. And here's what's happening right now.\n\nPresident Trump saying pilots are OK after a report of an Apache helicopter going down near the Strait of Hormuz. \"The New York Times\" reported that two crew members had to be rescued. The president says he plans to release more detail about what happened later today.\n\nChinese President Xi Jinping wrapping up his two-day visit in North Korea with leader Kim Jong-un.\n\nIt's been seven years since Xi's last visit. He's called for deepening, quote, \"strategic cooperation\" with North Korea.\n\nAnd intense flash flooding hits Missouri, with multiple people needing to be rescued from their homes and cars. We're talking about four to six inches of rain falling on parts of the state on Monday. And it did trigger an emergency.\n\nUNIDENTIFIED FEMALE: We pretty much just woke up to our whole house completely full of water.\n\nUNIDENTIFIED MALE: We're screwed. I mean, there's no really -- no other way to put it.\n\nCORNISH: Local officials are saying that it remains unclear exactly how many people were impacted by the floods.\n\nAnd some polls are now open in Maine, one of four states holding primaries today. Voters will decide who will go head-to-head in a race that could decide which party controls the Senate. Graham Platner is essentially running unopposed after his primary rival, Governor Janet Mills, suspended her campaign. But here's the thing, she's still on the ballot and votes for her will still count. Platner is seeking to overcome a wave of scandal, including claims of knowingly getting a Nazi tattoo and allegations of inappropriate behavior with past girlfriends, all of which he has denied. Democrats are wondering if his past will derail their chances to unseat Republican Susan Collins in November.\n\nUNIDENTIFIED FEMALE: I don't like it.\n\nBut if he votes the way I want him to, and he can defeat Susan Collins, yes, go for it.\n\nUNIDENTIFIED FEMALE: The truth is, is the Nazi tattoo should have been enough.\n\nUNIDENTIFIED FEMALE: If his wife can deal with it, who am I to argue?\n\nUNIDENTIFIED FEMALE: The problems that are facing Maine and this country are too serious for us to focus on this purity politics kind of stuff.\n\nUNIDENTIFIED FEMALE: I'm definitely voting for him. I, honestly, I would vote for a doorknob over Susan Collins.\n\nCORNISH: Joining me now, Jamie Harrison, former chair of the former Democratic National Committee.\n\nJamie, thank you so much for being here.\n\nI wanted you to be here because this race has gotten so much attention. Platner was recruited by people who weren't the Democratic Party, right?\n\nJAMIE HARRISON, FORMER DEMOCRATIC NATIONAL COMMITTEE CHAIR: Yes.\n\nCORNISH: And now we've seen a lot of questions as a result.\n\n\"The Wall Street Journal\" actually interviewed the people who recruited him, and they said, did you vet this guy? What questions did you ask? How do you feel about it with the controversies now? Here's how they replied.\n\nDANIEL MORAFF, SENIOR STRATEGIST, Platner CAMPAIGN: I think, if what the voters wanted were people who were grown in vats and had never done or said anything that they might regret their entire lives, we'd have a very different country. Part of our thesis here is that people do not want their candidates grown in vats. They want people who are real human beings, and they want people who do not look and sound like the vat-grown people who have been leading this country off a cliff for the last century. And that was Graham.\n\nCORNISH: What side of the argument are you on here?\n\nHARRISON: Well, my apologies for being in this little, small phone booth in an American Airlines lounge, Audie.\n\nBut listen, the bottom line is this. I supported Governor Janet Mills because I thought she was the strongest candidate in the race. And I can tell you, if I were voting in Maine today, she would still get my vote.\n\nBut the Democratic voters will --\n\nCORNISH: But can you address the argument that they're saying? Like, they -- we're seeing this more and more. Mamdani is a great example.\n\nCORNISH: People who are entering and they don't enter with the permission, so to speak, of the DNC or anyone from any formal organization.\n\nHARRISON: Well, but this is the thing. When you -- when you don't go through the regular process, then you get problems and issues like we have now, folks who aren't properly vetted, folks whose backgrounds have a lot of issues and problems in it that that jeopardize whether or not you win in the general election.\n\nI get and understand the frustration of going through the party filter sometimes. I totally get that as someone who's been a state party chair and the national chair. But at -- but there's a level of quality checks that, when you go through that process, you understand what you are getting in the end, instead of this wild card now. And then, you know, there are folks who are hand-wringing and trying to figure out how they support the candidate or not.\n\nIn the end of the day, you know, Graham Platner becomes the nominee because Mainers in the Democratic primary vote for him. This will be a contest between Graham Platner and Susan Collins. And we know what we get with Susan Collins. Her legacy is tied to Supreme Court confirmations that have fundamentally changed the country.\n\nCORNISH: Well, Jamie, let me stop you there, because we also just heard a voter say that they'd rather vote for a doorknob than Collins. So, you don't have to sell it on election day.\n\nBut it is seen as one of a pickup opportunity.\n\nCORNISH: You said you're a supporter of Mills. She suspended her campaign.\n\nBut she's not all the way gone, right?\n\nCORNISH: Like, not formally withdrawn.\n\nHere's what she told \"The Portland Press.\" And I think she was saying that, \"people have the impression that I 'withdrew' or 'dropped out,' but I simply suspended active campaigning. And I'm still on the ballot.\"\n\nSo, then Senator John Fetterman weighs in on why he thinks she may not be connecting with voters.\n\nSEN. JOHN FETTERMAN (D-PA): In was a setting --\n\nMANU RAJU, CNN CHIEF CONGRESSIONAL CORRESPONDENT: She's the sitting governor and upstanding as a -- as a committed Democrat, you know. And it seems like the only thing wrong with her is she happens to be 78. So --\n\nCORNISH: He's talking about age as a factor. Can you talk about whether or not people, do you think, will be writing her in today or will be checking her name off, since she's still on the ballot, or is that wishful thinking?\n\nHARRISON: No, I think people would. I mean, if I were voting in Maine today, that's who I would be voting for as well. And that's the problem that I have with some parts of the Democratic Party at this point. It is -- you know, they can look past every other flaw but age, right? If you're an older Democrat, then that -- that is the fundamental flaw that everything else breaks down.\n\nBut in the end of the day, what people want is, somebody's going to fight for them regardless of their age. Someone who has experience, who can be effective in terms of legislating. And Janet Mills has that proven record. And it's a shame that, you know, the chattering class was all in for someone who has all these flaws. And we knew it from the start.\n\nBut in the end, again, you know, regardless of what happens in this primary, it's about the general election.\n\nCORNISH: Well one -- yes, it is.\n\nHARRISON: And it's between Susan Collins and likely Graham Platner. Yes.\n\nCORNISH: Thank you for being on. This is a fascinating race, especially since it was voters, right, in polling who put Platner so far ahead. And I'm going to be interested to see what kind of lessons Democrats take from this.\n\nJamie, thank you for your time. Good luck catching your flight.\n\nCORNISH: And tonight at 8 Eastern, CNN has live coverage of some of these key primaries across the country. And you can watch them on CNN or on the CNN app.\n\nIn California, former reality star Spencer Pratt is out in the Los Angeles mayoral election. The CNN decision desk projects that Nithya Raman will advance to the general election to take on incumbent Karen Bass. In the governor's race, the CNN decision desk projects that Democrat Xavier Becerra will advance to November. Republican Steve Hilton is holding a lead for second.\n\nCalifornia's elections often take days to get resolved because postmarked mail-in ballots, received up to a week after election day, can still be counted, again, as long as they are postmarked on election day.\n\nThis has fueled President Trump's claims that the California elections are rigged. There is no evidence provided for that. Steve Hilton told CNN's Erin Burnett last night that's not what he's seeing.\n\nSTEVE HILTON (R), CALIFORNIA GUBERNATORIAL CANDIDATE: We've got teams standing by, lawyers standing by, and actually, it's the same answer that actually I've been giving for a few days now. We've seen nothing that would give us cause to intervene in that way.\n\nCORNISH: I want to bring it back to the group chat.\n\nWe've got this sort of thing where, again, you've got the leading Republican in the statewide race saying, I actually think it's going pretty well, probably because he's second. But we also saw Trump blow up at Kristen Welker at NBC for getting -- specifically on this issue, which is crazy considering they were talking about Iran and a variety of other things.\n\nWhy do you think this issue has captured the imagination, especially on the right? Like, why are people looking at these two races and saying, aha, indicative of nationwide problems?\n\nBRIANNA LYMAN, REPORTER, \"THE FEDERALIST\": Well, I think it's fair skepticism for voters to look at a place like Los Angeles, for example. And you see that on election night, Spencer Pratt was up by about eight to 10 points. And when you went to bed, he was up by eight to 10 points. The next morning --\n\nCORNISH: And that's what the percentage of vote counted being 28 percent, 35 percent.\n\nCORNISH: Just as a reporter, you're not looking at the full count.\n\nLYMAN: Sure. Sure. So, traditionally, Americans, for decades, have expected to receive results on election night. That has not been the same for probably the past six years, really, with Covid starting, people began to expect a delay in results. But for a lot of Americans, they expect results on election night. And I think that there are Americans who say, look, a week after this election, a week after Nithya Raman, she gave a speech that even CSPAN characterized as a concession speech. She almost publicly dismissed any possibility for a path forward.\n\nLYMAN: So, you put that into play. And then you see all these ballot drops, which tend to favor Nithya Raman even over Karen Bass, especially when Nithya Raman actually underperformed in her own city council district.\n\nI do think it's fair for people just to say, a week later suddenly the guy who was in second place on the night of the election, there are some questions --\n\nCORNISH: So, let me bring in someone who's run a mayoral race and may have some thoughts about why you give a concession speech when there's only x amount of percentage of the ballots counted.\n\nWas that a mistake? Can you talk about the dynamics at play here?\n\nCHRISTINE QUINN, EXEC. COMMITTEE CHAIR, NY STATE DEMOCRATIC COMMITTEE: I mean the way it works in California is very different than a lot of other states. The way you can mail in ballots. And one thing we see in California is the ballots that come in later tend to be Democratic ballots, which is not a surprise.\n\nCORNISH: Yes. But then so why wouldn't Raman be like, hey, everyone chill.\n\nQUINN: I thought it was strange.\n\nQUINN: I thought it was strange that she gave that kind of a speech, as opposed to, let's all wait and see.\n\nQUINN: I think she missed the mark and probably got, you know, I think it -- look, election night is crazy. And if you're not winning, clearly you just want it to end and be over.\n\nCARI CHAMPION, HOST, \"FLAGRANT AND FUNNY\": That is what I thought. I thought the narrative got to her.\n\nQUINN: Yes, I think that's right.\n\nCHAMPION: I think that's what happened. I think the narrative of perhaps this Spencer Pratt being someone that people were really excited about, and it's usually those who can't vote for mayor in L.A.\n\nCHAMPION: Because I am a California resident. I vote --\n\nCORNISH: Yes, he was the internet's mayor for a week.\n\nCORNISH: Mamdani was the internet's mayor last fall.\n\nCHAMPION: Exactly. Exactly.\n\nCORNISH: Won our hearts with vigorous use of A.I.\n\nWhen I look at the L.A. voter breakdown, he was winning areas, you're talking about Westside, Pacific Palisades, which makes sense. He was fighting for their issue around rebuilding after the fires.\n\nCORNISH: You've got Karen Bass getting south of L.A., south of Santa Monica Freeway. Nithya Raman, Echo Park, Hollywood, to Highland Park.\n\nCHAMPION: Makes sense.\n\nCORNISH: The reason why it -- yes, it makes sense, right, for California here.\n\nCHAMPION: It makes perfect sense.\n\nCORNISH: I think the reason why I wanted to ask is because we're in this weird situation now where we're like, oh, this heavily Democratic city went to Democrats. Scandal. Skepticism. You know what I mean? And I feel like when I look at the Texas race, I'm not like, there should be bigger numbers here for the DSA. It's like, well, it kind of is breaking down the way the overall voter rolls break down.\n\nQUINN: And it's interesting for the president to be kind of so, you know, animated, to put it mildly, about the mayor's race when in the governor's race you're probably most likely going to have a Republican and a Democrat. So --\n\nCHAMPION: Yes, which is why Hilton's like, it's fine to me. No big deal.\n\nQUINN: Exactly. Exactly.\n\nCHAMPION: Everything looks good here.\n\nCORNISH: How will people -- I just want to give the last word to you, Brianna, because you are bringing this up. We're in a moment where you've got several states fighting Trump and fighting his DOJ on having to turn over their voter rolls. The administration has a new initiative where they say, look, states, we want everybody's unredacted voter rolls, names, birth dates, all the things. We're going to check it against a database we have. And there are some states who are saying, yes, and some states that are like, wait, that's not legal. Under the Constitution, states deal with voter rolls. Is his talking about California really about this fight?\n\nLYMAN: Well, I think so. And actually, when it comes to voter rolls, so under HAV (ph) and HAVA, which are 2001 and 2004 election, federal election laws, states do have to comply with federal election voter roll audits.\n\nLYMAN: California is one of those states that said, I am not going to comply. And I do think there is reason for people to question California's audit rules (ph).\n\nFor example, in California, you're supposed to provide your driver's license identification number and your Social Security Number when registering to vote, which neither one of them necessarily guarantees a check citizenship, but it's a pretty decent check. But in California, if you are unable to provide either of those documents, you can actually provide proof of identity to register to vote with something as simple as a gym membership.\n\nLYMAN: What kind of you, you know, rigger roll (ph) do you go through?\n\nCORNISH: And so far they have not reported widespread fraud when they've done their audits.\n\nLYMAN: Well, they're also not -- they 're also -- right, but they're also not letting the federal government check their audits. So, I think that's a concern that people have.\n\nCORNISH: Absolutely. And I think -- the reason why I'm not addressing it now is because it's before the courts, right?\n\nCORNISH: Actively asking whether or not the government has the right to ask for it.\n\nCORNISH: And the extent of information they do, and to use that to check against a database with known flaws, right? Because then you're kicking people off the rolls based on a database that isn't working so well.\n\nSo, this story is not going to go away.\n\nCORNISH: Even though it sounds like it's just about California's races.\n\nNext on CNN THIS MORNING, Hunter Biden has been out talking a lot, and now he's really clapping back. We're going to ask why? Why now?\n\nUNIDENTIFIED MALE: We can't afford it. We can't -- we'd rather stay home and just watch the game.\n\nCORNISH: Staggering prices. The ugly cost of the beautiful game.\n\nUNIDENTIFIED MALE: Hunter Biden, my guy, a natural born poster, a beacon of light in a dark world.\n\nUNIDENTIFIED MALE: Hunter Biden is proof that you can't hurt somebody's feelings if they are 100 percent honest about who they are.\n\nUNIDENTIFIED FEMALE: When they go low, we go Hunter Biden. And I will not be explaining any further.\n\nCORNISH: I can't do better than that. Hunter Biden has entered the chat. The son of the former president, Joe Biden, has become the clapback king online after reactivating his X account. His posts are a mix of political attacks, hitting back at critics, personal reflection and addressing his past addictions and controversies.\n\nHUNTER BIDEN: I know there's going to be a lot of haters, a lot of trolls, a lot of people saying really, really awful things. But I've heard it all before. It doesn't even faze me. I promise you. I know who I am. I know what I've done. I know the amends that I need to make.\n\nCORNISH: Hunter's reshaping of his image comes at the same time his stepmother, former First Lady Jill Biden, is getting mixed reviews from her post-White House memoir, where she shares her view of the 2024 election. Some Democrats say it's reopening old political wounds.\n\nI don't know who to start with here.\n\nCari, who actually went, oh, when you were watching that, or Christine, who maybe has more doubts. More doubts. Why do people have political comebacks? Like, where are they effective? Where are they not?\n\nQUINN: Well, when you're Hunter Biden and your father had to, you know, pardon you for everything you may ever think, do or possibly have done, comeback, it should not be in your vocabulary. Keep your head down. Hope that people forget. That should be in your vocabulary.\n\nCORNISH: See, that is the least American thing you could say.\n\nCHAMPION: That's the least of what -- yes.\n\nCORNISH: We love a second act (ph).\n\nQUINN: But as a Democrat, I -- as a Democrat, I do not need Hunter Biden out there reminding people.\n\nCHAMPION: Oh, no. Oh, no. I totally -- I totally disagree with that. And I think it goes very much to what we were talking about earlier. We were talking about what was going on in Maine.\n\nI think people really enjoy the fact that he is so authentic, almost to the point where it's embarrassing. And yes, he is reopening probably perhaps some new -- old wounds, but he's saying, so what? This is what it is.\n\nWhat do you do when someone -- you say, you know what, you really are a horrible human. You're right. I am. There's no response to that. Like, and I'm not saying that he's a horrible human, but I'm like, there's just --\n\nCORNISH: Yes, yes, yes. Although that lady was. That was --\n\nQUINN: Yes, she was. Right. CORNISH: (INAUDIBLE) compliment I've ever heard.\n\nCORNISH: So, you said no Democrats want him back. But I can think of some people do.\n\nCORNISH: This is Hunter Biden on the Candace Owens podcast.\n\nHUNTER BIDEN: But they had a problem with me as being this emblematic emblem of corruption. These guys, OK, Don Junior got the single largest loan guarantee from the Department of Defense ever handed out of over $600 million for an energy company, a fusion energy company, of which he has zero, zero experience in it.\n\nCORNISH: Brianna, I think it's interesting that he is relitigating some of these issues direct into the lifeblood of the media ecosystem on the right. He's not going to any random place, right? He's going to Candace Owens, who's in the middle of a massive brawl, so to speak, with TPUSA. He's talking about Epstein. He's talking about things that this particular world of people agree with him on.\n\nLYMAN: Well, I think, first of all, I think Hunter Biden coming back into the limelight, this is a way to kind of sanitize the public image of himself that I think he himself had tarnished for a few years.\n\nCORNISH: But why would Candace Owens sanitize it?\n\nLYMAN: Candace Owens -- well, Candace Owens has been platforming people that have spewed stuff that is egregiously false and controversial and insulting to a lot of people, and I don't think she's someone that should be platformed. So, I'm not going to take any -- I'm going to take this interview with a grain of salt.\n\nI think when it comes to Hunter Biden, I will say, something that appeals to younger people is that level of honesty. You know, he said, look, if those were my drugs at the White House, you think I'd leave them there?\n\nLYMAN: And it's very reminiscent of when Charlie Sheen had said, if there are drugs --\n\nLYMAN: He was like, if there are drugs in the house I'm going to find them. That was Charlie Sheen years ago. And that's kind of become an internet meme. So, I think Hunter Biden is trying to reestablish himself and maybe in part because he does see himself as needing some kind of online support base in order to have a future career. I think he said he's opening a Substack soon. So, he wants to garner --\n\nCHAMPION OK. Who doesn't have a Substack?\n\nCORNISH: OK. Next you're going to say he has a podcast.\n\nLYMAN: But he wants to -- he wants to garner that -- that big audience.\n\nCORNISH: You think it's laying the ground for something else?\n\nLYMAN: I think he's laying the ground for a future career.\n\nCORNISH: This is like the Serena Williams Olympics thesis over here.\n\nCHAMPION: Right. He's not -- and, by the way, he's not even managing our expectations. He's letting us know that people he's going to be that problematic fave, as they say.\n\nCHAMPION: And people will enjoy it and they'll go to him and they're like, I don't know why I enjoy it, but I simply do.\n\nCORNISH: OK. I want to turn to our group chats because in mine are all the family in the Cornish Hen WhatsApp group. They're not loving these World Cup prices. It's a problem. They are very unhappy.\n\nCORNISH: Before we get to yours, what's the deal? Like, are people just going to have to suck it up?\n\nCORNISH: Or is FIFA creating long term engendering frustration?\n\nCHAMPION: No, I think -- and I hate to even bring up, you know, game three last night, those prices were astronomically ridiculous. And let me tell you, just side note, Spurs, this is what the Spurs have done. They have season ticket holders who have these courtside seats and they've been reselling them on the second market -- secondary market to other players, other people, like the Knicks. The Spurs have revoked those memberships and revoked those season ticket holders because they want to give them -- they're making a point here.\n\nLook, this is ridiculous. The prices are out of control.\n\nCORNISH: So, there are things they can do?\n\nCHAMPION: There are things you can do. But for the most part we're just going to -- if you really want to see it, this is every so often it's here. People are going to pay.\n\nCHAMPION: People have saved up all -- you have no choice. You just have no choice.\n\nCORNISH: I know. It's what the market will (ph) bear.\n\nCHAMPION: It's what it is.\n\nCORNISH: OK, Christine, what's in your group chat?\n\nQUINN: Well, this past weekend, Thursday and Friday actually of last week, I went to the two kickoff concerts for the Bruce Springsteen Center for American Music.\n\nCORNISH: We're -- whoa, wait, Bruce Springsteen has a museum?\n\nQUINN: Monmouth University. Yes. It just opened at Monmouth University, down the shore in Jersey. And it's obviously about him, but more broadly it's about the history of American music. And this concert was fascinating because they went from the Revolutionary War to the present, kind of decade by decade.\n\nCORNISH: What? For Bruce Springsteen?\n\nCORNISH: Is this his presidential library?\n\nQUINN: It was kind of like that.\n\nCORNISH: What's happening here?\n\nQUINN: It was kind of like that, but it was uplifting and exciting.\n\nCORNISH: OK, I take it. .I'll take time land cleanse from you, Christine.\n\nBrianna, what are you thinking about? What's going on in the group chat?\n\nLYMAN: Well, she brought up the Revolution. My family knows I bog them every single day with history stuff. And this week is very important in America 250.\n\nCORNISH: Your America 250.\n\nLYMAN: Robert E. Lee had introduced -- or Richard Henry Lee had introduced a motion just on June 8th which said that the colony should call for independence. And this next week you will see the committee of five appointed on June 11th Thursday, which is when Thomas Jefferson was assigned to write the Declaration of Independence. And then we'll see, in about two and a half weeks from now, they actually vote on that declaration on July 2nd. So, I've been reminding --\n\nCORNISH: You're doing a timeline. You're doing these --\n\nLYMAN: A whole -- every -- my parents know about it every day.\n\nCORNISH: I like it. I like it.\n\nCORNISH: Also, I've been trying to find ways to celebrate the 250 that are not from the government.\n\nCORNISH: Like, there's just ways to look into your own history and share that with family and friends. What are you thinking about?\n\nCHAMPION: Well, I wasn't -- this wasn't in my group chat, but since she said it, for 250 anniversary, a group of friends, we have decided to write our own Declaration of Independence.\n\nLYMAN: Oh, I love it.\n\nCHAMPION: And it's a group of us, a large group rather. And we all have decided, let me tell you what I am independent of. And so mine has been, just as a black woman here in the United States of America, I removed the mask of trying to fit in to something that I can't fit into. And I write down all the different things that I'm declaring for myself. And it's more of an affirmation so that I know that I can push forward. And all of us have done something like that. Something where we --\n\nCORNISH: That's amazing.\n\nThat is a great idea.\n\nCHAMPION: Yes, where we -- it really is.\n\nCORNISH: And also, if you write it on a scroll, in a --\n\nLYMAN: In a Chrome Pad (ph).\n\nCORNISH: In the Bruce Springsteen Museum of American History.\n\nQUINN: Exactly. Exactly. And it all goes together.\n\nCORNISH: You guys are a fantastic group. I'm so glad to be with you.\n\nThank you for waking up with us. We have plenty more headlines. So, please, stick around.\n\nI'm Audie Cornish. And you're going to be listening to CNC, \"NEWS CENTRAL,\" next."
+    }
+  ]
+}
