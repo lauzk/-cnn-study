@@ -1,0 +1,391 @@
+{
+  "date": "2026-06-04",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-04/segment/02",
+  "vocabulary": [
+    {
+      "word": "nominate",
+      "phonetic": "/ˈnɒmɪneɪt/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "提名",
+      "en": "to officially suggest someone for a position",
+      "excerpt": "President Trump expected to nominate Todd Blanche, the acting attorney general, to be the next attorney general.",
+      "example_cn": "总统预计将提名代理司法部长托德·布兰奇为下一任司法部长。"
+    },
+    {
+      "word": "acting",
+      "phonetic": "/ˈæktɪŋ/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "代理的",
+      "en": "temporarily performing the duties of a position",
+      "excerpt": "He's been currently serving as acting AG since the firing of Pam Bondi back in April.",
+      "example_cn": "自四月帕姆·邦迪被解雇以来，他一直担任代理司法部长。"
+    },
+    {
+      "word": "rebuke",
+      "phonetic": "/rɪˈbjuːk/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "斥责，谴责",
+      "excerpt": "a stunning rebuke of Trump. The House approving a War Powers resolution on Wednesday that would halt the US military action against Iran.",
+      "example_cn": "对特朗普的一次惊人谴责。众议院周三通过了一项战争权力决议，将停止美国对伊朗的军事行动。"
+    },
+    {
+      "word": "resolution",
+      "phonetic": "/ˌrezəˈluːʃn/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "决议",
+      "en": "a formal statement of decision or opinion",
+      "excerpt": "The House approving a War Powers resolution on Wednesday that would halt the US military action against Iran.",
+      "example_cn": "众议院周三通过了一项战争权力决议，将停止美国对伊朗的军事行动。"
+    },
+    {
+      "word": "halt",
+      "phonetic": "/hɔːlt/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "停止",
+      "en": "to stop or cause to stop",
+      "excerpt": "The House approving a War Powers resolution on Wednesday that would halt the US military action against Iran.",
+      "example_cn": "众议院周三通过了一项战争权力决议，将停止美国对伊朗的军事行动。"
+    },
+    {
+      "word": "initiate",
+      "phonetic": "/ɪˈnɪʃieɪt/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "开始，发起",
+      "en": "to cause something to begin",
+      "excerpt": "the resolution is supposed to limit the president's ability to initiate or escalate military hostilities without congressional approval.",
+      "example_cn": "该决议旨在限制总统未经国会批准发起或升级军事敌对行动的能力。"
+    },
+    {
+      "word": "escalate",
+      "phonetic": "/ˈeskəleɪt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "升级",
+      "en": "to increase in intensity or extent",
+      "excerpt": "the resolution is supposed to limit the president's ability to initiate or escalate military hostilities without congressional approval.",
+      "example_cn": "该决议旨在限制总统未经国会批准发起或升级军事敌对行动的能力。"
+    },
+    {
+      "word": "protracted",
+      "phonetic": "/prəˈtræktɪd/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "持久的，延长的",
+      "en": "lasting for a long time or longer than expected",
+      "excerpt": "Are we at the start of something that will be long and protracted with Iran?",
+      "example_cn": "我们是否正处于与伊朗长期持久冲突的开端？"
+    },
+    {
+      "word": "sustained",
+      "phonetic": "/səˈsteɪnd/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "持续的",
+      "en": "continuing for an extended period",
+      "excerpt": "We're no longer conducting sustained strikes inside of Iran to degrade their military because Epic Fury is over.",
+      "example_cn": "我们不再对伊朗境内进行持续打击以削弱其军事力量，因为“史诗之怒”行动已经结束。"
+    },
+    {
+      "word": "degrade",
+      "phonetic": "/dɪˈɡreɪd/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "削弱，降低",
+      "en": "to reduce the effectiveness or quality of",
+      "excerpt": "We're no longer conducting sustained strikes inside of Iran to degrade their military because Epic Fury is over.",
+      "example_cn": "我们不再对伊朗境内进行持续打击以削弱其军事力量，因为“史诗之怒”行动已经结束。"
+    },
+    {
+      "word": "hostilities",
+      "phonetic": "/hɒˈstɪlətiz/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "敌对行动",
+      "en": "acts of warfare or conflict",
+      "excerpt": "So there are fresh hostilities between the U.S. and Iran overnight spilling into neighboring Gulf countries.",
+      "example_cn": "因此，美国和伊朗之间新的敌对行动一夜之间蔓延到邻近的海湾国家。"
+    },
+    {
+      "word": "spill into",
+      "phonetic": "/spɪl ˈɪntuː/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "蔓延到",
+      "en": "to spread or extend into another area",
+      "excerpt": "So there are fresh hostilities between the U.S. and Iran overnight spilling into neighboring Gulf countries.",
+      "example_cn": "因此，美国和伊朗之间新的敌对行动一夜之间蔓延到邻近的海湾国家。"
+    },
+    {
+      "word": "restitution",
+      "phonetic": "/ˌrestɪˈtjuːʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "赔偿，归还",
+      "en": "the restoration of something lost or stolen to its proper owner",
+      "excerpt": "Iran over and over keeps bringing up restitution. It wants to be basically its assets unfrozen.",
+      "example_cn": "伊朗一再提出赔偿要求。它基本上希望其资产被解冻。"
+    },
+    {
+      "word": "unfrozen",
+      "phonetic": "/ʌnˈfrəʊzn/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "解冻的",
+      "en": "released from a frozen state, especially financial assets",
+      "excerpt": "Iran over and over keeps bringing up restitution. It wants to be basically its assets unfrozen.",
+      "example_cn": "伊朗一再提出赔偿要求。它基本上希望其资产被解冻。"
+    },
+    {
+      "word": "sticking point",
+      "phonetic": "/ˈstɪkɪŋ pɔɪnt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "症结，关键点",
+      "en": "a point on which agreement cannot be reached",
+      "excerpt": "Can you talk about what they're looking for and how much of a sticking point this is for the U.S.?",
+      "example_cn": "你能谈谈他们在寻求什么，这对美国来说有多大的症结吗？"
+    },
+    {
+      "word": "sanctions relief",
+      "phonetic": "/ˈsæŋkʃnz rɪˈliːf/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "制裁减免",
+      "en": "the reduction or removal of economic sanctions",
+      "excerpt": "what the US and Iran were discussing was some kind of sanctions relief, which would be a de facto release of funds in exchange for freeze on Iran's nuclear enrichment.",
+      "example_cn": "美国和伊朗当时讨论的是某种制裁减免，这实际上是释放资金以换取伊朗冻结核浓缩活动。"
+    },
+    {
+      "word": "de facto",
+      "phonetic": "/ˌdeɪ ˈfæktəʊ/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "事实上的",
+      "en": "in fact, whether by right or not",
+      "excerpt": "what the US and Iran were discussing was some kind of sanctions relief, which would be a de facto release of funds in exchange for freeze on Iran's nuclear enrichment.",
+      "example_cn": "美国和伊朗当时讨论的是某种制裁减免，这实际上是释放资金以换取伊朗冻结核浓缩活动。"
+    },
+    {
+      "word": "nuclear enrichment",
+      "phonetic": "/ˈnjuːkliər ɪnˈrɪtʃmənt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "核浓缩",
+      "en": "the process of increasing the proportion of fissile isotopes in nuclear fuel",
+      "excerpt": "what the US and Iran were discussing was some kind of sanctions relief, which would be a de facto release of funds in exchange for freeze on Iran's nuclear enrichment.",
+      "example_cn": "美国和伊朗当时讨论的是某种制裁减免，这实际上是释放资金以换取伊朗冻结核浓缩活动。"
+    },
+    {
+      "word": "blockade",
+      "phonetic": "/blɒˈkeɪd/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "封锁",
+      "en": "the isolation of a place by hostile ships or troops",
+      "excerpt": "The blockade is the most powerful thing. I think the blockade maybe has more impact than the bombing has, but the blockade that we have the naval blockade is incredible.",
+      "example_cn": "封锁是最强大的武器。我认为封锁可能比轰炸更有影响力，但我们拥有的海军封锁是不可思议的。"
+    },
+    {
+      "word": "naval",
+      "phonetic": "/ˈneɪvl/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "海军的",
+      "en": "relating to a navy or warships",
+      "excerpt": "the blockade that we have the naval blockade is incredible.",
+      "example_cn": "我们拥有的海军封锁是不可思议的。"
+    },
+    {
+      "word": "sustainable",
+      "phonetic": "/səˈsteɪnəbl/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "可持续的",
+      "en": "able to be maintained over time",
+      "excerpt": "Trump may actually believe that the blockade is working and he might believe that it's sustainable.",
+      "example_cn": "特朗普可能真的相信封锁正在起作用，他可能相信这是可持续的。"
+    },
+    {
+      "word": "tit-for-tat",
+      "phonetic": "/ˌtɪt fɔː ˈtæt/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "以牙还牙的",
+      "en": "characterized by retaliation in kind",
+      "excerpt": "occasional tit-for-tat strikes can go on really forever.",
+      "example_cn": "偶尔的以牙还牙的打击可能会永远持续下去。"
+    },
+    {
+      "word": "impasse",
+      "phonetic": "/ˈɪmpæs/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "僵局",
+      "en": "a situation in which no progress is possible",
+      "excerpt": "I think they're going to actually start escalating a little more to try and break this impasse.",
+      "example_cn": "我认为他们实际上会开始进一步升级，试图打破这一僵局。"
+    },
+    {
+      "word": "defection",
+      "phonetic": "/dɪˈfekʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "叛逃，倒戈",
+      "en": "the act of abandoning a person, cause, or country",
+      "excerpt": "I think these defections, which I don't want to call them that because these Congress members of Congress did the right thing, right?",
+      "example_cn": "我认为这些倒戈——我不想这么称呼，因为这些国会议员做了正确的事，对吧？"
+    },
+    {
+      "word": "tip of the iceberg",
+      "phonetic": "/tɪp əv ðə ˈaɪsbɜːɡ/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "冰山一角",
+      "en": "a small visible part of a much larger problem",
+      "excerpt": "I think these four are probably just the tip of the iceberg.",
+      "example_cn": "我认为这四个人可能只是冰山一角。"
+    },
+    {
+      "word": "blowback",
+      "phonetic": "/ˈbləʊbæk/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "反弹，反效果",
+      "en": "unintended adverse consequences",
+      "excerpt": "the president's choice to become acting director of national intelligence is actually getting a lot of blowback on Capitol Hill.",
+      "example_cn": "总统选择担任代理国家情报总监的人选实际上在国会山遭到了强烈反弹。"
+    },
+    {
+      "word": "sycophant",
+      "phonetic": "/ˈsɪkəfænt/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "谄媚者，马屁精",
+      "en": "a person who acts obsequiously towards someone important to gain advantage",
+      "excerpt": "I think he's the worst form of sycophant and advisor to the president that is going to hurt the president's legacy.",
+      "example_cn": "我认为他是最糟糕的谄媚者和总统顾问，会损害总统的遗产。"
+    },
+    {
+      "word": "scoop",
+      "phonetic": "/skuːp/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "独家新闻",
+      "en": "a news story reported by one news organization before others",
+      "excerpt": "I got to go to our friend here at \"Semafor\" because you got the scoop.",
+      "example_cn": "我得去找我们在“Semafor”的朋友，因为你拿到了独家新闻。"
+    },
+    {
+      "word": "overhaul",
+      "phonetic": "/ˌəʊvəˈhɔːl/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "彻底改革",
+      "en": "to completely change or repair",
+      "excerpt": "He completely overhauled a ton of different policies.",
+      "example_cn": "他彻底改革了大量不同的政策。"
+    },
+    {
+      "word": "weaponize",
+      "phonetic": "/ˈwepənaɪz/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "武器化",
+      "en": "to use something as a weapon or for aggressive purposes",
+      "excerpt": "Pulte has shown kind of extraordinary talent for weaponizing the pretty obscure position that he was originally in.",
+      "example_cn": "普尔特展示了将原本相当不起眼的职位武器化的非凡才能。"
+    },
+    {
+      "word": "authoritarianism",
+      "phonetic": "/ɔːˌθɒrɪˈteərɪənɪzəm/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "威权主义",
+      "en": "a system of government characterized by strong central power and limited political freedoms",
+      "excerpt": "I think it's a good thing that Trump's authoritarianism basically got in the way of itself.",
+      "example_cn": "我认为特朗普的威权主义基本上自食其果，这是一件好事。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "The House approving a War Powers resolution on Wednesday that would halt the US military action against Iran.",
+      "cn": "众议院周三通过了一项战争权力决议，该决议将停止美国对伊朗的军事行动。",
+      "structure": "主谓宾结构，现在分词短语作主语补足语，that引导定语从句修饰resolution。",
+      "analysis": "现在分词短语'approving...'作主语'The House'的补足语，表示主动动作；'that would halt...'是定语从句，修饰'resolution'，说明决议的内容。"
+    },
+    {
+      "en": "the resolution is supposed to limit the president's ability to initiate or escalate military hostilities without congressional approval.",
+      "cn": "该决议旨在限制总统未经国会批准发起或升级军事敌对行动的能力。",
+      "structure": "主系表结构，不定式短语作表语，'without congressional approval'作状语。",
+      "analysis": "'is supposed to'表示'应该，旨在'；'to limit...'是不定式短语作表语，说明决议的目的；'without congressional approval'是介词短语作条件状语。"
+    },
+    {
+      "en": "We're no longer conducting sustained strikes inside of Iran to degrade their military because Epic Fury is over.",
+      "cn": "我们不再对伊朗境内进行持续打击以削弱其军事力量，因为“史诗之怒”行动已经结束。",
+      "structure": "主谓宾结构，不定式短语作目的状语，because引导原因状语从句。",
+      "analysis": "'no longer'表示'不再'；'to degrade their military'是不定式短语作目的状语；'because Epic Fury is over'是原因状语从句。"
+    },
+    {
+      "en": "what the US and Iran were discussing was some kind of sanctions relief, which would be a de facto release of funds in exchange for freeze on Iran's nuclear enrichment.",
+      "cn": "美国和伊朗当时讨论的是某种制裁减免，这实际上是释放资金以换取伊朗冻结核浓缩活动。",
+      "structure": "主语从句+系表结构，which引导非限制性定语从句。",
+      "analysis": "'what the US and Iran were discussing'是主语从句；'was some kind of sanctions relief'是系表结构；'which would be...'是非限制性定语从句，修饰'sanctions relief'，进一步解释其性质。"
+    },
+    {
+      "en": "I think it's, in my mind, a little misleading to say this thing that we've known is always going to be in Iranian demand is a sticking point.",
+      "cn": "我认为，在我看来，说这个我们一直知道是伊朗要求的东西是一个症结，有点误导人。",
+      "structure": "主谓宾结构，宾语从句中包含插入语和定语从句。",
+      "analysis": "'I think'是主句；'it's...a little misleading to say...'是宾语从句，其中'it'是形式主语，真正主语是'to say...'；'that we've known'是定语从句修饰'this thing'；'is always going to be in Iranian demand'是定语从句中的谓语部分。"
+    },
+    {
+      "en": "I think really the principal sticking point remains Trump's lack of interest in actually pushing for a deal.",
+      "cn": "我认为真正的主要症结仍然是特朗普对实际推动协议缺乏兴趣。",
+      "structure": "主谓宾结构，宾语从句为主系表结构。",
+      "analysis": "'I think'是主句；'the principal sticking point remains...'是宾语从句，其中'remains'是系动词，'Trump's lack of interest...'是表语。"
+    },
+    {
+      "en": "I think these defections, which I don't want to call them that because these Congress members of Congress did the right thing, right?",
+      "cn": "我认为这些倒戈——我不想这么称呼，因为这些国会议员做了正确的事，对吧？",
+      "structure": "主谓宾结构，宾语从句中包含非限制性定语从句和原因状语从句。",
+      "analysis": "'I think'是主句；'these defections...did the right thing'是宾语从句；'which I don't want to call them that'是非限制性定语从句修饰'defections'；'because...'是原因状语从句。"
+    },
+    {
+      "en": "I think it's a good thing that Trump's authoritarianism basically got in the way of itself, and he's disrupting the renewal of FISA Section 702, because I don't want somebody like Pulte or Kash Patel to have access to that kind of basically warrantless surveillance of us.",
+      "cn": "我认为特朗普的威权主义基本上自食其果是一件好事，他正在破坏FISA第702条的续期，因为我不希望像普尔特或卡什·帕特尔这样的人能够对我们进行那种基本上无需授权的监视。",
+      "structure": "主谓宾结构，并列宾语从句，包含原因状语从句。",
+      "analysis": "'I think'是主句；'it's a good thing that...'是第一个宾语从句，其中'it'是形式主语，'that'引导主语从句；'and he's disrupting...'是第二个宾语从句；'because...'是原因状语从句。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "美国政治与外交政策",
+      "content": "该段涉及美国总统特朗普提名代理司法部长托德·布兰奇为正式司法部长，以及众议院通过战争权力决议限制总统对伊朗的军事行动。背景是特朗普政府与伊朗的冲突，包括军事打击和海上封锁，以及国会内部对总统战争权力的制衡。",
+      "keywords": "Trump, Attorney General, War Powers Resolution, Iran, military action, Congress"
+    },
+    {
+      "title": "美伊冲突与中东局势",
+      "content": "美国与伊朗之间的敌对行动持续，包括伊朗无人机袭击科威特机场造成伤亡。美国实施海上封锁，伊朗要求解冻资产作为谈判条件。分析人士认为特朗普缺乏推动和平协议的兴趣，而伊朗可能进一步升级冲突。",
+      "keywords": "Iran, hostilities, drone strike, Kuwait, blockade, sanctions relief, nuclear enrichment"
+    },
+    {
+      "title": "美国情报机构与人事任命",
+      "content": "特朗普任命比尔·普尔特为代理国家情报总监，引发争议。普尔特缺乏情报背景，此前在住房金融局工作，曾利用职权调查政治对手。参议员质疑其资格，认为他可能滥用情报机构权力。",
+      "keywords": "DNI, Bill Pulte, intelligence agencies, confirmation, weaponization, FISA"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nTrump To Nominate Blanche For Attorney General; House Rebukes Trump, Approves War Powers Resolution; Rubio To Lawmakers: War With Iran Is \"Over\". Aired 6:30-7a ET\n\nAired June 04, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nAUDIE CORNISH, CNN ANCHOR: Good morning, everybody. I'm Audie Cornish. Thank you for joining me on CNN THIS MORNING.\n\nIt is half past the hour, and here's what's happening right now.\n\nPresident Trump expected to nominate Todd Blanche, the acting attorney general, to be the next attorney general.\n\nDONALD TRUMP, PRESIDENT OF THE UNITED STATES: He's acting attorney general. Tomorrow, I'm instructing Dan and everybody else that's involved in that very complicated process, which is going to go, I think, very quickly, that we are going to make him permanent attorney general.\n\nCORNISH: Now, Blanche previously served as one of the president's personal defense attorneys. He's been currently serving as acting AG since the firing of Pam Bondi back in April.\n\nThe White House Correspondents Dinner rescheduled. The event back in April was disrupted by a gunman. President Trump said he wanted it back on. The new dinner will take place July 24th. In a \"Truth Social\" post, the president says he'll be there.\n\nAnd then, a stunning rebuke of Trump. The House approving a War Powers resolution on Wednesday that would halt the US military action against Iran. A handful of Republicans actually joined with Democrats this time, and the resolution is supposed to limit the president's ability to initiate or escalate military hostilities without congressional approval.\n\nSo the question is, are we at the end or are as some lawmakers are worried about? Are we at the start of something that will be long and protracted with Iran?\n\nOn Wednesday, Secretary of State Marco Rubio told lawmakers that the war is over.\n\nREP. SARA JACOBS (D-CA): We're taking you at your word. The war is over. Who won?\n\nMARCO RUBIO, SECRETARY OF STATE: But first of all, you're not taking me at my word. It's a fact. We're no longer conducting sustained strikes inside of Iran to degrade their military because Epic Fury is over.\n\nCORNISH: Here's how the president described it.\n\nTRUMP: We hit them pretty hard the night before and actually last night.\n\nCORNISH: So there are fresh hostilities between the U.S. and Iran overnight spilling into neighboring Gulf countries. One person was killed, more than 60 injured, in an Iranian drone strike on Kuwait's airport.\n\nSo we're bringing in Harrison Mann to the Group Chat. He's a former U.S. Army major and former executive officer of the Defense Intelligence Agency.\n\nThank you so much for being here. So as we talk, we talked about the potential, the hostilities here. I want to talk about the possibility for the deal. Iran over and over keeps bringing up restitution. It wants to be basically its assets unfrozen.\n\nCan you talk about what they're looking for and how much of a sticking point this is for the U.S.?\n\nHARRISON MANN, FORMER EXECUTIVE OFFICER, DEFENSE INTELLIGENCE AGENCY: First, I want to point out that, you know, this so-called sticking point was that was a demand from before the war, right? When Trump did the surprise attack with Israel in February, what the US and Iran were discussing was some kind of sanctions relief, which would be a de facto release of funds in exchange for freeze on Iran's nuclear enrichment.\n\nAnd so I think it's, in my mind, a little misleading to say this thing that we've known is always going to be in Iranian demand is a sticking point. I think really the principal sticking point remains Trump's lack of interest in actually pushing for a deal.\n\nCORNISH: Okay, let me just play a little of it first --\n\nCORNISH: -- so people have some context for what you're talking about.\n\nHere's what he said about whether or not a deal could be reached in the coming days.\n\nTRUMP: The negotiation itself has gone very well, actually, very well.\n\nREPORTER: Mr. President --\n\nTRUMP: It could have -- even if it happens, and it might not happen, who knows? But if it happens, it could happen like over the weekend.\n\nThe blockade is the most powerful thing. I think the blockade maybe has more impact than the bombing has, but the blockade that we have the naval blockade is incredible. Not one ship has gotten through unless we wanted it to. And people respect it a lot.\n\nMANN: Yeah, so I think -- you know, Trump may actually believe that the blockade is working and he might believe that it's sustainable. The Iranians don't believe either. I think they're pretty confident their ability to withstand some loss of oil sales.\n\nAnd they really don't like the status quo. It seems like Trump kind of thinks he basically ended the war, and occasional tit-for-tat strikes can go on really forever.\n\nThe Iranians don't want that. They think they've got an advantage and they want to press it. And so, like we saw with the attack on the Kuwaiti airport, I think they're going to actually start escalating a little more to try and break this impasse.\n\nCORNISH: Against allies, U.S. allies of the region, this idea of just spreading it into the region more.\n\nMANN: I think against U.S. forces and against U.S. partners, which they still hold responsible because U.S. attacks are sometimes launched from their territory. And so I think they are going to basically -- they have found also their strategy is not working because Trump is not actually convinced that he has to change the status quo.\n\nSo they're pretty willing to go back to war more than Trump is. And I think we're going to see them push closer and closer if Trump doesn't actually get serious about making a peace deal.\n\nCORNISH: Can I also get your opinion on this war vote? We were all talking about why these various Republicans, there's only a few, right, four, who have decided to vote against the president going to war and being able to do more hostilities. And we were looking at issues like reelection, what districts, what state. Can you talk about what you know about their backgrounds and whether\n\nyou think there is also a broader conversation happening within the vet community about this?\n\nMANN: Yeah, I think these defections, which I don't want to call them that because these Congress members of Congress did the right thing, right? They're trying to end this war, represent two things.\n\nOne, the costs of the war and the kind of stupidity of the war have become impossible to ignore, right? We're three months in. You can't pretend Trump's got a plan. You can't ignore the very visible and tangible economic effects, right?\n\nI saw you playing before fertilizer, increasing the cost of food, and of course, the pain at the gas pump.\n\nOn top of that, I think the most recent generation of veterans who served in the war on terror in some capacity, contrasted maybe with Lindsey Graham, who's also a veteran.\n\nCORNISH: Well, Pete Hegseth.\n\nMANN: Or Pete Hegseth.\n\nCORNISH: I mean, remember, there are people in power here who have that same experience. That's why I'm wondering about the divide.\n\nMANN: Yeah, I do. You know, as a veteran, I don't want to say that putting a veteran in a leadership position automatically means they're going to make a good decision, right? You got Pete Hegseth. You got J.D. Vance. You had Tulsi Gabbard, you know, for her short-lived DNI career.\n\nBut some of them clearly took the correct lesson away from the war on terror, which was we shouldn't be doing these stupid, destructive wars for no reason. And it's really clear, it's been clear from the start, that's what this is going to be. I think tons of Republicans, both veterans and not, have understood this, were biting their tongue basically to see if Trump could resolve this quickly and they could avoid having to take a stand.\n\nSo yeah, I think these four are probably just the tip of the iceberg. You know, we've seen some Republican senators also threaten in the past to support War Powers resolutions. And I think we're only going to see more of this --\n\nMANN: -- especially as, you know folks understand that their lives are getting qualitatively worse and more expensive because of the war.\n\nCORNISH: Well, right now, it's still just a trickle politically. I'll let you know and bring you back when it becomes a wave, all right, if we see more people jump on.\n\nThank you so much for being here. We just mentioned national intelligence and the president's choice to\n\nbecome acting director of national intelligence is actually getting a lot of blowback on Capitol Hill. The person he's chosen is named Bill Pulte to oversee the nation's intelligence agencies. He does not have a background in intelligence. His current job is at the administration's Federal Housing Finance Agency and Fannie Mae and Freddie Mac.\n\nBut from that job, he's also managed to launch criminal investigations into several of the president's political foes. One White House source said the change from Trump was easy, saying, quote, Trump likes Tulsi, but she's very methodical. She's a thinker. Bill is a move fast and break things kind of guy, the source said.\n\nMany senators, including Republicans, but Pulte is not the right guy for the job.\n\nSEN. JOHN CORNYN (R-TX): I see no evidence of any qualifications for that job.\n\nSEN. THOM TILLIS (R-NC): I think he's the worst form of sycophant and advisor to the president that is going to hurt the president's legacy.\n\nCORNISH: So the group chat is back. I got to go to our friend here at \"Semafor\" because you got the scoop. You got scoops about how this guy got pushed to the forefront, how you went from, \"hey, handle the houses\" to \"hey, handle 18 intelligence agencies\".\n\nELEANOR MUELLER, WHITE HOUSE ECONOMY POLICY REPORTER, SEMAFOR: Yeah, I've been covering Bill Pulte for a long time since actually he was nominated as FHFA director and he came in hot. He laid off a ton of executives. He made himself chairman of Fannie and Freddie, which was an unprecedented move.\n\nAnd he completely overhauled a ton of different policies. And since then, he's kept up that momentum, right? We've seen him lead the charge.\n\nCORNISH: Which is hard, houses. Houses is your job.\n\nCORNISH: So how did he end --\n\nMUELLER: -- your job, right? We've seen him submit the criminal inquiry to the Justice Department that was the basis for Trump's attempt to fire Fed Governor Lisa Cook.\n\n[06:40:00] He's clashed with cabinet members, including Scott Bessent, over basically encouraging Trump to fire Fed Chair Jerome Powell. And that is what his supporters wanted him to bring to this job, right? Roger Stone, Tulsi Gabbard, these are folks who said, this is what we need. We need someone who's not going to necessarily respect the typical M.O. and instead come in and just get stuff done. And clearly Trump agreed.\n\nCORNISH: It's interesting because he's got, as you said, he comes in hot. And somebody who comes in equally hot in response is the Treasury Secretary Bessent. And it's been Washington lore that they had a fistfight for a long time, confirmed.\n\nAnd in this moment in a hearing on Wednesday, Tom Tillis asked about it, kind of as a character witness, so to speak. And here's what Bessent had to say.\n\nTILLIS: Did you actually tell Pulte you were going to punch him in the face?\n\nSCOTT BESSENT, TREASURY SECRETARY: No, sir. I actually said I was going to kick his ass.\n\nTILLIS: Good. Okay, good. I share the emotion. Thank you.\n\nBESSENT: And as I said, that was last summer, summer of '25. And many teams have fights in the locker room and then go out and win for the team on the table.\n\nCORNISH: Fights in the locker room. I'm being judgmental. I'm like, you've seen a locker room. What do you see when he's talking about this? I don't think that's totally wrong.\n\nMANN: Yeah, I mean, I think first of all, like Trump, Trump loves it when people are competing for his affection. Like that's -- that's kind of his ideal. You know, I'm not. I'm not. It's tough for me to imagine him getting a fight with anybody, but I think like I'm much more kind of scared here about the idea of putting somebody who's even more of a kind of submissive loyalist than Tulsi Gabbard into this role.\n\nYeah, Pulte has shown kind of extraordinary talent for weaponizing the pretty obscure position that he was originally in. But I think really anybody who's a loyalist to Trump, even if it's not Pulte, even if they find somebody who has like better resume than Pulte, could use the DNI position to cause a lot of harm.\n\nCORNISH: Yeah, and this is one of those things where it starts out about being one thing, like the weaponization fund, and it causes problems for other priorities. In that case, it was immigration. With this one, with Pulte, all of a sudden, you've got some senators\n\nlike Warner who had been working on a bipartisan deal on FISA being like, oh, you want this guy? Well, let's have a conversation about the FISA rules. And can it disrupt other priorities? Is it worth it to get this guy in?\n\nMIKE DUBKE, FORMER TRUMP WHITE HOUSE COMMUNICATIONS DIRECTOR: Well, first of all, Pulte's never going to be the nominee, and I'll just say that. I don't think he --\n\nCORNISH: Oh, really?\n\nDUBKE: I believe that. I think that this is --\n\nMUELLER: That is true. Trump said he was making him acting DNI. I think they knew from the jump that he could never get confirmed by the Senate.\n\nDUBKE: The bigger political question here is why poke the bear of the Senate for any reason on this by putting Pulte in this position? And that, I think, especially when you've got FISA reauthorization, you know, that the deadline for that coming up --\n\nCORNISH: Yeah, it's going to sunset.\n\nDUBKE: It is a -- it is a fight that maybe wasn't worth picking for this guy. But let's be just clear about this. Pulte is a flash in the pan in terms of DNI.\n\nMEGHAN HAYS, FORMER BIDEN WHITE HOUSE DIRECTOR OF MESSAGE PLANNING: Yeah, I just think he can do a lot of harm while he's there, right? We have elections coming up. Their whole thing is to prove that the '20 elections didn't happen.\n\nTulsi Gabbard was in Georgia. Why? Who knows? This guy's already shown that he's going to weaponize more. Now you're going to weaponize 18 intelligence agencies.\n\nI mean, it's just disgusting. I just didn't know -- to his point, I just didn't know that you could have someone less qualified to be in this role. And I think it should scare the American people. And it's clearly making noise in the Senate.\n\nDUBKE: Just because she was a Democrat. I didn't think she was less qualified.\n\nCORNISH: I just want to say that -- I want to end with you, Eleanor, because you talked to like industry people from banking and even they were like, we don't understand why you would put this guy who in his regular real-time job went into the tickle files unprompted. He gained files for people to investigate and presented them and now put him in front of top secret documentation.\n\nMUELLER: I think it shocked many people within the banking industry who have seen firsthand what he's done at FHFA since he was picked last year. I was with Senator Warner when the last DNI stepped down and he said explicitly, you know, we want to see someone who's going to stay in their lane like past DNIs have.\n\nAnd with Pulte, he has a very cut and dry track record of very much not doing that, not only on these issues of mortgage fraud, but also on housing policies like the 50-year mortgage, where he's taken advantage of this personal relationship with Trump to bring him ideas that the rest of the party has then immediately said, absolutely not.\n\nCORNISH: Blown up. Yeah, yeah.\n\nBefore I let you go, can I ask how much damage can they do? Is this a job -- some people thought Tulsi was sidelined in a lot of ways. People have always complained about this gig, whether it really does do anything.\n\nWhat kind of access will he have to top secret materials and what's the concern?\n\nMANN: So he won't just have incredible access. There's 18 intelligence agencies.\n\nOther than the CIA and the FBI, the rest of them don't really have representation in the White House. They don't have the same representation or the same level on the Hill.\n\nSo they are much more sensitive to the demands of the DNI, right? We saw there's a feud between Ratcliffe, the CIA, and Gabbard. That's not going to happen with the Office of Naval Intelligence or, you know, even the intel agency that's under DHS. He sets budgetary priorities, like in bureaucratic world, he can exercise a lot of control over these other agencies, and he can use that to basically investigate Americans or target Americans.\n\nI think it's a good thing that Trump's authoritarianism basically got in the way of itself, and he's disrupting the renewal of FISA Section 702, because I don't want somebody like Pulte or Kash Patel to have access to that kind of basically warrantless surveillance of us. But that's the kind of stuff he could do and could exploit.\n\nA lot of the authorities of the I.C. have already been abused or misused, you know, not just under Gabbard, but under previous administrations. If this is a guy who could weaponize, you know, housing finance, there is a lot he can do with the intel world.\n\nCORNISH: Okay, Harrison, thank you so much for being here.\n\nComing up on CNN, there's another setback for the president. We mentioned the anti-weaponization fund, all but dead. Are we at this kind of turning point in this presidency?\n\n(BEGIN VIDEO CLIP) REP. THOMAS MASSIE (R-KY): I think it sends a good message from the People's House that people are tired of war.\n\nCORNISH: Which leads us to that rebuke. The House passes a War Powers resolution to limit his authority in Iran. We're going to talk with Congressman Kevin Kiley, the only independent in the House, about it. He's here next.\n\nCORNISH: So what's going on with Republicans and President Trump? Well, before the break, we were talking about this outcry ove",
+  "segments": [
+    {
+      "seg": 2,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-04/segment/02",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nTrump To Nominate Blanche For Attorney General; House Rebukes Trump, Approves War Powers Resolution; Rubio To Lawmakers: War With Iran Is \"Over\". Aired 6:30-7a ET\n\nAired June 04, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nAUDIE CORNISH, CNN ANCHOR: Good morning, everybody. I'm Audie Cornish. Thank you for joining me on CNN THIS MORNING.\n\nIt is half past the hour, and here's what's happening right now.\n\nPresident Trump expected to nominate Todd Blanche, the acting attorney general, to be the next attorney general.\n\nDONALD TRUMP, PRESIDENT OF THE UNITED STATES: He's acting attorney general. Tomorrow, I'm instructing Dan and everybody else that's involved in that very complicated process, which is going to go, I think, very quickly, that we are going to make him permanent attorney general.\n\nCORNISH: Now, Blanche previously served as one of the president's personal defense attorneys. He's been currently serving as acting AG since the firing of Pam Bondi back in April.\n\nThe White House Correspondents Dinner rescheduled. The event back in April was disrupted by a gunman. President Trump said he wanted it back on. The new dinner will take place July 24th. In a \"Truth Social\" post, the president says he'll be there.\n\nAnd then, a stunning rebuke of Trump. The House approving a War Powers resolution on Wednesday that would halt the US military action against Iran. A handful of Republicans actually joined with Democrats this time, and the resolution is supposed to limit the president's ability to initiate or escalate military hostilities without congressional approval.\n\nSo the question is, are we at the end or are as some lawmakers are worried about? Are we at the start of something that will be long and protracted with Iran?\n\nOn Wednesday, Secretary of State Marco Rubio told lawmakers that the war is over.\n\nREP. SARA JACOBS (D-CA): We're taking you at your word. The war is over. Who won?\n\nMARCO RUBIO, SECRETARY OF STATE: But first of all, you're not taking me at my word. It's a fact. We're no longer conducting sustained strikes inside of Iran to degrade their military because Epic Fury is over.\n\nCORNISH: Here's how the president described it.\n\nTRUMP: We hit them pretty hard the night before and actually last night.\n\nCORNISH: So there are fresh hostilities between the U.S. and Iran overnight spilling into neighboring Gulf countries. One person was killed, more than 60 injured, in an Iranian drone strike on Kuwait's airport.\n\nSo we're bringing in Harrison Mann to the Group Chat. He's a former U.S. Army major and former executive officer of the Defense Intelligence Agency.\n\nThank you so much for being here. So as we talk, we talked about the potential, the hostilities here. I want to talk about the possibility for the deal. Iran over and over keeps bringing up restitution. It wants to be basically its assets unfrozen.\n\nCan you talk about what they're looking for and how much of a sticking point this is for the U.S.?\n\nHARRISON MANN, FORMER EXECUTIVE OFFICER, DEFENSE INTELLIGENCE AGENCY: First, I want to point out that, you know, this so-called sticking point was that was a demand from before the war, right? When Trump did the surprise attack with Israel in February, what the US and Iran were discussing was some kind of sanctions relief, which would be a de facto release of funds in exchange for freeze on Iran's nuclear enrichment.\n\nAnd so I think it's, in my mind, a little misleading to say this thing that we've known is always going to be in Iranian demand is a sticking point. I think really the principal sticking point remains Trump's lack of interest in actually pushing for a deal.\n\nCORNISH: Okay, let me just play a little of it first --\n\nCORNISH: -- so people have some context for what you're talking about.\n\nHere's what he said about whether or not a deal could be reached in the coming days.\n\nTRUMP: The negotiation itself has gone very well, actually, very well.\n\nREPORTER: Mr. President --\n\nTRUMP: It could have -- even if it happens, and it might not happen, who knows? But if it happens, it could happen like over the weekend.\n\nThe blockade is the most powerful thing. I think the blockade maybe has more impact than the bombing has, but the blockade that we have the naval blockade is incredible. Not one ship has gotten through unless we wanted it to. And people respect it a lot.\n\nMANN: Yeah, so I think -- you know, Trump may actually believe that the blockade is working and he might believe that it's sustainable. The Iranians don't believe either. I think they're pretty confident their ability to withstand some loss of oil sales.\n\nAnd they really don't like the status quo. It seems like Trump kind of thinks he basically ended the war, and occasional tit-for-tat strikes can go on really forever.\n\nThe Iranians don't want that. They think they've got an advantage and they want to press it. And so, like we saw with the attack on the Kuwaiti airport, I think they're going to actually start escalating a little more to try and break this impasse.\n\nCORNISH: Against allies, U.S. allies of the region, this idea of just spreading it into the region more.\n\nMANN: I think against U.S. forces and against U.S. partners, which they still hold responsible because U.S. attacks are sometimes launched from their territory. And so I think they are going to basically -- they have found also their strategy is not working because Trump is not actually convinced that he has to change the status quo.\n\nSo they're pretty willing to go back to war more than Trump is. And I think we're going to see them push closer and closer if Trump doesn't actually get serious about making a peace deal.\n\nCORNISH: Can I also get your opinion on this war vote? We were all talking about why these various Republicans, there's only a few, right, four, who have decided to vote against the president going to war and being able to do more hostilities. And we were looking at issues like reelection, what districts, what state. Can you talk about what you know about their backgrounds and whether\n\nyou think there is also a broader conversation happening within the vet community about this?\n\nMANN: Yeah, I think these defections, which I don't want to call them that because these Congress members of Congress did the right thing, right? They're trying to end this war, represent two things.\n\nOne, the costs of the war and the kind of stupidity of the war have become impossible to ignore, right? We're three months in. You can't pretend Trump's got a plan. You can't ignore the very visible and tangible economic effects, right?\n\nI saw you playing before fertilizer, increasing the cost of food, and of course, the pain at the gas pump.\n\nOn top of that, I think the most recent generation of veterans who served in the war on terror in some capacity, contrasted maybe with Lindsey Graham, who's also a veteran.\n\nCORNISH: Well, Pete Hegseth.\n\nMANN: Or Pete Hegseth.\n\nCORNISH: I mean, remember, there are people in power here who have that same experience. That's why I'm wondering about the divide.\n\nMANN: Yeah, I do. You know, as a veteran, I don't want to say that putting a veteran in a leadership position automatically means they're going to make a good decision, right? You got Pete Hegseth. You got J.D. Vance. You had Tulsi Gabbard, you know, for her short-lived DNI career.\n\nBut some of them clearly took the correct lesson away from the war on terror, which was we shouldn't be doing these stupid, destructive wars for no reason. And it's really clear, it's been clear from the start, that's what this is going to be. I think tons of Republicans, both veterans and not, have understood this, were biting their tongue basically to see if Trump could resolve this quickly and they could avoid having to take a stand.\n\nSo yeah, I think these four are probably just the tip of the iceberg. You know, we've seen some Republican senators also threaten in the past to support War Powers resolutions. And I think we're only going to see more of this --\n\nMANN: -- especially as, you know folks understand that their lives are getting qualitatively worse and more expensive because of the war.\n\nCORNISH: Well, right now, it's still just a trickle politically. I'll let you know and bring you back when it becomes a wave, all right, if we see more people jump on.\n\nThank you so much for being here. We just mentioned national intelligence and the president's choice to\n\nbecome acting director of national intelligence is actually getting a lot of blowback on Capitol Hill. The person he's chosen is named Bill Pulte to oversee the nation's intelligence agencies. He does not have a background in intelligence. His current job is at the administration's Federal Housing Finance Agency and Fannie Mae and Freddie Mac.\n\nBut from that job, he's also managed to launch criminal investigations into several of the president's political foes. One White House source said the change from Trump was easy, saying, quote, Trump likes Tulsi, but she's very methodical. She's a thinker. Bill is a move fast and break things kind of guy, the source said.\n\nMany senators, including Republicans, but Pulte is not the right guy for the job.\n\nSEN. JOHN CORNYN (R-TX): I see no evidence of any qualifications for that job.\n\nSEN. THOM TILLIS (R-NC): I think he's the worst form of sycophant and advisor to the president that is going to hurt the president's legacy.\n\nCORNISH: So the group chat is back. I got to go to our friend here at \"Semafor\" because you got the scoop. You got scoops about how this guy got pushed to the forefront, how you went from, \"hey, handle the houses\" to \"hey, handle 18 intelligence agencies\".\n\nELEANOR MUELLER, WHITE HOUSE ECONOMY POLICY REPORTER, SEMAFOR: Yeah, I've been covering Bill Pulte for a long time since actually he was nominated as FHFA director and he came in hot. He laid off a ton of executives. He made himself chairman of Fannie and Freddie, which was an unprecedented move.\n\nAnd he completely overhauled a ton of different policies. And since then, he's kept up that momentum, right? We've seen him lead the charge.\n\nCORNISH: Which is hard, houses. Houses is your job.\n\nCORNISH: So how did he end --\n\nMUELLER: -- your job, right? We've seen him submit the criminal inquiry to the Justice Department that was the basis for Trump's attempt to fire Fed Governor Lisa Cook.\n\n[06:40:00] He's clashed with cabinet members, including Scott Bessent, over basically encouraging Trump to fire Fed Chair Jerome Powell. And that is what his supporters wanted him to bring to this job, right? Roger Stone, Tulsi Gabbard, these are folks who said, this is what we need. We need someone who's not going to necessarily respect the typical M.O. and instead come in and just get stuff done. And clearly Trump agreed.\n\nCORNISH: It's interesting because he's got, as you said, he comes in hot. And somebody who comes in equally hot in response is the Treasury Secretary Bessent. And it's been Washington lore that they had a fistfight for a long time, confirmed.\n\nAnd in this moment in a hearing on Wednesday, Tom Tillis asked about it, kind of as a character witness, so to speak. And here's what Bessent had to say.\n\nTILLIS: Did you actually tell Pulte you were going to punch him in the face?\n\nSCOTT BESSENT, TREASURY SECRETARY: No, sir. I actually said I was going to kick his ass.\n\nTILLIS: Good. Okay, good. I share the emotion. Thank you.\n\nBESSENT: And as I said, that was last summer, summer of '25. And many teams have fights in the locker room and then go out and win for the team on the table.\n\nCORNISH: Fights in the locker room. I'm being judgmental. I'm like, you've seen a locker room. What do you see when he's talking about this? I don't think that's totally wrong.\n\nMANN: Yeah, I mean, I think first of all, like Trump, Trump loves it when people are competing for his affection. Like that's -- that's kind of his ideal. You know, I'm not. I'm not. It's tough for me to imagine him getting a fight with anybody, but I think like I'm much more kind of scared here about the idea of putting somebody who's even more of a kind of submissive loyalist than Tulsi Gabbard into this role.\n\nYeah, Pulte has shown kind of extraordinary talent for weaponizing the pretty obscure position that he was originally in. But I think really anybody who's a loyalist to Trump, even if it's not Pulte, even if they find somebody who has like better resume than Pulte, could use the DNI position to cause a lot of harm.\n\nCORNISH: Yeah, and this is one of those things where it starts out about being one thing, like the weaponization fund, and it causes problems for other priorities. In that case, it was immigration. With this one, with Pulte, all of a sudden, you've got some senators\n\nlike Warner who had been working on a bipartisan deal on FISA being like, oh, you want this guy? Well, let's have a conversation about the FISA rules. And can it disrupt other priorities? Is it worth it to get this guy in?\n\nMIKE DUBKE, FORMER TRUMP WHITE HOUSE COMMUNICATIONS DIRECTOR: Well, first of all, Pulte's never going to be the nominee, and I'll just say that. I don't think he --\n\nCORNISH: Oh, really?\n\nDUBKE: I believe that. I think that this is --\n\nMUELLER: That is true. Trump said he was making him acting DNI. I think they knew from the jump that he could never get confirmed by the Senate.\n\nDUBKE: The bigger political question here is why poke the bear of the Senate for any reason on this by putting Pulte in this position? And that, I think, especially when you've got FISA reauthorization, you know, that the deadline for that coming up --\n\nCORNISH: Yeah, it's going to sunset.\n\nDUBKE: It is a -- it is a fight that maybe wasn't worth picking for this guy. But let's be just clear about this. Pulte is a flash in the pan in terms of DNI.\n\nMEGHAN HAYS, FORMER BIDEN WHITE HOUSE DIRECTOR OF MESSAGE PLANNING: Yeah, I just think he can do a lot of harm while he's there, right? We have elections coming up. Their whole thing is to prove that the '20 elections didn't happen.\n\nTulsi Gabbard was in Georgia. Why? Who knows? This guy's already shown that he's going to weaponize more. Now you're going to weaponize 18 intelligence agencies.\n\nI mean, it's just disgusting. I just didn't know -- to his point, I just didn't know that you could have someone less qualified to be in this role. And I think it should scare the American people. And it's clearly making noise in the Senate.\n\nDUBKE: Just because she was a Democrat. I didn't think she was less qualified.\n\nCORNISH: I just want to say that -- I want to end with you, Eleanor, because you talked to like industry people from banking and even they were like, we don't understand why you would put this guy who in his regular real-time job went into the tickle files unprompted. He gained files for people to investigate and presented them and now put him in front of top secret documentation.\n\nMUELLER: I think it shocked many people within the banking industry who have seen firsthand what he's done at FHFA since he was picked last year. I was with Senator Warner when the last DNI stepped down and he said explicitly, you know, we want to see someone who's going to stay in their lane like past DNIs have.\n\nAnd with Pulte, he has a very cut and dry track record of very much not doing that, not only on these issues of mortgage fraud, but also on housing policies like the 50-year mortgage, where he's taken advantage of this personal relationship with Trump to bring him ideas that the rest of the party has then immediately said, absolutely not.\n\nCORNISH: Blown up. Yeah, yeah.\n\nBefore I let you go, can I ask how much damage can they do? Is this a job -- some people thought Tulsi was sidelined in a lot of ways. People have always complained about this gig, whether it really does do anything.\n\nWhat kind of access will he have to top secret materials and what's the concern?\n\nMANN: So he won't just have incredible access. There's 18 intelligence agencies.\n\nOther than the CIA and the FBI, the rest of them don't really have representation in the White House. They don't have the same representation or the same level on the Hill.\n\nSo they are much more sensitive to the demands of the DNI, right? We saw there's a feud between Ratcliffe, the CIA, and Gabbard. That's not going to happen with the Office of Naval Intelligence or, you know, even the intel agency that's under DHS. He sets budgetary priorities, like in bureaucratic world, he can exercise a lot of control over these other agencies, and he can use that to basically investigate Americans or target Americans.\n\nI think it's a good thing that Trump's authoritarianism basically got in the way of itself, and he's disrupting the renewal of FISA Section 702, because I don't want somebody like Pulte or Kash Patel to have access to that kind of basically warrantless surveillance of us. But that's the kind of stuff he could do and could exploit.\n\nA lot of the authorities of the I.C. have already been abused or misused, you know, not just under Gabbard, but under previous administrations. If this is a guy who could weaponize, you know, housing finance, there is a lot he can do with the intel world.\n\nCORNISH: Okay, Harrison, thank you so much for being here.\n\nComing up on CNN, there's another setback for the president. We mentioned the anti-weaponization fund, all but dead. Are we at this kind of turning point in this presidency?\n\n(BEGIN VIDEO CLIP) REP. THOMAS MASSIE (R-KY): I think it sends a good message from the People's House that people are tired of war.\n\nCORNISH: Which leads us to that rebuke. The House passes a War Powers resolution to limit his authority in Iran. We're going to talk with Congressman Kevin Kiley, the only independent in the House, about it. He's here next.\n\nCORNISH: So what's going on with Republicans and President Trump? Well, before the break, we were talking about this outcry ove"
+    }
+  ]
+}
