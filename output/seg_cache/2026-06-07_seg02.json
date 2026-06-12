@@ -1,0 +1,464 @@
+{
+  "date": "2026-06-07",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-07/segment/02",
+  "vocabulary": [
+    {
+      "word": "crossfire",
+      "phonetic": "/ˈkrɒsfaɪər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "交叉火力",
+      "en": "gunfire from two or more directions passing through the same area",
+      "excerpt": "Twelve people were hit in the crossfire.",
+      "example_cn": "十二人在交叉火力中受伤。"
+    },
+    {
+      "word": "manhunt",
+      "phonetic": "/ˈmænhʌnt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "搜捕",
+      "en": "an organized search for a person, especially a criminal",
+      "excerpt": "We have the latest on that manhunt coming up.",
+      "example_cn": "我们即将带来关于那次搜捕的最新消息。"
+    },
+    {
+      "word": "ceasefire",
+      "phonetic": "/ˈsiːsfaɪər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "停火",
+      "en": "a temporary suspension of fighting",
+      "excerpt": "the U.S. and Iran work to negotiate some permanent ceasefire.",
+      "example_cn": "美国和伊朗正在努力谈判达成某种永久停火。"
+    },
+    {
+      "word": "salvage",
+      "phonetic": "/ˈsælvɪdʒ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "挽救",
+      "en": "to save something from loss or destruction",
+      "excerpt": "Pakistan's interior minister also arrived in Tehran to try to salvage peace talks.",
+      "example_cn": "巴基斯坦内政部长也抵达德黑兰，试图挽救和平谈判。"
+    },
+    {
+      "word": "mounting",
+      "phonetic": "/ˈmaʊntɪŋ/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "日益增加的",
+      "en": "increasing in amount or intensity",
+      "excerpt": "there are these, as you've heard, mounting controversies.",
+      "example_cn": "正如你所听到的，存在这些日益增加的争议。"
+    },
+    {
+      "word": "primary",
+      "phonetic": "/ˈpraɪməri/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "初选",
+      "en": "a preliminary election to appoint delegates to a party conference or to select the candidates for a principal election",
+      "excerpt": "Graham Platner is favored to win the primary.",
+      "example_cn": "格雷厄姆·普拉特纳有望赢得初选。"
+    },
+    {
+      "word": "suspect",
+      "phonetic": "/səˈspekt/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "嫌疑犯",
+      "en": "a person thought to be guilty of a crime or offense",
+      "excerpt": "police are searching for two suspects after at least 12 people were shot",
+      "example_cn": "警方正在搜寻至少12人被枪击案的两名嫌疑人。"
+    },
+    {
+      "word": "custody",
+      "phonetic": "/ˈkʌstədi/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "拘留",
+      "en": "the state of being held by the police",
+      "excerpt": "Neither suspect is in custody this morning.",
+      "example_cn": "今早两名嫌疑人均未被拘留。"
+    },
+    {
+      "word": "critical",
+      "phonetic": "/ˈkrɪtɪkl/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "危急的",
+      "en": "extremely ill and at risk of death",
+      "excerpt": "two of them critically.",
+      "example_cn": "其中两人情况危急。"
+    },
+    {
+      "word": "commonplace",
+      "phonetic": "/ˈkɒmənpleɪs/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "常见的",
+      "en": "not unusual; ordinary",
+      "excerpt": "Scenes like this have become a just commonplace across our country.",
+      "example_cn": "这样的场景在我国已经变得司空见惯。"
+    },
+    {
+      "word": "incident",
+      "phonetic": "/ˈɪnsɪdənt/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "事件",
+      "en": "an event or occurrence",
+      "excerpt": "the incident occurred shortly after 5:30 in the afternoon on Saturday",
+      "example_cn": "事件发生在周六下午5点30分后不久。"
+    },
+    {
+      "word": "annual",
+      "phonetic": "/ˈænjuəl/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "每年的",
+      "en": "occurring once every year",
+      "excerpt": "This is an annual two-day event",
+      "example_cn": "这是一个为期两天的年度活动。"
+    },
+    {
+      "word": "historic",
+      "phonetic": "/hɪˈstɒrɪk/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "历史性的",
+      "en": "famous or important in history",
+      "excerpt": "the city's historic district",
+      "example_cn": "该市的历史街区。"
+    },
+    {
+      "word": "eyewitness",
+      "phonetic": "/ˈaɪwɪtnəs/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "目击者",
+      "en": "a person who has seen something happen and can give a first-hand description of it",
+      "excerpt": "eyewitnesses told a local CNN affiliate",
+      "example_cn": "目击者告诉当地CNN附属机构。"
+    },
+    {
+      "word": "multiple",
+      "phonetic": "/ˈmʌltɪpl/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "多个的",
+      "en": "many or several",
+      "excerpt": "they heard multiple shots",
+      "example_cn": "他们听到了多声枪响。"
+    },
+    {
+      "word": "mass shooting",
+      "phonetic": "/mæs ˈʃuːtɪŋ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "大规模枪击",
+      "en": "an incident involving multiple victims of gun violence",
+      "excerpt": "one of at least 170 mass shootings across the U.S. this year alone",
+      "example_cn": "仅今年美国就发生了至少170起大规模枪击事件之一。"
+    },
+    {
+      "word": "fragile",
+      "phonetic": "/ˈfrædʒaɪl/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "脆弱的",
+      "en": "easily broken or damaged",
+      "excerpt": "this really fragile ceasefire",
+      "example_cn": "这个非常脆弱的停火协议。"
+    },
+    {
+      "word": "intercept",
+      "phonetic": "/ˌɪntəˈsept/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "拦截",
+      "en": "to stop, catch, or seize something in transit",
+      "excerpt": "Six Iranian attack drones have been shot down. That's according to U.S. Central Command.",
+      "example_cn": "六架伊朗攻击无人机被击落。据美国中央司令部称。"
+    },
+    {
+      "word": "drone",
+      "phonetic": "/drəʊn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "无人机",
+      "en": "an unmanned aircraft or ship guided by remote control or onboard computers",
+      "excerpt": "Six Iranian attack drones have been shot down.",
+      "example_cn": "六架伊朗攻击无人机被击落。"
+    },
+    {
+      "word": "spokesperson",
+      "phonetic": "/ˈspəʊkspɜːrsn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "发言人",
+      "en": "a person who speaks on behalf of a group or organization",
+      "excerpt": "the spokesperson for Iran's foreign ministry",
+      "example_cn": "伊朗外交部发言人。"
+    },
+    {
+      "word": "negotiate",
+      "phonetic": "/nɪˈɡəʊʃieɪt/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "谈判",
+      "en": "to try to reach an agreement through discussion",
+      "excerpt": "the challenge they see with negotiating with the U.S.",
+      "example_cn": "他们认为与美国谈判面临的挑战。"
+    },
+    {
+      "word": "contradictory",
+      "phonetic": "/ˌkɒntrəˈdɪktəri/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "矛盾的",
+      "en": "mutually opposed or inconsistent",
+      "excerpt": "contradictory remarks by different officials",
+      "example_cn": "不同官员的矛盾言论。"
+    },
+    {
+      "word": "cumbersome",
+      "phonetic": "/ˈkʌmbəsəm/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "繁琐的",
+      "en": "slow or complicated and therefore inefficient",
+      "excerpt": "it makes the whole process very cumbersome",
+      "example_cn": "这使得整个过程非常繁琐。"
+    },
+    {
+      "word": "viable",
+      "phonetic": "/ˈvaɪəbl/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "可行的",
+      "en": "capable of working successfully; feasible",
+      "excerpt": "whether there is a viable diplomatic path forward",
+      "example_cn": "是否存在可行的外交前进道路。"
+    },
+    {
+      "word": "violation",
+      "phonetic": "/ˌvaɪəˈleɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "违反",
+      "en": "the action of breaking or failing to comply with a rule or formal agreement",
+      "excerpt": "a grave violation of the ceasefire",
+      "example_cn": "严重违反停火协议。"
+    },
+    {
+      "word": "ballistic missile",
+      "phonetic": "/bəˈlɪstɪk ˈmɪsaɪl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "弹道导弹",
+      "en": "a missile that follows a ballistic trajectory",
+      "excerpt": "seven ballistic missiles fired at Kuwait and Bahrain",
+      "example_cn": "向科威特和巴林发射了七枚弹道导弹。"
+    },
+    {
+      "word": "assets",
+      "phonetic": "/ˈæsets/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "资产",
+      "en": "property owned by a person or company, regarded as having value",
+      "excerpt": "using Iranian assets to not only pay for the damage",
+      "example_cn": "利用伊朗资产不仅支付损失。"
+    },
+    {
+      "word": "coordination",
+      "phonetic": "/kəʊˌɔːdɪˈneɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "协调",
+      "en": "the organization of different elements to work together effectively",
+      "excerpt": "requires coordination with the Israeli military",
+      "example_cn": "需要与以色列军方协调。"
+    },
+    {
+      "word": "projectile",
+      "phonetic": "/prəˈdʒektail/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "抛射物",
+      "en": "a missile, such as a bullet or shell, fired from a gun",
+      "excerpt": "launching two projectiles",
+      "example_cn": "发射了两枚抛射物。"
+    },
+    {
+      "word": "ceasefire agreement",
+      "phonetic": "/ˈsiːsfaɪər əˈɡriːmənt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "停火协议",
+      "en": "a formal agreement to stop fighting",
+      "excerpt": "any U.S.-Iran ceasefire agreement include Lebanon as well",
+      "example_cn": "任何美伊停火协议也应包括黎巴嫩。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Police say the two shooters appeared to have been shooting at each other.",
+      "cn": "警方称，两名枪手似乎是在互相射击。",
+      "structure": "主语+谓语+宾语从句（主语+谓语+不定式完成式）",
+      "analysis": "'appeared to have been shooting' 是不定式完成进行式，表示动作在过去持续发生且可能仍在进行。"
+    },
+    {
+      "en": "The shooting is one of at least 170 mass shootings across the U.S. this year alone, according to the Gun Violence Archive.",
+      "cn": "据枪支暴力档案，仅今年一年，这起枪击事件就是全美至少170起大规模枪击事件之一。",
+      "structure": "主语+系动词+表语（名词短语+介词短语+状语）",
+      "analysis": "'one of at least 170 mass shootings' 是表语，'across the U.S.' 和 'this year alone' 是地点和时间状语。"
+    },
+    {
+      "en": "The main problem of negotiating with this administration is that you have to face so many changing positions, moving the goalposts, different statements, contradictory remarks by different officials.",
+      "cn": "与本届政府谈判的主要问题是，你必须面对如此多变化的立场、不断改变的目标、不同的声明以及不同官员的矛盾言论。",
+      "structure": "主语+系动词+表语从句（主语+谓语+宾语）",
+      "analysis": "'that' 引导表语从句，从句中 'have to face' 是谓语，后面跟多个并列宾语。"
+    },
+    {
+      "en": "A source familiar with the thinking of U.S. Treasury Secretary Scott Bessent says he is considering, and the Treasury Department is considering using Iranian assets to not only pay for the damage of future Iranian attacks, but also considering the possibility of using them to pay for past damage from Iranian attacks.",
+      "cn": "一位熟悉美国财政部长斯科特·贝森特想法的人士表示，他正在考虑，财政部也在考虑利用伊朗资产不仅支付未来伊朗袭击造成的损失，还考虑用它们支付过去伊朗袭击造成的损失。",
+      "structure": "主语+定语+谓语+宾语从句（主语+谓语+宾语+不定式短语）",
+      "analysis": "'familiar with...' 是形容词短语作定语修饰 'source'；'says' 后接宾语从句，从句中 'is considering' 和 'is considering' 并列，'using...to not only...but also...' 是动名词短语作宾语。"
+    },
+    {
+      "en": "The Israeli military acknowledged the strike and said it was moving suspiciously and operating in an area that had been under an evacuation warning.",
+      "cn": "以色列军方承认了这次袭击，并称该车辆当时在可疑地移动，并在一个已处于疏散警告的区域活动。",
+      "structure": "主语+谓语+宾语从句（主语+谓语+表语+定语从句）",
+      "analysis": "'said' 后接宾语从句，从句中 'it was moving...and operating...' 是并列谓语，'that had been under...' 是定语从句修饰 'area'。"
+    },
+    {
+      "en": "Hezbollah, which rejected the latest U.S.-Israel ceasefire, has attacked northern Israel for the first time since that ceasefire went into effect, launching two projectiles, according to the Israeli military.",
+      "cn": "据以色列军方称，拒绝最新美以停火协议的真主党，自该停火协议生效以来首次袭击了以色列北部，发射了两枚抛射物。",
+      "structure": "主语+非限制性定语从句+谓语+宾语+状语+现在分词短语",
+      "analysis": "'which rejected...' 是非限制性定语从句修饰 'Hezbollah'；'launching two projectiles' 是现在分词短语作伴随状语。"
+    },
+    {
+      "en": "After days of searching, the body of 20-year-old James Weston Higginbotham was found Saturday.",
+      "cn": "经过数日搜寻，20岁的詹姆斯·韦斯顿·希金博特姆的尸体于周六被发现。",
+      "structure": "状语+主语+谓语+状语",
+      "analysis": "'After days of searching' 是时间状语，'was found' 是被动语态谓语，'Saturday' 是时间状语。"
+    },
+    {
+      "en": "He disappeared on May 29 after getting into an argument with his mom over the environmental impact of her use of AI.",
+      "cn": "他于5月29日失踪，此前他与母亲就她使用人工智能对环境的影响发生了争执。",
+      "structure": "主语+谓语+时间状语+时间状语从句（介词+动名词短语）",
+      "analysis": "'after getting into an argument...' 是介词短语作时间状语，'over...' 是介词短语修饰 'argument'。"
+    },
+    {
+      "en": "The multi-day search involved more than 100 police officers, K-9 units, and helicopters.",
+      "cn": "为期多日的搜寻动用了100多名警察、警犬队和直升机。",
+      "structure": "主语+谓语+宾语（并列名词短语）",
+      "analysis": "'involved' 是谓语，后面跟三个并列宾语。"
+    },
+    {
+      "en": "His family focused their search in a mountainous area because they said Weston loved nature and hiking and thought that's where he may have gone.",
+      "cn": "他的家人将搜索重点放在山区，因为他们说韦斯顿热爱自然和徒步旅行，并认为他可能去了那里。",
+      "structure": "主语+谓语+宾语+状语从句（主语+谓语+宾语从句+并列谓语+宾语从句）",
+      "analysis": "'because' 引导原因状语从句，从句中 'said' 后接宾语从句，'thought' 后接宾语从句。"
+    },
+    {
+      "en": "A new federal rule sets stricter standards for who qualifies for an exemption from work requirements.",
+      "cn": "一项新的联邦规则为谁有资格获得工作要求豁免设定了更严格的标准。",
+      "structure": "主语+谓语+宾语+介词+宾语从句",
+      "analysis": "'for who qualifies...' 是介词短语，'who' 引导宾语从句作介词宾语。"
+    },
+    {
+      "en": "Josh Pacheco says that they were covering a protest in Newark when vehicles drove out of a gated area.",
+      "cn": "乔什·帕切科说，他们当时正在纽瓦克报道一场抗议活动，突然有车辆驶出一个有门禁的区域。",
+      "structure": "主语+谓语+宾语从句（主语+谓语+宾语+时间状语从句）",
+      "analysis": "'that' 引导宾语从句，从句中 'were covering' 是过去进行时，'when' 引导时间状语从句表示突然发生。"
+    },
+    {
+      "en": "The company that runs the site has not commented.",
+      "cn": "运营该地点的公司尚未发表评论。",
+      "structure": "主语+定语从句+谓语+状语",
+      "analysis": "'that runs the site' 是定语从句修饰 'company'，'has not commented' 是现在完成时谓语。"
+    },
+    {
+      "en": "He also said that he told his campaign staff or members staff about these text messages early in his marriage.",
+      "cn": "他还说，他在婚姻早期就告诉了他的竞选工作人员或成员这些短信内容。",
+      "structure": "主语+谓语+宾语从句（主语+谓语+间接宾语+直接宾语+状语）",
+      "analysis": "'that' 引导宾语从句，从句中 'told' 接双宾语，'about these text messages' 是介词短语作直接宾语。"
+    },
+    {
+      "en": "He doesn't believe that the attacks are going to work.",
+      "cn": "他不相信这些攻击会奏效。",
+      "structure": "主语+谓语+宾语从句（主语+谓语+不定式短语）",
+      "analysis": "'that' 引导宾语从句，从句中 'are going to work' 是将来时结构。"
+    },
+    {
+      "en": "He thinks the movement, as he describes it, that he's building here is enough to just push past all of this.",
+      "cn": "他认为，正如他所描述的，他在这里建立的运动足以克服这一切。",
+      "structure": "主语+谓语+宾语从句（主语+插入语+定语从句+系动词+表语+不定式短语）",
+      "analysis": "'as he describes it' 是插入语，'that he's building here' 是定语从句修饰 'movement'，'is enough to push past' 是系表结构加不定式。"
+    },
+    {
+      "en": "He also said that, you know, if he wouldn't do it anyway, he just feels like he's going to survive this.",
+      "cn": "他还说，你知道，即使他无论如何都不会这么做，他只是觉得自己会挺过去。",
+      "structure": "主语+谓语+宾语从句（插入语+条件状语从句+主句）",
+      "analysis": "'that' 引导宾语从句，从句中包含 'if' 引导的条件状语从句，主句是 'he just feels like...'。"
+    },
+    {
+      "en": "The question of course, is whether or not, you know, Maine Independent voters, which, you know, occupy a big clock of the voting population here, whether it's persuasive to them.",
+      "cn": "当然，问题是，你知道，缅因州的独立选民——他们占据了这里选民的一大部分——是否会被说服。",
+      "structure": "主语+系动词+表语从句（插入语+主语+非限制性定语从句+谓语+表语）",
+      "analysis": "'whether or not' 引导表语从句，从句中 'which' 引导非限制性定语从句修饰 'voters'，'whether it's persuasive' 是表语从句。"
+    },
+    {
+      "en": "He also said that, you know, if he wouldn't do it anyway, he just feels like he's going to survive this.",
+      "cn": "他还说，你知道，即使他无论如何都不会这么做，他只是觉得自己会挺过去。",
+      "structure": "主语+谓语+宾语从句（插入语+条件状语从句+主句）",
+      "analysis": "'that' 引导宾语从句，从句中包含 'if' 引导的条件状语从句，主句是 'he just feels like...'。"
+    },
+    {
+      "en": "The question of course, is whether or not, you know, Maine Independent voters, which, you know, occupy a big clock of the voting population here, whether it's persuasive to them.",
+      "cn": "当然，问题是，你知道，缅因州的独立选民——他们占据了这里选民的一大部分——是否会被说服。",
+      "structure": "主语+系动词+表语从句（插入语+主语+非限制性定语从句+谓语+表语）",
+      "analysis": "'whether or not' 引导表语从句，从句中 'which' 引导非限制性定语从句修饰 'voters'，'whether it's persuasive' 是表语从句。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "美国大规模枪击事件",
+      "content": "美国频繁发生大规模枪击事件，引发对枪支管控的讨论。本文提到俄亥俄州托莱多市节日期间发生枪击，12人受伤，两名枪手在逃。",
+      "keywords": "mass shooting, gun violence, Toledo, Ohio, festival"
+    },
+    {
+      "title": "美伊冲突与停火谈判",
+      "content": "美国与伊朗之间的冲突持续，尽管有停火协议，但双方仍互相攻击。巴基斯坦内政部长赴德黑兰斡旋，但谈判面临困难。",
+      "keywords": "U.S.-Iran conflict, ceasefire, peace talks, Pakistan, Tehran"
+    },
+    {
+      "title": "美国学生日本失踪案",
+      "content": "一名美国大学生在日本京都附近山区失踪，经过多日搜寻，遗体被志愿者找到。事件引发对旅行安全的关注。",
+      "keywords": "missing student, Japan, search and rescue, Auburn University"
+    },
+    {
+      "title": "缅因州民主党参议员初选",
+      "content": "民主党候选人格雷厄姆·普拉特纳面临多项争议，但仍在初选中领先。其个人历史被对手利用，选民态度分化。",
+      "keywords": "Maine primary, Graham Platner, Democratic Senate candidate, controversy"
+    },
+    {
+      "title": "美国与伊朗在黎巴嫩的冲突",
+      "content": "以色列在黎巴嫩南部发动空袭，真主党违反停火协议袭击以色列北部。停火协议面临压力。",
+      "keywords": "Lebanon, Hezbollah, Israel, ceasefire, airstrikes"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nPolice Search For Suspects After 12 Shot Near Ohio Festival; Pakistan Delegation Arrives In Tehran For Peace Talks; U.S. And Iran Exchange Strikes, Peace Talks At Stalemate; Missing American Student Found Dead In Japan After Days-Long Search; Platner Claims His Troubled Past Is Being \"Weaponized\"; Platner Faces New Allegations Days Before Maine Primary. Karmelo Anthony Trial Underway with No Black Jurors; Prosecutor: Texas Track Meet Killing was Murder, Not Self-Defense; Elon Musk to Become World's First Trillionaire; U.S. Prepares for FIFA World Cup Kickoff. Aired 7-8a ET\n\nAired June 07, 2026 - 07:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nVICTOR BLACKWELL, CNN HOST: Welcome back to CNN This Morning. Here's what you need to know today. Police are searching for at least two people who started shooting at a festival in Ohio. Twelve people were hit in the crossfire. We have the latest on that manhunt coming up.\n\nAlso new this morning, CNN spoke to Iran's foreign minister as the U.S. and Iran work to negotiate some permanent ceasefire. We have his reaction to how things are going so far.\n\nAlso in Japan, the search and rescue volunteers there have found the body of that missing American student. We have new details. We're learning about where he was found and what we're learning from his family.\n\nAnd Decision Day is looming for Democrats in Maine as they choose their candidate to run for Senate, choose their nominee. Graham Platner is favored to win the primary, but there are these, as you've heard, mounting controversies. Some Democrats wonder, is he too risky a bet?\n\nIt is Sunday, June 7th. Good to have you along. I'm Victor Blackwell.\n\nHappening right now, police are searching for two suspects after at least 12 people were shot near a festival in Toledo, Ohio, yesterday. Look at this. This was the scene as the shooting started.\n\n(END VIDEO CLIP) BLACKWELL: Police say the two shooters appeared to have been shooting at each other. Neither suspect is in custody this morning. Twelve people were hurt in that crossfire, two of them critically. All of them are expected to survive.\n\nHere's CNN's Gloria Pazmino with details.\n\nGLORIA PAZMINO, CNN NATIONAL CORRESPONDENT: That's right, Victor. Panic at what was supposed to be a summertime festival in Toledo, Ohio. Scenes like this have become a just commonplace across our country.\n\nHere's what we know. Law enforcement officials said at least two shooters were involved and that 12 people were struck by gunfire. Two of them are in critical condition. Police are still looking for the suspects and no one is in custody. An investigation is ongoing.\n\nNow, Toledo police said the incident occurred shortly after 5:30 in the afternoon on Saturday, local time, at the Old West End Festival. This is an annual two-day event which takes place in the city's historic district. The event kicked off on Saturday morning with a parade and live music. And police initially said that many victims were transported to nearby hospitals for treatment.\n\nNow, eyewitnesses told a local CNN affiliate, WTOL, that they heard multiple shots and then a panic among the festival-goers. The shooting is one of at least 170 mass shootings across the U.S. this year alone. That's according to the Gun Violence Archive. Victor?\n\nBLACKWELL: Gloria, thank you.\n\nToday marks 100 days since the U.S.-Israeli war with Iran started. Despite President Trump promising the conflict would last only four to six weeks, both sides are exchanging strikes during this really fragile ceasefire. Six Iranian attack drones have been shot down. That's according to U.S. Central Command.\n\nPakistan's interior minister also arrived in Tehran to try to salvage peace talks. Minutes ago, the spokesperson for Iran's foreign ministry explained the challenge they see with negotiating with the U.S.\n\nESMAEIL BAGHAEI, IRANIAN FOREIGN MINISTER SPOKESPERSON: The main problem of negotiating with this administration is that you have to face so many changing positions, moving the goalposts, different statements, contradictory remarks by different officials. So it makes the whole process very cumbersome, very unstable, and very uncertain. So, the exchange of communications still are ongoing.\n\nBLACKWELL: CNN's Jerusalem Bureau Chief Oren Liebermann has more for us. OREN LIEBERMANN, CNN JERUSALEM BUREAU CHIEF: The 24 hours from early Saturday morning until early Sunday morning have put tremendous pressure on the U.S.-Iran ceasefire and raised serious questions on whether there is a viable diplomatic path forward on negotiations and any means of making sure this ceasefire becomes a real broader agreement.\n\nOn Saturday morning, according to U.S. Central Command, they intercepted four one-way attack drones in the Gulf and around the Strait of Hormuz. Iranian state media had said these targeted what may have been U.S. Navy vessels operating in the region.\n\nIn response, according to Central Command, which governs U.S. military operations in the region, the U.S. struck surveillance radar sites, which Iran said they consider a grave violation of the ceasefire. Several hours later, we saw seven ballistic missiles fired at Kuwait and Bahrain. Six of those intercepted, one didn't reach its target.\n\nBut all of this puts pressure on the ceasefire. Then in the overnight hours from Saturday to Sunday, the U.S. says they intercepted two more one-way attack drones. So this, you see the difficulties here of not only making the ceasefire really take effect, but also trying to find some diplomatic path forward.\n\nPakistan's interior minister is holding meetings in Tehran throughout the weekend and on Sunday in particular, trying to make sure there is a path forward. But you see the difficulties in trying to move that ahead.\n\nMeanwhile, a source familiar with the thinking of U.S. Treasury Secretary Scott Bessent says he is considering, and the Treasury Department is considering using Iranian assets to not only pay for the damage of future Iranian attacks, but also considering the possibility of using them to pay for past damage from Iranian attacks.\n\nFor example, last week we saw an Iranian attack on Kuwait's airport kill one person, wound at least 60 others, and cause severe damage at the airport itself. Meanwhile, Iran has insisted that any U.S.-Iran ceasefire agreement include Lebanon as well.\n\nBut just like we see in the Gulf region, the ceasefire in there also appears to be under tremendous pressure. According to Lebanon's Ministry of Public Health, Israeli strikes killed 21 people on Friday. Then on Saturday, an Israeli strike on a vehicle in southern Lebanon killed a general and several other officers who were in that vehicle near the city of Nabatiyah.\n\nThe Israeli military acknowledged the strike and said it was moving suspiciously and operating in an area that had been under an evacuation warning. They say the strike itself will be looked at and learned from and that any movement in that area requires coordination with the Israeli military.\n\nMeanwhile, Hezbollah, which rejected the latest U.S.-Israel ceasefire, has attacked northern Israel for the first time since that ceasefire went into effect, launching two projectiles, according to the Israeli military. Meanwhile, two Israeli soldiers were killed in southern Lebanon, one on Friday, one on Saturday.\n\nSo you see the difficulty not only in the Gulf region between the U.S. and Iran of making a ceasefire real, bringing it to fruition, but also in Lebanon as well.\n\nOren Liebermann, CNN, in Jerusalem.\n\nBLACKWELL: Well, now to Russia's war on Ukraine. Ukrainian President Volodymyr Zelenskyy is expected to meet with European allies. The leaders of Germany, Britain, and France say that they'll focus on coordinating support for Ukraine. They'll also talk about how to apply more pressure on the Kremlin.\n\nNow, President Zelenskyy recently proposed a face-to-face meeting with Russian President Vladimir Putin, but Putin dismissed Zelenskyy's offer.\n\nSearch and rescue volunteers in Japan say they have found the body of a missing American college student, 20-year-old James \"Weston\" Higginbotham. He disappeared May 29 while he was on a trip with his family.\n\nJenn Sullivan has details.\n\nJENN SULLIVAN, CNN REPORTER (voice-over): It was supposed to be a celebration, the Higginbotham family traveling from Alabama to Japan to celebrate their youngest son's high school graduation. But the trip turned into a tragedy when their oldest son went missing.\n\nAfter days of searching, the body of 20-year-old James Weston Higginbotham was found Saturday. His family posting on Facebook, saying in part, \"Our family is heartbroken to share that Weston was found deceased by a volunteer search and rescue group in a mountainous area outside of Kyoto. The grief we feel is impossible to put into words.\"\n\nWeston was a college student at Auburn University. He disappeared on May 29 after getting into an argument with his mom over the environmental impact of her use of AI. His mother spoke to CNN's Erin Burnett Friday night before his body was found.\n\nNANCY HIGGINBOTHAM, MOTHER OF JAMES \"WESTON\" HIGGINBOTHAM: He turned off his location, so the police were able to track through CCT video that he stopped at the Yamashina station.\n\nSULLIVAN (voice-over): The multi-day search involved more than 100 police officers, K-9 units, and helicopters. On Saturday, the family launched their own search efforts with help from local residents and a hired search and rescue team.\n\nHis family focused their search in a mountainous area because they said Weston loved nature and hiking and thought that's where he may have gone.\n\nHIGGINBOTHAM: He just loves to go outside and go for a walk on a trail or go for a small hike. No matter what time of day, that's just fun to him.\n\nSULLIVAN (voice-over): His family thanking the volunteers who helped them look for him on their Facebook page. Closing out their message by saying, \"Thank you for your thoughts, prayers, and support. We will need them now more than ever. We will always love you, Weston.\"\n\nI'm Jenn Sullivan reporting.\n\nBLACKWELL: Here are some of the other stories we're watching this morning. The CDC says that millions of Americans could soon face new hurdles to keep or get Medicaid coverage. A new federal rule sets stricter standards for who qualifies for an exemption from work requirements. Patients now have to show their condition significantly limits their ability to work.\n\nA photographer is recovering after being hit by a car outside Delaney Immigration Detention Center in New Jersey. This is the moment of impact.\n\nUNIDENTIFIED MALE: Wow.\n\nUNIDENTIFIED MALE: Jesus!\n\nBLACKWELL: Josh Pacheco says that they were covering a protest in Newark when vehicles drove out of a gated area. ICE says it was not involved, and they added the incident involved workers leaving the facility. The company that runs the site has not commented.\n\nAn NBA Finals watch party outside Madison Square Garden turned violent. Police say they arrested 26 people. Officials say one person punched an officer Friday, then bit another officer. New York Mayor Zohran Mamdani posted on X yesterday urging fans to celebrate responsibly, and he says there's no tolerance for violence.\n\nThe Knicks now lead the final two games to none. Game three tomorrow night at MSG.\n\nFour states hold primaries this week, but most people will be watching Maine and the Democratic Senate candidate Graham Platner. A look at the mounting controversy surrounding his run.\n\nAlso, the prosecution has wrapped its case in the track meet murder trial in Texas. We've got the latest developments there.\n\nBLACKWELL: Democrats are collectively holding their breath and hoping for the best ahead of Tuesday's critical Senate primary in Maine. Now, Graham Platner is the favored Democratic candidate. He's likely going to win. He's refusing to exit the race. He claims his past behavior is being exploited by his political opponents.\n\nGRAHAM PLATNER (D), MAINE SENATE CANDIDATE: Now, as every single piece of that past and journey gets dug up, litigated and weaponized, you have my back.\n\nBLACKWELL: But Platner has acknowledged going through what he called a period of darkness after his military service.\n\nJoining me now is Steve Mistler, he's the chief political correspondent for the Maine Republic. Steve, good morning to you. And so, when I say that Democrats will be holding their breath, they likely know who is going to win that Democratic Senate primary.\n\nBut Governor Janet Mills is still on the ballot there. Is their consideration that there will be a significant turnout for her, that there may be a message in margin here. What are we expecting on Tuesday night?\n\nSTEVE MISTLER, CHIEF POLITICAL CORRESPONDENT, MAINE REPUBLIC: That's a good question. I mean, I think, you know, the governor in recent weeks or in the past week, I should say, has, you know, signaled through the press that, you know, list -- to remind people that she's still on the ballot. Now she suspended her campaign in late April and really hasn't campaigned since then.\n\nAnd so the question is, is whether or not just those signals in and of itself will, you know, move voters who are antsy about Graham Platner and some of these controversies and the cumulative effects of those. It's unclear if, you know, if there's a critical mass of Janet Mills supporters out there to make this close on Tuesday, but certainly there's going to be a lot of attention paid to Platner's vote share, even if he wins.\n\nBLACKWELL: You've recently interviewed Graham Platner and he is denied becoming physical with any of the women that he casually dated. He said that he told his campaign staff or members staff about these text messages early in his marriage. He also said that he expected that this would be a tough campaign.\n\nMaybe he didn't expect, you know, it coming out from his own campaign, but what did he tell you about the eventuality of having to deal with this? Did he expect that at some point the public would know about this part of his life? MISTLER: Well, he expected that, you know, his life would be a closely examined. He was pretty clear about that. He didn't know -- you know, he didn't anticipate the specifics of it. But he -- it's interesting because he, you know, he views this -- these -- the scrutiny of his personal life and these old Reddit posts.\n\nAnd, of course, the -- his old relationships back when he was living in Washington, D.C., he's used those as evidence that his message is a threat to what he calls the political establishment.\n\nSo, you know, while he's frustrated by the attacks and the examination of his personal life, he also views that as evidence that his messages is working and a threat to what he says is the political establishment that wants to stop him at all costs. So it's interesting.\n\nHe's -- it's a mix of sort of defiance and also, you know, anger I think at the fact that, you know, his life is being examined this closely. There's also an acknowledgement though, I would say, that, you know, he -- that that's fair game. I mean, he does say that too, but I think it's just the nature of some of the -- these attacks that's has him frustrated, but again, defiant.\n\nBLACKWELL: And what is he hearing from the state party, from the national party about his campaign?\n\nMISTLER: Yes, I asked him about that on Friday and asked if he had, you know, heard from any officials in the Maine Democratic Party or any -- the national party or any of its affiliates to drop out. And he said, no. And he also said that, you know, if he wouldn't do it anyway, he just feels like he's going to survive this.\n\nHe doesn't believe that the attacks are going to work. He thinks the movement, as he describes it, that he's building here is enough to just push past all of this. And also that voters are tired of that kind of politics. That's the way he described it to me.\n\nSo he thinks that, you know, voters are going to look past a lot of these controversies. And, you know, to some extent, he was right about that when some of his old social media posts. Surfaced in last fall. And a lot of people were writing him off then, but his campaign proved to be very resilient.\n\nAnd I think a lot of that is because he talked about it at town halls. He's held something like 80 of them. And also in the press and in talking about it, he kind of crafted this story of redemption, which I think if you talk to some of his diehard supporters, they really believe in that.\n\nThe question of course, is whether or not, you know, Maine Independent voters, which, you know, occupy a big clock of the voting population here, whether it's persuasive to them.\n\nBLACKWELL: We will all be watching Tuesday night.\n\nSteve Mistler, thank you so much.\n\nElon Musk is poised to become the first trillionaire. So just how much money is $1 trillion? The numbers we've been talking about them this morning. You will not believe. We'll take a look at this morning's roundup.\n\nBLACKWELL: Welcome back. Picking up on our last conversation in Maine, Democratic Senate candidate Graham Platner will hold a town hall today, just two days before Tuesday's primary. He's favored to win, but with his recent scandals, voters are torn.\n\nJoining me today for the roundup, we've got Atlanta Reporter Kaitlyn Ross, SiriusXM Culture and Economics Contributor Drew McCaskill, and Retired Judge Ashley Willcott. All vets of the roundup. Big conversation for you this morning.\n\nLet me start with you, Drew, and Graham Platner. I asked the reporter there in Maine about, is there potentially a message in the margin with the governor, Janet Mills, reminding people that she suspended her campaign, but she's still on the ballot. And so some of those people who don't like the allegations that have come out, that maybe she's a way to express that.\n\nDREW MCCASKILL, SIRIUSXM CULTURE & ECONOMICS CONTRIBUTOR: I honestl",
+  "segments": [
+    {
+      "seg": 2,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-07/segment/02",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nPolice Search For Suspects After 12 Shot Near Ohio Festival; Pakistan Delegation Arrives In Tehran For Peace Talks; U.S. And Iran Exchange Strikes, Peace Talks At Stalemate; Missing American Student Found Dead In Japan After Days-Long Search; Platner Claims His Troubled Past Is Being \"Weaponized\"; Platner Faces New Allegations Days Before Maine Primary. Karmelo Anthony Trial Underway with No Black Jurors; Prosecutor: Texas Track Meet Killing was Murder, Not Self-Defense; Elon Musk to Become World's First Trillionaire; U.S. Prepares for FIFA World Cup Kickoff. Aired 7-8a ET\n\nAired June 07, 2026 - 07:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nVICTOR BLACKWELL, CNN HOST: Welcome back to CNN This Morning. Here's what you need to know today. Police are searching for at least two people who started shooting at a festival in Ohio. Twelve people were hit in the crossfire. We have the latest on that manhunt coming up.\n\nAlso new this morning, CNN spoke to Iran's foreign minister as the U.S. and Iran work to negotiate some permanent ceasefire. We have his reaction to how things are going so far.\n\nAlso in Japan, the search and rescue volunteers there have found the body of that missing American student. We have new details. We're learning about where he was found and what we're learning from his family.\n\nAnd Decision Day is looming for Democrats in Maine as they choose their candidate to run for Senate, choose their nominee. Graham Platner is favored to win the primary, but there are these, as you've heard, mounting controversies. Some Democrats wonder, is he too risky a bet?\n\nIt is Sunday, June 7th. Good to have you along. I'm Victor Blackwell.\n\nHappening right now, police are searching for two suspects after at least 12 people were shot near a festival in Toledo, Ohio, yesterday. Look at this. This was the scene as the shooting started.\n\n(END VIDEO CLIP) BLACKWELL: Police say the two shooters appeared to have been shooting at each other. Neither suspect is in custody this morning. Twelve people were hurt in that crossfire, two of them critically. All of them are expected to survive.\n\nHere's CNN's Gloria Pazmino with details.\n\nGLORIA PAZMINO, CNN NATIONAL CORRESPONDENT: That's right, Victor. Panic at what was supposed to be a summertime festival in Toledo, Ohio. Scenes like this have become a just commonplace across our country.\n\nHere's what we know. Law enforcement officials said at least two shooters were involved and that 12 people were struck by gunfire. Two of them are in critical condition. Police are still looking for the suspects and no one is in custody. An investigation is ongoing.\n\nNow, Toledo police said the incident occurred shortly after 5:30 in the afternoon on Saturday, local time, at the Old West End Festival. This is an annual two-day event which takes place in the city's historic district. The event kicked off on Saturday morning with a parade and live music. And police initially said that many victims were transported to nearby hospitals for treatment.\n\nNow, eyewitnesses told a local CNN affiliate, WTOL, that they heard multiple shots and then a panic among the festival-goers. The shooting is one of at least 170 mass shootings across the U.S. this year alone. That's according to the Gun Violence Archive. Victor?\n\nBLACKWELL: Gloria, thank you.\n\nToday marks 100 days since the U.S.-Israeli war with Iran started. Despite President Trump promising the conflict would last only four to six weeks, both sides are exchanging strikes during this really fragile ceasefire. Six Iranian attack drones have been shot down. That's according to U.S. Central Command.\n\nPakistan's interior minister also arrived in Tehran to try to salvage peace talks. Minutes ago, the spokesperson for Iran's foreign ministry explained the challenge they see with negotiating with the U.S.\n\nESMAEIL BAGHAEI, IRANIAN FOREIGN MINISTER SPOKESPERSON: The main problem of negotiating with this administration is that you have to face so many changing positions, moving the goalposts, different statements, contradictory remarks by different officials. So it makes the whole process very cumbersome, very unstable, and very uncertain. So, the exchange of communications still are ongoing.\n\nBLACKWELL: CNN's Jerusalem Bureau Chief Oren Liebermann has more for us. OREN LIEBERMANN, CNN JERUSALEM BUREAU CHIEF: The 24 hours from early Saturday morning until early Sunday morning have put tremendous pressure on the U.S.-Iran ceasefire and raised serious questions on whether there is a viable diplomatic path forward on negotiations and any means of making sure this ceasefire becomes a real broader agreement.\n\nOn Saturday morning, according to U.S. Central Command, they intercepted four one-way attack drones in the Gulf and around the Strait of Hormuz. Iranian state media had said these targeted what may have been U.S. Navy vessels operating in the region.\n\nIn response, according to Central Command, which governs U.S. military operations in the region, the U.S. struck surveillance radar sites, which Iran said they consider a grave violation of the ceasefire. Several hours later, we saw seven ballistic missiles fired at Kuwait and Bahrain. Six of those intercepted, one didn't reach its target.\n\nBut all of this puts pressure on the ceasefire. Then in the overnight hours from Saturday to Sunday, the U.S. says they intercepted two more one-way attack drones. So this, you see the difficulties here of not only making the ceasefire really take effect, but also trying to find some diplomatic path forward.\n\nPakistan's interior minister is holding meetings in Tehran throughout the weekend and on Sunday in particular, trying to make sure there is a path forward. But you see the difficulties in trying to move that ahead.\n\nMeanwhile, a source familiar with the thinking of U.S. Treasury Secretary Scott Bessent says he is considering, and the Treasury Department is considering using Iranian assets to not only pay for the damage of future Iranian attacks, but also considering the possibility of using them to pay for past damage from Iranian attacks.\n\nFor example, last week we saw an Iranian attack on Kuwait's airport kill one person, wound at least 60 others, and cause severe damage at the airport itself. Meanwhile, Iran has insisted that any U.S.-Iran ceasefire agreement include Lebanon as well.\n\nBut just like we see in the Gulf region, the ceasefire in there also appears to be under tremendous pressure. According to Lebanon's Ministry of Public Health, Israeli strikes killed 21 people on Friday. Then on Saturday, an Israeli strike on a vehicle in southern Lebanon killed a general and several other officers who were in that vehicle near the city of Nabatiyah.\n\nThe Israeli military acknowledged the strike and said it was moving suspiciously and operating in an area that had been under an evacuation warning. They say the strike itself will be looked at and learned from and that any movement in that area requires coordination with the Israeli military.\n\nMeanwhile, Hezbollah, which rejected the latest U.S.-Israel ceasefire, has attacked northern Israel for the first time since that ceasefire went into effect, launching two projectiles, according to the Israeli military. Meanwhile, two Israeli soldiers were killed in southern Lebanon, one on Friday, one on Saturday.\n\nSo you see the difficulty not only in the Gulf region between the U.S. and Iran of making a ceasefire real, bringing it to fruition, but also in Lebanon as well.\n\nOren Liebermann, CNN, in Jerusalem.\n\nBLACKWELL: Well, now to Russia's war on Ukraine. Ukrainian President Volodymyr Zelenskyy is expected to meet with European allies. The leaders of Germany, Britain, and France say that they'll focus on coordinating support for Ukraine. They'll also talk about how to apply more pressure on the Kremlin.\n\nNow, President Zelenskyy recently proposed a face-to-face meeting with Russian President Vladimir Putin, but Putin dismissed Zelenskyy's offer.\n\nSearch and rescue volunteers in Japan say they have found the body of a missing American college student, 20-year-old James \"Weston\" Higginbotham. He disappeared May 29 while he was on a trip with his family.\n\nJenn Sullivan has details.\n\nJENN SULLIVAN, CNN REPORTER (voice-over): It was supposed to be a celebration, the Higginbotham family traveling from Alabama to Japan to celebrate their youngest son's high school graduation. But the trip turned into a tragedy when their oldest son went missing.\n\nAfter days of searching, the body of 20-year-old James Weston Higginbotham was found Saturday. His family posting on Facebook, saying in part, \"Our family is heartbroken to share that Weston was found deceased by a volunteer search and rescue group in a mountainous area outside of Kyoto. The grief we feel is impossible to put into words.\"\n\nWeston was a college student at Auburn University. He disappeared on May 29 after getting into an argument with his mom over the environmental impact of her use of AI. His mother spoke to CNN's Erin Burnett Friday night before his body was found.\n\nNANCY HIGGINBOTHAM, MOTHER OF JAMES \"WESTON\" HIGGINBOTHAM: He turned off his location, so the police were able to track through CCT video that he stopped at the Yamashina station.\n\nSULLIVAN (voice-over): The multi-day search involved more than 100 police officers, K-9 units, and helicopters. On Saturday, the family launched their own search efforts with help from local residents and a hired search and rescue team.\n\nHis family focused their search in a mountainous area because they said Weston loved nature and hiking and thought that's where he may have gone.\n\nHIGGINBOTHAM: He just loves to go outside and go for a walk on a trail or go for a small hike. No matter what time of day, that's just fun to him.\n\nSULLIVAN (voice-over): His family thanking the volunteers who helped them look for him on their Facebook page. Closing out their message by saying, \"Thank you for your thoughts, prayers, and support. We will need them now more than ever. We will always love you, Weston.\"\n\nI'm Jenn Sullivan reporting.\n\nBLACKWELL: Here are some of the other stories we're watching this morning. The CDC says that millions of Americans could soon face new hurdles to keep or get Medicaid coverage. A new federal rule sets stricter standards for who qualifies for an exemption from work requirements. Patients now have to show their condition significantly limits their ability to work.\n\nA photographer is recovering after being hit by a car outside Delaney Immigration Detention Center in New Jersey. This is the moment of impact.\n\nUNIDENTIFIED MALE: Wow.\n\nUNIDENTIFIED MALE: Jesus!\n\nBLACKWELL: Josh Pacheco says that they were covering a protest in Newark when vehicles drove out of a gated area. ICE says it was not involved, and they added the incident involved workers leaving the facility. The company that runs the site has not commented.\n\nAn NBA Finals watch party outside Madison Square Garden turned violent. Police say they arrested 26 people. Officials say one person punched an officer Friday, then bit another officer. New York Mayor Zohran Mamdani posted on X yesterday urging fans to celebrate responsibly, and he says there's no tolerance for violence.\n\nThe Knicks now lead the final two games to none. Game three tomorrow night at MSG.\n\nFour states hold primaries this week, but most people will be watching Maine and the Democratic Senate candidate Graham Platner. A look at the mounting controversy surrounding his run.\n\nAlso, the prosecution has wrapped its case in the track meet murder trial in Texas. We've got the latest developments there.\n\nBLACKWELL: Democrats are collectively holding their breath and hoping for the best ahead of Tuesday's critical Senate primary in Maine. Now, Graham Platner is the favored Democratic candidate. He's likely going to win. He's refusing to exit the race. He claims his past behavior is being exploited by his political opponents.\n\nGRAHAM PLATNER (D), MAINE SENATE CANDIDATE: Now, as every single piece of that past and journey gets dug up, litigated and weaponized, you have my back.\n\nBLACKWELL: But Platner has acknowledged going through what he called a period of darkness after his military service.\n\nJoining me now is Steve Mistler, he's the chief political correspondent for the Maine Republic. Steve, good morning to you. And so, when I say that Democrats will be holding their breath, they likely know who is going to win that Democratic Senate primary.\n\nBut Governor Janet Mills is still on the ballot there. Is their consideration that there will be a significant turnout for her, that there may be a message in margin here. What are we expecting on Tuesday night?\n\nSTEVE MISTLER, CHIEF POLITICAL CORRESPONDENT, MAINE REPUBLIC: That's a good question. I mean, I think, you know, the governor in recent weeks or in the past week, I should say, has, you know, signaled through the press that, you know, list -- to remind people that she's still on the ballot. Now she suspended her campaign in late April and really hasn't campaigned since then.\n\nAnd so the question is, is whether or not just those signals in and of itself will, you know, move voters who are antsy about Graham Platner and some of these controversies and the cumulative effects of those. It's unclear if, you know, if there's a critical mass of Janet Mills supporters out there to make this close on Tuesday, but certainly there's going to be a lot of attention paid to Platner's vote share, even if he wins.\n\nBLACKWELL: You've recently interviewed Graham Platner and he is denied becoming physical with any of the women that he casually dated. He said that he told his campaign staff or members staff about these text messages early in his marriage. He also said that he expected that this would be a tough campaign.\n\nMaybe he didn't expect, you know, it coming out from his own campaign, but what did he tell you about the eventuality of having to deal with this? Did he expect that at some point the public would know about this part of his life? MISTLER: Well, he expected that, you know, his life would be a closely examined. He was pretty clear about that. He didn't know -- you know, he didn't anticipate the specifics of it. But he -- it's interesting because he, you know, he views this -- these -- the scrutiny of his personal life and these old Reddit posts.\n\nAnd, of course, the -- his old relationships back when he was living in Washington, D.C., he's used those as evidence that his message is a threat to what he calls the political establishment.\n\nSo, you know, while he's frustrated by the attacks and the examination of his personal life, he also views that as evidence that his messages is working and a threat to what he says is the political establishment that wants to stop him at all costs. So it's interesting.\n\nHe's -- it's a mix of sort of defiance and also, you know, anger I think at the fact that, you know, his life is being examined this closely. There's also an acknowledgement though, I would say, that, you know, he -- that that's fair game. I mean, he does say that too, but I think it's just the nature of some of the -- these attacks that's has him frustrated, but again, defiant.\n\nBLACKWELL: And what is he hearing from the state party, from the national party about his campaign?\n\nMISTLER: Yes, I asked him about that on Friday and asked if he had, you know, heard from any officials in the Maine Democratic Party or any -- the national party or any of its affiliates to drop out. And he said, no. And he also said that, you know, if he wouldn't do it anyway, he just feels like he's going to survive this.\n\nHe doesn't believe that the attacks are going to work. He thinks the movement, as he describes it, that he's building here is enough to just push past all of this. And also that voters are tired of that kind of politics. That's the way he described it to me.\n\nSo he thinks that, you know, voters are going to look past a lot of these controversies. And, you know, to some extent, he was right about that when some of his old social media posts. Surfaced in last fall. And a lot of people were writing him off then, but his campaign proved to be very resilient.\n\nAnd I think a lot of that is because he talked about it at town halls. He's held something like 80 of them. And also in the press and in talking about it, he kind of crafted this story of redemption, which I think if you talk to some of his diehard supporters, they really believe in that.\n\nThe question of course, is whether or not, you know, Maine Independent voters, which, you know, occupy a big clock of the voting population here, whether it's persuasive to them.\n\nBLACKWELL: We will all be watching Tuesday night.\n\nSteve Mistler, thank you so much.\n\nElon Musk is poised to become the first trillionaire. So just how much money is $1 trillion? The numbers we've been talking about them this morning. You will not believe. We'll take a look at this morning's roundup.\n\nBLACKWELL: Welcome back. Picking up on our last conversation in Maine, Democratic Senate candidate Graham Platner will hold a town hall today, just two days before Tuesday's primary. He's favored to win, but with his recent scandals, voters are torn.\n\nJoining me today for the roundup, we've got Atlanta Reporter Kaitlyn Ross, SiriusXM Culture and Economics Contributor Drew McCaskill, and Retired Judge Ashley Willcott. All vets of the roundup. Big conversation for you this morning.\n\nLet me start with you, Drew, and Graham Platner. I asked the reporter there in Maine about, is there potentially a message in the margin with the governor, Janet Mills, reminding people that she suspended her campaign, but she's still on the ballot. And so some of those people who don't like the allegations that have come out, that maybe she's a way to express that.\n\nDREW MCCASKILL, SIRIUSXM CULTURE & ECONOMICS CONTRIBUTOR: I honestl"
+    }
+  ]
+}

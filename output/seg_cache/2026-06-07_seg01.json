@@ -1,0 +1,393 @@
+{
+  "date": "2026-06-07",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-07/segment/01",
+  "vocabulary": [
+    {
+      "word": "suspect",
+      "phonetic": "/səˈspekt/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "嫌疑犯",
+      "en": "a person thought to be guilty of a crime or offense",
+      "excerpt": "Police are searching for two suspects after at least 12 people were shot.",
+      "example_cn": "警方正在搜寻两名嫌疑人。"
+    },
+    {
+      "word": "festival",
+      "phonetic": "/ˈfestɪvl/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "节日；庆祝活动",
+      "excerpt": "Police Search For Suspects After 12 Shot Near Ohio Festival",
+      "example_cn": "俄亥俄州节日附近发生枪击案。"
+    },
+    {
+      "word": "critical",
+      "phonetic": "/ˈkrɪtɪkl/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "危急的；批评的",
+      "excerpt": "Two of them critically.",
+      "example_cn": "其中两人伤势危急。"
+    },
+    {
+      "word": "survive",
+      "phonetic": "/sərˈvaɪv/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "幸存；存活",
+      "excerpt": "All of them are expected to survive.",
+      "example_cn": "预计所有人都会幸存。"
+    },
+    {
+      "word": "investigation",
+      "phonetic": "/ɪnˌvestɪˈɡeɪʃn/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "调查",
+      "excerpt": "Police are asking people to avoid the area while they continue this investigation.",
+      "example_cn": "警方要求人们避开该区域。"
+    },
+    {
+      "word": "mass shooting",
+      "phonetic": "/mæs ˈʃuːtɪŋ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "大规模枪击事件",
+      "excerpt": "The shooting is just one of at least 170 mass shootings in the U.S. so far this year.",
+      "example_cn": "这起枪击案只是今年美国至少170起大规模枪击事件之一。"
+    },
+    {
+      "word": "volunteer",
+      "phonetic": "/ˌvɑːlənˈtɪr/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "志愿者",
+      "excerpt": "Search and rescue volunteers have now found the body of an Auburn University student.",
+      "example_cn": "搜救志愿者找到了奥本大学学生的尸体。"
+    },
+    {
+      "word": "disappear",
+      "phonetic": "/ˌdɪsəˈpɪr/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "消失",
+      "excerpt": "James Weston Higginbotham disappeared after leaving his family to explore parts of Kyoto on his own.",
+      "example_cn": "詹姆斯·韦斯顿·希金博瑟姆在独自探索京都后失踪。"
+    },
+    {
+      "word": "disagreement",
+      "phonetic": "/ˌdɪsəˈɡriːmənt/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "分歧；争执",
+      "excerpt": "Weston and his mom had a small disagreement over ChatGPT and its environmental impact.",
+      "example_cn": "韦斯顿和母亲就ChatGPT及其环境影响发生了小争执。"
+    },
+    {
+      "word": "passionate",
+      "phonetic": "/ˈpæʃənət/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "热情的；热爱的",
+      "excerpt": "Weston is a passionate naturalist and is very much passionate about the environment.",
+      "example_cn": "韦斯顿是一位充满热情的自然主义者，非常热爱环境。"
+    },
+    {
+      "word": "split off",
+      "phonetic": "/splɪt ɒf/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "分开；脱离",
+      "excerpt": "Weston chose to split off from his parents and from his brother.",
+      "example_cn": "韦斯顿选择与父母和弟弟分开。"
+    },
+    {
+      "word": "sighting",
+      "phonetic": "/ˈsaɪtɪŋ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "目击；看见",
+      "excerpt": "This is the last known sighting of Weston.",
+      "example_cn": "这是韦斯顿最后一次被目击。"
+    },
+    {
+      "word": "typhoon",
+      "phonetic": "/taɪˈfuːn/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "台风",
+      "excerpt": "A typhoon hampered the efforts somewhat.",
+      "example_cn": "台风在一定程度上阻碍了搜救工作。"
+    },
+    {
+      "word": "unimaginable",
+      "phonetic": "/ˌʌnɪˈmædʒɪnəbl/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "难以想象的",
+      "excerpt": "This is an unimaginable loss for the Higginbothams.",
+      "example_cn": "这对希金博瑟姆一家来说是难以想象的损失。"
+    },
+    {
+      "word": "ceasefire",
+      "phonetic": "/ˈsiːsfaɪər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "停火",
+      "excerpt": "They're meant to solidify the ceasefire.",
+      "example_cn": "它们旨在巩固停火。"
+    },
+    {
+      "word": "contention",
+      "phonetic": "/kənˈtenʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "争论；分歧",
+      "excerpt": "There are several points of contention.",
+      "example_cn": "存在几个争议点。"
+    },
+    {
+      "word": "assets",
+      "phonetic": "/ˈæsets/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "资产",
+      "excerpt": "That $24 billion worth of Iranian assets that the Iranians want to have unfrozen.",
+      "example_cn": "伊朗人希望解冻的240亿美元资产。"
+    },
+    {
+      "word": "nuclear program",
+      "phonetic": "/ˈnuːkliər ˈproʊɡræm/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "核计划",
+      "excerpt": "One of the points that they're going to have to agree on is the stance on Iran's nuclear program.",
+      "example_cn": "他们必须达成一致的一点是对伊朗核计划的立场。"
+    },
+    {
+      "word": "impasse",
+      "phonetic": "/ˈɪmpæs/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "僵局",
+      "excerpt": "Those negotiations are deadlocked.",
+      "example_cn": "那些谈判陷入僵局。"
+    },
+    {
+      "word": "denounce",
+      "phonetic": "/dɪˈnaʊns/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "谴责",
+      "excerpt": "The pope denounced populists who are fanning the flames of polarization.",
+      "example_cn": "教皇谴责煽动两极分化的民粹主义者。"
+    },
+    {
+      "word": "polarization",
+      "phonetic": "/ˌpoʊlərəˈzeɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "两极分化",
+      "excerpt": "He denounced populists who are fanning the flames of polarization.",
+      "example_cn": "他谴责煽动两极分化火焰的民粹主义者。"
+    },
+    {
+      "word": "vigil",
+      "phonetic": "/ˈvɪdʒɪl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "守夜；祈祷会",
+      "excerpt": "A prayer vigil with around half a million young people.",
+      "example_cn": "一场约有50万年轻人参加的祈祷守夜活动。"
+    },
+    {
+      "word": "clerical",
+      "phonetic": "/ˈklerɪkl/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "神职人员的",
+      "excerpt": "The clerical sexual abuse scandal has been a big thing here in Spain.",
+      "example_cn": "神职人员性虐待丑闻在西班牙一直是个大问题。"
+    },
+    {
+      "word": "basilica",
+      "phonetic": "/bəˈsɪlɪkə/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "大教堂；长方形会堂",
+      "excerpt": "He's also going to be going to Barcelona to visit the Sagrada Familia Church, the iconic basilica.",
+      "example_cn": "他还将前往巴塞罗那参观标志性的大教堂圣家堂。"
+    },
+    {
+      "word": "migration",
+      "phonetic": "/maɪˈɡreɪʃn/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "移民；迁徙",
+      "excerpt": "Migration and the plight of immigrants and refugees is going to be front and center.",
+      "example_cn": "移民和难民的困境将成为焦点。"
+    },
+    {
+      "word": "plight",
+      "phonetic": "/plaɪt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "困境",
+      "excerpt": "Migration and the plight of immigrants and refugees is going to be front and center.",
+      "example_cn": "移民和难民的困境将成为焦点。"
+    },
+    {
+      "word": "testimony",
+      "phonetic": "/ˈtestɪmoʊni/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "证词；证言",
+      "excerpt": "Testimony resumes tomorrow.",
+      "example_cn": "证词明天继续。"
+    },
+    {
+      "word": "justified",
+      "phonetic": "/ˈdʒʌstɪfaɪd/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "正当的；合理的",
+      "excerpt": "Set out to prove this was a justified killing in self-defense.",
+      "example_cn": "着手证明这是正当的自卫杀人。"
+    },
+    {
+      "word": "self-defense",
+      "phonetic": "/ˌself dɪˈfens/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "自卫",
+      "excerpt": "Set out to prove this was a justified killing in self-defense.",
+      "example_cn": "着手证明这是正当的自卫杀人。"
+    },
+    {
+      "word": "unprovoked",
+      "phonetic": "/ˌʌnprəˈvoʊkt/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "无端的；无缘无故的",
+      "excerpt": "Some recent unprovoked attacks give people reason to worry.",
+      "example_cn": "最近一些无端的袭击让人们有理由担忧。"
+    },
+    {
+      "word": "stadium",
+      "phonetic": "/ˈsteɪdiəm/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "体育场",
+      "excerpt": "With stadiums averaging nearly 70,000 seats.",
+      "example_cn": "体育场平均座位近7万个。"
+    },
+    {
+      "word": "tournament",
+      "phonetic": "/ˈtʊrnəmənt/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "锦标赛；联赛",
+      "excerpt": "This year, FIFA World Cup on tap to be the largest tournament in history.",
+      "example_cn": "今年的FIFA世界杯有望成为历史上规模最大的赛事。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Police are on the hunt for at least two people who started shooting at each other at a festival.",
+      "cn": "警方正在搜捕至少两名在节日上互相开枪的人。",
+      "structure": "主句 + who引导的定语从句",
+      "analysis": "主句为Police are on the hunt for at least two people，定语从句who started shooting at each other at a festival修饰people。"
+    },
+    {
+      "en": "Search and rescue volunteers have now found the body of an Auburn University student who was missing during a family vacation in Japan.",
+      "cn": "搜救志愿者现已找到一名在日本家庭度假期间失踪的奥本大学学生的尸体。",
+      "structure": "主句 + who引导的定语从句",
+      "analysis": "主句为Search and rescue volunteers have now found the body of an Auburn University student，定语从句who was missing during a family vacation in Japan修饰student。"
+    },
+    {
+      "en": "The war that President Trump promised would only last four to six weeks has now reached 100 days and counting.",
+      "cn": "特朗普总统承诺只会持续四到六周的战争现已达到100天，而且还在继续。",
+      "structure": "主句 + that引导的定语从句",
+      "analysis": "主句为The war has now reached 100 days and counting，定语从句that President Trump promised would only last four to six weeks修饰war。"
+    },
+    {
+      "en": "A top adviser to Iran's supreme leader tells CNN that the ball is in President Trump's court.",
+      "cn": "伊朗最高领袖的一名高级顾问告诉CNN，球在特朗普总统的场上（即轮到特朗普采取行动）。",
+      "structure": "主句 + that引导的宾语从句",
+      "analysis": "主句为A top adviser tells CNN，宾语从句that the ball is in President Trump's court。"
+    },
+    {
+      "en": "If he wants to reach an agreement with Iran, this $24 billion is a test of trust that Iran wants to have with Trump.",
+      "cn": "如果他希望与伊朗达成协议，这240亿美元是伊朗希望与特朗普建立的信任考验。",
+      "structure": "If引导的条件状语从句 + 主句 + that引导的定语从句",
+      "analysis": "条件状语从句If he wants to reach an agreement with Iran，主句this $24 billion is a test of trust，定语从句that Iran wants to have with Trump修饰trust。"
+    },
+    {
+      "en": "He went on to say that the Iranians are strong and proud, and while it may take time, ultimately, he believes that they will have no choice but to make a deal.",
+      "cn": "他接着说，伊朗人坚强而自豪，虽然可能需要时间，但最终他相信他们别无选择，只能达成协议。",
+      "structure": "主句 + that引导的宾语从句（含while引导的让步状语从句）",
+      "analysis": "主句He went on to say，宾语从句that the Iranians are strong and proud, and while it may take time, ultimately, he believes that they will have no choice but to make a deal，其中while it may take time为让步状语从句。"
+    },
+    {
+      "en": "Pope Leo had a strong message during the mass which saying that whilst Spain has this extraordinary Catholic history, that history should not be seen as a sort of museum or something to be looked at with nostalgia, but actually faith must mean something to people in Spain today and into the future, particularly in trying to build a better world.",
+      "cn": "教皇利奥在弥撒中传达了一个强有力的信息，即尽管西班牙拥有非凡的天主教历史，但这段历史不应被视为博物馆或怀旧之物，而实际上信仰必须对当今和未来的西班牙人民有意义，特别是在努力建设更美好世界方面。",
+      "structure": "主句 + which引导的定语从句（含that引导的宾语从句）",
+      "analysis": "主句Pope Leo had a strong message，定语从句which saying that...修饰message，其中that引导宾语从句，宾语从句内含whilst引导的让步状语从句。"
+    },
+    {
+      "en": "He's the first American Pope, but he is a fluent Spanish speaker who spent a number of years in Peru, and he's visited Spain many times.",
+      "cn": "他是第一位美国教皇，但能说流利的西班牙语，曾在秘鲁生活多年，并多次访问西班牙。",
+      "structure": "并列句 + who引导的定语从句",
+      "analysis": "两个并列句由but连接，第二个分句含who引导的定语从句修饰speaker。"
+    },
+    {
+      "en": "With matches across the U.S., Canada and Mexico, host cities are working to handle large crowds and keep everyone safe.",
+      "cn": "随着比赛在美国、加拿大和墨西哥各地进行，主办城市正努力应对大量人群并确保每个人的安全。",
+      "structure": "With复合结构 + 主句",
+      "analysis": "With matches across the U.S., Canada and Mexico为伴随状语，主句为host cities are working to handle large crowds and keep everyone safe。"
+    },
+    {
+      "en": "Some recent unprovoked attacks give people reason to worry.",
+      "cn": "最近一些无端的袭击让人们有理由担忧。",
+      "structure": "简单句",
+      "analysis": "主语Some recent unprovoked attacks，谓语give，间接宾语people，直接宾语reason to worry。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "Ohio Festival Shooting",
+      "content": "2026年6月6日，俄亥俄州托莱多市一个节日活动附近发生枪击事件，至少12人受伤，其中两人伤势危急。警方称两名枪手互相射击，目前无人被捕。受害者年龄从14岁到61岁不等。这是美国今年至少第170起大规模枪击事件。",
+      "keywords": "mass shooting, Ohio, festival, suspects, victims"
+    },
+    {
+      "title": "Missing American Student Found Dead in Japan",
+      "content": "奥本大学学生詹姆斯·韦斯顿·希金博瑟姆在京都与家人度假时失踪，搜救志愿者于6月6日发现其尸体。他与母亲因ChatGPT的环境影响发生争执后独自离开。死因仍在调查中。",
+      "keywords": "missing student, Japan, Kyoto, search and rescue, family"
+    },
+    {
+      "title": "U.S.-Iran Conflict and Peace Talks",
+      "content": "美国与伊朗的冲突已持续100天，尽管有停火协议，但双方仍在交火。巴基斯坦内政部长抵达德黑兰进行新一轮和谈。伊朗要求美国解冻240亿美元资产作为信任测试。特朗普称战争将很快结束。",
+      "keywords": "Iran, U.S., ceasefire, peace talks, assets, Strait of Hormuz"
+    },
+    {
+      "title": "Pope Leo's Visit to Spain",
+      "content": "教皇利奥（首位美国教皇）访问西班牙，在马德里主持弥撒，约120万人参加。他谴责两极分化，呼吁和平。访问期间还将与性虐待受害者会面，并前往巴塞罗那和加那利群岛关注移民问题。",
+      "keywords": "Pope Leo, Spain, Madrid, mass, polarization, migration"
+    },
+    {
+      "title": "2026 FIFA World Cup Security",
+      "content": "2026年世界杯即将在美国、加拿大和墨西哥16个城市举行，预计吸引500万球迷。安全措施加强，近期美国多起无端袭击引发担忧，特别是亚特兰大MARTA系统发生致命刺伤事件。",
+      "keywords": "World Cup, security, host cities, fans, MARTA"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nPolice Search For Suspects After 12 Shot Near Ohio Festival; Missing American Student Found Dead In Japan After Dayslong Search; U.S. And Iran Exchange Strikes, Peace Talks At Stalemate; Pakistan Delegation Arrives In Tehran For Peace Talks; Iran Demands U.S. Unfreeze $24 Billion In Iranian Assets; Trump: War With Iran Will Be Over Soon; Pope Leo Leads Holy Mass On Second Day Of Trip To Spain; State Rests In Karmelo Anthony Murder Trial, Defense Continues Monday; Trump To Attend Game Three Of The NBA Finals; World Cup Security In Focus As Host Cities Prepare For Crowds; Mexico City Sports Fans Attempt Record For Largest Wave. World Cup Kickoff Nears As Fans Bring Energy Worldwide; 1 Killed, Several Hurt In Suspected Terror Attack In Israel; Friday Marks 10 Years Since Mass Shooting At Gay Club; Thousands Without Power Across Northeast; \"UFC At The White House\" Airs Tonight At 8PM ET/PT On CNN. Aired 6-7a ET\n\nAired June 07, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nVICTOR BLACKWELL, CNN ANCHOR: Welcome to CNN THIS MORNING. Here's what's happening now. Police are on the hunt for at least two people who started shooting at each other at a festival. Twelve people were hurt in the process.\n\nUNIDENTIFIED FEMALE: We went to the restroom in the church, and then we just heard shooting. Like shooting. We thought maybe it was fireworks.\n\nBLACKWELL: What we know about the conditions of the victims and how this all started. In Japan, search and rescue volunteers have now found the body of that missing American student. New details are coming of what we're learning about where he was found, and what we're hearing from his family.\n\nAlso, Pope Leo just held the first mass of his trip to Spain. Our Chris Lamb was there and has more on the pope's message.\n\nVINCE VELAZQUEZ, RETIRED ATLANTA POLICE OFFICER: The fans are going to come here and enjoy this World Cup experience and not have an idea of all the security measures that are going on.\n\n(END VIDEO CLIP) BLACKWELL: The World Cup kicks off in just a few days and security, you know, will be tight in cities hosting matches. A look at the preparations and which teams are early favorites.\n\nIt's Sunday, June 7th. Welcome to a brand new week. I'm Victor Blackwell. Good to have you along.\n\nHappening now, police are searching for two suspects after at least 12 people were shot. This happened at a festival in Toledo, Ohio. Here's the moment that sparked the chaos there. Watch.\n\nNow, police say the two shooters appeared to have been shooting at each other. Neither suspect is in custody. Twelve people were hurt in the crossfire, two of them critically. All of them are expected to survive.\n\nNow, police say they spoke to victims ages 14 to 61. Investigators said that they were shocked by what they saw.\n\nDAN GERKEN, INVESTIGATIVE LT. TOLEDO POLICE: As far as violence, this is over the top, right? So, 12 people being shot. That's the most I've been to a scene. I've been to a lot of scenes. But this is -- this is way over the top.\n\nBLACKWELL: Now police are asking people to avoid the area while they continue this investigation, but they want to hear from people if they have any information. Also to send in cellphone video from the scene. The shooting is just one of at least 170 mass shootings in the U.S. so far this year.\n\nSearch and rescue volunteers have now found the body of an Auburn University student who was missing during a family vacation in Japan. James Weston Higginbotham disappeared after leaving his family to explore parts of Kyoto on his own after a disagreement with his mother. CNN's Hanako Montgomery has more.\n\nHANAKO MONTGOMERY, CNN CORRESPONDENT: This is an extremely tragic end to a dayslong search for Weston Higginbotham. His mother, Nancy, posted on Facebook that his body was found on Saturday in a mountainous area just outside of Kyoto by a volunteer search and rescue party.\n\nNow on Facebook, his mother said, quote, \"the grief we feel is impossible to put into words. We are forever grateful for the time we had with our sweet, precious Weston, but cannot begin to understand what life without him will be like.\"\n\nLocal police have told CNN that the cause of death is still under investigation. And in terms of what led up to this tragedy, we know that the family originally from Alabama, first got to Japan on May 22nd to celebrate their younger son's high school graduation. Now, after exploring other parts of the country, they got to Kyoto on May 29th. One of their last stops.\n\nAnd on that day, Weston and his mom had a small disagreement over ChatGPT and its environmental impact. Weston is a passionate naturalist and is very much passionate about the environment.\n\nNow, after this small disagreement, the family decided that they needed to take some space to cool down, and Weston chose to split off from his parents and from his brother, and he explored the city on his own.\n\nNow, this was around 6:00 p.m. local time on May 29th he was found walking around Kyoto station. Two hours later, he was seen walking around the Yamashina area of Kyoto on a path that leads to a hiking trail. Now, this is the last known sighting of Weston.\n\nAnd several hours later, when Weston still did not return to the hotel, his parents filed a missing person's report. Now, since then, the authorities have been combing through the Japanese forest to look for Weston. But a typhoon hampered the efforts somewhat. On June 5th, the authorities concluded their forest search for Weston, and that is when the family chose to organize their own volunteer search and rescue party.\n\nNow, this is an unimaginable loss for the Higginbothams. I've spoken to the family several times over the past few days, and they told me just how close they are as a family, how they love to go hiking together, explore new cities and cultures together. And his mother also told me how Weston had a heart of gold.\n\nNANCY HIGGINBOTHAM, WESTON'S MOTHER: Like he's just this little, just amazing person that everybody loves, everybody loves. He's got a heart of gold.\n\nMONTGOMERY: His parents have asked for privacy as they mourn their son and come to terms with their new reality.\n\nHanako Montgomery, CNN.\n\nBLACKWELL: Thank you. The war that President Trump promised would only last four to six weeks has now reached 100 days and counting. Here's where things. The U.S. military reports shooting down six Iranian attack drones over the past two days that were targeting the Strait of Hormuz. Seven ballistic missiles were also fired at Kuwait and Bahrain, and most were intercepted.\n\nPakistan's interior minister has arrived in Tehran for a new round of peace talks. A top adviser to Iran's supreme leader tells CNN that the ball is in President Trump's court. He's demanding the U.S. unfreeze billions in Iranian assets.\n\nMOHSEN REZAEI, SENIOR MILITARY ADVISER TO IRAN'S SUPREME LEADER (through translator): If he wants to reach an agreement with Iran, this $24 billion is a test of trust that Iran wants to have with Trump. This is a test that America must pass, and the path will be opened. This is our own money, not America's money.\n\nBLACKWELL: CNN's Barbie Latza Nadeau is tracking the latest developments. She's joining us from Rome. Barbie, what do we know about these talks that are happening now?\n\nBARBIE LATZA NADEAU, CNN CORRESPONDENT: Well, you know, I think the fact that they're happening is giving a little bit of optimism. I think people are cautiously optimistic. They're meant to solidify the ceasefire, which of course started in April. But there are several points of contention. Now, that $24 billion worth of Iranian assets that the Iranians want to have unfrozen. That's a major, major point.\n\nBut also the freeing up of the Strait of Hormuz for commerce to flow through. And that will help, of course, the global economy. And one of the points that, of course, they're going to have to agree on is the stance on Iran's nuclear program. And of course, that's what started this conflict in the first place.\n\nBut U.S. President Donald Trump says he believes that the Iranians are ready to make a deal, even though we hear that cautious, cautious warning from the Iranian side. So, these talks are important. There is a sense of optimism, but there is also a sense of reality when you consider the amount of military back and forth going on in that region right now. And that's worrying, of course, to everyone in that region and globally, to be honest, Victor.\n\nBLACKWELL: Indeed. Barbie Latza Nadeau, reporting live from Rome, thank you. And President Trump insists that the war with Iran will be over soon. As he puts it, one way or another. Let's get more now from CNN's Julia Benbrook.\n\nJULIA BENBROOK, CNN CORRESPONDENT: This recent exchange of fire leads to a lot of questions about the ceasefire and the peace negotiations, which seem to be at an impasse right now. As a top Iranian official tells CNN, those negotiations are deadlocked. Over 24 billion in frozen Iranian assets.\n\nNow, the most recent comments we've heard from President Donald Trump on all of this came in an interview with NBC's Meet the Press, where he was asked if the Iranians are so desperate to make a deal, which he has said repeatedly, why have they not yet accepted his terms.\n\nTake a listen to part of this exchange. This is with NBC's Kristen Welker.\n\n(BEGIN VIDEO CLIP) KRISTEN WELKER, NBC HOST: You have been saying for months, Mr. President, that Iran is begging to make a deal.\n\nDONALD TRUMP, PRESIDENT OF THE UNITED STATES: True.\n\nWELKER: They are so desperate to make a deal, why haven't they made a deal with you yet?\n\nTRUMP: Because they -- it's a very hard thing for them. They've had great independence. They've dealt with very weak and ineffective leadership on behalf of the United States and other countries, frankly, that were -- that allowed them to get away with murder. And I don't -- I think they can't believe they're in the situation where they've been virtually decapitated.\n\nBENBROOK: He went on to say that the Iranians are strong and proud. And while it may take time, ultimately, he believes that they will have no choice but to make a deal.\n\nWhen it comes to the timeline of all of this, following those first joint U.S. Israel strikes against Iran back in February, he said again and again that this conflict would end very soon. He's now pushing back against any criticism of how long this has gone on, saying that he believes he's moving quickly, that these things take time, sometimes even years to resolve.\n\nNow, when it comes to the negotiations, one of the last major updates that we received from the White House officials told us that Trump had sent back changes to a proposed deal with Iran, and that he was asking for tougher language when it comes to Iran's nuclear commitments and its pledge to reopen the Strait of Hormuz. That was about a week ago now, Victor.\n\nBLACKWELL: Julia Benbrook, thank you very much. Still ahead, we go live to Madrid, where Pope Leo is celebrating mass this morning. We'll have the latest on the huge crowds turning out to see him. The first American pope traveling in Spain.\n\nPlus, the 2026 World Cup is about to kick off in 16 cities across the U.S., Mexico and Canada. What's being done to keep everyone safe.\n\nBLACKWELL: New this morning, Pope Leo led holy mass on the second day of his weeklong visit to Spain. This morning, crowds greeted the pontiff with cheers as he rode in the popemobile through the streets of Madrid. Yesterday, while he was making a speech at the Royal Palace, the pope denounced populists who are, in his words, fanning the flames of polarization, and he called for peace.\n\nLet's go to Vatican correspondent Christopher Lamb now. Tell us more about what the pope had to say this morning.\n\nCHRISTOPHER LAMB, CNN VATICAN CORRESPONDENT: Well, Victor, there's absolutely huge crowd gathered here in Central Madrid for the mass led by Pope Leo. Around 1.2 million people are estimated to have turned out for it.\n\nAnd Pope Leo had a strong message during the mass which saying that whilst Spain has this extraordinary Catholic history, that history should not be seen as a sort of museum or something to be looked at with nostalgia, but actually faith must mean something to people in Spain today and into the future, particularly in trying to build a better world.\n\nNow, the mass is coming to an end. You can hear the processions coming to an end so you can hear applause. You know, Leo has really been greeted with great enthusiasm here in Madrid for what is going to be a six-day visit to Spain. He seems very at home in this country.\n\nOf course, he's the first American Pope, but he is a fluent Spanish speaker who spent a number of years in Peru, and he's visited Spain many times. And he had these big crowds today for the mass and then the procession afterwards. And on Saturday night, a prayer vigil with around half a million young people.\n\nSo, I've been just about 600 meters from the mass that's been taking place. And, you know, the crowds have really been quite something. Families, young people here, huge numbers have turned out for Leo, and there's really very, very intense interest in his visit to Spain.\n\nBLACKWELL: Christopher, you're competing with all the sound around you. So we're having a little tough time hearing you, but this is day two of day six. What else are we expecting from the pope?\n\nLAMB: Well, the pope is on -- Monday, tomorrow, is going to be addressing the Spanish parliament. That's the first time a pope has done that. We're expecting him to talk about polarization and how to overcome that. And he's also expected, at some point during his visit to meet with abuse survivors. Of course, the clerical sexual abuse scandal has been a big thing here in Spain. And the Vatican has confirmed that he will be meeting with the victims of abuse.\n\nAnd he's also going to be going to Barcelona to visit the Sagrada Familia Church, the iconic basilica, which was designed by Gaudi. And he will then finish his visit with a trip to the Canary Islands, where migration and the plight of immigrants and refugees is going to be front and center. And Leo is going to be meeting with migrants and those groups who are helping them.\n\nSo it's a visit with, obviously, you know, that strong faith element. Leo wants to encourage the Catholic church in Spain, but there's also a political focus. Leo wanting to bring a message of unity to what is quite a polarized society, Victor.\n\nBLACKWELL: Yes. Every visit by the pope is historic, but this one especially.\n\nSo, Christopher Lamb from Madrid, thank you very much. So, it's the week the world has been waiting for. The World Cup tournament kicks off this week with two matches in Mexico. The teams to watch out for and what's new this year.\n\nBLACKWELL: Police in Ohio are searching for two suspects after at least 12 people were shot near a festival in Toledo on Saturday. The victims range in age from 14 to 61. Two are in critical condition, but Toledo's mayor says they're all expected to survive.\n\nPolice say the two shooters appeared to be shooting at each other. This morning, there are no suspects in custody.\n\nA new development in the murder trial of Karmelo Anthony. Prosecutors rested their case yesterday after calling 21 witnesses in the case against this Texas teenager. He's charged in the stabbing death of Austin Metcalf. Anthony's defense team started calling witnesses, Saturday, and set out to prove this was a justified killing in self- defense. Testimony resumes tomorrow.\n\nPresident Trump is expected to be in Madison Square Garden tomorrow to watch the Knicks take on the Spurs in game three of the NBA finals. Trump says he was invited by Knicks' owner James Dolan. The Knicks' lead, two-zero.\n\nThe FIFA World Cup is now just four days away, and security is a big part of the preparation. With matches across the U.S., Canada and Mexico, host cities are working to handle large crowds and keep everyone safe. Officials are also looking at recent incidents and how transportation systems and venues will hold up. CNN's Ryan Young takes a closer look.\n\nMARKWAYNE MULLIN, DHS SECRETARY: Through 11 different cities. And we're going to have 78 Super Bowls in 38 days.\n\nRYAN YOUNG, CNN CORRESPONDENT (voice-over): Across the U.S. and Canada and Mexico, this year, FIFA World Cup on tap to be the largest tournament in history. With stadiums averaging nearly 70,000 seats, organizers expect the event to draw 5 million fans. That will also mean intense security. Some recent unprovoked attacks give people reason to worry.\n\nIn Los Angeles, where the U.S. tournament kicks off, police say someone stabbed and beat a 70-year-old woman back in March, leaving her with a broken neck. Not far away in Long Beach, California, last month, police say another woman was stabbed and left hospitalized. And last week in Atlanta, police say a woman was fatally stabbed on a train operated by MARTA, the city's public transportation line. In months past, the Transportation Department called for improved safety measures in cities to include Chicago, D.C., New York, L.A., Charlotte and Philadelphia. Now, Transportation Secretary Sean Duffy wants an investigation in Atlanta saying, every American should be disturbed by the horrific crimes we have seen on MARTA in the last month.\n\n(on camera): There's a big focus on safety and whether or not MARTA can meet the need when it comes to all the international guests that will be coming to town. And some things have really frightened people in the city, especially a deadly stabbing that happened just last week, having people asking questions, is MARTA safe enough and ready for the World Cup?\n\nGARY GALE, ATLANTA TOURIST FROM CALIFORNIA: I think there should be extra security for sure on a day to day basis, especially with the World Cup coming up.\n\nUNIDENTIFIED FEMALE: Traveling alone would no",
+  "segments": [
+    {
+      "seg": 1,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-07/segment/01",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nPolice Search For Suspects After 12 Shot Near Ohio Festival; Missing American Student Found Dead In Japan After Dayslong Search; U.S. And Iran Exchange Strikes, Peace Talks At Stalemate; Pakistan Delegation Arrives In Tehran For Peace Talks; Iran Demands U.S. Unfreeze $24 Billion In Iranian Assets; Trump: War With Iran Will Be Over Soon; Pope Leo Leads Holy Mass On Second Day Of Trip To Spain; State Rests In Karmelo Anthony Murder Trial, Defense Continues Monday; Trump To Attend Game Three Of The NBA Finals; World Cup Security In Focus As Host Cities Prepare For Crowds; Mexico City Sports Fans Attempt Record For Largest Wave. World Cup Kickoff Nears As Fans Bring Energy Worldwide; 1 Killed, Several Hurt In Suspected Terror Attack In Israel; Friday Marks 10 Years Since Mass Shooting At Gay Club; Thousands Without Power Across Northeast; \"UFC At The White House\" Airs Tonight At 8PM ET/PT On CNN. Aired 6-7a ET\n\nAired June 07, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nVICTOR BLACKWELL, CNN ANCHOR: Welcome to CNN THIS MORNING. Here's what's happening now. Police are on the hunt for at least two people who started shooting at each other at a festival. Twelve people were hurt in the process.\n\nUNIDENTIFIED FEMALE: We went to the restroom in the church, and then we just heard shooting. Like shooting. We thought maybe it was fireworks.\n\nBLACKWELL: What we know about the conditions of the victims and how this all started. In Japan, search and rescue volunteers have now found the body of that missing American student. New details are coming of what we're learning about where he was found, and what we're hearing from his family.\n\nAlso, Pope Leo just held the first mass of his trip to Spain. Our Chris Lamb was there and has more on the pope's message.\n\nVINCE VELAZQUEZ, RETIRED ATLANTA POLICE OFFICER: The fans are going to come here and enjoy this World Cup experience and not have an idea of all the security measures that are going on.\n\n(END VIDEO CLIP) BLACKWELL: The World Cup kicks off in just a few days and security, you know, will be tight in cities hosting matches. A look at the preparations and which teams are early favorites.\n\nIt's Sunday, June 7th. Welcome to a brand new week. I'm Victor Blackwell. Good to have you along.\n\nHappening now, police are searching for two suspects after at least 12 people were shot. This happened at a festival in Toledo, Ohio. Here's the moment that sparked the chaos there. Watch.\n\nNow, police say the two shooters appeared to have been shooting at each other. Neither suspect is in custody. Twelve people were hurt in the crossfire, two of them critically. All of them are expected to survive.\n\nNow, police say they spoke to victims ages 14 to 61. Investigators said that they were shocked by what they saw.\n\nDAN GERKEN, INVESTIGATIVE LT. TOLEDO POLICE: As far as violence, this is over the top, right? So, 12 people being shot. That's the most I've been to a scene. I've been to a lot of scenes. But this is -- this is way over the top.\n\nBLACKWELL: Now police are asking people to avoid the area while they continue this investigation, but they want to hear from people if they have any information. Also to send in cellphone video from the scene. The shooting is just one of at least 170 mass shootings in the U.S. so far this year.\n\nSearch and rescue volunteers have now found the body of an Auburn University student who was missing during a family vacation in Japan. James Weston Higginbotham disappeared after leaving his family to explore parts of Kyoto on his own after a disagreement with his mother. CNN's Hanako Montgomery has more.\n\nHANAKO MONTGOMERY, CNN CORRESPONDENT: This is an extremely tragic end to a dayslong search for Weston Higginbotham. His mother, Nancy, posted on Facebook that his body was found on Saturday in a mountainous area just outside of Kyoto by a volunteer search and rescue party.\n\nNow on Facebook, his mother said, quote, \"the grief we feel is impossible to put into words. We are forever grateful for the time we had with our sweet, precious Weston, but cannot begin to understand what life without him will be like.\"\n\nLocal police have told CNN that the cause of death is still under investigation. And in terms of what led up to this tragedy, we know that the family originally from Alabama, first got to Japan on May 22nd to celebrate their younger son's high school graduation. Now, after exploring other parts of the country, they got to Kyoto on May 29th. One of their last stops.\n\nAnd on that day, Weston and his mom had a small disagreement over ChatGPT and its environmental impact. Weston is a passionate naturalist and is very much passionate about the environment.\n\nNow, after this small disagreement, the family decided that they needed to take some space to cool down, and Weston chose to split off from his parents and from his brother, and he explored the city on his own.\n\nNow, this was around 6:00 p.m. local time on May 29th he was found walking around Kyoto station. Two hours later, he was seen walking around the Yamashina area of Kyoto on a path that leads to a hiking trail. Now, this is the last known sighting of Weston.\n\nAnd several hours later, when Weston still did not return to the hotel, his parents filed a missing person's report. Now, since then, the authorities have been combing through the Japanese forest to look for Weston. But a typhoon hampered the efforts somewhat. On June 5th, the authorities concluded their forest search for Weston, and that is when the family chose to organize their own volunteer search and rescue party.\n\nNow, this is an unimaginable loss for the Higginbothams. I've spoken to the family several times over the past few days, and they told me just how close they are as a family, how they love to go hiking together, explore new cities and cultures together. And his mother also told me how Weston had a heart of gold.\n\nNANCY HIGGINBOTHAM, WESTON'S MOTHER: Like he's just this little, just amazing person that everybody loves, everybody loves. He's got a heart of gold.\n\nMONTGOMERY: His parents have asked for privacy as they mourn their son and come to terms with their new reality.\n\nHanako Montgomery, CNN.\n\nBLACKWELL: Thank you. The war that President Trump promised would only last four to six weeks has now reached 100 days and counting. Here's where things. The U.S. military reports shooting down six Iranian attack drones over the past two days that were targeting the Strait of Hormuz. Seven ballistic missiles were also fired at Kuwait and Bahrain, and most were intercepted.\n\nPakistan's interior minister has arrived in Tehran for a new round of peace talks. A top adviser to Iran's supreme leader tells CNN that the ball is in President Trump's court. He's demanding the U.S. unfreeze billions in Iranian assets.\n\nMOHSEN REZAEI, SENIOR MILITARY ADVISER TO IRAN'S SUPREME LEADER (through translator): If he wants to reach an agreement with Iran, this $24 billion is a test of trust that Iran wants to have with Trump. This is a test that America must pass, and the path will be opened. This is our own money, not America's money.\n\nBLACKWELL: CNN's Barbie Latza Nadeau is tracking the latest developments. She's joining us from Rome. Barbie, what do we know about these talks that are happening now?\n\nBARBIE LATZA NADEAU, CNN CORRESPONDENT: Well, you know, I think the fact that they're happening is giving a little bit of optimism. I think people are cautiously optimistic. They're meant to solidify the ceasefire, which of course started in April. But there are several points of contention. Now, that $24 billion worth of Iranian assets that the Iranians want to have unfrozen. That's a major, major point.\n\nBut also the freeing up of the Strait of Hormuz for commerce to flow through. And that will help, of course, the global economy. And one of the points that, of course, they're going to have to agree on is the stance on Iran's nuclear program. And of course, that's what started this conflict in the first place.\n\nBut U.S. President Donald Trump says he believes that the Iranians are ready to make a deal, even though we hear that cautious, cautious warning from the Iranian side. So, these talks are important. There is a sense of optimism, but there is also a sense of reality when you consider the amount of military back and forth going on in that region right now. And that's worrying, of course, to everyone in that region and globally, to be honest, Victor.\n\nBLACKWELL: Indeed. Barbie Latza Nadeau, reporting live from Rome, thank you. And President Trump insists that the war with Iran will be over soon. As he puts it, one way or another. Let's get more now from CNN's Julia Benbrook.\n\nJULIA BENBROOK, CNN CORRESPONDENT: This recent exchange of fire leads to a lot of questions about the ceasefire and the peace negotiations, which seem to be at an impasse right now. As a top Iranian official tells CNN, those negotiations are deadlocked. Over 24 billion in frozen Iranian assets.\n\nNow, the most recent comments we've heard from President Donald Trump on all of this came in an interview with NBC's Meet the Press, where he was asked if the Iranians are so desperate to make a deal, which he has said repeatedly, why have they not yet accepted his terms.\n\nTake a listen to part of this exchange. This is with NBC's Kristen Welker.\n\n(BEGIN VIDEO CLIP) KRISTEN WELKER, NBC HOST: You have been saying for months, Mr. President, that Iran is begging to make a deal.\n\nDONALD TRUMP, PRESIDENT OF THE UNITED STATES: True.\n\nWELKER: They are so desperate to make a deal, why haven't they made a deal with you yet?\n\nTRUMP: Because they -- it's a very hard thing for them. They've had great independence. They've dealt with very weak and ineffective leadership on behalf of the United States and other countries, frankly, that were -- that allowed them to get away with murder. And I don't -- I think they can't believe they're in the situation where they've been virtually decapitated.\n\nBENBROOK: He went on to say that the Iranians are strong and proud. And while it may take time, ultimately, he believes that they will have no choice but to make a deal.\n\nWhen it comes to the timeline of all of this, following those first joint U.S. Israel strikes against Iran back in February, he said again and again that this conflict would end very soon. He's now pushing back against any criticism of how long this has gone on, saying that he believes he's moving quickly, that these things take time, sometimes even years to resolve.\n\nNow, when it comes to the negotiations, one of the last major updates that we received from the White House officials told us that Trump had sent back changes to a proposed deal with Iran, and that he was asking for tougher language when it comes to Iran's nuclear commitments and its pledge to reopen the Strait of Hormuz. That was about a week ago now, Victor.\n\nBLACKWELL: Julia Benbrook, thank you very much. Still ahead, we go live to Madrid, where Pope Leo is celebrating mass this morning. We'll have the latest on the huge crowds turning out to see him. The first American pope traveling in Spain.\n\nPlus, the 2026 World Cup is about to kick off in 16 cities across the U.S., Mexico and Canada. What's being done to keep everyone safe.\n\nBLACKWELL: New this morning, Pope Leo led holy mass on the second day of his weeklong visit to Spain. This morning, crowds greeted the pontiff with cheers as he rode in the popemobile through the streets of Madrid. Yesterday, while he was making a speech at the Royal Palace, the pope denounced populists who are, in his words, fanning the flames of polarization, and he called for peace.\n\nLet's go to Vatican correspondent Christopher Lamb now. Tell us more about what the pope had to say this morning.\n\nCHRISTOPHER LAMB, CNN VATICAN CORRESPONDENT: Well, Victor, there's absolutely huge crowd gathered here in Central Madrid for the mass led by Pope Leo. Around 1.2 million people are estimated to have turned out for it.\n\nAnd Pope Leo had a strong message during the mass which saying that whilst Spain has this extraordinary Catholic history, that history should not be seen as a sort of museum or something to be looked at with nostalgia, but actually faith must mean something to people in Spain today and into the future, particularly in trying to build a better world.\n\nNow, the mass is coming to an end. You can hear the processions coming to an end so you can hear applause. You know, Leo has really been greeted with great enthusiasm here in Madrid for what is going to be a six-day visit to Spain. He seems very at home in this country.\n\nOf course, he's the first American Pope, but he is a fluent Spanish speaker who spent a number of years in Peru, and he's visited Spain many times. And he had these big crowds today for the mass and then the procession afterwards. And on Saturday night, a prayer vigil with around half a million young people.\n\nSo, I've been just about 600 meters from the mass that's been taking place. And, you know, the crowds have really been quite something. Families, young people here, huge numbers have turned out for Leo, and there's really very, very intense interest in his visit to Spain.\n\nBLACKWELL: Christopher, you're competing with all the sound around you. So we're having a little tough time hearing you, but this is day two of day six. What else are we expecting from the pope?\n\nLAMB: Well, the pope is on -- Monday, tomorrow, is going to be addressing the Spanish parliament. That's the first time a pope has done that. We're expecting him to talk about polarization and how to overcome that. And he's also expected, at some point during his visit to meet with abuse survivors. Of course, the clerical sexual abuse scandal has been a big thing here in Spain. And the Vatican has confirmed that he will be meeting with the victims of abuse.\n\nAnd he's also going to be going to Barcelona to visit the Sagrada Familia Church, the iconic basilica, which was designed by Gaudi. And he will then finish his visit with a trip to the Canary Islands, where migration and the plight of immigrants and refugees is going to be front and center. And Leo is going to be meeting with migrants and those groups who are helping them.\n\nSo it's a visit with, obviously, you know, that strong faith element. Leo wants to encourage the Catholic church in Spain, but there's also a political focus. Leo wanting to bring a message of unity to what is quite a polarized society, Victor.\n\nBLACKWELL: Yes. Every visit by the pope is historic, but this one especially.\n\nSo, Christopher Lamb from Madrid, thank you very much. So, it's the week the world has been waiting for. The World Cup tournament kicks off this week with two matches in Mexico. The teams to watch out for and what's new this year.\n\nBLACKWELL: Police in Ohio are searching for two suspects after at least 12 people were shot near a festival in Toledo on Saturday. The victims range in age from 14 to 61. Two are in critical condition, but Toledo's mayor says they're all expected to survive.\n\nPolice say the two shooters appeared to be shooting at each other. This morning, there are no suspects in custody.\n\nA new development in the murder trial of Karmelo Anthony. Prosecutors rested their case yesterday after calling 21 witnesses in the case against this Texas teenager. He's charged in the stabbing death of Austin Metcalf. Anthony's defense team started calling witnesses, Saturday, and set out to prove this was a justified killing in self- defense. Testimony resumes tomorrow.\n\nPresident Trump is expected to be in Madison Square Garden tomorrow to watch the Knicks take on the Spurs in game three of the NBA finals. Trump says he was invited by Knicks' owner James Dolan. The Knicks' lead, two-zero.\n\nThe FIFA World Cup is now just four days away, and security is a big part of the preparation. With matches across the U.S., Canada and Mexico, host cities are working to handle large crowds and keep everyone safe. Officials are also looking at recent incidents and how transportation systems and venues will hold up. CNN's Ryan Young takes a closer look.\n\nMARKWAYNE MULLIN, DHS SECRETARY: Through 11 different cities. And we're going to have 78 Super Bowls in 38 days.\n\nRYAN YOUNG, CNN CORRESPONDENT (voice-over): Across the U.S. and Canada and Mexico, this year, FIFA World Cup on tap to be the largest tournament in history. With stadiums averaging nearly 70,000 seats, organizers expect the event to draw 5 million fans. That will also mean intense security. Some recent unprovoked attacks give people reason to worry.\n\nIn Los Angeles, where the U.S. tournament kicks off, police say someone stabbed and beat a 70-year-old woman back in March, leaving her with a broken neck. Not far away in Long Beach, California, last month, police say another woman was stabbed and left hospitalized. And last week in Atlanta, police say a woman was fatally stabbed on a train operated by MARTA, the city's public transportation line. In months past, the Transportation Department called for improved safety measures in cities to include Chicago, D.C., New York, L.A., Charlotte and Philadelphia. Now, Transportation Secretary Sean Duffy wants an investigation in Atlanta saying, every American should be disturbed by the horrific crimes we have seen on MARTA in the last month.\n\n(on camera): There's a big focus on safety and whether or not MARTA can meet the need when it comes to all the international guests that will be coming to town. And some things have really frightened people in the city, especially a deadly stabbing that happened just last week, having people asking questions, is MARTA safe enough and ready for the World Cup?\n\nGARY GALE, ATLANTA TOURIST FROM CALIFORNIA: I think there should be extra security for sure on a day to day basis, especially with the World Cup coming up.\n\nUNIDENTIFIED FEMALE: Traveling alone would no"
+    }
+  ]
+}
