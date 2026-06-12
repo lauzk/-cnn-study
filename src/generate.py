@@ -1,8 +1,7 @@
 """
-src/generate.py  v7.6
-- 彻底修复JSON字符串内裸换行解析错误
-- 全局字符清洗 + 多层JSON容错
-- 保留原有抓取、缓存、重试逻辑
+src/generate.py  v8.0
+支持：单日多Segment自动遍历、分片独立抓取+分片调用API、分片缓存、自动合并全量数据
+解决：超长文本Token溢出、JSON解析失败、多节目片段丢失问题
 """
 import os, re, json, requests, sys, time
 from datetime import datetime, timezone, timedelta
@@ -12,8 +11,14 @@ from html.parser import HTMLParser
 DEEPSEEK_API_KEY = os.environ.get('DEEPSEEK_API_KEY', '')
 DEEPSEEK_URL     = 'https://api.deepseek.com/v1/chat/completions'
 OUTPUT_DIR       = Path('output')
+# 分片缓存目录：存放单个segment的临时文件
+SEGMENT_CACHE_DIR = OUTPUT_DIR / 'seg_cache'
 OUTPUT_DIR.mkdir(exist_ok=True)
+SEGMENT_CACHE_DIR.mkdir(exist_ok=True)
+
 CST = timezone(timedelta(hours=8))
+# 最大探测Segment数量（根据源站实际情况调整，建议10以内）
+MAX_SEGMENT_NUM = 10
 
 
 def get_target_date() -> str:
@@ -43,6 +48,30 @@ def find_available_date(start_date: str, max_lookback: int = 7) -> str:
     raise RuntimeError(f'回溯 {max_lookback} 天内未找到有效 CNN 文稿')
 
 
+def get_all_valid_segments(date_str: str) -> list[int]:
+    """自动探测当日所有有效的 segment 编号"""
+    valid_segs = []
+    headers = {'User-Agent': 'Mozilla/5.0'}
+    print(f'\n[探测当日所有 Segment] 最大探测数: {MAX_SEGMENT_NUM}')
+    for seg in range(1, MAX_SEGMENT_NUM + 1):
+        seg_str = f"{seg:02d}"
+        url = f'https://transcripts.cnn.com/show/ctmo/date/{date_str}/segment/{seg_str}'
+        try:
+            r = requests.get(url, headers=headers, timeout=15)
+            if r.status_code == 200 and len(r.text) > 500:
+                valid_segs.append(seg)
+                print(f'  ✓ Segment {seg_str} 有效')
+            else:
+                print(f'  × Segment {seg_str} 无内容/无效，停止探测')
+                break
+        except Exception:
+            print(f'  × Segment {seg_str} 请求异常，停止探测')
+            break
+    if not valid_segs:
+        raise RuntimeError(f'{date_str} 未探测到任何有效 Segment')
+    return valid_segs
+
+
 class TranscriptExtractor(HTMLParser):
     def __init__(self):
         super().__init__()
@@ -69,19 +98,20 @@ class TranscriptExtractor(HTMLParser):
         return '\n\n'.join(self.text_parts)
 
 
-def fetch_transcript(date_str: str) -> tuple[str, list[dict]]:
+def fetch_transcript(date_str: str, seg: int) -> tuple[str, dict]:
+    """抓取单个 Segment 内容"""
+    seg_str = f"{seg:02d}"
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0 Safari/537.36',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
     }
-    seg = 1
-    url = f'https://transcripts.cnn.com/show/ctmo/date/{date_str}/segment/{seg:02d}'
-    print(f'  抓取 Segment {seg:02d}: {url}')
+    url = f'https://transcripts.cnn.com/show/ctmo/date/{date_str}/segment/{seg_str}'
+    print(f'  抓取 Segment {seg_str}: {url}')
     try:
         resp = requests.get(url, headers=headers, timeout=30)
         if resp.status_code != 200:
-            print(f'  Segment {seg:02d}: HTTP {resp.status_code}，抓取失败')
-            return '', []
+            print(f'  Segment {seg_str}: HTTP {resp.status_code}，抓取失败')
+            return '', {}
 
         title_match = re.search(r'<title>(.*?)</title>', resp.text, re.DOTALL | re.IGNORECASE)
         raw_title = title_match.group(1).strip() if title_match else ''
@@ -112,30 +142,25 @@ def fetch_transcript(date_str: str) -> tuple[str, list[dict]]:
                 print(f'      策略2成功，长度 {len(body_text)}')
 
         if len(body_text) > 300:
-            segments_data = [{
+            seg_info = {
                 'seg': seg,
                 'url': url,
                 'title': segment_title,
                 'text': body_text
-            }]
-            print(f'  Segment {seg:02d}: 提取成功 ({len(body_text)} 字符)')
-            return body_text, segments_data
+            }
+            print(f'  Segment {seg_str}: 提取成功 ({len(body_text)} 字符)')
+            return body_text, seg_info
         else:
-            print(f'  Segment {seg:02d}: 内容过短 ({len(body_text)} 字符)，抓取失败')
-            return '', []
+            print(f'  Segment {seg_str}: 内容过短，抓取失败')
+            return '', {}
     except Exception as e:
-        print(f'  Segment {seg:02d} 异常: {e}')
-        return '', []
+        print(f'  Segment {seg_str} 异常: {e}')
+        return '', {}
 
 
 def deep_clean_json_str(raw: str) -> str:
-    """全局深度清洗JSON字符串，解决裸换行、非法字符、多余逗号"""
-    # 1. 移除代码块标记
     txt = re.sub(r'^```(?:json)?\s*|\s*```$', '', raw.strip(), flags=re.MULTILINE).strip()
-
-    # 2. 统一换行符并全局转义（核心修复：解决字符串内裸换行）
     txt = txt.replace('\r\n', '\n').replace('\r', '\n')
-    # 对双引号包裹的内容，强制把 \n 转为 \\n
     in_quote = False
     result = []
     for char in txt:
@@ -147,24 +172,18 @@ def deep_clean_json_str(raw: str) -> str:
         else:
             result.append(char)
     txt = ''.join(result)
-
-    # 3. 移除列表/对象末尾多余逗号
     txt = re.sub(r',\s*([}\]])', r'\1', txt)
-    # 4. 清理不可见控制字符
     txt = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f]', '', txt)
     return txt
 
 
 def parse_json_robust(raw: str) -> dict:
     cleaned = deep_clean_json_str(raw)
-
-    # 首次解析
     try:
         return json.loads(cleaned)
     except json.JSONDecodeError:
         pass
 
-    # 截取外层完整 JSON 对象
     start = cleaned.find('{')
     if start == -1:
         raise ValueError('未找到 JSON 起始字符 "{"')
@@ -180,8 +199,6 @@ def parse_json_robust(raw: str) -> dict:
                 if not stack:
                     end_idx = idx
                     break
-
-    # 兜底处理括号
     if end_idx == -1:
         end_idx = cleaned.rfind('}')
         if end_idx == -1:
@@ -193,89 +210,61 @@ def parse_json_robust(raw: str) -> dict:
             end_idx = len(cleaned) - 1
 
     candidate = cleaned[start:end_idx+1]
-    # 二次清洗
     candidate = deep_clean_json_str(candidate)
-
     try:
         return json.loads(candidate)
     except json.JSONDecodeError as e:
         debug_file = OUTPUT_DIR / 'last_api_response.txt'
         debug_file.write_text(raw, encoding='utf-8')
         print(f'  已保存原始响应到 {debug_file}')
-        print(f'  解析片段前500:\n{candidate[:500]}')
         raise ValueError(f'JSON解析失败: {e}')
 
 
 SYSTEM = """你是专业英语精读教学助手，专注新闻英语。
-目标学习者：考研六级以上。
-# 硬性输出规则（必须遵守）
-1. 仅输出纯JSON，无任何额外文字、注释、Markdown代码块；
-2. 所有字符串内**换行必须转义为 \\n**，禁止裸换行；
-3. 字符串内双引号用 \\" 转义，例句改用单引号；
-4. 数组/对象末尾**禁止多余逗号**；
-5. 严格使用标准双引号包裹字段名，不使用单引号。"""
+目标学习者：考研、六级、专四、专八以上。
+硬性规则：
+1. 仅输出纯JSON，无额外文字、注释、代码块；
+2. 字符串内换行转义为 \\n，禁止裸换行；
+3. 字段名统一使用标准双引号；
+4. 数组/对象末尾禁止多余逗号。"""
 
 
 def build_prompt(transcript: str, date_str: str, source_url: str) -> str:
-    # 前置对原文做全转义，避免污染JSON结构
     safe_text = transcript.replace('\\', '\\\\').replace('"', '\\"').replace('\n', '\\n')
     return f"""CNN This Morning 逐字稿（{date_str}）：
 {safe_text}
 
-请严格输出**标准可解析JSON**，结构、字段名完全遵循下方模板，不得增删改：
+输出标准JSON，严格使用以下结构，字段不可修改：
 {{
   "date": "{date_str}",
   "source_url": "{source_url}",
   "full_translation": [
-    {{
-      "paragraph": "原文段落",
-      "translation": "对应中文翻译"
-    }}
+    {{"paragraph": "原文段落","translation": "中文翻译"}}
   ],
   "vocabulary": [
-    {{
-      "word": "单词/短语",
-      "phonetic": "/音标/",
-      "pos": "词性",
-      "level": "考研/六级/专四/专八",
-      "cn": "中文释义",
-      "en": "英文释义",
-      "excerpt": "原文片段",
-      "example_cn": "片段翻译"
-    }}
+    {{"word":"单词","phonetic":"/音标/","pos":"词性","level":"考研/六级/专四/专八","cn":"释义","en":"英释","excerpt":"原句","example_cn":"翻译"}}
   ],
   "sentences": [
-    {{
-      "en": "原文长难句",
-      "cn": "中文翻译",
-      "structure": "句子结构",
-      "analysis": "语法分析"
-    }}
+    {{"en":"原句","cn":"翻译","structure":"结构","analysis":"解析"}}
   ],
   "topics": [
-    {{
-      "title": "话题标题",
-      "content": "背景知识",
-      "keywords": "关键词"
-    }}
+    {{"title":"话题","content":"背景","keywords":"关键词"}}
   ]
 }}
 
-业务要求：
-1. full_translation 按原文段落逐段翻译；
-2. vocabulary 提取至少30个考研/六级/专四/专八词汇；
-3. sentences 整理全部长难句；
-4. topics 整理至少10个相关背景话题；
-5. 所有段落换行统一使用转义符 \\n，严禁直接换行。"""
+要求：
+1. full_translation 逐段翻译；
+2. vocabulary 提取至少30个对应等级词汇；
+3. sentences 解析本段所有长难句；
+4. topics 输出本段相关背景话题。"""
 
 
 def call_deepseek(prompt: str, max_retries: int = 3) -> dict:
     if not DEEPSEEK_API_KEY:
         raise RuntimeError('DEEPSEEK_API_KEY 未设置')
-
     for retry in range(max_retries):
         try:
-            print(f'  调用 DeepSeek API (重试 {retry+1}/{max_retries})...')
+            print(f'  调用 API (重试 {retry+1}/{max_retries})...')
             resp = requests.post(
                 DEEPSEEK_URL,
                 headers={
@@ -296,56 +285,113 @@ def call_deepseek(prompt: str, max_retries: int = 3) -> dict:
             )
             resp.raise_for_status()
             raw_content = resp.json()['choices'][0]['message']['content']
-            print(f'  API返回：{len(raw_content)} 字符')
+            print(f'  API返回字符数: {len(raw_content)}')
             return parse_json_robust(raw_content)
         except Exception as e:
-            print(f'  第 {retry+1} 次调用失败：{str(e)}')
+            print(f'  第 {retry+1} 次失败: {str(e)}')
             if retry >= max_retries - 1:
                 raise
             time.sleep(2 ** retry)
 
 
+def merge_segment_data(date_str: str, seg_list: list[int]) -> dict:
+    """合并当日所有分片数据为最终全量JSON"""
+    print(f'\n[合并分片数据] 共 {len(seg_list)} 个 Segment')
+    merged = {
+        "date": date_str,
+        "source_url": "",
+        "raw_transcript": "",
+        "segments": [],
+        "full_translation": [],
+        "vocabulary": [],
+        "sentences": [],
+        "topics": []
+    }
+
+    for seg in seg_list:
+        seg_file = SEGMENT_CACHE_DIR / f"{date_str}_seg{seg:02d}.json"
+        if not seg_file.exists():
+            print(f'  跳过缺失分片: {seg_file.name}')
+            continue
+        try:
+            seg_data = json.loads(seg_file.read_text(encoding='utf-8'))
+            # 拼接原文、分段信息、翻译、词汇、长难句、话题
+            merged["raw_transcript"] += seg_data.get("raw_transcript", "") + "\n\n"
+            merged["segments"].extend(seg_data.get("segments", []))
+            merged["full_translation"].extend(seg_data.get("full_translation", []))
+            merged["vocabulary"].extend(seg_data.get("vocabulary", []))
+            merged["sentences"].extend(seg_data.get("sentences", []))
+            merged["topics"].extend(seg_data.get("topics", []))
+            # 主URL取第一个有效链接
+            if not merged["source_url"] and seg_data.get("source_url"):
+                merged["source_url"] = seg_data["source_url"]
+        except Exception as e:
+            print(f'  合并分片 {seg} 异常: {e}')
+    return merged
+
+
 def main():
-    print('\n=== CNN精读生成器 v7.6（彻底修复JSON换行解析问题） ===')
+    print('\n=== CNN精读生成器 v8.0 多Segment分片版 ===')
     requested_date = get_target_date()
-    out_path = OUTPUT_DIR / f'{requested_date}.json'
-    if out_path.exists():
-        print(f'✓ 缓存已存在：{out_path}')
+    final_out = OUTPUT_DIR / f'{requested_date}.json'
+
+    # 最终文件已存在，直接退出
+    if final_out.exists():
+        print(f'✓ 当日完整文件已存在: {final_out}')
         return
 
-    print(f'\n[1/3] 查找有效文稿（从 {requested_date} 开始）...')
-    actual_date = find_available_date(requested_date, max_lookback=7)
-    out_path = OUTPUT_DIR / f'{actual_date}.json'
-    if out_path.exists():
-        print(f'✓ {actual_date} 缓存已存在')
+    # 1. 查找有效日期
+    print(f'\n[1/4] 回溯查找有效文稿日期')
+    actual_date = find_available_date(requested_date)
+    final_out = OUTPUT_DIR / f'{actual_date}.json'
+    if final_out.exists():
+        print(f'✓ 当日完整文件已存在: {final_out}')
         return
 
-    source_url = f'https://transcripts.cnn.com/show/ctmo/date/{actual_date}/segment/01'
-    print(f'目标日期：{actual_date}  输出：{out_path}')
+    # 2. 探测当日所有有效Segment
+    print(f'\n[2/4] 探测 {actual_date} 全部有效片段')
+    valid_segs = get_all_valid_segments(actual_date)
+    print(f'✅ 探测到有效片段列表: {[f"s{s:02d}" for s in valid_segs]}')
 
-    print(f'\n[2/3] 抓取文稿...')
-    full_text, segments_data = fetch_transcript(actual_date)
-    if not full_text:
-        raise RuntimeError(f'{actual_date} 文稿抓取失败')
-    print(f'      抓取到 {len(segments_data)} 个 segment，文稿总长度：{len(full_text)} 字符')
+    # 3. 逐个分片处理、缓存
+    print(f'\n[3/4] 逐个分片抓取+生成精读')
+    for seg in valid_segs:
+        seg_str = f"{seg:02d}"
+        seg_cache_file = SEGMENT_CACHE_DIR / f"{actual_date}_seg{seg_str}.json"
+        # 分片已缓存，跳过
+        if seg_cache_file.exists():
+            print(f'✓ 分片 s{seg_str} 已存在，跳过')
+            continue
 
-    print(f'\n[3/3] 生成精读内容...')
-    prompt = build_prompt(full_text, actual_date, source_url)
-    data = call_deepseek(prompt)
+        # 抓取单段文本
+        text, seg_info = fetch_transcript(actual_date, seg)
+        if not text or not seg_info:
+            raise RuntimeError(f'分片 s{seg_str} 抓取失败，终止任务')
 
-    data['raw_transcript'] = full_text
-    data['segments'] = segments_data
-    data['date'] = actual_date
-    data['source_url'] = source_url
+        # 调用API生成分片精读
+        prompt = build_prompt(text, actual_date, seg_info["url"])
+        seg_data = call_deepseek(prompt)
+        # 补充分片原始数据
+        seg_data["raw_transcript"] = text
+        seg_data["segments"] = [seg_info]
 
-    print(f'      词汇数：{len(data.get("vocabulary",[]))}  难句：{len(data.get("sentences",[]))}  话题：{len(data.get("topics",[]))}')
-    out_path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding='utf-8')
-    print(f'\n✅ 已保存：{out_path}')
+        # 保存分片缓存
+        seg_cache_file.write_text(json.dumps(seg_data, ensure_ascii=False, indent=2), encoding='utf-8')
+        print(f'✅ 分片 s{seg_str} 已缓存: {seg_cache_file.name}\n')
+
+    # 4. 合并所有分片，输出当日最终文件
+    print(f'\n[4/4] 合并所有分片，生成最终文件')
+    total_data = merge_segment_data(actual_date, valid_segs)
+    final_out.write_text(json.dumps(total_data, ensure_ascii=False, indent=2), encoding='utf-8')
+    print(f'\n🎉 全部完成！最终文件: {final_out}')
+    print(f'  合并词汇总数: {len(total_data["vocabulary"])}')
+    print(f'  合并长难句总数: {len(total_data["sentences"])}')
+    print(f'  合并话题总数: {len(total_data["topics"])}')
 
 
 if __name__ == '__main__':
     try:
         main()
     except Exception as e:
-        print(f'\n❌ {e}', file=sys.stderr)
+        print(f'\n❌ 任务失败: {e}', file=sys.stderr)
         sys.exit(1)
