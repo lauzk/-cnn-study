@@ -36,7 +36,7 @@ def main():
         <div class="directory-item" data-date="{date}">
             <div class="item-header">
                 <span class="item-date">{date}</span>
-                <span class="item-title">{escape_html(title)}</span>
+               
             </div>
         </div>
         ''')
