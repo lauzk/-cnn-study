@@ -20,7 +20,7 @@ CST = timezone(timedelta(hours=8))
 # 最大探测Segment数量（根据源站实际情况调整，建议10以内）
 MAX_SEGMENT_NUM = 10
 # 单片段最大字符限制，进一步控Token
-MAX_SEG_TEXT_LEN = 18000
+MAX_SEG_TEXT_LEN = 30000
 
 
 def get_target_date() -> str:
