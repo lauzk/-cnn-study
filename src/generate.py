@@ -91,24 +91,19 @@ class TranscriptExtractor(HTMLParser):
         self.text_parts = []
         self.skip = False
         self.skip_tags = {'script', 'style', 'nav', 'header', 'footer', 'aside', 'meta', 'link'}
-
     def handle_starttag(self, tag, attrs):
         if tag in self.skip_tags:
             self.skip = True
-
     def handle_endtag(self, tag):
         if tag in self.skip_tags:
             self.skip = False
-
     def handle_data(self, data):
         if not self.skip:
-            data = data.strip()
-            if len(data) > 20:
-                cleaned = re.sub(r'[ \t]+', ' ', data)
-                self.text_parts.append(cleaned)
-
+            # 原样接收文本：不去空格、不判断长度、不压缩内容
+            self.text_parts.append(data)
     def get_text(self):
-        return '\n\n'.join(self.text_parts)
+        # 纯拼接，不额外增加空行
+        return ''.join(self.text_parts)
 
 
 def fetch_transcript(date_str: str, seg: int) -> tuple[str, dict]:
@@ -135,29 +130,27 @@ def fetch_transcript(date_str: str, seg: int) -> tuple[str, dict]:
         if not match:
             match = re.search(r'<(div|section)[^>]*class=["\'][^"\']*cnnTranscript[^"\']*["\'][^>]*>(.*?)</\1>', resp.text, re.DOTALL | re.IGNORECASE)
 
-        if match:
+               if match:
             inner = match.group(2)
             inner = re.sub(r'<br\s*/?>', '\n', inner)
-            inner = re.sub(r'</(p|div|section|h\d)>', '\n\n', inner, flags=re.IGNORECASE)
+            inner = re.sub(r'</(p|div|section|h\d)>', '\n', inner, flags=re.IGNORECASE)
+            # 仅删除 HTML 标签，所有正文、括号、时间轴全部保留
             body_text = re.sub(r'<[^>]+>', '', inner)
-            body_text = re.sub(r'[ \t]+', ' ', body_text)
-            body_text = re.sub(r'\n{3,}', '\n\n', body_text)
-            body_text = body_text.strip()
-            # 让 [HH:MM:SS] 时间轴标记独占一行，便于阅读和前端识别
-            body_text = re.sub(r'\s*(\[\d{2}:\d{2}:\d{2}\])\s*', r'\n\1\n', body_text)
-            body_text = re.sub(r'\n{3,}', '\n\n', body_text).strip()
             print(f'      策略1成功，长度 {len(body_text)}')
         else:
             print(f'      策略1失败，尝试自定义解析器...')
             parser = TranscriptExtractor()
             parser.feed(resp.text)
             body_text = parser.get_text()
-            if body_text:
-                body_text = re.sub(r'[ \t]+', ' ', body_text)
-                body_text = re.sub(r'\n{3,}', '\n\n', body_text).strip()
-                body_text = re.sub(r'\s*(\[\d{2}:\d{2}:\d{2}\])\s*', r'\n\1\n', body_text)
-                body_text = re.sub(r'\n{3,}', '\n\n', body_text).strip()
-                print(f'      策略2成功，长度 {len(body_text)}')
+            print(f'      策略2成功，长度 {len(body_text)}')
+
+        # 仅精简【冗余空白】，不删除任何文字、括号、时间轴
+        # 1. 连续多个空格/制表符 → 单个空格
+        body_text = re.sub(r'[ \t]{2,}', ' ', body_text)
+        # 2. 连续3行及以上空行 → 1行空行
+        body_text = re.sub(r'\n{3,}', r'\n\n', body_text)
+        # 3. 去除整个文本首尾空白，不影响中间内容
+        body_text = body_text.strip()
 
         # 截断超长文本，控制Token
         if len(body_text) > MAX_SEG_TEXT_LEN:
