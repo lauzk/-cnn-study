@@ -1,0 +1,404 @@
+{
+  "date": "2026-06-05",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-05/segment/02",
+  "vocabulary": [
+    {
+      "word": "pins",
+      "phonetic": "/pɪnz/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "归咎于",
+      "en": "to blame or hold responsible",
+      "excerpt": "Bondi Pins Epstein File Release On Blanche",
+      "example_cn": "她把失败归咎于队友。"
+    },
+    {
+      "word": "confirmation hearing",
+      "phonetic": "/ˌkɑːnfərˈmeɪʃn ˈhɪrɪŋ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "确认听证会",
+      "en": "a hearing to confirm a nominee",
+      "excerpt": "Acting Attorney General Todd Blanche will face a Senate confirmation hearing",
+      "example_cn": "法官的确认听证会定于下周举行。"
+    },
+    {
+      "word": "closed-door",
+      "phonetic": "/ˌkloʊzd ˈdɔːr/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "闭门的",
+      "en": "private, not open to the public",
+      "excerpt": "Pam Bondi's closed-door interview with lawmakers",
+      "example_cn": "他们举行了一次闭门会议。"
+    },
+    {
+      "word": "lay-up",
+      "phonetic": "/ˈleɪ ʌp/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "轻松得分的机会",
+      "en": "an easy opportunity",
+      "excerpt": "Democrats can essentially have a lay-up",
+      "example_cn": "这个问题对他们来说是个轻松得分的机会。"
+    },
+    {
+      "word": "weaponization",
+      "phonetic": "/ˌwepənaɪˈzeɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "武器化",
+      "en": "the act of turning something into a weapon",
+      "excerpt": "the weaponization fund",
+      "example_cn": "他们批评将司法系统武器化。"
+    },
+    {
+      "word": "botched",
+      "phonetic": "/bɑːtʃt/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "搞砸的",
+      "en": "done badly or clumsily",
+      "excerpt": "this botched rollout",
+      "example_cn": "这次搞砸的发布损害了他们的声誉。"
+    },
+    {
+      "word": "litmus test",
+      "phonetic": "/ˈlɪtməs test/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "试金石",
+      "en": "a decisive test",
+      "excerpt": "a litmus test on transparency",
+      "example_cn": "这次投票是对他忠诚度的试金石。"
+    },
+    {
+      "word": "erodes",
+      "phonetic": "/ɪˈroʊdz/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "侵蚀",
+      "en": "gradually destroy",
+      "excerpt": "that erodes trust",
+      "example_cn": "不断的谎言侵蚀了公众的信任。"
+    },
+    {
+      "word": "appeased",
+      "phonetic": "/əˈpiːzd/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "安抚",
+      "en": "to calm or satisfy",
+      "excerpt": "that constituency is not going to be appeased",
+      "example_cn": "政府试图安抚抗议者。"
+    },
+    {
+      "word": "throwing him under the bus",
+      "phonetic": "/ˈθroʊɪŋ hɪm ˈʌndər ðə bʌs/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "牺牲某人",
+      "en": "to sacrifice someone for personal gain",
+      "excerpt": "throwing him under the bus",
+      "example_cn": "为了保住自己的工作，她把同事推出去当替罪羊。"
+    },
+    {
+      "word": "hallucinated",
+      "phonetic": "/həˈluːsɪneɪtɪd/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "产生幻觉",
+      "en": "to experience false perceptions",
+      "excerpt": "hallucinated by artificial intelligence",
+      "example_cn": "人工智能可能会产生幻觉并编造事实。"
+    },
+    {
+      "word": "sanctioned",
+      "phonetic": "/ˈsæŋkʃnd/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "制裁",
+      "en": "to impose a penalty",
+      "excerpt": "getting sanctioned and barred from the court",
+      "example_cn": "该律师因不当行为受到制裁。"
+    },
+    {
+      "word": "fabricating",
+      "phonetic": "/ˈfæbrɪkeɪtɪŋ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "捏造",
+      "en": "to invent falsely",
+      "excerpt": "fabricating entire briefs with A.I.",
+      "example_cn": "他被指控捏造证据。"
+    },
+    {
+      "word": "deluge",
+      "phonetic": "/ˈdeljuːdʒ/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "泛滥",
+      "en": "a great flood or overwhelming amount",
+      "excerpt": "the courts are deluge with these",
+      "example_cn": "法院被大量诉讼淹没。"
+    },
+    {
+      "word": "snag",
+      "phonetic": "/snæɡ/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "障碍",
+      "en": "an unexpected problem",
+      "excerpt": "another snag for L.A.",
+      "example_cn": "计划遇到了一个障碍。"
+    },
+    {
+      "word": "deplaning",
+      "phonetic": "/diːˈpleɪnɪŋ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "下飞机",
+      "en": "to get off an aircraft",
+      "excerpt": "They're deplaning",
+      "example_cn": "乘客正在下飞机。"
+    },
+    {
+      "word": "jammed",
+      "phonetic": "/dʒæmd/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "猛推",
+      "en": "to push forcefully",
+      "excerpt": "our senator being jammed to the ground",
+      "example_cn": "他被推倒在地。"
+    },
+    {
+      "word": "snatched up",
+      "phonetic": "/snætʃt ʌp/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "抓走",
+      "en": "to grab or take quickly",
+      "excerpt": "if I get snatched up by ICE",
+      "example_cn": "移民官员可能会在街上抓人。"
+    },
+    {
+      "word": "dynamic pricing",
+      "phonetic": "/daɪˈnæmɪk ˈpraɪsɪŋ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "动态定价",
+      "en": "pricing that changes based on demand",
+      "excerpt": "the issue is dynamic pricing",
+      "example_cn": "机票采用动态定价。"
+    },
+    {
+      "word": "filibustering",
+      "phonetic": "/ˈfɪlɪbʌstərɪŋ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "阻挠议事",
+      "en": "to delay legislation by prolonged speaking",
+      "excerpt": "a secretary who was filibustering",
+      "example_cn": "参议员通过冗长发言阻挠议案通过。"
+    },
+    {
+      "word": "triggered",
+      "phonetic": "/ˈtrɪɡərd/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "被激怒的",
+      "en": "angry or upset",
+      "excerpt": "he was obviously triggered",
+      "example_cn": "他的评论让她很生气。"
+    },
+    {
+      "word": "slush fund",
+      "phonetic": "/ˈslʌʃ fʌnd/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "贿赂基金",
+      "en": "a fund used for illicit purposes",
+      "excerpt": "a $1.8 billion slush fund",
+      "example_cn": "他们被指控设立贿赂基金。"
+    },
+    {
+      "word": "siphoned",
+      "phonetic": "/ˈsaɪfənd/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "抽取",
+      "en": "to divert or take away",
+      "excerpt": "money being siphoned from the sale",
+      "example_cn": "资金被从项目中抽走。"
+    },
+    {
+      "word": "chorus line",
+      "phonetic": "/ˈkɔːrəs laɪn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "合唱队",
+      "en": "a line of dancers in a musical",
+      "excerpt": "cut from a chorus line",
+      "example_cn": "他跳舞像合唱队成员。"
+    },
+    {
+      "word": "DEI",
+      "phonetic": "/diː iː aɪ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "多元化、公平与包容",
+      "en": "diversity, equity, and inclusion",
+      "excerpt": "because of DEI",
+      "example_cn": "公司致力于DEI倡议。"
+    },
+    {
+      "word": "priced out",
+      "phonetic": "/praɪst aʊt/",
+      "pos": "phrase",
+      "level": "考研",
+      "cn": "因价格过高而被排除",
+      "en": "to be forced out due to high costs",
+      "excerpt": "I hope Elmo gets priced out",
+      "example_cn": "许多居民因房价上涨而被挤出市场。"
+    },
+    {
+      "word": "roots",
+      "phonetic": "/ruːts/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "根源",
+      "en": "origins or background",
+      "excerpt": "don't you dare forget your roots",
+      "example_cn": "他从未忘记自己的根源。"
+    },
+    {
+      "word": "pipeline",
+      "phonetic": "/ˈpaɪplaɪn/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "渠道",
+      "en": "a channel or process",
+      "excerpt": "from YouTube to Hollywood pipeline",
+      "example_cn": "这个人才渠道为科技公司输送员工。"
+    },
+    {
+      "word": "Herculean",
+      "phonetic": "/ˌhɜːrkjʊˈliːən/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "艰巨的",
+      "en": "requiring great strength or effort",
+      "excerpt": "management of this Herculean task",
+      "example_cn": "这是一项艰巨的任务。"
+    },
+    {
+      "word": "beyond reproach",
+      "phonetic": "/bɪˈjɑːnd rɪˈproʊtʃ/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "无可指责",
+      "en": "perfect, without fault",
+      "excerpt": "his ethics are beyond reproach",
+      "example_cn": "她的行为无可指责。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "She used her time in that closed-door session where she was sworn under oath in front of Congress as the former attorney general and as Todd Blanche's former boss to say, he ran the whole process, and he was in charge of the whole release, and the Dow's at 50,000, right?",
+      "cn": "她利用在闭门会议上的时间——当时她作为前司法部长和托德·布兰奇的前老板，在国会面前宣誓——说，他负责整个过程，他负责整个发布，而道琼斯指数在50000点，对吧？",
+      "structure": "主句：She used her time... to say...；定语从句：where she was sworn...；并列宾语从句：he ran..., he was in charge..., and the Dow's at...",
+      "analysis": "这是一个复杂句，主句为She used her time... to say...，其中包含一个由where引导的定语从句修饰closed-door session，定语从句中又有as短语作状语。say后跟三个并列的宾语从句，最后一个用and连接，并带有反问语气。"
+    },
+    {
+      "en": "There are probably eight senators who are either up for reelection or in their screw it YOLO phase, I'm doing whatever I want or just tough votes that Republicans need the votes of and they can't afford to lose a lot of them.",
+      "cn": "大概有八位参议员要么面临连任，要么处于“管他呢，你只活一次”的阶段，我想做什么就做什么，或者只是艰难的投票，共和党需要他们的选票，而且他们不能失去太多。",
+      "structure": "主句：There are... senators；定语从句1：who are either... or...；定语从句2：that Republicans need...；并列句：and they can't afford...",
+      "analysis": "句子主干为There are... senators，后接who引导的定语从句，其中包含either...or...结构。or后接名词短语tough votes，再跟that引导的定语从句修饰tough votes。最后and连接并列句。"
+    },
+    {
+      "en": "The key for Todd or anybody going through Judiciary Committee is being pretty tight on January the 6th.",
+      "cn": "对托德或任何通过司法委员会的人来说，关键是要在1月6日问题上立场坚定。",
+      "structure": "主系表：The key... is being...；介词短语：for Todd or anybody going through Judiciary Committee",
+      "analysis": "主语为The key，后接for短语说明对象，其中going through...是现在分词短语作后置定语。谓语为is，表语为动名词短语being pretty tight on...。"
+    },
+    {
+      "en": "And I hear from Republican voters who are frustrated with how --",
+      "cn": "我听到共和党选民对……感到沮丧。",
+      "structure": "主谓宾：I hear from... voters；定语从句：who are frustrated with...；介词宾语从句：how...",
+      "analysis": "主句为I hear from Republican voters，后接who引导的定语从句，其中with后跟how引导的宾语从句，但句子被截断。"
+    },
+    {
+      "en": "She can be praising his management and ethics and also throwing him under the bus on a matter that is incredibly popular or unpopular with a bipartisan selection of Americans.",
+      "cn": "她可以赞扬他的管理和道德，同时也可以在一件在两党美国人中都非常受欢迎或不受欢迎的事情上把他推出去当替罪羊。",
+      "structure": "主谓宾：She can be praising... and also throwing...；定语从句：that is... popular or unpopular...",
+      "analysis": "谓语为can be praising... and throwing...，并列两个动名词短语。throwing后接宾语him和状语on a matter，后跟that引导的定语从句修饰matter。"
+    },
+    {
+      "en": "Now, when you start getting into the world of what are the cases I ought to be citing and either fabricating or just pulling information that you as a lawyer have not read, that's a problem.",
+      "cn": "现在，当你开始进入这样一个世界：哪些是我应该引用的案例，以及捏造或只是提取你作为律师没有读过的信息，那就有问题了。",
+      "structure": "时间状语从句：when you start...；主句：that's a problem；介词宾语从句：what are the cases...；定语从句：that you... have not read",
+      "analysis": "when引导时间状语从句，其中getting into the world of后接what引导的宾语从句，该从句中又包含省略that的定语从句I ought to be citing和and连接的并列结构，最后that引导定语从句修饰information。"
+    },
+    {
+      "en": "At a certain point, you have to own what's happening in the building.",
+      "cn": "在某个时刻，你必须对大楼里发生的事情负责。",
+      "structure": "主谓宾：you have to own；宾语从句：what's happening in the building",
+      "analysis": "主句为you have to own，后接what引导的宾语从句。own在此意为“承认对……负责”。"
+    },
+    {
+      "en": "The idea that this is just about Democrats, no, Republicans have a tough vote on you.",
+      "cn": "认为这只是关于民主党的想法，不，共和党人也要对你进行艰难的投票。",
+      "structure": "同位语从句：The idea that...；并列句：no, Republicans have...",
+      "analysis": "The idea后接that引导的同位语从句，说明idea的内容。然后no表示否定，后面是并列句。"
+    },
+    {
+      "en": "And we want to know why ticket prices are changing so dramatically from city to city.",
+      "cn": "我们想知道为什么票价在不同城市之间变化如此之大。",
+      "structure": "主谓宾：we want to know；宾语从句：why ticket prices are changing...",
+      "analysis": "主句为we want to know，后接why引导的宾语从句。"
+    },
+    {
+      "en": "What you really saw was a secretary who was filibustering and upset because I was asking him for receipts.",
+      "cn": "你真正看到的是一个在阻挠议事并感到不安的部长，因为我在向他要收据。",
+      "structure": "主语从句：What you really saw；主系表：was a secretary；定语从句：who was filibustering and upset；原因状语从句：because I was asking...",
+      "analysis": "What引导主语从句，谓语为was，表语为a secretary，后接who引导的定语从句，其中包含because引导的原因状语从句。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "Epstein文件与司法部任命",
+      "content": "前司法部长Pam Bondi在闭门听证中指认代理司法部长Todd Blanche负责Epstein文件的发布，这可能影响Blanche的参议院确认。Epstein案涉及性犯罪和司法透明度，成为两党争议焦点。",
+      "keywords": "Epstein files, Todd Blanche, Pam Bondi, confirmation hearing, Justice Department"
+    },
+    {
+      "title": "AI在法律领域的滥用",
+      "content": "律师因使用AI生成虚假案例法而受到法院制裁。AI的“幻觉”导致捏造法律引用，引发职业道德和司法诚信问题。调查显示63%的律师在工作中使用AI，但需警惕其风险。",
+      "keywords": "AI hallucinations, fake case law, legal ethics, sanctions, fabricating briefs"
+    },
+    {
+      "title": "世界杯与移民执法",
+      "content": "洛杉矶县警长表示ICE不会在世界杯比赛期间进行民事移民执法，但保留变更可能。工人和球迷担忧ICE突袭，而国土安全部未明确表态。同时，世界杯门票动态定价引发争议。",
+      "keywords": "World Cup, ICE, immigration enforcement, SoFi Stadium, dynamic pricing"
+    },
+    {
+      "title": "加州选举计票缓慢",
+      "content": "加州因人口众多和邮寄选票规则，计票耗时较长。共和党质疑可能作弊，但民主党强调准确性优先。众议员Kamlager-Dove辩护称系统可靠。",
+      "keywords": "California vote count, mail-in ballots, election integrity, slow counting"
+    },
+    {
+      "title": "政府腐败与透明度",
+      "content": "众议员Kamlager-Dove在听证会上质问国务卿Rubio关于委内瑞拉石油销售资金缺乏透明度的问题，涉及无竞标合同和贿赂基金。她认为这是美国历史上最腐败的政府。",
+      "keywords": "corruption, transparency, Venezuela oil, slush fund, no-bid contracts"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\n\"He Was In Charge\": Bondi Pins Epstein File Release On Blanche; L.A. Sheriff: ICE Enforcement Not Expected At World Cup Matches. Aired 6:30-7a ET\n\nAired June 05, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nAUDIE CORNISH, CNN ANCHOR: Acting Attorney General Todd Blanche will face a Senate confirmation hearing before he can officially take over as leader of the Justice Department. Did his former boss just make that a lot harder?\n\nThe House Oversight Committee just released a transcript of Pam Bondi's closed-door interview with lawmakers last week, and she was asked repeatedly about how the Justice Department handled the release of the Epstein files. And Bondi was quick to point out Blanche as the man in charge, telling lawmakers, quote, \"He was in charge of the process and the entire release of the Epstein files.\"\n\nThe Group Chat is back.\n\nThe reason why I wanted to talk about this is because characterizing what's on paper, right, we can't see it on video, is that is gold for political types.\n\nUNIDENTIFIED FEMALE: It is.\n\nCORNISH: We actually had a former Trump advisor on CNN last night and she thinks that this laid the groundwork for a tougher time in the confirmation process. I want to get your opinion after you hear.\n\nCAROLINE SUNSHINE, DEPUTY COMMUNICATIONS DIRECTOR, TRUMP'S 2024 CAMPAIGN: She used her time in that closed-door session where she was sworn under oath in front of Congress as the former attorney general and as Todd Blanche's former boss to say, he ran the whole process, and he was in charge of the whole release, and the Dow's at 50,000, right? And so she's now laid the groundwork for that to be a confirmation where Democrats can essentially have a lay-up and say, \"There's no way I could vote for this guy.\"\n\nELLIOT WILLIAMS, CNN LEGAL ANALYST: I don't think it's just Democrats. I think the issues that Todd Blanche's name is on right now are the Epstein files or just all things around it, the weaponization fund, and the prosecutions of opponents of the president that many of which are not popular with the public.\n\nHe's attached to those things. There are at least --\n\nCORNISH: Meaning it doesn't matter if she leaned in on it.\n\nWILLIAMS: It doesn't matter if she leaned on it.\n\nThere are probably eight senators who are either up for reelection or in their screw it YOLO phase. I'm doing whatever I want or just tough votes that Republicans need the votes of and they can't afford to lose a lot of them. The idea that this is just about Democrats, no, Republicans have a tough vote on you.\n\nCORNISH: Yeah, and to your point, Thom Tillis, who may be part of that, the BOLO YOLO, I call it, also \"Wall Street Journal\", wounded bear caucus, says it's not an automatic yes vote in the committee. And he wants Blanche's answer to a whole other issue, January 6th.\n\nSEN. THOM TILLIS (R-NC): The key for Todd or anybody going through Judiciary Committee is being pretty tight on January the 6th. They better not have said for one minute that the people that -- that beat up police officers like these right down here were righteous people. You come even close to saying that you don't have a chair of getting my vote in judiciary.\n\nCORNISH: Now I have to say Chuck Grassley is saying look, I actually think it's going to be fine. What are you guys hearing in your reporting? What do you see compared to what Elliott saying?\n\nCARINE HAJJAR, WASHINGTON POST EDITORIAL BOARD MEMBER: In terms of Blanche, I mean, I do think they're going to be complicated questions. And not only you have some Republicans who like Tillis who are bringing up Jan 6, who have been talking about the Weaponization Fund.\n\nBut again, Epstein has become a problem, not just it's not just a tool for Democrats to say, look at this botched rollout that happened under the Trump DOJ. But a lot of Republicans have been really upset about this, too. And I hear from Republican voters who are frustrated with how --\n\nCORNISH: There's like an Epstein voter, so to speak. I think they're a person who for which this is a litmus test on transparency, the thing ruling class. Yeah.\n\nNOEL KING, CO-HOST & EDITORIAL DIRECTOR, \"TODAY, EXPLAINED\" PODCAST: You need to be as far away from Epstein as you possibly can be. And Pam Bondi just shoved them into --\n\nCORNISH: No, not true, OK?\n\nPam Bondi was online on social media saying, not true. This is all caps. Okay, just so you know.\n\nTake a look, Noel. She said, I praise acting A.G. Blanche's management of this Herculean task. I said his ethics are beyond reproach and that he is an incredible attorney general.\n\nSo she's taking issue --\n\nHAJJAR: But let's zoom out here.\n\nCORNISH: She didn't even let me get it out. You're new here, okay? But you're just, you're not buying it.\n\nHAJJAR: Well -- again, this is a creation. Republicans created this problem for themselves. They created it by talking about Epstein and making promises they couldn't keep on the campaign trail. A.G. Bondi at the time talked about a client list. And then you have a lot of voters who are really interested in seeing all these things. And then you have a botched rollout and that erodes trust. And that's going to be a problem for a lot of the people. They're going to be hearing from their constituents and then voting in these confirmation hearings.\n\nCORNISH: Yeah, and as long as Ghislaine Maxwell is like sitting in a comfier position, it feels like that constituency is not going to be appeased by the person who put there now being in charge.\n\nWILLIAMS: Absolutely. And I would also say two things can be true. She can be praising his management and ethics and also throwing him under the bus on a matter that is incredibly popular or unpopular with a bipartisan selection of Americans. People are not happy on the right or left.\n\nThe only small little bit of what I will give Pam Bondi is that within the Justice Department, the deputy attorney general, which he was at the time, is the office that would do something like this.\n\nWILLIAMS: It's the office that runs the department and would be overseeing a major investigation like that. Now, that said, look, if it were a terrorist attack or an assassination on the president, you don't get to say, oh, the other guy was doing it. At a certain point, you have to own what's happening in the building. But yeah, she's right. On practice, he's the guy that would have overseen something like this.\n\nCORNISH: And transcripts are tough, like you said.\n\nAll right, you guys, I want to turn to one other thing, because when it comes to A.I., there's actually some lawyers getting in trouble because there are courts around the country beginning to challenge or even discipline attorneys for using fake case law that was made-up or hallucinated by artificial intelligence. Now, according to \"Reuters\", A.I. hallucinations caused disruptions in\n\nat least seven court cases in the last two years. One large national law firm even sent an urgent e-mail to every one of its attorneys warning artificial intelligence can invent fake case law and using made-up information in a court filing could get you fired. That's right. It's time to lawyer up with CNN legal analysts, Elliot Williams.\n\nWILLIAMS: A.I. touches every aspect of our lives. We can, you know, we talked about it earlier in the program with respect to data centers and so on, but it affects the legal profession. And every industry, including lawyers, is figuring out how to make it work.\n\nNow, a few lawyers in the Ninth Circuit in California got themselves in quite a bit of trouble getting sanctioned and barred from the court for six months for fabricating entire briefs with A.I. And when we use the term hallucinations, it's A.I. in effect making up facts making up information and A.I. made-up or at least fabricated the names of cases that these lawyers were citing which come on, that's the bare minimum that someone.\n\nCORNISH: OK, I'm going to -- well, first of all I actually know a little bit about this story because I remember it was back in a few years ago --\n\nCORNISH: -- Michael Cohen, who's turned on Trump, in some of his cases, he used Google Bard, right? And that was sort of a ha-ha funny thing at the time in that headline. But now when I look at lawyer surveys by \"Reuters\", this one was just last fall, 63 percent of lawyers are using it for work.\n\nAnd I'm not surprised because the whole point of legal stuff is like there's a wall of books behind you and one of them has a clue to winning your case. It's all about information retrieval.\n\nWILLIAMS: We need to ask everyone systemically in America needs to ask the question when we say use it for work, what does that mean?\n\nCORNISH: Yeah, but it like makes sense for lawyers.\n\nWILLIAMS: It makes sense for most things. So first is document review, the idea that many young associates make a lot of money having to go through documents and pull every time you see the word investment or bank. Well, A.I. can do that like that in a matter of moments.\n\nNow, when you start getting into the world of what are the cases I ought to be citing and either fabricating or just pulling information that you as a lawyer have not read, that's a problem. It's a problem for you, for your clients, but also your license. You are putting your name on something and swearing to something that you don't know to be true.\n\nCORNISH: The other thing I've been hearing is that people are overwhelming the courts because now they can file their stuff on their own because they have the A.I., right? You can just be like, oh, help me head of And now the courts are deluge with these like very extensively written complaints that someone has to go through.\n\nWILLIAMS: Yeah, one of the greatest things about our legal system is that there's a very low bar for getting in and we almost invite people to represent themselves either if they can't afford an attorney or if they choose to proceed without one. I think what's happening now is that someone can write a 500-page brief with lots of citations. I did. It can be done.\n\nYou can literally type in, please make this 499.4 pages long inside this thing --\n\nCORNISH: And now we know some of it might be wrong. So you literally have filed something massive to an overwhelmed court where there's probably a fake case in there.\n\nWILLIAMS: Right. And so, you know, again, I don't have the answers as to what what's ethical or not in any industry. It's for everybody to decide. But, you know, just think when you do a regular Google search, even not as a lawyer, A.I. comes up at the top.\n\nNow, are you citing to that thing or checking the site on your own? This is really a check for all, who are swearing to be ethical and transparent in court, but for everybody to look at what is this thing that I am asserting are my words, and it's just something that society needs to get a handle on before, you know, the robot overlords take us all over.\n\nCORNISH: See, Elliot, I thought you would be the one segment where I would not be discussing A.I.\n\nWILLIAMS: No, we have to. We have to.\n\nCORNISH: You really messed it up for me.\n\nNext on CNN THIS MORNING, we're going to be talking about the World Cup. There's been another snag for L.A. just one week ahead of the games. California Representative Sydney Kamlager-Dove joins us to talk about all things World Cup.\n\nAnd in the meantime, my friend Ari Shapiro on engagement party in our podcast episode drops this morning. Check it out.\n\nCORNISH: We are less than a week out from the first matches of the World Cup, and we're learning what role immigration officials will play, maybe.\n\n(BEGIN VIDEO CLIP) ROBERT LUNA, LOS ANGELES COUNTY SHERIFF: There will be federal agents. There are agencies represented here who have spoken because it's going to take all of us to make sure that the all the venues are scoped and unscoped events are secure. But in regards to civil immigration enforcement, they told us that specifically would not be occurring at any of the games. Any of that subject to change.\n\nCORNISH: Subject to change. That's kind of an important detail at the end. It's not exactly easing fears.\n\nAt SoFi Stadium near L.A., 2,000 hospitality workers are ready to go on strike, and ICE is one of the reasons.\n\nYOLANDA FIERRO, WORKER AT SOFI STADIUM: The main concern, first of all, is the ICE issue being on the grounds. Myself and my coworkers are a little bit scared for coming to work because I do have a lot of employees that are here on working visas from different countries. They're in fear of if I get snatched up by ICE, who's going to take care of my family?\n\nCORNISH: So joining the group chat, Democratic Congresswoman Sydney Kamlager-Dove of California.\n\nI know you've talked a lot about the World Cup, prices of tickets, things like that, we'll get to that. But can you talk about this comment from the L.A. sheriff and whether or not this eased fears? Because it's sounding like, certainly to those workers, they're still worried.\n\nREP. SYDNEY KAMLAGER-DOVE (D-CA): So last night I was reading some articles and you see pictures of all of these teams. They're deplaning and they seem very excited to get ready to participate at these games. And then you hear our sheriff say, well, we're going to do as much as we can to make sure folks are safe, but we kind of don't know if ICE is going to show up.\n\nAnd Los Angeles is still recovering from the ICE raids. We're recovering from our senator being, you know, jammed to the ground. We're recovering from young children running for cover in MacArthur Park.\n\nCORNISH: But there's new leadership at ICE and at Homeland Security. Are you not able to have a conversation? Have you not heard from them about what the plans are for an event of this scale?\n\nKAMLAGER-DOVE: Well, remember, ICE and CBP were putting ads on Facebook saying we will be at the World Cup. We will be watching you.\n[06:50:01]\nAnd we haven't gotten any clear direction from Homeland Security about ICE's role in any of these World Cups. And we do know that this administration is still in their feelings about Los Angeles as a blue city standing up to Donald Trump. At the end of the day, we should be celebrating these teams and celebrating this sport and not worried if our workers and fans are going to be snatched up and deported.\n\nCORNISH: The other thing fans are complaining about are ticket prices. I know you've also raised this, but I want to play for the audience, maybe for those who don't have tickets yet, what people are worried about. Here's one fan talking about it.\n\nJACK CLARK, CO-FOUNDER, ANTHROPIC: A lot of these games and these prices are beginning to rebound. For example, Brazil versus Morocco is up $100. Argentina, Austria is up $80. Portugal, Uzbekistan is up $75.\n\nAm I saying that every ticket's going to skyrocket? No. Some matches could even still get cheaper. But the idea that every World Cup ticket is guaranteed to drop before the kickoff isn't supported by the data that we're seeing.\n\nCORNISH: I know you and I think something like 60 other Congress members actually wrote a letter to FIFA about this. Have you heard back? What is it that you hope they would do?\n\nKAMLAGER-DOVE: Well, I think these ticket prices are, in technical terms, a hot mess for fans and for cities. We sent a letter, we haven't heard back from FIFA, but the issue is dynamic pricing.\n\nThe other issue is you buy a ticket, you don't know where that seat is going to be, you're spending over $1,000, and finally you get the seat and you're behind a post and you can't see anything.\n\nWe want to know why ticket prices are changing so dramatically from city to city. I want to know why cities aren't getting any financial support from the World Cup to actually put on the games because World Cup is getting everything -- concessions, merchandise, parking tickets. I mean, Infantino is taking the entire bag and we have gotten no information and in fact when we asked, then they raised tickets more. So what is going on with that?\n\nCORNISH: Okay, I have that same exact question, but for a different topic. The vote in California.\n\nKAMLAGER-DOVE: Yeah.\n\nCORNISH: Several panelists this week have been like, why does this take so long? I know that there are sort of state rules about being able to cast that vote right up until election day by mail, which means some are going to arrive later. But at a certain point, it feels as though it's absurd. Other blue states are able to get their counts in. KAMLAGER-DOVE: Well, we're a big state. We're a big state. We count every vote. It does take time. We have, I think, 58 counties.\n\nWe are close to being done. I think they're about 600,000 votes left to be counted.\n\nCORNISH: Oh, is that all? Do you have somewhere to go now?\n\nKAMLAGER-DOVE: We have like 35 million people in this state. And we want to be accurate. Yes, it does take a little long, but I would rather my vote be counted than have it be snatched up by a sheriff like Chad Bianco who's trying to suppress the vote. So --\n\nCORNISH: It will be this argument about suppressing the vote versus Trump sort of allegations and. Republican claims that, look, maybe this means there's cheating going on. The longer it goes, doesn't it open you up to speculation?\n\nKAMLAGER-DOVE: No, I don't think so. I mean, obviously, the California, we're continuing to work through challenges, but I have complete trust in our secretary of state. I've actually been to the L.A. County Registrar. I have toured the facility. I see how they count, how meticulous they are. I have complete confidence in our system.\n\nCORNISH: Okay. Our panel may jump in a bit, but I just wanted to ask you one other thing. I saw this moment. You're always good for an image in hearings, I think. Okay?\n\nAnd in this one, you had this back and forth with the Secretary of State Marco Rubio. And you were also talking about issues of transparency in the administration. I'm going to try and play a good section of it so people can see what happened.\n\nKAMLAGER-DOVE: Oh, dear.\n\nKAMLAGER-DOVE: We're talking pardons for sale. We're talking about no-bid contracts to those on Trump's family and friends plan. We're talking about a $1.8 billion slush fund.\n\nAnd I think that's corruption. The American people think that's corruption. They want to know if you think that's corruption.\n\nMARCO RUBIO, SECRETARY OF STATE: Okay. Number two, this goes right to the point of transparency. You're absolutely wrong about the way the money flows. It's pretty straightforward, and I'll share it.\n\nKAMLAGER-DOVE: So I'm going to have to reclaim my time again, because the question about corruption --\n\nRUBIO: They get to ask questions you don't get to answer? Why is she leaving? I'm going to answer her questions.\n\nUNIDENTIFIED FEMALE: I will -- RUBIO: Oh, she's -- OK, I got it. Well, thank you for coming.\n\nCORNISH: Why'd you leave?\n\nKAMLAGER-DOVE: I left because I had another hearing and Secretary Rubio, who used to be a senator, knows that. So my time was up. I couldn't get any more time. I had to go to my next committee.\n\nWhat you really saw was a secretary who was filibustering and upset because I was asking him for receipts. Five months ago, Donald, what you really saw was a secretary who was filibustering and upset because I was asking him for receipts. Five months ago, Donald Trump's administration commandeered Venezuelan oil, and we have had zero transparency into that money. The companies --\n\nCORNISH: They're supposed to go through the Treasury and things like that, right?\n\nKAMLAGER-DOVE: Right. There's supposed to be an audit we haven't seen it. There are companies that have gotten these confidential licenses. Who are they? One of them was investigated for bribery by the DOJ. There was an employee at one of them that gave Trump $6 million for his campaign. And we want to know. We want to see those receipts. And I was asking him about that, and he was filibustering, and he was obviously triggered.\n\nKING: Do you think voters really do care about corruption? Because I feel like this is really an outstanding question. What is going on in this administration, if you're following it carefully, is unbelievable.\n\nAnd yet, you don't really hear very much about it from people who are not constantly watching the news, constantly thinking about what the administration is doing. And I wonder, is it a winning issue to say corruption, corruption, corruption, or does it become exhausting?\n\nKAMLAGER-DOVE: It is exhausting, and my constituents believe that this is the most corrupt administration in American history. They were outraged by this $1.8 billion slush fund that could be going to January 6ers.\n\nYou have pardons for sale. You have no bid contracts going to people that are on Trump's family and friends plan. You have attorney generals and FBI secretaries that seem to be working for Donald Trump rather than the American people.\n\nAnd the American people say, hey, this guy just took away my health care. The gas prices are going up and he's getting an arch and he's getting a ballroom.\n\nCORNISH: You can hear the narrative sort of how it comes together. Yeah.\n\nKAMLAGER-DOVE: And now you have -- we don't even know how much money is being siphoned from the sale of this Venezuelan oil and we can't see into it.\n\nCORNISH: All right, welcome back to the Group Chat as well.\n\nWhat is going on in your group chats?\n\nKAMLAGER-DOVE: Pete Hegseth. So there is this video that came out and he was supposed to be exercising with the Marines and it looked like he was about to get cut from a chorus line.\n\nCORNISH: Well, what's been interesting about seeing the Pete Hegseth exercise videos is that people have reset them to other kinds of music. And you mentioned chorus line, it's happened in other things. To the point, very briefly, military recruitment is up. They have met their goals.\n\nKAMLAGER-DOVE: Okay, good for them. But I will also tell you that the Women's Caucus was trying to honor women veterans.\n\nKAMLAGER-DOVE: And it got shut down because of Pete Hegseth, because of DEI. So we can no longer celebrate women of color. We cannot celebrate women who are in the military. And that should shock and outrage everyone who wants to make sure that the most qualified, the most competent --\n\nCORNISH: Never mind the firings that people have been --\n\nKAMLAGER-DOVE: Exactly, or celebrated.\n\nCORNISH: Carine, can you tell me, \"Washington Post\" editorial board -- can you tell me what is in your group chat?\n\nHAJJAR: Well, what's in my group chat is something I think everyone can agree on, which is my dogs are adorable at home.\n\nCORNISH: I thought you were going to say \"Summer House\", which has been the most consistent group chat. Okay, animals. Let's do it.\n\nHAJJAR: On the left is our new family dog Luna, who is Rocky on the right's niece and My dad found out today, and this is what was in the group chat, or he found out this week, that she's been biting off the sprinkler heads in our yard. She's obsessed with water.\n\nSo they bought her another little sprinkler to keep her busy, but she's caused some damage.\n\nCORNISH: I don't know about this headline, loves water. was on metal appliances.\n\nHAJJAR: Kind of destructive but -- CORNISH: Elliot, for you?\n\nWILLIAMS: Keeping it as serious as that. So, you know, the NBA Finals game two tonight, but Elmo from Sesame Street weighed in, hoping that both teams had fun. And as a New York fan myself, this sticks me a little bit. Elmo hopes some of these teams as well. Knicks, that last message, Elmo didn't mean to spur you.\n\nBut it gets worse. New York fans are shredding Elmo, one of them saying, this is not the time for sportsmanship, Elmo. These streets aren't Sesame.\n\nWILLIAMS: I hope Elmo -- I hope Elmo gets priced out and has to move to New Jersey. And don't you dare forget your roots, you red little F.\n\nWILLIAMS: This is worse than going after the Pope. This is worse than going after the Pope.\n\nSo again, Knicks fan, not Knicks fan. It's still New York, but New York's going to New York, you know?\n\nCORNISH: So they're taking stuff for surfacing that important reporting.\n\nOK, Noel, last word to you.\n\nKING: My group chat is should I go see the movie \"Backrooms\", which is supposed to be terrible.\n\nCORNISH: No, I'm going to see it today. Yeah.\n\nKING: Okay, you tell me.\n\nCORNISH: Well, because from the YouTube meme to YouTube to Hollywood pipeline, you know about this, about studios, they'd be worried because if kids are making the films on their own, what can they say yes or no to? Are you going to see any of these horror films?\n\nKAMLAGER-DOVE: No. I live horror every day in the Congress.\n\nCORNISH: That's the back room of the House of Representatives is what you're saying.\n\nOkay, thanks to our group chat. Thank you, Congresswoman, for being here. We truly appreciate it.\n\nI'm Audie Cornish and stay with us because the headlines are next.",
+  "segments": [
+    {
+      "seg": 2,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-05/segment/02",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\n\"He Was In Charge\": Bondi Pins Epstein File Release On Blanche; L.A. Sheriff: ICE Enforcement Not Expected At World Cup Matches. Aired 6:30-7a ET\n\nAired June 05, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nAUDIE CORNISH, CNN ANCHOR: Acting Attorney General Todd Blanche will face a Senate confirmation hearing before he can officially take over as leader of the Justice Department. Did his former boss just make that a lot harder?\n\nThe House Oversight Committee just released a transcript of Pam Bondi's closed-door interview with lawmakers last week, and she was asked repeatedly about how the Justice Department handled the release of the Epstein files. And Bondi was quick to point out Blanche as the man in charge, telling lawmakers, quote, \"He was in charge of the process and the entire release of the Epstein files.\"\n\nThe Group Chat is back.\n\nThe reason why I wanted to talk about this is because characterizing what's on paper, right, we can't see it on video, is that is gold for political types.\n\nUNIDENTIFIED FEMALE: It is.\n\nCORNISH: We actually had a former Trump advisor on CNN last night and she thinks that this laid the groundwork for a tougher time in the confirmation process. I want to get your opinion after you hear.\n\nCAROLINE SUNSHINE, DEPUTY COMMUNICATIONS DIRECTOR, TRUMP'S 2024 CAMPAIGN: She used her time in that closed-door session where she was sworn under oath in front of Congress as the former attorney general and as Todd Blanche's former boss to say, he ran the whole process, and he was in charge of the whole release, and the Dow's at 50,000, right? And so she's now laid the groundwork for that to be a confirmation where Democrats can essentially have a lay-up and say, \"There's no way I could vote for this guy.\"\n\nELLIOT WILLIAMS, CNN LEGAL ANALYST: I don't think it's just Democrats. I think the issues that Todd Blanche's name is on right now are the Epstein files or just all things around it, the weaponization fund, and the prosecutions of opponents of the president that many of which are not popular with the public.\n\nHe's attached to those things. There are at least --\n\nCORNISH: Meaning it doesn't matter if she leaned in on it.\n\nWILLIAMS: It doesn't matter if she leaned on it.\n\nThere are probably eight senators who are either up for reelection or in their screw it YOLO phase. I'm doing whatever I want or just tough votes that Republicans need the votes of and they can't afford to lose a lot of them. The idea that this is just about Democrats, no, Republicans have a tough vote on you.\n\nCORNISH: Yeah, and to your point, Thom Tillis, who may be part of that, the BOLO YOLO, I call it, also \"Wall Street Journal\", wounded bear caucus, says it's not an automatic yes vote in the committee. And he wants Blanche's answer to a whole other issue, January 6th.\n\nSEN. THOM TILLIS (R-NC): The key for Todd or anybody going through Judiciary Committee is being pretty tight on January the 6th. They better not have said for one minute that the people that -- that beat up police officers like these right down here were righteous people. You come even close to saying that you don't have a chair of getting my vote in judiciary.\n\nCORNISH: Now I have to say Chuck Grassley is saying look, I actually think it's going to be fine. What are you guys hearing in your reporting? What do you see compared to what Elliott saying?\n\nCARINE HAJJAR, WASHINGTON POST EDITORIAL BOARD MEMBER: In terms of Blanche, I mean, I do think they're going to be complicated questions. And not only you have some Republicans who like Tillis who are bringing up Jan 6, who have been talking about the Weaponization Fund.\n\nBut again, Epstein has become a problem, not just it's not just a tool for Democrats to say, look at this botched rollout that happened under the Trump DOJ. But a lot of Republicans have been really upset about this, too. And I hear from Republican voters who are frustrated with how --\n\nCORNISH: There's like an Epstein voter, so to speak. I think they're a person who for which this is a litmus test on transparency, the thing ruling class. Yeah.\n\nNOEL KING, CO-HOST & EDITORIAL DIRECTOR, \"TODAY, EXPLAINED\" PODCAST: You need to be as far away from Epstein as you possibly can be. And Pam Bondi just shoved them into --\n\nCORNISH: No, not true, OK?\n\nPam Bondi was online on social media saying, not true. This is all caps. Okay, just so you know.\n\nTake a look, Noel. She said, I praise acting A.G. Blanche's management of this Herculean task. I said his ethics are beyond reproach and that he is an incredible attorney general.\n\nSo she's taking issue --\n\nHAJJAR: But let's zoom out here.\n\nCORNISH: She didn't even let me get it out. You're new here, okay? But you're just, you're not buying it.\n\nHAJJAR: Well -- again, this is a creation. Republicans created this problem for themselves. They created it by talking about Epstein and making promises they couldn't keep on the campaign trail. A.G. Bondi at the time talked about a client list. And then you have a lot of voters who are really interested in seeing all these things. And then you have a botched rollout and that erodes trust. And that's going to be a problem for a lot of the people. They're going to be hearing from their constituents and then voting in these confirmation hearings.\n\nCORNISH: Yeah, and as long as Ghislaine Maxwell is like sitting in a comfier position, it feels like that constituency is not going to be appeased by the person who put there now being in charge.\n\nWILLIAMS: Absolutely. And I would also say two things can be true. She can be praising his management and ethics and also throwing him under the bus on a matter that is incredibly popular or unpopular with a bipartisan selection of Americans. People are not happy on the right or left.\n\nThe only small little bit of what I will give Pam Bondi is that within the Justice Department, the deputy attorney general, which he was at the time, is the office that would do something like this.\n\nWILLIAMS: It's the office that runs the department and would be overseeing a major investigation like that. Now, that said, look, if it were a terrorist attack or an assassination on the president, you don't get to say, oh, the other guy was doing it. At a certain point, you have to own what's happening in the building. But yeah, she's right. On practice, he's the guy that would have overseen something like this.\n\nCORNISH: And transcripts are tough, like you said.\n\nAll right, you guys, I want to turn to one other thing, because when it comes to A.I., there's actually some lawyers getting in trouble because there are courts around the country beginning to challenge or even discipline attorneys for using fake case law that was made-up or hallucinated by artificial intelligence. Now, according to \"Reuters\", A.I. hallucinations caused disruptions in\n\nat least seven court cases in the last two years. One large national law firm even sent an urgent e-mail to every one of its attorneys warning artificial intelligence can invent fake case law and using made-up information in a court filing could get you fired. That's right. It's time to lawyer up with CNN legal analysts, Elliot Williams.\n\nWILLIAMS: A.I. touches every aspect of our lives. We can, you know, we talked about it earlier in the program with respect to data centers and so on, but it affects the legal profession. And every industry, including lawyers, is figuring out how to make it work.\n\nNow, a few lawyers in the Ninth Circuit in California got themselves in quite a bit of trouble getting sanctioned and barred from the court for six months for fabricating entire briefs with A.I. And when we use the term hallucinations, it's A.I. in effect making up facts making up information and A.I. made-up or at least fabricated the names of cases that these lawyers were citing which come on, that's the bare minimum that someone.\n\nCORNISH: OK, I'm going to -- well, first of all I actually know a little bit about this story because I remember it was back in a few years ago --\n\nCORNISH: -- Michael Cohen, who's turned on Trump, in some of his cases, he used Google Bard, right? And that was sort of a ha-ha funny thing at the time in that headline. But now when I look at lawyer surveys by \"Reuters\", this one was just last fall, 63 percent of lawyers are using it for work.\n\nAnd I'm not surprised because the whole point of legal stuff is like there's a wall of books behind you and one of them has a clue to winning your case. It's all about information retrieval.\n\nWILLIAMS: We need to ask everyone systemically in America needs to ask the question when we say use it for work, what does that mean?\n\nCORNISH: Yeah, but it like makes sense for lawyers.\n\nWILLIAMS: It makes sense for most things. So first is document review, the idea that many young associates make a lot of money having to go through documents and pull every time you see the word investment or bank. Well, A.I. can do that like that in a matter of moments.\n\nNow, when you start getting into the world of what are the cases I ought to be citing and either fabricating or just pulling information that you as a lawyer have not read, that's a problem. It's a problem for you, for your clients, but also your license. You are putting your name on something and swearing to something that you don't know to be true.\n\nCORNISH: The other thing I've been hearing is that people are overwhelming the courts because now they can file their stuff on their own because they have the A.I., right? You can just be like, oh, help me head of And now the courts are deluge with these like very extensively written complaints that someone has to go through.\n\nWILLIAMS: Yeah, one of the greatest things about our legal system is that there's a very low bar for getting in and we almost invite people to represent themselves either if they can't afford an attorney or if they choose to proceed without one. I think what's happening now is that someone can write a 500-page brief with lots of citations. I did. It can be done.\n\nYou can literally type in, please make this 499.4 pages long inside this thing --\n\nCORNISH: And now we know some of it might be wrong. So you literally have filed something massive to an overwhelmed court where there's probably a fake case in there.\n\nWILLIAMS: Right. And so, you know, again, I don't have the answers as to what what's ethical or not in any industry. It's for everybody to decide. But, you know, just think when you do a regular Google search, even not as a lawyer, A.I. comes up at the top.\n\nNow, are you citing to that thing or checking the site on your own? This is really a check for all, who are swearing to be ethical and transparent in court, but for everybody to look at what is this thing that I am asserting are my words, and it's just something that society needs to get a handle on before, you know, the robot overlords take us all over.\n\nCORNISH: See, Elliot, I thought you would be the one segment where I would not be discussing A.I.\n\nWILLIAMS: No, we have to. We have to.\n\nCORNISH: You really messed it up for me.\n\nNext on CNN THIS MORNING, we're going to be talking about the World Cup. There's been another snag for L.A. just one week ahead of the games. California Representative Sydney Kamlager-Dove joins us to talk about all things World Cup.\n\nAnd in the meantime, my friend Ari Shapiro on engagement party in our podcast episode drops this morning. Check it out.\n\nCORNISH: We are less than a week out from the first matches of the World Cup, and we're learning what role immigration officials will play, maybe.\n\n(BEGIN VIDEO CLIP) ROBERT LUNA, LOS ANGELES COUNTY SHERIFF: There will be federal agents. There are agencies represented here who have spoken because it's going to take all of us to make sure that the all the venues are scoped and unscoped events are secure. But in regards to civil immigration enforcement, they told us that specifically would not be occurring at any of the games. Any of that subject to change.\n\nCORNISH: Subject to change. That's kind of an important detail at the end. It's not exactly easing fears.\n\nAt SoFi Stadium near L.A., 2,000 hospitality workers are ready to go on strike, and ICE is one of the reasons.\n\nYOLANDA FIERRO, WORKER AT SOFI STADIUM: The main concern, first of all, is the ICE issue being on the grounds. Myself and my coworkers are a little bit scared for coming to work because I do have a lot of employees that are here on working visas from different countries. They're in fear of if I get snatched up by ICE, who's going to take care of my family?\n\nCORNISH: So joining the group chat, Democratic Congresswoman Sydney Kamlager-Dove of California.\n\nI know you've talked a lot about the World Cup, prices of tickets, things like that, we'll get to that. But can you talk about this comment from the L.A. sheriff and whether or not this eased fears? Because it's sounding like, certainly to those workers, they're still worried.\n\nREP. SYDNEY KAMLAGER-DOVE (D-CA): So last night I was reading some articles and you see pictures of all of these teams. They're deplaning and they seem very excited to get ready to participate at these games. And then you hear our sheriff say, well, we're going to do as much as we can to make sure folks are safe, but we kind of don't know if ICE is going to show up.\n\nAnd Los Angeles is still recovering from the ICE raids. We're recovering from our senator being, you know, jammed to the ground. We're recovering from young children running for cover in MacArthur Park.\n\nCORNISH: But there's new leadership at ICE and at Homeland Security. Are you not able to have a conversation? Have you not heard from them about what the plans are for an event of this scale?\n\nKAMLAGER-DOVE: Well, remember, ICE and CBP were putting ads on Facebook saying we will be at the World Cup. We will be watching you.\n[06:50:01]\nAnd we haven't gotten any clear direction from Homeland Security about ICE's role in any of these World Cups. And we do know that this administration is still in their feelings about Los Angeles as a blue city standing up to Donald Trump. At the end of the day, we should be celebrating these teams and celebrating this sport and not worried if our workers and fans are going to be snatched up and deported.\n\nCORNISH: The other thing fans are complaining about are ticket prices. I know you've also raised this, but I want to play for the audience, maybe for those who don't have tickets yet, what people are worried about. Here's one fan talking about it.\n\nJACK CLARK, CO-FOUNDER, ANTHROPIC: A lot of these games and these prices are beginning to rebound. For example, Brazil versus Morocco is up $100. Argentina, Austria is up $80. Portugal, Uzbekistan is up $75.\n\nAm I saying that every ticket's going to skyrocket? No. Some matches could even still get cheaper. But the idea that every World Cup ticket is guaranteed to drop before the kickoff isn't supported by the data that we're seeing.\n\nCORNISH: I know you and I think something like 60 other Congress members actually wrote a letter to FIFA about this. Have you heard back? What is it that you hope they would do?\n\nKAMLAGER-DOVE: Well, I think these ticket prices are, in technical terms, a hot mess for fans and for cities. We sent a letter, we haven't heard back from FIFA, but the issue is dynamic pricing.\n\nThe other issue is you buy a ticket, you don't know where that seat is going to be, you're spending over $1,000, and finally you get the seat and you're behind a post and you can't see anything.\n\nWe want to know why ticket prices are changing so dramatically from city to city. I want to know why cities aren't getting any financial support from the World Cup to actually put on the games because World Cup is getting everything -- concessions, merchandise, parking tickets. I mean, Infantino is taking the entire bag and we have gotten no information and in fact when we asked, then they raised tickets more. So what is going on with that?\n\nCORNISH: Okay, I have that same exact question, but for a different topic. The vote in California.\n\nKAMLAGER-DOVE: Yeah.\n\nCORNISH: Several panelists this week have been like, why does this take so long? I know that there are sort of state rules about being able to cast that vote right up until election day by mail, which means some are going to arrive later. But at a certain point, it feels as though it's absurd. Other blue states are able to get their counts in. KAMLAGER-DOVE: Well, we're a big state. We're a big state. We count every vote. It does take time. We have, I think, 58 counties.\n\nWe are close to being done. I think they're about 600,000 votes left to be counted.\n\nCORNISH: Oh, is that all? Do you have somewhere to go now?\n\nKAMLAGER-DOVE: We have like 35 million people in this state. And we want to be accurate. Yes, it does take a little long, but I would rather my vote be counted than have it be snatched up by a sheriff like Chad Bianco who's trying to suppress the vote. So --\n\nCORNISH: It will be this argument about suppressing the vote versus Trump sort of allegations and. Republican claims that, look, maybe this means there's cheating going on. The longer it goes, doesn't it open you up to speculation?\n\nKAMLAGER-DOVE: No, I don't think so. I mean, obviously, the California, we're continuing to work through challenges, but I have complete trust in our secretary of state. I've actually been to the L.A. County Registrar. I have toured the facility. I see how they count, how meticulous they are. I have complete confidence in our system.\n\nCORNISH: Okay. Our panel may jump in a bit, but I just wanted to ask you one other thing. I saw this moment. You're always good for an image in hearings, I think. Okay?\n\nAnd in this one, you had this back and forth with the Secretary of State Marco Rubio. And you were also talking about issues of transparency in the administration. I'm going to try and play a good section of it so people can see what happened.\n\nKAMLAGER-DOVE: Oh, dear.\n\nKAMLAGER-DOVE: We're talking pardons for sale. We're talking about no-bid contracts to those on Trump's family and friends plan. We're talking about a $1.8 billion slush fund.\n\nAnd I think that's corruption. The American people think that's corruption. They want to know if you think that's corruption.\n\nMARCO RUBIO, SECRETARY OF STATE: Okay. Number two, this goes right to the point of transparency. You're absolutely wrong about the way the money flows. It's pretty straightforward, and I'll share it.\n\nKAMLAGER-DOVE: So I'm going to have to reclaim my time again, because the question about corruption --\n\nRUBIO: They get to ask questions you don't get to answer? Why is she leaving? I'm going to answer her questions.\n\nUNIDENTIFIED FEMALE: I will -- RUBIO: Oh, she's -- OK, I got it. Well, thank you for coming.\n\nCORNISH: Why'd you leave?\n\nKAMLAGER-DOVE: I left because I had another hearing and Secretary Rubio, who used to be a senator, knows that. So my time was up. I couldn't get any more time. I had to go to my next committee.\n\nWhat you really saw was a secretary who was filibustering and upset because I was asking him for receipts. Five months ago, Donald, what you really saw was a secretary who was filibustering and upset because I was asking him for receipts. Five months ago, Donald Trump's administration commandeered Venezuelan oil, and we have had zero transparency into that money. The companies --\n\nCORNISH: They're supposed to go through the Treasury and things like that, right?\n\nKAMLAGER-DOVE: Right. There's supposed to be an audit we haven't seen it. There are companies that have gotten these confidential licenses. Who are they? One of them was investigated for bribery by the DOJ. There was an employee at one of them that gave Trump $6 million for his campaign. And we want to know. We want to see those receipts. And I was asking him about that, and he was filibustering, and he was obviously triggered.\n\nKING: Do you think voters really do care about corruption? Because I feel like this is really an outstanding question. What is going on in this administration, if you're following it carefully, is unbelievable.\n\nAnd yet, you don't really hear very much about it from people who are not constantly watching the news, constantly thinking about what the administration is doing. And I wonder, is it a winning issue to say corruption, corruption, corruption, or does it become exhausting?\n\nKAMLAGER-DOVE: It is exhausting, and my constituents believe that this is the most corrupt administration in American history. They were outraged by this $1.8 billion slush fund that could be going to January 6ers.\n\nYou have pardons for sale. You have no bid contracts going to people that are on Trump's family and friends plan. You have attorney generals and FBI secretaries that seem to be working for Donald Trump rather than the American people.\n\nAnd the American people say, hey, this guy just took away my health care. The gas prices are going up and he's getting an arch and he's getting a ballroom.\n\nCORNISH: You can hear the narrative sort of how it comes together. Yeah.\n\nKAMLAGER-DOVE: And now you have -- we don't even know how much money is being siphoned from the sale of this Venezuelan oil and we can't see into it.\n\nCORNISH: All right, welcome back to the Group Chat as well.\n\nWhat is going on in your group chats?\n\nKAMLAGER-DOVE: Pete Hegseth. So there is this video that came out and he was supposed to be exercising with the Marines and it looked like he was about to get cut from a chorus line.\n\nCORNISH: Well, what's been interesting about seeing the Pete Hegseth exercise videos is that people have reset them to other kinds of music. And you mentioned chorus line, it's happened in other things. To the point, very briefly, military recruitment is up. They have met their goals.\n\nKAMLAGER-DOVE: Okay, good for them. But I will also tell you that the Women's Caucus was trying to honor women veterans.\n\nKAMLAGER-DOVE: And it got shut down because of Pete Hegseth, because of DEI. So we can no longer celebrate women of color. We cannot celebrate women who are in the military. And that should shock and outrage everyone who wants to make sure that the most qualified, the most competent --\n\nCORNISH: Never mind the firings that people have been --\n\nKAMLAGER-DOVE: Exactly, or celebrated.\n\nCORNISH: Carine, can you tell me, \"Washington Post\" editorial board -- can you tell me what is in your group chat?\n\nHAJJAR: Well, what's in my group chat is something I think everyone can agree on, which is my dogs are adorable at home.\n\nCORNISH: I thought you were going to say \"Summer House\", which has been the most consistent group chat. Okay, animals. Let's do it.\n\nHAJJAR: On the left is our new family dog Luna, who is Rocky on the right's niece and My dad found out today, and this is what was in the group chat, or he found out this week, that she's been biting off the sprinkler heads in our yard. She's obsessed with water.\n\nSo they bought her another little sprinkler to keep her busy, but she's caused some damage.\n\nCORNISH: I don't know about this headline, loves water. was on metal appliances.\n\nHAJJAR: Kind of destructive but -- CORNISH: Elliot, for you?\n\nWILLIAMS: Keeping it as serious as that. So, you know, the NBA Finals game two tonight, but Elmo from Sesame Street weighed in, hoping that both teams had fun. And as a New York fan myself, this sticks me a little bit. Elmo hopes some of these teams as well. Knicks, that last message, Elmo didn't mean to spur you.\n\nBut it gets worse. New York fans are shredding Elmo, one of them saying, this is not the time for sportsmanship, Elmo. These streets aren't Sesame.\n\nWILLIAMS: I hope Elmo -- I hope Elmo gets priced out and has to move to New Jersey. And don't you dare forget your roots, you red little F.\n\nWILLIAMS: This is worse than going after the Pope. This is worse than going after the Pope.\n\nSo again, Knicks fan, not Knicks fan. It's still New York, but New York's going to New York, you know?\n\nCORNISH: So they're taking stuff for surfacing that important reporting.\n\nOK, Noel, last word to you.\n\nKING: My group chat is should I go see the movie \"Backrooms\", which is supposed to be terrible.\n\nCORNISH: No, I'm going to see it today. Yeah.\n\nKING: Okay, you tell me.\n\nCORNISH: Well, because from the YouTube meme to YouTube to Hollywood pipeline, you know about this, about studios, they'd be worried because if kids are making the films on their own, what can they say yes or no to? Are you going to see any of these horror films?\n\nKAMLAGER-DOVE: No. I live horror every day in the Congress.\n\nCORNISH: That's the back room of the House of Representatives is what you're saying.\n\nOkay, thanks to our group chat. Thank you, Congresswoman, for being here. We truly appreciate it.\n\nI'm Audie Cornish and stay with us because the headlines are next."
+    }
+  ]
+}
