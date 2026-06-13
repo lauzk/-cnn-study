@@ -143,6 +143,11 @@ def fetch_transcript(date_str: str, seg: int) -> tuple[str, dict]:
             body_text = re.sub(r'[ \t]+', ' ', body_text)
             body_text = re.sub(r'\n{3,}', '\n\n', body_text)
             body_text = body_text.strip()
+
+# ↓ 在这里加入这两行
+body_text = re.sub(r'\s*(\[\d{2}:\d{2}:\d{2}\])\s*', r'\n\1\n', body_text)
+body_text = re.sub(r'\n{3,}', '\n\n', body_text).strip()
+            
             print(f'      策略1成功，长度 {len(body_text)}')
         else:
             print(f'      策略1失败，尝试自定义解析器...')
@@ -152,6 +157,10 @@ def fetch_transcript(date_str: str, seg: int) -> tuple[str, dict]:
             if body_text:
                 body_text = re.sub(r'[ \t]+', ' ', body_text)
                 body_text = re.sub(r'\n{3,}', '\n\n', body_text).strip()
+
+                # ↓ 在这里加入这两行
+body_text = re.sub(r'\s*(\[\d{2}:\d{2}:\d{2}\])\s*', r'\n\1\n', body_text)
+body_text = re.sub(r'\n{3,}', '\n\n', body_text).strip()
                 print(f'      策略2成功，长度 {len(body_text)}')
 
         # 截断超长文本，控制Token
