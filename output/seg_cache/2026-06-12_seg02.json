@@ -1,0 +1,409 @@
+{
+  "date": "2026-06-12",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-12/segment/02",
+  "vocabulary": [
+    {
+      "word": "launder",
+      "phonetic": "/ˈlɔːndər/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "洗钱；洗刷（名声）",
+      "en": "to conceal the origins of money obtained illegally; to make something appear acceptable",
+      "excerpt": "the UFC helped launder Donald Trump's reputation following January 6th",
+      "example_cn": "UFC帮助洗刷了特朗普在1月6日事件后的声誉。"
+    },
+    {
+      "word": "culmination",
+      "phonetic": "/ˌkʌlmɪˈneɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "顶点；高潮",
+      "en": "the highest point or end of something, usually after a long period",
+      "excerpt": "This weekend, to me is the culmination of all of those kinds of efforts.",
+      "example_cn": "这个周末对我来说是所有这些努力的顶点。"
+    },
+    {
+      "word": "entanglement",
+      "phonetic": "/ɪnˈtæŋɡlmənt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "纠缠；牵连",
+      "en": "a complicated or compromising relationship or situation",
+      "excerpt": "it marks a new period of entanglement between them.",
+      "example_cn": "这标志着他们之间纠缠的新时期。"
+    },
+    {
+      "word": "backlash",
+      "phonetic": "/ˈbæklæʃ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "强烈反对； backlash",
+      "en": "a strong negative reaction by a large number of people",
+      "excerpt": "intense backlash over Bill Pulte, his initial pick",
+      "example_cn": "对他最初人选比尔·普尔特的强烈反对。"
+    },
+    {
+      "word": "baseless",
+      "phonetic": "/ˈbeɪsləs/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "无根据的",
+      "en": "not based on facts or evidence",
+      "excerpt": "the administration's baseless claims of fraud",
+      "example_cn": "政府关于欺诈的无根据指控。"
+    },
+    {
+      "word": "unorthodox",
+      "phonetic": "/ʌnˈɔːrθədɑːks/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "非正统的；异端的",
+      "en": "different from what is usual or accepted",
+      "excerpt": "how unorthodox perhaps those comments are",
+      "example_cn": "那些评论可能有多么非正统。"
+    },
+    {
+      "word": "cast doubt upon",
+      "phonetic": "/kæst daʊt əˈpɒn/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "对…产生怀疑",
+      "en": "to make people uncertain about something",
+      "excerpt": "it might cast doubt upon the election.",
+      "example_cn": "这可能会对选举产生怀疑。"
+    },
+    {
+      "word": "alarm bells",
+      "phonetic": "/əˈlɑːrm belz/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "警钟；引起警惕",
+      "en": "a warning sign that something is wrong",
+      "excerpt": "those comments that are raising alarm bells.",
+      "example_cn": "那些引起警惕的评论。"
+    },
+    {
+      "word": "stack up",
+      "phonetic": "/stæk ʌp/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "相比；较量",
+      "en": "to compare with someone or something else",
+      "excerpt": "How does he stack up?",
+      "example_cn": "他相比如何？"
+    },
+    {
+      "word": "fiasco",
+      "phonetic": "/fiˈæskoʊ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "惨败；大失败",
+      "en": "a complete failure, often in a ridiculous way",
+      "excerpt": "the whole Epstein fiasco",
+      "example_cn": "整个爱泼斯坦丑闻。"
+    },
+    {
+      "word": "zero in on",
+      "phonetic": "/ˈzɪroʊ ɪn ɒn/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "集中注意力于；瞄准",
+      "en": "to focus all your attention on something",
+      "excerpt": "the President has really zeroed in on",
+      "example_cn": "总统确实集中关注了这一点。"
+    },
+    {
+      "word": "audition",
+      "phonetic": "/ɔːˈdɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "试镜；试演",
+      "en": "a short performance to test the suitability of a performer",
+      "excerpt": "a soft audition for that role",
+      "example_cn": "对该角色的温和试镜。"
+    },
+    {
+      "word": "snag",
+      "phonetic": "/snæɡ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "障碍；小问题",
+      "en": "a small problem or difficulty",
+      "excerpt": "President Trump's big birthday bash for America hitting another snag.",
+      "example_cn": "特朗普总统为美国举办的盛大生日派对又遇到了障碍。"
+    },
+    {
+      "word": "bow out",
+      "phonetic": "/baʊ aʊt/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "退出；辞职",
+      "en": "to leave a job or stop taking part in something",
+      "excerpt": "six states are now bowing out.",
+      "example_cn": "六个州现在退出。"
+    },
+    {
+      "word": "taint",
+      "phonetic": "/teɪnt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "污染；玷污",
+      "en": "to spoil something or make it less pure",
+      "excerpt": "politics will or have already tainted the celebration.",
+      "example_cn": "政治将会或已经玷污了庆祝活动。"
+    },
+    {
+      "word": "partisan",
+      "phonetic": "/ˈpɑːrtɪzən/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "党派的；偏袒的",
+      "en": "strongly supporting a particular political party or group",
+      "excerpt": "a more partisan affair than originally presented.",
+      "example_cn": "比最初呈现的更党派化的事件。"
+    },
+    {
+      "word": "stoke",
+      "phonetic": "/stoʊk/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "煽动；激起",
+      "en": "to make something increase or become more intense",
+      "excerpt": "wanting to stoke some of these fears",
+      "example_cn": "想要煽动这些恐惧。"
+    },
+    {
+      "word": "in the wake of",
+      "phonetic": "/ɪn ðə weɪk ɒv/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "在…之后；作为…的结果",
+      "en": "after something, usually something bad",
+      "excerpt": "in the wake of all that backlash",
+      "example_cn": "在所有这些反对之后。"
+    },
+    {
+      "word": "snow globe",
+      "phonetic": "/snoʊ ɡloʊb/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "雪花玻璃球；比喻混乱状态",
+      "en": "a transparent sphere containing a miniature scene and artificial snow; used metaphorically for a chaotic situation",
+      "excerpt": "This whole world is like a snow globe",
+      "example_cn": "整个世界就像一个雪花玻璃球。"
+    },
+    {
+      "word": "drag into",
+      "phonetic": "/dræɡ ˈɪntuː/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "把…拖入",
+      "en": "to involve someone or something in a situation that they do not want to be involved in",
+      "excerpt": "music is dragged into politics.",
+      "example_cn": "音乐被拖入政治。"
+    },
+    {
+      "word": "laughable",
+      "phonetic": "/ˈlæfəbl/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "可笑的；荒唐的",
+      "en": "so silly that it makes you laugh",
+      "excerpt": "is kind of laughable.",
+      "example_cn": "有点可笑。"
+    },
+    {
+      "word": "etch",
+      "phonetic": "/etʃ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "蚀刻；铭刻",
+      "en": "to cut a pattern or picture into a surface",
+      "excerpt": "etched 8647 into the grass",
+      "example_cn": "在草地上蚀刻了8647。"
+    },
+    {
+      "word": "vandalism",
+      "phonetic": "/ˈvændəlɪzəm/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "故意破坏公共财物",
+      "en": "the crime of intentionally damaging property",
+      "excerpt": "a case of vandalism on the National Mall.",
+      "example_cn": "国家广场上的一起故意破坏案件。"
+    },
+    {
+      "word": "deranged",
+      "phonetic": "/dɪˈreɪndʒd/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "疯狂的；精神错乱的",
+      "en": "behaving in a wild or strange way, especially because of mental illness",
+      "excerpt": "deranged vandalism",
+      "example_cn": "疯狂的破坏行为。"
+    },
+    {
+      "word": "on its face",
+      "phonetic": "/ɒn ɪts feɪs/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "表面上；从表面看",
+      "en": "based on what appears to be true, without looking deeper",
+      "excerpt": "on its face, it's not a threat",
+      "example_cn": "从表面上看，这不是威胁。"
+    },
+    {
+      "word": "blurry",
+      "phonetic": "/ˈblɜːri/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "模糊的",
+      "en": "not clear; difficult to see or understand",
+      "excerpt": "The line between that can be quite blurry.",
+      "example_cn": "两者之间的界限可能相当模糊。"
+    },
+    {
+      "word": "consecrate",
+      "phonetic": "/ˈkɑːnsɪkreɪt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "奉献；使神圣",
+      "en": "to officially make something holy or to give something to God",
+      "excerpt": "the US Catholic Bishops did just consecrate the United States to the Sacred Heart of Jesus.",
+      "example_cn": "美国天主教主教刚刚将美国奉献给耶稣圣心。"
+    },
+    {
+      "word": "runway",
+      "phonetic": "/ˈrʌnweɪ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "跑道；准备时间",
+      "en": "a period of time to prepare for something",
+      "excerpt": "we had a runway since about 2018",
+      "example_cn": "我们从2018年左右就有了准备时间。"
+    },
+    {
+      "word": "propel",
+      "phonetic": "/prəˈpel/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "推动；驱动",
+      "en": "to push or move something forward",
+      "excerpt": "propel the team forward.",
+      "example_cn": "推动团队前进。"
+    },
+    {
+      "word": "fly under the radar",
+      "phonetic": "/flaɪ ˈʌndər ðə ˈreɪdɑːr/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "不引人注意；低调",
+      "en": "to not be noticed or detected",
+      "excerpt": "He's someone, I think, is flying under the radar.",
+      "example_cn": "我认为他是一个低调的人。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "You could even argue maybe that it's not so much a one and done kind of an event, although that's what they're suggesting, but that rather it marks a new period of entanglement between them.",
+      "cn": "你甚至可以说，这与其说是一次性的事件（尽管他们暗示如此），不如说标志着他们之间纠缠的新时期。",
+      "structure": "主句+宾语从句（that...）+让步状语从句（although...）+转折（but rather...）",
+      "analysis": "主句为'You could even argue'，后接宾语从句'that it's not so much...but rather...'。'not so much...but rather'结构表示'与其说……不如说……'。'although that's what they're suggesting'为让步状语从句。"
+    },
+    {
+      "en": "What was very interesting was the UFC helped launder Donald Trump's reputation following January 6th all the way through into 2024, when they helped boost his candidacy.",
+      "cn": "非常有趣的是，UFC在1月6日事件后帮助洗刷了唐纳德·特朗普的声誉，一直持续到2024年，当时他们帮助提升了他的候选人资格。",
+      "structure": "主语从句（What was very interesting）+系动词+表语从句（the UFC helped...）+时间状语从句（when...）",
+      "analysis": "主语从句'What was very interesting'作主语，系动词'was'后接表语从句'the UFC helped...'。'following January 6th'为时间状语，'all the way through into 2024'为时间范围，'when they helped boost his candidacy'为非限制性定语从句修饰2024。"
+    },
+    {
+      "en": "I get asked all the time, do you think the UFC risks being seen as political? I'm like, risk is being seen.",
+      "cn": "我经常被问到，你认为UFC有被视为政治化的风险吗？我的回答是，它已经被视为政治化了。",
+      "structure": "主句（I get asked）+直接引语（do you think...）+省略句（I'm like...）",
+      "analysis": "第一句为被动语态，'get asked'后接直接引语。第二句'I'm like'为口语化表达，相当于'I say'，后接省略句'risk is being seen'，意为'风险已经被看到了'，即已经政治化了。"
+    },
+    {
+      "en": "There are Department of Justice regulations specifically designed to prevent those kind of statements and that kind of activity, because the department and lawyers, and election experts, have long viewed that kind of behavior by the Justice Department as dangerous because it might cast doubt upon the election.",
+      "cn": "司法部有专门旨在防止此类言论和活动的规定，因为该部门、律师和选举专家长期以来一直认为司法部的此类行为是危险的，因为它可能会对选举产生怀疑。",
+      "structure": "There be句型+过去分词短语作定语（designed to...）+原因状语从句（because...）+宾语补足语（viewed...as...）+原因状语从句（because...）",
+      "analysis": "主句为'There are...regulations'，'designed to...'修饰regulations。第一个'because'引导原因状语从句，其中'viewed...as dangerous'为动词+宾语+宾补结构。第二个'because'引导原因状语从句解释为何危险。"
+    },
+    {
+      "en": "And like everything that, or many things that the President does, it's based on who he likes and how loyal he believes they are.",
+      "cn": "就像总统所做的所有事情，或者说许多事情一样，这基于他喜欢谁以及他认为他们有多忠诚。",
+      "structure": "介词短语（Like...）+插入语（or many things...）+主句（it's based on...）+宾语从句（who...and how...）",
+      "analysis": "'Like everything that...'为介词短语作状语，'that the President does'为定语从句修饰everything。插入语'or many things that the President does'补充说明。主句'it's based on'后接两个并列的宾语从句：'who he likes'和'how loyal he believes they are'。"
+    },
+    {
+      "en": "And I think it helps to understand what's happening here if you just realize that the DNI in Trump's mind is an election investigating operation, which I think a lot of intelligence officials would say that's only a pretty small part of the DNI's job.",
+      "cn": "我认为，如果你意识到在特朗普心目中，国家情报总监是一个选举调查机构，这有助于理解这里发生的事情，而我认为许多情报官员会说这只是国家情报总监工作中很小的一部分。",
+      "structure": "主句（I think）+宾语从句（it helps to understand...）+条件状语从句（if you realize...）+宾语从句（that the DNI...）+非限制性定语从句（which...）+插入语（I think）+宾语从句（that's...）",
+      "analysis": "主句'I think'后接宾语从句'it helps to understand...'。'if you realize...'为条件状语从句，其中'that the DNI...'为realize的宾语从句。'which'引导非限制性定语从句修饰'operation'，其中包含插入语'I think'和宾语从句'that's...'。"
+    },
+    {
+      "en": "I think the question is, once he takes the job or if he gets confirmed, how far is he willing to go for the President?",
+      "cn": "我认为问题是，一旦他上任或者如果他获得确认，他愿意为总统走多远？",
+      "structure": "主句（I think）+表语从句（the question is...）+时间/条件状语从句（once...or if...）+直接引语（how far...）",
+      "analysis": "主句'I think'后接表语从句'the question is'，其后直接引语'how far...'作表语。'once he takes the job'和'if he gets confirmed'为并列的状语从句。"
+    },
+    {
+      "en": "But I think just by the nature of what you look in the grand scheme of things overall, this is a great celebration of our country's founding, and we should come to Washington and take part in it.",
+      "cn": "但我认为，从整体大局来看，这是一场伟大的国家建国庆典，我们应该来华盛顿参加。",
+      "structure": "主句（I think）+介词短语（by the nature of...）+宾语从句（what you look...）+并列句（this is...and we should...）",
+      "analysis": "主句'I think'后省略了that。'by the nature of...'为方式状语，其中'what you look...'为宾语从句。'in the grand scheme of things overall'为插入语。主句后为两个并列的句子：'this is...'和'we should...'。"
+    },
+    {
+      "en": "And I think the other part of this, Erica, is that there are so many states in this country that have felt attacked by this president because they have been attacked by this president figuratively and literally.",
+      "cn": "我认为另一部分，埃里卡，是这个国家有这么多州感到被这位总统攻击，因为他们确实在比喻和字面意义上受到了这位总统的攻击。",
+      "structure": "主句（I think）+表语从句（the other part...is that...）+定语从句（that have felt...）+原因状语从句（because...）",
+      "analysis": "主句'I think'后接表语从句'the other part...is that...'。'that have felt attacked'为定语从句修饰states。'because...'为原因状语从句，其中'figuratively and literally'为并列状语。"
+    },
+    {
+      "en": "And I think now you see there's over 40 players that have gone through the MLS academies, and MLS that are playing in the tournament.",
+      "cn": "我认为现在你看到有超过40名球员经历过MLS青训营，并且MLS有球员正在参加锦标赛。",
+      "structure": "主句（I think）+宾语从句（you see...）+并列结构（there's...and...）",
+      "analysis": "主句'I think'后接宾语从句'you see...'。宾语从句中为并列结构：'there's over 40 players that...'和'MLS that...'。第一个'that'引导定语从句修饰players，第二个'that'引导定语从句修饰MLS（指MLS的球员）。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "UFC与特朗普的政治联盟",
+      "content": "UFC（终极格斗冠军赛）与特朗普政府关系密切，UFC帮助特朗普在2021年1月6日国会山事件后恢复声誉，并在2024年大选中支持其竞选。这种联盟被视为政治化，引发媒体和公众讨论。",
+      "keywords": "UFC, Trump, political alliance, reputation laundering, January 6th"
+    },
+    {
+      "title": "美国250周年庆典与政治分歧",
+      "content": "为庆祝美国建国250周年，特朗普总统提议举办“大美国州博览会”（Great American State Fair），但多个民主党州因费用和政治化担忧而退出。同时，特朗普将原计划的音乐会改为政治集会，进一步加剧了党派分歧。",
+      "keywords": "250th anniversary, Great American State Fair, partisan, Freedom 250, state fair"
+    },
+    {
+      "title": "2026年世界杯在美国举办",
+      "content": "2026年世界杯在北美举行，美国队首战对阵巴拉圭。前美国队队长卡洛斯·博卡内格拉讨论美国队的实力、球迷热情以及世界杯对美国足球发展的推动作用。",
+      "keywords": "World Cup 2026, US Men's National Team, soccer, MLS, Carlos Bocanegra"
+    },
+    {
+      "title": "国家广场草地刻字事件",
+      "content": "在国家广场草地上出现数字“8647”，该数字与反对特朗普的暗号有关，并涉及前FBI局长詹姆斯·科米的起诉。内政部称其为“疯狂的破坏行为”，并展开调查。",
+      "keywords": "National Mall, vandalism, 8647, Trump opposition, James Comey"
+    },
+    {
+      "title": "特朗普提名国家情报总监",
+      "content": "特朗普提名杰伊·克莱顿（Jay Clayton）担任国家情报总监，克莱顿现任纽约南区联邦检察官，缺乏情报背景但受特朗普信任。此前提名比尔·普尔特因无情报经验遭强烈反对。",
+      "keywords": "Director of National Intelligence, Jay Clayton, Bill Pulte, confirmation, intelligence experience"
+    },
+    {
+      "title": "司法部选举欺诈指控争议",
+      "content": "司法部官员公开承诺将提起选举欺诈指控，违反司法部规定，引发对选举公正性的担忧。评论认为特朗普政府利用司法部质疑选举结果。",
+      "keywords": "Department of Justice, election fraud, voter fraud, unorthodox, Trump administration"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nCelebrating 250; 2026 World Cup; Lawn Mystery. Aired 6:30-7a ET\n\nAired June 12, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nLUKE THOMAS, MIXED MARTIAL ARTS ANALYST: -- creating the union of these two identities or brands or, you know, between the UFC and between the Trump administration. You could even argue maybe that it's not so much a one and done kind of an event, although that's what they're suggesting, but that rather it marks a new period of entanglement between them.\n\nWhat was very interesting was the UFC helped launder Donald Trump's reputation following January 6th all the way through into 2024, when they helped boost his candidacy. And the mainstream media never made them pay for that. I was very, very surprised at the time.\n\nSo this is a thing that has been in motion for a very, very long time. I get asked all the time, do you think the UFC risks being seen as political? I'm like, risk is being seen. This has been an open thing for years at this point. This weekend, to me is the culmination of all of those kinds of efforts.\n\nHILL: Luke Thomas, really great to have you with your insight. Thank you.\n\nHILL: Still to come here on CNN THIS MORNING, in honor of the nation's 250th birthday, President Trump is staging a state fair in the nation's capital. But a number of states say they're not going to be able to join the party. We'll tell you why. Plus a round of severe weather, including tornadoes across multiple states, leaving thousands without power and also turning deadly.\n\nHILL: Good Friday morning, I'm Erica Hill. Nice to have you with us here on CNN THIS MORNING. Thirty five minutes past the hour now, here's a look at what's happening.\n\nOne person is dead amidst severe weather across the Midwest and Iowa. Those storms packing 70 to 90 mile per hour winds, that is what helped to kill, unfortunately, a 54-year-old man after he was struck by a tree in Des Moines. Meantime, a large tornado in Central Illinois caught on camera. Look at the size of this. Perhaps not surprisingly, it destroyed homes, leveled businesses. One man was rescued after being trapped under the rubble of his own home. More than 600,000 customers across nine states are waking up without power this morning.\n\nWall Street preparing now for the largest IPO in history as Space X makes its debut on the NASDAQ. Shares of the rocket company being offered at $135 each, that is set to raise some $75 billion and would also make founder, Elon Musk, the world's first billionaire.\n\nDonald Trump offering up a new pick for director of National Intelligence, nominating Jay Clayton, US attorney for the Southern District of New York. And this, of course, follows the intense backlash over Bill Pulte, his initial pick, who has zero intel experience. Though Trump says Pulte will stay in that interim role for the time being.\n\nDONALD TRUMP, UNITED STATES PRESIDENT: He's only there for a little while. He's running it for a short while we get a very talented person, Jay Clayton. As you know, Jay Clayton is an incredible talent, head of Sullivan & Cromwell. He was head of the SEC.\n\nHe was now Southern District. I mean, nobody has better credentials. But Bill will run for sure. Well --\n\nHILL: The Senate had scheduled a confirmation hearing for Clayton for next week. So just what do we know about Trump's new choice to take over as director of National Intelligence? Well, Jay Clayton is, as I noted, currently the US attorney for the Southern District of New York.\n\nHe's also spent time over the past weeks joking the administration's baseless claims of fraud when it comes to voting by mail in California's elections. Take a listen.\n\nJAY CLAYTON, US ATTORNEY, SOUTHERN DISTRICT OF NEW YORK: It makes the opportunity for fraud so much greater when that is not necessary. It is not necessary for ballot access.\n\nUNIDENTIFIED MALE: Is mail in voting being used by one group and not another?\n\nHILL: So he's not the only one here, the US attorney, in Los Angeles is now actually speculating about filing charges.\n\n(BEGIN VIDEO CLIP) BILL ESSAYLI, US ATTORNEY, CENTRAL DISTRICT OF CALIFORNIA: I will just say it will be election fraud charges in the next, I hate to put timelines on things, but one to two months, I believe. We need some of these results to be certified so we can, you know, prove some of the allegations. But we will be charging some people.\n\nHILL: Joining me to discuss Devlin Barrett, Justice Department reporter for the New York Times. He's also the author of the new book, \"The Department of Revenge: How Trump Took Control of American Justice.\"\n\nI mean, Devlin, can you just put into perspective for us how unorthodox perhaps those comments are that we just heard when it comes to this promise that charges are coming? I mean, that would just never happen, I mean, in the normal operation of the Department of Justice. We are no longer living in those times.\n\nDEVLIN BARRETT, JUSTICE DEPARTMENT REPORTER, NEW YORK TIMES: Well, that's exactly right. There are Department of Justice regulations specifically designed to prevent those kind of statements and that kind of activity, because the department and lawyers, and election experts, have long viewed that kind of behavior by the Justice Department as dangerous because it might, you know, cast doubt upon the election. But look, this is the Trump administration, and one of their core beliefs is casting doubt upon the election.\n\nAnd you see that not just with the comments in Los Angeles, but you see that with the comments by Jay Clayton. And in terms of Jay Clayton, there are those comments that are raising alarm bells. There are also questions about his qualifications for this role of DNI. How does he stack up?\n\nBARRETT: So, Jay Clayton is a very experienced Wall Street lawyer, a very experienced corporate lawyer, and he's been the head of the New York prosecutor's office for about a year or so. But he doesn't come with an intelligence background other than what he encountered in his most recent job.\n\nSo, you know, this isn't the resume certainly most people would pick to run an intelligence agency. But the most important credential he has is that Donald Trump trusts him. They golf together. Jay Clayton was assigned a sensitive part of the whole Epstein fiasco last year when the Justice Department was wrestling with that problem.\n\nAnd like everything that, or many things that the President does, it's based on who he likes and how loyal he believes they are.\n\nHILL: In terms of that loyalty, right, elections are key. So those comments that we heard from Jay Clayton are really important here because this president, right, has not given up, despite these baseless claims when it comes to election interference, election fraud. This is something that the President has really zeroed in on, and that we have seen become a focus on for this administration.\n\nBased on what we know about Jay Clayton, if he is, in fact, confirmed, how do you see that potentially intensifying?\n\nBARRETT: Well, so look, it's pretty clear at this point that the President likes to have the DNI pursuing voter fraud claims. We saw that with Tulsi Gabbard when she was the DNI, when she went to personally participate in an FBI search in Atlanta. That's very unusual.\n\nAnd I think it helps to understand what's happening here if you just realize that the DNI in Trump's mind is an election investigating operation, which I think a lot of intelligence officials would say that's only a pretty small part of the DNI's job.\n\nBut here it's the most important part because here it's what the President wants. And you see in Jay Clayton's public comments, which you showed, you see almost sort of a soft audition for that role. I think the question is, once he takes the job or if he gets confirmed, how far is he willing to go for the President?\n\nHILL: Yes. We Will see, too, what the line of questioning is in some of those hearings. Devlin, Barrett, great to have you with us this morning. Thank you. And just a reminder of Devlin's new book, \"The Department of Revenge: How Trump Took Control of American Justice.\"\n\nWell, President Trump's big birthday bash for America hitting another snag. So he had first pitched this idea of the Great American State Fair two years ago, billed as a patriotic world fair, but for states, to unite Americans.\n\nTRUMP: I will work with all 50 governors, Republican and Democrat alike, to create the Great American State Fair. The Great American State Fair will showcase the glory of every state in the union.\n\nHILL: Right? So why not? Sounds like a great idea. It turns out, though, that six states are now bowing out. Now, it's important to note all 50 states will still be represented in some way. But these six states have said it's just too much money for them to spend that total cost, somewhere between $70,000 and $100,000. And for most of those states, that was a major factor in the decision.\n\nMAURA HEALEY, MASSACHUSETTS GOVERNOR: Great American Fair, he invited all the states to participate and wants to charge us, charge us to go down and put something on his exhibit, whatever he's creating for Freedom 250. It's just ridiculous.\n\nHILL: There are also concerns that politics will or have already tainted the celebration. The spokesperson for Oregon's governor saying there are \"growing concerns\" that the event in Washington, DC is shaping up to be a more partisan affair than originally presented. And if that language sounds familiar, perhaps it should. As we remember the concert.\n\nThe panel is back. Look, there are concerns, and it's important to note this is not the broader America 250, which, you know, we see that logo everywhere. I mean, I see it in my town. There are banners up. That's separate from Freedom 250.\n\nRob, do you have concerns that this has become more partisan? I mean, this should be -- there should be no politics in the celebration of America's 250th birthday.\n\nROB BLUEY, PRESIDENT AND EXECUTIVE EDITOR, THE DAILY SIGNAL: That's right, Erica. I agree with you. I don't think that it should be a partisan event, and I don't think that the Great American State Fair was becoming partisan. Unfortunately, some of these Democrat governors seem that they want to pick a fight with Donald Trump and they're using the excuse of budget constraints to do so.\n\nI think it goes entirely to their disagreements with the President and wanting to stoke some of these fears in the minds of voters in their states that somehow the President is going to politicize this state fair. Now, you're right, Erica. There have been other concerns that certain aspects of the America 250th anniversary might be taking a more political tone.\n\nBut I think just by the nature of what you look in the grand scheme of things overall, this is a great celebration of our country's founding, and we should come to Washington and take part in it.\n\nHILL: You talk about some of those concerns. The President, you know, turning what was supposed to be a concert, a number of artists pulling out because they said they found out after the fact that this was more of a partisan event. He's now turning that into a rally.\n\nFlo Rida, Vanilla Ice, they're still going to participate. Vanilla Ice had some really interesting comments right here on CNN, in the wake of all that backlash and other artists canceling. I want to play his take on his decision to be a part of it.\n\nVANILLA ICE, PERFORMING AT FREEDOM 250 STATE FAIR: This is a huge honor to play the birthday. It's one in a lifetime, you know, 250. So I'm honored, and I just, you know, I respect everybody else.\n\nI know there's a lot of tension everywhere. This whole world is like a snow globe, but it shouldn't be that. And music is here to bring people together, man. And, you know, it shouldn't be that this music is dragged into politics. This is a moment to celebrate our country turning 250 years, no matter who puts it on.\n\nHILL: Maria, is that the answer? Is it really about, you know, individuals celebrating how they want to celebrate and not allowing it to become partisan?\n\nMARIA CARDONA, DEMOCRATIC STRATEGIST: It should be that way, Erica. But when you have somebody like Donald Trump who is focused on all of these celebrations and he's the one who's politicizing it. I mean, why did he have to create a Freedom 250 to begin with? Why couldn't he just have worked with the original group, America 250, to focus on making this a celebration for everyone? But he can't do that.\n\nAnd I think ultimately what Americans see is that, when Donald Trump gets involved with something, especially some kind of celebration, it's not about anything or anyone other than Donald Trump. And so that's why you have these states, I think, very concerned that they didn't want to participate in an event that was going to be exclusively partisan, especially when they were being made to pay for it.\n\nAnd I think the other part of this, Erica, is that there are so many states in this country that have felt attacked by this president because they have been attacked by this president figuratively and literally. And so, to then -- for Donald Trump to say that he wants to bring the country together is kind of laughable. And Americans just don't believe that he has it in him to do anything that is other than partisan and division, and focused on anything or anyone other than himself.\n\nHILL: We're going to have to leave that one there. Elliot, you are first for the next group chat, I promise, because we do have a lot more to come here, including a mystery on the National Mall. Just who etched 8647 into the grass? And is it a dig at President Trump just before his big birthday celebration on Sunday?\n\nUNIDENTIFIED FEMALE: I love all the World cup events going on around the city. Really build a sense of community.\n\nHILL: The World Cup finally kicking off across North America. The matches, you don't have to have one of those expensive tickets, by the way. Still plenty of ways to enjoy the excitement. Stay with us.\n\nUNIDENTIFIED FEMALE: I love all the World Cup events going on around the city. Really build a sense of community. But I'm super excited to watch my country win, Viva Mexico.\n\nUNIDENTIFIED FEMALE: I've been in US for a long time, but every time I see my flag that, the music, and today in Estadio Azteca, like I wanted to cry.\n\nHILL: I love it. So there is a lot of hope that the US team is going to bring fans just that same level of joy tonight. The World cup, of course, now officially in full swing. Game 1, Mexico defeating South Africa 2-0 in Mexico City. Tonight, the first games on US soil, Team USA taking on Paraguay. That's 9:00pm Eastern in Los Angeles.\n\nCarlos Bocanegra joins us now. He's the former captain of the US Men's National Soccer Team and also played for the team in the 2006 and 2010 World Cups, all right.\n\nFirst of all, let's call on that World cup experience. What is this moment like, right? The tournament finally kicks off. You're waiting all these years for it, what is the men's national team going through right now as they wait for that first match?\n\nCARLOS BOCANEGRA, FORMER CAPTAIN, US MEN'S NATIONAL SOCCER TEAM: A lot of excitement. I mean, these guys have been building up to it for a couple of years now. And so, you know, just for it to arrive that day, the butterflies, I think it's just going to be a release of emotion.\n\nAnd so, I think you'll see the first 10, 15 minutes, maybe a very hectic game, a very intense getting all their feelings out and getting all that energy out that they've been holding in. And it's on home soil, so it's got an even more special feeling to it. Their friends, their family, you know, the whole country behind them. So it's going to be a really cool experience.\n\nHILL: Certainly when you're doing it right on US soil, talk to me about what you've seen in terms of the level of excitement. There was a real hope, right, that with the World Cup being in North America, especially in the. In the US that this would really kind of light a fire under the love of the game here in the United States.\n\nWhat have you seen over the last couple of years building up to this moment?\n\nBOCANEGRA: Yes. I have, I think, we had a runway since about 2018 when it got announced that we would host the World Cup here in 2026. So we've had a bit of a runway, and I think leagues like MLS soccer have really used this platform to kind of generate the buzz, but generate interest, investment, building infrastructure, attracting players to come play in the league.\n\nSo it's done wonders for that. The academy systems in our country have really propelled forward as well, which is super important because that's what ultimately develops the players and puts them into our leagues as well as putting them into the national teams. And I think now you see there's over 40 players that have gone through the MLS academies, and MLS that are playing in the tournament.\n\nOver 100 former and current MLS players playing in this tournament. And so, you know, it's there. The fandom is there, the excitement is there, and it's really helped propel the game in our country, where, you know, it's not the number one sport in the United States, which is OK. But, you know, for this month it is.\n\nHILL: Yes, for this month it is. It's interesting, I think, you know, among women, you see such an interest in women's soccer, and that has sort of exploded in a lot of ways when we look at the men. Walk me through what you're seeing in this moment. What do you see as the men's team strengths and weaknesses for Team USA? What are you expecting from these guys?\n\nBOCANEGRA: Yes. The women have done a fantastic job, and that's been a great program. I think, you know, on the men's side, really still trying to win that first World Cup. But, you know, this team is energetic. They're one of the most talented teams we've ever had as a country. Now, that's -- individually, can we do it collectively?\n\nYou know, we've got players in the attack that can get goals. You know, the midfield seems pretty strong. I think the questions right now are around the defense, and we have a situation with the goalkeeper. Matt Freese is probably going to be the number one. It looks like that was not settled maybe until a couple months ago, which has not been the case traditionally for US goalkeeper has been our strongest position.\n\nThat doesn't mean Matt can't go out and have a fantastic tournament, but we will need him to have a big tournament. He's someone, I think, is flying under the radar. Great kid, great work ethic, and he's a good goalkeeper as well. So I think if he has a great tournament and sort of comes into his own, that's really going to give the backline some confidence and propel the team forward.\n\nHILL: A lot of great soccer certainly out there for the next several weeks, and it's great to have it here so close to home. Carlos, thanks so much for coming in this morning.\n\nBOCANEGRA: Thank you.\n\nHILL: Well, the National Park Service is now investigating a case of vandalism on the National Mall. So it appears a huge 8647, 8647 has somehow been etched into the grass on the mall just days before crowds, of course, are expected for the UFC fight at the White House. That phrase has been used to signal opposition to Trump.\n\nIt's at the heart of an indictment of former FBI Director James Comey. A spokesman for the Department of the Interior, which actually manages the National Mall, described the markings as deranged vandalism, which will not be tolerated.\n\nThe group chat is back. Elliot, as promised, I'm going to let you kick this one off. So in that same statement from the Interior Department, it went on to say, \"any threat against the president is taken very seriously by the department and that the US Park Police would investigate.\"\n\nIs this on the surface? And this really goes back to, you know, the discussion around James Comey, is this actually a threat against the president or is it just a protest?\n\nELLIOT WILLIAMS, CNN LEGAL ANALYST: I don't know. But on its face, it's not a threat against the president. But to be clear, and just the big picture on this is that free speech and free expression are always OK, threats never are.\n\nNow, the line between that can be quite blurry. And quite frankly, Erica, depends on context, right? If I'm at a baseball game and say, man, I'm going to kill this hot dog, that same statement has a very different meaning if I'm pointing a firearm at someone saying, man, I'm going to kill this person. And you have to look at, and investigators will have to look at the different circumstances surrounding any work of speech, including etching it into the lawn.\n\nIt might have been whatever we think of this speech, it might have been just a form of speech by itself, or it actually could have been a threat. And I think that is for investigators and prosecutors to really take a close look at.\n\nHILL: And Could be difficult to determine, Rob, quite honestly, right, because you also have to figure out who did it and when.\n\nBLUEY: That's true, Erica. And with all of the cameras that we have around Washington, DC you'd think that it might be relatively easy to figure out how this actually happened. I've seen some of the time lapse video.\n\nBut, Erica, I'd also say that, you know, I think it's so sad that here we are, as we just talked about during this hour, the 250th anniversary of the United States, that something like this is what people who are visiting our nation's capital will see. But to end on a hopeful note, the US Catholic Bishops did just consecrate the United States to the Sacred Heart of Jesus. So maybe we could all just use a moment to reflect on some of the positive things that are happening in our country as this anniversary approaches.\n\nHILL: That was an interesting turn, Rob. Maria, you've got the last 30 seconds.\n\nCARDONA: You know, I think that this is something that people should take a look at and say, let's try to come together. Let's actually try to come together for the country for the 250th anniversary. Let's try to do something that is completely the opposite of Donald Trump, and actually bring people together to celebrate our freedoms, to celebrate this country and the values it was founded on.\n\nHILL: I would like to thank the three of you for coming together on this Friday morning, because it's always a pleasure to see all three of you. I hope you all have a great weekend. We'll see you soon.\n\nCardona: Thanks, Erica.\n\nHILL: Thanks to all of you for joining us this morning, I'm Erica Hill. The headlines are next.",
+  "segments": [
+    {
+      "seg": 2,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-12/segment/02",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nCelebrating 250; 2026 World Cup; Lawn Mystery. Aired 6:30-7a ET\n\nAired June 12, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nLUKE THOMAS, MIXED MARTIAL ARTS ANALYST: -- creating the union of these two identities or brands or, you know, between the UFC and between the Trump administration. You could even argue maybe that it's not so much a one and done kind of an event, although that's what they're suggesting, but that rather it marks a new period of entanglement between them.\n\nWhat was very interesting was the UFC helped launder Donald Trump's reputation following January 6th all the way through into 2024, when they helped boost his candidacy. And the mainstream media never made them pay for that. I was very, very surprised at the time.\n\nSo this is a thing that has been in motion for a very, very long time. I get asked all the time, do you think the UFC risks being seen as political? I'm like, risk is being seen. This has been an open thing for years at this point. This weekend, to me is the culmination of all of those kinds of efforts.\n\nHILL: Luke Thomas, really great to have you with your insight. Thank you.\n\nHILL: Still to come here on CNN THIS MORNING, in honor of the nation's 250th birthday, President Trump is staging a state fair in the nation's capital. But a number of states say they're not going to be able to join the party. We'll tell you why. Plus a round of severe weather, including tornadoes across multiple states, leaving thousands without power and also turning deadly.\n\nHILL: Good Friday morning, I'm Erica Hill. Nice to have you with us here on CNN THIS MORNING. Thirty five minutes past the hour now, here's a look at what's happening.\n\nOne person is dead amidst severe weather across the Midwest and Iowa. Those storms packing 70 to 90 mile per hour winds, that is what helped to kill, unfortunately, a 54-year-old man after he was struck by a tree in Des Moines. Meantime, a large tornado in Central Illinois caught on camera. Look at the size of this. Perhaps not surprisingly, it destroyed homes, leveled businesses. One man was rescued after being trapped under the rubble of his own home. More than 600,000 customers across nine states are waking up without power this morning.\n\nWall Street preparing now for the largest IPO in history as Space X makes its debut on the NASDAQ. Shares of the rocket company being offered at $135 each, that is set to raise some $75 billion and would also make founder, Elon Musk, the world's first billionaire.\n\nDonald Trump offering up a new pick for director of National Intelligence, nominating Jay Clayton, US attorney for the Southern District of New York. And this, of course, follows the intense backlash over Bill Pulte, his initial pick, who has zero intel experience. Though Trump says Pulte will stay in that interim role for the time being.\n\nDONALD TRUMP, UNITED STATES PRESIDENT: He's only there for a little while. He's running it for a short while we get a very talented person, Jay Clayton. As you know, Jay Clayton is an incredible talent, head of Sullivan & Cromwell. He was head of the SEC.\n\nHe was now Southern District. I mean, nobody has better credentials. But Bill will run for sure. Well --\n\nHILL: The Senate had scheduled a confirmation hearing for Clayton for next week. So just what do we know about Trump's new choice to take over as director of National Intelligence? Well, Jay Clayton is, as I noted, currently the US attorney for the Southern District of New York.\n\nHe's also spent time over the past weeks joking the administration's baseless claims of fraud when it comes to voting by mail in California's elections. Take a listen.\n\nJAY CLAYTON, US ATTORNEY, SOUTHERN DISTRICT OF NEW YORK: It makes the opportunity for fraud so much greater when that is not necessary. It is not necessary for ballot access.\n\nUNIDENTIFIED MALE: Is mail in voting being used by one group and not another?\n\nHILL: So he's not the only one here, the US attorney, in Los Angeles is now actually speculating about filing charges.\n\n(BEGIN VIDEO CLIP) BILL ESSAYLI, US ATTORNEY, CENTRAL DISTRICT OF CALIFORNIA: I will just say it will be election fraud charges in the next, I hate to put timelines on things, but one to two months, I believe. We need some of these results to be certified so we can, you know, prove some of the allegations. But we will be charging some people.\n\nHILL: Joining me to discuss Devlin Barrett, Justice Department reporter for the New York Times. He's also the author of the new book, \"The Department of Revenge: How Trump Took Control of American Justice.\"\n\nI mean, Devlin, can you just put into perspective for us how unorthodox perhaps those comments are that we just heard when it comes to this promise that charges are coming? I mean, that would just never happen, I mean, in the normal operation of the Department of Justice. We are no longer living in those times.\n\nDEVLIN BARRETT, JUSTICE DEPARTMENT REPORTER, NEW YORK TIMES: Well, that's exactly right. There are Department of Justice regulations specifically designed to prevent those kind of statements and that kind of activity, because the department and lawyers, and election experts, have long viewed that kind of behavior by the Justice Department as dangerous because it might, you know, cast doubt upon the election. But look, this is the Trump administration, and one of their core beliefs is casting doubt upon the election.\n\nAnd you see that not just with the comments in Los Angeles, but you see that with the comments by Jay Clayton. And in terms of Jay Clayton, there are those comments that are raising alarm bells. There are also questions about his qualifications for this role of DNI. How does he stack up?\n\nBARRETT: So, Jay Clayton is a very experienced Wall Street lawyer, a very experienced corporate lawyer, and he's been the head of the New York prosecutor's office for about a year or so. But he doesn't come with an intelligence background other than what he encountered in his most recent job.\n\nSo, you know, this isn't the resume certainly most people would pick to run an intelligence agency. But the most important credential he has is that Donald Trump trusts him. They golf together. Jay Clayton was assigned a sensitive part of the whole Epstein fiasco last year when the Justice Department was wrestling with that problem.\n\nAnd like everything that, or many things that the President does, it's based on who he likes and how loyal he believes they are.\n\nHILL: In terms of that loyalty, right, elections are key. So those comments that we heard from Jay Clayton are really important here because this president, right, has not given up, despite these baseless claims when it comes to election interference, election fraud. This is something that the President has really zeroed in on, and that we have seen become a focus on for this administration.\n\nBased on what we know about Jay Clayton, if he is, in fact, confirmed, how do you see that potentially intensifying?\n\nBARRETT: Well, so look, it's pretty clear at this point that the President likes to have the DNI pursuing voter fraud claims. We saw that with Tulsi Gabbard when she was the DNI, when she went to personally participate in an FBI search in Atlanta. That's very unusual.\n\nAnd I think it helps to understand what's happening here if you just realize that the DNI in Trump's mind is an election investigating operation, which I think a lot of intelligence officials would say that's only a pretty small part of the DNI's job.\n\nBut here it's the most important part because here it's what the President wants. And you see in Jay Clayton's public comments, which you showed, you see almost sort of a soft audition for that role. I think the question is, once he takes the job or if he gets confirmed, how far is he willing to go for the President?\n\nHILL: Yes. We Will see, too, what the line of questioning is in some of those hearings. Devlin, Barrett, great to have you with us this morning. Thank you. And just a reminder of Devlin's new book, \"The Department of Revenge: How Trump Took Control of American Justice.\"\n\nWell, President Trump's big birthday bash for America hitting another snag. So he had first pitched this idea of the Great American State Fair two years ago, billed as a patriotic world fair, but for states, to unite Americans.\n\nTRUMP: I will work with all 50 governors, Republican and Democrat alike, to create the Great American State Fair. The Great American State Fair will showcase the glory of every state in the union.\n\nHILL: Right? So why not? Sounds like a great idea. It turns out, though, that six states are now bowing out. Now, it's important to note all 50 states will still be represented in some way. But these six states have said it's just too much money for them to spend that total cost, somewhere between $70,000 and $100,000. And for most of those states, that was a major factor in the decision.\n\nMAURA HEALEY, MASSACHUSETTS GOVERNOR: Great American Fair, he invited all the states to participate and wants to charge us, charge us to go down and put something on his exhibit, whatever he's creating for Freedom 250. It's just ridiculous.\n\nHILL: There are also concerns that politics will or have already tainted the celebration. The spokesperson for Oregon's governor saying there are \"growing concerns\" that the event in Washington, DC is shaping up to be a more partisan affair than originally presented. And if that language sounds familiar, perhaps it should. As we remember the concert.\n\nThe panel is back. Look, there are concerns, and it's important to note this is not the broader America 250, which, you know, we see that logo everywhere. I mean, I see it in my town. There are banners up. That's separate from Freedom 250.\n\nRob, do you have concerns that this has become more partisan? I mean, this should be -- there should be no politics in the celebration of America's 250th birthday.\n\nROB BLUEY, PRESIDENT AND EXECUTIVE EDITOR, THE DAILY SIGNAL: That's right, Erica. I agree with you. I don't think that it should be a partisan event, and I don't think that the Great American State Fair was becoming partisan. Unfortunately, some of these Democrat governors seem that they want to pick a fight with Donald Trump and they're using the excuse of budget constraints to do so.\n\nI think it goes entirely to their disagreements with the President and wanting to stoke some of these fears in the minds of voters in their states that somehow the President is going to politicize this state fair. Now, you're right, Erica. There have been other concerns that certain aspects of the America 250th anniversary might be taking a more political tone.\n\nBut I think just by the nature of what you look in the grand scheme of things overall, this is a great celebration of our country's founding, and we should come to Washington and take part in it.\n\nHILL: You talk about some of those concerns. The President, you know, turning what was supposed to be a concert, a number of artists pulling out because they said they found out after the fact that this was more of a partisan event. He's now turning that into a rally.\n\nFlo Rida, Vanilla Ice, they're still going to participate. Vanilla Ice had some really interesting comments right here on CNN, in the wake of all that backlash and other artists canceling. I want to play his take on his decision to be a part of it.\n\nVANILLA ICE, PERFORMING AT FREEDOM 250 STATE FAIR: This is a huge honor to play the birthday. It's one in a lifetime, you know, 250. So I'm honored, and I just, you know, I respect everybody else.\n\nI know there's a lot of tension everywhere. This whole world is like a snow globe, but it shouldn't be that. And music is here to bring people together, man. And, you know, it shouldn't be that this music is dragged into politics. This is a moment to celebrate our country turning 250 years, no matter who puts it on.\n\nHILL: Maria, is that the answer? Is it really about, you know, individuals celebrating how they want to celebrate and not allowing it to become partisan?\n\nMARIA CARDONA, DEMOCRATIC STRATEGIST: It should be that way, Erica. But when you have somebody like Donald Trump who is focused on all of these celebrations and he's the one who's politicizing it. I mean, why did he have to create a Freedom 250 to begin with? Why couldn't he just have worked with the original group, America 250, to focus on making this a celebration for everyone? But he can't do that.\n\nAnd I think ultimately what Americans see is that, when Donald Trump gets involved with something, especially some kind of celebration, it's not about anything or anyone other than Donald Trump. And so that's why you have these states, I think, very concerned that they didn't want to participate in an event that was going to be exclusively partisan, especially when they were being made to pay for it.\n\nAnd I think the other part of this, Erica, is that there are so many states in this country that have felt attacked by this president because they have been attacked by this president figuratively and literally. And so, to then -- for Donald Trump to say that he wants to bring the country together is kind of laughable. And Americans just don't believe that he has it in him to do anything that is other than partisan and division, and focused on anything or anyone other than himself.\n\nHILL: We're going to have to leave that one there. Elliot, you are first for the next group chat, I promise, because we do have a lot more to come here, including a mystery on the National Mall. Just who etched 8647 into the grass? And is it a dig at President Trump just before his big birthday celebration on Sunday?\n\nUNIDENTIFIED FEMALE: I love all the World cup events going on around the city. Really build a sense of community.\n\nHILL: The World Cup finally kicking off across North America. The matches, you don't have to have one of those expensive tickets, by the way. Still plenty of ways to enjoy the excitement. Stay with us.\n\nUNIDENTIFIED FEMALE: I love all the World Cup events going on around the city. Really build a sense of community. But I'm super excited to watch my country win, Viva Mexico.\n\nUNIDENTIFIED FEMALE: I've been in US for a long time, but every time I see my flag that, the music, and today in Estadio Azteca, like I wanted to cry.\n\nHILL: I love it. So there is a lot of hope that the US team is going to bring fans just that same level of joy tonight. The World cup, of course, now officially in full swing. Game 1, Mexico defeating South Africa 2-0 in Mexico City. Tonight, the first games on US soil, Team USA taking on Paraguay. That's 9:00pm Eastern in Los Angeles.\n\nCarlos Bocanegra joins us now. He's the former captain of the US Men's National Soccer Team and also played for the team in the 2006 and 2010 World Cups, all right.\n\nFirst of all, let's call on that World cup experience. What is this moment like, right? The tournament finally kicks off. You're waiting all these years for it, what is the men's national team going through right now as they wait for that first match?\n\nCARLOS BOCANEGRA, FORMER CAPTAIN, US MEN'S NATIONAL SOCCER TEAM: A lot of excitement. I mean, these guys have been building up to it for a couple of years now. And so, you know, just for it to arrive that day, the butterflies, I think it's just going to be a release of emotion.\n\nAnd so, I think you'll see the first 10, 15 minutes, maybe a very hectic game, a very intense getting all their feelings out and getting all that energy out that they've been holding in. And it's on home soil, so it's got an even more special feeling to it. Their friends, their family, you know, the whole country behind them. So it's going to be a really cool experience.\n\nHILL: Certainly when you're doing it right on US soil, talk to me about what you've seen in terms of the level of excitement. There was a real hope, right, that with the World Cup being in North America, especially in the. In the US that this would really kind of light a fire under the love of the game here in the United States.\n\nWhat have you seen over the last couple of years building up to this moment?\n\nBOCANEGRA: Yes. I have, I think, we had a runway since about 2018 when it got announced that we would host the World Cup here in 2026. So we've had a bit of a runway, and I think leagues like MLS soccer have really used this platform to kind of generate the buzz, but generate interest, investment, building infrastructure, attracting players to come play in the league.\n\nSo it's done wonders for that. The academy systems in our country have really propelled forward as well, which is super important because that's what ultimately develops the players and puts them into our leagues as well as putting them into the national teams. And I think now you see there's over 40 players that have gone through the MLS academies, and MLS that are playing in the tournament.\n\nOver 100 former and current MLS players playing in this tournament. And so, you know, it's there. The fandom is there, the excitement is there, and it's really helped propel the game in our country, where, you know, it's not the number one sport in the United States, which is OK. But, you know, for this month it is.\n\nHILL: Yes, for this month it is. It's interesting, I think, you know, among women, you see such an interest in women's soccer, and that has sort of exploded in a lot of ways when we look at the men. Walk me through what you're seeing in this moment. What do you see as the men's team strengths and weaknesses for Team USA? What are you expecting from these guys?\n\nBOCANEGRA: Yes. The women have done a fantastic job, and that's been a great program. I think, you know, on the men's side, really still trying to win that first World Cup. But, you know, this team is energetic. They're one of the most talented teams we've ever had as a country. Now, that's -- individually, can we do it collectively?\n\nYou know, we've got players in the attack that can get goals. You know, the midfield seems pretty strong. I think the questions right now are around the defense, and we have a situation with the goalkeeper. Matt Freese is probably going to be the number one. It looks like that was not settled maybe until a couple months ago, which has not been the case traditionally for US goalkeeper has been our strongest position.\n\nThat doesn't mean Matt can't go out and have a fantastic tournament, but we will need him to have a big tournament. He's someone, I think, is flying under the radar. Great kid, great work ethic, and he's a good goalkeeper as well. So I think if he has a great tournament and sort of comes into his own, that's really going to give the backline some confidence and propel the team forward.\n\nHILL: A lot of great soccer certainly out there for the next several weeks, and it's great to have it here so close to home. Carlos, thanks so much for coming in this morning.\n\nBOCANEGRA: Thank you.\n\nHILL: Well, the National Park Service is now investigating a case of vandalism on the National Mall. So it appears a huge 8647, 8647 has somehow been etched into the grass on the mall just days before crowds, of course, are expected for the UFC fight at the White House. That phrase has been used to signal opposition to Trump.\n\nIt's at the heart of an indictment of former FBI Director James Comey. A spokesman for the Department of the Interior, which actually manages the National Mall, described the markings as deranged vandalism, which will not be tolerated.\n\nThe group chat is back. Elliot, as promised, I'm going to let you kick this one off. So in that same statement from the Interior Department, it went on to say, \"any threat against the president is taken very seriously by the department and that the US Park Police would investigate.\"\n\nIs this on the surface? And this really goes back to, you know, the discussion around James Comey, is this actually a threat against the president or is it just a protest?\n\nELLIOT WILLIAMS, CNN LEGAL ANALYST: I don't know. But on its face, it's not a threat against the president. But to be clear, and just the big picture on this is that free speech and free expression are always OK, threats never are.\n\nNow, the line between that can be quite blurry. And quite frankly, Erica, depends on context, right? If I'm at a baseball game and say, man, I'm going to kill this hot dog, that same statement has a very different meaning if I'm pointing a firearm at someone saying, man, I'm going to kill this person. And you have to look at, and investigators will have to look at the different circumstances surrounding any work of speech, including etching it into the lawn.\n\nIt might have been whatever we think of this speech, it might have been just a form of speech by itself, or it actually could have been a threat. And I think that is for investigators and prosecutors to really take a close look at.\n\nHILL: And Could be difficult to determine, Rob, quite honestly, right, because you also have to figure out who did it and when.\n\nBLUEY: That's true, Erica. And with all of the cameras that we have around Washington, DC you'd think that it might be relatively easy to figure out how this actually happened. I've seen some of the time lapse video.\n\nBut, Erica, I'd also say that, you know, I think it's so sad that here we are, as we just talked about during this hour, the 250th anniversary of the United States, that something like this is what people who are visiting our nation's capital will see. But to end on a hopeful note, the US Catholic Bishops did just consecrate the United States to the Sacred Heart of Jesus. So maybe we could all just use a moment to reflect on some of the positive things that are happening in our country as this anniversary approaches.\n\nHILL: That was an interesting turn, Rob. Maria, you've got the last 30 seconds.\n\nCARDONA: You know, I think that this is something that people should take a look at and say, let's try to come together. Let's actually try to come together for the country for the 250th anniversary. Let's try to do something that is completely the opposite of Donald Trump, and actually bring people together to celebrate our freedoms, to celebrate this country and the values it was founded on.\n\nHILL: I would like to thank the three of you for coming together on this Friday morning, because it's always a pleasure to see all three of you. I hope you all have a great weekend. We'll see you soon.\n\nCardona: Thanks, Erica.\n\nHILL: Thanks to all of you for joining us this morning, I'm Erica Hill. The headlines are next."
+    }
+  ]
+}

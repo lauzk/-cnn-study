@@ -1,0 +1,514 @@
+{
+  "date": "2026-06-12",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-12/segment/01",
+  "vocabulary": [
+    {
+      "word": "tout",
+      "phonetic": "/taʊt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "吹捧，兜售",
+      "en": "to praise something or someone in order to make them seem attractive or successful",
+      "excerpt": "Trump Touts 'Great Settlement' with Iran, Calls Off Strikes",
+      "example_cn": "他到处吹嘘自己的新发明。"
+    },
+    {
+      "word": "jilted",
+      "phonetic": "/ˈdʒɪltɪd/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "被抛弃的",
+      "en": "rejected or abandoned by a lover or partner",
+      "excerpt": "Could Jilted GOP Lawmakers Turn on Trump's Agenda?",
+      "example_cn": "被抛弃的恋人感到心碎。"
+    },
+    {
+      "word": "settlement",
+      "phonetic": "/ˈsetlmənt/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "协议，解决",
+      "en": "an official agreement that ends an argument or a dispute",
+      "excerpt": "President Trump announcing a great settlement to end the war.",
+      "example_cn": "双方达成了和平协议。"
+    },
+    {
+      "word": "strait",
+      "phonetic": "/streɪt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "海峡",
+      "en": "a narrow passage of water connecting two seas or two large areas of water",
+      "excerpt": "The strait will officially open as soon as we sign.",
+      "example_cn": "船只安全通过了海峡。"
+    },
+    {
+      "word": "diplomacy",
+      "phonetic": "/dɪˈpləʊməsi/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "外交",
+      "en": "the activity of managing relations between countries",
+      "excerpt": "Just what do cage fights actually have to do with diplomacy?",
+      "example_cn": "外交是解决国际争端的重要手段。"
+    },
+    {
+      "word": "cast doubt on",
+      "phonetic": "/kɑːst daʊt ɒn/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "对...产生怀疑",
+      "en": "to make people feel uncertain about something",
+      "excerpt": "Republicans continuing to cast doubt on California's voting tactics.",
+      "example_cn": "新证据使他的证词受到怀疑。"
+    },
+    {
+      "word": "trillionaire",
+      "phonetic": "/trɪljəˈneər/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "万亿富翁",
+      "en": "a person who has assets worth one trillion dollars or more",
+      "excerpt": "Elon Musk now set to become the world's first trillionaire.",
+      "example_cn": "他梦想成为万亿富翁。"
+    },
+    {
+      "word": "ceasefire",
+      "phonetic": "/ˈsiːsfaɪər/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "停火",
+      "en": "an agreement to stop fighting for a period of time",
+      "excerpt": "a 60-day ceasefire, quote, \"on all fronts.\"",
+      "example_cn": "双方同意立即停火。"
+    },
+    {
+      "word": "sticking point",
+      "phonetic": "/ˈstɪkɪŋ pɔɪnt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "症结，关键点",
+      "en": "a problem or issue that prevents progress in a discussion",
+      "excerpt": "This has been a key sticking point, as we know, for Iran.",
+      "example_cn": "价格是谈判的症结所在。"
+    },
+    {
+      "word": "undermine",
+      "phonetic": "/ˌʌndəˈmaɪn/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "削弱，破坏",
+      "en": "to make something weaker or less effective",
+      "excerpt": "Is Trump undermining his own efforts at this point?",
+      "example_cn": "持续的批评削弱了他的信心。"
+    },
+    {
+      "word": "show one's cards",
+      "phonetic": "/ʃəʊ wʌnz kɑːdz/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "摊牌，亮出底牌",
+      "en": "to reveal one's intentions or plans",
+      "excerpt": "the president needs to stop saying what he wants in public. Is Trump undermining his efforts at this point, showing those cards?",
+      "example_cn": "在谈判中过早亮出底牌是不明智的。"
+    },
+    {
+      "word": "pushback",
+      "phonetic": "/ˈpʊʃbæk/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "抵制，反对",
+      "en": "negative reaction or opposition to something",
+      "excerpt": "the president facing pushback.",
+      "example_cn": "该计划遭到了社区的强烈反对。"
+    },
+    {
+      "word": "cave",
+      "phonetic": "/keɪv/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "屈服，让步",
+      "en": "to give in to demands or pressure",
+      "excerpt": "Could it be a rare sign of compromise, or is it caving?",
+      "example_cn": "在压力下，他最终屈服了。"
+    },
+    {
+      "word": "voter fraud",
+      "phonetic": "/ˈvəʊtər frɔːd/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "选举舞弊",
+      "en": "illegal interference with the process of an election",
+      "excerpt": "a federal prosecutor making claims about voter fraud in California.",
+      "example_cn": "政府严厉打击选举舞弊行为。"
+    },
+    {
+      "word": "menace",
+      "phonetic": "/ˈmenəs/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "威胁，危险的人或物",
+      "en": "a person or thing that is likely to cause harm or danger",
+      "excerpt": "promised to be a, quote, \"more of a menace than ever.\"",
+      "example_cn": "那个司机是个马路杀手。"
+    },
+    {
+      "word": "leverage",
+      "phonetic": "/ˈlevərɪdʒ/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "影响力，杠杆作用",
+      "en": "the power to influence people or events",
+      "excerpt": "It does give some of us a little more freedom and certainly leverage.",
+      "example_cn": "他的职位给了他很大的影响力。"
+    },
+    {
+      "word": "lame duck",
+      "phonetic": "/ˌleɪm ˈdʌk/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "跛脚鸭（任期将满的官员）",
+      "en": "an elected official whose power is reduced because the end of their term is near",
+      "excerpt": "It's the Lame Duck Rebellion.",
+      "example_cn": "这位总统在最后一年成了跛脚鸭。"
+    },
+    {
+      "word": "stray from the fold",
+      "phonetic": "/streɪ frəm ðə fəʊld/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "偏离主流，脱离群体",
+      "en": "to leave or deviate from a group or accepted way of thinking",
+      "excerpt": "they, you know, sort of stray from the fold a little bit.",
+      "example_cn": "他的一些观点偏离了党的路线。"
+    },
+    {
+      "word": "slavish loyalty",
+      "phonetic": "/ˈsleɪvɪʃ ˈlɔɪəlti/",
+      "pos": "phrase",
+      "level": "专八",
+      "cn": "盲目的忠诚",
+      "en": "unquestioning and complete loyalty",
+      "example_cn": "他要求下属绝对服从。"
+    },
+    {
+      "word": "midterm disaster",
+      "phonetic": "/ˈmɪdtɜːm dɪˈzɑːstər/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "中期选举惨败",
+      "en": "a very bad result for a political party in midterm elections",
+      "example_cn": "总统担心中期选举会是一场灾难。"
+    },
+    {
+      "word": "pave the way for",
+      "phonetic": "/peɪv ðə weɪ fɔːr/",
+      "pos": "phrase",
+      "level": "考研",
+      "cn": "为...铺平道路",
+      "en": "to create conditions that make something possible",
+      "example_cn": "这项协议为和平铺平了道路。"
+    },
+    {
+      "word": "backbone",
+      "phonetic": "/ˈbækbəʊn/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "骨气，勇气",
+      "en": "courage and determination",
+      "example_cn": "他缺乏坚持自己信念的骨气。"
+    },
+    {
+      "word": "reconciliation bill",
+      "phonetic": "/ˌrekənsɪliˈeɪʃn bɪl/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "和解法案",
+      "en": "a bill that reconciles differences between two versions of a bill or between spending and revenue",
+      "example_cn": "国会通过了预算和解法案。"
+    },
+    {
+      "word": "beholden to",
+      "phonetic": "/bɪˈhəʊldən tuː/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "对...感激，受制于",
+      "en": "owing gratitude or loyalty to someone because of help given",
+      "example_cn": "他不想受制于任何人。"
+    },
+    {
+      "word": "ruby-red",
+      "phonetic": "/ˈruːbi red/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "深红色的（指政治倾向非常保守的）",
+      "en": "very conservative, typically used to describe a strongly Republican area",
+      "example_cn": "这个州是深红色的共和党票仓。"
+    },
+    {
+      "word": "self-dealing",
+      "phonetic": "/ˌself ˈdiːlɪŋ/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "自利交易，以权谋私",
+      "en": "the practice of using one's position to benefit oneself, especially financially",
+      "example_cn": "他被指控以权谋私。"
+    },
+    {
+      "word": "soft power",
+      "phonetic": "/sɒft ˈpaʊər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "软实力",
+      "en": "the ability to influence others through attraction and persuasion rather than coercion",
+      "example_cn": "文化是软实力的重要组成部分。"
+    },
+    {
+      "word": "goodwill ambassador",
+      "phonetic": "/ˌɡʊdˈwɪl æmˈbæsədər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "亲善大使",
+      "en": "a person who promotes a country's or organization's positive image",
+      "example_cn": "她被任命为联合国亲善大使。"
+    },
+    {
+      "word": "return on investment",
+      "phonetic": "/rɪˈtɜːn ɒn ɪnˈvestmənt/",
+      "pos": "phrase",
+      "level": "考研",
+      "cn": "投资回报率",
+      "en": "the profit or benefit gained from an investment",
+      "example_cn": "这个项目的投资回报率很高。"
+    },
+    {
+      "word": "enmeshing",
+      "phonetic": "/ɪnˈmeʃɪŋ/",
+      "pos": "v.",
+      "level": "专八",
+      "cn": "使陷入，使纠缠",
+      "en": "to involve someone in a difficult situation or relationship",
+      "example_cn": "他发现自己陷入了复杂的法律纠纷。"
+    },
+    {
+      "word": "largesse",
+      "phonetic": "/lɑːrˈʒes/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "慷慨的赠与",
+      "en": "generous giving of money or gifts",
+      "example_cn": "这位慈善家以其慷慨而闻名。"
+    },
+    {
+      "word": "symbolize",
+      "phonetic": "/ˈsɪmbəlaɪz/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "象征",
+      "en": "to represent something",
+      "example_cn": "鸽子象征和平。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "President Trump calling off new strikes on Iran, saying both sides have now agreed to stop the fighting.",
+      "cn": "特朗普总统取消了对伊朗的新一轮打击，称双方现已同意停止战斗。",
+      "structure": "主句（President Trump calling off...）+ 伴随状语（saying...）",
+      "analysis": "现在分词短语作伴随状语，表示主句动作发生时伴随的情况。"
+    },
+    {
+      "en": "Regardless of the rhetoric, threats and claims of the other side, we are focused on the interests of the Iranian nation.",
+      "cn": "无论对方的言论、威胁和主张如何，我们都专注于伊朗国家的利益。",
+      "structure": "让步状语（Regardless of...）+ 主句（we are focused on...）",
+      "analysis": "Regardless of引导让步状语，表示不考虑对方因素。"
+    },
+    {
+      "en": "As I speak to you at this moment, we have not reached a final conclusion on this matter.",
+      "cn": "就在我此刻与你交谈时，我们尚未就此事达成最终结论。",
+      "structure": "时间状语从句（As I speak...）+ 主句（we have not reached...）",
+      "analysis": "As引导时间状语从句，表示主句动作发生的时间背景。"
+    },
+    {
+      "en": "Israel, also seemingly taken by surprise, a source telling CNN Israeli Prime Minister Benjamin Netanyahu wasn't aware of an agreement with Iran; that he actually found out on social media.",
+      "cn": "以色列似乎也感到意外，有消息人士告诉CNN，以色列总理本雅明·内塔尼亚胡并不知晓与伊朗的协议；他实际上是在社交媒体上得知的。",
+      "structure": "主句（Israel...）+ 同位语（a source telling...）+ 宾语从句（Netanyahu wasn't aware...）",
+      "analysis": "a source telling...为独立主格结构，补充说明以色列的情况。"
+    },
+    {
+      "en": "So, is this just the latest effort by President Trump to move stalled negotiations forward?",
+      "cn": "那么，这仅仅是特朗普总统推动陷入僵局的谈判的最新努力吗？",
+      "structure": "一般疑问句（is this...）+ 不定式短语（to move...）作定语",
+      "analysis": "不定式短语修饰effort，表示努力的目的。"
+    },
+    {
+      "en": "Based on everything we know and your sources, David, do signs actually point to an agreement at this point?",
+      "cn": "根据我们所知的一切以及你的消息来源，大卫，目前迹象是否确实指向一项协议？",
+      "structure": "条件状语（Based on...）+ 主句（do signs point to...）",
+      "analysis": "过去分词短语Based on...作条件状语，表示依据。"
+    },
+    {
+      "en": "Well, they certainly point to some agreement coming together on four major pillars of a -- of some restraint on the nuclear program.",
+      "cn": "嗯，它们确实指向在四个主要支柱上达成某种协议——对核计划的一些限制。",
+      "structure": "主句（they point to...）+ 介词短语（on four major pillars...）",
+      "analysis": "介词短语on...作定语修饰agreement，说明协议的内容。"
+    },
+    {
+      "en": "But it's not a peace agreement; it doesn't end the war; it may be a ceasefire that opens up another negotiation.",
+      "cn": "但这不是和平协议；它不会结束战争；它可能是一个开启另一轮谈判的停火协议。",
+      "structure": "并列句（it's not...; it doesn't...; it may be...）",
+      "analysis": "三个并列分句，最后一个包含that引导的定语从句修饰ceasefire。"
+    },
+    {
+      "en": "The fact that Israel's prime minister reportedly found out about this on social media, that really stands out to me, especially when we're talking about the potential ceasefire with Lebanon, with activity in Lebanon -- David.",
+      "cn": "以色列总理据报道是在社交媒体上得知此事的，这一点让我印象深刻，尤其是当我们谈论与黎巴嫩可能达成的停火以及黎巴嫩境内的活动时——大卫。",
+      "structure": "主语（The fact that...）+ 谓语（stands out）+ 时间状语从句（when we're talking...）",
+      "analysis": "that引导同位语从句说明fact的内容。"
+    },
+    {
+      "en": "The prime minister does not want to be part of this agreement and has made clear that he won't feel bound by a commitment that he didn't sign up to.",
+      "cn": "总理不想参与这项协议，并明确表示他不会受他没有签署的承诺的约束。",
+      "structure": "并列谓语（does not want... and has made clear）+ 宾语从句（that he won't feel bound...）+ 定语从句（that he didn't sign up to）",
+      "analysis": "宾语从句中嵌套定语从句修饰commitment。"
+    },
+    {
+      "en": "And it does pose a real point of tension in the relationship with Israel, because if they don't respect that ceasefire, and it plunges everything back in again, you'll have the president blaming Prime Minister Netanyahu.",
+      "cn": "这确实给与以色列的关系带来了一个真正的紧张点，因为如果他们不尊重停火协议，导致一切再次陷入混乱，总统就会指责内塔尼亚胡总理。",
+      "structure": "主句（it does pose...）+ 原因状语从句（because...）+ 条件状语从句（if they don't...）+ 结果主句（you'll have...）",
+      "analysis": "多层状语嵌套，条件状语从句中包含并列谓语。"
+    },
+    {
+      "en": "Every time the president talks about how eager Iran is for a deal, it's basically a reveal that he's talking about his own eagerness for a deal.",
+      "cn": "每次总统谈论伊朗多么渴望达成协议时，这基本上是在透露他本人对协议的渴望。",
+      "structure": "时间状语从句（Every time...）+ 主句（it's basically a reveal...）+ 同位语从句（that he's talking...）",
+      "analysis": "Every time引导时间状语从句，主句中that引导同位语从句说明reveal的内容。"
+    },
+    {
+      "en": "But frankly, the problem that's been haunting the president here is that 38 days of pounding the Iranians, starting in late February, did not result in the political concessions he was looking for.",
+      "cn": "但坦率地说，困扰总统的问题是，从2月底开始的38天对伊朗的猛烈打击并没有带来他所寻求的政治让步。",
+      "structure": "主句（the problem... is that...）+ 定语从句（that's been haunting...）+ 表语从句（that 38 days... did not result in...）+ 定语从句（he was looking for）",
+      "analysis": "主句主语problem后接定语从句，系动词is后接表语从句，表语从句中嵌套定语从句。"
+    },
+    {
+      "en": "Now, I reported two days ago that there were four pillars of an agreement that are emerging, and they have to do with everything from what to do with Iran's nuclear stockpile to its future enrichment activity, and so forth.",
+      "cn": "两天前我报道说，一项协议有四个支柱正在浮现，它们涉及从如何处理伊朗的核库存到其未来的浓缩活动等方方面面。",
+      "structure": "主句（I reported...）+ 宾语从句（that there were...）+ 定语从句（that are emerging）+ 并列句（and they have to do with...）",
+      "analysis": "宾语从句中包含定语从句，并列句补充说明。"
+    },
+    {
+      "en": "But all this memorandum of agreement would -- of understanding would do is start a negotiation that would probably run all summer, and many fear could run much longer than that, on the details of the nuclear program.",
+      "cn": "但这份谅解备忘录所能做的只是开启一场可能持续整个夏天的谈判，许多人担心可能会持续更久，讨论核计划的细节。",
+      "structure": "主语（all this memorandum...）+ 谓语（would do is start...）+ 定语从句（that would probably run...）+ 并列谓语（and many fear could run...）",
+      "analysis": "主语后省略了that的定语从句，谓语部分包含不定式短语作表语，定语从句修饰negotiation。"
+    },
+    {
+      "en": "Among them is South Carolina Congresswoman Nancy Mace, fresh off her last-place finish for the GOP nomination for governor in her state, joking that she could still come in first, if Mike Pence has the courage.",
+      "cn": "其中包括南卡罗来纳州众议员南希·梅斯，她刚刚在该州共和党州长提名中排名垫底，开玩笑说如果迈克·彭斯有勇气，她仍然可以排名第一。",
+      "structure": "倒装句（Among them is...）+ 同位语（fresh off...）+ 伴随状语（joking that...）+ 条件状语从句（if Mike Pence...）",
+      "analysis": "倒装结构强调地点，现在分词短语作伴随状语，内含宾语从句和条件状语从句。"
+    },
+    {
+      "en": "Texas Senator John Cornyn, in his first interview since that loss to a Trump-backed challenger in his primary in Texas, telling \"The New York Times,\" quote, \"It is going to be a pretty bumpy ride for the next seven months,\" saying, \"It does give some of us a little more freedom and certainly leverage.\"",
+      "cn": "得克萨斯州参议员约翰·科宁在得克萨斯州初选中输给特朗普支持的挑战者后首次接受采访，告诉《纽约时报》，“未来七个月将会非常坎坷”，并说“这确实给了我们一些人更多的自由，当然还有影响力。”",
+      "structure": "主语（Texas Senator John Cornyn）+ 状语（in his first interview...）+ 谓语（telling...）+ 直接引语（\"It is going to be...\"）+ 伴随状语（saying...）",
+      "analysis": "主句谓语为telling，后接直接引语，saying为现在分词作伴随状语。"
+    },
+    {
+      "en": "I was struck by noting that he gave voice, they write that he gave voice \"in starkly candid terms to this growing sentiment among Senate Republicans that Trump is actually hurting his own party with self-serving decisions and his insistence on slavish loyalty, ultimately setting himself up for a midterm disaster that would pave the way for the most miserable two years of his life.\"",
+      "cn": "我注意到他表达了，他们写道他“以极其坦率的言辞表达了参议院共和党人中日益增长的情绪，即特朗普实际上正在以自私自利的决定和对盲目忠诚的坚持伤害自己的政党，最终让自己陷入中期选举的灾难，这将为他一生中最悲惨的两年铺平道路。”",
+      "structure": "主句（I was struck by noting that...）+ 插入语（they write that...）+ 直接引语（\"in starkly candid terms...\"）+ 同位语从句（that Trump is actually hurting...）+ 结果状语（ultimately setting...）+ 定语从句（that would pave...）",
+      "analysis": "句子结构复杂，包含多层嵌套。"
+    },
+    {
+      "en": "And so, I think that you're right; this is probably going to be a challenge for President Trump and other conservatives for the months to come.",
+      "cn": "所以，我认为你是对的；这可能会在未来几个月对特朗普总统和其他保守派构成挑战。",
+      "structure": "主句（I think that...）+ 并列句（this is probably going to be...）",
+      "analysis": "think后接宾语从句，分号连接并列句。"
+    },
+    {
+      "en": "But I would just encourage these lawmakers to remember that the American people are paying attention, and they expect this Republican Congress to actually get some things done, whether it be the SAVE America Act or another reconciliation bill.",
+      "cn": "但我只想鼓励这些议员记住，美国人民正在关注，他们期望这个共和党国会真正做成一些事情，无论是《拯救美国法案》还是另一项和解法案。",
+      "structure": "主句（I would encourage...）+ 宾语补足语（to remember...）+ 宾语从句（that the American people are paying attention...）+ 并列句（and they expect...）+ 让步状语（whether it be...）",
+      "analysis": "encourage sb. to do sth.结构，remember后接宾语从句，whether引导让步状语。"
+    },
+    {
+      "en": "Whereas before, they were so beholden to what Trump wanted, because they were scared of him; they didn't have any backbone to stand up against him.",
+      "cn": "而以前，他们如此受制于特朗普的意愿，因为他们害怕他；他们没有勇气站出来反对他。",
+      "structure": "对比状语从句（Whereas before...）+ 主句（they were so beholden...）+ 原因状语从句（because they were scared...）+ 并列句（they didn't have...）",
+      "analysis": "Whereas引导对比，分号连接并列句。"
+    },
+    {
+      "en": "And they've done nothing to go up against Trump to say, Look, you promised the American people to bring down costs, to bring down inflation; and everything that you're doing is doing exactly the opposite of that.",
+      "cn": "他们没有采取任何行动反对特朗普，说，看，你向美国人民承诺降低物价，降低通货膨胀；而你所做的一切恰恰相反。",
+      "structure": "主句（they've done nothing...）+ 不定式短语（to go up against...）+ 直接引语（\"Look, you promised...\"）+ 并列句（and everything that you're doing is doing...）",
+      "analysis": "不定式短语作目的状语，直接引语中包含并列谓语。"
+    },
+    {
+      "en": "I don't understand exactly what the return on investment is; I mean, I sort of get the generic arguments that are made about the value of sport in building community and cultivating good kinds of traits and character.",
+      "cn": "我不太明白投资回报是什么；我的意思是，我大致理解关于体育在建设社区和培养良好品质方面的价值的一般性论点。",
+      "structure": "主句（I don't understand...）+ 宾语从句（what the return... is）+ 分号连接并列句（I mean...）+ 宾语从句（I sort of get...）+ 定语从句（that are made...）",
+      "analysis": "第一个分句包含宾语从句，第二个分句包含定语从句。"
+    },
+    {
+      "en": "But in terms of, like -- I mean, if Donald Trump doesn't believe in soft power, it is very, very difficult for me to understand how this is a different but more enlightened version of it.",
+      "cn": "但就——我的意思是，如果唐纳德·特朗普不相信软实力，我很难理解这如何是一种不同但更开明的版本。",
+      "structure": "条件状语从句（if Donald Trump doesn't believe...）+ 主句（it is very difficult for me to understand...）+ 宾语从句（how this is...）",
+      "analysis": "it作形式主语，真正主语为不定式短语，内含宾语从句。"
+    },
+    {
+      "en": "I think, to me, the lesson I take from all of this is, listen, could there be some kind of benefit down the road?",
+      "cn": "我认为，对我来说，我从这一切中得到的教训是，听着，未来会不会有某种好处？",
+      "structure": "主句（I think...）+ 插入语（to me）+ 定语从句（I take from all of this）+ 表语从句（is, listen, could there be...）",
+      "analysis": "表语从句为一般疑问句形式。"
+    },
+    {
+      "en": "But that's really not how I understand the nature of this relationship; that, if you look at the White House lawn, and if you look at the way in which the parent company for UFC -- it's called TKO -- they also own WWE, if you just look at the way in which they do business, every year seems to greet or bring with it a new level of entanglement in government.",
+      "cn": "但这并不是我理解这种关系本质的方式；如果你看看白宫草坪，如果你看看UFC的母公司——它叫TKO——他们也拥有WWE，如果你看看他们做生意的方式，每年似乎都会带来与政府的新一层纠缠。",
+      "structure": "主句（that's really not how...）+ 分号连接并列句（that, if you look...）+ 条件状语从句（if you look...）+ 主句（every year seems to...）",
+      "analysis": "第二个分句包含多个条件状语从句，主句为every year seems to...。"
+    },
+    {
+      "en": "It's this enmeshing of the business between the public and the private in which they're talking about, but it extends well beyond this memorandum of understanding.",
+      "cn": "正是这种他们正在谈论的公私业务纠缠，但它远远超出了这份谅解备忘录。",
+      "structure": "强调句（It's this enmeshing...）+ 定语从句（in which they're talking about）+ 转折并列句（but it extends...）",
+      "analysis": "强调句结构，定语从句修饰enmeshing。"
+    },
+    {
+      "en": "And I know for sports fans out there, you're saying, well, you know, government largesse isn't necessarily a new thing for pro sports owners; fine; but it's at least worth having a conversation about the role that it plays.",
+      "cn": "我知道对于体育迷来说，你们会说，嗯，你知道，政府的慷慨对职业体育老板来说并不新鲜；好吧；但至少值得讨论一下它所扮演的角色。",
+      "structure": "主句（I know...）+ 直接引语（you're saying...）+ 并列句（but it's at least worth...）+ 定语从句（that it plays）",
+      "analysis": "直接引语中包含分号连接的并列句。"
+    },
+    {
+      "en": "What do you think, in your view Sunday's fight has now come to symbolize?",
+      "cn": "你认为，在你看来，周日的比赛现在象征着什么？",
+      "structure": "特殊疑问句（What do you think...）+ 插入语（in your view）+ 宾语从句（Sunday's fight has come to symbolize）",
+      "analysis": "do you think为插入语，宾语从句为what引导的从句。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "美伊核协议与中东局势",
+      "content": "特朗普宣布与伊朗达成‘伟大协议’，但伊朗和以色列均表示不知情。协议可能包括60天停火、限制核计划等，但以色列总理内塔尼亚胡反对，认为未参与谈判。分析人士指出，特朗普多次宣称战争结束，但实际进展有限。",
+      "keywords": "Iran nuclear deal, ceasefire, Strait of Hormuz, Netanyahu, Trump"
+    },
+    {
+      "title": "共和党‘跛脚鸭’议员的反抗",
+      "content": "在初选中失去特朗普支持的共和党议员（如南希·梅斯、约翰·科宁）在任期最后几个月变得直言不讳，批评特朗普的自私决策和盲目忠诚要求，可能阻碍特朗普议程。分析认为这反映了党内对特朗普领导的不满。",
+      "keywords": "lame duck, GOP, primary, Trump endorsement, rebellion"
+    },
+    {
+      "title": "UFC与白宫合作及软实力争议",
+      "content": "国务卿卢比奥与UFC签署谅解备忘录，将其纳入体育特使项目，并比喻为‘登月’。批评者质疑其软实力价值，指出UFC与政府关系日益紧密，可能涉及商业利益。同时，白宫草坪搭建UFC擂台引发争议。",
+      "keywords": "UFC, Marco Rubio, soft power, sports envoy, White House"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nTrump Touts 'Great Settlement' with Iran, Calls Off Strikes; Could Jilted GOP Lawmakers Turn on Trump's Agenda?; Rubio Compares UFC to U.S. Landing on the Moon. Aired 6-6:30a ET\n\nAired June 12, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nBRAD SMITH, CNN ANCHOR: Got to catch them all. The robbers, that is.\n\nWhat started out as somebody trying to sell Pokemon cards ended in a robbery in San Francisco. A suspect pepper-sprayed the victim and stole their cards after they met up for the sale.\n\nPolice released a video of the moment officers arrested two suspects in the case last month. Officers had identified them the day after the crime.\n\nThat does it for CNN HEADLINE EXPRESS. I'm Brad Smith. CNN THIS MORNING with Audie Cornish starts right now.\n\nERICA HILL, CNN ANCHOR: Today in the group chat, President Trump announcing a great settlement to end the war. So, is it real this time?\n\nDONALD TRUMP, U.S. PRESIDENT: The strait will officially open as soon as we sign, which could be soon. Very soon. Maybe over the weekend.\n\nHILL: Dangerous weather turns deadly in the Midwest. Tornadoes touch down, with severe storms heading East today.\n\nMARCO RUBIO, U.S. SECRETARY OF STATE: When President Kennedy announced that we were going to put a man on the Moon and return him safely to the Earth, no one thought that was possible.\n\nAnd at some level, that's what this whole company, what UFC has been.\n\nHILL: Marco Rubio comparing a deal with the UFC to the Moon landing. Just what do cage fights actually have to do with diplomacy?\n\n(BEGIN VIDEO CLIP) REP. MIKE JOHNSON (R-LA): Let's have votes on an election the day of the election. That's what many states are able to do. I think California is playing around with us.\n\nHILL: Republicans continuing to cast doubt on California's voting tactics. So, will President Trump now try to control state elections?\n\nThe World Cup finally arriving in the U.S. today. Does the U.S. men's national team have a shot at winning this thing?\n\nUNIDENTIFIED MALE: -- is the Super Bowl of IPOs SpaceX?\n\nUNIDENTIFIED FEMALE: Everybody's talking about the SpaceX IPO.\n\nUNIDENTIFIED FEMALE: Nine, eight --\n\nHILL: SpaceX launching on the NASDAQ this morning. Elon Musk now set to become the world's first trillionaire.\n\nTRUMP: We just made a great settlement of the war with Iran. Probably have a signing, maybe in Europe. And it's a great thing.\n\nHILL: President Trump says the war is over; a deal is close. So, why do both Iran and Israel seem surprised by the news?\n\nGood morning, everyone. I'm Erica Hill, in for Audie Cornish. Very happy Friday morning to you.\n\nWe begin with the great settlement. President Trump calling off new strikes on Iran, saying both sides have now agreed to stop the fighting.\n\nTRUMP (via phone): I don't know if you heard, but we ended the war with Iran today. And they have agreed never to have a nuclear weapon, something that we -- we insisted on. That was the whole purpose. That was the -- 95 percent of it.\n\nHILL: Apparently, though, no one told Iran.\n\nESMAIL BAGHAEL, IRANIAN FOREIGN MINISTRY SPOKESMAN (through translator) (via phone): Regardless of the rhetoric, threats and claims of the other side, we are focused on the interests of the Iranian nation. We are doing our own work.\n\nRegarding the text and the overall understanding, whenever we conclude that it secures the interests of the Iranian nation, we will certainly announce it transparently.\n\nAs I speak to you at this moment, we have not reached a final conclusion on this matter.\n\nIsrael, also seemingly taken by surprise, a source telling CNN Israeli Prime Minister Benjamin Netanyahu wasn't aware of an agreement with Iran; that he actually found out on social media.\n\nSo, is this just the latest effort by President Trump to move stalled negotiations -- negotiations forward? Or is there really a deal?\n\nJoining me now, CNN political and national security analyst David Sanger. David, always good to talk to you.\n\nSo, Trump is claiming right now that the end of the war is at hand. The reopening of the Strait of Hormuz could actually happen this weekend once this deal is signed.\n\nAnd yet, we have this warning from one Iran -- Iranian leader that the -- and I'm quoting here -- \"the probability of deception by Trump is high.\"\n\nBased on everything we know and your sources, David, do signs actually point to an agreement at this point?\n\nDAVID SANGER, CNN POLITICAL AND NATIONAL SECURITY ANALYST: Well, they certainly point to some agreement coming together on four major pillars of a -- of some restraint on the nuclear program.\n\nBut it's not a peace agreement. It doesn't end the war. It may be a ceasefire that opens up another negotiation.\n\nSo, there are some reasons to be skeptical of the president's claim. I think CNN -- by CNN's count, he has over the past three months declared on about 39 occasions -- not sure if that's exactly right -- that the war was over.\n\nThis time, he's gone a little bit differently. He said they've come to an agreement on this. And as you noted, the -- that's certainly not how the Iranians are describing it now.\n\nBut they may be close.\n\nSANGER: The president -- the president did say the most important thing was to get them to agree never to build a nuclear weapon.\n\nWell, of course, they've agreed to that many times before: when they signed the nuclear nonproliferation treaty; when they signed the agreement with President Obama 11 years ago.\n\nHILL: Yes. Which is -- which is a key point. That is, of course, in some of the key points that we have, according to a diplomat who's been briefed on this agreement, this memorandum of understanding, if you will.\n\nAnother one that's in there is a 60-day ceasefire, quote, \"on all fronts.\" It would include Lebanon. This has been a key sticking point, as we know, for Iran, which of course, led to some of what we saw over the weekend in terms of both Iran and Israel trading missiles.\n\nThe fact that Israel's prime minister reportedly found out about this on social media, that really stands out to me, especially when we're talking about the potential ceasefire with Lebanon, with activity in Lebanon -- David.\n\nSANGER: That's right. The prime minister does not want to be part of this agreement and has made clear that he won't feel bound by a commitment that he didn't sign up to.\n\nSo, the Iranian position is that this has got to be a ceasefire across all of the active areas of combat. And that means Iran itself. But it also means in Lebanon, where Israel is taking on Hezbollah.\n\nSo, this has been a point of division between the president and Prime Minister Netanyahu. There have been some screaming phone calls we've -- we've heard about along the way.\n\nAnd it does pose a real point of tension in the relationship with Israel, because if they don't respect that ceasefire, and it plunges everything back in again, you'll have the president blaming Prime Minister Netanyahu.\n\nHILL: Mm-hmm. It's -- it's notable, too, some of what we're hearing from lawmakers. I want to just play some comments from a Republican and a Democrat. I do want to note these comments from Congressman Don Bacon actually came just before we heard from the president about this potential agreement.\n\nBut there is a very interesting similarity, if you will, in what he and Adam Schiff have to say. Take a listen.\n\nREP DON BACON (R-NE): Iran needs to come to us wanting a deal right now. We're going to them, and they are abusing the president in these negotiations. They think they have the advantage over President Trump.\n\nREP. ADAM SCHIFF (D-CA): Every time the president talks about how eager Iran is for a deal, it's basically a reveal that he's talking about his own eagerness for a deal.\n\nHILL: So, Adam Schiff talking about the eagerness. But -- but, you know, Congressman Bacon --\n\nHILL: -- also noting there, too, basically, the president needs to stop saying what he wants in public. Is Trump undermining his efforts at this point, showing those cards?\n\nSANGER: Well, certainly, the Iranians think that the president needs this right now more than -- than they do. And I think that was behind the president's decision to renew military activity for a couple of days, to try to show that they could be plunged back into the war.\n\nBut frankly, the problem that's been haunting the president here is that 38 days of pounding the Iranians, starting in late February, did not result in the political concessions he was looking for. And it's not clear that additional days of pounding them will.\n\nNow, I reported two days ago that there were there were four pillars of an agreement that are emerging, and they have to do with everything from what to do with Iran's nuclear stockpile to its future enrichment activity, and so forth. And it looks like on those four, they're coming closer.\n\nBut all this memorandum of agreement would -- of understanding would do is start a negotiation that would probably run all summer, and many fear could run much longer than that, on the details of the nuclear program.\n\nHILL: Yes. David, always good to talk to you. Appreciate it. Thank you.\n\nHILL: Still ahead here on CNN THIS MORNING, the president facing pushback. So, now he's got a new pick to lead the nation's intelligence community. Could it be a rare sign of compromise, or is it caving? What do we really know?\n\nPlus, a federal prosecutor making claims about voter fraud in California. Very explicit public claims.\n\nBut first, perhaps you've heard them called the YOLO Caucus of Congress. Just one of the memes, if you will, for some of the most prominent members now promising revenge.\n\nREP. NANCY MACE (R-SC): As a survivor, I chose to stand on principle.\n\nHILL: The current Republican lawmakers who lost out on Donald Trump's endorsement in the primaries and are now heading for the exit in about six months, are a little bit more vocal these days: raising questions about whether they could actually be a bit of a thorn in the side of the president in the coming months, with their remaining time in Washington.\n\nAmong them is South Carolina Congresswoman Nancy Mace, fresh off her last-place finish for the GOP nomination for governor in her state, joking that she could still come in first, if Mike Pence has the courage.\n\nA reference there, of course, a bit of a dig to Trump's infamous message on January 6th.\n\nMace said she will be adding to the unemployment numbers and also promised to be a, quote, \"more of a menace than ever.\"\n\nTexas Senator John Cornyn, in his first interview since that loss to a Trump-backed challenger in his primary in Texas, telling \"The New York Times,\" quote, \"It is going to be a pretty bumpy ride for the next seven months,\" saying, \"It does give some of us a little more freedom and certainly leverage.\"\n\nJoining me in the group chat, Elliot Williams, CNN legal analyst and former federal prosecutor; Rob Bluey, president and executive editor of \"The Daily Signal\"; and Maria Cardona, CNN political commentator and Democratic strategist.\n\nIt's good to see all of you this morning. So, you know, you've got there the YOLO Caucus. It's the Lame Duck Rebellion. Whatever you want to call them.\n\nWhat is clear is the gloves really appear to be coming off now. And it's also, I would say, further evidence of the hold that Donald Trump has, not just on the party, but specifically on lawmakers.\n\nElliot, how much of a difference do you think this could actually make?\n\nELLIOT WILLIAMS, CNN LEGAL ANALYST: In terms of passing laws or policies, somewhat, only because you will have vocal members of Congress speaking out against the president.\n\nBut you know, Erica, you hit it right on the head with the idea of this being about how singular Donald Trump is as a politician and a figure.\n\nCertainly, there's nothing new about politicians feeling, when the wings are clipped, or I guess -- I don't know if that's the right metaphor. You know what I mean? When -- when they can vote their conscience after elections, they, you know, sort of stray from the fold a little bit. That's a better animal metaphor there.\n\nBut this has happened before. The difference is you have a singular figure at the top of the party who, in private, there's -- there's a bunch of reporting that Republican members of Congress do not take the party line with Trump that they do publicly. And so, they're just feeling more free to speak their minds.\n\nHILL: And part of that, you know, Cornyn also speaking to part of that, you know, continuing in that interview with \"The Times.\" I was struck by noting that he gave voice, they write that he gave voice \"in starkly candid terms to this growing sentiment among Senate Republicans that Trump is actually hurting his own party with self- serving decisions and his insistence on slavish loyalty, ultimately setting himself up for a midterm disaster that would pave the way for the most miserable two years of his life.\n\nYou know, when you -- when you look at that, Rob, I mean, calling it out here, about what this has done and sort of the promise there of what is to come. How much do you see that playing out?\n\nROB BLUEY, PRESIDENT/EXECUTIVE EDITOR, \"THE DAILY SIGNAL\": Well, Erica, first of all, I think we need to remember that it was the voters of Texas, and South Carolina, and Kentucky, and some of these other states that ultimately decided to fire these politicians, because they weren't, quite frankly, representing their values in the U.S. Congress.\n\nIn the case of John Cornyn, I would say just take a look. A couple of hours ago, him picking a fight with Senator Mike Lee over the SAVE America Act.\n\nNow, John Cornyn is a sponsor of the SAVE America Act, but he doesn't have the backbone to stand on the Senate floor and make the Democrats debate this until they get to the point where it can pass with a simple majority vote.\n\nAnd so, I think that you're right. This is probably going to be a challenge for President Trump and other conservatives for the months to come.\n\nBut I would just encourage these lawmakers to remember that the American people are paying attention, and they expect this Republican Congress to actually get some things done, whether it be the SAVE America Act or another reconciliation bill.\n\nHILL: I mean, you know, respectfully, there hasn't been a lot of getting anything done across this Congress --\n\nHILL: -- since they were sworn in. So, it will be interesting to see if this changes anything.\n\nMaria, how much more public do you anticipate these lawmakers? I mean, Democrats are probably loving this moment, but words are one thing. Actions are quite another.\n\nMARIA CARDONA, CNN POLITICAL COMMENTATOR: That's exactly right, Erica. And what I think a lot of these lawmakers are focused on is exactly what the American people want.\n\nWhereas before, they were so beholden to what Trump wanted, because they were scared of him. They didn't have any backbone to stand up against him.\n\nNow, I think they feel free to actually focus on what their voters want. And they're seeing what everyone else is seeing across the board, Erica. Donald Trump's poll numbers are in the toilet. Republicans poll numbers are in the toilet. Democrats have been winning across the board all of these elections, including in ruby-red places.\n\nAnd so, what Republicans are saying is, look, now is the time for me to stand up against Trump. They even said it. What Trump has been doing, the self-dealing has really put their majority in -- in -- in jeopardy. Because the American people don't see that Republicans are focused on what they want.\n\nIn fact, it's completely the opposite. They have focused on higher costs. They have focused on corruption. They have focused on chaos.\n\nAnd they've done nothing to go up against Trump to say, Look, you promised the American people to bring down costs, to bring down inflation. And everything that you're doing is doing exactly the opposite of that.\n\nSo now, maybe they're going to say, let's actually do what the American people want. I think it's too late for them to save their majority in both the House and the Senate. But that's what you're going to see, I think, from here on out.\n\nHILL: All right. We will be watching.\n\nA lot more to tackle ahead this hour, including betting big on the space race. Elon Musk's SpaceX making its Wall Street debut, investors rushing to buy a piece of history that will also be historic for Elon Musk.\n\nPlus, we've got a live look for you at the White House. There it is. The UFC cage all set for the president's birthday on Sunday. Why officials are calling this -- are now referring to the UFC, by the way -- not this match -- the UFC as the United Nations of fighting.\n\nUNIDENTIFIED MALE: So, the UFC arena at the White House for Donald Trump's birthday has been completed. And it looks like total crap.\n\nUNIDENTIFIED MALE: If you think for a second that I'm going to watch any of this, then you would be absolutely correct.\n\n(END VIDEO CLIP) [06:25:08]\n\nHILL: The Trump administration is asking a federal judge to reject the lawsuit which seeks to stop this weekend's UFC fights at the White House. That ruling could come down today.\n\nMeantime, that 92-foot-high claw that dwarfs the White House -- you see it there, all lit up. It has been tested and is now operational.\n\nOn Thursday, Secretary of State Marco Rubio signed a memorandum of understanding with the UFC to create a public-private partnership with the White House.\n\nSo, the UFC now joins 24 other sports -- from the MLB, the NBA, the WNBA, the U.S. Men's national team -- in the State Department sports envoy program.\n\nThat also includes big stars like Baseball Hall of Famer Cal Ripken. He was an envoy to Greece.\n\nRUBIO: When President Kennedy announced that we were going to put a man on the Moon and return him safely to the Earth, no one thought that was possible. And we did it.\n\nWe are a nation founded on doing what no one else dared to do, and no one else aspired to do. And at some level, that's what this whole company, what UFC has been.\n\nWe're excited about what this brand means about America's ability to expand and reach out to different parts of the world.\n\nHILL: Rubio also described the UFC as the United Nations of fighting.\n\nMixed martial arts analyst Luke Thomas joins us now.\n\nLuke, it' s great to have you here. So, as we point out, there's some two dozen sports, right? And envoys, you know -- in many ways, this is sort of like a goodwill ambassador program, right? The -- showing the soft-power tools of the U.S. government.\n\nSo, how effective do you think, with this new public-private partnership, UFC fighters and the sport could be in that role for the U.S.?\n\nLUKE THOMAS, MIXED MARTIAL ARTS ANALYST: I don't really understand exactly what the return on investment is. I mean, I sort of get the generic arguments that are made about the -- the value of sport in building community. And -- and cultivating good kinds of traits and character. I understand that.\n\nBut I don't understand what the value is as it ultimately gets back to the shores. I mean, if you look at the way in which soft power has been implemented in this country for basically decades, generations across multiple presidencies, both Democratic and Republican, it was some kind of effort at both giving something abroad that created better sympathies and had a material impact on the lives of those we were trying to affect, such that it created better sympathies for us or, you know, better bilateral relations.\n\nI don't understand exactly what this does. You can make an argument that it is inoffensive. You can make an argument that, to your point, if the NFL is doing it, well, you know, there's no scandal here in that particular sense.\n\nBut in terms of, like -- I mean, if Donald Trump doesn't believe in soft power, it is very, very difficult for me to understand how this is a different but more enlightened version of it.\n\nHILL: It's an interesting point when you look at the cuts that were made to USAID, right, which was a major instrument, in many ways, of soft power.\n\nYou know, according to his statement, it's going to be used to -- for joint educational content development, using MMA to teach English and leadership skills.\n\nWhat I think is remarkable -- and I think you've noted this -- is the areas where UFC is gaining ground. This is -- or could be, perhaps, used because it's a really popular MMA market, a place like Brazil -- is not really the target of this program.\n\nTHOMAS: Yes. I mean, this is -- we'll have to see how it's implemented ultimately, right? We'll have to see how it's implemented.\n\nI think, to me, the lesson I take from all of this is, listen, could there be some kind of benefit down the road? I suppose it's at least worth taking seriously on some level.\n\nBut that's really not how I understand the nature of this relationship. That, if you look at the White House lawn, and if you look at the way in which the parent company for UFC -- it's called TKO. They also own WWE. If you just look at the way in which they do business, every year seems to greet or bring with it a new level of entanglement in government.\n\nNow, not just local municipal government or even state or national government, but just sort of broadly, they do deals internationally with governments all the time.\n\nI make this point. You know, why are they going this year to Azerbaijan and Serbia, and they're not going to Brazil, the most important market -- or arguably, one of the most important markets in MMA? It's because they're getting paid by the governments there to go.\n\nIt's this enmeshing of the business between the public and the private in which they're talking about, but it extends well beyond this memorandum of understanding.\n\nAnd I know for sports fans out there, you're saying, well, you know, government largesse isn't necessarily a new thing for pro sports owners. Fine. But it's at least worth having a conversation about the role that it plays.\n\nHILL: When we look at what is about to unfold on Sunday. Look, some people are really excited about it. Some people are not. There are very distinct camps, which I think are leading to certain stereotypes that are probably not accurate on both of those sides.\n\nWhat do you think, in your view Sunday's fight has now come to symbolize? And is it what was intended, which we're told is a celebration of the nation's 250th birthday, which happens to fall on this president's 80th birthday?\n\nTHOMAS: To me, this is something approximating the union of these two identities or brands or, you know, between the UFC and between the Trump administration.\n\nYou could even argue, maybe, that it's not so much --",
+  "segments": [
+    {
+      "seg": 1,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-12/segment/01",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nTrump Touts 'Great Settlement' with Iran, Calls Off Strikes; Could Jilted GOP Lawmakers Turn on Trump's Agenda?; Rubio Compares UFC to U.S. Landing on the Moon. Aired 6-6:30a ET\n\nAired June 12, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nBRAD SMITH, CNN ANCHOR: Got to catch them all. The robbers, that is.\n\nWhat started out as somebody trying to sell Pokemon cards ended in a robbery in San Francisco. A suspect pepper-sprayed the victim and stole their cards after they met up for the sale.\n\nPolice released a video of the moment officers arrested two suspects in the case last month. Officers had identified them the day after the crime.\n\nThat does it for CNN HEADLINE EXPRESS. I'm Brad Smith. CNN THIS MORNING with Audie Cornish starts right now.\n\nERICA HILL, CNN ANCHOR: Today in the group chat, President Trump announcing a great settlement to end the war. So, is it real this time?\n\nDONALD TRUMP, U.S. PRESIDENT: The strait will officially open as soon as we sign, which could be soon. Very soon. Maybe over the weekend.\n\nHILL: Dangerous weather turns deadly in the Midwest. Tornadoes touch down, with severe storms heading East today.\n\nMARCO RUBIO, U.S. SECRETARY OF STATE: When President Kennedy announced that we were going to put a man on the Moon and return him safely to the Earth, no one thought that was possible.\n\nAnd at some level, that's what this whole company, what UFC has been.\n\nHILL: Marco Rubio comparing a deal with the UFC to the Moon landing. Just what do cage fights actually have to do with diplomacy?\n\n(BEGIN VIDEO CLIP) REP. MIKE JOHNSON (R-LA): Let's have votes on an election the day of the election. That's what many states are able to do. I think California is playing around with us.\n\nHILL: Republicans continuing to cast doubt on California's voting tactics. So, will President Trump now try to control state elections?\n\nThe World Cup finally arriving in the U.S. today. Does the U.S. men's national team have a shot at winning this thing?\n\nUNIDENTIFIED MALE: -- is the Super Bowl of IPOs SpaceX?\n\nUNIDENTIFIED FEMALE: Everybody's talking about the SpaceX IPO.\n\nUNIDENTIFIED FEMALE: Nine, eight --\n\nHILL: SpaceX launching on the NASDAQ this morning. Elon Musk now set to become the world's first trillionaire.\n\nTRUMP: We just made a great settlement of the war with Iran. Probably have a signing, maybe in Europe. And it's a great thing.\n\nHILL: President Trump says the war is over; a deal is close. So, why do both Iran and Israel seem surprised by the news?\n\nGood morning, everyone. I'm Erica Hill, in for Audie Cornish. Very happy Friday morning to you.\n\nWe begin with the great settlement. President Trump calling off new strikes on Iran, saying both sides have now agreed to stop the fighting.\n\nTRUMP (via phone): I don't know if you heard, but we ended the war with Iran today. And they have agreed never to have a nuclear weapon, something that we -- we insisted on. That was the whole purpose. That was the -- 95 percent of it.\n\nHILL: Apparently, though, no one told Iran.\n\nESMAIL BAGHAEL, IRANIAN FOREIGN MINISTRY SPOKESMAN (through translator) (via phone): Regardless of the rhetoric, threats and claims of the other side, we are focused on the interests of the Iranian nation. We are doing our own work.\n\nRegarding the text and the overall understanding, whenever we conclude that it secures the interests of the Iranian nation, we will certainly announce it transparently.\n\nAs I speak to you at this moment, we have not reached a final conclusion on this matter.\n\nIsrael, also seemingly taken by surprise, a source telling CNN Israeli Prime Minister Benjamin Netanyahu wasn't aware of an agreement with Iran; that he actually found out on social media.\n\nSo, is this just the latest effort by President Trump to move stalled negotiations -- negotiations forward? Or is there really a deal?\n\nJoining me now, CNN political and national security analyst David Sanger. David, always good to talk to you.\n\nSo, Trump is claiming right now that the end of the war is at hand. The reopening of the Strait of Hormuz could actually happen this weekend once this deal is signed.\n\nAnd yet, we have this warning from one Iran -- Iranian leader that the -- and I'm quoting here -- \"the probability of deception by Trump is high.\"\n\nBased on everything we know and your sources, David, do signs actually point to an agreement at this point?\n\nDAVID SANGER, CNN POLITICAL AND NATIONAL SECURITY ANALYST: Well, they certainly point to some agreement coming together on four major pillars of a -- of some restraint on the nuclear program.\n\nBut it's not a peace agreement. It doesn't end the war. It may be a ceasefire that opens up another negotiation.\n\nSo, there are some reasons to be skeptical of the president's claim. I think CNN -- by CNN's count, he has over the past three months declared on about 39 occasions -- not sure if that's exactly right -- that the war was over.\n\nThis time, he's gone a little bit differently. He said they've come to an agreement on this. And as you noted, the -- that's certainly not how the Iranians are describing it now.\n\nBut they may be close.\n\nSANGER: The president -- the president did say the most important thing was to get them to agree never to build a nuclear weapon.\n\nWell, of course, they've agreed to that many times before: when they signed the nuclear nonproliferation treaty; when they signed the agreement with President Obama 11 years ago.\n\nHILL: Yes. Which is -- which is a key point. That is, of course, in some of the key points that we have, according to a diplomat who's been briefed on this agreement, this memorandum of understanding, if you will.\n\nAnother one that's in there is a 60-day ceasefire, quote, \"on all fronts.\" It would include Lebanon. This has been a key sticking point, as we know, for Iran, which of course, led to some of what we saw over the weekend in terms of both Iran and Israel trading missiles.\n\nThe fact that Israel's prime minister reportedly found out about this on social media, that really stands out to me, especially when we're talking about the potential ceasefire with Lebanon, with activity in Lebanon -- David.\n\nSANGER: That's right. The prime minister does not want to be part of this agreement and has made clear that he won't feel bound by a commitment that he didn't sign up to.\n\nSo, the Iranian position is that this has got to be a ceasefire across all of the active areas of combat. And that means Iran itself. But it also means in Lebanon, where Israel is taking on Hezbollah.\n\nSo, this has been a point of division between the president and Prime Minister Netanyahu. There have been some screaming phone calls we've -- we've heard about along the way.\n\nAnd it does pose a real point of tension in the relationship with Israel, because if they don't respect that ceasefire, and it plunges everything back in again, you'll have the president blaming Prime Minister Netanyahu.\n\nHILL: Mm-hmm. It's -- it's notable, too, some of what we're hearing from lawmakers. I want to just play some comments from a Republican and a Democrat. I do want to note these comments from Congressman Don Bacon actually came just before we heard from the president about this potential agreement.\n\nBut there is a very interesting similarity, if you will, in what he and Adam Schiff have to say. Take a listen.\n\nREP DON BACON (R-NE): Iran needs to come to us wanting a deal right now. We're going to them, and they are abusing the president in these negotiations. They think they have the advantage over President Trump.\n\nREP. ADAM SCHIFF (D-CA): Every time the president talks about how eager Iran is for a deal, it's basically a reveal that he's talking about his own eagerness for a deal.\n\nHILL: So, Adam Schiff talking about the eagerness. But -- but, you know, Congressman Bacon --\n\nHILL: -- also noting there, too, basically, the president needs to stop saying what he wants in public. Is Trump undermining his efforts at this point, showing those cards?\n\nSANGER: Well, certainly, the Iranians think that the president needs this right now more than -- than they do. And I think that was behind the president's decision to renew military activity for a couple of days, to try to show that they could be plunged back into the war.\n\nBut frankly, the problem that's been haunting the president here is that 38 days of pounding the Iranians, starting in late February, did not result in the political concessions he was looking for. And it's not clear that additional days of pounding them will.\n\nNow, I reported two days ago that there were there were four pillars of an agreement that are emerging, and they have to do with everything from what to do with Iran's nuclear stockpile to its future enrichment activity, and so forth. And it looks like on those four, they're coming closer.\n\nBut all this memorandum of agreement would -- of understanding would do is start a negotiation that would probably run all summer, and many fear could run much longer than that, on the details of the nuclear program.\n\nHILL: Yes. David, always good to talk to you. Appreciate it. Thank you.\n\nHILL: Still ahead here on CNN THIS MORNING, the president facing pushback. So, now he's got a new pick to lead the nation's intelligence community. Could it be a rare sign of compromise, or is it caving? What do we really know?\n\nPlus, a federal prosecutor making claims about voter fraud in California. Very explicit public claims.\n\nBut first, perhaps you've heard them called the YOLO Caucus of Congress. Just one of the memes, if you will, for some of the most prominent members now promising revenge.\n\nREP. NANCY MACE (R-SC): As a survivor, I chose to stand on principle.\n\nHILL: The current Republican lawmakers who lost out on Donald Trump's endorsement in the primaries and are now heading for the exit in about six months, are a little bit more vocal these days: raising questions about whether they could actually be a bit of a thorn in the side of the president in the coming months, with their remaining time in Washington.\n\nAmong them is South Carolina Congresswoman Nancy Mace, fresh off her last-place finish for the GOP nomination for governor in her state, joking that she could still come in first, if Mike Pence has the courage.\n\nA reference there, of course, a bit of a dig to Trump's infamous message on January 6th.\n\nMace said she will be adding to the unemployment numbers and also promised to be a, quote, \"more of a menace than ever.\"\n\nTexas Senator John Cornyn, in his first interview since that loss to a Trump-backed challenger in his primary in Texas, telling \"The New York Times,\" quote, \"It is going to be a pretty bumpy ride for the next seven months,\" saying, \"It does give some of us a little more freedom and certainly leverage.\"\n\nJoining me in the group chat, Elliot Williams, CNN legal analyst and former federal prosecutor; Rob Bluey, president and executive editor of \"The Daily Signal\"; and Maria Cardona, CNN political commentator and Democratic strategist.\n\nIt's good to see all of you this morning. So, you know, you've got there the YOLO Caucus. It's the Lame Duck Rebellion. Whatever you want to call them.\n\nWhat is clear is the gloves really appear to be coming off now. And it's also, I would say, further evidence of the hold that Donald Trump has, not just on the party, but specifically on lawmakers.\n\nElliot, how much of a difference do you think this could actually make?\n\nELLIOT WILLIAMS, CNN LEGAL ANALYST: In terms of passing laws or policies, somewhat, only because you will have vocal members of Congress speaking out against the president.\n\nBut you know, Erica, you hit it right on the head with the idea of this being about how singular Donald Trump is as a politician and a figure.\n\nCertainly, there's nothing new about politicians feeling, when the wings are clipped, or I guess -- I don't know if that's the right metaphor. You know what I mean? When -- when they can vote their conscience after elections, they, you know, sort of stray from the fold a little bit. That's a better animal metaphor there.\n\nBut this has happened before. The difference is you have a singular figure at the top of the party who, in private, there's -- there's a bunch of reporting that Republican members of Congress do not take the party line with Trump that they do publicly. And so, they're just feeling more free to speak their minds.\n\nHILL: And part of that, you know, Cornyn also speaking to part of that, you know, continuing in that interview with \"The Times.\" I was struck by noting that he gave voice, they write that he gave voice \"in starkly candid terms to this growing sentiment among Senate Republicans that Trump is actually hurting his own party with self- serving decisions and his insistence on slavish loyalty, ultimately setting himself up for a midterm disaster that would pave the way for the most miserable two years of his life.\n\nYou know, when you -- when you look at that, Rob, I mean, calling it out here, about what this has done and sort of the promise there of what is to come. How much do you see that playing out?\n\nROB BLUEY, PRESIDENT/EXECUTIVE EDITOR, \"THE DAILY SIGNAL\": Well, Erica, first of all, I think we need to remember that it was the voters of Texas, and South Carolina, and Kentucky, and some of these other states that ultimately decided to fire these politicians, because they weren't, quite frankly, representing their values in the U.S. Congress.\n\nIn the case of John Cornyn, I would say just take a look. A couple of hours ago, him picking a fight with Senator Mike Lee over the SAVE America Act.\n\nNow, John Cornyn is a sponsor of the SAVE America Act, but he doesn't have the backbone to stand on the Senate floor and make the Democrats debate this until they get to the point where it can pass with a simple majority vote.\n\nAnd so, I think that you're right. This is probably going to be a challenge for President Trump and other conservatives for the months to come.\n\nBut I would just encourage these lawmakers to remember that the American people are paying attention, and they expect this Republican Congress to actually get some things done, whether it be the SAVE America Act or another reconciliation bill.\n\nHILL: I mean, you know, respectfully, there hasn't been a lot of getting anything done across this Congress --\n\nHILL: -- since they were sworn in. So, it will be interesting to see if this changes anything.\n\nMaria, how much more public do you anticipate these lawmakers? I mean, Democrats are probably loving this moment, but words are one thing. Actions are quite another.\n\nMARIA CARDONA, CNN POLITICAL COMMENTATOR: That's exactly right, Erica. And what I think a lot of these lawmakers are focused on is exactly what the American people want.\n\nWhereas before, they were so beholden to what Trump wanted, because they were scared of him. They didn't have any backbone to stand up against him.\n\nNow, I think they feel free to actually focus on what their voters want. And they're seeing what everyone else is seeing across the board, Erica. Donald Trump's poll numbers are in the toilet. Republicans poll numbers are in the toilet. Democrats have been winning across the board all of these elections, including in ruby-red places.\n\nAnd so, what Republicans are saying is, look, now is the time for me to stand up against Trump. They even said it. What Trump has been doing, the self-dealing has really put their majority in -- in -- in jeopardy. Because the American people don't see that Republicans are focused on what they want.\n\nIn fact, it's completely the opposite. They have focused on higher costs. They have focused on corruption. They have focused on chaos.\n\nAnd they've done nothing to go up against Trump to say, Look, you promised the American people to bring down costs, to bring down inflation. And everything that you're doing is doing exactly the opposite of that.\n\nSo now, maybe they're going to say, let's actually do what the American people want. I think it's too late for them to save their majority in both the House and the Senate. But that's what you're going to see, I think, from here on out.\n\nHILL: All right. We will be watching.\n\nA lot more to tackle ahead this hour, including betting big on the space race. Elon Musk's SpaceX making its Wall Street debut, investors rushing to buy a piece of history that will also be historic for Elon Musk.\n\nPlus, we've got a live look for you at the White House. There it is. The UFC cage all set for the president's birthday on Sunday. Why officials are calling this -- are now referring to the UFC, by the way -- not this match -- the UFC as the United Nations of fighting.\n\nUNIDENTIFIED MALE: So, the UFC arena at the White House for Donald Trump's birthday has been completed. And it looks like total crap.\n\nUNIDENTIFIED MALE: If you think for a second that I'm going to watch any of this, then you would be absolutely correct.\n\n(END VIDEO CLIP) [06:25:08]\n\nHILL: The Trump administration is asking a federal judge to reject the lawsuit which seeks to stop this weekend's UFC fights at the White House. That ruling could come down today.\n\nMeantime, that 92-foot-high claw that dwarfs the White House -- you see it there, all lit up. It has been tested and is now operational.\n\nOn Thursday, Secretary of State Marco Rubio signed a memorandum of understanding with the UFC to create a public-private partnership with the White House.\n\nSo, the UFC now joins 24 other sports -- from the MLB, the NBA, the WNBA, the U.S. Men's national team -- in the State Department sports envoy program.\n\nThat also includes big stars like Baseball Hall of Famer Cal Ripken. He was an envoy to Greece.\n\nRUBIO: When President Kennedy announced that we were going to put a man on the Moon and return him safely to the Earth, no one thought that was possible. And we did it.\n\nWe are a nation founded on doing what no one else dared to do, and no one else aspired to do. And at some level, that's what this whole company, what UFC has been.\n\nWe're excited about what this brand means about America's ability to expand and reach out to different parts of the world.\n\nHILL: Rubio also described the UFC as the United Nations of fighting.\n\nMixed martial arts analyst Luke Thomas joins us now.\n\nLuke, it' s great to have you here. So, as we point out, there's some two dozen sports, right? And envoys, you know -- in many ways, this is sort of like a goodwill ambassador program, right? The -- showing the soft-power tools of the U.S. government.\n\nSo, how effective do you think, with this new public-private partnership, UFC fighters and the sport could be in that role for the U.S.?\n\nLUKE THOMAS, MIXED MARTIAL ARTS ANALYST: I don't really understand exactly what the return on investment is. I mean, I sort of get the generic arguments that are made about the -- the value of sport in building community. And -- and cultivating good kinds of traits and character. I understand that.\n\nBut I don't understand what the value is as it ultimately gets back to the shores. I mean, if you look at the way in which soft power has been implemented in this country for basically decades, generations across multiple presidencies, both Democratic and Republican, it was some kind of effort at both giving something abroad that created better sympathies and had a material impact on the lives of those we were trying to affect, such that it created better sympathies for us or, you know, better bilateral relations.\n\nI don't understand exactly what this does. You can make an argument that it is inoffensive. You can make an argument that, to your point, if the NFL is doing it, well, you know, there's no scandal here in that particular sense.\n\nBut in terms of, like -- I mean, if Donald Trump doesn't believe in soft power, it is very, very difficult for me to understand how this is a different but more enlightened version of it.\n\nHILL: It's an interesting point when you look at the cuts that were made to USAID, right, which was a major instrument, in many ways, of soft power.\n\nYou know, according to his statement, it's going to be used to -- for joint educational content development, using MMA to teach English and leadership skills.\n\nWhat I think is remarkable -- and I think you've noted this -- is the areas where UFC is gaining ground. This is -- or could be, perhaps, used because it's a really popular MMA market, a place like Brazil -- is not really the target of this program.\n\nTHOMAS: Yes. I mean, this is -- we'll have to see how it's implemented ultimately, right? We'll have to see how it's implemented.\n\nI think, to me, the lesson I take from all of this is, listen, could there be some kind of benefit down the road? I suppose it's at least worth taking seriously on some level.\n\nBut that's really not how I understand the nature of this relationship. That, if you look at the White House lawn, and if you look at the way in which the parent company for UFC -- it's called TKO. They also own WWE. If you just look at the way in which they do business, every year seems to greet or bring with it a new level of entanglement in government.\n\nNow, not just local municipal government or even state or national government, but just sort of broadly, they do deals internationally with governments all the time.\n\nI make this point. You know, why are they going this year to Azerbaijan and Serbia, and they're not going to Brazil, the most important market -- or arguably, one of the most important markets in MMA? It's because they're getting paid by the governments there to go.\n\nIt's this enmeshing of the business between the public and the private in which they're talking about, but it extends well beyond this memorandum of understanding.\n\nAnd I know for sports fans out there, you're saying, well, you know, government largesse isn't necessarily a new thing for pro sports owners. Fine. But it's at least worth having a conversation about the role that it plays.\n\nHILL: When we look at what is about to unfold on Sunday. Look, some people are really excited about it. Some people are not. There are very distinct camps, which I think are leading to certain stereotypes that are probably not accurate on both of those sides.\n\nWhat do you think, in your view Sunday's fight has now come to symbolize? And is it what was intended, which we're told is a celebration of the nation's 250th birthday, which happens to fall on this president's 80th birthday?\n\nTHOMAS: To me, this is something approximating the union of these two identities or brands or, you know, between the UFC and between the Trump administration.\n\nYou could even argue, maybe, that it's not so much --"
+    }
+  ]
+}
