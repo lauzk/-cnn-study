@@ -1,0 +1,521 @@
+{
+  "date": "2026-06-03",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-03/segment/02",
+  "vocabulary": [
+    {
+      "word": "runoff",
+      "phonetic": "/ˈrʌn.ɒf/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "决胜选举； runoff election",
+      "en": "a second election held to decide a winner when no candidate has achieved a majority in the first election",
+      "excerpt": "incumbent Democrat Karen Bass will advance in the November runoff.",
+      "example_cn": "现任民主党人凯伦·巴斯将进入11月的决胜选举。"
+    },
+    {
+      "word": "incumbent",
+      "phonetic": "/ɪnˈkʌm.bənt/",
+      "pos": "adj./n.",
+      "level": "六级",
+      "cn": "现任的；现任者",
+      "en": "currently holding a specified office or position",
+      "excerpt": "incumbent Democrat Karen Bass will advance in the November runoff.",
+      "example_cn": "现任民主党人凯伦·巴斯将进入11月的决胜选举。"
+    },
+    {
+      "word": "concede",
+      "phonetic": "/kənˈsiːd/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "承认（失败）；让步",
+      "en": "to admit that you have lost a game, election, or competition",
+      "excerpt": "Trump-backed Randy Feenstra conceding to businessman Zach Lahn in the Republican primary.",
+      "example_cn": "特朗普支持的兰迪·芬斯特拉在共和党初选中向商人扎克·拉恩认输。"
+    },
+    {
+      "word": "primary",
+      "phonetic": "/ˈpraɪ.mər.i/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "初选",
+      "en": "an election in which voters choose the candidates from each party who will compete in the general election",
+      "excerpt": "Six States Count Votes From Tuesday's Primary Elections",
+      "example_cn": "六个州统计周二初选的选票。"
+    },
+    {
+      "word": "projection",
+      "phonetic": "/prəˈdʒek.ʃən/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "预测；推测",
+      "en": "a forecast or estimate of a future situation based on current data",
+      "excerpt": "The latest projections show Republican Steven Hilton and Democrat Xavier Becerra in the top two positions.",
+      "example_cn": "最新预测显示共和党人史蒂文·希尔顿和民主党人泽维尔·贝塞拉位居前两名。"
+    },
+    {
+      "word": "trajectory",
+      "phonetic": "/trəˈdʒek.tər.i/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "轨迹；发展轨迹",
+      "en": "the path that an object follows as it moves through space, or the course of development of something",
+      "excerpt": "Californians will be able to change the trajectory of our state.",
+      "example_cn": "加州人将能够改变我们州的发展轨迹。"
+    },
+    {
+      "word": "poverty rate",
+      "phonetic": "/ˈpɒv.ə.ti reɪt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "贫困率",
+      "en": "the percentage of people living below the poverty line",
+      "excerpt": "the highest poverty rate, the highest unemployment rate in the country",
+      "example_cn": "全国最高的贫困率、最高的失业率。"
+    },
+    {
+      "word": "cost of living",
+      "phonetic": "/kɒst əv ˈlɪv.ɪŋ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "生活成本",
+      "en": "the amount of money needed to pay for basic necessities such as food, housing, and transportation",
+      "excerpt": "the highest cost of living",
+      "example_cn": "最高的生活成本。"
+    },
+    {
+      "word": "common-sense",
+      "phonetic": "/ˈkɒm.ən sens/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "常识性的；切合实际的",
+      "en": "based on practical intelligence and sound judgment",
+      "excerpt": "common-sense practical ideas",
+      "example_cn": "常识性的实用想法。"
+    },
+    {
+      "word": "nugget",
+      "phonetic": "/ˈnʌɡ.ɪt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "小块；有价值的信息",
+      "en": "a small piece of valuable information or a small lump of gold",
+      "excerpt": "There are a couple of key nuggets to keep in mind.",
+      "example_cn": "有几个关键点需要记住。"
+    },
+    {
+      "word": "ballot",
+      "phonetic": "/ˈbæl.ət/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "选票；投票",
+      "en": "a piece of paper on which you mark your vote, or the process of voting",
+      "excerpt": "the late ballots have tended to shift the overall vote to be more Democratic.",
+      "example_cn": "晚到的选票往往使整体投票结果更倾向于民主党。"
+    },
+    {
+      "word": "endorsement",
+      "phonetic": "/ɪnˈdɔːs.mənt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "支持；背书",
+      "en": "a public statement of support for a person, product, or idea",
+      "excerpt": "Trump came in with the late endorsement.",
+      "example_cn": "特朗普在最后时刻给予了支持。"
+    },
+    {
+      "word": "absentee",
+      "phonetic": "/ˌæb.sənˈtiː/",
+      "pos": "adj./n.",
+      "level": "六级",
+      "cn": "缺席的；缺席投票者",
+      "en": "a person who is not present, or relating to voting by mail",
+      "excerpt": "absentee votes and there were Election Day votes.",
+      "example_cn": "缺席选票和选举日投票。"
+    },
+    {
+      "word": "swing district",
+      "phonetic": "/swɪŋ ˈdɪs.trɪkt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "摇摆选区",
+      "en": "a district where voters are not strongly aligned with one party and elections are competitive",
+      "excerpt": "given that this is a swing district",
+      "example_cn": "鉴于这是一个摇摆选区。"
+    },
+    {
+      "word": "free-for-all",
+      "phonetic": "/ˌfriː fɔːr ˈɔːl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "混战；自由竞争",
+      "en": "a situation in which everyone can do what they want without rules or control",
+      "excerpt": "It basically became a kind of free-for-all after Congressman Eric Swalwell withdrew.",
+      "example_cn": "在众议员埃里克·斯瓦尔韦尔退出后，这基本上变成了一场混战。"
+    },
+    {
+      "word": "misconduct",
+      "phonetic": "/ˌmɪsˈkɒn.dʌkt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "不当行为； misconduct",
+      "en": "unacceptable or improper behavior, especially by a professional person",
+      "excerpt": "over allegations of misconduct",
+      "example_cn": "因不当行为指控。"
+    },
+    {
+      "word": "retribution",
+      "phonetic": "/ˌret.rɪˈbjuː.ʃən/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "报复；惩罚",
+      "en": "punishment that is considered to be morally right and fully deserved",
+      "excerpt": "I think it's kind of retribution because we know that the Latino community has been under such a vicious attack.",
+      "example_cn": "我认为这是一种报复，因为我们知道拉丁裔社区一直受到如此恶毒的攻击。"
+    },
+    {
+      "word": "competent",
+      "phonetic": "/ˈkɒm.pɪ.tənt/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "有能力的；胜任的",
+      "en": "having the necessary ability, knowledge, or skill to do something successfully",
+      "excerpt": "we are very competent individuals",
+      "example_cn": "我们是非常有能力的人。"
+    },
+    {
+      "word": "pundit",
+      "phonetic": "/ˈpʌn.dɪt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "专家；评论员",
+      "en": "a person who gives opinions in an authoritative manner on a particular subject",
+      "excerpt": "Let me play for you another pundit.",
+      "example_cn": "让我为你播放另一位评论员的观点。"
+    },
+    {
+      "word": "infrastructure",
+      "phonetic": "/ˈɪn.frə.strʌk.tʃər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "基础设施；基础结构",
+      "en": "the basic systems and services that a country or organization uses in order to work effectively",
+      "excerpt": "a rising political Latino infrastructure",
+      "example_cn": "一个正在崛起的拉丁裔政治基础设施。"
+    },
+    {
+      "word": "deploy",
+      "phonetic": "/dɪˈplɔɪ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "部署；调动",
+      "en": "to use something or someone effectively, or to move soldiers or equipment into position",
+      "excerpt": "we saw him deploy, for example, Carlos Manuel Espina",
+      "example_cn": "我们看到他在竞选活动中部署了卡洛斯·曼努埃尔·埃斯皮纳。"
+    },
+    {
+      "word": "tailor",
+      "phonetic": "/ˈteɪ.lər/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "调整；使适应",
+      "en": "to make or adapt something for a particular purpose or person",
+      "excerpt": "definitely tried to tailor and target part of his campaign toward Latino voters",
+      "example_cn": "确实试图调整并针对拉丁裔选民开展部分竞选活动。"
+    },
+    {
+      "word": "ascend",
+      "phonetic": "/əˈsend/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "上升；晋升",
+      "en": "to move up or to a higher position",
+      "excerpt": "the Democrats that ascended",
+      "example_cn": "那些晋升的民主党人。"
+    },
+    {
+      "word": "resume",
+      "phonetic": "/rɪˈzjuːm/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "简历；履历",
+      "en": "a short written description of your education, qualifications, and previous jobs",
+      "excerpt": "part of it is because of just the experience, the resume.",
+      "example_cn": "部分原因在于他的经验和履历。"
+    },
+    {
+      "word": "confounding",
+      "phonetic": "/kənˈfaʊn.dɪŋ/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "令人困惑的",
+      "en": "causing confusion or surprise",
+      "excerpt": "it was kind of confounding that because of that he wasn't better earlier in the race.",
+      "example_cn": "令人困惑的是，正因为如此，他在竞选中早期表现并不更好。"
+    },
+    {
+      "word": "piggyback",
+      "phonetic": "/ˈpɪɡ.i.bæk/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "搭便车；附加",
+      "en": "to use something that already exists as a support or basis for something else",
+      "excerpt": "Can I piggyback on that?",
+      "example_cn": "我能在此基础上补充一下吗？"
+    },
+    {
+      "word": "meteoric",
+      "phonetic": "/ˌmiː.tiˈɒr.ɪk/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "流星般的；迅速的",
+      "en": "very fast and impressive, like a meteor",
+      "excerpt": "the meteoric rise of her and the fall of her",
+      "example_cn": "她流星般的崛起和陨落。"
+    },
+    {
+      "word": "progressive",
+      "phonetic": "/prəˈɡres.ɪv/",
+      "pos": "adj./n.",
+      "level": "六级",
+      "cn": "进步的；进步派",
+      "en": "in favor of social reform or new ideas, or a person who supports such ideas",
+      "excerpt": "it was not a great night for that sort of progressive wing.",
+      "example_cn": "对于那种进步派来说，这不是一个美好的夜晚。"
+    },
+    {
+      "word": "narrative",
+      "phonetic": "/ˈnær.ə.tɪv/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "叙述；叙事",
+      "en": "a story or a description of events",
+      "excerpt": "there was going into tonight a narrative of how will the progressive wing of the Democratic Party do?",
+      "example_cn": "今晚之前有一个叙事：民主党的进步派会表现如何？"
+    },
+    {
+      "word": "competitive",
+      "phonetic": "/kəmˈpet.ɪ.tɪv/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "有竞争力的",
+      "en": "able to compete successfully with others",
+      "excerpt": "Are we looking at somebody who is truly competitive this fall?",
+      "example_cn": "我们是否在关注一个在今年秋天真正有竞争力的人？"
+    },
+    {
+      "word": "outsider",
+      "phonetic": "/ˌaʊtˈsaɪ.dər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "局外人；外来者",
+      "en": "a person who is not part of a particular group or organization",
+      "excerpt": "He campaigned, however, with an outsider message.",
+      "example_cn": "然而，他以局外人的信息进行竞选。"
+    },
+    {
+      "word": "outspend",
+      "phonetic": "/ˌaʊtˈspend/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "花费超过",
+      "en": "to spend more money than someone else",
+      "excerpt": "We were outspent, opposed by the establishment.",
+      "example_cn": "我们被对手花费更多，受到建制派的反对。"
+    },
+    {
+      "word": "conflation",
+      "phonetic": "/kənˈfleɪ.ʃən/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "合并；混同",
+      "en": "the act of combining two or more ideas, texts, etc. into one",
+      "excerpt": "there's been so much conflation of, like, Trump with Make America Healthy Again",
+      "example_cn": "特朗普与“让美国再次健康”运动被大量混为一谈。"
+    },
+    {
+      "word": "coalition",
+      "phonetic": "/ˌkəʊ.əˈlɪʃ.ən/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "联盟；联合",
+      "en": "a group of people or organizations who join together for a common purpose",
+      "excerpt": "this coalition of voters and support that exists outside of Trump.",
+      "example_cn": "这个存在于特朗普之外的选民和支持者联盟。"
+    },
+    {
+      "word": "ammunition",
+      "phonetic": "/ˌæm.jəˈnɪʃ.ən/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "弹药；论据",
+      "en": "bullets, shells, etc. that are fired from weapons, or information used to support an argument",
+      "excerpt": "So I think there's a lot of ammunition to use on this intent.",
+      "example_cn": "所以我认为在这个意图上有大量弹药可用。"
+    },
+    {
+      "word": "handicapper",
+      "phonetic": "/ˈhæn.di.kæp.ər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "预测者；障碍赛马师",
+      "en": "a person who predicts the outcome of races or elections",
+      "excerpt": "if you talk to the handicappers, I don't think it's -- it's maybe the top level state for them.",
+      "example_cn": "如果你和预测者交谈，我不认为这是他们的顶级目标州。"
+    },
+    {
+      "word": "complacent",
+      "phonetic": "/kəmˈpleɪ.sənt/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "自满的；得意的",
+      "en": "feeling so satisfied with your own abilities or situation that you do not feel you need to try harder",
+      "excerpt": "Democrats can't be complacent.",
+      "example_cn": "民主党人不能自满。"
+    },
+    {
+      "word": "midterms",
+      "phonetic": "/ˈmɪd.tɜːmz/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "中期选举",
+      "en": "elections held in the middle of a president's term",
+      "excerpt": "going into the midterms to really pay attention.",
+      "example_cn": "进入中期选举时要真正关注。"
+    },
+    {
+      "word": "mailer",
+      "phonetic": "/ˈmeɪ.lər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "邮寄广告；邮件",
+      "en": "a piece of advertising material sent by mail",
+      "excerpt": "He had a lot of ads out, a lot of mailers.",
+      "example_cn": "他投放了大量广告和邮寄广告。"
+    },
+    {
+      "word": "machinery",
+      "phonetic": "/məˈʃiː.nər.i/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "机器；机构",
+      "en": "the parts of a machine, or a system or organization that does something",
+      "excerpt": "you really do need the political establishment and some of the Democratic machinery",
+      "example_cn": "你确实需要政治建制派和部分民主党机器。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "The latest projections show Republican Steven Hilton and Democrat Xavier Becerra in the top two positions with billionaire Tom Steyer in third.",
+      "cn": "最新预测显示共和党人史蒂文·希尔顿和民主党人泽维尔·贝塞拉位居前两名，亿万富翁汤姆·斯泰尔位列第三。",
+      "structure": "主谓宾结构：主语（The latest projections）+ 谓语（show）+ 宾语（Republican Steven Hilton and Democrat Xavier Becerra）+ 宾语补足语（in the top two positions）+ 伴随状语（with billionaire Tom Steyer in third）。",
+      "analysis": "这是一个简单句，谓语show后接复合宾语，其中in the top two positions是宾语补足语，with结构作伴随状语，表示并列情况。"
+    },
+    {
+      "en": "As long as we can make it into the top two, Californians will be able to change the trajectory of our state away from policies that have given us the highest poverty rate, the highest unemployment rate in the country, the highest cost of living -- all the problems that we know about.",
+      "cn": "只要我们能够进入前两名，加州人就能改变我们州的发展轨迹，摆脱那些给我们带来全国最高贫困率、最高失业率、最高生活成本的政策——所有我们熟知的问题。",
+      "structure": "条件状语从句（As long as we can make it into the top two）+ 主句（Californians will be able to change the trajectory of our state away from policies）+ 定语从句（that have given us...）。",
+      "analysis": "这是一个复合句，As long as引导条件状语从句，主句中away from policies是介词短语作状语，policies后接that引导的定语从句，定语从句中并列了三个名词短语作宾语。"
+    },
+    {
+      "en": "Historically speaking, the late ballots have tended to shift the overall vote to be more Democratic.",
+      "cn": "从历史上看，晚到的选票往往使整体投票结果更倾向于民主党。",
+      "structure": "插入语（Historically speaking）+ 主谓宾结构：主语（the late ballots）+ 谓语（have tended to shift）+ 宾语（the overall vote）+ 宾语补足语（to be more Democratic）。",
+      "analysis": "这是一个简单句，Historically speaking是独立成分，谓语tend to后接不定式短语shift...to be...，其中to be more Democratic是宾语补足语。"
+    },
+    {
+      "en": "And what's so interesting is look at the margin.",
+      "cn": "而非常有趣的是看看这个差距。",
+      "structure": "主语从句（What's so interesting）+ 系动词（is）+ 表语（look at the margin）。",
+      "analysis": "这是一个主系表结构，主语由what引导的主语从句充当，表语是省略to的不定式短语（祈使语气）。"
+    },
+    {
+      "en": "I think back to the fact that Trump -- the first time he ran he lost the Iowa caucuses, and it turns out he lost in Iowa yet again here in the Republican primary or caucus.",
+      "cn": "我回想起一个事实：特朗普第一次竞选时输掉了爱荷华州党团会议，而事实证明他在这次共和党初选或党团会议中再次在爱荷华州失利。",
+      "structure": "主句（I think back to the fact）+ 同位语从句（that Trump...lost...and it turns out...）。",
+      "analysis": "这是一个复合句，fact后接that引导的同位语从句，从句由两个并列分句组成，第二个分句中it turns out后接省略that的宾语从句。"
+    },
+    {
+      "en": "And what is so important to note here is while Kean ran unopposed, this is a district that only voted for Donald Trump I believe by about one point -- one point in that district.",
+      "cn": "这里需要特别注意的是，虽然基恩没有对手，但这个选区据我看来只以大约一个百分点的优势投票给了唐纳德·特朗普——在该选区仅一个百分点。",
+      "structure": "主语从句（What is so important to note here）+ 系动词（is）+ 表语从句（while Kean ran unopposed, this is a district...）。",
+      "analysis": "这是一个主系表结构，主语由what引导的主语从句充当，表语是一个复合句，包含while引导的让步状语从句和主句，主句中district后接that引导的定语从句，I believe是插入语。"
+    },
+    {
+      "en": "And so what we're dealing with now is an absentee congressman who has not been seen for a very long period of time.",
+      "cn": "所以我们现在面对的是一个长期不见踪影的缺席议员。",
+      "structure": "主语从句（what we're dealing with now）+ 系动词（is）+ 表语（an absentee congressman）+ 定语从句（who has not been seen...）。",
+      "analysis": "这是一个主系表结构，主语由what引导的主语从句充当，表语congressman后接who引导的定语从句。"
+    },
+    {
+      "en": "You can remember last year in New Jersey, in that gubernatorial race, the Democrat easily, easily, easily won.",
+      "cn": "你还记得去年在新泽西州长竞选中，民主党人轻松、轻松、轻松地获胜。",
+      "structure": "主谓宾结构：主语（You）+ 谓语（can remember）+ 宾语（last year in New Jersey, in that gubernatorial race, the Democrat easily, easily, easily won）。",
+      "analysis": "这是一个简单句，宾语是一个省略了that的从句，从句中主语the Democrat，谓语won，easily重复三次表示强调。"
+    },
+    {
+      "en": "And the question is if New Jersey is as blue this time around and given that this is a swing district, can Tom Kean actually survive this general election come November?",
+      "cn": "问题是，如果新泽西这次仍然那么蓝，而且鉴于这是一个摇摆选区，汤姆·基恩真的能在11月的大选中幸存吗？",
+      "structure": "主句（the question is）+ 表语从句（if New Jersey is as blue...and given that...can Tom Kean actually survive...）。",
+      "analysis": "这是一个主系表结构，表语从句是一个复合句，包含if引导的条件状语从句和given that引导的状语，主句是疑问句can Tom Kean actually survive...。"
+    },
+    {
+      "en": "I think that at the end of the day, like, this race will end up being when you look at the Democrats that ascended and how Becerra sort of benefited from Swalwell's fall and from the allegations and him having to pull out of the race, part of it is because of just the experience, the resume.",
+      "cn": "我认为归根结底，当你审视那些晋升的民主党人以及贝塞拉如何从斯瓦尔韦尔的落马、指控以及他被迫退出竞选中受益时，部分原因就在于经验和履历。",
+      "structure": "主句（I think）+ 宾语从句（that...this race will end up being...part of it is because of...）。",
+      "analysis": "这是一个复合句，宾语从句由that引导，从句中嵌套了when引导的时间状语从句，主句是this race will end up being...，后面part of it is because of...是并列分句。"
+    },
+    {
+      "en": "And so what we're dealing with now is an absentee congressman who has not been seen for a very long period of time.",
+      "cn": "所以我们现在面对的是一个长期不见踪影的缺席议员。",
+      "structure": "主语从句（what we're dealing with now）+ 系动词（is）+ 表语（an absentee congressman）+ 定语从句（who has not been seen...）。",
+      "analysis": "这是一个主系表结构，主语由what引导的主语从句充当，表语congressman后接who引导的定语从句。"
+    },
+    {
+      "en": "I think that at the end of the day, like, this race will end up being when you look at the Democrats that ascended and how Becerra sort of benefited from Swalwell's fall and from the allegations and him having to pull out of the race, part of it is because of just the experience, the resume.",
+      "cn": "我认为归根结底，当你审视那些晋升的民主党人以及贝塞拉如何从斯瓦尔韦尔的落马、指控以及他被迫退出竞选中受益时，部分原因就在于经验和履历。",
+      "structure": "主句（I think）+ 宾语从句（that...this race will end up being...part of it is because of...）。",
+      "analysis": "这是一个复合句，宾语从句由that引导，从句中嵌套了when引导的时间状语从句，主句是this race will end up being...，后面part of it is because of...是并列分句。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "California Governor Primary Election",
+      "content": "2026年6月2日，加利福尼亚州举行州长初选。由于众议员埃里克·斯瓦尔韦尔因不当行为指控退出，竞争变得激烈。最新预测显示共和党人史蒂夫·希尔顿和民主党人泽维尔·贝塞拉位居前两名，亿万富翁汤姆·斯泰尔位列第三。前两名将进入11月的大选。加州采用“丛林初选”制度，所有候选人同台竞争，得票最高的两人进入大选，无论党派。",
+      "keywords": "California, governor, primary, runoff, Steve Hilton, Xavier Becerra, Tom Steyer"
+    },
+    {
+      "title": "Los Angeles Mayor's Race",
+      "content": "洛杉矶市长选举中，现任民主党人凯伦·巴斯将进入11月的决胜选举。共和党真人秀明星斯宾塞·普拉特排名第二，很可能成为她的对手。普拉特利用选民对 affordability 和生活质量问题的愤怒，但能否提出具体计划仍是疑问。",
+      "keywords": "Los Angeles, mayor, runoff, Karen Bass, Spencer Pratt, affordability"
+    },
+    {
+      "title": "Iowa Republican Gubernatorial Primary",
+      "content": "爱荷华州共和党州长初选中，特朗普支持的候选人兰迪·芬斯特拉输给了商人扎克·拉恩。拉恩是农民和商人，从未担任公职，但得到了“让美国再次健康”运动的支持。这打破了特朗普在共和党初选中一贯的胜选记录。",
+      "keywords": "Iowa, governor, primary, Trump endorsement, Randy Feenstra, Zach Lahn, MAHA"
+    },
+    {
+      "title": "New Mexico Democratic Gubernatorial Primary",
+      "content": "新墨西哥州前内政部长德布·哈兰德以超过70%的得票率赢得民主党州长提名。如果当选，她将成为该州第一位美洲原住民州长。哈兰德强调代表性在政治中的重要性。",
+      "keywords": "New Mexico, governor, primary, Deb Haaland, Native American, representation"
+    },
+    {
+      "title": "Progressive vs. Establishment Dynamics",
+      "content": "本次初选夜显示，进步派候选人表现不佳。例如，加州参议员凯蒂·波特仅获4.6%的选票，洛杉矶市长候选人尼提亚·拉曼也未能进入决胜轮。而建制派候选人如贝塞拉和巴斯则表现更好。这反映了民主党内部进步派与建制派之间的张力。",
+      "keywords": "progressive, establishment, Democratic Party, Katie Porter, Nithya Raman"
+    },
+    {
+      "title": "Veterans in Politics",
+      "content": "退伍军人团体“Vote Vet”在本次选举中投入970万美元支持爱荷华州参议员候选人乔什·图雷克。该团体利用反战情绪，强调退伍军人问题。图雷克以“厌倦了为亿万富翁服务的体制”为口号，试图吸引跨党派选民。",
+      "keywords": "veterans, Vote Vet, Josh Turek, anti-war, Iowa Senate"
+    }
+  ],
+  "raw_transcript": "\n\n \n\n\t\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Transcript Providers\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n\n \n \n \n\n\t\n \n \n  \n\t\n\nReturn to Transcripts main page\n\nCNN This Morning\nSix States Count Votes From Tuesday's Primary Elections; California Governor Primary Too Early To Call; L.A Mayor Karen Bass Advances To Runoff. Aired 5:30-6a ET\nAired June 03, 2026 - 05:30   ET\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n(COMMERCIAL) [05:34:30] AUDIE CORNISH, CNN ANCHOR: Welcome back to CNN's special coverage of election night in America. We are tracking California where votes are still being counted and the primary race for governor is too close to call. The latest projections show Republican Steven Hilton and Democrat Xavier Becerra in the top two positions with billionaire Tom Steyer in third. The top two advance to the general election in November. [05:35:00] (BEGIN VIDEO CLIP) STEVE HILTON, (R) CANDIDATE FOR CALIFORNIA GOVERNOR: As long as we can make it into the top two, Californians will be able to change the trajectory of our state away from policies that have given us the highest poverty rate, the highest unemployment rate in the country, the highest cost of living -- all the problems that we know about. But we can turn them around with common-sense practical ideas such as the ones I'm running on to make our state, in my word, \"Califordable.\" (END VIDEO CLIP) CORNISH: So in the L.A. mayor's race, incumbent Democrat Karen Bass will advance in the November runoff. Republican reality star Spencer Pratt appears likely to advance with her. In Iowa, that Republican primary for governor, a notable end to the president's winning streak. Trump-backed Randy Feenstra conceding to businessman Zach Lahn in the Republican primary. And in New Mexico, former interior secretary Deb Haaland won the Democratic nomination for governor with more than 70 percent of that vote. (BEGIN VIDEO CLIP) DEB HAALAND, (D) FORMER INTERIOR SECRETARY: We've never had a Native American governor in New Mexico. We're a multicultural state. I think it's important. I think representation matters, especially in a political era such as this one. (END VIDEO CLIP) CORNISH: We're going to bring in CNN's chief data analyst Harry Enten. Harry, you're back. Tell us how close these ballots are in the governor's race for California and also what's happening on the Republican side. HARRY ENTEN, CNN CHIEF DATA ANALYST: Yeah. I mean, look, here's the situation in California. There are a couple of key nuggets to keep I mind. First off, I just want to point out we got 57 percent of the estimated vote in, and this is just an estimate, right. We know historically speaking that California takes days and weeks to count its ballots. And what we see right now and what I think is so important is you see Steve Hilton at 27.8 percent; Xavier Becerra, 25.4 percent. The key question is the third man in this race, Tom Steyer, who is at 19.6 percent. Historically speaking, the late ballots have tended to shift the overall vote to be more Democratic. Can Tom Steyer use those late ballots that come in to actually close the gap not just between him and Becerra but him and Hilton? And Hilton, of course, right now at 27.8 percent. Now you mentioned, of course, what about that other Republican? Well, there was all this talk earlier on in the campaign. Hey, maybe Chad Bianco and Steve Hilton -- they would combine and they would be the top two spots and lock out the Democrats. It ain't happening, Audie. It ain't happening. Bianco is way back. At this point the real question is will Steve Hilton make the second round and actually make it to the general election? At this point he is in the lead, but we've still got a lot of votes to be counter. And Steyer is close enough whereby we can't say for sure who is going to actually make the November general election. CORNISH: Because we're still waiting on that then, do you mind if we go over to Iowa because they also -- ENTEN: Yes. CORNISH: -- are talking about the governor's race. There was an Iowa Republican primary there between two interesting candidates -- an incumbent who had the backing of Trump last minute, and that's not the person it looks like is coming out on top. Tell me about Lahn. ENTEN: Yeah, OK. So what are we talking about? Zach Lahn ends up winning this race. And what's so interesting, right, Randy Feenstra, who in fact is the incumbent in Iowa's 4th congressional district -- Trump came in with the late endorsement. And what we've seen historically speaking is when Trump endorses you in a Republican primary -- hey, you go on and win. But that did not happen here. And more interesting than that, I brought out my sheet of paper here. This is really high-tech math right here. OK, I'm going to draw for you on the screen because what is so interesting to me is there were absentee votes and there were Election Day votes. And what happened in the Election Day vote, after Trump made that endorsement guess who came ahead by 5,000 votes -- 5K votes? It was Zach Lahn who won that Election Day vote by 5,000 votes. And what's so interesting is look at the margin. The overall margin is only 1,652. That means that Lahn won this election with an Election Day push of votes even after Trump made the endorsement. I think back to the fact that Trump -- the first time he ran he lost the Iowa caucuses, and it turns out he lost in Iowa yet again here in the Republican primary or caucus. CORNISH: Um, I want to ask you about just kind of a quirky race, which is New Jersey's 7th district. Stay with me. And that's because you have a congressperson who has been kind of missing in action the last couple of months. He's only given on interview in that time. This is Tom Kean Jr. I'm sure he kind of sailed to victory here but did we see anything interesting in the way of turnout? ENTEN: Yeah. I mean, here's the thing that I think is so interesting is the Democrats got who they wanted to run in that district in Rebecca Bennett. And what is so important to note here is while Kean ran unopposed, this is a district that only voted for Donald Trump I believe by about one point -- one point in that district. And it was a district that Joe Biden, in fact, won by I believe four points. [05:40:10] And so what we're dealing with now is an absentee congressman who has not been seen for a very long period of time. Democrats got the candidate they wanted. You can remember last year in New Jersey, in that gubernatorial race, the Democrat easily, easily, easily won. Blew the water out of it. And the question is if New Jersey is as blue this time around and given that this is a swing district, can Tom Kean actually survive this general election come November? I think it's awfully difficult if, you know, nobody's actually seeing him. CORNISH: OK, Harry. Thank you so much. ENTEN: Thank you. CORNISH: I hope you get some rest one day soon. ENTEN: I'm going to try. My voice -- my voice is a little dulling, but I've got some water here. I'm going to take a drink. CORNISH: All right. You guys, I want to have this conversation with you about the California's governor -- California governor's race. You heard Harry there. It basically became a kind of free-for-all after Congressman Eric Swalwell withdrew over allegations of misconduct. So who took advantage? Who missed out? Sabrina, can I start with you? You've got someone like Delores Huerta crediting Latinos basically for the rise of this era. Let me play that for you. (BEGIN VIDEO CLIP) DELORES HUERTA, LABOR RIGHTS ACTIVIST, BECERRA VOTER: I think it's kind of retribution because we know that the Latino community has been under such a vicious attack from the Trump administration not only in California but through the United States of America. And so I think this will demonstrate to the world that number one, that we are very competent individuals and that we do have the leadership within our community that can govern. (END VIDEO CLIP) CORNISH: Let me play for you another pundit. Same argument, different tone. Jesse Watters, Fox News. (BEGIN VIDEO CLIP) JESSE WATERS, FOX NEWS HOST: He's up against a guy whose biggest qualification is the sound of his name in a state that's half Hispanic, Xavier Becerra. (END VIDEO CLIP) CORNISH: Hearing the pronunciation there he really -- MIKE LEON, HOST, \"CAN WE PLEASE TALK\": It's Becerra. CORNISH: -- leaned in. Really leaned in. SABRINA RODRIGUEZ, POLITICS REPORTER, THE WALL STREET JOURNAL: I think Latinos will be part of the story, no question about it, when we talk about Becerra's rise in the last few weeks of this race and when we talk about heading to the general election. There's going to be plenty of stories about where are Latino voters heading as had to -- CORNISH: But in California isn't there a particular politics there? You've had a Black community there. Bass kind of -- Karen Bass represents that kind of candidate. The person who is establishment. Black political figure. And then you've a rising political Latino infrastructure that at times has felt as though they were pushed aside and that they were pushed aside by Democrats. RODRIGUEZ: No question. And I think Steyer tried to take advantage of that. I mean, we saw him deploy, for example, Carlos Manuel Espina, one of like the biggest Latino influencers in the country, on the campaign trail and definitely tried to tailor and target part of his campaign toward Latino voters recognizing, obviously, what a sizeable population it is in California. But I think that at the end of the day, like, this race will end up being when you look at the Democrats that ascended and how Becerra sort of benefited from Swalwell's fall and from the allegations and him having to pull out of the race, part of it is because of just the experience, the resume. LEON: Yeah. CORNISH: But what did Swalwell stand for -- I mean, putting aside, like, the misconduct, right, because that's the issue that took him down? Was it just name recognition or was there a particular lane he occupied? ZACHARY WOLF, CNN SENIOR POLITICS WRITER, AUTHOR, \"WHAT MATTERS\" NEWSLETTER: He was very loud in the anti-Trump -- CORNISH: OK. WOLF: -- space. CORNISH: Yeah. WOLF: Online, on X, Twitter. Like, that's where he was. And, you know, not to dignify Jesse Waters too much here but, you know, going back and just to fact-check him, Becerra was the former state attorney general. He was a former member of Congress for a long time. LEON: (INAUDIBLE). WOLF: Yeah. He was the HHS secretary. He had the single-best government leadership resume. And so maybe it was kind of confounding that because of that he wasn't better earlier in the race. And I think that surprised a lot of people. LEON: Can I piggyback on that? One thing that Harry didn't show there in the numbers -- scroll down a little bit more. Katie Porter -- CORNISH: Yeah. LEON: I -- we -- two years ago -- CORNISH: Who went in the star -- yeah, yeah, yeah. LEON: Two years ago the conversation around -- CORNISH: You -- let me let you preach on this for a minute -- LEON: Oh, two years ago -- CORNISH: -- because every -- all the progressives -- LEON: Yeah. CORNISH: Once they saw her PowerPoints they were like this -- we're into this. LEON: Exactly. The Trump boards of whatever. CORNISH: Yeah. LEON: And then all of a sudden one little video of her yelling at an assistant and some other things that came out around her. And to see 4.6 percent, I think it was on that map. I mean, I'm not Harry Enten, the data guy, but I can be for that time. And it's incredible to see the meteoric rise of her and the fall of her, especially after Swalwell and what you mentioned -- CORNISH: Yeah. LEON: -- since dropping out -- CORNISH: So now you're saying that's two stars falling. WOLF: Well, and -- or take it -- go the progressive route if you look at Raman in the L.A. mayor's race. If you look at, you know, in Iowa in the Senate race. The more establishment guy won the Democratic primary there. You know, it was not a great night for that sort of progressive wing. [05:45:05] CORNISH: Yeah. I'm glad you're bringing it up and we're going to talk about this more in the show because there was going into tonight a narrative of how will the progressive wing of the Democratic Party do? How will Trump-endorsed candidates do? And we're starting to get a little bit of a picture of that. And a third thing I'm interested in is how did vets do? There's a whole world of veterans who have entered politics and I'm intrigued. But very -- before we leave California, I want to talk about Steve Hilton. Earlier when we played that clip of him what I found interesting is it wasn't just his name over and over behind him. Do you know what I mean? LEON: Califordable? CORNISH: Yeah, Califordable. It was like $3.00 gas. LEON: Yes. CORNISH: This with the housing, right? It really spoke to the issues of California. Is he close, right? Are we looking at somebody who is truly competitive this fall? LEON: Well, I think from a messaging standpoint he's doing a great job. I mean, if you just look -- look at the three things that -- you and I both looked at that very quickly. CORNISH: Yeah, but it wasn't -- it wasn't like these are Trump's policies and this is what I'm backing. LEON: Exactly. CORNISH: It was like I know you're thinking of X, Y, and Z. LEON: The other thing with Hilton is obviously being on TV gets you this polished sense of being able to talk to people in front of a camera. He's also worked for Super PACs as well. So he has a little bit of that background. What you said earlier, Zach, about like the Spencer Pratt race, once we start to drill into policies and once we get to the general, we've got to figure out how do you make California affordable? Because it is one of the biggest economies, right -- CORNISH: Yeah. LEON: -- on its own. I don't know how you make California affordable. We were talking off air about some industries that have left. Production and -- CORNISH: Yeah. LEON: How do you change that around? What's his plan for that? I don't know it. CORNISH: OK. I want to turn to another state where people are dealing with affordability issues -- farm country, right, in Iowa. The primary season trend of President Trump's preferred candidate winning isn't so clearcut yet. CNN projects that Trump-backed candidate Randy Feenstra will lose the GOP gubernatorial primary there to Zach Lahn. And Lahn is a farmer and a businessman who has never held office. So he did have the support from influencers with the so-called \"Make America Healthy Again\" movement. He campaigned, however, with an outsider message, calling out the Iowa Republican establishment. (BEGIN VIDEO CLIP) ZACH LAHN, (R) IOWA GUBERNATORIAL CANDIDATE: I don't have to tell you this, but nobody thought this could be done. We were outspent, opposed by the establishment. Told to wait our turn. Well, tonight the people of Iowa had something to say about that -- that we're not going to wait anymore. (END VIDEO CLIP) CORNISH: Um, this was a fascinating race to me because a) we were outspent. But I'm also not surprised that a farmer would have an outside voice in this election given what they have been through with tariffs, with even let's say immigration labor concerns. Um, Sabrina, you have been watching Iowa. What's interesting for you? RODRIGUEZ: And I think what's interesting here is sort of to see the distinction. Like, going into last night so much of the conversation has been, like, everyone that Trump endorses ultimately wins. And sort of, we've seen it in race after race where he's supported someone in a primary and they come out of it. He gets to say look at how my endorsement helps. This is a case where -- this is a rare case for him, but this is a case where that didn't play out. One of the things that interested -- CORNISH: Wait. Was it just because it was too little too late? I mean, he did it, like, just a few days ago. RODRIGUEZ: I mean, he did it for Paxton in Texas as well and gets to have the win and gets to have the, like, I endorsed the winner. CORNISH: OK. RODRIGUEZ: So this one is like he put his -- like he guessed or bet that he was going to win -- that Feenstra was going to win and ultimately it didn't play out that way. But I think that -- in this one I think what I find really interesting is sort of that distinction between there was the Trump-endorsed candidate and there was the MAHA-endorsed candidate. And there's been so much conflation of, like, Trump with Make America Healthy Again -- CORNISH: Yeah. RODRIGUEZ: -- and how they supported him in 2024. And this sort of shows this coalition of voters and support that exists outside of Trump. CORNISH: Yeah, and I'm going to wonder where TPUSA put its money in those races as well given some sort of slivers of that coalition that are extremely anti-war. And yeah -- WOLF: And the war -- specifically, that is a policy that has affected farmers in Iowa. CORNISH: Right, yeah. WOLF: The diesel prices. You know, fertilizer prices. Those are things that we keep seeing stories about and they will filter down into the politics. CORNISH: Can I turn to Democrats for a second? I've been fascinated at the spending being done by Vote Vet. They are a group that started back in 2006 in the anti-war time then and they're sort of back with a vengeance now in this anti-forever wars moment. They spent $9.7 million on ads for Josh Turek who is the Democrat -- one of the Democrats who was running for Senate. And what do you think about their rise in this moment? LEON: Well, I think back to Zach's overall point. The war is something that has unified a lot of different coalitions -- CORNISH: Yes. LEON: -- because Trump ran on no new wars and then he started a war. Well, first it was a military operation, then it became a war. So you've got different factions not only within MAGA that are upset about that; you have people that are maybe libertarian or a little bit center-left that are upset about that. [05:50:03] And the fact that this group has pumped in money around veterans, saying we don't -- a) we don't take care of our veterans when they come back. B) We're putting them into another conflict, and we've already lost 13 U.S. soldier lives. So I think there's a lot of ammunition to use on this intent -- CORNISH: Yeah. I notice in Montana, I think Alani Bankhead, another candidate who is running -- she has a huge security background. Again, running as kind of like I'm a vet. I know the Pentagon. I know how this spending should be done and I think it should be different. Um, I want to play for you Josh Turek on Tuesday kind of giving one of his messages. It'll give you a sense of how he had been talking on the campaign trail. (BEGIN VIDEO CLIP) JOSH TUREK, (D) IOWA STATE REP. SENATE CANDIDATE: If you are tired of this rigged system only looking out for billionaires and leaving the rest of us behind, then join us. Whether you are Republican, an Independent or Democrat, there is room here for you in our campaign. Together we can win this race. (END VIDEO CLIP) CORNISH: Is this going to be competitive -- Iowa? WOLF: Uh, I mean, if you talk to the handicappers, I don't think it's -- it's maybe the top level state for them. Democrats do need to win multiple states that Trump won by a lot in order to make -- LEON: Right. WOLF: -- the Senate competitive. CORNISH: But they're trying. There's no places where -- WOLF: Oh, yeah. CORNISH: -- people are like giving up. It's a little bit like the Republican spending in Texas. And you're like should you need to spend this amount of money in Texas? WOLF: Yeah. And, you know, forcing the spending is part of the game too for, you know, the money people in the parties. So -- RODRIGUEZ: It's interesting that we're talking about Iowa though, right? I mean, it's been -- like if I look at my email inbox, I am consistently getting emails about these races in Iowa and Democrats. CORNISH: See, (INAUDIBLE). Yes, that's right. RODRIGUEZ: And Democrats really pushing a point. LEON: Yeah. RODRIGUEZ: And it is interesting because it is a state that Trump won by double digits. I mean, it is like considered reliably a Republican state. And you kind of look at it as this place where I remember, you know, going into the 2024, like, Iowa caucuses and like trying to see, like, OK, vibe check on like is Trump going to move forward? Where are we at and where are we at in the Republican Party today? So it's interesting to see it become a place that's being talked about as competitive. I think when you look at -- CORNISH: Yeah. RODRIGUEZ: -- like one of the top five races, ultimately Iowa will not be one of them. But you can't discount it. And I think you have to -- LEON: It all depends on where we are with respect to issues. The war, et cetera. CORNISH: OK. You guys, next we're going to be talking about the votes that are still being counted in California this morning. And we will have the latest on the top races in the state. Later on CNN, after a reported sexting scandal, the Senate candidate Graham Platner in Maine facing more backlash, this time from a fellow Democrat. (COMMERCIAL) [05:56:55] CORNISH: The primary race for governor in California too close to call. Republican Steve Hilton and Democrat Xavier Becerra hold the top two spots. Billionaire Tom Steyer is third. In the Los Angeles mayor's race CNN projects incumbent Democrat Karen Bass will advance to the November runoff. Republican reality star Spencer Pratt is running second and appears likely to be her opponent. (BEGIN VIDEO CLIP) UNIDENTIFIED MALE: No more TV stars, please. No more reality stars, TV stars. We don't need that anymore. UNIDENTIFIED MALE: So it's hard to vote for a billionaire but at the end of the day he is the one that I think is saying the most things that align with my personal values. And we're going to hold his feet to the fire and make sure he does those things. (END VIDEO CLIP) CORNISH: We're going to bring in now Sarah McGregor, managing editor of the National Team at Bloomberg News. Good morning. I know you've had a long night. Were there any surprises that kept you up? SARAH MCGREGORY, MANAGING EDITOR OF THE NATIONAL TEAM, BLOOMBERG NEWS (via Webex by Cisco): I think the most surprising thing is just how close the race was at the end of the day between the governor -- we're still waiting for the final results, but for the governor's spot between Hilton and Becerra. I think there was a lot of questions coming up to this whether Tom Steyer, who spent more than $200 million of his own wealth -- whether he would be a really tight contender. And it looks like he's trailing and has been all night pretty far behind the top two vote-getters. And I think what it really says is that Democrats can't be complacent. If you can't sort of, you know, blow through to the win in a state like California -- a deep blue state -- then you -- it really should be a warning sign I think for Democrats going into the midterms to really pay attention. CORNISH: Can we take a beat and talk about Tom Steyer for a moment given how much money he spent, his performance? We had someone here earlier mentioning how much he spent, for instance, trying to reach the Latino community in particular. But do you get the sense that this was anti-billionaire kind of thing or did just the other candidates sort of overtake him? MCGREGOR: I think he always had a tough hill to climb. Just name recognition, you know, and he doesn't have that political experience like someone like Becerra and the state has. So he always had sort of a tough -- a tough climb that -- in that respect and he really did poll well. I think better than people expected from the beginning. He had a lot of ads out, a lot of mailers. You know, everywhere you looked around you did see Tom Steyer. He had that name recognition. But I think there's only so much that money can buy you in terms of really getting out the vote. And so even though -- even though he had the money behind him I think it shows that you really do need the political establishment and some of the Democratic machinery to really -- to really, you know, get across the finish line. CORNISH: Um, we just have about a minute left here. What are you going to be watching for in the L.A. mayor's race? What's the margin that you want to see? MCGREGOR: Again, another one as we're looking at results coming in. That's another one that's I think closer than people expected. I think some thought that Nithya Raman would give Mayor Bass also a run for her money. So I do think we'll be looking at what Spencer Pratt's solutions are if he does make it to the general election. Who can convince voters they actually have a plan. Spencer Pratt tapped into anger about a lot of issues that Angelinos have about affordability and quality of life issues. But now can he convince voters that he's the right person to act. CORNISH: OK. \n\n \n \n \n\n \n \n \n \n \n \n \n\t\n\n \n\n",
+  "segments": [
+    {
+      "seg": 2,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-03/segment/02",
+      "title": "CNN.com - Transcripts",
+      "text": "\n\n \n\n\t\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Transcript Providers\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n\n \n \n \n\n\t\n \n \n  \n\t\n\nReturn to Transcripts main page\n\nCNN This Morning\nSix States Count Votes From Tuesday's Primary Elections; California Governor Primary Too Early To Call; L.A Mayor Karen Bass Advances To Runoff. Aired 5:30-6a ET\nAired June 03, 2026 - 05:30   ET\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n(COMMERCIAL) [05:34:30] AUDIE CORNISH, CNN ANCHOR: Welcome back to CNN's special coverage of election night in America. We are tracking California where votes are still being counted and the primary race for governor is too close to call. The latest projections show Republican Steven Hilton and Democrat Xavier Becerra in the top two positions with billionaire Tom Steyer in third. The top two advance to the general election in November. [05:35:00] (BEGIN VIDEO CLIP) STEVE HILTON, (R) CANDIDATE FOR CALIFORNIA GOVERNOR: As long as we can make it into the top two, Californians will be able to change the trajectory of our state away from policies that have given us the highest poverty rate, the highest unemployment rate in the country, the highest cost of living -- all the problems that we know about. But we can turn them around with common-sense practical ideas such as the ones I'm running on to make our state, in my word, \"Califordable.\" (END VIDEO CLIP) CORNISH: So in the L.A. mayor's race, incumbent Democrat Karen Bass will advance in the November runoff. Republican reality star Spencer Pratt appears likely to advance with her. In Iowa, that Republican primary for governor, a notable end to the president's winning streak. Trump-backed Randy Feenstra conceding to businessman Zach Lahn in the Republican primary. And in New Mexico, former interior secretary Deb Haaland won the Democratic nomination for governor with more than 70 percent of that vote. (BEGIN VIDEO CLIP) DEB HAALAND, (D) FORMER INTERIOR SECRETARY: We've never had a Native American governor in New Mexico. We're a multicultural state. I think it's important. I think representation matters, especially in a political era such as this one. (END VIDEO CLIP) CORNISH: We're going to bring in CNN's chief data analyst Harry Enten. Harry, you're back. Tell us how close these ballots are in the governor's race for California and also what's happening on the Republican side. HARRY ENTEN, CNN CHIEF DATA ANALYST: Yeah. I mean, look, here's the situation in California. There are a couple of key nuggets to keep I mind. First off, I just want to point out we got 57 percent of the estimated vote in, and this is just an estimate, right. We know historically speaking that California takes days and weeks to count its ballots. And what we see right now and what I think is so important is you see Steve Hilton at 27.8 percent; Xavier Becerra, 25.4 percent. The key question is the third man in this race, Tom Steyer, who is at 19.6 percent. Historically speaking, the late ballots have tended to shift the overall vote to be more Democratic. Can Tom Steyer use those late ballots that come in to actually close the gap not just between him and Becerra but him and Hilton? And Hilton, of course, right now at 27.8 percent. Now you mentioned, of course, what about that other Republican? Well, there was all this talk earlier on in the campaign. Hey, maybe Chad Bianco and Steve Hilton -- they would combine and they would be the top two spots and lock out the Democrats. It ain't happening, Audie. It ain't happening. Bianco is way back. At this point the real question is will Steve Hilton make the second round and actually make it to the general election? At this point he is in the lead, but we've still got a lot of votes to be counter. And Steyer is close enough whereby we can't say for sure who is going to actually make the November general election. CORNISH: Because we're still waiting on that then, do you mind if we go over to Iowa because they also -- ENTEN: Yes. CORNISH: -- are talking about the governor's race. There was an Iowa Republican primary there between two interesting candidates -- an incumbent who had the backing of Trump last minute, and that's not the person it looks like is coming out on top. Tell me about Lahn. ENTEN: Yeah, OK. So what are we talking about? Zach Lahn ends up winning this race. And what's so interesting, right, Randy Feenstra, who in fact is the incumbent in Iowa's 4th congressional district -- Trump came in with the late endorsement. And what we've seen historically speaking is when Trump endorses you in a Republican primary -- hey, you go on and win. But that did not happen here. And more interesting than that, I brought out my sheet of paper here. This is really high-tech math right here. OK, I'm going to draw for you on the screen because what is so interesting to me is there were absentee votes and there were Election Day votes. And what happened in the Election Day vote, after Trump made that endorsement guess who came ahead by 5,000 votes -- 5K votes? It was Zach Lahn who won that Election Day vote by 5,000 votes. And what's so interesting is look at the margin. The overall margin is only 1,652. That means that Lahn won this election with an Election Day push of votes even after Trump made the endorsement. I think back to the fact that Trump -- the first time he ran he lost the Iowa caucuses, and it turns out he lost in Iowa yet again here in the Republican primary or caucus. CORNISH: Um, I want to ask you about just kind of a quirky race, which is New Jersey's 7th district. Stay with me. And that's because you have a congressperson who has been kind of missing in action the last couple of months. He's only given on interview in that time. This is Tom Kean Jr. I'm sure he kind of sailed to victory here but did we see anything interesting in the way of turnout? ENTEN: Yeah. I mean, here's the thing that I think is so interesting is the Democrats got who they wanted to run in that district in Rebecca Bennett. And what is so important to note here is while Kean ran unopposed, this is a district that only voted for Donald Trump I believe by about one point -- one point in that district. And it was a district that Joe Biden, in fact, won by I believe four points. [05:40:10] And so what we're dealing with now is an absentee congressman who has not been seen for a very long period of time. Democrats got the candidate they wanted. You can remember last year in New Jersey, in that gubernatorial race, the Democrat easily, easily, easily won. Blew the water out of it. And the question is if New Jersey is as blue this time around and given that this is a swing district, can Tom Kean actually survive this general election come November? I think it's awfully difficult if, you know, nobody's actually seeing him. CORNISH: OK, Harry. Thank you so much. ENTEN: Thank you. CORNISH: I hope you get some rest one day soon. ENTEN: I'm going to try. My voice -- my voice is a little dulling, but I've got some water here. I'm going to take a drink. CORNISH: All right. You guys, I want to have this conversation with you about the California's governor -- California governor's race. You heard Harry there. It basically became a kind of free-for-all after Congressman Eric Swalwell withdrew over allegations of misconduct. So who took advantage? Who missed out? Sabrina, can I start with you? You've got someone like Delores Huerta crediting Latinos basically for the rise of this era. Let me play that for you. (BEGIN VIDEO CLIP) DELORES HUERTA, LABOR RIGHTS ACTIVIST, BECERRA VOTER: I think it's kind of retribution because we know that the Latino community has been under such a vicious attack from the Trump administration not only in California but through the United States of America. And so I think this will demonstrate to the world that number one, that we are very competent individuals and that we do have the leadership within our community that can govern. (END VIDEO CLIP) CORNISH: Let me play for you another pundit. Same argument, different tone. Jesse Watters, Fox News. (BEGIN VIDEO CLIP) JESSE WATERS, FOX NEWS HOST: He's up against a guy whose biggest qualification is the sound of his name in a state that's half Hispanic, Xavier Becerra. (END VIDEO CLIP) CORNISH: Hearing the pronunciation there he really -- MIKE LEON, HOST, \"CAN WE PLEASE TALK\": It's Becerra. CORNISH: -- leaned in. Really leaned in. SABRINA RODRIGUEZ, POLITICS REPORTER, THE WALL STREET JOURNAL: I think Latinos will be part of the story, no question about it, when we talk about Becerra's rise in the last few weeks of this race and when we talk about heading to the general election. There's going to be plenty of stories about where are Latino voters heading as had to -- CORNISH: But in California isn't there a particular politics there? You've had a Black community there. Bass kind of -- Karen Bass represents that kind of candidate. The person who is establishment. Black political figure. And then you've a rising political Latino infrastructure that at times has felt as though they were pushed aside and that they were pushed aside by Democrats. RODRIGUEZ: No question. And I think Steyer tried to take advantage of that. I mean, we saw him deploy, for example, Carlos Manuel Espina, one of like the biggest Latino influencers in the country, on the campaign trail and definitely tried to tailor and target part of his campaign toward Latino voters recognizing, obviously, what a sizeable population it is in California. But I think that at the end of the day, like, this race will end up being when you look at the Democrats that ascended and how Becerra sort of benefited from Swalwell's fall and from the allegations and him having to pull out of the race, part of it is because of just the experience, the resume. LEON: Yeah. CORNISH: But what did Swalwell stand for -- I mean, putting aside, like, the misconduct, right, because that's the issue that took him down? Was it just name recognition or was there a particular lane he occupied? ZACHARY WOLF, CNN SENIOR POLITICS WRITER, AUTHOR, \"WHAT MATTERS\" NEWSLETTER: He was very loud in the anti-Trump -- CORNISH: OK. WOLF: -- space. CORNISH: Yeah. WOLF: Online, on X, Twitter. Like, that's where he was. And, you know, not to dignify Jesse Waters too much here but, you know, going back and just to fact-check him, Becerra was the former state attorney general. He was a former member of Congress for a long time. LEON: (INAUDIBLE). WOLF: Yeah. He was the HHS secretary. He had the single-best government leadership resume. And so maybe it was kind of confounding that because of that he wasn't better earlier in the race. And I think that surprised a lot of people. LEON: Can I piggyback on that? One thing that Harry didn't show there in the numbers -- scroll down a little bit more. Katie Porter -- CORNISH: Yeah. LEON: I -- we -- two years ago -- CORNISH: Who went in the star -- yeah, yeah, yeah. LEON: Two years ago the conversation around -- CORNISH: You -- let me let you preach on this for a minute -- LEON: Oh, two years ago -- CORNISH: -- because every -- all the progressives -- LEON: Yeah. CORNISH: Once they saw her PowerPoints they were like this -- we're into this. LEON: Exactly. The Trump boards of whatever. CORNISH: Yeah. LEON: And then all of a sudden one little video of her yelling at an assistant and some other things that came out around her. And to see 4.6 percent, I think it was on that map. I mean, I'm not Harry Enten, the data guy, but I can be for that time. And it's incredible to see the meteoric rise of her and the fall of her, especially after Swalwell and what you mentioned -- CORNISH: Yeah. LEON: -- since dropping out -- CORNISH: So now you're saying that's two stars falling. WOLF: Well, and -- or take it -- go the progressive route if you look at Raman in the L.A. mayor's race. If you look at, you know, in Iowa in the Senate race. The more establishment guy won the Democratic primary there. You know, it was not a great night for that sort of progressive wing. [05:45:05] CORNISH: Yeah. I'm glad you're bringing it up and we're going to talk about this more in the show because there was going into tonight a narrative of how will the progressive wing of the Democratic Party do? How will Trump-endorsed candidates do? And we're starting to get a little bit of a picture of that. And a third thing I'm interested in is how did vets do? There's a whole world of veterans who have entered politics and I'm intrigued. But very -- before we leave California, I want to talk about Steve Hilton. Earlier when we played that clip of him what I found interesting is it wasn't just his name over and over behind him. Do you know what I mean? LEON: Califordable? CORNISH: Yeah, Califordable. It was like $3.00 gas. LEON: Yes. CORNISH: This with the housing, right? It really spoke to the issues of California. Is he close, right? Are we looking at somebody who is truly competitive this fall? LEON: Well, I think from a messaging standpoint he's doing a great job. I mean, if you just look -- look at the three things that -- you and I both looked at that very quickly. CORNISH: Yeah, but it wasn't -- it wasn't like these are Trump's policies and this is what I'm backing. LEON: Exactly. CORNISH: It was like I know you're thinking of X, Y, and Z. LEON: The other thing with Hilton is obviously being on TV gets you this polished sense of being able to talk to people in front of a camera. He's also worked for Super PACs as well. So he has a little bit of that background. What you said earlier, Zach, about like the Spencer Pratt race, once we start to drill into policies and once we get to the general, we've got to figure out how do you make California affordable? Because it is one of the biggest economies, right -- CORNISH: Yeah. LEON: -- on its own. I don't know how you make California affordable. We were talking off air about some industries that have left. Production and -- CORNISH: Yeah. LEON: How do you change that around? What's his plan for that? I don't know it. CORNISH: OK. I want to turn to another state where people are dealing with affordability issues -- farm country, right, in Iowa. The primary season trend of President Trump's preferred candidate winning isn't so clearcut yet. CNN projects that Trump-backed candidate Randy Feenstra will lose the GOP gubernatorial primary there to Zach Lahn. And Lahn is a farmer and a businessman who has never held office. So he did have the support from influencers with the so-called \"Make America Healthy Again\" movement. He campaigned, however, with an outsider message, calling out the Iowa Republican establishment. (BEGIN VIDEO CLIP) ZACH LAHN, (R) IOWA GUBERNATORIAL CANDIDATE: I don't have to tell you this, but nobody thought this could be done. We were outspent, opposed by the establishment. Told to wait our turn. Well, tonight the people of Iowa had something to say about that -- that we're not going to wait anymore. (END VIDEO CLIP) CORNISH: Um, this was a fascinating race to me because a) we were outspent. But I'm also not surprised that a farmer would have an outside voice in this election given what they have been through with tariffs, with even let's say immigration labor concerns. Um, Sabrina, you have been watching Iowa. What's interesting for you? RODRIGUEZ: And I think what's interesting here is sort of to see the distinction. Like, going into last night so much of the conversation has been, like, everyone that Trump endorses ultimately wins. And sort of, we've seen it in race after race where he's supported someone in a primary and they come out of it. He gets to say look at how my endorsement helps. This is a case where -- this is a rare case for him, but this is a case where that didn't play out. One of the things that interested -- CORNISH: Wait. Was it just because it was too little too late? I mean, he did it, like, just a few days ago. RODRIGUEZ: I mean, he did it for Paxton in Texas as well and gets to have the win and gets to have the, like, I endorsed the winner. CORNISH: OK. RODRIGUEZ: So this one is like he put his -- like he guessed or bet that he was going to win -- that Feenstra was going to win and ultimately it didn't play out that way. But I think that -- in this one I think what I find really interesting is sort of that distinction between there was the Trump-endorsed candidate and there was the MAHA-endorsed candidate. And there's been so much conflation of, like, Trump with Make America Healthy Again -- CORNISH: Yeah. RODRIGUEZ: -- and how they supported him in 2024. And this sort of shows this coalition of voters and support that exists outside of Trump. CORNISH: Yeah, and I'm going to wonder where TPUSA put its money in those races as well given some sort of slivers of that coalition that are extremely anti-war. And yeah -- WOLF: And the war -- specifically, that is a policy that has affected farmers in Iowa. CORNISH: Right, yeah. WOLF: The diesel prices. You know, fertilizer prices. Those are things that we keep seeing stories about and they will filter down into the politics. CORNISH: Can I turn to Democrats for a second? I've been fascinated at the spending being done by Vote Vet. They are a group that started back in 2006 in the anti-war time then and they're sort of back with a vengeance now in this anti-forever wars moment. They spent $9.7 million on ads for Josh Turek who is the Democrat -- one of the Democrats who was running for Senate. And what do you think about their rise in this moment? LEON: Well, I think back to Zach's overall point. The war is something that has unified a lot of different coalitions -- CORNISH: Yes. LEON: -- because Trump ran on no new wars and then he started a war. Well, first it was a military operation, then it became a war. So you've got different factions not only within MAGA that are upset about that; you have people that are maybe libertarian or a little bit center-left that are upset about that. [05:50:03] And the fact that this group has pumped in money around veterans, saying we don't -- a) we don't take care of our veterans when they come back. B) We're putting them into another conflict, and we've already lost 13 U.S. soldier lives. So I think there's a lot of ammunition to use on this intent -- CORNISH: Yeah. I notice in Montana, I think Alani Bankhead, another candidate who is running -- she has a huge security background. Again, running as kind of like I'm a vet. I know the Pentagon. I know how this spending should be done and I think it should be different. Um, I want to play for you Josh Turek on Tuesday kind of giving one of his messages. It'll give you a sense of how he had been talking on the campaign trail. (BEGIN VIDEO CLIP) JOSH TUREK, (D) IOWA STATE REP. SENATE CANDIDATE: If you are tired of this rigged system only looking out for billionaires and leaving the rest of us behind, then join us. Whether you are Republican, an Independent or Democrat, there is room here for you in our campaign. Together we can win this race. (END VIDEO CLIP) CORNISH: Is this going to be competitive -- Iowa? WOLF: Uh, I mean, if you talk to the handicappers, I don't think it's -- it's maybe the top level state for them. Democrats do need to win multiple states that Trump won by a lot in order to make -- LEON: Right. WOLF: -- the Senate competitive. CORNISH: But they're trying. There's no places where -- WOLF: Oh, yeah. CORNISH: -- people are like giving up. It's a little bit like the Republican spending in Texas. And you're like should you need to spend this amount of money in Texas? WOLF: Yeah. And, you know, forcing the spending is part of the game too for, you know, the money people in the parties. So -- RODRIGUEZ: It's interesting that we're talking about Iowa though, right? I mean, it's been -- like if I look at my email inbox, I am consistently getting emails about these races in Iowa and Democrats. CORNISH: See, (INAUDIBLE). Yes, that's right. RODRIGUEZ: And Democrats really pushing a point. LEON: Yeah. RODRIGUEZ: And it is interesting because it is a state that Trump won by double digits. I mean, it is like considered reliably a Republican state. And you kind of look at it as this place where I remember, you know, going into the 2024, like, Iowa caucuses and like trying to see, like, OK, vibe check on like is Trump going to move forward? Where are we at and where are we at in the Republican Party today? So it's interesting to see it become a place that's being talked about as competitive. I think when you look at -- CORNISH: Yeah. RODRIGUEZ: -- like one of the top five races, ultimately Iowa will not be one of them. But you can't discount it. And I think you have to -- LEON: It all depends on where we are with respect to issues. The war, et cetera. CORNISH: OK. You guys, next we're going to be talking about the votes that are still being counted in California this morning. And we will have the latest on the top races in the state. Later on CNN, after a reported sexting scandal, the Senate candidate Graham Platner in Maine facing more backlash, this time from a fellow Democrat. (COMMERCIAL) [05:56:55] CORNISH: The primary race for governor in California too close to call. Republican Steve Hilton and Democrat Xavier Becerra hold the top two spots. Billionaire Tom Steyer is third. In the Los Angeles mayor's race CNN projects incumbent Democrat Karen Bass will advance to the November runoff. Republican reality star Spencer Pratt is running second and appears likely to be her opponent. (BEGIN VIDEO CLIP) UNIDENTIFIED MALE: No more TV stars, please. No more reality stars, TV stars. We don't need that anymore. UNIDENTIFIED MALE: So it's hard to vote for a billionaire but at the end of the day he is the one that I think is saying the most things that align with my personal values. And we're going to hold his feet to the fire and make sure he does those things. (END VIDEO CLIP) CORNISH: We're going to bring in now Sarah McGregor, managing editor of the National Team at Bloomberg News. Good morning. I know you've had a long night. Were there any surprises that kept you up? SARAH MCGREGORY, MANAGING EDITOR OF THE NATIONAL TEAM, BLOOMBERG NEWS (via Webex by Cisco): I think the most surprising thing is just how close the race was at the end of the day between the governor -- we're still waiting for the final results, but for the governor's spot between Hilton and Becerra. I think there was a lot of questions coming up to this whether Tom Steyer, who spent more than $200 million of his own wealth -- whether he would be a really tight contender. And it looks like he's trailing and has been all night pretty far behind the top two vote-getters. And I think what it really says is that Democrats can't be complacent. If you can't sort of, you know, blow through to the win in a state like California -- a deep blue state -- then you -- it really should be a warning sign I think for Democrats going into the midterms to really pay attention. CORNISH: Can we take a beat and talk about Tom Steyer for a moment given how much money he spent, his performance? We had someone here earlier mentioning how much he spent, for instance, trying to reach the Latino community in particular. But do you get the sense that this was anti-billionaire kind of thing or did just the other candidates sort of overtake him? MCGREGOR: I think he always had a tough hill to climb. Just name recognition, you know, and he doesn't have that political experience like someone like Becerra and the state has. So he always had sort of a tough -- a tough climb that -- in that respect and he really did poll well. I think better than people expected from the beginning. He had a lot of ads out, a lot of mailers. You know, everywhere you looked around you did see Tom Steyer. He had that name recognition. But I think there's only so much that money can buy you in terms of really getting out the vote. And so even though -- even though he had the money behind him I think it shows that you really do need the political establishment and some of the Democratic machinery to really -- to really, you know, get across the finish line. CORNISH: Um, we just have about a minute left here. What are you going to be watching for in the L.A. mayor's race? What's the margin that you want to see? MCGREGOR: Again, another one as we're looking at results coming in. That's another one that's I think closer than people expected. I think some thought that Nithya Raman would give Mayor Bass also a run for her money. So I do think we'll be looking at what Spencer Pratt's solutions are if he does make it to the general election. Who can convince voters they actually have a plan. Spencer Pratt tapped into anger about a lot of issues that Angelinos have about affordability and quality of life issues. But now can he convince voters that he's the right person to act. CORNISH: OK. \n\n \n \n \n\n \n \n \n \n \n \n \n\t\n\n \n\n"
+    }
+  ]
+}

@@ -1,0 +1,400 @@
+{
+  "date": "2026-06-03",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-03/segment/01",
+  "vocabulary": [
+    {
+      "word": "primary",
+      "phonetic": "/ˈpraɪməri/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "初选",
+      "en": "a preliminary election to appoint delegates to a party conference or to select the candidates for a principal election",
+      "excerpt": "Six states held primaries and some of the results still coming in at this hour.",
+      "example_cn": "六个州举行了初选，部分结果仍在统计中。"
+    },
+    {
+      "word": "projection",
+      "phonetic": "/prəˈdʒekʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "预测",
+      "en": "an estimate or forecast of a future situation based on current data",
+      "excerpt": "The latest projections show Republican Steve Hilton and Democrat Xavier Becerra at the head of the pack.",
+      "example_cn": "最新预测显示共和党人史蒂夫·希尔顿和民主党人泽维尔·贝塞拉领先。"
+    },
+    {
+      "word": "incumbent",
+      "phonetic": "/ɪnˈkʌmbənt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "现任者",
+      "en": "the holder of an office or post",
+      "excerpt": "Karen Bass, the incumbent mayor, a Democrat, though they all run.",
+      "example_cn": "现任市长凯伦·巴斯是民主党人，尽管所有候选人都以无党派身份参选。"
+    },
+    {
+      "word": "runoff",
+      "phonetic": "/ˈrʌnɔːf/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "决选",
+      "en": "a second election held to determine a winner when no candidate has achieved a majority in the first election",
+      "excerpt": "She is into the runoff. She is advanced.",
+      "example_cn": "她进入了决选，已经晋级。"
+    },
+    {
+      "word": "nonpartisan",
+      "phonetic": "/ˌnɒnpɑːˈtɪzæn/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "无党派的",
+      "en": "not biased or affiliated with any political party",
+      "excerpt": "It's a nonpartisan race.",
+      "example_cn": "这是一场无党派竞选。"
+    },
+    {
+      "word": "ballot",
+      "phonetic": "/ˈbælət/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "选票",
+      "en": "a process of voting, in writing and typically in secret",
+      "excerpt": "We're going to wait until every ballot is counted.",
+      "example_cn": "我们会等到每一张选票都被统计。"
+    },
+    {
+      "word": "turnout",
+      "phonetic": "/ˈtɜːnaʊt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "投票率",
+      "en": "the number of people attending or participating in an event, especially an election",
+      "excerpt": "Do you have any sense about turnout?",
+      "example_cn": "你对投票率有什么了解吗？"
+    },
+    {
+      "word": "nugget",
+      "phonetic": "/ˈnʌɡɪt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "有价值的信息",
+      "en": "a valuable piece of information or insight",
+      "excerpt": "Here are a couple of key nuggets that I think are so important to keep in mind.",
+      "example_cn": "这里有几个关键信息点，我认为非常重要。"
+    },
+    {
+      "word": "trend",
+      "phonetic": "/trend/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "趋势",
+      "en": "a general direction in which something is developing or changing",
+      "excerpt": "If there is one trend we've generally seen in the years as the Republicans tend to fall as we get more of the votes in from California.",
+      "example_cn": "如果说有一个我们多年来普遍看到的趋势，那就是随着加州更多选票计入，共和党人的得票率往往会下降。"
+    },
+    {
+      "word": "back",
+      "phonetic": "/bæk/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "支持",
+      "en": "to support or endorse someone or something",
+      "excerpt": "Nancy Pelosi backed a candidate that was not able to prevail.",
+      "example_cn": "南希·佩洛西支持的一位候选人未能获胜。"
+    },
+    {
+      "word": "prevail",
+      "phonetic": "/prɪˈveɪl/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "获胜",
+      "en": "to prove more powerful than opposing forces; to be victorious",
+      "excerpt": "Nancy Pelosi backed a candidate that was not able to prevail.",
+      "example_cn": "南希·佩洛西支持的一位候选人未能获胜。"
+    },
+    {
+      "word": "distillation",
+      "phonetic": "/ˌdɪstɪˈleɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "精华，浓缩",
+      "en": "the extraction of the essential meaning or most important aspects of something",
+      "excerpt": "I think that's an excellent distillation of two points of view.",
+      "example_cn": "我认为这是两种观点的绝佳浓缩。"
+    },
+    {
+      "word": "swelling",
+      "phonetic": "/ˈswelɪŋ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "增长，高涨",
+      "en": "an increase in size, number, or intensity",
+      "excerpt": "So I think there's -- there's the reason for the swelling.",
+      "example_cn": "所以我认为——这就是支持率增长的原因。"
+    },
+    {
+      "word": "revolt",
+      "phonetic": "/rɪˈvəʊlt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "反抗，反对",
+      "en": "a refusal to accept or obey something, especially a government or other authority",
+      "excerpt": "It seems like those are the two things that led to true revolts on Capitol Hill.",
+      "example_cn": "似乎正是这两件事导致了国会山的真正反抗。"
+    },
+    {
+      "word": "stymie",
+      "phonetic": "/ˈstaɪmi/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "阻碍",
+      "en": "to prevent or hinder the progress of something",
+      "excerpt": "And then pretty much stymied the administration's other priorities.",
+      "example_cn": "然后几乎阻碍了政府的其他优先事项。"
+    },
+    {
+      "word": "retreat",
+      "phonetic": "/rɪˈtriːt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "撤退，放弃",
+      "en": "an act of moving back or withdrawing, especially from a difficult situation",
+      "excerpt": "Is this how rare is a retreat like this?",
+      "example_cn": "像这样的放弃有多罕见？"
+    },
+    {
+      "word": "backlash",
+      "phonetic": "/ˈbæklæʃ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "强烈反对",
+      "en": "a strong adverse reaction to something",
+      "excerpt": "It was also fascinating to see just how quick and swift the backlash to this was.",
+      "example_cn": "看到对此的反对如此迅速也很有趣。"
+    },
+    {
+      "word": "vibe check",
+      "phonetic": "/vaɪb tʃek/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "氛围评估",
+      "en": "an informal assessment of the general feeling or mood about something",
+      "excerpt": "There's kind of like a vibe check of like how people are feeling about it.",
+      "example_cn": "有点像对人们感受的氛围评估。"
+    },
+    {
+      "word": "underscore",
+      "phonetic": "/ˌʌndəˈskɔː/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "强调",
+      "en": "to emphasize or draw attention to something",
+      "excerpt": "You can't underscore it enough.",
+      "example_cn": "再怎么强调也不为过。"
+    },
+    {
+      "word": "hold hostage",
+      "phonetic": "/həʊld ˈhɒstɪdʒ/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "挟持，以……要挟",
+      "en": "to use something as leverage to force compliance",
+      "excerpt": "I think it's holding the other things hostage.",
+      "example_cn": "我认为这是在要挟其他事情。"
+    },
+    {
+      "word": "dispense",
+      "phonetic": "/dɪˈspens/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "分配，发放",
+      "en": "to distribute or provide something to a number of people",
+      "excerpt": "So the question is, there another way for them to dispense the money that they want?",
+      "example_cn": "那么问题是，他们是否有其他方式来发放他们想要的钱？"
+    },
+    {
+      "word": "fall from grace",
+      "phonetic": "/fɔːl frəm ɡreɪs/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "失宠，跌落神坛",
+      "en": "to lose favor or status, especially due to a mistake or scandal",
+      "excerpt": "We're going to talk about why the former frontrunner's fall from grace may have helped that.",
+      "example_cn": "我们将讨论为什么前领跑者的失宠可能对此有所帮助。"
+    },
+    {
+      "word": "frontrunner",
+      "phonetic": "/ˈfrʌntrʌnə/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "领先者",
+      "en": "the candidate or competitor who is leading in a race or competition",
+      "excerpt": "We're going to talk about why the former frontrunner's fall from grace may have helped that.",
+      "example_cn": "我们将讨论为什么前领跑者的失宠可能对此有所帮助。"
+    },
+    {
+      "word": "weaponization",
+      "phonetic": "/ˌwepənaɪˈzeɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "武器化",
+      "en": "the act of making something into a weapon or using it as a weapon",
+      "excerpt": "President Trump's nearly $1.8 billion anti-weaponization fund is now dead.",
+      "example_cn": "特朗普总统近18亿美元的反武器化基金现已告吹。"
+    },
+    {
+      "word": "testify",
+      "phonetic": "/ˈtestɪfaɪ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "作证",
+      "en": "to give evidence as a witness in a law court",
+      "excerpt": "On Tuesday, Blanche testified before a House subcommittee about the decision to scrap the fund.",
+      "example_cn": "周二，布兰奇在众议院小组委员会就放弃该基金的决定作证。"
+    },
+    {
+      "word": "scrap",
+      "phonetic": "/skræp/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "废弃",
+      "en": "to abandon or cancel something, especially a plan or project",
+      "excerpt": "On Tuesday, Blanche testified before a House subcommittee about the decision to scrap the fund.",
+      "example_cn": "周二，布兰奇在众议院小组委员会就放弃该基金的决定作证。"
+    },
+    {
+      "word": "immune",
+      "phonetic": "/ɪˈmjuːn/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "免疫的，豁免的",
+      "en": "protected or exempt from something, especially an obligation or penalty",
+      "excerpt": "The thing they aren't going back on, however, that everybody needs to be paying attention to is the, you know, essential immunity for Donald Trump and his family and his businesses on taxes.",
+      "example_cn": "然而，他们没有放弃的一件事，也是每个人都需要关注的，就是唐纳德·特朗普及其家人和企业的税收基本豁免。"
+    },
+    {
+      "word": "sovereign wealth fund",
+      "phonetic": "/ˈsɒvrɪn welθ fʌnd/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "主权财富基金",
+      "en": "a state-owned investment fund that invests in real and financial assets",
+      "excerpt": "Sovereign wealth funds and things like that.",
+      "example_cn": "主权财富基金之类的。"
+    },
+    {
+      "word": "inhumane",
+      "phonetic": "/ˌɪnhjuːˈmeɪn/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "不人道的",
+      "en": "lacking compassion or humanity; cruel",
+      "excerpt": "Protests over alleged inhumane conditions inside are still drawing crowds outside.",
+      "example_cn": "针对内部据称不人道条件的抗议仍在吸引人群聚集在外。"
+    },
+    {
+      "word": "detention center",
+      "phonetic": "/dɪˈtenʃn ˈsentə/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "拘留中心",
+      "en": "a facility where people are held in custody, especially immigrants or prisoners",
+      "excerpt": "Why officials are suing the private company that owns the New Jersey Detention Center.",
+      "example_cn": "为什么官员要起诉拥有新泽西拘留中心的私人公司。"
+    },
+    {
+      "word": "hellfire missile",
+      "phonetic": "/ˈhelfaɪə ˈmɪsaɪl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "地狱火导弹",
+      "en": "a type of air-to-ground missile used by the U.S. military",
+      "excerpt": "U.S. Central Command says it hit the tanker with a hellfire missile.",
+      "example_cn": "美国中央司令部称用地狱火导弹击中了油轮。"
+    },
+    {
+      "word": "flagged",
+      "phonetic": "/flæɡd/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "悬挂……国旗的",
+      "en": "registered under a particular country's flag",
+      "excerpt": "Officials say the Botswana-flagged vessel was heading towards Kharg Island.",
+      "example_cn": "官员称这艘悬挂博茨瓦纳国旗的船只正驶向哈尔克岛。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "If there is one trend we've generally seen in the years as the Republicans tend to fall as we get more of the votes in from California, and Democrats tend to rise, and I think that was part of the reason why Steve Helton was saying in that clip that you played, hey, can I keep that position over Tom Steyer remaining in 3rd place?",
+      "cn": "如果说有一个我们多年来普遍看到的趋势，那就是随着加州更多选票计入，共和党人的得票率往往会下降，而民主党人则会上升，我认为这就是史蒂夫·希尔顿在你们播放的片段中所说的部分原因：嘿，我能保持领先于汤姆·斯泰尔、让他继续排在第三的位置吗？",
+      "structure": "If there is one trend (that) we've generally seen in the years as the Republicans tend to fall as we get more of the votes in from California, and Democrats tend to rise, and I think that was part of the reason why Steve Helton was saying in that clip that you played, hey, can I keep that position over Tom Steyer remaining in 3rd place?",
+      "analysis": "这是一个复合句，包含条件状语从句（If there is one trend...）、定语从句（we've generally seen...）、时间状语从句（as we get more...）、并列句（and I think...）以及宾语从句（why Steve Helton was saying...）。其中\"as\"引导时间状语从句，表示\"随着\"；\"why\"引导宾语从句，解释原因。"
+    },
+    {
+      "en": "If Tom Steyer can actually start turning some of this Columbia blue in a Navy blue for him, hey, then it might be game on.",
+      "cn": "如果汤姆·斯泰尔真的能开始把一些哥伦比亚蓝变成海军蓝（指选票颜色变化），那么比赛可能就开始了。",
+      "structure": "If Tom Steyer can actually start turning some of this Columbia blue in a Navy blue for him, hey, then it might be game on.",
+      "analysis": "这是一个条件状语从句，主句为\"it might be game on\"。\"turning...in...\"是动名词短语作宾语，\"Columbia blue\"和\"Navy blue\"是比喻，分别代表不同候选人的支持区域。"
+    },
+    {
+      "en": "The question is, will the trend that we see, that we expect to see, that is the later ballots being more Democratic, can they in fact allow her to close that gap with Pratt?",
+      "cn": "问题是，我们看到的、我们预期看到的趋势——即后来的选票更倾向于民主党——是否真的能让她缩小与普拉特的差距？",
+      "structure": "The question is, will the trend (that we see, that we expect to see, that is the later ballots being more Democratic) can they in fact allow her to close that gap with Pratt?",
+      "analysis": "这是一个主系表结构，表语是一个疑问句。疑问句中主语\"the trend\"后跟三个并列的定语从句（that we see, that we expect to see, that is...），其中第三个定语从句中\"being more Democratic\"是现在分词短语作定语修饰\"ballots\"。"
+    },
+    {
+      "en": "And I think the question is, where can those remaining votes, that 44 percent that we still have left out, where can Tom Steyer make up that ground?",
+      "cn": "我认为问题是，那些剩余的选票，即我们尚未统计的44%，汤姆·斯泰尔能在哪里弥补差距？",
+      "structure": "And I think the question is, where can those remaining votes, (that 44 percent that we still have left out), where can Tom Steyer make up that ground?",
+      "analysis": "这是一个复合句，主句为\"I think\"，后接宾语从句。宾语从句中\"the question is\"后跟一个疑问句，其中\"that 44 percent\"是\"those remaining votes\"的同位语，\"that we still have left out\"是定语从句修饰\"44 percent\"。"
+    },
+    {
+      "en": "And I think that was part of the reason why Steve Helton was saying in that clip that you played, hey, can I keep that position over Tom Steyer remaining in 3rd place?",
+      "cn": "我认为这就是史蒂夫·希尔顿在你们播放的片段中所说的部分原因：嘿，我能保持领先于汤姆·斯泰尔、让他继续排在第三的位置吗？",
+      "structure": "And I think that was part of the reason why Steve Helton was saying in that clip that you played, hey, can I keep that position over Tom Steyer remaining in 3rd place?",
+      "analysis": "这是一个复合句，主句为\"I think\"，后接宾语从句。宾语从句中\"that was part of the reason\"后跟\"why\"引导的定语从句，其中\"that you played\"是定语从句修饰\"clip\"，最后直接引语\"hey, can I...\"是\"saying\"的内容。"
+    },
+    {
+      "en": "And I think the question is, where can those remaining votes, that 44 percent that we still have left out, where can Tom Steyer make up that ground?",
+      "cn": "我认为问题是，那些剩余的选票，即我们尚未统计的44%，汤姆·斯泰尔能在哪里弥补差距？",
+      "structure": "And I think the question is, where can those remaining votes, (that 44 percent that we still have left out), where can Tom Steyer make up that ground?",
+      "analysis": "这是一个复合句，主句为\"I think\"，后接宾语从句。宾语从句中\"the question is\"后跟一个疑问句，其中\"that 44 percent\"是\"those remaining votes\"的同位语，\"that we still have left out\"是定语从句修饰\"44 percent\"。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "California Jungle Primary",
+      "content": "加州采用‘丛林初选’（jungle primary）制度，所有候选人无论党派同台竞争，得票前两名进入大选，无论党派。2026年加州州长初选竞争激烈，共和党人史蒂夫·希尔顿和民主党人泽维尔·贝塞拉领先，亿万富翁汤姆·斯泰尔第三。由于加州邮寄选票计票较慢，后期选票通常更倾向民主党，因此结果仍有变数。",
+      "keywords": "jungle primary, California governor race, Steve Hilton, Xavier Becerra, Tom Steyer"
+    },
+    {
+      "title": "Los Angeles Mayor Race",
+      "content": "洛杉矶市长初选采用无党派丛林初选，现任市长凯伦·巴斯（民主党）领先，前真人秀明星斯宾塞·普拉特（共和党倾向）第二，市议员妮提亚·拉曼（民主党进步派）第三。普拉特因在帕利塞兹大火中批评政府而获得关注，其名人效应和AI视频策略引发讨论。巴斯希望与普拉特对决，因为民调显示她轻松获胜；若拉曼晋级，则竞争更激烈。",
+      "keywords": "Los Angeles mayor, Karen Bass, Spencer Pratt, Nithya Raman, runoff"
+    },
+    {
+      "title": "Trump's Anti-Weaponization Fund",
+      "content": "特朗普政府设立的近18亿美元‘反武器化基金’旨在赔偿被政府‘武器化’对待的人，但遭到国会共和党人强烈反对，代理司法部长托德·布兰奇在众议院小组委员会作证时宣布放弃该基金。然而，特朗普及其家族和企业的税收豁免等政策仍在推进。",
+      "keywords": "anti-weaponization fund, Todd Blanche, congressional backlash, tax immunity"
+    },
+    {
+      "title": "New Jersey Detention Center Controversy",
+      "content": "新泽西州德莱尼霍尔移民拘留设施因被指控条件不人道而引发抗议，州政府起诉私人公司以获取健康检查权限。",
+      "keywords": "Delaney Hall, immigrant detention, inhumane conditions, lawsuit"
+    },
+    {
+      "title": "U.S. Military Action Against Oil Tanker",
+      "content": "美国中央司令部称用地狱火导弹击中一艘悬挂博茨瓦纳国旗的油轮，该油轮无视警告驶向伊朗哈尔克岛。",
+      "keywords": "hellfire missile, oil tanker, Iran, U.S. Central Command"
+    }
+  ],
+  "raw_transcript": "\n\n \n\n\t\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Transcript Providers\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n\n \n \n \n\n\t\n \n \n  \n\t\n\nReturn to Transcripts main page\n\nCNN This Morning\nElection Night In America. Aired 5-5:30a ET\nAired June 03, 2026 - 05:00   ET\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n[05:00:24] AUDIE CORNISH, CNN ANCHOR: Okay, thanks for being here. It's Election Night In America continued. Six states held primaries and some of the results still coming in at this hour. Good morning, everybody. I'm Audie Cornish. We're going to start with the biggest races taking place in California. That's where voters had their say in a crowded field for who will replace Gavin Newsom as governor. (BEGIN VIDEO CLIP) UNIDENTIFIED MALE: I relate to a couple of different candidates. Ultimately with Steyer, because I felt like his vision of what California could be most closely resembled what mine was. UNIDENTIFIED FEMALE: I voted for Steve Hilton. I feel that the Democrats screwed up this place. I've been here for over 40 years, and from Reagan, to them, it's been horrible. UNIDENTIFIED MALE: I'm going to take Xavier Becerra. I don't want anybody that doesn't have experience in running government. I want somebody that actually knows. It's been with the Obama administration, the man has been attorney general, he's done a lot of work, and so that's what I want. (END VIDEO CLIP) CORNISH: So the votes are still coming in. The latest projections show Republican Steve Hilton and Democrat Xavier Becerra at the head of the pack, billionaire Tom Steyer in third. (BEGIN VIDEO CLIP) TOM STEYER (D), CANDIDATE FOR CALIFORNIA GOVERNOR: We're going to wait until every ballot is counted. We're going to give democracy a time to work, and we know we finished really strong. XAVIER BECERRA (D), CANDIDATE FOR CALIFORNIA GOVERNOR: Like my parents, I never gave up. Never stop putting one foot in front of the other. Never stop believing in the beacon-like goodness of California. And thankfully, neither did you. STEVE HILTON (R), CANDIDATE FOR CALIFORNIA GOVERNOR: What we're really watching is the gap between me and the third-placed candidate, Tom Steyer. As long as that gap stays roughly where it is, then Californians will have a choice for change in the general election. And that's what really matters here. (END VIDEO CLIP) CORNISH: Joining me now to break all this down, CNN chief data analyst Harry Enten. So, Harry, tell me, this was such a crowded race. How far ahead when we say that Steve Hilton and Javier Becerra are? HARRY ENTEN, CNN CHIEF DATA ANALYST: Yeah, I mean, look, here are a couple of key nuggets that I think are so important to keep in mind. OK, let's just talk about where the race is right now. You got Steve Hilton. He's at 27.7 percent, so he's not even at 30 percent. He's leading the pack. You got Javier Becerra 25.4 percent and then you got Tom Steyer at 19.6 percent. Now a couple of key nuggets I want you keep in mind number one. Take a look at this number and if you can't see it, I'll read it to you, 56 percent of the estimated vote isn't that's just an estimate, but that means that of 44 percent of the vote is still remaining to be counted. And historically speaking, and based upon the trends that we've seen with the ballot delivery so far, the later ballots that get counted tend to be more Democratic. So the question is, can Steyer rise as those late ballots get in? Can Hilton hold on to his position? Can Becerra hold on to his position? My guess is Becerra can. If there is one trend we've generally seen in the years as the Republicans tend to fall as we get more of the votes in from California, and Democrats tend to rise, and I think that was part of the reason why Steve Helton was saying in that clip that you played, hey, can I keep that position over Tom Steyer remaining in 3rd place? CORNISH: There was so much talk about this so-called jungle primary. Do you have any sense about turnout? ENTEN: Yeah, okay. So, right now we're looking at this. What are we talking about? We are talking about a lot of people that are turning out. I mean, we've seen in California, obviously it's a big state, but we are talking about what is this? One-point-three million, one-point- two million, nearly 955,000. So, we are talking about millions upon millions upon millions of votes. And I think the question is, where can those remaining votes, that 44 percent that we still have left out, where can Tom Steyer make up that ground? And I'll tell you where I'm looking. I'm looking at right in this area right here. We see a lot of Columbia blue for Javier Becerra, right? And why is that important? Because the San Francisco area, which is the area I circled on here, that's actually where Tom Steyer is from. So if we are in fact expecting that Tom Steyer is going to make up those votes, it is likely to come from areas like this in and around San Francisco. If Tom Steyer can actually start turning some of this Columbia blue in a Navy blue for him, hey, then it might be game on. CORNISH: I like you pointing out San Francisco because obviously there was a race to replace Nancy Pelosi where she backed a candidate that was not able to prevail, at least so far. Can you give me the update on that? ENTEN: Yeah, I can give you the update on that. Let's see if I can go there. Why don't we go there? We're going to go down and I'm going to take my pen off and we're going to go. And what are we looking at? Hey, I clicked it on the right time. [05:05:00] There we go. Here we go. California's 11th district. Connie Chan was the person that in fact Nancy Pelosi back. Right now in that top two, Connie Chan is in fact in that top two. Now, what's really interesting is the third place candidate right now, that was actually Alexandria Ocasio-Cortez's former chief of staff. Now, she did not back him, but he spent a lot of money on this race. And look at this, he is very distant at this point, way back of the pack. But right now, it looks like Wiener and Chan going to be the top two. We'll see in the fall whether or not that Chan's actually able to replace her, AOC, whether or not she has the juice in her own district. CORNISH: Okay, we're done nerding out because I know people want to know about Spencer Pratt and the LA mayor's race. What is the state of play there? ENTEN: What is the state of play there? Why don't I pull it up? Oh, there we go. I got it. Okay, what is the state of play? We got 58 percent of the vote and Karen Bass, the incumbent mayor, a Democrat, though they all run. It's a nonpartisan race. She is into the runoff. She is advanced. We have projected that. She's at 35.8 percent. The question is, can Spencer Pratt, who is backed mostly by Republicans? He's right now in second place, but I've been keeping an eye on the results and more and more of them have come in. And what we've seen is Nithya Raman, another Democrat, although again appearing on a nonpartisan ballot, has closed the margin as more of those votes have come in. She's now down by what, a little bit less than eight points. The question is, will the trend that we see, that we expect to see, that is the later ballots being more Democratic, can they in fact allow her to close that gap with Pratt? I can tell you Karen Bass is hoping that she faces Pratt in the fall because the election polling that I have seen suggested she'd be a heavy favorite over Pratt versus Raman. That would be a very interesting race indeed. CORNISH: Also, I noticed you saying more Democratic votes, but in a situation between Bass and Raman, you're talking about someone who ran to the left of Bass. I mean, are there districts and people who our guests would be considered more progressive areas of a California of LA that she could benefit from at this point in the game? ENTEN: Oh, she could absolutely benefit. You know, I was to LA a few months ago. There are definitely some progressive areas out there. And I do think the question is, do those people who are returning those late ballots, were they saying, hey, you know what, Pratt has been rising in the polls. I want to stop him. And the safest way to do that is maybe to vote for Bass, who we think might be, you know, would easily be able to take him on. Or are they going to say, you know what, I want to keep Bass down. And we know that Bass is higher up in the polls. Maybe we vote for Rahman and try and kick Bass out at the early part of the stage in this round instead of waiting for the runoff. CORNISH: Okay. So, Harry, thanks so much for talking with us about California. We're going to check in with you later because as we talked about, about half a dozen states had some kind of vote. And I'd love to hear what we've learned so far. So, Harry Enten, we'll be back with you. Thanks so much. ENTEN: Thank you. CORNISH: And coming up on CNN THIS MORNING, we're going to talk about the president's so-called anti-weaponization fund. It is dead, what the acting attorney general told lawmakers when they asked about what was going on with it. And it does look like maybe Spencer Pratt could advance in the November runoff for L.A. mayor. We're going to have the group chat come in to talk about it. (BEGIN VIDEO CLIP) UNIDENTIFIED MALE: No more TV stars, please. No more reality stars, TV stars, we don't need that anymore. (END VIDEO CLIP) (COMMERCIAL BREAK) [05:12:57] CORNISH: Welcome back to CNN's election coverage, where we are closely following the results for mayor of Los Angeles. So, the top three include incumbent Mayor Karen Bass, CNN projects she will move on to the general election. Former reality TV star Spencer Pratt may be in second place. And rounding out the top three, former city councilwoman Nithya Raman. Now the top two head to the general election in the fall. (BEGIN VIDEO CLIP) MAYOR KAREN BASS (D), LOS ANGELES: Over these last three and a half years, we have laid a foundation and we're going to build on that foundation because we know what a city we have and what a city we can be. And let me just say that tomorrow begins the second-half of this journey. NITHYA RAMAN, LOS ANGELES MAYORAL CANDIDATE: Many thousands of votes will be counted in the days ahead. And we may not get an answer we like, but regardless of what happens next, nobody, nobody can take away what all of us have built together. SPENCER PRATT, LOS ANGELES MAYORAL CANDIDATE: Oh, I mean, she knows it's on. She's -- I hope she's ready, you know, because I literally could not be more excited. (END VIDEO CLIP) CORNISH: Joining me now in the group chat, Mike Leon, host of \"Can We Please Talk\", and Zach Wolf, CNN politics senior writer, and Sabrina Rodriguez, politics reporter at \"The Wall Street Journal\" and also a person who knows a lot about LA. Right? You were out there, you went home. So it was a time. It was a time. SABRINA RODRIGUEZ, POLITICS REPORTER, THE WALL STREET JOURNAL: So I forever wrap Miami, but a personal interest has been the Los Angeles mayor's race and having been someone who grew up watching \"The Hills\" and then seeing Spencer Pratt pivot to now being a political candidate. CORNISH: She is the coveted millennial woman voter. (LAUGHTER) MIKE LEON, HOST OF \"CAN WE PLEASE TALK\": Not a Hills fan, is what she said. RODRIGUEZ: Look, \"Hills\" fan/person who like existed on TikTok when the Palisades Fire happened, saw all the videos, all the content that he was posting about what happened and really calling out the government and the mismanagement and the conversation around what was going on and what wasn't going on at the time. [05:15:05] So it wasn't a total surprise to see him go and decide to run for mayor. It has been interesting to see how Mayor Karen Bass is navigating it. And I think there was obviously this hope from the Bass side of things that she could move on to a clean November race and not have to deal with Spencer Pratt. CORNISH: Yeah, let's just show people right now we are learning when it comes to Los Angeles, Karen Bass does remain ahead, but Spencer Pratt is moving and pulling further away from Nithya Raman, who is a city politician who had hoped to run to the left of Karen Bass on a more progressive sort of stance. RODRIGUEZ: But it looks like we are poised to see a lot more A.I. videos from Pratt and his allies heading to November. CORNISH: You can call it slop. LEON: On that point, I'm so glad you brought that up, Sabrina. I can't tell you how many people have shown me his video. Have you seen the Spencer Pratt videos? And I think campaigns could potentially start using some of this. I think if you look at the latest YouGov -- there was a YouGov poll around candidates and what do you think of candidates and their back issues? And he's had some back issues. He had an interview with Jake Tapper here on CNN. He talked a little bit about those issues. Jake pressed him on some of that stuff. But it's all out the window now. We're in a different time. Candidates now can have reality TV backgrounds like \"The Hills\". I can't tell you whether or not I watched it. CORNISH: Or \"The Apprentice\". LEON: Or \"The Apprentice\". Exactly. CORNISH: I mean, generationally, this makes sense, meaning when Trump used his fame, which had been built up over decades, frankly, and then added social media to that at the time that was Twitter, that set the whole thing on overdrive. You just laid out the same thing for Pratt where you were like, I grew up watching him on X and then I started to see him at Y and now all of a sudden, I'm watching the content, you know, in these videos and that is a kind of brand awareness that's like, you can't buy that. ZACHARY WOLF, CNN SENIOR POLITICS WRITER: No, and it's going to be larger than campaigns and like the normal kind of politics that we know in the same way I think that Trump was if he's able make a play against Bass in the general election. And by the way, it's just now starting. So we're going to have months and months of this. Things change. That's going to be because of the A.I. videos that are generated around him, not necessarily because of what he specifically, I think, is doing. CORNISH: Yeah. Because this is a jungle primary, I also want to reframe this in a different way, which is that you have someone who represents the incumbent, which around the country, there's been a lot of incumbents took a hit. We're going to talk about this later in the program. And then you've also got what I would call the abundance housing economic state of play type candidate, which I think Pratt is being that person that's like, things are not running well. I care about the zoning. I care about the housing. I care about where the unhoused and homeless are. And that is actually an ongoing conversation with the Democratic Party as well. LEON: If I can say two things about Spencer Pratt that I have seen from interviews that he has done has been about the Palisades Fire. He has talked about that repeatedly. And when his past comments about 9/11 and the inside job that Jake pressed him on in that interview, he talked about, hey, government has failed us. Yes, I made mistakes back then, but government has failed us. He's harped on those two things. And I think those are two things that other candidates are starting to talk about. He lives in Los Angeles. He lives in this county. He was affected by this. So I think there's -- there's the reason for the swelling. But again, if you look at his traditional background, he has no traditional background in politics. WOLF: I would add in the homelessness issue, too, which he has also been very into. And that is a very L.A.-specific or California- specific issue. CORNISH: California-specific for sure. Let me just play for you Zach a voter. We can talk on the other side of this. (BEGIN VIDEO CLIP) UNIDENTIFIED FEMALE: He's -- he's a human person. He's -- he lives here. He knows what goes on. KYUNG LAH, CNN SENIOR INVESTIGATIVE CORRESPONDENT: What do you think about Pratt's unconventional approach? UNIDENTIFIED FEMALE: I love it. I love it. LAH: What is it that you love about it? UNIDENTIFIED MALE: He's another Trump. UNIDENTIFIED MALE: I just want to see a change, that's all. LAH: But not a Spencer Pratt kind of change? UNIDENTIFIED MALE: Not the not the reality TV star, never held a job kind of change, yes. (END VIDEO CLIP) CORNISH: I think that's an excellent distillation of two points of view on the kind of fame we're talking about, that someone sees it as like, he's like a Trump. This is going to be a change. This is going to be great. And somebody who is like, yuck, I'm over it. I don't want this kind of person in politics, meaning someone coming from the entertainment space and leading with that. WOLF: Yeah, and he is definitely inside the entertainment seat. He doesn't even have what Trump had, which was his business career or, perception of his business career that he could push back and look at. Pratt's qualification for governor is that he lost his house and he's angry about it. And that's not nearly as much. CORNISH: Yeah, single issues candidates, whether that is Mothers Against Drunk Driving, the moms who ran after their sons were killed by police. [05:20:01] You can become an activated person and candidate on a single topic. It's getting to the general, right, and having to talk about all those other things, including your past. WOLF: Well, and then being very specific in the general about combating, you know, saying getting a little more into the weeds of what you actually will do that will help people's lives. And I think that's where, you know, we'll see what he comes up with. But it can't just be, no, I'm not the other person. CORNISH: Yeah. RODRIGUEZ: I think let's also keep in mind Los Angeles is like a very Democratic city. So coming out of this, of course, there's going to be the conversation about him being a Republican around, folks in the Trump administration, folks in the Republican Party that are pushing for him. And I do think, you know, looking at a city like Los Angeles that is supportive. CORNISH: Or a lot more video with him on Alex Jones. RODRIGUEZ: It's something that is going to come up at the end of the day. CORNISH: I'm serious. It's kind of things that -- yeah. RODRIGUEZ: Like right now he is really drawing attention to issues in the city and raising awareness and clearly raising a national profile and conversation around what's going on in Los Angeles. But again, as this general election really starts, now we are going to see some of that real political tension around these two parties at the end of the day. CORNISH: Okay, I want to just have you guys hold on a second. Here's what we know about this race at this point. Nithya Raman right now still sitting at around 22 percent. And so it is looking more and more like Spencer Pratt and Karen Bass will be headed to a runoff this fall in the mayor's race for Los Angeles. After the break on CNN THIS MORNING, we're going to talk about why the state is stepping in, why officials are suing the private company that owns the New Jersey Detention Center at the center of that controversy. Plus, a Trump-backed Republican loses the Iowa governor primary. (COMMERCIAL BREAK) [05:26:04] CORNISH: Okay, it's now 25 minutes past the hour. This is your Morning Roundup, some of the stories that you may have missed overnight. So the fight over New Jersey's Delaney Hall Immigrant Detention Facility, it's now going to the state because officials are going to sue to gain access for health inspectors. Protests over alleged inhumane conditions inside are still drawing crowds outside. U.S. military leaders say they have disabled an oil tanker heading towards an Iranian oil port. In a Tuesday press release, U.S. Central Command says it hit the tanker with a hellfire missile. Officials say the Botswana-flagged vessel was heading towards Kharg Island and the ship's crew ignored warnings. Acting Attorney General Todd Blanche confirms it. President Trump's nearly $1.8 billion anti-weaponization fund is now dead. On Tuesday, Blanche testified before a House subcommittee about the decision to scrap the fund, which many viewed as a way to pay out Trump's allies. (BEGIN VIDEO CLIP) TODD BLANCHE, ACTING ATTORNEY GENERAL: We are not moving forward with the fund, period. We -- the reasons for the fund is something that President Trump talked about for a long time, which is the fact that there were a lot of people in this country who had their government weaponized against them. The reasons for the fund, I think, remain as important as they were before, but we are not moving forward with the fund. (END VIDEO CLIP) CORNISH: Turning to the panel here because as a person who used to cover the Senate, I'm going to use an inside term, which is that Blanche got spanked when he went up there by Senate Republicans who were like, we hate this, we don't want it, what are you doing? And then pretty much stymied the administration's other priorities. Is this how rare is a retreat like this? WOLF: I would put this up there with the Epstein files in things that they were just absolutely had to reverse course on. It seems like those are the two things that led to true revolts on Capitol Hill. The thing they aren't going back on, however, that everybody needs to be paying attention to is the, you know, essential immunity for Donald Trump and his family and his businesses on taxes. So -- CORNISH: Meaning they can never be audited ever, ever, ever. WOLF: Yeah. CORNISH: Him, his family, it doesn't matter what they do, which has some implications given the money that they're making both in the crypto space and other deals abroad, sovereign wealth funds and things like that. RODRIGUEZ: It was also fascinating to see just how quick and swift the backlash to this was. CORNISH: Yeah, it was almost instantaneous. RODRIGUEZ: Sometimes it's like the administration will put something out. There's kind of like a vibe check of like how people are feeling about it before you hear anything from the Hill. And this was one where like the weaponization fund was announced a quick like this is not so really is rare. You can't underscore it enough. LEON: To that end, also how wide it was. Lisa Murkowski and Susan Collins saying is one thing. Senator Kennedy saying that, hey, you have to follow a court order. I don't want to hear this nonsense. Like that was really a law -- (CROSSTALK) CORNISH: Yeah, or we will do immigration. I think it's holding the other things hostage. Well, we're going to follow up on this, frankly, because as you heard Blanche said, they still think it's important. So the question is, there another way for them to dispense the money that they want? In the meantime, we are, of course, following these election results in the biggest races from this primary night. We've got a Republican pulling ahead in California's governor's race. We're going to talk about why the former frontrunner's fall from grace may have helped that. And then, good early morning. We're going to take a live look at the L.A. skyline. (COMMERCIAL BREAK) \n\n \n \n \n\n \n \n \n \n \n \n \n\t\n\n \n\n",
+  "segments": [
+    {
+      "seg": 1,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-03/segment/01",
+      "title": "CNN.com - Transcripts",
+      "text": "\n\n \n\n\t\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Transcript Providers\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n\n \n \n \n\n\t\n \n \n  \n\t\n\nReturn to Transcripts main page\n\nCNN This Morning\nElection Night In America. Aired 5-5:30a ET\nAired June 03, 2026 - 05:00   ET\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n[05:00:24] AUDIE CORNISH, CNN ANCHOR: Okay, thanks for being here. It's Election Night In America continued. Six states held primaries and some of the results still coming in at this hour. Good morning, everybody. I'm Audie Cornish. We're going to start with the biggest races taking place in California. That's where voters had their say in a crowded field for who will replace Gavin Newsom as governor. (BEGIN VIDEO CLIP) UNIDENTIFIED MALE: I relate to a couple of different candidates. Ultimately with Steyer, because I felt like his vision of what California could be most closely resembled what mine was. UNIDENTIFIED FEMALE: I voted for Steve Hilton. I feel that the Democrats screwed up this place. I've been here for over 40 years, and from Reagan, to them, it's been horrible. UNIDENTIFIED MALE: I'm going to take Xavier Becerra. I don't want anybody that doesn't have experience in running government. I want somebody that actually knows. It's been with the Obama administration, the man has been attorney general, he's done a lot of work, and so that's what I want. (END VIDEO CLIP) CORNISH: So the votes are still coming in. The latest projections show Republican Steve Hilton and Democrat Xavier Becerra at the head of the pack, billionaire Tom Steyer in third. (BEGIN VIDEO CLIP) TOM STEYER (D), CANDIDATE FOR CALIFORNIA GOVERNOR: We're going to wait until every ballot is counted. We're going to give democracy a time to work, and we know we finished really strong. XAVIER BECERRA (D), CANDIDATE FOR CALIFORNIA GOVERNOR: Like my parents, I never gave up. Never stop putting one foot in front of the other. Never stop believing in the beacon-like goodness of California. And thankfully, neither did you. STEVE HILTON (R), CANDIDATE FOR CALIFORNIA GOVERNOR: What we're really watching is the gap between me and the third-placed candidate, Tom Steyer. As long as that gap stays roughly where it is, then Californians will have a choice for change in the general election. And that's what really matters here. (END VIDEO CLIP) CORNISH: Joining me now to break all this down, CNN chief data analyst Harry Enten. So, Harry, tell me, this was such a crowded race. How far ahead when we say that Steve Hilton and Javier Becerra are? HARRY ENTEN, CNN CHIEF DATA ANALYST: Yeah, I mean, look, here are a couple of key nuggets that I think are so important to keep in mind. OK, let's just talk about where the race is right now. You got Steve Hilton. He's at 27.7 percent, so he's not even at 30 percent. He's leading the pack. You got Javier Becerra 25.4 percent and then you got Tom Steyer at 19.6 percent. Now a couple of key nuggets I want you keep in mind number one. Take a look at this number and if you can't see it, I'll read it to you, 56 percent of the estimated vote isn't that's just an estimate, but that means that of 44 percent of the vote is still remaining to be counted. And historically speaking, and based upon the trends that we've seen with the ballot delivery so far, the later ballots that get counted tend to be more Democratic. So the question is, can Steyer rise as those late ballots get in? Can Hilton hold on to his position? Can Becerra hold on to his position? My guess is Becerra can. If there is one trend we've generally seen in the years as the Republicans tend to fall as we get more of the votes in from California, and Democrats tend to rise, and I think that was part of the reason why Steve Helton was saying in that clip that you played, hey, can I keep that position over Tom Steyer remaining in 3rd place? CORNISH: There was so much talk about this so-called jungle primary. Do you have any sense about turnout? ENTEN: Yeah, okay. So, right now we're looking at this. What are we talking about? We are talking about a lot of people that are turning out. I mean, we've seen in California, obviously it's a big state, but we are talking about what is this? One-point-three million, one-point- two million, nearly 955,000. So, we are talking about millions upon millions upon millions of votes. And I think the question is, where can those remaining votes, that 44 percent that we still have left out, where can Tom Steyer make up that ground? And I'll tell you where I'm looking. I'm looking at right in this area right here. We see a lot of Columbia blue for Javier Becerra, right? And why is that important? Because the San Francisco area, which is the area I circled on here, that's actually where Tom Steyer is from. So if we are in fact expecting that Tom Steyer is going to make up those votes, it is likely to come from areas like this in and around San Francisco. If Tom Steyer can actually start turning some of this Columbia blue in a Navy blue for him, hey, then it might be game on. CORNISH: I like you pointing out San Francisco because obviously there was a race to replace Nancy Pelosi where she backed a candidate that was not able to prevail, at least so far. Can you give me the update on that? ENTEN: Yeah, I can give you the update on that. Let's see if I can go there. Why don't we go there? We're going to go down and I'm going to take my pen off and we're going to go. And what are we looking at? Hey, I clicked it on the right time. [05:05:00] There we go. Here we go. California's 11th district. Connie Chan was the person that in fact Nancy Pelosi back. Right now in that top two, Connie Chan is in fact in that top two. Now, what's really interesting is the third place candidate right now, that was actually Alexandria Ocasio-Cortez's former chief of staff. Now, she did not back him, but he spent a lot of money on this race. And look at this, he is very distant at this point, way back of the pack. But right now, it looks like Wiener and Chan going to be the top two. We'll see in the fall whether or not that Chan's actually able to replace her, AOC, whether or not she has the juice in her own district. CORNISH: Okay, we're done nerding out because I know people want to know about Spencer Pratt and the LA mayor's race. What is the state of play there? ENTEN: What is the state of play there? Why don't I pull it up? Oh, there we go. I got it. Okay, what is the state of play? We got 58 percent of the vote and Karen Bass, the incumbent mayor, a Democrat, though they all run. It's a nonpartisan race. She is into the runoff. She is advanced. We have projected that. She's at 35.8 percent. The question is, can Spencer Pratt, who is backed mostly by Republicans? He's right now in second place, but I've been keeping an eye on the results and more and more of them have come in. And what we've seen is Nithya Raman, another Democrat, although again appearing on a nonpartisan ballot, has closed the margin as more of those votes have come in. She's now down by what, a little bit less than eight points. The question is, will the trend that we see, that we expect to see, that is the later ballots being more Democratic, can they in fact allow her to close that gap with Pratt? I can tell you Karen Bass is hoping that she faces Pratt in the fall because the election polling that I have seen suggested she'd be a heavy favorite over Pratt versus Raman. That would be a very interesting race indeed. CORNISH: Also, I noticed you saying more Democratic votes, but in a situation between Bass and Raman, you're talking about someone who ran to the left of Bass. I mean, are there districts and people who our guests would be considered more progressive areas of a California of LA that she could benefit from at this point in the game? ENTEN: Oh, she could absolutely benefit. You know, I was to LA a few months ago. There are definitely some progressive areas out there. And I do think the question is, do those people who are returning those late ballots, were they saying, hey, you know what, Pratt has been rising in the polls. I want to stop him. And the safest way to do that is maybe to vote for Bass, who we think might be, you know, would easily be able to take him on. Or are they going to say, you know what, I want to keep Bass down. And we know that Bass is higher up in the polls. Maybe we vote for Rahman and try and kick Bass out at the early part of the stage in this round instead of waiting for the runoff. CORNISH: Okay. So, Harry, thanks so much for talking with us about California. We're going to check in with you later because as we talked about, about half a dozen states had some kind of vote. And I'd love to hear what we've learned so far. So, Harry Enten, we'll be back with you. Thanks so much. ENTEN: Thank you. CORNISH: And coming up on CNN THIS MORNING, we're going to talk about the president's so-called anti-weaponization fund. It is dead, what the acting attorney general told lawmakers when they asked about what was going on with it. And it does look like maybe Spencer Pratt could advance in the November runoff for L.A. mayor. We're going to have the group chat come in to talk about it. (BEGIN VIDEO CLIP) UNIDENTIFIED MALE: No more TV stars, please. No more reality stars, TV stars, we don't need that anymore. (END VIDEO CLIP) (COMMERCIAL BREAK) [05:12:57] CORNISH: Welcome back to CNN's election coverage, where we are closely following the results for mayor of Los Angeles. So, the top three include incumbent Mayor Karen Bass, CNN projects she will move on to the general election. Former reality TV star Spencer Pratt may be in second place. And rounding out the top three, former city councilwoman Nithya Raman. Now the top two head to the general election in the fall. (BEGIN VIDEO CLIP) MAYOR KAREN BASS (D), LOS ANGELES: Over these last three and a half years, we have laid a foundation and we're going to build on that foundation because we know what a city we have and what a city we can be. And let me just say that tomorrow begins the second-half of this journey. NITHYA RAMAN, LOS ANGELES MAYORAL CANDIDATE: Many thousands of votes will be counted in the days ahead. And we may not get an answer we like, but regardless of what happens next, nobody, nobody can take away what all of us have built together. SPENCER PRATT, LOS ANGELES MAYORAL CANDIDATE: Oh, I mean, she knows it's on. She's -- I hope she's ready, you know, because I literally could not be more excited. (END VIDEO CLIP) CORNISH: Joining me now in the group chat, Mike Leon, host of \"Can We Please Talk\", and Zach Wolf, CNN politics senior writer, and Sabrina Rodriguez, politics reporter at \"The Wall Street Journal\" and also a person who knows a lot about LA. Right? You were out there, you went home. So it was a time. It was a time. SABRINA RODRIGUEZ, POLITICS REPORTER, THE WALL STREET JOURNAL: So I forever wrap Miami, but a personal interest has been the Los Angeles mayor's race and having been someone who grew up watching \"The Hills\" and then seeing Spencer Pratt pivot to now being a political candidate. CORNISH: She is the coveted millennial woman voter. (LAUGHTER) MIKE LEON, HOST OF \"CAN WE PLEASE TALK\": Not a Hills fan, is what she said. RODRIGUEZ: Look, \"Hills\" fan/person who like existed on TikTok when the Palisades Fire happened, saw all the videos, all the content that he was posting about what happened and really calling out the government and the mismanagement and the conversation around what was going on and what wasn't going on at the time. [05:15:05] So it wasn't a total surprise to see him go and decide to run for mayor. It has been interesting to see how Mayor Karen Bass is navigating it. And I think there was obviously this hope from the Bass side of things that she could move on to a clean November race and not have to deal with Spencer Pratt. CORNISH: Yeah, let's just show people right now we are learning when it comes to Los Angeles, Karen Bass does remain ahead, but Spencer Pratt is moving and pulling further away from Nithya Raman, who is a city politician who had hoped to run to the left of Karen Bass on a more progressive sort of stance. RODRIGUEZ: But it looks like we are poised to see a lot more A.I. videos from Pratt and his allies heading to November. CORNISH: You can call it slop. LEON: On that point, I'm so glad you brought that up, Sabrina. I can't tell you how many people have shown me his video. Have you seen the Spencer Pratt videos? And I think campaigns could potentially start using some of this. I think if you look at the latest YouGov -- there was a YouGov poll around candidates and what do you think of candidates and their back issues? And he's had some back issues. He had an interview with Jake Tapper here on CNN. He talked a little bit about those issues. Jake pressed him on some of that stuff. But it's all out the window now. We're in a different time. Candidates now can have reality TV backgrounds like \"The Hills\". I can't tell you whether or not I watched it. CORNISH: Or \"The Apprentice\". LEON: Or \"The Apprentice\". Exactly. CORNISH: I mean, generationally, this makes sense, meaning when Trump used his fame, which had been built up over decades, frankly, and then added social media to that at the time that was Twitter, that set the whole thing on overdrive. You just laid out the same thing for Pratt where you were like, I grew up watching him on X and then I started to see him at Y and now all of a sudden, I'm watching the content, you know, in these videos and that is a kind of brand awareness that's like, you can't buy that. ZACHARY WOLF, CNN SENIOR POLITICS WRITER: No, and it's going to be larger than campaigns and like the normal kind of politics that we know in the same way I think that Trump was if he's able make a play against Bass in the general election. And by the way, it's just now starting. So we're going to have months and months of this. Things change. That's going to be because of the A.I. videos that are generated around him, not necessarily because of what he specifically, I think, is doing. CORNISH: Yeah. Because this is a jungle primary, I also want to reframe this in a different way, which is that you have someone who represents the incumbent, which around the country, there's been a lot of incumbents took a hit. We're going to talk about this later in the program. And then you've also got what I would call the abundance housing economic state of play type candidate, which I think Pratt is being that person that's like, things are not running well. I care about the zoning. I care about the housing. I care about where the unhoused and homeless are. And that is actually an ongoing conversation with the Democratic Party as well. LEON: If I can say two things about Spencer Pratt that I have seen from interviews that he has done has been about the Palisades Fire. He has talked about that repeatedly. And when his past comments about 9/11 and the inside job that Jake pressed him on in that interview, he talked about, hey, government has failed us. Yes, I made mistakes back then, but government has failed us. He's harped on those two things. And I think those are two things that other candidates are starting to talk about. He lives in Los Angeles. He lives in this county. He was affected by this. So I think there's -- there's the reason for the swelling. But again, if you look at his traditional background, he has no traditional background in politics. WOLF: I would add in the homelessness issue, too, which he has also been very into. And that is a very L.A.-specific or California- specific issue. CORNISH: California-specific for sure. Let me just play for you Zach a voter. We can talk on the other side of this. (BEGIN VIDEO CLIP) UNIDENTIFIED FEMALE: He's -- he's a human person. He's -- he lives here. He knows what goes on. KYUNG LAH, CNN SENIOR INVESTIGATIVE CORRESPONDENT: What do you think about Pratt's unconventional approach? UNIDENTIFIED FEMALE: I love it. I love it. LAH: What is it that you love about it? UNIDENTIFIED MALE: He's another Trump. UNIDENTIFIED MALE: I just want to see a change, that's all. LAH: But not a Spencer Pratt kind of change? UNIDENTIFIED MALE: Not the not the reality TV star, never held a job kind of change, yes. (END VIDEO CLIP) CORNISH: I think that's an excellent distillation of two points of view on the kind of fame we're talking about, that someone sees it as like, he's like a Trump. This is going to be a change. This is going to be great. And somebody who is like, yuck, I'm over it. I don't want this kind of person in politics, meaning someone coming from the entertainment space and leading with that. WOLF: Yeah, and he is definitely inside the entertainment seat. He doesn't even have what Trump had, which was his business career or, perception of his business career that he could push back and look at. Pratt's qualification for governor is that he lost his house and he's angry about it. And that's not nearly as much. CORNISH: Yeah, single issues candidates, whether that is Mothers Against Drunk Driving, the moms who ran after their sons were killed by police. [05:20:01] You can become an activated person and candidate on a single topic. It's getting to the general, right, and having to talk about all those other things, including your past. WOLF: Well, and then being very specific in the general about combating, you know, saying getting a little more into the weeds of what you actually will do that will help people's lives. And I think that's where, you know, we'll see what he comes up with. But it can't just be, no, I'm not the other person. CORNISH: Yeah. RODRIGUEZ: I think let's also keep in mind Los Angeles is like a very Democratic city. So coming out of this, of course, there's going to be the conversation about him being a Republican around, folks in the Trump administration, folks in the Republican Party that are pushing for him. And I do think, you know, looking at a city like Los Angeles that is supportive. CORNISH: Or a lot more video with him on Alex Jones. RODRIGUEZ: It's something that is going to come up at the end of the day. CORNISH: I'm serious. It's kind of things that -- yeah. RODRIGUEZ: Like right now he is really drawing attention to issues in the city and raising awareness and clearly raising a national profile and conversation around what's going on in Los Angeles. But again, as this general election really starts, now we are going to see some of that real political tension around these two parties at the end of the day. CORNISH: Okay, I want to just have you guys hold on a second. Here's what we know about this race at this point. Nithya Raman right now still sitting at around 22 percent. And so it is looking more and more like Spencer Pratt and Karen Bass will be headed to a runoff this fall in the mayor's race for Los Angeles. After the break on CNN THIS MORNING, we're going to talk about why the state is stepping in, why officials are suing the private company that owns the New Jersey Detention Center at the center of that controversy. Plus, a Trump-backed Republican loses the Iowa governor primary. (COMMERCIAL BREAK) [05:26:04] CORNISH: Okay, it's now 25 minutes past the hour. This is your Morning Roundup, some of the stories that you may have missed overnight. So the fight over New Jersey's Delaney Hall Immigrant Detention Facility, it's now going to the state because officials are going to sue to gain access for health inspectors. Protests over alleged inhumane conditions inside are still drawing crowds outside. U.S. military leaders say they have disabled an oil tanker heading towards an Iranian oil port. In a Tuesday press release, U.S. Central Command says it hit the tanker with a hellfire missile. Officials say the Botswana-flagged vessel was heading towards Kharg Island and the ship's crew ignored warnings. Acting Attorney General Todd Blanche confirms it. President Trump's nearly $1.8 billion anti-weaponization fund is now dead. On Tuesday, Blanche testified before a House subcommittee about the decision to scrap the fund, which many viewed as a way to pay out Trump's allies. (BEGIN VIDEO CLIP) TODD BLANCHE, ACTING ATTORNEY GENERAL: We are not moving forward with the fund, period. We -- the reasons for the fund is something that President Trump talked about for a long time, which is the fact that there were a lot of people in this country who had their government weaponized against them. The reasons for the fund, I think, remain as important as they were before, but we are not moving forward with the fund. (END VIDEO CLIP) CORNISH: Turning to the panel here because as a person who used to cover the Senate, I'm going to use an inside term, which is that Blanche got spanked when he went up there by Senate Republicans who were like, we hate this, we don't want it, what are you doing? And then pretty much stymied the administration's other priorities. Is this how rare is a retreat like this? WOLF: I would put this up there with the Epstein files in things that they were just absolutely had to reverse course on. It seems like those are the two things that led to true revolts on Capitol Hill. The thing they aren't going back on, however, that everybody needs to be paying attention to is the, you know, essential immunity for Donald Trump and his family and his businesses on taxes. So -- CORNISH: Meaning they can never be audited ever, ever, ever. WOLF: Yeah. CORNISH: Him, his family, it doesn't matter what they do, which has some implications given the money that they're making both in the crypto space and other deals abroad, sovereign wealth funds and things like that. RODRIGUEZ: It was also fascinating to see just how quick and swift the backlash to this was. CORNISH: Yeah, it was almost instantaneous. RODRIGUEZ: Sometimes it's like the administration will put something out. There's kind of like a vibe check of like how people are feeling about it before you hear anything from the Hill. And this was one where like the weaponization fund was announced a quick like this is not so really is rare. You can't underscore it enough. LEON: To that end, also how wide it was. Lisa Murkowski and Susan Collins saying is one thing. Senator Kennedy saying that, hey, you have to follow a court order. I don't want to hear this nonsense. Like that was really a law -- (CROSSTALK) CORNISH: Yeah, or we will do immigration. I think it's holding the other things hostage. Well, we're going to follow up on this, frankly, because as you heard Blanche said, they still think it's important. So the question is, there another way for them to dispense the money that they want? In the meantime, we are, of course, following these election results in the biggest races from this primary night. We've got a Republican pulling ahead in California's governor's race. We're going to talk about why the former frontrunner's fall from grace may have helped that. And then, good early morning. We're going to take a live look at the L.A. skyline. (COMMERCIAL BREAK) \n\n \n \n \n\n \n \n \n \n \n \n \n\t\n\n \n\n"
+    }
+  ]
+}

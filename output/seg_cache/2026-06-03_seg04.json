@@ -1,0 +1,413 @@
+{
+  "date": "2026-06-03",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-03/segment/04",
+  "vocabulary": [
+    {
+      "word": "ballot",
+      "phonetic": "/ˈbælət/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "选票",
+      "en": "a piece of paper on which you mark your vote",
+      "excerpt": "They are still counting ballots in California.",
+      "example_cn": "他们仍在清点加利福尼亚州的选票。"
+    },
+    {
+      "word": "primary",
+      "phonetic": "/ˈpraɪmeri/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "初选",
+      "en": "an election in which voters choose the candidates from each party who will compete in the main election",
+      "excerpt": "the primary race for governor remains too close to call.",
+      "example_cn": "州长初选仍然难分胜负。"
+    },
+    {
+      "word": "incumbent",
+      "phonetic": "/ɪnˈkʌmbənt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "现任者",
+      "en": "the person who currently holds a particular official position",
+      "excerpt": "incumbent Democrat Karen Bass will advance to a November runoff.",
+      "example_cn": "现任民主党人凯伦·巴斯将进入11月的决选。"
+    },
+    {
+      "word": "runoff",
+      "phonetic": "/ˈrʌnɔːf/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "决选",
+      "en": "a second election or vote to decide a winner when the first one is not conclusive",
+      "excerpt": "incumbent Democrat Karen Bass will advance to a November runoff.",
+      "example_cn": "现任民主党人凯伦·巴斯将进入11月的决选。"
+    },
+    {
+      "word": "concede",
+      "phonetic": "/kənˈsiːd/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "承认（失败）",
+      "en": "to admit that you have lost a game, election, etc.",
+      "excerpt": "Trump-backed Randy Feenstra conceding to businessman Zach Lahn.",
+      "example_cn": "特朗普支持的兰迪·芬斯特拉承认败给商人扎克·拉恩。"
+    },
+    {
+      "word": "endorsement",
+      "phonetic": "/ɪnˈdɔːrsmənt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "支持，背书",
+      "en": "a public statement of support for a person, product, etc.",
+      "excerpt": "not because of the president's endorsement.",
+      "example_cn": "并非因为总统的支持。"
+    },
+    {
+      "word": "unopposed",
+      "phonetic": "/ˌʌnəˈpoʊzd/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "无对手的",
+      "en": "with no opponent or competitor",
+      "excerpt": "Kean ran unopposed.",
+      "example_cn": "基恩在无对手的情况下参选。"
+    },
+    {
+      "word": "nomination",
+      "phonetic": "/ˌnɑːmɪˈneɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "提名",
+      "en": "the act of officially suggesting someone for a position or award",
+      "excerpt": "Deb Haaland won the Democratic nomination for governor.",
+      "example_cn": "德布·哈兰德赢得了民主党州长提名。"
+    },
+    {
+      "word": "multicultural",
+      "phonetic": "/ˌmʌltiˈkʌltʃərəl/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "多元文化的",
+      "en": "relating to or including people of many different cultures",
+      "excerpt": "We're a multicultural state.",
+      "example_cn": "我们是一个多元文化的州。"
+    },
+    {
+      "word": "representation",
+      "phonetic": "/ˌreprɪzenˈteɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "代表",
+      "en": "the act of representing someone or something",
+      "excerpt": "I think representation matters.",
+      "example_cn": "我认为代表很重要。"
+    },
+    {
+      "word": "projection",
+      "phonetic": "/prəˈdʒekʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "预测",
+      "en": "a forecast or estimate of a future situation",
+      "excerpt": "Why aren't we making any projections at this point?",
+      "example_cn": "为什么我们现在不做任何预测？"
+    },
+    {
+      "word": "postmark",
+      "phonetic": "/ˈpoʊstmɑːrk/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "盖邮戳",
+      "en": "to stamp a mark on a letter or package showing the date and place of posting",
+      "excerpt": "if your mail ballot is postmarked by Election Day yesterday",
+      "example_cn": "如果你的邮寄选票在昨天选举日之前盖有邮戳"
+    },
+    {
+      "word": "inconceivable",
+      "phonetic": "/ˌɪnkənˈsiːvəbl/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "不可思议的",
+      "en": "impossible to imagine or think of",
+      "excerpt": "It's not completely inconceivable that he catches either Becerra or Steve Hilton.",
+      "example_cn": "他赶上贝塞拉或史蒂夫·希尔顿并非完全不可能。"
+    },
+    {
+      "word": "redistricting",
+      "phonetic": "/ˌriːˈdɪstrɪktɪŋ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "重新划分选区",
+      "en": "the process of changing the boundaries of electoral districts",
+      "excerpt": "California was also involved in this big redistricting fight.",
+      "example_cn": "加利福尼亚州也卷入了这场重大的选区重划之争。"
+    },
+    {
+      "word": "jungle primary",
+      "phonetic": "/ˈdʒʌŋɡl ˈpraɪmeri/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "丛林初选（所有候选人同台，前两名晋级）",
+      "en": "a primary election in which all candidates, regardless of party, appear on the same ballot and the top two advance",
+      "excerpt": "in this so-called jungle primary where the top two candidates will advance to November.",
+      "example_cn": "在这场所谓的丛林初选中，前两名候选人将进入11月大选。"
+    },
+    {
+      "word": "anomaly",
+      "phonetic": "/əˈnɑːməli/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "异常",
+      "en": "something that is different from what is usual or expected",
+      "excerpt": "speaking of anomalies",
+      "example_cn": "说到异常情况"
+    },
+    {
+      "word": "nonpartisan",
+      "phonetic": "/ˌnɑːnˈpɑːrtɪzn/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "无党派的",
+      "en": "not supporting or controlled by any political party",
+      "excerpt": "this is a nonpartisan race technically",
+      "example_cn": "严格来说这是一场无党派竞选。"
+    },
+    {
+      "word": "PAC",
+      "phonetic": "/pæk/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "政治行动委员会",
+      "en": "Political Action Committee, an organization that raises money to support or oppose political candidates",
+      "excerpt": "outside groups in PAC spent $79 million",
+      "example_cn": "外部团体和政治行动委员会花费了7900万美元。"
+    },
+    {
+      "word": "proxy",
+      "phonetic": "/ˈprɑːksi/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "代理，代表",
+      "excerpt": "it was one of the proxy conversations of the night",
+      "example_cn": "这是当晚的代理对话之一。"
+    },
+    {
+      "word": "progressive",
+      "phonetic": "/prəˈɡresɪv/",
+      "pos": "adj./n.",
+      "level": "六级",
+      "cn": "进步的；进步人士",
+      "en": "in favor of social reform or new ideas",
+      "excerpt": "how would progressive candidates do?",
+      "example_cn": "进步派候选人表现如何？"
+    },
+    {
+      "word": "moderate",
+      "phonetic": "/ˈmɑːdərət/",
+      "pos": "adj./n.",
+      "level": "六级",
+      "cn": "温和的；温和派",
+      "en": "having opinions that are not extreme",
+      "excerpt": "progressives versus moderates",
+      "example_cn": "进步派与温和派"
+    },
+    {
+      "word": "establishment",
+      "phonetic": "/ɪˈstæblɪʃmənt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "当权派，体制",
+      "en": "the people in positions of power in a society or organization",
+      "excerpt": "not necessarily backed by the establishments",
+      "example_cn": "不一定得到当权派的支持"
+    },
+    {
+      "word": "infrastructure",
+      "phonetic": "/ˈɪnfrəstrʌktʃər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "基础设施",
+      "en": "the basic systems and services that a country or organization needs to function",
+      "excerpt": "local infrastructure matters",
+      "example_cn": "地方基础设施很重要。"
+    },
+    {
+      "word": "controversy",
+      "phonetic": "/ˈkɑːntrəvɜːrsi/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "争议",
+      "en": "a disagreement about something important",
+      "excerpt": "There was a lot of controversy over his past",
+      "example_cn": "他的过去存在很大争议。"
+    },
+    {
+      "word": "cherry-pick",
+      "phonetic": "/ˈtʃeri pɪk/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "挑选（对自己有利的）",
+      "en": "to choose only the best or most suitable from a group",
+      "excerpt": "which part of the resume you wanted to cherry pick",
+      "example_cn": "你想挑选简历的哪一部分"
+    },
+    {
+      "word": "guilt by association",
+      "phonetic": "/ɡɪlt baɪ əˌsoʊsiˈeɪʃn/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "因关联而有罪",
+      "en": "the idea that someone is guilty because of their connection with a guilty person",
+      "excerpt": "just because I am Arab does not mean I'm guilt by association",
+      "example_cn": "仅仅因为我是阿拉伯人并不意味着我因关联而有罪。"
+    },
+    {
+      "word": "forever wars",
+      "phonetic": "/fɔːrˈevər wɔːrz/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "永久战争",
+      "en": "long-lasting military conflicts that seem to have no end",
+      "excerpt": "anti-forever wars argument",
+      "example_cn": "反永久战争的论点"
+    },
+    {
+      "word": "populist",
+      "phonetic": "/ˈpɑːpjəlɪst/",
+      "pos": "adj./n.",
+      "level": "六级",
+      "cn": "民粹主义的；民粹主义者",
+      "en": "relating to a political approach that claims to represent ordinary people",
+      "excerpt": "the populist activists within the party",
+      "example_cn": "党内的民粹主义活动家"
+    },
+    {
+      "word": "endorse",
+      "phonetic": "/ɪnˈdɔːrs/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "支持，背书",
+      "en": "to give public support to someone or something",
+      "excerpt": "the president endorsed our lieutenant governor",
+      "example_cn": "总统支持我们的副州长。"
+    },
+    {
+      "word": "paper-thin",
+      "phonetic": "/ˈpeɪpər θɪn/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "极薄的；微不足道的",
+      "en": "very thin or weak",
+      "excerpt": "who has a paper-thin resume",
+      "example_cn": "他的简历非常单薄。"
+    },
+    {
+      "word": "vibration",
+      "phonetic": "/vaɪˈbreɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "共鸣，反响",
+      "en": "a feeling or impression that someone or something gives",
+      "excerpt": "the vibration of that endorsement",
+      "example_cn": "那次支持的反响"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "As long as we can make it into the top two, Californians will be able to change the trajectory of our state away from policies that have given us the highest poverty rate, the highest unemployment rate in the country, the highest cost of living, all the problems that we know about, but we can turn them around with common sense, practical ideas such as the ones I'm running on to make our state, in my word, Califordable.",
+      "cn": "只要我们能够进入前两名，加州人就能改变我们州的轨迹，摆脱那些给我们带来全国最高贫困率、最高失业率、最高生活成本的政策，所有我们知道的问题，但我们可以用常识和实用的想法来扭转局面，比如我竞选时提出的那些，让我们的州，用我的话来说，变得‘加州可负担’。",
+      "structure": "条件状语从句（As long as...）+ 主句（Californians will be able to...）+ 定语从句（that have given us...）+ 并列结构（all the problems...）+ 转折（but we can turn them around...）+ 同位语（such as the ones...）",
+      "analysis": "这是一个复合句，包含条件状语从句、定语从句和并列结构。主句是Californians will be able to change the trajectory of our state away from policies，后面跟了一个定语从句修饰policies。然后列举了三个最高级短语，接着用but转折，最后用such as举例说明。"
+    },
+    {
+      "en": "Why aren't we making any projections at this point? It's because of this number down here. Just 57 percent at this point of the vote has been counted. An estimated 57 percent has been counted. Why? Because in California, where there's a lot of mail vote, if your mail ballot is postmarked by Election Day yesterday, it can be counted for the next 13 days, so we don't know at this point how many more ballots will be mailed in.",
+      "cn": "为什么我们现在不做任何预测？是因为这里的这个数字。目前只有57%的选票被统计了。估计有57%已被统计。为什么？因为在加州，邮寄选票很多，如果你的邮寄选票在昨天选举日之前盖有邮戳，它可以在接下来的13天内被统计，所以我们目前不知道还会有多少选票被寄来。",
+      "structure": "设问句（Why...?）+ 回答（It's because of...）+ 解释（Because in California, where...）+ 条件状语从句（if your mail ballot...）+ 结果（so we don't know...）",
+      "analysis": "这是一个设问句，先提出问题，然后给出原因。原因部分包含一个非限制性定语从句（where there's a lot of mail vote）修饰California，以及一个条件状语从句（if your mail ballot is postmarked...）说明邮寄选票的规则，最后用so引导结果。"
+    },
+    {
+      "en": "And one thing we do know about California and this mail vote, as it comes in later, it does tend to get more Democratic, bluer.",
+      "cn": "关于加州和邮寄选票，我们确实知道一件事，随着选票后来陆续到来，它们确实倾向于更民主党、更蓝。",
+      "structure": "主语（one thing）+ 定语从句（we do know about...）+ 时间状语从句（as it comes in later）+ 主句（it does tend to get...）",
+      "analysis": "这是一个复合句，主句是one thing...it does tend to get...，其中包含一个定语从句修饰one thing，以及一个时间状语从句as it comes in later。"
+    },
+    {
+      "en": "So if it ended right now, these would be the top two to advance and the Democrat Richard Pan would be shut out.",
+      "cn": "所以如果现在结束，这两位将是晋级的前两名，而民主党人理查德·潘将被排除在外。",
+      "structure": "条件状语从句（if it ended right now）+ 主句（these would be...and the Democrat...would be shut out）",
+      "analysis": "这是一个虚拟条件句，表示与现在事实相反的假设。主句由两个并列分句组成，用and连接。"
+    },
+    {
+      "en": "And I think one of the weaknesses of these self-funding billionaires is that they think they're really, really smart.",
+      "cn": "我认为这些自筹资金的亿万富翁的弱点之一是他们认为自己非常非常聪明。",
+      "structure": "主句（I think）+ 宾语从句（one of the weaknesses...is that...）+ 表语从句（that they think...）",
+      "analysis": "这是一个复合句，主句是I think，后面跟了一个宾语从句，其中包含一个表语从句that they think they're really, really smart。"
+    },
+    {
+      "en": "And I think there's a certain segment of the Democratic base who respects that.",
+      "cn": "我认为有一部分民主党基础选民尊重这一点。",
+      "structure": "主句（I think）+ 宾语从句（there's a certain segment...who respects that）",
+      "analysis": "这是一个复合句，主句是I think，后面跟了一个宾语从句，其中包含一个定语从句who respects that修饰segment。"
+    },
+    {
+      "en": "And I think that's going to be an interesting dynamic coming out of this is clearly him having the resume.",
+      "cn": "我认为这将是一个有趣的动态，从中可以看出他显然拥有这样的履历。",
+      "structure": "主句（I think）+ 宾语从句（that's going to be...）+ 同位语（coming out of this is clearly him having the resume）",
+      "analysis": "这是一个复合句，主句是I think，后面跟了一个宾语从句，其中包含一个同位语结构解释dynamic。"
+    },
+    {
+      "en": "And I think that the president -- I mean, if we're honest, sometimes he does like a last minute endorsement when things are clearly already headed in a direction.",
+      "cn": "我认为总统——我的意思是，老实说，有时他确实喜欢在事情已经明显朝着某个方向发展时进行最后一刻的支持。",
+      "structure": "主句（I think）+ 宾语从句（that the president...does like...）+ 插入语（I mean, if we're honest）+ 时间状语从句（when things are clearly already headed in a direction）",
+      "analysis": "这是一个复合句，主句是I think，后面跟了一个宾语从句，其中包含插入语和时间状语从句。"
+    },
+    {
+      "en": "And I think that is the difference we're starting to see in some of these primaries and I think that's going to be the measurement in South Carolina and certainly the case in Iowa.",
+      "cn": "我认为这就是我们开始在一些初选中看到的差异，我认为这将成为南卡罗来纳州的衡量标准，当然也是爱荷华州的情况。",
+      "structure": "并列句（I think...and I think...），每个分句包含宾语从句",
+      "analysis": "这是一个并列复合句，由and连接两个分句，每个分句都是I think引导的宾语从句。"
+    },
+    {
+      "en": "And by the way, a three judge panel, two Trump judges ruled that this was the discriminatory map not too long ago.",
+      "cn": "顺便说一句，一个由三名法官组成的小组，其中两名是特朗普任命的法官，不久前裁定这是一张歧视性的地图。",
+      "structure": "插入语（by the way）+ 主语（a three judge panel）+ 同位语（two Trump judges）+ 谓语（ruled）+ 宾语从句（that this was the discriminatory map）+ 时间状语（not too long ago）",
+      "analysis": "这是一个简单句，包含插入语和同位语，谓语ruled后跟宾语从句。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "California Primary Election 2026",
+      "content": "2026年加州初选，包括州长、洛杉矶市长和国会选区选举。州长初选中，共和党人史蒂夫·希尔顿和民主党人泽维尔·贝塞拉领先，亿万富翁汤姆·斯泰尔第三。由于加州邮寄选票制度，计票可能持续13天，结果尚未确定。洛杉矶市长初选中，现任市长凯伦·巴斯和真人秀明星斯宾塞·普拉特领先。",
+      "keywords": "California primary, governor race, jungle primary, mail-in ballot, Tom Steyer, Karen Bass"
+    },
+    {
+      "title": "Trump Endorsement and Its Impact",
+      "content": "特朗普的支持在初选中的影响力。在爱荷华州州长初选中，特朗普支持的兰迪·芬斯特拉输给了扎克·拉恩，表明特朗普的支持并非万能。在新泽西州，特朗普支持的汤姆·基恩因无对手而获胜。分析认为，特朗普的“支持”和“背书”有区别，后者包括积极竞选活动。",
+      "keywords": "Trump endorsement, primary election, Iowa, New Jersey, Randy Feenstra, Zach Lahn"
+    },
+    {
+      "title": "Progressive vs. Moderate Democrats",
+      "content": "民主党内部进步派与温和派的竞争。在加州，贝塞拉作为温和派表现良好，而斯泰尔作为进步派亿万富翁未能获得广泛支持。在旧金山，州参议员斯科特·维纳击败了佩洛西支持的候选人。分析认为，选民更看重经验和稳定性。",
+      "keywords": "progressive, moderate, Democratic Party, Xavier Becerra, Tom Steyer, Nancy Pelosi"
+    },
+    {
+      "title": "Military Veterans in Politics",
+      "content": "有军事背景的候选人成为趋势。在蒙大拿州，退伍军人阿拉尼·班克黑德赢得参议院初选。分析认为，民主党试图通过招募退伍军人来增强其“爱国”形象，以对抗共和党。同时，反永久战争情绪也在影响选举。",
+      "keywords": "military veteran, Vote Vets, anti-forever wars, Alani Bankhead, Montana"
+    },
+    {
+      "title": "Redistricting and Voting Rights",
+      "content": "加州选区重划和阿拉巴马州最高法院关于歧视性地图的裁决。在加州第6选区，独立候选人凯文·基利领先，民主党人理查德·潘可能被排除。在阿拉巴马州，最高法院允许实施可能削弱黑人投票权的地图，引发争议。",
+      "keywords": "redistricting, voting rights, Alabama, Supreme Court, racial discrimination, California 6th district"
+    }
+  ],
+  "raw_transcript": "\n\n \n\n\t\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Transcript Providers\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n\n \n \n \n\n\t\n \n \n  \n\t\n\nReturn to Transcripts main page\n\nCNN This Morning\nElection Night In America. Aired 6:30-7a ET\nAired June 03, 2026 - 06:30   ET\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n(COMMERCIAL BREAK) [06:32:15] AUDIE CORNISH, CNN ANCHOR: Welcome back to CNN's coverage of election night in America. They are still counting ballots in California, and while that drags on, the primary race for governor remains too close to call. Republican Steven Hilton, a former Fox News host, and Democrat Xavier Becerra, the former U.S. health secretary, they hold the top two positions, and billionaire Tom Steyer is in third place. Now, only the top two finishers move on to the general election in November. (BEGIN VIDEO CLIP) STEVE HILTON (R), CANDIDATE FOR CALIFORNIA GOVERNOR: As long as we can make it into the top two, Californians will be able to change the trajectory of our state away from policies that have given us the highest poverty rate, the highest unemployment rate in the country, the highest cost of living, all the problems that we know about, but we can turn them around with common sense, practical ideas such as the ones I'm running on to make our state, in my word, Califordable. (END VIDEO CLIP) CORNISH: In the LA mayor's race, incumbent Democrat Karen Bass will advance to a November runoff. Republican reality star Spencer Pratt appears likely to advance alongside her. The president's winning streak stopped cold in Iowa's Republican primary for governor. Trump-backed Randy Feenstra conceding to businessman Zach Lahn in the Republican primary. Despite the fact that he has not been seen on the Hill for months and has missed more than 100 votes, Trump-backed incumbent Tom Kean, Jr. still won the GOP primary in New Jersey's 7th congressional district, but not because of the president's endorsement. Kean ran unopposed. And in New Mexico, former Interior Secretary Deb Haaland won the Democratic nomination for governor with more than 70 percent of the vote and hopes to make history. (BEGIN VIDEO CLIP) DEB HAALAND, FORMER INTERIOR SECRETARY: We've never Native American governor in New Mexico. We're a multicultural state. I think it's important. I think representation matters, especially in a political era such as this. (END VIDEO CLIP) CORNISH: We're going to bring in CNN's John Berman at the magic wall. Good morning, John. Let's get an update on Hilton and Becerra. We talked about them leading the pack for that governor's race. What are you seeing in terms of the numbers this morning? JOHN BERMAN, CNN ANCHOR: Yeah, good morning to you, Audie, at the magic wall. And this time, I promise it will be magic. You can see right here, Steve Hilton, Xavier Becerra in the top two positions right now in this open primary to be governor of California. And like Audie keeps saying, the key here is that the top two finishers in this -- this election right here will advance to November. So why aren't we making any projections at this point? It's because of this number down here. Just 57 percent at this point of the vote has been counted. An estimated 57 percent has been counted. [06:35:00] Why? Because in California, where there's a lot of mail vote, if your mail ballot is postmarked by Election Day yesterday, it can be counted for the next 13 days, so we don't know at this point how many more ballots will be mailed in. This is an estimate. There is still a lot of vote to be counted, so the rankings here could shift. Xavier Becerra could end up ahead of Steve Hilton, Tom Steyer. It's not completely inconceivable that he catches either Becerra or Steve Hilton. Still a lot of vote to go. And one thing we do know about California and this mail vote, as it comes in later, it does tend to get more Democratic, bluer. So it could very well be that Steyer gains and Hilton sinks. Just to show you what I mean here, I want to point out San Francisco if I can. You can see San Francisco here, obviously one of the most Democratic places in the country. Steve Hilton, the Republicans, not even among the top three candidates right now in the vote that has been counted in San Francisco so far with 50 percent in, so a lot more potential vote for Tom Steyer in some places like San Francisco where he is in the lead. So, at this point Audie still a little bit early for us to call anything in California. We're watching it. These are the three to watch. You'd rather be Hilton or Becerra at this point. Steyer has got a lot of ground to gain. And no matter what happens here, the Democrat -- if one of the Democrats is among the top two like we expect, they'll be the heavy favorite. They will be the heavy favorite in November because California is so heavily Democratic. CORNISH: We know California was also involved in this big redistricting fight. Are there any House races that people are now concerned about or any shifts on the ground there? BERMAN: I want to show you one race here is California's 6th Congressional District and this is really interesting. Audie Kevin Kiley is the incumbent. I know you've had him on your show. He is now an independent, technically, he was elected as a Republican. He left the Republican Party after the redistricting. He is now an independent, but he's not a Democrat, right? And Democrats want to pick up this seat. This was one of the districts that was redrawn to make it a Democratic pickup. But you can see right now in this so-called jungle primary where the top two candidates will advance to November. Right now, the top two candidates are Kevin Kiley, formerly a Republican, now an independent, but definitely not a Democrat in its second place as a Republican. So if it ended right now, these would be the top two to advance and the Democrat Richard Pan would be shut out. That's right now. I will tell you, there's only 48 percent in, and again, the late vote tends to be Democratic. Very possible, maybe even likely, that Richard Pan moves up. But this is one of those things that's interesting about California. Sometimes you can get these anomalies and people can get blocked out if there are a lot of candidates on the ballot, Audie. CORNISH: All right, John, speaking of anomalies, can we just check in on the LA mayor's race? We talked about Karen Bass being the lead that she is going to advance to the general. Have any gaps closed there? What are we looking at? BERMAN: These are still the numbers we're looking at right now. Karen Bass, the incumbent mayor, a little bit less than 35 percent. Spencer Pratt, the reality TV host at 30 percent, and Nithya Rahman down to 22 percent. This is last I checked with about 63 percent of the vote in, so still quite a bit more vote to count. Bass we do project will advance to this runoff to the election itself in November. We're still waiting for the second slot to fill in a lot more vote to count. Is it possible that Rahman catches Pratt? It's possible it is a steep hill to climb and no matter what happens, one thing I want to point out is you do have a majority of people voting in Los Angeles voting against the incumbent mayor, more than 50 percent voting against the incumbent mayor, Karen Bass, right now, which does tell you something. Although, once again, this being California and heavily Democratic, if she does end up facing off against Spencer Pratt, this is a nonpartisan race technically, but Karen Bass is a Democrat, Spencer Pratt is a Republican. If it is Karen Bass for a Spencer Pratt, she would be heavily favored, Audie, because Los Angeles is so heavily Democratic. CORNISH: Okay, John Berman, thanks so much. We're going to check back with you a moment. And I want to talk to my panel because California is expensive and so is its ad market and so is the spending to get your name out there in a crowded field of which it was for both of these. I know I was reading that outside groups in PAC spent $79 million, much of that actually opposing Tom Steyer's campaign. We also talked about Steyer reaching out to the Latino community with influencers putting a lot of money there. Is California so big that this amount of money just kind of washes away? It's not the same as dropping it like in Kentucky, the race we saw against Tom Massie. SABRINA RODRIGUEZ, POLITICS REPORTER, THE WALL STREET JOURNAL: I mean, it's insane, the numbers. I just looking at Tom Steyer's campaign, ad impact had it was about $195 million of his own money that he's put into this race in ad spending. [06:40:06] I think it was interesting to see Becerra, for example, did ads where he like called out, Becerra did ads where he kind of called out like -- CORNISH: Oh, wait, we looked it up, $213 million Steyer donations to his campaign. So he still outspent the people we're spending against him. RODRIGUEZ: Lots of money spent on this race. I think a lot of people in California are probably exhausted with all the TV ads and digital ads that they're seeing from this race. And it's only the primary. So it'll be interesting to see if two Democrats do make it out of the race and what that's going to look like heading to November. CORNISH: You guys have both been on campaigning sides. When you look at how the money was spent, ads versus, I don't know, free A.I. slops, like it feels like there's a new way to do this? And Steyer's money, maybe because we're in an anti-billionaire moment, is not exactly convincing people. ANTJUAN SEAWRIGHT, DEMOCRATIC STRATEGIST: Well, I think that made a difference. Certainly there are a number of people in our party who are rejecting this notion of the billionaire class existing in such a way that influencing political infrastructure. CORNISH: But there's billionaires in the party. That's what I've always weighed, right? Like, do you like a Pritzker and then you don't like a Steyer? SEAWRIGHT: But again, I think there's certain segments of the Democratic Party who feel that way. I also think that Steyer did not have a base. You can argue that Xavier Becerra has a base with his Latino voters. He's been elected in the state before, so people know him. He's a known commodity. Tom Steyer did not have that experience. In a primary, you have to start from somewhere. You have to start with a base if you want a chance to be successful, particularly in a jungle primary. I think that may be the difference between those two as Democratic candidates. CORNISH: Yeah. Terry, let me play something for you. This is Becerra talking just last night and he's not mentioning the other people he's running against. You can guess who he is talking about. (BEGIN VIDEO CLIP) STEVE HILTON (R), CANDIDATE FOR CALIFORNIA GOVERNOR: California means to America what America means to the world. We have a responsibility to revive California, so it is once again that symbol of everything that is great about our nation. XAVIER BECERRA (D), CANDIDATE FOR CALIFORNIA GOVERNOR: California is America. on fast forward, an economic engine so powerful, so diverse, with more jobs, more capital, more R&D, more GDP. We lift up the entire nation. We are America's center tent pole. (END VIDEO CLIP) CORNISH: So he goes on to say that he sued Trump more than 120 times. He said, I won and I won and I won. And how much did that make a difference, that he could turn to Californians who have been hearing about the redistricting wars, hearing about Trump, hearing about Trump in all of these ads, and he can say like a Paxton does in Texas, I have represented you in that particular lane. TERRY SCHILLING, PRESIDENT, AMERICAN PRINCIPLES PROJECT: Well, I certainly think that helped him do well with Democrats in the primary. CORNISH: Yeah, it's not a random name. SCHILLING: It's not a random name. And, you know, but keep in mind, Katie Porter had to blow up and totally Eric Swalwell had to blow up. But at the same time, Tom Steyer spent all that money. He doesn't appeal to anyone. And I think one of the weaknesses of these self- funding billionaires is that they think they're really, really smart. But the way you become a billionaire is you specialize in one specific thing. And so I just, I think the best -- the biggest winners for the Tom Steyer campaign are actually his political consultants. SEAWRIGHT: Can I say this? With respect to Xavier Becerra, he did not get pulled too far to the, quote/unquote, \"left\". He remained kind of center-left, pragmatic among the other voices in the Democratic field, even when they tried to tear him down for not being pulled to the left on certain issues that bubble to the top as defining issues in this campaign. He kind of remains steadfast. And I think there's a certain segment of the Democratic base who respects that. Don't change your position. CORNISH: Yeah, well, it was one of the proxy conversations of the night, which is how would progressive candidates do? How would candidates do who were not necessarily backed by the establishments who are running to the left overall? We're only -- it's still early. We don't have the picture yet. RODRIGUEZ: Yeah, I think it's still early, but I think it's interesting because so much of what we're talking about in this election cycle is sort of like the generational races, the new guard trying to come up, people trying to come up as outsiders. And in California, we're kind of seeing that Becerra's rise is the opposite of that. Like what we're seeing is, and in all the stories coming out of California talking to voters, people saw in him someone who like, okay, he has experience, he knows what he's doing, he's had all these positions. Like I kind of trust like he kind of knows what he's doing in this crowded field with so many people. And I think that's going to be an interesting dynamic coming out of this is clearly him having the resume. And that does differ from other races where we're seeing the people come up and say, I'm going to challenge the establishment. CORNISH: Yeah, yeah. OK, you guys stay with us. We're going to talk about a little more detail what we've discussed here, the progressives and the moderates and what's dividing Democrats. (BEGIN VIDEO CLIP) JOSH TUREK (D), IOWA SENATE CANDIDATE: We have enough millionaires in D.C. looking out for billionaires. (END VIDEO CLIP) [06:45:01] CORNISH: So we're going to talk about what Antjuan had to say. Old Testament versus New? Is that the term? Can we talk about that next? And guess what? A.I. data centers are on the ballot. The city that just voted to never allow another one to be built. (COMMERCIAL BREAK) CORNISH: So we've been talking about progressives versus moderates, the new generation versus the old, or as Antjuan calls it, Old Testament versus New Testament. So take the seat held for decades by former House Speaker Nancy Pelosi. CNN projects Democratic State Senator Scott Wiener will advance to the general election. Meanwhile, Pelosi's pick, Connie Chan, is in second. A former staffer for Alexandria Ocasio-Cortez is running third. [06:50:04] Group Chat is back. I want to talk about this in a couple other races. In this one, it seemed as though Pelosi, her like her former -- the person she's connected to didn't necessarily advance. Is this a sign that Wiener just had more influence, the message was a better lock. Help me understand, because we're talking San Francisco, so it's a spectrum of liberals. SEAWRIGHT: Well, I think the speaker came in late to endorse. I think that matters. I also think that there's a generation of people who want something different. And when seasoned politicians weigh in on races, people see that as a continuation. of their service and I think that sometimes can work against you, sometimes it can work for you. The other thing is I think local infrastructure matters and there's a sense -- in the primary is this real sense of trust when people go and cast their vote and I don't know if the trust level is the same with those two candidates. CORNISH: I also want to talk about Dr. Adam Hamawy in New Jersey. There was a lot of controversy over his past and it was like a battle over which part of the resume you wanted to cherry pick. But you know what I mean? Like the parts that were sort of military leaning, the parts that people were arguing his connections and him saying, look, just because I am Arab does not mean I'm guilt by association to a variety of things. Is this another one of those candidates where it's a little bit of a proxy conversation for the pro-Palestinian part of the wing versus the part of the wing that is very strongly still pro-Israel? RODRIGUEZ: I think, yes, and we're seeing it play out in so many primaries across the country. I mean, we're going to be seeing it in the weeks to come and months to come. A big example is going to be, of course, the Michigan Senate primary. And that's obviously a big focus for Democrats in hopes of winning the Senate. But I think this is a conversation we're going to keep having, both in the Democratic Party and the Republican Party. I mean, I think the conversation around Israel and support for Israel and the Gaza war. CORNISH: Yeah, and I was watching it for spending because there's a pro-Palestinian PAC now that is -- RODRIGUEZ: The amount of money that is going into this conversation adds a whole other layer to it that we're going to be seeing. And it's not just what voters are talking about or it's not just what pundits are talking about, but there's real money being spent to force this conversation to continue happening throughout the country. CORNISH: The other trend I'm watching for are candidates with military backgrounds. You've had a group like Vote Vets, which started back in 2006 as an anti-war movement. come back to the forefront with this anti-forever wars argument. In this case, I was looking at Alani Bankhead who was set to win her Senate primary in Montana. There was a GOP super PAC sort of running different ads against her. It sounds like that didn't work. And she has an argument that is very similar to even some right -- some on the right who are anti forever wars. SCHILLING: So I think this speaks mostly to Rahm Emanuel's growing influence within the Democratic Party. There's an excellent book out there about the 2006 midterms. It's called \"The Thumpin'\" and it's all about Rahm taking over the DCCC and the candidates he was trying to recruit. He was tired of the Democratic Party getting branded as weak or too liberal and soft, and so they were seeking out police officers. They were seeking out military members to help bolster the Democratic brand and make it more masculine so they could appeal to the -- CORNISH: But in this case, do they have to reach? I mean, there's a lot of upset people who are upset over the president's war policy. SEAWRIGHT: I also think, Terry, that Republicans have tried to hijack this narrative around patriotism and the type of candidates who only subscribe to the Republican Party notion. And I think Democrats are proving the diversity and the quality of our candidates can include those who have a military background in the military service. And we also understand the arguments of freedom, patriotism, and the modern-day Republican Party has not reflected that in its governing and the way they chose to run this country. SCHILLING: Well, I just, you know, argue back, Antoine. You guys are making our lives easy and our argument easy when the focus is so much on condemning America as systematically racist and systematically and pressers all across the globe. I mean, it's easy to make these arguments that the Republicans are the patriotic ones that love our country when you hear so many Democratic high level voices criticize without any real charity. SEAWRIGHT: You can't love your country only when you win. And I would argue as a black man from the South, I would argue that systemic racism is true to America. And we see that playing out in our military because they've been reports all week about the current secretary of war, secretary of defense not promoting African Americans in the military structure. So, systemically, that is true when it comes to racism. CORNISH: For the viewers at home, you are watching like a proxy conversation. What Antjuan is saying is true in terms of those firings, and I don't think it's an accident that there are quite a few women veterans who are running in particular who maybe feel that they're looking at a country that is rejecting their patriotism in the policies of the administration. [06:55:02] But I don't want to step too far away from this kind of anti-war wing of the party. I was looking at Iowa and watching what was happening there, where the president kind of put his chips behind Feenstra, who is an incumbent. And that is not the Republican who came out on top. What was the -- what was happening there? SCHILLING: So I -- very interestingly, we endorse in races and I got a call late last week from one of the Moms for Liberty activists. And she said, Terry, you've got to step in here. You've got to talk to Zach Lahn, because President Trump's getting the wrong advice. He endorsed the wrong candidate. Zach Lahn's the right person. So there was this divide between the people on the ground, the populist activists within the party who really know Iowa and love it and where President Trump went. CORNISH: So you mentioned Moms for Liberty. You've also heard about the kind of MAHA movement attachment. TPUSA, were they backing the same candidate as Trump or no? SCHILLING: No TPUSA had endorsed Zach Lahn as well, and I think that really speaks to this. I don't know. The stories I was getting out of Iowa is that they think that the wrong people are giving the wrong advice to President Trump. She said, \"I love President Trump. I don't know what he's thinking here. I think someone's giving the wrong info.\" And so you're going to continue to see this. And as Antjuan was saying earlier, we might even see this in South Carolina next week. CORNISH: Why? What's happening in South Carolina where the president might put his chips somewhere that is not what the ground is saying. SEAWRIGHT: The president put his paws on our current lieutenant -- CORNISH: Chips. (LAUGHTER) SEAWRIGHT: You said chips, I said Paul. CORNISH: Yeah, okay. SEAWRIGHT: The president endorsed our lieutenant governor, who has a paper-thin resume compared to the rest of the field, as some of my Republican friends in the state argue. And we have not seen the jump in the polls as it relates to his endorsement and the vibration of that endorsement. CORNISH: So the endorsement is not enough. I think we all fought after the last round of primaries just enough to have the golden touch from the White House put you over. SEAWRIGHT: Because all politics is local. RODRIGUEZ: And I think that the president -- I mean, if we're honest, sometimes he does like a last minute endorsement when things are clearly already headed in a direction. I think we saw it in Texas where we did see that, you know, Attorney General Paxton was pretty well-positioned to win. And then Trump, that was just the over the edge, yes. CORNISH: Not usually where the person was not doing -- SCHILLING: No, no. What's very interesting is that that race in Iowa was so close after the Trump endorsement, which means most likely that Zach Lahn probably would have walked with it, which with a much marginal larger if had Trump not stepped into. SEAWRIGHT: It when it comes to President Trump, there's endorsement and then there's support and endorsement means that he's full throttle. He's cutting ads. He's using voiceovers. He is actively campaigning for the candidate. Him offering his support may be a post on X, post on Truth Social, just to check a box to say he's weighing in on a race and I think that is the difference we're starting to see in some of these primaries and I think that's going to be the measurement in South Carolina and certainly the case in Iowa. CORNISH: So let's talk a little bit about what's in your group chats. Probably a lot of like sad, tired emoji because everybody was out trying to get some answers here and we'll have more for you today. Sabrina, for you. RODRIGUEZ: You will love the pivot. I'm sorry, Antjuan. It's trash TV. (LAUGHTER) RODRIGUEZ: The new season of \"Love Island\" has just started. CORNISH: Thank you. RODRIGUEZ: And I will be consuming all the trash that comes from it. CORNISH: Love it. Love it. RODRIGUEZ: It's the time of the year that I hate the internet the most -- CORNISH: Why? RODRIGUEZ: -- because of just like the fandom around it is so intense. CORNISH: I feel like reality TV, half of it is being in it for the memes. All right, good morning to everyone but Antjuan, who is too much of snob to care about reality TV. Terry, tell us about your show, \"Eight is Enough\". SCHILLNG: Well, it's my wife's birthday this weekend and I made the mistake of going to my guy friends to get advice on what to get my wife for her birthday. CORNISH: Sounds like the actual plot of \"Eight is Enough\", but continue. SCHILLING: Well, some of the suggestions were to get her an elliptical, to get her a vacuum. (LAUGHTER) SCHILLING: I know -- I have the worst friends ever. I'm probably going to end up just getting her. She loves tequila. RODRIGUEZ: Your friends hate you. SCHILLING: They do. CORNISH: Was it a Peloton at least? Oh, she don't need a Peloton. She don't need an elliptical. She's fine. SCHILLING: We met nearly 20 years ago. CORNISH: Oh, yeah. Are you actual children in this? SCHILLNG: This is -- no, this is in college. We found the Brownback for President campaign out in Iowa. There's Bobby. He's my -- he's my first born son. He's 11 now. He's much bigger. But I'm probably going to settle with a nice bottle of special expensive tequila Tres Padres or something like that. CORNISH: Yeah. OK, Antjuan. SEAWRIGHT: Last night, the Supreme Court ruled that Alabama can now implement racism when it comes to a newly drawn map that would eliminate -- CORNISH: Their new district maps which erase a blue district, black votes. SEAWRIHT: And by the way, a three judge panel, two Trump judges ruled that this was the discriminatory map not too long ago. So here we are once again, black voices in the South being silenced. CORNISH: And a lot of people are sending that around in their chats. Actually, certainly in my world, I'm seeing people pass around these news stories. So thank you guys here for talking about all the trends that we're learning about out of these election results last night. I'm Audie Cornish. We're going to have more detail, more headlines next. [07:00:00] \n\n \n \n \n\n \n \n \n \n \n \n \n\t\n\n \n\n",
+  "segments": [
+    {
+      "seg": 4,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-03/segment/04",
+      "title": "CNN.com - Transcripts",
+      "text": "\n\n \n\n\t\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Transcript Providers\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n\n \n \n \n\n\t\n \n \n  \n\t\n\nReturn to Transcripts main page\n\nCNN This Morning\nElection Night In America. Aired 6:30-7a ET\nAired June 03, 2026 - 06:30   ET\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n(COMMERCIAL BREAK) [06:32:15] AUDIE CORNISH, CNN ANCHOR: Welcome back to CNN's coverage of election night in America. They are still counting ballots in California, and while that drags on, the primary race for governor remains too close to call. Republican Steven Hilton, a former Fox News host, and Democrat Xavier Becerra, the former U.S. health secretary, they hold the top two positions, and billionaire Tom Steyer is in third place. Now, only the top two finishers move on to the general election in November. (BEGIN VIDEO CLIP) STEVE HILTON (R), CANDIDATE FOR CALIFORNIA GOVERNOR: As long as we can make it into the top two, Californians will be able to change the trajectory of our state away from policies that have given us the highest poverty rate, the highest unemployment rate in the country, the highest cost of living, all the problems that we know about, but we can turn them around with common sense, practical ideas such as the ones I'm running on to make our state, in my word, Califordable. (END VIDEO CLIP) CORNISH: In the LA mayor's race, incumbent Democrat Karen Bass will advance to a November runoff. Republican reality star Spencer Pratt appears likely to advance alongside her. The president's winning streak stopped cold in Iowa's Republican primary for governor. Trump-backed Randy Feenstra conceding to businessman Zach Lahn in the Republican primary. Despite the fact that he has not been seen on the Hill for months and has missed more than 100 votes, Trump-backed incumbent Tom Kean, Jr. still won the GOP primary in New Jersey's 7th congressional district, but not because of the president's endorsement. Kean ran unopposed. And in New Mexico, former Interior Secretary Deb Haaland won the Democratic nomination for governor with more than 70 percent of the vote and hopes to make history. (BEGIN VIDEO CLIP) DEB HAALAND, FORMER INTERIOR SECRETARY: We've never Native American governor in New Mexico. We're a multicultural state. I think it's important. I think representation matters, especially in a political era such as this. (END VIDEO CLIP) CORNISH: We're going to bring in CNN's John Berman at the magic wall. Good morning, John. Let's get an update on Hilton and Becerra. We talked about them leading the pack for that governor's race. What are you seeing in terms of the numbers this morning? JOHN BERMAN, CNN ANCHOR: Yeah, good morning to you, Audie, at the magic wall. And this time, I promise it will be magic. You can see right here, Steve Hilton, Xavier Becerra in the top two positions right now in this open primary to be governor of California. And like Audie keeps saying, the key here is that the top two finishers in this -- this election right here will advance to November. So why aren't we making any projections at this point? It's because of this number down here. Just 57 percent at this point of the vote has been counted. An estimated 57 percent has been counted. [06:35:00] Why? Because in California, where there's a lot of mail vote, if your mail ballot is postmarked by Election Day yesterday, it can be counted for the next 13 days, so we don't know at this point how many more ballots will be mailed in. This is an estimate. There is still a lot of vote to be counted, so the rankings here could shift. Xavier Becerra could end up ahead of Steve Hilton, Tom Steyer. It's not completely inconceivable that he catches either Becerra or Steve Hilton. Still a lot of vote to go. And one thing we do know about California and this mail vote, as it comes in later, it does tend to get more Democratic, bluer. So it could very well be that Steyer gains and Hilton sinks. Just to show you what I mean here, I want to point out San Francisco if I can. You can see San Francisco here, obviously one of the most Democratic places in the country. Steve Hilton, the Republicans, not even among the top three candidates right now in the vote that has been counted in San Francisco so far with 50 percent in, so a lot more potential vote for Tom Steyer in some places like San Francisco where he is in the lead. So, at this point Audie still a little bit early for us to call anything in California. We're watching it. These are the three to watch. You'd rather be Hilton or Becerra at this point. Steyer has got a lot of ground to gain. And no matter what happens here, the Democrat -- if one of the Democrats is among the top two like we expect, they'll be the heavy favorite. They will be the heavy favorite in November because California is so heavily Democratic. CORNISH: We know California was also involved in this big redistricting fight. Are there any House races that people are now concerned about or any shifts on the ground there? BERMAN: I want to show you one race here is California's 6th Congressional District and this is really interesting. Audie Kevin Kiley is the incumbent. I know you've had him on your show. He is now an independent, technically, he was elected as a Republican. He left the Republican Party after the redistricting. He is now an independent, but he's not a Democrat, right? And Democrats want to pick up this seat. This was one of the districts that was redrawn to make it a Democratic pickup. But you can see right now in this so-called jungle primary where the top two candidates will advance to November. Right now, the top two candidates are Kevin Kiley, formerly a Republican, now an independent, but definitely not a Democrat in its second place as a Republican. So if it ended right now, these would be the top two to advance and the Democrat Richard Pan would be shut out. That's right now. I will tell you, there's only 48 percent in, and again, the late vote tends to be Democratic. Very possible, maybe even likely, that Richard Pan moves up. But this is one of those things that's interesting about California. Sometimes you can get these anomalies and people can get blocked out if there are a lot of candidates on the ballot, Audie. CORNISH: All right, John, speaking of anomalies, can we just check in on the LA mayor's race? We talked about Karen Bass being the lead that she is going to advance to the general. Have any gaps closed there? What are we looking at? BERMAN: These are still the numbers we're looking at right now. Karen Bass, the incumbent mayor, a little bit less than 35 percent. Spencer Pratt, the reality TV host at 30 percent, and Nithya Rahman down to 22 percent. This is last I checked with about 63 percent of the vote in, so still quite a bit more vote to count. Bass we do project will advance to this runoff to the election itself in November. We're still waiting for the second slot to fill in a lot more vote to count. Is it possible that Rahman catches Pratt? It's possible it is a steep hill to climb and no matter what happens, one thing I want to point out is you do have a majority of people voting in Los Angeles voting against the incumbent mayor, more than 50 percent voting against the incumbent mayor, Karen Bass, right now, which does tell you something. Although, once again, this being California and heavily Democratic, if she does end up facing off against Spencer Pratt, this is a nonpartisan race technically, but Karen Bass is a Democrat, Spencer Pratt is a Republican. If it is Karen Bass for a Spencer Pratt, she would be heavily favored, Audie, because Los Angeles is so heavily Democratic. CORNISH: Okay, John Berman, thanks so much. We're going to check back with you a moment. And I want to talk to my panel because California is expensive and so is its ad market and so is the spending to get your name out there in a crowded field of which it was for both of these. I know I was reading that outside groups in PAC spent $79 million, much of that actually opposing Tom Steyer's campaign. We also talked about Steyer reaching out to the Latino community with influencers putting a lot of money there. Is California so big that this amount of money just kind of washes away? It's not the same as dropping it like in Kentucky, the race we saw against Tom Massie. SABRINA RODRIGUEZ, POLITICS REPORTER, THE WALL STREET JOURNAL: I mean, it's insane, the numbers. I just looking at Tom Steyer's campaign, ad impact had it was about $195 million of his own money that he's put into this race in ad spending. [06:40:06] I think it was interesting to see Becerra, for example, did ads where he like called out, Becerra did ads where he kind of called out like -- CORNISH: Oh, wait, we looked it up, $213 million Steyer donations to his campaign. So he still outspent the people we're spending against him. RODRIGUEZ: Lots of money spent on this race. I think a lot of people in California are probably exhausted with all the TV ads and digital ads that they're seeing from this race. And it's only the primary. So it'll be interesting to see if two Democrats do make it out of the race and what that's going to look like heading to November. CORNISH: You guys have both been on campaigning sides. When you look at how the money was spent, ads versus, I don't know, free A.I. slops, like it feels like there's a new way to do this? And Steyer's money, maybe because we're in an anti-billionaire moment, is not exactly convincing people. ANTJUAN SEAWRIGHT, DEMOCRATIC STRATEGIST: Well, I think that made a difference. Certainly there are a number of people in our party who are rejecting this notion of the billionaire class existing in such a way that influencing political infrastructure. CORNISH: But there's billionaires in the party. That's what I've always weighed, right? Like, do you like a Pritzker and then you don't like a Steyer? SEAWRIGHT: But again, I think there's certain segments of the Democratic Party who feel that way. I also think that Steyer did not have a base. You can argue that Xavier Becerra has a base with his Latino voters. He's been elected in the state before, so people know him. He's a known commodity. Tom Steyer did not have that experience. In a primary, you have to start from somewhere. You have to start with a base if you want a chance to be successful, particularly in a jungle primary. I think that may be the difference between those two as Democratic candidates. CORNISH: Yeah. Terry, let me play something for you. This is Becerra talking just last night and he's not mentioning the other people he's running against. You can guess who he is talking about. (BEGIN VIDEO CLIP) STEVE HILTON (R), CANDIDATE FOR CALIFORNIA GOVERNOR: California means to America what America means to the world. We have a responsibility to revive California, so it is once again that symbol of everything that is great about our nation. XAVIER BECERRA (D), CANDIDATE FOR CALIFORNIA GOVERNOR: California is America. on fast forward, an economic engine so powerful, so diverse, with more jobs, more capital, more R&D, more GDP. We lift up the entire nation. We are America's center tent pole. (END VIDEO CLIP) CORNISH: So he goes on to say that he sued Trump more than 120 times. He said, I won and I won and I won. And how much did that make a difference, that he could turn to Californians who have been hearing about the redistricting wars, hearing about Trump, hearing about Trump in all of these ads, and he can say like a Paxton does in Texas, I have represented you in that particular lane. TERRY SCHILLING, PRESIDENT, AMERICAN PRINCIPLES PROJECT: Well, I certainly think that helped him do well with Democrats in the primary. CORNISH: Yeah, it's not a random name. SCHILLING: It's not a random name. And, you know, but keep in mind, Katie Porter had to blow up and totally Eric Swalwell had to blow up. But at the same time, Tom Steyer spent all that money. He doesn't appeal to anyone. And I think one of the weaknesses of these self- funding billionaires is that they think they're really, really smart. But the way you become a billionaire is you specialize in one specific thing. And so I just, I think the best -- the biggest winners for the Tom Steyer campaign are actually his political consultants. SEAWRIGHT: Can I say this? With respect to Xavier Becerra, he did not get pulled too far to the, quote/unquote, \"left\". He remained kind of center-left, pragmatic among the other voices in the Democratic field, even when they tried to tear him down for not being pulled to the left on certain issues that bubble to the top as defining issues in this campaign. He kind of remains steadfast. And I think there's a certain segment of the Democratic base who respects that. Don't change your position. CORNISH: Yeah, well, it was one of the proxy conversations of the night, which is how would progressive candidates do? How would candidates do who were not necessarily backed by the establishments who are running to the left overall? We're only -- it's still early. We don't have the picture yet. RODRIGUEZ: Yeah, I think it's still early, but I think it's interesting because so much of what we're talking about in this election cycle is sort of like the generational races, the new guard trying to come up, people trying to come up as outsiders. And in California, we're kind of seeing that Becerra's rise is the opposite of that. Like what we're seeing is, and in all the stories coming out of California talking to voters, people saw in him someone who like, okay, he has experience, he knows what he's doing, he's had all these positions. Like I kind of trust like he kind of knows what he's doing in this crowded field with so many people. And I think that's going to be an interesting dynamic coming out of this is clearly him having the resume. And that does differ from other races where we're seeing the people come up and say, I'm going to challenge the establishment. CORNISH: Yeah, yeah. OK, you guys stay with us. We're going to talk about a little more detail what we've discussed here, the progressives and the moderates and what's dividing Democrats. (BEGIN VIDEO CLIP) JOSH TUREK (D), IOWA SENATE CANDIDATE: We have enough millionaires in D.C. looking out for billionaires. (END VIDEO CLIP) [06:45:01] CORNISH: So we're going to talk about what Antjuan had to say. Old Testament versus New? Is that the term? Can we talk about that next? And guess what? A.I. data centers are on the ballot. The city that just voted to never allow another one to be built. (COMMERCIAL BREAK) CORNISH: So we've been talking about progressives versus moderates, the new generation versus the old, or as Antjuan calls it, Old Testament versus New Testament. So take the seat held for decades by former House Speaker Nancy Pelosi. CNN projects Democratic State Senator Scott Wiener will advance to the general election. Meanwhile, Pelosi's pick, Connie Chan, is in second. A former staffer for Alexandria Ocasio-Cortez is running third. [06:50:04] Group Chat is back. I want to talk about this in a couple other races. In this one, it seemed as though Pelosi, her like her former -- the person she's connected to didn't necessarily advance. Is this a sign that Wiener just had more influence, the message was a better lock. Help me understand, because we're talking San Francisco, so it's a spectrum of liberals. SEAWRIGHT: Well, I think the speaker came in late to endorse. I think that matters. I also think that there's a generation of people who want something different. And when seasoned politicians weigh in on races, people see that as a continuation. of their service and I think that sometimes can work against you, sometimes it can work for you. The other thing is I think local infrastructure matters and there's a sense -- in the primary is this real sense of trust when people go and cast their vote and I don't know if the trust level is the same with those two candidates. CORNISH: I also want to talk about Dr. Adam Hamawy in New Jersey. There was a lot of controversy over his past and it was like a battle over which part of the resume you wanted to cherry pick. But you know what I mean? Like the parts that were sort of military leaning, the parts that people were arguing his connections and him saying, look, just because I am Arab does not mean I'm guilt by association to a variety of things. Is this another one of those candidates where it's a little bit of a proxy conversation for the pro-Palestinian part of the wing versus the part of the wing that is very strongly still pro-Israel? RODRIGUEZ: I think, yes, and we're seeing it play out in so many primaries across the country. I mean, we're going to be seeing it in the weeks to come and months to come. A big example is going to be, of course, the Michigan Senate primary. And that's obviously a big focus for Democrats in hopes of winning the Senate. But I think this is a conversation we're going to keep having, both in the Democratic Party and the Republican Party. I mean, I think the conversation around Israel and support for Israel and the Gaza war. CORNISH: Yeah, and I was watching it for spending because there's a pro-Palestinian PAC now that is -- RODRIGUEZ: The amount of money that is going into this conversation adds a whole other layer to it that we're going to be seeing. And it's not just what voters are talking about or it's not just what pundits are talking about, but there's real money being spent to force this conversation to continue happening throughout the country. CORNISH: The other trend I'm watching for are candidates with military backgrounds. You've had a group like Vote Vets, which started back in 2006 as an anti-war movement. come back to the forefront with this anti-forever wars argument. In this case, I was looking at Alani Bankhead who was set to win her Senate primary in Montana. There was a GOP super PAC sort of running different ads against her. It sounds like that didn't work. And she has an argument that is very similar to even some right -- some on the right who are anti forever wars. SCHILLING: So I think this speaks mostly to Rahm Emanuel's growing influence within the Democratic Party. There's an excellent book out there about the 2006 midterms. It's called \"The Thumpin'\" and it's all about Rahm taking over the DCCC and the candidates he was trying to recruit. He was tired of the Democratic Party getting branded as weak or too liberal and soft, and so they were seeking out police officers. They were seeking out military members to help bolster the Democratic brand and make it more masculine so they could appeal to the -- CORNISH: But in this case, do they have to reach? I mean, there's a lot of upset people who are upset over the president's war policy. SEAWRIGHT: I also think, Terry, that Republicans have tried to hijack this narrative around patriotism and the type of candidates who only subscribe to the Republican Party notion. And I think Democrats are proving the diversity and the quality of our candidates can include those who have a military background in the military service. And we also understand the arguments of freedom, patriotism, and the modern-day Republican Party has not reflected that in its governing and the way they chose to run this country. SCHILLING: Well, I just, you know, argue back, Antoine. You guys are making our lives easy and our argument easy when the focus is so much on condemning America as systematically racist and systematically and pressers all across the globe. I mean, it's easy to make these arguments that the Republicans are the patriotic ones that love our country when you hear so many Democratic high level voices criticize without any real charity. SEAWRIGHT: You can't love your country only when you win. And I would argue as a black man from the South, I would argue that systemic racism is true to America. And we see that playing out in our military because they've been reports all week about the current secretary of war, secretary of defense not promoting African Americans in the military structure. So, systemically, that is true when it comes to racism. CORNISH: For the viewers at home, you are watching like a proxy conversation. What Antjuan is saying is true in terms of those firings, and I don't think it's an accident that there are quite a few women veterans who are running in particular who maybe feel that they're looking at a country that is rejecting their patriotism in the policies of the administration. [06:55:02] But I don't want to step too far away from this kind of anti-war wing of the party. I was looking at Iowa and watching what was happening there, where the president kind of put his chips behind Feenstra, who is an incumbent. And that is not the Republican who came out on top. What was the -- what was happening there? SCHILLING: So I -- very interestingly, we endorse in races and I got a call late last week from one of the Moms for Liberty activists. And she said, Terry, you've got to step in here. You've got to talk to Zach Lahn, because President Trump's getting the wrong advice. He endorsed the wrong candidate. Zach Lahn's the right person. So there was this divide between the people on the ground, the populist activists within the party who really know Iowa and love it and where President Trump went. CORNISH: So you mentioned Moms for Liberty. You've also heard about the kind of MAHA movement attachment. TPUSA, were they backing the same candidate as Trump or no? SCHILLING: No TPUSA had endorsed Zach Lahn as well, and I think that really speaks to this. I don't know. The stories I was getting out of Iowa is that they think that the wrong people are giving the wrong advice to President Trump. She said, \"I love President Trump. I don't know what he's thinking here. I think someone's giving the wrong info.\" And so you're going to continue to see this. And as Antjuan was saying earlier, we might even see this in South Carolina next week. CORNISH: Why? What's happening in South Carolina where the president might put his chips somewhere that is not what the ground is saying. SEAWRIGHT: The president put his paws on our current lieutenant -- CORNISH: Chips. (LAUGHTER) SEAWRIGHT: You said chips, I said Paul. CORNISH: Yeah, okay. SEAWRIGHT: The president endorsed our lieutenant governor, who has a paper-thin resume compared to the rest of the field, as some of my Republican friends in the state argue. And we have not seen the jump in the polls as it relates to his endorsement and the vibration of that endorsement. CORNISH: So the endorsement is not enough. I think we all fought after the last round of primaries just enough to have the golden touch from the White House put you over. SEAWRIGHT: Because all politics is local. RODRIGUEZ: And I think that the president -- I mean, if we're honest, sometimes he does like a last minute endorsement when things are clearly already headed in a direction. I think we saw it in Texas where we did see that, you know, Attorney General Paxton was pretty well-positioned to win. And then Trump, that was just the over the edge, yes. CORNISH: Not usually where the person was not doing -- SCHILLING: No, no. What's very interesting is that that race in Iowa was so close after the Trump endorsement, which means most likely that Zach Lahn probably would have walked with it, which with a much marginal larger if had Trump not stepped into. SEAWRIGHT: It when it comes to President Trump, there's endorsement and then there's support and endorsement means that he's full throttle. He's cutting ads. He's using voiceovers. He is actively campaigning for the candidate. Him offering his support may be a post on X, post on Truth Social, just to check a box to say he's weighing in on a race and I think that is the difference we're starting to see in some of these primaries and I think that's going to be the measurement in South Carolina and certainly the case in Iowa. CORNISH: So let's talk a little bit about what's in your group chats. Probably a lot of like sad, tired emoji because everybody was out trying to get some answers here and we'll have more for you today. Sabrina, for you. RODRIGUEZ: You will love the pivot. I'm sorry, Antjuan. It's trash TV. (LAUGHTER) RODRIGUEZ: The new season of \"Love Island\" has just started. CORNISH: Thank you. RODRIGUEZ: And I will be consuming all the trash that comes from it. CORNISH: Love it. Love it. RODRIGUEZ: It's the time of the year that I hate the internet the most -- CORNISH: Why? RODRIGUEZ: -- because of just like the fandom around it is so intense. CORNISH: I feel like reality TV, half of it is being in it for the memes. All right, good morning to everyone but Antjuan, who is too much of snob to care about reality TV. Terry, tell us about your show, \"Eight is Enough\". SCHILLNG: Well, it's my wife's birthday this weekend and I made the mistake of going to my guy friends to get advice on what to get my wife for her birthday. CORNISH: Sounds like the actual plot of \"Eight is Enough\", but continue. SCHILLING: Well, some of the suggestions were to get her an elliptical, to get her a vacuum. (LAUGHTER) SCHILLING: I know -- I have the worst friends ever. I'm probably going to end up just getting her. She loves tequila. RODRIGUEZ: Your friends hate you. SCHILLING: They do. CORNISH: Was it a Peloton at least? Oh, she don't need a Peloton. She don't need an elliptical. She's fine. SCHILLING: We met nearly 20 years ago. CORNISH: Oh, yeah. Are you actual children in this? SCHILLNG: This is -- no, this is in college. We found the Brownback for President campaign out in Iowa. There's Bobby. He's my -- he's my first born son. He's 11 now. He's much bigger. But I'm probably going to settle with a nice bottle of special expensive tequila Tres Padres or something like that. CORNISH: Yeah. OK, Antjuan. SEAWRIGHT: Last night, the Supreme Court ruled that Alabama can now implement racism when it comes to a newly drawn map that would eliminate -- CORNISH: Their new district maps which erase a blue district, black votes. SEAWRIHT: And by the way, a three judge panel, two Trump judges ruled that this was the discriminatory map not too long ago. So here we are once again, black voices in the South being silenced. CORNISH: And a lot of people are sending that around in their chats. Actually, certainly in my world, I'm seeing people pass around these news stories. So thank you guys here for talking about all the trends that we're learning about out of these election results last night. I'm Audie Cornish. We're going to have more detail, more headlines next. [07:00:00] \n\n \n \n \n\n \n \n \n \n \n \n \n\t\n\n \n\n"
+    }
+  ]
+}
