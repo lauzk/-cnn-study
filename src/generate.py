@@ -1,7 +1,8 @@
 """
 src/generate.py  v8.1
 改动：取消中文全文翻译，节省Token；保留词汇/长难句/话题
-保留：多分片探测、分片缓存、JSON强清洗、缺失逗号修复、API重试、括号补全
+新增：完整保留 [时间轴]、(COMMERCIAL BREAK)/(VIDEO CLIP) 所有标注，100%还原原文格式
+保留：多分片探测、JSON强清洗、API重试、分片缓存
 """
 import os, re, json, requests, sys, time
 from datetime import datetime, timezone, timedelta
@@ -19,8 +20,8 @@ SEGMENT_CACHE_DIR.mkdir(exist_ok=True)
 CST = timezone(timedelta(hours=8))
 # 最大探测Segment数量（根据源站实际情况调整，建议10以内）
 MAX_SEGMENT_NUM = 10
-# 单片段最大字符限制，进一步控Token
-MAX_SEG_TEXT_LEN = 38000
+# 单片段最大字符限制，解决内容提取不全
+MAX_SEG_TEXT_LEN = 45000
 
 
 def get_target_date() -> str:
@@ -101,14 +102,13 @@ class TranscriptExtractor(HTMLParser):
             self.skip = False
 
     def handle_data(self, data):
+        # 原样接收文本，保留时间轴、所有标注
         if not self.skip:
-            data = data.strip()
-            if len(data) > 20:
-                cleaned = re.sub(r'[ \t]+', ' ', data)
-                self.text_parts.append(cleaned)
+            self.text_parts.append(data)
 
     def get_text(self):
-        return '\n\n'.join(self.text_parts)
+        # 纯拼接，不额外增加空行
+        return ''.join(self.text_parts)
 
 
 def fetch_transcript(date_str: str, seg: int) -> tuple[str, dict]:
@@ -138,12 +138,12 @@ def fetch_transcript(date_str: str, seg: int) -> tuple[str, dict]:
         if match:
             inner = match.group(2)
             inner = re.sub(r'<br\s*/?>', '\n', inner)
-            inner = re.sub(r'</(p|div|section|h\d)>', '\n\n', inner, flags=re.IGNORECASE)
+            inner = re.sub(r'</(p|div|section|h\d)>', '\n', flags=re.IGNORECASE)
             body_text = re.sub(r'<[^>]+>', '', inner)
-            body_text = re.sub(r'[ \t]+', ' ', body_text)
-            body_text = re.sub(r'\n{3,}', '\n\n', body_text)
-            body_text = body_text.strip()
-          
+            # 仅压缩连续多空格/制表符
+            body_text = re.sub(r'[ \t]{2,}', ' ', body_text)
+            # 压缩连续大量空行
+            body_text = re.sub(r'\n{3,}', r'\n\n', body_text)
             print(f'      策略1成功，长度 {len(body_text)}')
         else:
             print(f'      策略1失败，尝试自定义解析器...')
@@ -151,12 +151,11 @@ def fetch_transcript(date_str: str, seg: int) -> tuple[str, dict]:
             parser.feed(resp.text)
             body_text = parser.get_text()
             if body_text:
-                body_text = re.sub(r'[ \t]+', ' ', body_text)
-                body_text = re.sub(r'\n{3,}', '\n\n', body_text).strip()
-
+                body_text = re.sub(r'[ \t]{2,}', ' ', body_text)
+                body_text = re.sub(r'\n{3,}', r'\n\n', body_text)
                 print(f'      策略2成功，长度 {len(body_text)}')
 
-        # 截断超长文本，控制Token
+        # 截断超长文本，防止超限
         if len(body_text) > MAX_SEG_TEXT_LEN:
             body_text = body_text[:MAX_SEG_TEXT_LEN]
             print(f'      超长文本已截断至 {MAX_SEG_TEXT_LEN} 字符')
@@ -198,11 +197,11 @@ def deep_clean_json_str(raw: str) -> str:
     # 核心修复：补全缺失逗号 解决 Expecting ',' delimiter
     txt = re.sub(r'}\s*\{', '}, {', txt)
     txt = re.sub(r']\s*\{', '], {', txt)
-    txt = re.sub(r'}\s*"', '}, "', txt)
-    txt = re.sub(r']\s*"', '], "', txt)
+    txt = re.sub(r'}\s*"', '}, "')
+    txt = re.sub(r']\s*"', '], "')
 
     # 移除末尾多余逗号
-    txt = re.sub(r',\s*([}\]])', r'\1', txt)
+    txt = re.sub(r',\s*([}\]])', r'\1')
     # 清理不可见控制字符
     txt = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f]', '', txt)
     return txt
@@ -249,13 +248,12 @@ def parse_json_robust(raw: str) -> dict:
     except json.JSONDecodeError as e:
         debug_file = OUTPUT_DIR / 'last_api_response.txt'
         debug_file.write_text(raw, encoding='utf-8')
-        print(f'  原始响应已保存至: {debug_file}')
-        print(f'  解析错误位置: {e}')
+        print(f'  原始响应已保存至: {e}')
         raise ValueError(f'JSON 最终解析失败: {e}')
 
 
 SYSTEM = """你是专业英语精读教学助手，专注新闻英语。
-目标学习者：考研/六级/专四/专八词汇或短语。
+目标学习者：考研六级以上。
 硬性规则：
 1. 仅输出纯JSON，无额外文字、注释、代码块；
 2. 字符串内换行转义为 \\n，禁止裸换行；
@@ -307,7 +305,7 @@ def call_deepseek(prompt: str, max_retries: int = 3) -> dict:
                 json={
                     'model': 'deepseek-chat',
                     'max_tokens': 16384,
-                    'temperature': 0.0,  # 更低随机性，保证JSON格式稳定
+                    'temperature': 0.0,
                     'response_format': {'type': 'json_object'},
                     'messages': [
                         {'role': 'system', 'content': SYSTEM},
@@ -335,12 +333,10 @@ def merge_segment_data(date_str: str, seg_list: list[int]) -> dict:
         "source_url": "",
         "raw_transcript": "",
         "segments": [],
-        # 不再保留 full_translation，节省存储
         "vocabulary": [],
         "sentences": [],
         "topics": []
     }
-
     for seg in seg_list:
         seg_file = SEGMENT_CACHE_DIR / f"{date_str}_seg{seg:02d}.json"
         if not seg_file.exists():
@@ -364,7 +360,7 @@ def merge_segment_data(date_str: str, seg_list: list[int]) -> dict:
 
 
 def main():
-    print('\n=== CNN精读生成器 v8.1 取消全文翻译 · 多分片版 ===')
+    print('\n=== CNN精读生成器 v8.1 ===')
     requested_date = get_target_date()
     final_out = OUTPUT_DIR / f'{requested_date}.json'
 
