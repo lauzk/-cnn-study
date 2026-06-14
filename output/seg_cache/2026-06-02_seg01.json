@@ -1,0 +1,514 @@
+{
+  "date": "2026-06-02",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-02/segment/01",
+  "vocabulary": [
+    {
+      "word": "backlash",
+      "phonetic": "/ˈbæklæʃ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "强烈反对， backlash",
+      "en": "a strong negative reaction by a large number of people",
+      "excerpt": "Trump Administration Backs off $1.88 fund After Backlash",
+      "example_cn": "该政策在遭到强烈反对后被撤回。"
+    },
+    {
+      "word": "retreat",
+      "phonetic": "/rɪˈtriːt/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "撤退，退却",
+      "en": "an act of moving back or withdrawing",
+      "excerpt": "So why this very rare retreat?",
+      "example_cn": "军队被迫撤退。"
+    },
+    {
+      "word": "dip into",
+      "phonetic": "/dɪp ˈɪntuː/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "动用（资金）",
+      "en": "to take money from a supply that you have",
+      "excerpt": "The president of the United States cannot just dip his mitts into the Treasury, scoop out $1.8 billion",
+      "example_cn": "他不得不动用积蓄来支付账单。"
+    },
+    {
+      "word": "scoop out",
+      "phonetic": "/skuːp aʊt/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "取出，挖出",
+      "en": "to remove something with a scoop or as if with a scoop",
+      "excerpt": "scoop out $1.8 billion to give to police beaters.",
+      "example_cn": "他从罐子里舀出一些糖。"
+    },
+    {
+      "word": "vent",
+      "phonetic": "/vent/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "发泄（情绪）",
+      "en": "to express a strong emotion in a forceful way",
+      "excerpt": "Sources: Trump Vented Anger in Call with Netanyahu",
+      "example_cn": "他对着朋友发泄怒火。"
+    },
+    {
+      "word": "heated",
+      "phonetic": "/ˈhiːtɪd/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "激烈的，愤怒的",
+      "en": "full of anger and excitement",
+      "excerpt": "a heated phone call forced Israel to pull back",
+      "example_cn": "他们进行了一场激烈的辩论。"
+    },
+    {
+      "word": "pull back",
+      "phonetic": "/pʊl bæk/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "撤退，撤回",
+      "en": "to withdraw from a position or situation",
+      "excerpt": "forced Israel to pull back in Lebanon.",
+      "example_cn": "部队被迫从边境撤回。"
+    },
+    {
+      "word": "detention center",
+      "phonetic": "/dɪˈtenʃn ˈsentər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "拘留中心",
+      "en": "a place where people are kept in custody",
+      "excerpt": "protests over what some call cruel conditions at an ICE detention center",
+      "example_cn": "移民被关押在拘留中心。"
+    },
+    {
+      "word": "primary",
+      "phonetic": "/ˈpraɪmeri/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "初选",
+      "en": "an election in which voters choose candidates for a later election",
+      "excerpt": "primary voters pick one of the biggest jobs in American politics today",
+      "example_cn": "她赢得了初选。"
+    },
+    {
+      "word": "knock off",
+      "phonetic": "/nɒk ɒf/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "击败，淘汰",
+      "en": "to defeat someone in a competition",
+      "excerpt": "Spencer Pratt could be one step closer to knocking off the mayor of Los Angeles.",
+      "example_cn": "这位挑战者击败了现任者。"
+    },
+    {
+      "word": "amateur hour",
+      "phonetic": "/ˈæmətər aʊər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "业余水平的表现",
+      "en": "a situation where people behave in an unprofessional way",
+      "excerpt": "She says it's not time for amateur hour.",
+      "example_cn": "这个项目看起来像是业余水平。"
+    },
+    {
+      "word": "slush fund",
+      "phonetic": "/slʌʃ fʌnd/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "（用于非法目的的）秘密资金",
+      "en": "a fund used for illegal or dishonest purposes",
+      "excerpt": "They don't want money for a slush fund.",
+      "example_cn": "他被指控挪用秘密资金。"
+    },
+    {
+      "word": "abide by",
+      "phonetic": "/əˈbaɪd baɪ/",
+      "pos": "phr.",
+      "level": "考研",
+      "cn": "遵守",
+      "en": "to accept and obey a decision, rule, etc.",
+      "excerpt": "the DOJ is saying it will abide by a court ruling",
+      "example_cn": "你必须遵守规则。"
+    },
+    {
+      "word": "hold up",
+      "phonetic": "/hoʊld ʌp/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "延迟，阻碍",
+      "en": "to delay or stop something",
+      "excerpt": "a court has held it up",
+      "example_cn": "施工因天气而延误。"
+    },
+    {
+      "word": "back down",
+      "phonetic": "/bæk daʊn/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "放弃，退缩",
+      "en": "to withdraw a claim or demand",
+      "excerpt": "Why did the White House talk about backing down from this fight?",
+      "example_cn": "他拒绝让步。"
+    },
+    {
+      "word": "reconciliation bill",
+      "phonetic": "/ˌrekənsɪliˈeɪʃn bɪl/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "和解法案（美国国会预算协调法案）",
+      "en": "a bill that reconciles differences between House and Senate versions of a budget",
+      "excerpt": "a reconciliation bill to fund immigration enforcement",
+      "example_cn": "国会通过了和解法案。"
+    },
+    {
+      "word": "fireworks",
+      "phonetic": "/ˈfaɪərwɜːrks/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "激烈的争论或冲突",
+      "en": "angry arguments or violent actions",
+      "excerpt": "There were fireworks at an epic level",
+      "example_cn": "会议上发生了激烈的争吵。"
+    },
+    {
+      "word": "pissed",
+      "phonetic": "/pɪst/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "生气的，恼火的",
+      "en": "angry or annoyed",
+      "excerpt": "a lot of Republican senators who were just pissed",
+      "example_cn": "他对这个决定非常生气。"
+    },
+    {
+      "word": "scream at",
+      "phonetic": "/skriːm æt/",
+      "pos": "phr.",
+      "level": "考研",
+      "cn": "对……大喊大叫",
+      "en": "to shout at someone in a loud voice",
+      "excerpt": "they were screaming at the acting attorney general",
+      "example_cn": "别对我大喊大叫。"
+    },
+    {
+      "word": "firepower",
+      "phonetic": "/ˈfaɪərpaʊər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "火力，攻击力",
+      "en": "the ability to attack or criticize effectively",
+      "excerpt": "a lot of firepower is being geared at anyone",
+      "example_cn": "批评的火力集中在他身上。"
+    },
+    {
+      "word": "restitution",
+      "phonetic": "/ˌrestɪˈtuːʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "赔偿，补偿",
+      "en": "the act of giving back something that was lost or stolen",
+      "excerpt": "The White House has been very focused on restitution.",
+      "example_cn": "他被迫支付赔偿金。"
+    },
+    {
+      "word": "brand as",
+      "phonetic": "/brænd æz/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "给……打上……的烙印，指责",
+      "en": "to describe someone or something as being something bad",
+      "excerpt": "parents at school board meetings who were branded as domestic terrorists",
+      "example_cn": "他被指责为叛徒。"
+    },
+    {
+      "word": "disrupter",
+      "phonetic": "/dɪsˈrʌptər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "颠覆者",
+      "en": "a person or thing that disrupts a system or process",
+      "excerpt": "He's obviously been a disrupter for the whole Republican party.",
+      "example_cn": "这家初创公司是行业的颠覆者。"
+    },
+    {
+      "word": "penalties and settlements",
+      "phonetic": "/ˈpenəltiz ænd ˈsetlmənts/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "罚款与和解金",
+      "en": "money paid as a punishment or as part of a legal agreement",
+      "excerpt": "got $6.8 billion in penalties and settlements",
+      "example_cn": "该公司支付了巨额罚款与和解金。"
+    },
+    {
+      "word": "waste, fraud, and abuse",
+      "phonetic": "/weɪst frɔːd ænd əˈbjuːs/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "浪费、欺诈和滥用",
+      "en": "misuse of funds or resources",
+      "excerpt": "going after waste, fraud, and abuse",
+      "example_cn": "政府承诺打击浪费、欺诈和滥用。"
+    },
+    {
+      "word": "performative",
+      "phonetic": "/pərˈfɔːrmətɪv/",
+      "pos": "adj.",
+      "level": "专八",
+      "cn": "表演性的，做作的",
+      "en": "done for show rather than for a practical purpose",
+      "excerpt": "when it came to the performativeness of it being 1776 fund",
+      "example_cn": "他的道歉显得很做作。"
+    },
+    {
+      "word": "splashy",
+      "phonetic": "/ˈsplæʃi/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "引人注目的，铺张的",
+      "en": "attracting a lot of attention, often in a showy way",
+      "excerpt": "It's going to be splashy.",
+      "example_cn": "他们举办了一场盛大的派对。"
+    },
+    {
+      "word": "play to one's base",
+      "phonetic": "/pleɪ tuː wʌnz beɪs/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "迎合自己的基本盘",
+      "en": "to appeal to one's core supporters",
+      "excerpt": "It's going to play to my base.",
+      "example_cn": "这位政客的言论是为了迎合他的基本盘。"
+    },
+    {
+      "word": "wounded bear caucus",
+      "phonetic": "/ˈwuːndɪd ber ˈkɔːkəs/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "受伤的熊派（指因失败而愤怒的议员群体）",
+      "en": "a group of lawmakers who are angry because they lost or are retiring",
+      "excerpt": "what the Wall Street Journal called the wounded bear caucus",
+      "example_cn": "受伤的熊派在会议上表达了不满。"
+    },
+    {
+      "word": "beyond the pale",
+      "phonetic": "/bɪˈjɑːnd ðə peɪl/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "越轨的，不可接受的",
+      "en": "unacceptable or improper",
+      "excerpt": "This is beyond the pale.",
+      "example_cn": "他的行为越轨了。"
+    },
+    {
+      "word": "spin",
+      "phonetic": "/spɪn/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "（以特定方式）描述或解释",
+      "en": "to present information in a particular way, especially to influence opinion",
+      "excerpt": "There's no one positive thing that could be spun out of this",
+      "example_cn": "他们试图将这件事描述为成功。"
+    },
+    {
+      "word": "smell",
+      "phonetic": "/smel/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "有……的气味，令人怀疑",
+      "en": "to seem dishonest or bad",
+      "excerpt": "This whole thing smells.",
+      "example_cn": "这笔交易令人怀疑。"
+    },
+    {
+      "word": "see the writing on the wall",
+      "phonetic": "/siː ðə ˈraɪtɪŋ ɒn ðə wɔːl/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "看出不祥之兆",
+      "en": "to realize that something bad is likely to happen",
+      "excerpt": "they can see the writing on the wall",
+      "example_cn": "他看到了不祥之兆，于是辞职了。"
+    },
+    {
+      "word": "clip",
+      "phonetic": "/klɪp/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "剪辑（视频或音频片段）",
+      "en": "to cut a short piece from a video or audio recording",
+      "excerpt": "Let's clip that. Let's put that out there.",
+      "example_cn": "他们剪辑了演讲片段用于广告。"
+    },
+    {
+      "word": "moderate district",
+      "phonetic": "/ˈmɑːdərət ˈdɪstrɪkt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "温和选区（选民立场不极端）",
+      "en": "an electoral district where voters are not strongly partisan",
+      "excerpt": "folks in moderate districts that are a little bit Republican or a little bit Democrat",
+      "example_cn": "温和选区的议员面临艰难连任。"
+    },
+    {
+      "word": "indictment",
+      "phonetic": "/ɪnˈdaɪtmənt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "控诉，谴责",
+      "en": "a sign that something is bad or wrong",
+      "excerpt": "it's a real indictment of democracy in California",
+      "example_cn": "高犯罪率是对社会政策的控诉。"
+    },
+    {
+      "word": "jungle primary",
+      "phonetic": "/ˈdʒʌŋɡl ˈpraɪmeri/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "丛林初选（所有候选人同台，前两名进入大选）",
+      "en": "a primary election in which all candidates appear on the same ballot, regardless of party",
+      "excerpt": "If it's a jungle primary, then theoretically, a Republican does have a shot.",
+      "example_cn": "加州采用丛林初选制度。"
+    },
+    {
+      "word": "catapult",
+      "phonetic": "/ˈkætəpʌlt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "使突然成功",
+      "en": "to suddenly make someone or something successful",
+      "excerpt": "which has catapulted him",
+      "example_cn": "这部电影使他迅速成名。"
+    },
+    {
+      "word": "interlocutor",
+      "phonetic": "/ˌɪntərˈlɑːkjətər/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "对话者，谈判对象",
+      "en": "a person who takes part in a conversation or negotiation",
+      "excerpt": "Trump does not have one solid interlocutor in Iran",
+      "example_cn": "我们需要一个可靠的谈判对象。"
+    },
+    {
+      "word": "placate",
+      "phonetic": "/ˈpleɪkeɪt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "安抚，平息",
+      "en": "to make someone less angry or hostile",
+      "excerpt": "they're all trying to placate one another",
+      "example_cn": "他试图安抚愤怒的顾客。"
+    },
+    {
+      "word": "unctuous",
+      "phonetic": "/ˈʌŋktʃuəs/",
+      "pos": "adj.",
+      "level": "专八",
+      "cn": "虚情假意的，谄媚的",
+      "en": "excessively or ingratiatingly flattering",
+      "excerpt": "this sounds sort of unctuous",
+      "example_cn": "他的奉承显得虚情假意。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "The president of the United States cannot just dip his mitts into the Treasury, scoop out $1.8 billion to give to police beaters.",
+      "cn": "美国总统不能把手伸进国库，掏出18亿美元给那些殴打警察的人。",
+      "structure": "主谓宾结构，主语+情态动词+谓语+宾语，不定式表目的",
+      "analysis": "这是一个简单句，主语是'The president of the United States'，谓语是'cannot dip'，宾语是'his mitts'，'into the Treasury'是地点状语，'scoop out $1.8 billion'是伴随动作，'to give to police beaters'是不定式短语作目的状语。"
+    },
+    {
+      "en": "There were fireworks at an epic level, and I got to say, it's one of the roughest meetings I've seen in my entire time in the Senate.",
+      "cn": "发生了史诗级的激烈争吵，我得说，这是我在参议院整个任期中所见过的最激烈的会议之一。",
+      "structure": "There be句型+并列句，and连接两个分句，第二个分句包含宾语从句",
+      "analysis": "第一个分句是There be句型，主语是'fireworks'；第二个分句是主谓宾结构，'I'是主语，'got to say'是谓语，后面是省略了that的宾语从句，从句中'it'是主语，'is'是系动词，'one of the roughest meetings'是表语，'I've seen'是定语从句修饰'meetings'。"
+    },
+    {
+      "en": "The White House has been very focused on restitution, and there has been a lot of weaponization against government.",
+      "cn": "白宫一直非常关注赔偿问题，而且针对政府的武器化现象很多。",
+      "structure": "并列句，and连接两个现在完成时句子",
+      "analysis": "第一个分句是主系表结构，主语'The White House'，系动词'has been'，表语'focused'，'on restitution'是介词短语；第二个分句是There be句型，主语是'a lot of weaponization'，'against government'是介词短语作定语。"
+    },
+    {
+      "en": "But if you look at what President Trump has done at the Department of Justice, his Department of Justice got $6.8 billion in penalties and settlements through going after waste, fraud, and abuse in just their first year.",
+      "cn": "但如果你看看特朗普总统在司法部做了什么，他的司法部在第一年就通过打击浪费、欺诈和滥用获得了68亿美元的罚款与和解金。",
+      "structure": "条件状语从句+主句，从句包含宾语从句",
+      "analysis": "if引导条件状语从句，从句中'you'是主语，'look at'是谓语，'what President Trump has done'是宾语从句；主句主语是'his Department of Justice'，谓语是'got'，宾语是'$6.8 billion'，'in penalties and settlements'是介词短语作定语，'through going after...'是方式状语。"
+    },
+    {
+      "en": "I think when it came to the performativeness of it being 1776 fund, he really came into it maybe with short-term decision making, thinking this is going to look cool.",
+      "cn": "我认为当涉及到它作为1776基金的表演性时，他可能真的是出于短期决策，认为这会看起来很酷。",
+      "structure": "主句+宾语从句，宾语从句包含时间状语从句和伴随状语",
+      "analysis": "主句是'I think'，后面是省略了that的宾语从句；从句中'when it came to...'是时间状语从句，主句是'he really came into it'，'with short-term decision making'是伴随状语，'thinking this is going to look cool'是现在分词短语作伴随状语，其中'this is going to look cool'是宾语从句。"
+    },
+    {
+      "en": "And where I'm really disappointed in the California candidates across the board, all 61 of them — certainly the top two — is instead of putting forth a policy of like, hey, if you choose me, this is what you can expect from the person who will run the fourth largest economy in the world.",
+      "cn": "而我对加州所有61名候选人——当然包括前两名——真正失望的是，他们没有提出这样的政策：嘿，如果你选择我，这就是你对将管理世界第四大经济体的人的期望。",
+      "structure": "主语从句+系动词+表语从句",
+      "analysis": "主语从句是'where I'm really disappointed...'，系动词是'is'，表语是'instead of putting forth a policy...'，其中'like'后面是同位语从句，从句中'if you choose me'是条件状语从句，'this is what you can expect'是主句，'what you can expect'是表语从句，'who will run...'是定语从句修饰'the person'。"
+    },
+    {
+      "en": "The thing that bothers me the most, though, is my dad was a recovering drug addict, and they give out clean crack pipes, they give out clean needles to drug addicts, they don't try to get them clean, they just lock them into this drug addict lifestyle.",
+      "cn": "不过，最让我困扰的是，我父亲曾是一名正在康复的吸毒者，他们发放干净的吸毒管，发放干净的针头给吸毒者，他们不试图让他们戒毒，只是把他们锁在这种吸毒者的生活方式中。",
+      "structure": "主语从句+系动词+表语从句（并列句）",
+      "analysis": "主语是'The thing that bothers me the most'，其中'that bothers me the most'是定语从句；系动词是'is'；表语是'my dad was...'，这是一个并列句，由四个分句组成，用逗号和'and'连接。"
+    },
+    {
+      "en": "And in this, 61 people running, and in California, everybody gets a ballot mailed to their home, so you get a catalog from the secretary of state mailed to your home to make this decision.",
+      "cn": "在这种情况下，有61人竞选，在加州，每个人都会收到邮寄到家的选票，所以你会收到州务卿邮寄到家的一本手册来做决定。",
+      "structure": "并列句，so连接因果",
+      "analysis": "第一个分句是'61 people running'（独立主格结构），第二个分句是'everybody gets a ballot mailed to their home'，第三个分句是'you get a catalog...'，其中'mailed to your home'是过去分词短语作定语，'to make this decision'是不定式短语作目的状语。"
+    },
+    {
+      "en": "And that's why it's very important that President Trump gets to a quick conflict.",
+      "cn": "这就是为什么特朗普总统迅速解决冲突非常重要。",
+      "structure": "主系表+表语从句（包含主语从句）",
+      "analysis": "主句是'That's why...'，'why'引导表语从句，从句中'it'是形式主语，真正的主语是'that President Trump gets to a quick conflict'，'important'是表语。"
+    },
+    {
+      "en": "But what Bibi Netanyahu is doing, he will go down 20 or 30 years from now, long after he's gone, as one of the most consequential leaders in the world.",
+      "cn": "但内塔尼亚胡正在做的事情，他将在20或30年后，在他去世很久之后，作为世界上最重要的领导人之一被铭记。",
+      "structure": "主语从句+主句，主句包含时间状语和方式状语",
+      "analysis": "主语从句是'what Bibi Netanyahu is doing'，主句是'he will go down'，'20 or 30 years from now'是时间状语，'long after he's gone'是时间状语从句，'as one of the most consequential leaders'是方式状语。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "Trump Administration's $1.8 Billion 'Anti-Weaponization' Fund",
+      "content": "特朗普政府提出设立18亿美元的基金，用于赔偿那些声称被司法部“武器化”对待的人，包括国会山骚乱参与者等。该计划遭到两党强烈反对，甚至共和党内部也出现分裂，导致白宫暂时退缩。司法部表示将遵守法院暂停该基金的裁决，但特朗普并未明确放弃。",
+      "keywords": "anti-weaponization fund, DOJ, backlash, Republican opposition, court ruling"
+    },
+    {
+      "title": "California Primary Election",
+      "content": "加州举行初选，包括州长、洛杉矶市长等重要职位。由于采用“丛林初选”制度（所有党派候选人同台，前两名进入大选），竞争激烈。61名候选人中，前众议员埃里克·斯瓦尔韦尔曾领先但因丑闻退出，汤姆·斯泰尔虽投入巨资但支持率不高。选民普遍缺乏热情，对政治感到厌倦。",
+      "keywords": "California primary, jungle primary, governor race, voter apathy, Tom Steyer"
+    },
+    {
+      "title": "Trump-Netanyahu Heated Phone Call",
+      "content": "消息人士称，特朗普与以色列总理内塔尼亚胡通电话时情绪激动，使用粗话，指责内塔尼亚胡破坏美国与伊朗的核谈判。内塔尼亚胡原计划打击黎巴嫩贝鲁特的真主党目标，但在特朗普施压下放弃。特朗普试图在伊朗核问题上取得进展，而以色列的行动被视为干扰。",
+      "keywords": "Trump, Netanyahu, heated call, Iran nuclear talks, Hezbollah, Lebanon"
+    },
+    {
+      "title": "ICE Detention Center Conditions",
+      "content": "新泽西州一处ICE拘留中心被指条件恶劣，引发抗议。由于媒体无法进入拍摄，外界对内部情况知之甚少。该话题涉及移民权益和人道主义关切。",
+      "keywords": "ICE detention center, New Jersey, protests, conditions, immigration"
+    },
+    {
+      "title": "Los Angeles Mayoral Race",
+      "content": "洛杉矶市长选举中，真人秀明星斯宾塞·普拉特作为共和党候选人挑战现任市长。普拉特以“业余时间结束”为口号，但被对手批评为缺乏经验。选举结果可能影响加州政治格局。",
+      "keywords": "Los Angeles mayor, Spencer Pratt, election, Republican, celebrity candidate"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nTrump Administration Backs off $1.88 fund After Backlash; High Stakes, Low Enthusiasm: California Votes Today; Sources: Trump Vented Anger in Call with Netanyahu Over Lebanon. Aired 6-6:30a ET\n\nAired June 02, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nBRAD SMITH, CNN ANCHOR: Fans of \"Oh, the Place You'll Go,\" finally, there's a new Dr. Seuss book out today. It's called \"Sing the 50 States,\" published to coincide with America's 250th birthday.\n\nThe archivists at the University of San Diego library found the original manuscript and the cover art. Another children's book artist filled out the rest of the illustrations.\n\nWell, that does it for CNN HEADLINE EXPRESS. I'm Brad Smith. CNN THIS MORNING with Audie Cornish starts right now.\n\nAUDIE CORNISH, CNN ANCHOR: Today in the group chat, the Trump White House backs away from his anti-weaponization fund. So why this very rare retreat?\n\nSEN. CHRIS MURPHY (D-CT): The president of the United States cannot just dip his mitts into the Treasury, scoop out $1.8 billion to give to police beaters.\n\nCORNISH: Donald Trump, cursing over the phone at Benjamin Netanyahu. How sources say a heated phone call forced Israel to pull back in Lebanon.\n\nUNIDENTIFIED MALE: Back up, man! Back up!\n\nCORNISH: OK. Protests over what some call cruel conditions at an ICE detention center in New Jersey. We're going to talk about what's going on inside where the cameras can't see.\n\nAnd primary voters pick one of the biggest jobs in American politics today. So, why are there no big names running to replace California's Gavin Newsom?\n\nAnd by the end of the day, TV villain Spencer Pratt could be one step closer to knocking off the mayor of Los Angeles.\n\nELEX MICHAELSON, CNN ANCHOR: She says it's not time for amateur hour.\n\nSPENCER PRATT (R), L.A. MAYORAL CANDIDATE: Agree. That's why I'm running.\n\nUNIDENTIFIED MALE: The statement is not satisfactory. My constituents have made clear they don't want money for a ballroom. They don't want money for a slush fund.\n\nCORNISH: So, is the Justice Department's proposed anti-weaponization fund really gone? Republicans say they'll believe it when they finally see it.\n\nGood morning, everybody. I'm Audie Cornish, and we're going to start with the White House, with Donald Trump seemingly backing off this attempt to create a $1.8 billion fund to pay people believe they were wronged by the Justice Department.\n\nNow, the DOJ is saying it will abide by a court ruling which pauses the fund. That order only lasts until at least June 12th.\n\nPresident Trump tells ABC news, quote, \"If a court doesn't allow it, and right now, a court has held it up, what can you do?\"\n\nBut ABC's Jonathan Karl notes that Trump never actually said he was giving up on the fund.\n\nSo, why did the White House talk about backing down from this fight? Probably because of the backlash with several Republican priorities on Capitol Hill falling over the issue, including a reconciliation bill to fund immigration enforcement.\n\nSEN. JOHN THUNE (R-SD): I do think that the best way to handle it is, if the administration decides to shut it down themselves.\n\nCORNISH: OK. Joining me now in the group chat, Chuck Rocha, Democratic strategist; Terry Schilling, Republican strategist; and V. Spehar, digital journalist and creator for \"Under the Desk News.\"\n\nSo, guys, unfortunately, I got to start with Terry because you were on the day this thing was announced, right? Remember, we were talking about it that Monday, and I was like, OK, we're doing reparations now. And you were like, OK, here's the thing. I wanted to play for you Senator Ted Cruz, who gave us the tea on his\n\npodcast about how this went down within Republican circles, within the Republican caucus. Here he is.\n\nSEN. TED CRUZ (R-TX): There were fireworks at an epic level, and I got to say, it's one of the roughest meetings I've seen in my entire time in the in the Senate. there were a lot of Republican senators who were just pissed. The entire meeting, they were screaming at the acting attorney general.\n\nCORNISH: Why? Why were they screaming at Todd Blanche? I know why Democrats don't like this thing. What happened, do you think?\n\nTERRY SCHILLING, REPUBLICAN STRATEGIST: Well, look, I at the end of the day, I think it's a tough issue to defend, clearly. And it's a lot of firepower is being geared at anyone that, you know, speaks out.\n\nCORNISH: You say \"clearly.\" Did the White House think clearly when they launched this thing? I think they did it for a week.\n\nI think the White House has been very focused on restitution. There has been a lot of weaponization against government. And it's not just the J-6ers. It's the parents at school board meetings who were branded as domestic terrorists. It is the pro-life grandmothers, Joan Bell and Paulette Harrow -- Harlow that were thrown in jail for protesting.\n\nCORNISH: But were there Republican senators in the meeting being like, screw them grandmas. No, no, were done with this. No. But what do you think within Republican politics turned this thing on its side?\n\nSCHILLING: Well, I think I think there's always been some Republican opposition to Trump. He's obviously been a disrupter for the whole Republican party.\n\nBut if you look at what President Trump has done at the Department of Justice. His Department of Justice got $6.8 billion in penalties and settlements through going after waste, fraud, and abuse in just their first year.\n\nMeanwhile, Joe, that's double what Joe Biden had under his first -- or under his term.\n\nCORNISH: Well, let me turn to the others, because I want to make sure we stay on message here in terms of finding out what happened with this retreat.\n\nThe White House very rarely says, We're not going to do anything anymore.\n\nI know one of the things that happened is lawmakers then were like, oh, we're not passing your immigration enforcement bill. And in sort of Trump's hierarchy of needs, I feel like immigration is higher.\n\nV. SPEHAR, CREATOR, \"UNDER THE DESK NEWS\": Oh, it's one of his favorite things for sure. He definitely wants that funding done.\n\nI think when it came to the performativeness of it being 1776 fund, he really came into it maybe with short-term decision making, thinking this is going to look cool. It's going to be splashy. It's going to play to my base.\n\nAnd then it didn't play to the base, because the base is paying $5 for gas. And you're talking about the MyPillow guy applying to get $400 million, because he was attacked. And it just -- it's absurd. It's -- and it makes no sense.\n\nCORNISH: But is it the base or is it what the Wall Street Journal called the wounded bear caucus, people who lost. Some of them you'll see. Or people who are retiring. I'm going to just play a few voices.\n\nCHUCK ROCHA, DEMOCRATIC STRATEGIST: I like to call them the YOLOs, but go ahead.\n\nCORNISH: Yes. The YOLOs. This is a mix. This is from the start, from May to just last week.\n\nSEN. THOM TILLIS (R-NC): This is beyond the pale. This is not good for my colleagues. There's no one positive thing that could be spun out of this between now and November.\n\nSEN. SUSAN COLLINS (R-ME); I do not support the weaponization fund as it has been described.\n\nUNIDENTIFIED MALE: This whole thing smells.\n\nSEN. BILL CASSIDY (R-L.A.): We're a nation of laws, so you've got to have laws.\n\nREP. MIKE FLOOD (R-NE): I do not want $1 of that going to anybody who physically assaulted police officers, period.\n\nCORNISH: That last one, Mike Flood in Nebraska. Nebraska. Addressing constituents. And it was rough by the time he gave that answer.\n\nROCHA: And that's your answer here, is that this thing is very unpopular. And would it be popular any other time? Maybe.\n\nBut what's happening right now is we're only five months from the midterm elections, and they can see the writing on the wall, and they do not want this in ads that Chuck Rocha is going to be making against them.\n\nTo your point, I think he's going to come back, but I'm going to be making -- I'm like, let's clip that. Let's put that out there. For most of the folks that you saw on your TV screen, they're either\n\nnot running for reelection --\n\nCORNISH: I saw that. Yes.\n\nROCHA: -- or they've already been beat by Donald Trump, who's put his hand down and said, you're not going to be here no more.\n\nBut that's not the problem here. Those are the easy ones. The problem are folks in moderate districts that are a little bit Republican or a little bit Democrat, who's going to have to fight for their lives. And they don't want to have to be talking about this use. They want to talk about whatever the issue is they think their constituents cares the most about.\n\nCORNISH: Yes. And this has come up in other places. Earlier, we were playing tape from Joe Rogan and others who were also criticizing the deal over IRS audits in the future.\n\nThe deal is there won't be any against Trump and his family. So, it will be interesting to see if this fund does happen and if these other aspects of this settlement go forward.\n\nYou guys stay with me, because it is primary day, right? We've just been talking about how reporter [SIC] -- how voters are responding. And we're going to talk about farm country. Does Democratic Leader Chuck Schumer have an Iowa problem?\n\nAnd then, California is heading to the polls on some of the biggest races in the state. Some voters say they are still looking for someone to believe in.\n\nUNIDENTIFIED FEMALE: I don't support anything that's going on. Nothing. Literally.\n\nCORNISH: So, it's primary day in California. Voters in the country's deepest blue strongholds, putting Democratic rule to a major test.\n\nSo, voters have had to sort through a crowded field for governor, with 61 total candidates on the ballot. And even with all those names, some voters are having a hard time finding someone to support.\n\nUNIDENTIFIED MALE: The moment you open your phone in the morning, it's -- you're bombarded with every single headline.\n\nI want to fight any of the homelessness in our area. Any -- anything that can help against that. The drug problems, the housing crisis. Also, people in my generation, the millennial generation, we can't -- we -- I can't afford a home.\n\nUNIDENTIFIED MALE: Do you plan to vote?\n\nUNIDENTIFIED FEMALE: Not really. I don't support anything that's going on. Nothing. Literally.\n\nCORNISH: Nothing. Literally.\n\nROCHA: That is my spirit animal.\n\nCORNISH: That is. OK. So, can we talk about, first, let me start with you. Sixty-one candidates. How do you stand out? I just -- it looks difficult. Tom Steyer, I know, he has so much money, and he has spent hundreds of millions of dollars on his campaign. And even he is not in the lead. So, tell me what's going on.\n\nROCHA: The whole thing about Tom Steyer is the more money he spends, the more -- less popular he gets. That's how you know you should not be a politician, A.\n\nB, let me -- let me lay the groundwork for everybody here in California.\n\nIn California, it's much different than in your state. In California, the top two people, no matter what party you're in, they get to go to the general election. So, there could be instances where there could be two Democrats, two Republicans.\n\nROCHA: But no matter. You can love or hate the system. It's very unique.\n\nAnd in this, 61 people running. And in California, everybody gets a ballot mailed to their home. So, you get a catalog from the attorney general -- not the attorney general, the secretary of state --\n\nROCHA: -- mailed to your home to make this decision.\n\nAnd so, in California, as well, for all of you girls and boys scoring at home, it's very expensive to run, because you have so many big media markets: L.A., San Francisco, San Diego.\n\nCORNISH: Anything that surprises me in in that, then why are so many people running? And why is there no one who's really, like, pulled very far ahead?\n\nAnd V., I know you hear a lot from your audience at \"Under the Desk News.\" And what are people saying about their choices there? SPEHAR: Well, I think we have to remember that there was somebody who\n\nwas kind of pulling ahead, and it was Swalwell. And then he was, obviously, held to account for his actions. And that sort of shook up the race in a way that made it very uncomfortable for folks to decide quickly who they were going to get behind.\n\nAnd where I'm really disappointed in the California candidates across the board, all 61 of them -- certainly the top two -- is instead of putting forth a policy of like, hey, if you choose me, this is what you can expect from the person who will run the fourth largest economy in the world. This is how I'm going to deal with the issues of homelessness and Hollywood leaving.\n\nInstead, they went negative on each other so hard that to this -- this voter, future voter's point --\n\nSPEHAR: -- she's just negged out. She doesn't want to deal with it. She's like, I'm going to tune out everything.\n\nCORNISH: So, every time there's a negative ad, Democrat on Democrat, Terry, does a Republican consultant get their wings? Do you suddenly --\n\nSPEHAR: I think so. Very easily.\n\nCORNISH: -- take flight at the joy that money is being wasted in a blue state by blue candidates when there's bigger fish to fry?\n\nSCHILLING: I wish. Look, I -- I think what I'm most disappointed in with the Democratic candidates in California -- first of all, I think it's -- it's a real indictment of democracy in California that Republicans --\n\nCORNISH: You should take care of Republicans --\n\nSCHILLING: They are running. But they really don't have that great of a shot, which, you know, what I'm disappointed in with the Democratic leadership in California is that, in L.A., they spend $91,000 for all these NGO programs to help the homeless. You could literally give these people jobs and actual homes.\n\nThe thing that bothers me the most, though, is my dad was a recovering drug addict. And they give out clean crack pipes. They give out clean needles to drug addicts. They don't try to get them clean. They just lock them into this drug addict lifestyle.\n\nCORNISH: Can I ask a question very briefly about the governor's race? If it's a jungle primary, then theoretically, a Republican does have a shot. Why don't you think that is? It's not a situation where you can be, like, it's redistricting. You know what I mean? It's, like, this is the time.\n\nSCHILLING: There's just -- I think that California took that Chicago Democratic machine model and just took it to the next level.\n\nCORNISH: The whole state, you mean?\n\nSCHILLING: The whole state. It's -- I -- there might be a shot if you get a Republican through that jungle primary.\n\nROCHA: It's really important to know that Donald Trump has endorsed in this race. And he endorsed Steve Hilton, which has catapulted him when they were two Republicans --\n\nCORNISH: Yes. Steve Hilton has moved forward.\n\nROCHA: -- to be almost guaranteed one of the top two.\n\nAnd, also, if you look at early votes right now in California, they have a wonderful data system. So, you can actually see who has voted so far. And so far, almost the exact same amount of Democrats and Republicans have voted early so far.\n\nThe difference is, Audie -- and you love this part because you love the independents --\n\nCORNISH: Don't make that little hand motion.\n\nROCHA: -- is that almost as many independents has voted. So, they're literally going to make the difference in this jungle primary.\n\nCORNISH: So, is there a chance there could be a Republican governor of California again?\n\nROCHA: There's always a chance. It's probably the worst year for there to be that chance.\n\nROCHA: But there's been Republican governors in this state not that far ago.\n\nCORNISH: Yes, of course. That's why I asked.\n\nSPEHAR: I'm rooting for a Republican to get one of the top two spots, just because I don't know that we, as creators, could handle a Steyer- Becerra to November situation.\n\nROCHA: That part. That part that V.'s talking about.\n\nSPEHAR: I mean, so I --\n\nCORNISH: All right, you guys. Stay with me. because we're actually going to come back to this, especially you mentioned some aspects of the L.A. mayor's race. We're going to talk about that. But in the meantime, I want to touch on this international news. The\n\npresident losing patience with Benjamin Netanyahu. There are sources saying that there was some choice words said over the phone.\n\nPlus, don't call it a comeback. Serena Williams is making a return to tennis after taking three years off.\n\nAnd now I want to say good morning to Des Moines. Beautiful sunrise there on this primary day.\n\nCORNISH: So, this morning, a source tells CNN that talks with Iran are back on track after Iran suspended them on Monday. And Trump described the suspension to ABC News as, quote, \"a little glitch.\"\n\nThe little glitch: Israel threatening to hit a Hezbollah stronghold in Beirut, Lebanon. President Trump said he had, quote, \"a very productive call\" about the plan with Benjamin Netanyahu.\n\nSources tell us it was a heated conversation, with Trump using expletives and reminding the Israeli leader how much the U.S. has supported him.\n\nNetanyahu is backing down from hitting Beirut, but insists the IDF will continue operations in Southern Lebanon.\n\nThe group chat is back, but this time we have got Gordon Sondland, the former ambassador to the E.U. Thank you so much for being here.\n\nGORDON SONDLAND, FORMER U.S. AMBASSADOR TO E.U.: Good morning.\n\nCORNISH: So, what is the relationship between Trump and Netanyahu? I don't want to say that, just because people were swearing, things are bad. But what do you know about that relationship?\n\nSONDLAND: Well, I can tell you they're like brothers from another mother. They talk all the time. Yes, they swear at each other. And the swearing, by the way, goes both directions.\n\nThey literally are almost like siblings. They think very, very much alike when it comes to U.S. policy vis-a-vis Israel, and vice versa. I don't view this as anything other than business as usual.\n\nNetanyahu is in a real box with Hezbollah, because they started with a real ceasefire. And of course, Hezbollah violated it within two minutes. And Netanyahu has no choice. He has to hit back.\n\nSONDLAND: And Trump is trying to play three-dimensional chess with Iran.\n\nCORNISH: He is. Can I ask about that? SONDLAND: Yes.\n\nCORNISH: Because so far on this show, we often talk about Iran and the U.S. That's the conversation. What is the deal, nuclear.\n\nAnd in the meantime, these bulldozers moving through Southern Lebanon says there's another actor here. And that issue has not been addressed, and Iran has brought it up.\n\nDoes it have -- is Trump having this conversation with Netanyahu in this way, because it's jeopardizing any hopes of the deal; reopening the Strait of Hormuz; all these other issues that are all tied together?\n\nSONDLAND: Don't kid yourself. There's not another actor here. Hezbollah is a complete proxy for Iran. Hezbollah does --\n\nCORNISH: Yes, but I'm saying it was U.S.-Israeli strikes, right? That was the initial. And so, is -- where is Israel in the conversation between Iran and the U.S.?\n\nSONDLAND: Israel? Here's where Israel is in the conversation.\n\nThe -- the news that never really hit page one that should have been -- well, it probably hit page one, but it disappeared instantly. When Pezeshkian resigned, the president of Iran resigned. That told you everything you need to know about what's going on there.\n\nTrump is dealing with a five-headed monster. He's dealing with multiple factions of the IRGC, and they're fighting amongst each other. The more moderates -- and calling Pezeshkian a moderate is really saying something, because he's no moderate. But compared to the others, he really is.\n\nWhen he resigned, it tells you that Trump does not have one solid interlocutor in Iran with whom to negotiate this deal, and they're all trying to placate one another.\n\nThe IRGC has billions of dollars stashed overseas in Swiss bank accounts and elsewhere.\n\nSONDLAND: They want to keep their money. They want to keep their power.\n\nCORNISH: But he's negotiating with someone, right?\n\nCORNISH: So, there is a conversation.\n\nCORNISH: But here's something Axios is reporting. We mentioned the cursing. Axios went further.\n\nThey said, summarizing Trump's remarks to Netanyahu. The U.S. official said -- so this is coming from our side, leaking this. \"You're F-ing crazy. Youd be in prison if it weren't for me. I'm saving your ass. Everybody hates you now. Everybody hates Israel because of this.\"\n\nThis is what they're attributing to Trump. And in the meantime, I just want to show for audience Pew Research Center, American views of Israel, and specifically Netanyahu, are upwards of 60 percent disapprove.\n\nSONDLAND: Which means he's doing a fantastic job.\n\nSONDLAND: Netanyahu is doing a fantastic job.\n\nCORNISH: So, is Trump responding to the fact that there are large numbers of the U.S. population that don't think he's doing a fantastic job?\n\nSONDLAND: Trump is responding to a situation that is momentary. In other words, he's clearly getting somewhere with someone in Iran, and he views Netanyahu at that moment in time, not generally, as F-ing that up.\n\nSo, he's saying, like you would to a brother, just stop for a minute.\n\nSONDLAND: Just stop. I'm trying to get this deal over the edge.\n\nCORNISH: And in the meantime -- I'm going to draw Terry into the conversation, because when I tried to break out the numbers in Pew, Democrats versus Republicans, we saw what we know from the last two years. Democrats, 80 percent Democrats within U.S. view Israel and Netanyahu unfavorably.\n\nThe number that struck me is Republicans going up to 41 percent. And it seemed to be in line with the world of what we have been calling marquee podcast land. Right? Your Tucker Carlsons and whoever, even the Rogans of the world who are being very -- who are expressing their frustration with Netanyahu and Israel to their -- to their constituencies, to their listeners.\n\nSCHILLING: Yes. Well, look, this is what happens when you get $5 a gallon for gas.\n\nRepublicans are very frustrated. We did not vote for this at all. And I think a lot of the discrepancy is coming, because Trump's trying to get a peace deal. He's trying to tone this down and get out of this. And meanwhile, take away Iran's nukes.\n\nBut Israel doesn't want Iran to exist, right? That's the reality. And -- and that's why they keep doing these things and screwing up our peace talks. But you're going to see that number continue to tick up the longer\n\nthis conflict goes on. And that's why it's very important that President Trump gets -- gets to a quick (ph) conflict.\n\nSONDLAND: I don't agree at all. Israel -- You're saying Israel does not want Iran to exist? Israel very much wants Iran to exist as a partnership. What they don't want is the clerical regime to exist.\n\nThere are about 90 million people in Iran, and about 88 million of them would love to be a peaceful partner of Israel. The 2 million that don't happen to have all the money and the weapons.\n\nSCHILLING: Well, I think actions speak louder than words. I'll defer to you. You are the foreign policy expert.\n\nBut I think that there's a lot of really bad things that we're seeing coming out of this entire conflict. And the quicker we can get out of it, I think the better it is going to be for our country and for the future of America.\n\nCORNISH: Can I let you answer one more thing? Just because he said screwing up the talks. And like that -- this is, I guess, kind of the question I was asking.\n\nCan you respond to that world of -- and maybe Republican voter that thinks Israel is, quote, unquote, \"screwing up\" the talks?\n\nSONDLAND: I think, unfortunately -- and this sounds sort of unctuous, and I don't mean to -- but I think the American public is not well- educated on what Israel does for and with the United States, and why Israel is such a key ally.\n\nAnd it's very popular right now to hate Bibi Netanyahu. But Bibi Netanyahu is fighting for the existence of his country.\n\nAnd when you're fighting for the existence of your country, which could be wiped out just like that, you take a very different position than when you're just fighting for a little more territory, or a little of this, or a little of that. And that's the difference.\n\nThis is a very long conversation, which I know we don't have time for. But what Bibi Netanyahu is doing, he will go down 20 or 30 years from now, long after he's gone --\n\nSONDLAND: -- as one of the most consequential leaders in the world.\n\nCORNISH: Well, in the meantime, these talks to try and reset that relationship geopolitically continue.\n\nGordon Sondland, I hope you will be back as we learn more from this White House.\n\nStraight ahead on CNN THIS MORNING, the growing calls to close that detention center in New Jersey. [06:30:00]",
+  "segments": [
+    {
+      "seg": 1,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-02/segment/01",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nTrump Administration Backs off $1.88 fund After Backlash; High Stakes, Low Enthusiasm: California Votes Today; Sources: Trump Vented Anger in Call with Netanyahu Over Lebanon. Aired 6-6:30a ET\n\nAired June 02, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nBRAD SMITH, CNN ANCHOR: Fans of \"Oh, the Place You'll Go,\" finally, there's a new Dr. Seuss book out today. It's called \"Sing the 50 States,\" published to coincide with America's 250th birthday.\n\nThe archivists at the University of San Diego library found the original manuscript and the cover art. Another children's book artist filled out the rest of the illustrations.\n\nWell, that does it for CNN HEADLINE EXPRESS. I'm Brad Smith. CNN THIS MORNING with Audie Cornish starts right now.\n\nAUDIE CORNISH, CNN ANCHOR: Today in the group chat, the Trump White House backs away from his anti-weaponization fund. So why this very rare retreat?\n\nSEN. CHRIS MURPHY (D-CT): The president of the United States cannot just dip his mitts into the Treasury, scoop out $1.8 billion to give to police beaters.\n\nCORNISH: Donald Trump, cursing over the phone at Benjamin Netanyahu. How sources say a heated phone call forced Israel to pull back in Lebanon.\n\nUNIDENTIFIED MALE: Back up, man! Back up!\n\nCORNISH: OK. Protests over what some call cruel conditions at an ICE detention center in New Jersey. We're going to talk about what's going on inside where the cameras can't see.\n\nAnd primary voters pick one of the biggest jobs in American politics today. So, why are there no big names running to replace California's Gavin Newsom?\n\nAnd by the end of the day, TV villain Spencer Pratt could be one step closer to knocking off the mayor of Los Angeles.\n\nELEX MICHAELSON, CNN ANCHOR: She says it's not time for amateur hour.\n\nSPENCER PRATT (R), L.A. MAYORAL CANDIDATE: Agree. That's why I'm running.\n\nUNIDENTIFIED MALE: The statement is not satisfactory. My constituents have made clear they don't want money for a ballroom. They don't want money for a slush fund.\n\nCORNISH: So, is the Justice Department's proposed anti-weaponization fund really gone? Republicans say they'll believe it when they finally see it.\n\nGood morning, everybody. I'm Audie Cornish, and we're going to start with the White House, with Donald Trump seemingly backing off this attempt to create a $1.8 billion fund to pay people believe they were wronged by the Justice Department.\n\nNow, the DOJ is saying it will abide by a court ruling which pauses the fund. That order only lasts until at least June 12th.\n\nPresident Trump tells ABC news, quote, \"If a court doesn't allow it, and right now, a court has held it up, what can you do?\"\n\nBut ABC's Jonathan Karl notes that Trump never actually said he was giving up on the fund.\n\nSo, why did the White House talk about backing down from this fight? Probably because of the backlash with several Republican priorities on Capitol Hill falling over the issue, including a reconciliation bill to fund immigration enforcement.\n\nSEN. JOHN THUNE (R-SD): I do think that the best way to handle it is, if the administration decides to shut it down themselves.\n\nCORNISH: OK. Joining me now in the group chat, Chuck Rocha, Democratic strategist; Terry Schilling, Republican strategist; and V. Spehar, digital journalist and creator for \"Under the Desk News.\"\n\nSo, guys, unfortunately, I got to start with Terry because you were on the day this thing was announced, right? Remember, we were talking about it that Monday, and I was like, OK, we're doing reparations now. And you were like, OK, here's the thing. I wanted to play for you Senator Ted Cruz, who gave us the tea on his\n\npodcast about how this went down within Republican circles, within the Republican caucus. Here he is.\n\nSEN. TED CRUZ (R-TX): There were fireworks at an epic level, and I got to say, it's one of the roughest meetings I've seen in my entire time in the in the Senate. there were a lot of Republican senators who were just pissed. The entire meeting, they were screaming at the acting attorney general.\n\nCORNISH: Why? Why were they screaming at Todd Blanche? I know why Democrats don't like this thing. What happened, do you think?\n\nTERRY SCHILLING, REPUBLICAN STRATEGIST: Well, look, I at the end of the day, I think it's a tough issue to defend, clearly. And it's a lot of firepower is being geared at anyone that, you know, speaks out.\n\nCORNISH: You say \"clearly.\" Did the White House think clearly when they launched this thing? I think they did it for a week.\n\nI think the White House has been very focused on restitution. There has been a lot of weaponization against government. And it's not just the J-6ers. It's the parents at school board meetings who were branded as domestic terrorists. It is the pro-life grandmothers, Joan Bell and Paulette Harrow -- Harlow that were thrown in jail for protesting.\n\nCORNISH: But were there Republican senators in the meeting being like, screw them grandmas. No, no, were done with this. No. But what do you think within Republican politics turned this thing on its side?\n\nSCHILLING: Well, I think I think there's always been some Republican opposition to Trump. He's obviously been a disrupter for the whole Republican party.\n\nBut if you look at what President Trump has done at the Department of Justice. His Department of Justice got $6.8 billion in penalties and settlements through going after waste, fraud, and abuse in just their first year.\n\nMeanwhile, Joe, that's double what Joe Biden had under his first -- or under his term.\n\nCORNISH: Well, let me turn to the others, because I want to make sure we stay on message here in terms of finding out what happened with this retreat.\n\nThe White House very rarely says, We're not going to do anything anymore.\n\nI know one of the things that happened is lawmakers then were like, oh, we're not passing your immigration enforcement bill. And in sort of Trump's hierarchy of needs, I feel like immigration is higher.\n\nV. SPEHAR, CREATOR, \"UNDER THE DESK NEWS\": Oh, it's one of his favorite things for sure. He definitely wants that funding done.\n\nI think when it came to the performativeness of it being 1776 fund, he really came into it maybe with short-term decision making, thinking this is going to look cool. It's going to be splashy. It's going to play to my base.\n\nAnd then it didn't play to the base, because the base is paying $5 for gas. And you're talking about the MyPillow guy applying to get $400 million, because he was attacked. And it just -- it's absurd. It's -- and it makes no sense.\n\nCORNISH: But is it the base or is it what the Wall Street Journal called the wounded bear caucus, people who lost. Some of them you'll see. Or people who are retiring. I'm going to just play a few voices.\n\nCHUCK ROCHA, DEMOCRATIC STRATEGIST: I like to call them the YOLOs, but go ahead.\n\nCORNISH: Yes. The YOLOs. This is a mix. This is from the start, from May to just last week.\n\nSEN. THOM TILLIS (R-NC): This is beyond the pale. This is not good for my colleagues. There's no one positive thing that could be spun out of this between now and November.\n\nSEN. SUSAN COLLINS (R-ME); I do not support the weaponization fund as it has been described.\n\nUNIDENTIFIED MALE: This whole thing smells.\n\nSEN. BILL CASSIDY (R-L.A.): We're a nation of laws, so you've got to have laws.\n\nREP. MIKE FLOOD (R-NE): I do not want $1 of that going to anybody who physically assaulted police officers, period.\n\nCORNISH: That last one, Mike Flood in Nebraska. Nebraska. Addressing constituents. And it was rough by the time he gave that answer.\n\nROCHA: And that's your answer here, is that this thing is very unpopular. And would it be popular any other time? Maybe.\n\nBut what's happening right now is we're only five months from the midterm elections, and they can see the writing on the wall, and they do not want this in ads that Chuck Rocha is going to be making against them.\n\nTo your point, I think he's going to come back, but I'm going to be making -- I'm like, let's clip that. Let's put that out there. For most of the folks that you saw on your TV screen, they're either\n\nnot running for reelection --\n\nCORNISH: I saw that. Yes.\n\nROCHA: -- or they've already been beat by Donald Trump, who's put his hand down and said, you're not going to be here no more.\n\nBut that's not the problem here. Those are the easy ones. The problem are folks in moderate districts that are a little bit Republican or a little bit Democrat, who's going to have to fight for their lives. And they don't want to have to be talking about this use. They want to talk about whatever the issue is they think their constituents cares the most about.\n\nCORNISH: Yes. And this has come up in other places. Earlier, we were playing tape from Joe Rogan and others who were also criticizing the deal over IRS audits in the future.\n\nThe deal is there won't be any against Trump and his family. So, it will be interesting to see if this fund does happen and if these other aspects of this settlement go forward.\n\nYou guys stay with me, because it is primary day, right? We've just been talking about how reporter [SIC] -- how voters are responding. And we're going to talk about farm country. Does Democratic Leader Chuck Schumer have an Iowa problem?\n\nAnd then, California is heading to the polls on some of the biggest races in the state. Some voters say they are still looking for someone to believe in.\n\nUNIDENTIFIED FEMALE: I don't support anything that's going on. Nothing. Literally.\n\nCORNISH: So, it's primary day in California. Voters in the country's deepest blue strongholds, putting Democratic rule to a major test.\n\nSo, voters have had to sort through a crowded field for governor, with 61 total candidates on the ballot. And even with all those names, some voters are having a hard time finding someone to support.\n\nUNIDENTIFIED MALE: The moment you open your phone in the morning, it's -- you're bombarded with every single headline.\n\nI want to fight any of the homelessness in our area. Any -- anything that can help against that. The drug problems, the housing crisis. Also, people in my generation, the millennial generation, we can't -- we -- I can't afford a home.\n\nUNIDENTIFIED MALE: Do you plan to vote?\n\nUNIDENTIFIED FEMALE: Not really. I don't support anything that's going on. Nothing. Literally.\n\nCORNISH: Nothing. Literally.\n\nROCHA: That is my spirit animal.\n\nCORNISH: That is. OK. So, can we talk about, first, let me start with you. Sixty-one candidates. How do you stand out? I just -- it looks difficult. Tom Steyer, I know, he has so much money, and he has spent hundreds of millions of dollars on his campaign. And even he is not in the lead. So, tell me what's going on.\n\nROCHA: The whole thing about Tom Steyer is the more money he spends, the more -- less popular he gets. That's how you know you should not be a politician, A.\n\nB, let me -- let me lay the groundwork for everybody here in California.\n\nIn California, it's much different than in your state. In California, the top two people, no matter what party you're in, they get to go to the general election. So, there could be instances where there could be two Democrats, two Republicans.\n\nROCHA: But no matter. You can love or hate the system. It's very unique.\n\nAnd in this, 61 people running. And in California, everybody gets a ballot mailed to their home. So, you get a catalog from the attorney general -- not the attorney general, the secretary of state --\n\nROCHA: -- mailed to your home to make this decision.\n\nAnd so, in California, as well, for all of you girls and boys scoring at home, it's very expensive to run, because you have so many big media markets: L.A., San Francisco, San Diego.\n\nCORNISH: Anything that surprises me in in that, then why are so many people running? And why is there no one who's really, like, pulled very far ahead?\n\nAnd V., I know you hear a lot from your audience at \"Under the Desk News.\" And what are people saying about their choices there? SPEHAR: Well, I think we have to remember that there was somebody who\n\nwas kind of pulling ahead, and it was Swalwell. And then he was, obviously, held to account for his actions. And that sort of shook up the race in a way that made it very uncomfortable for folks to decide quickly who they were going to get behind.\n\nAnd where I'm really disappointed in the California candidates across the board, all 61 of them -- certainly the top two -- is instead of putting forth a policy of like, hey, if you choose me, this is what you can expect from the person who will run the fourth largest economy in the world. This is how I'm going to deal with the issues of homelessness and Hollywood leaving.\n\nInstead, they went negative on each other so hard that to this -- this voter, future voter's point --\n\nSPEHAR: -- she's just negged out. She doesn't want to deal with it. She's like, I'm going to tune out everything.\n\nCORNISH: So, every time there's a negative ad, Democrat on Democrat, Terry, does a Republican consultant get their wings? Do you suddenly --\n\nSPEHAR: I think so. Very easily.\n\nCORNISH: -- take flight at the joy that money is being wasted in a blue state by blue candidates when there's bigger fish to fry?\n\nSCHILLING: I wish. Look, I -- I think what I'm most disappointed in with the Democratic candidates in California -- first of all, I think it's -- it's a real indictment of democracy in California that Republicans --\n\nCORNISH: You should take care of Republicans --\n\nSCHILLING: They are running. But they really don't have that great of a shot, which, you know, what I'm disappointed in with the Democratic leadership in California is that, in L.A., they spend $91,000 for all these NGO programs to help the homeless. You could literally give these people jobs and actual homes.\n\nThe thing that bothers me the most, though, is my dad was a recovering drug addict. And they give out clean crack pipes. They give out clean needles to drug addicts. They don't try to get them clean. They just lock them into this drug addict lifestyle.\n\nCORNISH: Can I ask a question very briefly about the governor's race? If it's a jungle primary, then theoretically, a Republican does have a shot. Why don't you think that is? It's not a situation where you can be, like, it's redistricting. You know what I mean? It's, like, this is the time.\n\nSCHILLING: There's just -- I think that California took that Chicago Democratic machine model and just took it to the next level.\n\nCORNISH: The whole state, you mean?\n\nSCHILLING: The whole state. It's -- I -- there might be a shot if you get a Republican through that jungle primary.\n\nROCHA: It's really important to know that Donald Trump has endorsed in this race. And he endorsed Steve Hilton, which has catapulted him when they were two Republicans --\n\nCORNISH: Yes. Steve Hilton has moved forward.\n\nROCHA: -- to be almost guaranteed one of the top two.\n\nAnd, also, if you look at early votes right now in California, they have a wonderful data system. So, you can actually see who has voted so far. And so far, almost the exact same amount of Democrats and Republicans have voted early so far.\n\nThe difference is, Audie -- and you love this part because you love the independents --\n\nCORNISH: Don't make that little hand motion.\n\nROCHA: -- is that almost as many independents has voted. So, they're literally going to make the difference in this jungle primary.\n\nCORNISH: So, is there a chance there could be a Republican governor of California again?\n\nROCHA: There's always a chance. It's probably the worst year for there to be that chance.\n\nROCHA: But there's been Republican governors in this state not that far ago.\n\nCORNISH: Yes, of course. That's why I asked.\n\nSPEHAR: I'm rooting for a Republican to get one of the top two spots, just because I don't know that we, as creators, could handle a Steyer- Becerra to November situation.\n\nROCHA: That part. That part that V.'s talking about.\n\nSPEHAR: I mean, so I --\n\nCORNISH: All right, you guys. Stay with me. because we're actually going to come back to this, especially you mentioned some aspects of the L.A. mayor's race. We're going to talk about that. But in the meantime, I want to touch on this international news. The\n\npresident losing patience with Benjamin Netanyahu. There are sources saying that there was some choice words said over the phone.\n\nPlus, don't call it a comeback. Serena Williams is making a return to tennis after taking three years off.\n\nAnd now I want to say good morning to Des Moines. Beautiful sunrise there on this primary day.\n\nCORNISH: So, this morning, a source tells CNN that talks with Iran are back on track after Iran suspended them on Monday. And Trump described the suspension to ABC News as, quote, \"a little glitch.\"\n\nThe little glitch: Israel threatening to hit a Hezbollah stronghold in Beirut, Lebanon. President Trump said he had, quote, \"a very productive call\" about the plan with Benjamin Netanyahu.\n\nSources tell us it was a heated conversation, with Trump using expletives and reminding the Israeli leader how much the U.S. has supported him.\n\nNetanyahu is backing down from hitting Beirut, but insists the IDF will continue operations in Southern Lebanon.\n\nThe group chat is back, but this time we have got Gordon Sondland, the former ambassador to the E.U. Thank you so much for being here.\n\nGORDON SONDLAND, FORMER U.S. AMBASSADOR TO E.U.: Good morning.\n\nCORNISH: So, what is the relationship between Trump and Netanyahu? I don't want to say that, just because people were swearing, things are bad. But what do you know about that relationship?\n\nSONDLAND: Well, I can tell you they're like brothers from another mother. They talk all the time. Yes, they swear at each other. And the swearing, by the way, goes both directions.\n\nThey literally are almost like siblings. They think very, very much alike when it comes to U.S. policy vis-a-vis Israel, and vice versa. I don't view this as anything other than business as usual.\n\nNetanyahu is in a real box with Hezbollah, because they started with a real ceasefire. And of course, Hezbollah violated it within two minutes. And Netanyahu has no choice. He has to hit back.\n\nSONDLAND: And Trump is trying to play three-dimensional chess with Iran.\n\nCORNISH: He is. Can I ask about that? SONDLAND: Yes.\n\nCORNISH: Because so far on this show, we often talk about Iran and the U.S. That's the conversation. What is the deal, nuclear.\n\nAnd in the meantime, these bulldozers moving through Southern Lebanon says there's another actor here. And that issue has not been addressed, and Iran has brought it up.\n\nDoes it have -- is Trump having this conversation with Netanyahu in this way, because it's jeopardizing any hopes of the deal; reopening the Strait of Hormuz; all these other issues that are all tied together?\n\nSONDLAND: Don't kid yourself. There's not another actor here. Hezbollah is a complete proxy for Iran. Hezbollah does --\n\nCORNISH: Yes, but I'm saying it was U.S.-Israeli strikes, right? That was the initial. And so, is -- where is Israel in the conversation between Iran and the U.S.?\n\nSONDLAND: Israel? Here's where Israel is in the conversation.\n\nThe -- the news that never really hit page one that should have been -- well, it probably hit page one, but it disappeared instantly. When Pezeshkian resigned, the president of Iran resigned. That told you everything you need to know about what's going on there.\n\nTrump is dealing with a five-headed monster. He's dealing with multiple factions of the IRGC, and they're fighting amongst each other. The more moderates -- and calling Pezeshkian a moderate is really saying something, because he's no moderate. But compared to the others, he really is.\n\nWhen he resigned, it tells you that Trump does not have one solid interlocutor in Iran with whom to negotiate this deal, and they're all trying to placate one another.\n\nThe IRGC has billions of dollars stashed overseas in Swiss bank accounts and elsewhere.\n\nSONDLAND: They want to keep their money. They want to keep their power.\n\nCORNISH: But he's negotiating with someone, right?\n\nCORNISH: So, there is a conversation.\n\nCORNISH: But here's something Axios is reporting. We mentioned the cursing. Axios went further.\n\nThey said, summarizing Trump's remarks to Netanyahu. The U.S. official said -- so this is coming from our side, leaking this. \"You're F-ing crazy. Youd be in prison if it weren't for me. I'm saving your ass. Everybody hates you now. Everybody hates Israel because of this.\"\n\nThis is what they're attributing to Trump. And in the meantime, I just want to show for audience Pew Research Center, American views of Israel, and specifically Netanyahu, are upwards of 60 percent disapprove.\n\nSONDLAND: Which means he's doing a fantastic job.\n\nSONDLAND: Netanyahu is doing a fantastic job.\n\nCORNISH: So, is Trump responding to the fact that there are large numbers of the U.S. population that don't think he's doing a fantastic job?\n\nSONDLAND: Trump is responding to a situation that is momentary. In other words, he's clearly getting somewhere with someone in Iran, and he views Netanyahu at that moment in time, not generally, as F-ing that up.\n\nSo, he's saying, like you would to a brother, just stop for a minute.\n\nSONDLAND: Just stop. I'm trying to get this deal over the edge.\n\nCORNISH: And in the meantime -- I'm going to draw Terry into the conversation, because when I tried to break out the numbers in Pew, Democrats versus Republicans, we saw what we know from the last two years. Democrats, 80 percent Democrats within U.S. view Israel and Netanyahu unfavorably.\n\nThe number that struck me is Republicans going up to 41 percent. And it seemed to be in line with the world of what we have been calling marquee podcast land. Right? Your Tucker Carlsons and whoever, even the Rogans of the world who are being very -- who are expressing their frustration with Netanyahu and Israel to their -- to their constituencies, to their listeners.\n\nSCHILLING: Yes. Well, look, this is what happens when you get $5 a gallon for gas.\n\nRepublicans are very frustrated. We did not vote for this at all. And I think a lot of the discrepancy is coming, because Trump's trying to get a peace deal. He's trying to tone this down and get out of this. And meanwhile, take away Iran's nukes.\n\nBut Israel doesn't want Iran to exist, right? That's the reality. And -- and that's why they keep doing these things and screwing up our peace talks. But you're going to see that number continue to tick up the longer\n\nthis conflict goes on. And that's why it's very important that President Trump gets -- gets to a quick (ph) conflict.\n\nSONDLAND: I don't agree at all. Israel -- You're saying Israel does not want Iran to exist? Israel very much wants Iran to exist as a partnership. What they don't want is the clerical regime to exist.\n\nThere are about 90 million people in Iran, and about 88 million of them would love to be a peaceful partner of Israel. The 2 million that don't happen to have all the money and the weapons.\n\nSCHILLING: Well, I think actions speak louder than words. I'll defer to you. You are the foreign policy expert.\n\nBut I think that there's a lot of really bad things that we're seeing coming out of this entire conflict. And the quicker we can get out of it, I think the better it is going to be for our country and for the future of America.\n\nCORNISH: Can I let you answer one more thing? Just because he said screwing up the talks. And like that -- this is, I guess, kind of the question I was asking.\n\nCan you respond to that world of -- and maybe Republican voter that thinks Israel is, quote, unquote, \"screwing up\" the talks?\n\nSONDLAND: I think, unfortunately -- and this sounds sort of unctuous, and I don't mean to -- but I think the American public is not well- educated on what Israel does for and with the United States, and why Israel is such a key ally.\n\nAnd it's very popular right now to hate Bibi Netanyahu. But Bibi Netanyahu is fighting for the existence of his country.\n\nAnd when you're fighting for the existence of your country, which could be wiped out just like that, you take a very different position than when you're just fighting for a little more territory, or a little of this, or a little of that. And that's the difference.\n\nThis is a very long conversation, which I know we don't have time for. But what Bibi Netanyahu is doing, he will go down 20 or 30 years from now, long after he's gone --\n\nSONDLAND: -- as one of the most consequential leaders in the world.\n\nCORNISH: Well, in the meantime, these talks to try and reset that relationship geopolitically continue.\n\nGordon Sondland, I hope you will be back as we learn more from this White House.\n\nStraight ahead on CNN THIS MORNING, the growing calls to close that detention center in New Jersey. [06:30:00]"
+    }
+  ]
+}

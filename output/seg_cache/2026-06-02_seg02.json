@@ -1,0 +1,594 @@
+{
+  "date": "2026-06-02",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-02/segment/02",
+  "vocabulary": [
+    {
+      "word": "detention center",
+      "phonetic": "/dɪˈtenʃn ˈsentər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "拘留中心",
+      "en": "a place where people are held in custody",
+      "excerpt": "the growing calls to close that detention center in New Jersey.",
+      "example_cn": "关闭那个拘留中心的呼声越来越高。"
+    },
+    {
+      "word": "inhumane",
+      "phonetic": "/ˌɪnhjuːˈmeɪn/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "不人道的",
+      "en": "lacking compassion or humanity",
+      "excerpt": "claims of inhumane treatment inside Delaney Hall.",
+      "example_cn": "关于Delaney Hall内不人道待遇的指控。"
+    },
+    {
+      "word": "Medicaid",
+      "phonetic": "/ˈmedɪkeɪd/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "医疗补助计划",
+      "en": "a US government program that provides health insurance for people with low income",
+      "excerpt": "the Trump administration is moving ahead with Medicaid work requirements.",
+      "example_cn": "特朗普政府正在推进医疗补助的工作要求。"
+    },
+    {
+      "word": "work requirements",
+      "phonetic": "/wɜːrk rɪˈkwaɪərmənts/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "工作要求",
+      "en": "conditions that require a person to work to receive benefits",
+      "excerpt": "a new framework for Medicaid work requirements.",
+      "example_cn": "医疗补助工作要求的新框架。"
+    },
+    {
+      "word": "curfew",
+      "phonetic": "/ˈkɜːrfjuː/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "宵禁",
+      "en": "a regulation requiring people to remain indoors during specified hours",
+      "excerpt": "There's a mandatory curfew in effect outside Delaney Hall.",
+      "example_cn": "Delaney Hall外实行强制宵禁。"
+    },
+    {
+      "word": "hunger strike",
+      "phonetic": "/ˈhʌŋɡər straɪk/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "绝食抗议",
+      "en": "a refusal to eat as a form of protest",
+      "excerpt": "hundreds of detainees have launched a hunger strike.",
+      "example_cn": "数百名被拘留者发起了绝食抗议。"
+    },
+    {
+      "word": "spoiled food",
+      "phonetic": "/spɔɪld fuːd/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "变质的食物",
+      "en": "food that has gone bad and is unfit to eat",
+      "excerpt": "protesting spoiled food and inhumane conditions.",
+      "example_cn": "抗议变质食物和不人道条件。"
+    },
+    {
+      "word": "attorney",
+      "phonetic": "/əˈtɜːrni/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "律师",
+      "en": "a lawyer",
+      "excerpt": "according to their attorneys.",
+      "example_cn": "据他们的律师称。"
+    },
+    {
+      "word": "lawmaker",
+      "phonetic": "/ˈlɔːmeɪkər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "立法者",
+      "en": "a person who makes laws; a legislator",
+      "excerpt": "several Democratic lawmakers actually went and toured the facility.",
+      "example_cn": "几位民主党立法者参观了该设施。"
+    },
+    {
+      "word": "felon",
+      "phonetic": "/ˈfelən/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "重罪犯",
+      "en": "a person who has committed a serious crime",
+      "excerpt": "Not a single person who we spoke with at Delaney Hall yesterday was a violent felon.",
+      "example_cn": "昨天我们在Delaney Hall交谈的人中没有一个是暴力重罪犯。"
+    },
+    {
+      "word": "immigration enforcement",
+      "phonetic": "/ˌɪmɪˈɡreɪʃn ɪnˈfɔːrsmənt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "移民执法",
+      "en": "the act of enforcing immigration laws",
+      "excerpt": "Immigration enforcement in this country, it should be fair, just and humane.",
+      "example_cn": "这个国家的移民执法应该公平、公正和人道。"
+    },
+    {
+      "word": "pepper spray",
+      "phonetic": "/ˈpepər spreɪ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "喷射胡椒喷雾",
+      "en": "to spray a chemical irritant as a weapon",
+      "excerpt": "they've been pepper sprayed.",
+      "example_cn": "他们被喷了胡椒喷雾。"
+    },
+    {
+      "word": "maggot",
+      "phonetic": "/ˈmæɡət/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "蛆",
+      "en": "a soft-bodied larva of a fly",
+      "excerpt": "they were served food with maggots.",
+      "example_cn": "他们被提供了有蛆的食物。"
+    },
+    {
+      "word": "sanitary",
+      "phonetic": "/ˈsænəteri/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "卫生的",
+      "en": "relating to conditions affecting health and cleanliness",
+      "excerpt": "it's about minimum sanitary food.",
+      "example_cn": "这是关于最低卫生标准的食物。"
+    },
+    {
+      "word": "hospitalized",
+      "phonetic": "/ˈhɑːspɪtəlaɪzd/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "住院的",
+      "en": "admitted to a hospital for treatment",
+      "excerpt": "We had a client that was released last week and then was hospitalized.",
+      "example_cn": "我们有一个客户上周被释放，然后住院了。"
+    },
+    {
+      "word": "seizure",
+      "phonetic": "/ˈsiːʒər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "癫痫发作",
+      "en": "a sudden attack of illness, especially of epilepsy",
+      "excerpt": "the client that has seizure.",
+      "example_cn": "那个有癫痫发作的客户。"
+    },
+    {
+      "word": "anti-seizure medication",
+      "phonetic": "/ˈænti ˈsiːʒər ˌmedɪˈkeɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "抗癫痫药物",
+      "en": "medicine used to prevent seizures",
+      "excerpt": "they were not receiving anti-seizure medication.",
+      "example_cn": "他们没有收到抗癫痫药物。"
+    },
+    {
+      "word": "downplay",
+      "phonetic": "/ˌdaʊnˈpleɪ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "淡化，轻描淡写",
+      "en": "to make something seem less important than it is",
+      "excerpt": "their symptoms are downplayed.",
+      "example_cn": "他们的症状被轻描淡写。"
+    },
+    {
+      "word": "backlog",
+      "phonetic": "/ˈbæklɔːɡ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "积压",
+      "en": "an accumulation of unfinished work or matters",
+      "excerpt": "the backlog right now for these immigration cases in general is clocking at 3.2 million.",
+      "example_cn": "目前这些移民案件的积压数量达到320万。"
+    },
+    {
+      "word": "detention",
+      "phonetic": "/dɪˈtenʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "拘留",
+      "en": "the state of being held in custody",
+      "excerpt": "People can be in detention for as long as 800 days.",
+      "example_cn": "人们可能被拘留长达800天。"
+    },
+    {
+      "word": "appeal",
+      "phonetic": "/əˈpiːl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "上诉",
+      "en": "a request to a higher court to review a decision",
+      "excerpt": "when you go into appeal with the BIA.",
+      "example_cn": "当你向移民上诉委员会上诉时。"
+    },
+    {
+      "word": "habeas corpus",
+      "phonetic": "/ˈheɪbiəs ˈkɔːrpəs/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "人身保护令",
+      "en": "a legal order requiring a person to be brought before a court",
+      "excerpt": "we get a bond hearing through a habeas corpus.",
+      "example_cn": "我们通过人身保护令获得保释听证。"
+    },
+    {
+      "word": "constitutional protection",
+      "phonetic": "/ˌkɑːnstɪˈtuːʃənl prəˈtekʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "宪法保护",
+      "en": "rights guaranteed by the constitution",
+      "excerpt": "they felt they were not given constitutional protection.",
+      "example_cn": "他们觉得没有得到宪法保护。"
+    },
+    {
+      "word": "due process",
+      "phonetic": "/duː ˈprɑːses/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "正当程序",
+      "en": "fair treatment through the normal judicial system",
+      "excerpt": "they were not given due process.",
+      "example_cn": "他们没有获得正当程序。"
+    },
+    {
+      "word": "flashpoint",
+      "phonetic": "/ˈflæʃpɔɪnt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "爆发点，热点",
+      "en": "a place or situation where trouble is likely to erupt",
+      "excerpt": "Schumer is a Flashpoint in Iowa Primary.",
+      "example_cn": "舒默是爱荷华州初选的爆发点。"
+    },
+    {
+      "word": "primary",
+      "phonetic": "/ˈpraɪmeri/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "初选",
+      "en": "an election to select candidates for a final election",
+      "excerpt": "It is primary day in six states across the country.",
+      "example_cn": "今天是全国六个州的初选日。"
+    },
+    {
+      "word": "jungle primary",
+      "phonetic": "/ˈdʒʌŋɡl ˈpraɪmeri/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "丛林初选（所有候选人同台，不分党派）",
+      "en": "a primary election in which all candidates run together regardless of party",
+      "excerpt": "voters there are voting in what's called a jungle primary.",
+      "example_cn": "那里的选民正在参加所谓的丛林初选。"
+    },
+    {
+      "word": "frontrunner",
+      "phonetic": "/ˈfrʌntrʌnər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "领先者",
+      "en": "the candidate who is leading in a race",
+      "excerpt": "the frontrunners in the race.",
+      "example_cn": "竞选中的领先者。"
+    },
+    {
+      "word": "reality TV",
+      "phonetic": "/riˈæləti tiː viː/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "真人秀电视",
+      "en": "television programs that document real-life situations",
+      "excerpt": "former reality TV star Spencer Pratt.",
+      "example_cn": "前真人秀明星斯宾塞·普拉特。"
+    },
+    {
+      "word": "infamy",
+      "phonetic": "/ˈɪnfəmi/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "臭名昭著",
+      "en": "the state of being well known for a bad quality or deed",
+      "excerpt": "Can infamy be a path to victory?",
+      "example_cn": "臭名昭著能成为通往胜利的道路吗？"
+    },
+    {
+      "word": "electorate",
+      "phonetic": "/ɪˈlektərət/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "选民",
+      "en": "all the people who are entitled to vote in an election",
+      "excerpt": "it's a small electorate in this California primary.",
+      "example_cn": "这次加州初选的选民人数很少。"
+    },
+    {
+      "word": "voter turnout",
+      "phonetic": "/ˈvoʊtər ˈtɜːrnaʊt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "投票率",
+      "en": "the number of voters who actually vote",
+      "excerpt": "voter turnout has been a little bit down.",
+      "example_cn": "投票率略有下降。"
+    },
+    {
+      "word": "outflank",
+      "phonetic": "/ˌaʊtˈflæŋk/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "包抄，胜过",
+      "en": "to outmaneuver or gain an advantage over",
+      "excerpt": "trying to outflank Bass from the left.",
+      "example_cn": "试图从左侧包抄巴斯。"
+    },
+    {
+      "word": "microcosm",
+      "phonetic": "/ˈmaɪkroʊkɑːzəm/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "缩影",
+      "en": "a small representative system that reflects a larger one",
+      "excerpt": "this is an actual microcosm of the race.",
+      "example_cn": "这实际上是这场竞选的一个缩影。"
+    },
+    {
+      "word": "grassroots",
+      "phonetic": "/ˈɡræsruːts/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "基层的",
+      "en": "involving ordinary people rather than leaders",
+      "excerpt": "a lot of grassroots people get together.",
+      "example_cn": "许多基层民众聚集在一起。"
+    },
+    {
+      "word": "pipeline",
+      "phonetic": "/ˈpaɪplaɪn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "管道，人才储备",
+      "en": "a channel for supplying something, especially talent",
+      "excerpt": "Who is moving into the pipeline?",
+      "example_cn": "谁正在进入人才储备？"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "There's a mandatory curfew in effect outside Delaney Hall amid this chaos.",
+      "cn": "在这场混乱中，Delaney Hall外实行强制宵禁。",
+      "structure": "There be 句型 + 介词短语",
+      "analysis": "主语是a mandatory curfew，in effect是后置定语，outside Delaney Hall和amid this chaos是地点状语和伴随状语。"
+    },
+    {
+      "en": "And inside, hundreds of detainees have launched a hunger strike, protesting spoiled food and inhumane conditions, according to their attorneys.",
+      "cn": "据他们的律师称，内部数百名被拘留者发起了绝食抗议，抗议变质食物和不人道条件。",
+      "structure": "主谓宾 + 现在分词短语作伴随状语 + 介词短语作状语",
+      "excerpt": "protesting spoiled food and inhumane conditions是现在分词短语作伴随状语，according to their attorneys是介词短语作状语。"
+    },
+    {
+      "en": "Not a single person who we spoke with at Delaney Hall yesterday was a violent felon.",
+      "cn": "昨天我们在Delaney Hall交谈的人中没有一个是暴力重罪犯。",
+      "structure": "定语从句 + 主系表",
+      "analysis": "who we spoke with at Delaney Hall yesterday是定语从句修饰person，主句是Not a single person was a violent felon。"
+    },
+    {
+      "en": "Immigration enforcement in this country, it should be fair, just and humane.",
+      "cn": "这个国家的移民执法应该公平、公正和人道。",
+      "structure": "名词短语 + 主谓表",
+      "analysis": "Immigration enforcement in this country是话题，it是形式主语，should be是系动词，fair, just and humane是表语。"
+    },
+    {
+      "en": "And that's why we believe it should be shut down.",
+      "cn": "这就是为什么我们认为它应该被关闭。",
+      "structure": "表语从句 + 宾语从句",
+      "analysis": "why引导表语从句，we believe是主句，it should be shut down是宾语从句。"
+    },
+    {
+      "en": "However, with those that we spoke, they were telling us that their tablets were taken away.",
+      "cn": "然而，与我们交谈的那些人告诉我们，他们的平板电脑被拿走了。",
+      "structure": "介词短语 + 主谓宾 + 宾语从句",
+      "analysis": "with those that we spoke是介词短语，that we spoke是定语从句修饰those，主句是they were telling us，that引导宾语从句。"
+    },
+    {
+      "en": "There was an episode right before the hunger strike started where they were served food with maggots.",
+      "cn": "就在绝食抗议开始前，有一件事，他们被提供了有蛆的食物。",
+      "structure": "There be 句型 + 时间状语从句 + 定语从句",
+      "analysis": "right before the hunger strike started是时间状语从句，where they were served food with maggots是定语从句修饰episode。"
+    },
+    {
+      "en": "We had a client that was released last week and then was hospitalized, had to have surgery because of the food that he was served within Delaney Hall.",
+      "cn": "我们有一个客户上周被释放，然后住院了，不得不接受手术，因为他在Delaney Hall内被提供的食物。",
+      "structure": "主谓宾 + 定语从句 + 并列谓语 + 原因状语从句",
+      "analysis": "that was released last week and then was hospitalized是定语从句修饰client，had to have surgery是并列谓语，because of...是原因状语。"
+    },
+    {
+      "en": "We had cancer patients that were not receiving medication or the client that has seizure and they were calling us because they were afraid to fall and hit the concrete floor because they were not receiving anti-seizure medication.",
+      "cn": "我们有癌症患者没有收到药物，或者有癫痫发作的客户，他们打电话给我们，因为他们害怕摔倒撞到混凝土地板，因为他们没有收到抗癫痫药物。",
+      "structure": "主谓宾 + 并列宾语 + 定语从句 + 并列句 + 原因状语从句",
+      "analysis": "两个that引导的定语从句分别修饰cancer patients和client，and连接两个并列句，because引导原因状语从句。"
+    },
+    {
+      "en": "But it's not just about the time that it takes, it's about the actual fairness of those hearing, especially when it comes to New Jersey and immigration court and bond hearing.",
+      "cn": "但这不仅仅是时间问题，而是关于这些听证会的实际公平性，尤其是在新泽西州、移民法庭和保释听证会方面。",
+      "structure": "并列句 + 定语从句 + 时间状语从句",
+      "analysis": "not just...it's about...是并列结构，that it takes是定语从句修饰time，when it comes to...是时间状语从句。"
+    },
+    {
+      "en": "Many of them, you know, we get a bond hearing through a habeas corpus when the person entered without inspection.",
+      "cn": "他们中的许多人，你知道，当一个人未经检查入境时，我们通过人身保护令获得保释听证。",
+      "structure": "插入语 + 主谓宾 + 时间状语从句",
+      "analysis": "you know是插入语，主句是we get a bond hearing through a habeas corpus，when引导时间状语从句。"
+    },
+    {
+      "en": "And that's what, aside from the food conditions, started the hunger strike within Delaney because they felt they were not, you know, given constitutional protection, due process, and their voices were not heard.",
+      "cn": "这就是除了食物条件之外，在Delaney内引发绝食抗议的原因，因为他们觉得他们没有获得宪法保护、正当程序，而且他们的声音没有被听到。",
+      "structure": "表语从句 + 插入语 + 原因状语从句",
+      "analysis": "what引导表语从句，aside from the food conditions是插入语，because引导原因状语从句，其中包含并列谓语。"
+    },
+    {
+      "en": "And Delaney Hall is not, you know, one single bad apple.",
+      "cn": "而且Delaney Hall并不是，你知道，一个害群之马。",
+      "structure": "主系表 + 插入语",
+      "analysis": "you know是插入语，one single bad apple是表语。"
+    },
+    {
+      "en": "There's many detention facility around America that are like that.",
+      "cn": "美国各地有很多像这样的拘留设施。",
+      "structure": "There be 句型 + 定语从句",
+      "analysis": "that are like that是定语从句修饰detention facility。"
+    },
+    {
+      "en": "But the long standing Democrat and Senate minority leader has sparked debate in a state Democrats are hoping to flip in November.",
+      "cn": "但这位长期担任民主党参议院少数党领袖的人在一个民主党希望在11月翻盘的州引发了辩论。",
+      "structure": "主谓宾 + 定语从句",
+      "analysis": "Democrats are hoping to flip in November是定语从句修饰state，省略了关系副词where。"
+    },
+    {
+      "en": "I asked the audience, who here thinks that Chuck Schumer is doing a good job as the leader?",
+      "cn": "我问观众，这里谁认为查克·舒默作为领导人做得很好？",
+      "structure": "主谓宾 + 直接引语",
+      "analysis": "直接引语是一个疑问句，who是主语，thinks是谓语，that引导宾语从句。"
+    },
+    {
+      "en": "And VoteVets almost single handedly have put this seat in play by running all positive ads.",
+      "cn": "VoteVets几乎单枪匹马地通过投放所有正面广告使这个席位变得有竞争力。",
+      "structure": "主谓宾 + 方式状语",
+      "analysis": "by running all positive ads是方式状语。"
+    },
+    {
+      "en": "I'm not even sure they knew that this Wahls guy is on the ballot.",
+      "cn": "我甚至不确定他们是否知道这个Wahls家伙在选票上。",
+      "structure": "主系表 + 宾语从句",
+      "analysis": "sure后省略了that，they knew that...是宾语从句。"
+    },
+    {
+      "en": "But what they're seeing is that Washington, D.C., Democrats, and, by the way, a lot of Republicans, aren't representing the best interests of the people at heart.",
+      "cn": "但他们看到的是，华盛顿特区的民主党人，顺便说一句，还有很多共和党人，并没有真正代表人民的最大利益。",
+      "structure": "主语从句 + 系动词 + 表语从句",
+      "analysis": "what they're seeing是主语从句，that引导表语从句。"
+    },
+    {
+      "en": "And so, they're going to talk like a moderate in Iowa and then vote like a progressive in D.C.",
+      "cn": "因此，他们将在爱荷华州像温和派一样说话，然后在华盛顿特区像进步派一样投票。",
+      "structure": "并列谓语",
+      "analysis": "talk like a moderate和vote like a progressive是并列谓语。"
+    },
+    {
+      "en": "And I think the voter is actually weighing in on who they see as a path that represents them.",
+      "cn": "我认为选民实际上是在权衡他们认为代表他们的道路。",
+      "structure": "主谓宾 + 宾语从句",
+      "analysis": "think后省略that，who they see as a path that represents them是宾语从句，其中that represents them是定语从句修饰path。"
+    },
+    {
+      "en": "Voters don't look at themselves as Democrats, Republicans, independents, moderates, conservative, my neoliberal.",
+      "cn": "选民不把自己视为民主党人、共和党人、独立人士、温和派、保守派、我的新自由主义者。",
+      "structure": "主谓宾 + 宾语补足语",
+      "analysis": "as Democrats...是宾语补足语。"
+    },
+    {
+      "en": "Remember that lady in California who was like, throw them all out.",
+      "cn": "还记得加州那位女士吗，她说，把他们都赶出去。",
+      "structure": "祈使句 + 定语从句 + 直接引语",
+      "analysis": "who was like是定语从句修饰lady，throw them all out是直接引语。"
+    },
+    {
+      "en": "She's better reflective of where the electorate is right now than anybody.",
+      "cn": "她比任何人都更能反映选民现在的状况。",
+      "structure": "主系表 + 比较状语",
+      "analysis": "better reflective是形容词比较级，where the electorate is right now是宾语从句。"
+    },
+    {
+      "en": "And it will be really interesting to see where that lines up.",
+      "cn": "看看结果如何将会非常有趣。",
+      "structure": "形式主语 + 系表 + 真正主语",
+      "analysis": "it是形式主语，to see where that lines up是真正主语。"
+    },
+    {
+      "en": "But, at the same time, why are we giving clean needles?",
+      "cn": "但同时，我们为什么要提供干净的针头？",
+      "structure": "特殊疑问句",
+      "analysis": "why引导疑问句，are giving是现在进行时。"
+    },
+    {
+      "en": "We found that when you put money in the pockets of people who are experiencing homelessness, they are able to level up.",
+      "cn": "我们发现，当你把钱放进无家可归者的口袋时，他们能够提升自己。",
+      "structure": "主谓宾 + 宾语从句 + 时间状语从句 + 定语从句",
+      "analysis": "that引导宾语从句，when引导时间状语从句，who are experiencing homelessness是定语从句修饰people。"
+    },
+    {
+      "en": "And if we can get things to be more fair and more structured, the way that the men's sports are, get more historic investments from companies, if the fans are showing up, it's the rest of the media that needs to show up.",
+      "cn": "如果我们能让事情变得更公平、更有条理，就像男子运动那样，从公司获得更多历史性投资，如果粉丝们出现了，那么剩下的媒体就需要出现。",
+      "structure": "条件状语从句 + 方式状语从句 + 并列条件 + 强调句",
+      "analysis": "第一个if引导条件状语从句，the way that the men's sports are是方式状语从句，第二个if引导条件状语从句，it's...that...是强调句。"
+    },
+    {
+      "en": "Fifty-five delegates put away 54 bottles of Madeira, 60 bottles of claret, eight bottles of whiskey, plus tons of beer and cider.",
+      "cn": "55名代表喝掉了54瓶马德拉酒、60瓶红葡萄酒、8瓶威士忌，外加大量啤酒和苹果酒。",
+      "structure": "主谓宾",
+      "analysis": "put away是动词短语，意为“喝掉”。"
+    },
+    {
+      "en": "And for the first time ever, they have a Democrat in every state house race running opposite a Republican.",
+      "cn": "有史以来第一次，他们在每个州众议院竞选中都有一名民主党人与共和党人竞争。",
+      "structure": "主谓宾 + 现在分词短语作定语",
+      "analysis": "running opposite a Republican是现在分词短语修饰Democrat。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "ICE拘留中心条件与抗议",
+      "content": "新泽西州纽瓦克的Delaney Hall ICE拘留中心因被指控提供变质食物、医疗忽视等不人道条件，引发被拘留者绝食抗议和外部抗议活动。民主党议员参观后呼吁关闭该设施。律师Selenia Destefani描述了恶劣条件，包括食物中有蛆、缺乏药物等。同时，移民案件积压严重，被拘留者可能面临长期拘留。",
+      "keywords": "ICE, Delaney Hall, 拘留条件, 绝食抗议, 移民积压"
+    },
+    {
+      "title": "医疗补助工作要求",
+      "content": "特朗普政府推进医疗补助（Medicaid）工作要求，受益人需每月工作80小时以维持保险，每六个月验证一次。孕妇、新父母、残疾退伍军人等豁免。此举引发关于低收入人群医疗保障的争议。",
+      "keywords": "Medicaid, 工作要求, 特朗普政府, 医疗保险"
+    },
+    {
+      "title": "爱荷华州民主党初选与舒默争议",
+      "content": "爱荷华州民主党初选中，参议院少数党领袖查克·舒默成为焦点。候选人Zach Wahls批评舒默未能代表普通爱荷华人。外部团体VoteVets投入大量资金支持对手Josh Turek，使该席位在共和党占优的州变得有竞争力。讨论民主党领导层与基层的紧张关系。",
+      "keywords": "爱荷华初选, Chuck Schumer, 民主党领导层, VoteVets"
+    },
+    {
+      "title": "洛杉矶市长丛林初选",
+      "content": "洛杉矶市长初选采用丛林初选制，现任市长Karen Bass、市议员Nithya Raman和前真人秀明星Spencer Pratt竞争。Pratt利用媒体关注度和对火灾应对不力的批评吸引选民。讨论选民对变革与现状的偏好，以及无家可归者问题。",
+      "keywords": "洛杉矶市长, 丛林初选, Spencer Pratt, 无家可归者"
+    },
+    {
+      "title": "女性体育薪资平等",
+      "content": "女子篮球在集体谈判协议中取得进展，收入分成从10%提高到20%，薪资上限从100万美元升至700万美元。讨论女子体育在公平薪酬和媒体关注方面的持续斗争。",
+      "keywords": "女子篮球, 薪资平等, 集体谈判, 收入分成"
+    },
+    {
+      "title": "美国250周年庆典与宪法大会",
+      "content": "美国即将迎来250周年独立日，计划举行大型烟花表演。同时，人们回顾1787年制宪会议，代表们消耗大量酒类，引发对现代人能否重现当年活力的讨论。",
+      "keywords": "250周年, 独立日, 制宪会议, 历史"
+    },
+    {
+      "title": "德克萨斯州民主党候选人培训",
+      "content": "德克萨斯州首次在所有州众议院选区都有民主党候选人挑战共和党人。民主党进行候选人培训，参与者包括护士、教师和退休联邦雇员，显示基层政治参与度上升。",
+      "keywords": "德克萨斯, 民主党候选人, 基层政治, 候选人培训"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nSelenia Destefani is Interviewed about Conditions at ICE Facility; Schumer is a Flashpoint in Iowa Primary; Voters Pick Candidates for Los Angeles Mayor; Aired 6:30-7a ET\n\nAired June 02, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nAUDIE CORNISH, CNN ANCHOR: Hope you will be back as we learn more from this White House.\n\nStraight ahead on CNN THIS MORNING, the growing calls to close that detention center in New Jersey. This morning, there's a new push for the Newark mayor, claims of inhumane treatment inside Delaney Hall.\n\nPlus, the Trump administration is moving ahead with Medicaid work requirements. What that means for people and their coverage.\n\nCORNISH: Good morning, everybody. I'm Audie Cornish. Thank you for joining me on CNN THIS MORNING.\n\nIt is half past the hour. Here's what's happening right now.\n\nIt is primary day in six states across the country. Voters are heading to the polls in Iowa, Montana, New Jersey, New Mexico, South Dakota, and, of course, California, where voters there are voting in what's called a jungle primary for both governor and also L.A. mayor.\n\nToday, Centers for Medicare and Medicaid Services Administrator Dr. Oz is set to deliver remarks. This is a day after his agency announced a new framework for Medicaid work requirements under Trump's, quote/unquote, big, beautiful bill. This is going to require people to work 80 hours per month to keep their coverage. And that must be verified at least every six months. States can choose to check even more frequently. Pregnant people, new parents, vets with disabilities are exempt.\n\nAnd we're now in the new era of Serena Williams' reign. The GOAT announced she is returning to competition. She's wasting no time getting back on the tennis court. She's going to play in the HSBC championship, which kicks off in London next week. The 44-year-old announced her retirement nearly four years ago.\n\nAnd in just a few hours, the mayor of Newark, New Jersey, will hold a press conference outside the ICE facility, which has become the latest flashpoint between protesters and the Trump administration. There's a mandatory curfew in effect outside Delaney Hall amid this chaos. And inside, hundreds of detainees have launched a hunger strike. They're protesting spoiled food and inhumane conditions, according to their attorneys. And several Democratic lawmakers actually went and toured the facility Sunday after previously being denied access. House Minority Leader Hakeem Jeffries spoke to CNN about what he saw.\n\nREP. HAKEEM JEFFRIES (D-NY): Not a single person who we spoke with at Delaney Hall yesterday was a violent felon.\n\nImmigration enforcement in this country, it should be fair, just and humane. And nothing that we saw at Delaney Hall, or that people have previously experienced at Delaney Hall, suggest that that is what is taking place. And that's why we believe it should be shut down.\n\nCORNISH: So, joining me now is Selenia Destefani, a lawyer whose firm represents dozens of detainees held at Delaney Hall.\n\nGood morning. Thank you for being with us.\n\nI want to start with what Hakeem Jeffries was just saying, talking about conditions. Now that lawmakers have actually gotten inside, now that there have been all these protests, what are conditions like? Have they improved for the people you represent?\n\nSELENIA DESTEFANI, MANAGING ATTORNEY, NOVA LAW GROUP: Good morning.\n\nThey have not improved. We have many detainees, some of them with medical condition. And the last contact we had was Friday. It's been a little harder to schedule legal call with our clients.\n\nHowever, with those that we spoke, they were telling us that their tablets were taken away. The tablet is a mean for them to communicate with their family member and order commissary food. They've been telling us that they've been pepper sprayed, section 2A and 2B where pepper sprayed last week. They've been threatened with violence. They've been eating bread with mold. There was an episode right before the hunger strike started where they were served food with maggots. And, you know, this is not about cultural food, it's about minimum sanitary food.\n\nDESTEFANI: Like, you can't eat. We had a client that was released last week and then was hospitalized, had to have surgery because of the food that he was served within Delaney Hall. We had cancer patients that were not receiving medication or the client that has seizure and they were calling us because they were afraid to fall and hit the concrete floor because they were not receiving anti-seizure medication. So, it's -- the condition are not good.\n\nDESTEFANI: There's no medical attention. And if there, you know, their symptoms are downplayed.\n\nCORNISH: Selenia, let me -- let me jump in here for a second, because I do want to know, you are someone representing these people who you're describing their conditions. Now, when I went and looked at the data, the backlog right now for these immigration cases in general is clocking at 3.2 million. People can be in detention for as long as 800 days. Do you expect your detainees to be there for many months to come, possibly two years?\n\nDESTEFANI: It depends. Unfortunately, especially when you go into appeal with the BIA, the Board of Immigration Appeal, the process can take years. So, unfortunately, yes, immigration process are -- they take a lot of time.\n\nBut it's not just about the time that it takes, it's about the actual fairness of those hearing, especially when it comes to New Jersey and immigration court and bond hearing.\n\nMany of them, you know, we get a bond hearing through a habeas corpus when the person entered without inspection. And the hearing has to be fair and individualized hearing. Many of them do not get that. Especially when people are unrepresented and don't have an attorney, they really don't get their day in court.\n\nAnd that's what, aside from the food conditions, started the hunger strike within Delaney because they felt they were not, you know, given constitutional protection, due process, and their voices were not heard.\n\nCORNISH: Before I let you go, we talked about this curfew because of the protests and the escalating clashes with federal officials. Are the protests hurting or helping?\n\nDESTEFANI: Depends. So, there's two type of protester. The -- initially family members were there. They were just trying to see their detainee family members. Those people do not have criminal record. Their mothers, fathers, children, they were detained and they were just trying to get justice for their family member.\n\nNow, of course, the -- as Governor Sherrill said, there's out of state protesters that are coming in. And those are not helping. But, you know, what is happening at Delaney Hall is what happened in other part of America is just people are tired, are tired of injustice. And so, those that are peacefully protesting are helping. They're raising awareness of what is happening within Delaney Hall. And Delaney Hall is not, you know, one single bad apple. There's many detention facility around America that are like that.\n\nCORNISH: That's Selenia Destefani, who is representing some of the detainees who are in that detention center in New Jersey, Delaney Hall, where there have been many clashes.\n\nThank you so much for your time. Appreciate it.\n\nDESTEFANI: Thank you.\n\nCORNISH: Now, I want to turn to Iowa because voters there are heading to the polls in what's shaping up to be a Democratic primary centering around Chuck Schumer of New York, who is, of course, not on the ballot. But the long standing Democrat and Senate minority leader has sparked debate in a state Democrats are hoping to flip in November. State Senator Zach Wahls thinks party leadership is not advocating for everyday Iowans.\n\nZACH WAHLS (D), IOWA SENATE CANDIDATE: I was in Scott County, which is one of the most important, pivotal battleground counties in our state. I asked the audience, who here thinks that Chuck Schumer is doing a good job as the leader? Three hundred and fifty people, not a single hand went up.\n\nCORNISH: So, is Chuck Schumer vulnerable to be replaced as leader after the midterms?\n\nCan I start with you, V.? I don't know what the word is on Chuck Schumer, but he is saying in his, you know, not scientific study, but getting some sentiment that people are frustrated with the top even down at the state level.\n\nV. SPEHAR, DIGITAL JOURNALIST AND CREATOR, \"UNDER THE DESK NEWS\": Yes, obviously. I mean, everybody's very frustrated with the idea of like Chuck Schumer, Hakeem Jeffries. And my point is, then move on and find other heroes. Just because they're the establishment leadership doesn't mean that's the only people doing the work on the ground. There are grassroots groups. There are progressive caucuses. You've got the working families party.\n\nCORNISH: But isn't the frustration that those are the people who can put their thumb on the scale. Those are the people who can do spending in places. And that that's what this clash is about, is where the money is going.\n\nSPEHAR: It's about diversifying where that money is coming from too. The DNC is also having a really hard time raising money because people are going more direct to these smaller groups. And so, I think that distributes the power that Chuck Schumer has lost.\n\nCHUCK ROCHA, DEMOCRATIC STRATEGIST: Let's talk about why that guy is going to lose today in this primary. He's polling about 20 points behind. Let me start there.\n\nCORNISH: All right, we're not saying who's losing on a voting day. But you are saying that there are people with vulnerabilities.\n\nROCHA: He's got a really good shot at losing, let me put it that way. And because of one thing. There's a group -- a veterans group called VoteVets --\n\nROCHA: That spent $9 million, Audie, for Turek, the other candidate, who's in a wheelchair. His father was in Vietnam. He was exposed to agent orange. So, his son is in this wheelchair. They spent $9 million to put this Senate seat in play for November. That's what nobody's talking about.\n\nThis seat should not be in play. Donald Trump won Iowa by 13 points. There are 200,000 more registered Republicans than Democrats in Iowa.\n\nROCHA: And VoteVets almost single handedly have put this seat in play by running all positive ads. I'm not even sure they knew that this Wahls guy is on the ballot.\n\nCORNISH: Let me -- I'm going to at least put up the ad spending, to Chuck's point. And you are right, VoteVets, $9.9 million.\n\nROCHA: Imagine that. Chuck's --\n\nCORNISH: Josh Turek, $1.5 million. Zach Wahls, $1.4 million, Iowa Action, $150,000.\n\nAnd then I want to put up for people what's at stake. These are the key Senate races for 2026. His thesis is this shouldn't be a thing. What's your thesis?\n\nTERRY SCHILLING, PRESIDENT, American PRINCIPLES PROJECT: I don't think it's a thing. I think what's happening here is, they're taking a page from the Rahm Emanuel 2006 playbook. These Iowa -- Iowa is a conservative state. By the way, it's the 26th state just this week to enact age verification for online adult content to protect minors. And --\n\nCORNISH: Yes, which is sort of bipartisan, but, yes. Yes.\n\nSCHILLING: It's actually very bipartisan. But what they're seeing is that Washington, D.C., Democrats, and, by the way, a lot of Republicans, aren't representing the best interests of the people at heart. And so, they're going to talk like a moderate in Iowa and then vote like a progressive in D.C. And it is just a big --\n\nCORNISH: Do you think there's such thing as a moderate?\n\nSCHILLING: I do. I think there is.\n\nCORNISH: Can you name one?\n\nSCHILLING: Oh, man, that's a good question. No. No, I think a lot of them -- a lot of them are -- CORNISH: It's a real question, because a lot of people who Democrats are arguing are moderates in sheep's clothing, that they're not progressive. Republicans have the interest of painting them as they're going to suddenly turn to be progressives later on. And I think the voter is actually weighing in on who they see as a path that represents them.\n\nROCHA: Yes, we were about this a little bit in the green room. Voters don't look at themselves as Democrats, Republicans, independents, moderates, conservative, my neoliberal. Hell, I don't even know what a neoliberal is. But the voters want somebody that's going to fix some things.\n\nRemember that lady in California who was like, throw them all out. I'm tired of everybody. She's better reflective of where the electorate is right now than anybody.\n\nSPEHAR: There are change makers and complacence. And that's really what people are voting for. Are you a change maker or are you complacent?\n\nCORNISH: Oh, interesting.\n\nSPEHAR: Right now Republicans are in power, so they're looking for somebody who's opposite of that because they don't feel comfortable in their life. That's the go.\n\nCORNISH: I like that thinking about John Cornyn and his race, right? Like maybe he was --\n\nROCHA: I like that. John Cornyn was on my plane from Austin when I got on the plane Sunday. I've never seen a more lonely guy in my life. On a Southwest Airlines plane in the middle seat with me back in the back of the airplane. Whoo.\n\nCORNISH: I mean, I would be depressed if you were wearing that hat and I was in the middle seat.\n\nBut the idea of complacence versus change makers.\n\nCORNISH: I think that makes a lot of sense.\n\nSHILLING: And that's playing out on the Republican side too, right? In Iowa you have Zach Lahn going up against Randy Feenstra. Randy Feenstra is the more moderate Republican in that state in the race. And Zach Lahn's the populist. He's been endorsed by (INAUDIBLE). APP, my, full disclosure, we just endorsed him.\n\nSHILLING: But you're seeing this also in South Dakota with John Hansen. It's a three-way tight race. One point between the three top candidates. I think you're going to see a lot of this kind of thing (ph). ROCHA: Bottom line is, there's very few Senate seats in play for\n\nDemocrats. It's a horrible year for us. And VoteVets just put Iowa in play.\n\nCORNISH: OK. Interesting. You guys, I like this detail.\n\nNext, we are going to talk about yet another race. I promise, this one's super interesting. The three-way race for mayor in L.A. So, could Democrats be opening the door to a major upset?\n\nAnd then later on CNN, this bleak survey on Americans' finances. Why most people say they are feeling unfulfilled.\n\nCORNISH: So, in just a few hours, voters head to the polls in America's second largest city to decide who will be the candidate for mayor of Los Angeles. And the frontrunners in the race, current Mayor Karen Bass, Councilwoman Nithya Raman and former reality TV star Spencer Pratt. And they all spent Monday making their final pitch to the voters.\n\nKAREN BASS (D), LOS ANGELES MAYOR: Let me just say, no time for amateurs. We don't need a TV reality show villain, nor do we need a former councilwoman who has been in city hall twice as long as I have, and who is OK with tents in the street.\n\nNITHYA RAMAN, LOS ANGELES MAYORAL CANDIDATE: I have demonstrated my capacity for delivering results in my time as a council member and as a legislator that has led the city.\n\nUNIDENTIFIED MALE: She says it's not time for amateur hour.\n\nSPENCER PRATT, LOS ANGELES MAYORAL CANDIDATE: Agree. That's why I'm running. She failed us. She was in Ghana when she should have been the mayor and let 7,000 homes burn to the ground due to literal, literal negligence.\n\nCORNISH: OK, group chat is back.\n\nThis is another, quote/unquote, jungle primary. So, it could be a situation where you have the -- you could have Raman and Bass, you could have Raman and Pratt, you could -- whatever. It could be a number of things.\n\nPeople have been paying attention to this because of the savviness of Pratt's ability to get attention. \"The Atlantic\" was writing, \"it's infused,\" his campaign, \"with the same shamelessness and media savvy that made him a TV star. He's new to politics, but he's been playing this game for years.\" So, let me start with you. Can, as \"The Atlantic\" suggests, infamy be\n\nROCHA: It may be in today's primaries because it's a small electorate in this California primary. It's not everybody that will vote in the general that's normally motivated to show up and vote. So, when you have a smaller electorate, when you have these --\n\nCORNISH: So, even with the jungle primary you're saying that doesn't mean more people turn out?\n\nROCHA: And it's smaller. It's smaller of the groups of people that are voting. And actually voter turnout has been a little bit down. And for those of you at home, you should know that Spencer Pratt's whole deal is that his house was one of the houses that got burned up that he was talking about. It motivated him to go. He now does videos of him living in, quote/unquote, living in a travel trailer where his house used to be talking about his words, not mine, the incompetence of the current mayor.\n\nROCHA: And then you have another woman running to the left of this mayor, saying, what we need is more progressive values.\n\nROCHA: And it will be really interesting to see where that lines up.\n\nCORNISH: And that's councilwoman Nithya Raman, who is very much trying to outflank Bass from the left.\n\nCan we go back to that idea you said earlier, what was it, change makers.\n\nSPEHAR: Change makers versus complacence. Yes.\n\nCORNISH: So, where does that work here, where I think Pratt is very much saying, I'm the change maker and both of these people, by virtue of being in office already, are the complacence.\n\nSPEHAR: Well, you -- it depends on how you're going at it, right? Like, just being different doesn't make you a change maker. Does he know how to implement policy? Does he know how to help people? I don't think so.\n\nAnd I do have to correct you, he wasn't a reality star. He was the reality star's boyfriend. So, he was a little bit separate from that.\n\nROCHA: (INAUDIBLE). CORNISH: Pratt did have his moments and his IMDb credit.\n\nROCHA: He was adjacent.\n\nSPEHAR: He was adjacent to reality star. No, this is --\n\nCORNISH: Listen, behind every great politician is a good woman.\n\nSPEHAR: And what he wants to do now is start a reality television show if he were to become the mayor. This is his end goal.\n\nNow, when it comes to Nithya Raman, she's sort of run in a -- in a way where I wish she would talk more about being a city planner. We have the L.A. Olympics coming. That is a skill set that I think would be better.\n\nCORNISH: But is talking about being a city planner as sexy as talking about whatever the heck mister -- the guy who used to sell crystals, and also the fact that people are still mad about the fires.\n\nSPEHAR: I just want people to leave people alone (ph).\n\nSCHILLING: They're absolutely outraged about the fires. The only reason that we're talking about Spencer Pratt is because of how dysfunctional L.A. has been.\n\nAnd Reagan said it best. And I know this is years and years ago. But he said, the more the plans fail, the more the planners plan. And that's exactly what we have going on here in L.A. These guys are failing to actually address the problem.\n\nI said this earlier, $91,000 is what they're paying in taxpayer funds per homeless person. Why not just give them the money directly?\n\nCORNISH: Not homeless from the fire, you're talking about unhoused people.\n\nSCHILLING: No, homeless people. Yes, in general.\n\nSCHILLING: But, at the same time, why are we giving clean needles? Why are we giving clean crack pipes? Why --\n\nSPEHAR: Well, let's give them the money then, Terry. I think that sounds great.\n\nSCHILLING: Let's do it --\n\nSPEHAR: We found that when you put money in the pockets of people who are experiencing homelessness, they are able to level up.\n\nSCHILLING: They're --\n\nSPEHAR: I used to work in food security. When you provide food for somebody, then they can -- they're like, OK, that's covered. I can work on shelter and a job. So, I think you have a good point there. We should be putting universal basic income into people who would be homeless.\n\nSCHILLING: Well, here --\n\nCORNISH: It's like, this isn't like --\n\nSCHILLING: Can I say something real quick?\n\nCORNISH: Yes, go ahead.\n\nSCHILLING: Because Spencer Pratt has made a very good point about this. And again, I know this because my dad was a recovering addict. These are not unhoused people. It's not that they're in a bad spot because they don't have a home. They're unhomed because they are drug addicts. That is the driving force. Talk to anyone that actually knows this issue of people being homeless. They have serious mental problems and they also have drug addiction.\n\nCORNISH: Let me just say --\n\nSPEHAR: (INAUDIBLE) homeless, though. Don't you think that the mental is exasperated.\n\nSCHILLING: You get drug addicted.\n\nSPEHAR: Your dad wasn't homeless.\n\nSCHILLING: He got clean.\n\nCORNISH: Hold on one second. One thing I'll say that you guys are (INAUDIBLE) is, this is an actual microcosm of the race, of the mayor's race. This is what the conversation sounds like online. And especially as Pratt has leaned harder into the kinds of arguments you are making, which I think in city races, as soon as you start talking about crime and drug addicts, it can have its own kind of momentum.\n\nCORNISH: I'm going to leave it there because I want the voters to be able to decide.\n\nCORNISH: In the meantime, what is in your group chats?\n\nWe're going to start with V., because we don't always have you here. You are visiting in town. What are you talking about in your world?\n\nSPEHAR: Optimism. Optimism. And that when you stand up for yourself -- CORNISH: Is this just like three happy emojis or what's in the group chat?\n\nSPEHAR: It's three happy emojis and a basketball right now. So, women's basketball, obviously a personal joy of mine.\n\nCORNISH: I didn't know that.\n\nSPEHAR: First of all, I --\n\nCORNISH: We'll talk after.\n\nSPEHAR: Boys play basketball and hockey, apparently, too. I only know women that do. They do a great job.\n\nSomething that's really interesting is, we've been fighting for fair pay and to close the wage gap when it comes to women's sports versus men's sports. And there were some advancements just recently talking about how the pay gap for -- or the revenue share for men is 48 to 50 percent. It was only 10 percent for women. It's going up to 20 percent. That's a recent win. That's a huge deal.\n\nCORNISH: Oh, because of their collective bargaining agreement.\n\nSPEHAR: Because of their collective bargaining agreement, right.\n\nCORNISH: Yes. We haven't talked about that, folks. That agreement came to pass.\n\nSPEHAR: We've got a -- we've got a salary cap at $7 million. Used to be $1 million. And if we can get things to be more fair and more structured, the way that the men's sports are, get more historic investments from companies, if the fans are showing up, it's the rest of the media that needs to show up.\n\nCORNISH: Yes. I would just say, this has been a turning point with the fans.\n\nSPEHAR: So, that's been a good thing.\n\nCORNISH: Eight is enough. Tell me, how's the family? What's in the group chat?\n\nSCHILLING: Eight kids and counting. Please.\n\nSCHILLING: So, look, 250th anniversary is coming up. July 4th is going to be a big deal. We're going to have the largest fireworks show in the country. But my friends and I have been stuck on the constitutional convention.\n\nFifty-five delegates put away 54 bottles of Madeira, 60 bottles of claret, eight bottles of whiskey, plus tons of beer and cider. My friends and I are all, you know, we're in our 40s now, so we're actually debating whether or not we can still get to that level. We could do it in our 20s, but --\n\nCORNISH: Now, from what I know of this period, water quality was not the best. So, I'm thinking their choices were not ideal.\n\nSCHILLING: I don't know if they knew what water was then.\n\nCORNISH: But that may explain some of the confusion we have to this day. Some of the clauses that fell by the brown liquor wayside.\n\nROCHA: Oh, I like that one.\n\nCORNISH: All right, tell me what -- also, hold on. One other thing. I actually appreciate you looking for 250 things on your own that you're interested in, because I'm doing the same thing with my family.\n\nCORNISH: Like, what are things you can look at yourself about our nation's history.\n\nROCHA: I mentioned being on a plane back from Austin with Senator Cornyn. I wasn't in Austin with Senator Cornyn. Let me be clear. I was in Austin doing a candidate's training. And what I want to bring up is, something's happening in Texas. And for the first time ever, they have a Democrat in every state house race running opposite a Republican. That's never happened in its history.\n\nCORNISH: And this is after the redistricting fight.\n\nROCHA: Absolutely. And so the Democratic Party in the House caucus had me go down and do a candidates training with all of these folks. And I've done candidate trainings before. And normally it's doctors, it's lawyers, it's people that are realtors who want to get their name out on yard signs.\n\nCORNISH: Is that a thing?\n\nROCHA: These were like --\n\nROCHA: Yes, absolutely.\n\nROCHA: Realtors run for office all the time so they can sell houses.\n\nROCHA: I'll let that go and just say that, look, there was lots of nurses, a lot of school teachers, a lot of folks who had been, get this, retired federal employees who had moved back home to Texas to run.\n\nCORNISH: I believe that. Yes.\n\nROCHA: And it was something very different in that room. And I'd never seen energy like that.\n\nDoes that mean we're going to win every race, Terry? No, we're not. I'm just saying, it's different to actually have a training where a lot of grassroots people get together and try to have something like in common and see and share ideas.\n\nCORNISH: Yes, we were talking about that earlier during the break about California in a way, right? Like it's about pipeline. Who is moving into the pipeline? Who is your party drawing who, not now, but in five or 10 years could be in leadership.\n\nSCHILLING: Well, that and, you know, I think the unspoken thing about the Texas statehouse, I've worked in Texas quite a bit, Democrats actually have a lot of influence in the statehouse.\n\nThey get chairmanships. They work out deals. And they edge out a lot of the more conservative members of the Republican caucus. So, they -- they've already got a lot of say and control over there.\n\nCORNISH: I mean that's a wild lot of politics then giving the redistricting fight, which was supposed to give them an edge.\n\nCORNISH: We're going to find out if that's what happens.\n\nI want to thank all of you for talking to me on this primary day. Good luck to all of you who are headed to the polls and candidates who are running.",
+  "segments": [
+    {
+      "seg": 2,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-02/segment/02",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nSelenia Destefani is Interviewed about Conditions at ICE Facility; Schumer is a Flashpoint in Iowa Primary; Voters Pick Candidates for Los Angeles Mayor; Aired 6:30-7a ET\n\nAired June 02, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nAUDIE CORNISH, CNN ANCHOR: Hope you will be back as we learn more from this White House.\n\nStraight ahead on CNN THIS MORNING, the growing calls to close that detention center in New Jersey. This morning, there's a new push for the Newark mayor, claims of inhumane treatment inside Delaney Hall.\n\nPlus, the Trump administration is moving ahead with Medicaid work requirements. What that means for people and their coverage.\n\nCORNISH: Good morning, everybody. I'm Audie Cornish. Thank you for joining me on CNN THIS MORNING.\n\nIt is half past the hour. Here's what's happening right now.\n\nIt is primary day in six states across the country. Voters are heading to the polls in Iowa, Montana, New Jersey, New Mexico, South Dakota, and, of course, California, where voters there are voting in what's called a jungle primary for both governor and also L.A. mayor.\n\nToday, Centers for Medicare and Medicaid Services Administrator Dr. Oz is set to deliver remarks. This is a day after his agency announced a new framework for Medicaid work requirements under Trump's, quote/unquote, big, beautiful bill. This is going to require people to work 80 hours per month to keep their coverage. And that must be verified at least every six months. States can choose to check even more frequently. Pregnant people, new parents, vets with disabilities are exempt.\n\nAnd we're now in the new era of Serena Williams' reign. The GOAT announced she is returning to competition. She's wasting no time getting back on the tennis court. She's going to play in the HSBC championship, which kicks off in London next week. The 44-year-old announced her retirement nearly four years ago.\n\nAnd in just a few hours, the mayor of Newark, New Jersey, will hold a press conference outside the ICE facility, which has become the latest flashpoint between protesters and the Trump administration. There's a mandatory curfew in effect outside Delaney Hall amid this chaos. And inside, hundreds of detainees have launched a hunger strike. They're protesting spoiled food and inhumane conditions, according to their attorneys. And several Democratic lawmakers actually went and toured the facility Sunday after previously being denied access. House Minority Leader Hakeem Jeffries spoke to CNN about what he saw.\n\nREP. HAKEEM JEFFRIES (D-NY): Not a single person who we spoke with at Delaney Hall yesterday was a violent felon.\n\nImmigration enforcement in this country, it should be fair, just and humane. And nothing that we saw at Delaney Hall, or that people have previously experienced at Delaney Hall, suggest that that is what is taking place. And that's why we believe it should be shut down.\n\nCORNISH: So, joining me now is Selenia Destefani, a lawyer whose firm represents dozens of detainees held at Delaney Hall.\n\nGood morning. Thank you for being with us.\n\nI want to start with what Hakeem Jeffries was just saying, talking about conditions. Now that lawmakers have actually gotten inside, now that there have been all these protests, what are conditions like? Have they improved for the people you represent?\n\nSELENIA DESTEFANI, MANAGING ATTORNEY, NOVA LAW GROUP: Good morning.\n\nThey have not improved. We have many detainees, some of them with medical condition. And the last contact we had was Friday. It's been a little harder to schedule legal call with our clients.\n\nHowever, with those that we spoke, they were telling us that their tablets were taken away. The tablet is a mean for them to communicate with their family member and order commissary food. They've been telling us that they've been pepper sprayed, section 2A and 2B where pepper sprayed last week. They've been threatened with violence. They've been eating bread with mold. There was an episode right before the hunger strike started where they were served food with maggots. And, you know, this is not about cultural food, it's about minimum sanitary food.\n\nDESTEFANI: Like, you can't eat. We had a client that was released last week and then was hospitalized, had to have surgery because of the food that he was served within Delaney Hall. We had cancer patients that were not receiving medication or the client that has seizure and they were calling us because they were afraid to fall and hit the concrete floor because they were not receiving anti-seizure medication. So, it's -- the condition are not good.\n\nDESTEFANI: There's no medical attention. And if there, you know, their symptoms are downplayed.\n\nCORNISH: Selenia, let me -- let me jump in here for a second, because I do want to know, you are someone representing these people who you're describing their conditions. Now, when I went and looked at the data, the backlog right now for these immigration cases in general is clocking at 3.2 million. People can be in detention for as long as 800 days. Do you expect your detainees to be there for many months to come, possibly two years?\n\nDESTEFANI: It depends. Unfortunately, especially when you go into appeal with the BIA, the Board of Immigration Appeal, the process can take years. So, unfortunately, yes, immigration process are -- they take a lot of time.\n\nBut it's not just about the time that it takes, it's about the actual fairness of those hearing, especially when it comes to New Jersey and immigration court and bond hearing.\n\nMany of them, you know, we get a bond hearing through a habeas corpus when the person entered without inspection. And the hearing has to be fair and individualized hearing. Many of them do not get that. Especially when people are unrepresented and don't have an attorney, they really don't get their day in court.\n\nAnd that's what, aside from the food conditions, started the hunger strike within Delaney because they felt they were not, you know, given constitutional protection, due process, and their voices were not heard.\n\nCORNISH: Before I let you go, we talked about this curfew because of the protests and the escalating clashes with federal officials. Are the protests hurting or helping?\n\nDESTEFANI: Depends. So, there's two type of protester. The -- initially family members were there. They were just trying to see their detainee family members. Those people do not have criminal record. Their mothers, fathers, children, they were detained and they were just trying to get justice for their family member.\n\nNow, of course, the -- as Governor Sherrill said, there's out of state protesters that are coming in. And those are not helping. But, you know, what is happening at Delaney Hall is what happened in other part of America is just people are tired, are tired of injustice. And so, those that are peacefully protesting are helping. They're raising awareness of what is happening within Delaney Hall. And Delaney Hall is not, you know, one single bad apple. There's many detention facility around America that are like that.\n\nCORNISH: That's Selenia Destefani, who is representing some of the detainees who are in that detention center in New Jersey, Delaney Hall, where there have been many clashes.\n\nThank you so much for your time. Appreciate it.\n\nDESTEFANI: Thank you.\n\nCORNISH: Now, I want to turn to Iowa because voters there are heading to the polls in what's shaping up to be a Democratic primary centering around Chuck Schumer of New York, who is, of course, not on the ballot. But the long standing Democrat and Senate minority leader has sparked debate in a state Democrats are hoping to flip in November. State Senator Zach Wahls thinks party leadership is not advocating for everyday Iowans.\n\nZACH WAHLS (D), IOWA SENATE CANDIDATE: I was in Scott County, which is one of the most important, pivotal battleground counties in our state. I asked the audience, who here thinks that Chuck Schumer is doing a good job as the leader? Three hundred and fifty people, not a single hand went up.\n\nCORNISH: So, is Chuck Schumer vulnerable to be replaced as leader after the midterms?\n\nCan I start with you, V.? I don't know what the word is on Chuck Schumer, but he is saying in his, you know, not scientific study, but getting some sentiment that people are frustrated with the top even down at the state level.\n\nV. SPEHAR, DIGITAL JOURNALIST AND CREATOR, \"UNDER THE DESK NEWS\": Yes, obviously. I mean, everybody's very frustrated with the idea of like Chuck Schumer, Hakeem Jeffries. And my point is, then move on and find other heroes. Just because they're the establishment leadership doesn't mean that's the only people doing the work on the ground. There are grassroots groups. There are progressive caucuses. You've got the working families party.\n\nCORNISH: But isn't the frustration that those are the people who can put their thumb on the scale. Those are the people who can do spending in places. And that that's what this clash is about, is where the money is going.\n\nSPEHAR: It's about diversifying where that money is coming from too. The DNC is also having a really hard time raising money because people are going more direct to these smaller groups. And so, I think that distributes the power that Chuck Schumer has lost.\n\nCHUCK ROCHA, DEMOCRATIC STRATEGIST: Let's talk about why that guy is going to lose today in this primary. He's polling about 20 points behind. Let me start there.\n\nCORNISH: All right, we're not saying who's losing on a voting day. But you are saying that there are people with vulnerabilities.\n\nROCHA: He's got a really good shot at losing, let me put it that way. And because of one thing. There's a group -- a veterans group called VoteVets --\n\nROCHA: That spent $9 million, Audie, for Turek, the other candidate, who's in a wheelchair. His father was in Vietnam. He was exposed to agent orange. So, his son is in this wheelchair. They spent $9 million to put this Senate seat in play for November. That's what nobody's talking about.\n\nThis seat should not be in play. Donald Trump won Iowa by 13 points. There are 200,000 more registered Republicans than Democrats in Iowa.\n\nROCHA: And VoteVets almost single handedly have put this seat in play by running all positive ads. I'm not even sure they knew that this Wahls guy is on the ballot.\n\nCORNISH: Let me -- I'm going to at least put up the ad spending, to Chuck's point. And you are right, VoteVets, $9.9 million.\n\nROCHA: Imagine that. Chuck's --\n\nCORNISH: Josh Turek, $1.5 million. Zach Wahls, $1.4 million, Iowa Action, $150,000.\n\nAnd then I want to put up for people what's at stake. These are the key Senate races for 2026. His thesis is this shouldn't be a thing. What's your thesis?\n\nTERRY SCHILLING, PRESIDENT, American PRINCIPLES PROJECT: I don't think it's a thing. I think what's happening here is, they're taking a page from the Rahm Emanuel 2006 playbook. These Iowa -- Iowa is a conservative state. By the way, it's the 26th state just this week to enact age verification for online adult content to protect minors. And --\n\nCORNISH: Yes, which is sort of bipartisan, but, yes. Yes.\n\nSCHILLING: It's actually very bipartisan. But what they're seeing is that Washington, D.C., Democrats, and, by the way, a lot of Republicans, aren't representing the best interests of the people at heart. And so, they're going to talk like a moderate in Iowa and then vote like a progressive in D.C. And it is just a big --\n\nCORNISH: Do you think there's such thing as a moderate?\n\nSCHILLING: I do. I think there is.\n\nCORNISH: Can you name one?\n\nSCHILLING: Oh, man, that's a good question. No. No, I think a lot of them -- a lot of them are -- CORNISH: It's a real question, because a lot of people who Democrats are arguing are moderates in sheep's clothing, that they're not progressive. Republicans have the interest of painting them as they're going to suddenly turn to be progressives later on. And I think the voter is actually weighing in on who they see as a path that represents them.\n\nROCHA: Yes, we were about this a little bit in the green room. Voters don't look at themselves as Democrats, Republicans, independents, moderates, conservative, my neoliberal. Hell, I don't even know what a neoliberal is. But the voters want somebody that's going to fix some things.\n\nRemember that lady in California who was like, throw them all out. I'm tired of everybody. She's better reflective of where the electorate is right now than anybody.\n\nSPEHAR: There are change makers and complacence. And that's really what people are voting for. Are you a change maker or are you complacent?\n\nCORNISH: Oh, interesting.\n\nSPEHAR: Right now Republicans are in power, so they're looking for somebody who's opposite of that because they don't feel comfortable in their life. That's the go.\n\nCORNISH: I like that thinking about John Cornyn and his race, right? Like maybe he was --\n\nROCHA: I like that. John Cornyn was on my plane from Austin when I got on the plane Sunday. I've never seen a more lonely guy in my life. On a Southwest Airlines plane in the middle seat with me back in the back of the airplane. Whoo.\n\nCORNISH: I mean, I would be depressed if you were wearing that hat and I was in the middle seat.\n\nBut the idea of complacence versus change makers.\n\nCORNISH: I think that makes a lot of sense.\n\nSHILLING: And that's playing out on the Republican side too, right? In Iowa you have Zach Lahn going up against Randy Feenstra. Randy Feenstra is the more moderate Republican in that state in the race. And Zach Lahn's the populist. He's been endorsed by (INAUDIBLE). APP, my, full disclosure, we just endorsed him.\n\nSHILLING: But you're seeing this also in South Dakota with John Hansen. It's a three-way tight race. One point between the three top candidates. I think you're going to see a lot of this kind of thing (ph). ROCHA: Bottom line is, there's very few Senate seats in play for\n\nDemocrats. It's a horrible year for us. And VoteVets just put Iowa in play.\n\nCORNISH: OK. Interesting. You guys, I like this detail.\n\nNext, we are going to talk about yet another race. I promise, this one's super interesting. The three-way race for mayor in L.A. So, could Democrats be opening the door to a major upset?\n\nAnd then later on CNN, this bleak survey on Americans' finances. Why most people say they are feeling unfulfilled.\n\nCORNISH: So, in just a few hours, voters head to the polls in America's second largest city to decide who will be the candidate for mayor of Los Angeles. And the frontrunners in the race, current Mayor Karen Bass, Councilwoman Nithya Raman and former reality TV star Spencer Pratt. And they all spent Monday making their final pitch to the voters.\n\nKAREN BASS (D), LOS ANGELES MAYOR: Let me just say, no time for amateurs. We don't need a TV reality show villain, nor do we need a former councilwoman who has been in city hall twice as long as I have, and who is OK with tents in the street.\n\nNITHYA RAMAN, LOS ANGELES MAYORAL CANDIDATE: I have demonstrated my capacity for delivering results in my time as a council member and as a legislator that has led the city.\n\nUNIDENTIFIED MALE: She says it's not time for amateur hour.\n\nSPENCER PRATT, LOS ANGELES MAYORAL CANDIDATE: Agree. That's why I'm running. She failed us. She was in Ghana when she should have been the mayor and let 7,000 homes burn to the ground due to literal, literal negligence.\n\nCORNISH: OK, group chat is back.\n\nThis is another, quote/unquote, jungle primary. So, it could be a situation where you have the -- you could have Raman and Bass, you could have Raman and Pratt, you could -- whatever. It could be a number of things.\n\nPeople have been paying attention to this because of the savviness of Pratt's ability to get attention. \"The Atlantic\" was writing, \"it's infused,\" his campaign, \"with the same shamelessness and media savvy that made him a TV star. He's new to politics, but he's been playing this game for years.\" So, let me start with you. Can, as \"The Atlantic\" suggests, infamy be\n\nROCHA: It may be in today's primaries because it's a small electorate in this California primary. It's not everybody that will vote in the general that's normally motivated to show up and vote. So, when you have a smaller electorate, when you have these --\n\nCORNISH: So, even with the jungle primary you're saying that doesn't mean more people turn out?\n\nROCHA: And it's smaller. It's smaller of the groups of people that are voting. And actually voter turnout has been a little bit down. And for those of you at home, you should know that Spencer Pratt's whole deal is that his house was one of the houses that got burned up that he was talking about. It motivated him to go. He now does videos of him living in, quote/unquote, living in a travel trailer where his house used to be talking about his words, not mine, the incompetence of the current mayor.\n\nROCHA: And then you have another woman running to the left of this mayor, saying, what we need is more progressive values.\n\nROCHA: And it will be really interesting to see where that lines up.\n\nCORNISH: And that's councilwoman Nithya Raman, who is very much trying to outflank Bass from the left.\n\nCan we go back to that idea you said earlier, what was it, change makers.\n\nSPEHAR: Change makers versus complacence. Yes.\n\nCORNISH: So, where does that work here, where I think Pratt is very much saying, I'm the change maker and both of these people, by virtue of being in office already, are the complacence.\n\nSPEHAR: Well, you -- it depends on how you're going at it, right? Like, just being different doesn't make you a change maker. Does he know how to implement policy? Does he know how to help people? I don't think so.\n\nAnd I do have to correct you, he wasn't a reality star. He was the reality star's boyfriend. So, he was a little bit separate from that.\n\nROCHA: (INAUDIBLE). CORNISH: Pratt did have his moments and his IMDb credit.\n\nROCHA: He was adjacent.\n\nSPEHAR: He was adjacent to reality star. No, this is --\n\nCORNISH: Listen, behind every great politician is a good woman.\n\nSPEHAR: And what he wants to do now is start a reality television show if he were to become the mayor. This is his end goal.\n\nNow, when it comes to Nithya Raman, she's sort of run in a -- in a way where I wish she would talk more about being a city planner. We have the L.A. Olympics coming. That is a skill set that I think would be better.\n\nCORNISH: But is talking about being a city planner as sexy as talking about whatever the heck mister -- the guy who used to sell crystals, and also the fact that people are still mad about the fires.\n\nSPEHAR: I just want people to leave people alone (ph).\n\nSCHILLING: They're absolutely outraged about the fires. The only reason that we're talking about Spencer Pratt is because of how dysfunctional L.A. has been.\n\nAnd Reagan said it best. And I know this is years and years ago. But he said, the more the plans fail, the more the planners plan. And that's exactly what we have going on here in L.A. These guys are failing to actually address the problem.\n\nI said this earlier, $91,000 is what they're paying in taxpayer funds per homeless person. Why not just give them the money directly?\n\nCORNISH: Not homeless from the fire, you're talking about unhoused people.\n\nSCHILLING: No, homeless people. Yes, in general.\n\nSCHILLING: But, at the same time, why are we giving clean needles? Why are we giving clean crack pipes? Why --\n\nSPEHAR: Well, let's give them the money then, Terry. I think that sounds great.\n\nSCHILLING: Let's do it --\n\nSPEHAR: We found that when you put money in the pockets of people who are experiencing homelessness, they are able to level up.\n\nSCHILLING: They're --\n\nSPEHAR: I used to work in food security. When you provide food for somebody, then they can -- they're like, OK, that's covered. I can work on shelter and a job. So, I think you have a good point there. We should be putting universal basic income into people who would be homeless.\n\nSCHILLING: Well, here --\n\nCORNISH: It's like, this isn't like --\n\nSCHILLING: Can I say something real quick?\n\nCORNISH: Yes, go ahead.\n\nSCHILLING: Because Spencer Pratt has made a very good point about this. And again, I know this because my dad was a recovering addict. These are not unhoused people. It's not that they're in a bad spot because they don't have a home. They're unhomed because they are drug addicts. That is the driving force. Talk to anyone that actually knows this issue of people being homeless. They have serious mental problems and they also have drug addiction.\n\nCORNISH: Let me just say --\n\nSPEHAR: (INAUDIBLE) homeless, though. Don't you think that the mental is exasperated.\n\nSCHILLING: You get drug addicted.\n\nSPEHAR: Your dad wasn't homeless.\n\nSCHILLING: He got clean.\n\nCORNISH: Hold on one second. One thing I'll say that you guys are (INAUDIBLE) is, this is an actual microcosm of the race, of the mayor's race. This is what the conversation sounds like online. And especially as Pratt has leaned harder into the kinds of arguments you are making, which I think in city races, as soon as you start talking about crime and drug addicts, it can have its own kind of momentum.\n\nCORNISH: I'm going to leave it there because I want the voters to be able to decide.\n\nCORNISH: In the meantime, what is in your group chats?\n\nWe're going to start with V., because we don't always have you here. You are visiting in town. What are you talking about in your world?\n\nSPEHAR: Optimism. Optimism. And that when you stand up for yourself -- CORNISH: Is this just like three happy emojis or what's in the group chat?\n\nSPEHAR: It's three happy emojis and a basketball right now. So, women's basketball, obviously a personal joy of mine.\n\nCORNISH: I didn't know that.\n\nSPEHAR: First of all, I --\n\nCORNISH: We'll talk after.\n\nSPEHAR: Boys play basketball and hockey, apparently, too. I only know women that do. They do a great job.\n\nSomething that's really interesting is, we've been fighting for fair pay and to close the wage gap when it comes to women's sports versus men's sports. And there were some advancements just recently talking about how the pay gap for -- or the revenue share for men is 48 to 50 percent. It was only 10 percent for women. It's going up to 20 percent. That's a recent win. That's a huge deal.\n\nCORNISH: Oh, because of their collective bargaining agreement.\n\nSPEHAR: Because of their collective bargaining agreement, right.\n\nCORNISH: Yes. We haven't talked about that, folks. That agreement came to pass.\n\nSPEHAR: We've got a -- we've got a salary cap at $7 million. Used to be $1 million. And if we can get things to be more fair and more structured, the way that the men's sports are, get more historic investments from companies, if the fans are showing up, it's the rest of the media that needs to show up.\n\nCORNISH: Yes. I would just say, this has been a turning point with the fans.\n\nSPEHAR: So, that's been a good thing.\n\nCORNISH: Eight is enough. Tell me, how's the family? What's in the group chat?\n\nSCHILLING: Eight kids and counting. Please.\n\nSCHILLING: So, look, 250th anniversary is coming up. July 4th is going to be a big deal. We're going to have the largest fireworks show in the country. But my friends and I have been stuck on the constitutional convention.\n\nFifty-five delegates put away 54 bottles of Madeira, 60 bottles of claret, eight bottles of whiskey, plus tons of beer and cider. My friends and I are all, you know, we're in our 40s now, so we're actually debating whether or not we can still get to that level. We could do it in our 20s, but --\n\nCORNISH: Now, from what I know of this period, water quality was not the best. So, I'm thinking their choices were not ideal.\n\nSCHILLING: I don't know if they knew what water was then.\n\nCORNISH: But that may explain some of the confusion we have to this day. Some of the clauses that fell by the brown liquor wayside.\n\nROCHA: Oh, I like that one.\n\nCORNISH: All right, tell me what -- also, hold on. One other thing. I actually appreciate you looking for 250 things on your own that you're interested in, because I'm doing the same thing with my family.\n\nCORNISH: Like, what are things you can look at yourself about our nation's history.\n\nROCHA: I mentioned being on a plane back from Austin with Senator Cornyn. I wasn't in Austin with Senator Cornyn. Let me be clear. I was in Austin doing a candidate's training. And what I want to bring up is, something's happening in Texas. And for the first time ever, they have a Democrat in every state house race running opposite a Republican. That's never happened in its history.\n\nCORNISH: And this is after the redistricting fight.\n\nROCHA: Absolutely. And so the Democratic Party in the House caucus had me go down and do a candidates training with all of these folks. And I've done candidate trainings before. And normally it's doctors, it's lawyers, it's people that are realtors who want to get their name out on yard signs.\n\nCORNISH: Is that a thing?\n\nROCHA: These were like --\n\nROCHA: Yes, absolutely.\n\nROCHA: Realtors run for office all the time so they can sell houses.\n\nROCHA: I'll let that go and just say that, look, there was lots of nurses, a lot of school teachers, a lot of folks who had been, get this, retired federal employees who had moved back home to Texas to run.\n\nCORNISH: I believe that. Yes.\n\nROCHA: And it was something very different in that room. And I'd never seen energy like that.\n\nDoes that mean we're going to win every race, Terry? No, we're not. I'm just saying, it's different to actually have a training where a lot of grassroots people get together and try to have something like in common and see and share ideas.\n\nCORNISH: Yes, we were talking about that earlier during the break about California in a way, right? Like it's about pipeline. Who is moving into the pipeline? Who is your party drawing who, not now, but in five or 10 years could be in leadership.\n\nSCHILLING: Well, that and, you know, I think the unspoken thing about the Texas statehouse, I've worked in Texas quite a bit, Democrats actually have a lot of influence in the statehouse.\n\nThey get chairmanships. They work out deals. And they edge out a lot of the more conservative members of the Republican caucus. So, they -- they've already got a lot of say and control over there.\n\nCORNISH: I mean that's a wild lot of politics then giving the redistricting fight, which was supposed to give them an edge.\n\nCORNISH: We're going to find out if that's what happens.\n\nI want to thank all of you for talking to me on this primary day. Good luck to all of you who are headed to the polls and candidates who are running."
+    }
+  ]
+}
