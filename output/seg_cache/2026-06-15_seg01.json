@@ -1,0 +1,553 @@
+{
+  "date": "2026-06-15",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-15/segment/01",
+  "vocabulary": [
+    {
+      "word": "memorandum of understanding",
+      "phonetic": "/ˌmeməˈrændəm əv ˌʌndərˈstændɪŋ/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "谅解备忘录",
+      "en": "a document that describes the general principles of an agreement between parties",
+      "excerpt": "This memorandum of understanding was reached, despite our complete distrust of our enemies.",
+      "example_cn": "双方签署了一份谅解备忘录以促进合作。"
+    },
+    {
+      "word": "derail",
+      "phonetic": "/dɪˈreɪl/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "使出轨；破坏",
+      "en": "to cause a process to go wrong or to fail",
+      "excerpt": "So, could this derail things?",
+      "example_cn": "意外的资金问题可能破坏整个项目。"
+    },
+    {
+      "word": "hardline",
+      "phonetic": "/ˈhɑːrdlaɪn/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "强硬的；不妥协的",
+      "en": "having very fixed beliefs and being unwilling to change them",
+      "excerpt": "And this regime, in particular, is more hardline than the previous regime.",
+      "example_cn": "该组织采取强硬立场，拒绝任何谈判。"
+    },
+    {
+      "word": "thorny",
+      "phonetic": "/ˈθɔːrni/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "棘手的；多刺的",
+      "en": "difficult to deal with; causing problems",
+      "excerpt": "It does not address the thorniest issues, which we know Iran is really going to drag its feet on.",
+      "example_cn": "谈判中涉及许多棘手问题。"
+    },
+    {
+      "word": "drag one's feet",
+      "phonetic": "/dræɡ wʌnz fiːt/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "故意拖延；磨蹭",
+      "en": "to delay doing something intentionally",
+      "example_cn": "政府在该问题上故意拖延。"
+    },
+    {
+      "word": "kinetic action",
+      "phonetic": "/kɪˈnetɪk ˈækʃn/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "军事行动（委婉语）",
+      "en": "military action, especially involving the use of force",
+      "excerpt": "Iran knows that the United States is not going to want to start up kinetic action right before the midterms.",
+      "example_cn": "总统授权对该地区采取军事行动。"
+    },
+    {
+      "word": "proxy",
+      "phonetic": "/ˈprɑːksi/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "代理人；代理",
+      "en": "a person or thing that acts for another",
+      "excerpt": "It doesn't address their issues around proxies that Iran backs like Hezbollah.",
+      "example_cn": "冲突是通过代理人进行的。"
+    },
+    {
+      "word": "ballistic missile",
+      "phonetic": "/bəˈlɪstɪk ˈmɪsl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "弹道导弹",
+      "en": "a missile that is guided during its ascent but falls freely after reaching a certain altitude",
+      "excerpt": "It doesn't even talk about ballistic missiles.",
+      "example_cn": "该国试射了一枚弹道导弹。"
+    },
+    {
+      "word": "JCPOA",
+      "phonetic": "/dʒeɪ siː piː oʊ eɪ/",
+      "pos": "abbr.",
+      "level": "专八",
+      "cn": "《联合全面行动计划》（伊朗核协议）",
+      "en": "Joint Comprehensive Plan of Action, the 2015 nuclear deal with Iran",
+      "excerpt": "You might not have agreed with the JCPOA, but that was something that took almost two years to negotiate.",
+      "example_cn": "JCPOA旨在限制伊朗的核活动。"
+    },
+    {
+      "word": "ceasefire",
+      "phonetic": "/ˈsiːsfaɪər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "停火；停战",
+      "en": "an agreement to stop fighting for a period of time",
+      "excerpt": "Sometimes these ceasefires take a little bit of time to take root.",
+      "example_cn": "双方同意停火72小时。"
+    },
+    {
+      "word": "take root",
+      "phonetic": "/teɪk ruːt/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "扎根；确立",
+      "en": "to become established or accepted",
+      "excerpt": "Sometimes these ceasefires take a little bit of time to take root.",
+      "example_cn": "民主制度需要时间才能扎根。"
+    },
+    {
+      "word": "kumbaya",
+      "phonetic": "/ˌkuːmˈbaɪə/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "（喻）和谐融洽的气氛",
+      "en": "used to refer to a situation where people are being overly optimistic or harmonious",
+      "excerpt": "I'm not going to say that everybody is going to sing kumbaya tomorrow.",
+      "example_cn": "别指望大家突然就一团和气了。"
+    },
+    {
+      "word": "snag",
+      "phonetic": "/snæɡ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "障碍；小问题",
+      "en": "a small problem or difficulty",
+      "excerpt": "But already, there's a bit of a snag.",
+      "example_cn": "计划遇到了一个小障碍。"
+    },
+    {
+      "word": "naval blockade",
+      "phonetic": "/ˈneɪvl blɑːˈkeɪd/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "海上封锁",
+      "en": "the blocking of a port or coast by naval forces to prevent goods or people from entering or leaving",
+      "excerpt": "They want the U.S. to end the naval blockade.",
+      "example_cn": "该国实施了海上封锁。"
+    },
+    {
+      "word": "frozen funds",
+      "phonetic": "/ˈfroʊzn fʌndz/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "冻结资金",
+      "en": "money that is not allowed to be used or moved by legal authority",
+      "excerpt": "Release billions of dollars in frozen Iranian funds.",
+      "example_cn": "政府解冻了被冻结的资金。"
+    },
+    {
+      "word": "implement",
+      "phonetic": "/ˈɪmplɪment/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "实施；执行",
+      "en": "to put a plan or system into operation",
+      "excerpt": "No funds will be released before Iran implements its commitments.",
+      "example_cn": "公司正在实施新政策。"
+    },
+    {
+      "word": "dispute",
+      "phonetic": "/dɪˈspjuːt/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "对……提出质疑；争论",
+      "en": "to argue about something, especially in a formal way",
+      "excerpt": "And then the U.S. disputing that.",
+      "example_cn": "他们质疑调查结果。"
+    },
+    {
+      "word": "supreme leader",
+      "phonetic": "/suːˈpriːm ˈliːdər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "最高领袖",
+      "en": "the highest-ranking leader in a country, especially Iran",
+      "excerpt": "They're having a very hard time getting guidance from their supreme leader.",
+      "example_cn": "最高领袖拥有最终决定权。"
+    },
+    {
+      "word": "on the same page",
+      "phonetic": "/ɒn ðə seɪm peɪdʒ/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "意见一致；达成共识",
+      "en": "to agree on something or have the same understanding",
+      "excerpt": "They're not always on the same page within their team.",
+      "example_cn": "我们需要确保团队意见一致。"
+    },
+    {
+      "word": "have one's hands full",
+      "phonetic": "/hæv wʌnz hændz fʊl/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "忙得不可开交",
+      "en": "to be very busy dealing with something",
+      "excerpt": "The team has had their hands full dealing with them.",
+      "example_cn": "她照顾三个孩子，忙得不可开交。"
+    },
+    {
+      "word": "incur",
+      "phonetic": "/ɪnˈkɜːr/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "招致；引起",
+      "en": "to experience something unpleasant as a result of something you have done",
+      "excerpt": "They are willing to incur the costs and the military strikes.",
+      "example_cn": "他因鲁莽行为招致了批评。"
+    },
+    {
+      "word": "play the game",
+      "phonetic": "/pleɪ ðə ɡeɪm/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "按规则行事；玩弄手段",
+      "en": "to behave in a way that is expected or to follow the rules, often with a negative connotation",
+      "excerpt": "Iran knows how to play the game to draw the United States out.",
+      "example_cn": "在商界，你必须学会按规则行事。"
+    },
+    {
+      "word": "midterms",
+      "phonetic": "/ˈmɪdtɜːrmz/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "中期选举",
+      "en": "elections held in the middle of a president's term",
+      "excerpt": "That is bringing us up right up to the midterms.",
+      "example_cn": "中期选举将决定国会的控制权。"
+    },
+    {
+      "word": "demining",
+      "phonetic": "/ˈdiːmaɪnɪŋ/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "排雷；扫雷",
+      "en": "the process of removing mines from an area",
+      "excerpt": "They welcome their help with demining efforts.",
+      "example_cn": "联合国派遣了排雷专家。"
+    },
+    {
+      "word": "quagmire",
+      "phonetic": "/ˈkwæɡmaɪər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "泥潭；困境",
+      "en": "a difficult and complicated situation",
+      "excerpt": "He told me that he doesn't think it's going to become a quagmire.",
+      "example_cn": "战争很快陷入了泥潭。"
+    },
+    {
+      "word": "mile marker",
+      "phonetic": "/maɪl ˈmɑːrkər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "里程碑；标志性事件",
+      "en": "an event or point that marks a stage in a process",
+      "excerpt": "The statement that you laid out isn't the only mile marker that he's putting forward here.",
+      "example_cn": "该协议是和平进程的一个重要里程碑。"
+    },
+    {
+      "word": "onus",
+      "phonetic": "/ˈoʊnəs/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "责任；义务",
+      "en": "the responsibility for something",
+      "excerpt": "Is putting the onus on him.",
+      "example_cn": "举证责任在于原告。"
+    },
+    {
+      "word": "architect",
+      "phonetic": "/ˈɑːrkɪtekt/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "设计师；缔造者",
+      "en": "a person who designs and creates a plan or system",
+      "excerpt": "Lindsey Graham, the architect of this agreement.",
+      "example_cn": "他是该和平协议的缔造者。"
+    },
+    {
+      "word": "recoup",
+      "phonetic": "/rɪˈkuːp/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "收回（成本）；弥补",
+      "en": "to get back money that you have spent or lost",
+      "excerpt": "You've got to recoup those costs of the 60 million.",
+      "example_cn": "公司需要收回投资成本。"
+    },
+    {
+      "word": "immersive",
+      "phonetic": "/ɪˈmɜːrsɪv/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "沉浸式的",
+      "en": "providing a completely engaging experience",
+      "excerpt": "From a production standpoint, it really was immersive, expansive.",
+      "example_cn": "这部电影提供了沉浸式的观影体验。"
+    },
+    {
+      "word": "performative",
+      "phonetic": "/pərˈfɔːrmətɪv/",
+      "pos": "adj.",
+      "level": "专八",
+      "cn": "表演性的；做作的",
+      "en": "relating to performance or done for effect",
+      "excerpt": "There's a performative element with some of that.",
+      "example_cn": "他的道歉更像是表演性的。"
+    },
+    {
+      "word": "relatable",
+      "phonetic": "/rɪˈleɪtəbl/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "有共鸣的； relatable",
+      "en": "easy to understand or feel connected to",
+      "excerpt": "He thinks it makes him seem relatable.",
+      "example_cn": "他的故事让许多年轻人产生共鸣。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "This memorandum of understanding was reached, despite our complete distrust of our enemies.",
+      "cn": "尽管我们对敌人完全不信任，这份谅解备忘录还是达成了。",
+      "structure": "主句 + 让步状语从句（despite + 名词短语）",
+      "analysis": "despite 引导让步状语，表示转折关系。complete distrust 强调不信任的程度。"
+    },
+    {
+      "en": "I think what's interesting about this memorandum of understanding, or this new agreement, is it's only there to open the straits.",
+      "cn": "我认为这份谅解备忘录或新协议的有趣之处在于，它只是为了开放海峡。",
+      "structure": "主句（I think）+ 宾语从句（what's interesting... is...），其中what引导主语从句，is后为表语从句。",
+      "analysis": "what's interesting about... 是主语从句，is后省略了that的表语从句。only there to... 强调目的单一。"
+    },
+    {
+      "en": "It does not address the thorniest issues, which we know Iran is really going to drag its feet on.",
+      "cn": "它没有解决最棘手的问题，我们知道伊朗在这些问题上肯定会故意拖延。",
+      "structure": "主句 + 非限制性定语从句（which...），定语从句中包含宾语从句（Iran is...）。",
+      "analysis": "which指代the thorniest issues，drag its feet on是固定短语，表示拖延。"
+    },
+    {
+      "en": "If we're talking about negotiating, at minimum, within 60 days, that is bringing us up right up to the midterms.",
+      "cn": "如果我们谈论谈判，至少60天内，那就会把我们直接带到中期选举。",
+      "structure": "条件状语从句（If...）+ 主句（that is bringing...）",
+      "analysis": "at minimum 插入语，强调最短时间。bring up to 意为“带到”。"
+    },
+    {
+      "en": "And I think Iran knows that the United States is not going to want to start up kinetic action right before the midterms, right before voting starts.",
+      "cn": "我认为伊朗知道美国不希望在中期选举前、投票开始前发起军事行动。",
+      "structure": "主句（I think）+ 宾语从句（Iran knows that...），that从句中嵌套宾语从句（the United States is not going to...）。",
+      "analysis": "start up kinetic action 是委婉语，指军事行动。right before 强调时间紧迫。"
+    },
+    {
+      "en": "But the only ones that are going to determine if the strait is open are the shipping companies.",
+      "cn": "但唯一能决定海峡是否开放的是航运公司。",
+      "structure": "主句（the only ones... are the shipping companies），其中that引导定语从句修饰ones，if引导宾语从句作determine的宾语。",
+      "analysis": "only ones 强调唯一决定因素。if 相当于whether。"
+    },
+    {
+      "en": "Even though Donald Trump is saying on Friday the strait is open, it is still — we won't know until ships pass through.",
+      "cn": "尽管唐纳德·特朗普说周五海峡开放，但我们仍然——只有船只通过后才知道。",
+      "structure": "让步状语从句（Even though...）+ 主句（it is still...），主句被破折号打断，补充说明。",
+      "analysis": "Even though 引导让步，强调事实与宣称的差距。破折号表示语气转折或补充。"
+    },
+    {
+      "en": "I think President Trump, he wanted a win on his birthday, which he — which he got this agreement.",
+      "cn": "我认为特朗普总统，他想要在生日那天取得胜利，他——他得到了这个协议。",
+      "structure": "主句（I think）+ 宾语从句（President Trump... wanted a win...），其中包含非限制性定语从句（which he got...）。",
+      "analysis": "which指代a win，重复的which he是口语中的犹豫或强调。"
+    },
+    {
+      "en": "And he also wanted to walk into the G-7 with saying, Hey, this war is coming to an end.",
+      "cn": "他还想走进G7峰会时说，嘿，这场战争即将结束。",
+      "structure": "主句（he wanted to walk into... with saying...），with saying后为直接引语。",
+      "analysis": "walk into 形象地表示进入会场。with saying 意为“同时说”。"
+    },
+    {
+      "en": "I think it's going to be very difficult if Israel continues to conduct military operations for — for Iran to agree to terms with the United States when it's going to say to the United States, this is also an aggressor in this war that also struck our country.",
+      "cn": "我认为，如果以色列继续开展军事行动，伊朗很难与美国达成协议，因为伊朗会对美国说，以色列也是这场战争中的侵略者，也袭击了我们的国家。",
+      "structure": "主句（I think it's going to be very difficult）+ 条件状语从句（if Israel continues...），主句中包含不定式短语（for Iran to agree...）和when引导的时间状语从句（when it's going to say...），其中say后为直接引语。",
+      "analysis": "it是形式主语，真正主语是for Iran to agree...。when在此相当于since或because。"
+    },
+    {
+      "en": "And that's why you saw the president sort of react in some of these interviews that he was giving on Sunday, saying, you know, what is Bibi doing?",
+      "cn": "这就是为什么你看到总统在周日接受的一些采访中有点反应，说，你知道，比比在干什么？",
+      "structure": "主句（that's why...），why引导表语从句，从句中包含定语从句（that he was giving...）和现在分词短语（saying...）作伴随状语。",
+      "analysis": "sort of 表示程度，意为“有点”。Bibi是以色列总理内塔尼亚胡的昵称。"
+    },
+    {
+      "en": "But the experts, critics, even supporters of the administration who have come out, you know, in the last 24 hours are saying that the devil is, essentially, in the details.",
+      "cn": "但专家、批评者，甚至政府的支持者，在过去24小时内都表示，细节中藏有魔鬼。",
+      "structure": "主语（the experts, critics, even supporters...）+ 定语从句（who have come out...）+ 谓语（are saying）+ 宾语从句（that the devil is...）。",
+      "analysis": "the devil is in the details 是习语，意为细节决定成败或细节中隐藏问题。"
+    },
+    {
+      "en": "And they want to take a victory lap as soon as possible to point out, say, OK, this is now going to change.",
+      "cn": "他们想尽快庆祝胜利，指出，好吧，现在情况要变了。",
+      "structure": "主句（they want to take a victory lap...）+ 不定式短语（to point out...），point out后为直接引语。",
+      "analysis": "take a victory lap 原指获胜后绕场一周，这里比喻庆祝胜利。"
+    },
+    {
+      "en": "Because even if they are able to work out some sort of deal here; the ceasefire holds; they start negotiating on this, getting those supply chains, getting that gas to, you know, through the Strait of Hormuz is not going to happen right away.",
+      "cn": "因为即使他们能达成某种协议；停火得以维持；他们开始就此谈判，但恢复供应链、让石油通过霍尔木兹海峡不会立即发生。",
+      "structure": "原因状语从句（Because...），从句中包含让步状语从句（even if...）和并列句（the ceasefire holds; they start...），主句为getting... is not going to happen。",
+      "analysis": "分号连接并列结构。getting those supply chains 和 getting that gas 是动名词短语作主语。"
+    },
+    {
+      "en": "And so, let's say after the 60 days the strait does open.",
+      "cn": "那么，假设60天后海峡确实开放了。",
+      "structure": "祈使句（let's say）+ 宾语从句（after the 60 days the strait does open）",
+      "analysis": "let's say 表示假设。does 表示强调，意为“确实”。"
+    },
+    {
+      "en": "But if there is any delay at that, there's not a lot of wiggle room.",
+      "cn": "但如果那时有任何延迟，就没有多少回旋余地了。",
+      "structure": "条件状语从句（if...）+ 主句（there's not...）",
+      "analysis": "wiggle room 是习语，意为“回旋余地、灵活性”。"
+    },
+    {
+      "en": "And so, that's where they run into some problems.",
+      "cn": "所以，这就是他们遇到问题的地方。",
+      "structure": "主句（that's where...），where引导表语从句。",
+      "analysis": "run into 意为“遇到”。"
+    },
+    {
+      "en": "He was called by Lindsey Graham, the architect of this agreement, and that was really —",
+      "cn": "他被林赛·格雷厄姆——该协议的缔造者——称为，那真的是——",
+      "structure": "被动语态（He was called by...），the architect 是同位语，破折号表示话语中断。",
+      "analysis": "the architect 补充说明Lindsey Graham的身份。"
+    },
+    {
+      "en": "But it was a very interesting comment, because he was really put — Lindsey Graham, close ally of the administration, really putting this at the vice president's feet at this point.",
+      "cn": "但这是一个非常有趣的评论，因为他真的被——林赛·格雷厄姆，政府的亲密盟友，真的把这件事归咎于副总统。",
+      "structure": "主句（it was... comment）+ 原因状语从句（because...），从句中包含插入语（Lindsey Graham...）和现在分词短语（putting...）。",
+      "analysis": "put something at someone's feet 意为“把责任推给某人”。"
+    },
+    {
+      "en": "Last week, I actually talked to the vice president about the Iraq War, and he told me that he doesn't think it's going to become a quagmire, that we're not even going to be talking about this a year from now.",
+      "cn": "上周，我确实与副总统谈到了伊拉克战争，他告诉我，他认为这不会成为泥潭，一年后我们甚至不会再谈论这件事。",
+      "structure": "并列句（I talked... and he told me...），told后接双宾语（me + that从句），that从句中包含两个并列的宾语从句（that he doesn't think... 和 that we're not...）。",
+      "analysis": "quagmire 比喻困境。a year from now 表示“一年后”。"
+    },
+    {
+      "en": "But I'm saying that Lindsey Graham is — in calling him the architect of this negotiation, this deal that's coming forward — and the vice president was very, very involved — is putting the onus on him.",
+      "cn": "但我要说的是，林赛·格雷厄姆——在称他为这次谈判、即将达成的协议的缔造者时——而副总统非常非常参与其中——是在把责任推给他。",
+      "structure": "主句（I'm saying that...），that从句中主语为Lindsey Graham，谓语为is putting，破折号之间为插入语。",
+      "analysis": "in calling him... 是介词短语作状语。put the onus on 意为“把责任推给”。"
+    },
+    {
+      "en": "And he's saying that time will tell.",
+      "cn": "他说时间会证明一切。",
+      "structure": "主句（he's saying）+ 宾语从句（that time will tell）",
+      "analysis": "time will tell 是习语，意为“时间会证明”。"
+    },
+    {
+      "en": "I'm saying that politically, it becomes a risk for the vice president — at that point, when you have allies of the administration saying he was the architect.",
+      "cn": "我是说，从政治角度看，这对副总统来说变成了一个风险——在那个时候，当你有政府的盟友说他是缔造者时。",
+      "structure": "主句（I'm saying that...），that从句中包含主句（it becomes a risk...）和when引导的时间状语从句。",
+      "analysis": "破折号表示解释说明。"
+    },
+    {
+      "en": "But from a TV perspective, watching it, the show, the programing that they did.",
+      "cn": "但从电视角度看，观看它，这个节目，他们所做的节目编排。",
+      "structure": "介词短语（from a TV perspective）+ 现在分词短语（watching it）+ 同位语（the show, the programing...），programing后接定语从句。",
+      "analysis": "这是口语中的不完整句，省略了谓语。"
+    },
+    {
+      "en": "But there's a bunch of things underlying, in terms of the event with respect to politics.",
+      "cn": "但就政治方面而言，这个事件背后有很多东西。",
+      "structure": "there be 句型 + 现在分词短语（underlying）+ 介词短语（in terms of...）",
+      "analysis": "underlying 意为“潜在的、背后的”。"
+    },
+    {
+      "en": "And there's also guys who fought on the card.",
+      "cn": "还有参加比赛的人。",
+      "structure": "there be 句型 + 定语从句（who fought on the card）",
+      "analysis": "on the card 指“在比赛名单上”。"
+    },
+    {
+      "en": "There are some things that are, from a performance standpoint, always going to mirror what we kind of see in WWE.",
+      "cn": "有些事情，从表演的角度来看，总是会反映我们在WWE中看到的东西。",
+      "structure": "there be 句型 + 定语从句（that are... mirroring...），mirror后接宾语从句（what we see...）。",
+      "analysis": "from a performance standpoint 插入语。mirror 意为“反映”。"
+    },
+    {
+      "en": "But to make sense of it, Audie, I mean, they get punched in the head; they grapple.",
+      "cn": "但要理解它，Audie，我的意思是，他们头部被击打；他们扭打。",
+      "structure": "不定式短语（to make sense of it）+ 插入语（I mean）+ 并列句（they get punched; they grapple）",
+      "analysis": "make sense of 意为“理解”。分号连接两个并列动作。"
+    },
+    {
+      "en": "And these are the type of fans.",
+      "cn": "这些就是那种粉丝。",
+      "structure": "主系表结构",
+      "analysis": "简单句，强调粉丝类型。"
+    },
+    {
+      "en": "And Democrats don't go to these type of things, whereas Trump does.",
+      "cn": "而民主党人不参加这类活动，而特朗普却参加。",
+      "structure": "并列句（Democrats don't go... whereas Trump does）",
+      "analysis": "whereas 表示对比，does 替代 goes。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "美伊核协议与霍尔木兹海峡",
+      "content": "2026年6月15日，美国与伊朗宣布达成谅解备忘录，计划于6月19日（周五）开放霍尔木兹海峡。伊朗要求美国先解除海军封锁、停止军事行动并解冻资金，而美国坚持伊朗先履行承诺。协议未涉及核问题、弹道导弹及伊朗支持的代理人等核心议题，以色列对此表示不满。分析认为，特朗普希望在G7峰会前取得外交成果，并借机提振中期选举选情。",
+      "keywords": "Iran, Strait of Hormuz, memorandum of understanding, nuclear negotiations, G7, midterms"
+    },
+    {
+      "title": "白宫UFC格斗之夜",
+      "content": "2026年6月14日（美国国旗日/特朗普80岁生日），白宫草坪首次举办UFC格斗赛事。活动耗资约6000万美元，通过Paramount+付费直播。UFC CEO Dana White表示因成本过高不会再次举办。争议包括：中量级冠军Sean Strickland因政治立场被排除在比赛名单外，并被公园警察带离现场。分析认为，特朗普借此拉拢年轻男性选民，但民主党人普遍回避此类活动。",
+      "keywords": "UFC, White House, Dana White, Sean Strickland, Flag Day, birthday, midterms"
+    },
+    {
+      "title": "英国青少年社交媒体禁令",
+      "content": "英国成为最新禁止16岁以下青少年使用社交媒体的国家。节目讨论了此类禁令的实际效果，以及是否能让孩子们重拾童年。",
+      "keywords": "UK, social media ban, teenagers, childhood, screen time"
+    },
+    {
+      "title": "参议员麦康奈尔住院",
+      "content": "参议院共和党领袖米奇·麦康奈尔住院，节目报道了他的健康状况。",
+      "keywords": "Mitch McConnell, hospitalization, Senate, Republican"
+    },
+    {
+      "title": "跳伞飞机坠毁事故",
+      "content": "一架载有跳伞者的飞机起飞后不久坠毁，机上人员全部遇难。节目讨论了事故发生前的细节。",
+      "keywords": "skydiving, plane crash, fatalities, investigation"
+    },
+    {
+      "title": "ICE与投票站执法",
+      "content": "国土安全部长Markwayne Mullins未排除在投票站部署ICE的可能性，引发关于移民执法与选举公正的争议。",
+      "keywords": "ICE, polling stations, midterms, homeland security, voting rights"
+    },
+    {
+      "title": "卡罗莱纳飓风队夺得斯坦利杯",
+      "content": "卡罗莱纳飓风队在斯坦利杯决赛中零封拉斯维加斯金骑士队，夺得冠军。",
+      "keywords": "Carolina Hurricanes, Stanley Cup, NHL, shutout, Las Vegas Golden Knights"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nTrump & Iran Reach Agreement to Be Signed Friday; Sources: Trump Wanted Iran Deal Before G-7 Meeting; Trump Hosts UFC Fight on White House Lawn. Aired 6-6:30a ET\n\nAired June 15, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nAUDIE CORNISH, CNN ANCHOR: Today in the group chat, both the U.S. and Iran say there's an agreement to open the Strait of Hormuz on Friday. Why not open it right away?\n\nMIKE WALTZ, U.S. AMBASSADOR TO U.N.: The Iranians are incredibly difficult negotiators.\n\nCORNISH: And former President Obama says he's doubtful Trump's agreement will be much different than his. True or just sour grapes?\n\nUNIDENTIFIED MALE: Just getting to enjoy God's green Earth and then have something like this turn so tragic.\n\nCORNISH: A plane full of skydivers crashes right after takeoff, killing everyone on board. We're going to talk about what happened moments before it went down.\n\nAnd Senator Mitch McConnell hospitalized. What we know about his condition this morning.\n\nUNIDENTIFIED MALE: Too much time spent on screens is not good for anyone. Never mind someone's brain is still developing.\n\nCORNISH: In the U.K., they want to give their kids their childhood back. But will a new social media ban actually work?\n\nUNIDENTIFIED MALE: Our country was built on fighting against -- you know, for independence.\n\nUFC fight night at the White House lawn. What could the event's legacy be?\n\nAnd the Carolina Hurricanes are Stanley Cup champions, capping off the season with a shutout over the Las Vegas Golden Knights.\n\nA diplomatic breakthrough: The U.S. and Iran say they have reached a deal to end the war and to reopen the strait of Hormuz. It will take effect on Friday. We're going to talk about why they're waiting.\n\nJ.D. VANCE, U.S. VICE PRESIDENT (via phone): Sometimes these ceasefires take a little bit of time to take root. People are very good over there at fighting each other.\n\nI'm not going to say that everybody is going to sing kumbaya tomorrow. It's going to take a little bit of time to learn the ways of peace. But I do think we took a major, major step.\n\nCORNISH: Good morning, everybody. I'm Audie Cornish. We're going to begin with the commitment from the U.S. and Iran to end the months- long conflict.\n\nBut already, there's a bit of a snag. Tehran saying that 60 days of nuclear negotiations will begin once the U.S. meets three commitments.\n\nThey want the U.S. to end the naval blockade; end military operations against Iran; and release billions of dollars in frozen Iranian funds.\n\nKAZEM GHARIBABADI, IRAN DEPUTY FOREIGN MINISTER (through translator): This memorandum of understanding was reached, despite our complete distrust of our enemies. We have no trust in the enemy. Our trust lies in our military strength, our diplomatic capabilities, and the support and unity of our own people.\n\nThat is why the implementation of this memorandum of understanding is extremely important. We have specific plans in place to monitor the implementation of U.S. commitments under this memorandum.\n\nCORNISH: But a U.S. official is saying that no funds will be released before Iran implements its commitments. So, could this derail things?\n\nI'm going to bring in CNN global affairs commentator and former deputy Pentagon press secretary, Sabrina Singh.\n\nSo, Sabrina, good morning. Thank you for being here. SABRINA SINGH, CNN GLOBAL AFFAIRS COMMENTATOR: Good morning.\n\nCORNISH: So, first, I want to just talk about the latest Iran saying, Look, we're not doing anything until money is unfrozen. And then the U.S. disputing that.\n\nHere's the U.S. ambassador to the U.N., Mike Waltz, speaking on Sunday. We'll talk on the other side of that.\n\nWALTZ: The Iranians are incredibly difficult negotiators, coupled -- coupled with the fact that they're having a very hard time getting guidance from their supreme leader. And they're not always on the same page within their team, between the civilians and military.\n\nSo, you know, the team has had their hands full dealing with them. But the president has every intent to get this done.\n\nCORNISH: He sort of nodded to something, I think, that maybe people don't fully appreciate, which is that Iran's regime is pretty much in place, even as though a tier of leadership was killed in these strikes.\n\nSo, answer the question that he's raising here of, like, negotiation, the money. What are the complications?\n\nSINGH: The complications here is that Iran is very skilled at negotiating. And this regime, in particular, is more hardline than the previous regime.\n\nI mean, they are willing to incur the costs and the military strikes that the U.S. and Israel have conducted over, we've seen, a significant amount of time.\n\nI think what's interesting about this memorandum of understanding, or this new agreement, is it's only there to open the straits. It does not address the thorniest issues, which we know Iran is really going to drag its feet on, which are the nuclear -- its nuclear program and the highly enriched uranium that is still sitting in Iran.\n\nAnd so, while this agreement basically tries to restore the status to pre-war status, it still doesn't address those nuclear agreements.\n\nAnd Iran, like -- like Mike Waltz was saying, Iran knows how to play the game to draw the United States out. If we're talking about negotiating, at minimum, within 60 days, that is bringing us up right up to the midterms.\n\nAnd I think Iran knows that the United States is not going to want to start up kinetic action right before the midterms, right before voting starts in (UNINTELLIGIBLE) -- CORNISH: Two military questions. One, when we say the strait is\n\nopening, does that mean that they're going to -- Iran just backs down, the U.S. backs down? Are there mines in the strait? Like, are there still dangers there?\n\nSINGH: I think both sides could say today that the strait is open and that they're clearing the mines from the strait.\n\nBut the only ones that are going to determine if the strait is open are the shipping companies. Are they willing to allow their ships to start going through the strait and potentially incurring costs if, let's say, a drone is launched from Iran or there's crossfire between the two sides?\n\nSo, even though Donald Trump is saying on Friday the strait is open, it is still --\n\nCORNISH: We won't know until ships pass through.\n\nCORNISH: Last thing militarily, Israel.\n\nCORNISH: Israel, we're going to talk about in this program, across the political spectrum, unhappy with this deal. And in part because of military reasons.\n\nThey say it doesn't address their issues around proxies that Iran backs like Hezbollah. It doesn't even talk about ballistic missiles. That's not even in the conversation around the memorandum of understanding, at least so far.\n\nThis is kind of the same criticism that the Obama deal had.\n\nSINGH: I mean, you might not have agreed with the JCPOA, but that was something -- under the Obama administration. But that was something that took almost two years to negotiate.\n\nNow, with Israel, what's interesting about this agreement that this administration has negotiated, Israel is not party to the agreement. And they have said -- I mean, I think as early as this morning, that they might continue to conduct operations in Lebanon.\n\nSo, between now and Friday, things could get derailed very quickly.\n\nI think President Trump, he wanted a win on his birthday, which he -- which he got this agreement. And he also wanted to walk into the G-7 with saying, Hey, this war is coming to an end. European partners, now it's time to do your part and help us carry on the strait (ph).\n\nCORNISH: Can we do that if Israel has seized an amount of land that's, like, around the size of New York City.\n\nSINGH: Right. CORNISH: And says it's going to continue its -- its battle against Hezbollah?\n\nSINGH: I think it's going to be very difficult if Israel continues to conduct military operations for -- for Iran to agree to terms with the United States when it's going to say to the United States, this is also an aggressor in this war that also struck our country. You need to pull them back.\n\nAnd that's why you saw the president sort of react in some of these interviews that he was giving on Sunday, saying, you know, what is Bibi doing? Because he does not want to see this agreement go off the rails.\n\nOK, Sabrina, thank you so much for giving us some of the update there.\n\nComing up on CNN THIS MORNING, President Trump, as Sabrina just said, has been calling out Benjamin Netanyahu. So, we're going to talk about why Trump would be saying that Netanyahu has, quote, \"no 'F'-ing judgment' after the Israeli P.M. hit Lebanon right after the announcement of an agreement with Iran.\n\nPlus, one of the deadliest U.S. skydiving plane crashes in decades. We're going to talk about what one witness had to say right before the plane went down.\n\nAnd will you see ICE at the polling stations for the midterms? The homeland security secretary is not ruling it out.\n\nMARKWAYNE MULLINS, HOMELAND SECURITY SECRETARY: Why would ICE be there? Because only people who should be voting there is American citizens. There shouldn't be any immigration enforcement.\n\nCORNISH: It was important for President Trump to have a deal with Iran before traveling to Europe for a summit with G-7 leaders. That's what sources are telling CNN.\n\nThe timing is also crucial, because it came on Trump's 80th birthday and his White House UFC fight to celebrate America's 250th anniversary.\n\nSo, we're bringing in the group chat to talk more: Sara Fischer, CNN senior media analyst and senior media reporter at Axios; Elena Schneider, national political reporter, \"NOTUS\"; and Francesca Chambers, White House correspondent at \"USA Today.\"\n\nSo, to set this up, I want to play the message the administration was sending, not to Iran, not to Israel, but to the American people. Here is J.D. Vance, talking on \"FOX News Sunday\" in the aftermath of the announcement of this memorandum.\n\nVANCE (via phone): My primary message to the American people is, thank you. Because of your patience, I think that we've solved the problem that has plagued this country again for -- for well before I was even born.\n\nBut this is just a great thing for the American people. I know that they suffered from high gas prices. The president has certainly been very concerned about that fact. But what we're going to be able to do is drive down the cost of energy, not just now, but for the long term.\n\nCORNISH: Francesca, this seems like the -- specifically, this kind of sentence is the message they had hoped to deliver on this day, of so many things, when the president wanted good news.\n\nFRANCESCA CHAMBERS, WHITE HOUSE CORRESPONDENT, \"USA TODAY\": Well, and there's still a long way to go until we see a final deal. They want that to come in the next 60 days.\n\nBut the experts, critics, even supporters of the administration who have come out, you know, in the last 24 hours are saying that the devil is, essentially, in the details.\n\nI mean, Iran may have agreed to give the United States the enriched uranium or down blend it. We still don't know what that looks like. We still don't know whether or not they're going to dismantle their nuclear program. The United States says that they will.\n\nBut again, that all has to be worked out as part of this final agreement. This is just a memorandum of understanding.\n\nCORNISH: And yet, Vance comes out and is, like, thanks for being patient. It's been a tough couple of weeks.\n\nCORNISH: Let's wrap it up. You can feel the hands going like this. (BRUSHES PALMS TOGETHER)\n\nGiven all the question marks Francesca just raised, what's the danger of telling everyone this?\n\nELENA SCHNEIDER, NATIONAL POLITICAL REPORTER, \"NOTUS\": Well, look, I think that there is a political reality that they are reacting to, which is the pain that voters are feeling every single day when they go fill up their cars, and are looking at high gas prices, and connect that to the ongoing operations and, you know, what's -- what's been happening in Iran.\n\nAnd they want to take a victory lap as soon as possible to point out, say, OK, this is now going to change. We can -- we can see that this is going to change.\n\nThe challenge for them is, is it actually going to change? Because even if they are able to work out some sort of deal here; the ceasefire holds; they start negotiating on this, getting those supply chains, getting that gas to, you know, through the Strait of Hormuz is not going to happen right away.\n\nAnd experts have said time and again that -- that -- that gas prices are going to take a little while to come back.\n\nCORNISH: Yes. People are looking right now, as you're speaking, at the journey that gas prices will have to take from that peak.\n\nSCHNEIDER: And it's a long climb back down that peak.\n\nCORNISH: And it's -- it's a long climb.\n\nThe thing is, also, once you say something like that, you kind of start a clock. Like, oh, OK, things are going to get better? When?\n\nAnd when you're looking at disapproval ratings that have moved significantly, when you're looking at questions of specifically how have you handled the economy, for example. And seeing independents, 82 percent disapprove.\n\nIt feels as though it's a bit of a risk to keep saying no, no, no, no, no, no, no, no, no, it's happening, it's happening.\n\nSARA FISCHER, CNN SENIOR MEDIA ANALYST: Yes. You have a five-month time clock until the midterms. So, that's the horizon that they're working with. And I think most experts will argue that the supply chain issues are interesting, because there's a lag time between, obviously, when ships can get there or not.\n\nCORNISH: But can you speak it into existence? Like, if you just say it's -- it's getting better, will it get better?\n\nFISCHER: You cannot. You cannot. But so, let's say after the 60 days the strait does open. Then you have three months. And that should be enough time, actually, for us to start seeing an impact on oil.\n\nAnd we did see overnight that some of the crude oil prices have gone down on the index. But if there is any delay at that, there's not a lot of wiggle room.\n\nAnd so that's where they run into some problems. If oil prices are still, in some places, above five or anywhere in the top, you know, top half of the $4 range, you're going to have a lot of problems leading up to the midterms.\n\nCORNISH: Trump has been so bummed about the way Europe has kind of stayed out of this whole thing. He's going to be meeting with G-7 leaders when they made their various announcements today. I could read them all, but they basically all say they welcome the agreement over there. It seems like they agreed on what they would be saying. So, Francesca, just heading into today, what is the goal for Trump,\n\nwho's been kind of dismissive of this group of people? Is he going to say to them, you guys weren't helpful, but it would be helpful if you'd get some ships through.\n\nCHAMBERS: I mean, they welcome their help with demining efforts that would help get the Strait of Hormuz fully reopen.\n\nBut I did want to just touch on one other thing that you were saying about the vice president for a minute, because he was called by Lindsey Graham, the architect of this agreement, and that was really --\n\nCORNISH: He must have been surprised to hear.\n\nCHAMBERS: Well, that was -- but it was a very interesting comment, because he was really put -- Lindsey Graham, close ally of the administration, really putting this at the vice president's feet at this point.\n\nAnd so, it's not just the comments that he's making publicly, the vice president. It's these other comments coming from allies of the Trump administration putting this, if it doesn't work out, at the vice president's feet.\n\nLast week, I actually talked to the vice president about the Iraq War, and he told me that he doesn't think it's going to become a quagmire, that we're not even going to be talking about this a year from now.\n\nSo, the one that -- the statement that you laid out isn't the only mile marker that he's putting forward here.\n\nCORNISH: Yes. But can I translate your statement? Lindsey Graham, the hawk, who's been cheering this on the whole time, is trying to put the actual deal at the feet of J.D. Vance, who's not been cheering this on the whole time, so that if it goes sideways, everyone can say somehow Vance was behind a bad deal?\n\nCHAMBERS: Well, I'm saying that Lindsey Graham is -- in calling him the architect of this negotiation, this deal that's coming forward -- and the vice president was very, very involved -- is putting the onus on him. If this doesn't work out. I'm not --\n\nCORNISH: So, yes. So, if it goes bad, everyone can be like, It was Vance.\n\nCHAMBERS: And he's saying that time will tell. I'm saying that politically, it becomes a risk for the vice president --\n\nCHAMBERS: -- at that point, when you have allies of the administration saying he was the architect.\n\nCORNISH: Interesting. OK. We're going to talk more about this as we learn more about this memorandum this week. And then after the break on CNN THIS MORNING, did you know that the\n\nU.K. is the latest country to ban kids under the age of 16 from all social media? We'll find out whether these bans actually work.\n\nDANA WHITE, HEAD OF THE UFC: I can't afford it. There's no (EXPLETIVE DELETED) way we can do this again.\n\nCORNISH: The head of the UFC, Dana White, says he won't be doing the White House fight night again, despite it being what he called an overwhelming success.\n\nIn the meantime, good morning, very early morning to Seattle, which is hosting a World Cup match today. Belgium and Egypt face off at 3 p.m. Eastern.\n\nUNIDENTIFIED MALE: For the people who said there shouldn't be a cage fight at the White House, what do you say?\n\nUNIDENTIFIED MALE: They might be right, but since it's here, we're going to be here.\n\nUNIDENTIFIED MALE: I don't agree with everything Donald Trump has -- has been doing this term, but I'm here, and I'm enjoying the moment.\n\nCORNISH: OK, UFC fight on the White House lawn. Whether you agreed with it or not, it happened. It was real.\n\nWeather slightly delayed the start as President Trump took his seat ringside alongside UFC CEO Dana White. Officially, the event was held on Flag Day, which just also happened to be Donald Trump's 80th birthday.\n\nAnd at one point, the crowd sang \"Happy Birthday.\"\n\nAnd after several fights, the night wrapped up just after 1 a.m. With President Trump greeting the new champion in the Octagon. The event was the first of its kind on the White House grounds.\n\nSo, we're going to ask, how is it going to be remembered, both for the sport and in U.S. history? Joining me now is Mike Leon. He's the host of the podcast, \"Can We\n\nGood morning, Mike. How are you?\n\nMIKE LEON, HOST, \"CAN WE PLEASE TALK?\": Good to see you, Audie. How's everything?\n\nCORNISH: So, as a fight, was it good? Like, is the card, the tournament? I know the Polymarket, Kalshi prediction markets did very well with all of these different bouts. But what was it like just as a fan?\n\nLEON: Yes, just as a fan, you know, working in the combat sports space and overseeing productions.\n\nFrom a production standpoint, it really was immersive, expansive. I mean, we could talk about you couldn't watch it unless you had a Paramount+ subscription. It wasn't free over the air like on CBS, which I thought the president probably would have done, or at least Dana White would have done.\n\nBut you've got to recoup those costs of the 60 million that they spent to -- to do all of this and the Claw and everything that they implemented.\n\nBut just from a TV perspective, watching it, the show, the programing that they did. Chris Weidman is a friend of mine who happened to do some of the pre-fight coverage there. It really was a true event outside of a typical arena or some type of setting that houses combat sports.\n\nBut there's a bunch of things underlying, in terms of the event with respect to politics. But from a fight night perspective, Audie, it actually was a pretty decent sporting event.\n\nCORNISH: And to your point, Dana White pretty much was, like, I'm not going to do this again just because of the sheer expense.\n\nCORNISH: But I want to get to something which is who was, you know, in the Octagon and who was not.\n\nYou had UFC middleweight champion Sean Strickland. He was off the card. And he's the reigning champ, right, middleweight champ. And Strickland thinks he knows why. He basically has turned down -- he's been this outspoken, you know, critic of Trump on social media.\n\nHe says that he stopped supporting Trump after, quote, \"Israel made him bomb Iran the first time.\" Another thing he's posted, saying that he got a call from UFC saying he, quote, \"wasn't cleared\" by the White House.\n\nAnd honestly, he showed up anyway; in an extreme MMA on-brand situation was escorted out by park police. I mean, it actually became like a bit of a thing here.\n\nHelp me make sense of this. It's a big UFC night. A big UFC star's getting hauled out with all this security. What's the politics?\n\nLEON: I mean, remember, there's an element of how UFC is also in partnership with the WWE, right? There's a performative element with some of that, for Strickland doing that.\n\nAnd there's also guys who fought on the card. I don't know if you saw the video, Audie, of the -- the person who said the comments about Michelle Obama in the post-fight interview with Joe Rogan, which was disgusting.\n\nThere are some things that are, from a performance standpoint, always going to mirror what we kind of see in WWE.\n\nStrickland is right, to a certain extent. There's a reason why he was left off the card. Non-politics perspective wise. There were a few other fights that actually dropped out from this card.\n\nBut in terms of the event overall, like I said, it was a pretty solid event. But to make sense of it, Audie, I mean, they get punched in the head; they grapple. Sometimes people say different things, and they have different political leanings. This is what you get in the combat sports space.\n\nI remember working an event where one of our fighters, before the election in '24, wore Trump trunks. And I remember saying to him in the locker room, \"Could you not?\" Like, again, freedom of speech. You can wear whatever you want, but like, you're going to get more attention doing this.\n\nAnd he's, like, I'm going to do it anyway. And then he went out there and did it anyway.\n\nSo, that's -- if you want me to make sense of it, Audie, that's the way to make sense of it. There is no sense. They get punched in the head for a living.\n\nCORNISH: Does this win over some of the young men that Trump is losing in some of his approval ratings?\n\nLEON: Audie, you and I talked about this last week when I was in studio with you. Trump has always used the combat sports space as this outlet and vehicle to talk to voters, whether it be his stuff that he did in the boxing space years ago, his relationship with Dana White, obviously with the Ellison family, with Paramount. He has always been in the combat sports space, because he thinks it makes him seem relatable, that he loves these sports.\n\nAnd these are the type of fans. And again, speaking with conservative voters over years in different cities, they've talked about his attendance at these events. And Democrats don't go to these type of things, whereas Trump does.\n\nI told you last week, Ruben Gallego and I've had this conversation about Democrats potentially leaning into, like, boxing events, to the relationships that I have in the combat sports space.\n\nAnd it's just -- there's voters there that I feel are being left out. And they feel they're being left out of the conversation.",
+  "segments": [
+    {
+      "seg": 1,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-15/segment/01",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nTrump & Iran Reach Agreement to Be Signed Friday; Sources: Trump Wanted Iran Deal Before G-7 Meeting; Trump Hosts UFC Fight on White House Lawn. Aired 6-6:30a ET\n\nAired June 15, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nAUDIE CORNISH, CNN ANCHOR: Today in the group chat, both the U.S. and Iran say there's an agreement to open the Strait of Hormuz on Friday. Why not open it right away?\n\nMIKE WALTZ, U.S. AMBASSADOR TO U.N.: The Iranians are incredibly difficult negotiators.\n\nCORNISH: And former President Obama says he's doubtful Trump's agreement will be much different than his. True or just sour grapes?\n\nUNIDENTIFIED MALE: Just getting to enjoy God's green Earth and then have something like this turn so tragic.\n\nCORNISH: A plane full of skydivers crashes right after takeoff, killing everyone on board. We're going to talk about what happened moments before it went down.\n\nAnd Senator Mitch McConnell hospitalized. What we know about his condition this morning.\n\nUNIDENTIFIED MALE: Too much time spent on screens is not good for anyone. Never mind someone's brain is still developing.\n\nCORNISH: In the U.K., they want to give their kids their childhood back. But will a new social media ban actually work?\n\nUNIDENTIFIED MALE: Our country was built on fighting against -- you know, for independence.\n\nUFC fight night at the White House lawn. What could the event's legacy be?\n\nAnd the Carolina Hurricanes are Stanley Cup champions, capping off the season with a shutout over the Las Vegas Golden Knights.\n\nA diplomatic breakthrough: The U.S. and Iran say they have reached a deal to end the war and to reopen the strait of Hormuz. It will take effect on Friday. We're going to talk about why they're waiting.\n\nJ.D. VANCE, U.S. VICE PRESIDENT (via phone): Sometimes these ceasefires take a little bit of time to take root. People are very good over there at fighting each other.\n\nI'm not going to say that everybody is going to sing kumbaya tomorrow. It's going to take a little bit of time to learn the ways of peace. But I do think we took a major, major step.\n\nCORNISH: Good morning, everybody. I'm Audie Cornish. We're going to begin with the commitment from the U.S. and Iran to end the months- long conflict.\n\nBut already, there's a bit of a snag. Tehran saying that 60 days of nuclear negotiations will begin once the U.S. meets three commitments.\n\nThey want the U.S. to end the naval blockade; end military operations against Iran; and release billions of dollars in frozen Iranian funds.\n\nKAZEM GHARIBABADI, IRAN DEPUTY FOREIGN MINISTER (through translator): This memorandum of understanding was reached, despite our complete distrust of our enemies. We have no trust in the enemy. Our trust lies in our military strength, our diplomatic capabilities, and the support and unity of our own people.\n\nThat is why the implementation of this memorandum of understanding is extremely important. We have specific plans in place to monitor the implementation of U.S. commitments under this memorandum.\n\nCORNISH: But a U.S. official is saying that no funds will be released before Iran implements its commitments. So, could this derail things?\n\nI'm going to bring in CNN global affairs commentator and former deputy Pentagon press secretary, Sabrina Singh.\n\nSo, Sabrina, good morning. Thank you for being here. SABRINA SINGH, CNN GLOBAL AFFAIRS COMMENTATOR: Good morning.\n\nCORNISH: So, first, I want to just talk about the latest Iran saying, Look, we're not doing anything until money is unfrozen. And then the U.S. disputing that.\n\nHere's the U.S. ambassador to the U.N., Mike Waltz, speaking on Sunday. We'll talk on the other side of that.\n\nWALTZ: The Iranians are incredibly difficult negotiators, coupled -- coupled with the fact that they're having a very hard time getting guidance from their supreme leader. And they're not always on the same page within their team, between the civilians and military.\n\nSo, you know, the team has had their hands full dealing with them. But the president has every intent to get this done.\n\nCORNISH: He sort of nodded to something, I think, that maybe people don't fully appreciate, which is that Iran's regime is pretty much in place, even as though a tier of leadership was killed in these strikes.\n\nSo, answer the question that he's raising here of, like, negotiation, the money. What are the complications?\n\nSINGH: The complications here is that Iran is very skilled at negotiating. And this regime, in particular, is more hardline than the previous regime.\n\nI mean, they are willing to incur the costs and the military strikes that the U.S. and Israel have conducted over, we've seen, a significant amount of time.\n\nI think what's interesting about this memorandum of understanding, or this new agreement, is it's only there to open the straits. It does not address the thorniest issues, which we know Iran is really going to drag its feet on, which are the nuclear -- its nuclear program and the highly enriched uranium that is still sitting in Iran.\n\nAnd so, while this agreement basically tries to restore the status to pre-war status, it still doesn't address those nuclear agreements.\n\nAnd Iran, like -- like Mike Waltz was saying, Iran knows how to play the game to draw the United States out. If we're talking about negotiating, at minimum, within 60 days, that is bringing us up right up to the midterms.\n\nAnd I think Iran knows that the United States is not going to want to start up kinetic action right before the midterms, right before voting starts in (UNINTELLIGIBLE) -- CORNISH: Two military questions. One, when we say the strait is\n\nopening, does that mean that they're going to -- Iran just backs down, the U.S. backs down? Are there mines in the strait? Like, are there still dangers there?\n\nSINGH: I think both sides could say today that the strait is open and that they're clearing the mines from the strait.\n\nBut the only ones that are going to determine if the strait is open are the shipping companies. Are they willing to allow their ships to start going through the strait and potentially incurring costs if, let's say, a drone is launched from Iran or there's crossfire between the two sides?\n\nSo, even though Donald Trump is saying on Friday the strait is open, it is still --\n\nCORNISH: We won't know until ships pass through.\n\nCORNISH: Last thing militarily, Israel.\n\nCORNISH: Israel, we're going to talk about in this program, across the political spectrum, unhappy with this deal. And in part because of military reasons.\n\nThey say it doesn't address their issues around proxies that Iran backs like Hezbollah. It doesn't even talk about ballistic missiles. That's not even in the conversation around the memorandum of understanding, at least so far.\n\nThis is kind of the same criticism that the Obama deal had.\n\nSINGH: I mean, you might not have agreed with the JCPOA, but that was something -- under the Obama administration. But that was something that took almost two years to negotiate.\n\nNow, with Israel, what's interesting about this agreement that this administration has negotiated, Israel is not party to the agreement. And they have said -- I mean, I think as early as this morning, that they might continue to conduct operations in Lebanon.\n\nSo, between now and Friday, things could get derailed very quickly.\n\nI think President Trump, he wanted a win on his birthday, which he -- which he got this agreement. And he also wanted to walk into the G-7 with saying, Hey, this war is coming to an end. European partners, now it's time to do your part and help us carry on the strait (ph).\n\nCORNISH: Can we do that if Israel has seized an amount of land that's, like, around the size of New York City.\n\nSINGH: Right. CORNISH: And says it's going to continue its -- its battle against Hezbollah?\n\nSINGH: I think it's going to be very difficult if Israel continues to conduct military operations for -- for Iran to agree to terms with the United States when it's going to say to the United States, this is also an aggressor in this war that also struck our country. You need to pull them back.\n\nAnd that's why you saw the president sort of react in some of these interviews that he was giving on Sunday, saying, you know, what is Bibi doing? Because he does not want to see this agreement go off the rails.\n\nOK, Sabrina, thank you so much for giving us some of the update there.\n\nComing up on CNN THIS MORNING, President Trump, as Sabrina just said, has been calling out Benjamin Netanyahu. So, we're going to talk about why Trump would be saying that Netanyahu has, quote, \"no 'F'-ing judgment' after the Israeli P.M. hit Lebanon right after the announcement of an agreement with Iran.\n\nPlus, one of the deadliest U.S. skydiving plane crashes in decades. We're going to talk about what one witness had to say right before the plane went down.\n\nAnd will you see ICE at the polling stations for the midterms? The homeland security secretary is not ruling it out.\n\nMARKWAYNE MULLINS, HOMELAND SECURITY SECRETARY: Why would ICE be there? Because only people who should be voting there is American citizens. There shouldn't be any immigration enforcement.\n\nCORNISH: It was important for President Trump to have a deal with Iran before traveling to Europe for a summit with G-7 leaders. That's what sources are telling CNN.\n\nThe timing is also crucial, because it came on Trump's 80th birthday and his White House UFC fight to celebrate America's 250th anniversary.\n\nSo, we're bringing in the group chat to talk more: Sara Fischer, CNN senior media analyst and senior media reporter at Axios; Elena Schneider, national political reporter, \"NOTUS\"; and Francesca Chambers, White House correspondent at \"USA Today.\"\n\nSo, to set this up, I want to play the message the administration was sending, not to Iran, not to Israel, but to the American people. Here is J.D. Vance, talking on \"FOX News Sunday\" in the aftermath of the announcement of this memorandum.\n\nVANCE (via phone): My primary message to the American people is, thank you. Because of your patience, I think that we've solved the problem that has plagued this country again for -- for well before I was even born.\n\nBut this is just a great thing for the American people. I know that they suffered from high gas prices. The president has certainly been very concerned about that fact. But what we're going to be able to do is drive down the cost of energy, not just now, but for the long term.\n\nCORNISH: Francesca, this seems like the -- specifically, this kind of sentence is the message they had hoped to deliver on this day, of so many things, when the president wanted good news.\n\nFRANCESCA CHAMBERS, WHITE HOUSE CORRESPONDENT, \"USA TODAY\": Well, and there's still a long way to go until we see a final deal. They want that to come in the next 60 days.\n\nBut the experts, critics, even supporters of the administration who have come out, you know, in the last 24 hours are saying that the devil is, essentially, in the details.\n\nI mean, Iran may have agreed to give the United States the enriched uranium or down blend it. We still don't know what that looks like. We still don't know whether or not they're going to dismantle their nuclear program. The United States says that they will.\n\nBut again, that all has to be worked out as part of this final agreement. This is just a memorandum of understanding.\n\nCORNISH: And yet, Vance comes out and is, like, thanks for being patient. It's been a tough couple of weeks.\n\nCORNISH: Let's wrap it up. You can feel the hands going like this. (BRUSHES PALMS TOGETHER)\n\nGiven all the question marks Francesca just raised, what's the danger of telling everyone this?\n\nELENA SCHNEIDER, NATIONAL POLITICAL REPORTER, \"NOTUS\": Well, look, I think that there is a political reality that they are reacting to, which is the pain that voters are feeling every single day when they go fill up their cars, and are looking at high gas prices, and connect that to the ongoing operations and, you know, what's -- what's been happening in Iran.\n\nAnd they want to take a victory lap as soon as possible to point out, say, OK, this is now going to change. We can -- we can see that this is going to change.\n\nThe challenge for them is, is it actually going to change? Because even if they are able to work out some sort of deal here; the ceasefire holds; they start negotiating on this, getting those supply chains, getting that gas to, you know, through the Strait of Hormuz is not going to happen right away.\n\nAnd experts have said time and again that -- that -- that gas prices are going to take a little while to come back.\n\nCORNISH: Yes. People are looking right now, as you're speaking, at the journey that gas prices will have to take from that peak.\n\nSCHNEIDER: And it's a long climb back down that peak.\n\nCORNISH: And it's -- it's a long climb.\n\nThe thing is, also, once you say something like that, you kind of start a clock. Like, oh, OK, things are going to get better? When?\n\nAnd when you're looking at disapproval ratings that have moved significantly, when you're looking at questions of specifically how have you handled the economy, for example. And seeing independents, 82 percent disapprove.\n\nIt feels as though it's a bit of a risk to keep saying no, no, no, no, no, no, no, no, no, it's happening, it's happening.\n\nSARA FISCHER, CNN SENIOR MEDIA ANALYST: Yes. You have a five-month time clock until the midterms. So, that's the horizon that they're working with. And I think most experts will argue that the supply chain issues are interesting, because there's a lag time between, obviously, when ships can get there or not.\n\nCORNISH: But can you speak it into existence? Like, if you just say it's -- it's getting better, will it get better?\n\nFISCHER: You cannot. You cannot. But so, let's say after the 60 days the strait does open. Then you have three months. And that should be enough time, actually, for us to start seeing an impact on oil.\n\nAnd we did see overnight that some of the crude oil prices have gone down on the index. But if there is any delay at that, there's not a lot of wiggle room.\n\nAnd so that's where they run into some problems. If oil prices are still, in some places, above five or anywhere in the top, you know, top half of the $4 range, you're going to have a lot of problems leading up to the midterms.\n\nCORNISH: Trump has been so bummed about the way Europe has kind of stayed out of this whole thing. He's going to be meeting with G-7 leaders when they made their various announcements today. I could read them all, but they basically all say they welcome the agreement over there. It seems like they agreed on what they would be saying. So, Francesca, just heading into today, what is the goal for Trump,\n\nwho's been kind of dismissive of this group of people? Is he going to say to them, you guys weren't helpful, but it would be helpful if you'd get some ships through.\n\nCHAMBERS: I mean, they welcome their help with demining efforts that would help get the Strait of Hormuz fully reopen.\n\nBut I did want to just touch on one other thing that you were saying about the vice president for a minute, because he was called by Lindsey Graham, the architect of this agreement, and that was really --\n\nCORNISH: He must have been surprised to hear.\n\nCHAMBERS: Well, that was -- but it was a very interesting comment, because he was really put -- Lindsey Graham, close ally of the administration, really putting this at the vice president's feet at this point.\n\nAnd so, it's not just the comments that he's making publicly, the vice president. It's these other comments coming from allies of the Trump administration putting this, if it doesn't work out, at the vice president's feet.\n\nLast week, I actually talked to the vice president about the Iraq War, and he told me that he doesn't think it's going to become a quagmire, that we're not even going to be talking about this a year from now.\n\nSo, the one that -- the statement that you laid out isn't the only mile marker that he's putting forward here.\n\nCORNISH: Yes. But can I translate your statement? Lindsey Graham, the hawk, who's been cheering this on the whole time, is trying to put the actual deal at the feet of J.D. Vance, who's not been cheering this on the whole time, so that if it goes sideways, everyone can say somehow Vance was behind a bad deal?\n\nCHAMBERS: Well, I'm saying that Lindsey Graham is -- in calling him the architect of this negotiation, this deal that's coming forward -- and the vice president was very, very involved -- is putting the onus on him. If this doesn't work out. I'm not --\n\nCORNISH: So, yes. So, if it goes bad, everyone can be like, It was Vance.\n\nCHAMBERS: And he's saying that time will tell. I'm saying that politically, it becomes a risk for the vice president --\n\nCHAMBERS: -- at that point, when you have allies of the administration saying he was the architect.\n\nCORNISH: Interesting. OK. We're going to talk more about this as we learn more about this memorandum this week. And then after the break on CNN THIS MORNING, did you know that the\n\nU.K. is the latest country to ban kids under the age of 16 from all social media? We'll find out whether these bans actually work.\n\nDANA WHITE, HEAD OF THE UFC: I can't afford it. There's no (EXPLETIVE DELETED) way we can do this again.\n\nCORNISH: The head of the UFC, Dana White, says he won't be doing the White House fight night again, despite it being what he called an overwhelming success.\n\nIn the meantime, good morning, very early morning to Seattle, which is hosting a World Cup match today. Belgium and Egypt face off at 3 p.m. Eastern.\n\nUNIDENTIFIED MALE: For the people who said there shouldn't be a cage fight at the White House, what do you say?\n\nUNIDENTIFIED MALE: They might be right, but since it's here, we're going to be here.\n\nUNIDENTIFIED MALE: I don't agree with everything Donald Trump has -- has been doing this term, but I'm here, and I'm enjoying the moment.\n\nCORNISH: OK, UFC fight on the White House lawn. Whether you agreed with it or not, it happened. It was real.\n\nWeather slightly delayed the start as President Trump took his seat ringside alongside UFC CEO Dana White. Officially, the event was held on Flag Day, which just also happened to be Donald Trump's 80th birthday.\n\nAnd at one point, the crowd sang \"Happy Birthday.\"\n\nAnd after several fights, the night wrapped up just after 1 a.m. With President Trump greeting the new champion in the Octagon. The event was the first of its kind on the White House grounds.\n\nSo, we're going to ask, how is it going to be remembered, both for the sport and in U.S. history? Joining me now is Mike Leon. He's the host of the podcast, \"Can We\n\nGood morning, Mike. How are you?\n\nMIKE LEON, HOST, \"CAN WE PLEASE TALK?\": Good to see you, Audie. How's everything?\n\nCORNISH: So, as a fight, was it good? Like, is the card, the tournament? I know the Polymarket, Kalshi prediction markets did very well with all of these different bouts. But what was it like just as a fan?\n\nLEON: Yes, just as a fan, you know, working in the combat sports space and overseeing productions.\n\nFrom a production standpoint, it really was immersive, expansive. I mean, we could talk about you couldn't watch it unless you had a Paramount+ subscription. It wasn't free over the air like on CBS, which I thought the president probably would have done, or at least Dana White would have done.\n\nBut you've got to recoup those costs of the 60 million that they spent to -- to do all of this and the Claw and everything that they implemented.\n\nBut just from a TV perspective, watching it, the show, the programing that they did. Chris Weidman is a friend of mine who happened to do some of the pre-fight coverage there. It really was a true event outside of a typical arena or some type of setting that houses combat sports.\n\nBut there's a bunch of things underlying, in terms of the event with respect to politics. But from a fight night perspective, Audie, it actually was a pretty decent sporting event.\n\nCORNISH: And to your point, Dana White pretty much was, like, I'm not going to do this again just because of the sheer expense.\n\nCORNISH: But I want to get to something which is who was, you know, in the Octagon and who was not.\n\nYou had UFC middleweight champion Sean Strickland. He was off the card. And he's the reigning champ, right, middleweight champ. And Strickland thinks he knows why. He basically has turned down -- he's been this outspoken, you know, critic of Trump on social media.\n\nHe says that he stopped supporting Trump after, quote, \"Israel made him bomb Iran the first time.\" Another thing he's posted, saying that he got a call from UFC saying he, quote, \"wasn't cleared\" by the White House.\n\nAnd honestly, he showed up anyway; in an extreme MMA on-brand situation was escorted out by park police. I mean, it actually became like a bit of a thing here.\n\nHelp me make sense of this. It's a big UFC night. A big UFC star's getting hauled out with all this security. What's the politics?\n\nLEON: I mean, remember, there's an element of how UFC is also in partnership with the WWE, right? There's a performative element with some of that, for Strickland doing that.\n\nAnd there's also guys who fought on the card. I don't know if you saw the video, Audie, of the -- the person who said the comments about Michelle Obama in the post-fight interview with Joe Rogan, which was disgusting.\n\nThere are some things that are, from a performance standpoint, always going to mirror what we kind of see in WWE.\n\nStrickland is right, to a certain extent. There's a reason why he was left off the card. Non-politics perspective wise. There were a few other fights that actually dropped out from this card.\n\nBut in terms of the event overall, like I said, it was a pretty solid event. But to make sense of it, Audie, I mean, they get punched in the head; they grapple. Sometimes people say different things, and they have different political leanings. This is what you get in the combat sports space.\n\nI remember working an event where one of our fighters, before the election in '24, wore Trump trunks. And I remember saying to him in the locker room, \"Could you not?\" Like, again, freedom of speech. You can wear whatever you want, but like, you're going to get more attention doing this.\n\nAnd he's, like, I'm going to do it anyway. And then he went out there and did it anyway.\n\nSo, that's -- if you want me to make sense of it, Audie, that's the way to make sense of it. There is no sense. They get punched in the head for a living.\n\nCORNISH: Does this win over some of the young men that Trump is losing in some of his approval ratings?\n\nLEON: Audie, you and I talked about this last week when I was in studio with you. Trump has always used the combat sports space as this outlet and vehicle to talk to voters, whether it be his stuff that he did in the boxing space years ago, his relationship with Dana White, obviously with the Ellison family, with Paramount. He has always been in the combat sports space, because he thinks it makes him seem relatable, that he loves these sports.\n\nAnd these are the type of fans. And again, speaking with conservative voters over years in different cities, they've talked about his attendance at these events. And Democrats don't go to these type of things, whereas Trump does.\n\nI told you last week, Ruben Gallego and I've had this conversation about Democrats potentially leaning into, like, boxing events, to the relationships that I have in the combat sports space.\n\nAnd it's just -- there's voters there that I feel are being left out. And they feel they're being left out of the conversation."
+    }
+  ]
+}

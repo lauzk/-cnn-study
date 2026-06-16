@@ -1,0 +1,399 @@
+{
+  "date": "2026-06-15",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-15/segment/02",
+  "vocabulary": [
+    {
+      "word": "derail",
+      "phonetic": "/dɪˈreɪl/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "使出轨；破坏，阻挠",
+      "en": "to cause a process to go off course or fail",
+      "excerpt": "this tentative deal was almost derailed by Israel.",
+      "example_cn": "这个初步协议几乎被以色列破坏。"
+    },
+    {
+      "word": "backchannel",
+      "phonetic": "/ˈbækˌtʃænəl/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "秘密渠道，非正式沟通渠道",
+      "en": "a secret or informal means of communication",
+      "excerpt": "Vice President Vance detailed the high stakes backchannel diplomacy that kept the agreement alive.",
+      "example_cn": "副总统万斯详细介绍了维持协议的高风险秘密外交。"
+    },
+    {
+      "word": "tentative",
+      "phonetic": "/ˈtentətɪv/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "试探性的；暂定的",
+      "en": "not definite or final; provisional",
+      "excerpt": "this tentative deal was almost derailed by Israel.",
+      "example_cn": "这个初步协议几乎被以色列破坏。"
+    },
+    {
+      "word": "ceasefire",
+      "phonetic": "/ˈsiːsfaɪər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "停火，停战",
+      "en": "a temporary suspension of fighting",
+      "excerpt": "Trump has demanded that Israel stop attacking anywhere in Lebanon. And he said Hezbollah should stop attacking Israel. But that's a demand we've seen before in mid-April in a previous ceasefire.",
+      "example_cn": "特朗普要求以色列停止在黎巴嫩任何地方的攻击，并说真主党应停止攻击以色列。但这是我们在4月中旬之前的停火中见过的要求。"
+    },
+    {
+      "word": "memorandum of understanding",
+      "phonetic": "/ˌmeməˈrændəm əv ˌʌndərˈstændɪŋ/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "谅解备忘录",
+      "en": "a document describing the broad outlines of an agreement",
+      "excerpt": "following this signing of the memorandum of understanding here?",
+      "example_cn": "在签署这份谅解备忘录之后？"
+    },
+    {
+      "word": "sunset provision",
+      "phonetic": "/ˈsʌnset prəˈvɪʒn/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "日落条款（自动失效条款）",
+      "en": "a clause in a law or agreement that automatically terminates it after a fixed period",
+      "excerpt": "Both have sunset provisions, meaning that Iran could revisit this in like ten or 15 years.",
+      "example_cn": "两者都有日落条款，意味着伊朗可以在大约10或15年后重新审视。"
+    },
+    {
+      "word": "dismantle",
+      "phonetic": "/dɪsˈmæntl/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "拆除；废除",
+      "en": "to take apart or put an end to",
+      "excerpt": "What's stopping a new Democratic administration from coming in and dismantling the one that Trump is putting forth?",
+      "example_cn": "什么能阻止新的民主党政府上台后废除特朗普提出的协议？"
+    },
+    {
+      "word": "concede",
+      "phonetic": "/kənˈsiːd/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "承认；让步",
+      "en": "to admit or yield",
+      "excerpt": "Both of them are essentially trying to get Iran to concede on the uranium side.",
+      "example_cn": "两者本质上都试图让伊朗在铀方面让步。"
+    },
+    {
+      "word": "performance based",
+      "phonetic": "/pərˈfɔːrməns beɪst/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "基于表现的",
+      "en": "based on actual performance rather than promises",
+      "excerpt": "It's performance based. No money released to Iran until they perform.",
+      "example_cn": "这是基于表现的。在伊朗履行之前不会释放资金。"
+    },
+    {
+      "word": "verify",
+      "phonetic": "/ˈverɪfaɪ/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "核实，验证",
+      "en": "to confirm the truth or accuracy of",
+      "excerpt": "There's no trust here. And we're going to verify everything.",
+      "example_cn": "这里没有信任。我们将核实一切。"
+    },
+    {
+      "word": "dismantle",
+      "phonetic": "/dɪsˈmæntl/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "拆除；废除",
+      "en": "to take apart or put an end to",
+      "excerpt": "The nuclear program will be dismantled.",
+      "example_cn": "核计划将被拆除。"
+    },
+    {
+      "word": "strait",
+      "phonetic": "/streɪt/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "海峡",
+      "en": "a narrow passage of water connecting two seas",
+      "excerpt": "The Straits will be open. No tolling.",
+      "example_cn": "海峡将开放，不收费。"
+    },
+    {
+      "word": "toll",
+      "phonetic": "/toʊl/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "征收通行费",
+      "en": "to charge a fee for using a road or bridge",
+      "excerpt": "No tolling.",
+      "example_cn": "不收费。"
+    },
+    {
+      "word": "JCPOA",
+      "phonetic": "/dʒeɪ siː piː oʊ eɪ/",
+      "pos": "abbr.",
+      "level": "专八",
+      "cn": "《联合全面行动计划》（伊朗核协议）",
+      "en": "Joint Comprehensive Plan of Action",
+      "excerpt": "the JCPOA was a path to a bomb.",
+      "example_cn": "《联合全面行动计划》是一条通往炸弹的道路。"
+    },
+    {
+      "word": "guardrail",
+      "phonetic": "/ˈɡɑːrdreɪl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "护栏；保护措施",
+      "en": "a protective barrier; a safeguard",
+      "excerpt": "We don't need to set up all the guardrails and things that went through diplomacy.",
+      "example_cn": "我们不需要设置所有通过外交手段建立的护栏之类的东西。"
+    },
+    {
+      "word": "leverage",
+      "phonetic": "/ˈlevərɪdʒ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "杠杆作用；影响力",
+      "en": "the power to influence a situation",
+      "excerpt": "Iran feels like now they have a bit more of a lever here.",
+      "example_cn": "伊朗觉得他们现在在这里有更多一点杠杆。"
+    },
+    {
+      "word": "watershed",
+      "phonetic": "/ˈwɔːtərʃed/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "分水岭；转折点",
+      "en": "an event or period marking a turning point",
+      "excerpt": "this is being described by the government as a watershed moment.",
+      "example_cn": "这被政府描述为一个分水岭时刻。"
+    },
+    {
+      "word": "doomscrolling",
+      "phonetic": "/ˈduːmˌskroʊlɪŋ/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "末日刷屏（不停刷负面新闻）",
+      "en": "the act of continuously scrolling through bad news",
+      "excerpt": "prevent doomscrolling at night for under 18 year olds as well.",
+      "example_cn": "也防止18岁以下青少年夜间末日刷屏。"
+    },
+    {
+      "word": "convoluted",
+      "phonetic": "/ˈkɑːnvəluːtɪd/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "复杂的；费解的",
+      "en": "extremely complex and difficult to follow",
+      "excerpt": "it's very convoluted. It's not clear.",
+      "example_cn": "这非常复杂，不清楚。"
+    },
+    {
+      "word": "myopic",
+      "phonetic": "/maɪˈɑːpɪk/",
+      "pos": "adj.",
+      "level": "专八",
+      "cn": "近视的；目光短浅的",
+      "en": "lacking foresight or long-term perspective",
+      "excerpt": "it's too myopic, in my opinion.",
+      "example_cn": "在我看来，这太目光短浅了。"
+    },
+    {
+      "word": "transactional",
+      "phonetic": "/trænˈzækʃənl/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "交易性的；事务性的",
+      "en": "involving transactions; focused on exchange",
+      "excerpt": "The deal was purely transactional, trading concessions.",
+      "example_cn": "这笔交易纯粹是交易性的，交换让步。"
+    },
+    {
+      "word": "concession",
+      "phonetic": "/kənˈseʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "让步；特许权",
+      "en": "something granted in response to demands",
+      "excerpt": "trading concessions.",
+      "example_cn": "交换让步。"
+    },
+    {
+      "word": "blockade",
+      "phonetic": "/blɑːˈkeɪd/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "封锁",
+      "en": "an act of sealing off a place to prevent goods or people from entering or leaving",
+      "excerpt": "lifting the naval blockade.",
+      "example_cn": "解除海军封锁。"
+    },
+    {
+      "word": "slap-stick",
+      "phonetic": "/ˈslæp stɪk/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "打闹剧；粗俗滑稽表演",
+      "en": "comedy based on deliberately clumsy actions and humorously embarrassing events",
+      "excerpt": "He does slap-stick and just is an attack person.",
+      "example_cn": "他只会打闹剧，只是一个攻击性的人。"
+    },
+    {
+      "word": "architect",
+      "phonetic": "/ˈɑːrkɪtekt/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "建筑师；设计师；缔造者",
+      "en": "a person who designs and oversees the construction of something",
+      "excerpt": "Lindsey Graham calling J.D. Vance the architect of this deal.",
+      "example_cn": "林赛·格雷厄姆称J.D.万斯是这笔交易的缔造者。"
+    },
+    {
+      "word": "corresponding",
+      "phonetic": "/ˌkɔːrəˈspɑːndɪŋ/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "相应的；对应的",
+      "en": "matching or connected with something",
+      "excerpt": "it should be going through the corresponding channels of the diplomats.",
+      "example_cn": "它应该通过相应的外交渠道进行。"
+    },
+    {
+      "word": "ranking member",
+      "phonetic": "/ˈræŋkɪŋ ˈmembər/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "（委员会中）资深成员；首席成员",
+      "en": "the most senior member of a committee from the minority party",
+      "excerpt": "our ranking member, Mr. Meeks, on the Democratic side.",
+      "example_cn": "我们在民主党方面的资深成员米克斯先生。"
+    },
+    {
+      "word": "big gulp",
+      "phonetic": "/bɪɡ ɡʌlp/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "大杯饮料（尤指7-11的）",
+      "en": "a large-sized soft drink, especially from 7-Eleven",
+      "excerpt": "watching them experience big gulps for the first time.",
+      "example_cn": "看着他们第一次体验大杯饮料。"
+    },
+    {
+      "word": "viral",
+      "phonetic": "/ˈvaɪrəl/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "病毒式的；迅速传播的",
+      "en": "becoming very popular by circulating quickly on the internet",
+      "excerpt": "There was a viral clip of somebody experiencing a New Jersey deli.",
+      "example_cn": "有一段病毒式传播的视频，有人体验了新泽西熟食店。"
+    },
+    {
+      "word": "concoct",
+      "phonetic": "/kənˈkɑːkt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "编造；调制",
+      "en": "to create or devise",
+      "excerpt": "Sara and I are like concocting a business plan now.",
+      "example_cn": "萨拉和我现在就像在编造一个商业计划。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "And before President Trump confirmed the U.S. and Iran had reached an agreement, this tentative deal was almost derailed by Israel.",
+      "cn": "在特朗普总统确认美国和伊朗已达成协议之前，这个初步协议几乎被以色列破坏。",
+      "structure": "复合句：主句 + before引导的时间状语从句",
+      "analysis": "主句为'this tentative deal was almost derailed by Israel'，before引导时间状语从句，从句中'had reached'为过去完成时，表示在确认之前已发生。"
+    },
+    {
+      "en": "Vice President Vance detailed the high stakes backchannel diplomacy that kept the agreement alive.",
+      "cn": "副总统万斯详细介绍了维持协议的高风险秘密外交。",
+      "structure": "主句 + that引导的定语从句",
+      "analysis": "主句为'Vice President Vance detailed the high stakes backchannel diplomacy'，that引导定语从句修饰'diplomacy'，从句中'kept'为过去式。"
+    },
+    {
+      "en": "What the Trump administration is trying to do now is so much more broad that I think Obama is trying to remind people of his skepticism that something that broad can, a, get done, but, b, even last long term, because as Trump did, he came in and reversed this agreement, right?",
+      "cn": "特朗普政府现在试图做的事情范围要广泛得多，以至于我认为奥巴马试图提醒人们他的怀疑：如此广泛的事情，a，能否完成，b，甚至能否长期持续，因为正如特朗普所做的那样，他上台后推翻了这项协议，对吧？",
+      "structure": "主句 + so...that结果状语从句，从句中包含that引导的宾语从句和同位语从句",
+      "analysis": "主句为'What the Trump administration is trying to do now is so much more broad'，that引导结果状语从句，从句中'Obama is trying to remind people of his skepticism'为主句，'that something that broad can...'为同位语从句解释'skepticism'，其中包含'because'引导的原因状语从句。"
+    },
+    {
+      "en": "Both have sunset provisions, meaning that Iran could revisit this in like ten or 15 years.",
+      "cn": "两者都有日落条款，意味着伊朗可以在大约10或15年后重新审视。",
+      "structure": "主句 + 现在分词短语作状语，内含that引导的宾语从句",
+      "analysis": "主句为'Both have sunset provisions'，'meaning that...'为现在分词短语作伴随状语，'that'引导宾语从句作'meaning'的宾语。"
+    },
+    {
+      "en": "The way that Pete Hegseth is trying to distinguish the difference in this is he saying, look, the Obama deal relied on going through international inspectors and putting up with Iran's nonsense with cameras and hiding things on inspection day.",
+      "cn": "皮特·赫格塞斯试图区分差异的方式是他说，看，奥巴马协议依赖于通过国际检查员，忍受伊朗用摄像头搞鬼和在检查日藏东西的胡闹。",
+      "structure": "主句 + that引导的定语从句 + 表语从句",
+      "analysis": "主句为'The way...is he saying'，'that Pete Hegseth is trying to distinguish the difference in this'为定语从句修饰'the way'，'he saying'后为直接引语，其中'relied on'后接两个动名词短语作宾语。"
+    },
+    {
+      "en": "There is skepticism right now as to whether, as we get closer to the midterms, that they would actually restart a bombing campaign, as we were talking about in the earlier segment with the high gas prices and the president's approval rating and the like.",
+      "cn": "目前存在怀疑，即随着我们接近中期选举，他们是否会真的重启轰炸行动，正如我们在早些时候讨论高油价和总统支持率等问题时所说的那样。",
+      "structure": "主句 + as to whether引导的宾语从句，内含as引导的时间状语从句和as引导的方式状语从句",
+      "analysis": "主句为'There is skepticism'，'as to whether'引导宾语从句，从句中'as we get closer to the midterms'为时间状语从句，'as we were talking about...'为方式状语从句。"
+    },
+    {
+      "en": "And what they've agreed to essentially is to have the opportunity within 60 days to further negotiate a memorandum of understanding of what they can talk about.",
+      "cn": "他们本质上同意的是在60天内有机会进一步谈判一份关于他们可以讨论什么的谅解备忘录。",
+      "structure": "主语从句 + 系动词 + 不定式短语作表语",
+      "analysis": "'What they've agreed to essentially'为主语从句，'is'为系动词，'to have the opportunity...'为不定式短语作表语，其中'of what they can talk about'为介词短语修饰'memorandum of understanding'。"
+    },
+    {
+      "en": "Curiously missing in this negotiation or this discussion is Mr. Jared Kushner, our super volunteer.",
+      "cn": "奇怪的是，在这次谈判或讨论中缺席的是贾里德·库什纳先生，我们的超级志愿者。",
+      "structure": "倒装句：表语 + 系动词 + 主语",
+      "analysis": "正常语序为'Mr. Jared Kushner is curiously missing in this negotiation or this discussion'，此处将表语'Curiously missing...'提前形成倒装，强调缺席。"
+    },
+    {
+      "en": "I'd like to see Secretary Rubio lead this negotiation.",
+      "cn": "我希望看到鲁比奥国务卿领导这次谈判。",
+      "structure": "主句 + 不定式复合结构",
+      "analysis": "'I'd like to see'为主句，'Secretary Rubio lead this negotiation'为不定式复合结构，'lead'为不带to的不定式，作宾语补足语。"
+    },
+    {
+      "en": "We don't need a super volunteer, Mr. Jared Kushner.",
+      "cn": "我们不需要一个超级志愿者，贾里德·库什纳先生。",
+      "structure": "简单句，含同位语",
+      "analysis": "主句为'We don't need a super volunteer'，'Mr. Jared Kushner'为同位语，补充说明'super volunteer'。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "美伊核协议与中东局势",
+      "content": "特朗普政府与伊朗达成初步协议，涉及解除海军封锁、开放霍尔木兹海峡及后续核谈判。以色列对此强烈反对，总理内塔尼亚胡保持沉默，但政府部长批评协议。前总统奥巴马质疑新协议是否优于2015年的JCPOA。国防部长赫格塞斯强调新协议基于表现、严格核查。",
+      "keywords": "Iran deal, JCPOA, ceasefire, Strait of Hormuz, Netanyahu, Obama, verification"
+    },
+    {
+      "title": "英国社交媒体禁令",
+      "content": "英国首相斯塔默宣布对16岁以下儿童实施全面社交媒体禁令，涵盖社交平台、游戏和直播。该政策基于广泛咨询，83%家长支持。类似澳大利亚此前措施，但引发关于社交隔离的讨论。",
+      "keywords": "social media ban, UK, under 16, Keir Starmer, child safety, doomscrolling"
+    },
+    {
+      "title": "美国国内新闻",
+      "content": "密苏里州跳伞飞机坠毁致12人死亡，NTSB调查。参议员麦康奈尔住院。国土安全部长澄清ICE不会在投票站执法。卡罗来纳飓风队赢得斯坦利杯。",
+      "keywords": "plane crash, skydiving, McConnell, ICE, polling places, Stanley Cup"
+    },
+    {
+      "title": "世界杯与体育文化",
+      "content": "美国举办世界杯，外国游客体验美国文化（如大杯饮料、塔可钟）。美国男足4-1胜巴拉圭。卡罗来纳飓风队赢得斯坦利杯。",
+      "keywords": "World Cup, USA, soccer, Stanley Cup, Hurricanes, cultural experience"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nTrump Blasts Israel's Prime Minister; Obama on Iran Deal; U.K. Announces Social Media Ban for Kids; Rep. Johnathan Jackson (D-IL) is Interviewed about the Iran Deal. Aired 6:30-7a ET\n\nAired June 15, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nMIKE LEON, HOST, \"CAN WE PLEASE TALK?\": Leaning in to like boxing events through the relationships that I have in the (INAUDIBLE) sports space. And it's just -- there's voters there that I feel are being left out. And they feel they're being left out of the conversation. And the president at least humors them by going to these events.\n\nI think you could get a trickle, but then it comes back to, how many people truly watched a UFC event that was behind the paywall on Paramount Plus. So, we'd have to see what the ripple effect looks like.\n\nAUDIE CORNISH, CNN ANCHOR: OK, Mike Leon, thanks for your expertise. Appreciate it.\n\nAnd if you have questions about last night's UFC fight at the White House, CNN's John Berman, Sara Sidner and Donie O'Sullivan will react and answer to those subscriber questions in a live, interactive Q&A. Head to cnn.com.subscriberseries to drop your questions now and join them today at noon Eastern for the live discussion.\n\nAnd straight ahead on CNN THIS MORNING, Obama says doubtful Trump's agreement will be much different than his. We're going to look at what could be the difference between the two agreements.\n\nPlus, the Carolina Hurricanes raising the Stanley Cup. More on their win to cement them as two-time champions.\n\nCORNISH: Good morning, everybody. I'm Audie Cornish. Thank you for joining me on CNN THIS MORNING.\n\nIt is half past the hour. And here's what's happening right now.\n\nNTSB investigators will arrive in Missouri today after one of the deadliest U.S. skydiving plane crashes in decades. Twelve people are dead after a plane went down shortly after takeoff Sunday in Butler, Missouri. This is about an hour south of Kansas City. Nine of the victims were actually experienced skydivers, and some family members were watching from the ground below.\n\nREP. MARK ALFORD (R-MO): This is tough. It's a -- it's a beautiful day here. Blue skies. Green grass. People out enjoying something that I think some of these were first time skydivers preparing to skydive in a tandem formation.\n\nCORNISH: The airport manager believes the plane may have lost power, and the pilot may have been attempting to land on the highway before going down nose first. The investigation could take years to complete.\n\nAnd Senator Mitch McConnell was admitted to the hospital Sunday morning. His spokesperson did not reveal the cause. He told CNN the 84-year-old is receiving excellent care. Now, the Republican senator has faced a number of serious health conditions in recent years, including a concussion and broken ribs in 2023 after a fall. He is currently serving his final term in Congress. He is not running for re-election.\n\nAnd Homeland Security Secretary Markwayne Mullin clearing up remarks he made about ICE at polling places. Speaking to CNN's Kasie Hunt, he said, if deployed they wouldn't be there for immigration enforcement.\n\nMARKWAYNE MULLIN, DHS SECRETARY: What I said is that we would only be there if a threat is arise.\n\nThe only reason why we would be there is not for voter identification. It would be because a law enforcement is needed. And the local law enforcement would be part of that conversation.\n\nCORNISH: Mullins says there shouldn't be a need for ICE action because only American citizens should be at polling centers.\n\nAnd the Carolina Hurricanes are Stanley Cup champions for the second time in franchise history.\n\nUNIDENTIFIED MALE: The Carolina Hurricanes have won the Stanley Cup for the second time.\n\nCORNISH: The Hurricanes shut out the Las Vegas Golden Knights three to nothing for their first NHL championship title since 2006.\n\nAnd before President Trump confirmed the U.S. and Iran had reached an agreement, this tentative deal was almost derailed by Israel. And Trump blasted Israeli Prime Minister Netanyahu after Israel bombed Beirut's southern suburbs on Sunday. He told a reporter from \"Axios\" Netanyahu had, quote, \"no f-ing judgment.\"\n\nVice President Vance detailed the high stakes backchannel diplomacy that kept the agreement alive.\n\nJ.D. VANCE, VICE PRESIDENT OF THE UNITED STATES: After the Israelis struck Beirut, we were very worried. And we saw a lot of evidence that the Iranians were going to launch a large number of missiles at the Israelis. With our communication with them over the course of getting to this, to this signed peace deal, they assured us that they were not going to respond to the Israelis, and they were going to sign this agreement and get to peace.\n\nCORNISH: CNN's Oren Lieberman is live in Jerusalem.\n\nAnd, Oren, you've got an Iranian officials saying, quote, \"Lebanon is our lifeblood. Any violation of the Islamic Republic's red lines will not be tolerated.\"\n\nAnd then you've Israel and the political reaction there, which, correct me if I'm wrong, seems kind of like universally poor.\n\nOREN LIEBERMAN, CNN JERUSALEM BUREAU CHIEF: Absolutely. We haven't heard from Prime Minister Benjamin Netanyahu. And we'll come back to that in a second. But we have heard from some of his government ministers, even as we don't know the full extent of this deal. One minister said, quote, \"the deal is bad for Israel and the entire free world,\" while another one said, \"it does not ensure our security.\" So, you see that reaction.\n\nNetanyahu, however, has been notably quiet. In fact, the only message he posted on social media yesterday related to any of this was a happy birthday message to Trump.\n\nAnd yet you have Lebanon in the middle of all of this. You have Netanyahu, who wanted to continue and still wants to continue the wars, both in Lebanon and with Iran, but President Donald Trump is simply making it clear that he's pursuing diplomacy, going in a different direction, and believes that this ceasefire agreement will, frankly, in his -- in his mind, solve a lot of the region's problems.\n\nIt's also noteworthy that Trump, and it's hard to imagine any other Republican or Democratic president doing this, called the Hezbollah attacks on northern Israel that triggered Israeli attacks in Beirut, quote, \"very small and meaningless.\" Difficult to do -- to see anybody else doing that for an attack on Israel from a U.S.-designated terrorist organization.\n\nNow the question is, will the conflict in Lebanon derail what will be very difficult negotiations following this -- following this signing of the memorandum of understanding here? And that is, at least as of right now, unclear. Trump has demanded that Israel stop attacking anywhere in Lebanon. And he said Hezbollah should stop attacking Israel. But that's a demand we've seen before in mid-April in a previous ceasefire. And that fell apart within a matter of days.\n\nMeanwhile, Israel's defense minister has said that Israel has no intention and will not withdraw from the territories it occupies in southern Lebanon. And that could also put a roadblock in all of this as Iran is demanding a Lebanon ceasefire as part of this broader agreement. And, Audie, I think it's quite clear where Trump is headed here in terms of what he's looking for.\n\nCORNISH: OK, that's Oren Lieberman with the word from Jerusalem.\n\nI want to turn to this other aspect of this tentative agreement. We're just at the start of the process. But former President Barack Obama says when he negotiated a deal with Iran more than a decade ago, he did it without military intervention. Now we know that Trump withdrew the U.S. from that agreement in his first term. This was in 2018. But now Obama is saying that he's skeptical that a better deal has been produced under the current administration.\n\nBARACK OBAMA, FORMER U.S. PRESIDENT: It is doubtful that any agreement that arises is going to be significantly different or a significant improvement from the deal that we had in the first place and had worked for a long stretch of time before we, the United States, pulled out of it.\n\nCORNISH: Group chat is back.\n\nThere's a lot of differences. We can go down the rabbit hole on that deal and how it dealt with inspections and verification. Why do you think Obama is speaking up now? We don't usually see him comment on policy in real time.\n\nSARA FISCHER, CNN SENIOR MEDIA ANALYST: Well, one, I think he has broader communication goals around things that he's doing with his foundation and his library. So, that's part of the media tour. But then, two, I think he wants to remind the American people that what they did in 2015 was, in some ways, a more permanent solution to than what we have now. Because what they focused on in 2015 was really focused on the nuclear program. It wasn't as broad as what Trump is trying to do. And as a result of that, I think Iran felt pretty committed to it.\n\nWhat the Trump administration is trying to do now is so much more broad that I think Obama is trying to remind people of his skepticism that something that broad can, a, get done, but, b, even last long term, because as Trump did, he came in and reversed this agreement, right?\n\nFISCHER: What's stopping a new Democratic administration from coming in and dismantling the one that Trump is putting forth?\n\nAnd then I think the last thing that the former president is trying to remind everybody here is that, these actually, from the nuclear perspective, are relatively similar in some ways.\n\nCORNISH: Yes, at the end of the day.\n\nFISCHER: I'm not talking about the broad agreement, just the nuclear piece. Both have sunset provisions, meaning that Iran could revisit this in like ten or 15 years. And both of them are essentially trying to get Iran to concede on the uranium side. But he wants people to know, like, all this for what?\n\nCORNISH: Right. And by this we mean strikes. We were just talking about Israel, its push into Lebanon. These strikes were launched with Israel at the start.\n\nThe way that Pete Hegseth is trying to distinguish the difference in this is he saying, look, the Obama deal relied on going through international inspectors and putting up with Iran's nonsense with cameras and hiding things on inspection day. But he says the Trump deal will be different. And here is how he explains that.\n\nPETE HEGSETH, DEFENSE SECRETARY: It's performance based. No money released to Iran until they perform. There's no trust and verify. There's a -- there's no trust here. And we're going to verify everything. Nuclear material will be destroyed and removed. The nuclear program will be dismantled. The Straits will be open. No tolling. This is -- this is not a -- the JCPOA was a path to a bomb. What this deal will be will be a wall to a bomb.\n\nFRANCESCA CHAMBERS, WHITE HOUSE CORRESPONDENT, \"USA TODAY\": I don't think the Trump administration would disagree with Obama on the point that they did bomb Iran, and they're still threatening Iran with bombs. I mean he went on to say that if they don't comply with this, that they're going to have to deal with the Department of War. There are, of course, skepticism today whether or not the U.S. would actually continue or restart, rather, a bombing campaign against Iran.\n\nCORNISH: But he's saying our threats are enough. Our threat of military action is enough.\n\nWe don't need to set up all the guardrails and things that went through diplomacy, because Iran is like sufficiently scared.\n\nCHAMBERS: Well, they're also saying, though, that we would be willing to restart that. And there is skepticism right now as to whether, as we get closer to the midterms, that they would actually restart a bombing campaign, as we were talking about in the earlier segment with the high gas prices and the president's approval rating and the like. I mean that is -- the threat has to be legitimate in order for it to work.\n\nELENA SCHNEIDER, NATIONAL POLITICAL REPORTER, \"NOTUS\": Well, and I think, too, that there's just a difference in reality of what the Iranian people and the Iranian government feel like they're able to do in this moment versus what they thought they could do in 2015. They are sort of, in some ways, newly empowered in their ability to realize that they really can, you know, choke off the oil markets through the Strait of Hormuz and can affect real change. That's a shift in a power dynamic that is, I think, notable from what, you know, the Americans were dealing with in terms of the 2015 negotiations, where, again, Iran feels like now they have a bit more of a lever here.\n\nCORNISH: They learned what their leverage is.\n\nOK, you guys, stick with me. I want to turn very briefly. The U.K. announces a sweeping social social media ban for children under the age of 16. And this is going to apply to both social media sites, as well as gaming and live streaming. And the British prime minister, Keir Starmer, made this announcement earlier this morning.\n\nKEIR STARMER, BRITISH PRIME MINISTER: This is not something I do lightly. And I will not present it as cost free, as if social media has brought no benefits to young people, because clearly that is wrong. But government is always about choices. And it's clear to me that a full ban is the right choice.\n\nCORNISH: So, from London, CNN's Nada Bashir.\n\nNada, walk us through how this ban is going to work and what the reaction is this morning.\n\nNADA BASHIR, CNN CORRESPONDENT: Well, look, Audie, this is being described by the government as a watershed moment. And it won't come into effect instantaneously. But this latest regulation is expected to come before parliament, before the end of the year, and is expected to be implemented fully early 2027.\n\nAnd, of course, this wasn't an immediate snap decision by the government. There have been months of consultations with parents, with young people, with industry professionals as well.\n\nWe've heard from the government putting out those statistics, saying that they spoke to more than 1,116 people, that more than 83 percent of parents agree that the benefits of this social media ban outweighed the negatives. And of course, while there have been some measures put in place in the past of trying to protect child safety online, including from organizations like Meta, this is being described as one of the most sweeping bans and regulations that we have seen to date. And, of course, follows a similar decision taken by Australia to limit\n\nand restrict social media for under 16. But, of course, this has received a mixed response. On the whole, it appears that parents feel that this is a positive measure.\n\nUNIDENTIFIED FEMALE: If it's how kids are socializing, then are we going to have problems with like isolation and loneliness? So, there needs to potentially be alternatives for younger children. Social media that's safer for teenagers rather than just point-blank wiping it out.\n\nUNIDENTIFIED MALE: I didn't have social media until I was 16. I loved life before that. And I think, like a lot of insecurities I had were from, you know, interacting with stuff online.\n\nUNIDENTIFIED MALE: Good thing. Too much time spent on screens is not good for anyone, never mind someone whose brain is still developing.\n\nBASHIR: And, Audie, it's not just social media. The government is looking at restrictions on live streaming platforms, on platforms that allow young people to speak to strangers online. And they are also looking at potential measures for curfews to prevent doomscrolling at night for under 18 year olds as well.\n\nCORNISH: That's Nada Bashir in London about that social media ban. Thank you.\n\nAnd I want to turn next to President Trump en route to France for the G-7 today. Does news of a, quote, \"agreement\" with Iran change how he will be received? We're going to hear from Democratic Congressman Jonathan Jackson. He sits on the Foreign Affairs Committee. That's next.\n\nCORNISH: President Trump now aboard Air Force One en route to Geneva, Switzerland, for a G-7 summit in France. News of a deal to end fighting with Iran has been a welcome development for European leaders, but Israeli lawmakers are furious. Netanyahu's far right national security minister tweeted out, quote, \"Trump's agreement does not bind us,\" adding, \"Israel is not subordinate to the United States. And then the leader of Israel's left wing party seems to agree, saying the deal was, quote, \"made over Israel's head.\"\n\nJoining me now to talk about this, Congressman Jonathan Jackson. He's a Democrat from Illinois. Good morning. Thank you so much for being here.\n\nI wanted to talk to a lawmaker because Lindsey Graham tweeted out this. First he said, \"I'm somewhat concerned that Iran's view of the agreement seems different than what the American negotiating team is claiming.\" And then he says this, \"under our law, any nuclear deal with Iran will be sent to Congress for review and a vote.\" And he says, he looks \"forward to reviewing the final product.\"\n\nDo you expect Congress to want to review this deal?\n\nREP. JONATHAN JACKSON (D-IL): Absolutely. And the question, I think, Audie, comes down to, is this a deal versus a diplomatic agreement. A diplomatic agreement would have the allies buy in. It would have the lawmakers participate. The deal was purely transactional, trading concessions. The Iranians had, after their bombing, had closed down the Strait of Hormuz, and only for the Trump administration to say, they've now put sanctions on the closing of the Strait. Well, it was already closed.\n\nAnd so, it's very convoluted. It's not clear. And this is very transactional. It's too myopic, in my opinion. And what they've agreed to essentially is to have the opportunity within 60 days to further negotiate a memorandum of understanding of what they can talk about. It doesn't make much sense.\n\nCORNISH: Right. This is an extension of the ceasefire. We should be clear, full text is not released, but the claim is that they would be lifting the naval blockade, reopening the Strait of Hormuz, and ensure that the Strait remains toll free. And then, as you said, nuclear talks would begin after any kind of formal signing.\n\nThe thing I notice is, the president was saying something about policing and the U.S.' ability to police this area. When you hear a word like that, do you hear troops on the ground? Do you hear just our ongoing ability to keep Iran in line?\n\nJACKSON: Oh, it's troops on the ground, no doubt about it. And we've also heard conflicting messages of, they've been -- the United States has been taking millions of barrels of oil. People would like to have further clarification of that.\n\nCuriously missing in this negotiation or this discussion is Mr. Jared Kushner, our super volunteer. This is not being led by Secretary Rubio. This is not being led by the secretary of defense, who misled the president on what the Iranians response and capabilities would be. And so, we need to get the diplomatic corps. I'd like to see Secretary Rubio lead this negotiation. He's capable. He's qualified. We don't need a super volunteer, Mr. Jared Kushner. He was going to Islamabad just last month saying he was negotiating this. Let's get our diplomats and get our professionals back to the table so members of Congress can get information.\n\nCORNISH: You had Lindsey Graham calling J.D. Vance the architect of this deal. He's the one name I didn't hear you say just now. Do you think he's the architect of this deal?\n\nJACKSON: I don't know what J.D. Vance really does. He does slap-stick and just is an attack person, but he's not been in a very constructive role. I know Mr. Witkoff and Mr. Jared Kushner had been going to Islamabad. I think Mr. -- the secretary -- the vice president had gone over there. But it should be going through the corresponding channels of the diplomats, which would be in the secretary of defense and the secretary of state. Then the Congress would know who we can talk to.\n\nWe, frankly, don't know who to talk to. I would like to see some of these personnels come before our chairman, Chairman Mast, on the Republican side, our ranking member, Mr. Meeks, on the Democratic side, so we can do this in the normal course of business in the United States Congress.\n\nCORNISH: OK, that's Congressman Jackson. Thank you so much. Appreciate it.\n\nCORNISH: All right, I want to talk now about what's in our group chats, because it's the start of the week and we've got the president on the way to Europe. We've just come off like multiple sporting events. Talk about, Sara, what's in your group chat.\n\nFISCHER: I have been loving watching the World Cup tourists come into the U.S. and post on social media all the things that they think are wondrous about our country.\n\nFISCHER: So, like, watching them experience big gulps for the first time, or a Taco Bell for the first time.\n\nCORNISH: Who among you?\n\nFISCHER: There's a viral --\n\nFISCHER: Who among us has not? There was a viral clip of somebody experiencing a New Jersey deli, which is a Jersey girl I really appreciated. But it also makes you think about how special it is that we are hosting the World Cup here.\n\nOf course, the one thing that's a little sad, there's no World Cup matches, Audie, being held in our nation's capital. The hope is that when the new Commander stadium goes big, then we're going to get to experience something like that.\n\nFISCHER: But it's just been fun to watch the whole world experience parts of American culture that we kind of take for granted here.\n\nCORNISH: You can't build one of those on the lawn? That doesn't -- no, not enough room for the --\n\nFISCHER: You can't -- you can't really replicate a big gulp anywhere else, Audie.\n\nCHAMBERS: Sara, I'm actually with you as someone who's from Kansas City. This has been a very exciting time, you know, for the World Cup to come to Kansas City as well. So, I'm with you on that one.\n\nCORNISH: OK, what's in your group chat? Is it that?\n\nCHAMBERS: OK, what's -- no. But, no, it wasn't -- it wasn't that actually, no, OK.\n\nSo, me and my friends are really loving this ice cream truck that is going around Sarasota in the water in Florida. Yes. OK.\n\nCHAMBERS: So, it's a boat. Yes, it is a boat, but it's an ice cream truck on a boat. I love --\n\nCORNISH: How has someone not thought of this before?\n\nCHAMBERS: I know I -- honestly, who doesn't love an ice cream truck? I wish that we had --\n\nFISCHER: (INAUDIBLE) Potomac.\n\nCHAMBERS: You know what -- that's true. And we could get it down the Potomac.\n\nCORNISH: All right, now I know why people haven't done this before. How do kids get to it? The whole thing, kids --\n\nCHAMBERS: Well, on the boats.\n\nCHAMBERS: They come to boats that are already in the water. So, you're right, we don't (INAUDIBLE) for jumping.\n\nFISCHER: We've got to have a boat though. Where am I going to get a boat. That's the most expensive ice cream I've ever had.\n\nCORNISH: I know. I like the idea --\n\nCHAMBERS: Sara and I are like concocting a business plan now.\n\nCORNISH: I know. I like maybe my kid being like, ice cream, and the boat just like going past and me being like, I don't know, sorry.\n\nSCHNEIDER: I know, that's my reaction. It's like, I used to love ice cream trucks as a child, but now as a parent you're like, oh, no, cover their ears. Don't let them listen to it. CORNISH: Yes, cover their ears. OK, do you have a sports one or not\n\nSCHNEIDER: I have a sports one.\n\nSCHNEIDER: I'm joining you in the World Cup joy. I mean like as somebody who is not a huge soccer fan, but who really commits every two years when the World Cup comes around, it's so much fun. And watching the American men win four to one a couple days ago over Paraguay, that was just really exciting. And it took me back because I really remember watching the 1999 women --\n\nSCHNEIDER: Mia Hamm, Brandi Chastain. Like those are the -- those were my heroes at the time. I stayed playing soccer long after I never should have been playing soccer because I was so --\n\nCORNISH: I'm sure you had some skills.\n\nSCHNEIDER: No, it was terrible. But it was fun because you could imagine yourself in those places and spaces and dream about being on those big stages. So, it's really fun to get to watch a new generation of young people, my boys included, getting to get into these games, learn about a sport in a way that they aren't necessarily always exposed to, at least not to me.\n\nCORNISH: I forget it can have that sort of generational impact. Any kind of big sports moment.\n\nCORNISH: Whether it's the Olympics or something like this. Because I remember that.\n\nCORNISH: It was 1999, right?\n\nSCHNEIDER: 1999. Yes, exactly.\n\nFISCHER: And also you're a Carolinian, so talking about sports. You guys just won the Stanley Cup. Congratulations.\n\nSCHNEIDER: It's true. As a North Carolinian, this is very exciting.\n\nCORNISH: You know about hockey? Are you going to call this like stick sport or something?\n\nSCHNEIDER: I'm going -- I'm going to admit that I knew that they won last in 2006, which is a, you know, it's a notable thing that they've done. [07:00:05]\n\nBut, no, I can't say I know much about it.\n\nCORNISH: Oh, that's OK. I mean start with heated rivalry. I did.\n\nOK, you guys, thank you for being with us today. We've got a lot of news kicking off the week, especially with this memorandum between the U.S. and Iran. What are the details? We've got the headlines for you next. I'm Audie Cornish.",
+  "segments": [
+    {
+      "seg": 2,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-15/segment/02",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nTrump Blasts Israel's Prime Minister; Obama on Iran Deal; U.K. Announces Social Media Ban for Kids; Rep. Johnathan Jackson (D-IL) is Interviewed about the Iran Deal. Aired 6:30-7a ET\n\nAired June 15, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nMIKE LEON, HOST, \"CAN WE PLEASE TALK?\": Leaning in to like boxing events through the relationships that I have in the (INAUDIBLE) sports space. And it's just -- there's voters there that I feel are being left out. And they feel they're being left out of the conversation. And the president at least humors them by going to these events.\n\nI think you could get a trickle, but then it comes back to, how many people truly watched a UFC event that was behind the paywall on Paramount Plus. So, we'd have to see what the ripple effect looks like.\n\nAUDIE CORNISH, CNN ANCHOR: OK, Mike Leon, thanks for your expertise. Appreciate it.\n\nAnd if you have questions about last night's UFC fight at the White House, CNN's John Berman, Sara Sidner and Donie O'Sullivan will react and answer to those subscriber questions in a live, interactive Q&A. Head to cnn.com.subscriberseries to drop your questions now and join them today at noon Eastern for the live discussion.\n\nAnd straight ahead on CNN THIS MORNING, Obama says doubtful Trump's agreement will be much different than his. We're going to look at what could be the difference between the two agreements.\n\nPlus, the Carolina Hurricanes raising the Stanley Cup. More on their win to cement them as two-time champions.\n\nCORNISH: Good morning, everybody. I'm Audie Cornish. Thank you for joining me on CNN THIS MORNING.\n\nIt is half past the hour. And here's what's happening right now.\n\nNTSB investigators will arrive in Missouri today after one of the deadliest U.S. skydiving plane crashes in decades. Twelve people are dead after a plane went down shortly after takeoff Sunday in Butler, Missouri. This is about an hour south of Kansas City. Nine of the victims were actually experienced skydivers, and some family members were watching from the ground below.\n\nREP. MARK ALFORD (R-MO): This is tough. It's a -- it's a beautiful day here. Blue skies. Green grass. People out enjoying something that I think some of these were first time skydivers preparing to skydive in a tandem formation.\n\nCORNISH: The airport manager believes the plane may have lost power, and the pilot may have been attempting to land on the highway before going down nose first. The investigation could take years to complete.\n\nAnd Senator Mitch McConnell was admitted to the hospital Sunday morning. His spokesperson did not reveal the cause. He told CNN the 84-year-old is receiving excellent care. Now, the Republican senator has faced a number of serious health conditions in recent years, including a concussion and broken ribs in 2023 after a fall. He is currently serving his final term in Congress. He is not running for re-election.\n\nAnd Homeland Security Secretary Markwayne Mullin clearing up remarks he made about ICE at polling places. Speaking to CNN's Kasie Hunt, he said, if deployed they wouldn't be there for immigration enforcement.\n\nMARKWAYNE MULLIN, DHS SECRETARY: What I said is that we would only be there if a threat is arise.\n\nThe only reason why we would be there is not for voter identification. It would be because a law enforcement is needed. And the local law enforcement would be part of that conversation.\n\nCORNISH: Mullins says there shouldn't be a need for ICE action because only American citizens should be at polling centers.\n\nAnd the Carolina Hurricanes are Stanley Cup champions for the second time in franchise history.\n\nUNIDENTIFIED MALE: The Carolina Hurricanes have won the Stanley Cup for the second time.\n\nCORNISH: The Hurricanes shut out the Las Vegas Golden Knights three to nothing for their first NHL championship title since 2006.\n\nAnd before President Trump confirmed the U.S. and Iran had reached an agreement, this tentative deal was almost derailed by Israel. And Trump blasted Israeli Prime Minister Netanyahu after Israel bombed Beirut's southern suburbs on Sunday. He told a reporter from \"Axios\" Netanyahu had, quote, \"no f-ing judgment.\"\n\nVice President Vance detailed the high stakes backchannel diplomacy that kept the agreement alive.\n\nJ.D. VANCE, VICE PRESIDENT OF THE UNITED STATES: After the Israelis struck Beirut, we were very worried. And we saw a lot of evidence that the Iranians were going to launch a large number of missiles at the Israelis. With our communication with them over the course of getting to this, to this signed peace deal, they assured us that they were not going to respond to the Israelis, and they were going to sign this agreement and get to peace.\n\nCORNISH: CNN's Oren Lieberman is live in Jerusalem.\n\nAnd, Oren, you've got an Iranian officials saying, quote, \"Lebanon is our lifeblood. Any violation of the Islamic Republic's red lines will not be tolerated.\"\n\nAnd then you've Israel and the political reaction there, which, correct me if I'm wrong, seems kind of like universally poor.\n\nOREN LIEBERMAN, CNN JERUSALEM BUREAU CHIEF: Absolutely. We haven't heard from Prime Minister Benjamin Netanyahu. And we'll come back to that in a second. But we have heard from some of his government ministers, even as we don't know the full extent of this deal. One minister said, quote, \"the deal is bad for Israel and the entire free world,\" while another one said, \"it does not ensure our security.\" So, you see that reaction.\n\nNetanyahu, however, has been notably quiet. In fact, the only message he posted on social media yesterday related to any of this was a happy birthday message to Trump.\n\nAnd yet you have Lebanon in the middle of all of this. You have Netanyahu, who wanted to continue and still wants to continue the wars, both in Lebanon and with Iran, but President Donald Trump is simply making it clear that he's pursuing diplomacy, going in a different direction, and believes that this ceasefire agreement will, frankly, in his -- in his mind, solve a lot of the region's problems.\n\nIt's also noteworthy that Trump, and it's hard to imagine any other Republican or Democratic president doing this, called the Hezbollah attacks on northern Israel that triggered Israeli attacks in Beirut, quote, \"very small and meaningless.\" Difficult to do -- to see anybody else doing that for an attack on Israel from a U.S.-designated terrorist organization.\n\nNow the question is, will the conflict in Lebanon derail what will be very difficult negotiations following this -- following this signing of the memorandum of understanding here? And that is, at least as of right now, unclear. Trump has demanded that Israel stop attacking anywhere in Lebanon. And he said Hezbollah should stop attacking Israel. But that's a demand we've seen before in mid-April in a previous ceasefire. And that fell apart within a matter of days.\n\nMeanwhile, Israel's defense minister has said that Israel has no intention and will not withdraw from the territories it occupies in southern Lebanon. And that could also put a roadblock in all of this as Iran is demanding a Lebanon ceasefire as part of this broader agreement. And, Audie, I think it's quite clear where Trump is headed here in terms of what he's looking for.\n\nCORNISH: OK, that's Oren Lieberman with the word from Jerusalem.\n\nI want to turn to this other aspect of this tentative agreement. We're just at the start of the process. But former President Barack Obama says when he negotiated a deal with Iran more than a decade ago, he did it without military intervention. Now we know that Trump withdrew the U.S. from that agreement in his first term. This was in 2018. But now Obama is saying that he's skeptical that a better deal has been produced under the current administration.\n\nBARACK OBAMA, FORMER U.S. PRESIDENT: It is doubtful that any agreement that arises is going to be significantly different or a significant improvement from the deal that we had in the first place and had worked for a long stretch of time before we, the United States, pulled out of it.\n\nCORNISH: Group chat is back.\n\nThere's a lot of differences. We can go down the rabbit hole on that deal and how it dealt with inspections and verification. Why do you think Obama is speaking up now? We don't usually see him comment on policy in real time.\n\nSARA FISCHER, CNN SENIOR MEDIA ANALYST: Well, one, I think he has broader communication goals around things that he's doing with his foundation and his library. So, that's part of the media tour. But then, two, I think he wants to remind the American people that what they did in 2015 was, in some ways, a more permanent solution to than what we have now. Because what they focused on in 2015 was really focused on the nuclear program. It wasn't as broad as what Trump is trying to do. And as a result of that, I think Iran felt pretty committed to it.\n\nWhat the Trump administration is trying to do now is so much more broad that I think Obama is trying to remind people of his skepticism that something that broad can, a, get done, but, b, even last long term, because as Trump did, he came in and reversed this agreement, right?\n\nFISCHER: What's stopping a new Democratic administration from coming in and dismantling the one that Trump is putting forth?\n\nAnd then I think the last thing that the former president is trying to remind everybody here is that, these actually, from the nuclear perspective, are relatively similar in some ways.\n\nCORNISH: Yes, at the end of the day.\n\nFISCHER: I'm not talking about the broad agreement, just the nuclear piece. Both have sunset provisions, meaning that Iran could revisit this in like ten or 15 years. And both of them are essentially trying to get Iran to concede on the uranium side. But he wants people to know, like, all this for what?\n\nCORNISH: Right. And by this we mean strikes. We were just talking about Israel, its push into Lebanon. These strikes were launched with Israel at the start.\n\nThe way that Pete Hegseth is trying to distinguish the difference in this is he saying, look, the Obama deal relied on going through international inspectors and putting up with Iran's nonsense with cameras and hiding things on inspection day. But he says the Trump deal will be different. And here is how he explains that.\n\nPETE HEGSETH, DEFENSE SECRETARY: It's performance based. No money released to Iran until they perform. There's no trust and verify. There's a -- there's no trust here. And we're going to verify everything. Nuclear material will be destroyed and removed. The nuclear program will be dismantled. The Straits will be open. No tolling. This is -- this is not a -- the JCPOA was a path to a bomb. What this deal will be will be a wall to a bomb.\n\nFRANCESCA CHAMBERS, WHITE HOUSE CORRESPONDENT, \"USA TODAY\": I don't think the Trump administration would disagree with Obama on the point that they did bomb Iran, and they're still threatening Iran with bombs. I mean he went on to say that if they don't comply with this, that they're going to have to deal with the Department of War. There are, of course, skepticism today whether or not the U.S. would actually continue or restart, rather, a bombing campaign against Iran.\n\nCORNISH: But he's saying our threats are enough. Our threat of military action is enough.\n\nWe don't need to set up all the guardrails and things that went through diplomacy, because Iran is like sufficiently scared.\n\nCHAMBERS: Well, they're also saying, though, that we would be willing to restart that. And there is skepticism right now as to whether, as we get closer to the midterms, that they would actually restart a bombing campaign, as we were talking about in the earlier segment with the high gas prices and the president's approval rating and the like. I mean that is -- the threat has to be legitimate in order for it to work.\n\nELENA SCHNEIDER, NATIONAL POLITICAL REPORTER, \"NOTUS\": Well, and I think, too, that there's just a difference in reality of what the Iranian people and the Iranian government feel like they're able to do in this moment versus what they thought they could do in 2015. They are sort of, in some ways, newly empowered in their ability to realize that they really can, you know, choke off the oil markets through the Strait of Hormuz and can affect real change. That's a shift in a power dynamic that is, I think, notable from what, you know, the Americans were dealing with in terms of the 2015 negotiations, where, again, Iran feels like now they have a bit more of a lever here.\n\nCORNISH: They learned what their leverage is.\n\nOK, you guys, stick with me. I want to turn very briefly. The U.K. announces a sweeping social social media ban for children under the age of 16. And this is going to apply to both social media sites, as well as gaming and live streaming. And the British prime minister, Keir Starmer, made this announcement earlier this morning.\n\nKEIR STARMER, BRITISH PRIME MINISTER: This is not something I do lightly. And I will not present it as cost free, as if social media has brought no benefits to young people, because clearly that is wrong. But government is always about choices. And it's clear to me that a full ban is the right choice.\n\nCORNISH: So, from London, CNN's Nada Bashir.\n\nNada, walk us through how this ban is going to work and what the reaction is this morning.\n\nNADA BASHIR, CNN CORRESPONDENT: Well, look, Audie, this is being described by the government as a watershed moment. And it won't come into effect instantaneously. But this latest regulation is expected to come before parliament, before the end of the year, and is expected to be implemented fully early 2027.\n\nAnd, of course, this wasn't an immediate snap decision by the government. There have been months of consultations with parents, with young people, with industry professionals as well.\n\nWe've heard from the government putting out those statistics, saying that they spoke to more than 1,116 people, that more than 83 percent of parents agree that the benefits of this social media ban outweighed the negatives. And of course, while there have been some measures put in place in the past of trying to protect child safety online, including from organizations like Meta, this is being described as one of the most sweeping bans and regulations that we have seen to date. And, of course, follows a similar decision taken by Australia to limit\n\nand restrict social media for under 16. But, of course, this has received a mixed response. On the whole, it appears that parents feel that this is a positive measure.\n\nUNIDENTIFIED FEMALE: If it's how kids are socializing, then are we going to have problems with like isolation and loneliness? So, there needs to potentially be alternatives for younger children. Social media that's safer for teenagers rather than just point-blank wiping it out.\n\nUNIDENTIFIED MALE: I didn't have social media until I was 16. I loved life before that. And I think, like a lot of insecurities I had were from, you know, interacting with stuff online.\n\nUNIDENTIFIED MALE: Good thing. Too much time spent on screens is not good for anyone, never mind someone whose brain is still developing.\n\nBASHIR: And, Audie, it's not just social media. The government is looking at restrictions on live streaming platforms, on platforms that allow young people to speak to strangers online. And they are also looking at potential measures for curfews to prevent doomscrolling at night for under 18 year olds as well.\n\nCORNISH: That's Nada Bashir in London about that social media ban. Thank you.\n\nAnd I want to turn next to President Trump en route to France for the G-7 today. Does news of a, quote, \"agreement\" with Iran change how he will be received? We're going to hear from Democratic Congressman Jonathan Jackson. He sits on the Foreign Affairs Committee. That's next.\n\nCORNISH: President Trump now aboard Air Force One en route to Geneva, Switzerland, for a G-7 summit in France. News of a deal to end fighting with Iran has been a welcome development for European leaders, but Israeli lawmakers are furious. Netanyahu's far right national security minister tweeted out, quote, \"Trump's agreement does not bind us,\" adding, \"Israel is not subordinate to the United States. And then the leader of Israel's left wing party seems to agree, saying the deal was, quote, \"made over Israel's head.\"\n\nJoining me now to talk about this, Congressman Jonathan Jackson. He's a Democrat from Illinois. Good morning. Thank you so much for being here.\n\nI wanted to talk to a lawmaker because Lindsey Graham tweeted out this. First he said, \"I'm somewhat concerned that Iran's view of the agreement seems different than what the American negotiating team is claiming.\" And then he says this, \"under our law, any nuclear deal with Iran will be sent to Congress for review and a vote.\" And he says, he looks \"forward to reviewing the final product.\"\n\nDo you expect Congress to want to review this deal?\n\nREP. JONATHAN JACKSON (D-IL): Absolutely. And the question, I think, Audie, comes down to, is this a deal versus a diplomatic agreement. A diplomatic agreement would have the allies buy in. It would have the lawmakers participate. The deal was purely transactional, trading concessions. The Iranians had, after their bombing, had closed down the Strait of Hormuz, and only for the Trump administration to say, they've now put sanctions on the closing of the Strait. Well, it was already closed.\n\nAnd so, it's very convoluted. It's not clear. And this is very transactional. It's too myopic, in my opinion. And what they've agreed to essentially is to have the opportunity within 60 days to further negotiate a memorandum of understanding of what they can talk about. It doesn't make much sense.\n\nCORNISH: Right. This is an extension of the ceasefire. We should be clear, full text is not released, but the claim is that they would be lifting the naval blockade, reopening the Strait of Hormuz, and ensure that the Strait remains toll free. And then, as you said, nuclear talks would begin after any kind of formal signing.\n\nThe thing I notice is, the president was saying something about policing and the U.S.' ability to police this area. When you hear a word like that, do you hear troops on the ground? Do you hear just our ongoing ability to keep Iran in line?\n\nJACKSON: Oh, it's troops on the ground, no doubt about it. And we've also heard conflicting messages of, they've been -- the United States has been taking millions of barrels of oil. People would like to have further clarification of that.\n\nCuriously missing in this negotiation or this discussion is Mr. Jared Kushner, our super volunteer. This is not being led by Secretary Rubio. This is not being led by the secretary of defense, who misled the president on what the Iranians response and capabilities would be. And so, we need to get the diplomatic corps. I'd like to see Secretary Rubio lead this negotiation. He's capable. He's qualified. We don't need a super volunteer, Mr. Jared Kushner. He was going to Islamabad just last month saying he was negotiating this. Let's get our diplomats and get our professionals back to the table so members of Congress can get information.\n\nCORNISH: You had Lindsey Graham calling J.D. Vance the architect of this deal. He's the one name I didn't hear you say just now. Do you think he's the architect of this deal?\n\nJACKSON: I don't know what J.D. Vance really does. He does slap-stick and just is an attack person, but he's not been in a very constructive role. I know Mr. Witkoff and Mr. Jared Kushner had been going to Islamabad. I think Mr. -- the secretary -- the vice president had gone over there. But it should be going through the corresponding channels of the diplomats, which would be in the secretary of defense and the secretary of state. Then the Congress would know who we can talk to.\n\nWe, frankly, don't know who to talk to. I would like to see some of these personnels come before our chairman, Chairman Mast, on the Republican side, our ranking member, Mr. Meeks, on the Democratic side, so we can do this in the normal course of business in the United States Congress.\n\nCORNISH: OK, that's Congressman Jackson. Thank you so much. Appreciate it.\n\nCORNISH: All right, I want to talk now about what's in our group chats, because it's the start of the week and we've got the president on the way to Europe. We've just come off like multiple sporting events. Talk about, Sara, what's in your group chat.\n\nFISCHER: I have been loving watching the World Cup tourists come into the U.S. and post on social media all the things that they think are wondrous about our country.\n\nFISCHER: So, like, watching them experience big gulps for the first time, or a Taco Bell for the first time.\n\nCORNISH: Who among you?\n\nFISCHER: There's a viral --\n\nFISCHER: Who among us has not? There was a viral clip of somebody experiencing a New Jersey deli, which is a Jersey girl I really appreciated. But it also makes you think about how special it is that we are hosting the World Cup here.\n\nOf course, the one thing that's a little sad, there's no World Cup matches, Audie, being held in our nation's capital. The hope is that when the new Commander stadium goes big, then we're going to get to experience something like that.\n\nFISCHER: But it's just been fun to watch the whole world experience parts of American culture that we kind of take for granted here.\n\nCORNISH: You can't build one of those on the lawn? That doesn't -- no, not enough room for the --\n\nFISCHER: You can't -- you can't really replicate a big gulp anywhere else, Audie.\n\nCHAMBERS: Sara, I'm actually with you as someone who's from Kansas City. This has been a very exciting time, you know, for the World Cup to come to Kansas City as well. So, I'm with you on that one.\n\nCORNISH: OK, what's in your group chat? Is it that?\n\nCHAMBERS: OK, what's -- no. But, no, it wasn't -- it wasn't that actually, no, OK.\n\nSo, me and my friends are really loving this ice cream truck that is going around Sarasota in the water in Florida. Yes. OK.\n\nCHAMBERS: So, it's a boat. Yes, it is a boat, but it's an ice cream truck on a boat. I love --\n\nCORNISH: How has someone not thought of this before?\n\nCHAMBERS: I know I -- honestly, who doesn't love an ice cream truck? I wish that we had --\n\nFISCHER: (INAUDIBLE) Potomac.\n\nCHAMBERS: You know what -- that's true. And we could get it down the Potomac.\n\nCORNISH: All right, now I know why people haven't done this before. How do kids get to it? The whole thing, kids --\n\nCHAMBERS: Well, on the boats.\n\nCHAMBERS: They come to boats that are already in the water. So, you're right, we don't (INAUDIBLE) for jumping.\n\nFISCHER: We've got to have a boat though. Where am I going to get a boat. That's the most expensive ice cream I've ever had.\n\nCORNISH: I know. I like the idea --\n\nCHAMBERS: Sara and I are like concocting a business plan now.\n\nCORNISH: I know. I like maybe my kid being like, ice cream, and the boat just like going past and me being like, I don't know, sorry.\n\nSCHNEIDER: I know, that's my reaction. It's like, I used to love ice cream trucks as a child, but now as a parent you're like, oh, no, cover their ears. Don't let them listen to it. CORNISH: Yes, cover their ears. OK, do you have a sports one or not\n\nSCHNEIDER: I have a sports one.\n\nSCHNEIDER: I'm joining you in the World Cup joy. I mean like as somebody who is not a huge soccer fan, but who really commits every two years when the World Cup comes around, it's so much fun. And watching the American men win four to one a couple days ago over Paraguay, that was just really exciting. And it took me back because I really remember watching the 1999 women --\n\nSCHNEIDER: Mia Hamm, Brandi Chastain. Like those are the -- those were my heroes at the time. I stayed playing soccer long after I never should have been playing soccer because I was so --\n\nCORNISH: I'm sure you had some skills.\n\nSCHNEIDER: No, it was terrible. But it was fun because you could imagine yourself in those places and spaces and dream about being on those big stages. So, it's really fun to get to watch a new generation of young people, my boys included, getting to get into these games, learn about a sport in a way that they aren't necessarily always exposed to, at least not to me.\n\nCORNISH: I forget it can have that sort of generational impact. Any kind of big sports moment.\n\nCORNISH: Whether it's the Olympics or something like this. Because I remember that.\n\nCORNISH: It was 1999, right?\n\nSCHNEIDER: 1999. Yes, exactly.\n\nFISCHER: And also you're a Carolinian, so talking about sports. You guys just won the Stanley Cup. Congratulations.\n\nSCHNEIDER: It's true. As a North Carolinian, this is very exciting.\n\nCORNISH: You know about hockey? Are you going to call this like stick sport or something?\n\nSCHNEIDER: I'm going -- I'm going to admit that I knew that they won last in 2006, which is a, you know, it's a notable thing that they've done. [07:00:05]\n\nBut, no, I can't say I know much about it.\n\nCORNISH: Oh, that's OK. I mean start with heated rivalry. I did.\n\nOK, you guys, thank you for being with us today. We've got a lot of news kicking off the week, especially with this memorandum between the U.S. and Iran. What are the details? We've got the headlines for you next. I'm Audie Cornish."
+    }
+  ]
+}
