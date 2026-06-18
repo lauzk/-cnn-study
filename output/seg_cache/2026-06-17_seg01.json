@@ -1,0 +1,956 @@
+{
+  "date": "2026-06-17",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-17/segment/01",
+  "vocabulary": [
+    {
+      "word": "reign",
+      "phonetic": "/reɪn/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "盛行；支配",
+      "en": "to be the most noticeable or important feature of a situation",
+      "excerpt": "Confusion Reigns Over U.S.-Iran Proposed Agreement",
+      "example_cn": "混乱笼罩着美伊拟议协议。"
+    },
+    {
+      "word": "proposed",
+      "phonetic": "/prəˈpoʊzd/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "提议的；拟议的",
+      "en": "suggested or put forward for consideration",
+      "excerpt": "Confusion Reigns Over U.S.-Iran Proposed Agreement",
+      "example_cn": "拟议的协议引发了困惑。"
+    },
+    {
+      "word": "memorandum of understanding",
+      "phonetic": "/ˌmeməˈrændəm əv ˌʌndərˈstændɪŋ/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "谅解备忘录",
+      "en": "a type of agreement between two or more parties",
+      "excerpt": "This memorandum of understanding, it smacks of appeasement.",
+      "example_cn": "这份谅解备忘录有绥靖的味道。"
+    },
+    {
+      "word": "smack of",
+      "phonetic": "/smæk ʌv/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "带有…意味",
+      "en": "to seem to have a particular unpleasant quality",
+      "excerpt": "This memorandum of understanding, it smacks of appeasement.",
+      "example_cn": "这份谅解备忘录有绥靖的味道。"
+    },
+    {
+      "word": "appeasement",
+      "phonetic": "/əˈpiːzmənt/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "绥靖；姑息",
+      "en": "the act of giving a hostile country what it wants to avoid war",
+      "excerpt": "This memorandum of understanding, it smacks of appeasement.",
+      "example_cn": "这份谅解备忘录有绥靖的味道。"
+    },
+    {
+      "word": "bystander",
+      "phonetic": "/ˈbaɪstændər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "旁观者",
+      "en": "a person who is present at an event but does not take part",
+      "excerpt": "Bystanders race to save passengers after a fiery plane crash.",
+      "example_cn": "旁观者争相救援飞机失事乘客。"
+    },
+    {
+      "word": "fiery",
+      "phonetic": "/ˈfaɪəri/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "燃烧的；激烈的",
+      "en": "burning or containing fire",
+      "excerpt": "Bystanders race to save passengers after a fiery plane crash.",
+      "example_cn": "旁观者争相救援飞机失事乘客。"
+    },
+    {
+      "word": "chilling",
+      "phonetic": "/ˈtʃɪlɪŋ/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "令人不寒而栗的",
+      "en": "frightening, especially because it involves the possibility of death or injury",
+      "excerpt": "Five people accused in a chilling plot to attack fight night on the White House lawn.",
+      "example_cn": "五人被指控策划袭击白宫草坪上的格斗之夜。"
+    },
+    {
+      "word": "plot",
+      "phonetic": "/plɑːt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "阴谋",
+      "en": "a secret plan to do something illegal or harmful",
+      "excerpt": "Five people accused in a chilling plot to attack fight night on the White House lawn.",
+      "example_cn": "五人被指控策划袭击白宫草坪上的格斗之夜。"
+    },
+    {
+      "word": "pull off",
+      "phonetic": "/pʊl ɒf/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "成功完成",
+      "en": "to succeed in doing something difficult",
+      "excerpt": "How close were the suspects to actually pulling it off?",
+      "example_cn": "嫌疑人离成功实施有多近？"
+    },
+    {
+      "word": "midterms",
+      "phonetic": "/ˈmɪdtɜːrmz/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "中期选举",
+      "en": "elections held in the middle of a president's term",
+      "excerpt": "Democrats have high hopes for the midterms.",
+      "example_cn": "民主党对中期选举寄予厚望。"
+    },
+    {
+      "word": "culture wars",
+      "phonetic": "/ˈkʌltʃər wɔːrz/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "文化战争",
+      "en": "conflicts between groups with different cultural values",
+      "excerpt": "a new CNN poll suggests culture wars could play an even bigger role this time around.",
+      "example_cn": "新的CNN民调显示文化战争这次可能发挥更大作用。"
+    },
+    {
+      "word": "algae bloom",
+      "phonetic": "/ˈældʒiː bluːm/",
+      "pos": "n.",
+      "level": "专四",
+      "cn": "藻华",
+      "en": "a rapid increase in the population of algae in water",
+      "excerpt": "Was a blue paint job no match for an algae bloom?",
+      "example_cn": "蓝色油漆是否敌不过藻华？"
+    },
+    {
+      "word": "shape the narrative",
+      "phonetic": "/ʃeɪp ðə ˈnærətɪv/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "塑造叙事",
+      "en": "to influence how a story is told or perceived",
+      "excerpt": "President Trump and his administration are attempting to shape the narrative around their proposal with Iran.",
+      "example_cn": "特朗普总统及其政府正试图塑造关于伊朗提案的叙事。"
+    },
+    {
+      "word": "blame game",
+      "phonetic": "/bleɪm ɡeɪm/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "互相指责",
+      "en": "a situation in which people blame each other for something",
+      "excerpt": "We're going to start with the blame game this morning.",
+      "example_cn": "今天早上我们从互相指责开始。"
+    },
+    {
+      "word": "delicate",
+      "phonetic": "/ˈdelɪkət/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "微妙的；棘手的",
+      "en": "needing careful treatment, especially because it is easily damaged or upset",
+      "excerpt": "There are some delicate diplomatic things going on.",
+      "example_cn": "有一些微妙的外交事务正在进行。"
+    },
+    {
+      "word": "sequence",
+      "phonetic": "/ˈsiːkwəns/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "按顺序安排",
+      "en": "to arrange something in a particular order",
+      "excerpt": "have asked us to sequence this in the right way.",
+      "example_cn": "要求我们以正确的方式安排顺序。"
+    },
+    {
+      "word": "mediator",
+      "phonetic": "/ˈmiːdieɪtər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "调解人",
+      "en": "a person who tries to bring about an agreement between people or groups",
+      "excerpt": "some of our mediators, the Pakistanis and the Qataris",
+      "example_cn": "我们的一些调解人，巴基斯坦人和卡塔尔人。"
+    },
+    {
+      "word": "exceed expectations",
+      "phonetic": "/ɪkˈsiːd ˌekspekˈteɪʃənz/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "超出预期",
+      "en": "to be better than expected",
+      "excerpt": "it's exceeded my expectations.",
+      "example_cn": "它超出了我的预期。"
+    },
+    {
+      "word": "groundwork",
+      "phonetic": "/ˈɡraʊndwɜːrk/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "基础工作",
+      "en": "work that is done as a preparation for other work that will be done later",
+      "excerpt": "It sets the groundwork for to ensure Iran doesn't have a nuclear weapon.",
+      "example_cn": "它为确保伊朗没有核武器奠定了基础。"
+    },
+    {
+      "word": "reintegration",
+      "phonetic": "/ˌriːɪntɪˈɡreɪʃən/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "重新融入",
+      "en": "the act of bringing someone or something back into a group or system",
+      "excerpt": "It sets the groundwork for a reintegration over time of the economies in the region.",
+      "example_cn": "它为地区经济逐步重新融入奠定了基础。"
+    },
+    {
+      "word": "game changer",
+      "phonetic": "/ɡeɪm ˈtʃeɪndʒər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "改变游戏规则的事物",
+      "en": "something that significantly alters the current situation",
+      "excerpt": "I think it's a game changer.",
+      "example_cn": "我认为这是一个改变游戏规则的事物。"
+    },
+    {
+      "word": "relieve",
+      "phonetic": "/rɪˈliːv/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "缓解",
+      "en": "to make a problem less serious",
+      "excerpt": "something that has relieved the immediate crisis",
+      "example_cn": "缓解了眼前的危机。"
+    },
+    {
+      "word": "Strait of Hormuz",
+      "phonetic": "/streɪt əv hɔːrˈmuːz/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "霍尔木兹海峡",
+      "en": "a strait between the Persian Gulf and the Gulf of Oman",
+      "excerpt": "getting the oil flowing again across the Strait of Hormuz.",
+      "example_cn": "让石油再次通过霍尔木兹海峡流动。"
+    },
+    {
+      "word": "resolution",
+      "phonetic": "/ˌrezəˈluːʃən/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "解决",
+      "en": "the act of solving a problem",
+      "excerpt": "any actual resolution of the nuclear issues",
+      "example_cn": "核问题的任何实际解决。"
+    },
+    {
+      "word": "long slog",
+      "phonetic": "/lɒŋ slɒɡ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "漫长而艰难的过程",
+      "en": "a long, difficult effort",
+      "excerpt": "a long slog you saw the Obama administration go through in 2015.",
+      "example_cn": "你在2015年看到的奥巴马政府经历的漫长而艰难的过程。"
+    },
+    {
+      "word": "accord",
+      "phonetic": "/əˈkɔːrd/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "协议",
+      "en": "a formal agreement",
+      "excerpt": "they ultimately got an accord",
+      "example_cn": "他们最终达成了一项协议。"
+    },
+    {
+      "word": "rent-free",
+      "phonetic": "/rent friː/",
+      "pos": "adv.",
+      "level": "六级",
+      "cn": "免费地",
+      "en": "without paying rent",
+      "excerpt": "why does he, Obama, live like rent-free in the heads of those working at the White House?",
+      "example_cn": "为什么奥巴马像免费租客一样住在白宫工作人员的脑海里？"
+    },
+    {
+      "word": "shortfall",
+      "phonetic": "/ˈʃɔːrtfɔːl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "不足；缺陷",
+      "en": "a deficiency or lack",
+      "excerpt": "specifically spoke to shortfalls that it had",
+      "example_cn": "特别指出了它的缺陷。"
+    },
+    {
+      "word": "precooked",
+      "phonetic": "/priːˈkʊkt/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "预先准备好的",
+      "en": "prepared in advance",
+      "excerpt": "that was sort of precooked",
+      "example_cn": "那是预先准备好的。"
+    },
+    {
+      "word": "warhawk",
+      "phonetic": "/ˈwɔːrhɔːk/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "鹰派人物",
+      "en": "a person who advocates war or a warlike policy",
+      "excerpt": "You have so many warhawks.",
+      "example_cn": "你有这么多鹰派人物。"
+    },
+    {
+      "word": "ceremonial signing",
+      "phonetic": "/ˌserɪˈmoʊniəl ˈsaɪnɪŋ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "签字仪式",
+      "en": "a formal signing ceremony",
+      "excerpt": "Vice President Vance is supposed to go and actually do a ceremonial signing",
+      "example_cn": "万斯副总统将去举行签字仪式。"
+    },
+    {
+      "word": "proxy",
+      "phonetic": "/ˈprɑːksi/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "代理人；代理",
+      "en": "a person authorized to act for another",
+      "excerpt": "Iran's support for proxies: Hezbollah and Hamas.",
+      "example_cn": "伊朗对代理人真主党和哈马斯的支持。"
+    },
+    {
+      "word": "highly enriched uranium",
+      "phonetic": "/ˈhaɪli ɪnˈrɪtʃt jʊˈreɪniəm/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "高浓缩铀",
+      "en": "uranium with a high concentration of the isotope U-235",
+      "excerpt": "giving up their most highly enriched uranium",
+      "example_cn": "放弃他们最高浓缩铀。"
+    },
+    {
+      "word": "unfreeze",
+      "phonetic": "/ʌnˈfriːz/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "解冻（资产）",
+      "en": "to release from a frozen state",
+      "excerpt": "unfreezing their money",
+      "example_cn": "解冻他们的资金。"
+    },
+    {
+      "word": "endorsement",
+      "phonetic": "/ɪnˈdɔːrsmənt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "支持；背书",
+      "en": "public support or approval",
+      "excerpt": "Is his endorsement still the gold standard?",
+      "example_cn": "他的支持仍然是黄金标准吗？"
+    },
+    {
+      "word": "gold standard",
+      "phonetic": "/ɡoʊld ˈstændərd/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "黄金标准",
+      "en": "the best or most reliable example of something",
+      "excerpt": "Is his endorsement still the gold standard?",
+      "example_cn": "他的支持仍然是黄金标准吗？"
+    },
+    {
+      "word": "runoff",
+      "phonetic": "/ˈrʌnɔːf/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "决选",
+      "en": "a second election held to decide a winner when no candidate has a majority",
+      "excerpt": "in the Republican runoff for governor",
+      "example_cn": "在共和党州长决选中。"
+    },
+    {
+      "word": "gubernatorial",
+      "phonetic": "/ˌɡuːbərnəˈtɔːriəl/",
+      "pos": "adj.",
+      "level": "专八",
+      "cn": "州长的",
+      "en": "relating to a governor",
+      "excerpt": "Georgia gubernatorial candidate",
+      "example_cn": "佐治亚州州长候选人。"
+    },
+    {
+      "word": "special interests",
+      "phonetic": "/ˈspeʃl ˈɪntrəsts/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "特殊利益集团",
+      "en": "groups that try to influence political decisions to their own advantage",
+      "excerpt": "I don't care what special interests want.",
+      "example_cn": "我不在乎特殊利益集团想要什么。"
+    },
+    {
+      "word": "invigorate",
+      "phonetic": "/ɪnˈvɪɡəreɪt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "激励；使活跃",
+      "en": "to give strength or energy to",
+      "excerpt": "a candidate that can invigorate the Republican base",
+      "example_cn": "一个能够激励共和党基本盘的候选人。"
+    },
+    {
+      "word": "appeal to",
+      "phonetic": "/əˈpiːl tuː/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "吸引",
+      "en": "to be attractive or interesting to",
+      "excerpt": "a candidate that can appeal to independents",
+      "example_cn": "一个能够吸引独立选民的候选人。"
+    },
+    {
+      "word": "scrambled",
+      "phonetic": "/ˈskræmbld/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "混乱的",
+      "en": "confused or disordered",
+      "excerpt": "Republican politics there are a little more scrambled.",
+      "example_cn": "那里的共和党政治更加混乱。"
+    },
+    {
+      "word": "MAGA",
+      "phonetic": "/ˈmæɡə/",
+      "pos": "abbr.",
+      "level": "六级",
+      "cn": "让美国再次伟大",
+      "en": "Make America Great Again",
+      "excerpt": "Mike Collins is a solid MAGA candidate.",
+      "example_cn": "迈克·柯林斯是一个坚定的MAGA候选人。"
+    },
+    {
+      "word": "pro-family",
+      "phonetic": "/proʊ ˈfæməli/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "支持家庭的",
+      "en": "supportive of traditional family values",
+      "excerpt": "the guy running on pro-family, family-centered economics",
+      "example_cn": "那个以支持家庭、以家庭为中心的经济纲领参选的人。"
+    },
+    {
+      "word": "culture war",
+      "phonetic": "/ˈkʌltʃər wɔːr/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "文化战争",
+      "en": "conflict between groups with different cultural values",
+      "excerpt": "what I hear is culture war, culture war.",
+      "example_cn": "我听到的是文化战争，文化战争。"
+    },
+    {
+      "word": "affordability",
+      "phonetic": "/əˌfɔːrdəˈbɪləti/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "可负担性",
+      "en": "the quality of being cheap enough for people to buy",
+      "excerpt": "It was not gas prices. It was not affordability.",
+      "example_cn": "不是油价，不是可负担性。"
+    },
+    {
+      "word": "generational divide",
+      "phonetic": "/ˌdʒenəˈreɪʃənl dɪˈvaɪd/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "代沟",
+      "en": "differences between generations",
+      "excerpt": "the generational divide and the ideological conversation",
+      "example_cn": "代沟和意识形态对话。"
+    },
+    {
+      "word": "chilling effect",
+      "phonetic": "/ˈtʃɪlɪŋ ɪˈfekt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "寒蝉效应",
+      "en": "a discouraging or deterring effect",
+      "excerpt": "I think he's had a chilling effect on the Republican primaries.",
+      "example_cn": "我认为他对共和党初选产生了寒蝉效应。"
+    },
+    {
+      "word": "referendum",
+      "phonetic": "/ˌrefəˈrendəm/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "公投",
+      "en": "a general vote by the electorate on a single political question",
+      "excerpt": "Let's have a fight about the Iran War.",
+      "example_cn": "让我们就伊朗战争进行一场斗争。"
+    },
+    {
+      "word": "taxpayer-funded",
+      "phonetic": "/ˈtækspeɪər ˈfʌndɪd/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "纳税人资助的",
+      "en": "paid for by taxpayers",
+      "excerpt": "taxpayer-funded sex-change procedures",
+      "example_cn": "纳税人资助的变性手术。"
+    },
+    {
+      "word": "distraction",
+      "phonetic": "/dɪˈstrækʃən/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "分心；干扰",
+      "en": "something that prevents someone from concentrating",
+      "excerpt": "It's just a distraction.",
+      "example_cn": "这只是个干扰。"
+    },
+    {
+      "word": "ballot box",
+      "phonetic": "/ˈbælət bɒks/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "投票箱",
+      "en": "a box in which votes are placed",
+      "excerpt": "at the ballot box since Donald Trump has taken off.",
+      "example_cn": "自唐纳德·特朗普上任以来在投票箱。"
+    },
+    {
+      "word": "administrative leave",
+      "phonetic": "/ədˈmɪnɪstrətɪv liːv/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "行政休假",
+      "en": "a paid leave from work pending an investigation",
+      "excerpt": "The officer involved in the fatal shooting... is now on administrative leave.",
+      "example_cn": "涉及致命枪击的警官正在行政休假。"
+    },
+    {
+      "word": "tear gas",
+      "phonetic": "/tɪr ɡæs/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "催泪瓦斯",
+      "en": "a gas that causes tears and pain, used to control crowds",
+      "excerpt": "Protesters gathering outside the store were hit with tear gas last night.",
+      "example_cn": "昨晚聚集在商店外的抗议者遭到催泪瓦斯袭击。"
+    },
+    {
+      "word": "shoplifting",
+      "phonetic": "/ˈʃɒplɪftɪŋ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "入店行窃",
+      "en": "the act of stealing goods from a shop",
+      "excerpt": "responding to a shoplifting call",
+      "example_cn": "回应一起入店行窃报警。"
+    },
+    {
+      "word": "pronounced dead",
+      "phonetic": "/prəˈnaʊnst ded/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "被宣布死亡",
+      "en": "declared dead by a medical professional",
+      "excerpt": "the baby, Kohen Wiley, was pronounced dead.",
+      "example_cn": "婴儿科恩·威利被宣布死亡。"
+    },
+    {
+      "word": "special general election",
+      "phonetic": "/ˈspeʃl ˈdʒenərəl ɪˈlekʃən/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "特别大选",
+      "en": "a special election to fill a vacant seat",
+      "excerpt": "advance to a special general election in August",
+      "example_cn": "进入八月的特别大选。"
+    },
+    {
+      "word": "hat trick",
+      "phonetic": "/hæt trɪk/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "帽子戏法",
+      "en": "three goals scored by one player in a game",
+      "excerpt": "Messi scoring his first World Cup hat trick",
+      "example_cn": "梅西打入他的第一个世界杯帽子戏法。"
+    },
+    {
+      "word": "defending champion",
+      "phonetic": "/dɪˈfendɪŋ ˈtʃæmpiən/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "卫冕冠军",
+      "en": "the current champion who is trying to retain the title",
+      "excerpt": "He led the defending World Cup champs to a three-zero victory.",
+      "example_cn": "他带领卫冕世界杯冠军以3-0获胜。"
+    },
+    {
+      "word": "licensing agreement",
+      "phonetic": "/ˈlaɪsənsɪŋ əˈɡriːmənt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "许可协议",
+      "en": "a legal contract granting permission to use something",
+      "excerpt": "CBS, now reaching a licensing agreement with the production company",
+      "example_cn": "CBS现在与制作公司达成许可协议。"
+    },
+    {
+      "word": "undisclosed",
+      "phonetic": "/ˌʌndɪsˈkloʊzd/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "未披露的",
+      "en": "not revealed or made known",
+      "excerpt": "for an undisclosed amount",
+      "example_cn": "金额未披露。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "This memorandum of understanding, it smacks of appeasement.",
+      "cn": "这份谅解备忘录带有绥靖的味道。",
+      "structure": "主系表结构，主语为This memorandum of understanding，系动词smacks of，表语appeasement。",
+      "analysis": "smack of是固定短语，意为‘带有…意味’，常用于贬义。"
+    },
+    {
+      "en": "Right now, President Trump and his administration are attempting to shape the narrative around their proposal with Iran, as the world eagerly awaits the text of this memorandum of understanding.",
+      "cn": "目前，特朗普总统及其政府正试图塑造关于他们与伊朗提案的叙事，而全世界都在急切等待这份谅解备忘录的文本。",
+      "structure": "主句为President Trump and his administration are attempting to shape the narrative，as引导时间状语从句。",
+      "analysis": "shape the narrative是固定表达，意为‘塑造叙事’，常用于政治语境。"
+    },
+    {
+      "en": "There are some delicate diplomatic things going on where the Iranians -- and not just the Iranians, but some of our mediators, the Pakistanis and the Qataris -- have asked us to sequence this in the right way.",
+      "cn": "有一些微妙的外交事务正在进行，伊朗人——不仅仅是伊朗人，还有我们的一些调解人，巴基斯坦人和卡塔尔人——要求我们以正确的方式安排顺序。",
+      "structure": "There be句型，where引导定语从句修饰things，从句中主语为the Iranians...have asked us to sequence this。",
+      "analysis": "delicate意为‘微妙的’，sequence作动词意为‘按顺序安排’。"
+    },
+    {
+      "en": "It sets the groundwork for to ensure Iran doesn't have a nuclear weapon. It sets the groundwork for a reintegration over time of the economies in the region. It sets the groundwork for a solution in Lebanon.",
+      "cn": "它为确保伊朗没有核武器奠定了基础。它为地区经济逐步重新融入奠定了基础。它为黎巴嫩问题的解决奠定了基础。",
+      "structure": "三个并列句，主语均为It，谓语sets the groundwork for，宾语分别为不定式短语和名词短语。",
+      "analysis": "set the groundwork for是固定短语，意为‘为…奠定基础’。"
+    },
+    {
+      "en": "I was surprised to see Carney, who has not been the most sort of positive relationship with Trump, speak highly of it.",
+      "cn": "我很惊讶看到卡尼——他与特朗普的关系并非最积极——高度赞扬它。",
+      "structure": "主句为I was surprised to see Carney speak highly of it，who引导非限制性定语从句修饰Carney。",
+      "analysis": "speak highly of意为‘高度赞扬’。"
+    },
+    {
+      "en": "Well, I think the European leaders are just delighted at this point that there is something that has relieved the immediate crisis, which is getting the oil flowing again across the Strait of Hormuz.",
+      "cn": "嗯，我认为欧洲领导人此刻很高兴有东西缓解了眼前的危机，即让石油再次通过霍尔木兹海峡流动。",
+      "structure": "主句为I think...，宾语从句中that引导同位语从句修饰something，which引导非限制性定语从句修饰crisis。",
+      "analysis": "relieve意为‘缓解’，Strait of Hormuz是专有名词‘霍尔木兹海峡’。"
+    },
+    {
+      "en": "What wouldn't happen immediately, though, is any actual resolution of the nuclear issues.",
+      "cn": "然而，不会立即发生的是核问题的任何实际解决。",
+      "structure": "主语从句What wouldn't happen immediately，系动词is，表语any actual resolution。",
+      "analysis": "resolution意为‘解决’。"
+    },
+    {
+      "en": "And that's going to look a lot more like the kind of long slog you saw the Obama administration go through in 2015.",
+      "cn": "那将更像你在2015年看到的奥巴马政府经历的那种漫长而艰难的过程。",
+      "structure": "主句为that's going to look like the kind of long slog，定语从句you saw the Obama administration go through修饰slog。",
+      "analysis": "long slog意为‘漫长而艰难的过程’。"
+    },
+    {
+      "en": "I've noticed even in the president's Truth Social accounts, he's posting cartoons, sort of comparing Obama-era policy on Iran with his Arab policy on Iran.",
+      "cn": "我注意到即使在总统的Truth Social账户上，他也在发布漫画，有点将奥巴马时代的伊朗政策与他的阿拉伯政策进行比较。",
+      "structure": "主句为I've noticed...，宾语从句中现在分词短语comparing...作伴随状语。",
+      "analysis": "compare...with...意为‘将…与…比较’。"
+    },
+    {
+      "en": "The problem he's got now is he has to go strike an agreement in this second negotiation that exceeds the Obama agreement in all of its elements.",
+      "cn": "他现在面临的问题是他必须在第二轮谈判中达成一项在各个方面都超过奥巴马协议的协议。",
+      "structure": "主句为The problem is...，表语从句中that引导定语从句修饰agreement。",
+      "analysis": "exceed意为‘超过’。"
+    },
+    {
+      "en": "He called me on -- on Sunday evening to argue that, in fact, that was sort of precooked, and it was on the way.",
+      "cn": "他在周日晚上打电话给我，争辩说事实上那是预先准备好的，而且正在进行中。",
+      "structure": "主句为He called me to argue that...，宾语从句中两个并列句。",
+      "analysis": "precooked意为‘预先准备好的’，on the way意为‘在进行中’。"
+    },
+    {
+      "en": "But we won't know until we've seen that next -- that next agreement.",
+      "cn": "但直到我们看到下一个协议，我们才会知道。",
+      "structure": "主句为we won't know，until引导时间状语从句。",
+      "analysis": "not...until...意为‘直到…才…’。"
+    },
+    {
+      "en": "Already, there are various versions of this agreement, some of which look pretty close to right to me, based on my own reporting, that are floating around on the Internet.",
+      "cn": "已经有这个协议的各种版本，其中一些根据我自己的报道看起来非常接近正确，正在互联网上流传。",
+      "structure": "There be句型，some of which引导非限制性定语从句，that引导定语从句修饰versions。",
+      "analysis": "float around意为‘流传’。"
+    },
+    {
+      "en": "But there's something in here for everybody to dislike.",
+      "cn": "但这里有一些让每个人都不喜欢的东西。",
+      "structure": "There be句型，不定式短语for everybody to dislike作定语修饰something。",
+      "analysis": "不定式短语作后置定语。"
+    },
+    {
+      "en": "The Israelis are not going to like the fact that it does not -- this agreement does not speak to Iran's support for proxies: Hezbollah and Hamas.",
+      "cn": "以色列人不会喜欢这个事实，即该协议没有涉及伊朗对代理人真主党和哈马斯的支持。",
+      "structure": "主句为The Israelis are not going to like the fact，that引导同位语从句。",
+      "analysis": "speak to意为‘涉及，谈到’。"
+    },
+    {
+      "en": "And many in the U.S. are going to say, well, what? Why are we rewarding the Iranians by lifting sanctions and giving them -- unfreezing their money, which is essentially the critique President Trump was making in 2016 when he ran for president.",
+      "cn": "许多美国人会说，嗯，什么？我们为什么要通过解除制裁和给他们——解冻他们的资金来奖励伊朗人？这基本上是特朗普总统在2016年竞选总统时提出的批评。",
+      "structure": "主句为many are going to say，直接引语中包含疑问句，which引导非限制性定语从句修饰前面的行为。",
+      "analysis": "unfreeze意为‘解冻’，critique意为‘批评’。"
+    },
+    {
+      "en": "For instance, in Georgia, his pick for the Senate, Congressman Mike Collins, will win the GOP primary.",
+      "cn": "例如，在佐治亚州，他挑选的参议院候选人、众议员迈克·柯林斯将赢得共和党初选。",
+      "structure": "主句为his pick will win the GOP primary，Congressman Mike Collins是同位语。",
+      "analysis": "pick作名词意为‘挑选的人’。"
+    },
+    {
+      "en": "That sets the stage for a high-stakes race in November against rising Democratic Party star Senator Jon Ossoff.",
+      "cn": "这为11月与崛起的民主党明星参议员乔恩·奥索夫的高风险竞争奠定了基础。",
+      "structure": "主句为That sets the stage for a race，介词短语against...作定语。",
+      "analysis": "set the stage for意为‘为…创造条件’，high-stakes意为‘高风险的’。"
+    },
+    {
+      "en": "But the people of Georgia also rejected Trump's -- Trump-backed Lieutenant Governor Burt Jones, in the Republican runoff for governor, favoring billionaire Rick Jackson.",
+      "cn": "但佐治亚州人民也在共和党州长决选中拒绝了特朗普支持的副州长伯特·琼斯，转而支持亿万富翁里克·杰克逊。",
+      "structure": "主句为the people rejected Burt Jones，现在分词短语favoring...作伴随状语。",
+      "analysis": "runoff意为‘决选’，favor意为‘支持’。"
+    },
+    {
+      "en": "I think in Georgia, you know, the results showed us that if there's one thing that can beat Trump in a Republican primary, it is money, right?",
+      "cn": "我认为在佐治亚州，结果告诉我们，如果有一件事能在共和党初选中击败特朗普，那就是金钱，对吧？",
+      "structure": "主句为I think...，宾语从句中that引导定语从句修饰thing。",
+      "analysis": "beat意为‘击败’。"
+    },
+    {
+      "en": "But I think it also echoes a dynamic we're seeing in places like the Texas Senate race, where, you know, the Trump-backed candidate may not be the most competitive against the Democratic candidate.",
+      "cn": "但我认为这也呼应了我们在德克萨斯州参议院竞选等地看到的一种动态，即特朗普支持的候选人可能不是对抗民主党候选人最具竞争力的。",
+      "structure": "主句为I think it echoes a dynamic，定语从句we're seeing修饰dynamic，where引导非限制性定语从句。",
+      "analysis": "echo意为‘呼应’，competitive意为‘有竞争力的’。"
+    },
+    {
+      "en": "And so, we will see, come November, whether or not a candidate that can invigorate the Republican base with the Trump endorsement is better than a candidate that can appeal to independents and a more traditional type of conservative.",
+      "cn": "因此，到11月，我们将看到，一个能够通过特朗普支持激励共和党基本盘的候选人是否比一个能够吸引独立选民和更传统保守派的候选人更好。",
+      "structure": "主句为we will see，whether引导宾语从句，从句中两个that引导定语从句分别修饰candidate。",
+      "analysis": "invigorate意为‘激励’，appeal to意为‘吸引’。"
+    },
+    {
+      "en": "Georgia to me is a special case because of its role in the 2020 election and the role Republicans there faced in rejecting the Trump administration at a time in its attempts to overturn the election.",
+      "cn": "佐治亚州对我来说是一个特例，因为它在2020年选举中的作用，以及那里的共和党人在特朗普政府试图推翻选举时拒绝其所扮演的角色。",
+      "structure": "主句为Georgia is a special case，because of介词短语作原因状语，其中and连接两个role。",
+      "analysis": "overturn意为‘推翻’。"
+    },
+    {
+      "en": "And between that and the Marjorie Taylor Greene of it all, it feels like the Republican politics there are a little more scrambled.",
+      "cn": "介于那一点和玛乔丽·泰勒·格林的一切之间，感觉那里的共和党政治更加混乱。",
+      "structure": "主句为it feels like...，介词短语between...作状语。",
+      "analysis": "scrambled意为‘混乱的’。"
+    },
+    {
+      "en": "But one thing I will point out is that Mike Collins is a solid MAGA candidate.",
+      "cn": "但我要指出的一点是，迈克·柯林斯是一个坚定的MAGA候选人。",
+      "structure": "主句为one thing is that...，定语从句I will point out修饰thing。",
+      "analysis": "MAGA是Make America Great Again的缩写。"
+    },
+    {
+      "en": "And you could actually make the argument that, while in the gubernatorial race, the Trump-endorsed candidate didn't win, the Trump candidate won.",
+      "cn": "你实际上可以论证，虽然在州长竞选中，特朗普支持的候选人没有赢，但特朗普的候选人赢了。",
+      "structure": "主句为you could make the argument，that引导同位语从句，从句中包含while引导的让步状语从句。",
+      "analysis": "make the argument意为‘提出论点’。"
+    },
+    {
+      "en": "Set aside the death threat at the end of that? I don't know if there's a Mongolian human trafficking ring going on, but what I hear is culture war, culture war.",
+      "cn": "撇开结尾的死亡威胁不谈？我不知道是否有蒙古人口贩卖团伙在活动，但我听到的是文化战争，文化战争。",
+      "structure": "第一句为祈使句，第二句为并列句，but连接两个分句。",
+      "analysis": "set aside意为‘撇开’，human trafficking意为‘人口贩卖’。"
+    },
+    {
+      "en": "I think the Republican primary contests have been about who can be most loyal or who can wrap their arms most around Donald Trump.",
+      "cn": "我认为共和党初选竞争一直是关于谁最忠诚或谁最能拥抱唐纳德·特朗普。",
+      "structure": "主句为I think...，宾语从句中about后接两个who引导的宾语从句。",
+      "analysis": "wrap one's arms around意为‘拥抱’，比喻支持。"
+    },
+    {
+      "en": "I think on the Democratic side, it has been the generational divide and the ideological conversation.",
+      "cn": "我认为在民主党方面，一直是代沟和意识形态对话。",
+      "structure": "主句为I think...，宾语从句为简单句。",
+      "analysis": "generational divide意为‘代沟’。"
+    },
+    {
+      "en": "What I will tell you is I think the ice is melting in the Donald Trump cup.",
+      "cn": "我要告诉你的是，我认为唐纳德·特朗普杯中的冰正在融化。",
+      "structure": "主语从句What I will tell you，系动词is，表语从句I think...。",
+      "analysis": "比喻用法，意为特朗普的影响力正在减弱。"
+    },
+    {
+      "en": "But we saw in Iowa, we saw in Georgia, and we've seen with some --",
+      "cn": "但我们在爱荷华州看到了，在佐治亚州看到了，我们也看到了一些——",
+      "structure": "并列句，三个分句。",
+      "analysis": "省略结构。"
+    },
+    {
+      "en": "But is that, then, why, then, their candidates would turn to those kinds of messages that do resonate instead of focusing on, here's what Trump did.",
+      "cn": "但那么，这是否就是为什么他们的候选人会转向那些确实能引起共鸣的信息，而不是专注于‘这是特朗普做了什么’？",
+      "structure": "主句为is that why...，why引导表语从句，从句中that引导定语从句修饰messages。",
+      "analysis": "resonate意为‘引起共鸣’。"
+    },
+    {
+      "en": "What they're saying is, hey, remember how you hate those people and that people, and these people shouldn't come over the border?",
+      "cn": "他们说的是，嘿，还记得你多么讨厌那些人，那些人，这些人不应该越过边境吗？",
+      "structure": "主语从句What they're saying，系动词is，表语为直接引语。",
+      "analysis": "直接引语中how引导宾语从句。"
+    },
+    {
+      "en": "Well, I think that they cannot run away from the reality that Donald Trump's economy has been a failure for them.",
+      "cn": "嗯，我认为他们无法逃避现实，即唐纳德·特朗普的经济对他们来说是一个失败。",
+      "structure": "主句为I think...，宾语从句中that引导同位语从句修饰reality。",
+      "analysis": "run away from意为‘逃避’。"
+    },
+    {
+      "en": "If you look at Georgia, you look at Oklahoma, you look at what is likely going to happen in South Carolina.",
+      "cn": "如果你看看佐治亚州，看看俄克拉荷马州，看看南卡罗来纳州可能发生的事情。",
+      "structure": "条件状语从句If you look at...，主句为三个并列祈使句。",
+      "analysis": "what引导宾语从句。"
+    },
+    {
+      "en": "The narrative has been the same: farmers, rural voters, those who voted for Trump are feeling the effect of a Donald Trump failing economy.",
+      "cn": "叙事是一样的：农民、农村选民、那些投票给特朗普的人正在感受到唐纳德·特朗普经济失败的影响。",
+      "structure": "主句为The narrative has been the same，冒号后为同位语，其中who引导定语从句修饰those。",
+      "analysis": "failing意为‘失败的’。"
+    },
+    {
+      "en": "And here's where it gets challenging for -- for your party, Antjuan, is you guys are going to have a really hard time arguing about affordability when you can't get a single Democrat in the House or the Senate to vote against taxpayer-funded sex-change procedures, sex-rejection procedures.",
+      "cn": "这就是挑战所在——对于你的政党，Antjuan，当你们无法让众议院或参议院的一个民主党人投票反对纳税人资助的变性手术、性别重置手术时，你们将很难争论可负担性。",
+      "structure": "主句为here's where...，表语从句中when引导时间状语从句。",
+      "analysis": "have a hard time doing意为‘做某事有困难’。"
+    },
+    {
+      "en": "You cannot find one American in this country who's not screaming and yelling about the prices of gas, goods, and services.",
+      "cn": "你在这个国家找不到一个不在尖叫和呼喊关于汽油、商品和服务价格的美国人。",
+      "structure": "主句为You cannot find one American，who引导定语从句修饰American。",
+      "analysis": "scream and yell意为‘尖叫和呼喊’。"
+    },
+    {
+      "en": "The officer involved in the fatal shooting of a 1-year-old boy outside a Mississippi Walmart is now on administrative leave.",
+      "cn": "涉及密西西比州沃尔玛外一名1岁男孩致命枪击案的警官目前正在行政休假。",
+      "structure": "主句为The officer is on administrative leave，过去分词短语involved in...作定语修饰officer。",
+      "analysis": "administrative leave意为‘行政休假’。"
+    },
+    {
+      "en": "Officials say the officer was responding to a shoplifting call when two adults ran off with the child into a vehicle, and police claim they then drove towards officers.",
+      "cn": "官员称，该警官当时正在回应一起入店行窃报警，这时两名成年人带着孩子跑进一辆车，警方声称他们随后驾车冲向警官。",
+      "structure": "主句为Officials say...，宾语从句中when引导时间状语从句，and连接两个并列从句。",
+      "analysis": "run off意为‘跑掉’，drive towards意为‘驶向’。"
+    },
+    {
+      "en": "And Democratic state lawmaker Aisha Wahab will advance to a special general election in August in California to fill the House seat vacated by Eric Swalwell.",
+      "cn": "民主党州议员Aisha Wahab将进入加州8月的特别大选，以填补Eric Swalwell空出的众议院席位。",
+      "structure": "主句为Aisha Wahab will advance to a special general election，不定式短语to fill...作目的状语。",
+      "analysis": "vacate意为‘空出’。"
+    },
+    {
+      "en": "And in Washington, D.C., council member and Democratic socialist Janeese Lewis George leads former council member Kenyan McDuffie by 16 points, with 64 percent of the vote counted.",
+      "cn": "在华盛顿特区，市议员兼民主社会主义者Janeese Lewis George领先前市议员Kenyan McDuffie 16个百分点，已统计64%的选票。",
+      "structure": "主句为Janeese Lewis George leads...，with独立主格结构作伴随状语。",
+      "analysis": "lead by意为‘领先…’。"
+    },
+    {
+      "en": "Witnesses were seen trying to break a window to get passengers out of the burning aircraft, and police say they received an emergency call from a flight tower last night after the small jet reported mechanical issues.",
+      "cn": "目击者被看到试图打破窗户将乘客救出燃烧的飞机，警方称他们昨晚在小型喷气机报告机械问题后接到了飞行塔台的紧急电话。",
+      "structure": "第一句为被动语态，第二句为police say后接宾语从句，从句中after引导时间状语从句。",
+      "analysis": "be seen doing意为‘被看到正在做’。"
+    },
+    {
+      "en": "A flight-tracking website shows the plane's signal cut out about two miles from Laredo Airport.",
+      "cn": "一个航班追踪网站显示，飞机信号在距离拉雷多机场约两英里处中断。",
+      "structure": "主句为A website shows...，宾语从句中cut out为谓语。",
+      "analysis": "cut out意为‘中断’。"
+    },
+    {
+      "en": "He led the defending World Cup champs to a three-zero victory over Algeria.",
+      "cn": "他带领卫冕世界杯冠军以3-0战胜阿尔及利亚。",
+      "structure": "主句为He led...to a victory，介词短语over...作定语。",
+      "analysis": "defending champion意为‘卫冕冠军’。"
+    },
+    {
+      "en": "His final dig to CBS was having his band play that song, and he joked, of course, that he hoped it wouldn't cost the company any money.",
+      "cn": "他对CBS的最后一次挖苦是让他的乐队演奏那首歌，他当然开玩笑说希望这不会让公司花任何钱。",
+      "structure": "主句为His final dig was having his band play that song，and连接第二个分句，that引导宾语从句。",
+      "analysis": "dig作名词意为‘挖苦’，have sb do意为‘让某人做’。"
+    },
+    {
+      "en": "CBS, now reaching a licensing agreement with the production company behind the song for an undisclosed amount.",
+      "cn": "CBS现在与歌曲背后的制作公司达成许可协议，金额未披露。",
+      "structure": "主句为CBS reaching a licensing agreement，现在分词短语作谓语。",
+      "analysis": "licensing agreement意为‘许可协议’。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "美伊核协议",
+      "content": "美国与伊朗之间关于核问题的谅解备忘录（MOU）引发争议。协议内容未公开，但加拿大总理卡尼表示超出预期。协议涉及解除制裁、伊朗放弃高浓缩铀、地区经济整合等。批评者如彭斯称其为绥靖，以色列要求查看被拒。",
+      "keywords": "Iran, nuclear deal, MOU, appeasement, sanctions, uranium enrichment"
+    },
+    {
+      "title": "特朗普背书与中期选举",
+      "content": "特朗普在共和党初选中的背书效果不一。在佐治亚州，其支持的参议员候选人获胜，但州长候选人失利。分析认为金钱和地方因素可击败特朗普背书。民主党则关注经济议题和文化战争。",
+      "keywords": "Trump endorsement, primary, midterms, Georgia, culture war, economy"
+    },
+    {
+      "title": "G7峰会与外交",
+      "content": "G7峰会上，美伊协议成为焦点。加拿大总理卡尼透露已看到协议并给予积极评价。欧洲领导人欢迎缓解霍尔木兹海峡危机的措施，但对核问题的长期解决持谨慎态度。",
+      "keywords": "G7, Canada, Carney, Strait of Hormuz, nuclear negotiation"
+    },
+    {
+      "title": "德州飞机坠毁救援",
+      "content": "一架小型喷气机在德州高速公路上撞上汽车后起火，造成至少一人死亡。旁观者勇敢打破窗户救出乘客。飞机在报告机械问题后信号消失。",
+      "keywords": "plane crash, Texas, rescue, bystander, mechanical failure"
+    },
+    {
+      "title": "白宫袭击阴谋",
+      "content": "五人被指控策划袭击白宫草坪上的‘自由250’格斗之夜。美国特勤局副主管表示他们计划袭击该活动。嫌疑人接近成功实施的程度引发关注。",
+      "keywords": "White House, plot, fight night, Secret Service, arrest"
+    },
+    {
+      "title": "梅西世界杯帽子戏法",
+      "content": "阿根廷球星梅西在世界杯揭幕战中打入帽子戏法，带领卫冕冠军3-0战胜阿尔及利亚。他追平了世界杯历史进球纪录（16球）。比赛在堪萨斯城举行。",
+      "keywords": "Messi, World Cup, hat trick, Argentina, record"
+    },
+    {
+      "title": "科伯特最后玩笑与版权",
+      "content": "斯蒂芬·科伯特在CBS《深夜秀》最后一集中让乐队演奏《花生》主题曲，作为对CBS的挖苦。CBS随后与版权方达成许可协议，金额未披露，所得将捐给世界中央厨房。",
+      "keywords": "Colbert, CBS, licensing, Peanuts, World Central Kitchen"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nConfusion Reigns Over U.S.-Iran Proposed Agreement; Mixed Bag for Trump-Backed Candidates in Primaries. Aired 6-6:30a ET\n\nAired June 17, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nBRAD SMITH, CNN ANCHOR: Her Facebook page has reached nearly 400,000 followers. And fans like to watch the bubbly bovine just hanging out on the front porch of her family's home.\n\nAnd life is about to get even more interesting for Daisy. Guess what? She's expected to deliver her first calf soon. Congratulations to the growing family.\n\nWell, that does it for CNN HEADLINE EXPRESS. I'm Brad Smith. CNN THIS MORNING with Audie Cornish starts right now.\n\nAUDIE CORNISH, CNN ANCHOR: It's the elephant in the room at the G-7 right now. What's in the text of Trump's agreement with Iran, and why hasn't the world seen it yet?\n\nMIKE PENCE, FORMER U.S. VICE PRESIDENT: This memorandum of understanding, it smacks of appeasement.\n\nCORNISH: Dramatic moments on a Texas highway. Bystanders race to save passengers after a fiery plane crash.\n\nMATTHEW QUINN, U.S. SECRET SERVICE DEPUTY DIRECTOR: They were planning to attack the Freedom 250.\n\nCORNISH: Five people accused in a chilling plot to attack fight night on the White House lawn. How close were the suspects to actually pulling it off?\n\nKAMALA HARRIS, FORMER U.S. VICE PRESIDENT: I have no question or doubt that we will win the midterms.\n\n(END VIDEO CLIP) CORNISH: Democrats have high hopes for the midterms, but a new CNN\n\npoll suggests culture wars could play an even bigger role this time around.\n\nAnd workers armed with bleach and tiny bubbles fight nature at the National Mall's reflecting pool. Was a blue paint job no match for an algae bloom?\n\nUNIDENTIFIED MALE: Wait, I need that line from \"Wicked.\" You're green. Oh, it's green.\n\nSEN. CHUCK SCHUMER (D-NY): I'm calling on Trump to immediately tell the American people on whatever is in his so-called deal. He needs to stop keeping America in the dark.\n\nCORNISH: Right now, President Trump and his administration are attempting to shape the narrative around their proposal with Iran, as the world eagerly awaits the text of this memorandum of understanding.\n\nGood morning, everybody. I'm Audie Cornish. We're going to start with the blame game this morning. Vice President J.D. Vance says, we want to tell you what's in the agreement, but we can't, at least not yet, he says.\n\nJ.D. VANCE, U.S. VICE PRESIDENT: There are some delicate diplomatic things going on where the Iranians -- and not just the Iranians, but some of our mediators, the Pakistanis and the Qataris -- have asked us to sequence this in the right way.\n\nCORNISH: But it turns out Israel doesn't even know. A source telling CNN Israel requested to see the agreement, and that request was rejected.\n\nOne person who has seen the MOU, Canadian Prime Minister Mark Carney, and he spoke to CNN while at the G-7 summit.\n\nMARK CARNEY, CANADIAN PRIME MINISTER: I have to say, it's exceeded my expectations. We're very pleased with the deal that's been struck.\n\nIt sets the groundwork for to ensure Iran doesn't have a nuclear weapon. It sets the groundwork for a reintegration over time of the economies in the region. It sets the groundwork for a solution in Lebanon.\n\nKAITLAN COLLINS, CNN ANCHOR/CORRESPONDENT: Did you actually see the agreement itself?\n\nCARNEY: I've seen the agreement, yes.\n\nCOLLINS: Oh, so the president showed it to you?\n\nCARNEY: Well, I've seen the agreement. We have -- we have -- we have our sources. I think it's a game changer.\n\nCORNISH: Joining me now, CNN political and national security analyst David Sanger. Good morning, David. So, we have --\n\nDAVID SANGER, CNN POLITICAL AND NATIONAL SECURITY ANALYST: Good morning, Audie.\n\nCORNISH: So, we have -- good morning. There's no text publicly. But clearly, someone's got it.\n\nI was surprised to see Carney, who has not been the most sort of positive relationship with Trump, speak highly of it. Is that the sort of word out of the G-7 in terms of how European leaders are responding?\n\nSANGER: Well, I think the European leaders are just delighted at this point that there is something that has relieved the immediate crisis, which is getting the oil flowing again across the Strait of Hormuz. And that would happen almost immediately under the text of -- of this agreement.\n\nWhat wouldn't happen immediately, though, is any actual resolution of the nuclear issues. That all goes to a second negotiation, one that I think is going to be a lot more difficult, though the president said yesterday he thought it would be relatively easy.\n\nAnd that's going to look a lot more like the kind of long slog you saw the Obama administration go through in 2015. And they ultimately got an accord, but it took them 18 months.\n\nCORNISH: It's interesting. You were writing about the way that the White House has been thinking about that Obama-era agreement.\n\nAnd I've noticed even in the president's Truth Social accounts, he's posting cartoons, sort of comparing Obama-era policy on Iran with his Arab policy on Iran.\n\nAnd, you know, I -- why does he, Obama, live like rent-free in the heads of those working at the White House? Like, what is the deal with constantly framing it this way?\n\nSANGER: Yes, it's real -- No, it's really fascinating. I mean, obviously, the president is defensive about this, because he ended up killing the Obama-era agreement in 2018 and said it was the worst agreement ever. And specifically spoke to shortfalls that it had: that it didn't deal with missiles; that it expired after 15 years; that it allowed the Iranians to continue to do some low-level nuclear work.\n\nThe problem he's got now is he has to go strike an agreement in this second negotiation that exceeds the Obama agreement in all of its elements. And maybe he'll be able to do that.\n\nHe called me on -- on Sunday evening to argue that, in fact, that was sort of precooked, and it was on the way. And that -- that he would manage to go get a much broader agreement than Obama did.\n\nSANGER: But we won't know until we've seen that next -- that next agreement.\n\nCORNISH: I think the pressure is also coming. You know, the call's from inside the house. You have so many warhawks. You have Israel, a lot of people critiquing this.\n\nAnd in our introduction, we played this clip of Mike Pence calling it a kind of appeasement. I see J.D. Vance on the tour, on the media tour, going on \"Megyn Kelly,\" trying to quiet these voices. Is the White House worried about it?\n\nSANGER: Well, they are worried about it. And look, I think we're going to see a copy of this. Already, there are various versions of this agreement, some of which look pretty close to right to me, based on my own reporting, that are floating around on the Internet.\n\nSo, they're going to have to sort this out, probably by Friday when Vice President Vance is supposed to go and actually do a ceremonial signing and then start up this next round of negotiations.\n\nBut there's something in here for everybody to dislike. The Israelis are not going to like the fact that it does not -- this agreement does not speak to Iran's support for proxies: Hezbollah and Hamas.\n\nThe Iranians aren't going to like the fact that it does have a reference to them giving up their most highly enriched uranium.\n\nAnd many in the U.S. are going to say, well, what? Why are we rewarding the Iranians by lifting sanctions and giving them -- unfreezing their money, which is essentially the critique President Trump was making in 2016 when he ran for president.\n\nCORNISH: OK, that's David Sanger. Thank you so much.\n\nComing up on CNN THIS MORNING, we're report on the small plane crash in Texas. And seconds later, a daring rescue from brave bystanders.\n\nPlus, Messi opens his final World Cup run with a history-making hat trick.\n\nAnd a mixed night for President Trump's candidates. Is his endorsement still the gold standard?\n\nREP. MIKE COLLINS (R-GA), GEORGIA SENATORIAL CANDIDATE: Sometimes, we've got some strong disagreements. But I can tell you one thing: Now we stand united around one mission.\n\nDONALD TRUMP, U.S. PRESIDENT: Every time I endorse, they win. It's been a pretty amazing track record,\n\nCORNISH: Actually, it was a mixed bag last night for the power of President Trump's endorsement.\n\nFor instance, in Georgia, his pick for the Senate, Congressman Mike Collins, will win the GOP primary. That sets the stage for a high- stakes race in November against rising Democratic Party star Senator Jon Ossoff.\n\nCOLLINS: You know, we're Republicans, now. We're going to have some robust primaries out there. Sometimes then, we've got some strong disagreements.\n\nBut I can tell you one thing: now we stand united around one mission. It's to put a Republican in that seat and get rid of that Jon Ossoff in November, return this seat to the people of Georgia.\n\nCORNISH: But the people of Georgia also rejected Trump's -- Trump- backed Lieutenant Governor Burt Jones, in the Republican runoff for governor, favoring billionaire Rick Jackson.\n\nRICK JACKSON (R), GEORGIA GUBERNATORIAL CANDIDATE: I'm the only candidate who doesn't owe a thing to the political establishment. I don't care what special interests want, how much they beg, how much they give me. I can't be bought. And I won't back down.\n\nCORNISH: So, Jackson will face former Atlanta Mayor Keisha Lance Bottoms in the November governor's race. So, joining me now in the group chat, Eleanor Mueller, White House\n\neconomic policy reporter for \"Semafor\"; Terry Schilling, president of the American Principles Project; and Antjuan Seawright, Democratic strategist.\n\nEleanor, can I turn to you to start? Just because there's so many races, frankly. I mean, we mentioned Georgia, but there was also the Alabama Senate.\n\nELEANOR MUELLER, WHITE HOUSE ECONOMIC POLICY REPORTER, \"SEMAFOR\": Yes.\n\nCORNISH: Where you had a GOP Senate runoff. A Trump-backed candidate, Barry Moore, is the winner.\n\nThen in Oklahoma, there was a governor's race. The Trump-endorsed Mike Mazzei finished second, headed for a runoff.\n\nAre voters -- are we looking at just local politics versus Trump, or is there something going on with a Trump-backed endorsement?\n\nMUELLER: It's a great question. I think in Georgia, you know, the results showed us that if there's one thing that can beat Trump in a Republican primary, it is money, right?\n\nThe gubernatorial candidate, who is not Trump-endorsed, who won out, had spent $100 million of his own funds in this race. Clearly, that was effective.\n\nBut I think it also echoes a dynamic we're seeing in places like the Texas Senate race, where, you know, the Trump-backed candidate may not be the most competitive against the Democratic candidate.\n\nAnd so, we will see, come November, whether or not a candidate that can invigorate the Republican base --\n\nMUELLER: -- with the Trump endorsement is better than a candidate that can appeal to independents and a more traditional type of conservative.\n\nCORNISH: When we're talking about Oklahoma and Alabama, that's one thing. Georgia to me is a special case because of its role in the 2020 election and the role Republicans there faced in rejecting the Trump administration at a time in its attempts to overturn the election.\n\nAnd between that and the Marjorie Taylor Greene of it all, it feels like the Republican politics there are a little more scrambled. So, is it the money? Is it also the local?\n\nTERRY SCHILLING, PRESIDENT, AMERICAN PRINCIPLES PROJECT: I think it's a little bit of everything. Obviously, I think we're seeing now that the -- what the value of a Trump endorsement is, and it's $100 million. But one thing I will point out is that Mike Collins is a solid MAGA\n\ncandidate. He is \"America first\" all the way. And you could actually make the argument that, while in the gubernatorial race, the Trump- endorsed candidate didn't win, the Trump candidate won.\n\nCORNISH: So, why wouldn't Trump back him?\n\nSCHILLING: I -- well, look, there are all different types of reasons to endorse people. But Rick Jackson, if you listen to his comments last night, he's the outsider. He's the guy running on pro-family, family-centered economics. He wants to have the state income tax, like, for everyone.\n\nCORNISH: Here's the thing. He's not -- you're talking about Rick Jackson.\n\nSCHILLING: Rick Jackson.\n\nCORNISH: All right. Here's what he's running on, though. I want to play an ad, because what you're saying is very interesting. But this is what he told the voters.\n\nJACKSON: I don't care if you're Muslim or Mongolian, you don't have the right to force your culture on our country.\n\nUNIDENTIFIED MALE: Conservative Rick Jackson.\n\nJACKSON: Too often, criminal illegals commit sick, violent crimes, victimize our children, and get away with murder. So, here's my guarantee to them: do that when I'm governor, and you'll end up deported or departed.\n\nUNIDENTIFIED MALE: Rick Jackson for Georgia.\n\nJACKSON: Any questions?\n\nCORNISH: Set aside the death threat at the end of that? I don't know if there's a Mongolian human trafficking ring going on, but what I hear is culture war, culture war. It was not gas prices. It was not affordability. It wasn't any of those things.\n\nAntjuan, is the return of a culture war argument a weakness for Democrats?\n\nANTJUAN SEAWRIGHT, DEMOCRATIC STRATEGIST: I don't know. Look, I can summarize these primaries.\n\nCORNISH: You never say, \"I don't know.\" Do you know that? Like, that is -- that's a telling thing.\n\nSEAWRIGHT: Well, you know, it's hard to say, because -- and this is why it's hard to say. No. 1, I think the Republican primary contests have been about who can\n\nbe most loyal or who can wrap their arms most around Donald Trump.\n\nI think on the Democratic side, it has been the generational divide and the ideological conversation. And I think both of those things will look different in a general election.\n\nWhat I will tell you is I think the ice is melting in the Donald Trump cup. I think he's had a chilling effect on the Republican primaries. But we saw in Iowa, we saw in Georgia, and we've seen with some --\n\nCORNISH: But is that, then, why, then, their candidates would turn to those kinds of messages that do resonate instead of focusing on, here's what Trump did. This is a referendum on him. Let's have a fight about the Iran War.\n\nWhat they're saying is, hey, remember how you hate those people and that people, and these people shouldn't come over the border? We should go back to that conversation.\n\nSEAWRIGHT: Well, I think that they cannot run away from the reality that Donald Trump's economy has been a failure for them. Voters are going to vote on affordability and fuel and economics you and I can feel. And I think they failed on that.\n\nIf you look at Georgia, you look at Oklahoma, you look at what is likely going to happen in South Carolina. You look at what happened in Iowa just last week or the week before last. The narrative has been the same: farmers, rural voters, those who voted for Trump are feeling the effect of a Donald Trump failing economy.\n\nSCHILLING: And here's where it gets challenging for -- for your party, Antjuan, is you guys are going to have a really hard time arguing about affordability when you can't get a single Democrat in the House or the Senate to vote against taxpayer-funded sex-change procedures, sex-rejection procedures. So, these --\n\nSEAWRIGHT: No, no, no.\n\nSCHILLING: These procedures are hundreds of thousands of dollars, and you're going to spend taxpayers -- you're going to tax us over that?\n\nSEAWRIGHT: We're not -- We're not going to distract from the reality that everyday Americans --\n\nSCHILLING: That is reality. Affordability.\n\nSEAWRIGHT: You all come on programs like this, and you want to distract on these issues that Americans are not talking about.\n\nSCHILLING: Distraction?\n\nSEAWRIGHT: You cannot find --\n\nSCHILLING: You're talking tax dollars. SEAWRIGHT: You cannot find one American in this country who's not screaming and yelling about the prices of gas, goods, and services. That's --\n\nSCHILLING: Or their taxes.\n\nSEAWRIGHT: That's what the American people are focused on.\n\nCORNISH: Let me let you guys --\n\nSEAWRIGHT: And that's why you all have failed. That's why you all have failed --\n\nSCHILLING: We haven't failed anything.\n\nSEAWRIGHT: -- at the ballot box since Donald Trump has taken off.\n\nSCHILLING: A lot easier time.\n\nCORNISH: Let me just pause for a second, because we weren't talking about trans health care. And I feel like that -- we're going on a journey here, Terry.\n\nSEAWRIGHT: It's just a distraction.\n\nCORNISH: So, let's -- let's journey back to the news today.\n\nAfter the break on CNN THIS MORNING, the votes are being counted in Washington, D.C.'s mayoral primary. Why Trump's influence is looming over that race, too.\n\nAnd he's been off-air for nearly a month. And we're now learning how much Colbert's final gag is costing CBS.\n\nIn the meantime, good morning to New Yorkers. Live look at the city skyline.\n\nCORNISH: Hey, it's now 24 minutes past the hour. This is your morning roundup.\n\nThe officer involved in the fatal shooting of a 1-year-old boy outside a Mississippi Walmart is now on administrative leave. At least, that's according to reporting from our affiliate in Jackson, Mississippi.\n\nProtesters gathering outside the store were hit with tear gas last night. The shooting happened on Sunday.\n\nOfficials say the officer was responding to a shoplifting call when two adults ran off with the child into a vehicle, and police claim they then drove towards officers. And that's when an officer opened fire.\n\nNow, the people in the car were driven to the hospital, where the baby, Kohen Wiley, was pronounced dead.\n\nOfficials say they have not publicly identified the officer involved just yet.\n\nAnd Democratic state lawmaker Aisha Wahab will advance to a special general election in August in California to fill the House seat vacated by Eric Swalwell.\n\nNow, she defeated Melissa Hernandez by more than a 2-to-1 margin.\n\nAnd in Washington, D.C., council member and Democratic socialist Janeese Lewis George leads former council member Kenyan McDuffie by 16 points, with 64 percent of the vote counted.\n\nAnd a dramatic rescue caught on camera after a plane crashes into a moving car on a highway in Texas. At least one person has been killed.\n\nWitnesses were seen trying to break a window to get passengers out of the burning aircraft, and police say they received an emergency call from a flight tower last night after the small jet reported mechanical issues.\n\nA flight-tracking website shows the plane's signal cut out about two miles from Laredo Airport.\n\nAnd the GOAT makes history again on the world stage. Argentina's Lionel Messi scoring his first World Cup hat trick in the team's tournament opener last night.\n\nHe led the defending World Cup champs to a three-zero victory over Algeria. This was in Kansas City.\n\nNow, with those goals last night, Messi is now tied for the all-time World Cup scoring record with 16 total goals.\n\nUNIDENTIFIED MALE: Looking for Julian Alvarez. Clearance only as far as --\n\nSTEPHEN COLBERT, FORMER HOST, CBS'S \"THE LATE SHOW WITH STEPHEN COLBERT\": The owner of the music of \"A Charlie Brown Christmas\" and other Peanuts television specials has filed four lawsuits yesterday against those illegally using the famous song \"Linus and Lucy.\"\n\nCORNISH: Looks like Colbert got the last word the last night on his show. His final dig to CBS was having his band play that song, and he joked, of course, that he hoped it wouldn't cost the company any money. And of course it did.\n\nCBS, now reaching a licensing agreement with the production company behind the song for an undisclosed amount. And the company is saying that money will be donated to the World Central Kitchen.\n\nIt's an organization Colbert has donated millions to.\n\nAnd straight ahead on CNN THIS MORNING, as U.S. and Iranian officials try to negotiate an end to this war, U.S. intelligence is warning that Iran still has options. And one of them could send oil prices soaring again.\n\nPlus, investigators say arrests were made after a foiled attack plot on the White House fight night.",
+  "segments": [
+    {
+      "seg": 1,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-17/segment/01",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nConfusion Reigns Over U.S.-Iran Proposed Agreement; Mixed Bag for Trump-Backed Candidates in Primaries. Aired 6-6:30a ET\n\nAired June 17, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nBRAD SMITH, CNN ANCHOR: Her Facebook page has reached nearly 400,000 followers. And fans like to watch the bubbly bovine just hanging out on the front porch of her family's home.\n\nAnd life is about to get even more interesting for Daisy. Guess what? She's expected to deliver her first calf soon. Congratulations to the growing family.\n\nWell, that does it for CNN HEADLINE EXPRESS. I'm Brad Smith. CNN THIS MORNING with Audie Cornish starts right now.\n\nAUDIE CORNISH, CNN ANCHOR: It's the elephant in the room at the G-7 right now. What's in the text of Trump's agreement with Iran, and why hasn't the world seen it yet?\n\nMIKE PENCE, FORMER U.S. VICE PRESIDENT: This memorandum of understanding, it smacks of appeasement.\n\nCORNISH: Dramatic moments on a Texas highway. Bystanders race to save passengers after a fiery plane crash.\n\nMATTHEW QUINN, U.S. SECRET SERVICE DEPUTY DIRECTOR: They were planning to attack the Freedom 250.\n\nCORNISH: Five people accused in a chilling plot to attack fight night on the White House lawn. How close were the suspects to actually pulling it off?\n\nKAMALA HARRIS, FORMER U.S. VICE PRESIDENT: I have no question or doubt that we will win the midterms.\n\n(END VIDEO CLIP) CORNISH: Democrats have high hopes for the midterms, but a new CNN\n\npoll suggests culture wars could play an even bigger role this time around.\n\nAnd workers armed with bleach and tiny bubbles fight nature at the National Mall's reflecting pool. Was a blue paint job no match for an algae bloom?\n\nUNIDENTIFIED MALE: Wait, I need that line from \"Wicked.\" You're green. Oh, it's green.\n\nSEN. CHUCK SCHUMER (D-NY): I'm calling on Trump to immediately tell the American people on whatever is in his so-called deal. He needs to stop keeping America in the dark.\n\nCORNISH: Right now, President Trump and his administration are attempting to shape the narrative around their proposal with Iran, as the world eagerly awaits the text of this memorandum of understanding.\n\nGood morning, everybody. I'm Audie Cornish. We're going to start with the blame game this morning. Vice President J.D. Vance says, we want to tell you what's in the agreement, but we can't, at least not yet, he says.\n\nJ.D. VANCE, U.S. VICE PRESIDENT: There are some delicate diplomatic things going on where the Iranians -- and not just the Iranians, but some of our mediators, the Pakistanis and the Qataris -- have asked us to sequence this in the right way.\n\nCORNISH: But it turns out Israel doesn't even know. A source telling CNN Israel requested to see the agreement, and that request was rejected.\n\nOne person who has seen the MOU, Canadian Prime Minister Mark Carney, and he spoke to CNN while at the G-7 summit.\n\nMARK CARNEY, CANADIAN PRIME MINISTER: I have to say, it's exceeded my expectations. We're very pleased with the deal that's been struck.\n\nIt sets the groundwork for to ensure Iran doesn't have a nuclear weapon. It sets the groundwork for a reintegration over time of the economies in the region. It sets the groundwork for a solution in Lebanon.\n\nKAITLAN COLLINS, CNN ANCHOR/CORRESPONDENT: Did you actually see the agreement itself?\n\nCARNEY: I've seen the agreement, yes.\n\nCOLLINS: Oh, so the president showed it to you?\n\nCARNEY: Well, I've seen the agreement. We have -- we have -- we have our sources. I think it's a game changer.\n\nCORNISH: Joining me now, CNN political and national security analyst David Sanger. Good morning, David. So, we have --\n\nDAVID SANGER, CNN POLITICAL AND NATIONAL SECURITY ANALYST: Good morning, Audie.\n\nCORNISH: So, we have -- good morning. There's no text publicly. But clearly, someone's got it.\n\nI was surprised to see Carney, who has not been the most sort of positive relationship with Trump, speak highly of it. Is that the sort of word out of the G-7 in terms of how European leaders are responding?\n\nSANGER: Well, I think the European leaders are just delighted at this point that there is something that has relieved the immediate crisis, which is getting the oil flowing again across the Strait of Hormuz. And that would happen almost immediately under the text of -- of this agreement.\n\nWhat wouldn't happen immediately, though, is any actual resolution of the nuclear issues. That all goes to a second negotiation, one that I think is going to be a lot more difficult, though the president said yesterday he thought it would be relatively easy.\n\nAnd that's going to look a lot more like the kind of long slog you saw the Obama administration go through in 2015. And they ultimately got an accord, but it took them 18 months.\n\nCORNISH: It's interesting. You were writing about the way that the White House has been thinking about that Obama-era agreement.\n\nAnd I've noticed even in the president's Truth Social accounts, he's posting cartoons, sort of comparing Obama-era policy on Iran with his Arab policy on Iran.\n\nAnd, you know, I -- why does he, Obama, live like rent-free in the heads of those working at the White House? Like, what is the deal with constantly framing it this way?\n\nSANGER: Yes, it's real -- No, it's really fascinating. I mean, obviously, the president is defensive about this, because he ended up killing the Obama-era agreement in 2018 and said it was the worst agreement ever. And specifically spoke to shortfalls that it had: that it didn't deal with missiles; that it expired after 15 years; that it allowed the Iranians to continue to do some low-level nuclear work.\n\nThe problem he's got now is he has to go strike an agreement in this second negotiation that exceeds the Obama agreement in all of its elements. And maybe he'll be able to do that.\n\nHe called me on -- on Sunday evening to argue that, in fact, that was sort of precooked, and it was on the way. And that -- that he would manage to go get a much broader agreement than Obama did.\n\nSANGER: But we won't know until we've seen that next -- that next agreement.\n\nCORNISH: I think the pressure is also coming. You know, the call's from inside the house. You have so many warhawks. You have Israel, a lot of people critiquing this.\n\nAnd in our introduction, we played this clip of Mike Pence calling it a kind of appeasement. I see J.D. Vance on the tour, on the media tour, going on \"Megyn Kelly,\" trying to quiet these voices. Is the White House worried about it?\n\nSANGER: Well, they are worried about it. And look, I think we're going to see a copy of this. Already, there are various versions of this agreement, some of which look pretty close to right to me, based on my own reporting, that are floating around on the Internet.\n\nSo, they're going to have to sort this out, probably by Friday when Vice President Vance is supposed to go and actually do a ceremonial signing and then start up this next round of negotiations.\n\nBut there's something in here for everybody to dislike. The Israelis are not going to like the fact that it does not -- this agreement does not speak to Iran's support for proxies: Hezbollah and Hamas.\n\nThe Iranians aren't going to like the fact that it does have a reference to them giving up their most highly enriched uranium.\n\nAnd many in the U.S. are going to say, well, what? Why are we rewarding the Iranians by lifting sanctions and giving them -- unfreezing their money, which is essentially the critique President Trump was making in 2016 when he ran for president.\n\nCORNISH: OK, that's David Sanger. Thank you so much.\n\nComing up on CNN THIS MORNING, we're report on the small plane crash in Texas. And seconds later, a daring rescue from brave bystanders.\n\nPlus, Messi opens his final World Cup run with a history-making hat trick.\n\nAnd a mixed night for President Trump's candidates. Is his endorsement still the gold standard?\n\nREP. MIKE COLLINS (R-GA), GEORGIA SENATORIAL CANDIDATE: Sometimes, we've got some strong disagreements. But I can tell you one thing: Now we stand united around one mission.\n\nDONALD TRUMP, U.S. PRESIDENT: Every time I endorse, they win. It's been a pretty amazing track record,\n\nCORNISH: Actually, it was a mixed bag last night for the power of President Trump's endorsement.\n\nFor instance, in Georgia, his pick for the Senate, Congressman Mike Collins, will win the GOP primary. That sets the stage for a high- stakes race in November against rising Democratic Party star Senator Jon Ossoff.\n\nCOLLINS: You know, we're Republicans, now. We're going to have some robust primaries out there. Sometimes then, we've got some strong disagreements.\n\nBut I can tell you one thing: now we stand united around one mission. It's to put a Republican in that seat and get rid of that Jon Ossoff in November, return this seat to the people of Georgia.\n\nCORNISH: But the people of Georgia also rejected Trump's -- Trump- backed Lieutenant Governor Burt Jones, in the Republican runoff for governor, favoring billionaire Rick Jackson.\n\nRICK JACKSON (R), GEORGIA GUBERNATORIAL CANDIDATE: I'm the only candidate who doesn't owe a thing to the political establishment. I don't care what special interests want, how much they beg, how much they give me. I can't be bought. And I won't back down.\n\nCORNISH: So, Jackson will face former Atlanta Mayor Keisha Lance Bottoms in the November governor's race. So, joining me now in the group chat, Eleanor Mueller, White House\n\neconomic policy reporter for \"Semafor\"; Terry Schilling, president of the American Principles Project; and Antjuan Seawright, Democratic strategist.\n\nEleanor, can I turn to you to start? Just because there's so many races, frankly. I mean, we mentioned Georgia, but there was also the Alabama Senate.\n\nELEANOR MUELLER, WHITE HOUSE ECONOMIC POLICY REPORTER, \"SEMAFOR\": Yes.\n\nCORNISH: Where you had a GOP Senate runoff. A Trump-backed candidate, Barry Moore, is the winner.\n\nThen in Oklahoma, there was a governor's race. The Trump-endorsed Mike Mazzei finished second, headed for a runoff.\n\nAre voters -- are we looking at just local politics versus Trump, or is there something going on with a Trump-backed endorsement?\n\nMUELLER: It's a great question. I think in Georgia, you know, the results showed us that if there's one thing that can beat Trump in a Republican primary, it is money, right?\n\nThe gubernatorial candidate, who is not Trump-endorsed, who won out, had spent $100 million of his own funds in this race. Clearly, that was effective.\n\nBut I think it also echoes a dynamic we're seeing in places like the Texas Senate race, where, you know, the Trump-backed candidate may not be the most competitive against the Democratic candidate.\n\nAnd so, we will see, come November, whether or not a candidate that can invigorate the Republican base --\n\nMUELLER: -- with the Trump endorsement is better than a candidate that can appeal to independents and a more traditional type of conservative.\n\nCORNISH: When we're talking about Oklahoma and Alabama, that's one thing. Georgia to me is a special case because of its role in the 2020 election and the role Republicans there faced in rejecting the Trump administration at a time in its attempts to overturn the election.\n\nAnd between that and the Marjorie Taylor Greene of it all, it feels like the Republican politics there are a little more scrambled. So, is it the money? Is it also the local?\n\nTERRY SCHILLING, PRESIDENT, AMERICAN PRINCIPLES PROJECT: I think it's a little bit of everything. Obviously, I think we're seeing now that the -- what the value of a Trump endorsement is, and it's $100 million. But one thing I will point out is that Mike Collins is a solid MAGA\n\ncandidate. He is \"America first\" all the way. And you could actually make the argument that, while in the gubernatorial race, the Trump- endorsed candidate didn't win, the Trump candidate won.\n\nCORNISH: So, why wouldn't Trump back him?\n\nSCHILLING: I -- well, look, there are all different types of reasons to endorse people. But Rick Jackson, if you listen to his comments last night, he's the outsider. He's the guy running on pro-family, family-centered economics. He wants to have the state income tax, like, for everyone.\n\nCORNISH: Here's the thing. He's not -- you're talking about Rick Jackson.\n\nSCHILLING: Rick Jackson.\n\nCORNISH: All right. Here's what he's running on, though. I want to play an ad, because what you're saying is very interesting. But this is what he told the voters.\n\nJACKSON: I don't care if you're Muslim or Mongolian, you don't have the right to force your culture on our country.\n\nUNIDENTIFIED MALE: Conservative Rick Jackson.\n\nJACKSON: Too often, criminal illegals commit sick, violent crimes, victimize our children, and get away with murder. So, here's my guarantee to them: do that when I'm governor, and you'll end up deported or departed.\n\nUNIDENTIFIED MALE: Rick Jackson for Georgia.\n\nJACKSON: Any questions?\n\nCORNISH: Set aside the death threat at the end of that? I don't know if there's a Mongolian human trafficking ring going on, but what I hear is culture war, culture war. It was not gas prices. It was not affordability. It wasn't any of those things.\n\nAntjuan, is the return of a culture war argument a weakness for Democrats?\n\nANTJUAN SEAWRIGHT, DEMOCRATIC STRATEGIST: I don't know. Look, I can summarize these primaries.\n\nCORNISH: You never say, \"I don't know.\" Do you know that? Like, that is -- that's a telling thing.\n\nSEAWRIGHT: Well, you know, it's hard to say, because -- and this is why it's hard to say. No. 1, I think the Republican primary contests have been about who can\n\nbe most loyal or who can wrap their arms most around Donald Trump.\n\nI think on the Democratic side, it has been the generational divide and the ideological conversation. And I think both of those things will look different in a general election.\n\nWhat I will tell you is I think the ice is melting in the Donald Trump cup. I think he's had a chilling effect on the Republican primaries. But we saw in Iowa, we saw in Georgia, and we've seen with some --\n\nCORNISH: But is that, then, why, then, their candidates would turn to those kinds of messages that do resonate instead of focusing on, here's what Trump did. This is a referendum on him. Let's have a fight about the Iran War.\n\nWhat they're saying is, hey, remember how you hate those people and that people, and these people shouldn't come over the border? We should go back to that conversation.\n\nSEAWRIGHT: Well, I think that they cannot run away from the reality that Donald Trump's economy has been a failure for them. Voters are going to vote on affordability and fuel and economics you and I can feel. And I think they failed on that.\n\nIf you look at Georgia, you look at Oklahoma, you look at what is likely going to happen in South Carolina. You look at what happened in Iowa just last week or the week before last. The narrative has been the same: farmers, rural voters, those who voted for Trump are feeling the effect of a Donald Trump failing economy.\n\nSCHILLING: And here's where it gets challenging for -- for your party, Antjuan, is you guys are going to have a really hard time arguing about affordability when you can't get a single Democrat in the House or the Senate to vote against taxpayer-funded sex-change procedures, sex-rejection procedures. So, these --\n\nSEAWRIGHT: No, no, no.\n\nSCHILLING: These procedures are hundreds of thousands of dollars, and you're going to spend taxpayers -- you're going to tax us over that?\n\nSEAWRIGHT: We're not -- We're not going to distract from the reality that everyday Americans --\n\nSCHILLING: That is reality. Affordability.\n\nSEAWRIGHT: You all come on programs like this, and you want to distract on these issues that Americans are not talking about.\n\nSCHILLING: Distraction?\n\nSEAWRIGHT: You cannot find --\n\nSCHILLING: You're talking tax dollars. SEAWRIGHT: You cannot find one American in this country who's not screaming and yelling about the prices of gas, goods, and services. That's --\n\nSCHILLING: Or their taxes.\n\nSEAWRIGHT: That's what the American people are focused on.\n\nCORNISH: Let me let you guys --\n\nSEAWRIGHT: And that's why you all have failed. That's why you all have failed --\n\nSCHILLING: We haven't failed anything.\n\nSEAWRIGHT: -- at the ballot box since Donald Trump has taken off.\n\nSCHILLING: A lot easier time.\n\nCORNISH: Let me just pause for a second, because we weren't talking about trans health care. And I feel like that -- we're going on a journey here, Terry.\n\nSEAWRIGHT: It's just a distraction.\n\nCORNISH: So, let's -- let's journey back to the news today.\n\nAfter the break on CNN THIS MORNING, the votes are being counted in Washington, D.C.'s mayoral primary. Why Trump's influence is looming over that race, too.\n\nAnd he's been off-air for nearly a month. And we're now learning how much Colbert's final gag is costing CBS.\n\nIn the meantime, good morning to New Yorkers. Live look at the city skyline.\n\nCORNISH: Hey, it's now 24 minutes past the hour. This is your morning roundup.\n\nThe officer involved in the fatal shooting of a 1-year-old boy outside a Mississippi Walmart is now on administrative leave. At least, that's according to reporting from our affiliate in Jackson, Mississippi.\n\nProtesters gathering outside the store were hit with tear gas last night. The shooting happened on Sunday.\n\nOfficials say the officer was responding to a shoplifting call when two adults ran off with the child into a vehicle, and police claim they then drove towards officers. And that's when an officer opened fire.\n\nNow, the people in the car were driven to the hospital, where the baby, Kohen Wiley, was pronounced dead.\n\nOfficials say they have not publicly identified the officer involved just yet.\n\nAnd Democratic state lawmaker Aisha Wahab will advance to a special general election in August in California to fill the House seat vacated by Eric Swalwell.\n\nNow, she defeated Melissa Hernandez by more than a 2-to-1 margin.\n\nAnd in Washington, D.C., council member and Democratic socialist Janeese Lewis George leads former council member Kenyan McDuffie by 16 points, with 64 percent of the vote counted.\n\nAnd a dramatic rescue caught on camera after a plane crashes into a moving car on a highway in Texas. At least one person has been killed.\n\nWitnesses were seen trying to break a window to get passengers out of the burning aircraft, and police say they received an emergency call from a flight tower last night after the small jet reported mechanical issues.\n\nA flight-tracking website shows the plane's signal cut out about two miles from Laredo Airport.\n\nAnd the GOAT makes history again on the world stage. Argentina's Lionel Messi scoring his first World Cup hat trick in the team's tournament opener last night.\n\nHe led the defending World Cup champs to a three-zero victory over Algeria. This was in Kansas City.\n\nNow, with those goals last night, Messi is now tied for the all-time World Cup scoring record with 16 total goals.\n\nUNIDENTIFIED MALE: Looking for Julian Alvarez. Clearance only as far as --\n\nSTEPHEN COLBERT, FORMER HOST, CBS'S \"THE LATE SHOW WITH STEPHEN COLBERT\": The owner of the music of \"A Charlie Brown Christmas\" and other Peanuts television specials has filed four lawsuits yesterday against those illegally using the famous song \"Linus and Lucy.\"\n\nCORNISH: Looks like Colbert got the last word the last night on his show. His final dig to CBS was having his band play that song, and he joked, of course, that he hoped it wouldn't cost the company any money. And of course it did.\n\nCBS, now reaching a licensing agreement with the production company behind the song for an undisclosed amount. And the company is saying that money will be donated to the World Central Kitchen.\n\nIt's an organization Colbert has donated millions to.\n\nAnd straight ahead on CNN THIS MORNING, as U.S. and Iranian officials try to negotiate an end to this war, U.S. intelligence is warning that Iran still has options. And one of them could send oil prices soaring again.\n\nPlus, investigators say arrests were made after a foiled attack plot on the White House fight night."
+    }
+  ]
+}
