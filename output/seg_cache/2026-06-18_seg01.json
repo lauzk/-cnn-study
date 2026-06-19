@@ -1,0 +1,412 @@
+{
+  "date": "2026-06-18",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-18/segment/01",
+  "vocabulary": [
+    {
+      "word": "blunder",
+      "phonetic": "/ˈblʌndər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "大错，愚蠢的错误",
+      "en": "a stupid or careless mistake",
+      "excerpt": "This will go down as a tremendous foreign policy blunder.",
+      "example_cn": "这将作为一次巨大的外交政策失误而被铭记。"
+    },
+    {
+      "word": "surrender",
+      "phonetic": "/səˈrendər/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "投降，屈服",
+      "en": "the act of giving up or yielding",
+      "excerpt": "some calling it an American surrender",
+      "example_cn": "一些人称之为美国的投降。"
+    },
+    {
+      "word": "stockpile",
+      "phonetic": "/ˈstɑːkpaɪl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "库存，储备",
+      "en": "a large supply of something kept for future use",
+      "excerpt": "the stockpile, which at this point is at 60 percent, is kept inside Iran",
+      "example_cn": "目前达到60%的库存被保留在伊朗境内。"
+    },
+    {
+      "word": "down-blend",
+      "phonetic": "/daʊn blend/",
+      "pos": "v.",
+      "level": "专八",
+      "cn": "降低浓缩度",
+      "en": "to reduce the enrichment level of uranium",
+      "excerpt": "will be down-blended locally",
+      "example_cn": "将在当地降低浓缩度。"
+    },
+    {
+      "word": "proliferation",
+      "phonetic": "/prəˌlɪfəˈreɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "扩散，增殖",
+      "en": "the rapid increase or spread of something",
+      "excerpt": "mitigate the concerns for proliferation",
+      "example_cn": "缓解对核扩散的担忧。"
+    },
+    {
+      "word": "enrichment",
+      "phonetic": "/ɪnˈrɪtʃmənt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "浓缩，丰富",
+      "en": "the process of increasing the proportion of a particular isotope",
+      "excerpt": "the principal of enrichment in Iran",
+      "example_cn": "伊朗的浓缩原则。"
+    },
+    {
+      "word": "NPT",
+      "phonetic": "/en piː tiː/",
+      "pos": "abbr.",
+      "level": "专八",
+      "cn": "《不扩散核武器条约》",
+      "en": "Treaty on the Non-Proliferation of Nuclear Weapons",
+      "excerpt": "the legal interpretation of the NPT",
+      "example_cn": "对《不扩散核武器条约》的法律解释。"
+    },
+    {
+      "word": "squawk",
+      "phonetic": "/skwɔːk/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "大声抱怨，抗议",
+      "en": "to complain loudly or shrilly",
+      "excerpt": "why would all these conservative voices be squawking about this?",
+      "example_cn": "为什么所有这些保守派声音都在对此大声抱怨？"
+    },
+    {
+      "word": "degrade",
+      "phonetic": "/dɪˈɡreɪd/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "削弱，降低",
+      "en": "to reduce in quality, strength, or effectiveness",
+      "excerpt": "The military in Iran has been degraded",
+      "example_cn": "伊朗的军事力量已被削弱。"
+    },
+    {
+      "word": "ballistic missile",
+      "phonetic": "/bəˈlɪstɪk ˈmɪsaɪl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "弹道导弹",
+      "en": "a missile that follows a ballistic trajectory",
+      "excerpt": "The ballistic missile stockpile has been degraded",
+      "example_cn": "弹道导弹库存已被削减。"
+    },
+    {
+      "word": "Houthis",
+      "phonetic": "/ˈhuːθiz/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "胡塞武装",
+      "en": "a rebel group in Yemen",
+      "excerpt": "their ability to fund Hamas, Hezbollah and the Houthis",
+      "example_cn": "他们资助哈马斯、真主党和胡塞武装的能力。"
+    },
+    {
+      "word": "MOU",
+      "phonetic": "/em oʊ juː/",
+      "pos": "abbr.",
+      "level": "六级",
+      "cn": "谅解备忘录",
+      "en": "Memorandum of Understanding",
+      "excerpt": "this particular MOU",
+      "example_cn": "这份特定的谅解备忘录。"
+    },
+    {
+      "word": "restabilize",
+      "phonetic": "/riːˈsteɪbəlaɪz/",
+      "pos": "v.",
+      "level": "专八",
+      "cn": "重新稳定",
+      "en": "to make stable again",
+      "excerpt": "To restabilize the country",
+      "example_cn": "重新稳定该国。"
+    },
+    {
+      "word": "self-defeating",
+      "phonetic": "/ˌself dɪˈfiːtɪŋ/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "自我挫败的，适得其反的",
+      "en": "causing more problems than it solves",
+      "excerpt": "It's a self-defeating agreement.",
+      "example_cn": "这是一项适得其反的协议。"
+    },
+    {
+      "word": "psychiatric defense",
+      "phonetic": "/ˌsaɪkiˈætrɪk dɪˈfens/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "精神病辩护",
+      "en": "a legal defense based on mental illness",
+      "excerpt": "Luigi Mangione's team will present a psychiatric defense",
+      "example_cn": "路易吉·曼吉奥内的团队将提出精神病辩护。"
+    },
+    {
+      "word": "extreme emotional disturbance",
+      "phonetic": "/ɪkˈstriːm ɪˈmoʊʃənl dɪˈstɜːrbəns/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "极端情绪障碍",
+      "en": "a legal term for a mental state that reduces culpability",
+      "excerpt": "under an extreme emotional disturbance",
+      "example_cn": "在极端情绪障碍的情况下。"
+    },
+    {
+      "word": "manslaughter",
+      "phonetic": "/ˈmænslɔːtər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "过失杀人",
+      "en": "the crime of killing someone unintentionally",
+      "excerpt": "reduced from murder to manslaughter",
+      "example_cn": "从谋杀减为过失杀人。"
+    },
+    {
+      "word": "spill the beans",
+      "phonetic": "/spɪl ðə biːnz/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "泄露秘密",
+      "en": "to reveal a secret",
+      "excerpt": "did New York City's mayor, Zohran Mamdani, just spill the beans",
+      "example_cn": "纽约市长佐兰·马姆达尼是否刚刚泄露了秘密？"
+    },
+    {
+      "word": "coincide",
+      "phonetic": "/ˌkoʊɪnˈsaɪd/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "同时发生，巧合",
+      "en": "to happen at the same time",
+      "excerpt": "It coincides with the Knicks finals run",
+      "example_cn": "它与尼克斯队的决赛赛程同时发生。"
+    },
+    {
+      "word": "ruse",
+      "phonetic": "/ruːz/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "诡计，计策",
+      "en": "a trick or deception",
+      "excerpt": "Maybe it's all part of the ruse",
+      "example_cn": "也许这全是诡计的一部分。"
+    },
+    {
+      "word": "star-studded",
+      "phonetic": "/ˈstɑːr ˌstʌdɪd/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "明星云集的",
+      "en": "filled with famous people",
+      "excerpt": "Will his star-studded grand opening dwarf President Trump's 250th celebrations?",
+      "example_cn": "他那明星云集的盛大开幕会否使特朗普总统的250周年庆典相形见绌？"
+    },
+    {
+      "word": "dwarf",
+      "phonetic": "/dwɔːrf/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "使相形见绌",
+      "en": "to make something seem small by comparison",
+      "excerpt": "dwarf President Trump's 250th celebrations",
+      "example_cn": "使特朗普总统的250周年庆典相形见绌。"
+    },
+    {
+      "word": "hydration break",
+      "phonetic": "/haɪˈdreɪʃn breɪk/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "补水休息",
+      "en": "a pause in a game for players to drink water",
+      "excerpt": "Are hydration breaks helping the players or the networks?",
+      "example_cn": "补水休息是在帮助球员还是电视网络？"
+    },
+    {
+      "word": "vibe killer",
+      "phonetic": "/vaɪb ˈkɪlər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "破坏气氛的人或事",
+      "en": "something that ruins the mood or atmosphere",
+      "excerpt": "World Cup fans are booing water breaks as a vibe killer",
+      "example_cn": "世界杯球迷对补水休息发出嘘声，认为它破坏了气氛。"
+    },
+    {
+      "word": "moral clarity",
+      "phonetic": "/ˈmɔːrəl ˈklærəti/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "道德清晰度",
+      "en": "clear understanding of what is right and wrong",
+      "excerpt": "I think this moment calls for that level of moral clarity and courage.",
+      "example_cn": "我认为此刻需要那种道德清晰度和勇气。"
+    },
+    {
+      "word": "ingenuity",
+      "phonetic": "/ˌɪndʒəˈnuːəti/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "独创性，聪明才智",
+      "en": "the quality of being clever, original, and inventive",
+      "excerpt": "It calls for this level of ingenuity.",
+      "example_cn": "它需要这种程度的独创性。"
+    },
+    {
+      "word": "curfew",
+      "phonetic": "/ˈkɜːrfjuː/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "宵禁",
+      "en": "a regulation requiring people to remain indoors at certain times",
+      "excerpt": "doesn't want to have curfews for teens",
+      "example_cn": "不想对青少年实施宵禁。"
+    },
+    {
+      "word": "anti-incumbency",
+      "phonetic": "/ˌænti ɪnˈkʌmbənsi/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "反现任情绪",
+      "en": "opposition to current officeholders",
+      "excerpt": "This is a lot about anti-incumbency.",
+      "example_cn": "这在很大程度上是关于反现任情绪。"
+    },
+    {
+      "word": "pied-à-terre",
+      "phonetic": "/ˌpjeɪd ɑː ˈter/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "临时住所，小公寓",
+      "en": "a small apartment or house kept for occasional use",
+      "excerpt": "Mamdani with his pied a terre tax",
+      "example_cn": "马姆达尼和他的临时住所税。"
+    },
+    {
+      "word": "veto power",
+      "phonetic": "/ˈviːtoʊ ˈpaʊər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "否决权",
+      "en": "the power to reject a decision or proposal",
+      "excerpt": "Congress has veto power over whatever they do.",
+      "example_cn": "国会对他们所做的一切拥有否决权。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "This will go down as a tremendous foreign policy blunder.",
+      "cn": "这将作为一次巨大的外交政策失误而被铭记。",
+      "structure": "主谓宾结构，主语This，谓语will go down as，宾语a tremendous foreign policy blunder。",
+      "analysis": "go down as 是固定短语，意为“被记录为，被铭记为”。tremendous 强调程度之大。"
+    },
+    {
+      "en": "Iran ends up stronger. Our allies in the region are weaker, and Iran has learned that, if they're willing to grab that Strait of Hormuz and choke it off, they can get the Western world to dance to their tune.",
+      "cn": "伊朗最终变得更强大。我们在该地区的盟友更弱了，伊朗已经学到，如果他们愿意抓住霍尔木兹海峡并扼住它，他们就能让西方世界听命于他们。",
+      "structure": "并列复合句。第一句主谓宾；第二句主系表；第三句主谓宾+宾语从句，宾语从句中包含条件状语从句。",
+      "analysis": "choke off 意为“扼制，阻塞”；dance to one's tune 是习语，意为“听从某人的指挥”。"
+    },
+    {
+      "en": "What the JCPOA stipulated was that Iran would ship out 98 percent of its enriched uranium to Russia.",
+      "cn": "《联合全面行动计划》规定，伊朗将把98%的浓缩铀运往俄罗斯。",
+      "structure": "主语从句+系表结构。What the JCPOA stipulated 是主语从句，was 是系动词，that引导表语从句。",
+      "analysis": "JCPOA 是 Joint Comprehensive Plan of Action 的缩写，即《联合全面行动计划》。stipulate 意为“规定”。"
+    },
+    {
+      "en": "But to, let's say, mitigate the concerns for proliferation, they're going to down-blend it to 3.67 percent, which is low enriched uranium.",
+      "cn": "但是，比如说，为了减轻对核扩散的担忧，他们将把它降低浓缩到3.67%，这是低浓缩铀。",
+      "structure": "目的状语+主句+非限制性定语从句。to mitigate... 是目的状语，主句是they're going to down-blend it to 3.67 percent，which引导非限制性定语从句修饰3.67 percent。",
+      "analysis": "let's say 是插入语，意为“比如说”。down-blend 是专业术语，意为“降低浓缩度”。"
+    },
+    {
+      "en": "And I know that President Trump is very sensitive to the word 'JCPOA' and Obama.",
+      "cn": "我知道特朗普总统对“JCPOA”和奥巴马这两个词非常敏感。",
+      "structure": "主谓宾+宾语从句。I know 是主句，that引导宾语从句。",
+      "analysis": "be sensitive to 意为“对……敏感”。"
+    },
+    {
+      "en": "But that was a very good deal that he had on February 26 in Geneva.",
+      "cn": "但那是他2月26日在日内瓦达成的一笔非常好的交易。",
+      "structure": "主系表+定语从句。that was a very good deal 是主句，that he had... 是定语从句修饰deal。",
+      "analysis": "deal 在此处指“协议”。"
+    },
+    {
+      "en": "Luigi Mangione's team will present a psychiatric defense in his state murder trial.",
+      "cn": "路易吉·曼吉奥内的团队将在他的州谋杀案审判中提出精神病辩护。",
+      "structure": "主谓宾结构。主语Luigi Mangione's team，谓语will present，宾语a psychiatric defense，状语in his state murder trial。",
+      "analysis": "psychiatric defense 是法律术语，指以精神疾病为由的辩护。"
+    },
+    {
+      "en": "They're expected to admit he killed the UnitedHealthcare CEO, but under an extreme emotional disturbance.",
+      "cn": "他们预计会承认他杀害了联合健康保险公司的首席执行官，但是在极端情绪障碍的情况下。",
+      "structure": "主谓宾+宾语从句。They're expected to admit 是主句，he killed... 是宾语从句，but under... 是状语。",
+      "analysis": "extreme emotional disturbance 是法律术语，用于减轻刑事责任。"
+    },
+    {
+      "en": "Now, did New York City's mayor, Zohran Mamdani, just spill the beans on Taylor Swift and Travis Kelce's wedding?",
+      "cn": "那么，纽约市长佐兰·马姆达尼是否刚刚泄露了泰勒·斯威夫特和特拉维斯·凯尔西婚礼的秘密？",
+      "structure": "一般疑问句。did 助动词，主语New York City's mayor, Zohran Mamdani，谓语spill the beans，宾语on Taylor Swift and Travis Kelce's wedding。",
+      "analysis": "spill the beans 是习语，意为“泄露秘密”。"
+    },
+    {
+      "en": "We are used to big events, and we are incredibly excited for this one.",
+      "cn": "我们习惯了大型活动，我们对这次活动感到无比兴奋。",
+      "structure": "并列句。两个简单句由and连接。",
+      "analysis": "be used to 意为“习惯于”，后接名词或动名词。"
+    },
+    {
+      "en": "I think this moment calls for that level of moral clarity and courage.",
+      "cn": "我认为此刻需要那种道德清晰度和勇气。",
+      "structure": "主谓宾+宾语从句。I think 是主句，this moment calls for... 是宾语从句。",
+      "analysis": "call for 意为“需要，要求”。"
+    },
+    {
+      "en": "And it calls for a leader who is focused on putting people first and delivering on the small things, right?",
+      "cn": "它需要一位专注于以人为本并落实小事的领导者，对吧？",
+      "structure": "主谓宾+定语从句。it calls for a leader 是主句，who引导定语从句修饰leader。",
+      "analysis": "putting people first 意为“以人为本”；deliver on 意为“履行，兑现”。"
+    },
+    {
+      "en": "Now, the question for someone like, you know, the perhaps incoming mayor of D.C. is the fact that Congress has veto power over whatever they do.",
+      "cn": "那么，对于像，你知道，可能是华盛顿特区即将上任的市长这样的人来说，问题在于国会对他们所做的一切拥有否决权。",
+      "structure": "主系表+同位语从句。主语the question，系动词is，表语the fact，that引导同位语从句说明fact的内容。",
+      "analysis": "incoming 意为“即将上任的”；veto power 意为“否决权”。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "美伊核协议与中东局势",
+      "content": "该段讨论了特朗普政府与伊朗签署的新协议，对比了2015年奥巴马时期的《联合全面行动计划》（JCPOA）。新协议允许伊朗保留60%浓缩铀库存并在当地降低浓缩度，而JCPOA要求将98%浓缩铀运出伊朗。共和党人批评该协议是“外交政策失误”和“美国投降”，认为伊朗变得更强大，而美国盟友被削弱。协议还包括3000亿美元的投资基金，用于稳定伊朗经济。以色列坚持伊朗应零浓缩，但协议未满足此要求。",
+      "keywords": "Iran nuclear deal, JCPOA, enrichment, stockpile, down-blend, Strait of Hormuz, Republican criticism, investment fund"
+    },
+    {
+      "title": "泰勒·斯威夫特与特拉维斯·凯尔西婚礼传闻",
+      "content": "纽约市长佐兰·马姆达尼在采访中似乎确认泰勒·斯威夫特和特拉维斯·凯尔西将于今年夏天在纽约市结婚，可能与尼克斯队决赛和7月4日美国250周年庆典同时发生。TMZ报道婚礼将在麦迪逊广场花园举行，但未获官方确认。马姆达尼表示未受邀，但祝福他们。",
+      "keywords": "Taylor Swift, Travis Kelce, wedding, Zohran Mamdani, Madison Square Garden, July 4th"
+    },
+    {
+      "title": "华盛顿特区市长初选与民主社会主义",
+      "content": "在华盛顿特区民主党市长初选中，民主社会主义者简尼斯·刘易斯·乔治领先。她主张建设72,000套新住房、扩大租金管制和普及儿童保育补贴，并强调“把人民放在第一位”和做好小事（如垃圾清理、扫雪）。她反对青少年宵禁，但曾是检察官。评论员讨论民主社会主义的定义及其对民主党主流的影响，以及国会可能否决特区政策的权力。",
+      "keywords": "Janeese Lewis George, Democratic socialist, D.C. mayoral primary, housing, rent control, childcare subsidy, anti-incumbency, Congress veto"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\n'American Surrender' and 'Blunder': GOP Blasts Trump Agreement; Did Mayor Mamdani Confirm Taylor & Travis NYC Wedding Date?; Democratic Socialist Leads in Washington, D.C., Mayoral Primary. Aired 6-6:30a ET\n\nAired June 18, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nAUDIE CORNISH, CNN ANCHOR: Now that we've all seen the agreement President Trump signed with Iran, you have to ask, was it worth going to war over?\n\nSEN. BILL CASSIDY (R-LA): This will go down as a tremendous foreign policy blunder.\n\nCORNISH: And Vice President Vance better look out. The bus could be coming around the corner.\n\nDONALD TRUMP, U.S. PRESIDENT: This way, if it works out, I'm going to take the credit. If it doesn't work out, I'm blaming J.D. You better be careful, J.D.\n\nCORNISH: And the world champion New York Knicks get an invite to the White House. But will any of the players boycott?\n\nIn the meantime, World Cup fans are booing water breaks as a vibe killer that makes the games too -- I don't know -- American. So, is FIFA all wet?\n\nTRUMP: This was not easy, I can tell you.\n\nCORNISH: So, signed on the dotted line. The U.S. and Iran have both signed an agreement to end the war on all fronts, for better or worse, at least for the U.S. Good morning, everybody. I'm Audie Cornish. We're going to start with\n\nthe details of that agreement, but also the Republican response.\n\nConservative voices online, not pleased about what's in the text of this agreement, some calling it an American surrender, saying it's even worse than the Obama deal of 2015.\n\nNow, Nikki Haley called it a, quote, \"huge mistake to pay to rebuild the threat we just destroyed.\"\n\nSenator Ted Cruz told \"The Daily Wire\" he felt like Trump was getting very poor advice and called it ill-advised.\n\nIn the meantime, Senator Bill Cassidy took it one step further.\n\nCASSIDY: This will go down as a tremendous foreign policy blunder. Iran ends up stronger. Our allies in the region are weaker, and Iran has learned that, if they're willing to grab that Strait of Hormuz and choke it off, they can get the Western world to dance to their tune. I think it's a deep mistake.\n\nCORNISH: Today in the group chat, Nicholas Wu, congressional reporter at \"Semafor\"; Sina Azodi, director of Middle East studies programs at George Washington University; Mike Dubke, former Trump White House communications director; and Meghan Hays, former Biden White House director of message planning.\n\nSo, I want to start with you, Sina, because you've been watching this very closely. And one point interested me.\n\nIn the Obama deal, basically, the plan was you ship out all your enriched uranium, right? Iran had about, it says, 20 percent enriched. And they would send that somewhere. It ended up being Russia.\n\nBut in this deal -- in this deal, it's a little different. Basically, the stockpile, which at this point is at 60 percent, is kept inside Iran, and then will be down-blended locally. But it means they keep it on their soil.\n\nIs this one of the aspects of the deal that has people really upset?\n\nSINA AZODI, DIRECTOR OF MIDDLE EAST STUDIES PROGRAMS, GEORGE WASHINGTON UNIVERSITY: Well, what the JCPOA stipulated was that Iran would ship out 98 percent of its enriched uranium to Russia. Right.\n\nCORNISH: It leaves the country.\n\nAZODI: Leaves the country. In this case, I think for whatever reason -- it's distrust, the possibility of the U.S. leaving the deal again -- Iranians have insisted that it has to stay on their soil.\n\nBut to, let's say, mitigate the concerns for proliferation, they're going to down-blend it to 3.67 percent, which is low enriched uranium. And you use that for a nuclear power plant.\n\nAZODI: Doesn't have any weaponization concerns.\n\nCORNISH: Yes, but different from one leaves. One stays, basically.\n\nCORNISH: And the administration is saying, look, this -- this is a good solution, because it's going to get us to zero.\n\nBut it leads to my other point. It's not -- it's non-zero, not zero.\n\nCORNISH: And I know Israel said, look, there should be zero. No enrichment whatsoever. Nothing enriched anywhere. But that is not what this deal does.\n\nAZODI: No. And the problem -- and we've been dealing with this issue of the principal of enrichment in Iran for more than 20 years now.\n\nIran's interpretation, or the legal interpretation of the NPT, the article four of the NPT, their interpretation is that that right to use peaceful energy includes enrichment.\n\nThe U.S. side says, no, absolutely not. The text of the NPT doesn't say enrichment. So, they've been fighting over this on this legal interpretation.\n\nCORNISH: And that fight hasn't changed? Yes.\n\nAZODI: Hasn't changed -- changed. What President Obama did was that he said the enrichment in Iran is a fact on the ground. We can't change it.\n\nPresident Trump said, no, it's a bad deal. Withdrew. And we are back to 2018 now.\n\nCORNISH: Yes. So, the reason why I wanted to set the table with all that is, like, why would all these conservative voices be squawking about this? Right?\n\nWhy would the Lindsey Grahams of the world, who were all too happy to be a part of these strikes and have these demands on Iran, be so frustrated with what was signed?\n\nNicholas, what's your sense in Congress about, A, why they feel comfortable saying it out loud and why they're saying what they're saying?\n\nNICHOLAS WU, CONGRESSIONAL REPORTER, \"SEMAFOR\": Well, for Republicans on Capitol Hill that I've talked to, I mean, this strikes at the very heart of the issue for them; like, the issue of Iran's nuclear program, the reasons they went to war.\n\nThis all kind of comes to a head now, because this deal and what's emerging, by all accounts, in the view of these Republicans, didn't accomplish that goal.\n\nAnd so, for these Republicans who, you know, see this as a deeply held principle for them and know that they will outlast President Trump, they're willing to speak up about it now.\n\nCORNISH: Yes. It's interesting. As we are speaking, Mike Dubke --\n\nMIKE DUBKE, FORMER TRUMP WHITE HOUSE COMMUNICATIONS DIRECTOR: Yes.\n\nCORNISH: -- your favorite person just posted to Truth Social. President Trump says, look, \"These fools who think I haven't been tough enough on Iran when the Stock Market Just Hit a RECORD HIGH, and Oil prices are 'tumbling' down, are either jealous, bad people or stupid.\"\n\nSo, let's talk messaging.\n\nDUBKE: Well, first of all, this is just a framework. This isn't the total deal. So, we need to keep that in mind.\n\nI mean, we keep -- all the rhetoric I keep hearing is, you know, this deal, this deal, that. It's a framework to get to a deal.\n\nDUBKE: So, we can argue whether or not that's great or not. And I appreciate the -- the laughter on my left.\n\nThe other thing is when you're in a hole, what's the first rule? Stop digging. And I think that's where we are with this particular framework, this particular MOU, is that we are at a point.\n\nThe military in Iran has been degraded, whether or not it's been blasted to the Stone Age. Again, we can debate that. The ballistic missile stockpile has been degraded. Their ability to fund Hamas, Hezbollah and the Houthis --\n\nCORNISH: Yes. And we should say --\n\nDUBKE: -- has been degraded.\n\nCORNISH: -- Europe, NATO. Marc Rich (ph) was speaking earlier. I don't know if that was sound. But they're not saying, Oh, God, this is really bad. Right?\n\nWe heard Carney yesterday say, I like what I saw.\n\nMEGHAN HAYS, FORMER BIDEN WHITE HOUSE DIRECTOR OF MESSAGE PLANNING: Well, what are they supposed to do? They're standing with him. They're not going to say anything in front of him.\n\nFirst of all, we spent $1 billion a day fighting a war that no one wanted to go to. So, we spent over $100 billion there.\n\nWe spent $300 billion in this deal. So, now we're $400 billion when Americans don't have healthcare.\n\nDUBKE: We did not spend $300 billion in this deal. If --\n\nHAYS: You tell me, then --\n\nDUBKE: I just can't lay that. I just can't let you just get away with that.\n\nHAYS: But you tell me. OK.\n\nCORNISH: Yes. Let me give the fact check. There will be a $300 billion --\n\nCORNISH: -- investment fund. But a lot of people say, why should Iran have almost immediate access to investments in the world economy if it's still sitting on its enriched uranium and so much of this is not worked out yet?\n\nAZODI: I would say that a possibility of instability in Iran is a danger to everybody, the entire region.\n\nCORNISH: So, you think the money is necessary to restabilize?\n\nAZODI: To restabilize the country. And I think that it -- you know, just looking at President Trump's approach, investment, it could work for the Americans, too. A lot of jobs.\n\nThink of it: in 2015, Iran signed an agreement with Boeing to buy passenger planes, which never happened, because President Trump decided to leave.\n\nCORNISH: But you can hear why critics would say, Well, wait a second. Now were talking about investment with Iran, with a regime that fundamentally is not changed.\n\nHAYS: Exactly my point. So now, Americans are using -- the American taxpayers are paying for something that we never -- a war we didn't want to go to. Gas prices shot up, and got a huge mess to our global economy, not to mention our own economy here.\n\nAnd Trump doesn't seem to care. He just is like, Oh, if you're stupid, you don't like this. Well, they still have -- they still have the capability for nuclear power -- or nuclear war capabilities.\n\nThis is an agreement to -- to a deal, which this is the 39th time he said that we almost have a deal. So, at least we're one step closer there.\n\nBut I just don't understand how we are in this position that -- in a war that no one wanted to go to, and the American people are the ones suffering. CORNISH: Let me give Sina the last word, because he's here. And this\n\nwas signed at Versailles. Lots of things have been signed at Versailles.\n\nAZODI: A lot of things.\n\nCORNISH: But usually, when you call something a Versailles treaty, it's in foreign language policy land. Kind of an insult, right? It's a self-defeating agreement.\n\nWhat's your response to the critics out there who are making those analogies?\n\nAZODI: Look, I mean, absolutely what Meghan said, I mean, this was the -- President Trump didn't have to sign that peace deal at Versailles today. He could have had an agreement in February before he decided to go to war.\n\nHe was dragged into a war of choice that he didn't have to. Thirteen Americans died. Billions of dollars spent. He could have taken the deal that the Iranians had offered, and it was a pretty good deal compared to the JCPOA. And I know that President Trump is --\n\nCORNISH: Did not believe that.\n\nAZODI: -- very sensitive to the word \"JCPOA\" and Obama.\n\nAZODI: But that was a very good deal that he had on February 26 in Geneva.\n\nCORNISH: Well, the hope is -- from the White House that 60 days from now, whatever they have will be much better --\n\nCORNISH: -- than happened in 2015. Thank you so much for your expertise. I hope you can come back.\n\nAZODI: Thank you for having me.\n\nCORNISH: Coming up on CNN THIS MORNING, there's a new release date for Sean \"Diddy\" Combs. What this means for his time behind bars.\n\nAnd Swifties, did New York's mayor just let a secret slip?\n\nUNIDENTIFIED MALE: Taylor Swift wedding confirmed by Mamdani, you guys.\n\nCORNISH: It's now 14 minutes past the hour. This is your morning roundup.\n\nA tornado threat looming over the Midwest today. This morning, more than 65,000 people are actually still without power in the region after severe storms last night.\n\nThe National Weather Service reported several tornadoes and issued some of its highest-level tornado alerts.\n\nAnd Luigi Mangione's team will present a psychiatric defense in his state murder trial. They're expected to admit he killed the UnitedHealthcare CEO, but under an extreme emotional disturbance.\n\nMangione's sentence can be reduced from murder to manslaughter if this defense succeeds. That's the difference between life in prison and 25 years.\n\nThe state trial is set to begin this fall.\n\nAnd Sean \"Diddy\" Combs' federal release date changed again. It's now moved up from April 2028 to February 2028. And the reason is unclear.\n\nCombs is currently convicted on charges related to prostitution. He still faces dozens of lawsuits nationwide. His attorneys are appealing his formal conviction.\n\nNow, did New York City's mayor, Zohran Mamdani, just spill the beans on Taylor Swift and Travis Kelce's wedding? He appeared to confirm that the two would be getting married in the city this summer.\n\nMAYOR ZOHRAN MAMDANI (D), NEW YORK CITY: We are used to big events, and we are incredibly excited for this one. We know it coincides with the Knicks finals run. We know it coincides with July 4th. America 250, Taylor Swift's wedding all happening at the same time.\n\nUNIDENTIFIED MALE: You did mention Taylor Swift's wedding. Have you been invited? Are you going? Do you, like -- Is there anything we need to know about that, sir? Thank you.\n\nMAMDANI: No and no. I -- I wish them a lovely wedding.\n\nCORNISH: TMZ reported the two are getting married at Madison Square Garden on July 4th weekend, but that has not been confirmed.\n\nMeghan, I'm sure you have thoughts.\n\nHAYS: Well, I don't understand why Mamdani would know about it if he's not been invited, so I just -- I mean, maybe -- DUBKE: Well, they have to have security for this small, intimate\n\naffair at Madison Square Garden.\n\nHAYS: I thought that's why they were getting married there.\n\nHAYS: Because there's a lot of security.\n\nCORNISH: I think we've had a recent example of what it's like to secure the area. That's not ideal.\n\nHAYS: Maybe it's all part of the ruse that they're not actually getting married there. And he's throwing everyone off and, like, part of it. Maybe that's it.\n\nDUBKE: I mean, I guess the Bezos wedding in Venice --\n\nDUBKE: -- was a small affair compared to Madison Square Garden.\n\nDUBKE: Is she giving a concert?\n\nCORNISH: Were just going to -- we're going to wait for the puzzle pieces to be dropped via Instagram, the way most wedding invites happen these days.\n\nCORNISH: Now, after the break on CNN THIS MORNING, the Obama Presidential Center opens today. Will his star-studded grand opening dwarf President Trump's 250th celebrations?\n\nPlus, the World Cup's most controversial time-out. Are hydration breaks helping the players or the networks?\n\nAnd good morning to our viewers in Chicago. We're taking a live look at the sunrise there over the skyline.\n\nCORNISH: So, we're going to ask whether Washington, D.C., is taking a page out of New York City's political playbook after the win of Zohran Mamdani.\n\nNow, ballots are still being counted here, but in the Democratic mayoral primary, holding a commanding lead is Democratic socialist Janeese Lewis George. And here's how she described what Democratic socialism means to her.\n\n(BEGIN VIDEO CLIP) JANEESE LEWIS GEORGE (D), WASHINGTON D.C. MAYORAL CANDIDATE: I think this moment calls for that level of moral clarity and courage. It calls for this level of ingenuity.\n\nAnd it calls for a leader who is focused on putting people first and delivering on the small things, right? So, our (ph) socialism is talking about just making sure your 911 system works, your 311 works, your trash gets picked up, your snow gets plowed. Those basic things that make a difference in everyone's lives.\n\nCORNISH: OK. Group chat is back. I wanted to talk about this, because this follows so many other cities where you have seen someone who identifies as a Democratic socialist advance.\n\nNow, unlike Mamdani, she's not promising government-run supermarkets. Right? Which I don't think anyone is holding their breath for that.\n\nBut she wants to build 72,000 new housing units, expand rent control, and promise a universal childcare subsidy. And Meghan, I wanted to ask you, does any of this kind of language, does it redefine for people that term, socialism?\n\nHAYS: Socialism? Well, socialists are not Democrats. So, I'm confused why Democrats are still thinking that the DSA members are Democrats, because they are not.\n\nI think that the problem I have with this is she's against a lot of the public safety issues that we face in D.C. and doesn't want to have curfews for teens. And there's a huge public safety problem.\n\nCORNISH: We should say, she's a former prosecutor, right? So --\n\nHAYS: But she does not believe in the curfew.\n\nHAYS: There's a lot of things going on here. So, I don't necessarily know that it defines it. I think that, just like people in New York. And if you live in Cincinnati or Sacramento, you want your mayor to do the very basic things. We want the rats gone. You want public safety.\n\nHAY: You want 311 to work, and --\n\nCORNISH: But can I charge something?\n\nTwo things on her plank. While they may fall under Democratic socialism, they actually sound very much like things the modern Democratic Party is talking about: housing.\n\nThe abundance Democrats, all they talk about is housing and zoning. All right. When you talk about what you're saying is lenient crime policies, to\n\nme, this threads back to very kind of common language from 2020 and beyond, around how to fight crime without leaning on violence from police. Like, they're saying things that are not disconnected from what average Democrats think.\n\nHAYS: I mean, sure. I mean, I don't disagree. I don't agree with the abolish ICE and all the things that -- some of the rhetoric she has said.\n\nBut also, we need -- there are a ton of places to live here that are not affordable. I don't -- I don't know enough about her housing policy to comment.\n\nI just am not -- I am not a fan of the Democratic Party sliding so far to the left. And it is going to impact these cities. It's going to impact places. It's already impacting places like New York, and it's going to impact places like D.C.\n\nWe need actual governance, and I need people to pick up trash, remove snow, which we clearly didn't do this year. But this is a lot about anti-incumbency.\n\nCORNISH: So, it sounds like this messaging, you're excited about this messaging. Meghan's going to be in the ads.\n\nDUBKE: First of all -- first of all, I feel like we're in California, because they're still counting the votes.\n\nCORNISH: Wait, it's been a day.\n\nDUBKE: They're still counting the votes. Secondly -- we don't even have to talk about ranked choice voting.\n\nSecondly, I -- I listened to that clip, and she sounds like a small- town establishment Republican in -- in the answers. We need to do the small things right. I mean, she really doesn't --\n\nCORNISH: Megahan says she sounds like a left-wing --\n\nDUBKE: Well, because that -- because that answer, that answer was just --\n\nHAYS: The answer -- first of all, the answer was incredible.\n\nCORNISH: But isn't that the point?\n\nDUBKE: To Meghan's point --\n\nCORNISH: Are they not making progress? These -- these people who have won. Right? Not in this case, but like Mamdani. They have said the things that people want to hear.\n\nAnd it hasn't been giant social safety net. Let's turn it into Sweden. They talk about the small things.\n\nDUBKE: I -- it sounds, when I listen to Meghan --\n\nCORNISH: Yes. She sounds concerned.\n\nDUBKE: -- who has paid a lot more attention to this than I probably have in terms of --\n\nDUBKE: -- this, because I don't live in D.C. I live in Virginia. Yes, they say the small things. But again, I think that's a lot of rhetoric rather than what they are going to do on the ground.\n\nThe third part of this is, this is where the Trump endorsement works in reverse. He came after her, and now she is leading in the polls.\n\nCORNISH: It raised her profile.\n\nDUBKE: It totally raised her profile.\n\nCORNISH: One last thing, Nicholas. I also noticed she's pushing a tax that would potentially tax the people more who live outside of the district --\n\nCORNISH: -- but own businesses in the district. What's the name of your business?\n\nCORNISH: But the point is more taxing is a huge part of these planks in these cities. Billionaire taxes, and Mamdani with his pied a terre tax.\n\nIs that something that you think, over time, we're going to see more of? Is that messaging that makes Democrats vulnerable?\n\nWU: Something that I heard across the board from most elected Democrats over the last year, when they've looked at Mamdani's election and other Democrats who've won primaries, is that having some sort of, like, concrete plan, regardless of how it comes into being, like, is something that they can learn from and something that they think other Democrats should run on.\n\nNow, the question for someone like, you know, the perhaps incoming mayor of D.C. is the fact that Congress has veto power over whatever they do. CORNISH: Yes. And Trump has already threatened like, hey, maybe we\n\nneed to take more action somehow.\n\nWU: Exactly. And, you know, Hill Republicans, you know, we've seen in the past have -- have, you know, taken their power to overturn what D.C. does. And so, if she does overstep, there is a risk of that.\n\nCORNISH: Yes. And there's -- and that's a good layer to remind people: that the fight here is not just regular city politics. It's city versus federal.\n\nNow, straight ahead on CNN THIS MORNING, we're going to talk about J.D. Vance. Why the vice president has become the face of the Iran deal for this White House.\n\nPlus, is it all about the money? Or do players really need a break? We're going to talk about this controversy over water breaks during the World Cup games.",
+  "segments": [
+    {
+      "seg": 1,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-18/segment/01",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\n'American Surrender' and 'Blunder': GOP Blasts Trump Agreement; Did Mayor Mamdani Confirm Taylor & Travis NYC Wedding Date?; Democratic Socialist Leads in Washington, D.C., Mayoral Primary. Aired 6-6:30a ET\n\nAired June 18, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nAUDIE CORNISH, CNN ANCHOR: Now that we've all seen the agreement President Trump signed with Iran, you have to ask, was it worth going to war over?\n\nSEN. BILL CASSIDY (R-LA): This will go down as a tremendous foreign policy blunder.\n\nCORNISH: And Vice President Vance better look out. The bus could be coming around the corner.\n\nDONALD TRUMP, U.S. PRESIDENT: This way, if it works out, I'm going to take the credit. If it doesn't work out, I'm blaming J.D. You better be careful, J.D.\n\nCORNISH: And the world champion New York Knicks get an invite to the White House. But will any of the players boycott?\n\nIn the meantime, World Cup fans are booing water breaks as a vibe killer that makes the games too -- I don't know -- American. So, is FIFA all wet?\n\nTRUMP: This was not easy, I can tell you.\n\nCORNISH: So, signed on the dotted line. The U.S. and Iran have both signed an agreement to end the war on all fronts, for better or worse, at least for the U.S. Good morning, everybody. I'm Audie Cornish. We're going to start with\n\nthe details of that agreement, but also the Republican response.\n\nConservative voices online, not pleased about what's in the text of this agreement, some calling it an American surrender, saying it's even worse than the Obama deal of 2015.\n\nNow, Nikki Haley called it a, quote, \"huge mistake to pay to rebuild the threat we just destroyed.\"\n\nSenator Ted Cruz told \"The Daily Wire\" he felt like Trump was getting very poor advice and called it ill-advised.\n\nIn the meantime, Senator Bill Cassidy took it one step further.\n\nCASSIDY: This will go down as a tremendous foreign policy blunder. Iran ends up stronger. Our allies in the region are weaker, and Iran has learned that, if they're willing to grab that Strait of Hormuz and choke it off, they can get the Western world to dance to their tune. I think it's a deep mistake.\n\nCORNISH: Today in the group chat, Nicholas Wu, congressional reporter at \"Semafor\"; Sina Azodi, director of Middle East studies programs at George Washington University; Mike Dubke, former Trump White House communications director; and Meghan Hays, former Biden White House director of message planning.\n\nSo, I want to start with you, Sina, because you've been watching this very closely. And one point interested me.\n\nIn the Obama deal, basically, the plan was you ship out all your enriched uranium, right? Iran had about, it says, 20 percent enriched. And they would send that somewhere. It ended up being Russia.\n\nBut in this deal -- in this deal, it's a little different. Basically, the stockpile, which at this point is at 60 percent, is kept inside Iran, and then will be down-blended locally. But it means they keep it on their soil.\n\nIs this one of the aspects of the deal that has people really upset?\n\nSINA AZODI, DIRECTOR OF MIDDLE EAST STUDIES PROGRAMS, GEORGE WASHINGTON UNIVERSITY: Well, what the JCPOA stipulated was that Iran would ship out 98 percent of its enriched uranium to Russia. Right.\n\nCORNISH: It leaves the country.\n\nAZODI: Leaves the country. In this case, I think for whatever reason -- it's distrust, the possibility of the U.S. leaving the deal again -- Iranians have insisted that it has to stay on their soil.\n\nBut to, let's say, mitigate the concerns for proliferation, they're going to down-blend it to 3.67 percent, which is low enriched uranium. And you use that for a nuclear power plant.\n\nAZODI: Doesn't have any weaponization concerns.\n\nCORNISH: Yes, but different from one leaves. One stays, basically.\n\nCORNISH: And the administration is saying, look, this -- this is a good solution, because it's going to get us to zero.\n\nBut it leads to my other point. It's not -- it's non-zero, not zero.\n\nCORNISH: And I know Israel said, look, there should be zero. No enrichment whatsoever. Nothing enriched anywhere. But that is not what this deal does.\n\nAZODI: No. And the problem -- and we've been dealing with this issue of the principal of enrichment in Iran for more than 20 years now.\n\nIran's interpretation, or the legal interpretation of the NPT, the article four of the NPT, their interpretation is that that right to use peaceful energy includes enrichment.\n\nThe U.S. side says, no, absolutely not. The text of the NPT doesn't say enrichment. So, they've been fighting over this on this legal interpretation.\n\nCORNISH: And that fight hasn't changed? Yes.\n\nAZODI: Hasn't changed -- changed. What President Obama did was that he said the enrichment in Iran is a fact on the ground. We can't change it.\n\nPresident Trump said, no, it's a bad deal. Withdrew. And we are back to 2018 now.\n\nCORNISH: Yes. So, the reason why I wanted to set the table with all that is, like, why would all these conservative voices be squawking about this? Right?\n\nWhy would the Lindsey Grahams of the world, who were all too happy to be a part of these strikes and have these demands on Iran, be so frustrated with what was signed?\n\nNicholas, what's your sense in Congress about, A, why they feel comfortable saying it out loud and why they're saying what they're saying?\n\nNICHOLAS WU, CONGRESSIONAL REPORTER, \"SEMAFOR\": Well, for Republicans on Capitol Hill that I've talked to, I mean, this strikes at the very heart of the issue for them; like, the issue of Iran's nuclear program, the reasons they went to war.\n\nThis all kind of comes to a head now, because this deal and what's emerging, by all accounts, in the view of these Republicans, didn't accomplish that goal.\n\nAnd so, for these Republicans who, you know, see this as a deeply held principle for them and know that they will outlast President Trump, they're willing to speak up about it now.\n\nCORNISH: Yes. It's interesting. As we are speaking, Mike Dubke --\n\nMIKE DUBKE, FORMER TRUMP WHITE HOUSE COMMUNICATIONS DIRECTOR: Yes.\n\nCORNISH: -- your favorite person just posted to Truth Social. President Trump says, look, \"These fools who think I haven't been tough enough on Iran when the Stock Market Just Hit a RECORD HIGH, and Oil prices are 'tumbling' down, are either jealous, bad people or stupid.\"\n\nSo, let's talk messaging.\n\nDUBKE: Well, first of all, this is just a framework. This isn't the total deal. So, we need to keep that in mind.\n\nI mean, we keep -- all the rhetoric I keep hearing is, you know, this deal, this deal, that. It's a framework to get to a deal.\n\nDUBKE: So, we can argue whether or not that's great or not. And I appreciate the -- the laughter on my left.\n\nThe other thing is when you're in a hole, what's the first rule? Stop digging. And I think that's where we are with this particular framework, this particular MOU, is that we are at a point.\n\nThe military in Iran has been degraded, whether or not it's been blasted to the Stone Age. Again, we can debate that. The ballistic missile stockpile has been degraded. Their ability to fund Hamas, Hezbollah and the Houthis --\n\nCORNISH: Yes. And we should say --\n\nDUBKE: -- has been degraded.\n\nCORNISH: -- Europe, NATO. Marc Rich (ph) was speaking earlier. I don't know if that was sound. But they're not saying, Oh, God, this is really bad. Right?\n\nWe heard Carney yesterday say, I like what I saw.\n\nMEGHAN HAYS, FORMER BIDEN WHITE HOUSE DIRECTOR OF MESSAGE PLANNING: Well, what are they supposed to do? They're standing with him. They're not going to say anything in front of him.\n\nFirst of all, we spent $1 billion a day fighting a war that no one wanted to go to. So, we spent over $100 billion there.\n\nWe spent $300 billion in this deal. So, now we're $400 billion when Americans don't have healthcare.\n\nDUBKE: We did not spend $300 billion in this deal. If --\n\nHAYS: You tell me, then --\n\nDUBKE: I just can't lay that. I just can't let you just get away with that.\n\nHAYS: But you tell me. OK.\n\nCORNISH: Yes. Let me give the fact check. There will be a $300 billion --\n\nCORNISH: -- investment fund. But a lot of people say, why should Iran have almost immediate access to investments in the world economy if it's still sitting on its enriched uranium and so much of this is not worked out yet?\n\nAZODI: I would say that a possibility of instability in Iran is a danger to everybody, the entire region.\n\nCORNISH: So, you think the money is necessary to restabilize?\n\nAZODI: To restabilize the country. And I think that it -- you know, just looking at President Trump's approach, investment, it could work for the Americans, too. A lot of jobs.\n\nThink of it: in 2015, Iran signed an agreement with Boeing to buy passenger planes, which never happened, because President Trump decided to leave.\n\nCORNISH: But you can hear why critics would say, Well, wait a second. Now were talking about investment with Iran, with a regime that fundamentally is not changed.\n\nHAYS: Exactly my point. So now, Americans are using -- the American taxpayers are paying for something that we never -- a war we didn't want to go to. Gas prices shot up, and got a huge mess to our global economy, not to mention our own economy here.\n\nAnd Trump doesn't seem to care. He just is like, Oh, if you're stupid, you don't like this. Well, they still have -- they still have the capability for nuclear power -- or nuclear war capabilities.\n\nThis is an agreement to -- to a deal, which this is the 39th time he said that we almost have a deal. So, at least we're one step closer there.\n\nBut I just don't understand how we are in this position that -- in a war that no one wanted to go to, and the American people are the ones suffering. CORNISH: Let me give Sina the last word, because he's here. And this\n\nwas signed at Versailles. Lots of things have been signed at Versailles.\n\nAZODI: A lot of things.\n\nCORNISH: But usually, when you call something a Versailles treaty, it's in foreign language policy land. Kind of an insult, right? It's a self-defeating agreement.\n\nWhat's your response to the critics out there who are making those analogies?\n\nAZODI: Look, I mean, absolutely what Meghan said, I mean, this was the -- President Trump didn't have to sign that peace deal at Versailles today. He could have had an agreement in February before he decided to go to war.\n\nHe was dragged into a war of choice that he didn't have to. Thirteen Americans died. Billions of dollars spent. He could have taken the deal that the Iranians had offered, and it was a pretty good deal compared to the JCPOA. And I know that President Trump is --\n\nCORNISH: Did not believe that.\n\nAZODI: -- very sensitive to the word \"JCPOA\" and Obama.\n\nAZODI: But that was a very good deal that he had on February 26 in Geneva.\n\nCORNISH: Well, the hope is -- from the White House that 60 days from now, whatever they have will be much better --\n\nCORNISH: -- than happened in 2015. Thank you so much for your expertise. I hope you can come back.\n\nAZODI: Thank you for having me.\n\nCORNISH: Coming up on CNN THIS MORNING, there's a new release date for Sean \"Diddy\" Combs. What this means for his time behind bars.\n\nAnd Swifties, did New York's mayor just let a secret slip?\n\nUNIDENTIFIED MALE: Taylor Swift wedding confirmed by Mamdani, you guys.\n\nCORNISH: It's now 14 minutes past the hour. This is your morning roundup.\n\nA tornado threat looming over the Midwest today. This morning, more than 65,000 people are actually still without power in the region after severe storms last night.\n\nThe National Weather Service reported several tornadoes and issued some of its highest-level tornado alerts.\n\nAnd Luigi Mangione's team will present a psychiatric defense in his state murder trial. They're expected to admit he killed the UnitedHealthcare CEO, but under an extreme emotional disturbance.\n\nMangione's sentence can be reduced from murder to manslaughter if this defense succeeds. That's the difference between life in prison and 25 years.\n\nThe state trial is set to begin this fall.\n\nAnd Sean \"Diddy\" Combs' federal release date changed again. It's now moved up from April 2028 to February 2028. And the reason is unclear.\n\nCombs is currently convicted on charges related to prostitution. He still faces dozens of lawsuits nationwide. His attorneys are appealing his formal conviction.\n\nNow, did New York City's mayor, Zohran Mamdani, just spill the beans on Taylor Swift and Travis Kelce's wedding? He appeared to confirm that the two would be getting married in the city this summer.\n\nMAYOR ZOHRAN MAMDANI (D), NEW YORK CITY: We are used to big events, and we are incredibly excited for this one. We know it coincides with the Knicks finals run. We know it coincides with July 4th. America 250, Taylor Swift's wedding all happening at the same time.\n\nUNIDENTIFIED MALE: You did mention Taylor Swift's wedding. Have you been invited? Are you going? Do you, like -- Is there anything we need to know about that, sir? Thank you.\n\nMAMDANI: No and no. I -- I wish them a lovely wedding.\n\nCORNISH: TMZ reported the two are getting married at Madison Square Garden on July 4th weekend, but that has not been confirmed.\n\nMeghan, I'm sure you have thoughts.\n\nHAYS: Well, I don't understand why Mamdani would know about it if he's not been invited, so I just -- I mean, maybe -- DUBKE: Well, they have to have security for this small, intimate\n\naffair at Madison Square Garden.\n\nHAYS: I thought that's why they were getting married there.\n\nHAYS: Because there's a lot of security.\n\nCORNISH: I think we've had a recent example of what it's like to secure the area. That's not ideal.\n\nHAYS: Maybe it's all part of the ruse that they're not actually getting married there. And he's throwing everyone off and, like, part of it. Maybe that's it.\n\nDUBKE: I mean, I guess the Bezos wedding in Venice --\n\nDUBKE: -- was a small affair compared to Madison Square Garden.\n\nDUBKE: Is she giving a concert?\n\nCORNISH: Were just going to -- we're going to wait for the puzzle pieces to be dropped via Instagram, the way most wedding invites happen these days.\n\nCORNISH: Now, after the break on CNN THIS MORNING, the Obama Presidential Center opens today. Will his star-studded grand opening dwarf President Trump's 250th celebrations?\n\nPlus, the World Cup's most controversial time-out. Are hydration breaks helping the players or the networks?\n\nAnd good morning to our viewers in Chicago. We're taking a live look at the sunrise there over the skyline.\n\nCORNISH: So, we're going to ask whether Washington, D.C., is taking a page out of New York City's political playbook after the win of Zohran Mamdani.\n\nNow, ballots are still being counted here, but in the Democratic mayoral primary, holding a commanding lead is Democratic socialist Janeese Lewis George. And here's how she described what Democratic socialism means to her.\n\n(BEGIN VIDEO CLIP) JANEESE LEWIS GEORGE (D), WASHINGTON D.C. MAYORAL CANDIDATE: I think this moment calls for that level of moral clarity and courage. It calls for this level of ingenuity.\n\nAnd it calls for a leader who is focused on putting people first and delivering on the small things, right? So, our (ph) socialism is talking about just making sure your 911 system works, your 311 works, your trash gets picked up, your snow gets plowed. Those basic things that make a difference in everyone's lives.\n\nCORNISH: OK. Group chat is back. I wanted to talk about this, because this follows so many other cities where you have seen someone who identifies as a Democratic socialist advance.\n\nNow, unlike Mamdani, she's not promising government-run supermarkets. Right? Which I don't think anyone is holding their breath for that.\n\nBut she wants to build 72,000 new housing units, expand rent control, and promise a universal childcare subsidy. And Meghan, I wanted to ask you, does any of this kind of language, does it redefine for people that term, socialism?\n\nHAYS: Socialism? Well, socialists are not Democrats. So, I'm confused why Democrats are still thinking that the DSA members are Democrats, because they are not.\n\nI think that the problem I have with this is she's against a lot of the public safety issues that we face in D.C. and doesn't want to have curfews for teens. And there's a huge public safety problem.\n\nCORNISH: We should say, she's a former prosecutor, right? So --\n\nHAYS: But she does not believe in the curfew.\n\nHAYS: There's a lot of things going on here. So, I don't necessarily know that it defines it. I think that, just like people in New York. And if you live in Cincinnati or Sacramento, you want your mayor to do the very basic things. We want the rats gone. You want public safety.\n\nHAY: You want 311 to work, and --\n\nCORNISH: But can I charge something?\n\nTwo things on her plank. While they may fall under Democratic socialism, they actually sound very much like things the modern Democratic Party is talking about: housing.\n\nThe abundance Democrats, all they talk about is housing and zoning. All right. When you talk about what you're saying is lenient crime policies, to\n\nme, this threads back to very kind of common language from 2020 and beyond, around how to fight crime without leaning on violence from police. Like, they're saying things that are not disconnected from what average Democrats think.\n\nHAYS: I mean, sure. I mean, I don't disagree. I don't agree with the abolish ICE and all the things that -- some of the rhetoric she has said.\n\nBut also, we need -- there are a ton of places to live here that are not affordable. I don't -- I don't know enough about her housing policy to comment.\n\nI just am not -- I am not a fan of the Democratic Party sliding so far to the left. And it is going to impact these cities. It's going to impact places. It's already impacting places like New York, and it's going to impact places like D.C.\n\nWe need actual governance, and I need people to pick up trash, remove snow, which we clearly didn't do this year. But this is a lot about anti-incumbency.\n\nCORNISH: So, it sounds like this messaging, you're excited about this messaging. Meghan's going to be in the ads.\n\nDUBKE: First of all -- first of all, I feel like we're in California, because they're still counting the votes.\n\nCORNISH: Wait, it's been a day.\n\nDUBKE: They're still counting the votes. Secondly -- we don't even have to talk about ranked choice voting.\n\nSecondly, I -- I listened to that clip, and she sounds like a small- town establishment Republican in -- in the answers. We need to do the small things right. I mean, she really doesn't --\n\nCORNISH: Megahan says she sounds like a left-wing --\n\nDUBKE: Well, because that -- because that answer, that answer was just --\n\nHAYS: The answer -- first of all, the answer was incredible.\n\nCORNISH: But isn't that the point?\n\nDUBKE: To Meghan's point --\n\nCORNISH: Are they not making progress? These -- these people who have won. Right? Not in this case, but like Mamdani. They have said the things that people want to hear.\n\nAnd it hasn't been giant social safety net. Let's turn it into Sweden. They talk about the small things.\n\nDUBKE: I -- it sounds, when I listen to Meghan --\n\nCORNISH: Yes. She sounds concerned.\n\nDUBKE: -- who has paid a lot more attention to this than I probably have in terms of --\n\nDUBKE: -- this, because I don't live in D.C. I live in Virginia. Yes, they say the small things. But again, I think that's a lot of rhetoric rather than what they are going to do on the ground.\n\nThe third part of this is, this is where the Trump endorsement works in reverse. He came after her, and now she is leading in the polls.\n\nCORNISH: It raised her profile.\n\nDUBKE: It totally raised her profile.\n\nCORNISH: One last thing, Nicholas. I also noticed she's pushing a tax that would potentially tax the people more who live outside of the district --\n\nCORNISH: -- but own businesses in the district. What's the name of your business?\n\nCORNISH: But the point is more taxing is a huge part of these planks in these cities. Billionaire taxes, and Mamdani with his pied a terre tax.\n\nIs that something that you think, over time, we're going to see more of? Is that messaging that makes Democrats vulnerable?\n\nWU: Something that I heard across the board from most elected Democrats over the last year, when they've looked at Mamdani's election and other Democrats who've won primaries, is that having some sort of, like, concrete plan, regardless of how it comes into being, like, is something that they can learn from and something that they think other Democrats should run on.\n\nNow, the question for someone like, you know, the perhaps incoming mayor of D.C. is the fact that Congress has veto power over whatever they do. CORNISH: Yes. And Trump has already threatened like, hey, maybe we\n\nneed to take more action somehow.\n\nWU: Exactly. And, you know, Hill Republicans, you know, we've seen in the past have -- have, you know, taken their power to overturn what D.C. does. And so, if she does overstep, there is a risk of that.\n\nCORNISH: Yes. And there's -- and that's a good layer to remind people: that the fight here is not just regular city politics. It's city versus federal.\n\nNow, straight ahead on CNN THIS MORNING, we're going to talk about J.D. Vance. Why the vice president has become the face of the Iran deal for this White House.\n\nPlus, is it all about the money? Or do players really need a break? We're going to talk about this controversy over water breaks during the World Cup games."
+    }
+  ]
+}

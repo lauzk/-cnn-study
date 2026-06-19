@@ -1,0 +1,619 @@
+{
+  "date": "2026-06-18",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-18/segment/02",
+  "vocabulary": [
+    {
+      "word": "hydration break",
+      "phonetic": "/haɪˈdreɪʃən breɪk/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "补水暂停",
+      "en": "a short pause during a game for players to drink water",
+      "excerpt": "World Cup fans saying give me a break when it comes to FIFA's new three-minute hydration breaks in each half of every game.",
+      "example_cn": "世界杯球迷对国际足联每半场新增的三分钟补水暂停表示不满。"
+    },
+    {
+      "word": "ruin the flow",
+      "phonetic": "/ˈruːɪn ðə floʊ/",
+      "pos": "v. phrase",
+      "level": "六级",
+      "cn": "破坏节奏",
+      "en": "to disrupt the natural progression or continuity",
+      "excerpt": "Critics feel that they're ruining the flow of the game.",
+      "example_cn": "批评者认为它们破坏了比赛的流畅性。"
+    },
+    {
+      "word": "capitalize on",
+      "phonetic": "/ˈkæpɪtəlaɪz ɒn/",
+      "pos": "v. phrase",
+      "level": "六级",
+      "cn": "利用",
+      "en": "to take advantage of a situation for profit or gain",
+      "excerpt": "when it comes to capitalizing on the capital, the two networks airing the World Cup, Fox and Telemundo, are taking different approaches during these breaks.",
+      "example_cn": "在利用这一资本方面，转播世界杯的两家电视网福克斯和Telemundo采取了不同的策略。"
+    },
+    {
+      "word": "full screen commercial",
+      "phonetic": "/fʊl skriːn kəˈmɜːrʃəl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "全屏广告",
+      "en": "an advertisement that occupies the entire screen",
+      "excerpt": "Fox is airing full screen commercials and Telemundo is not.",
+      "example_cn": "福克斯播放全屏广告，而Telemundo没有。"
+    },
+    {
+      "word": "authentic",
+      "phonetic": "/ɔːˈθentɪk/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "真实的",
+      "en": "genuine, real, not fake",
+      "excerpt": "Telemundo says they want to create an authentic World Cup experience without cutting away from the action.",
+      "example_cn": "Telemundo表示他们希望创造真实的世界杯体验，不中断比赛画面。"
+    },
+    {
+      "word": "flatten the tempo",
+      "phonetic": "/ˈflætən ðə ˈtempoʊ/",
+      "pos": "v. phrase",
+      "level": "六级",
+      "cn": "拖慢节奏",
+      "en": "to reduce the speed or intensity of play",
+      "excerpt": "this completely flattened our tempo and it gives the opposition a free tactical time-out to completely neutralize our press.",
+      "example_cn": "这完全拖慢了我们的节奏，给了对手一个免费的战术暂停来完全化解我们的逼抢。"
+    },
+    {
+      "word": "neutralize",
+      "phonetic": "/ˈnuːtrəlaɪz/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "抵消，使无效",
+      "en": "to counteract or render ineffective",
+      "excerpt": "it gives the opposition a free tactical time-out to completely neutralize our press.",
+      "example_cn": "它给了对手一个免费的战术暂停来完全化解我们的逼抢。"
+    },
+    {
+      "word": "from FIFA's purview",
+      "phonetic": "/frəm ˈfiːfəz pərˈvjuː/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "从国际足联的角度",
+      "en": "from FIFA's perspective or area of responsibility",
+      "excerpt": "I'd imagine for FIFA's -- from FIFA's purview, they established this to put in some consistency.",
+      "example_cn": "我想从国际足联的角度来看，他们设立这个是为了保持一致性。"
+    },
+    {
+      "word": "even the playing field",
+      "phonetic": "/ˈiːvən ðə ˈpleɪɪŋ fiːld/",
+      "pos": "v. phrase",
+      "level": "六级",
+      "cn": "创造公平竞争环境",
+      "en": "to make a situation fair for everyone involved",
+      "excerpt": "this was something that evens the playing field when it's involved in every game.",
+      "example_cn": "当每场比赛都采用时，这能创造公平的竞争环境。"
+    },
+    {
+      "word": "at the forefront",
+      "phonetic": "/æt ðə ˈfɔːrfrʌnt/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "处于最前沿",
+      "en": "in the most important or leading position",
+      "excerpt": "player safety is at the -- at the forefront of this.",
+      "example_cn": "球员安全是首要考虑。"
+    },
+    {
+      "word": "must watch",
+      "phonetic": "/mʌst wɒtʃ/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "必看的",
+      "en": "something that is highly recommended to watch",
+      "excerpt": "the tournament's been full of upsets, so every game is must watch.",
+      "example_cn": "本届赛事冷门频出，所以每场比赛都是必看的。"
+    },
+    {
+      "word": "flash doc",
+      "phonetic": "/flæʃ dɒk/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "快闪纪录片",
+      "en": "a short documentary produced quickly",
+      "excerpt": "We've got a flash doc \"Chasing Soccer Glory: America's Long Game.\"",
+      "example_cn": "我们有一部快闪纪录片《追逐足球荣耀：美国的持久战》。"
+    },
+    {
+      "word": "grand opening",
+      "phonetic": "/ɡrænd ˈoʊpənɪŋ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "盛大开幕",
+      "en": "a formal event to celebrate the opening of a new place",
+      "excerpt": "the Obama Presidential Center is opening. It's been an emotional week leading up to it.",
+      "example_cn": "奥巴马总统中心今天开放。此前的一周情绪激动。"
+    },
+    {
+      "word": "ingrained in pop culture",
+      "phonetic": "/ɪnˈɡreɪnd ɪn pɒp ˈkʌltʃər/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "深深融入流行文化",
+      "en": "firmly established in popular culture",
+      "excerpt": "Obama has always been ingrained in pop culture.",
+      "example_cn": "奥巴马一直深深融入流行文化。"
+    },
+    {
+      "word": "lineup of performers",
+      "phonetic": "/ˈlaɪnʌp əv pərˈfɔːrmərz/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "演出阵容",
+      "en": "the list of artists scheduled to perform",
+      "excerpt": "The lineup of performers includes Stevie Wonder, U2's Bono, The Edge, Bruce Springsteen, Jennifer Hudson, The Roots, among others.",
+      "example_cn": "演出阵容包括史蒂夫·旺德、U2的波诺、The Edge、布鲁斯·斯普林斯汀、詹妮弗·哈德森、The Roots等。"
+    },
+    {
+      "word": "change up",
+      "phonetic": "/tʃeɪndʒ ʌp/",
+      "pos": "v. phrase",
+      "level": "六级",
+      "cn": "改变",
+      "en": "to alter or vary something",
+      "excerpt": "former presidents, Biden, Bush and Clinton are changing up their usual meeting spot, funerals, to be there for Obama.",
+      "example_cn": "前总统拜登、布什和克林顿改变了他们通常的会面地点（葬礼），前往那里支持奥巴马。"
+    },
+    {
+      "word": "group chat",
+      "phonetic": "/ɡruːp tʃæt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "群聊",
+      "en": "a conversation among multiple people in a messaging app",
+      "excerpt": "So, the group chat is back.",
+      "example_cn": "所以，群聊又回来了。"
+    },
+    {
+      "word": "reference",
+      "phonetic": "/ˈrefərəns/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "提及，引用",
+      "en": "to mention or allude to",
+      "excerpt": "all week President Trump has been referencing Obama.",
+      "example_cn": "整个星期特朗普总统都在提及奥巴马。"
+    },
+    {
+      "word": "legacy",
+      "phonetic": "/ˈleɡəsi/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "遗产，遗留影响",
+      "en": "something handed down from the past, often a lasting impact",
+      "excerpt": "this is a president's own telling of his legacy.",
+      "example_cn": "这是总统对自己遗产的讲述。"
+    },
+    {
+      "word": "immortalize",
+      "phonetic": "/ɪˈmɔːrtəlaɪz/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "使不朽",
+      "en": "to make someone or something famous for a long time",
+      "excerpt": "how do you immortalize -- you know, when Obama was the cool president with a Blackberry and sending tweets.",
+      "example_cn": "你如何使奥巴马——那个用黑莓手机发推文的酷总统——永垂不朽？"
+    },
+    {
+      "word": "carve out",
+      "phonetic": "/kɑːrv aʊt/",
+      "pos": "v. phrase",
+      "level": "六级",
+      "cn": "切除，去除",
+      "en": "to remove or eliminate something",
+      "excerpt": "black American history has been carved out of the halls of the federal government with a -- with like a butcher knife.",
+      "example_cn": "非裔美国人的历史被像用屠刀一样从联邦政府的大厅中剔除。"
+    },
+    {
+      "word": "on purpose",
+      "phonetic": "/ɒn ˈpɜːrpəs/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "故意地",
+      "en": "intentionally",
+      "excerpt": "them doing this library on Juneteenth week is on purpose and is significant.",
+      "example_cn": "他们在六月节这一周开放图书馆是故意的，而且意义重大。"
+    },
+    {
+      "word": "alternative",
+      "phonetic": "/ɔːlˈtɜːrnətɪv/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "替代的",
+      "en": "offering a choice between two or more things",
+      "excerpt": "they're creating an alternative, historical celebration for people who feel like part of their history is forgotten.",
+      "example_cn": "他们正在为那些觉得自己的部分历史被遗忘的人们创造一个替代性的历史庆典。"
+    },
+    {
+      "word": "ring true",
+      "phonetic": "/rɪŋ truː/",
+      "pos": "v. phrase",
+      "level": "六级",
+      "cn": "听起来真实",
+      "en": "to sound or seem true or genuine",
+      "excerpt": "I think that that sentiment rings true, probably not only to black Americans, but all Americans.",
+      "example_cn": "我认为这种情感听起来很真实，可能不仅对非裔美国人，而且对所有美国人都是如此。"
+    },
+    {
+      "word": "disregard",
+      "phonetic": "/ˌdɪsrɪˈɡɑːrd/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "漠视",
+      "en": "lack of attention or respect",
+      "excerpt": "the complete disregard for the majority of the American people who are not in his billionaire class.",
+      "example_cn": "完全漠视不属于他亿万富翁阶层的绝大多数美国人民。"
+    },
+    {
+      "word": "undiminished",
+      "phonetic": "/ˌʌndɪˈmɪnɪʃt/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "未减弱的",
+      "en": "not reduced or lessened",
+      "excerpt": "for her to be able to stand up on stage -- undiminished, I think, is also a significant moment.",
+      "example_cn": "她能够站在舞台上——毫不逊色，我认为这也是一个重要时刻。"
+    },
+    {
+      "word": "fall guy",
+      "phonetic": "/fɔːl ɡaɪ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "替罪羊",
+      "en": "a person who is blamed for something that is not their fault",
+      "excerpt": "So, is Vance becoming the closer or the fall guy?",
+      "example_cn": "那么，万斯是成为终结者还是替罪羊？"
+    },
+    {
+      "word": "architect",
+      "phonetic": "/ˈɑːrkɪtekt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "设计师，策划者",
+      "en": "a person who designs and oversees the construction of something, often used metaphorically",
+      "excerpt": "All that would do would be to put the architect of the deal into the Oval Office.",
+      "example_cn": "那只会把该协议的策划者送进椭圆形办公室。"
+    },
+    {
+      "word": "isolationist wing",
+      "phonetic": "/ˌaɪsəˈleɪʃənɪst wɪŋ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "孤立主义派系",
+      "en": "a faction within a political party that advocates for isolationism",
+      "excerpt": "there was so much made of J.D. Vance's role representing the voice of the isolationist wing of the party.",
+      "example_cn": "关于J.D.万斯代表党内孤立主义派系的声音，有很多讨论。"
+    },
+    {
+      "word": "belly of the beast",
+      "phonetic": "/ˈbeli əv ðə biːst/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "虎穴，危险之地",
+      "en": "the most dangerous or hostile part of a place",
+      "excerpt": "Go into the belly of the beast, right, to have a conversation about this.",
+      "example_cn": "深入虎穴，对吧，来讨论这个问题。"
+    },
+    {
+      "word": "accrue",
+      "phonetic": "/əˈkruː/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "积累",
+      "en": "to accumulate over time",
+      "excerpt": "The benefits of the bargain only accrue again if Iran actually complies.",
+      "example_cn": "只有伊朗真正遵守，协议的好处才会再次积累。"
+    },
+    {
+      "word": "no skin off our back",
+      "phonetic": "/noʊ skɪn ɔːf aʊər bæk/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "对我们没损失",
+      "en": "it does not affect or harm us",
+      "excerpt": "if they don't follow through, there's no skin off our back.",
+      "example_cn": "如果他们不履行，对我们也没损失。"
+    },
+    {
+      "word": "beat back",
+      "phonetic": "/biːt bæk/",
+      "pos": "v. phrase",
+      "level": "六级",
+      "cn": "击退",
+      "en": "to repel or fight against",
+      "excerpt": "I'm not seeing Vance spending a lot of time beating back Democratic criticism.",
+      "example_cn": "我没看到万斯花很多时间回击民主党的批评。"
+    },
+    {
+      "word": "timing is everything",
+      "phonetic": "/ˈtaɪmɪŋ ɪz ˈevriθɪŋ/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "时机决定一切",
+      "en": "the success of something depends heavily on when it happens",
+      "excerpt": "So, timing is everything in politics.",
+      "example_cn": "在政治中，时机决定一切。"
+    },
+    {
+      "word": "memorandum of understanding",
+      "phonetic": "/ˌmeməˈrændəm əv ˌʌndərˈstændɪŋ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "谅解备忘录",
+      "en": "a document outlining the terms of an agreement between parties",
+      "excerpt": "the vice president had the unfortunate timing issue of releasing a book and booking -- pre-booking all of these shows prior to the memorandum of understanding that got signed or didn't get signed on Sunday.",
+      "example_cn": "副总统不幸在周日谅解备忘录签署或未签署之前发布了新书并预定了所有这些节目。"
+    },
+    {
+      "word": "setup",
+      "phonetic": "/ˈsetʌp/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "圈套，设计",
+      "en": "a situation where someone is tricked or placed in a difficult position",
+      "excerpt": "I felt like there was a little bit of a setup there.",
+      "example_cn": "我觉得那里有点像是设了个圈套。"
+    },
+    {
+      "word": "beat the allegations",
+      "phonetic": "/biːt ði ˌæləˈɡeɪʃənz/",
+      "pos": "v. phrase",
+      "level": "六级",
+      "cn": "反驳指控",
+      "en": "to refute or disprove accusations",
+      "excerpt": "Well, you're not beating the allegations here of saying that the White House is setting him up.",
+      "example_cn": "你并没有反驳白宫在给他设圈套的指控。"
+    },
+    {
+      "word": "war of choice",
+      "phonetic": "/wɔːr əv tʃɔɪs/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "选择性战争",
+      "en": "a war that is entered into by choice rather than necessity",
+      "excerpt": "our gas prices went up because we went into a war of choice by Donald Trump.",
+      "example_cn": "我们的油价上涨是因为我们卷入了唐纳德·特朗普发动的一场选择性战争。"
+    },
+    {
+      "word": "deputize",
+      "phonetic": "/ˈdepjutaɪz/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "委任为代表",
+      "en": "to appoint someone as a deputy or representative",
+      "excerpt": "the vice president, in many ways it would be deputized to carry out the presidents message, right?",
+      "example_cn": "副总统在很多方面被委任去传达总统的信息，对吧？"
+    },
+    {
+      "word": "high risk, high reward",
+      "phonetic": "/haɪ rɪsk haɪ rɪˈwɔːrd/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "高风险高回报",
+      "en": "a situation where the potential gain is proportional to the risk involved",
+      "excerpt": "it's very high risk, high reward here.",
+      "example_cn": "这是高风险高回报的。"
+    },
+    {
+      "word": "ticker tape parade",
+      "phonetic": "/ˈtɪkər teɪp pəˈreɪd/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "彩带游行",
+      "en": "a parade where shredded paper is thrown from buildings to honor a person or event",
+      "excerpt": "the Knicks were invited to be at the White House, ticker tape parade today.",
+      "example_cn": "尼克斯队被邀请前往白宫，今天有彩带游行。"
+    },
+    {
+      "word": "boycott",
+      "phonetic": "/ˈbɔɪkɒt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "抵制",
+      "en": "to refuse to participate in or buy something as a protest",
+      "excerpt": "it's not unusual for NBA players to boycott the White House.",
+      "example_cn": "NBA球员抵制白宫并不罕见。"
+    },
+    {
+      "word": "antagonistic",
+      "phonetic": "/ænˌtæɡəˈnɪstɪk/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "敌对的",
+      "en": "showing hostility or opposition",
+      "excerpt": "Trump has had an antagonistic relationship with black athletes for a long time.",
+      "example_cn": "特朗普与黑人运动员长期处于敌对关系。"
+    },
+    {
+      "word": "side hustle",
+      "phonetic": "/saɪd ˈhʌsl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "副业",
+      "en": "a secondary job or business",
+      "excerpt": "there's always some sort of side hustle going on with the Trumps.",
+      "example_cn": "特朗普家族总是有些副业在进行。"
+    },
+    {
+      "word": "incense",
+      "phonetic": "/ɪnˈsens/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "激怒",
+      "en": "to make someone very angry",
+      "excerpt": "And incensing the entire Knicks nation all at once.",
+      "example_cn": "并且一下子激怒了整个尼克斯球迷群体。"
+    },
+    {
+      "word": "ubiquitousness",
+      "phonetic": "/juːˈbɪkwɪtəsnəs/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "无处不在",
+      "en": "the state of being everywhere at once",
+      "excerpt": "It may be the ubiquitousness of cameras everywhere.",
+      "example_cn": "可能是因为摄像头无处不在。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "But I was listening to an after game press conference and I think it was the coach for the English national team, he said, look, this completely flattened our tempo and it gives the opposition a free tactical time-out to completely neutralize our press.",
+      "cn": "但我听了赛后新闻发布会，我想是英格兰国家队的主教练，他说，看，这完全拖慢了我们的节奏，给了对手一个免费的战术暂停来完全化解我们的逼抢。",
+      "structure": "复合句，主句为I was listening... and I think...，后接宾语从句it was the coach...，再后接直接引语he said...，引语中包含并列句this flattened... and it gives...",
+      "analysis": "该句包含多层嵌套：主句描述动作，宾语从句说明对象，直接引语引用原话。引语中两个并列分句说明补水暂停的两个负面影响：拖慢节奏和提供战术暂停。"
+    },
+    {
+      "en": "I'd imagine for FIFA's -- from FIFA's purview, they established this to put in some consistency because there are going to be some games that will have it just because of the temperature and some that wouldn't.",
+      "cn": "我想从国际足联的角度来看，他们设立这个是为了保持一致性，因为有些比赛会因为温度而采用，有些则不会。",
+      "structure": "主句I'd imagine，后接介词短语from FIFA's purview，主句谓语established，不定式to put in some consistency作目的状语，because引导原因状语从句，从句中包含两个定语从句that will have it和that wouldn't。",
+      "analysis": "句子结构清晰，主句表达观点，原因从句解释设立补水暂停的原因：为了统一规则，避免因温度不同而标准不一。"
+    },
+    {
+      "en": "And as long as every team knows that they're going to have that benefit, I think it evens it out.",
+      "cn": "只要每支球队都知道他们将享有这一好处，我认为这就公平了。",
+      "structure": "as long as引导条件状语从句，从句中包含that引导的宾语从句，主句为I think it evens it out。",
+      "analysis": "条件状语从句强调前提条件，主句表达结论。\"evens it out\"是习语，意为使公平。"
+    },
+    {
+      "en": "But I don't think a 60 second break is really going to change tactics or player physicality that much that it's going to have any impact on the outcome of the game.",
+      "cn": "但我不认为60秒的暂停真的会改变战术或球员体能到足以影响比赛结果的程度。",
+      "structure": "主句I don't think，后接宾语从句a 60 second break is...，从句中包含so...that...结构（省略so），that引导结果状语从句。",
+      "analysis": "否定转移：主句否定转移到从句。\"that much that\"相当于\"so much that\"，表示程度。"
+    },
+    {
+      "en": "In an era where DEI has been completely, not just DEI. When black American history has been carved out of the halls of the federal government with a -- with like a butcher knife, them doing this library on Juneteenth week is on purpose and is significant.",
+      "cn": "在一个DEI被完全——不仅仅是DEI——非裔美国人的历史被像用屠刀一样从联邦政府的大厅中剔除的时代，他们在六月节这一周开放图书馆是故意的，而且意义重大。",
+      "structure": "复合句，主句为them doing this library... is on purpose and is significant，前面有两个定语从句：where DEI has been...和when black American history has been...。",
+      "analysis": "两个定语从句并列修饰era，强调时代背景。主句主语是动名词短语them doing this library，谓语是系动词is加表语。"
+    },
+    {
+      "en": "I heard an interview with Valerie Jarrett last night where she said that this is a place for hope to live on.",
+      "cn": "昨晚我听了对瓦莱丽·贾勒特的采访，她说这是一个让希望延续的地方。",
+      "structure": "主句I heard an interview，where引导定语从句修饰interview，从句中包含that引导的宾语从句。",
+      "analysis": "定语从句where she said...修饰interview，宾语从句this is a place...是said的内容。"
+    },
+    {
+      "en": "And I think that that sentiment rings true, probably not only to black Americans, but all Americans who believe that we are living in chaos and just don't agree with the way that Trump goes about with the slashing of DEI and just the complete disregard for the majority of the American people who are not in his billionaire class.",
+      "cn": "我认为这种情感听起来很真实，可能不仅对非裔美国人，而且对所有相信我们生活在混乱中、不认同特朗普削减DEI的方式以及完全漠视不属于他亿万富翁阶层的绝大多数美国人民的美国人来说都是如此。",
+      "structure": "主句I think，后接that引导的宾语从句，从句主语that sentiment，谓语rings true，后接not only...but...结构，but后all Americans带who引导的定语从句，定语从句中包含两个并列谓语believe和don't agree with，don't agree with后接the way带that引导的定语从句，以及the complete disregard带who引导的定语从句。",
+      "analysis": "句子结构复杂，包含多层定语从句和并列结构。核心是表达这种情感的真实性及其适用范围。"
+    },
+    {
+      "en": "But I do think that we are in a place where a lot of people do not want to celebrate where we are at in our country's history.",
+      "cn": "但我确实认为我们正处于一个很多人不想庆祝我们国家历史现状的境地。",
+      "structure": "主句I do think，后接that引导的宾语从句，从句中包含where引导的定语从句修饰place，定语从句中又包含where引导的宾语从句作celebrate的宾语。",
+      "analysis": "强调结构do think加强语气。两个where从句分别作定语和宾语，表达地点和内容。"
+    },
+    {
+      "en": "And I would love for the artists that canceled on the America 250 not to have done that and to see beyond whatever partisan politics are happening now in this -- in this time.",
+      "cn": "我希望那些取消参加美国250活动的艺术家们没有那样做，并且能够超越当前正在发生的任何党派政治。",
+      "structure": "主句I would love，后接for the artists... not to have done that and to see...，其中that canceled on the America 250是定语从句修饰artists，whatever partisan politics are happening now是宾语从句作see beyond的宾语。",
+      "analysis": "would love for sb to do sth结构，表示希望某人做某事。not to have done that是完成时不定式，表示过去未发生的动作。"
+    },
+    {
+      "en": "But I do think that people don't want to be up on stage with Donald Trump, who you never know what he's going to say, you don't know what his cabinet is going to say, you don't know what the people who support him are going to say, and they run the risk.",
+      "cn": "但我确实认为人们不想和唐纳德·特朗普同台，因为你永远不知道他会说什么，你不知道他的内阁会说什么，你不知道支持他的人会说什么，他们冒着风险。",
+      "structure": "主句I do think，后接that引导的宾语从句，从句中包含who引导的非限制性定语从句修饰Donald Trump，定语从句中又包含三个并列的you don't know what...从句，以及and they run the risk。",
+      "analysis": "强调结构do think。非限制性定语从句解释原因，三个并列从句列举不确定性，最后总结风险。"
+    },
+    {
+      "en": "I just don't think that people who are criticizing this, one, they're not actually dealing with the reality of what's in it. And number two, they don't have an alternative.",
+      "cn": "我只是认为那些批评的人，第一，他们实际上没有面对协议内容的现实；第二，他们没有替代方案。",
+      "structure": "主句I just don't think，后接that引导的宾语从句，从句主语people，who are criticizing this是定语从句，谓语部分包含两个并列分句：they're not...和they don't...。",
+      "analysis": "否定转移。宾语从句中列举两点批评者的不足。"
+    },
+    {
+      "en": "We've cut what is fundamentally a good deal for the American people, assuming the Iranians follow through.",
+      "cn": "我们达成了一项对美国人民来说基本上是好协议的协议，前提是伊朗人履行承诺。",
+      "structure": "主句We've cut，后接what引导的宾语从句，assuming...是现在分词短语作条件状语。",
+      "analysis": "what从句作cut的宾语，assuming表示假设条件。"
+    },
+    {
+      "en": "And if they don't follow through, there's no skin off our back.",
+      "cn": "如果他们不履行，对我们也没损失。",
+      "structure": "if引导条件状语从句，主句为there's no skin off our back。",
+      "analysis": "条件句，主句使用习语\"no skin off our back\"，意为没有损失。"
+    },
+    {
+      "en": "So, the vice president had the unfortunate timing issue of releasing a book and booking -- pre-booking all of these shows prior to the memorandum of understanding that got signed or didn't get signed on Sunday.",
+      "cn": "所以，副总统不幸在周日谅解备忘录签署或未签署之前发布了新书并预定了所有这些节目。",
+      "structure": "主句the vice president had... issue，of releasing... and booking...是介词短语作定语修饰issue，prior to...是时间状语，that got signed or didn't get signed是定语从句修饰memorandum of understanding。",
+      "analysis": "句子核心是timing issue，说明副总统的时机选择不当。"
+    },
+    {
+      "en": "I mean, I think that this is like -- are we just trying to hide that Jared Kushner was actually the one negotiating this deal, who does not work for the United States government?",
+      "cn": "我的意思是，我认为这就像——我们是不是在试图掩盖实际上是贾里德·库什纳在谈判这笔交易，而他并不为美国政府工作？",
+      "structure": "主句I think，后接that引导的宾语从句，从句中包含are we just trying to hide...，hide后接that引导的宾语从句，宾语从句中包含who引导的非限制性定语从句修饰Jared Kushner。",
+      "analysis": "反问句形式，表达质疑。定语从句补充说明库什纳的身份。"
+    },
+    {
+      "en": "But I don't think the American people are that stupid to realize their gas prices went up because we went into a war of choice by Donald Trump.",
+      "cn": "但我不认为美国人民会愚蠢到意识不到他们的油价上涨是因为我们卷入了唐纳德·特朗普发动的一场选择性战争。",
+      "structure": "主句I don't think，后接that引导的宾语从句（省略that），从句中包含so...that...结构（省略so），that引导结果状语从句，结果状语从句中包含because引导的原因状语从句。",
+      "analysis": "否定转移。\"that stupid\"相当于\"so stupid\"，结果状语从句说明愚蠢的程度。"
+    },
+    {
+      "en": "And so, with Vance, it's very high risk, high reward here. If they manage to actually pull this off, you know, he can settle a lot of the critics on the right who, you know, see him as maybe not as much in Trump's mold.",
+      "cn": "所以，对万斯来说，这是高风险高回报。如果他们真的成功实现，他可以平息许多右翼批评者，这些人认为他可能不太符合特朗普的模式。",
+      "structure": "第一句简单句。第二句if引导条件状语从句，主句he can settle... critics，who引导定语从句修饰critics。",
+      "analysis": "条件句说明成功后的结果。定语从句解释批评者的观点。"
+    },
+    {
+      "en": "And if he fails, you know, that that could also very much harm his chances in the future.",
+      "cn": "如果他失败了，那也可能极大地损害他未来的机会。",
+      "structure": "if引导条件状语从句，主句that could harm...，其中第一个that是连词引导主语从句（省略），第二个that是主语从句的主语。",
+      "analysis": "条件句，主句主语从句that...作主语。"
+    },
+    {
+      "en": "But I also think what the Knicks players are going to do is look at what happened with the Giants when the quarterback came and introduced Trump and the backlash that he got and the controversy it caused within the team.",
+      "cn": "但我也认为尼克斯球员们会看看巨人队发生的事情，当时四分卫出来介绍特朗普，以及他受到的强烈反对和因此在队内引起的争议。",
+      "structure": "主句I also think，后接what引导的主语从句（省略that），主语从句谓语is look at，look at后接what引导的宾语从句，宾语从句中包含when引导的时间状语从句，以及两个并列名词短语the backlash和the controversy，分别带定语从句that he got和it caused。",
+      "analysis": "句子结构复杂，包含多个从句。核心是尼克斯球员会借鉴巨人队的先例。"
+    },
+    {
+      "en": "And I think they're going to look long and hard whether or not they want to be placed in that situation because of whatever Donald Trump could or could not say at their celebration and think if they want to be made the puppets.",
+      "cn": "我认为他们会仔细考虑是否愿意被置于那种境地，因为唐纳德·特朗普在他们的庆祝活动上可能会或不会说什么，并思考他们是否想被当作傀儡。",
+      "structure": "主句I think，后接that引导的宾语从句（省略），从句主语they，谓语look long and hard，后接whether or not引导的宾语从句，because of...是原因状语，whatever...是宾语从句作of的宾语，and think是并列谓语，后接if引导的宾语从句。",
+      "analysis": "并列谓语look和think，分别带宾语从句，表达球员的权衡过程。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "2026年世界杯补水暂停争议",
+      "content": "国际足联在2026年世界杯引入每半场3分钟的补水暂停，旨在应对极端高温。但球迷和教练批评此举破坏比赛节奏，并为广告商创造机会。福克斯和Telemundo在暂停期间采取不同广告策略。",
+      "keywords": "World Cup, hydration break, FIFA, player safety, commercial time"
+    },
+    {
+      "title": "奥巴马总统中心开幕",
+      "content": "奥巴马总统中心于2026年6月18日在芝加哥开幕，恰逢六月节。开幕活动包括众多明星表演，前总统拜登、布什和克林顿出席。该中心被视为奥巴马讲述自己遗产的平台，并在特朗普政府削减DEI的背景下具有象征意义。",
+      "keywords": "Obama Presidential Center, Juneteenth, legacy, pop culture, DEI"
+    },
+    {
+      "title": "特朗普与伊朗协议及J.D.万斯的角色",
+      "content": "特朗普政府提出新的伊朗协议，副总统J.D.万斯成为主要推销者，但特朗普开玩笑说如果协议失败将归咎于万斯。万斯在媒体上为协议辩护，而国务卿卢比奥则较少露面。分析认为万斯面临高风险高回报的局面。",
+      "keywords": "Iran deal, J.D. Vance, fall guy, isolationist, Marco Rubio"
+    },
+    {
+      "title": "纽约尼克斯队白宫邀请争议",
+      "content": "NBA冠军纽约尼克斯队收到白宫邀请，但球员可能抵制。老板詹姆斯·多兰是特朗普朋友，但球员有选择权。此前巨人队四分卫因介绍特朗普引发争议，尼克斯球员可能效仿。",
+      "keywords": "Knicks, White House, boycott, James Dolan, Trump"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nAlecko Eskandarian is Interviewed about the World Cup; Obama Center Opening Today; Trump Jokes about Blaming Vance; Knicks Invited to White House. Aired 6:30-7a ET\n\nAired June 18, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nAUDIE CORNISH, CNN ANCHOR: OK, here's an odd one. World Cup fans saying give me a break when it comes to FIFA's new three-minute hydration breaks in each half of every game. Now they were introduced to help players deal with the extreme heat. Critics feel that they're ruining the flow of the game.\n\nUNIDENTIFIED MALE: It's completely needless in a stadium that has a roof over it. And I know that this is something that we're going to have to get used to because it's going to happen in 104 games of this World Cup.\n\nUNIDENTIFIED MALE: Yes.\n\nUNIDENTIFIED MALE: But I have to be honest, it's ridiculous when it happens.\n\nUNIDENTIFIED MALE: Those breaks have conveniently created more commercial time during live soccer. Let's get into it. But first, gotta hydrate.\n\nCORNISH: All right, when it comes to capitalizing on the capital, the two networks airing the World Cup, Fox and Telemundo, are taking different approaches during these breaks. Fox is airing full screen commercials and Telemundo is not.\n\nUNIDENTIFIED MALE (through translator): We are staying. We are not going to break. The World Cup is ours, and we're enjoying every moment so you don't miss a thing.\n\nCORNISH: Crowd not sounding happy there. Telemundo says they want to create an authentic World Cup experience without cutting away from the action.\n\nSo, joining me now to discuss, a retired professional soccer player, Alecko Eskandarian.\n\nThank you so much for being here.\n\nALECKO ESKANDARIAN, RETIRED PROFESSIONAL SOCCER PLAYER: Thank you.\n\nCORNISH: So, first, I want to talk about this being a new rule. And I gather it was to help deal with the heat. But I was listening to an after game press conference and I think it was the coach for the English national team, he said, look, this completely flattened our tempo and it gives the opposition a free tactical time-out to completely neutralize our press. Do water breaks kill momentum?\n\nESKANDARIAN: I don't think so. I mean, to be honest with you, yes, they are different and I think they were implemented, like you said, for player safety. I'd imagine for FIFA's -- from FIFA's purview, they established this to put in some consistency because there are going to be some games that will have it just because of the temperature and some that wouldn't. So, this was something that evens the playing field when it's involved in every game.\n\nAnd as long as every team knows that they're going to have that benefit, I think it evens it out.\n\nCORNISH: So, fans are booing. I assume players adapt. But I'm also thinking of some of those European tennis players, right, who were faced with the heat and people thought, why are they out there doing all this in the heat? Is there something the fans maybe aren't acknowledging about this experience?\n\nESKANDARIAN: Yes, player health and safety, I would say. It's hot out there for sure. Definitely in some of the cities that the World Cup is taking place, it can definitely wear on you. So, I think player safety is at the -- at the forefront of this. And, yes, I don't think a 60 second break is really going to change tactics or player physicality that much that it's going to have any impact on the outcome of the game.\n\nCORNISH: What top two games are you watching next?\n\nESKANDARIAN: Oh, I'm going to be going out to L.A. for Belgium-Iran and USA-Turkey. So, I'm looking forward to watching those games in person. But to be honest with you, the tournament's been full of upsets, so every game is must watch.\n\nCORNISH: OK. That's Alecko Eskandarian. Thank you so much for being here.\n\nESKANDARIAN: Thanks for having me.\n\nCORNISH: And in the meantime, this Sunday, you can get an inside look at Team USA. Do they have what it takes to win the game's ultimate prize? We've got a flash doc \"Chasing Soccer Glory: America's Long Game.\" That's airing Sunday night at 8 p.m. on CNN. You can also watch it on the CNN app.\n\nIn Chicago today, the Obama Presidential Center is opening. It's been an emotional week leading up to it. Former First Lady Michelle Obama surprised her husband at the reception ahead of the grand opening because she brought the former president to tears in this custom skirt, which bears the image honoring her late mother.\n\nMICHELLE OBAMA, FORMER FIRST LADY: She was so proud of her son-in-law and the man that he is and has been to our family.\n\nBARACK OBAMA, FORMER U.S. PRESIDENT: I am a little shaken up by this because I loved my mother-in-law.\n\nCORNISH: Now, Obama has always been ingrained in pop culture. The event today is going to reflect that. The lineup of performers includes Stevie Wonder, U2's Bono, The Edge, Bruce Springsteen, Jennifer Hudson, The Roots, among others. And former presidents, Biden, Bush and Clinton are changing up their usual meeting spot, funerals, to be there for Obama.\n\nSo, the group chat is back.\n\nI wanted to talk about this because all week President Trump has been referencing Obama. He can't seem to stop no matter where this Iran deal is. And it occurred to me, between it being Juneteenth and this library opening, it is a week for people to be reminded of both Obama and his legacy.\n\nNICHOLAS WU, CONGRESSIONAL REPORTER, \"SEMAFOR\": That's for sure. And, I mean, I think what this library is doing is it, you know, this is a president's own telling of his legacy. And Obama is very much putting that out there. You know, we can debate as much as we want on how exactly -- what the legacy of the JCPOA was, and many other let's say his --\n\nCORNISH: Yes, but his broader legacy, whether it be art that they're presenting there, basketball courts, community centers, this is Obama telling his story.\n\nWU: Exactly. And to me, the most interesting thing with this library is, you know, what do you do when all these records are not necessarily paper and, you know, like a traditional library.\n\nWU: Like, how do you immortalize -- you know, when Obama was the cool president with a Blackberry and sending tweets, you know, how do you -- how do you do something like that? And so, I'm curious to see what they do with that. CORNISH: I also want to mention this event. It's very Obama era in\n\nterms of all the celebrities being there. And we made a list of, like, who's going to be -- who's going to be at this Obama event and their global record sales. And then what's going on with the Trump-backed Freedom 250, which prey much kicked off a few weeks ago in terms of who was leaving it. And in the end, it's Lee Greenwood, a president -- the president's favorite, and a handful of other artists. Is this a reminder of like kind of where Hollywood's heart lies or the complication that Trump has his relationship with pop culture.\n\nMIKE DUBKE, FORMER TRUMP WHITE HOUSE COMMUNICATIONS DIRECTOR: Is this to me?\n\nCORNISH: Either one of you.\n\nDUBKE: I don't know that it's a fair comparison to the -- I -- look, I love --\n\nDUBKE: Because, here's the thing. I --\n\nCORNISH: They're two massive events.\n\nDUBKE: I love presidential libraries. I think they are, and especially to the point that they tell the story of the president in their own words. So, I've been to a few. I've been to Bill Clinton's down in Little Rock. I've been to Ronald Reagan's out in California. I think it's incredibly interesting to walk through each of these libraries. And I -- if I'm in Chicago, I will probably go to Obama's presidential library because I think they're fantastic things.\n\nCORNISH: You would. Trump is not invited, just so we're clear.\n\nDUBKE: I -- no, no, no, that's fine.\n\nDUBKE: But I don't -- I will take a little issue on this pop culture thing because I don't know that comparing America's 250 and all the politics that are surrounding this with what should be a celebration this week for Obama.\n\nCORNISH: Yes. Well, Meghan, I'm going to --\n\nDUBKE: I'm not -- I'm not sure on that.\n\nMEGHAN HAYS, FORMER BIDEN WHITE HOUSE DIRECTOR OF MESSAGE PLANNING: So, Americans, we're not supposed to celebrate America's 250? I thought that was the whole point of this.\n\nDUBKE: No, no, I think we should be celebrating America's 250.\n\nBut look, this is -- this is a celebration for Obama and the folks that really enjoyed his presidency. And, you know, good on them for having a good group.\n\nCORNISH: Can I add -- no, no, can I add another bit of context that's related to 250?\n\nCORNISH: In an era where DEI has been completely, not just DEI. When black American history has been carved out of the halls of the federal government with a -- with like a butcher knife, them doing this library on Juneteenth week is on purpose and is significant.\n\nCORNISH: Because maybe for black Americans --\n\nCORNISH: That is a historic moment.\n\nHAYS: For all of us. Yes.\n\nCORNISH: That this nation will no longer celebrate under the Trump administration. They are not interested in talking about the history of slavery.\n\nSo, it feels like the Obamas are doing something very purposeful. They're creating an alternative, historical celebration for people who feel like part of their history is forgotten.\n\nHAYS: I heard an interview with Valerie Jarrett last night where she said that this is a place for hope to live on. And I think that that sentiment rings true, probably not only to black Americans, but all Americans who believe that we are living in chaos and just don't agree with the way that Trump goes about with the slashing of DEI and just the complete disregard for the majority of the American people who are not in his billionaire class.\n\nCORNISH: But I'm just adding, it's also historical.\n\nHAYS: A hundred percent.\n\nCORNISH: Like, this is also a historical week.\n\nHAYS: But I think that this is why you have so many people who are doing these wonderful documentaries and all these artists coming out.\n\nHAYS: So, I think it's more than just the pop culture aspect. I do think that we are in a place where a lot of people do not want to celebrate where we are at in our country's history. And I think that that's unfortunate. And I'm glad that a lot of people can go celebrate the Obamas, which is well deserved. He was a president for eight years. Everyone should go celebrate that. And they have -- it's a -- I worked in the Obama administration (INAUDIBLE).\n\nCORNISH: Yes. It's also a weird week because we're coming off that UFC fight on Sunday, where that fighter made essentially a cruel --\n\nHAYS: But it just goes to show you, priority.\n\nCORNISH: No, no, a cruel remark about Michelle Obama, our first lady.\n\nCORNISH: So, for her to be able to stand up on stage --\n\nHAYS: A hundred percent.\n\nCORNISH: Undiminished, I think, is also a significant moment.\n\nDUBKE: Look, I would love for us to be celebrating both the opening of the Obama library and the historic 250th anniversary of our democracy. I would -- I think that would be wonderful. And I would love for the artists that canceled on the America 250 not to have done that and to see beyond whatever partisan politics are happening now in this -- in this time.\n\nCORNISH: Do you think they would have done that if it was the America 250 bipartisan organization that had been approved by Congress versus Freedom 250, the Trump administration's secondary organization that people have accused of politicizing the 250 event?\n\nHAYS: So, I'm not exactly sure people know the difference and the nuances.\n\nCORNISH: But the artists knew because they could back out.\n\nHAYS: But I feel that's like a very like D.C. bubble, nuanced conversation. But I do think that people don't want to be up on stage with Donald Trump, who you never know what he's going to say, you don't know what his cabinet is going to say, you don't know what the people who support him are going to say, and they run the risk.\n\nCORNISH: Yes. But, I mean, Martina McBride said, this is more political than we thought it would be.\n\nHAYS: A hundred percent.\n\nCORNISH: So, that was very clear.\n\nHAYS: And they don't know what he's going to say. And they don't believe in what he's saying. And I -- just like with most of the country doesn't believe in what he has to say. So, they don't want to be there supporting it.\n\nCORNISH: OK. Well, in the meantime, for the people who might want to watch the opening of this library, CNN is doing massive, special live coverage of the event. It's going to start at 11 a.m. Eastern. You can watch that here. 11:30 Eastern. And you can watch that here or on the CNN app.\n\nNext on CNN THIS MORNING, Vice President Vance has become the face of the Iran deal. So, is Vance becoming the closer or the fall guy?\n\nUNIDENTIFIED MALE: And I've known him for 30 -- for 30 years, and I'm very proud to bring the team to the White House.\n\nCORNISH: So, Knicks owner James Dolan says he is going to the White House. The big question is whether the team will follow.\n\nDONALD TRUMP, PRESIDENT OF THE UNITED STATES: If it works, then I'm going to take the credit. If it doesn't work out, I'm blaming J.D. You better be careful, J.D. He's going to turn his plane around and get the hell out of here. Yes, I like that idea.\n\nCORNISH: OK, that is President Trump saying essentially that J.D. Vance is the one to blame for whatever comes next after the proposed Iran deal.\n\nAnd conservative voices online agree. Erick Erickson writing this, quote, \"I see some people screaming about impeachment of the president over this deal. All that would do would be to put the architect of the deal into the Oval Office.\"\n\nNow, Vance, as we said, has become the face of at least selling this deal to the American people. He's been everywhere this week, countless shows, podcasts. He's talking about his new book, \"Communion,\" but also talking a lot about the proposal with Iran.\n\nNow, the person we haven't heard from quite as much, Marco Rubio, but he's been by the president's side in France for the G7 Summit. He even handed Trump the document to sign. So, how does this factor into, you know, a race for a potential MAGA successor?\n\nI wanted to talk about this because there was so much made of J.D. Vance's role representing the voice of the isolationist wing of the party. And so, I guess the White House solution has been to make him not. To make him the face of something else.\n\nHere is J.D. Vance with Megyn Kelly. Go into the belly of the beast, right, to have a conversation about this. And she really put to him a lot of questions. But here's an example of something he talked about with her.\n\nJ.D. VANCE, VICE PRESIDENT OF THE UNITED STATES: I just don't think that people who are criticizing this, one, they're not actually dealing with the reality of what's in it. And number two, they don't have an alternative.\n\nThe benefits of the bargain only accrue again if Iran actually complies. We're not talking about rewarding words, we're talking about changing the way that we deal with Iran based on their actions.\n\nWe've cut what is fundamentally a good deal for the American people, assuming the Iranians follow through. And if they don't follow through, there's no skin off our back. Nothing changes from where we are right now.\n\nCORNISH: Sorry about that. That was him on a bunch of different shows. But what's interesting is, usually the interviewer is saying, this person is responding badly, this person is responding badly, and they're talking about Republicans. I'm not seeing Vance spending a lot of time beating back Democratic criticism.\n\nDUBKE: So, timing is everything in politics. And the vice president had the unfortunate timing issue of releasing a book and booking -- pre-booking all of these shows prior to the memorandum of understanding that got signed or didn't get signed on Sunday. I can't remember where we are with that one right now. So, that's part of the problem for him. He was set up for these.\n\nCORNISH: But he is talking about -- you know, he's the czar of fraud. I didn't hear about that.\n\nDUBKE: He could have been, except that he's probably responding to the questions that he's getting from responsible reporters who have the vice president of the United States on their stage, pre-booked for his book tour and asking him questions --\n\nCORNISH: And because the administration has said he helped make the deal.\n\nDUBKE: Yes. It was very interesting yesterday. And I watched the full press conference with the president as Peter Doocy was the one that asked that question about J.D. Vance.\n\nDUBKE: That was his second question. And I felt like there was a little bit of a setup there.\n\nDUBKE: Like, why did the president go back to Peter --\n\nDUBKE: At the very end of the press conference to get that question? That was --\n\nCORNISH: Well, you're not beating the allegations here of saying that the White House is setting him up. Meghan, am I hearing something in this messaging?\n\nHAYS: I mean, is anyone really going to think that J.D. Vance was really in charge of this? I mean, I think that --\n\nCORNISH: Oh, well, by the time this week is done, maybe.\n\nHAYS: I mean, I think that this is like --\n\nDUBKE: Well, that's the -- maybe the point.\n\nHAYS: Are we just trying to hide that Jared Kushner was actually the one negotiating this deal, who does not work for the United States government? But, I mean, I just think that maybe Marco Rubio will end up better when he's trying to run for president. But I don't -- I don't think that Donald Trump cares who gets blamed as long as it's not him. But I don't think the American people are that stupid to realize their gas prices went up because we went into a war of choice by Donald Trump.\n\nCORNISH: Does that make a difference? As she said, we didn't see anyone connected to Trump. The people he really trusts. I'm just saying that in the way that, like, Rubio is not the one going out defending this over and over again. Jared Kushner, as you mentioned, not a paid government employee, happily sent all over the world to negotiate on behalf of the U.S., also not out talking about this. Is it just happenstance because J.D. Vance has a book?\n\nWU: Yes, it is kind of remarkable. I mean the vice president, in many ways it would be deputized to carry out the presidents message, right? This is, you know, the president's agenda.\n\nCORNISH: So you're saying, this is the gig?\n\nWU: This is the, you know, the job you get handed, whether you want it or not. We see this with vice presidents all the time. And for Vance it's extremely high risk.\n\nCORNISH: Right. Kamala being border czar.\n\nWU: Like she got, you know, she famously talked about how she didn't really want that. And yet, you know, she got that name.\n\nAnd so, with Vance, it's very high risk, high reward here. If they manage to actually pull this off, you know, he can settle a lot of the critics on the right who, you know, see him as maybe not as much in Trump's mold. And if he fails, you know, that that could also very much harm his chances in the future.\n\nCORNISH: OK. I want to talk about something else now because basically the Knicks were invited to be at the White House, ticker tape parade today. We're going to be talking about all the fans jamming the city streets. But after that, that trip to the White House, it's kind of a question mark. Now, Knicks owner, James Dolan, he's a longtime Trump supporter. He's confirmed that the president has issued a formal invitation.\n\nJAMES DOLAN, NEW YORK KNICKS OWNER: We just did receive an invitation from --\n\nUNIDENTIFIED MALE: You did?\n\nDOLAN: From the White House, which we accepted. We still have to figure out the details, et cetera, but, you know -- yes, of course. I mean, you know, look, I invited the president to come --\n\nUNIDENTIFIED MALE: Yes.\n\nDOLAN: To come down for the game, right? He is a friend. I've known him for 30 -- for 30 years. And I'm very proud to bring the team to the White House.\n\nUNIDENTIFIED MALE: Yes.\n\nCORNISH: Now, it's not clear whether all the Knicks players are going to be there, and it's not unusual for NBA players to boycott the White House. The Golden State Warriors did it following their 2017 and 2018 NBA championships.\n\nThe group chat is back.\n\nThis is such a week for politics and sports, you know what I mean? We started with this like octagon on the front lawn.\n\nCORNISH: We're -- and now, so here's the thing. You can do this kind of thing. It depends on where your fans are, right? It's not Kansas City, more red base NFL. It's not NHL, players from other countries, cool to go to the White House. It's the NBA, which basically Trump has had an antagonistic relationship with black athletes for a long time. So, do you think the Knicks are going to show to this?\n\nDUBKE: I hope so. I mean, this, for me, this goes back to what I was saying about the presidential libraries. I think they're a great celebration for all Americans. I think going to the White House as a champion of your league is a great tradition that we have in this country.\n\nAnd so, I'm hopeful that everyone looks beyond whatever their partisan politics may be at the time and they go to the White House for that celebration.\n\nCORNISH: Meghan, I want you to jump in. But, Mike, can you just answer one extra question I have to ask, just because you've worked in this White House. No, you've worked in this White House.\n\nCORNISH: Is any Trump event a nonpolitical event? That has not proven to be the case, to my mind, just covering --\n\nDUBKE: You're asking this question of a Bills' fan who protested the Patriots coming to the White House when I was there. I took as many tickets as I could so that there were empty seats for the celebration of that team.\n\nCORNISH: Yes. Yes. Not the (INAUDIBLE) you think it is.\n\nDUBKE: So, I also have been playing partisan politics with teams coming to the White House.\n\nCORNISH: Yes. Actually terrifying. And I will have the Boston fans -- let's just zoom in on Mike's face for a second there. Let's just be absolutely clear. This is Mike.\n\nDUBKE: You can send me all the hate mail you want, Boston. Go for it because --\n\nCORNISH: OK. The other thing, Donald Trump and James Dolan, who's the owner of Madison Square Garden, they are collaborating on an $8 billion redevelopment deal of Penn Station.\n\nAs always, there's a financial relationship.\n\nCORNISH: So, yes, Dolan says they are friends. And I'm not saying Penn Station doesn't need the overhaul. But this design, of course, includes a presidential seal and Trump's name etched on an interior wall. HAYS: Yes, of course. I mean this is always going to -- there's always\n\nsome sort of side hustle going on with the Trumps. But I also think what the Knicks players are going to do is look at what happened with the Giants when the quarterback came and introduced Trump and the backlash that he got and the controversy it caused within the team. And I think they're going to look long and hard whether or not they want to be placed in that situation because of whatever Donald Trump could or could not say at their celebration and think if they want to be made the puppets.\n\nI don't know that -- I don't know what their political views are. I have no idea. But I do think that we just saw this with the Giants in New York, and the Knicks are going to look long and hard if they want to be a part of it.\n\nCORNISH: Yes. And it's also complicated by Trump showing up at that game.\n\nCORNISH: And incensing the entire Knicks nation all at once. So, it's almost not a typical conversation.\n\nCORNISH: You have a president who has a deep relationship with New York, who has actually legitimately pissed off the entire city. And so, the Knicks, I don't know if they'll -- would really pay a price for not showing up.\n\nWU: Probably not. I mean the -- look at the celebrations that we're going to see today with the parade.\n\nCORNISH: Let me show -- let me show.\n\nCORNISH: Even \"The New York Post\" has managed to say something nice. It's the \"Knick York Post.\" I see what you did there. It feels like people are loving them too much. Can they do no wrong, though?\n\nWU: Yes. I mean, I think, you know, your average sports fan probably doesn't pay that much attention to exactly which player shows up at the White House and, you know, how that all goes down.\n\nSo, you know, this might not be (INAUDIBLE) for them.\n\nCORNISH: Yes, look at how many people are showing up for the parade. I mean, they're into it.\n\nWell, one thing I want to say before we get to group chats is, thanks to the players union, they are not required, nor can they be compelled, to go to events that are political in nature. So, they do have a choice and Dolan cannot force them.\n\nNic, since you are new here, you want to tell me what's in your group chat? What's in your phone?\n\nWU: My group chats this week, we're very concerned about what's going on with all the flight delays here with America 250. Like, my friends were trying to move around what they're going to do.\n\nCORNISH: Oh. And apparently July 3rd and 4th, there may be a shutdown of some airspace, is that correct?\n\nWU: Yes, DCA is going to be closed for a part of July 4th because of all the flyovers. And, you know, many other -- DCA announced that many other days over the next few months will be affected. And so --\n\nHAYS: At least they gave us a warning this time.\n\nCORNISH: Yes, so they -- enter (ph) nice.\n\nHAYS: They didn't -- they didn't -- they did not Saturday, last weekend. So, that's at least nice.\n\nDUBKE: Well, last Saturday was -- yes.\n\nCORNISH: OK. What about you guys?\n\nHAYS: My group chat is obviously \"Summer House.\" We are -- we got to the aftermath of the episode.\n\nCORNISH: How are you still talking about \"Summer House.\"\n\nHAYS: Because there was an epihouse (ph) -- an episode on Tuesday and they've released that West (ph) is not coming back to the -- to the Summer House\" for filming.\n\nCORNISH: Oh, yes. So, for the people who don't know, this is the man at the heart of a love triangle that you don't want to know about but do.\n\nHAYS: It's -- I mean, it's incredible but it is now over so we can move on to another Bravo show next week.\n\nCORNISH: Yes. Love it.\n\nDUBKE: Is there -- is there a full house and a winter house?\n\nHAYS: So, there used to be a winter house where they (INAUDIBLE).\n\nCORNISH: Oh, my God. Winter house.\n\nDUBKE: There was a winter house.\n\nHAYS: There was a winter house and they like combined some of the different shows.\n\nCORNISH: That was called \"The Shining.\"\n\nDUBKE: No, I think so.\n\nLook, I was trying to -- and Meghan says I've already talked about this before, but I -- live events seem to be where people are coming back together.\n\nCORNISH: Yes. Big, you know --\n\nDUBKE: From the New York Knicks celebration --\n\nCORNISH: Yes, yes, yes.\n\nDUBKE: To, I will give the Carolina Hurricanes their kudos for winning the Stanley Cup.\n\nCORNISH: Yes. It was amazing.\n\nDUBKE: I mean, and the World Cup in this massive -- the world is now looking at America because of the World Cup and these -- and these live events. And from concerts to everything else. This seems to be what is finally bringing people together.\n\nNow, it may be the ubiquitousness of cameras everywhere, but even news. Everything is live and we're reacting to everything in real time. But now we're in that golden -- kind of golden age of that and I'm -- I think it's -- I think it's somehow bringing America closer together, regardless of what we've just talked about for the last hour.\n\nCORNISH: Yes. I thought the same thing about the Knicks after a very divisive mayor's race, seeing New Yorkers --\n\nCORNISH: Instead of talking about who was leaving, who was left out, they actually really are, as we can see from the images, lining up together. And that was really amazing and a nice thing to say on a week like this.\n\nCORNISH: All right, you guys, thank you so much for being here. Nic, thank you for joining the chat.\n\nWe're still following all the news about the signing of the Iran deal. What's in the proposal and how the White House is talking about it. So, stay with us for these headlines. I'm Audie Cornish. You've got more news next.",
+  "segments": [
+    {
+      "seg": 2,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-18/segment/02",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nAlecko Eskandarian is Interviewed about the World Cup; Obama Center Opening Today; Trump Jokes about Blaming Vance; Knicks Invited to White House. Aired 6:30-7a ET\n\nAired June 18, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nAUDIE CORNISH, CNN ANCHOR: OK, here's an odd one. World Cup fans saying give me a break when it comes to FIFA's new three-minute hydration breaks in each half of every game. Now they were introduced to help players deal with the extreme heat. Critics feel that they're ruining the flow of the game.\n\nUNIDENTIFIED MALE: It's completely needless in a stadium that has a roof over it. And I know that this is something that we're going to have to get used to because it's going to happen in 104 games of this World Cup.\n\nUNIDENTIFIED MALE: Yes.\n\nUNIDENTIFIED MALE: But I have to be honest, it's ridiculous when it happens.\n\nUNIDENTIFIED MALE: Those breaks have conveniently created more commercial time during live soccer. Let's get into it. But first, gotta hydrate.\n\nCORNISH: All right, when it comes to capitalizing on the capital, the two networks airing the World Cup, Fox and Telemundo, are taking different approaches during these breaks. Fox is airing full screen commercials and Telemundo is not.\n\nUNIDENTIFIED MALE (through translator): We are staying. We are not going to break. The World Cup is ours, and we're enjoying every moment so you don't miss a thing.\n\nCORNISH: Crowd not sounding happy there. Telemundo says they want to create an authentic World Cup experience without cutting away from the action.\n\nSo, joining me now to discuss, a retired professional soccer player, Alecko Eskandarian.\n\nThank you so much for being here.\n\nALECKO ESKANDARIAN, RETIRED PROFESSIONAL SOCCER PLAYER: Thank you.\n\nCORNISH: So, first, I want to talk about this being a new rule. And I gather it was to help deal with the heat. But I was listening to an after game press conference and I think it was the coach for the English national team, he said, look, this completely flattened our tempo and it gives the opposition a free tactical time-out to completely neutralize our press. Do water breaks kill momentum?\n\nESKANDARIAN: I don't think so. I mean, to be honest with you, yes, they are different and I think they were implemented, like you said, for player safety. I'd imagine for FIFA's -- from FIFA's purview, they established this to put in some consistency because there are going to be some games that will have it just because of the temperature and some that wouldn't. So, this was something that evens the playing field when it's involved in every game.\n\nAnd as long as every team knows that they're going to have that benefit, I think it evens it out.\n\nCORNISH: So, fans are booing. I assume players adapt. But I'm also thinking of some of those European tennis players, right, who were faced with the heat and people thought, why are they out there doing all this in the heat? Is there something the fans maybe aren't acknowledging about this experience?\n\nESKANDARIAN: Yes, player health and safety, I would say. It's hot out there for sure. Definitely in some of the cities that the World Cup is taking place, it can definitely wear on you. So, I think player safety is at the -- at the forefront of this. And, yes, I don't think a 60 second break is really going to change tactics or player physicality that much that it's going to have any impact on the outcome of the game.\n\nCORNISH: What top two games are you watching next?\n\nESKANDARIAN: Oh, I'm going to be going out to L.A. for Belgium-Iran and USA-Turkey. So, I'm looking forward to watching those games in person. But to be honest with you, the tournament's been full of upsets, so every game is must watch.\n\nCORNISH: OK. That's Alecko Eskandarian. Thank you so much for being here.\n\nESKANDARIAN: Thanks for having me.\n\nCORNISH: And in the meantime, this Sunday, you can get an inside look at Team USA. Do they have what it takes to win the game's ultimate prize? We've got a flash doc \"Chasing Soccer Glory: America's Long Game.\" That's airing Sunday night at 8 p.m. on CNN. You can also watch it on the CNN app.\n\nIn Chicago today, the Obama Presidential Center is opening. It's been an emotional week leading up to it. Former First Lady Michelle Obama surprised her husband at the reception ahead of the grand opening because she brought the former president to tears in this custom skirt, which bears the image honoring her late mother.\n\nMICHELLE OBAMA, FORMER FIRST LADY: She was so proud of her son-in-law and the man that he is and has been to our family.\n\nBARACK OBAMA, FORMER U.S. PRESIDENT: I am a little shaken up by this because I loved my mother-in-law.\n\nCORNISH: Now, Obama has always been ingrained in pop culture. The event today is going to reflect that. The lineup of performers includes Stevie Wonder, U2's Bono, The Edge, Bruce Springsteen, Jennifer Hudson, The Roots, among others. And former presidents, Biden, Bush and Clinton are changing up their usual meeting spot, funerals, to be there for Obama.\n\nSo, the group chat is back.\n\nI wanted to talk about this because all week President Trump has been referencing Obama. He can't seem to stop no matter where this Iran deal is. And it occurred to me, between it being Juneteenth and this library opening, it is a week for people to be reminded of both Obama and his legacy.\n\nNICHOLAS WU, CONGRESSIONAL REPORTER, \"SEMAFOR\": That's for sure. And, I mean, I think what this library is doing is it, you know, this is a president's own telling of his legacy. And Obama is very much putting that out there. You know, we can debate as much as we want on how exactly -- what the legacy of the JCPOA was, and many other let's say his --\n\nCORNISH: Yes, but his broader legacy, whether it be art that they're presenting there, basketball courts, community centers, this is Obama telling his story.\n\nWU: Exactly. And to me, the most interesting thing with this library is, you know, what do you do when all these records are not necessarily paper and, you know, like a traditional library.\n\nWU: Like, how do you immortalize -- you know, when Obama was the cool president with a Blackberry and sending tweets, you know, how do you -- how do you do something like that? And so, I'm curious to see what they do with that. CORNISH: I also want to mention this event. It's very Obama era in\n\nterms of all the celebrities being there. And we made a list of, like, who's going to be -- who's going to be at this Obama event and their global record sales. And then what's going on with the Trump-backed Freedom 250, which prey much kicked off a few weeks ago in terms of who was leaving it. And in the end, it's Lee Greenwood, a president -- the president's favorite, and a handful of other artists. Is this a reminder of like kind of where Hollywood's heart lies or the complication that Trump has his relationship with pop culture.\n\nMIKE DUBKE, FORMER TRUMP WHITE HOUSE COMMUNICATIONS DIRECTOR: Is this to me?\n\nCORNISH: Either one of you.\n\nDUBKE: I don't know that it's a fair comparison to the -- I -- look, I love --\n\nDUBKE: Because, here's the thing. I --\n\nCORNISH: They're two massive events.\n\nDUBKE: I love presidential libraries. I think they are, and especially to the point that they tell the story of the president in their own words. So, I've been to a few. I've been to Bill Clinton's down in Little Rock. I've been to Ronald Reagan's out in California. I think it's incredibly interesting to walk through each of these libraries. And I -- if I'm in Chicago, I will probably go to Obama's presidential library because I think they're fantastic things.\n\nCORNISH: You would. Trump is not invited, just so we're clear.\n\nDUBKE: I -- no, no, no, that's fine.\n\nDUBKE: But I don't -- I will take a little issue on this pop culture thing because I don't know that comparing America's 250 and all the politics that are surrounding this with what should be a celebration this week for Obama.\n\nCORNISH: Yes. Well, Meghan, I'm going to --\n\nDUBKE: I'm not -- I'm not sure on that.\n\nMEGHAN HAYS, FORMER BIDEN WHITE HOUSE DIRECTOR OF MESSAGE PLANNING: So, Americans, we're not supposed to celebrate America's 250? I thought that was the whole point of this.\n\nDUBKE: No, no, I think we should be celebrating America's 250.\n\nBut look, this is -- this is a celebration for Obama and the folks that really enjoyed his presidency. And, you know, good on them for having a good group.\n\nCORNISH: Can I add -- no, no, can I add another bit of context that's related to 250?\n\nCORNISH: In an era where DEI has been completely, not just DEI. When black American history has been carved out of the halls of the federal government with a -- with like a butcher knife, them doing this library on Juneteenth week is on purpose and is significant.\n\nCORNISH: Because maybe for black Americans --\n\nCORNISH: That is a historic moment.\n\nHAYS: For all of us. Yes.\n\nCORNISH: That this nation will no longer celebrate under the Trump administration. They are not interested in talking about the history of slavery.\n\nSo, it feels like the Obamas are doing something very purposeful. They're creating an alternative, historical celebration for people who feel like part of their history is forgotten.\n\nHAYS: I heard an interview with Valerie Jarrett last night where she said that this is a place for hope to live on. And I think that that sentiment rings true, probably not only to black Americans, but all Americans who believe that we are living in chaos and just don't agree with the way that Trump goes about with the slashing of DEI and just the complete disregard for the majority of the American people who are not in his billionaire class.\n\nCORNISH: But I'm just adding, it's also historical.\n\nHAYS: A hundred percent.\n\nCORNISH: Like, this is also a historical week.\n\nHAYS: But I think that this is why you have so many people who are doing these wonderful documentaries and all these artists coming out.\n\nHAYS: So, I think it's more than just the pop culture aspect. I do think that we are in a place where a lot of people do not want to celebrate where we are at in our country's history. And I think that that's unfortunate. And I'm glad that a lot of people can go celebrate the Obamas, which is well deserved. He was a president for eight years. Everyone should go celebrate that. And they have -- it's a -- I worked in the Obama administration (INAUDIBLE).\n\nCORNISH: Yes. It's also a weird week because we're coming off that UFC fight on Sunday, where that fighter made essentially a cruel --\n\nHAYS: But it just goes to show you, priority.\n\nCORNISH: No, no, a cruel remark about Michelle Obama, our first lady.\n\nCORNISH: So, for her to be able to stand up on stage --\n\nHAYS: A hundred percent.\n\nCORNISH: Undiminished, I think, is also a significant moment.\n\nDUBKE: Look, I would love for us to be celebrating both the opening of the Obama library and the historic 250th anniversary of our democracy. I would -- I think that would be wonderful. And I would love for the artists that canceled on the America 250 not to have done that and to see beyond whatever partisan politics are happening now in this -- in this time.\n\nCORNISH: Do you think they would have done that if it was the America 250 bipartisan organization that had been approved by Congress versus Freedom 250, the Trump administration's secondary organization that people have accused of politicizing the 250 event?\n\nHAYS: So, I'm not exactly sure people know the difference and the nuances.\n\nCORNISH: But the artists knew because they could back out.\n\nHAYS: But I feel that's like a very like D.C. bubble, nuanced conversation. But I do think that people don't want to be up on stage with Donald Trump, who you never know what he's going to say, you don't know what his cabinet is going to say, you don't know what the people who support him are going to say, and they run the risk.\n\nCORNISH: Yes. But, I mean, Martina McBride said, this is more political than we thought it would be.\n\nHAYS: A hundred percent.\n\nCORNISH: So, that was very clear.\n\nHAYS: And they don't know what he's going to say. And they don't believe in what he's saying. And I -- just like with most of the country doesn't believe in what he has to say. So, they don't want to be there supporting it.\n\nCORNISH: OK. Well, in the meantime, for the people who might want to watch the opening of this library, CNN is doing massive, special live coverage of the event. It's going to start at 11 a.m. Eastern. You can watch that here. 11:30 Eastern. And you can watch that here or on the CNN app.\n\nNext on CNN THIS MORNING, Vice President Vance has become the face of the Iran deal. So, is Vance becoming the closer or the fall guy?\n\nUNIDENTIFIED MALE: And I've known him for 30 -- for 30 years, and I'm very proud to bring the team to the White House.\n\nCORNISH: So, Knicks owner James Dolan says he is going to the White House. The big question is whether the team will follow.\n\nDONALD TRUMP, PRESIDENT OF THE UNITED STATES: If it works, then I'm going to take the credit. If it doesn't work out, I'm blaming J.D. You better be careful, J.D. He's going to turn his plane around and get the hell out of here. Yes, I like that idea.\n\nCORNISH: OK, that is President Trump saying essentially that J.D. Vance is the one to blame for whatever comes next after the proposed Iran deal.\n\nAnd conservative voices online agree. Erick Erickson writing this, quote, \"I see some people screaming about impeachment of the president over this deal. All that would do would be to put the architect of the deal into the Oval Office.\"\n\nNow, Vance, as we said, has become the face of at least selling this deal to the American people. He's been everywhere this week, countless shows, podcasts. He's talking about his new book, \"Communion,\" but also talking a lot about the proposal with Iran.\n\nNow, the person we haven't heard from quite as much, Marco Rubio, but he's been by the president's side in France for the G7 Summit. He even handed Trump the document to sign. So, how does this factor into, you know, a race for a potential MAGA successor?\n\nI wanted to talk about this because there was so much made of J.D. Vance's role representing the voice of the isolationist wing of the party. And so, I guess the White House solution has been to make him not. To make him the face of something else.\n\nHere is J.D. Vance with Megyn Kelly. Go into the belly of the beast, right, to have a conversation about this. And she really put to him a lot of questions. But here's an example of something he talked about with her.\n\nJ.D. VANCE, VICE PRESIDENT OF THE UNITED STATES: I just don't think that people who are criticizing this, one, they're not actually dealing with the reality of what's in it. And number two, they don't have an alternative.\n\nThe benefits of the bargain only accrue again if Iran actually complies. We're not talking about rewarding words, we're talking about changing the way that we deal with Iran based on their actions.\n\nWe've cut what is fundamentally a good deal for the American people, assuming the Iranians follow through. And if they don't follow through, there's no skin off our back. Nothing changes from where we are right now.\n\nCORNISH: Sorry about that. That was him on a bunch of different shows. But what's interesting is, usually the interviewer is saying, this person is responding badly, this person is responding badly, and they're talking about Republicans. I'm not seeing Vance spending a lot of time beating back Democratic criticism.\n\nDUBKE: So, timing is everything in politics. And the vice president had the unfortunate timing issue of releasing a book and booking -- pre-booking all of these shows prior to the memorandum of understanding that got signed or didn't get signed on Sunday. I can't remember where we are with that one right now. So, that's part of the problem for him. He was set up for these.\n\nCORNISH: But he is talking about -- you know, he's the czar of fraud. I didn't hear about that.\n\nDUBKE: He could have been, except that he's probably responding to the questions that he's getting from responsible reporters who have the vice president of the United States on their stage, pre-booked for his book tour and asking him questions --\n\nCORNISH: And because the administration has said he helped make the deal.\n\nDUBKE: Yes. It was very interesting yesterday. And I watched the full press conference with the president as Peter Doocy was the one that asked that question about J.D. Vance.\n\nDUBKE: That was his second question. And I felt like there was a little bit of a setup there.\n\nDUBKE: Like, why did the president go back to Peter --\n\nDUBKE: At the very end of the press conference to get that question? That was --\n\nCORNISH: Well, you're not beating the allegations here of saying that the White House is setting him up. Meghan, am I hearing something in this messaging?\n\nHAYS: I mean, is anyone really going to think that J.D. Vance was really in charge of this? I mean, I think that --\n\nCORNISH: Oh, well, by the time this week is done, maybe.\n\nHAYS: I mean, I think that this is like --\n\nDUBKE: Well, that's the -- maybe the point.\n\nHAYS: Are we just trying to hide that Jared Kushner was actually the one negotiating this deal, who does not work for the United States government? But, I mean, I just think that maybe Marco Rubio will end up better when he's trying to run for president. But I don't -- I don't think that Donald Trump cares who gets blamed as long as it's not him. But I don't think the American people are that stupid to realize their gas prices went up because we went into a war of choice by Donald Trump.\n\nCORNISH: Does that make a difference? As she said, we didn't see anyone connected to Trump. The people he really trusts. I'm just saying that in the way that, like, Rubio is not the one going out defending this over and over again. Jared Kushner, as you mentioned, not a paid government employee, happily sent all over the world to negotiate on behalf of the U.S., also not out talking about this. Is it just happenstance because J.D. Vance has a book?\n\nWU: Yes, it is kind of remarkable. I mean the vice president, in many ways it would be deputized to carry out the presidents message, right? This is, you know, the president's agenda.\n\nCORNISH: So you're saying, this is the gig?\n\nWU: This is the, you know, the job you get handed, whether you want it or not. We see this with vice presidents all the time. And for Vance it's extremely high risk.\n\nCORNISH: Right. Kamala being border czar.\n\nWU: Like she got, you know, she famously talked about how she didn't really want that. And yet, you know, she got that name.\n\nAnd so, with Vance, it's very high risk, high reward here. If they manage to actually pull this off, you know, he can settle a lot of the critics on the right who, you know, see him as maybe not as much in Trump's mold. And if he fails, you know, that that could also very much harm his chances in the future.\n\nCORNISH: OK. I want to talk about something else now because basically the Knicks were invited to be at the White House, ticker tape parade today. We're going to be talking about all the fans jamming the city streets. But after that, that trip to the White House, it's kind of a question mark. Now, Knicks owner, James Dolan, he's a longtime Trump supporter. He's confirmed that the president has issued a formal invitation.\n\nJAMES DOLAN, NEW YORK KNICKS OWNER: We just did receive an invitation from --\n\nUNIDENTIFIED MALE: You did?\n\nDOLAN: From the White House, which we accepted. We still have to figure out the details, et cetera, but, you know -- yes, of course. I mean, you know, look, I invited the president to come --\n\nUNIDENTIFIED MALE: Yes.\n\nDOLAN: To come down for the game, right? He is a friend. I've known him for 30 -- for 30 years. And I'm very proud to bring the team to the White House.\n\nUNIDENTIFIED MALE: Yes.\n\nCORNISH: Now, it's not clear whether all the Knicks players are going to be there, and it's not unusual for NBA players to boycott the White House. The Golden State Warriors did it following their 2017 and 2018 NBA championships.\n\nThe group chat is back.\n\nThis is such a week for politics and sports, you know what I mean? We started with this like octagon on the front lawn.\n\nCORNISH: We're -- and now, so here's the thing. You can do this kind of thing. It depends on where your fans are, right? It's not Kansas City, more red base NFL. It's not NHL, players from other countries, cool to go to the White House. It's the NBA, which basically Trump has had an antagonistic relationship with black athletes for a long time. So, do you think the Knicks are going to show to this?\n\nDUBKE: I hope so. I mean, this, for me, this goes back to what I was saying about the presidential libraries. I think they're a great celebration for all Americans. I think going to the White House as a champion of your league is a great tradition that we have in this country.\n\nAnd so, I'm hopeful that everyone looks beyond whatever their partisan politics may be at the time and they go to the White House for that celebration.\n\nCORNISH: Meghan, I want you to jump in. But, Mike, can you just answer one extra question I have to ask, just because you've worked in this White House. No, you've worked in this White House.\n\nCORNISH: Is any Trump event a nonpolitical event? That has not proven to be the case, to my mind, just covering --\n\nDUBKE: You're asking this question of a Bills' fan who protested the Patriots coming to the White House when I was there. I took as many tickets as I could so that there were empty seats for the celebration of that team.\n\nCORNISH: Yes. Yes. Not the (INAUDIBLE) you think it is.\n\nDUBKE: So, I also have been playing partisan politics with teams coming to the White House.\n\nCORNISH: Yes. Actually terrifying. And I will have the Boston fans -- let's just zoom in on Mike's face for a second there. Let's just be absolutely clear. This is Mike.\n\nDUBKE: You can send me all the hate mail you want, Boston. Go for it because --\n\nCORNISH: OK. The other thing, Donald Trump and James Dolan, who's the owner of Madison Square Garden, they are collaborating on an $8 billion redevelopment deal of Penn Station.\n\nAs always, there's a financial relationship.\n\nCORNISH: So, yes, Dolan says they are friends. And I'm not saying Penn Station doesn't need the overhaul. But this design, of course, includes a presidential seal and Trump's name etched on an interior wall. HAYS: Yes, of course. I mean this is always going to -- there's always\n\nsome sort of side hustle going on with the Trumps. But I also think what the Knicks players are going to do is look at what happened with the Giants when the quarterback came and introduced Trump and the backlash that he got and the controversy it caused within the team. And I think they're going to look long and hard whether or not they want to be placed in that situation because of whatever Donald Trump could or could not say at their celebration and think if they want to be made the puppets.\n\nI don't know that -- I don't know what their political views are. I have no idea. But I do think that we just saw this with the Giants in New York, and the Knicks are going to look long and hard if they want to be a part of it.\n\nCORNISH: Yes. And it's also complicated by Trump showing up at that game.\n\nCORNISH: And incensing the entire Knicks nation all at once. So, it's almost not a typical conversation.\n\nCORNISH: You have a president who has a deep relationship with New York, who has actually legitimately pissed off the entire city. And so, the Knicks, I don't know if they'll -- would really pay a price for not showing up.\n\nWU: Probably not. I mean the -- look at the celebrations that we're going to see today with the parade.\n\nCORNISH: Let me show -- let me show.\n\nCORNISH: Even \"The New York Post\" has managed to say something nice. It's the \"Knick York Post.\" I see what you did there. It feels like people are loving them too much. Can they do no wrong, though?\n\nWU: Yes. I mean, I think, you know, your average sports fan probably doesn't pay that much attention to exactly which player shows up at the White House and, you know, how that all goes down.\n\nSo, you know, this might not be (INAUDIBLE) for them.\n\nCORNISH: Yes, look at how many people are showing up for the parade. I mean, they're into it.\n\nWell, one thing I want to say before we get to group chats is, thanks to the players union, they are not required, nor can they be compelled, to go to events that are political in nature. So, they do have a choice and Dolan cannot force them.\n\nNic, since you are new here, you want to tell me what's in your group chat? What's in your phone?\n\nWU: My group chats this week, we're very concerned about what's going on with all the flight delays here with America 250. Like, my friends were trying to move around what they're going to do.\n\nCORNISH: Oh. And apparently July 3rd and 4th, there may be a shutdown of some airspace, is that correct?\n\nWU: Yes, DCA is going to be closed for a part of July 4th because of all the flyovers. And, you know, many other -- DCA announced that many other days over the next few months will be affected. And so --\n\nHAYS: At least they gave us a warning this time.\n\nCORNISH: Yes, so they -- enter (ph) nice.\n\nHAYS: They didn't -- they didn't -- they did not Saturday, last weekend. So, that's at least nice.\n\nDUBKE: Well, last Saturday was -- yes.\n\nCORNISH: OK. What about you guys?\n\nHAYS: My group chat is obviously \"Summer House.\" We are -- we got to the aftermath of the episode.\n\nCORNISH: How are you still talking about \"Summer House.\"\n\nHAYS: Because there was an epihouse (ph) -- an episode on Tuesday and they've released that West (ph) is not coming back to the -- to the Summer House\" for filming.\n\nCORNISH: Oh, yes. So, for the people who don't know, this is the man at the heart of a love triangle that you don't want to know about but do.\n\nHAYS: It's -- I mean, it's incredible but it is now over so we can move on to another Bravo show next week.\n\nCORNISH: Yes. Love it.\n\nDUBKE: Is there -- is there a full house and a winter house?\n\nHAYS: So, there used to be a winter house where they (INAUDIBLE).\n\nCORNISH: Oh, my God. Winter house.\n\nDUBKE: There was a winter house.\n\nHAYS: There was a winter house and they like combined some of the different shows.\n\nCORNISH: That was called \"The Shining.\"\n\nDUBKE: No, I think so.\n\nLook, I was trying to -- and Meghan says I've already talked about this before, but I -- live events seem to be where people are coming back together.\n\nCORNISH: Yes. Big, you know --\n\nDUBKE: From the New York Knicks celebration --\n\nCORNISH: Yes, yes, yes.\n\nDUBKE: To, I will give the Carolina Hurricanes their kudos for winning the Stanley Cup.\n\nCORNISH: Yes. It was amazing.\n\nDUBKE: I mean, and the World Cup in this massive -- the world is now looking at America because of the World Cup and these -- and these live events. And from concerts to everything else. This seems to be what is finally bringing people together.\n\nNow, it may be the ubiquitousness of cameras everywhere, but even news. Everything is live and we're reacting to everything in real time. But now we're in that golden -- kind of golden age of that and I'm -- I think it's -- I think it's somehow bringing America closer together, regardless of what we've just talked about for the last hour.\n\nCORNISH: Yes. I thought the same thing about the Knicks after a very divisive mayor's race, seeing New Yorkers --\n\nCORNISH: Instead of talking about who was leaving, who was left out, they actually really are, as we can see from the images, lining up together. And that was really amazing and a nice thing to say on a week like this.\n\nCORNISH: All right, you guys, thank you so much for being here. Nic, thank you for joining the chat.\n\nWe're still following all the news about the signing of the Iran deal. What's in the proposal and how the White House is talking about it. So, stay with us for these headlines. I'm Audie Cornish. You've got more news next."
+    }
+  ]
+}
