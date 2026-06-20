@@ -1,0 +1,846 @@
+{
+  "date": "2026-06-19",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-19/segment/02",
+  "vocabulary": [
+    {
+      "word": "postpone",
+      "phonetic": "/poʊstˈpoʊn/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "推迟",
+      "en": "to delay an event or arrangement until a later time",
+      "excerpt": "Today's Next Phase Of U.S.-Iran Peace Talks Postponed",
+      "example_cn": "会议被推迟到下周。"
+    },
+    {
+      "word": "presidential",
+      "phonetic": "/ˌprezɪˈdenʃl/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "总统的",
+      "en": "relating to a president or presidency",
+      "excerpt": "Obama Presidential Center Now Open To The Public In Chicago",
+      "example_cn": "总统选举每四年举行一次。"
+    },
+    {
+      "word": "marijuana",
+      "phonetic": "/ˌmærəˈwɑːnə/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "大麻",
+      "en": "a drug made from the dried leaves and flowers of the hemp plant, used for pleasure or medical purposes",
+      "excerpt": "Supreme Court Allows Some Marijuana Users To Own Guns",
+      "example_cn": "一些州已将大麻合法化。"
+    },
+    {
+      "word": "transcript",
+      "phonetic": "/ˈtrænskrɪpt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "文字记录",
+      "en": "a written or printed version of material originally presented in another medium",
+      "excerpt": "THIS IS A RUSH TRANSCRIPT.",
+      "example_cn": "请提供会议的文字记录。"
+    },
+    {
+      "word": "needless to say",
+      "phonetic": "/ˈniːdləs tə seɪ/",
+      "pos": "phrase",
+      "level": "考研",
+      "cn": "不用说",
+      "en": "used to emphasize that what you are saying is obvious",
+      "excerpt": "OK. So needless to say, the numbers are good.",
+      "example_cn": "不用说，他肯定会来。"
+    },
+    {
+      "word": "depiction",
+      "phonetic": "/dɪˈpɪkʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "描绘",
+      "en": "the action of depicting something, especially in a work of art",
+      "excerpt": "the way these romance shows depict masculinity and the male heroes",
+      "example_cn": "这部电影对战争的描绘非常真实。"
+    },
+    {
+      "word": "masculinity",
+      "phonetic": "/ˌmæskjuˈlɪnəti/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "男子气概",
+      "en": "qualities or attributes regarded as characteristic of men",
+      "excerpt": "the way these romance shows depict masculinity",
+      "example_cn": "社会对男子气概的看法正在改变。"
+    },
+    {
+      "word": "dutiful",
+      "phonetic": "/ˈduːtɪfl/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "尽职的",
+      "en": "conscientiously or obediently fulfilling one's duty",
+      "excerpt": "And it doesn't feel dutiful.",
+      "example_cn": "她是一个尽职的女儿。"
+    },
+    {
+      "word": "ghetto",
+      "phonetic": "/ˈɡetoʊ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "贫民区；被隔离的群体",
+      "en": "a poor urban area occupied by a minority group; used metaphorically to indicate a marginalized category",
+      "excerpt": "But romance novels were sort of in the ghetto of genres.",
+      "example_cn": "这种音乐类型曾被视为小众。"
+    },
+    {
+      "word": "pooh-pooh",
+      "phonetic": "/ˌpuː ˈpuː/",
+      "pos": "v.",
+      "level": "专八",
+      "cn": "轻视",
+      "en": "to dismiss something as unimportant or unworthy of consideration",
+      "excerpt": "this is a genre that gets pooh-poohed by in elite circles",
+      "example_cn": "他轻视了我的建议。"
+    },
+    {
+      "word": "nuance",
+      "phonetic": "/ˈnuːɑːns/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "细微差别",
+      "en": "a subtle difference in meaning, opinion, or attitude",
+      "excerpt": "you're getting character development, and then it all would get flattened off into Harlequin romance type stuff.",
+      "example_cn": "他的演讲充满了微妙的含义。"
+    },
+    {
+      "word": "subtext",
+      "phonetic": "/ˈsʌbtekst/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "潜台词",
+      "en": "an underlying and often distinct theme in a conversation or piece of writing",
+      "excerpt": "The big subtext here is the social media is everything",
+      "example_cn": "对话的潜台词是紧张。"
+    },
+    {
+      "word": "lawyer up",
+      "phonetic": "/ˈlɔːjər ʌp/",
+      "pos": "phrase",
+      "level": "考研",
+      "cn": "请律师",
+      "en": "to hire a lawyer, especially in a legal dispute",
+      "excerpt": "we're going to lawyer up",
+      "example_cn": "他决定请律师。"
+    },
+    {
+      "word": "unanimous",
+      "phonetic": "/juˈnænɪməs/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "一致的",
+      "en": "fully in agreement",
+      "excerpt": "it's a unanimous decision",
+      "example_cn": "委员会一致通过了该决议。"
+    },
+    {
+      "word": "jurisprudence",
+      "phonetic": "/ˌdʒʊrɪsˈpruːdns/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "法学；法律体系",
+      "en": "the theory or philosophy of law",
+      "excerpt": "the state of our jurisprudence on firearms",
+      "example_cn": "他研究美国法学。"
+    },
+    {
+      "word": "convergence",
+      "phonetic": "/kənˈvɜːrdʒəns/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "趋同；汇聚",
+      "en": "the process of coming together or merging",
+      "excerpt": "the convergence of two big areas in American law",
+      "example_cn": "技术趋同正在改变行业。"
+    },
+    {
+      "word": "cannabis",
+      "phonetic": "/ˈkænəbɪs/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "大麻",
+      "en": "a plant used to produce marijuana and hemp",
+      "excerpt": "relaxing laws on cannabis",
+      "example_cn": "大麻在某些国家是合法的。"
+    },
+    {
+      "word": "bedfellow",
+      "phonetic": "/ˈbedfeloʊ/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "盟友；伙伴",
+      "en": "a person or thing that is closely associated with another, often unexpectedly",
+      "excerpt": "The political bedfellows of this is also interesting",
+      "example_cn": "政治上的盟友有时很奇怪。"
+    },
+    {
+      "word": "concurrence",
+      "phonetic": "/kənˈkɜːrəns/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "同意；一致",
+      "en": "agreement or consistency",
+      "excerpt": "the opinions and then the concurrences",
+      "example_cn": "法官们意见一致。"
+    },
+    {
+      "word": "originalist",
+      "phonetic": "/əˈrɪdʒənəlɪst/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "原旨主义者",
+      "en": "a person who interprets the US Constitution based on its original meaning",
+      "excerpt": "we're all originalists now",
+      "example_cn": "原旨主义者认为宪法应严格按字面解释。"
+    },
+    {
+      "word": "footnote",
+      "phonetic": "/ˈfʊtnoʊt/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "脚注",
+      "en": "an additional piece of information at the bottom of a page",
+      "excerpt": "Can I add this legal footnote?",
+      "example_cn": "他在报告中加了一个脚注。"
+    },
+    {
+      "word": "pardon",
+      "phonetic": "/ˈpɑːrdn/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "赦免",
+      "en": "to release from the legal consequences of an offense",
+      "excerpt": "he was pardoned for all the things",
+      "example_cn": "总统赦免了那名囚犯。"
+    },
+    {
+      "word": "uncharitable",
+      "phonetic": "/ʌnˈtʃærɪtəbl/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "不宽容的；苛刻的",
+      "en": "not generous or kind; harsh in judgment",
+      "excerpt": "a tone of aggressive uncharity to people who aren't on board",
+      "example_cn": "他对失败者做出了苛刻的评价。"
+    },
+    {
+      "word": "evasive",
+      "phonetic": "/ɪˈveɪsɪv/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "回避的",
+      "en": "tending to avoid giving a direct answer",
+      "excerpt": "you found his answers evasive",
+      "example_cn": "他的回答很回避。"
+    },
+    {
+      "word": "confessional",
+      "phonetic": "/kənˈfeʃənl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "忏悔室",
+      "en": "a private booth in a church where a priest hears confessions",
+      "excerpt": "If I were to walk into my confessional",
+      "example_cn": "他走进忏悔室。"
+    },
+    {
+      "word": "Hail Mary",
+      "phonetic": "/ˌheɪl ˈmeri/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "万福玛利亚（祈祷词）",
+      "en": "a prayer to the Virgin Mary in the Roman Catholic Church",
+      "excerpt": "You don't get fewer Hail Marys",
+      "example_cn": "他念了十遍万福玛利亚。"
+    },
+    {
+      "word": "Christian nationalism",
+      "phonetic": "/ˈkrɪstʃən ˈnæʃnəlɪzəm/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "基督教民族主义",
+      "en": "a political ideology that seeks to merge Christian identity with national identity",
+      "excerpt": "they are trying to push a kind of Christian nationalism",
+      "example_cn": "基督教民族主义在美国引发争议。"
+    },
+    {
+      "word": "graph onto",
+      "phonetic": "/ɡræf ˈɒntuː/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "映射到；强加于",
+      "en": "to impose one thing onto another, often inappropriately",
+      "excerpt": "the problem when we try to graph politics onto religion",
+      "example_cn": "不要将你的观点强加于他人。"
+    },
+    {
+      "word": "wade into",
+      "phonetic": "/weɪd ˈɪntuː/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "介入；插手",
+      "en": "to become involved in something in a forceful or unwelcome way",
+      "excerpt": "when churches start wading into politics",
+      "example_cn": "他介入了争论。"
+    },
+    {
+      "word": "elide",
+      "phonetic": "/ɪˈlaɪd/",
+      "pos": "v.",
+      "level": "专八",
+      "cn": "省略；忽略",
+      "en": "to omit or leave out, especially in speech or writing",
+      "excerpt": "it elided some of the responsibility",
+      "example_cn": "他省略了细节。"
+    },
+    {
+      "word": "horseshoe",
+      "phonetic": "/ˈhɔːrʃuː/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "马蹄铁；马蹄形",
+      "en": "a U-shaped metal shoe for a horse; used metaphorically for a political theory",
+      "excerpt": "It was a horseshoe there.",
+      "example_cn": "政治上的马蹄铁理论认为极端左右派相似。"
+    },
+    {
+      "word": "condescending",
+      "phonetic": "/ˌkɑːndɪˈsendɪŋ/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "居高临下的",
+      "en": "showing a superior attitude towards others",
+      "excerpt": "I find that so condescending",
+      "example_cn": "他居高临下的语气令人恼火。"
+    },
+    {
+      "word": "monoculture",
+      "phonetic": "/ˈmɑːnəkʌltʃər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "单一文化；同质化",
+      "en": "a culture that is uniform or lacking diversity",
+      "excerpt": "the death of monoculture",
+      "example_cn": "媒体单一文化正在消失。"
+    },
+    {
+      "word": "bite-sized",
+      "phonetic": "/ˈbaɪt saɪzd/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "小块的；简短的",
+      "en": "small enough to be eaten in one bite; used metaphorically for short content",
+      "excerpt": "These are all shows that are bite-sized.",
+      "example_cn": "这些短视频是碎片化的。"
+    },
+    {
+      "word": "virality",
+      "phonetic": "/vaɪˈræləti/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "病毒式传播",
+      "en": "the tendency of content to spread rapidly online",
+      "excerpt": "in their virality",
+      "example_cn": "该视频的病毒式传播令人惊讶。"
+    },
+    {
+      "word": "probation",
+      "phonetic": "/proʊˈbeɪʃn/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "缓刑；试用期",
+      "en": "a period of testing or trial; a legal status allowing a convicted person to remain free under supervision",
+      "excerpt": "Joey Chestnut, this champion hot dog eater, is on probation",
+      "example_cn": "他被判缓刑两年。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "And what I think is really interesting, which we discussed in the latest episode of Engagement Party, is the way these romance shows depict masculinity and the male heroes.",
+      "cn": "我认为非常有趣的一点是，这些浪漫剧描绘男子气概和男性英雄的方式，我们在《订婚派对》最新一期中讨论过。",
+      "structure": "主句（And what I think is really interesting） + 非限制性定语从句（which we discussed...） + 表语从句（is the way...）",
+      "analysis": "主语从句'what I think is really interesting'作主语，'which'引导非限制性定语从句修饰整个主句，'is'后接表语从句'the way...'，其中'these romance shows depict masculinity and the male heroes'是定语从句修饰'the way'。"
+    },
+    {
+      "en": "It is not the kind of tough guy, stuff your feelings down, punch a wall depiction.",
+      "cn": "这不是那种硬汉、压抑情感、捶墙的描绘。",
+      "structure": "主系表结构（It is not the kind of... depiction）",
+      "analysis": "'tough guy, stuff your feelings down, punch a wall'是并列的定语修饰'depiction'，其中'stuff your feelings down'和'punch a wall'是动词短语作定语。"
+    },
+    {
+      "en": "And it doesn't feel dutiful.",
+      "cn": "而且它并不让人觉得是出于义务。",
+      "structure": "主系表结构（It doesn't feel dutiful）",
+      "analysis": "'feel'是系动词，后接形容词'dutiful'作表语。"
+    },
+    {
+      "en": "But romance novels were sort of in the ghetto of genres.",
+      "cn": "但浪漫小说曾处于体裁的贫民区。",
+      "structure": "主系表结构（romance novels were sort of in the ghetto of genres）",
+      "analysis": "'sort of'是副词短语修饰'in the ghetto of genres'，'ghetto'比喻被边缘化的地位。"
+    },
+    {
+      "en": "As a longtime romance reader and a longtime reader of romantasy, I feel very strongly and I'm very invested in this.",
+      "cn": "作为长期的浪漫小说读者和浪漫奇幻读者，我对此感受强烈且投入。",
+      "structure": "状语（As...） + 并列句（I feel... and I'm...）",
+      "analysis": "'As...'是介词短语作状语，主句由两个并列分句组成，'feel strongly'和'be invested in'。"
+    },
+    {
+      "en": "Female rage is something that doesn't get enough stuff.",
+      "cn": "女性愤怒是一种没有得到足够关注的东西。",
+      "structure": "主系表结构（Female rage is something） + 定语从句（that doesn't get enough stuff）",
+      "analysis": "'that'引导定语从句修饰'something'，'stuff'在此意为'关注'或'讨论'。"
+    },
+    {
+      "en": "But I do think that this is a genre that gets pooh-poohed by in elite circles, but has always been the engine of publishing.",
+      "cn": "但我确实认为这是一个被精英圈子轻视的体裁，却一直是出版的引擎。",
+      "structure": "主句（I do think） + 宾语从句（that this is a genre...）",
+      "analysis": "'do'表示强调，宾语从句中'that gets pooh-poohed...'是定语从句修饰'a genre'，'but has always been...'是并列谓语。"
+    },
+    {
+      "en": "But I don't think they understood how to make them in the way that you get the nuance in the books, right?",
+      "cn": "但我认为他们不明白如何以书中那种微妙的方式制作它们，对吧？",
+      "structure": "主句（I don't think） + 宾语从句（they understood...）",
+      "analysis": "宾语从句中'how to make them'是疑问词+不定式结构作宾语，'in the way that...'是方式状语，'that'引导定语从句修饰'the way'。"
+    },
+    {
+      "en": "The big subtext here is the social media is everything, right?",
+      "cn": "这里的大潜台词是社交媒体就是一切，对吧？",
+      "structure": "主系表结构（The big subtext is...） + 表语从句（the social media is everything）",
+      "analysis": "'is'后接省略了'that'的表语从句。"
+    },
+    {
+      "en": "I don't know if we wouldn't be here at all without these folks on TikTok.",
+      "cn": "我不知道如果没有TikTok上的这些人，我们是否根本不会在这里。",
+      "structure": "主句（I don't know） + 宾语从句（if we wouldn't be here...）",
+      "analysis": "'if'引导宾语从句，表示'是否'，从句使用虚拟语气（wouldn't be）表示与事实相反的假设。"
+    },
+    {
+      "en": "What's old is new again.",
+      "cn": "旧事物又变新了。",
+      "structure": "主语从句（What's old） + 系动词（is） + 表语（new again）",
+      "analysis": "'What's old'是主语从句，'again'是副词修饰'new'。"
+    },
+    {
+      "en": "And we end the segment with the men arguing about how much sex is in the romance genre.",
+      "cn": "我们以男人们争论浪漫体裁中有多少性内容来结束这一片段。",
+      "structure": "主句（we end the segment） + 状语（with the men arguing...）",
+      "analysis": "'with + 名词 + 现在分词'结构作伴随状语，'arguing about...'是现在分词短语作宾补。"
+    },
+    {
+      "en": "Elliot's talking about guns and marijuana, why this latest Supreme Court decision could reach far beyond one man's case, and today's talks with Iran, the formal signing ceremony that's been canceled at the last minute.",
+      "cn": "埃利奥特在谈论枪支和大麻，为什么最高法院的最新裁决可能远远超出一个人的案件，以及今天与伊朗的会谈，最后一刻被取消的正式签字仪式。",
+      "structure": "并列宾语（guns and marijuana, why..., and today's talks...）",
+      "analysis": "这是'lawyer up'后的内容，'talking about'后接三个并列宾语：名词短语、疑问词引导的从句、名词短语，最后一个名词短语后接定语从句。"
+    },
+    {
+      "en": "Overnight, today's planned talks between Iran and the U.S. canceled.",
+      "cn": "一夜之间，今天计划的美伊会谈被取消。",
+      "structure": "简单句（talks canceled）",
+      "analysis": "'Overnight'是时间状语，'planned'是过去分词作定语修饰'talks'，'between Iran and the U.S.'是介词短语作定语。"
+    },
+    {
+      "en": "Vice President delaying his trip to Switzerland at the last minute because of what the White House is calling unresolved logistics surrounding the next phase of negotiations.",
+      "cn": "副总统在最后一刻推迟了瑞士之行，因为白宫称之为围绕下一阶段谈判的未解决后勤问题。",
+      "structure": "主句（Vice President delaying his trip） + 原因状语（because of...）",
+      "analysis": "'delaying'是现在分词，表示主动进行；'because of'后接名词性从句'what the White House is calling...'，其中'surrounding...'是现在分词短语作定语。"
+    },
+    {
+      "en": "And U.S. boat strikes on suspected drug-smuggling boats still happening.",
+      "cn": "美国对涉嫌毒品走私船只的打击仍在发生。",
+      "structure": "简单句（strikes still happening）",
+      "analysis": "'U.S. boat strikes on suspected drug-smuggling boats'是名词短语作主语，'still happening'是现在分词短语作谓语。"
+    },
+    {
+      "en": "Some lawmakers are calling for an investigation, saying the administration is not offering enough evidence to support its claims.",
+      "cn": "一些立法者呼吁进行调查，称政府没有提供足够的证据来支持其说法。",
+      "structure": "主句（lawmakers are calling for an investigation） + 伴随状语（saying...）",
+      "analysis": "'saying'是现在分词，后接宾语从句'the administration is not offering...'，'to support its claims'是不定式作目的状语。"
+    },
+    {
+      "en": "And today, on Juneteenth, the Obama Presidential Center is set to open to the public.",
+      "cn": "今天，在六月节，奥巴马总统中心将向公众开放。",
+      "structure": "简单句（the Center is set to open）",
+      "analysis": "'on Juneteenth'是时间状语，'is set to'表示'计划'，'open to the public'是动词短语。"
+    },
+    {
+      "en": "The Supreme Court expanding gun rights to some who light up.",
+      "cn": "最高法院将枪支权利扩大到一些吸大麻的人。",
+      "structure": "简单句（The Supreme Court expanding gun rights）",
+      "analysis": "'expanding'是现在分词，'to some who light up'是介词短语，'who light up'是定语从句修饰'some'，'light up'俚语指吸大麻。"
+    },
+    {
+      "en": "The High Court siding with a Texas man who argued that he shouldn't be criminally charged for owning a gun just because he smokes marijuana.",
+      "cn": "最高法院支持一名德克萨斯州男子，他辩称他不应该仅仅因为吸大麻而因拥有枪支受到刑事指控。",
+      "structure": "主句（The High Court siding with a Texas man） + 定语从句（who argued...）",
+      "analysis": "'siding with'是现在分词短语，'who'引导定语从句，从句中'argued'后接宾语从句'that he shouldn't be...'，'just because'引导原因状语从句。"
+    },
+    {
+      "en": "The decision, loosening a federal ban, but the ruling is not so cut and dry, which is why it's time to lawyer up with CNN legal analyst Elliot Williams.",
+      "cn": "这一决定放宽了联邦禁令，但裁决并非如此明确，这就是为什么是时候与CNN法律分析师埃利奥特·威廉姆斯一起请律师了。",
+      "structure": "并列句（The decision... but the ruling is not...） + 非限制性定语从句（which is why...）",
+      "analysis": "'loosening a federal ban'是现在分词短语作定语修饰'decision'，'cut and dry'是固定短语意为'明确的'，'which'指代整个主句，'why'引导表语从句。"
+    },
+    {
+      "en": "And one of the more common things that young prosecutors prosecute is this kind of case, which is a prohibition case where an individual is prohibited from owning a firearm based on the class of society that they belong to.",
+      "cn": "年轻检察官起诉的更常见的事情之一就是这种案件，这是一种禁止案件，即个人因其所属的社会阶层而被禁止拥有枪支。",
+      "structure": "主句（one of the more common things... is this kind of case） + 定语从句（that young prosecutors prosecute） + 非限制性定语从句（which is a prohibition case...）",
+      "analysis": "'that'引导定语从句修饰'things'，'which'引导非限制性定语从句修饰'case'，'where'引导定语从句修饰'prohibition case'，'based on...'是过去分词短语作状语，'that they belong to'是定语从句修饰'the class of society'。"
+    },
+    {
+      "en": "Well, this individual who was a casual habitual marijuana user said he used it a few times a week had his firearm taken away and brought a lawsuit saying that -- well, the Second Amendment should not bar someone like me from using a firearm.",
+      "cn": "好吧，这个人是偶尔习惯性的大麻使用者，他说他每周使用几次，他的枪支被没收，并提起诉讼说——嗯，第二修正案不应该禁止像我这样的人使用枪支。",
+      "structure": "主句（this individual... said... had his firearm taken away and brought a lawsuit）",
+      "analysis": "'who'引导定语从句修饰'individual'，'said'后接宾语从句'he used it...'，'had his firearm taken away'是'have sth done'结构，'brought a lawsuit'是并列谓语，'saying that...'是现在分词短语作伴随状语，'that'引导宾语从句。"
+    },
+    {
+      "en": "She says that the state of our jurisprudence on firearms leaves open these open questions.",
+      "cn": "她说，我们关于枪支的法律体系留下了这些悬而未决的问题。",
+      "structure": "主句（She says） + 宾语从句（that the state... leaves open these open questions）",
+      "analysis": "'leaves open'是动词短语，意为'使...未解决'，'these open questions'是宾语。"
+    },
+    {
+      "en": "Now, the way they use it is that, number one, it is increasingly in a different class of substance than cocaine, heroin, whatever else, and it just had its classifications level lower.",
+      "cn": "现在，他们使用它的方式是，第一，它越来越属于与可卡因、海洛因等不同的物质类别，而且它的分类级别刚刚降低。",
+      "structure": "主句（the way they use it is that...）",
+      "analysis": "'the way they use it'是主语，'they use it'是定语从句修饰'the way'，'is that'后接表语从句，表语从句由两个并列分句组成。"
+    },
+    {
+      "en": "And I just think what we're seeing here is the convergence of two big areas in American law, relaxing laws on cannabis, but also relaxing laws on firearms.",
+      "cn": "我只是认为我们在这里看到的是美国法律两大领域的趋同，即放宽大麻法律，同时也放宽枪支法律。",
+      "structure": "主句（I think） + 宾语从句（what we're seeing here is the convergence...）",
+      "analysis": "'what we're seeing here'是主语从句，'is'后接表语，'relaxing laws...'是现在分词短语作同位语解释'convergence'。"
+    },
+    {
+      "en": "And it's a reminder as well that a lot of controversial or supposedly controversial issues that there can be and there often is in in the Supreme Court, a lot of nine or eight decisions.",
+      "cn": "这也提醒我们，很多有争议或被认为有争议的问题，在最高法院中可能而且经常存在，很多是9比0或8比1的裁决。",
+      "structure": "主句（It's a reminder） + 同位语从句（that a lot of... issues... there can be...）",
+      "analysis": "'that'引导同位语从句修饰'reminder'，从句中'that there can be...'是定语从句修饰'issues'，'a lot of nine or eight decisions'是同位语。"
+    },
+    {
+      "en": "I think that there is oftentimes those don't get as much attention.",
+      "cn": "我认为那些往往没有得到那么多关注。",
+      "structure": "主句（I think） + 宾语从句（that there is oftentimes those don't get...）",
+      "analysis": "'that'引导宾语从句，从句中'those don't get...'是定语从句修饰'there is'的宾语，但结构略显松散，口语化表达。"
+    },
+    {
+      "en": "Now, they're very careful to say this is just for casual users of marijuana, other people with different sort of substances will still have the prohibition apply to them.",
+      "cn": "现在，他们非常谨慎地说，这仅适用于偶尔使用大麻的人，其他使用不同物质的人仍将受到禁令的约束。",
+      "structure": "主句（they're very careful to say） + 宾语从句（this is just for...） + 并列句（other people... will still have...）",
+      "analysis": "'to say'是不定式，后接宾语从句，'have the prohibition apply to them'是'have sth do'结构。"
+    },
+    {
+      "en": "I think the Supreme Court was trying to find a way to carve marijuana out of the law.",
+      "cn": "我认为最高法院正试图找到一种将大麻从法律中剔除的方法。",
+      "structure": "主句（I think） + 宾语从句（the Supreme Court was trying to find a way...）",
+      "analysis": "'to carve marijuana out of the law'是不定式短语作定语修饰'way'。"
+    },
+    {
+      "en": "Here, it's a vague standard of how do you ultimately define when someone is sufficiently dangerous based on the type of substance they're using.",
+      "cn": "这里，这是一个模糊的标准，即你如何最终根据他们使用的物质类型来定义某人何时足够危险。",
+      "structure": "主句（it's a vague standard） + 同位语（of how do you ultimately define...）",
+      "analysis": "'of'后接疑问词引导的从句作同位语，'when someone is sufficiently dangerous'是宾语从句，'based on...'是过去分词短语作状语。"
+    },
+    {
+      "en": "For every clip that you could show me of me or the president or some cabinet secretary saying something that, in your view, is unchristian, I could show you another few clips of us doing something or saying something that is like very Christian.",
+      "cn": "对于你能给我看的每一个我、总统或某位内阁秘书说一些在你看来不基督教的话的片段，我可以给你看另外几个我们做或说一些非常基督教的事情的片段。",
+      "structure": "状语（For every clip...） + 主句（I could show you another few clips...）",
+      "analysis": "'For every clip'是介词短语，'that you could show me'是定语从句修饰'clip'，'of me or the president...'是介词短语作定语，'saying something...'是现在分词短语，'that... is unchristian'是定语从句修饰'something'。主句类似结构。"
+    },
+    {
+      "en": "I'm not saying we're perfect because we're not.",
+      "cn": "我不是说我们完美，因为我们不完美。",
+      "structure": "主句（I'm not saying） + 宾语从句（we're perfect） + 原因状语从句（because we're not）",
+      "analysis": "'saying'后省略了'that'，'because'引导原因状语从句。"
+    },
+    {
+      "en": "If I were to walk into my confessional and tell the priest, oh, I've committed these sins, but you wouldn't believe all the great stuff that I was doing as well.",
+      "cn": "如果我走进忏悔室告诉神父，哦，我犯了这些罪，但你不会相信我做的所有好事。",
+      "structure": "条件状语从句（If I were to walk... and tell...） + 主句（you wouldn't believe...）",
+      "analysis": "'If I were to'是虚拟语气，表示与现在事实相反，'that I was doing'是定语从句修饰'stuff'。"
+    },
+    {
+      "en": "I think that's what's most important from not from a necessarily political point of view but from a from a faith point of view.",
+      "cn": "我认为这是最重要的，不是从必然的政治角度，而是从信仰角度。",
+      "structure": "主句（I think） + 宾语从句（that's what's most important...）",
+      "analysis": "'that's what's most important'是表语从句，'from... point of view'是介词短语作状语。"
+    },
+    {
+      "en": "One of the responses to this has gotten a lot of traction specifically on the right and the left was him sort of pushing back and saying that the language that -- that some of the language that's used is class-based, right, and that the elite spaces are pushing back on this language because they're not used to the rough and tumble of the F-bombs being deployed which -- and, you know, those on the right and the left have looked at this and said, like, this could have been, like, a hard left response to some of these issues.",
+      "cn": "对此的回应之一在右翼和左翼都获得了很大关注，那就是他有点反击并说，所使用的语言是基于阶级的，精英阶层正在抵制这种语言，因为他们不习惯F字炸弹的粗鲁，而左右两派都认为这可能是对其中一些问题的极左回应。",
+      "structure": "主句（One of the responses... has gotten a lot of traction） + 同位语（was him...）",
+      "analysis": "这是一个长句，结构复杂。'was him pushing back...'是动名词复合结构作同位语，'saying that...'是现在分词短语，'that the language... is class-based'是宾语从句，'because they're not used to...'是原因状语从句，'which'引导定语从句，最后'those... have looked... and said...'是并列句。"
+    },
+    {
+      "en": "It was a horseshoe thing, but even so, it elided some of the responsibility to this.",
+      "cn": "这是一个马蹄铁现象，但即便如此，它忽略了对此的一些责任。",
+      "structure": "并列句（It was a horseshoe thing, but... it elided...）",
+      "analysis": "'horseshoe thing'指政治上的马蹄铁理论，'elide'意为'忽略'。"
+    },
+    {
+      "en": "All politicians have to respond to how they deploy language.",
+      "cn": "所有政治家都必须回应他们如何使用语言。",
+      "structure": "主句（politicians have to respond to） + 宾语（how they deploy language）",
+      "analysis": "'how'引导名词性从句作介词'to'的宾语。"
+    },
+    {
+      "en": "So, basically, he was saying, like, look, just the fact that you're asking this question reveals your kind of elitism, but y'all aren't used to the rough-and-tumble language of the hillbilly elegy and everyone's like but.",
+      "cn": "所以，基本上，他在说，看，你问这个问题的事实本身就暴露了你的精英主义，但你们不习惯《乡巴佬挽歌》的粗鲁语言，每个人都像但是。",
+      "structure": "主句（he was saying） + 宾语从句（look, just the fact... reveals... but...）",
+      "analysis": "'just the fact that...'是主语，'that you're asking this question'是同位语从句修饰'fact'，'reveals'是谓语，'your kind of elitism'是宾语，'but'后是并列分句。"
+    },
+    {
+      "en": "I find that so condescending frankly -- and acting as if he can speak for how working class people accept you know what's acceptable to them.",
+      "cn": "坦率地说，我觉得这太居高临下了——而且表现得好像他能代表工人阶级接受什么对他们来说是可接受的。",
+      "structure": "主句（I find that so condescending） + 并列（and acting as if...）",
+      "analysis": "'find + 宾语 + 宾补'结构，'acting as if'是现在分词短语，'as if'引导方式状语从句，'how working class people accept...'是宾语从句。"
+    },
+    {
+      "en": "And he credited this to Rogan not having to deal with the FCC.",
+      "cn": "他将此归功于罗根不必与联邦通信委员会打交道。",
+      "structure": "主句（he credited this to Rogan not having to deal with the FCC）",
+      "analysis": "'credit A to B'意为'将A归功于B'，'not having to deal with'是动名词的否定形式。"
+    },
+    {
+      "en": "The idea that how did this person sort of rise?",
+      "cn": "这个人是怎么崛起的？",
+      "structure": "名词短语（The idea that...）",
+      "analysis": "'that'引导同位语从句，但从句是疑问句形式，口语化表达。"
+    },
+    {
+      "en": "The late night guys are like, well, wait a second.",
+      "cn": "深夜秀主持人就像，嗯，等一下。",
+      "structure": "简单句（The late night guys are like...）",
+      "analysis": "'are like'是口语中表示'说'或'想'的用法。"
+    },
+    {
+      "en": "Think about one of the enduring questions out of the 2024 election.",
+      "cn": "想想2024年大选中的一个持久问题。",
+      "structure": "祈使句（Think about...）",
+      "analysis": "'one of the enduring questions'是宾语，'out of the 2024 election'是介词短语作定语。"
+    },
+    {
+      "en": "Should Kamala Harris have gone on Joe Rogan?",
+      "cn": "卡玛拉·哈里斯本应该上乔·罗根的节目吗？",
+      "structure": "疑问句（Should Kamala Harris have gone...）",
+      "analysis": "'should have gone'是虚拟语气，表示过去本应做但未做。"
+    },
+    {
+      "en": "We were talking a little bit earlier about books in the program, about how TikTok sells books.",
+      "cn": "我们早些时候在节目中谈到了书籍，关于TikTok如何卖书。",
+      "structure": "主句（We were talking about books... about how TikTok sells books）",
+      "analysis": "'about how TikTok sells books'是介词短语，'how'引导宾语从句。"
+    },
+    {
+      "en": "It is just a different world than the one that any of us grew up in, and it almost makes sense to get on board rather than try to fight it.",
+      "cn": "这只是一个与我们任何人成长的世界不同的世界，而且顺应它而不是试图对抗它几乎是有道理的。",
+      "structure": "并列句（It is just a different world... and it almost makes sense...）",
+      "analysis": "'than the one that...'是比较结构，'that'引导定语从句修饰'the one'，'to get on board rather than try to fight it'是不定式短语作主语。"
+    },
+    {
+      "en": "These are all shows that are bite-sized.",
+      "cn": "这些都是碎片化的节目。",
+      "structure": "主句（These are all shows） + 定语从句（that are bite-sized）",
+      "analysis": "'that'引导定语从句修饰'shows'。"
+    },
+    {
+      "en": "A lot of people take them in, in their virality.",
+      "cn": "很多人以病毒式传播的方式接受它们。",
+      "structure": "简单句（people take them in）",
+      "analysis": "'in their virality'是介词短语作方式状语。"
+    },
+    {
+      "en": "But I'm also interested in the fact that, frankly, they're longer than your average late-night show.",
+      "cn": "但我也对这样一个事实感兴趣：坦率地说，它们比一般的深夜秀更长。",
+      "structure": "主句（I'm interested in the fact） + 同位语从句（that they're longer...）",
+      "analysis": "'that'引导同位语从句修饰'the fact'。"
+    },
+    {
+      "en": "Like, their ability to talk and hang out for a while feels like maybe that's what people are responding to?",
+      "cn": "比如，他们聊天和闲逛一段时间的能力感觉也许这就是人们所回应的？",
+      "structure": "主句（their ability... feels like...）",
+      "analysis": "'to talk and hang out'是不定式短语作定语修饰'ability'，'feels like'后接宾语从句'maybe that's what...'，'what people are responding to'是表语从句。"
+    },
+    {
+      "en": "It -- you know, you nowadays have to make a show and have it go everywhere all the time, you know, on all the different platforms.",
+      "cn": "它——你知道，如今你必须制作一个节目，并让它随时随地出现在所有不同的平台上。",
+      "structure": "主句（you have to make a show and have it go everywhere）",
+      "analysis": "'have it go'是'have sth do'结构，'everywhere all the time'是状语，'on all the different platforms'是介词短语。"
+    },
+    {
+      "en": "Whereas I don't think you could have a Johnny Carson today because each one of these guys has picked out Elaine based on ideology.",
+      "cn": "而我认为今天你不可能有一个约翰尼·卡森，因为这些人每个人都根据意识形态挑选了伊莱恩。",
+      "structure": "主句（I don't think you could have...） + 原因状语从句（because each one... has picked out...）",
+      "analysis": "'could have'是虚拟语气，'based on ideology'是过去分词短语作状语。"
+    },
+    {
+      "en": "Since there are no collective facts, you pick Elaine and you start poking jokes at the ideologies.",
+      "cn": "既然没有集体事实，你就挑选伊莱恩，然后开始拿意识形态开玩笑。",
+      "structure": "原因状语从句（Since there are no collective facts） + 并列句（you pick... and you start...）",
+      "analysis": "'Since'引导原因状语从句，'poking jokes at'是固定短语。"
+    },
+    {
+      "en": "I wonder if it's more technological, right?",
+      "cn": "我想知道这是否更多是技术性的，对吧？",
+      "structure": "主句（I wonder） + 宾语从句（if it's more technological）",
+      "analysis": "'if'引导宾语从句，表示'是否'。"
+    },
+    {
+      "en": "I mean, I think the point Jay Leno was trying to make here is that that sort of -- he was complaining actually about the way that ads have broken more into late night and you know, it went from -- you know, a very --",
+      "cn": "我的意思是，我认为杰·雷诺在这里试图表达的观点是，那种——他实际上在抱怨广告更多地侵入深夜秀的方式，你知道，它从——你知道，一个非常——",
+      "structure": "主句（I think the point... is that...）",
+      "analysis": "'the point Jay Leno was trying to make'是主语，'Jay Leno was trying to make'是定语从句修饰'point'，'is that'后接表语从句，表语从句中'he was complaining about the way that...'，'that ads have broken...'是定语从句修饰'the way'。"
+    },
+    {
+      "en": "And there's a lot more sort of freedom and people can sort of choose what they want to watch with these long-form interviews.",
+      "cn": "而且有更多的自由，人们可以选择他们想看的这些长形式采访。",
+      "structure": "并列句（there's a lot more freedom and people can choose...）",
+      "analysis": "'what they want to watch'是宾语从句，'with these long-form interviews'是介词短语作状语。"
+    },
+    {
+      "en": "But is Call Your Daddy, is Hot Ones, is Subway Takes ideological?",
+      "cn": "但《Call Your Daddy》、《Hot Ones》、《Subway Takes》是意识形态的吗？",
+      "structure": "并列疑问句（is A, is B, is C ideological?）",
+      "analysis": "三个并列的疑问句，主语是节目名称。"
+    },
+    {
+      "en": "I don't think so.",
+      "cn": "我不这么认为。",
+      "structure": "简单句（I don't think so）",
+      "analysis": "'so'替代上文内容。"
+    },
+    {
+      "en": "No. I mean, like a Jimmy Kimmel is, right?",
+      "cn": "不。我的意思是，像吉米·坎摩尔就是，对吧？",
+      "structure": "简单句（Jimmy Kimmel is）",
+      "analysis": "'like a Jimmy Kimmel'是介词短语，'is'后省略了'ideological'。"
+    },
+    {
+      "en": "A Colbert was.",
+      "cn": "科尔伯特也是。",
+      "structure": "简单句（A Colbert was）",
+      "analysis": "省略结构，完整为'A Colbert was ideological'。"
+    },
+    {
+      "en": "They picked lanes they did well by it, you know, in this very fragmented culture that we live in.",
+      "cn": "他们选择了赛道，并因此做得很好，你知道，在我们生活的这个非常碎片化的文化中。",
+      "structure": "主句（They picked lanes） + 定语从句（they did well by it） + 状语（in this... culture）",
+      "analysis": "'they did well by it'是定语从句修饰'lanes'，'that we live in'是定语从句修饰'culture'。"
+    },
+    {
+      "en": "I mean, if you look at what's replaced Colbert --",
+      "cn": "我的意思是，如果你看看取代科尔伯特的是什么——",
+      "structure": "条件状语从句（if you look at what's replaced Colbert）",
+      "analysis": "'what's replaced Colbert'是宾语从句。"
+    },
+    {
+      "en": "It hasn't done so well.",
+      "cn": "它做得不太好。",
+      "structure": "简单句（It hasn't done so well）",
+      "analysis": "'so well'是副词短语修饰'done'。"
+    },
+    {
+      "en": "My group chat is about America.",
+      "cn": "我的群聊是关于美国的。",
+      "structure": "主系表结构（My group chat is about America）",
+      "analysis": "'about America'是介词短语作表语。"
+    },
+    {
+      "en": "There's nothing more American than July 4th and eating hot dogs, and the criminal justice system, Joey Chestnut.",
+      "cn": "没有什么比7月4日、吃热狗和刑事司法系统、乔伊·切斯特纳特更美国了。",
+      "structure": "There be句型（There's nothing more American than...）",
+      "analysis": "'more American than'是比较级，'July 4th and eating hot dogs, and the criminal justice system, Joey Chestnut'是并列宾语。"
+    },
+    {
+      "en": "Joey Chestnut, this champion hot dog eater, is on probation and will be able to compete on July 4th in the Nathan's Hot Dog Eating Contest from probation for an assault.",
+      "cn": "乔伊·切斯特纳特，这位冠军热狗食客，正在缓刑期，将能够参加7月4日的内森热狗大赛，因为袭击罪被判缓刑。",
+      "structure": "主句（Joey Chestnut is on probation and will be able to compete）",
+      "analysis": "'this champion hot dog eater'是同位语，'from probation for an assault'是介词短语作状语。"
+    },
+    {
+      "en": "We've been talking about this father who brought his two little girls into a gas station bathroom.",
+      "cn": "我们一直在谈论这位父亲，他带着两个小女儿进了加油站卫生间。",
+      "structure": "主句（We've been talking about this father） + 定语从句（who brought...）",
+      "analysis": "'who'引导定语从句修饰'father'。"
+    },
+    {
+      "en": "He brought them into the women's restroom, and he began filming it because a man, another man, sort of broke in to say, there's a grown man in the women's restroom.",
+      "cn": "他把她们带进了女卫生间，然后开始拍摄，因为一个男人，另一个男人，闯进来说，女卫生间里有一个成年男人。",
+      "structure": "并列句（He brought... and he began filming...） + 原因状语从句（because a man... broke in to say...）",
+      "analysis": "'sort of'是副词，'broke in'意为'闯入'，'to say'是不定式表示目的，'there's a grown man...'是宾语从句。"
+    },
+    {
+      "en": "The young father's trying to explain, I'm here to help my kids, to help my little girls.",
+      "cn": "年轻的父亲试图解释，我在这里是为了帮助我的孩子，帮助我的小女儿们。",
+      "structure": "主句（The young father's trying to explain） + 直接引语（I'm here to help...）",
+      "analysis": "'to help my kids, to help my little girls'是不定式短语作目的状语。"
+    },
+    {
+      "en": "And it's just caused a lot of conversation.",
+      "cn": "这引发了很多讨论。",
+      "structure": "简单句（It's caused a lot of conversation）",
+      "analysis": "'a lot of conversation'是宾语。"
+    },
+    {
+      "en": "My one is about a tree that is sadly RIP, 1,200-year-old tree that was there during the days of Robin Hood, 1,200 years old and is now, sadly, no longer alive.",
+      "cn": "我的一个话题是关于一棵树，可悲的是它已经死了，一棵1200年的树，在罗宾汉时代就在那里，1200岁，现在可悲地不再活着。",
+      "structure": "主句（My one is about a tree） + 定语从句（that is sadly RIP） + 同位语（1,200-year-old tree...）",
+      "analysis": "'that'引导定语从句修饰'tree'，'1,200-year-old tree'是同位语，'that was there...'是定语从句修饰'tree'，'and is now...'是并列谓语。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "U.S.-Iran Peace Talks Postponed",
+      "content": "原定于2026年6月19日举行的美伊和平谈判下一阶段被推迟，副总统在最后一刻取消瑞士之行，白宫称后勤问题未解决。同时，美国继续打击涉嫌毒品走私船只，造成人员伤亡，引发国会调查呼声。",
+      "keywords": "U.S.-Iran talks, postponed, Vice President, logistics, drug boat strikes, investigation"
+    },
+    {
+      "title": "Obama Presidential Center Opens",
+      "content": "2026年6月19日（六月节），奥巴马总统中心在芝加哥向公众开放。前总统奥巴马、米歇尔·奥巴马、克林顿、布什和拜登出席开幕式。普通门票已售罄至10月底。",
+      "keywords": "Obama Presidential Center, Juneteenth, grand opening, Michelle Obama, sold out"
+    },
+    {
+      "title": "Supreme Court Gun Rights for Marijuana Users",
+      "content": "最高法院裁定，允许部分大麻使用者拥有枪支。案件涉及一名德克萨斯州男子，他因吸大麻而被禁止持枪。法院一致裁决，但大法官杰克逊指出标准模糊。此案与亨特·拜登案相关，凸显大麻合法化与枪支权利的交汇。",
+      "keywords": "Supreme Court, gun rights, marijuana, Second Amendment, unanimous, Hunter Biden"
+    },
+    {
+      "title": "Romance Novels and TV Adaptations",
+      "content": "讨论浪漫小说和电视剧的流行，如《Heated Rivalry》和《The Summer I Turned Pretty》，销量和流媒体数据惊人。嘉宾探讨了男性气质的新描绘、社交媒体（TikTok）的推动作用，以及浪漫体裁从被轻视到成为出版引擎的转变。",
+      "keywords": "romance novels, TV adaptations, masculinity, TikTok, publishing, Heated Rivalry"
+    },
+    {
+      "title": "JD Vance and Christian Values",
+      "content": "副总统万斯接受天主教保守派作家罗斯·杜塞特采访，被质疑政府言行是否体现基督教价值观。万斯回应称政府也有基督教行为，但被批评回避问题。讨论涉及基督教民族主义、移民政策、教皇回应等。",
+      "keywords": "JD Vance, Christian values, Ross Douthat, immigration, Catholic, Christian nationalism"
+    },
+    {
+      "title": "Jay Leno on Podcasts Replacing Late Night",
+      "content": "前深夜秀主持人杰·雷诺称播客已成为新的脱口秀，乔·罗根是新的约翰尼·卡森。原因包括FCC监管较少、年轻一代转向YouTube。讨论还涉及长形式采访的吸引力、意识形态分化、以及碎片化内容消费。",
+      "keywords": "Jay Leno, podcasts, Joe Rogan, late night TV, YouTube, long-form interviews"
+    },
+    {
+      "title": "Group Chat Topics",
+      "content": "嘉宾分享群聊话题：乔伊·切斯特纳特因袭击罪缓刑但仍可参加热狗大赛；父亲带女儿进女厕被拍引发争议；一棵1200年树龄的古树死亡。",
+      "keywords": "Joey Chestnut, hot dog contest, probation, bathroom incident, ancient tree"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nToday's Next Phase Of U.S.-Iran Peace Talks Postponed; Obama Presidential Center Now Open To The Public In Chicago; Supreme Court Allows Some Marijuana Users To Own Guns. Aired 6:30-7a ET\n\nAired June 19, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nUNIDENTIFIED FEMALE: The edits. It's also my fault because I've watched it four times now. Four times. Four times all the way through. At this point in time, I think I need some serious help.\n\nUNIDENTIFIED FEMALE: How are we getting Garrett Graham out of our heads? Because I'm a married woman and I cannot be thinking about another man this frequently.\n\nAUDIE CORNISH, CNN ANCHOR: OK. So needless to say, the numbers are good. You look at a show like \"Heated Rivalry\", the book, sold 1.3 million, streams per episode, 10 million. A show likes the \"The Summer I Turned Pretty\" on Amazon. The book sold 4.5 million copies and on the first seven days of airing, 25 million streams.\n\nARI SHAPIRO, CO-HOST, \"ENGAGEMENT PARTY\" PODCAST: The money's there. And what I think is really interesting, which we discussed in the latest episode of Engagement Party, is the way these romance shows depict masculinity and the male heroes. And it is not the kind of tough guy, stuff your feelings down, punch a wall depiction.\n\nIt's actual communication and consideration of people's feelings. And it doesn't feel dutiful. It still feels romantic and sexy, and clearly it's working because people are watching these shows, but it's a different kind of depiction of male --\n\nCORNISH: Yeah, and also there's male fans. Like, I remember during the \"Heated Rivalry\" thing, like, all the hockey guys who got into that show, which was, you know, a vibe.\n\nLULU GARCIA-NAVARRO, CNN CONTRIBUTOR: It's for everyone. I mean, I think this is a tale as old as time, frankly. I mean, where do you get these stories? And -- and --\n\nCORNISH: But romance novels were sort of in the ghetto of genres. Like, people were like, ugh.\n\nGARCIA-NAVARRO: They were. They were, but I think that that was a misunderstanding. As a longtime romance reader and a longtime reader of romantasy --\n\nCORNISH: Are you pounding the table right now?\n\nGARCIA-NAVARRO: I am because I feel very strongly and I'm very invested in this.\n\nFemale rage is something that doesn't get enough stuff.\n\nGARCIA-NAVARRO: But you know, I do think that this is a genre that gets pooh-poohed by in elite circles, but has always been the engine of publishing. Women read. Women are the biggest readers, book clubs. And these are the stories that, you know, that we enjoy for all sorts of reasons.\n\nSHAPIRO: But we have seen Hollywood as invested as they are now.\n\nGARCIA-NAVARRO: I agree, but I don't think they understood how to make them in the way that you get the nuance in the books, right? In the books, you're getting character development, and then it all would get flattened off into Harlequin romance type stuff.\n\nThe big subtext here is the social media is everything, right? I don't know if we wouldn't be here at all without these folks on TikTok. But again, you're talking about literally tens of millions of people promoting books and sharing them and so on. There we go.\n\nMICHAEL WARREN, POLITICS, THE DISPATCH: What's old is new again. Sex sells. This is, like, a shocking idea.\n\nWILLIAMS: It's not just sex. It's the romance.\n\nGARCIA-NAVARRO: That's Ari's point.\n\nCORNISH: And we end the segment with the men arguing about how much sex is in the romance genre.\n\nAri, thank you so much for being here.\n\nSHAPIRO: Thanks, Audie.\n\nWe've got new episodes of \"Engagement Party\" every Friday. Check us out.\n\nAnd in the meantime, we're going to lawyer up. Elliot's talking about guns and marijuana, why this latest Supreme Court decision could reach far beyond one man's case, and today's talks with Iran, the formal signing ceremony that's been canceled at the last minute.\n\nCORNISH: Good morning, everybody. I'm Audie Cornish. I want to thank you for joining me on CNN THIS MORNING. It is half past the hour.\n\nAnd we're following this breaking news. Overnight, today's planned talks between Iran and the U.S. canceled. Vice President delaying his trip to Switzerland at the last minute because of what the White House is calling unresolved logistics surrounding the next phase of negotiations.\n\nAnd U.S. boat strikes on suspected drug-smuggling boats still happening. The latest was yesterday, and three people were killed. At least 211 people have been killed in the Trump administration's war on alleged drug boats. Some lawmakers are calling for an investigation, saying the administration is not offering enough evidence to support its claims.\n\nAnd today, on Juneteenth, the Obama Presidential Center is set to open to the public. Yesterday, the Obamas celebrated the grand opening. Former Presidents Clinton, Bush, and Biden were there to support.\n\nAnd the former first lady kicked off the celebration honoring what she called her husband's dedication to the American people.\n\nMICHELLE OBAMA, FORMER FIRST LADY: Yeah, you were unflappable at every turn, always focused, always calm, always looking at the long view.\n\nBARACK OBAMA, FORMER U.S. PRESIDENT: Democracy can be frustrating. It can be slow. It can be inefficient. And yet, more than anything, I hope this center will serve as an affirmation of just how special, how precious our democracy truly is.\n\nCORNISH: Now, general admission tickets for the center are sold out through the end of October.\n\nAnd the Supreme Court expanding gun rights to some who light up. The High Court siding with a Texas man who argued that he shouldn't be criminally charged for owning a gun just because he smokes marijuana.\n\nThe decision, loosening a federal ban, but the ruling is not so cut and dry, which is why it's time to lawyer up with CNN legal analyst Elliot Williams.\n\nOkay, you started out a baby federal prosecutor once upon a time.\n\nWILLIAMS: Baby federal prosecutor once upon a time.\n\nCORNISH: And I kind of think of prosecutors liking a good drug charge here and there.\n\nWILLIAMS: And one of the more common things that young prosecutors prosecute is this kind of case, which is a prohibition case where an individual is prohibited from owning a firearm based on the class of society that they belong to. The big ones are felons that's a very common one, but also drug users someone who is a drug user or an addict of any controlled substance can be barred from owning a firearm.\n\nWell, this individual who was a casual habitual marijuana user said he used it a few times a week had his firearm taken away and brought a lawsuit saying that -- well, the Second Amendment should not bar someone like me from using a firearm.\n\nCORNISH: Can you talk about how this is complicated by the moment we're in or recreation racial marijuana is everywhere? I don't even know how you define a casual habitual user.\n\nWILLIAMS: Exactly right. And that was exactly -- so it's a unanimous decision, but Justice Ketanji Brown Jackson picked up on that point exactly. She says that the state of our jurisprudence on firearms leaves open these open questions. So how do you define what a casual user of marijuana is?\n\nNow, the way they use it is that, number one, it is increasingly in a different class of substance than cocaine, heroin, whatever else, and it just had its classifications level lower. That's what Justice Gorsuch said. But it's a vague standard.\n\nAnd I just think what we're seeing here is the convergence of two big areas in American law, relaxing laws on cannabis, but also relaxing laws on firearms. And the Supreme Court has been heading in that direction in both areas, and they really came to a head.\n\nCORNISH: Yeah. And so that's the legal part. The political bedfellows of this is also, it's just like really interesting because I think even in Republican circles, there is, let's say, a more relaxed attitude in so many ways towards cannabis for sure, but even the punishment aspect of that.\n\nWARREN: And look, I think that if you look at all the different, you know, the opinions and then the concurrences and you had different viewpoints all coming to the same conclusion and I think that is reflected in the fact that it was an 9-0 decision.\n\nAnd it's a reminder as well that a lot of controversial or supposedly controversial issues that there can be and there often is in in the Supreme Court, a lot of nine or eight decisions.\n\nCORNISH: The more shocking thing.\n\nWARREN: No, but I think it's actually it's less shocking than if you follow the court and look at a lot of the reasoning. I mean, even Elena Kagan, a liberal appointed justice, as you know, we're all originalists now, as she said several years ago.\n\nI think that there is oftentimes those don't get as much attention. But on an issue like this, I think it does get attention because --\n\nCORNISH: Can I add this legal footnote?\n\nCORNISH: This is the same law used against Hunter Biden --\n\nCORNISH: -- when he was convicted of buying a gun while being a cocaine user in 2018. Now, of course, he was pardoned for all the things.\n\nWILLIAMS: There's a few things --\n\nCORNISH: But it's interesting that this law has been deployed in a very public way.\n\nWILLIAMS: Yeah, there's a few things going on here. One, to your point, it's the strange bedfellows of pro-gun folks, but also people with different types of drug convictions. Now, they're very careful to say this is just for casual users of marijuana, other people with different sort of substances will still have the prohibition apply to them.\n\nI think the Supreme Court was trying to find a way to carve marijuana out of the law. Like the other prohibitions, like being a felon, either you are or you aren't. Either you have a conviction or you do not.\n\nHere, it's a vague standard of how do you ultimately define when someone is sufficiently dangerous based on the type of substance they're using. And it is a pretty vague standard that they follow.\n\nCORNISH: All right, you guys stay here. Next, we're going to talk about something else. There's a former late-night host with a hot take. We'll talk about why Jay Leno is saying that podcasters are the new king of talk.\n\nJ.D. VANCE, VICE PRESIDENT OF THE UNITED STATES: I'm not saying we're perfect because we're not.\n\nCORNISH: An interview, the fellow Catholic takes a turn. Vice President Vance pressed on whether the administration practices what it preaches.\n\nROSS DOUTHAT, NEW YORK TIMES: Let's be honest, the tone of the administration is not consistently a Christian tone. There is a tone of aggressive uncharity to people who aren't on board with the administration's policies.\n\nCORNISH: So Vice President Vance sat down for what he probably thought might be a friendly interview with Catholic conservative writer Ross Douthat, but the administration's Christian values were quickly called into question.\n\nAnd here's how Vance pushed back.\n\nVANCE: For every clip that you could show me of me or the president or some cabinet secretary saying something that, in your view, is unchristian, I could show you another few clips of us doing something or saying something that is like very Christian. I'm not saying we're perfect because we're not.\n\nCORNISH: Group chat is back. I wanted to talk about this.\n\nMichael, you had like a pretty interesting take where you found his answers evasive, which is interesting, but also a poor Christian witness.\n\nWARREN: Look, if I were to walk into my confessional and tell the priest, oh, I've committed these sins, but you wouldn't believe all the great stuff that I was doing as well.\n\nCORNISH: It doesn't work?\n\nWARREN: It doesn't work. I never tried it because I'm afraid.\n\nCORNISH: You don't get fewer Hail Marys --\n\nWARREN: No, no, no. In fact, I'd probably get a lot more.\n\nLook, I think, you know, I can't know what's in JD Vance's heart. I just think --\n\nCORNISH: Well, he purports to tell us. I mean, he's on a book tour called for this book called \"Communion\" --\n\nCORNISH: -- which he is trying to show his heart.\n\nWARREN: Well, and I think that's admirable. And I know that, you know, as myself, as a work in progress, Christian and Catholic, that it is something you have to do every single day. But I find the sort of dismissal of the question about tone, of the words that the administration uses, and even J.D. Vance himself, I've written about this from the beginning of this administration --\n\nWARREN: -- toward the U.S. Conference of Catholic Bishops, about the sort of immigration policy, that the words matter, the sort of things that we do every single day.\n\nGARCIA-NAVARRO: It's the words that matter. It's the policies that matter.\n\nGARCIA-NAVARRO: I mean, I think my colleague Ross Douthat, that an opinion was obviously pressing on what is -- what are Christian values. And that becomes central why, because this is an administration that really wears its Christianity front and center controversially. You know, many are worried that they are trying to push a kind of Christian nationalism in this country that we traditionally have not seen.\n\nAnd so when we see J.D. Vance sort of front his religion and his own religious journey, and, of course, you know, I've interviewed him about his conversion to Catholicism. he wears his faith very -- you know, I believe in the sincerity of his faith, but those public expressions of that are important politically. Why? And what do we mean when we understand Christian values?\n\nGARCIA-NAVARRO: And this has become an issue with the pope himself.\n\nCORNISH: Exactly. And was an issue with the prior pope.\n\nOne of the things I learned in researching this is that when J.D. Vance made this comment about the sort of the order of love, like kind of ranking the things you should care about, citing Catholic doctrine, the letter and the response from Pope Francis was actually penned by a person who became Pope Leo.\n\nSo, he's well-acquainted, right, with the real response from the Vatican in terms of outlining these things publicly.\n\nWILLIAMS: Right. I think what we're seeing is the problem when we try to graph politics onto religion or vice versa. And I think, you know, from my own --\n\nCORNISH: No, that's very American.\n\nWILLIAMS: It is very American, but I just think -- fine, and people founded the country were proud Christians and I understand that, but the problem is that when churches start wading into politics, my own Catholicism when there are certain aspects of American politics that tend to come up much more in Catholic churches than others. You know, I don't -- I did not hear priests talking as much about war as they did about abortion and I understand that it's a big political issue.\n\nCORNISH: Maybe the age you came up in too, right?\n\nWILLIAMS: Yeah, fair, fair.\n\nCORNISH: And, obviously, like certainly, civil rights era. There was a lot of pushback --\n\nGARCIA-NAVARRO: But immigration is the real central issue here.\n\nGARCIA-NAVARRO: This the central issue of this administration, and Catholic teaching on this is pretty clear, which is why you have so many Catholic --\n\nCORNISH: It depends on what doctrine you're following.\n\nGARCIA-NAVARRO: No, no, no.\n\nWARREN: But, actually, I want to -- I want to -- on this point of the question of the tone.\n\nWARREN: I think if we go back to what J.D. Vance was saying about what the U.S. Conference of Catholic Bishops was criticizing the Trump administration for --\n\nWARREN: -- on immigration and JD Vance hit back on them and saying that they're essentially advocating --\n\nCORNISH: Making money off of migrants.\n\nWARREN: -- they're making money and advocating for this because they make money off it. I think that's extremely -- it was extremely uncharitable at the time, and I think that's what Ross is pressing him on.\n\nHe's pressing him on the way that he's speaking about people who disagree with the administration is itself what is unchristian and I think that's what's -- what's most important from -- not from a necessarily political point of view but from a from a faith point of view. It's how we talk to -- about people who disagree with us.\n\nCORNISH: Because people are talking about this in the context of 2028 as well this book tour.\n\nGARCIA-NAVARRO: Yeah. It's like rebranding.\n\nCORNISH: So the idea is if you're going to do a rebrand then people are probably going to look -- they're going to kick the tires on that --\n\nGARCIA-NAVARRO: Yeah.\n\nCORNISH: --and find some inconsistencies if you're fronting with your values driven policy.\n\nGARCIA-NAVARRO: One of the responses to this has gotten a lot of traction specifically on the right and the left was him sort of pushing back and saying that the language that -- that some of the language that's used is class-based, right, and that the elite spaces are pushing back on this language because they're not used to the rough and tumble of the F-bombs being deployed which -- and, you know, those on the right and the left have looked at this and said, like, this could have been, like, a hard left response to some of these issues.\n\nWARREN: It was a horseshoe there.\n\nGARCIA-NAVARRO: It was a horseshoe thing, but even so, it elided some of the responsibility to this. All politicians have to respond to how they deploy language.\n\nCORNISH: I see, I see. It took me a minute.\n\nSo, basically, he was saying, like, look, just the fact that you're asking this question reveals your kind of elitism, but y'all aren't used to the rough-and-tumble language of the hillbilly elegy and everyone's like but.\n\nWARREN: I find that so condescending frankly --\n\nGARCIA-NAVARRO: A hundred percent.\n\nWARREN: -- and acting as if he can speak for how working class people accept you know what's acceptable to them.\n\nCORNISH: Yes, but that's also been part of his brand for a long time.\n\nWARREN: Yeah. It's very, very uncharitable and I would say unchristian --\n\nCORNISH: All right, I want to talk about another thing, which Jay Leno, you may remember him, absolute cold take. Late night TV is dead, he says.\n\nSo, in an interview with 'Deadline\", the former late night host said, quote, \"I mean, podcasts really are the new talk shows. Joe Rogan is the new Johnny Carson.\"\n\nAnd he credited this to Rogan not having to deal with the FCC. And a younger generation, honestly, not that interested in watching TV and instead turning to YouTube.\n\nSo the group chat is back. I thought this was interesting because people have been using poor -- Joe Rogan as a proxy for every ill around the death of, I think, monoculture. The idea that how did this person sort of rise? The left wants a Joe Rogan. The right wants to hold on to a Joe Rogan.\n\nThe late night guys are like, well, wait a second. Did I have to wear a tie?\n\nCan you talk about why you think this is such a deal?\n\nWILLIAMS: Think about one of the enduring questions out of the 2024 election. Should Kamala Harris have gone on Joe Rogan? Why did that not happen?\n\nAnd it's because of that Johnny Carson point. We are now in a world in which YouTube is king. We were talking a little bit earlier about books in the program, about how TikTok sells books.\n\nIt is just a different world than the one that any of us grew up in, and it almost makes sense to get on board rather than try to fight it.\n\nCORNISH: I want to show you guys just some images of the talk shows that are doing well. You're going to be familiar with, like, Hot Ones or The Therapist, Chicken Shop Date, Subway Takes, Royal Court. These are all shows that are bite-sized. A lot of people take them in, in their virality.\n\nBut I'm also interested in the fact that, frankly, they're longer than your average late-night show. Like, their ability to talk and hang out for a while feels like maybe that's what people are responding to?\n\nGARCIA-NAVARRO: I mean, as the host of an interview show where, you know, you do sit down with people for an extended period of time, it's just a different beast. It's a different animal.\n\nIt -- you know, you nowadays have to make a show and have it go everywhere all the time, you know, on all the different platforms. And so --\n\nCORNISH: Because it's replacing broadcast.\n\nGARCIA-NAVARRO: Because it's replacing broadcast. But the way people consume it, you know, people are going to see it on their TikTok feed, on their Instagram feed, and then if they like the clip, maybe, although --\n\nGARCIA-NAVARRO: Versions aren't great, but maybe they'll go to YouTube. Maybe they'll sit down and watch the whole thing, but sometimes people are -- you know, people are sitting with these people, and they're getting to see them in a different way.\n\nIf you're a long-form interviewer, the first 20 minutes are always, like, people getting comfortable, people --\n\nCORNISH: Yeah. Can I show you the face of a long-form interviewer, okay? Because TV could have done this a lot longer than they did at Dick Cavett. It's a great example of like the period of time where people would do long winding political kind of going all over the place chats, which honestly could be a podcast that works today.\n\nWhereas I don't think you could have a Johnny Carson today because each one of these guys has picked out Elaine based on ideology. Since there are no collective facts, you pick Elaine and you start poking jokes at the ideologies.\n\nWARREN: I wonder if it's more technological, right? I mean, I think the point Jay Leno was trying to make here is that that sort of -- he was complaining actually about the way that ads kind of have broken more into late night and you know, it went from -- you know, a very --\n\nCORNISH: (INAUDIBLE)\n\nWARREN: Yeah, exactly, and that there's a lot more sort of freedom and people can sort of choose what they want to watch with these long- form interviews.\n\nGARCIA-NAVARRO: But is Call Your Daddy, is Hot Ones, is Subway Takes ideological?\n\nWARREN: I don't think so.\n\nGARCIA-NAVARRO: I don't think so. So I don't know that that actually holds as a premise. I think --\n\nCORNISH: No. I mean, like a Jimmy Kimmel is, right? A Colbert was. They picked lanes.\n\nGARCIA-NAVARRO: And they -- they picked lanes they did well by it, you know, in this very fragmented culture that we live in.\n\nGARCIA-NAVARRO: I mean, if you look at what's replaced Colbert --\n\nCORNISH: I'm going to show the numbers now what's happened Colbert has left CBS.\n\nGARCIA-NAVARRO: It hasn't done so well.\n\nCORNISH: All right. Ellie, you haven't been here for a while. Can you tell me what's in your group chat?\n\nWILLIAMS: My group chat is about America. There's nothing more American than July 4th and eating hot dogs, and the criminal justice system, Joey Chestnut.\n\nCORNISH: That is the opening to Law and Order.\n\nWILLIAMS: Yes. Joey Chestnut, this champion hot dog eater, is on probation and will be able to compete on July 4th in the Nathan's Hot Dog Eating Contest from probation for an assault. God bless America.\n\nWARREN: There's nothing sacred.\n\nCORNISH: Warren, for you? WARREN: We've been talking about this father who brought his two little girls into a gas station bathroom. He brought them into the women's restroom, and he began filming it because a man, another man, sort of broke in to say, there's a grown man in the women's restroom.\n\nThe young father's trying to explain, I'm here to help my kids, to help my little girls. And it's just caused a lot of conversation.\n\nCORNISH: I get it. It's a viral moment.\n\nLast word to you, Lulu.\n\nGARCIA-NAVARRO: My one is about a tree that is sadly RIP, 1,200-year- old tree that was there during the days of Robin Hood, 1,200 years old and is now, sadly, no longer alive.\n\nCORNISH: Okay, that is a timeline cleanser.\n\nStay here. The headlines are next.",
+  "segments": [
+    {
+      "seg": 2,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-19/segment/02",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nToday's Next Phase Of U.S.-Iran Peace Talks Postponed; Obama Presidential Center Now Open To The Public In Chicago; Supreme Court Allows Some Marijuana Users To Own Guns. Aired 6:30-7a ET\n\nAired June 19, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nUNIDENTIFIED FEMALE: The edits. It's also my fault because I've watched it four times now. Four times. Four times all the way through. At this point in time, I think I need some serious help.\n\nUNIDENTIFIED FEMALE: How are we getting Garrett Graham out of our heads? Because I'm a married woman and I cannot be thinking about another man this frequently.\n\nAUDIE CORNISH, CNN ANCHOR: OK. So needless to say, the numbers are good. You look at a show like \"Heated Rivalry\", the book, sold 1.3 million, streams per episode, 10 million. A show likes the \"The Summer I Turned Pretty\" on Amazon. The book sold 4.5 million copies and on the first seven days of airing, 25 million streams.\n\nARI SHAPIRO, CO-HOST, \"ENGAGEMENT PARTY\" PODCAST: The money's there. And what I think is really interesting, which we discussed in the latest episode of Engagement Party, is the way these romance shows depict masculinity and the male heroes. And it is not the kind of tough guy, stuff your feelings down, punch a wall depiction.\n\nIt's actual communication and consideration of people's feelings. And it doesn't feel dutiful. It still feels romantic and sexy, and clearly it's working because people are watching these shows, but it's a different kind of depiction of male --\n\nCORNISH: Yeah, and also there's male fans. Like, I remember during the \"Heated Rivalry\" thing, like, all the hockey guys who got into that show, which was, you know, a vibe.\n\nLULU GARCIA-NAVARRO, CNN CONTRIBUTOR: It's for everyone. I mean, I think this is a tale as old as time, frankly. I mean, where do you get these stories? And -- and --\n\nCORNISH: But romance novels were sort of in the ghetto of genres. Like, people were like, ugh.\n\nGARCIA-NAVARRO: They were. They were, but I think that that was a misunderstanding. As a longtime romance reader and a longtime reader of romantasy --\n\nCORNISH: Are you pounding the table right now?\n\nGARCIA-NAVARRO: I am because I feel very strongly and I'm very invested in this.\n\nFemale rage is something that doesn't get enough stuff.\n\nGARCIA-NAVARRO: But you know, I do think that this is a genre that gets pooh-poohed by in elite circles, but has always been the engine of publishing. Women read. Women are the biggest readers, book clubs. And these are the stories that, you know, that we enjoy for all sorts of reasons.\n\nSHAPIRO: But we have seen Hollywood as invested as they are now.\n\nGARCIA-NAVARRO: I agree, but I don't think they understood how to make them in the way that you get the nuance in the books, right? In the books, you're getting character development, and then it all would get flattened off into Harlequin romance type stuff.\n\nThe big subtext here is the social media is everything, right? I don't know if we wouldn't be here at all without these folks on TikTok. But again, you're talking about literally tens of millions of people promoting books and sharing them and so on. There we go.\n\nMICHAEL WARREN, POLITICS, THE DISPATCH: What's old is new again. Sex sells. This is, like, a shocking idea.\n\nWILLIAMS: It's not just sex. It's the romance.\n\nGARCIA-NAVARRO: That's Ari's point.\n\nCORNISH: And we end the segment with the men arguing about how much sex is in the romance genre.\n\nAri, thank you so much for being here.\n\nSHAPIRO: Thanks, Audie.\n\nWe've got new episodes of \"Engagement Party\" every Friday. Check us out.\n\nAnd in the meantime, we're going to lawyer up. Elliot's talking about guns and marijuana, why this latest Supreme Court decision could reach far beyond one man's case, and today's talks with Iran, the formal signing ceremony that's been canceled at the last minute.\n\nCORNISH: Good morning, everybody. I'm Audie Cornish. I want to thank you for joining me on CNN THIS MORNING. It is half past the hour.\n\nAnd we're following this breaking news. Overnight, today's planned talks between Iran and the U.S. canceled. Vice President delaying his trip to Switzerland at the last minute because of what the White House is calling unresolved logistics surrounding the next phase of negotiations.\n\nAnd U.S. boat strikes on suspected drug-smuggling boats still happening. The latest was yesterday, and three people were killed. At least 211 people have been killed in the Trump administration's war on alleged drug boats. Some lawmakers are calling for an investigation, saying the administration is not offering enough evidence to support its claims.\n\nAnd today, on Juneteenth, the Obama Presidential Center is set to open to the public. Yesterday, the Obamas celebrated the grand opening. Former Presidents Clinton, Bush, and Biden were there to support.\n\nAnd the former first lady kicked off the celebration honoring what she called her husband's dedication to the American people.\n\nMICHELLE OBAMA, FORMER FIRST LADY: Yeah, you were unflappable at every turn, always focused, always calm, always looking at the long view.\n\nBARACK OBAMA, FORMER U.S. PRESIDENT: Democracy can be frustrating. It can be slow. It can be inefficient. And yet, more than anything, I hope this center will serve as an affirmation of just how special, how precious our democracy truly is.\n\nCORNISH: Now, general admission tickets for the center are sold out through the end of October.\n\nAnd the Supreme Court expanding gun rights to some who light up. The High Court siding with a Texas man who argued that he shouldn't be criminally charged for owning a gun just because he smokes marijuana.\n\nThe decision, loosening a federal ban, but the ruling is not so cut and dry, which is why it's time to lawyer up with CNN legal analyst Elliot Williams.\n\nOkay, you started out a baby federal prosecutor once upon a time.\n\nWILLIAMS: Baby federal prosecutor once upon a time.\n\nCORNISH: And I kind of think of prosecutors liking a good drug charge here and there.\n\nWILLIAMS: And one of the more common things that young prosecutors prosecute is this kind of case, which is a prohibition case where an individual is prohibited from owning a firearm based on the class of society that they belong to. The big ones are felons that's a very common one, but also drug users someone who is a drug user or an addict of any controlled substance can be barred from owning a firearm.\n\nWell, this individual who was a casual habitual marijuana user said he used it a few times a week had his firearm taken away and brought a lawsuit saying that -- well, the Second Amendment should not bar someone like me from using a firearm.\n\nCORNISH: Can you talk about how this is complicated by the moment we're in or recreation racial marijuana is everywhere? I don't even know how you define a casual habitual user.\n\nWILLIAMS: Exactly right. And that was exactly -- so it's a unanimous decision, but Justice Ketanji Brown Jackson picked up on that point exactly. She says that the state of our jurisprudence on firearms leaves open these open questions. So how do you define what a casual user of marijuana is?\n\nNow, the way they use it is that, number one, it is increasingly in a different class of substance than cocaine, heroin, whatever else, and it just had its classifications level lower. That's what Justice Gorsuch said. But it's a vague standard.\n\nAnd I just think what we're seeing here is the convergence of two big areas in American law, relaxing laws on cannabis, but also relaxing laws on firearms. And the Supreme Court has been heading in that direction in both areas, and they really came to a head.\n\nCORNISH: Yeah. And so that's the legal part. The political bedfellows of this is also, it's just like really interesting because I think even in Republican circles, there is, let's say, a more relaxed attitude in so many ways towards cannabis for sure, but even the punishment aspect of that.\n\nWARREN: And look, I think that if you look at all the different, you know, the opinions and then the concurrences and you had different viewpoints all coming to the same conclusion and I think that is reflected in the fact that it was an 9-0 decision.\n\nAnd it's a reminder as well that a lot of controversial or supposedly controversial issues that there can be and there often is in in the Supreme Court, a lot of nine or eight decisions.\n\nCORNISH: The more shocking thing.\n\nWARREN: No, but I think it's actually it's less shocking than if you follow the court and look at a lot of the reasoning. I mean, even Elena Kagan, a liberal appointed justice, as you know, we're all originalists now, as she said several years ago.\n\nI think that there is oftentimes those don't get as much attention. But on an issue like this, I think it does get attention because --\n\nCORNISH: Can I add this legal footnote?\n\nCORNISH: This is the same law used against Hunter Biden --\n\nCORNISH: -- when he was convicted of buying a gun while being a cocaine user in 2018. Now, of course, he was pardoned for all the things.\n\nWILLIAMS: There's a few things --\n\nCORNISH: But it's interesting that this law has been deployed in a very public way.\n\nWILLIAMS: Yeah, there's a few things going on here. One, to your point, it's the strange bedfellows of pro-gun folks, but also people with different types of drug convictions. Now, they're very careful to say this is just for casual users of marijuana, other people with different sort of substances will still have the prohibition apply to them.\n\nI think the Supreme Court was trying to find a way to carve marijuana out of the law. Like the other prohibitions, like being a felon, either you are or you aren't. Either you have a conviction or you do not.\n\nHere, it's a vague standard of how do you ultimately define when someone is sufficiently dangerous based on the type of substance they're using. And it is a pretty vague standard that they follow.\n\nCORNISH: All right, you guys stay here. Next, we're going to talk about something else. There's a former late-night host with a hot take. We'll talk about why Jay Leno is saying that podcasters are the new king of talk.\n\nJ.D. VANCE, VICE PRESIDENT OF THE UNITED STATES: I'm not saying we're perfect because we're not.\n\nCORNISH: An interview, the fellow Catholic takes a turn. Vice President Vance pressed on whether the administration practices what it preaches.\n\nROSS DOUTHAT, NEW YORK TIMES: Let's be honest, the tone of the administration is not consistently a Christian tone. There is a tone of aggressive uncharity to people who aren't on board with the administration's policies.\n\nCORNISH: So Vice President Vance sat down for what he probably thought might be a friendly interview with Catholic conservative writer Ross Douthat, but the administration's Christian values were quickly called into question.\n\nAnd here's how Vance pushed back.\n\nVANCE: For every clip that you could show me of me or the president or some cabinet secretary saying something that, in your view, is unchristian, I could show you another few clips of us doing something or saying something that is like very Christian. I'm not saying we're perfect because we're not.\n\nCORNISH: Group chat is back. I wanted to talk about this.\n\nMichael, you had like a pretty interesting take where you found his answers evasive, which is interesting, but also a poor Christian witness.\n\nWARREN: Look, if I were to walk into my confessional and tell the priest, oh, I've committed these sins, but you wouldn't believe all the great stuff that I was doing as well.\n\nCORNISH: It doesn't work?\n\nWARREN: It doesn't work. I never tried it because I'm afraid.\n\nCORNISH: You don't get fewer Hail Marys --\n\nWARREN: No, no, no. In fact, I'd probably get a lot more.\n\nLook, I think, you know, I can't know what's in JD Vance's heart. I just think --\n\nCORNISH: Well, he purports to tell us. I mean, he's on a book tour called for this book called \"Communion\" --\n\nCORNISH: -- which he is trying to show his heart.\n\nWARREN: Well, and I think that's admirable. And I know that, you know, as myself, as a work in progress, Christian and Catholic, that it is something you have to do every single day. But I find the sort of dismissal of the question about tone, of the words that the administration uses, and even J.D. Vance himself, I've written about this from the beginning of this administration --\n\nWARREN: -- toward the U.S. Conference of Catholic Bishops, about the sort of immigration policy, that the words matter, the sort of things that we do every single day.\n\nGARCIA-NAVARRO: It's the words that matter. It's the policies that matter.\n\nGARCIA-NAVARRO: I mean, I think my colleague Ross Douthat, that an opinion was obviously pressing on what is -- what are Christian values. And that becomes central why, because this is an administration that really wears its Christianity front and center controversially. You know, many are worried that they are trying to push a kind of Christian nationalism in this country that we traditionally have not seen.\n\nAnd so when we see J.D. Vance sort of front his religion and his own religious journey, and, of course, you know, I've interviewed him about his conversion to Catholicism. he wears his faith very -- you know, I believe in the sincerity of his faith, but those public expressions of that are important politically. Why? And what do we mean when we understand Christian values?\n\nGARCIA-NAVARRO: And this has become an issue with the pope himself.\n\nCORNISH: Exactly. And was an issue with the prior pope.\n\nOne of the things I learned in researching this is that when J.D. Vance made this comment about the sort of the order of love, like kind of ranking the things you should care about, citing Catholic doctrine, the letter and the response from Pope Francis was actually penned by a person who became Pope Leo.\n\nSo, he's well-acquainted, right, with the real response from the Vatican in terms of outlining these things publicly.\n\nWILLIAMS: Right. I think what we're seeing is the problem when we try to graph politics onto religion or vice versa. And I think, you know, from my own --\n\nCORNISH: No, that's very American.\n\nWILLIAMS: It is very American, but I just think -- fine, and people founded the country were proud Christians and I understand that, but the problem is that when churches start wading into politics, my own Catholicism when there are certain aspects of American politics that tend to come up much more in Catholic churches than others. You know, I don't -- I did not hear priests talking as much about war as they did about abortion and I understand that it's a big political issue.\n\nCORNISH: Maybe the age you came up in too, right?\n\nWILLIAMS: Yeah, fair, fair.\n\nCORNISH: And, obviously, like certainly, civil rights era. There was a lot of pushback --\n\nGARCIA-NAVARRO: But immigration is the real central issue here.\n\nGARCIA-NAVARRO: This the central issue of this administration, and Catholic teaching on this is pretty clear, which is why you have so many Catholic --\n\nCORNISH: It depends on what doctrine you're following.\n\nGARCIA-NAVARRO: No, no, no.\n\nWARREN: But, actually, I want to -- I want to -- on this point of the question of the tone.\n\nWARREN: I think if we go back to what J.D. Vance was saying about what the U.S. Conference of Catholic Bishops was criticizing the Trump administration for --\n\nWARREN: -- on immigration and JD Vance hit back on them and saying that they're essentially advocating --\n\nCORNISH: Making money off of migrants.\n\nWARREN: -- they're making money and advocating for this because they make money off it. I think that's extremely -- it was extremely uncharitable at the time, and I think that's what Ross is pressing him on.\n\nHe's pressing him on the way that he's speaking about people who disagree with the administration is itself what is unchristian and I think that's what's -- what's most important from -- not from a necessarily political point of view but from a from a faith point of view. It's how we talk to -- about people who disagree with us.\n\nCORNISH: Because people are talking about this in the context of 2028 as well this book tour.\n\nGARCIA-NAVARRO: Yeah. It's like rebranding.\n\nCORNISH: So the idea is if you're going to do a rebrand then people are probably going to look -- they're going to kick the tires on that --\n\nGARCIA-NAVARRO: Yeah.\n\nCORNISH: --and find some inconsistencies if you're fronting with your values driven policy.\n\nGARCIA-NAVARRO: One of the responses to this has gotten a lot of traction specifically on the right and the left was him sort of pushing back and saying that the language that -- that some of the language that's used is class-based, right, and that the elite spaces are pushing back on this language because they're not used to the rough and tumble of the F-bombs being deployed which -- and, you know, those on the right and the left have looked at this and said, like, this could have been, like, a hard left response to some of these issues.\n\nWARREN: It was a horseshoe there.\n\nGARCIA-NAVARRO: It was a horseshoe thing, but even so, it elided some of the responsibility to this. All politicians have to respond to how they deploy language.\n\nCORNISH: I see, I see. It took me a minute.\n\nSo, basically, he was saying, like, look, just the fact that you're asking this question reveals your kind of elitism, but y'all aren't used to the rough-and-tumble language of the hillbilly elegy and everyone's like but.\n\nWARREN: I find that so condescending frankly --\n\nGARCIA-NAVARRO: A hundred percent.\n\nWARREN: -- and acting as if he can speak for how working class people accept you know what's acceptable to them.\n\nCORNISH: Yes, but that's also been part of his brand for a long time.\n\nWARREN: Yeah. It's very, very uncharitable and I would say unchristian --\n\nCORNISH: All right, I want to talk about another thing, which Jay Leno, you may remember him, absolute cold take. Late night TV is dead, he says.\n\nSo, in an interview with 'Deadline\", the former late night host said, quote, \"I mean, podcasts really are the new talk shows. Joe Rogan is the new Johnny Carson.\"\n\nAnd he credited this to Rogan not having to deal with the FCC. And a younger generation, honestly, not that interested in watching TV and instead turning to YouTube.\n\nSo the group chat is back. I thought this was interesting because people have been using poor -- Joe Rogan as a proxy for every ill around the death of, I think, monoculture. The idea that how did this person sort of rise? The left wants a Joe Rogan. The right wants to hold on to a Joe Rogan.\n\nThe late night guys are like, well, wait a second. Did I have to wear a tie?\n\nCan you talk about why you think this is such a deal?\n\nWILLIAMS: Think about one of the enduring questions out of the 2024 election. Should Kamala Harris have gone on Joe Rogan? Why did that not happen?\n\nAnd it's because of that Johnny Carson point. We are now in a world in which YouTube is king. We were talking a little bit earlier about books in the program, about how TikTok sells books.\n\nIt is just a different world than the one that any of us grew up in, and it almost makes sense to get on board rather than try to fight it.\n\nCORNISH: I want to show you guys just some images of the talk shows that are doing well. You're going to be familiar with, like, Hot Ones or The Therapist, Chicken Shop Date, Subway Takes, Royal Court. These are all shows that are bite-sized. A lot of people take them in, in their virality.\n\nBut I'm also interested in the fact that, frankly, they're longer than your average late-night show. Like, their ability to talk and hang out for a while feels like maybe that's what people are responding to?\n\nGARCIA-NAVARRO: I mean, as the host of an interview show where, you know, you do sit down with people for an extended period of time, it's just a different beast. It's a different animal.\n\nIt -- you know, you nowadays have to make a show and have it go everywhere all the time, you know, on all the different platforms. And so --\n\nCORNISH: Because it's replacing broadcast.\n\nGARCIA-NAVARRO: Because it's replacing broadcast. But the way people consume it, you know, people are going to see it on their TikTok feed, on their Instagram feed, and then if they like the clip, maybe, although --\n\nGARCIA-NAVARRO: Versions aren't great, but maybe they'll go to YouTube. Maybe they'll sit down and watch the whole thing, but sometimes people are -- you know, people are sitting with these people, and they're getting to see them in a different way.\n\nIf you're a long-form interviewer, the first 20 minutes are always, like, people getting comfortable, people --\n\nCORNISH: Yeah. Can I show you the face of a long-form interviewer, okay? Because TV could have done this a lot longer than they did at Dick Cavett. It's a great example of like the period of time where people would do long winding political kind of going all over the place chats, which honestly could be a podcast that works today.\n\nWhereas I don't think you could have a Johnny Carson today because each one of these guys has picked out Elaine based on ideology. Since there are no collective facts, you pick Elaine and you start poking jokes at the ideologies.\n\nWARREN: I wonder if it's more technological, right? I mean, I think the point Jay Leno was trying to make here is that that sort of -- he was complaining actually about the way that ads kind of have broken more into late night and you know, it went from -- you know, a very --\n\nCORNISH: (INAUDIBLE)\n\nWARREN: Yeah, exactly, and that there's a lot more sort of freedom and people can sort of choose what they want to watch with these long- form interviews.\n\nGARCIA-NAVARRO: But is Call Your Daddy, is Hot Ones, is Subway Takes ideological?\n\nWARREN: I don't think so.\n\nGARCIA-NAVARRO: I don't think so. So I don't know that that actually holds as a premise. I think --\n\nCORNISH: No. I mean, like a Jimmy Kimmel is, right? A Colbert was. They picked lanes.\n\nGARCIA-NAVARRO: And they -- they picked lanes they did well by it, you know, in this very fragmented culture that we live in.\n\nGARCIA-NAVARRO: I mean, if you look at what's replaced Colbert --\n\nCORNISH: I'm going to show the numbers now what's happened Colbert has left CBS.\n\nGARCIA-NAVARRO: It hasn't done so well.\n\nCORNISH: All right. Ellie, you haven't been here for a while. Can you tell me what's in your group chat?\n\nWILLIAMS: My group chat is about America. There's nothing more American than July 4th and eating hot dogs, and the criminal justice system, Joey Chestnut.\n\nCORNISH: That is the opening to Law and Order.\n\nWILLIAMS: Yes. Joey Chestnut, this champion hot dog eater, is on probation and will be able to compete on July 4th in the Nathan's Hot Dog Eating Contest from probation for an assault. God bless America.\n\nWARREN: There's nothing sacred.\n\nCORNISH: Warren, for you? WARREN: We've been talking about this father who brought his two little girls into a gas station bathroom. He brought them into the women's restroom, and he began filming it because a man, another man, sort of broke in to say, there's a grown man in the women's restroom.\n\nThe young father's trying to explain, I'm here to help my kids, to help my little girls. And it's just caused a lot of conversation.\n\nCORNISH: I get it. It's a viral moment.\n\nLast word to you, Lulu.\n\nGARCIA-NAVARRO: My one is about a tree that is sadly RIP, 1,200-year- old tree that was there during the days of Robin Hood, 1,200 years old and is now, sadly, no longer alive.\n\nCORNISH: Okay, that is a timeline cleanser.\n\nStay here. The headlines are next."
+    }
+  ]
+}

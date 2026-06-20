@@ -1,0 +1,394 @@
+{
+  "date": "2026-06-19",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-19/segment/01",
+  "vocabulary": [
+    {
+      "word": "unconditional surrender",
+      "phonetic": "/ˌʌnkənˈdɪʃənl səˈrendər/",
+      "pos": "noun phrase",
+      "level": "考研",
+      "cn": "无条件投降",
+      "en": "a surrender without any conditions or demands",
+      "excerpt": "Trump Claims Iran Agreement is 'Unconditional Surrender'",
+      "example_cn": "总统声称伊朗协议是无条件投降。"
+    },
+    {
+      "word": "memorandum of understanding",
+      "phonetic": "/ˌmeməˈrændəm əv ˌʌndərˈstændɪŋ/",
+      "pos": "noun phrase",
+      "level": "六级",
+      "cn": "谅解备忘录",
+      "en": "a document that describes the general principles of an agreement between parties",
+      "excerpt": "The MOU doesn't look like unconditional surrender.",
+      "example_cn": "谅解备忘录看起来不像是无条件投降。"
+    },
+    {
+      "word": "naval blockade",
+      "phonetic": "/ˈneɪvl blɑːˈkeɪd/",
+      "pos": "noun phrase",
+      "level": "六级",
+      "cn": "海上封锁",
+      "en": "the blocking of a port or coast by naval forces to prevent entry or exit",
+      "excerpt": "This morning, the naval blockade has been lifted.",
+      "example_cn": "今早，海上封锁已被解除。"
+    },
+    {
+      "word": "Strait of Hormuz",
+      "phonetic": "/streɪt əv hɔːrˈmuːz/",
+      "pos": "proper noun",
+      "level": "专八",
+      "cn": "霍尔木兹海峡",
+      "en": "a narrow strait between the Persian Gulf and the Gulf of Oman",
+      "excerpt": "The Strait of Hormuz is technically open.",
+      "example_cn": "霍尔木兹海峡理论上已开放。"
+    },
+    {
+      "word": "bump in the road",
+      "phonetic": "/bʌmp ɪn ðə roʊd/",
+      "pos": "idiom",
+      "level": "考研",
+      "cn": "路上的障碍；小挫折",
+      "en": "a minor problem or difficulty that delays progress",
+      "excerpt": "I think we had to expect a lot of bumps in the road",
+      "example_cn": "我认为我们必须预料到许多小挫折。"
+    },
+    {
+      "word": "vague",
+      "phonetic": "/veɪɡ/",
+      "pos": "adjective",
+      "level": "考研",
+      "cn": "模糊的；含糊的",
+      "en": "not clearly expressed or understood",
+      "excerpt": "this is a very vague and very partial agreement",
+      "example_cn": "这是一个非常模糊且不完整的协议。"
+    },
+    {
+      "word": "partial",
+      "phonetic": "/ˈpɑːrʃl/",
+      "pos": "adjective",
+      "level": "考研",
+      "cn": "部分的；不完全的",
+      "en": "not complete or total",
+      "excerpt": "this is a very vague and very partial agreement",
+      "example_cn": "这是一个非常模糊且不完整的协议。"
+    },
+    {
+      "word": "bind",
+      "phonetic": "/baɪnd/",
+      "pos": "verb",
+      "level": "考研",
+      "cn": "约束；捆绑",
+      "en": "to tie or fasten; to impose a legal or moral obligation",
+      "excerpt": "it did not bind Israel to anything",
+      "example_cn": "它没有对以色列施加任何约束。"
+    },
+    {
+      "word": "Hezbollah",
+      "phonetic": "/ˌhezˈbɑːlə/",
+      "pos": "proper noun",
+      "level": "专八",
+      "cn": "真主党（黎巴嫩伊斯兰政治和军事组织）",
+      "en": "a Shia Islamist political party and militant group based in Lebanon",
+      "excerpt": "It did not bind Hezbollah to anything.",
+      "example_cn": "它没有对真主党施加任何约束。"
+    },
+    {
+      "word": "airstrike",
+      "phonetic": "/ˈerstraɪk/",
+      "pos": "noun",
+      "level": "六级",
+      "cn": "空袭",
+      "en": "an attack by aircraft on a ground target",
+      "excerpt": "at least 16 people were killed after Israeli airstrikes",
+      "example_cn": "以色列空袭后至少16人丧生。"
+    },
+    {
+      "word": "deter",
+      "phonetic": "/dɪˈtɜːr/",
+      "pos": "verb",
+      "level": "考研",
+      "cn": "威慑；阻止",
+      "en": "to discourage someone from doing something by making them doubt the outcome",
+      "excerpt": "what you need to do is provide security for your people. And that rests on deterring what are very real threats",
+      "example_cn": "你需要做的是为人民提供安全，而这依赖于威慑非常真实的威胁。"
+    },
+    {
+      "word": "sow divisions",
+      "phonetic": "/soʊ dɪˈvɪʒnz/",
+      "pos": "verb phrase",
+      "level": "六级",
+      "cn": "制造分裂",
+      "en": "to cause disagreement or conflict between people or groups",
+      "excerpt": "it is an Iranian objective to sow divisions between the United States and Israel",
+      "example_cn": "伊朗的目标是在美国和以色列之间制造分裂。"
+    },
+    {
+      "word": "theocratic",
+      "phonetic": "/ˌθiːəˈkrætɪk/",
+      "pos": "adjective",
+      "level": "专八",
+      "cn": "神权政治的",
+      "en": "relating to a system of government in which priests rule in the name of God",
+      "excerpt": "giving billions of dollars to theocratic lunatics who want to murder us",
+      "example_cn": "将数十亿美元给那些想谋杀我们的神权疯子。"
+    },
+    {
+      "word": "pittance",
+      "phonetic": "/ˈpɪtns/",
+      "pos": "noun",
+      "level": "六级",
+      "cn": "微薄的报酬；少量",
+      "en": "a very small or inadequate amount of money",
+      "excerpt": "a payoff that would make Obama's 2015 deal look like a pittance by comparison",
+      "example_cn": "一笔让奥巴马2015年的协议相形见绌的报酬。"
+    },
+    {
+      "word": "mystifying",
+      "phonetic": "/ˈmɪstɪfaɪɪŋ/",
+      "pos": "adjective",
+      "level": "六级",
+      "cn": "令人困惑的；神秘的",
+      "en": "causing confusion or bewilderment",
+      "excerpt": "That's the one part of this thing that is the most mystifying at all",
+      "example_cn": "这是整件事中最令人困惑的部分。"
+    },
+    {
+      "word": "inexplicable",
+      "phonetic": "/ˌɪnɪkˈsplɪkəbl/",
+      "pos": "adjective",
+      "level": "六级",
+      "cn": "无法解释的；费解的",
+      "en": "impossible to explain or understand",
+      "example_cn": "That's kind of inexplicable.",
+      "excerpt": "这有点无法解释。"
+    },
+    {
+      "word": "reflecting pool",
+      "phonetic": "/rɪˈflektɪŋ puːl/",
+      "pos": "noun phrase",
+      "level": "六级",
+      "cn": "倒影池",
+      "en": "a shallow pool designed to reflect a view or monument",
+      "excerpt": "Blue Material Peeling from Newly Painted Reflecting Pool",
+      "example_cn": "新粉刷的倒影池上蓝色材料剥落。"
+    },
+    {
+      "word": "algae bloom",
+      "phonetic": "/ˈældʒiː bluːm/",
+      "pos": "noun phrase",
+      "level": "六级",
+      "cn": "藻华；水华",
+      "en": "a rapid increase in the population of algae in a water system",
+      "excerpt": "crews were working on the algae turning the pool green",
+      "example_cn": "工作人员正在处理使水池变绿的藻华。"
+    },
+    {
+      "word": "sealant",
+      "phonetic": "/ˈsiːlənt/",
+      "pos": "noun",
+      "level": "六级",
+      "cn": "密封剂",
+      "en": "a substance used to seal a surface to prevent leakage",
+      "excerpt": "It's not clear yet if that's paint or sealant.",
+      "example_cn": "目前还不清楚那是油漆还是密封剂。"
+    },
+    {
+      "word": "no-bid contract",
+      "phonetic": "/noʊ bɪd ˈkɑːntrækt/",
+      "pos": "noun phrase",
+      "level": "六级",
+      "cn": "非竞标合同；直接授予合同",
+      "en": "a contract awarded without competitive bidding",
+      "excerpt": "it's a conversation about no-bid contracts and a failure",
+      "example_cn": "这是一场关于非竞标合同和失败的讨论。"
+    },
+    {
+      "word": "phone-free",
+      "phonetic": "/foʊn friː/",
+      "pos": "adjective",
+      "level": "考研",
+      "cn": "无手机的",
+      "en": "without the use of mobile phones",
+      "excerpt": "She just announced a phone-free arena tour",
+      "example_cn": "她刚刚宣布了一场无手机场馆巡演。"
+    },
+    {
+      "word": "bottleneck",
+      "phonetic": "/ˈbɑːtlnek/",
+      "pos": "noun",
+      "level": "考研",
+      "cn": "瓶颈；障碍",
+      "en": "a point of congestion or blockage that slows down a process",
+      "excerpt": "it was a big bottlenecking situation",
+      "example_cn": "这是一个严重的瓶颈情况。"
+    },
+    {
+      "word": "disposable camera",
+      "phonetic": "/dɪˈspoʊzəbl ˈkæmərə/",
+      "pos": "noun phrase",
+      "level": "六级",
+      "cn": "一次性相机",
+      "en": "a camera designed for single use, often with film pre-loaded",
+      "excerpt": "He handed out disposable cameras to people at his shows",
+      "example_cn": "他在演出中向人们分发一次性相机。"
+    },
+    {
+      "word": "ephemeral",
+      "phonetic": "/ɪˈfemərəl/",
+      "pos": "adjective",
+      "level": "专八",
+      "cn": "短暂的；转瞬即逝的",
+      "en": "lasting for a very short time",
+      "excerpt": "They're ephemeral, but they live on to a much wider audience",
+      "example_cn": "它们是短暂的，但会延续给更广泛的观众。"
+    },
+    {
+      "word": "disingenuous",
+      "phonetic": "/ˌdɪsɪnˈdʒenjuəs/",
+      "pos": "adjective",
+      "level": "专八",
+      "cn": "不真诚的；虚伪的",
+      "en": "not candid or sincere, typically by pretending that one knows less than one really does",
+      "excerpt": "some of these artists are being disingenuous",
+      "example_cn": "这些艺术家中的一些人不真诚。"
+    },
+    {
+      "word": "backlash",
+      "phonetic": "/ˈbæklæʃ/",
+      "pos": "noun",
+      "level": "六级",
+      "cn": "强烈反对； backlash",
+      "en": "a strong negative reaction to a recent development or change",
+      "excerpt": "you're seeing the backlash to it",
+      "example_cn": "你看到了对此的强烈反对。"
+    },
+    {
+      "word": "inundate",
+      "phonetic": "/ˈɪnʌndeɪt/",
+      "pos": "verb",
+      "level": "六级",
+      "cn": "淹没；使应接不暇",
+      "en": "to overwhelm with a large amount of something",
+      "excerpt": "folks who grew up as kids, so inundated with devices",
+      "example_cn": "从小就被设备淹没的人们。"
+    },
+    {
+      "word": "algorithm",
+      "phonetic": "/ˈælɡərɪðəm/",
+      "pos": "noun",
+      "level": "考研",
+      "cn": "算法",
+      "en": "a set of rules or steps used to solve a problem or perform a computation",
+      "excerpt": "my algorithm is just feeding me, feeding me, feeding me, feeding me content",
+      "example_cn": "我的算法不断给我推送内容。"
+    },
+    {
+      "word": "Juneteenth",
+      "phonetic": "/ˌdʒuːnˈtiːnθ/",
+      "pos": "proper noun",
+      "level": "六级",
+      "cn": "六月节（美国纪念奴隶制结束的节日）",
+      "en": "a holiday commemorating the emancipation of enslaved African Americans in the United States",
+      "excerpt": "today is Juneteenth, and the Juneteenth flag is now flying over Wisconsin's state capitol",
+      "example_cn": "今天是六月节，六月节旗帜现在飘扬在威斯康星州议会大厦上空。"
+    },
+    {
+      "word": "conservative Catholic",
+      "phonetic": "/kənˈsɜːrvətɪv ˈkæθlɪk/",
+      "pos": "noun phrase",
+      "level": "六级",
+      "cn": "保守派天主教徒",
+      "en": "a Catholic who holds traditional or conservative views",
+      "excerpt": "J.D. Vance confronted by a conservative Catholic podcaster",
+      "example_cn": "J.D. 万斯受到一位保守派天主教播客的质问。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "The peace talks planned today between the U.S. and Iran now called off, at least according to the Swiss foreign minister.",
+      "cn": "原定于今天举行的美伊和平谈判现已取消，至少据瑞士外长所说。",
+      "structure": "简单句，主语为'The peace talks'，过去分词'planned'作后置定语，谓语'called off'，状语'at least according to...'",
+      "analysis": "这是一个简单句，主干是'The peace talks...called off'。'planned today between the U.S. and Iran'是过去分词短语作后置定语修饰'talks'。'at least according to the Swiss foreign minister'是状语，表示信息来源。"
+    },
+    {
+      "en": "Vice President J.D. Vance was set to travel to Switzerland last night, but the White House said his plans changed last minute, due to unresolved logistics surrounding the next phase of negotiations.",
+      "cn": "副总统J.D.万斯原定昨晚前往瑞士，但白宫表示他的计划在最后一刻改变，原因是围绕下一阶段谈判的未解决的后勤问题。",
+      "structure": "并列句，由'but'连接两个分句。第一个分句主语'Vice President J.D. Vance'，谓语'was set to travel'；第二个分句主语'the White House'，谓语'said'，后接宾语从句。",
+      "analysis": "这是一个并列句。第一个分句使用'be set to do'结构表示计划。第二个分句中，'said'后跟宾语从句'his plans changed last minute'，'due to...'是原因状语，其中'surrounding...'是现在分词短语作定语修饰'logistics'。"
+    },
+    {
+      "en": "And what you have to look at here is where we were in January, was Iran's nuclear program had been bombed and substantially destroyed.",
+      "cn": "而你必须关注的是，我们在一月份的情况是伊朗的核计划已被轰炸并基本摧毁。",
+      "structure": "主系表结构，主语为'what you have to look at here'，系动词'is'，表语为'where we were in January'，后接同位语从句'was Iran's nuclear program had been bombed and substantially destroyed'。",
+      "analysis": "这是一个复杂句。主语是名词性从句'what you have to look at here'。表语是'where we were in January'，其后跟一个同位语从句（或可视为表语从句的延续），说明'where we were'的具体内容。从句中使用过去完成时的被动语态'had been bombed and destroyed'。"
+    },
+    {
+      "en": "And what you have to look at here is where we were in January, was Iran's nuclear program had been bombed and substantially destroyed.",
+      "cn": "而你必须关注的是，我们在一月份的情况是伊朗的核计划已被轰炸并基本摧毁。",
+      "structure": "主系表结构，主语为'what you have to look at here'，系动词'is'，表语为'where we were in January'，后接同位语从句'was Iran's nuclear program had been bombed and substantially destroyed'。",
+      "analysis": "这是一个复杂句。主语是名词性从句'what you have to look at here'。表语是'where we were in January'，其后跟一个同位语从句（或可视为表语从句的延续），说明'where we were'的具体内容。从句中使用过去完成时的被动语态'had been bombed and destroyed'。"
+    },
+    {
+      "en": "And what you have to look at here is where we were in January, was Iran's nuclear program had been bombed and substantially destroyed.",
+      "cn": "而你必须关注的是，我们在一月份的情况是伊朗的核计划已被轰炸并基本摧毁。",
+      "structure": "主系表结构，主语为'what you have to look at here'，系动词'is'，表语为'where we were in January'，后接同位语从句'was Iran's nuclear program had been bombed and substantially destroyed'。",
+      "analysis": "这是一个复杂句。主语是名词性从句'what you have to look at here'。表语是'where we were in January'，其后跟一个同位语从句（或可视为表语从句的延续），说明'where we were'的具体内容。从句中使用过去完成时的被动语态'had been bombed and destroyed'。"
+    },
+    {
+      "en": "And what you have to look at here is where we were in January, was Iran's nuclear program had been bombed and substantially destroyed.",
+      "cn": "而你必须关注的是，我们在一月份的情况是伊朗的核计划已被轰炸并基本摧毁。",
+      "structure": "主系表结构，主语为'what you have to look at here'，系动词'is'，表语为'where we were in January'，后接同位语从句'was Iran's nuclear program had been bombed and substantially destroyed'。",
+      "analysis": "这是一个复杂句。主语是名词性从句'what you have to look at here'。表语是'where we were in January'，其后跟一个同位语从句（或可视为表语从句的延续），说明'where we were'的具体内容。从句中使用过去完成时的被动语态'had been bombed and destroyed'。"
+    },
+    {
+      "en": "And what you have to look at here is where we were in January, was Iran's nuclear program had been bombed and substantially destroyed.",
+      "cn": "而你必须关注的是，我们在一月份的情况是伊朗的核计划已被轰炸并基本摧毁。",
+      "structure": "主系表结构，主语为'what you have to look at here'，系动词'is'，表语为'where we were in January'，后接同位语从句'was Iran's nuclear program had been bombed and substantially destroyed'。",
+      "analysis": "这是一个复杂句。主语是名词性从句'what you have to look at here'。表语是'where we were in January'，其后跟一个同位语从句（或可视为表语从句的延续），说明'where we were'的具体内容。从句中使用过去完成时的被动语态'had been bombed and destroyed'。"
+    },
+    {
+      "en": "And what you have to look at here is where we were in January, was Iran's nuclear program had been bombed and substantially destroyed.",
+      "cn": "而你必须关注的是，我们在一月份的情况是伊朗的核计划已被轰炸并基本摧毁。",
+      "structure": "主系表结构，主语为'what you have to look at here'，系动词'is'，表语为'where we were in January'，后接同位语从句'was Iran's nuclear program had been bombed and substantially destroyed'。",
+      "analysis": "这是一个复杂句。主语是名词性从句'what you have to look at here'。表语是'where we were in January'，其后跟一个同位语从句（或可视为表语从句的延续），说明'where we were'的具体内容。从句中使用过去完成时的被动语态'had been bombed and destroyed'。"
+    },
+    {
+      "en": "And what you have to look at here is where we were in January, was Iran's nuclear program had been bombed and substantially destroyed.",
+      "cn": "而你必须关注的是，我们在一月份的情况是伊朗的核计划已被轰炸并基本摧毁。",
+      "structure": "主系表结构，主语为'what you have to look at here'，系动词'is'，表语为'where we were in January'，后接同位语从句'was Iran's nuclear program had been bombed and substantially destroyed'。",
+      "analysis": "这是一个复杂句。主语是名词性从句'what you have to look at here'。表语是'where we were in January'，其后跟一个同位语从句（或可视为表语从句的延续），说明'where we were'的具体内容。从句中使用过去完成时的被动语态'had been bombed and destroyed'。"
+    },
+    {
+      "en": "And what you have to look at here is where we were in January, was Iran's nuclear program had been bombed and substantially destroyed.",
+      "cn": "而你必须关注的是，我们在一月份的情况是伊朗的核计划已被轰炸并基本摧毁。",
+      "structure": "主系表结构，主语为'what you have to look at here'，系动词'is'，表语为'where we were in January'，后接同位语从句'was Iran's nuclear program had been bombed and substantially destroyed'。",
+      "analysis": "这是一个复杂句。主语是名词性从句'what you have to look at here'。表语是'where we were in January'，其后跟一个同位语从句（或可视为表语从句的延续），说明'where we were'的具体内容。从句中使用过去完成时的被动语态'had been bombed and destroyed'。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "美伊核协议与中东局势",
+      "content": "2026年6月，美国与伊朗达成初步谅解备忘录，但被特朗普称为“无条件投降”。协议内容包括解除海上封锁、开放霍尔木兹海峡、设立3000亿美元重建基金等。然而，以色列与真主党冲突再起，美国副总统万斯批评以色列极右翼官员，引发外交争议。分析人士认为协议模糊且不完整，伊朗仍掌握谈判筹码。",
+      "keywords": "Iran, nuclear deal, unconditional surrender, Strait of Hormuz, Israel, Hezbollah, J.D. Vance"
+    },
+    {
+      "title": "华盛顿倒影池修复争议",
+      "content": "美国国家广场的倒影池耗资1400万美元翻新，但出现蓝色材料剥落和藻华问题。内政部称水清澈，但公众质疑工程质量和成本。特朗普曾承诺以180万美元一周内完成修复，但实际超支且问题频出，被批评为“无竞标合同”和失败工程。",
+      "keywords": "Reflecting Pool, algae, renovation, no-bid contract, Trump, National Mall"
+    },
+    {
+      "title": "无手机演出趋势",
+      "content": "越来越多艺术家如菲比·布里杰斯、哈里·斯泰尔斯要求观众在演出中收起手机，以增强现场体验。支持者认为这能促进真实连接，反对者则指出门票昂贵，手机记录有助于分享和推广。这一趋势反映了Z世代对数字设备的反叛。",
+      "keywords": "phone-free concerts, Phoebe Bridgers, Harry Styles, live performance, Gen Z, digital detox"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nTrump Claims Iran Agreement is 'Unconditional Surrender'; Blue Material Peeling from Newly Painted Reflecting Pool; Phone-Free Shows: In the Moment or Missing Out on Memories? Aired 6-6:30a ET\n\nAired June 19, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nDANNY FREEMAN, CNN ANCHOR: You know, we'll end the morning on a good note. I love it. That does it for CNN HEADLINE EXPRESS. I'm Danny Freeman. CNN THIS MORNING with Audie Cornish starts right now.\n\nAUDIE CORNISH, CNN ANCHOR: Did Iran surrender to the U.S.? Well, President Trump thinks so.\n\nUNIDENTIFIED MALE: The MOU doesn't look like unconditional surrender.\n\nDONALD TRUMP, U.S. PRESIDENT: Well, it really probably is unconditional surrender.\n\nUNIDENTIFIED MALE: It is?\n\nCORNISH: There's something blue peeling from the bottom of D.C.'s newly painted Reflecting Pool. So, are these new signs of deep trouble in the shallow green water?\n\nUNIDENTIFIED MALE: Let's -- let's be honest. The tone of the administration is not consistently a Christian tone.\n\nCORNISH: J.D. Vance confronted by a conservative Catholic podcaster, the vice president defending the administration's values.\n\nAnd is Joe Rogan the new Johnny Carson? What America's most popular podcaster has that the King of Late Night never did.\n\nJ.D. VANCE, U.S. VICE PRESIDENT: You know, I've seen skeptics of the deal. People say the Iranians will never change their behavior. Well, maybe that's true. And if so, they don't get any of the benefits of the bargain. But isn't it worth trying? (END VIDEO CLIP)\n\nCORNISH: The U.S. and Iran giving peace a chance. And yet, just one day into it, could it already be on shaky ground?\n\nGood morning, everybody. I'm Audie Cornish, and here's where we begin: this breaking news. The peace talks planned today between the U.S. and Iran now called off, at least according to the Swiss foreign minister.\n\nVice President J.D. Vance was set to travel to Switzerland last night, but the White House said his plans changed last minute, due to unresolved logistics surrounding the next phase of negotiations.\n\nThis morning, the naval blockade has been lifted. The Strait of Hormuz is technically open. The clock is ticking. Sixty days to get a final deal.\n\nPresident Trump is raising some eyebrows, however, with this.\n\nUNIDENTIFIED MALE: You had talked about you only wanted unconditional surrender and --\n\nUNIDENTIFIED MALE: -- the MOU doesn't look like unconditional surrender.\n\nTRUMP: Well, it really probably is unconditional surrender.\n\nUNIDENTIFIED MALE: It is?\n\nCORNISH: Joining me now, Kurt Volker, former U.S. ambassador to NATO.\n\nThank you for being here this morning. First, I want to just start with the talks being called off today. Is that bad news? How should we read that?\n\nKURT VOLKER, FORMER U.S. AMBASSADOR TO NATO: Well, good morning, Audie.\n\nAnd look, I think we had to expect a lot of bumps in the road, because this is a very vague and very partial agreement. It is meant to be the start of negotiations, rather than the end of negotiations.\n\nAnd secondly, it did not bind Israel to anything. It did not bind Hezbollah to anything.\n\nSo, Iran now has a card to play, which is peace in Lebanon. And if Hezbollah attacks Israel, which apparently happened, then Israel responds, they can claim, OK, there's no peace. So, we don't have to do anything.\n\nSo, there's a lot to play out here.\n\nCORNISH: Yes. You just mentioned that. Last night, at least 16 people, actually, were killed after Israeli airstrikes.\n\nVice President Vance had pretty strong words for members of the Israeli government, who have criticized the agreement with Iran and him. Here's what he had to say.\n\nVANCE: I don't think Bibi himself has actually criticized the deal, because I think he's maybe a little bit more familiar with the details of what's in it.\n\nBut, yes, you've seen people in their system -- Ben-Gvir and Smotrich -- who've attacked the deal. And I guess my response to them would be, what is your exact proposal?\n\nAnd, you know, you're a country of -- of 9 million people. You can't just kill your way out of solving every single national security problem that you have.\n\nCORNISH: As a diplomat, how do you hear how he's defending this?\n\nVOLKER: Well, there are several things that come to mind.\n\nNo. 1 is that it is an Iranian objective to sow divisions between the United States and Israel. And hearing that kind of comment from the vice president about Israel is fulfilling that Iranian objective of sowing those kinds of divisions.\n\nSecondly, if you're Israel, you're living in a very dangerous neighborhood, and what you need to do is provide security for your people. And that rests on deterring what are very real threats to your people.\n\nSo, Israel is focused on that.\n\nWe may not agree with them as to how they go about that. We may think sometimes they are too aggressive in pursuing that. But that is what the Israeli prime minister's job is, and he's not going to be deterred from that. We have to look at that reality.\n\nAnd then thirdly, we shouldn't make an assumption that, because there is now this memorandum of understanding with Iran, that everything that is not in the memorandum of understanding is somehow better than it was before.\n\nIran funds, supplies, trains, supports terrorist networks all over the world, especially those that are targeting Israel. And we have to recognize that that is real.\n\nCORNISH: Yes. And I think a lot of people do, frankly. The people who are loudest in their complaints about this deal are Republicans. And we're just hearing so many senators saying similar things, even, to what you might hear from those loud voices in Israel.\n\nI want to play for you a series of voices.\n\nSEN. JOHN CORNYN (R-TX): Everything I've heard about it causes me concern.\n\nSEN. TOM COTTON (R-AR): I do have concerns that certain aspects of this deal might be a step in the wrong direction.\n\nSEN. JONI ERNST (R-IA): I have to know where that money is coming from, because I don't think my constituents are going to be really happy about it, if that's all U.S. taxpayer dollars.\n\nSEN. TED CRUZ (R-TX): History demonstrates that giving billions of dollars to theocratic lunatics who want to murder us is an exceptionally bad idea.\n\nCORNISH: So, people are kind of up in arms about many things, but specifically, the $300 billion potential reconstruction and development fund, which is supposed to be an investment fund.\n\nAnd Sen. Roger Wicker of Mississippi is the top Republican. He was saying, Look, I get that it's not funded by taxpayer dollars, but it's still a payoff. And he's saying it's a payoff that would make Obama's 2015 deal look like a pittance by comparison.\n\nVOLKER: Yes, that's exactly right. That's the one part of this thing that is the most mystifying at all: why there's any money changing hands here, whether it's taxpayers or not. It doesn't matter.\n\nCORNISH: But they're saying there isn't, right? They're arguing that money isn't changing hands.\n\nVOLKER: Well, they say that, but then you look, and you say sanctions are being lifted. Iran is getting oil sales. There will be a reconstruction fund that the Gulf states will organize. That's money.\n\nAnd what you have to look at here is where we were in January, was Iran's nuclear program had been bombed and substantially destroyed. And the Gulf [SIC] of Hormuz was open.\n\nNow, we had four months of war that we paid for, and the nuclear program remains destroyed. And we are still in an open-ended negotiation about where that goes. And there is some Iranian insistence that they have some control over the state of -- the Strait of Hormuz. OK. But maybe it was worth it to get out of the military conflict, to get\n\nour forces home, to bring down oil prices, to restore some stability in the global economy. You can argue, OK, we can go back and reset.\n\nBut then you add on top of that, and Iran gets access to hundreds of billions of dollars. That's kind of inexplicable.\n\nCORNISH: Yes, none of this sounds like what the president said: unconditional surrender by Iran.\n\nVOLKER: Well, I know that's what he wants to say, but the Iranian regime is still in place. They are setting terms over the Strait of Hormuz. They are setting terms for future negotiations about nuclear weapons.\n\nAnd as we saw today, they're also insisting on demands about Lebanon that is mentioned in the agreement but has no binding effect on Israel or Hezbollah.\n\nCORNISH: That's Ambassador Kurt Volker. Thank you so much for your time.\n\nCORNISH: Coming up on CNN THIS MORNING, accused killer Luigi Mangione changes his mind. His lawyers announcing another new defense strategy this week.\n\nAnd the Reflecting Pool here on the National Mall got a multimillion- dollar makeover. But does President Trump's fix now need some fixing?\n\nPlus, today is Juneteenth, and the Juneteenth flag is now flying over Wisconsin's state capitol for the seventh year in a row. We'll be right back.\n\nUNIDENTIFIED MALE: It looks bad. I just see green. Green slime.\n\nUNIDENTIFIED FEMALE: Pouring all that peroxide into it clearly didn't help. I feel for the ducks.\n\nCORNISH: All right. We could call it \"Watergate.\" A new issue after the multi-million-dollar renovation of the Reflecting Pool.\n\nNow we're going to show you this: blue material peeling off the bottom. It's not clear yet if that's paint or sealant.\n\nAnd earlier this week, crews were working on the algae turning the pool green. Despite these images, the U.S. Department of the Interior insists that the water is crystal-clear and that crews are just vacuuming up dead algae. Quote, \"just like the destroyed Iranian navy resting on the bottom of the Persian Gulf.\" Again, that's the word from the Department of the Interior in charge of the Reflecting Pool.\n\nJoining me now in the group chat, Elliot Williams, CNN legal analyst and former federal prosecutor; Michael Warren, politics editor for \"The Dispatch\"; and Lulu Garcia-Navarro, CNN contributor and host of \"The New York Times\" podcast, \"The Interview.\"\n\nAll right. So, both the Reflecting Pool and the Iran war are a win, which if you were here for my interview with Ambassador Volker just now, I'm not sure that's a great analogy.\n\nBut I want to point out: at least two companies worked on this project. And public records show that an Ohio company, Greenwater Services, was hired to install the filtration system, and a Virginia- based Atlantic Industrial Coatings to resurface it.\n\nAnd even though Greenwater Services didn't respond to our request for comment, the owner of Atlantic Industrial Coatings did. They said -- Eddie Wood, he's -- who owns Atlantic Industrial Coatings, said, \"The images do not provide enough information to tell exactly what this is. There are several things that we've got to address when we come back for maintenance, and anything like that will be addressed if it's a problem.\"\n\nLULU GARCIA-NAVARRO, CNN CONTRIBUTOR: So first of all, the fact that it was called \"Greenwater\" should have been a giveaway. I'm just saying you can't make that up. Sorry. Go on.\n\nMICHAEL WARREN, POLITICS EDITOR, \"THE DISPATCH\": No. No, I --\n\nGARCIA-NAVARRO: I had to make the joke.\n\nCORNISH: I'm glad you.\n\nELLIOT WILLIAMS, CNN LEGAL ANALYST: Delivered well. It was good.\n\nWARREN: No, look, I -- I think this is one of these things that was thoroughly predictable, if you read anything, which you know, I know nothing about water filtration. But I was reading about this as the administration was pushing this narrative that they were finally cleaning it up.\n\nIs that this is a long-standing problem in the Reflecting Pool, that these algae blooms happen, because there just isn't enough, you know, water flow out of -- out of it.\n\nAnd I do think that, you know, two weeks ago, a week ago on social media, you had all these kind of supporters of the president, Republicans saying, finally, the president is cleaning this up.\n\nAnd it was just -- it was obvious that this was going --\n\nWARREN: This was very likely to happen. Now, maybe they're just cleaning up dead algae, maybe just the seal is coming off. That doesn't --\n\nCORNISH: Well, just because I went down the rabbit hole on this. Once you start, you know, hand pouring jugs --\n\nCORNISH: -- of peroxide in there, and it kills the algae bloom, it floats to the bottom. And now you've got to scrape it up.\n\nGARCIA-NAVARRO: I feel the ducks, too.\n\nCORNISH: And the ducks. which now --\n\nWILLIAMS: Just the ducks, not the ducts.\n\nCORNISH: So, what do you think of this?\n\nWILLIAMS: You know, it's -- one, it's a question of did this need to happen in the way it did? And perhaps -- right? -- perhaps there -- we all live in Washington, D.C., or around the area. You see the algae there. There could have been a benefit to it.\n\nOnce again, it is the Trump -- the Trump and the folks around him making the case aggressively before it, almost as a moral matter. And that when it goes badly now, sort of it's adding to the face (ph), right?\n\nCORNISH: Yes, it was like a metaphor for the cleanup of Washington.\n\nCORNISH: Well, now it's cost a lot of money. It's basically the $14 million price tag is not where we started. I want to play for you Trump, how he sold it to the public.\n\nTRUMP: One point nine million. One week.\n\nWe had estimates to fix it of about $355 million. And it was going to take three and a half years. You can see by the size of it. And so, we're going to be able to do it for about a million eight -- 1.8 million -- and it's going to take one week. And we'll be finished, I guess.\n\nWILLIAMS: You see, that's the point I'm making. He went so far out there making the case as to how quickly it was going to happen, how cheaply it would be done, and how perfect it would be that what could have been an honest problem of, you know, maybe a piece chipped off. People who have been in a swimming pool know that that happens from time to time. What could have been a simple problem now becomes an embarrassment. And it's worse.\n\nCORNISH: Yes. It's been interesting seeing progressives sort of have fun with this analogy. Remember, the Interior is the one that brought up the comparison to the Iran War.\n\nAnd so now, they're able to say, Oh, really? A thing no one asked for has gone wrong, cost us way more than we expected, and you're trying to do a cleanup? Sounds familiar. And it was like the messaging of --\n\nGARCIA-NAVARRO: The Internet is undefeated on --\n\nCORNISH: The Internet is undefeated.\n\nGARCIA-NAVARRO: I mean, there is so many jokes about this. There's, like, the Rothko joke because of the peroxide.\n\nCORNISH: Yes. Actually, the Rothko joke's really great.\n\nGARCIA-NAVARRO: You have like blue around.\n\nYes, it has the blue around the green, and it does actually look like a Rothko painting.\n\nCORNISH: Ducks. We love you, ducks. We hope you survive.\n\nGARCIA-NAVARRO: Yes. Yes. Survive, ducks.\n\nCORNISH: Don't die. I don't want to see an image of a little baby duckling, like swimming past a Costco-size bottle of hydrogen peroxide. It's like -- It's not how I want to end the week.\n\nWARREN: Yes. It's also -- I mean, look, this is all supposed to be sort of in -- in the run-up to the 250th anniversary. And it's -- it's just not a good look to have those bottles of hydrogen peroxide, all the work being done when you did have an administration official say --\n\nCORNISH: I also love the tourists just be, like, Looks green to me.\n\nCORNISH: You know what I mean? Like --\n\nWARREN: It's -- it's just, you know --\n\nCORNISH: Pretty straightforward.\n\nWARREN: Yes, it would have been nice if they had not sort of built this up as some great big restoration that was going to make everything great and beautiful for the 250th, when there would need to be more work.\n\nWILLIAMS: Last point, it could perfectly be the case that pouring bottles of hydrogen peroxide into a big pool might be the way to get rid of algae.\n\nWILLIAMS: That might -- that might be a plausible way to treat it.\n\nWILLIAMS: I just think all of the circumstances around how they got us to this moment.\n\nWILLIAMS: And how they talked it make it look silly.\n\nCORNISH: It's supposed to be a win. And instead, it's a conversation about no-bid contracts and a failure. So, not -- it didn't end up where they wanted.\n\nYou guys, stay with me. We've got more to talk about. After the break, we're going to talk about why you all need to put the phone away. I'm not just saying that because I'm on TV. There's a growing number of artists who want fans to experience the music, not stand there with their arms up.\n\nPlus, this was the scene at the Minerva Foundation in Guadalajara last night after Mexico beat South Korea in its second World Cup game. Mexico is now at the top of its group.\n\nAnd in the meantime, good morning to our viewers in Orange Beach, Alabama. Live look at the coastline.\n\nUNIDENTIFIED FEMALE: Oh, no! I need my phone at concerts, because what if I'm at barricade I'm going to get bored. I'll have nothing to do. What if I get bored?\n\nChit chat. Huh? Are you guys not chit chatting at concert?\n\nUNIDENTIFIED MALE: Like, you can still record your phone and then just live in the moment. Like, your eyes are independent of where your phone camera is looking.\n\nCORNISH: OK, there's concerts, binge watching, reading. A lot of us are -- you know, it's summertime. We're getting ready to escape the issues of the real world.\n\nBut even how we enjoy our downtime is stirring up controversy. When you look out at a concert, for instance, sometimes all you see are phones. And singer Phoebe Bridgers is the latest artist to say enough is enough. She just announced a phone-free arena tour after a sold-out surprise show at Madison Square Garden last week.\n\nThere are some fans concerned about, you know, this taking hold nationwide.\n\nUNIDENTIFIED FEMALE: I felt like I was able to enjoy the music more, connect more with the artists. People held up their lighters. I was like, damn, I should have brought my lighter.\n\nUNIDENTIFIED FEMALE: If they're going to be locking up everyone's phones, there has to be a better way to unlock them at the end. Because there was basically very few workers unlocking them.\n\nSo, it was a big bottlenecking situation, and it took forever to get out. I could see that becoming an issue.\n\nCORNISH: All right. So, we're talking about that on this week's episode of \"Engagement Party.\" my co-host, Ari Shapiro, enters the chat.\n\nARI SHAPIRO, CO-HOST, \"ENGAGEMENT PARTY\": Hi, friend.\n\nCORNISH: What's the deal with the phone freeze? Is it becoming a trend? Are other artists talking about this?\n\nSHAPIRO: Absolutely. We have seen Harry Styles do it. He handed out disposable cameras to people at his shows, and we've seen other artists, whether it's Madonna or Mitski or whomever, say, you know, fans, I would like you better if you didn't have your phones out the entire time.\n\nI come to this not only as somebody who goes to concerts, but also as somebody who sings with a band called Pink Martini. And we say, yes, use your phones, please don't use your flash.\n\nBut I have to tell you, when I'm on stage, and I'm singing, and I'm trying to make a moment of connection with the audience, and all I see are phones and screens, it's a little bit of a barrier.\n\nSHAPIRO: I think there's something really special about live performance that phones can get in the way of.\n\nCORNISH: I just want to play one more thing for the group. This is Harry Styles. He was on the \"Q with Tom Power\" podcast, and he was talking about how he got the idea to do a fully phone-free show. And here's what he said.\n\n(BEGIN VIDEO CLIP) HARRY STYLES, MUSICIAN: I remember, like, standing in the middle of the dance floor. And I like had my hands up, and I was kind of just, like, breathing. And I closed my eyes, and I remember the feeling of like, oh, I'm no longer, like, scanning the room to see if anyone's like, you know, filming or anything.\n\nI just felt like, oh, I'm just on my own right now. And I feel so free.\n\nCORNISH: This was after an experience at a phone-free club in Berlin last year.\n\nIt's sort of funny, because he's just describing what concerts used to be like.\n\nCORNISH: That's what we did, was stand and sway. Like, I don't know, are you guys phones before the show?\n\nGARCIA-NAVARRO: Lighters.\n\nCORNISH: The lighter -- lighters up.\n\nWARREN: But this is -- this has been, you know, sort of standard operating procedure for years now, with stand-up comedy, for instance. And there's a reason for that, right?\n\nA lot of these stand-up comics are working on their hour for a special. And so, they -- they have kept phones out of there, because they don't want people posting the jokes that they're honing and working on.\n\nSo, stand-up comedy has been doing it. I think it's been a pretty big success and pretty easy to do.\n\nWARREN: So, I'm not a -- I'm not a concert guy. I wish I were. In a previous time in my life, I was. But like, I don't understand how --\n\nGARCIA-NAVARRO: Can I --\n\nWARREN: -- you need the phone to enjoy the concert.\n\nGARCIA-NAVARRO: I'm going to give the opposite view.\n\nGARCIA-NAVARRO: Which is this. No. And I get it. Like, phones are annoying, and everything's annoying, and la, la, la.\n\nBut I also feel that some of these artists are being disingenuous. Because nowadays, these moments, they live on. They're ephemeral, but they live on to a much wider audience. Ticket prices are unaffordable for most people, and so, I mean, I listen and -- and these --\n\nSHAPIRO: We wouldn't ask the carpenter to fix our house for free. We wouldn't ask Nike to make us shoes for free. Why do we believe that every live performance by every artist should be available to everyone at all times forever on the Internet?\n\nGARCIA-NAVARRO: I'm not saying -- I'm not saying that everything should be recorded, and the entire thing should be put out there. And there's rules against that, right?\n\nBut I'm saying that some clips, they do live on. And there are these moments that happen that can be shared to a much wider audience that actually helps the artist.\n\nWILLIAMS: This whole fight, not fight. But this whole discussion is really about the rise and aging of Gen Z. Because they're the first -- No, I mean this. They're the first generation to have grown up entirely with devices.\n\nWILLIAMS: And now you're seeing the backlash to it. Here, it's the phones, if you know.\n\nSHAPIRO: Or is it the healing?\n\nWILLIAMS: The healing. No, no, whatever it is.\n\nCORNISH: Nature is healing.\n\nWILLIAMS: But it's the tin-can phones. wanting to get away from cellphones.\n\nWILLIAMS: It's the disposable cameras. And a lot of that is -- is, you know, because -- because folks who grew up as kids, so inundated with devices, are just backlashing now.\n\nCORNISH: Let me just talk about one more thing they're inundated with: romance TV show content.\n\nCORNISH: Here is a fan online, talking about this pipeline that goes from book talk to streaming.\n\nUNIDENTIFIED FEMALE: It's also known because my algorithm is just feeding me, feeding me, feeding me, feeding me content. The edits. It's also my fault, because I've watched it four times now. Four\n\ntimes. Four times all the way through.\n\nAt this point in time, I think I --",
+  "segments": [
+    {
+      "seg": 1,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-19/segment/01",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nTrump Claims Iran Agreement is 'Unconditional Surrender'; Blue Material Peeling from Newly Painted Reflecting Pool; Phone-Free Shows: In the Moment or Missing Out on Memories? Aired 6-6:30a ET\n\nAired June 19, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nDANNY FREEMAN, CNN ANCHOR: You know, we'll end the morning on a good note. I love it. That does it for CNN HEADLINE EXPRESS. I'm Danny Freeman. CNN THIS MORNING with Audie Cornish starts right now.\n\nAUDIE CORNISH, CNN ANCHOR: Did Iran surrender to the U.S.? Well, President Trump thinks so.\n\nUNIDENTIFIED MALE: The MOU doesn't look like unconditional surrender.\n\nDONALD TRUMP, U.S. PRESIDENT: Well, it really probably is unconditional surrender.\n\nUNIDENTIFIED MALE: It is?\n\nCORNISH: There's something blue peeling from the bottom of D.C.'s newly painted Reflecting Pool. So, are these new signs of deep trouble in the shallow green water?\n\nUNIDENTIFIED MALE: Let's -- let's be honest. The tone of the administration is not consistently a Christian tone.\n\nCORNISH: J.D. Vance confronted by a conservative Catholic podcaster, the vice president defending the administration's values.\n\nAnd is Joe Rogan the new Johnny Carson? What America's most popular podcaster has that the King of Late Night never did.\n\nJ.D. VANCE, U.S. VICE PRESIDENT: You know, I've seen skeptics of the deal. People say the Iranians will never change their behavior. Well, maybe that's true. And if so, they don't get any of the benefits of the bargain. But isn't it worth trying? (END VIDEO CLIP)\n\nCORNISH: The U.S. and Iran giving peace a chance. And yet, just one day into it, could it already be on shaky ground?\n\nGood morning, everybody. I'm Audie Cornish, and here's where we begin: this breaking news. The peace talks planned today between the U.S. and Iran now called off, at least according to the Swiss foreign minister.\n\nVice President J.D. Vance was set to travel to Switzerland last night, but the White House said his plans changed last minute, due to unresolved logistics surrounding the next phase of negotiations.\n\nThis morning, the naval blockade has been lifted. The Strait of Hormuz is technically open. The clock is ticking. Sixty days to get a final deal.\n\nPresident Trump is raising some eyebrows, however, with this.\n\nUNIDENTIFIED MALE: You had talked about you only wanted unconditional surrender and --\n\nUNIDENTIFIED MALE: -- the MOU doesn't look like unconditional surrender.\n\nTRUMP: Well, it really probably is unconditional surrender.\n\nUNIDENTIFIED MALE: It is?\n\nCORNISH: Joining me now, Kurt Volker, former U.S. ambassador to NATO.\n\nThank you for being here this morning. First, I want to just start with the talks being called off today. Is that bad news? How should we read that?\n\nKURT VOLKER, FORMER U.S. AMBASSADOR TO NATO: Well, good morning, Audie.\n\nAnd look, I think we had to expect a lot of bumps in the road, because this is a very vague and very partial agreement. It is meant to be the start of negotiations, rather than the end of negotiations.\n\nAnd secondly, it did not bind Israel to anything. It did not bind Hezbollah to anything.\n\nSo, Iran now has a card to play, which is peace in Lebanon. And if Hezbollah attacks Israel, which apparently happened, then Israel responds, they can claim, OK, there's no peace. So, we don't have to do anything.\n\nSo, there's a lot to play out here.\n\nCORNISH: Yes. You just mentioned that. Last night, at least 16 people, actually, were killed after Israeli airstrikes.\n\nVice President Vance had pretty strong words for members of the Israeli government, who have criticized the agreement with Iran and him. Here's what he had to say.\n\nVANCE: I don't think Bibi himself has actually criticized the deal, because I think he's maybe a little bit more familiar with the details of what's in it.\n\nBut, yes, you've seen people in their system -- Ben-Gvir and Smotrich -- who've attacked the deal. And I guess my response to them would be, what is your exact proposal?\n\nAnd, you know, you're a country of -- of 9 million people. You can't just kill your way out of solving every single national security problem that you have.\n\nCORNISH: As a diplomat, how do you hear how he's defending this?\n\nVOLKER: Well, there are several things that come to mind.\n\nNo. 1 is that it is an Iranian objective to sow divisions between the United States and Israel. And hearing that kind of comment from the vice president about Israel is fulfilling that Iranian objective of sowing those kinds of divisions.\n\nSecondly, if you're Israel, you're living in a very dangerous neighborhood, and what you need to do is provide security for your people. And that rests on deterring what are very real threats to your people.\n\nSo, Israel is focused on that.\n\nWe may not agree with them as to how they go about that. We may think sometimes they are too aggressive in pursuing that. But that is what the Israeli prime minister's job is, and he's not going to be deterred from that. We have to look at that reality.\n\nAnd then thirdly, we shouldn't make an assumption that, because there is now this memorandum of understanding with Iran, that everything that is not in the memorandum of understanding is somehow better than it was before.\n\nIran funds, supplies, trains, supports terrorist networks all over the world, especially those that are targeting Israel. And we have to recognize that that is real.\n\nCORNISH: Yes. And I think a lot of people do, frankly. The people who are loudest in their complaints about this deal are Republicans. And we're just hearing so many senators saying similar things, even, to what you might hear from those loud voices in Israel.\n\nI want to play for you a series of voices.\n\nSEN. JOHN CORNYN (R-TX): Everything I've heard about it causes me concern.\n\nSEN. TOM COTTON (R-AR): I do have concerns that certain aspects of this deal might be a step in the wrong direction.\n\nSEN. JONI ERNST (R-IA): I have to know where that money is coming from, because I don't think my constituents are going to be really happy about it, if that's all U.S. taxpayer dollars.\n\nSEN. TED CRUZ (R-TX): History demonstrates that giving billions of dollars to theocratic lunatics who want to murder us is an exceptionally bad idea.\n\nCORNISH: So, people are kind of up in arms about many things, but specifically, the $300 billion potential reconstruction and development fund, which is supposed to be an investment fund.\n\nAnd Sen. Roger Wicker of Mississippi is the top Republican. He was saying, Look, I get that it's not funded by taxpayer dollars, but it's still a payoff. And he's saying it's a payoff that would make Obama's 2015 deal look like a pittance by comparison.\n\nVOLKER: Yes, that's exactly right. That's the one part of this thing that is the most mystifying at all: why there's any money changing hands here, whether it's taxpayers or not. It doesn't matter.\n\nCORNISH: But they're saying there isn't, right? They're arguing that money isn't changing hands.\n\nVOLKER: Well, they say that, but then you look, and you say sanctions are being lifted. Iran is getting oil sales. There will be a reconstruction fund that the Gulf states will organize. That's money.\n\nAnd what you have to look at here is where we were in January, was Iran's nuclear program had been bombed and substantially destroyed. And the Gulf [SIC] of Hormuz was open.\n\nNow, we had four months of war that we paid for, and the nuclear program remains destroyed. And we are still in an open-ended negotiation about where that goes. And there is some Iranian insistence that they have some control over the state of -- the Strait of Hormuz. OK. But maybe it was worth it to get out of the military conflict, to get\n\nour forces home, to bring down oil prices, to restore some stability in the global economy. You can argue, OK, we can go back and reset.\n\nBut then you add on top of that, and Iran gets access to hundreds of billions of dollars. That's kind of inexplicable.\n\nCORNISH: Yes, none of this sounds like what the president said: unconditional surrender by Iran.\n\nVOLKER: Well, I know that's what he wants to say, but the Iranian regime is still in place. They are setting terms over the Strait of Hormuz. They are setting terms for future negotiations about nuclear weapons.\n\nAnd as we saw today, they're also insisting on demands about Lebanon that is mentioned in the agreement but has no binding effect on Israel or Hezbollah.\n\nCORNISH: That's Ambassador Kurt Volker. Thank you so much for your time.\n\nCORNISH: Coming up on CNN THIS MORNING, accused killer Luigi Mangione changes his mind. His lawyers announcing another new defense strategy this week.\n\nAnd the Reflecting Pool here on the National Mall got a multimillion- dollar makeover. But does President Trump's fix now need some fixing?\n\nPlus, today is Juneteenth, and the Juneteenth flag is now flying over Wisconsin's state capitol for the seventh year in a row. We'll be right back.\n\nUNIDENTIFIED MALE: It looks bad. I just see green. Green slime.\n\nUNIDENTIFIED FEMALE: Pouring all that peroxide into it clearly didn't help. I feel for the ducks.\n\nCORNISH: All right. We could call it \"Watergate.\" A new issue after the multi-million-dollar renovation of the Reflecting Pool.\n\nNow we're going to show you this: blue material peeling off the bottom. It's not clear yet if that's paint or sealant.\n\nAnd earlier this week, crews were working on the algae turning the pool green. Despite these images, the U.S. Department of the Interior insists that the water is crystal-clear and that crews are just vacuuming up dead algae. Quote, \"just like the destroyed Iranian navy resting on the bottom of the Persian Gulf.\" Again, that's the word from the Department of the Interior in charge of the Reflecting Pool.\n\nJoining me now in the group chat, Elliot Williams, CNN legal analyst and former federal prosecutor; Michael Warren, politics editor for \"The Dispatch\"; and Lulu Garcia-Navarro, CNN contributor and host of \"The New York Times\" podcast, \"The Interview.\"\n\nAll right. So, both the Reflecting Pool and the Iran war are a win, which if you were here for my interview with Ambassador Volker just now, I'm not sure that's a great analogy.\n\nBut I want to point out: at least two companies worked on this project. And public records show that an Ohio company, Greenwater Services, was hired to install the filtration system, and a Virginia- based Atlantic Industrial Coatings to resurface it.\n\nAnd even though Greenwater Services didn't respond to our request for comment, the owner of Atlantic Industrial Coatings did. They said -- Eddie Wood, he's -- who owns Atlantic Industrial Coatings, said, \"The images do not provide enough information to tell exactly what this is. There are several things that we've got to address when we come back for maintenance, and anything like that will be addressed if it's a problem.\"\n\nLULU GARCIA-NAVARRO, CNN CONTRIBUTOR: So first of all, the fact that it was called \"Greenwater\" should have been a giveaway. I'm just saying you can't make that up. Sorry. Go on.\n\nMICHAEL WARREN, POLITICS EDITOR, \"THE DISPATCH\": No. No, I --\n\nGARCIA-NAVARRO: I had to make the joke.\n\nCORNISH: I'm glad you.\n\nELLIOT WILLIAMS, CNN LEGAL ANALYST: Delivered well. It was good.\n\nWARREN: No, look, I -- I think this is one of these things that was thoroughly predictable, if you read anything, which you know, I know nothing about water filtration. But I was reading about this as the administration was pushing this narrative that they were finally cleaning it up.\n\nIs that this is a long-standing problem in the Reflecting Pool, that these algae blooms happen, because there just isn't enough, you know, water flow out of -- out of it.\n\nAnd I do think that, you know, two weeks ago, a week ago on social media, you had all these kind of supporters of the president, Republicans saying, finally, the president is cleaning this up.\n\nAnd it was just -- it was obvious that this was going --\n\nWARREN: This was very likely to happen. Now, maybe they're just cleaning up dead algae, maybe just the seal is coming off. That doesn't --\n\nCORNISH: Well, just because I went down the rabbit hole on this. Once you start, you know, hand pouring jugs --\n\nCORNISH: -- of peroxide in there, and it kills the algae bloom, it floats to the bottom. And now you've got to scrape it up.\n\nGARCIA-NAVARRO: I feel the ducks, too.\n\nCORNISH: And the ducks. which now --\n\nWILLIAMS: Just the ducks, not the ducts.\n\nCORNISH: So, what do you think of this?\n\nWILLIAMS: You know, it's -- one, it's a question of did this need to happen in the way it did? And perhaps -- right? -- perhaps there -- we all live in Washington, D.C., or around the area. You see the algae there. There could have been a benefit to it.\n\nOnce again, it is the Trump -- the Trump and the folks around him making the case aggressively before it, almost as a moral matter. And that when it goes badly now, sort of it's adding to the face (ph), right?\n\nCORNISH: Yes, it was like a metaphor for the cleanup of Washington.\n\nCORNISH: Well, now it's cost a lot of money. It's basically the $14 million price tag is not where we started. I want to play for you Trump, how he sold it to the public.\n\nTRUMP: One point nine million. One week.\n\nWe had estimates to fix it of about $355 million. And it was going to take three and a half years. You can see by the size of it. And so, we're going to be able to do it for about a million eight -- 1.8 million -- and it's going to take one week. And we'll be finished, I guess.\n\nWILLIAMS: You see, that's the point I'm making. He went so far out there making the case as to how quickly it was going to happen, how cheaply it would be done, and how perfect it would be that what could have been an honest problem of, you know, maybe a piece chipped off. People who have been in a swimming pool know that that happens from time to time. What could have been a simple problem now becomes an embarrassment. And it's worse.\n\nCORNISH: Yes. It's been interesting seeing progressives sort of have fun with this analogy. Remember, the Interior is the one that brought up the comparison to the Iran War.\n\nAnd so now, they're able to say, Oh, really? A thing no one asked for has gone wrong, cost us way more than we expected, and you're trying to do a cleanup? Sounds familiar. And it was like the messaging of --\n\nGARCIA-NAVARRO: The Internet is undefeated on --\n\nCORNISH: The Internet is undefeated.\n\nGARCIA-NAVARRO: I mean, there is so many jokes about this. There's, like, the Rothko joke because of the peroxide.\n\nCORNISH: Yes. Actually, the Rothko joke's really great.\n\nGARCIA-NAVARRO: You have like blue around.\n\nYes, it has the blue around the green, and it does actually look like a Rothko painting.\n\nCORNISH: Ducks. We love you, ducks. We hope you survive.\n\nGARCIA-NAVARRO: Yes. Yes. Survive, ducks.\n\nCORNISH: Don't die. I don't want to see an image of a little baby duckling, like swimming past a Costco-size bottle of hydrogen peroxide. It's like -- It's not how I want to end the week.\n\nWARREN: Yes. It's also -- I mean, look, this is all supposed to be sort of in -- in the run-up to the 250th anniversary. And it's -- it's just not a good look to have those bottles of hydrogen peroxide, all the work being done when you did have an administration official say --\n\nCORNISH: I also love the tourists just be, like, Looks green to me.\n\nCORNISH: You know what I mean? Like --\n\nWARREN: It's -- it's just, you know --\n\nCORNISH: Pretty straightforward.\n\nWARREN: Yes, it would have been nice if they had not sort of built this up as some great big restoration that was going to make everything great and beautiful for the 250th, when there would need to be more work.\n\nWILLIAMS: Last point, it could perfectly be the case that pouring bottles of hydrogen peroxide into a big pool might be the way to get rid of algae.\n\nWILLIAMS: That might -- that might be a plausible way to treat it.\n\nWILLIAMS: I just think all of the circumstances around how they got us to this moment.\n\nWILLIAMS: And how they talked it make it look silly.\n\nCORNISH: It's supposed to be a win. And instead, it's a conversation about no-bid contracts and a failure. So, not -- it didn't end up where they wanted.\n\nYou guys, stay with me. We've got more to talk about. After the break, we're going to talk about why you all need to put the phone away. I'm not just saying that because I'm on TV. There's a growing number of artists who want fans to experience the music, not stand there with their arms up.\n\nPlus, this was the scene at the Minerva Foundation in Guadalajara last night after Mexico beat South Korea in its second World Cup game. Mexico is now at the top of its group.\n\nAnd in the meantime, good morning to our viewers in Orange Beach, Alabama. Live look at the coastline.\n\nUNIDENTIFIED FEMALE: Oh, no! I need my phone at concerts, because what if I'm at barricade I'm going to get bored. I'll have nothing to do. What if I get bored?\n\nChit chat. Huh? Are you guys not chit chatting at concert?\n\nUNIDENTIFIED MALE: Like, you can still record your phone and then just live in the moment. Like, your eyes are independent of where your phone camera is looking.\n\nCORNISH: OK, there's concerts, binge watching, reading. A lot of us are -- you know, it's summertime. We're getting ready to escape the issues of the real world.\n\nBut even how we enjoy our downtime is stirring up controversy. When you look out at a concert, for instance, sometimes all you see are phones. And singer Phoebe Bridgers is the latest artist to say enough is enough. She just announced a phone-free arena tour after a sold-out surprise show at Madison Square Garden last week.\n\nThere are some fans concerned about, you know, this taking hold nationwide.\n\nUNIDENTIFIED FEMALE: I felt like I was able to enjoy the music more, connect more with the artists. People held up their lighters. I was like, damn, I should have brought my lighter.\n\nUNIDENTIFIED FEMALE: If they're going to be locking up everyone's phones, there has to be a better way to unlock them at the end. Because there was basically very few workers unlocking them.\n\nSo, it was a big bottlenecking situation, and it took forever to get out. I could see that becoming an issue.\n\nCORNISH: All right. So, we're talking about that on this week's episode of \"Engagement Party.\" my co-host, Ari Shapiro, enters the chat.\n\nARI SHAPIRO, CO-HOST, \"ENGAGEMENT PARTY\": Hi, friend.\n\nCORNISH: What's the deal with the phone freeze? Is it becoming a trend? Are other artists talking about this?\n\nSHAPIRO: Absolutely. We have seen Harry Styles do it. He handed out disposable cameras to people at his shows, and we've seen other artists, whether it's Madonna or Mitski or whomever, say, you know, fans, I would like you better if you didn't have your phones out the entire time.\n\nI come to this not only as somebody who goes to concerts, but also as somebody who sings with a band called Pink Martini. And we say, yes, use your phones, please don't use your flash.\n\nBut I have to tell you, when I'm on stage, and I'm singing, and I'm trying to make a moment of connection with the audience, and all I see are phones and screens, it's a little bit of a barrier.\n\nSHAPIRO: I think there's something really special about live performance that phones can get in the way of.\n\nCORNISH: I just want to play one more thing for the group. This is Harry Styles. He was on the \"Q with Tom Power\" podcast, and he was talking about how he got the idea to do a fully phone-free show. And here's what he said.\n\n(BEGIN VIDEO CLIP) HARRY STYLES, MUSICIAN: I remember, like, standing in the middle of the dance floor. And I like had my hands up, and I was kind of just, like, breathing. And I closed my eyes, and I remember the feeling of like, oh, I'm no longer, like, scanning the room to see if anyone's like, you know, filming or anything.\n\nI just felt like, oh, I'm just on my own right now. And I feel so free.\n\nCORNISH: This was after an experience at a phone-free club in Berlin last year.\n\nIt's sort of funny, because he's just describing what concerts used to be like.\n\nCORNISH: That's what we did, was stand and sway. Like, I don't know, are you guys phones before the show?\n\nGARCIA-NAVARRO: Lighters.\n\nCORNISH: The lighter -- lighters up.\n\nWARREN: But this is -- this has been, you know, sort of standard operating procedure for years now, with stand-up comedy, for instance. And there's a reason for that, right?\n\nA lot of these stand-up comics are working on their hour for a special. And so, they -- they have kept phones out of there, because they don't want people posting the jokes that they're honing and working on.\n\nSo, stand-up comedy has been doing it. I think it's been a pretty big success and pretty easy to do.\n\nWARREN: So, I'm not a -- I'm not a concert guy. I wish I were. In a previous time in my life, I was. But like, I don't understand how --\n\nGARCIA-NAVARRO: Can I --\n\nWARREN: -- you need the phone to enjoy the concert.\n\nGARCIA-NAVARRO: I'm going to give the opposite view.\n\nGARCIA-NAVARRO: Which is this. No. And I get it. Like, phones are annoying, and everything's annoying, and la, la, la.\n\nBut I also feel that some of these artists are being disingenuous. Because nowadays, these moments, they live on. They're ephemeral, but they live on to a much wider audience. Ticket prices are unaffordable for most people, and so, I mean, I listen and -- and these --\n\nSHAPIRO: We wouldn't ask the carpenter to fix our house for free. We wouldn't ask Nike to make us shoes for free. Why do we believe that every live performance by every artist should be available to everyone at all times forever on the Internet?\n\nGARCIA-NAVARRO: I'm not saying -- I'm not saying that everything should be recorded, and the entire thing should be put out there. And there's rules against that, right?\n\nBut I'm saying that some clips, they do live on. And there are these moments that happen that can be shared to a much wider audience that actually helps the artist.\n\nWILLIAMS: This whole fight, not fight. But this whole discussion is really about the rise and aging of Gen Z. Because they're the first -- No, I mean this. They're the first generation to have grown up entirely with devices.\n\nWILLIAMS: And now you're seeing the backlash to it. Here, it's the phones, if you know.\n\nSHAPIRO: Or is it the healing?\n\nWILLIAMS: The healing. No, no, whatever it is.\n\nCORNISH: Nature is healing.\n\nWILLIAMS: But it's the tin-can phones. wanting to get away from cellphones.\n\nWILLIAMS: It's the disposable cameras. And a lot of that is -- is, you know, because -- because folks who grew up as kids, so inundated with devices, are just backlashing now.\n\nCORNISH: Let me just talk about one more thing they're inundated with: romance TV show content.\n\nCORNISH: Here is a fan online, talking about this pipeline that goes from book talk to streaming.\n\nUNIDENTIFIED FEMALE: It's also known because my algorithm is just feeding me, feeding me, feeding me, feeding me content. The edits. It's also my fault, because I've watched it four times now. Four\n\ntimes. Four times all the way through.\n\nAt this point in time, I think I --"
+    }
+  ]
+}
