@@ -1,0 +1,544 @@
+{
+  "date": "2026-06-21",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-21/segment/02",
+  "vocabulary": [
+    {
+      "word": "emergency session",
+      "phonetic": "/ɪˈmɜːrdʒənsi ˈseʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "紧急会议",
+      "en": "a meeting called to deal with an urgent situation",
+      "excerpt": "Talks in Switzerland to start with emergency session on Lebanon.",
+      "example_cn": "联合国安理会召开了紧急会议讨论危机。"
+    },
+    {
+      "word": "Strait of Hormuz",
+      "phonetic": "/streɪt əv hɔːrˈmuːz/",
+      "pos": "n.",
+      "level": "专四",
+      "cn": "霍尔木兹海峡",
+      "en": "a narrow strait between the Persian Gulf and the Gulf of Oman",
+      "excerpt": "Iran closes Strait of Hormuz, blames Israel attacks on Lebanon.",
+      "example_cn": "霍尔木兹海峡是全球石油运输的关键通道。"
+    },
+    {
+      "word": "runoff election",
+      "phonetic": "/ˈrʌnɔːf ɪˈlekʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "决选",
+      "en": "a second election held to determine a winner when no candidate received a majority",
+      "excerpt": "Voters in Colombia vote in presidential runoff election.",
+      "example_cn": "两位候选人将进入决选。"
+    },
+    {
+      "word": "maternal mortality",
+      "phonetic": "/məˈtɜːrnl mɔːrˈtæləti/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "孕产妇死亡率",
+      "en": "the death of a woman during pregnancy, childbirth, or within 42 days of termination of pregnancy",
+      "excerpt": "U.S. maternal mortality crisis drives call for action now.",
+      "example_cn": "降低孕产妇死亡率是全球健康目标之一。"
+    },
+    {
+      "word": "delegation",
+      "phonetic": "/ˌdelɪˈɡeɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "代表团",
+      "en": "a group of people chosen to represent a larger organization or country",
+      "excerpt": "Vice President JD Vance leading the American delegation.",
+      "example_cn": "中国代表团出席了会议。"
+    },
+    {
+      "word": "negotiator",
+      "phonetic": "/nɪˈɡoʊʃieɪtər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "谈判者",
+      "en": "a person who conducts negotiations",
+      "excerpt": "Iran's top negotiator, Parliament Speaker Mohammad Ghalibaf.",
+      "example_cn": "首席谈判代表正在准备会谈。"
+    },
+    {
+      "word": "ceasefire",
+      "phonetic": "/ˈsiːsfaɪər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "停火",
+      "en": "a temporary suspension of fighting",
+      "excerpt": "Israel and Hezbollah traded fire just hours after reaching a ceasefire.",
+      "example_cn": "双方同意停火24小时。"
+    },
+    {
+      "word": "critical waterway",
+      "phonetic": "/ˈkrɪtɪkl ˈwɔːtərweɪ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "关键水道",
+      "en": "an important navigable route",
+      "excerpt": "They blamed Israel's strikes on Lebanon for closing the critical waterway again.",
+      "example_cn": "苏伊士运河是一条关键水道。"
+    },
+    {
+      "word": "memorandum of understanding",
+      "phonetic": "/ˌmeməˈrændəm əv ˌʌndərˈstændɪŋ/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "谅解备忘录",
+      "en": "a document describing an agreement between parties",
+      "excerpt": "This memorandum of understanding that has taken over two months to put in place.",
+      "example_cn": "双方签署了谅解备忘录。"
+    },
+    {
+      "word": "enforce",
+      "phonetic": "/ɪnˈfɔːrs/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "执行",
+      "en": "to make sure that a law or rule is obeyed",
+      "excerpt": "If the President cannot enforce that, then what else is the document worth?",
+      "example_cn": "政府必须执行新法规。"
+    },
+    {
+      "word": "leverage",
+      "phonetic": "/ˈlevərɪdʒ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "杠杆作用；影响力",
+      "en": "the power to influence a situation",
+      "excerpt": "They'll use that in part as leverage.",
+      "example_cn": "他们利用经济制裁作为杠杆。"
+    },
+    {
+      "word": "International Atomic Energy Agency",
+      "phonetic": "/ˌɪntərˈnæʃnəl əˈtɑːmɪk ˈeɪdʒənsi/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "国际原子能机构",
+      "en": "an international organization that promotes peaceful use of nuclear energy",
+      "excerpt": "The head of the International Atomic Energy Agency is also there.",
+      "example_cn": "国际原子能机构负责监督核设施。"
+    },
+    {
+      "word": "highly enriched uranium",
+      "phonetic": "/ˈhaɪli ɪnˈrɪtʃt jʊˈreɪniəm/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "高浓缩铀",
+      "en": "uranium with a high concentration of the isotope U-235, used in nuclear weapons",
+      "excerpt": "Watering down its highly enriched uranium.",
+      "example_cn": "伊朗同意稀释其高浓缩铀库存。"
+    },
+    {
+      "word": "blockade",
+      "phonetic": "/blɑːˈkeɪd/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "封锁",
+      "en": "an act of sealing off a place to prevent goods or people from entering or leaving",
+      "excerpt": "Can the Iranians lift their blockade of the Strait of Hormuz?",
+      "example_cn": "海军实施了海上封锁。"
+    },
+    {
+      "word": "primary election",
+      "phonetic": "/ˈpraɪmeri ɪˈlekʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "初选",
+      "en": "an election to select candidates for a final election",
+      "excerpt": "Primary elections are set for Tuesday in several states.",
+      "example_cn": "初选结果将决定最终候选人。"
+    },
+    {
+      "word": "runoff",
+      "phonetic": "/ˈrʌnɔːf/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "决选",
+      "en": "a second election or vote to decide a winner",
+      "excerpt": "South Carolina voters are heading back to the polls for a runoff.",
+      "example_cn": "两位候选人进入决选。"
+    },
+    {
+      "word": "plead guilty",
+      "phonetic": "/pliːd ˈɡɪlti/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "认罪",
+      "en": "to formally state that one is guilty of a crime",
+      "excerpt": "Bolton pleaded guilty to one felony count.",
+      "example_cn": "被告对指控表示认罪。"
+    },
+    {
+      "word": "felony",
+      "phonetic": "/ˈfeləni/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "重罪",
+      "en": "a serious crime such as murder or robbery",
+      "excerpt": "He pleaded guilty to one felony count of retaining classified national security information.",
+      "example_cn": "抢劫属于重罪。"
+    },
+    {
+      "word": "narcotrafficking",
+      "phonetic": "/ˌnɑːrkoʊˈtræfɪkɪŋ/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "毒品走私",
+      "en": "the illegal trade of drugs",
+      "excerpt": "Much of those problems have to do with narcotrafficking and cocaine production.",
+      "example_cn": "毒品走私是许多国家面临的问题。"
+    },
+    {
+      "word": "MAGA-styled",
+      "phonetic": "/ˈmæɡə staɪld/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "MAGA风格的",
+      "en": "in the style of Donald Trump's 'Make America Great Again' movement",
+      "excerpt": "He really ran a MAGA-styled campaign.",
+      "example_cn": "他的竞选活动具有MAGA风格。"
+    },
+    {
+      "word": "populist",
+      "phonetic": "/ˈpɑːpjəlɪst/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "民粹主义的",
+      "en": "relating to a political approach that appeals to ordinary people",
+      "excerpt": "Other right-wing populist figures here in South America.",
+      "example_cn": "民粹主义领导人在全球崛起。"
+    },
+    {
+      "word": "protege",
+      "phonetic": "/ˈprɒtəʒeɪ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "门徒；被保护人",
+      "en": "a person who is guided and supported by an older and more experienced person",
+      "excerpt": "Ivan Cepeda, who is a protege of the current president.",
+      "example_cn": "他是著名画家的门徒。"
+    },
+    {
+      "word": "ally",
+      "phonetic": "/ˈælaɪ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "盟友",
+      "en": "a country that has agreed to help another country",
+      "excerpt": "Colombia has been Washington's strongest ally in the region.",
+      "example_cn": "两国是长期盟友。"
+    },
+    {
+      "word": "ramification",
+      "phonetic": "/ˌræmɪfɪˈkeɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "后果；影响",
+      "en": "a complex or unwelcome consequence",
+      "excerpt": "The ramifications will be important beyond the borders of Colombia.",
+      "example_cn": "这一决定具有深远影响。"
+    },
+    {
+      "word": "preventable",
+      "phonetic": "/prɪˈventəbl/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "可预防的",
+      "en": "able to be prevented",
+      "excerpt": "Most of these deaths are preventable.",
+      "example_cn": "许多疾病是可预防的。"
+    },
+    {
+      "word": "complication",
+      "phonetic": "/ˌkɑːmplɪˈkeɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "并发症",
+      "en": "a secondary medical condition that makes a disease more difficult to treat",
+      "excerpt": "Black women are far more likely to die from complications.",
+      "example_cn": "手术可能导致并发症。"
+    },
+    {
+      "word": "C-section",
+      "phonetic": "/ˈsiː sekʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "剖腹产",
+      "en": "a surgical procedure to deliver a baby through an incision in the abdomen",
+      "excerpt": "His wife died after a routine C-section.",
+      "example_cn": "她通过剖腹产生下了孩子。"
+    },
+    {
+      "word": "colossal failure",
+      "phonetic": "/kəˈlɑːsl ˈfeɪljər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "巨大失败",
+      "en": "a very great failure",
+      "excerpt": "This is a colossal failure of Donald Trump.",
+      "example_cn": "该项目被视为巨大失败。"
+    },
+    {
+      "word": "credibility",
+      "phonetic": "/ˌkredəˈbɪləti/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "可信度",
+      "en": "the quality of being trusted and believed in",
+      "excerpt": "This President has no credibility.",
+      "example_cn": "他的可信度受到质疑。"
+    },
+    {
+      "word": "adversary",
+      "phonetic": "/ˈædvərsəri/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "对手；敌手",
+      "en": "a person or group that opposes another",
+      "excerpt": "Our adversary, Iran, is really having more power.",
+      "example_cn": "他们在法庭上是对手。"
+    },
+    {
+      "word": "indomitable purpose",
+      "phonetic": "/ɪnˈdɑːmɪtəbl ˈpɜːrpəs/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "不屈不挠的目标",
+      "en": "a strong and unyielding aim",
+      "excerpt": "He has turned his unimaginable pain into an indomitable purpose.",
+      "example_cn": "他以不屈不挠的目标激励他人。"
+    },
+    {
+      "word": "doting",
+      "phonetic": "/ˈdoʊtɪŋ/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "溺爱的",
+      "en": "showing excessive love or fondness",
+      "excerpt": "His wife should be doting on him.",
+      "example_cn": "溺爱的父母往往宠坏孩子。"
+    },
+    {
+      "word": "AI coach",
+      "phonetic": "/eɪ aɪ koʊtʃ/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "人工智能教练",
+      "en": "an artificial intelligence system that provides guidance or training",
+      "excerpt": "It also has an AI coach built in.",
+      "example_cn": "这款应用内置了人工智能教练。"
+    },
+    {
+      "word": "reflecting pool",
+      "phonetic": "/rɪˈflektɪŋ puːl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "倒影池",
+      "en": "a shallow pool designed to reflect a view",
+      "excerpt": "The President's $14 million reflecting pool renovation is peeling up.",
+      "example_cn": "林肯纪念堂前的倒影池是著名景点。"
+    },
+    {
+      "word": "vandal",
+      "phonetic": "/ˈvændl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "破坏公物者",
+      "en": "a person who deliberately destroys or damages property",
+      "excerpt": "Vandals, many of them have been arrested.",
+      "example_cn": "破坏公物者被摄像头拍到。"
+    },
+    {
+      "word": "defacing",
+      "phonetic": "/dɪˈfeɪsɪŋ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "损坏外观",
+      "en": "to spoil the surface or appearance of something",
+      "excerpt": "Charged with destruction and defacing government property.",
+      "example_cn": "涂鸦损坏了建筑物外观。"
+    },
+    {
+      "word": "subpar",
+      "phonetic": "/sʌbˈpɑːr/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "低于标准的",
+      "en": "below an average or expected standard",
+      "excerpt": "They put in subpar paint.",
+      "example_cn": "产品质量低于标准。"
+    },
+    {
+      "word": "dopamine site",
+      "phonetic": "/ˈdoʊpəmiːn saɪt/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "多巴胺网站（模拟购物网站）",
+      "en": "a website that simulates shopping to provide a dopamine rush without actual purchase",
+      "excerpt": "Dopamine sites allow people to browse and put things in their cart but they're not real.",
+      "example_cn": "多巴胺网站旨在提供购物快感而不花钱。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "A diplomatic source tells CNN the discussions will begin with this emergency session on Lebanon.",
+      "cn": "一位外交消息人士告诉CNN，讨论将以关于黎巴嫩的紧急会议开始。",
+      "structure": "主句 + 宾语从句",
+      "analysis": "主句为'A diplomatic source tells CNN'，后接宾语从句'the discussions will begin with this emergency session on Lebanon'。"
+    },
+    {
+      "en": "That's after Israel and Hezbollah traded fire just hours after reaching a ceasefire in that conflict.",
+      "cn": "这是在以色列和真主党达成停火协议仅数小时后交火之后发生的。",
+      "structure": "主系表 + 时间状语从句",
+      "analysis": "主句为'That's after...'，其中'after'引导时间状语从句，从句中包含'just hours after reaching a ceasefire'进一步说明时间。"
+    },
+    {
+      "en": "Remember, this memorandum of understanding that has taken over two months to put in place has been done through mediators.",
+      "cn": "记住，这份花了两个多月才落实的谅解备忘录是通过调解人完成的。",
+      "structure": "祈使句 + 定语从句",
+      "analysis": "主句为祈使句'Remember'，后接宾语从句，其中'that has taken over two months to put in place'是定语从句修饰'memorandum of understanding'。"
+    },
+    {
+      "en": "The Iranians are saying, very simply, the first point in this 14-point memorandum of understanding that President Trump and the Iranian president signed just a few days ago, the first point includes a ceasefire in Lebanon.",
+      "cn": "伊朗人非常简单地表示，这份特朗普总统和伊朗总统几天前签署的14点谅解备忘录中的第一点包括黎巴嫩停火。",
+      "structure": "主句 + 宾语从句（含定语从句）",
+      "analysis": "主句为'The Iranians are saying'，后接宾语从句，其中'that President Trump and the Iranian president signed just a few days ago'是定语从句修饰'memorandum of understanding'。"
+    },
+    {
+      "en": "So the Iranians are saying, if the President, President Trump, cannot enforce that, then what else, in essence, is the document worth?",
+      "cn": "所以伊朗人说，如果总统特朗普不能执行这一点，那么这份文件本质上还有什么价值？",
+      "structure": "主句 + 条件状语从句 + 疑问句",
+      "analysis": "主句为'the Iranians are saying'，后接宾语从句，其中包含'if'引导的条件状语从句，主句为疑问句'what else is the document worth?'。"
+    },
+    {
+      "en": "And for that point, they've taken a big diplomatic stick, if you will, into this meeting, and that is closing the Strait of Hormuz, remembering that one of the points on the memorandum of understanding was they agreed to open the Strait of Hormuz.",
+      "cn": "为此，他们带了一根大外交棒（如果你愿意这么说）进入会议，那就是关闭霍尔木兹海峡，记住谅解备忘录中的一点是他们同意开放霍尔木兹海峡。",
+      "structure": "并列句 + 分词短语",
+      "analysis": "主句为'they've taken a big diplomatic stick'，'and that is closing the Strait of Hormuz'为并列句，'remembering that...'为现在分词短语作状语。"
+    },
+    {
+      "en": "The question is, what progress are they going to make over Lebanon?",
+      "cn": "问题是，他们将在黎巴嫩问题上取得什么进展？",
+      "structure": "主系表 + 表语从句",
+      "analysis": "主句为'The question is'，后接表语从句'what progress are they going to make over Lebanon?'。"
+    },
+    {
+      "en": "Can the Iranians lift their blockade of the Strait of Hormuz again and let the talks do what they're supposed to do in the next 58 days and get into the detail of the nuclear issue?",
+      "cn": "伊朗人能否再次解除对霍尔木兹海峡的封锁，让谈判在未来58天内做他们应该做的事情，并进入核问题的细节？",
+      "structure": "一般疑问句 + 并列谓语",
+      "analysis": "疑问句以'Can'开头，主语'the Iranians'后接并列谓语'lift'和'let'，'let'后接宾语'the talks'和不定式短语'do what they're supposed to do'。"
+    },
+    {
+      "en": "Colombia could quickly and decisively swipe towards the right, towards the MAGA-style of the right-wing world revolution that we're seeing in so many countries around the globe.",
+      "cn": "哥伦比亚可能会迅速而果断地转向右翼，转向我们在全球许多国家看到的右翼世界革命的MAGA风格。",
+      "structure": "主谓 + 介词短语 + 定语从句",
+      "analysis": "主句为'Colombia could swipe'，后接介词短语'towards the right'和'towards the MAGA-style'，'that we're seeing...'是定语从句修饰'the MAGA-style'。"
+    },
+    {
+      "en": "If these voters and the voters of Colombia will give de la Espriella a mandate, we are in Barranquilla, which is de la Espriella's hometown.",
+      "cn": "如果这些选民和哥伦比亚选民给德·拉·埃斯普里埃拉授权，我们就在巴兰基亚，那是德·拉·埃斯普里埃拉的家乡。",
+      "structure": "条件状语从句 + 主句 + 非限制性定语从句",
+      "analysis": "'If'引导条件状语从句，主句为'we are in Barranquilla'，后接非限制性定语从句'which is de la Espriella's hometown'。"
+    },
+    {
+      "en": "He said he was going to get unconditional surrender, he used to send notes to the people that were being slaughtered, the protesters, help is on its way.",
+      "cn": "他说他将获得无条件投降，他过去常常给那些被屠杀的人、抗议者发送便条，说援助即将到来。",
+      "structure": "并列句 + 定语从句",
+      "analysis": "由三个并列分句组成：'He said he was going to get unconditional surrender'、'he used to send notes to the people that were being slaughtered'（含定语从句'that were being slaughtered'）、'help is on its way'。"
+    },
+    {
+      "en": "This is a cash windfall for Iran to the tune of hundreds of billions of dollars for them to rebuild their country, to them to fund terrorist proxies, for them to invest in their ballistic missile program.",
+      "cn": "这对伊朗来说是一笔高达数千亿美元的意外之财，用于重建国家、资助恐怖主义代理人、投资弹道导弹计划。",
+      "structure": "主系表 + 不定式短语",
+      "analysis": "主句为'This is a cash windfall'，后接介词短语'to the tune of...'，以及三个并列的不定式短语'to rebuild...'、'to fund...'、'to invest...'。"
+    },
+    {
+      "en": "And unfortunately, our enemy or adversary, Iran, is really having more power than they've ever had, especially more power than they did at the beginning of this war that should not have been launched in the first place.",
+      "cn": "不幸的是，我们的敌人或对手伊朗确实拥有比以往任何时候都更大的权力，尤其是比这场本不应发动的战争开始时更大。",
+      "structure": "主谓宾 + 比较状语从句 + 定语从句",
+      "analysis": "主句为'Iran is having more power'，后接比较状语从句'than they've ever had'和'than they did at the beginning of this war'，'that should not have been launched'是定语从句修饰'this war'。"
+    },
+    {
+      "en": "And what took place over the next 10 hours, 10 years later, is still hard for me to wrap my mind around.",
+      "cn": "接下来10小时发生的事情，10年后我仍然难以理解。",
+      "structure": "主语从句 + 系表结构",
+      "analysis": "主语从句'what took place over the next 10 hours'作主语，系动词'is'，表语为'hard for me to wrap my mind around'。"
+    },
+    {
+      "en": "She was allowed to suffer needlessly for more than 10 hours while myself and my family begged and pled for them to just see her and value her the same way they would the people that they care about most.",
+      "cn": "她被允许无谓地痛苦超过10小时，而我和我的家人恳求他们只是像对待他们最关心的人一样看待她、重视她。",
+      "structure": "主句 + 时间状语从句 + 方式状语从句",
+      "analysis": "主句为'She was allowed to suffer'，'while'引导时间状语从句，从句中包含'the same way they would the people that they care about most'作为方式状语。"
+    },
+    {
+      "en": "And behind every one of these statistics I've been saying are real dads, are real children, are real families who are going through suffering that is entirely preventable.",
+      "cn": "在我所说的每一个统计数字背后，都是真实的父亲、真实的孩子、真实的家庭，他们正在经历完全可以预防的痛苦。",
+      "structure": "倒装句 + 定语从句",
+      "analysis": "正常语序为'Real dads, real children, real families are behind every one of these statistics'，倒装后强调'behind every one of these statistics'，'who are going through suffering that is entirely preventable'是定语从句修饰'families'。"
+    },
+    {
+      "en": "So we developed a tool, a free app that's available for everybody, called 4Kira4Dads, right?",
+      "cn": "所以我们开发了一个工具，一个免费应用程序，每个人都可以使用，叫做4Kira4Dads，对吧？",
+      "structure": "主谓宾 + 同位语 + 定语从句",
+      "analysis": "主句为'we developed a tool'，'a free app'是同位语，'that's available for everybody'是定语从句修饰'app'，'called 4Kira4Dads'是过去分词短语作定语。"
+    },
+    {
+      "en": "So we don't have to go down the, you know, that black hole looking for information and disinformation.",
+      "cn": "所以我们不必陷入那个寻找信息和虚假信息的黑洞。",
+      "structure": "主谓 + 不定式短语",
+      "analysis": "主句为'we don't have to go down'，'the black hole'是宾语，'looking for information and disinformation'是现在分词短语作状语。"
+    },
+    {
+      "en": "And I just want to say to Charles, this is a guy that has turned his unimaginable pain into an indomitable purpose.",
+      "cn": "我只想对查尔斯说，这是一个将难以想象的痛苦转化为不屈不挠目标的人。",
+      "structure": "主句 + 宾语从句 + 定语从句",
+      "analysis": "主句为'I just want to say to Charles'，后接宾语从句'this is a guy'，'that has turned his unimaginable pain into an indomitable purpose'是定语从句修饰'guy'。"
+    },
+    {
+      "en": "And the reason that he is there is, of course, the nuclear issues.",
+      "cn": "他在那里的原因当然是核问题。",
+      "structure": "主系表 + 定语从句",
+      "analysis": "主句为'the reason is the nuclear issues'，'that he is there'是定语从句修饰'reason'。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "美伊谈判与霍尔木兹海峡危机",
+      "content": "美国与伊朗在瑞士举行会谈，副总统JD·万斯率领美国代表团。伊朗以以色列袭击黎巴嫩为由关闭霍尔木兹海峡，并以此作为谈判筹码。会谈首先讨论黎巴嫩紧急局势，随后涉及核问题。",
+      "keywords": "美伊谈判, 霍尔木兹海峡, 黎巴嫩, 核问题, 副总统万斯"
+    },
+    {
+      "title": "哥伦比亚总统决选",
+      "content": "哥伦比亚举行总统决选，右翼候选人阿韦拉多·德·拉·埃斯普里埃拉（Abelardo de la Espriella）与左翼候选人伊万·塞佩达（Ivan Cepeda）对决。德·拉·埃斯普里埃拉获得特朗普支持，竞选风格类似MAGA。哥伦比亚长期面临毒品暴力问题。",
+      "keywords": "哥伦比亚, 总统决选, 毒品战争, MAGA, 特朗普"
+    },
+    {
+      "title": "美国孕产妇死亡率危机",
+      "content": "美国孕产妇死亡率在发达国家中最高，且仍在上升，黑人女性风险更高。参议员科里·布克和倡导者查尔斯·约翰逊讨论通过立法（如Momnibus）和AI工具（如4Kira4Dads）来改善状况，强调父亲在孕产妇健康中的作用。",
+      "keywords": "孕产妇死亡率, 种族差异, Momnibus, 父亲角色, AI工具"
+    },
+    {
+      "title": "林肯纪念堂倒影池维修争议",
+      "content": "耗资1400万美元翻新的林肯纪念堂倒影池出现剥落，特朗普总统指责破坏者，但一名奥运选手因触摸剥落材料被捕引发争议。质疑工程质量和合同分配。",
+      "keywords": "林肯纪念堂, 倒影池, 维修争议, 破坏公物, 特朗普"
+    },
+    {
+      "title": "父亲节消费趋势",
+      "content": "美国零售联合会预计父亲节消费创纪录达279亿美元，平均每人227美元。最受欢迎礼物包括贺卡、服装和礼品卡，但调查显示父亲最希望与孩子共度时光。",
+      "keywords": "父亲节, 消费, 礼物, 家庭时间, 零售"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nSource: Talks In Switzerland To Start With Emergency Session On Lebanon; Iran Closes Strait Of Hormuz, Blames Israel Attacks On Lebanon; Soon: Voters In Colombia Vote In Presidential Runoff Election; U.S. Maternal Mortality Crisis Drives Call For Action Now. Iran Closes Strait Of Hormuz, Blames Israeli Attacks On Lebanon; Italy PM Meloni Says Pres. Trump Made Up a Story About Her; U.S.-Iran Talks Underway in Switzerland; Storms Bring Flooding From Midwest to Gulf Coast. Aired 7-8a ET\n\nAired June 21, 2026 - 07:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nVICTOR BLACKWELL, CNN HOST: Thanks for staying with CNN This Morning.\n\nTalks are about to get started between the U.S. and Iran, with Vice President JD Vance leading the American delegation. We'll look at the hurdles still ahead. And New Jersey Democratic Senator Cory Booker will join us live. We'll get his take on the latest efforts to end the war with Iran, and more personal conversation about family and fatherhood.\n\nAlso in Colombia, the nation is heading into a pivotal election today. President Trump has thrown his support behind a candidate promising a tougher approach to crime and drug cartels. We'll take you inside the country wrestling with how to end decades of violence.\n\nPlus, it's Father's Day. Happy Father's Day. And if you haven't gotten dad a gift yet, don't panic. Good news. He probably doesn't want much. We'll talk about what people are really buying.\n\nUNIDENTIFIED MALE: This is CNN Breaking News.\n\nBLACKWELL: All right, it's Sunday, June 21st. Thanks for joining me. I'm Victor Blackwell.\n\nBeginning with that breaking news this morning, talks between the U.S. and Iran happening in Switzerland. Vice President JD Vance is leading the U.S. side. The Vice President, along with U.S. Special Envoy Steve Witkoff and the President's son-in-law, Jared Kushner, are meeting with Iran's delegation, Iran's top negotiator, Parliament Speaker Mohammad Ghalibaf.\n\nA diplomatic source tells CNN the discussions will begin with this emergency session on Lebanon. That's after Israel and Hezbollah traded fire just hours after reaching a ceasefire in that conflict.\n\nIran closed the Strait of Hormuz, they say, yesterday. They blamed Israel's strikes on Lebanon for closing the critical waterway again. And an Iranian official says that Lebanon is the country's top priority in these talks.\n\nCNN's International Diplomatic Editor Nic Robertson joins us now from Switzerland. The Vice President says he also wants to make some progress on the nuclear issues. What's possible today?\n\nNIC ROBERTSON, CNN INTERNATIONAL DIPLOMATIC EDITOR: Lebanon has to be possible if things are to progress. That's the way the Iranians are framing it. Today is the first time in almost two and a half months that the Vice President will be able to look the Iranian counterparts, his Iranian counterparts in the eye.\n\nRemember, this memorandum of understanding that has taken over two months to put in place has been done through mediators. Now you're getting the principal players in the same room in this next hour together to thrash this out. And the Iranians are saying, very simply, the first point in this 14-point memorandum of understanding that President Trump and the Iranian president signed just a few days ago, the first point includes a ceasefire in Lebanon.\n\nSo the Iranians are saying, if the President, President Trump, cannot enforce that, then what else, in essence, is the document worth? What else can he or can't he enforce? And for that point, they've taken a big diplomatic stick, if you will, into this meeting, and that is closing the Strait of Hormuz, remembering that one of the points on the memorandum of understanding was they agreed to open the Strait of Hormuz.\n\nNow they're taking that off the table, and it does appear as if they'll use that in part as leverage. Look, coming into the meeting, we know the Vice President spoke about Secretary of State Marco Rubio making good progress in Lebanon, trying to get the ceasefire there between Hezbollah and the Israeli government. Yesterday, my sources there are telling me that's been handled pretty well.\n\nThat is a good signal for these talks, but it's not clear what the Iranians are going to want in the shape of guarantees and how much they want the fighting in Lebanon diminished. That said, the head of the International Atomic Energy Agency is also in that mountaintop resort just behind me there, super secure around there, and the reason that he is there is, of course, the nuclear issues.\n\nThe International Atomic Energy Agency is in the memorandum of understanding as supervising, overseeing some of the expected steps Iran would have to take watering down its highly enriched uranium. So you can see that scene is set to get into those very difficult and thorny issues. The question is, what progress are they going to make over Lebanon? Can the Iranians lift their blockade of the Strait of Hormuz again and let the talks do what they're supposed to do in the next 58 days and get into the detail of the nuclear issue?\n\n[07:05:10] BLACKWELL: Yes. Nic, we were just showing some video from a few moments ago of some warm handshakes and hugs there as the two delegations were meeting. We'll see how much they can achieve today.\n\nNic Robertson reporting for us this morning. Thanks so much.\n\nLooking ahead this week, primary elections are set for Tuesday in several states. In Maryland, voters will choose candidates for governor, Congress, local races. In New York, the biggest battles are for open congressional seats, where progressive candidates are taking on establishment Democrats.\n\nIn Utah, several House seats are on the ballot. South Carolina voters are heading back to the polls for a runoff for the Republican gubernatorial candidate. On Wednesday, the Great American State Fair kicks off in Washington, D.C. That marks the start of America's 250th birthday celebration. President Trump is set to headline the opening event. Then on Thursday, the fair officially opens on the National Mall.\n\nA hearing is scheduled for President Trump's former National Security Adviser John Bolton. Earlier this month, Bolton pleaded guilty to one felony count of retaining classified national security information. He's also agreed to pay a $2,250,000 fine.\n\nSoon, voters in Colombia will head to the polls. They're casting ballots in a presidential runoff election. Colombia has, as you know, fought a decades-long drug war. Now, voters are being asked to pick a path towards ending the violence.\n\nCNN's Stefano Pozzebon joins us now from Colombia. Stefano, last hour, we shared your story setting up the challenges of Colombia and introducing us to the candidates. They have very different directions than President Trump has weighed in.\n\nSTEFANO POZZEBON, CNN CONTRIBUTOR: Yes, absolutely, Victor. Two very different visions for how this country can tackle the chronic and historic problems that have burdened it since independence. And much of those problems have to do, of course, with narcotrafficking and cocaine production, Colombia being the number one cocaine producer in the world.\n\nBut this election, Victor, is very closely watched up in Washington and in other capitals of the world, Washington in particular. And the reason is this man, Abelardo de la Espriella. He's standing from the right. He had an almost meteoric rise to the top of the Colombian political establishment, being almost unknown to most Colombians only a year ago.\n\nAnd he really ran a MAGA-styled campaign, seeking the advice and the support of Donald Trump, but also other right-wing populist figures here in South America. Think, for example, of Javier Milei from Argentina, or Nayib Bukele, or the Bolsonaro family down in Brazil. Colombia could quickly and decisively swipe towards the right, towards the MAGA-style of the right-wing world revolution that we're seeing in so many countries around the globe. If these voters and the voters of Colombia will give de la Espriella a mandate. We are in Barranquilla, which is de la Espriella's hometown. It's also, by the way, Shakira's and Sofia Vergara's hometown. So a very -- a city that has really portrayed a lot of what it means to be Colombian all around the world. And we'll be here the whole day trying to speak with de la Espriella supporters and understand whether this person can be Colombia's next president.\n\nHe's been very closely watched in Washington. In fact, at least two senators in the last -- two Congress people in the last couple of days have shown their support for de la Espriella. Bernie Moreno, for example, who is here in Barranquilla from Ohio, and he's one of the international observers that is close to de la Espriella's campaign. But also Maria Elvira Salazar, who is from Miami and represents the Florida wing of the Republican Party that is closely invested in this election.\n\nFrom the left instead is Ivan Cepeda, who is a protege of the current president, Gustavo Petro. Colombia has been Washington's strongest ally in the region for the last 50 years. Four years ago, they went to the left with Petro.\n\nPetro clashed a lot with Donald Trump, and now we're heading to the ballot, Victor.\n\nBLACKWELL: Yes. And that last element, the connection between the U.S. and Colombia is why it's getting so much attention from Washington.\n\nBLACKWELL: And the ramifications will have -- will be important beyond the borders of Colombia.\n\nStefano Pozzebon joining us this morning. Thank you so much.\n\nSo it is Father's Day. If you didn't know, rush out, get that card, whatever gift card, whatever you need. We have two voices on maternal health, why dads could be key to saving moms and babies. We'll get into it.\n\nBLACKWELL: So this morning we are taking a closer look at a crisis that does not get enough attention. The U.S. has the highest maternal mortality rate in the developed world, and it's actually getting worse.\n\nHealth experts say that most of these deaths are preventable, and that the impact is not the same for everyone. Black women are far more likely to die from complications. But this is not just a women's health issue, it is a family issue. And today we're talking about the role that fathers can play in keeping mothers and babies safe. So joining me now, Senator Cory Booker, Democrat of New Jersey, and Charles Johnson, a father and advocate for the -- and the founder of 4Kira4Moms, whose wife died after a routine C-section with their second child. Thank you both for being with me.\n\nSenator, I'm going to get to that in just a moment, but I want to ask you first about what's happening in Switzerland right now. The negotiations happening between the U.S. and Iran, this emergency session on Lebanon, and the Iranians want a guarantee from the U.S. delegation that Israel will not attack inside Lebanon in this fight with Hezbollah. Is that something you believe is even realistic, that the U.S. can guarantee that another sovereign state will not attack in, they say, their defense?\n\nSEN. CORY BOOKER (D), NEW JERSEY: Well, this is another sign of the colossal failure of Donald Trump in this deal, in which already Iran is seeing the benefits, lifting sanctions, billions of more dollars, selling their oil. And we don't even have a chance to, frankly, get anything out of this deal whatsoever up front. And to your question, we know that this is a two horrible leaders, Netanyahu and Donald Trump, two criminal men, as Donald Trump has been convicted of felonies.\n\nThey are not on the same page. They're not coordinating. This is no way to go into a negotiation. And it is another sign of how Donald Trump is really failing this moment in history.\n\nBLACKWELL: The Iranians announced Saturday that they have shut down the Strait of Hormuz again because of those strikes in Lebanon. The President posted this on social media, \"There will be no tolls in the Hormuz Strait for 60 days during the ceasefire period. And there will be no tolls after the 60-day period has expired unless they are imposed by and for the United States of America, should the deal not be completed for services rendered as the guardian angel to the countries of the Middle East for purposes of both past, present, and future reimbursement of costs.\"\n\nSo the President says he would essentially do what the Iranians are doing. I want you to play -- I want everyone to hear what the Secretary of State Marco Rubio said. This is May 5th.\n\nMARCO RUBIO, SECRETARY OF STATE: We cannot live in a world -- there's a lot of time and energy been invested behind the idea that international waters are free for the free flow of goods. The stuff we make in this country and export has to go through international shipping lanes. And for us to live in a world where a country can decide now we own the international shipping lane and you have to pay us if you want to use it, that is a normal that we will never be able to accept.\n\nBLACKWELL: Both from the same administration, what's your reaction to what the President is threatening? BOOKER: Remember, everything the President has said about this war. He said he was going to get unconditional surrender. He used to send notes to the people that were being slaughtered, the protesters, help is on its way. He said he was going to get the nuclear fissile, highly enriched material out of that country. It is still there.\n\nHe said there's going to be a regime change. Well, the regime did change, but it became more extreme, not less. I don't believe anything this President is saying about it. I read the text of that deal. It is explicit. It opens the door to Iran having the chance to get money from the Strait of Hormuz, whether it's tolls or other kind of payments.\n\nThis is a cash windfall for Iran to the tune of hundreds of billions of dollars for them to rebuild their country, to them to fund terrorist proxies, for them to invest in their ballistic missile program. And so, again, there has been few cases in our lifetime where a president started a foreign policy endeavor that has been such a colossal failure.\n\nSo this President has no credibility. He is a global embarrassment right now. And unfortunately, our enemy or adversary, Iran, is really having more power than they've ever had, especially more power than they did at the beginning of this war that should not have been launched in the first place.\n\nBLACKWELL: All right. Now, let's talk about why the both of you are here today together, and that is maternal mortality. And Charles, April 12th, 2016, your wife goes in for a routine C-section, and it happened so quickly. I mean, on the website, you all lay out minute by minute what happened. Tell the story.\n\nCHARLES JOHNSON IV, FOUNDER, 4KIRA4MOMS: Yes, so we went in for what we expected to be a routine scheduled C-section, Victor, with a woman that was in exceptional health, right? At our, very importantly, at our provider's recommendation. Our son was born perfectly healthy. And after that, they took us back to recovery. And that's when things took a turn for the worse.\n\nI noticed blood in Kira's Foley catheter. I brought to the attention of the doctors at Cedars-Sinai. And what took place over the next 10 hours, 10 years later, is still hard for me to wrap my mind around. She was allowed to suffer needlessly for more than 10 hours while myself and my family begged and pled for them to just see her and value her the same way they would the people that they care about most.\n\nAnd unfortunately, those cries were -- fell on deaf ears. And so what I didn't understand, I'm always transparent, and I walked into the hospital that day, the thought that she wouldn't walk out to raise her boys, it never crossed my mind. But what we understand now is that this is happening not just to our family, but far too many mothers all across our country. BLACKWELL: Yes. Senator, I want you to talk to me about this Momnibus, it's a collection of legislation to try to eliminate the disparity not only in the United States as it relates to black women and other women, but the U.S. as a developed nation and other developed nations. It is just striking that the U.S. has the worst rate, and it's getting worse.\n\nBOOKER: Yes, it's actually really tragic that we are one of the wealthiest in the country, but we have the worst outcomes for moms and worst -- most maternal deaths. And a lot of that has to be because we are failing to focus on this problem. And unfortunately, I want to say it's getting worse. It's getting worse because we're seeing these catastrophic Medicaid cuts.\n\nAnd most children, nearly all -- nearly most children are born through Medicaid. We're seeing the disappearance of doctors that it's really hurting and hitting rural areas where they're just having to drive many, many more miles. So we put together a comprehensive 14-bill plan that could really address this.\n\nA couple of them we've already been able to get passed, but these things would include expanding access to Medicaid coverage for postpartum women, expanding access to doulas and other community services. We even have a bill that Charles has been championing that is about trying to wrap comprehensive services around moms, give community information and support to dads as well during this process.\n\nThis is an achievable process. About 85 percent of these deaths, doctors say, are preventable. We can do this, America, if we focus on the problem. America should lead the world when it comes to healthy babies being born and healthy mothers.\n\nAnd I just want to say to Charles, this is a guy that has turned his unimaginable pain into an indomitable purpose. He is somebody that is making a tremendous difference through his courage. This is Father's Day. He should be home. His daughter, his wife, should be doting on him and yet he's here with us today.\n\nAnd behind every one of these statistics I've been saying are real dads, are real children, are real families who are going through suffering that is entirely preventable.\n\nBLACKWELL: Can you tell me quickly about this AI tool that's been created? Because it is Father's Day. I'm talking about maternal mortality, but fathers can use this tool to protect their family.\n\nJOHNSON: Absolutely. And so you're absolutely right. So I want to say, first and foremost, that all of those stories like Kira's are heartbreaking. We can fix this, Victor, right? And a huge part of our theory of change, in addition to all the clinical and non-clinical factors, is the role that fathers and non-birthing parents can play.\n\nSo we developed a tool, a free app that's available for everybody, called 4Kira4Dads, right? And in addition to tools that take fathers through the entire birth continuum, helping them understand everything they need to do to be able to advocate and support that mother, it also has a web, an AI coach built in.\n\nSo we don't have to go down the, you know, that black hole looking for information and disinformation. It's evidence backed. It's available for everybody. So when there is a situation, we need to know what you need to do. We have that support that's readily available 24/7, 365.\n\nBLACKWELL: All right. Charles Johnson, Senator Booker, thank you both.\n\nAll right, the President's $14 million reflecting pool renovation is peeling up in pieces. Who is he blaming? Not nature taking its course. How criminal charges are involved, next.\n\nBLACKWELL: Well, just hours after signing that memorandum of understanding the Strait of Hormuz, the Iranians say is closed again. Not according to the U.S. though, who say it is open.\n\nJoining me now for our morning roundup, Race and Culture Reporter with the Atlanta Journal-Constitution, Ernie Suggs, former journalist here in Atlanta, always a journalist --\n\nJAQUITTA WILLIAMS, FORMER JOURNALIST: Always a journalist.\n\nBLACKWELL: -- former anchor, but always a journalist --\n\nBLACKWELL: -- JaQuitta Williams, and Attorney Madeline Simmons. Welcome to you all.\n\nERNIE SUGGS, RACE AND CULTURE REPORTER, ATLANTA JOURNAL-CONSTITUTION: Thank you.\n\nBLACKWELL: The U.S. can say that the Strait is open, but when those insurance companies and the companies that own those ships hear the Iranians say it's shut down, it's essentially shut down.\n\nSUGGS: It's basically shut down. We're -- it's almost like Groundhog's Day.\n\nSUGGS: We go through this every week. The Strait is closed by Iran, but we're saying that it's open. So 55 ships went through the Strait yesterday, I believe, on Saturday. And then Iran said, hey, we're going to close it down because we don't like the way the negotiations are going out.\n\nSo, 20 percent of all oil supplies go through the Strait of Hormuz. So every time there's a threat for it to close or even a threat, you know, that's going to affect gas prices, it's going to affect oil supplies, it's going to impact everything that goes through that. So I think that what we are seeing right now is kind of a reflection of stalled negotiations.\n\nYou know, we're going to be in Switzerland today talking about that, but we're just going to keep going on this circle of just kind of just this thing not being resolved.\n\nWILLIAMS: And bottom line, the consumer wants to know, what are they doing with these gas prices.\n\nWILLIAMS: That's the most important part because we're already high as it is, so to know is it open, is it closed, it's just the consumer is just getting banged over the head one hit after another.\n\nBLACKWELL: A month ago, gas at a regular gas on average was $4.56 a gallon. That's come down this morning, it is $3.94. Still nearly a dollar more than it was before this war started, but JaQuitta, to your point, if gas prices come down, penny by penny, maybe week by week, does this conflict become less of the important primary issue for the everyday American, do you think?\n\nWILLIAMS: No, because who's to say it'll slow down?\n\nWILLIAMS: Bottom line, you know, there are certain families who I know have a certain way that they do their gas. When they're at half point, they already fill up. They never let it get all the way to E because you never know what the price point is going to be.\n\nAnd I'm sorry, it's too many people who don't have jobs, who need every penny. And to say that, well, this -- $3.94 is still not good to me, Victor.\n\nWILLIAMS: So, you know, we need it to be in the two areas.\n\nBLACKWELL: That's where it was --\n\nWILLIAMS: In the one area.\n\nBLACKWELL: Yes, well, the one area, I don't know what we're getting back there.\n\nWILLIAMS: But at least $2.\n\nBLACKWELL: Yes, $2.98 was where it was back on February 28th when this all started. Madeleine, for you, the vice president is there having these talks. The president joked, joked this week, that if this goes well, he's going to take credit for it. If it goes poorly, I'm going to blame J.D. Now, that was a joke. But if you consider that maybe he's a 2028 candidate, this is a very treacherous period for the vice president. MADELEINE SIMMONS, ATTORNEY: Yes. And, you know, we saw that with Trump and with Vice President Pence, right? You know, Trump used to try to play him like that, like he's making this joke about J.D. So, to your point, I think the vice president has a lot on the line with how this all shakes out for the voters if he's going to be a serious candidate in the future.\n\nBLACKWELL: Yes. The president has been up on his social media platform and he's focused on a few things. We'll get to a couple of them. One of them is this spat, I guess I'll describe it, with the Italian prime minister, Giorgia Meloni, over whether she requested a photograph. He said that she begged for one. And then, which is unique here, she replied on social media. Here's what she said.\n\nGIORGIA MELONI, ITALIAN PRIME MINISTER (through translator): Donald Trump's statements are completely made up. I am frankly astonished. I don't know why the president of the United States behaves like this toward his allies. There is one thing he should remember. Neither I nor Italy ever beg.\n\nBLACKWELL: The president posted again this weekend. He says now she wants to be friends now that the U.S. has defeated Iran and the Iranian military, she wants to get her numbers back up. Why is this an issue for the president considering all that's on his plate?\n\nSUGGS: It's an issue for the president because first of all, she went against him and his criticism of the pope, obviously. So, he's upset about that because he's and all the European nations, all of our allies, our traditional allies since 1918, are not on board with this war. And he's upset with that. So, you know, he's picking on her.\n\nAnd, you know, just the fact that he is going to, I don't know whether or not he said it or not, you know, she says, you know, he didn't say it, that she never begged for a photo. Even for him to bring that up as a talking point is just so childish and so juvenile that she begged for a selfie. I don't even know what that means.\n\nWILLIAMS: He's the king of petty.\n\nWILLIAMS: Forget president, you know. And the other thing is too, he has a way of making things up in his mind and saying them over and over to make them be true. So, probably in his mind, she begged that woman probably didn't open her mouth.\n\nSUGGS: Even if she did ask for a photo, why would he tell the world that?\n\nWILLIAMS: Because he's the king of petty.\n\nBLACKWELL: All right. Well, listen, we got a lot of things to get to, including the dads out there. Happy Father's Day to everybody.\n\nWILLIAMS: Oh, Happy Father's Day.\n\nBLACKWELL: Father's Day. See. We're going to talk about what people are buying. And if it's really worth spending the money, what does dad really want?\n\nAnd if you're heading out, remember you can stream our show from anywhere in the U.S. right from the CNN app. You can also go to cnn.com/watch.\n\nBLACKWELL: All right. Back for the roundup now. Madeleine, JaQuitta, and Ernie are still with me. Let me start with you, Madeleine, on this. A $15 million renovation of the Lincoln Memorial Reflecting Pool. Lots of green algae. The blue material is now tearing up. The president posted on social media that vandals, many of them have been arrested in connection with this.\n\nAnd one person, a three-time U.S. Olympian, David Hearn, told CNN that police arrested him Friday after he said he just touched a flap of the blue material peeling up. He said that soon after U.S. National Park Service staffer instructed him not to reach into the water. He was arrested, charged with destruction and defacing government property, disobeying a government employee. He said he just touched it, right? We reached out to Park Police. No answer on this.\n\nWe've all seen the condition before. That man got there on Friday. And so, what would they have to prove? What's the legal case here?\n\nSIMMONS: I mean, it's ridiculous. I think he's going to, you know, get that thrown out easily because there's absolutely no evidence that this man specifically did anything. And from the condition, it looks like that, you know, the administration probably awarded the contract to some of their buddies that put in subpar paint. Now, it's peeling and they're trying to save face because it's ridiculous to spend $14 plus million on a renovation and have it be, you know, peeling.\n\nBLACKWELL: And you know this is not the first administration to try to fix this it has been a chronic issue but the president made this an oval office issue by bringing up the investment and the price repeatedly.\n\nWILLIAMS: How do we go from 1.8 million to 14.7 million for something that was already falling apart?\n\nSUGGS: And it was a no big contract he brought in a guy who worked on his pool. So, the whole process from the beginning was fraught.\n\nSIMMONS: The other point of this too is if there were really folks out there defacing this don't you think we'd have video of it? Come on.\n\nBLACKWELL: Let's talk about Father's Day. National Retail Federation says folk are spending money on pops. Record spending this year $27.9 billion. Average 227, that's highest on record. Most people buying greeting cards, clothing and outing gift cards. You know what dad wants? He just wants the time. There's another poll out from YouGov that says the most popular gift received is just time with the kids.\n\nSIMMONS: Well, and interesting about that poll is it says dad wants to spend time with the kids but it doesn't say solo. So, dad still wants mom there to help control these crazy children.\n\nWILLIAMS: But I will say it's good to see now that Father's Day is finally getting some love compared to Mother's Day because they're night and day when it comes to celebratory things that your kids and what women want versus what men want. But I see a lot of men say they want to stay at home, they want to have a little something that they want to drink, they want to you know play cards or something and then that's it.\n\nSUGGS: A day of rest. We don't want --\n\nBLACKWELL: The ties.\n\nBLACKWELL: Listen, we're both sitting here, nobody has a tie on.\n\nSUGGS: Post pandemic we're not wearing ties to work anymore, because the kids don't give them to us anymore.\n\nBLACKWELL: Yes. Well, maybe that's it. All right. So, let's talk about this which I think is interesting. There is this new report out from Vice and a place called Oddity Central which I found about these what they're called dopamine sites which allow people to go online and they can click around and browse and put things in their cart and order them but they're not real. This is just to give them the feeling of shopping without spending the money. Courtesy of South Korea. What do you all think? Is it worth it?\n\nWILLIAMS: This America, we have a problem. Who wants --\n\nBLACKWELL: This is in South Korea.\n\nWILLIAMS: Who wants to simulate looking for something, finding it, purchasing it, putting it in the cart but doesn't comes to the house? That's the joy of knowing like, I got something coming. I got somet",
+  "segments": [
+    {
+      "seg": 2,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-21/segment/02",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nSource: Talks In Switzerland To Start With Emergency Session On Lebanon; Iran Closes Strait Of Hormuz, Blames Israel Attacks On Lebanon; Soon: Voters In Colombia Vote In Presidential Runoff Election; U.S. Maternal Mortality Crisis Drives Call For Action Now. Iran Closes Strait Of Hormuz, Blames Israeli Attacks On Lebanon; Italy PM Meloni Says Pres. Trump Made Up a Story About Her; U.S.-Iran Talks Underway in Switzerland; Storms Bring Flooding From Midwest to Gulf Coast. Aired 7-8a ET\n\nAired June 21, 2026 - 07:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nVICTOR BLACKWELL, CNN HOST: Thanks for staying with CNN This Morning.\n\nTalks are about to get started between the U.S. and Iran, with Vice President JD Vance leading the American delegation. We'll look at the hurdles still ahead. And New Jersey Democratic Senator Cory Booker will join us live. We'll get his take on the latest efforts to end the war with Iran, and more personal conversation about family and fatherhood.\n\nAlso in Colombia, the nation is heading into a pivotal election today. President Trump has thrown his support behind a candidate promising a tougher approach to crime and drug cartels. We'll take you inside the country wrestling with how to end decades of violence.\n\nPlus, it's Father's Day. Happy Father's Day. And if you haven't gotten dad a gift yet, don't panic. Good news. He probably doesn't want much. We'll talk about what people are really buying.\n\nUNIDENTIFIED MALE: This is CNN Breaking News.\n\nBLACKWELL: All right, it's Sunday, June 21st. Thanks for joining me. I'm Victor Blackwell.\n\nBeginning with that breaking news this morning, talks between the U.S. and Iran happening in Switzerland. Vice President JD Vance is leading the U.S. side. The Vice President, along with U.S. Special Envoy Steve Witkoff and the President's son-in-law, Jared Kushner, are meeting with Iran's delegation, Iran's top negotiator, Parliament Speaker Mohammad Ghalibaf.\n\nA diplomatic source tells CNN the discussions will begin with this emergency session on Lebanon. That's after Israel and Hezbollah traded fire just hours after reaching a ceasefire in that conflict.\n\nIran closed the Strait of Hormuz, they say, yesterday. They blamed Israel's strikes on Lebanon for closing the critical waterway again. And an Iranian official says that Lebanon is the country's top priority in these talks.\n\nCNN's International Diplomatic Editor Nic Robertson joins us now from Switzerland. The Vice President says he also wants to make some progress on the nuclear issues. What's possible today?\n\nNIC ROBERTSON, CNN INTERNATIONAL DIPLOMATIC EDITOR: Lebanon has to be possible if things are to progress. That's the way the Iranians are framing it. Today is the first time in almost two and a half months that the Vice President will be able to look the Iranian counterparts, his Iranian counterparts in the eye.\n\nRemember, this memorandum of understanding that has taken over two months to put in place has been done through mediators. Now you're getting the principal players in the same room in this next hour together to thrash this out. And the Iranians are saying, very simply, the first point in this 14-point memorandum of understanding that President Trump and the Iranian president signed just a few days ago, the first point includes a ceasefire in Lebanon.\n\nSo the Iranians are saying, if the President, President Trump, cannot enforce that, then what else, in essence, is the document worth? What else can he or can't he enforce? And for that point, they've taken a big diplomatic stick, if you will, into this meeting, and that is closing the Strait of Hormuz, remembering that one of the points on the memorandum of understanding was they agreed to open the Strait of Hormuz.\n\nNow they're taking that off the table, and it does appear as if they'll use that in part as leverage. Look, coming into the meeting, we know the Vice President spoke about Secretary of State Marco Rubio making good progress in Lebanon, trying to get the ceasefire there between Hezbollah and the Israeli government. Yesterday, my sources there are telling me that's been handled pretty well.\n\nThat is a good signal for these talks, but it's not clear what the Iranians are going to want in the shape of guarantees and how much they want the fighting in Lebanon diminished. That said, the head of the International Atomic Energy Agency is also in that mountaintop resort just behind me there, super secure around there, and the reason that he is there is, of course, the nuclear issues.\n\nThe International Atomic Energy Agency is in the memorandum of understanding as supervising, overseeing some of the expected steps Iran would have to take watering down its highly enriched uranium. So you can see that scene is set to get into those very difficult and thorny issues. The question is, what progress are they going to make over Lebanon? Can the Iranians lift their blockade of the Strait of Hormuz again and let the talks do what they're supposed to do in the next 58 days and get into the detail of the nuclear issue?\n\n[07:05:10] BLACKWELL: Yes. Nic, we were just showing some video from a few moments ago of some warm handshakes and hugs there as the two delegations were meeting. We'll see how much they can achieve today.\n\nNic Robertson reporting for us this morning. Thanks so much.\n\nLooking ahead this week, primary elections are set for Tuesday in several states. In Maryland, voters will choose candidates for governor, Congress, local races. In New York, the biggest battles are for open congressional seats, where progressive candidates are taking on establishment Democrats.\n\nIn Utah, several House seats are on the ballot. South Carolina voters are heading back to the polls for a runoff for the Republican gubernatorial candidate. On Wednesday, the Great American State Fair kicks off in Washington, D.C. That marks the start of America's 250th birthday celebration. President Trump is set to headline the opening event. Then on Thursday, the fair officially opens on the National Mall.\n\nA hearing is scheduled for President Trump's former National Security Adviser John Bolton. Earlier this month, Bolton pleaded guilty to one felony count of retaining classified national security information. He's also agreed to pay a $2,250,000 fine.\n\nSoon, voters in Colombia will head to the polls. They're casting ballots in a presidential runoff election. Colombia has, as you know, fought a decades-long drug war. Now, voters are being asked to pick a path towards ending the violence.\n\nCNN's Stefano Pozzebon joins us now from Colombia. Stefano, last hour, we shared your story setting up the challenges of Colombia and introducing us to the candidates. They have very different directions than President Trump has weighed in.\n\nSTEFANO POZZEBON, CNN CONTRIBUTOR: Yes, absolutely, Victor. Two very different visions for how this country can tackle the chronic and historic problems that have burdened it since independence. And much of those problems have to do, of course, with narcotrafficking and cocaine production, Colombia being the number one cocaine producer in the world.\n\nBut this election, Victor, is very closely watched up in Washington and in other capitals of the world, Washington in particular. And the reason is this man, Abelardo de la Espriella. He's standing from the right. He had an almost meteoric rise to the top of the Colombian political establishment, being almost unknown to most Colombians only a year ago.\n\nAnd he really ran a MAGA-styled campaign, seeking the advice and the support of Donald Trump, but also other right-wing populist figures here in South America. Think, for example, of Javier Milei from Argentina, or Nayib Bukele, or the Bolsonaro family down in Brazil. Colombia could quickly and decisively swipe towards the right, towards the MAGA-style of the right-wing world revolution that we're seeing in so many countries around the globe. If these voters and the voters of Colombia will give de la Espriella a mandate. We are in Barranquilla, which is de la Espriella's hometown. It's also, by the way, Shakira's and Sofia Vergara's hometown. So a very -- a city that has really portrayed a lot of what it means to be Colombian all around the world. And we'll be here the whole day trying to speak with de la Espriella supporters and understand whether this person can be Colombia's next president.\n\nHe's been very closely watched in Washington. In fact, at least two senators in the last -- two Congress people in the last couple of days have shown their support for de la Espriella. Bernie Moreno, for example, who is here in Barranquilla from Ohio, and he's one of the international observers that is close to de la Espriella's campaign. But also Maria Elvira Salazar, who is from Miami and represents the Florida wing of the Republican Party that is closely invested in this election.\n\nFrom the left instead is Ivan Cepeda, who is a protege of the current president, Gustavo Petro. Colombia has been Washington's strongest ally in the region for the last 50 years. Four years ago, they went to the left with Petro.\n\nPetro clashed a lot with Donald Trump, and now we're heading to the ballot, Victor.\n\nBLACKWELL: Yes. And that last element, the connection between the U.S. and Colombia is why it's getting so much attention from Washington.\n\nBLACKWELL: And the ramifications will have -- will be important beyond the borders of Colombia.\n\nStefano Pozzebon joining us this morning. Thank you so much.\n\nSo it is Father's Day. If you didn't know, rush out, get that card, whatever gift card, whatever you need. We have two voices on maternal health, why dads could be key to saving moms and babies. We'll get into it.\n\nBLACKWELL: So this morning we are taking a closer look at a crisis that does not get enough attention. The U.S. has the highest maternal mortality rate in the developed world, and it's actually getting worse.\n\nHealth experts say that most of these deaths are preventable, and that the impact is not the same for everyone. Black women are far more likely to die from complications. But this is not just a women's health issue, it is a family issue. And today we're talking about the role that fathers can play in keeping mothers and babies safe. So joining me now, Senator Cory Booker, Democrat of New Jersey, and Charles Johnson, a father and advocate for the -- and the founder of 4Kira4Moms, whose wife died after a routine C-section with their second child. Thank you both for being with me.\n\nSenator, I'm going to get to that in just a moment, but I want to ask you first about what's happening in Switzerland right now. The negotiations happening between the U.S. and Iran, this emergency session on Lebanon, and the Iranians want a guarantee from the U.S. delegation that Israel will not attack inside Lebanon in this fight with Hezbollah. Is that something you believe is even realistic, that the U.S. can guarantee that another sovereign state will not attack in, they say, their defense?\n\nSEN. CORY BOOKER (D), NEW JERSEY: Well, this is another sign of the colossal failure of Donald Trump in this deal, in which already Iran is seeing the benefits, lifting sanctions, billions of more dollars, selling their oil. And we don't even have a chance to, frankly, get anything out of this deal whatsoever up front. And to your question, we know that this is a two horrible leaders, Netanyahu and Donald Trump, two criminal men, as Donald Trump has been convicted of felonies.\n\nThey are not on the same page. They're not coordinating. This is no way to go into a negotiation. And it is another sign of how Donald Trump is really failing this moment in history.\n\nBLACKWELL: The Iranians announced Saturday that they have shut down the Strait of Hormuz again because of those strikes in Lebanon. The President posted this on social media, \"There will be no tolls in the Hormuz Strait for 60 days during the ceasefire period. And there will be no tolls after the 60-day period has expired unless they are imposed by and for the United States of America, should the deal not be completed for services rendered as the guardian angel to the countries of the Middle East for purposes of both past, present, and future reimbursement of costs.\"\n\nSo the President says he would essentially do what the Iranians are doing. I want you to play -- I want everyone to hear what the Secretary of State Marco Rubio said. This is May 5th.\n\nMARCO RUBIO, SECRETARY OF STATE: We cannot live in a world -- there's a lot of time and energy been invested behind the idea that international waters are free for the free flow of goods. The stuff we make in this country and export has to go through international shipping lanes. And for us to live in a world where a country can decide now we own the international shipping lane and you have to pay us if you want to use it, that is a normal that we will never be able to accept.\n\nBLACKWELL: Both from the same administration, what's your reaction to what the President is threatening? BOOKER: Remember, everything the President has said about this war. He said he was going to get unconditional surrender. He used to send notes to the people that were being slaughtered, the protesters, help is on its way. He said he was going to get the nuclear fissile, highly enriched material out of that country. It is still there.\n\nHe said there's going to be a regime change. Well, the regime did change, but it became more extreme, not less. I don't believe anything this President is saying about it. I read the text of that deal. It is explicit. It opens the door to Iran having the chance to get money from the Strait of Hormuz, whether it's tolls or other kind of payments.\n\nThis is a cash windfall for Iran to the tune of hundreds of billions of dollars for them to rebuild their country, to them to fund terrorist proxies, for them to invest in their ballistic missile program. And so, again, there has been few cases in our lifetime where a president started a foreign policy endeavor that has been such a colossal failure.\n\nSo this President has no credibility. He is a global embarrassment right now. And unfortunately, our enemy or adversary, Iran, is really having more power than they've ever had, especially more power than they did at the beginning of this war that should not have been launched in the first place.\n\nBLACKWELL: All right. Now, let's talk about why the both of you are here today together, and that is maternal mortality. And Charles, April 12th, 2016, your wife goes in for a routine C-section, and it happened so quickly. I mean, on the website, you all lay out minute by minute what happened. Tell the story.\n\nCHARLES JOHNSON IV, FOUNDER, 4KIRA4MOMS: Yes, so we went in for what we expected to be a routine scheduled C-section, Victor, with a woman that was in exceptional health, right? At our, very importantly, at our provider's recommendation. Our son was born perfectly healthy. And after that, they took us back to recovery. And that's when things took a turn for the worse.\n\nI noticed blood in Kira's Foley catheter. I brought to the attention of the doctors at Cedars-Sinai. And what took place over the next 10 hours, 10 years later, is still hard for me to wrap my mind around. She was allowed to suffer needlessly for more than 10 hours while myself and my family begged and pled for them to just see her and value her the same way they would the people that they care about most.\n\nAnd unfortunately, those cries were -- fell on deaf ears. And so what I didn't understand, I'm always transparent, and I walked into the hospital that day, the thought that she wouldn't walk out to raise her boys, it never crossed my mind. But what we understand now is that this is happening not just to our family, but far too many mothers all across our country. BLACKWELL: Yes. Senator, I want you to talk to me about this Momnibus, it's a collection of legislation to try to eliminate the disparity not only in the United States as it relates to black women and other women, but the U.S. as a developed nation and other developed nations. It is just striking that the U.S. has the worst rate, and it's getting worse.\n\nBOOKER: Yes, it's actually really tragic that we are one of the wealthiest in the country, but we have the worst outcomes for moms and worst -- most maternal deaths. And a lot of that has to be because we are failing to focus on this problem. And unfortunately, I want to say it's getting worse. It's getting worse because we're seeing these catastrophic Medicaid cuts.\n\nAnd most children, nearly all -- nearly most children are born through Medicaid. We're seeing the disappearance of doctors that it's really hurting and hitting rural areas where they're just having to drive many, many more miles. So we put together a comprehensive 14-bill plan that could really address this.\n\nA couple of them we've already been able to get passed, but these things would include expanding access to Medicaid coverage for postpartum women, expanding access to doulas and other community services. We even have a bill that Charles has been championing that is about trying to wrap comprehensive services around moms, give community information and support to dads as well during this process.\n\nThis is an achievable process. About 85 percent of these deaths, doctors say, are preventable. We can do this, America, if we focus on the problem. America should lead the world when it comes to healthy babies being born and healthy mothers.\n\nAnd I just want to say to Charles, this is a guy that has turned his unimaginable pain into an indomitable purpose. He is somebody that is making a tremendous difference through his courage. This is Father's Day. He should be home. His daughter, his wife, should be doting on him and yet he's here with us today.\n\nAnd behind every one of these statistics I've been saying are real dads, are real children, are real families who are going through suffering that is entirely preventable.\n\nBLACKWELL: Can you tell me quickly about this AI tool that's been created? Because it is Father's Day. I'm talking about maternal mortality, but fathers can use this tool to protect their family.\n\nJOHNSON: Absolutely. And so you're absolutely right. So I want to say, first and foremost, that all of those stories like Kira's are heartbreaking. We can fix this, Victor, right? And a huge part of our theory of change, in addition to all the clinical and non-clinical factors, is the role that fathers and non-birthing parents can play.\n\nSo we developed a tool, a free app that's available for everybody, called 4Kira4Dads, right? And in addition to tools that take fathers through the entire birth continuum, helping them understand everything they need to do to be able to advocate and support that mother, it also has a web, an AI coach built in.\n\nSo we don't have to go down the, you know, that black hole looking for information and disinformation. It's evidence backed. It's available for everybody. So when there is a situation, we need to know what you need to do. We have that support that's readily available 24/7, 365.\n\nBLACKWELL: All right. Charles Johnson, Senator Booker, thank you both.\n\nAll right, the President's $14 million reflecting pool renovation is peeling up in pieces. Who is he blaming? Not nature taking its course. How criminal charges are involved, next.\n\nBLACKWELL: Well, just hours after signing that memorandum of understanding the Strait of Hormuz, the Iranians say is closed again. Not according to the U.S. though, who say it is open.\n\nJoining me now for our morning roundup, Race and Culture Reporter with the Atlanta Journal-Constitution, Ernie Suggs, former journalist here in Atlanta, always a journalist --\n\nJAQUITTA WILLIAMS, FORMER JOURNALIST: Always a journalist.\n\nBLACKWELL: -- former anchor, but always a journalist --\n\nBLACKWELL: -- JaQuitta Williams, and Attorney Madeline Simmons. Welcome to you all.\n\nERNIE SUGGS, RACE AND CULTURE REPORTER, ATLANTA JOURNAL-CONSTITUTION: Thank you.\n\nBLACKWELL: The U.S. can say that the Strait is open, but when those insurance companies and the companies that own those ships hear the Iranians say it's shut down, it's essentially shut down.\n\nSUGGS: It's basically shut down. We're -- it's almost like Groundhog's Day.\n\nSUGGS: We go through this every week. The Strait is closed by Iran, but we're saying that it's open. So 55 ships went through the Strait yesterday, I believe, on Saturday. And then Iran said, hey, we're going to close it down because we don't like the way the negotiations are going out.\n\nSo, 20 percent of all oil supplies go through the Strait of Hormuz. So every time there's a threat for it to close or even a threat, you know, that's going to affect gas prices, it's going to affect oil supplies, it's going to impact everything that goes through that. So I think that what we are seeing right now is kind of a reflection of stalled negotiations.\n\nYou know, we're going to be in Switzerland today talking about that, but we're just going to keep going on this circle of just kind of just this thing not being resolved.\n\nWILLIAMS: And bottom line, the consumer wants to know, what are they doing with these gas prices.\n\nWILLIAMS: That's the most important part because we're already high as it is, so to know is it open, is it closed, it's just the consumer is just getting banged over the head one hit after another.\n\nBLACKWELL: A month ago, gas at a regular gas on average was $4.56 a gallon. That's come down this morning, it is $3.94. Still nearly a dollar more than it was before this war started, but JaQuitta, to your point, if gas prices come down, penny by penny, maybe week by week, does this conflict become less of the important primary issue for the everyday American, do you think?\n\nWILLIAMS: No, because who's to say it'll slow down?\n\nWILLIAMS: Bottom line, you know, there are certain families who I know have a certain way that they do their gas. When they're at half point, they already fill up. They never let it get all the way to E because you never know what the price point is going to be.\n\nAnd I'm sorry, it's too many people who don't have jobs, who need every penny. And to say that, well, this -- $3.94 is still not good to me, Victor.\n\nWILLIAMS: So, you know, we need it to be in the two areas.\n\nBLACKWELL: That's where it was --\n\nWILLIAMS: In the one area.\n\nBLACKWELL: Yes, well, the one area, I don't know what we're getting back there.\n\nWILLIAMS: But at least $2.\n\nBLACKWELL: Yes, $2.98 was where it was back on February 28th when this all started. Madeleine, for you, the vice president is there having these talks. The president joked, joked this week, that if this goes well, he's going to take credit for it. If it goes poorly, I'm going to blame J.D. Now, that was a joke. But if you consider that maybe he's a 2028 candidate, this is a very treacherous period for the vice president. MADELEINE SIMMONS, ATTORNEY: Yes. And, you know, we saw that with Trump and with Vice President Pence, right? You know, Trump used to try to play him like that, like he's making this joke about J.D. So, to your point, I think the vice president has a lot on the line with how this all shakes out for the voters if he's going to be a serious candidate in the future.\n\nBLACKWELL: Yes. The president has been up on his social media platform and he's focused on a few things. We'll get to a couple of them. One of them is this spat, I guess I'll describe it, with the Italian prime minister, Giorgia Meloni, over whether she requested a photograph. He said that she begged for one. And then, which is unique here, she replied on social media. Here's what she said.\n\nGIORGIA MELONI, ITALIAN PRIME MINISTER (through translator): Donald Trump's statements are completely made up. I am frankly astonished. I don't know why the president of the United States behaves like this toward his allies. There is one thing he should remember. Neither I nor Italy ever beg.\n\nBLACKWELL: The president posted again this weekend. He says now she wants to be friends now that the U.S. has defeated Iran and the Iranian military, she wants to get her numbers back up. Why is this an issue for the president considering all that's on his plate?\n\nSUGGS: It's an issue for the president because first of all, she went against him and his criticism of the pope, obviously. So, he's upset about that because he's and all the European nations, all of our allies, our traditional allies since 1918, are not on board with this war. And he's upset with that. So, you know, he's picking on her.\n\nAnd, you know, just the fact that he is going to, I don't know whether or not he said it or not, you know, she says, you know, he didn't say it, that she never begged for a photo. Even for him to bring that up as a talking point is just so childish and so juvenile that she begged for a selfie. I don't even know what that means.\n\nWILLIAMS: He's the king of petty.\n\nWILLIAMS: Forget president, you know. And the other thing is too, he has a way of making things up in his mind and saying them over and over to make them be true. So, probably in his mind, she begged that woman probably didn't open her mouth.\n\nSUGGS: Even if she did ask for a photo, why would he tell the world that?\n\nWILLIAMS: Because he's the king of petty.\n\nBLACKWELL: All right. Well, listen, we got a lot of things to get to, including the dads out there. Happy Father's Day to everybody.\n\nWILLIAMS: Oh, Happy Father's Day.\n\nBLACKWELL: Father's Day. See. We're going to talk about what people are buying. And if it's really worth spending the money, what does dad really want?\n\nAnd if you're heading out, remember you can stream our show from anywhere in the U.S. right from the CNN app. You can also go to cnn.com/watch.\n\nBLACKWELL: All right. Back for the roundup now. Madeleine, JaQuitta, and Ernie are still with me. Let me start with you, Madeleine, on this. A $15 million renovation of the Lincoln Memorial Reflecting Pool. Lots of green algae. The blue material is now tearing up. The president posted on social media that vandals, many of them have been arrested in connection with this.\n\nAnd one person, a three-time U.S. Olympian, David Hearn, told CNN that police arrested him Friday after he said he just touched a flap of the blue material peeling up. He said that soon after U.S. National Park Service staffer instructed him not to reach into the water. He was arrested, charged with destruction and defacing government property, disobeying a government employee. He said he just touched it, right? We reached out to Park Police. No answer on this.\n\nWe've all seen the condition before. That man got there on Friday. And so, what would they have to prove? What's the legal case here?\n\nSIMMONS: I mean, it's ridiculous. I think he's going to, you know, get that thrown out easily because there's absolutely no evidence that this man specifically did anything. And from the condition, it looks like that, you know, the administration probably awarded the contract to some of their buddies that put in subpar paint. Now, it's peeling and they're trying to save face because it's ridiculous to spend $14 plus million on a renovation and have it be, you know, peeling.\n\nBLACKWELL: And you know this is not the first administration to try to fix this it has been a chronic issue but the president made this an oval office issue by bringing up the investment and the price repeatedly.\n\nWILLIAMS: How do we go from 1.8 million to 14.7 million for something that was already falling apart?\n\nSUGGS: And it was a no big contract he brought in a guy who worked on his pool. So, the whole process from the beginning was fraught.\n\nSIMMONS: The other point of this too is if there were really folks out there defacing this don't you think we'd have video of it? Come on.\n\nBLACKWELL: Let's talk about Father's Day. National Retail Federation says folk are spending money on pops. Record spending this year $27.9 billion. Average 227, that's highest on record. Most people buying greeting cards, clothing and outing gift cards. You know what dad wants? He just wants the time. There's another poll out from YouGov that says the most popular gift received is just time with the kids.\n\nSIMMONS: Well, and interesting about that poll is it says dad wants to spend time with the kids but it doesn't say solo. So, dad still wants mom there to help control these crazy children.\n\nWILLIAMS: But I will say it's good to see now that Father's Day is finally getting some love compared to Mother's Day because they're night and day when it comes to celebratory things that your kids and what women want versus what men want. But I see a lot of men say they want to stay at home, they want to have a little something that they want to drink, they want to you know play cards or something and then that's it.\n\nSUGGS: A day of rest. We don't want --\n\nBLACKWELL: The ties.\n\nBLACKWELL: Listen, we're both sitting here, nobody has a tie on.\n\nSUGGS: Post pandemic we're not wearing ties to work anymore, because the kids don't give them to us anymore.\n\nBLACKWELL: Yes. Well, maybe that's it. All right. So, let's talk about this which I think is interesting. There is this new report out from Vice and a place called Oddity Central which I found about these what they're called dopamine sites which allow people to go online and they can click around and browse and put things in their cart and order them but they're not real. This is just to give them the feeling of shopping without spending the money. Courtesy of South Korea. What do you all think? Is it worth it?\n\nWILLIAMS: This America, we have a problem. Who wants --\n\nBLACKWELL: This is in South Korea.\n\nWILLIAMS: Who wants to simulate looking for something, finding it, purchasing it, putting it in the cart but doesn't comes to the house? That's the joy of knowing like, I got something coming. I got somet"
+    }
+  ]
+}
