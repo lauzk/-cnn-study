@@ -1,0 +1,534 @@
+{
+  "date": "2026-06-22",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-22/segment/01",
+  "vocabulary": [
+    {
+      "word": "resignation",
+      "phonetic": "/ˌrezɪɡˈneɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "辞职",
+      "en": "an act of giving up a job or position",
+      "excerpt": "U.K. Prime Minister Starmer Announces Resignation",
+      "example_cn": "他因健康原因递交了辞职信。"
+    },
+    {
+      "word": "vandalism",
+      "phonetic": "/ˈvændəlɪzəm/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "故意破坏公共财物",
+      "en": "the action of deliberately destroying or damaging public or private property",
+      "excerpt": "Trump Claims Multiple Arrests for Vandalism of Reflecting Pool",
+      "example_cn": "公园里的长椅被故意破坏。"
+    },
+    {
+      "word": "reflecting pool",
+      "phonetic": "/rɪˈflektɪŋ puːl/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "倒影池",
+      "en": "a shallow pool designed to reflect a view or monument",
+      "excerpt": "Trump Claims Multiple Arrests for Vandalism of Reflecting Pool",
+      "example_cn": "林肯纪念堂前的倒影池是著名景点。"
+    },
+    {
+      "word": "spectacle",
+      "phonetic": "/ˈspektəkl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "景象；奇观",
+      "en": "a visually striking performance or display",
+      "excerpt": "And the World Cup now a must-see spectacle both on and off the field.",
+      "example_cn": "烟花表演是一场壮观的景象。"
+    },
+    {
+      "word": "mounting",
+      "phonetic": "/ˈmaʊntɪŋ/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "日益增加的",
+      "en": "increasing, especially in a way that causes concern",
+      "excerpt": "after mounting pressure to step aside",
+      "example_cn": "面对日益增加的压力，他决定辞职。"
+    },
+    {
+      "word": "step aside",
+      "phonetic": "/step əˈsaɪd/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "让位；辞职",
+      "en": "to resign from a position or allow someone else to take over",
+      "excerpt": "after mounting pressure to step aside",
+      "example_cn": "董事长决定让位给年轻一代。"
+    },
+    {
+      "word": "with good grace",
+      "phonetic": "/wɪð ɡʊd ɡreɪs/",
+      "pos": "phr.",
+      "level": "考研",
+      "cn": "优雅地；欣然地",
+      "en": "in a willing and pleasant manner",
+      "excerpt": "I accept that answer with good grace.",
+      "example_cn": "她欣然接受了失败。"
+    },
+    {
+      "word": "clinching factor",
+      "phonetic": "/ˈklɪntʃɪŋ ˈfæktər/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "决定性因素",
+      "en": "the decisive element that settles an issue",
+      "excerpt": "the clinching factor for this",
+      "example_cn": "他的证词是案件的决定性因素。"
+    },
+    {
+      "word": "surge",
+      "phonetic": "/sɜːrdʒ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "激增；急剧上升",
+      "en": "to increase suddenly and strongly",
+      "excerpt": "the right-wing populist Reform Party, led by Nigel Farage, surge",
+      "example_cn": "疫情后网上购物激增。"
+    },
+    {
+      "word": "wake-up call",
+      "phonetic": "/ˈweɪk ʌp kɔːl/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "警钟；警示",
+      "en": "an event that alerts people to a problem or danger",
+      "excerpt": "So, that was a real wake-up call.",
+      "example_cn": "这次失败对球队来说是一个警钟。"
+    },
+    {
+      "word": "on the flip side",
+      "phonetic": "/ɒn ðə flɪp saɪd/",
+      "pos": "phr.",
+      "level": "考研",
+      "cn": "另一方面",
+      "en": "used to introduce the opposite or less positive aspect of something",
+      "excerpt": "But on the flip side, we also have this issue",
+      "example_cn": "这份工作薪水高，但另一方面，压力也很大。"
+    },
+    {
+      "word": "coalesce",
+      "phonetic": "/ˌkoʊəˈles/",
+      "pos": "v.",
+      "level": "专八",
+      "cn": "合并；联合",
+      "en": "to come together to form one group or mass",
+      "excerpt": "it all coalesced around this point",
+      "example_cn": "各种想法最终融合成一个计划。"
+    },
+    {
+      "word": "handover",
+      "phonetic": "/ˈhændoʊvər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "移交",
+      "en": "the act of giving responsibility for something to someone else",
+      "excerpt": "ensure an orderly handover of power",
+      "example_cn": "权力的和平移交是民主的标志。"
+    },
+    {
+      "word": "unequivocal",
+      "phonetic": "/ˌʌnɪˈkwɪvəkl/",
+      "pos": "adj.",
+      "level": "专八",
+      "cn": "明确的；毫不含糊的",
+      "en": "leaving no doubt; unambiguous",
+      "excerpt": "I will also give my successor my full and unequivocal support",
+      "example_cn": "她明确表示支持该计划。"
+    },
+    {
+      "word": "mandate",
+      "phonetic": "/ˈmændeɪt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "授权；任期",
+      "en": "the authority to act granted by voters to a government or leader",
+      "excerpt": "having not been officially elected in a general election -- have a mandate to lead",
+      "example_cn": "政府获得了实施改革的授权。"
+    },
+    {
+      "word": "assert themselves",
+      "phonetic": "/əˈsɜːrt ðəmˈselvz/",
+      "pos": "phr.",
+      "level": "考研",
+      "cn": "显示权威；坚持己见",
+      "en": "to behave in a confident way that shows power or authority",
+      "excerpt": "it is a moment for reform to try to assert themselves",
+      "example_cn": "新经理需要树立威信。"
+    },
+    {
+      "word": "algae-plagued",
+      "phonetic": "/ˈældʒiː pleɪɡd/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "受藻类困扰的",
+      "en": "suffering from an overgrowth of algae",
+      "excerpt": "Arrests over the algae-plagued Reflecting Pool",
+      "example_cn": "受藻类困扰的湖泊需要清理。"
+    },
+    {
+      "word": "money down the drain",
+      "phonetic": "/ˈmʌni daʊn ðə dreɪn/",
+      "pos": "phr.",
+      "level": "考研",
+      "cn": "打水漂；浪费钱",
+      "en": "money that is wasted or lost",
+      "excerpt": "Critics are calling it all money down the drain.",
+      "example_cn": "这个项目失败了，我们的钱都打了水漂。"
+    },
+    {
+      "word": "rehabilitation project",
+      "phonetic": "/ˌriːhəˌbɪlɪˈteɪʃn ˈprɒdʒekt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "修复工程",
+      "en": "a project to restore something to good condition",
+      "excerpt": "this comes after his $14 million rehabilitation project has failed",
+      "example_cn": "这座历史建筑的修复工程耗资巨大。"
+    },
+    {
+      "word": "riddled with",
+      "phonetic": "/ˈrɪdld wɪð/",
+      "pos": "phr.",
+      "level": "考研",
+      "cn": "充满（问题或不良事物）",
+      "en": "full of something unpleasant or bad",
+      "excerpt": "the water riddled with algae",
+      "example_cn": "他的文章充满了错误。"
+    },
+    {
+      "word": "law enforcement presence",
+      "phonetic": "/lɔː ɪnˈfɔːrsmənt ˈprezns/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "执法力量的存在",
+      "en": "the presence of police or other authorities",
+      "excerpt": "Visitors say they noticed an increased law enforcement presence",
+      "example_cn": "抗议活动期间，该地区加强了执法力量。"
+    },
+    {
+      "word": "prosecute to the full extent",
+      "phonetic": "/ˈprɒsɪkjuːt tə ðə fʊl ɪkˈstent/",
+      "pos": "phr.",
+      "level": "考研",
+      "cn": "依法严惩",
+      "en": "to pursue legal action as severely as possible",
+      "excerpt": "These are cases that will be prosecuted to the full extent.",
+      "example_cn": "警方表示将依法严惩肇事者。"
+    },
+    {
+      "word": "no-bid contract",
+      "phonetic": "/noʊ bɪd ˈkɒntrækt/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "非竞标合同",
+      "en": "a contract awarded without competitive bidding",
+      "excerpt": "this was a no-bid contract that was given to a pool company",
+      "example_cn": "非竞标合同往往引发腐败担忧。"
+    },
+    {
+      "word": "delusional",
+      "phonetic": "/dɪˈluːʒənl/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "妄想的；不切实际的",
+      "en": "holding false beliefs, especially as a result of mental illness",
+      "excerpt": "I feel like is delusional",
+      "example_cn": "他认为自己能当总统，简直是妄想。"
+    },
+    {
+      "word": "canoeist",
+      "phonetic": "/kəˈnuːɪst/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "划独木舟的人",
+      "en": "a person who paddles a canoe",
+      "excerpt": "One of those arrested was a three-time Olympian canoeist",
+      "example_cn": "这位奥运独木舟选手赢得了金牌。"
+    },
+    {
+      "word": "vendetta",
+      "phonetic": "/venˈdetə/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "宿怨；长期争斗",
+      "en": "a prolonged bitter quarrel with or campaign against someone",
+      "excerpt": "she's shown herself to be the person who's willing to take on Trump's sometimes more political vendettas",
+      "example_cn": "两个家族之间的宿怨持续了数十年。"
+    },
+    {
+      "word": "audience of one",
+      "phonetic": "/ˈɔːdiəns əv wʌn/",
+      "pos": "phr.",
+      "level": "考研",
+      "cn": "唯一的观众（指只为取悦某人）",
+      "en": "a situation where someone acts only to please one particular person",
+      "excerpt": "they have an audience of one, and they're going to serve that audience",
+      "example_cn": "这位政客的言论只是为了取悦总统这个唯一的观众。"
+    },
+    {
+      "word": "fairy tale",
+      "phonetic": "/ˈferi teɪl/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "童话；奇迹般的故事",
+      "en": "a story about magical events, often used metaphorically for an amazing success",
+      "excerpt": "Cape Verde and their fairy tale continues",
+      "example_cn": "这支弱队的胜利简直是一个童话。"
+    },
+    {
+      "word": "knockout stage",
+      "phonetic": "/ˈnɒkaʊt steɪdʒ/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "淘汰赛阶段",
+      "en": "the stage of a tournament where losing teams are eliminated",
+      "excerpt": "one step closer to a legitimate chance of getting into the knockout stage",
+      "example_cn": "球队成功晋级淘汰赛阶段。"
+    },
+    {
+      "word": "culture clash",
+      "phonetic": "/ˈkʌltʃər klæʃ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "文化冲突",
+      "en": "a conflict between different cultural values or practices",
+      "excerpt": "Why do you think all of this, like, culture clash is such a big deal?",
+      "example_cn": "国际交流中难免出现文化冲突。"
+    },
+    {
+      "word": "shabbily",
+      "phonetic": "/ˈʃæbɪli/",
+      "pos": "adv.",
+      "level": "考研",
+      "cn": "不体面地；糟糕地",
+      "en": "in a way that is unfair or of poor quality",
+      "excerpt": "The Iranian team, in particular, has been treated pretty shabbily by the U.S. government",
+      "example_cn": "这些工人受到了不公正的对待。"
+    },
+    {
+      "word": "non-zero possibility",
+      "phonetic": "/nɒn ˈzɪroʊ ˌpɒsəˈbɪləti/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "非零可能性（即有可能）",
+      "en": "a possibility that is not zero, meaning it could happen",
+      "excerpt": "There is a non-zero possibility Iran certainly looks like they could advance",
+      "example_cn": "他获胜的可能性非零。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "The question my party is asking now is whether I am best placed to lead us into the next general election.",
+      "cn": "我的政党现在提出的问题是，我是否是最适合带领我们进入下一届大选的人。",
+      "structure": "主句：The question...is whether...；my party is asking now 是定语从句修饰 question；whether 引导表语从句。",
+      "analysis": "这是一个复合句，主语是 The question，后面跟了一个定语从句 my party is asking now，系动词 is 后接 whether 引导的表语从句。表语从句中，I 是主语，am best placed 是谓语，to lead us into the next general election 是不定式短语作目的状语。"
+    },
+    {
+      "en": "Every decision I've taken has been about putting the country I love first.",
+      "cn": "我所做的每一个决定都是为了把我热爱的国家放在第一位。",
+      "structure": "主句：Every decision...has been about putting...；I've taken 是定语从句修饰 decision；I love 是定语从句修饰 country。",
+      "analysis": "这是一个复合句，主语 Every decision 后跟定语从句 I've taken，谓语 has been about，介词 about 后接动名词短语 putting the country I love first，其中 country 后又有定语从句 I love。"
+    },
+    {
+      "en": "But the real clinching factor was that we had local elections across the U.K. in various parts in May, and the Labour Party suffered a massive defeat, losing more than 1,400 local council seats, even as we saw the right-wing populist Reform Party, led by Nigel Farage, surge.",
+      "cn": "但真正的决定性因素是，我们在5月份英国各地举行了地方选举，工党遭遇了重大失败，失去了1400多个地方议会席位，与此同时，我们看到由奈杰尔·法拉奇领导的右翼民粹主义改革党崛起。",
+      "structure": "主句：the real clinching factor was that...；that 引导表语从句，从句由 and 连接两个并列分句；第一个分句：we had local elections...；第二个分句：the Labour Party suffered...；losing... 是现在分词短语作结果状语；even as 引导时间状语从句。",
+      "analysis": "这是一个复合句，主句主语是 the real clinching factor，系动词 was，后接 that 引导的表语从句。表语从句包含两个并列分句，由 and 连接。第一个分句是 we had local elections...，第二个分句是 the Labour Party suffered a massive defeat，后面 losing... 是现在分词短语作结果状语，even as 引导时间状语从句，其中 led by Nigel Farage 是过去分词短语作定语修饰 Reform Party。"
+    },
+    {
+      "en": "So, then this process started to try and get him back into Parliament.",
+      "cn": "于是，这个过程开始了，试图让他重返议会。",
+      "structure": "主句：this process started to try and get him back into Parliament。",
+      "analysis": "这是一个简单句，主语 this process，谓语 started，to try and get him back into Parliament 是不定式短语作宾语，其中 try and get 是口语化表达，相当于 try to get。"
+    },
+    {
+      "en": "There was a special election that was held in the Northwest of England last week, which he won so convincingly that it really strengthened the argument that he might be the man to defeat this right-wing populist party, Reform, in any upcoming election, since he had done it so decisively in this one constituency.",
+      "cn": "上周在英格兰西北部举行了一场特别选举，他以令人信服的方式获胜，这确实强化了一种论点，即他可能是任何即将到来的选举中击败右翼民粹主义政党改革党的人，因为他在这个选区如此果断地做到了这一点。",
+      "structure": "主句：There was a special election...；that 引导定语从句修饰 election；which 引导非限制性定语从句修饰整个主句；so...that... 结构；that 引导同位语从句修饰 argument；since 引导原因状语从句。",
+      "analysis": "这是一个复合句，主句是 There was a special election，后跟 that 引导的定语从句修饰 election。which 引导非限制性定语从句，指代整个主句，从句中包含 so...that... 结构，that 引导结果状语从句。结果状语从句中，argument 后跟 that 引导的同位语从句，说明 argument 的内容。最后 since 引导原因状语从句。"
+    },
+    {
+      "en": "I will remain in post as prime minister until the contest is complete, and I will do everything I can to ensure an orderly handover of power.",
+      "cn": "我将继续担任首相，直到竞选结束，我将尽我所能确保权力的有序移交。",
+      "structure": "并列句，由 and 连接。第一个分句：I will remain...until...；第二个分句：I will do everything...；I can 是定语从句修饰 everything。",
+      "analysis": "这是一个并列复合句。第一个分句包含 until 引导的时间状语从句。第二个分句中，everything 后跟定语从句 I can，省略了关系代词 that，to ensure... 是不定式短语作目的状语。"
+    },
+    {
+      "en": "I will also give my successor my full and unequivocal support, knowing that they will inherit a Britain that is far stronger and fairer than the one I inherited two years ago; better prepared for the challenges ahead; and better able to ensure the Labour Party secures a second term in office.",
+      "cn": "我还将给予我的继任者充分而明确的支持，因为我知道他们将继承一个比我两年前继承的更强大、更公平的英国；更好地为未来的挑战做好准备；并且更有能力确保工党赢得第二个任期。",
+      "structure": "主句：I will also give...；knowing that... 是现在分词短语作原因状语；that 引导宾语从句；从句中 a Britain 后跟 that 引导的定语从句；than the one 是比较结构；I inherited 是定语从句修饰 the one；分号连接三个并列的形容词短语。",
+      "analysis": "这是一个复合句。主句是 I will also give my successor my full and unequivocal support，现在分词短语 knowing that... 作原因状语。that 引导的宾语从句中，主语 they，谓语 will inherit，宾语 a Britain，后跟 that 引导的定语从句。定语从句中包含比较结构 than the one，the one 后跟定语从句 I inherited。分号后是三个并列的形容词短语，修饰 Britain。"
+    },
+    {
+      "en": "And pointing back to those local elections at the beginning of May, where Reform did so well.",
+      "cn": "并回顾了5月初的那些地方选举，改革党在这些选举中表现非常好。",
+      "structure": "现在分词短语 pointing back to... 作状语；where 引导定语从句修饰 elections。",
+      "analysis": "这是一个现在分词短语作状语的结构，pointing back to 的逻辑主语是前文提到的 Farage。where 引导定语从句修饰 local elections。"
+    },
+    {
+      "en": "But as of now, in, you know, opinion polls based on voter intentions for right now, they are leading in the country.",
+      "cn": "但截至目前，在基于当前选民意向的民意调查中，他们在全国领先。",
+      "structure": "主句：they are leading...；based on... 是过去分词短语作定语修饰 polls。",
+      "analysis": "这是一个简单句，主语 they，谓语 are leading，in the country 是地点状语。based on voter intentions for right now 是过去分词短语作定语修饰 opinion polls。"
+    },
+    {
+      "en": "And the chance now for Labour under a new leader is to try to stabilize their grip on power so they can see off Reform in a general election when it happens.",
+      "cn": "现在工党在新领导人的领导下，有机会试图稳定他们对权力的掌控，以便在大选到来时能够击败改革党。",
+      "structure": "主句：the chance...is to try...；so 引导目的状语从句；when 引导时间状语从句。",
+      "analysis": "这是一个复合句。主句主语 the chance，for Labour under a new leader 是介词短语作定语，系动词 is，不定式短语 to try to stabilize... 作表语。so 引导目的状语从句，从句中又包含 when 引导的时间状语从句。"
+    },
+    {
+      "en": "President Trump says he knows what is causing the problems at the Reflecting Pool.",
+      "cn": "特朗普总统说他知道了是什么导致了倒影池的问题。",
+      "structure": "主句：President Trump says...；后跟宾语从句 he knows...；what 引导名词性从句作 knows 的宾语。",
+      "analysis": "这是一个复合句。主句主语 President Trump，谓语 says，后接宾语从句 he knows what is causing the problems at the Reflecting Pool。宾语从句中，he 是主语，knows 是谓语，what is causing the problems at the Reflecting Pool 是 what 引导的名词性从句作 knows 的宾语。"
+    },
+    {
+      "en": "The president now claiming that multiple people have been arrested, accused of vandalizing the Lincoln Memorial Reflecting Pool.",
+      "cn": "总统现在声称，多人已被逮捕，被指控破坏林肯纪念堂倒影池。",
+      "structure": "现在分词短语 claiming that... 作伴随状语；that 引导宾语从句；accused of... 是过去分词短语作定语修饰 people。",
+      "analysis": "这是一个现在分词短语作伴随状语的结构，逻辑主语是 the president。claiming 后接 that 引导的宾语从句，从句中 accused of... 是过去分词短语作定语修饰 people。"
+    },
+    {
+      "en": "Now, this comes after his $14 million rehabilitation project has failed: the water riddled with algae, the lining ripped.",
+      "cn": "现在，这发生在他耗资1400万美元的修复工程失败之后：水中充满藻类，衬里破裂。",
+      "structure": "主句：this comes after...；after 引导时间状语从句；冒号后是两个独立主格结构。",
+      "analysis": "这是一个复合句。主句 this comes，after 引导时间状语从句。冒号后是两个独立主格结构：the water riddled with algae 和 the lining ripped，补充说明失败的具体情况。"
+    },
+    {
+      "en": "They came up to me and two other women, asking if we touched it and then promoting us not to, that we would get arrested or charged with vandalism if we did.",
+      "cn": "他们走到我和另外两名妇女面前，问我们是否碰了它，然后劝我们不要碰，说如果我们碰了就会被逮捕或被指控破坏公物。",
+      "structure": "主句：They came up to me and two other women；asking... 和 promoting... 是现在分词短语作伴随状语；if 引导宾语从句；that 引导宾语从句（promoting 的宾语）；if 引导条件状语从句。",
+      "analysis": "这是一个复合句。主句主语 They，谓语 came up to。两个现在分词短语 asking... 和 promoting... 作伴随状语。asking 后跟 if 引导的宾语从句。promoting 后跟 that 引导的宾语从句，其中包含 if 引导的条件状语从句。"
+    },
+    {
+      "en": "If there are more serious products that are put into the Reflecting Pool to create more algae or a bigger problem, then we'll consider more serious charges.",
+      "cn": "如果有更严重的物质被倒入倒影池，导致更多藻类或更严重的问题，那么我们将考虑更严重的指控。",
+      "structure": "If 引导条件状语从句；从句中 that 引导定语从句修饰 products；主句：we'll consider...。",
+      "analysis": "这是一个复合句。If 引导条件状语从句，从句中 that 引导定语从句修饰 products，to create... 是不定式短语作目的状语。主句是 we'll consider more serious charges。"
+    },
+    {
+      "en": "It's interesting that this came after we saw a video of hydrogen peroxide being poured into the Reflecting Pool.",
+      "cn": "有趣的是，这发生在我们看到一段将过氧化氢倒入倒影池的视频之后。",
+      "structure": "It 作形式主语，that 引导主语从句；从句中 after 引导时间状语从句；being poured 是现在分词短语作定语。",
+      "analysis": "这是一个主语从句结构。It 是形式主语，真正的主语是 that 引导的从句。从句中，after 引导时间状语从句，其中 of hydrogen peroxide being poured into the Reflecting Pool 是介词短语作定语修饰 video，being poured 是现在分词短语的被动形式。"
+    },
+    {
+      "en": "And it was also supposed to be done within two weeks.",
+      "cn": "而且它本应在两周内完成。",
+      "structure": "主句：it was also supposed to be done...",
+      "analysis": "这是一个简单句，主语 it，谓语 was supposed，不定式短语 to be done within two weeks 作宾语。"
+    },
+    {
+      "en": "But look, we know what's at the heart of this, which is that Donald Trump cares a lot about the way that Washington, D.C., looks in this moment, particularly as it comes to the 250th anniversary just a couple of weeks away.",
+      "cn": "但你看，我们知道这背后的核心是什么，那就是唐纳德·特朗普非常关心华盛顿特区此刻的样子，尤其是距离250周年纪念日只有几周了。",
+      "structure": "主句：we know...；what 引导名词性从句作 know 的宾语；which 引导非限制性定语从句修饰 what 从句；that 引导表语从句；the way 后跟 that 引导的定语从句；as 引导时间状语从句。",
+      "analysis": "这是一个复合句。主句 we know，后接 what 引导的名词性从句作宾语。which 引导非限制性定语从句，指代整个 what 从句。定语从句中，that 引导表语从句，表语从句中 the way 后跟 that 引导的定语从句，as 引导时间状语从句。"
+    },
+    {
+      "en": "And one can argue that there are some fountains that are now running in places like Malcolm X Park or outside Union Station, which it is nice to have fountains.",
+      "cn": "有人可能会说，有些喷泉现在在马尔科姆·X公园或联合车站外等地方运行，有喷泉是件好事。",
+      "structure": "主句：one can argue that...；that 引导宾语从句；从句中 that 引导定语从句修饰 fountains；which 引导非限制性定语从句。",
+      "analysis": "这是一个复合句。主句 one can argue，后接 that 引导的宾语从句。宾语从句中，there are some fountains 是 there be 句型，后跟 that 引导的定语从句修饰 fountains。which 引导非限制性定语从句，指代前面整个情况。"
+    },
+    {
+      "en": "And telling people that this public property, which belongs to us, the American people, we can't touch it now, because we are the ones who have vandalized it, I feel like is delusional.",
+      "cn": "告诉人们这个属于我们美国人民的公共财产，我们现在不能碰它，因为我们是破坏它的人，我觉得这简直是妄想。",
+      "structure": "主句：I feel like is delusional；telling people that... 是动名词短语作主语；that 引导宾语从句；which 引导非限制性定语从句修饰 property；because 引导原因状语从句；who 引导定语从句修饰 ones。",
+      "analysis": "这是一个复合句。动名词短语 telling people that... 作主语，谓语是 is delusional，I feel like 是插入语。telling 后接 that 引导的宾语从句，从句中 which 引导非限制性定语从句修饰 property，because 引导原因状语从句，其中 who 引导定语从句修饰 ones。"
+    },
+    {
+      "en": "One of those arrested was a three-time Olympian canoeist who actually gave interviews afterwards, saying that he just bent down.",
+      "cn": "被捕者中有一位是三次参加奥运会的独木舟选手，他事后接受了采访，说他只是弯下腰。",
+      "structure": "主句：One of those arrested was a three-time Olympian canoeist；who 引导定语从句；saying that... 是现在分词短语作伴随状语。",
+      "analysis": "这是一个复合句。主句主语 One of those arrested，系动词 was，表语 a three-time Olympian canoeist。who 引导定语从句修饰 canoeist。saying that... 是现在分词短语作伴随状语，其中 that 引导宾语从句。"
+    },
+    {
+      "en": "And I think it says a lot that Jeanine Pirro is the one leading the charge because she's shown herself, again and again, to be the person who's willing to take on Trump's sometimes more political, not to say vendettas, but certainly, agendas against people.",
+      "cn": "我认为这在很大程度上说明，珍妮·皮罗是带头的人，因为她一次又一次地证明自己是愿意承担特朗普有时更具政治性、甚至可以说是仇杀、但肯定是针对他人的议程的人。",
+      "structure": "主句：I think...；后跟宾语从句 it says a lot that...；that 引导主语从句；because 引导原因状语从句；who 引导定语从句修饰 person。",
+      "analysis": "这是一个复合句。主句 I think，后接宾语从句 it says a lot that...。宾语从句中，it 是形式主语，真正的主语是 that 引导的从句。because 引导原因状语从句，从句中 who 引导定语从句修饰 person。"
+    },
+    {
+      "en": "She was the -- obviously, same prosecutor who led the investigation into Federal Reserve Chair Jerome Powell over the renovation of the Fed's headquarters.",
+      "cn": "她显然就是那位领导调查美联储主席杰罗姆·鲍威尔关于美联储总部翻新事件的检察官。",
+      "structure": "主句：She was the same prosecutor；who 引导定语从句。",
+      "analysis": "这是一个复合句。主句主语 She，系动词 was，表语 the same prosecutor。who 引导定语从句修饰 prosecutor，从句中 over the renovation... 是介词短语作状语。"
+    },
+    {
+      "en": "So, we're bringing to bear the power of the state, the legal law enforcement arm of the district to solve a public relations problem.",
+      "cn": "所以，我们正在动用国家的力量，即该地区的法律执法机构，来解决一个公共关系问题。",
+      "structure": "主句：we're bringing to bear the power...；the legal law enforcement arm... 是同位语；to solve... 是不定式短语作目的状语。",
+      "analysis": "这是一个简单句。主语 we，谓语 are bringing to bear，宾语 the power of the state。the legal law enforcement arm of the district 是同位语，解释 the power of the state。to solve a public relations problem 是不定式短语作目的状语。"
+    },
+    {
+      "en": "But Jeanine Pirro, like many people in Trump's cabinet, understands that they have an audience of one, and they're going to serve that audience.",
+      "cn": "但珍妮·皮罗和特朗普内阁中的许多人一样，明白他们只有一个观众，他们将服务于那个观众。",
+      "structure": "主句：Jeanine Pirro understands that...；like many people... 是插入语；that 引导宾语从句，从句由 and 连接两个并列分句。",
+      "analysis": "这是一个复合句。主句主语 Jeanine Pirro，谓语 understands，后接 that 引导的宾语从句。like many people in Trump's cabinet 是插入语。宾语从句包含两个并列分句，由 and 连接。"
+    },
+    {
+      "en": "Many people probably wrote us off or didn't know much about us, and that was sort of our motivation, as well.",
+      "cn": "很多人可能认为我们不行，或者对我们了解不多，这也算是我们的动力。",
+      "structure": "并列句，由 and 连接。第一个分句：Many people wrote us off or didn't know...；第二个分句：that was sort of our motivation。",
+      "analysis": "这是一个并列句。第一个分句主语 Many people，谓语 wrote off 和 didn't know，宾语 us 和 about us。第二个分句主语 that，系动词 was，表语 sort of our motivation。"
+    },
+    {
+      "en": "And the worries about filling stadiums and selling tickets at this point are gone because of moments like these.",
+      "cn": "而关于填满体育场和售票的担忧，因为这样的时刻已经消失了。",
+      "structure": "主句：the worries...are gone；because of 是介词短语作原因状语。",
+      "analysis": "这是一个简单句。主语 the worries，后跟介词短语 about filling stadiums and selling tickets 作定语，谓语 are gone，because of moments like these 是介词短语作原因状语。"
+    },
+    {
+      "en": "Whether we're watching the next greats score their first World Cup goal or seeing a team claim a World Cup victory for the first time in their history, perhaps one of the most uniting things: seeing different cultures embracing.",
+      "cn": "无论我们是在观看下一位伟大球员打入他们的第一个世界杯进球，还是看到一支球队历史上首次赢得世界杯胜利，也许最团结的事情之一就是看到不同文化的拥抱。",
+      "structure": "Whether...or... 引导让步状语从句；主句：perhaps one of the most uniting things: seeing...",
+      "analysis": "这是一个复合句。Whether...or... 引导让步状语从句，从句中 we're watching... 和 seeing... 是并列结构。主句是 perhaps one of the most uniting things: seeing different cultures embracing，冒号后的内容是对 one of the most uniting things 的解释。"
+    },
+    {
+      "en": "I don't necessarily know if the United States was the best place for the World Cup, but I do feel like it is a very important place for this to be happening because of the amount of healing that is probably happening to our society.",
+      "cn": "我不一定知道美国是否是世界杯的最佳举办地，但我确实觉得这是一个非常重要的事件发生地，因为我们的社会可能正在发生大量的疗愈。",
+      "structure": "并列句，由 but 连接。第一个分句：I don't know if...；if 引导宾语从句。第二个分句：I do feel like...；like 引导宾语从句；because of 是介词短语作原因状语；that 引导定语从句修饰 healing。",
+      "analysis": "这是一个并列复合句。第一个分句包含 if 引导的宾语从句。第二个分句包含 like 引导的宾语从句，从句中 because of 是介词短语作原因状语，其中 that 引导定语从句修饰 healing。"
+    },
+    {
+      "en": "And I feel like, for all the worries that like, listen, ICE has not been a major presence in this tournament, like a lot of people worried about.",
+      "cn": "我觉得，尽管有种种担忧，比如，听着，移民和海关执法局并没有像很多人担心的那样成为本届赛事的主要存在。",
+      "structure": "主句：I feel like...；for all the worries 是介词短语作让步状语；that 引导定语从句修饰 worries；like a lot of people worried about 是插入语。",
+      "analysis": "这是一个复合句。主句 I feel like，后接宾语从句（省略了 that）。for all the worries 是介词短语作让步状语，that 引导定语从句修饰 worries。like a lot of people worried about 是插入语，表示举例。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "英国政治：基尔·斯塔默辞职",
+      "content": "英国首相基尔·斯塔默在面临党内压力后宣布辞职。工党在地方选举中惨败，失去1400多个席位，而右翼民粹主义改革党崛起。曼彻斯特市长安迪·伯纳姆被视为潜在继任者，他在补选中获胜，增强了接班的呼声。斯塔默将留任至新领袖选出。",
+      "keywords": "Keir Starmer, resignation, Labour Party, Andy Burnham, Reform Party, Nigel Farage, local elections"
+    },
+    {
+      "title": "美国政治：倒影池争议",
+      "content": "特朗普总统声称林肯纪念堂倒影池遭人破坏，并称已逮捕多人。然而，倒影池此前因修复工程失败而出现藻类泛滥、衬里破裂等问题，修复费用从150万升至1480万美元。批评者认为特朗普将公共问题政治化，动用执法力量应对公关危机。",
+      "keywords": "Reflecting Pool, vandalism, Trump, Jeanine Pirro, algae, rehabilitation project, no-bid contract"
+    },
+    {
+      "title": "体育：世界杯亮点",
+      "content": "2026年世界杯在美国举行，小国佛得角表现出色，战平乌拉圭，有望晋级淘汰赛。美国男足表现强劲，已锁定小组头名。赛事促进了文化交流，外国球迷在美国受到欢迎，但伊朗队遭遇美方不公待遇。",
+      "keywords": "World Cup, Cape Verde, USA, Iran, culture clash, knockout stage, Pochettino"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nU.K. Prime Minister Starmer Announces Resignation; Trump Claims Multiple Arrests for Vandalism of Reflecting Pool; World Cup Highlights Include Cape Verde Surprises, Cultural Embraces. Aired 6- 6:30a ET\n\nAired June 22, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nBRAD SMITH, CNN ANCHOR: And it happened right before a fire tore through her home on Friday.\n\nShe escaped safely with the dog, but as you can see, their house was destroyed in that fire. These are just some of the images, but excellent work, Squilliam, to make sure that you got your owners up and out.\n\nThat does it for CNN HEADLINE EXPRESS. I'm Brad Smith. CNN THIS MORNING with Audie Cornish starts right now.\n\nAUDIE CORNISH, CNN ANCHOR: Breaking news this morning. A political shakeup in the U.K. Keir Starmer says he is resigning.\n\nKEIR STARMER, U.K. PRIME MINISTER: That is why I will resign as leader of the Labour Party.\n\nCORNISH: President Trump blames vandals for his Reflecting Pool problems. How can he be sure?\n\nHUNTER BIDEN, JOE BIDEN'S SON: I'll come campaign for you or against you. Whatever -- whatever helps most.\n\nCORNISH: Gavin Newsom embracing the Bidens as he considers running for president. Is that smart or a counterintuitive strategy?\n\nAnd the World Cup now a must-see spectacle both on and off the field. How did all the critics get it wrong?\n\nGood morning, everybody. I'm Audie Cornish. We're going to start with this breaking news. Keir Starmer out. The British prime minister announcing his resignation in the last hour after mounting pressure to step aside. (BEGIN VIDEO CLIP)\n\nSTARMER: The question my party is asking now is whether I am best placed to lead us into the next general election. I have heard the answer of my Parliamentary party to that question, and I accept that answer with good grace.\n\nEvery decision I've taken has been about putting the country I love first. That is why I will resign as leader of the Labour Party.\n\nCORNISH: We're going to go now to CNN's Clare Sebastian in London.\n\nClare, very busy day there. Can you start by talking about why now? I know it seems inevitable, but what's the sense of why Keir Starmer stepped down?\n\nCLARE SEBASTIAN, CNN INTERNATIONAL CORRESPONDENT: So, look, the clinching factor for this, Audie, after months of difficulties that the prime minister has faced for a number of different reasons.\n\nBut the real clinching factor was that we had local elections across the U.K. in various parts in May, and the Labour Party suffered a massive defeat, losing more than 1,400 local council seats, even as we saw the right-wing populist Reform Party, led by Nigel Farage, surge.\n\nSo, that was a real wake-up call. That seemed to suggest to certain parts of the Labour Party that they were going to struggle to defeat Reform in any general election. We have to have a general election in this country by around the middle of 2029.\n\nSo, that is when the calls for Prime Minister Starmer to go grew even louder.\n\nBut on the flip side, we also have this issue where Andy Burnham, who was then the mayor of Manchester, was seen as the most popular politician within that party, but he was not a member of Parliament, so couldn't officially challenge the prime minister.\n\nSo, then this process started to try and get him back into Parliament. There was a special election that was held in the Northwest of England last week, which he won so convincingly that it really strengthened the argument that he might be the man to defeat this right-wing populist party, Reform, in any upcoming election, since he had done it so decisively in this one constituency.\n\nSo, then, we sort of -- it all coalesced around this point. Keir Starmer spent the weekend thinking about it, addressing the sort of political realities as they stood, and made this extremely difficult decision for him to step down.\n\nSo, now we have a transition. Take a listen to the prime minister talking about how that will play out.\n\nSTARMER: I will remain in post as prime minister until the contest is complete, and I will do everything I can to ensure an orderly handover of power.\n\nI will also give my successor my full and unequivocal support, knowing that they will inherit a Britain that is far stronger and fairer than the one I inherited two years ago; better prepared for the challenges ahead; and better able to ensure the Labour Party secures a second term in office.\n\nSEBASTIAN: So, the question now is, will there be a contest? Will anyone else stand against Andy Burnham? If they do, it could take a bit longer. If they don't, this could all be over in a couple of weeks -- Audie.\n\nCORNISH: Right. And Burnham, this will be basically third time's the charm, because he has tried to be Labour leader before.\n\nTrump ally Nigel Farage actually speaking out after the news of this resignation. Do they feel like this is an opportunity for the Reform Party?\n\nSEBASTIAN: Look, they suffered a really big defeat in this special election last week. So, Farage has come out swinging today, calling in a post on X, for a general election and making the point in an essay that Andy Burnham doesn't -- having not been officially elected in a general election -- have a mandate to lead.\n\nAnd pointing back to those local elections at the beginning of May, where Reform did so well.\n\nI think look, it is a moment for reform to try to assert themselves. There are questions about whether they've peaked after Burnham's defeat of the reform candidate in that special election.\n\nBut as of now, in, you know, opinion polls based on voter intentions for right now, they are leading in the country. So, they are going to be doing everything they can to keep up the momentum.\n\nAnd, of course, the chance now for Labour under a new leader is to try to stabilize their grip on power so they can see off Reform in a general election when it happens -- Audie.\n\nCORNISH: That's Clare Sebastian in London, where U.K. Prime Minister Keir Starmer has stepped down.\n\nAnd coming up on CNN THIS MORNING from: reflection to outrage. Arrests over the algae-plagued Reflecting Pool and the rising costs. Critics are calling it all money down the drain.\n\nPlus, are world leaders losing patience with President Trump? Italy's prime minister is the latest.\n\nAnd little countries doing big things at the FIFA World Cup.\n\nUNIDENTIFIED MALE: Curacao came to conquer, guys. I'm telling you this once. I'm telling you this twice. Curacao came to show up. Let's go.\n\nJEANINE PIRRO, ATTORNEY GENERAL OF WASHINGTON, D.C.: Vandalizing or attempting to vandalize the Reflecting Pool will face the criminal justice system in D.C.\n\nCORNISH: Vandalism or something else? President Trump says he knows what is causing the problems at the Reflecting Pool. The president now claiming that multiple people have been arrested, accused of vandalizing the Lincoln Memorial Reflecting Pool. He has not provided evidence to back up that claim.\n\nA senior administration official is saying that police arrested five people for vandalism, that they issued citations to five others.\n\nNow, Trump did say work will begin immediately to fix it.\n\nNow, this comes after his $14 million rehabilitation project has failed: the water riddled with algae, the lining ripped. Visitors say they noticed an increased law enforcement presence following the president's post.\n\nUNIDENTIFIED FEMALE: I've never seen this many National Guards in the National Park area.\n\nThey came up to me and two other women, asking if -- if we touched it and then just promoting us not to, that we would get arrested or charged with vandalism if we did.\n\nCORNISH: Today in the group chat, Eleanor Mueller, White House economic policy reporter with \"Semafor\"; Julia Manchester, national political reporter for \"The Hill\"; and Elena Schneider, national political reporter at \"NOTUS.\"\n\nWhere to begin? Where to begin? Is vandalism the problem, or the green water we just showed you coming out of a hose? I want to play -- the reason why I'm talking about this is Jeanine\n\nPirro, U.S. attorney for D.C., jumped in on this vandalization thing. I don't know if we have that clip. But she was asked about this, and I want to play for you what she had to say.\n\nPIRRO: There are several citations that have been handed out to individuals. And these are cases that will be prosecuted to the full extent.\n\nIf there are more serious products that are put into the Reflecting Pool to create more algae or a bigger problem, then we'll consider more serious charges.\n\nJULIA MANCHESTER, NATIONAL POLITICAL REPORTER, \"THE HILL\": You know, it's interesting that this came after we saw a video of hydrogen peroxide being poured into the Reflecting Pool.\n\nI'm not a scientist. However. you know, I think it's just interesting to see the sequence of events. Certainly frustrating for the president.\n\nCORNISH: We should say, the people pouring those jugs of hydrogen peroxide --\n\nCORNISH: -- were government workers trying to --\n\nMANCHESTER: Absolutely.\n\nCORNISH: -- repair the work of these contractors that the president invited through no insistence of Congress. Literally, no one asked for this.\n\nCORNISH: And now here we are.\n\nMANCHESTER: And it's frustrating, I think, for the president, because he's put so much stock, I think, publicly, politically --\n\nCORNISH: Frustrating for him.\n\nMANCHESTER: And yes, for everyone.\n\nCORNISH: Let me play for you one of these tourists. OK? People are walking by, not vandalizing things, though clearly threatened if they are.\n\nAnd here's an example of just someone by the Reflecting Pool, kind of what they see.\n\nUNIDENTIFIED MALE: So, what do you think?\n\nUNIDENTIFIED MALE: Oh, it's embarrassing. Yes, that's --\n\nUNIDENTIFIED MALE: In a word.\n\nUNIDENTIFIED MALE: Yes. Money well spent.\n\nUNIDENTIFIED FEMALE: Well, it's a little dirty. So, yes. Just a little.\n\nUNIDENTIFIED MALE: Can you even see the blue?\n\nUNIDENTIFIED FEMALE: No, all I see is greens.\n\nCORNISH: Out of the mouths of babes. The cost of the Reflecting Pool so far. Originally, we were told it would be 1.5 million. That's not what it is now. Now it is upwards of 14.8 million of green water.\n\nELENA SCHNEIDER, NATIONAL POLITICAL REPORTER, \"NOTUS\": And it was also supposed to be done within two weeks. It's obviously not done within two weeks.\n\nSo, look, I mean, this was a no-bid contract that was given to a pool company that had connections to the Trump administration. \"The New York Times\" has done some great reporting on -- on sort of the questions surrounding who they hired and brought on to do this kind of work.\n\nBut look, we know what's at the heart of this, which is that Donald Trump cares a lot about the way that Washington, D.C., looks in this moment, particularly as it comes to the 250th anniversary just a couple of weeks away. There is something that he really cares is something that he really cares about, the way that the city looks.\n\nAnd one can argue that there are some fountains that are now running in places like Malcolm X Park or outside Union Station, which it is nice to have fountains.\n\nCORNISH: I know, but this is six acres.\n\nCORNISH: And telling people that this public property, which belongs to us, the American people, we can't touch it now, because we are the ones who have vandalized it, I feel like is delusional.\n\nELEANOR MUELLER, WHITE HOUSE ECONOMIC POLICY REPORTER, \"SEMAFOR\": One of those arrested was a three-time Olympian canoeist who actually gave interviews afterwards, saying that he just bent down. He'd reached into the water. He touched the bottom of the pool.\n\nAnd then when he walked away is when National Park Service federal officers had approached him and said that they were arresting him for vandalism. And so, I'm --\n\nCORNISH: Like, do you have gold medals? Don't care.\n\nCORNISH: Now's the time for your criminal origin story to begin.\n\nMUELLER: And I think it says a lot that Jeanine Pirro is the one leading the charge because she's shown herself, again and again, to be the person who's willing to take on Trump's sometimes more political, not to say vendettas, but certainly, agendas against people.\n\nShe was the -- obviously, same prosecutor who led the investigation into Federal Reserve Chair Jerome Powell over the --\n\nMUELLER: -- renovation of the Fed's headquarters.\n\nCORNISH: So, we're bringing to bear the power of the state, the legal law enforcement arm --\n\nCORNISH: -- of the district to solve a public relations problem. That's what it looks like on its surface.\n\nSCHNEIDER: Yes. I mean, look, I think anyone who lives in Washington, D.C., agrees that, probably, this is not the biggest issue that this city faces right now is, you know, quote, vandalism of people touching the Reflecting Pool.\n\nBut Jeanine Pirro, like many people in Trump's cabinet, understands that they have an audience of one, and they're going to serve that audience.\n\nCORNISH: OK. You guys, thank you so much. I want you to stay with us as we talk to you. Said more interesting things today. More important things today, like this.\n\nGame, set, Serena. Biggest thing in my group chats: the tennis icon will return to singles play at Wimbledon.\n\nPlus, the World Cup isn't just about soccer. It's about the vibes, and the cultures coming together are vibing.\n\nGood morning to everyone, in the meantime, from the Philadelphia Stadium, where France and Iraq will face off in a game today.\n\n[06:21:34] (BEGIN VIDEO CLIP)\n\nUNIDENTIFIED MALE: Many people probably wrote us off or didn't know much about us, and that was sort of our motivation, as well. Let's show the world that we -- we deserve to compete.\n\nCORNISH: Cape Verde and their fairy tale continues. The tiny island nation stunned Spain last week, and they just did it again, ending in a 2-2 draw against Uruguay on Sunday.\n\nAnd they got their first goal in the World Cup, one step closer to a legitimate chance of getting into the knockout stage.\n\nSo, you've got dreams coming true. That's what the World Cup is all about.\n\nAnd the worries about filling stadiums and selling tickets at this point are gone because of moments like these. Whether we're watching the next greats score their first World Cup goal or -- of what should be many to come, or seeing a team claim a World Cup victory for the first time in their history. Perhaps one of the most uniting things: seeing different cultures embracing.\n\nUNIDENTIFIED FEMALE: As you pass statues in Boston, you're seeing the Tartan Army puts traffic cones on statues over in Scotland, and they brought that tradition back to Massachusetts.\n\nUNIDENTIFIED MALE: That's your first ever bite of Texas barbecue. What do you think?\n\nUNIDENTIFIED MALE: Amazing!\n\nUNIDENTIFIED MALE: I don't necessarily know if the United States was the best place for the World Cup, but I do feel like it is a very important place for this to be happening because of the amount of healing that is probably happening to our society.\n\nCORNISH: OK. Joining me now, Will Leitch, contributing editor for \"New York Magazine\" sports.\n\nNature is healing is what I'm hearing. Why do you think all of this, like, culture clash is such a big deal? And I especially hear it coming out of the South, I should say: the fans from abroad who are visiting there.\n\nWILL LEITCH, CONTRIBUTING EDITOR, \"NEW YORK MAGAZINE\": Yes, to hear the people from the Netherlands talk about their Kansas City barbecue has really been kind of a wonderful aspect of this, too.\n\nYes. You know, remember this was a -- we've talked about this. People were very concerned about coming in -- coming to the United States for a variety of reasons, from immigration to ICE to -- and there have been issues. The Iranian team, in particular, has been treated pretty shabbily by the U.S. government in this.\n\nBut generally speaking, this tournament has gone off kind of magnificently in a way that has felt pretty healing for the United States at a certain level.\n\nYou know, it's been a good reminder. You know, we're kind of so caught up in the morass of everything that we do have a lot to show people, a lot of things to be proud of.\n\nI think you've seen that this is what the World Cup does, right? All of those worries about the World Cup, what's going to happen with this? What's going to happen with that? Once the game gets started, the games themselves are wonderful, but also all of these different cultures.\n\nI was fortunate to be at the Spain-Cabo Verde game, that first game in Atlanta. And just to -- to celebrate with Cabo Verde fans after.\n\nCabo Verde has fewer people than Mesa, Arizona. I mean, this is a very, very small country. And the joy that they have, that you see this at every single one of these places.\n\nThese venues have been full. The tickets have been very, very expensive. But the seats are full; the stands are full. So, people are going out to these games and really kind of having a pretty wonderful time.\n\nCORNISH: We talked about Cape Verde, as you mentioned, but we've got to talk about the U.S.\n\nElmo weighed in online. He didn't want to step in it again, as he did with the Knicks. So, he actually, I think, tweeted, \"Just to be clear, USA to win. OK? Elmo loves everybody. Just to be clear, don't make this a thing.\"\n\nHonestly, evergreen tweet. But can you talk about how the U.S. is doing?\n\nLEITCH: We live in an age of Elmo having to say, \"Don't make this a thing.\"\n\nLEITCH: As a general rule.\n\nBut yet, the U.S. team has really -- this is the best team they've ever had in the World Cup. They finished third in 1930. It was a much smaller field and a much different game.\n\nThe U.S. have looked terrific in a lot of ways, especially Pochettino, their coach, is a big -- He's coached Tottenham Hotspurs to the -- to the Champions League final. He was brought in to kind of fix this team. It has worked. They have played terrific. They haven't played any fantastic teams\n\nyet, but they've looked organized. They've played great. They've already won their group. We already know when their first game in the knockout round is going to be. It's going to be July 1, and -- it's going to be July 1. And so, it should set up very, very well for them.\n\nThey have looked exciting. Generally speaking, the U.S., because their talent level has been lower, they've always played kind of a defensive game. They've always kind of quiet, good. They've had good keepers and, like, tried to kind of just like fend off attacks.\n\nThat's not what this team is doing. This team is playing hard. This team is playing fast, and it's scoring a lot of goals. It is very inspiring.\n\nYou talk about the ticket prices. Initially, they were worries that the U.S. game against Paraguay was not going to sell out.\n\nLEITCH: That's not an issue for any of the rest of these games. There are tickets going for -- the given price for the -- for their first knockout game is now, I think, up to $4,000. They're -- people are very excited about this team in a way that is very new for the U.S. team.\n\nUsually, it's just a -- don't embarrass us. Don't -- don't make us look bad on a stage.\n\nThey're not to the women's level yet, to be very clear.\n\nLEITCH: The women's are a world power. The U.S. is not there yet, but this is certainly the best men's team they've had in a very, very long time.\n\nCORNISH: No, that's a great reminder.\n\nYou know, I want to mention this. Iran's team actually left a note in the locker room in L.A. I just want to show people on this little notebook here.\n\nIt says, \"From the ancient Persia of thousands of years ago to the civilized Iran of today, the spirit of Iran remains alive and steadfast. We came to Los Angeles with pride, competed with honor, and leave with dignity. Thank you, Los Angeles, for your hospitality.\"\n\nWe weren't sure they'd be able to be here or leave a note like that. And it reminds us of what's going on politically.\n\nIs there another shoe to drop? Is Trump going to make an appear after FIFA gave him a very special peace adjacent prize?\n\nLEITCH: Yes, very special prize. Yes. So, I think that the -- the final is in MetLife Stadium -- or sorry, New York-New Jersey Stadium in -- in East Rutherford. So, it's very possible there could be a Knicks-level-esque appearance for him.\n\nCertainly, he's been a big -- he's been a big part. He's been distracted by the pool lately. But generally speaking, he'd been a big part of what was going on with -- with this World Cup. He was at the draw, famously got his -- got his peace prize.\n\nAnd I feel like, for all the worries that like, listen, ICE has not been a major presence in this tournament, like a lot of people worried about. The Iranian team, in particular, has been treated incredibly shabbily in this tournament. They've had to fly out after their games; have not been allowed to stay in the country. They've had to leave, actually, the night of the game to go back to Mexico.\n\nJust -- just this weekend U.S. Homeland Secretary Markwayne Mullin claimed that a member of the Islamic Revolutionary Guard Corps was about to get on their plane. The team denies this, says this is in no way true.\n\nIt -- this -- of all the teams in this, the one team that I think is actually a pretty inspiring story is Iran, in addition to the U.S. team, for the conditions that they've had to play under and have generally succeeded. They've played very well in this tournament.\n\nThere is a non-zero possibility Iran certainly looks like they could advance to the knockout round and keep going.\n\nWe -- this has been a very -- generally, other than the Iranian team, most of the major fears that people have worried about have not happened. But we still have a long way to go in this tournament.\n\nAnd eventually, the pool may be blue, and there may be something for -- for Trump to -- to turn his attention back to this.\n\nBut so far, it's really been -- the focus has remained with the games and on the international spirit that the U.S. has been able to welcome here, making the Iranian team, even if the government isn't making them feel welcome, the fans are.\n\nAnd I think that speaks to kind of the really wonderful thing about this tournament so far, and really kind of every four years.\n\nCORNISH: Well, Will Leitch, I know you're in Georgia, and there's like eight games that are going to be there. So, I'm sure you're going to be having a blast. Will Leitch, contributing writer at \"New York Magazine.\" Thank you.\n\nCORNISH: Now straight ahead on CNN THIS MORNING, we're going to get back to this breaking news. British Prime Minister Keir Starmer announcing his resignation.\n\nPlus, this here at home: a rash of tornadoes tear through the Midwest.",
+  "segments": [
+    {
+      "seg": 1,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-22/segment/01",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nU.K. Prime Minister Starmer Announces Resignation; Trump Claims Multiple Arrests for Vandalism of Reflecting Pool; World Cup Highlights Include Cape Verde Surprises, Cultural Embraces. Aired 6- 6:30a ET\n\nAired June 22, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nBRAD SMITH, CNN ANCHOR: And it happened right before a fire tore through her home on Friday.\n\nShe escaped safely with the dog, but as you can see, their house was destroyed in that fire. These are just some of the images, but excellent work, Squilliam, to make sure that you got your owners up and out.\n\nThat does it for CNN HEADLINE EXPRESS. I'm Brad Smith. CNN THIS MORNING with Audie Cornish starts right now.\n\nAUDIE CORNISH, CNN ANCHOR: Breaking news this morning. A political shakeup in the U.K. Keir Starmer says he is resigning.\n\nKEIR STARMER, U.K. PRIME MINISTER: That is why I will resign as leader of the Labour Party.\n\nCORNISH: President Trump blames vandals for his Reflecting Pool problems. How can he be sure?\n\nHUNTER BIDEN, JOE BIDEN'S SON: I'll come campaign for you or against you. Whatever -- whatever helps most.\n\nCORNISH: Gavin Newsom embracing the Bidens as he considers running for president. Is that smart or a counterintuitive strategy?\n\nAnd the World Cup now a must-see spectacle both on and off the field. How did all the critics get it wrong?\n\nGood morning, everybody. I'm Audie Cornish. We're going to start with this breaking news. Keir Starmer out. The British prime minister announcing his resignation in the last hour after mounting pressure to step aside. (BEGIN VIDEO CLIP)\n\nSTARMER: The question my party is asking now is whether I am best placed to lead us into the next general election. I have heard the answer of my Parliamentary party to that question, and I accept that answer with good grace.\n\nEvery decision I've taken has been about putting the country I love first. That is why I will resign as leader of the Labour Party.\n\nCORNISH: We're going to go now to CNN's Clare Sebastian in London.\n\nClare, very busy day there. Can you start by talking about why now? I know it seems inevitable, but what's the sense of why Keir Starmer stepped down?\n\nCLARE SEBASTIAN, CNN INTERNATIONAL CORRESPONDENT: So, look, the clinching factor for this, Audie, after months of difficulties that the prime minister has faced for a number of different reasons.\n\nBut the real clinching factor was that we had local elections across the U.K. in various parts in May, and the Labour Party suffered a massive defeat, losing more than 1,400 local council seats, even as we saw the right-wing populist Reform Party, led by Nigel Farage, surge.\n\nSo, that was a real wake-up call. That seemed to suggest to certain parts of the Labour Party that they were going to struggle to defeat Reform in any general election. We have to have a general election in this country by around the middle of 2029.\n\nSo, that is when the calls for Prime Minister Starmer to go grew even louder.\n\nBut on the flip side, we also have this issue where Andy Burnham, who was then the mayor of Manchester, was seen as the most popular politician within that party, but he was not a member of Parliament, so couldn't officially challenge the prime minister.\n\nSo, then this process started to try and get him back into Parliament. There was a special election that was held in the Northwest of England last week, which he won so convincingly that it really strengthened the argument that he might be the man to defeat this right-wing populist party, Reform, in any upcoming election, since he had done it so decisively in this one constituency.\n\nSo, then, we sort of -- it all coalesced around this point. Keir Starmer spent the weekend thinking about it, addressing the sort of political realities as they stood, and made this extremely difficult decision for him to step down.\n\nSo, now we have a transition. Take a listen to the prime minister talking about how that will play out.\n\nSTARMER: I will remain in post as prime minister until the contest is complete, and I will do everything I can to ensure an orderly handover of power.\n\nI will also give my successor my full and unequivocal support, knowing that they will inherit a Britain that is far stronger and fairer than the one I inherited two years ago; better prepared for the challenges ahead; and better able to ensure the Labour Party secures a second term in office.\n\nSEBASTIAN: So, the question now is, will there be a contest? Will anyone else stand against Andy Burnham? If they do, it could take a bit longer. If they don't, this could all be over in a couple of weeks -- Audie.\n\nCORNISH: Right. And Burnham, this will be basically third time's the charm, because he has tried to be Labour leader before.\n\nTrump ally Nigel Farage actually speaking out after the news of this resignation. Do they feel like this is an opportunity for the Reform Party?\n\nSEBASTIAN: Look, they suffered a really big defeat in this special election last week. So, Farage has come out swinging today, calling in a post on X, for a general election and making the point in an essay that Andy Burnham doesn't -- having not been officially elected in a general election -- have a mandate to lead.\n\nAnd pointing back to those local elections at the beginning of May, where Reform did so well.\n\nI think look, it is a moment for reform to try to assert themselves. There are questions about whether they've peaked after Burnham's defeat of the reform candidate in that special election.\n\nBut as of now, in, you know, opinion polls based on voter intentions for right now, they are leading in the country. So, they are going to be doing everything they can to keep up the momentum.\n\nAnd, of course, the chance now for Labour under a new leader is to try to stabilize their grip on power so they can see off Reform in a general election when it happens -- Audie.\n\nCORNISH: That's Clare Sebastian in London, where U.K. Prime Minister Keir Starmer has stepped down.\n\nAnd coming up on CNN THIS MORNING from: reflection to outrage. Arrests over the algae-plagued Reflecting Pool and the rising costs. Critics are calling it all money down the drain.\n\nPlus, are world leaders losing patience with President Trump? Italy's prime minister is the latest.\n\nAnd little countries doing big things at the FIFA World Cup.\n\nUNIDENTIFIED MALE: Curacao came to conquer, guys. I'm telling you this once. I'm telling you this twice. Curacao came to show up. Let's go.\n\nJEANINE PIRRO, ATTORNEY GENERAL OF WASHINGTON, D.C.: Vandalizing or attempting to vandalize the Reflecting Pool will face the criminal justice system in D.C.\n\nCORNISH: Vandalism or something else? President Trump says he knows what is causing the problems at the Reflecting Pool. The president now claiming that multiple people have been arrested, accused of vandalizing the Lincoln Memorial Reflecting Pool. He has not provided evidence to back up that claim.\n\nA senior administration official is saying that police arrested five people for vandalism, that they issued citations to five others.\n\nNow, Trump did say work will begin immediately to fix it.\n\nNow, this comes after his $14 million rehabilitation project has failed: the water riddled with algae, the lining ripped. Visitors say they noticed an increased law enforcement presence following the president's post.\n\nUNIDENTIFIED FEMALE: I've never seen this many National Guards in the National Park area.\n\nThey came up to me and two other women, asking if -- if we touched it and then just promoting us not to, that we would get arrested or charged with vandalism if we did.\n\nCORNISH: Today in the group chat, Eleanor Mueller, White House economic policy reporter with \"Semafor\"; Julia Manchester, national political reporter for \"The Hill\"; and Elena Schneider, national political reporter at \"NOTUS.\"\n\nWhere to begin? Where to begin? Is vandalism the problem, or the green water we just showed you coming out of a hose? I want to play -- the reason why I'm talking about this is Jeanine\n\nPirro, U.S. attorney for D.C., jumped in on this vandalization thing. I don't know if we have that clip. But she was asked about this, and I want to play for you what she had to say.\n\nPIRRO: There are several citations that have been handed out to individuals. And these are cases that will be prosecuted to the full extent.\n\nIf there are more serious products that are put into the Reflecting Pool to create more algae or a bigger problem, then we'll consider more serious charges.\n\nJULIA MANCHESTER, NATIONAL POLITICAL REPORTER, \"THE HILL\": You know, it's interesting that this came after we saw a video of hydrogen peroxide being poured into the Reflecting Pool.\n\nI'm not a scientist. However. you know, I think it's just interesting to see the sequence of events. Certainly frustrating for the president.\n\nCORNISH: We should say, the people pouring those jugs of hydrogen peroxide --\n\nCORNISH: -- were government workers trying to --\n\nMANCHESTER: Absolutely.\n\nCORNISH: -- repair the work of these contractors that the president invited through no insistence of Congress. Literally, no one asked for this.\n\nCORNISH: And now here we are.\n\nMANCHESTER: And it's frustrating, I think, for the president, because he's put so much stock, I think, publicly, politically --\n\nCORNISH: Frustrating for him.\n\nMANCHESTER: And yes, for everyone.\n\nCORNISH: Let me play for you one of these tourists. OK? People are walking by, not vandalizing things, though clearly threatened if they are.\n\nAnd here's an example of just someone by the Reflecting Pool, kind of what they see.\n\nUNIDENTIFIED MALE: So, what do you think?\n\nUNIDENTIFIED MALE: Oh, it's embarrassing. Yes, that's --\n\nUNIDENTIFIED MALE: In a word.\n\nUNIDENTIFIED MALE: Yes. Money well spent.\n\nUNIDENTIFIED FEMALE: Well, it's a little dirty. So, yes. Just a little.\n\nUNIDENTIFIED MALE: Can you even see the blue?\n\nUNIDENTIFIED FEMALE: No, all I see is greens.\n\nCORNISH: Out of the mouths of babes. The cost of the Reflecting Pool so far. Originally, we were told it would be 1.5 million. That's not what it is now. Now it is upwards of 14.8 million of green water.\n\nELENA SCHNEIDER, NATIONAL POLITICAL REPORTER, \"NOTUS\": And it was also supposed to be done within two weeks. It's obviously not done within two weeks.\n\nSo, look, I mean, this was a no-bid contract that was given to a pool company that had connections to the Trump administration. \"The New York Times\" has done some great reporting on -- on sort of the questions surrounding who they hired and brought on to do this kind of work.\n\nBut look, we know what's at the heart of this, which is that Donald Trump cares a lot about the way that Washington, D.C., looks in this moment, particularly as it comes to the 250th anniversary just a couple of weeks away. There is something that he really cares is something that he really cares about, the way that the city looks.\n\nAnd one can argue that there are some fountains that are now running in places like Malcolm X Park or outside Union Station, which it is nice to have fountains.\n\nCORNISH: I know, but this is six acres.\n\nCORNISH: And telling people that this public property, which belongs to us, the American people, we can't touch it now, because we are the ones who have vandalized it, I feel like is delusional.\n\nELEANOR MUELLER, WHITE HOUSE ECONOMIC POLICY REPORTER, \"SEMAFOR\": One of those arrested was a three-time Olympian canoeist who actually gave interviews afterwards, saying that he just bent down. He'd reached into the water. He touched the bottom of the pool.\n\nAnd then when he walked away is when National Park Service federal officers had approached him and said that they were arresting him for vandalism. And so, I'm --\n\nCORNISH: Like, do you have gold medals? Don't care.\n\nCORNISH: Now's the time for your criminal origin story to begin.\n\nMUELLER: And I think it says a lot that Jeanine Pirro is the one leading the charge because she's shown herself, again and again, to be the person who's willing to take on Trump's sometimes more political, not to say vendettas, but certainly, agendas against people.\n\nShe was the -- obviously, same prosecutor who led the investigation into Federal Reserve Chair Jerome Powell over the --\n\nMUELLER: -- renovation of the Fed's headquarters.\n\nCORNISH: So, we're bringing to bear the power of the state, the legal law enforcement arm --\n\nCORNISH: -- of the district to solve a public relations problem. That's what it looks like on its surface.\n\nSCHNEIDER: Yes. I mean, look, I think anyone who lives in Washington, D.C., agrees that, probably, this is not the biggest issue that this city faces right now is, you know, quote, vandalism of people touching the Reflecting Pool.\n\nBut Jeanine Pirro, like many people in Trump's cabinet, understands that they have an audience of one, and they're going to serve that audience.\n\nCORNISH: OK. You guys, thank you so much. I want you to stay with us as we talk to you. Said more interesting things today. More important things today, like this.\n\nGame, set, Serena. Biggest thing in my group chats: the tennis icon will return to singles play at Wimbledon.\n\nPlus, the World Cup isn't just about soccer. It's about the vibes, and the cultures coming together are vibing.\n\nGood morning to everyone, in the meantime, from the Philadelphia Stadium, where France and Iraq will face off in a game today.\n\n[06:21:34] (BEGIN VIDEO CLIP)\n\nUNIDENTIFIED MALE: Many people probably wrote us off or didn't know much about us, and that was sort of our motivation, as well. Let's show the world that we -- we deserve to compete.\n\nCORNISH: Cape Verde and their fairy tale continues. The tiny island nation stunned Spain last week, and they just did it again, ending in a 2-2 draw against Uruguay on Sunday.\n\nAnd they got their first goal in the World Cup, one step closer to a legitimate chance of getting into the knockout stage.\n\nSo, you've got dreams coming true. That's what the World Cup is all about.\n\nAnd the worries about filling stadiums and selling tickets at this point are gone because of moments like these. Whether we're watching the next greats score their first World Cup goal or -- of what should be many to come, or seeing a team claim a World Cup victory for the first time in their history. Perhaps one of the most uniting things: seeing different cultures embracing.\n\nUNIDENTIFIED FEMALE: As you pass statues in Boston, you're seeing the Tartan Army puts traffic cones on statues over in Scotland, and they brought that tradition back to Massachusetts.\n\nUNIDENTIFIED MALE: That's your first ever bite of Texas barbecue. What do you think?\n\nUNIDENTIFIED MALE: Amazing!\n\nUNIDENTIFIED MALE: I don't necessarily know if the United States was the best place for the World Cup, but I do feel like it is a very important place for this to be happening because of the amount of healing that is probably happening to our society.\n\nCORNISH: OK. Joining me now, Will Leitch, contributing editor for \"New York Magazine\" sports.\n\nNature is healing is what I'm hearing. Why do you think all of this, like, culture clash is such a big deal? And I especially hear it coming out of the South, I should say: the fans from abroad who are visiting there.\n\nWILL LEITCH, CONTRIBUTING EDITOR, \"NEW YORK MAGAZINE\": Yes, to hear the people from the Netherlands talk about their Kansas City barbecue has really been kind of a wonderful aspect of this, too.\n\nYes. You know, remember this was a -- we've talked about this. People were very concerned about coming in -- coming to the United States for a variety of reasons, from immigration to ICE to -- and there have been issues. The Iranian team, in particular, has been treated pretty shabbily by the U.S. government in this.\n\nBut generally speaking, this tournament has gone off kind of magnificently in a way that has felt pretty healing for the United States at a certain level.\n\nYou know, it's been a good reminder. You know, we're kind of so caught up in the morass of everything that we do have a lot to show people, a lot of things to be proud of.\n\nI think you've seen that this is what the World Cup does, right? All of those worries about the World Cup, what's going to happen with this? What's going to happen with that? Once the game gets started, the games themselves are wonderful, but also all of these different cultures.\n\nI was fortunate to be at the Spain-Cabo Verde game, that first game in Atlanta. And just to -- to celebrate with Cabo Verde fans after.\n\nCabo Verde has fewer people than Mesa, Arizona. I mean, this is a very, very small country. And the joy that they have, that you see this at every single one of these places.\n\nThese venues have been full. The tickets have been very, very expensive. But the seats are full; the stands are full. So, people are going out to these games and really kind of having a pretty wonderful time.\n\nCORNISH: We talked about Cape Verde, as you mentioned, but we've got to talk about the U.S.\n\nElmo weighed in online. He didn't want to step in it again, as he did with the Knicks. So, he actually, I think, tweeted, \"Just to be clear, USA to win. OK? Elmo loves everybody. Just to be clear, don't make this a thing.\"\n\nHonestly, evergreen tweet. But can you talk about how the U.S. is doing?\n\nLEITCH: We live in an age of Elmo having to say, \"Don't make this a thing.\"\n\nLEITCH: As a general rule.\n\nBut yet, the U.S. team has really -- this is the best team they've ever had in the World Cup. They finished third in 1930. It was a much smaller field and a much different game.\n\nThe U.S. have looked terrific in a lot of ways, especially Pochettino, their coach, is a big -- He's coached Tottenham Hotspurs to the -- to the Champions League final. He was brought in to kind of fix this team. It has worked. They have played terrific. They haven't played any fantastic teams\n\nyet, but they've looked organized. They've played great. They've already won their group. We already know when their first game in the knockout round is going to be. It's going to be July 1, and -- it's going to be July 1. And so, it should set up very, very well for them.\n\nThey have looked exciting. Generally speaking, the U.S., because their talent level has been lower, they've always played kind of a defensive game. They've always kind of quiet, good. They've had good keepers and, like, tried to kind of just like fend off attacks.\n\nThat's not what this team is doing. This team is playing hard. This team is playing fast, and it's scoring a lot of goals. It is very inspiring.\n\nYou talk about the ticket prices. Initially, they were worries that the U.S. game against Paraguay was not going to sell out.\n\nLEITCH: That's not an issue for any of the rest of these games. There are tickets going for -- the given price for the -- for their first knockout game is now, I think, up to $4,000. They're -- people are very excited about this team in a way that is very new for the U.S. team.\n\nUsually, it's just a -- don't embarrass us. Don't -- don't make us look bad on a stage.\n\nThey're not to the women's level yet, to be very clear.\n\nLEITCH: The women's are a world power. The U.S. is not there yet, but this is certainly the best men's team they've had in a very, very long time.\n\nCORNISH: No, that's a great reminder.\n\nYou know, I want to mention this. Iran's team actually left a note in the locker room in L.A. I just want to show people on this little notebook here.\n\nIt says, \"From the ancient Persia of thousands of years ago to the civilized Iran of today, the spirit of Iran remains alive and steadfast. We came to Los Angeles with pride, competed with honor, and leave with dignity. Thank you, Los Angeles, for your hospitality.\"\n\nWe weren't sure they'd be able to be here or leave a note like that. And it reminds us of what's going on politically.\n\nIs there another shoe to drop? Is Trump going to make an appear after FIFA gave him a very special peace adjacent prize?\n\nLEITCH: Yes, very special prize. Yes. So, I think that the -- the final is in MetLife Stadium -- or sorry, New York-New Jersey Stadium in -- in East Rutherford. So, it's very possible there could be a Knicks-level-esque appearance for him.\n\nCertainly, he's been a big -- he's been a big part. He's been distracted by the pool lately. But generally speaking, he'd been a big part of what was going on with -- with this World Cup. He was at the draw, famously got his -- got his peace prize.\n\nAnd I feel like, for all the worries that like, listen, ICE has not been a major presence in this tournament, like a lot of people worried about. The Iranian team, in particular, has been treated incredibly shabbily in this tournament. They've had to fly out after their games; have not been allowed to stay in the country. They've had to leave, actually, the night of the game to go back to Mexico.\n\nJust -- just this weekend U.S. Homeland Secretary Markwayne Mullin claimed that a member of the Islamic Revolutionary Guard Corps was about to get on their plane. The team denies this, says this is in no way true.\n\nIt -- this -- of all the teams in this, the one team that I think is actually a pretty inspiring story is Iran, in addition to the U.S. team, for the conditions that they've had to play under and have generally succeeded. They've played very well in this tournament.\n\nThere is a non-zero possibility Iran certainly looks like they could advance to the knockout round and keep going.\n\nWe -- this has been a very -- generally, other than the Iranian team, most of the major fears that people have worried about have not happened. But we still have a long way to go in this tournament.\n\nAnd eventually, the pool may be blue, and there may be something for -- for Trump to -- to turn his attention back to this.\n\nBut so far, it's really been -- the focus has remained with the games and on the international spirit that the U.S. has been able to welcome here, making the Iranian team, even if the government isn't making them feel welcome, the fans are.\n\nAnd I think that speaks to kind of the really wonderful thing about this tournament so far, and really kind of every four years.\n\nCORNISH: Well, Will Leitch, I know you're in Georgia, and there's like eight games that are going to be there. So, I'm sure you're going to be having a blast. Will Leitch, contributing writer at \"New York Magazine.\" Thank you.\n\nCORNISH: Now straight ahead on CNN THIS MORNING, we're going to get back to this breaking news. British Prime Minister Keir Starmer announcing his resignation.\n\nPlus, this here at home: a rash of tornadoes tear through the Midwest."
+    }
+  ]
+}

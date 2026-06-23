@@ -1,0 +1,554 @@
+{
+  "date": "2026-06-22",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-22/segment/02",
+  "vocabulary": [
+    {
+      "word": "tornado outbreak",
+      "phonetic": "/tɔːrˈneɪdoʊ ˈaʊtbreɪk/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "龙卷风爆发",
+      "en": "a series of tornadoes occurring in a short period",
+      "excerpt": "At least two people are dead after a tornado outbreak in the Mideast.",
+      "example_cn": "龙卷风爆发导致多人伤亡。"
+    },
+    {
+      "word": "logged",
+      "phonetic": "/lɔːɡd/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "记录",
+      "en": "recorded officially",
+      "excerpt": "More than three dozen tornado reports were logged in the region by the storm prediction center.",
+      "example_cn": "风暴预测中心记录了该地区超过36份龙卷风报告。"
+    },
+    {
+      "word": "controversial tactic",
+      "phonetic": "/ˌkɑːntrəˈvɜːrʃl ˈtæktɪk/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "有争议的策略",
+      "en": "a method that causes disagreement",
+      "excerpt": "It was a controversial tactic aimed at building larger criminal cases against drug traffickers.",
+      "example_cn": "这是一种有争议的策略，旨在对毒贩提起更大的刑事诉讼。"
+    },
+    {
+      "word": "marathon talks",
+      "phonetic": "/ˈmærəθɑːn tɔːks/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "马拉松式谈判",
+      "en": "very long and intense negotiations",
+      "excerpt": "Sunday the two sides held marathon talks to try to establish a long term peace agreement with Iran.",
+      "example_cn": "周日双方举行了马拉松式谈判，试图与伊朗达成长期和平协议。"
+    },
+    {
+      "word": "resign",
+      "phonetic": "/rɪˈzaɪn/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "辞职",
+      "en": "to give up a job or position",
+      "excerpt": "British Prime Minister Keir Starmer, resigning.",
+      "example_cn": "英国首相基尔·斯塔默辞职。"
+    },
+    {
+      "word": "with good grace",
+      "phonetic": "/wɪð ɡʊd ɡreɪs/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "优雅地；欣然地",
+      "en": "in a willing and pleasant manner",
+      "excerpt": "And I accept that answer with good grace.",
+      "example_cn": "我欣然接受这个答案。"
+    },
+    {
+      "word": "tenure",
+      "phonetic": "/ˈtenjər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "任期",
+      "en": "the period during which someone holds a position",
+      "excerpt": "Starmer's resignation comes just shy of two years into his tenure.",
+      "example_cn": "斯塔默辞职时任期刚满两年。"
+    },
+    {
+      "word": "churn",
+      "phonetic": "/tʃɜːrn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "频繁变动",
+      "en": "frequent change",
+      "excerpt": "there's been almost half a dozen prime ministers since Brexit, and it's been a decade since Brexit. So, I think, to the American public, we see a lot of churn.",
+      "example_cn": "自英国脱欧以来，已有近六位首相，美国公众看到很多变动。"
+    },
+    {
+      "word": "mandate",
+      "phonetic": "/ˈmændeɪt/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "授权；任期",
+      "en": "an official order or commission to do something",
+      "excerpt": "when Starmer got elected two years ago on this mandate of change",
+      "example_cn": "两年前斯塔默以变革的授权当选。"
+    },
+    {
+      "word": "unforced errors",
+      "phonetic": "/ʌnˈfɔːrst ˈerərz/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "非受迫性失误",
+      "en": "mistakes made without pressure from opponents",
+      "excerpt": "they basically made a series of what felt like unforced errors right at the start",
+      "example_cn": "他们一开始就犯了一系列非受迫性失误。"
+    },
+    {
+      "word": "winter fuel allowance",
+      "phonetic": "/ˈwɪntər ˈfjuːəl əˈlaʊəns/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "冬季燃料补贴",
+      "en": "a payment to help elderly people with heating costs",
+      "excerpt": "They decided to cut winter fuel allowance for elderly people",
+      "example_cn": "他们决定削减老年人的冬季燃料补贴。"
+    },
+    {
+      "word": "scandal",
+      "phonetic": "/ˈskændl/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "丑闻",
+      "en": "an action or event causing public outrage",
+      "excerpt": "there was a scandal over Keir Starmer accepting free gifts as prime minister",
+      "example_cn": "斯塔默接受免费礼物引发丑闻。"
+    },
+    {
+      "word": "framing",
+      "phonetic": "/ˈfreɪmɪŋ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "框架；基调",
+      "en": "the way something is presented or perceived",
+      "excerpt": "set the framing, set the tone for people to kind of start to wonder",
+      "example_cn": "设定了框架和基调，让人们开始怀疑。"
+    },
+    {
+      "word": "judgment",
+      "phonetic": "/ˈdʒʌdʒmənt/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "判断力",
+      "en": "the ability to make considered decisions",
+      "excerpt": "his judgment has really been called into question over that",
+      "example_cn": "他的判断力因此受到质疑。"
+    },
+    {
+      "word": "wild ride",
+      "phonetic": "/waɪld raɪd/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "疯狂的经历",
+      "en": "a very exciting or turbulent experience",
+      "excerpt": "it's been a wild ride",
+      "example_cn": "这是一段疯狂的旅程。"
+    },
+    {
+      "word": "blast",
+      "phonetic": "/blæst/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "大声播放",
+      "en": "to play music loudly",
+      "excerpt": "protesters who were blasting the anthem for the E.U.",
+      "example_cn": "抗议者大声播放欧盟国歌。"
+    },
+    {
+      "word": "mitigate",
+      "phonetic": "/ˈmɪtɪɡeɪt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "减轻",
+      "en": "to make less severe",
+      "excerpt": "an immigration surge as U.K. tried to mitigate some of the concerns of Brexit",
+      "example_cn": "英国试图减轻脱欧担忧，导致移民激增。"
+    },
+    {
+      "word": "insurgent",
+      "phonetic": "/ɪnˈsɜːrdʒənt/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "起义的；反叛的",
+      "en": "rising in active revolt",
+      "excerpt": "reforms pitch is very much, we are the insurgent populist party",
+      "example_cn": "改革党的定位是：我们是反叛的民粹主义政党。"
+    },
+    {
+      "word": "smash up",
+      "phonetic": "/smæʃ ʌp/",
+      "pos": "phrasal v.",
+      "level": "六级",
+      "cn": "粉碎",
+      "en": "to destroy completely",
+      "excerpt": "can actually smash up the status quo",
+      "example_cn": "能够粉碎现状。"
+    },
+    {
+      "word": "Houdini act",
+      "phonetic": "/huːˈdiːni ækt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "逃脱术；巧妙脱身",
+      "en": "a clever escape from a difficult situation",
+      "excerpt": "it's kind of a bit of a Houdini act",
+      "example_cn": "这有点像逃脱术。"
+    },
+    {
+      "word": "double down",
+      "phonetic": "/ˈdʌbl daʊn/",
+      "pos": "phrasal v.",
+      "level": "六级",
+      "cn": "加倍努力；坚持",
+      "en": "to strengthen one's commitment to a course of action",
+      "excerpt": "the president has doubled down on his feud with the prime minister there",
+      "example_cn": "总统加倍坚持与意大利总理的争执。"
+    },
+    {
+      "word": "feud",
+      "phonetic": "/fjuːd/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "长期不和",
+      "en": "a prolonged and bitter quarrel",
+      "excerpt": "Trump's Feud with Italian PM",
+      "example_cn": "特朗普与意大利总理的不和。"
+    },
+    {
+      "word": "begging for",
+      "phonetic": "/ˈbeɡɪŋ fɔːr/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "乞求",
+      "en": "asking for something in a desperate way",
+      "excerpt": "accused the Italian prime minister of begging for a photo with him",
+      "example_cn": "指责意大利总理乞求与他合影。"
+    },
+    {
+      "word": "made up",
+      "phonetic": "/meɪd ʌp/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "编造的",
+      "en": "invented; not true",
+      "excerpt": "Donald Trump's statements are completely made up.",
+      "example_cn": "唐纳德·特朗普的言论完全是编造的。"
+    },
+    {
+      "word": "staunch ally",
+      "phonetic": "/stɔːntʃ ˈælaɪ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "坚定盟友",
+      "en": "a loyal and reliable ally",
+      "excerpt": "Giorgia Meloni is somebody who is seen as a staunch ally of the president.",
+      "example_cn": "乔治娅·梅洛尼被视为总统的坚定盟友。"
+    },
+    {
+      "word": "spat",
+      "phonetic": "/spæt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "口角",
+      "en": "a petty quarrel",
+      "excerpt": "this spat has continued",
+      "example_cn": "这场口角持续不断。"
+    },
+    {
+      "word": "frustration",
+      "phonetic": "/frʌˈstreɪʃn/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "挫折；沮丧",
+      "en": "the feeling of being upset or annoyed",
+      "excerpt": "his larger frustration with NATO allies",
+      "example_cn": "他对北约盟友的更大挫折感。"
+    },
+    {
+      "word": "humiliate",
+      "phonetic": "/hjuːˈmɪlieɪt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "羞辱",
+      "en": "to make someone feel ashamed",
+      "excerpt": "humiliates Meloni",
+      "example_cn": "羞辱梅洛尼。"
+    },
+    {
+      "word": "pre-announce",
+      "phonetic": "/priː əˈnaʊns/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "提前宣布",
+      "en": "to announce in advance",
+      "excerpt": "He kicks dirt over it by pre-announcing it.",
+      "example_cn": "他通过提前宣布来搅局。"
+    },
+    {
+      "word": "gamble",
+      "phonetic": "/ˈɡæmbl/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "赌博；冒险",
+      "en": "to take a risk",
+      "excerpt": "Newsom is reportedly gambling on embracing former President Joe Biden",
+      "example_cn": "据报道，纽森冒险拥抱前总统乔·拜登。"
+    },
+    {
+      "word": "rehabilitate",
+      "phonetic": "/ˌriːəˈbɪlɪteɪt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "恢复声誉",
+      "en": "to restore to a good condition or reputation",
+      "excerpt": "trying to rehabilitate",
+      "example_cn": "试图恢复声誉。"
+    },
+    {
+      "word": "trolling",
+      "phonetic": "/troʊlɪŋ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "挑衅；钓鱼",
+      "en": "posting provocative messages to elicit reactions",
+      "excerpt": "He's trolling, yes.",
+      "example_cn": "他在挑衅。"
+    },
+    {
+      "word": "thread the needle",
+      "phonetic": "/θred ðə ˈniːdl/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "巧妙应对",
+      "en": "to navigate a difficult situation skillfully",
+      "excerpt": "I think he's trying to thread this needle",
+      "example_cn": "我认为他试图巧妙应对。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "At least two people are dead after a tornado outbreak in the Mideast. More -- in the Midwest. More than three dozen tornado reports were logged in the region by the storm prediction center.",
+      "cn": "中西部龙卷风爆发后至少两人死亡。风暴预测中心记录了该地区超过36份龙卷风报告。",
+      "structure": "简单句+并列句",
+      "analysis": "第一句为简单句，主语two people，系动词are，表语dead，后接时间状语after...。第二句为并列句，主语More than three dozen tornado reports，谓语were logged，状语by...。"
+    },
+    {
+      "en": "It was a controversial tactic aimed at building larger criminal cases against drug traffickers.",
+      "cn": "这是一种有争议的策略，旨在对毒贩提起更大的刑事诉讼。",
+      "structure": "简单句+过去分词短语作定语",
+      "analysis": "主句It was a controversial tactic，过去分词短语aimed at...作定语修饰tactic。"
+    },
+    {
+      "en": "Sunday the two sides held marathon talks to try to establish a long term peace agreement with Iran.",
+      "cn": "周日双方举行了马拉松式谈判，试图与伊朗达成长期和平协议。",
+      "structure": "简单句+不定式短语作目的状语",
+      "analysis": "主语the two sides，谓语held，宾语marathon talks，不定式短语to try...作目的状语。"
+    },
+    {
+      "en": "Starmer's resignation comes just shy of two years into his tenure.",
+      "cn": "斯塔默辞职时任期刚满两年。",
+      "structure": "简单句",
+      "analysis": "主语Starmer's resignation，谓语comes，状语just shy of two years into his tenure。"
+    },
+    {
+      "en": "I think when Starmer got elected two years ago on this mandate of change, that was the Labour Party's slogan into the last election almost exactly two years ago, there was a real desire and a real hope that they would be different to the conservative party that had gone before, who had, as you say, had run through a whole host of different prime ministers.",
+      "cn": "我认为，当斯塔默两年前以变革的授权当选时——这几乎是两年前大选中工党的口号——人们确实渴望并希望他们会不同于之前的保守党，后者正如你所说，经历了一连串不同的首相。",
+      "structure": "复合句，包含宾语从句、定语从句",
+      "analysis": "主句I think，后接宾语从句when...。宾语从句中嵌套定语从句that they would be different...，其中又包含定语从句that had gone before和who had run through...。"
+    },
+    {
+      "en": "They decided to cut winter fuel allowance for elderly people in a move that was kind of seen as really typically un-Labour.",
+      "cn": "他们决定削减老年人的冬季燃料补贴，这一举动被视为非常不符合工党传统。",
+      "structure": "复合句，包含定语从句",
+      "analysis": "主句They decided to cut...，后接定语从句that was kind of seen as...修饰a move。"
+    },
+    {
+      "en": "And also there was a scandal over Keir Starmer accepting free gifts as prime minister, like a suit, glasses, those kind of things.",
+      "cn": "还有一起关于基尔·斯塔默作为首相接受免费礼物的丑闻，比如西装、眼镜之类的东西。",
+      "structure": "简单句+动名词复合结构",
+      "analysis": "主句there was a scandal，后接over Keir Starmer accepting...，其中accepting为动名词，Keir Starmer为其逻辑主语。"
+    },
+    {
+      "en": "And I think that is really what's thrown it more recently into a kind of state of crisis.",
+      "cn": "我认为这正是最近使其陷入危机状态的原因。",
+      "structure": "复合句，包含表语从句",
+      "analysis": "主句I think，后接宾语从句that is...，其中what's thrown...为表语从句。"
+    },
+    {
+      "en": "Essentially, what we've seen over the past decade is British voters trying to, in various ways, push a button marked change, whether that was for Brexit, whether that was for Boris Johnson, who was saying, I'm going to get Brexit done.",
+      "cn": "本质上，我们在过去十年看到的是英国选民试图以各种方式按下“变革”按钮，无论是为了脱欧，还是为了鲍里斯·约翰逊——他曾说“我要完成脱欧”。",
+      "structure": "复合句，包含主语从句、定语从句",
+      "analysis": "主语从句what we've seen...，系动词is，表语British voters trying...，后接whether...whether...并列状语从句，其中包含定语从句who was saying...。"
+    },
+    {
+      "en": "And so, reforms pitch is very much, we are the insurgent populist party that can actually smash up the status quo, smash up the establishment and finally deliver change.",
+      "cn": "因此，改革党的定位是：我们是反叛的民粹主义政党，能够粉碎现状、粉碎建制派，最终带来变革。",
+      "structure": "复合句，包含定语从句",
+      "analysis": "主句reforms pitch is very much，后接直接引语we are...，其中包含定语从句that can actually smash up...。"
+    },
+    {
+      "en": "But it's kind of a bit of a Houdini act, really, because, obviously, Nigel Farage was one of the main architects of Brexit in the first place and many feel that Brexit hasn't been a success.",
+      "cn": "但这有点像逃脱术，因为显然奈杰尔·法拉奇最初就是脱欧的主要设计者之一，而许多人认为脱欧并不成功。",
+      "structure": "复合句，包含原因状语从句和宾语从句",
+      "analysis": "主句it's kind of...，后接because引导的原因状语从句，其中包含宾语从句that Brexit hasn't been a success。"
+    },
+    {
+      "en": "And I think it is really notable that this spat has continued because I think it reflects his larger frustration with NATO allies over this U.S.-Iran conflict.",
+      "cn": "我认为值得注意的是，这场口角持续不断，因为我认为这反映了他对北约盟友在美伊冲突问题上的更大挫折感。",
+      "structure": "复合句，包含主语从句和原因状语从句",
+      "analysis": "主句I think，后接宾语从句it is really notable that...，其中that引导主语从句，后接because引导的原因状语从句。"
+    },
+    {
+      "en": "And let's not forget that this spat sort of started a couple of weeks ago when he -- when Donald Trump attacked the pope and then Giorgia Meloni, you know, defended the pope in light of the U.S.-Iran War.",
+      "cn": "别忘了，这场口角大约几周前就开始了，当时唐纳德·特朗普攻击教皇，然后乔治娅·梅洛尼因美伊战争而捍卫教皇。",
+      "structure": "复合句，包含宾语从句和定语从句",
+      "analysis": "主句let's not forget，后接宾语从句that this spat...，其中包含when引导的定语从句修饰a couple of weeks ago。"
+    },
+    {
+      "en": "But, you know, taking a step back from that, it's fascinating to see sort of, you know, I guess, I don't want to say the decline, but maybe the tensions that are rising between Trump and many European leaders, like Meloni, at this time during NATO -- because of the Iraq war, NATO tensions, et cetera.",
+      "cn": "但退一步看，看到特朗普与许多欧洲领导人（如梅洛尼）之间紧张关系上升是很有趣的，尤其是在北约期间——由于伊拉克战争、北约紧张局势等原因。",
+      "structure": "复合句，包含定语从句",
+      "analysis": "主句it's fascinating to see...，后接宾语the tensions，定语从句that are rising...修饰tensions。"
+    },
+    {
+      "en": "And we've seen similar splits with folks who, again, think similarly to him in France and Germany.",
+      "cn": "我们在法国和德国那些与他想法相似的人中也看到了类似的分裂。",
+      "structure": "复合句，包含定语从句",
+      "analysis": "主句we've seen similar splits，后接定语从句who think similarly to him修饰folks。"
+    },
+    {
+      "en": "It's not just Carney in Canada who is not on the same page as Trump on many of these things to begin with.",
+      "cn": "不仅仅是加拿大的卡尼一开始就在许多事情上与特朗普意见不合。",
+      "structure": "复合句，包含定语从句",
+      "analysis": "主句It's not just Carney，后接定语从句who is not on the same page...。"
+    },
+    {
+      "en": "And because -- it's a political calculation.",
+      "cn": "因为——这是一个政治算计。",
+      "structure": "简单句",
+      "analysis": "省略句，完整为And it's a political calculation because...。"
+    },
+    {
+      "en": "They know that Trump is not only polling well in the United States, but he's not polling well in their countries.",
+      "cn": "他们知道特朗普不仅在美国民调不佳，在他们国家民调也不好。",
+      "structure": "复合句，包含宾语从句",
+      "analysis": "主句They know，后接宾语从句that Trump is not only...but...。"
+    },
+    {
+      "en": "And so, if you've -- you're looking to pull yourself up a little bit, this is maybe an excuse to do it by leaning into these clashes that Trump seems so willing to start unprompted.",
+      "cn": "因此，如果你想稍微提升自己，这也许是一个借口，通过利用特朗普似乎乐于主动挑起的冲突来实现。",
+      "structure": "复合句，包含条件状语从句和定语从句",
+      "analysis": "主句this is maybe an excuse，后接条件状语从句if you're looking...，定语从句that Trump seems...修饰clashes。"
+    },
+    {
+      "en": "Let's not forget where a lot of this also started, which was his attempt to take over Greenland, where he refused to rule out military force in an attempt to go after a NATO ally.",
+      "cn": "别忘了，其中很多也始于他试图接管格陵兰岛，当时他拒绝排除使用武力来对付一个北约盟友。",
+      "structure": "复合句，包含宾语从句和定语从句",
+      "analysis": "主句Let's not forget，后接宾语从句where a lot of this also started，非限制性定语从句which was his attempt...，其中又包含定语从句where he refused...。"
+    },
+    {
+      "en": "This is reportedly the most flooding the area has seen in decades.",
+      "cn": "据报道，这是该地区几十年来最严重的洪水。",
+      "structure": "复合句，包含定语从句",
+      "analysis": "主句This is reportedly the most flooding，后接定语从句the area has seen in decades。"
+    },
+    {
+      "en": "Newsom is reportedly gambling on embracing former President Joe Biden, thinking that will be a popular position among Democrats.",
+      "cn": "据报道，纽森冒险拥抱前总统乔·拜登，认为这将在民主党中受欢迎。",
+      "structure": "复合句，包含宾语从句",
+      "analysis": "主句Newsom is reportedly gambling on embracing...，现在分词thinking引导伴随状语，后接宾语从句that will be...。"
+    },
+    {
+      "en": "Even after Biden had to drop out of his re-election bid, Newsom has still spoken favorably of Biden's presidency.",
+      "cn": "即使在拜登不得不退出连任竞选后，纽森仍然对拜登的总统任期给予好评。",
+      "structure": "复合句，包含时间状语从句",
+      "analysis": "主句Newsom has still spoken favorably...，时间状语从句Even after Biden had to drop out...。"
+    },
+    {
+      "en": "And we'll continue to build on the legacy, I would argue, of our former president, who I think was one of the most successful presidents in the last century, and that is Joe Biden.",
+      "cn": "而且我们将继续在前总统的遗产基础上发展，我认为他是上世纪最成功的总统之一，那就是乔·拜登。",
+      "structure": "复合句，包含定语从句和插入语",
+      "analysis": "主句we'll continue to build on the legacy，插入语I would argue，定语从句who I think was...修饰former president。"
+    },
+    {
+      "en": "Very difficult calculus to do that I think a lot of Democratic hopefuls have decided is not possible.",
+      "cn": "我认为许多民主党希望者认为这是不可能的，这是一个非常困难的算计。",
+      "structure": "复合句，包含定语从句",
+      "analysis": "主句Very difficult calculus，后接定语从句that I think a lot of Democratic hopefuls have decided is not possible。"
+    },
+    {
+      "en": "But I don't think anyone can accuse Gavin Newsom of not being a very calculating politician.",
+      "cn": "但我认为没有人能指责加文·纽森不是一个非常精于算计的政治家。",
+      "structure": "复合句，包含宾语从句",
+      "analysis": "主句I don't think，后接宾语从句anyone can accuse...。"
+    },
+    {
+      "en": "And I think that there is a -- an awareness that you can't just alienate those folks by saying, let's throw out Joe Biden altogether.",
+      "cn": "我认为有一种意识，你不能仅仅通过说“让我们彻底抛弃乔·拜登”来疏远那些人。",
+      "structure": "复合句，包含同位语从句",
+      "analysis": "主句I think，后接宾语从句that there is an awareness，同位语从句that you can't...解释awareness。"
+    },
+    {
+      "en": "I think he's trying to thread this needle of acknowledging the successes that Joe Biden had.",
+      "cn": "我认为他试图巧妙应对，承认乔·拜登取得的成功。",
+      "structure": "复合句，包含定语从句",
+      "analysis": "主句I think，后接宾语从句he's trying to thread this needle，定语从句that Joe Biden had修饰successes。"
+    },
+    {
+      "en": "And I think what's going to come out of those races, those primaries, is going to be so telling about where the Democratic Party is headed.",
+      "cn": "我认为这些竞选和初选的结果将非常能说明民主党的走向。",
+      "structure": "复合句，包含主语从句和宾语从句",
+      "analysis": "主句I think，后接宾语从句what's going to come out...is going to be...，其中what引导主语从句，where引导宾语从句。"
+    },
+    {
+      "en": "That's always the thing.",
+      "cn": "事情总是这样。",
+      "structure": "简单句",
+      "analysis": "主语That，系动词is，表语the thing。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "英国政治：斯塔默辞职与工党领导权之争",
+      "content": "英国首相基尔·斯塔默在任职近两年后辞职，原因是工党内部对其领导能力失去信心，以及一系列争议（如削减冬季燃料补贴、接受免费礼物、任命彼得·曼德尔森为驻美大使等）。工党将选举新领袖，曼彻斯特市长安迪·伯纳姆被视为热门人选。同时，改革党（Nigel Farage领导）在地方选举中表现强劲，对工党构成威胁。",
+      "keywords": "Keir Starmer, resignation, Labour Party, Andy Burnham, Reform UK, Nigel Farage, Brexit"
+    },
+    {
+      "title": "美意关系：特朗普与意大利总理梅洛尼的公开争执",
+      "content": "美国总统特朗普与意大利总理乔治娅·梅洛尼发生公开争执，起因是特朗普指责梅洛尼“乞求”与他合影，并称其支持率低。梅洛尼反驳称其言论“完全编造”。这场争执反映了特朗普与欧洲盟友之间的紧张关系，尤其是在美伊冲突和北约问题上。",
+      "keywords": "Donald Trump, Giorgia Meloni, feud, G7, NATO, U.S.-Iran conflict"
+    },
+    {
+      "title": "美国政治：纽森拥抱拜登遗产的2028年总统竞选策略",
+      "content": "加州州长加文·纽森据报道在2028年总统竞选中采取拥抱前总统乔·拜登遗产的策略，认为这能吸引黑人和拉丁裔选民。尽管拜登因退出连任竞选而声誉受损，纽森仍公开赞扬其政绩。这一策略与许多民主党人批评拜登形成对比，旨在在党内初选中占据独特位置。",
+      "keywords": "Gavin Newsom, Joe Biden, 2028 presidential election, Democratic Party, black voters, Latino voters"
+    },
+    {
+      "title": "美伊核谈判与中东局势",
+      "content": "副总统J.D.万斯在瑞士与伊朗进行高级别外交谈判，旨在达成长期和平协议。谈判涉及伊朗核计划、铀浓缩等问题，同时面临以色列与真主党冲突的干扰。美国未让以色列参与谈判，引发以色列不满。",
+      "keywords": "J.D. Vance, Iran, nuclear talks, Switzerland, Hezbollah, Israel, enriched uranium"
+    },
+    {
+      "title": "美国国内：FISA监控工具续期争议",
+      "content": "共和党参议员林赛·格雷厄姆警告特朗普总统不要让关键的对外监控工具（FISA 702条款）失效。特朗普因民主党可能让该条款失效而推迟了国家情报总监人选杰伊·克莱顿的确认。格雷厄姆认为失效将危及国家安全。",
+      "keywords": "FISA, Section 702, Lindsey Graham, Jay Clayton, DNI, surveillance"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nPatrick Baker is Interviewed about Starmer's Resignation; Trump's Feud with Italian PM; Newsom Embraces Biden. Aired 6:30-7a ET\n\nAired June 22, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nAUDIE CORNISH, CNN ANCHOR: Good morning, everybody. I'm Audie Cornish. Thank you for joining me on CNN THIS MORNING.\n\nIt is now half past the hour. And here's what's happening right now.\n\nAt least two people are dead after a tornado outbreak in the Mideast. More -- in the Midwest. More than three dozen tornado reports were logged in the region by the storm prediction center. The deaths happened at two separate mobile homes in rural Illinois yesterday. Now that storm system is moving into the mid-Atlantic.\n\nAnd the DEA reportedly allowed hundreds of thousands of fentanyl pills to circulate in New Mexico between 2023 and 2025. That's according to three current and former DEA agents who spoke with the \"Associated Press.\"\n\nIt was a controversial tactic aimed at building larger criminal cases against drug traffickers. They claim, quote, \"we 100 percent got people killed.\n\nAnd this morning, Vice President J.D. Vance is in Switzerland for high-level diplomatic talks with Iranian officials. Sunday the two sides held marathon talks to try to establish a long term peace agreement with Iran. But the talks so far have been described as positive and constructive according to mediators from Pakistan and Qatar.\n\nAnd this morning, British Prime Minister Keir Starmer, resigning.\n\nKEIR STARMER, BRITISH PRIME MINISTER: The question my party is asking now is whether I am best placed to lead us into the next general election. I have heard the answer of my parliamentary party to that question. And I accept that answer with good grace.\n\n(END VIDEO CLIP) CORNISH: Now, nominations to select a new Labour Party leader are set to open early next month. Starmer says he hopes a new prime minister will be in place when parliament returns from summer recess. That's in September. Starmer's resignation comes just shy of two years into his tenure.\n\nJoining me now to discuss, Patrick Baker, host of \"Politico's\" \"Westminster Insider\" podcast.\n\nGood morning. Thank you so much for being here.\n\nPATRICK BAKER, HOST, \"POLITICO'S\" \"WESTMINSTER INSIDER\" PODCAST: Hi. Great to be with you.\n\nCORNISH: Now, I just want to remind people, there's been almost half a dozen prime ministers since Brexit, and it's been a decade since Brexit. So, I think, to the American public, we see a lot of churn. What was it that took Starmer down in the end?\n\nBAKER: I think when Starmer got elected two years ago on this mandate of change, that was the Labour Party's slogan into the last election almost exactly two years ago, there was a real desire and a real hope that they would be different to the conservative party that had gone before, who had, as you say, had run through a whole host of different prime ministers. Keir Starmer's pitch was, I'm the man to bring stability and order to British politics, but they basically made a series of what felt like unforced errors right at the start, which really set the tone. They decided to cut winter fuel allowance for elderly people in a move that was kind of seen as really typically un- Labour. And also there was a scandal over Keir Starmer accepting free gifts as prime minister, like a suit, glasses, those kind of things. Kind of sounds like small things, but this really at the start of those two years, set the framing, set the tone for people to kind of start to wonder, actually, is this government very different to what we've seen before?\n\nNow, obviously, as it's developed, we've seen more recently there's been a real scandal over the appointment of Peter Mandelson, the ambassador to the United States. And his judgment has really been called into question over that, as we found out more and more through the constant release of the Jeffrey Epstein files, that I know viewers on your side of the pond will be familiar with this story --\n\nBAKER: As one of those that just seem to go away. And I think that is really what's thrown it more recently into a kind of state of crisis. So, yes, it's been a wild ride.\n\nCORNISH: I want to -- as he was speaking this morning at Downing Street, I was like, is that music? There was like this music playing behind him. And it turned out it was protesters who were blasting the anthem for the E.U., because it has been almost ten years since the Brexit vote. But since Brexit, there's been the pandemic, the Ukrainian war, I didn't realize this, but an immigration surge as U.K. tried to mitigate some of the concerns of Brexit. So, does this put reform in a stronger position? Are we looking at\n\nanother Labour leader? You know, people have been talking about Andy Burnham because he won -- this is the greater Manchester mayor. Is this still a battle of Labour versus reform? And if so, what does Starmer leaving say about that race?\n\nBAKER: I think the first thing to say is, your point about Brexit is right. Essentially, what we've seen over the past decade is British voters trying to, in various ways, push a button marked change, whether that was for Brexit, whether that was for Boris Johnson, who was saying, I'm going to get Brexit done. Then the Tories had a whole host of different scandals. So, then they wanted change again with Keir Starmer. And they feel like they haven't got it. So, now, two years in, Andy Burnham is presenting himself as the Labour person who can deliver that longed for change.\n\nBut I think you're right. I think the real battle that is scaring a lot of Labour MPs is the threat of Nigel Farage and reform. And that's really what led to the most recent crisis was the reform party doing very well in the local elections, a.k.a. the mid-term elections here.\n\nAnd so I think, unless Andy Burnham can -- who looks like he's going to take over for -- as prime minister, the very popular mayor of Manchester here, unless he can really deliver quickly in the next two to three years, there will be people again looking at reform going, well, we've tried everything now. We haven't got the change we wanted. We voted Brexit. That didn't work. We voted for a whole host of different prime ministers. Nothing is working. And so, reforms pitch is very much, we are the insurgent populist party that can actually smash up the status quo, smash up the establishment and finally deliver change. But it's kind of a -- a bit of a Houdini act, really, because, obviously, Nigel Farage was one of the main architects of Brexit in the first place and many feel that Brexit hasn't been a success.\n\nCORNISH: Yes. Well, Patrick Baker, thank you so much. You're going to have a busy day ahead. Appreciate it.\n\nCORNISH: Now I want to turn to Italy because the president has doubled down on his feud with the prime minister there. And it's basically over this photo. Trump posted on Truth Social that Giorgia Meloni is, quote, \"doing poorly in Italy with her level of popularity.\" So Meloni responded saying, quote, \"my popularity is none of your concern, and I suggest you focus on yours.\"\n\nNow, this back and forth basically started when the U.S. president accused the Italian prime minister of begging for a photo with him during the G7 Summit last week, which is not how she remembers it.\n\nGIORGIA MELONI, ITALIAN PRIME MINISTER (through translator): Donald Trump's statements are completely made up. I am frankly astonished. I don't know why the president of the United States behaves like this toward his allies. There is one thing he should remember, neither I nor Italy ever beg.\n\nCORNISH: Group chat is back.\n\nWith friends like these, as we say.\n\nI don't know who wants to go first, but why do you think this is persisting the way it is?\n\nELENA SCHNEIDER, NATIONAL POLITICAL REPORTER, \"NOTUS\": Well, look, Giorgia Meloni is somebody who is seen as a staunch ally of the president. She was one of the only -- I think the only foreign dignitary who attended his inauguration in 2025. This has been a really warm, strong relationship where she was sort of seen as the leader amongst NATO leaders who could really reach the president. And I think it is really notable that this spat has continued because I think it reflects his larger frustration with NATO allies over this U.S.-Iran conflict.\n\nAnd let's not forget that this spat sort of started a couple of weeks ago when he -- when Donald Trump attacked the pope and then Giorgia Meloni, you know, defended the pope in light of the U.S.-Iran War.\n\nCORNISH: There is -- let's go back to the offense. The offense is not backing up Trump when the pope stood up to him.\n\nJULIA MANCHESTER, NATIONAL POLITICAL REPORTER, \"THE HILL\": Absolutely. And we know that Giorgia Meloni has been, like you said. Elena, an ally of the president. She spoke at things like CPAC, for example. She's been a popular figure even within the American conservative movement.\n\nCORNISH: Yes. Because they've backed a lot of right-wing parties in Europe.\n\nMANCHESTER: Yes, in Europe.\n\nCORNISH: That's their whole thing.\n\nMANCHESTER: But, you know, taking a step back from that, it's fascinating to see sort of, you know, I guess, I don't want to say the decline, but maybe the tensions that are rising between Trump and many European leaders, like Meloni, at this time during NATO -- because of the Iraq war, NATO tensions, et cetera.\n\nCORNISH: Yes. So, humiliates Meloni.\n\nCORNISH: Starmer steps down. He kicks dirt over it by pre-announcing it.\n\nCORNISH: I don't really know who's left.\n\nMANCHESTER: Yes, but at the same time though, in terms of who's left, we see --\n\nMANCHESTER: Yes. The administration is turning their direction towards Latin America. And yesterday we did see the right wing, Trump-backed conservative leader in Colombia's election win.\n\nCORNISH: Yes, good call.\n\nMANCHESTER: So, you're seeing, I think, more of this support from the Trump administration in Latin America as they maybe turn away from Europe.\n\nCORNISH: Well, just in terms of this battle with Italy, the foreign minister actually just canceled a trip to the U.S. where they were going to have a business investment and science forum in Miami. Marco Rubio was supposed to be there. I mean, I don't know how big the business is with Italy, but they're trying to make a point here by saying, we're not showing up to this thing. And when I looked at the papers this morning there, just a quote here from somebody, this is in, I think, \"Libero.\" This person says, \"I hate to say it, but I can't find, and perhaps there isn't, another way to say it: Donald Trump is an idiot. Period.\"\n\nELEANOR MUELLER, WHITE HOUSE ECONOMY POLICY REPORTER, \"SEMAFOR\": It's worth reiterating. I mean these are people who agree with Trump ideologically. And we've seen similar splits with folks who, again, think similarly to him in France and Germany. It's not just Carney in Canada who is not on the same page as Trump on many of these things to begin with. It's people who should be his strongest allies abroad. And because --\n\nCORNISH: Yes. But she also has wiggle room. Like, when I look at the approval ratings between Trump and Meloni and the pope, like, she's got room -- if you're going to back somebody, are you going to back the guy with 78 percent approval rating or 36?\n\nMUELLER: It's a political calculation. They know that Trump is not only polling well in the United States, but he's not polling well in their countries. And so, if you've -- you're looking to pull yourself up a little bit, this is maybe an excuse to do it by leaning into these clashes that Trump seems so willing to start unprompted.\n\nCORNISH: One more thing. Is it also maybe because, like, they're not -- they didn't fare so well in the tariff conversations. Like, it's not clear to me what the benefit is to be a friend of Trump in this scenario.\n\nSCHNEIDER: Yes. CORNISH: Like slightly less tariffs or?\n\nSCHNEIDER: I think that's a totally fair point. I mean, look, he has not only obviously gone after just Italy, but a whole host of European countries.\n\nLet's not forget where a lot of this also started, which was his attempt to take over Greenland, where he refused to rule out military force in an attempt to go after a NATO ally. So, look, this is -- this has been many years now in this second Trump term where we have seen him really go after allies in addition to who he sees as adversaries.\n\nCORNISH: Yes. But oddly self-inflicted.\n\nOK, you guys, stay with me.\n\nIt's now 45 minutes past the hour. This is our morning roundup.\n\nRepublican Senator Lindsey Graham warning President Trump not to let a critical foreign surveillance tool lapse any longer. Trump stalled his DNI pick, Jay Clayton's confirmation after learning that Democrats were going to let the FISA rule laps, something that Graham argues is playing with fire.\n\nSEN. LINDSEY GRAHAM (R-SC): And I would urge President Trump to let Clayton testify and that we nominate Clayton and get him affirmed as the new DNI. We don't want FISA to go dark. There's too many threats to our country for 702 to go down. Anybody who owns the shutting down of 702 under FISA will own a future attack against the United States.\n\nCORNISH: Graham also says that the top Democrat on the intelligence committee tells him there are enough Democratic votes to reauthorize FISA if Clayton's nomination is confirmed.\n\nAnd dozens of residents in Louisiana displaced this morning after flood waters from Tropical Storm Arthur. This is reportedly the most flooding the area has seen in decades.\n\nUNIDENTIFIED MALE: We're blessed to not have any fatalities.\n\nUNIDENTIFIED MALE: We just decided to come in today and see what we could do to help.\n\nUNIDENTIFIED MALE: What are you going to do?\n\nUNIDENTIFIED MALE: Start over.\n\nCORNISH: A flood warning for the area is in effect through tonight. And Serena Williams set to make another big return at Wimbledon.\n\nWilliams accepted a wild card invitation to play singles. The 44-year- old recently returned to competition after announcing her retirement four years back. Williams had already planned to play at Wimbledon, competing in doubles with her sister Venus. And Wimbledon starts next week.\n\nNext on CNN THIS MORNING, is Gavin Newsom betting on Biden. The group chat will be back to discuss the new reporting on why he might be leaning in on the former president's legacy ahead of 2028.\n\nCORNISH: So, there's a new report in \"Axios\" providing some insight into a possible Gavin Newsom presidential run. Newsom is reportedly gambling on embracing former President Joe Biden, thinking that will be a popular position among Democrats. Even after Biden had to drop out of his re-election bid, Newsom has still spoken favorably of Biden's presidency.\n\nGOV. GAVIN NEWSOM (D-CA): His experiences mirror so many of my fathers. And I see my father in so many ways, the way I see President Biden. That's one of the reasons I was so loyal to the end and I happily will take the arrows on that and defend that.\n\nAnd we'll continue to build on the legacy, I would argue, of our former president, who I think was one of the most successful presidents in the last century, and that is Joe Biden. And I will defend that to my grave.\n\nCORNISH: Group chat is back.\n\nSo, I don't know how you split the Biden presidency and whatever it's legislative achievements were, or economic achievements were, with the decision to run again and the meltdown that happened in the process.\n\nMUELLER: Very difficult calculus to do that I think a lot of Democratic hopefuls have decided is not possible. We've seen folks like Brian Schatz (ph) happily critique Biden for his performance across the (INAUDIBLE), not just at the end.\n\nCORNISH: Yes, everyone coming out with their books and, yes, either --\n\nMUELLER: Exactly. But I don't think anyone can accuse Gavin Newsom of not being a very calculating politician. And so, clearly, he thinks that there is benefit to be found here. Whether that's, you know, Biden's support with black and Latinx voters or what.\n\nCORNISH: Yes, let's show that. His favorability with black voters right now, 53 percent for Biden remaining and with Latino voters, 40 percent. We know that, especially after black and Latino men and some nominal but helpful numbers went to Trump, that they'd like to bring this community back.\n\nAnd also I want to show you one more set of numbers, favorability ratings for Trump versus Biden, because they're close. And if you're Trump, you don't want them close. But if you're Newsom, you're like, ah, a window.\n\nMANCHESTER: Not so bad. But, you know, it is certainly, I think, a gamble for Gavin Newsom to do this right now. He is calculating on the point about black and Latino voters. That's certainly a very good point, especially as President Trump loses support from that bloc, from when he gained support with, you know, a certain amount of support in 2024.\n\nBut I think it comes at a time when you're seeing the Democratic Party start to maybe go in a different direction. You know, you're seeing the popping up of these Democratic socialist candidates in a number of different parts of the country.\n\nAnd, you know, a lot of it could be ideological. But I do also think a lot of it is generational. So, for someone like --\n\nCORNISH: So, he thinks that's the opening for him. Like you can grab all those people who are a little bit older --\n\nCORNISH: Aren't so enamored with the DSA or have big questions and say, don't worry, there's still a home for you. People who actually did kind of like Biden's policies.\n\nSCHNEIDER: And I think that he's very aware, as a lot of those potential 2028 candidates are, that South Carolina is still going to be intimately involved in the early nomination process, a state that has -- that where black voters are an enormously important part of the Democratic primary electorate there.\n\nCORNISH: Yes. But an older and slightly more conservative black voters.\n\nSCHNEIDER: Exactly. Exactly what I mean. And that's what rocket launched Joe Biden's own presidency in 2020. And I think that there is a -- an awareness that you can't just alienate those folks by saying, let's throw out Joe Biden altogether. I think he's trying to thread this needle of acknowledging the successes that Joe Biden had. But I also --\n\nCORNISH: Yes. And the, reminds me of my dad is very, like, instead of everyone being like, oh, this doddering magoo (ph) is a problem. He's like, you know what, my father. Like this, yes, let's remember.\n\nSCHNEIDER: Let's remember the positive feelings about it. And also, to your point about generational, a distinction of, my father, as opposed to, my peer or something like that.\n\nCORNISH: Yes, here's Hunter Biden. I got to play this one other thing because this Gavin Newsom podcast really great with the bookings. Here's Hunter Biden.\n\nHUNTER BIDNE, FORMER PRESIDENT BIDEN'S SON: OK, wait, one thing is just, you've heard dad say it a million times is, I'll come campaign for you or against you, whatever helps most. And, you know, he would say --\n\nGOV. GAVIN NEWSOM (D-CA): And put his finger in my stomach.\n\nBIDEN: Yes. And he would say it and you'd be like, you know, it was -- it was silly because of course you'd want him to come out. In my case, it's for real.\n\nCORNISH: OK, he's joking, but Biden's been on a tour, Junior Biden, trying to rehabilitate. But he has a very clear-eyed way of talking about it.\n\nMANCHESTER: He does. And it's interesting to see him on X in particular. And I understand that social media is not always real life --\n\nCORNISH: He's trolling, yes.\n\nMANCHESTER: But he's becoming a personality and responding to the trolls, to maybe conservatives who are pushing back. So, that's been fascinating to watch.\n\nCORNISH: All right, it's Monday. We all have a bunch of reporting we're about to be assigned. And to get ahead of those editor assignments that we don't like, we have ideas of our own.\n\nWhat's in your group chat, Eleanor?\n\nMUELLER: I don't think my editor is going to go over this one.\n\nCORNISH: Oh, no? No? It's all right.\n\nMUELLER: We adopted a dog recently. His name is Stanley. And we got him from Old Dominion Humane Society in Fredericksburg, Virginia. They are amazing. He's four years old. He was saved from a hoarder situation. Some lady had 70 dogs in her RV. So, again, shout out to Old Dominion Humane Society. And we are so happy to have Stanley.\n\nCORNISH: Oh, my gosh. OK.\n\nMANCHESTER: My group chat is World Cup related.\n\nMANCHESTER: So, Sam Adams' parent company, The Boston Beer Company, said in a news release last year that basically the Tartan Army, which are the Scottish fans that are taking over the city of Boston, drank four times what the company normally stocks during a typical four day weekend, including the Fourth of July. So, once again, the Scots putting Bostonians to shame.\n\nCORNISH: This is breaking news in my hometown.\n\nCORNISH: Like, the idea that you could like go to Boston, Fenway.\n\nMANCHESTER: Have a -- exactly.\n\nCORNISH: I mean, people know how to drink there, OK. And they just -- they embarrassed them.\n\nMANCHESTER: They're putting them to shame. Yes.\n\nCORNISH: They embarrassed them. OK.\n\nSCHNEIDER: Well, I have to say, mine is also World Cup related. The whole Elmo dust up has been really fun to watch because there's nothing I love more than like a low stakes drama in which like we're all sort of worried about Elmo's safety and security in this moment.\n\nBut no, seriously, another sort of New York related thing is we've got elections, primaries in New York coming up tomorrow. And I think what's going to come out of those races, those primaries, is going to be so telling about where the Democratic Party is headed.\n\nSCHNEIDER: And I think it's going to be a fascinating night that we're all going to be up late watching.\n\nCORNISH: And what is Zohran Mamdani's power beyond himself, right?\n\nSCHNEIDER: Completely.\n\nCORNISH: That's always the thing. You can have a big win, but do you have the ability to propel others around you? I think that's something people are going to be watching very closely.\n\nSCHNEIDER: And he's sticking his neck out in three different house races. And it's going to be really fascinating to see whether or not that works.\n\nCORNISH: All right, you guys, thank you so much for being with us. I want to bring people up to speed on one more thing. We are awaiting remarks from the vice president, J.D. Vance. He is in Switzerland for the latest in those U.S. and Iran talks.\n\nBasically, in the last 24 hours, he's arrived there to launch the talks. And there's been a lot of friction. Last week we were reporting to you about continued exchange of fire between Hezbollah and Lebanon and Israel. This has become a major sticking point in these talks as Tehran tries to make it part of the overall ceasefire deal. And the Israeli government's frustrations boiling over with the U.S. because they weren't a part of this process at all.\n\nSo, I think a lot of people are waiting to see how J.D. Vance will thread this needle. And this is day two of these negotiations.\n\nThe technical teams are supposed to sit down. By technical we're talking about the details to be ironed out around enriched uranium and other issues around Iran's nuclear program, which are currently, based on this deal, at status quo.\n\nSo, please stay with us. We are awaiting J.D. Vance to come to that podium. I'm Audie Cornish. And the headlines are next.",
+  "segments": [
+    {
+      "seg": 2,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-22/segment/02",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nPatrick Baker is Interviewed about Starmer's Resignation; Trump's Feud with Italian PM; Newsom Embraces Biden. Aired 6:30-7a ET\n\nAired June 22, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nAUDIE CORNISH, CNN ANCHOR: Good morning, everybody. I'm Audie Cornish. Thank you for joining me on CNN THIS MORNING.\n\nIt is now half past the hour. And here's what's happening right now.\n\nAt least two people are dead after a tornado outbreak in the Mideast. More -- in the Midwest. More than three dozen tornado reports were logged in the region by the storm prediction center. The deaths happened at two separate mobile homes in rural Illinois yesterday. Now that storm system is moving into the mid-Atlantic.\n\nAnd the DEA reportedly allowed hundreds of thousands of fentanyl pills to circulate in New Mexico between 2023 and 2025. That's according to three current and former DEA agents who spoke with the \"Associated Press.\"\n\nIt was a controversial tactic aimed at building larger criminal cases against drug traffickers. They claim, quote, \"we 100 percent got people killed.\n\nAnd this morning, Vice President J.D. Vance is in Switzerland for high-level diplomatic talks with Iranian officials. Sunday the two sides held marathon talks to try to establish a long term peace agreement with Iran. But the talks so far have been described as positive and constructive according to mediators from Pakistan and Qatar.\n\nAnd this morning, British Prime Minister Keir Starmer, resigning.\n\nKEIR STARMER, BRITISH PRIME MINISTER: The question my party is asking now is whether I am best placed to lead us into the next general election. I have heard the answer of my parliamentary party to that question. And I accept that answer with good grace.\n\n(END VIDEO CLIP) CORNISH: Now, nominations to select a new Labour Party leader are set to open early next month. Starmer says he hopes a new prime minister will be in place when parliament returns from summer recess. That's in September. Starmer's resignation comes just shy of two years into his tenure.\n\nJoining me now to discuss, Patrick Baker, host of \"Politico's\" \"Westminster Insider\" podcast.\n\nGood morning. Thank you so much for being here.\n\nPATRICK BAKER, HOST, \"POLITICO'S\" \"WESTMINSTER INSIDER\" PODCAST: Hi. Great to be with you.\n\nCORNISH: Now, I just want to remind people, there's been almost half a dozen prime ministers since Brexit, and it's been a decade since Brexit. So, I think, to the American public, we see a lot of churn. What was it that took Starmer down in the end?\n\nBAKER: I think when Starmer got elected two years ago on this mandate of change, that was the Labour Party's slogan into the last election almost exactly two years ago, there was a real desire and a real hope that they would be different to the conservative party that had gone before, who had, as you say, had run through a whole host of different prime ministers. Keir Starmer's pitch was, I'm the man to bring stability and order to British politics, but they basically made a series of what felt like unforced errors right at the start, which really set the tone. They decided to cut winter fuel allowance for elderly people in a move that was kind of seen as really typically un- Labour. And also there was a scandal over Keir Starmer accepting free gifts as prime minister, like a suit, glasses, those kind of things. Kind of sounds like small things, but this really at the start of those two years, set the framing, set the tone for people to kind of start to wonder, actually, is this government very different to what we've seen before?\n\nNow, obviously, as it's developed, we've seen more recently there's been a real scandal over the appointment of Peter Mandelson, the ambassador to the United States. And his judgment has really been called into question over that, as we found out more and more through the constant release of the Jeffrey Epstein files, that I know viewers on your side of the pond will be familiar with this story --\n\nBAKER: As one of those that just seem to go away. And I think that is really what's thrown it more recently into a kind of state of crisis. So, yes, it's been a wild ride.\n\nCORNISH: I want to -- as he was speaking this morning at Downing Street, I was like, is that music? There was like this music playing behind him. And it turned out it was protesters who were blasting the anthem for the E.U., because it has been almost ten years since the Brexit vote. But since Brexit, there's been the pandemic, the Ukrainian war, I didn't realize this, but an immigration surge as U.K. tried to mitigate some of the concerns of Brexit. So, does this put reform in a stronger position? Are we looking at\n\nanother Labour leader? You know, people have been talking about Andy Burnham because he won -- this is the greater Manchester mayor. Is this still a battle of Labour versus reform? And if so, what does Starmer leaving say about that race?\n\nBAKER: I think the first thing to say is, your point about Brexit is right. Essentially, what we've seen over the past decade is British voters trying to, in various ways, push a button marked change, whether that was for Brexit, whether that was for Boris Johnson, who was saying, I'm going to get Brexit done. Then the Tories had a whole host of different scandals. So, then they wanted change again with Keir Starmer. And they feel like they haven't got it. So, now, two years in, Andy Burnham is presenting himself as the Labour person who can deliver that longed for change.\n\nBut I think you're right. I think the real battle that is scaring a lot of Labour MPs is the threat of Nigel Farage and reform. And that's really what led to the most recent crisis was the reform party doing very well in the local elections, a.k.a. the mid-term elections here.\n\nAnd so I think, unless Andy Burnham can -- who looks like he's going to take over for -- as prime minister, the very popular mayor of Manchester here, unless he can really deliver quickly in the next two to three years, there will be people again looking at reform going, well, we've tried everything now. We haven't got the change we wanted. We voted Brexit. That didn't work. We voted for a whole host of different prime ministers. Nothing is working. And so, reforms pitch is very much, we are the insurgent populist party that can actually smash up the status quo, smash up the establishment and finally deliver change. But it's kind of a -- a bit of a Houdini act, really, because, obviously, Nigel Farage was one of the main architects of Brexit in the first place and many feel that Brexit hasn't been a success.\n\nCORNISH: Yes. Well, Patrick Baker, thank you so much. You're going to have a busy day ahead. Appreciate it.\n\nCORNISH: Now I want to turn to Italy because the president has doubled down on his feud with the prime minister there. And it's basically over this photo. Trump posted on Truth Social that Giorgia Meloni is, quote, \"doing poorly in Italy with her level of popularity.\" So Meloni responded saying, quote, \"my popularity is none of your concern, and I suggest you focus on yours.\"\n\nNow, this back and forth basically started when the U.S. president accused the Italian prime minister of begging for a photo with him during the G7 Summit last week, which is not how she remembers it.\n\nGIORGIA MELONI, ITALIAN PRIME MINISTER (through translator): Donald Trump's statements are completely made up. I am frankly astonished. I don't know why the president of the United States behaves like this toward his allies. There is one thing he should remember, neither I nor Italy ever beg.\n\nCORNISH: Group chat is back.\n\nWith friends like these, as we say.\n\nI don't know who wants to go first, but why do you think this is persisting the way it is?\n\nELENA SCHNEIDER, NATIONAL POLITICAL REPORTER, \"NOTUS\": Well, look, Giorgia Meloni is somebody who is seen as a staunch ally of the president. She was one of the only -- I think the only foreign dignitary who attended his inauguration in 2025. This has been a really warm, strong relationship where she was sort of seen as the leader amongst NATO leaders who could really reach the president. And I think it is really notable that this spat has continued because I think it reflects his larger frustration with NATO allies over this U.S.-Iran conflict.\n\nAnd let's not forget that this spat sort of started a couple of weeks ago when he -- when Donald Trump attacked the pope and then Giorgia Meloni, you know, defended the pope in light of the U.S.-Iran War.\n\nCORNISH: There is -- let's go back to the offense. The offense is not backing up Trump when the pope stood up to him.\n\nJULIA MANCHESTER, NATIONAL POLITICAL REPORTER, \"THE HILL\": Absolutely. And we know that Giorgia Meloni has been, like you said. Elena, an ally of the president. She spoke at things like CPAC, for example. She's been a popular figure even within the American conservative movement.\n\nCORNISH: Yes. Because they've backed a lot of right-wing parties in Europe.\n\nMANCHESTER: Yes, in Europe.\n\nCORNISH: That's their whole thing.\n\nMANCHESTER: But, you know, taking a step back from that, it's fascinating to see sort of, you know, I guess, I don't want to say the decline, but maybe the tensions that are rising between Trump and many European leaders, like Meloni, at this time during NATO -- because of the Iraq war, NATO tensions, et cetera.\n\nCORNISH: Yes. So, humiliates Meloni.\n\nCORNISH: Starmer steps down. He kicks dirt over it by pre-announcing it.\n\nCORNISH: I don't really know who's left.\n\nMANCHESTER: Yes, but at the same time though, in terms of who's left, we see --\n\nMANCHESTER: Yes. The administration is turning their direction towards Latin America. And yesterday we did see the right wing, Trump-backed conservative leader in Colombia's election win.\n\nCORNISH: Yes, good call.\n\nMANCHESTER: So, you're seeing, I think, more of this support from the Trump administration in Latin America as they maybe turn away from Europe.\n\nCORNISH: Well, just in terms of this battle with Italy, the foreign minister actually just canceled a trip to the U.S. where they were going to have a business investment and science forum in Miami. Marco Rubio was supposed to be there. I mean, I don't know how big the business is with Italy, but they're trying to make a point here by saying, we're not showing up to this thing. And when I looked at the papers this morning there, just a quote here from somebody, this is in, I think, \"Libero.\" This person says, \"I hate to say it, but I can't find, and perhaps there isn't, another way to say it: Donald Trump is an idiot. Period.\"\n\nELEANOR MUELLER, WHITE HOUSE ECONOMY POLICY REPORTER, \"SEMAFOR\": It's worth reiterating. I mean these are people who agree with Trump ideologically. And we've seen similar splits with folks who, again, think similarly to him in France and Germany. It's not just Carney in Canada who is not on the same page as Trump on many of these things to begin with. It's people who should be his strongest allies abroad. And because --\n\nCORNISH: Yes. But she also has wiggle room. Like, when I look at the approval ratings between Trump and Meloni and the pope, like, she's got room -- if you're going to back somebody, are you going to back the guy with 78 percent approval rating or 36?\n\nMUELLER: It's a political calculation. They know that Trump is not only polling well in the United States, but he's not polling well in their countries. And so, if you've -- you're looking to pull yourself up a little bit, this is maybe an excuse to do it by leaning into these clashes that Trump seems so willing to start unprompted.\n\nCORNISH: One more thing. Is it also maybe because, like, they're not -- they didn't fare so well in the tariff conversations. Like, it's not clear to me what the benefit is to be a friend of Trump in this scenario.\n\nSCHNEIDER: Yes. CORNISH: Like slightly less tariffs or?\n\nSCHNEIDER: I think that's a totally fair point. I mean, look, he has not only obviously gone after just Italy, but a whole host of European countries.\n\nLet's not forget where a lot of this also started, which was his attempt to take over Greenland, where he refused to rule out military force in an attempt to go after a NATO ally. So, look, this is -- this has been many years now in this second Trump term where we have seen him really go after allies in addition to who he sees as adversaries.\n\nCORNISH: Yes. But oddly self-inflicted.\n\nOK, you guys, stay with me.\n\nIt's now 45 minutes past the hour. This is our morning roundup.\n\nRepublican Senator Lindsey Graham warning President Trump not to let a critical foreign surveillance tool lapse any longer. Trump stalled his DNI pick, Jay Clayton's confirmation after learning that Democrats were going to let the FISA rule laps, something that Graham argues is playing with fire.\n\nSEN. LINDSEY GRAHAM (R-SC): And I would urge President Trump to let Clayton testify and that we nominate Clayton and get him affirmed as the new DNI. We don't want FISA to go dark. There's too many threats to our country for 702 to go down. Anybody who owns the shutting down of 702 under FISA will own a future attack against the United States.\n\nCORNISH: Graham also says that the top Democrat on the intelligence committee tells him there are enough Democratic votes to reauthorize FISA if Clayton's nomination is confirmed.\n\nAnd dozens of residents in Louisiana displaced this morning after flood waters from Tropical Storm Arthur. This is reportedly the most flooding the area has seen in decades.\n\nUNIDENTIFIED MALE: We're blessed to not have any fatalities.\n\nUNIDENTIFIED MALE: We just decided to come in today and see what we could do to help.\n\nUNIDENTIFIED MALE: What are you going to do?\n\nUNIDENTIFIED MALE: Start over.\n\nCORNISH: A flood warning for the area is in effect through tonight. And Serena Williams set to make another big return at Wimbledon.\n\nWilliams accepted a wild card invitation to play singles. The 44-year- old recently returned to competition after announcing her retirement four years back. Williams had already planned to play at Wimbledon, competing in doubles with her sister Venus. And Wimbledon starts next week.\n\nNext on CNN THIS MORNING, is Gavin Newsom betting on Biden. The group chat will be back to discuss the new reporting on why he might be leaning in on the former president's legacy ahead of 2028.\n\nCORNISH: So, there's a new report in \"Axios\" providing some insight into a possible Gavin Newsom presidential run. Newsom is reportedly gambling on embracing former President Joe Biden, thinking that will be a popular position among Democrats. Even after Biden had to drop out of his re-election bid, Newsom has still spoken favorably of Biden's presidency.\n\nGOV. GAVIN NEWSOM (D-CA): His experiences mirror so many of my fathers. And I see my father in so many ways, the way I see President Biden. That's one of the reasons I was so loyal to the end and I happily will take the arrows on that and defend that.\n\nAnd we'll continue to build on the legacy, I would argue, of our former president, who I think was one of the most successful presidents in the last century, and that is Joe Biden. And I will defend that to my grave.\n\nCORNISH: Group chat is back.\n\nSo, I don't know how you split the Biden presidency and whatever it's legislative achievements were, or economic achievements were, with the decision to run again and the meltdown that happened in the process.\n\nMUELLER: Very difficult calculus to do that I think a lot of Democratic hopefuls have decided is not possible. We've seen folks like Brian Schatz (ph) happily critique Biden for his performance across the (INAUDIBLE), not just at the end.\n\nCORNISH: Yes, everyone coming out with their books and, yes, either --\n\nMUELLER: Exactly. But I don't think anyone can accuse Gavin Newsom of not being a very calculating politician. And so, clearly, he thinks that there is benefit to be found here. Whether that's, you know, Biden's support with black and Latinx voters or what.\n\nCORNISH: Yes, let's show that. His favorability with black voters right now, 53 percent for Biden remaining and with Latino voters, 40 percent. We know that, especially after black and Latino men and some nominal but helpful numbers went to Trump, that they'd like to bring this community back.\n\nAnd also I want to show you one more set of numbers, favorability ratings for Trump versus Biden, because they're close. And if you're Trump, you don't want them close. But if you're Newsom, you're like, ah, a window.\n\nMANCHESTER: Not so bad. But, you know, it is certainly, I think, a gamble for Gavin Newsom to do this right now. He is calculating on the point about black and Latino voters. That's certainly a very good point, especially as President Trump loses support from that bloc, from when he gained support with, you know, a certain amount of support in 2024.\n\nBut I think it comes at a time when you're seeing the Democratic Party start to maybe go in a different direction. You know, you're seeing the popping up of these Democratic socialist candidates in a number of different parts of the country.\n\nAnd, you know, a lot of it could be ideological. But I do also think a lot of it is generational. So, for someone like --\n\nCORNISH: So, he thinks that's the opening for him. Like you can grab all those people who are a little bit older --\n\nCORNISH: Aren't so enamored with the DSA or have big questions and say, don't worry, there's still a home for you. People who actually did kind of like Biden's policies.\n\nSCHNEIDER: And I think that he's very aware, as a lot of those potential 2028 candidates are, that South Carolina is still going to be intimately involved in the early nomination process, a state that has -- that where black voters are an enormously important part of the Democratic primary electorate there.\n\nCORNISH: Yes. But an older and slightly more conservative black voters.\n\nSCHNEIDER: Exactly. Exactly what I mean. And that's what rocket launched Joe Biden's own presidency in 2020. And I think that there is a -- an awareness that you can't just alienate those folks by saying, let's throw out Joe Biden altogether. I think he's trying to thread this needle of acknowledging the successes that Joe Biden had. But I also --\n\nCORNISH: Yes. And the, reminds me of my dad is very, like, instead of everyone being like, oh, this doddering magoo (ph) is a problem. He's like, you know what, my father. Like this, yes, let's remember.\n\nSCHNEIDER: Let's remember the positive feelings about it. And also, to your point about generational, a distinction of, my father, as opposed to, my peer or something like that.\n\nCORNISH: Yes, here's Hunter Biden. I got to play this one other thing because this Gavin Newsom podcast really great with the bookings. Here's Hunter Biden.\n\nHUNTER BIDNE, FORMER PRESIDENT BIDEN'S SON: OK, wait, one thing is just, you've heard dad say it a million times is, I'll come campaign for you or against you, whatever helps most. And, you know, he would say --\n\nGOV. GAVIN NEWSOM (D-CA): And put his finger in my stomach.\n\nBIDEN: Yes. And he would say it and you'd be like, you know, it was -- it was silly because of course you'd want him to come out. In my case, it's for real.\n\nCORNISH: OK, he's joking, but Biden's been on a tour, Junior Biden, trying to rehabilitate. But he has a very clear-eyed way of talking about it.\n\nMANCHESTER: He does. And it's interesting to see him on X in particular. And I understand that social media is not always real life --\n\nCORNISH: He's trolling, yes.\n\nMANCHESTER: But he's becoming a personality and responding to the trolls, to maybe conservatives who are pushing back. So, that's been fascinating to watch.\n\nCORNISH: All right, it's Monday. We all have a bunch of reporting we're about to be assigned. And to get ahead of those editor assignments that we don't like, we have ideas of our own.\n\nWhat's in your group chat, Eleanor?\n\nMUELLER: I don't think my editor is going to go over this one.\n\nCORNISH: Oh, no? No? It's all right.\n\nMUELLER: We adopted a dog recently. His name is Stanley. And we got him from Old Dominion Humane Society in Fredericksburg, Virginia. They are amazing. He's four years old. He was saved from a hoarder situation. Some lady had 70 dogs in her RV. So, again, shout out to Old Dominion Humane Society. And we are so happy to have Stanley.\n\nCORNISH: Oh, my gosh. OK.\n\nMANCHESTER: My group chat is World Cup related.\n\nMANCHESTER: So, Sam Adams' parent company, The Boston Beer Company, said in a news release last year that basically the Tartan Army, which are the Scottish fans that are taking over the city of Boston, drank four times what the company normally stocks during a typical four day weekend, including the Fourth of July. So, once again, the Scots putting Bostonians to shame.\n\nCORNISH: This is breaking news in my hometown.\n\nCORNISH: Like, the idea that you could like go to Boston, Fenway.\n\nMANCHESTER: Have a -- exactly.\n\nCORNISH: I mean, people know how to drink there, OK. And they just -- they embarrassed them.\n\nMANCHESTER: They're putting them to shame. Yes.\n\nCORNISH: They embarrassed them. OK.\n\nSCHNEIDER: Well, I have to say, mine is also World Cup related. The whole Elmo dust up has been really fun to watch because there's nothing I love more than like a low stakes drama in which like we're all sort of worried about Elmo's safety and security in this moment.\n\nBut no, seriously, another sort of New York related thing is we've got elections, primaries in New York coming up tomorrow. And I think what's going to come out of those races, those primaries, is going to be so telling about where the Democratic Party is headed.\n\nSCHNEIDER: And I think it's going to be a fascinating night that we're all going to be up late watching.\n\nCORNISH: And what is Zohran Mamdani's power beyond himself, right?\n\nSCHNEIDER: Completely.\n\nCORNISH: That's always the thing. You can have a big win, but do you have the ability to propel others around you? I think that's something people are going to be watching very closely.\n\nSCHNEIDER: And he's sticking his neck out in three different house races. And it's going to be really fascinating to see whether or not that works.\n\nCORNISH: All right, you guys, thank you so much for being with us. I want to bring people up to speed on one more thing. We are awaiting remarks from the vice president, J.D. Vance. He is in Switzerland for the latest in those U.S. and Iran talks.\n\nBasically, in the last 24 hours, he's arrived there to launch the talks. And there's been a lot of friction. Last week we were reporting to you about continued exchange of fire between Hezbollah and Lebanon and Israel. This has become a major sticking point in these talks as Tehran tries to make it part of the overall ceasefire deal. And the Israeli government's frustrations boiling over with the U.S. because they weren't a part of this process at all.\n\nSo, I think a lot of people are waiting to see how J.D. Vance will thread this needle. And this is day two of these negotiations.\n\nThe technical teams are supposed to sit down. By technical we're talking about the details to be ironed out around enriched uranium and other issues around Iran's nuclear program, which are currently, based on this deal, at status quo.\n\nSo, please stay with us. We are awaiting J.D. Vance to come to that podium. I'm Audie Cornish. And the headlines are next."
+    }
+  ]
+}
