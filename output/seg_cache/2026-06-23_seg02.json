@@ -1,0 +1,434 @@
+{
+  "date": "2026-06-23",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-23/segment/02",
+  "vocabulary": [
+    {
+      "word": "docket",
+      "phonetic": "/ˈdɑːkɪt/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "待审案件清单",
+      "en": "a list of cases to be heard in a court",
+      "excerpt": "the Supreme Court expected to release some opinions for its outstanding docket",
+      "example_cn": "最高法院预计将就其未决案件清单发布一些意见。"
+    },
+    {
+      "word": "birthright citizenship",
+      "phonetic": "/ˈbɜːrθraɪt ˈsɪtɪzənʃɪp/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "出生公民权",
+      "en": "the right to citizenship for anyone born in a country's territory",
+      "excerpt": "those include birthright citizenship",
+      "example_cn": "这些案件包括出生公民权。"
+    },
+    {
+      "word": "vested interest",
+      "phonetic": "/ˈvestɪd ˈɪntrəst/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "既得利益",
+      "en": "a personal stake or involvement in an undertaking",
+      "excerpt": "the Trump administration has a vested interest in",
+      "example_cn": "特朗普政府在这些案件中拥有既得利益。"
+    },
+    {
+      "word": "lash out",
+      "phonetic": "/læʃ aʊt/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "猛烈抨击",
+      "en": "to criticize someone or something angrily",
+      "excerpt": "Trump has already lashed out against the Supreme Court",
+      "example_cn": "特朗普已经猛烈抨击了最高法院。"
+    },
+    {
+      "word": "erode",
+      "phonetic": "/ɪˈroʊd/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "侵蚀，削弱",
+      "en": "to gradually destroy or weaken",
+      "excerpt": "further erode the relationship between the executive and judiciary",
+      "example_cn": "进一步削弱行政与司法部门之间的关系。"
+    },
+    {
+      "word": "dubious",
+      "phonetic": "/ˈduːbiəs/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "怀疑的，不确定的",
+      "en": "hesitating or doubting; not to be relied upon",
+      "excerpt": "legal experts have been extremely dubious about the entire time",
+      "example_cn": "法律专家一直对此极为怀疑。"
+    },
+    {
+      "word": "pivotal",
+      "phonetic": "/ˈpɪvətl/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "关键的",
+      "en": "of crucial importance in relation to the development or success of something else",
+      "excerpt": "became this, like, pivotal thing for Democrats",
+      "example_cn": "成为民主党人的关键问题。"
+    },
+    {
+      "word": "affinity",
+      "phonetic": "/əˈfɪnəti/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "亲和力，密切关系",
+      "en": "a natural liking for and understanding of someone or something",
+      "excerpt": "focused on their affinity, communities",
+      "example_cn": "专注于他们的亲和力、社区。"
+    },
+    {
+      "word": "grandstanding",
+      "phonetic": "/ˈɡrænstændɪŋ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "哗众取宠的行为",
+      "en": "acting in a showy or ostentatious way to attract attention",
+      "excerpt": "this will contribute to grandstanding",
+      "example_cn": "这将助长哗众取宠的行为。"
+    },
+    {
+      "word": "sycophant",
+      "phonetic": "/ˈsɪkəfænt/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "谄媚者，马屁精",
+      "en": "a person who acts obsequiously towards someone important to gain advantage",
+      "excerpt": "I think he's the worst form of sycophant",
+      "example_cn": "我认为他是最糟糕的谄媚者。"
+    },
+    {
+      "word": "lightning rod",
+      "phonetic": "/ˈlaɪtnɪŋ rɑːd/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "避雷针；引人注目的人或物",
+      "en": "a person or thing that attracts criticism or controversy",
+      "excerpt": "Bill is a lightning rod because he doesn't have any background in intelligence",
+      "example_cn": "比尔是个引人争议的人物，因为他没有任何情报背景。"
+    },
+    {
+      "word": "cage rattling",
+      "phonetic": "/keɪdʒ ˈrætlɪŋ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "挑衅行为，制造紧张",
+      "en": "actions intended to provoke or disturb",
+      "excerpt": "he actually did a lot of cage rattling within the West Wing",
+      "example_cn": "他确实在白宫西翼制造了很多紧张。"
+    },
+    {
+      "word": "rift",
+      "phonetic": "/rɪft/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "分裂，分歧",
+      "en": "a crack, split, or break in something; a serious disagreement",
+      "excerpt": "highlights a rift in the party",
+      "example_cn": "凸显了党内的分歧。"
+    },
+    {
+      "word": "dark money",
+      "phonetic": "/dɑːrk ˈmʌni/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "暗钱（政治捐款来源不公开）",
+      "en": "political money whose donors are not disclosed",
+      "excerpt": "They move millions in dark money",
+      "example_cn": "他们转移数百万暗钱。"
+    },
+    {
+      "word": "genocide",
+      "phonetic": "/ˈdʒenəsaɪd/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "种族灭绝",
+      "en": "the deliberate killing of a large group of people, especially those of a particular nation or ethnic group",
+      "excerpt": "an end to genocide in Netanyahu's wars",
+      "example_cn": "结束内塔尼亚胡战争中的种族灭绝。"
+    },
+    {
+      "word": "conflate",
+      "phonetic": "/kənˈfleɪt/",
+      "pos": "v.",
+      "level": "专八",
+      "cn": "合并，混淆",
+      "en": "combine (two or more sets of information, texts, ideas, etc.) into one",
+      "excerpt": "when people start conflating the actions of the Israeli government with American Jews",
+      "example_cn": "当人们开始将以色列政府的行为与美国犹太人混为一谈时。"
+    },
+    {
+      "word": "anti-Semitism",
+      "phonetic": "/ˌænti ˈsɛmɪtɪzəm/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "反犹太主义",
+      "en": "hostility to or prejudice against Jewish people",
+      "excerpt": "the rise in anti-Semitism",
+      "example_cn": "反犹太主义的抬头。"
+    },
+    {
+      "word": "demagogue",
+      "phonetic": "/ˈdɛməɡɑːɡ/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "煽动者，蛊惑人心的政客",
+      "en": "a political leader who seeks support by appealing to popular prejudices",
+      "excerpt": "the single most dangerous demagogue in this country",
+      "example_cn": "这个国家最危险的煽动者。"
+    },
+    {
+      "word": "flashpoint",
+      "phonetic": "/ˈflæʃpɔɪnt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "爆发点，导火索",
+      "en": "a place or event that is likely to become a focus of conflict",
+      "excerpt": "Israel is going to be a flashpoint",
+      "example_cn": "以色列将成为爆发点。"
+    },
+    {
+      "word": "betray",
+      "phonetic": "/bɪˈtreɪ/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "背叛",
+      "en": "be disloyal to",
+      "excerpt": "a party that betrays its voters and country",
+      "example_cn": "一个背叛其选民和国家的政党。"
+    },
+    {
+      "word": "sabotage",
+      "phonetic": "/ˈsæbətɑːʒ/",
+      "pos": "v./n.",
+      "level": "六级",
+      "cn": "蓄意破坏",
+      "en": "deliberately destroy, damage, or obstruct (something), especially for political or military advantage",
+      "excerpt": "who sabotaged the pool",
+      "example_cn": "谁破坏了水池。"
+    },
+    {
+      "word": "epoxy",
+      "phonetic": "/ɪˈpɑːksi/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "环氧树脂",
+      "en": "a type of strong adhesive or plastic",
+      "excerpt": "Epoxy. It's tough.",
+      "example_cn": "环氧树脂。很坚固。"
+    },
+    {
+      "word": "remit",
+      "phonetic": "/ˈriːmɪt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "职权范围",
+      "en": "the task or area of activity officially assigned to someone",
+      "excerpt": "It could be part of the remit.",
+      "example_cn": "这可能是其职责的一部分。"
+    },
+    {
+      "word": "indifference",
+      "phonetic": "/ɪnˈdɪfərəns/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "漠不关心",
+      "en": "lack of interest, concern, or sympathy",
+      "excerpt": "Me and my indifference to chemicals.",
+      "example_cn": "我和我对化学品的漠不关心。"
+    },
+    {
+      "word": "outstanding",
+      "phonetic": "/aʊtˈstændɪŋ/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "未解决的，未完成的",
+      "en": "not yet dealt with or resolved",
+      "excerpt": "cases still left outstanding",
+      "example_cn": "仍未解决的案件。"
+    },
+    {
+      "word": "interim",
+      "phonetic": "/ˈɪntərɪm/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "临时的",
+      "en": "in or for the intervening period; provisional",
+      "excerpt": "He's interim.",
+      "example_cn": "他是临时的。"
+    },
+    {
+      "word": "affirm",
+      "phonetic": "/əˈfɜːrm/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "确认，批准",
+      "en": "confirm or ratify (a position or appointment)",
+      "excerpt": "get him affirmed as the new DNI",
+      "example_cn": "让他被确认为新的国家情报总监。"
+    },
+    {
+      "word": "leak",
+      "phonetic": "/liːk/",
+      "pos": "n./v.",
+      "level": "考研",
+      "cn": "泄露",
+      "en": "an unintended disclosure of confidential information",
+      "excerpt": "the most leaked agency in the intelligence world",
+      "example_cn": "情报界泄露信息最多的机构。"
+    },
+    {
+      "word": "lawsuit",
+      "phonetic": "/ˈlɔːsuːt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "诉讼",
+      "en": "a claim or dispute brought to a court of law",
+      "excerpt": "It seems like the recipe for a lawsuit.",
+      "example_cn": "这似乎是引发诉讼的导火索。"
+    },
+    {
+      "word": "horseshoe politics",
+      "phonetic": "/ˈhɔːrʃuː ˈpɑːlətɪks/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "马蹄铁政治（极端左右翼趋同）",
+      "en": "the theory that the far left and far right are more similar to each other than to the center",
+      "excerpt": "The horseshoe politics.",
+      "example_cn": "马蹄铁政治。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Secretary of State Marco Rubio heads to the Middle East; he is the first White House official to do so after the signing of the U.S.-Iran memorandum of understanding.",
+      "cn": "国务卿马可·鲁比奥前往中东，他是美伊谅解备忘录签署后首位这样做的白宫官员。",
+      "structure": "主句 + 分号 + 并列句（含不定式短语作定语）",
+      "analysis": "分号连接两个并列句。第二个句子中不定式短语'to do so'作定语修饰'first White House official'。"
+    },
+    {
+      "en": "And quarantine finally over for the last eight American passengers exposed to hantavirus who were staying at a Nebraska facility.",
+      "cn": "最后八名接触过汉坦病毒的美国乘客的隔离终于结束，他们此前一直住在内布拉斯加州的一家设施内。",
+      "structure": "主句（省略系动词） + 过去分词短语作定语 + 定语从句",
+      "analysis": "主句为'quarantine finally over'，省略了'is'。过去分词短语'exposed to hantavirus'修饰'passengers'，定语从句'who were staying...'进一步修饰。"
+    },
+    {
+      "en": "And this morning the Supreme Court expected to release some opinions for its outstanding docket.",
+      "cn": "今天上午，最高法院预计将就其未决案件清单发布一些意见。",
+      "structure": "主句（被动语态） + 不定式短语",
+      "analysis": "主句为'the Supreme Court expected'，被动语态，不定式短语'to release...'作主语补足语。"
+    },
+    {
+      "en": "These are all opinions the Trump administration has a vested interest in.",
+      "cn": "这些都是特朗普政府拥有既得利益的意见。",
+      "structure": "主句 + 定语从句（省略关系代词）",
+      "analysis": "定语从句'the Trump administration has a vested interest in'修饰'opinions'，关系代词'that'被省略。"
+    },
+    {
+      "en": "And Trump has already lashed out against the Supreme Court over decisions relating to, say, his tariff policy.",
+      "cn": "特朗普已经就涉及他的关税政策等决定猛烈抨击了最高法院。",
+      "structure": "主句 + 介词短语 + 插入语",
+      "analysis": "主句为'Trump has lashed out'，介词短语'over decisions'说明原因，'relating to...'为现在分词短语作定语，'say'为插入语。"
+    },
+    {
+      "en": "It's one of those things where it's kind of in the Constitution.",
+      "cn": "这是那种有点写进宪法里的事情之一。",
+      "structure": "主句 + 定语从句",
+      "analysis": "定语从句'where it's kind of in the Constitution'修饰'things'，'where'相当于'in which'。"
+    },
+    {
+      "en": "And I do think that we could expect him, if it goes against him, to be very unhappy and not to be quiet about that because he is never quiet when he is unhappy.",
+      "cn": "我确实认为，如果结果对他不利，我们可以预期他会非常不高兴，并且不会对此保持沉默，因为他从不高兴时从不沉默。",
+      "structure": "主句 + 宾语从句（含条件状语从句和原因状语从句）",
+      "analysis": "主句'I do think'后接宾语从句'that we could expect him...'。宾语从句中包含条件状语从句'if it goes against him'和原因状语从句'because he is never quiet...'。"
+    },
+    {
+      "en": "In this case, it's two students challenging state laws, banning participation in their participation in girl's sports, arguing that it violates Title IX.",
+      "cn": "在这个案件中，两名学生挑战州法律，这些法律禁止她们参加女子体育项目，他们辩称这违反了《教育法修正案第九条》。",
+      "structure": "主句 + 现在分词短语作定语 + 现在分词短语作状语",
+      "analysis": "主句为'it's two students'，现在分词短语'challenging state laws'作定语修饰'students'，'banning...'和'arguing...'均为现在分词短语，分别作定语和伴随状语。"
+    },
+    {
+      "en": "And I think that you're already seeing Republicans use transgender, whether or not the Supreme Court does this or not, you're going to see two types of ads, and we're making hundreds of ads right now in these congressional seats.",
+      "cn": "我认为你已经看到共和党人利用跨性别问题，无论最高法院是否这样做，你都会看到两种类型的广告，我们现在正在这些国会席位中制作数百个广告。",
+      "structure": "主句 + 宾语从句（含让步状语从句和并列句）",
+      "analysis": "主句'I think'后接宾语从句'that you're already seeing...'。宾语从句中包含让步状语从句'whether or not...'和并列句'you're going to see...and we're making...'。"
+    },
+    {
+      "en": "There is a source telling CNN that the so-called, quote, deep state firings have begun at the Office of the Director of National Intelligence.",
+      "cn": "有消息人士告诉CNN，所谓的“深层政府”解雇行动已在国家情报总监办公室开始。",
+      "structure": "There be句型 + 现在分词短语作定语 + 宾语从句",
+      "analysis": "主句'There is a source'，现在分词短语'telling CNN...'作定语修饰'source'，其中包含宾语从句'that the so-called...have begun'。"
+    },
+    {
+      "en": "Bill Pulte, who comes from housing policy, that's not the person that anyone in the Senate seems to want.",
+      "cn": "比尔·普尔特，他来自住房政策领域，他不是参议院中任何人似乎想要的人。",
+      "structure": "主句 + 非限制性定语从句 + 定语从句",
+      "analysis": "主句为'that's not the person'，非限制性定语从句'who comes from housing policy'修饰'Bill Pulte'，定语从句'that anyone...seems to want'修饰'the person'。"
+    },
+    {
+      "en": "And I would urge President Trump to let Clayton testify.",
+      "cn": "我会敦促特朗普总统让克莱顿作证。",
+      "structure": "主句 + 不定式短语作宾语补足语",
+      "analysis": "主句'I would urge President Trump'，不定式短语'to let Clayton testify'作宾语补足语，其中'let'后接省略to的不定式'testify'。"
+    },
+    {
+      "en": "Anybody who owns the shutting down of 702 under FISA will own a future attack against the United States.",
+      "cn": "任何导致《外国情报监视法》第702条失效的人都将对未来针对美国的袭击负责。",
+      "structure": "主句 + 定语从句",
+      "analysis": "主句为'Anybody...will own a future attack'，定语从句'who owns the shutting down...'修饰'Anybody'。"
+    },
+    {
+      "en": "I think that what is happening here with Tucker Carlson, with Ted Cruz is various parts of what has been the Republican coalition figuring out what happens in a potential post-Trump reality and positioning themselves.",
+      "cn": "我认为，塔克·卡尔森和特德·克鲁兹身上发生的事情是，共和党联盟的不同部分正在弄清楚在潜在的后特朗普现实中会发生什么，并为自己定位。",
+      "structure": "主句 + 宾语从句（含主语从句和宾语从句）",
+      "analysis": "主句'I think'后接宾语从句'that what is happening...is various parts...'。宾语从句中主语从句'what is happening...'作主语，表语'various parts'后接介词短语'of what has been...'，其中'what has been...'为宾语从句。"
+    },
+    {
+      "en": "And I think that it is important that when we ask ourselves how such death and destruction is happening overseas, we also name those who allow it to take place.",
+      "cn": "我认为重要的是，当我们问自己这样的死亡和破坏是如何在海外发生时，我们也要点名那些允许它发生的人。",
+      "structure": "主句 + 宾语从句（含主语从句和状语从句）",
+      "analysis": "主句'I think'后接宾语从句'that it is important that...'。其中'it'为形式主语，真正主语为'that when we ask...we also name...'，包含时间状语从句'when we ask...'和定语从句'who allow it to take place'。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "Supreme Court Pending Cases",
+      "content": "The Supreme Court is expected to release opinions on several high-profile cases, including birthright citizenship, presidential firing authority, and transgender athletes. These cases have significant implications for the Trump administration and could affect the relationship between the executive and judiciary branches.",
+      "keywords": "Supreme Court, birthright citizenship, presidential firing authority, transgender athletes, Trump administration"
+    },
+    {
+      "title": "Bill Pulte and DNI Firings",
+      "content": "Bill Pulte, the acting Director of National Intelligence, has begun firing staff at the ODNI, raising concerns among Democrats and some Republicans about his lack of intelligence experience. The controversy highlights tensions between Trump's desire for retribution and the need for qualified leadership in national security.",
+      "keywords": "Bill Pulte, DNI, firings, intelligence community, Senate confirmation"
+    },
+    {
+      "title": "AIPAC and Democratic Party Rift",
+      "content": "AIPAC's significant campaign donations have become a flashpoint in Democratic primaries, with candidates like Mayor Zohran Mamdani refusing AIPAC funds and criticizing its influence. The issue reflects broader divisions within the party over Israel policy and the use of dark money in politics.",
+      "keywords": "AIPAC, Democratic Party, Israel, campaign finance, Zohran Mamdani"
+    },
+    {
+      "title": "Tucker Carlson Leaves Republican Party",
+      "content": "Tucker Carlson announced he is leaving the Republican Party, citing its loyalty to Israel over American interests. This move, along with similar sentiments from Marjorie Taylor Greene, signals a potential realignment within the conservative movement, particularly on foreign policy and the 2028 presidential race.",
+      "keywords": "Tucker Carlson, Republican Party, Israel, 2028 election, conservative movement"
+    },
+    {
+      "title": "World Cup and Cultural Exchange",
+      "content": "The World Cup has brought international visitors to the U.S., with positive reactions to American food and culture. The event also highlights the global appeal of soccer and the economic impact of hosting such tournaments.",
+      "keywords": "World Cup, cultural exchange, tourism, American food"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nSupreme Court Releases Opinions Today; Firings Begin Under Pulte; Errol Louis is Interviewed about the AIPAC and Israel Rift; Carlson Quits the GOP. Aired 6:30-7a ET\n\nAired June 23, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nAUDIE CORNISH, CNN ANCHOR: Good morning, everybody. I'm Audie Cornish. Thank you for joining me on CNN THIS MORNING.\n\nIt is half past the hour. And here's what's happening right now.\n\nSecretary of State Marco Rubio heads to the Middle East. He is the first White House official to do so after the signing of the U.S.-Iran memorandum of understanding. Rubio will be in the region discussing that deal, along with, quote, regional priorities, including the Strait of Hormuz.\n\nAnd quarantine finally over for the last eight American passengers exposed to hantavirus who were staying at a Nebraska facility. Now, they were exposed to that virus on a cruise ship early last month. The passengers stayed in the quarantine unit for 42 days.\n\nAnd Messi makes history again. He scored two goals in Argentina's win over Austria, officially earning him the most goals scored in World Cup history, 18.\n\nUNIDENTIFIED MALE: Messi. Messi's a beast. Messi came to get the record of most goals in the World Cup, and he got it. He got two of them.\n\nCORNISH: But Messi will be fighting to keep the record. France, on the right, on his heels with 16 all-time goals.\n\nAnd this morning the Supreme Court expected to release some opinions for its outstanding docket. So, you've got cases still left outstanding, those include birthright citizenship. Also, presidential firing authority and transgender athletes. These are all opinions the Trump administration has a vested interest in.\n\nAnd Trump has already lashed out against the Supreme Court over decisions relating to, say, his tariff policy. So, could these opinions further erode the relationship between the executive and judiciary?\n\nThe group chat is back.\n\nThe big one here I want to mention is birthright citizenship. This could really be something that would annoy Trump. And, honestly, it's not looking that good because it's one of those things where it's kind of in the Constitution. What are you thinking about how he's feeling?\n\nTAMARA KEITH, HOST, \"NPR POLITICS PODCAST\": Yes, it was one of his day one priorities in his second term. It's something that he campaigned on. It's also something that legal experts have been extremely dubious about the entire time.\n\nKEITH: And I do think that we could expect him, if it goes against him, to be very unhappy and not to be quiet about that because he is never quiet when he is unhappy. And you saw that with the tariff ruling. And, you know, like the relationship between --\n\nKEITH: I mean, like even talking about it as a relationship anymore --\n\nCORNISH: But even many of these things, out of all the -- everything on the list, I feel like the transgender athlete case is the one that becomes a talking point in elections, right? In this case, it's two students challenging state laws, banning participation in -- their participation in girl's sports, arguing that it violates Title IX. Whereas like, the abortion ruling, so many years ago, became this, like, pivotal thing for Democrats. Out of everything here, mail-in ballots, birthright citizenship, it feels like you're going to see ads about a transgender athlete ruling.\n\nASHLEY DAVIS, FORMER HOMELAND SECURITY OFFICIAL: It only becomes an issue if they say that you can have the transgender athletes in the sports. I think that if they say, no, you can't, I don't know, are Democrats going to defend that?\n\nCHUCK ROCHA, DEMOCRATIC STRATEGIST: I think that you're already seeing Republicans use transgender, whether or not the Supreme Court does this or not, you're going to see two types of ads, and we're making hundreds of ads right now in these congressional seats. And you have Democrats talking about cost of living, and you have Republicans talking about trans athletes or somebody having low t. That's going to be the argument of -- we're seeing what the midterms --\n\nCORNISH: Low t. The low t, testosterone, conversation.\n\nROCHA: I like that. Do you like that?\n\nCORNISH: Why is it in politics?\n\nROCHA: I'm just telling you what they got.\n\nCORNISH: It's like, guys, just save it for your supplements. I don't need --\n\nROCHA: If you ain't got nothing else.\n\nDAVIS: They're talking about low t?\n\nROCHA: I'm just saying, as a boy who takes a lot of protein, this is what they're doing and it's going to lose momentum (ph).\n\nCORNISH: That's what they're calling Talarico. That's what they're calling Talarico. Which I get, but just the whole --\n\nDAVIS: But it worked really well last time. I don't know if it's still the same.\n\nROCHA: It's a different time.\n\nDAVIS: Unless there's a bad ruling or a --\n\nROCHA: People are sick and tired right now. They're sick and tired of these prices. I just went home to see my mama this weekend for her 74th birthday, and only anything could say is that folks can't afford stuff.\n\nCORNISH: But, Chuck, isn't the argument that Democrats, too, are not focusing on the right things because they are focused on their affinity, communities or not eating steak.\n\nROCHA: Smart people like you want to talk about focus.\n\nCORNISH: No, no, what I'm saying is that's --\n\nROCHA: I'm talking about ads.\n\nCORNISH: OK, don't ads generate focus? You -- they're determining where to look.\n\nCORNISH: And I think Republicans are going to say, don't look over here where they're talking about affordability, look over here.\n\nROCHA: You're right. That's right.\n\nDAVIS: But that's what they're running against Talarico with your buddy on is they're going to go over some of these issues --\n\nROCHA: Because they can't talk about what Audie just said, which is the cost of things.\n\nDAVIS: I know, but -- ROCHA: You can't talk about that. But you talk about something else.\n\nDAVIS: Some of those ads are effective, I'm sorry to say.\n\nROCHA: Some of them with the base.\n\nDAVIS: Well, one other thing I want to add is, there is this idea, a Senate committee advancing a bipartisan bill to allow oral arguments to be televised, saying that this would be good for transparency. \"The Washington Post\" editorial board joining them. Or, sorry, \"The Washington Post\" editorial board complaining that this will contribute to grandstanding.\n\nYou're laughing. I mean, I have to admit, I'm good with audio.\n\nKEITH: I -- yes, I'm, as a (INAUDIBLE), I'm thrilled with the audio.\n\nCORNISH: As audio people, we're happy already.\n\nKEITH: Very happy already.\n\nI don't know that you can grandstand in the Supreme Court because I don't think the justices will stand for that. They are asking deep dive questions about very specific things.\n\nCORNISH: But I think what they can -- what they say can be clipped and used against people in election slop. Like, I don't think --\n\nDAVIS: Yes, but they're not going to bother.\n\nCORNISH: People are going to use those same televised clips to make a thing.\n\nROCHA: And we'll use them. We'll use an audio ad overlay pictures all day long in a TV ad.\n\nROCHA: Especially if they -- yes.\n\nCORNISH: All right, I want to turn to something else that's just a little bit more important, especially since we're going to have those rulings later today.\n\nThere is a source telling CNN that the so-called, quote, deep state firings have begun at the Office of the Director of National Intelligence. Here's why we're watching this. President Trump's new acting spy chief, Bill Pult, he's actually in charge already, right? Not -- this hasn't been confirmed or anything like that. He's interim. And Democrats are raising concerns.\n\nSEN. CHRIS VAN HOLLEN (D-MD): Bill Pulte is somebody who has zero, zero experience when it comes to national security and intelligence matters. His sort of defining mission in the Trump administration has been as a political hit man for Donald Trump to go after his political adversaries. And now this is the guy who's going to be firing people with experience and expertise when it comes to our national security intelligence matters. So, what could go wrong?\n\nCORNISH: OK, so here's the thing. I'm not one for the 3-D chess argument. But this is the person Trump wants. Bill Pulte, who comes from housing policy, that's not the person that anyone in the Senate seems to want.\n\nKEITH: Including Republicans.\n\nCORNISH: Including Republicans. Let's play an example. Lindsey Graham, this Sunday on CBS, complaining that the president wasn't letting Jay Clayton, the person they actually feel like has the votes, testify.\n\nSEN. LINDSEY GRAHAM (R-SC): And I would urge President Trump to let Clayton testify. And if we nominate Clayton and get him affirmed as the new DNI, we don't want FISA to go dark. There's too many threats to our country for 702 to go down. Anybody who owns the shutting down of 702 under FISA will own a future attack against the United States.\n\nCORNISH: So, there is this FISA surveillance law that allows the government to go after intelligence targets abroad and inadvertently maybe capture some U.S. information. The point is, his need to have Pulte looks like it's starting to hold up other aspects of the administration's agenda.\n\nKEITH: Yes, it is. But President Trump has been very focused for a very long time about retribution, whatever you want to call it. He feels like the intelligence community went after him in 2016. Russia, Russia, Russia. He feels like his first impeachment was the result of the intelligence community. And Bill Pulte is there to do a job.\n\nCORNISH: I think what's shady to me is that --\n\nKEITH: Like to get rid of these --\n\nCORNISH: Of course. But he's interim. Like, he has Clayton right there. He could put someone forth that Republicans are willing to give him the votes for. And instead, just to give the reviews here, here is what some of these Republicans have been saying over the last couple of weeks when Pulte's name was raised.\n\nSEN. THOM TILLIS (R-NC): I think he's the worst form of sycophant and advisor to the president that is going to hurt the president's legacy.\n\nSEN. JOHN CORNYN (R-TX): I see no, no evidence of any qualifications for that job.\n\nSEN. KEVIN CRAMER (R-ND): I don't know Jay Clayton, but I was quite certain the acting guy wasn't going to cut it, shall we say, Pulte?\n\nSEN. JOHN KENNEDY (R-LA): What's always worried me about Mr. Pulte, he doesn't have a real deep background in intelligence.\n\nMANU RAJU, CNN CHIEF CONGRESSIONAL CORRESPONDENT: And Pulte, Pulte's (INAUDIBLE).\n\nUNIDENTIFIED MALE: I have no observations on the matter.\n\nCORNISH: I'm going to start using that one, actually. No, keep in mind, this person --\n\nDAVIS: Actually, they (ph) just laugh after he said that. Did you see that?\n\nCORNISH: That the person they're describing is now already firing people.\n\nDAVIS: Well, I'm OK with actually -- like taking everything else out of it. There's so many things here.\n\nFirst of all, I'm hoping that Clayton issue gets solved tomorrow when the president goes up and talks to Senate Republicans because I actually think that is part of a broader issue. Pulte is in there for one thing, as everyone said, which is to get rid of a lot of these people. I was around when we created this agency, the DNI. I think that there's a lot of issues with it, and there's a lot of fat, but there's also a lot of leaks. The problem is, is Bill is a little bit -- not a little bit. Bill is a lightning rod because he doesn't have any internet (ph). He doesn't have any background in intelligence.\n\nCORNISH: Is that the only reason it's a lightning rod, Ashley?\n\nDAVIS: Well, no. He's also a lightning rod just because of all of his policies. I mean he actually did a lot of cage rattling within the -- in the West Wing. So, there is -- there's not a big -- there's not a -- he has a lot of enemies and a lot of allies, but his number one -- the number --\n\nROCHA: Didn't somebody already hit him at the White House? Didn't somebody punch him in the face?\n\nDAVIS: No, that wasn't -- that was -- that was Secretary Bessent.\n\nCORNISH: Oh, that was --\n\nROCHA: Oh, my bad. KEITH: And he just threatened to.\n\nCORNISH: Yes, just threatened. Yes.\n\nROCHA: I get my MMA mixed up all the time at the White House.\n\nDAVIS: But just -- I just want to say something, like, yes, that's true.\n\nROCHA: I'll be quite now.\n\nDAVIS: There is something that's really important. The DNI agency is the most leaked agency in the intelligence world. There needs to be changes there. It's just, the controversy is around the person that's doing it.\n\nCORNISH: Should a person who doesn't have the job yet, is not confirmed by the Senate, be firing people already? That seems like it opens the door for people --\n\nDAVIS: If they're leaking stuff, I don't care who fires them.\n\nCORNISH: But we don't know why. That's the thing.\n\nDAVIS: Well, there's major investigations going on that are classified of who's leaking. So, yes, I think that if -- those people should be fired if they're leaking national --\n\nROCHA: I think Trump's going to get exactly what he wants. He wants this.\n\nROCHA: Trump wants Pulte firing everybody. And then he wants to say, OK, we got rid of that bad guy. We'll bring Clayton in. Everybody likes this Clayton guy because they put up the worst of the worst of somebody that's totally not qualified to do this job.\n\nCORNISH: It seems like the recipe for a lawsuit. But, like, I'm not a lawyer. I don't know.\n\nDAVIS: But I think -- well, I'm -- I mean, that's like the everyone is --\n\nCORNISH: Do you know what I mean? Like, it kind of feels like, are you fired without cause? Like, can you raise the question?\n\nDAVIS: I like to -- I'm making my prediction. I think Clayton's confirmed in July.\n\nCORNISH: I think he's -- you're both right. He's confirmed. But after a bunch of firings.\n\nDAVIS: No, in July. I think he gets confirmed in July. ROCHA: (INAUDIBLE). Tell her (INAUDIBLE). Here we go.\n\nCORNISH: OK, you guys, there's one more. I want to talk about this. This is actually really interesting.\n\nNext on CNN THIS MORNING, Tucker Carlson claiming he's out of the Republican Party. This is years after defending Trump to the MAGA movement. So, we're wondering where he's going to take his support next. And then later on CNN, a White House plot grows. There are new arrests revealing drones, explosives and a widening network connected with the alleged plot to attack the UFC event.\n\nCORNISH: So, the Democratic Party, as we talked about, continues to struggle with its messaging on Israel in the wake of the '24 election. Today, as voters in New York head to the polls, a pro-Israeli lobbying group highlights a rift in the party. AIPAC, American Israel Public Affairs Committee, it's donated nearly $42 million to campaigns this year alone. And several high-profile Democrats, Cory Booker, Gavin Newsom, AOC, say they refuse to accept AIPAC funds. In New York, Mayor Zohran Mamdani also calling out candidates who do not take that money -- candidates who do take that money.\n\nMAYOR ZOHRAN MAMDANI (D), NEW YORK CITY: The old world is dying and the new world struggles to be born. Now is the time of monsters. These monsters take many forms today.\n\nIn AIPAC, for whom the only thing more frightening than democracy being allowed to run its course is an end to genocide in Netanyahu's wars.\n\nThey move millions in dark money to accomplish a single goal, to preserve their power so that they can turn us against one another, instead of our leaders turning towards the moral change we all know to be necessary.\n\nCORNISH: OK. He was specifically pointing to Congressman Adriano Espaillat, who is running against one of Mamdani's backed candidates.\n\nNow, according to the Federal Election Commission, AIPAC made two donations last month totaling around $600,000. Ted Deutch, the CEO of the American Jewish Committee, called Mamdani's comments, quote, \"outrageous and dangerous, and the impact of your words extend far beyond politics.\"\n\nMamdani has doubled down.\n\n(BEGIN VIDEO CLIP) MAYOR ZOHRAN MAMDANI (D), NEW YORK: I want to be very clear. We're talking about a status quo where children are being killed on a daily basis.\n\nAnd when I am speaking about AIPAC, I'm speaking about an organization that has been supportive of the status quo, that has fought any attempt to actually deliver safety to people, not just in Palestine, but, frankly, through much of the region. And it is a status quo for immorality. It is one that I will not accept.\n\nAnd I think that it is important that when we ask ourselves how such death and destruction is happening overseas, we also name those who allow it to take place.\n\nCORNISH: Joining me now, Errol Louis, political anchor with Spectrum News.\n\nErrol, in a minute I want to play for you Rep, Dan Goldman, who had kind of an altercation with a coffee shop around this issue of anti- Semitism.\n\nBut first, can you talk about how this AIPAC conversation, why it's playing such a big role in these essentially small city races?\n\nERROL LOUIS, POLITICAL ANCHOR, SPECTRUM NEWS: Yes. Good morning, Audie.\n\nThe issue of AIPAC is really shorthand for opposing Israel's policies in Gaza and elsewhere in the region.\n\nAnd so, they've done what politicians do with slogans. They've made it so that it basically ends the conversation just to say, hey, you took money from AIPAC and then you can't say much more about it. And that's, you know, this is -- this is what happens in the middle of a heated campaign.\n\nIt's a little unusual because just as the mayor talks about this and has made it really central to a lot of his politics and a lot of the politics of these congressional races, there are a ton of other issues. I mean we're always talking about affordability, and somehow this issue has taken what some would call an outsized level of influence when it comes to all of these local races.\n\nCORNISH: Is it also because culturally what's happened on the streets, even since Mamdani's election, right, since October 7th, but then since Mamdani's election itself, when you had people saying, oh, we're going to leave the city if he wins, right, raising over these concerns.\n\nIn particular, I want to flag for you something that happened downtown, I think it was Brooklyn. I'm not sure.\n\nCORNISH: And you've got this guy, Congressman Goldman. And he's dealing with a bit of a firestorm. He was visiting a coffee shop there. And after he visited, they posted that he was banned over his support for Israel. And they wrote, \"we see that you stopped by our shop for coffee. Do you see how it doesn't taste like genocide juice? Or are you still having a hard time telling the difference?\" They go on to say, \"we don't serve racist, fascists, homophobes, genocide enablers, or anyone in between. Too bad we didn't recognize you right away.\"\n\nSo, Goldman responded. And here's what he had to say.\n\nREP. DAN GOLDMAN (D-NY): And I think it's really dangerous when people start conflating the actions of the Israeli government with American Jews who have absolutely nothing to do with what is going on in Israel and the rise in anti-Semitism, because of what is happening in the Middle East, here in the United States, is really dangerous and it is escalating significantly.\n\nCORNISH: Errol, I don't know if you had heard about this incident --\n\nCORNISH: But what do you make of how he is, you know, articulating this?\n\nLOUIS: Yes, I did hear about the incident. It's not far from where I'm sitting right now, in fact, in Brooklyn. And very disturbing. Very disturbing. This was -- he went in because he needed to use the bathroom. He was with his seven-year-old daughter while he was out campaigning. And they were nice enough to let him do it. And he bought a cup of coffee. And then after the fact, they published this photo and that statement and that kind of a thing.\n\nListen, the issues in the Middle East are so complicated. Issues like genocide, fascism, you know, these buzzwords that some of these activists like to throw around with such abandon are the opposite of trying to find some kind of a path forward and some kind of a civil discourse, which is hopefully what you'll have, including during a political campaign of this kind. It's a real -- really a lost opportunity.\n\nBut make no mistake about it, this is a group of activists who have declared war on the mainstream Democratic Party. And they are using these buzzwords, they are using these issues, that kind of rough style where they try and target people and personalize it is what they're trying to bring to politics. And they say that this is going to be the path forward. We'll see later today, tonight, whether or not New York voters are going to go for that.\n\nCORNISH: That's Errol Louis. As always, totally appreciate your time. Thank you.\n\nSo, we've been talking about this issue, whether this could affect the fate of these politicians in New York. And it appears Israel sealed the fate of Tucker Carlson as well. For months, Republicans have been painting him as anti-Semitic.\n\nSEN. TED CRUZ (R-TX): And I will say on the right, I have seen more anti-Semitism in the last 18 months on the right.\n\nIt is being spread by loud voices, the most consequential of whom is Tucker Carlson. I believe Tucker Carlson is the single most dangerous demagogue in this country.\n\nCORNISH: Carlson says he is done with the Republican Party. He says it puts the interest of Israel above those of its own citizens.\n\nTUCKER CARLSON, CONSERVATIVE POLITICAL COMMENTATOR: I would not support the Republican Party. There's no chance I would support the Republican Party. I'm not going to support the Democratic Party. I don't know what I'm going to do. But at this point, you know, how could you support -- how could I or any American voter support a political party that's not loyal to the United States?\n\nCORNISH: Group chat is back.\n\nTam, we're going two ends of the spectrum here, right?\n\nKEITH: And then it meets up at the top.\n\nCORNISH: The horseshoe politics. I think what's interesting is that Tucker has been at odds with the White House for many months almost every time there's a foreign intervention. But this one in particular seems to have pushed him over the edge in terms of how he speaks publicly.\n\nKEITH: I think that what is happening here with Tucker Carlson, with Ted Cruz is various parts of what has been the Republican coalition figuring out what happens in a potential post-Trump reality and positioning themselves.\n\nAnd there are flashpoints. Israel is going to be a flashpoint. It didn't used to be. Republicans were all very pro-Israel. That's not the case anymore. And I think you're going to see it over abortion and other issues as well.\n\nCORNISH: Yes. Marjorie Taylor Greene tweeting, \"Tucker's not the only one who's done supporting the Republican Party.\" This is her, I think, on X. \"There's a lot of us that are absolutely fed up and will not support a party that betrays its voters and country. That doesn't mean we're turning into Democrats either. But we are done with the America last Republican Party.\"\n\nROCHA: There's something going on here. It's not just this issue. If you think about this issue, you think about the war. You think about the Epstein files. You have all of these activists on the right who voted for Donald Trump because of those three things. And Tucker Carlson, major -- maybe Marjorie Taylor Greene, are trying to tap into that. The old political consultant here thinks it has a lot to do with 2028.\n\nCORNISH: And, yes, 2028, and also where the public sentiment is. I mean when I went to look at the Pew research polls, I was trying to figure out, OK, what are the views of Israel right now based on the polling?\n\nCORNISH: And in 2022, Republicans were at 27 percent with an unfavorable view of Israel. Now they're at 41, which means it's almost doubled. And meanwhile, Democrats, of course, we know, in 2022, 53 percent. Now they're at 80 percent. So, a Mamdani or a Tucker, they're speaking to the people who moved in this shift from 2022 to now.\n\nDAVIS: Israel is what they're fighting right now. But I think it's very important to say they're against any sort of foreign conflict.\n\nDAVIS: I don't think it's just Israel. I think it would be, if we were -- obviously, no one on the Republican side wanted us to be in Ukraine either. So, I think that's -- but I agree with Chuck in regards to --\n\nCORNISH: But he's not leaving over Venezuela. Like, it feels as though --\n\nDAVIS: No, but we're not at war --\n\nDAVIS: I mean that was like something very quick. We don't have a lot of troops on the ground. You know, we're not -- anyway, I think that's a little bit different. But I get your point.\n\nI also think that Marjorie Taylor Greene and Tucker are trying to figure out a path in regards to 2028. I think they're both testing the grounds of running. But also one of the questions I have really for you is, there are four or five potential Jewish candidates on the Democrat side that would run in 2028.\n\nCORNISH: Correct. DAVIS: One of them, my dear friend Josh Shapiro. How does that happen? I mean, they're like going -- trying -- the Dems are trying to go left of the left of the left of Israel.\n\nROCHA: This has -- this has relevance in Democratic and primaries for both parties in 2028. When you have multiple people running, more than four or five, you can win the nomination with 30 percent. Keep in mind, you just need that 30 percent. And Tucker Carlson knows that.\n\nCORNISH: OK. You get -- you think he's -- this is a he's running situation?\n\nOK. Well, let's talk about what else is in our group chats.\n\nCORNISH: Starting with you, Ashley.\n\nDAVIS: I'm talking about the power pivot. OK, I just want to talk about how great it is to watch all of these people visiting from Europe or around the world for the soccer teams.\n\nCORNISH: Yes. World Cup fans.\n\nDAVIS: I mean, but also loving America. I mean they're like really loving our food. I have heard that a lot of people are gaining some weight.\n\nROCHA: We are making them fat.\n\nDAVIS: So, we may need to give them some (INAUDIBLE) on the way out.\n\nCORNISH: I had not heard that. But, thank you. Ashley.\n\nDAVIS: Oh, yes. No, people are gaining lots of weight. You know, if you're in the Midwest, you're eating a lot of gravy.\n\nWait until you see until they get to Costco. That's all their minds will be blown.\n\nBut it is nice. It's been a lot of compliments.\n\nKEITH: Just wait till you see -- until they get to Costco and their minds will be blown.\n\nCORNISH: Oh, that's a whole other situation. Yes.\n\nKEITH: But it is nice. It's been a lot of complements.\n\nROCHA: So today I'm really honored. I get to host the first annual Latino Vote Summit. We're bringing in Republican, independent, and Democrat Latinos to the press club today where we're going to talk about the Latino agenda. If you're a Republican, holding the Republican Party accountable. If you're a Democrat, holding -- but what is it for the community?\n\nROCHA: So, I'm really happy that we're coming together.\n\nCORNISH: Because 2024 revealed some big rifts.\n\nROCHA: The Latino vote has probably been the one electorate that swung right, swung left, and now they're in the middle looking for a home. And I'm honored to be hosting this with my Latino vote podcast co-host Mike Madrid.\n\nCORNISH: Very nice. Very nice. Shout out to the pod.\n\nROCHA: Oh, yes, finally. Thank you, Tamara.\n\nCORNISH: Reflecting Pool.\n\nKEITH: Yes. What I cannot let go of is this Reflecting Pool. The ongoing battle. The --\n\nCORNISH: Are you hunting for vandals?\n\nKEITH: I am not hunting for vandals.\n\nCORNISH: Is Bill Pulte hunting for vandals?\n\nKEITH: It could be part of the intel job. Who knows?\n\nCORNISH: I don't know.\n\nKEITH: It could be part of the remit.\n\nKEITH: But, you know, finding out what happened. Epoxy. It's tough. So is keeping a pool clean.\n\nCORNISH: Oh, really? Do you have a problem with this?\n\nKEITH: I no longer have a pool.\n\nDAVIS: Was it -- like what --\n\nROCHA: Did you say the president (ph)?\n\nDAVIS: What happened to it?\n\nCORNISH: You have to clean a pool. It's annoying.\n\nDAVIS: I know. And you didn't. Is that why you got rid of it? Was it like an above ground swimming pool?\n\nKEITH: It was -- it was just a lot of work.\n\nCORNISH: Did it have algae?\n\nKEITH: Yes, it had all kinds of problems.\n\nKEITH: It's hard to keep the chemicals right.\n\nCORNISH: Did you catch who did it?\n\nKEITH: Me and my indifference to chemicals.\n\nWell, thank you guys so much for talking with me today. We found -- we uncovered a lot of very serious news that we need to follow up on.\n\nROCHA: But we did not find out who sabotaged the pool.\n\nCORNISH: We have not found that out yet.\n\nROCHA: Right. That's what I'm worried about.\n\nCORNISH: We will have intelligence agencies on that shortly.\n\nROCHA: They put up new cameras down there all up and down the way.\n\nCORNISH: All right, see, this is how you're getting me in trouble. Everybody else, especially those of you in New York, good luck today.\n\nPolls are open. Go out and vote.\n\nWe've got plenty of news for you coming up, as we said, about the Reflecting Pool, about the state of the Iran talks, Rubio heading to the Middle East. Those headlines are next.\n\nI'm Audie Cornish, and thank you for waking up with me.",
+  "segments": [
+    {
+      "seg": 2,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-23/segment/02",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nSupreme Court Releases Opinions Today; Firings Begin Under Pulte; Errol Louis is Interviewed about the AIPAC and Israel Rift; Carlson Quits the GOP. Aired 6:30-7a ET\n\nAired June 23, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nAUDIE CORNISH, CNN ANCHOR: Good morning, everybody. I'm Audie Cornish. Thank you for joining me on CNN THIS MORNING.\n\nIt is half past the hour. And here's what's happening right now.\n\nSecretary of State Marco Rubio heads to the Middle East. He is the first White House official to do so after the signing of the U.S.-Iran memorandum of understanding. Rubio will be in the region discussing that deal, along with, quote, regional priorities, including the Strait of Hormuz.\n\nAnd quarantine finally over for the last eight American passengers exposed to hantavirus who were staying at a Nebraska facility. Now, they were exposed to that virus on a cruise ship early last month. The passengers stayed in the quarantine unit for 42 days.\n\nAnd Messi makes history again. He scored two goals in Argentina's win over Austria, officially earning him the most goals scored in World Cup history, 18.\n\nUNIDENTIFIED MALE: Messi. Messi's a beast. Messi came to get the record of most goals in the World Cup, and he got it. He got two of them.\n\nCORNISH: But Messi will be fighting to keep the record. France, on the right, on his heels with 16 all-time goals.\n\nAnd this morning the Supreme Court expected to release some opinions for its outstanding docket. So, you've got cases still left outstanding, those include birthright citizenship. Also, presidential firing authority and transgender athletes. These are all opinions the Trump administration has a vested interest in.\n\nAnd Trump has already lashed out against the Supreme Court over decisions relating to, say, his tariff policy. So, could these opinions further erode the relationship between the executive and judiciary?\n\nThe group chat is back.\n\nThe big one here I want to mention is birthright citizenship. This could really be something that would annoy Trump. And, honestly, it's not looking that good because it's one of those things where it's kind of in the Constitution. What are you thinking about how he's feeling?\n\nTAMARA KEITH, HOST, \"NPR POLITICS PODCAST\": Yes, it was one of his day one priorities in his second term. It's something that he campaigned on. It's also something that legal experts have been extremely dubious about the entire time.\n\nKEITH: And I do think that we could expect him, if it goes against him, to be very unhappy and not to be quiet about that because he is never quiet when he is unhappy. And you saw that with the tariff ruling. And, you know, like the relationship between --\n\nKEITH: I mean, like even talking about it as a relationship anymore --\n\nCORNISH: But even many of these things, out of all the -- everything on the list, I feel like the transgender athlete case is the one that becomes a talking point in elections, right? In this case, it's two students challenging state laws, banning participation in -- their participation in girl's sports, arguing that it violates Title IX. Whereas like, the abortion ruling, so many years ago, became this, like, pivotal thing for Democrats. Out of everything here, mail-in ballots, birthright citizenship, it feels like you're going to see ads about a transgender athlete ruling.\n\nASHLEY DAVIS, FORMER HOMELAND SECURITY OFFICIAL: It only becomes an issue if they say that you can have the transgender athletes in the sports. I think that if they say, no, you can't, I don't know, are Democrats going to defend that?\n\nCHUCK ROCHA, DEMOCRATIC STRATEGIST: I think that you're already seeing Republicans use transgender, whether or not the Supreme Court does this or not, you're going to see two types of ads, and we're making hundreds of ads right now in these congressional seats. And you have Democrats talking about cost of living, and you have Republicans talking about trans athletes or somebody having low t. That's going to be the argument of -- we're seeing what the midterms --\n\nCORNISH: Low t. The low t, testosterone, conversation.\n\nROCHA: I like that. Do you like that?\n\nCORNISH: Why is it in politics?\n\nROCHA: I'm just telling you what they got.\n\nCORNISH: It's like, guys, just save it for your supplements. I don't need --\n\nROCHA: If you ain't got nothing else.\n\nDAVIS: They're talking about low t?\n\nROCHA: I'm just saying, as a boy who takes a lot of protein, this is what they're doing and it's going to lose momentum (ph).\n\nCORNISH: That's what they're calling Talarico. That's what they're calling Talarico. Which I get, but just the whole --\n\nDAVIS: But it worked really well last time. I don't know if it's still the same.\n\nROCHA: It's a different time.\n\nDAVIS: Unless there's a bad ruling or a --\n\nROCHA: People are sick and tired right now. They're sick and tired of these prices. I just went home to see my mama this weekend for her 74th birthday, and only anything could say is that folks can't afford stuff.\n\nCORNISH: But, Chuck, isn't the argument that Democrats, too, are not focusing on the right things because they are focused on their affinity, communities or not eating steak.\n\nROCHA: Smart people like you want to talk about focus.\n\nCORNISH: No, no, what I'm saying is that's --\n\nROCHA: I'm talking about ads.\n\nCORNISH: OK, don't ads generate focus? You -- they're determining where to look.\n\nCORNISH: And I think Republicans are going to say, don't look over here where they're talking about affordability, look over here.\n\nROCHA: You're right. That's right.\n\nDAVIS: But that's what they're running against Talarico with your buddy on is they're going to go over some of these issues --\n\nROCHA: Because they can't talk about what Audie just said, which is the cost of things.\n\nDAVIS: I know, but -- ROCHA: You can't talk about that. But you talk about something else.\n\nDAVIS: Some of those ads are effective, I'm sorry to say.\n\nROCHA: Some of them with the base.\n\nDAVIS: Well, one other thing I want to add is, there is this idea, a Senate committee advancing a bipartisan bill to allow oral arguments to be televised, saying that this would be good for transparency. \"The Washington Post\" editorial board joining them. Or, sorry, \"The Washington Post\" editorial board complaining that this will contribute to grandstanding.\n\nYou're laughing. I mean, I have to admit, I'm good with audio.\n\nKEITH: I -- yes, I'm, as a (INAUDIBLE), I'm thrilled with the audio.\n\nCORNISH: As audio people, we're happy already.\n\nKEITH: Very happy already.\n\nI don't know that you can grandstand in the Supreme Court because I don't think the justices will stand for that. They are asking deep dive questions about very specific things.\n\nCORNISH: But I think what they can -- what they say can be clipped and used against people in election slop. Like, I don't think --\n\nDAVIS: Yes, but they're not going to bother.\n\nCORNISH: People are going to use those same televised clips to make a thing.\n\nROCHA: And we'll use them. We'll use an audio ad overlay pictures all day long in a TV ad.\n\nROCHA: Especially if they -- yes.\n\nCORNISH: All right, I want to turn to something else that's just a little bit more important, especially since we're going to have those rulings later today.\n\nThere is a source telling CNN that the so-called, quote, deep state firings have begun at the Office of the Director of National Intelligence. Here's why we're watching this. President Trump's new acting spy chief, Bill Pult, he's actually in charge already, right? Not -- this hasn't been confirmed or anything like that. He's interim. And Democrats are raising concerns.\n\nSEN. CHRIS VAN HOLLEN (D-MD): Bill Pulte is somebody who has zero, zero experience when it comes to national security and intelligence matters. His sort of defining mission in the Trump administration has been as a political hit man for Donald Trump to go after his political adversaries. And now this is the guy who's going to be firing people with experience and expertise when it comes to our national security intelligence matters. So, what could go wrong?\n\nCORNISH: OK, so here's the thing. I'm not one for the 3-D chess argument. But this is the person Trump wants. Bill Pulte, who comes from housing policy, that's not the person that anyone in the Senate seems to want.\n\nKEITH: Including Republicans.\n\nCORNISH: Including Republicans. Let's play an example. Lindsey Graham, this Sunday on CBS, complaining that the president wasn't letting Jay Clayton, the person they actually feel like has the votes, testify.\n\nSEN. LINDSEY GRAHAM (R-SC): And I would urge President Trump to let Clayton testify. And if we nominate Clayton and get him affirmed as the new DNI, we don't want FISA to go dark. There's too many threats to our country for 702 to go down. Anybody who owns the shutting down of 702 under FISA will own a future attack against the United States.\n\nCORNISH: So, there is this FISA surveillance law that allows the government to go after intelligence targets abroad and inadvertently maybe capture some U.S. information. The point is, his need to have Pulte looks like it's starting to hold up other aspects of the administration's agenda.\n\nKEITH: Yes, it is. But President Trump has been very focused for a very long time about retribution, whatever you want to call it. He feels like the intelligence community went after him in 2016. Russia, Russia, Russia. He feels like his first impeachment was the result of the intelligence community. And Bill Pulte is there to do a job.\n\nCORNISH: I think what's shady to me is that --\n\nKEITH: Like to get rid of these --\n\nCORNISH: Of course. But he's interim. Like, he has Clayton right there. He could put someone forth that Republicans are willing to give him the votes for. And instead, just to give the reviews here, here is what some of these Republicans have been saying over the last couple of weeks when Pulte's name was raised.\n\nSEN. THOM TILLIS (R-NC): I think he's the worst form of sycophant and advisor to the president that is going to hurt the president's legacy.\n\nSEN. JOHN CORNYN (R-TX): I see no, no evidence of any qualifications for that job.\n\nSEN. KEVIN CRAMER (R-ND): I don't know Jay Clayton, but I was quite certain the acting guy wasn't going to cut it, shall we say, Pulte?\n\nSEN. JOHN KENNEDY (R-LA): What's always worried me about Mr. Pulte, he doesn't have a real deep background in intelligence.\n\nMANU RAJU, CNN CHIEF CONGRESSIONAL CORRESPONDENT: And Pulte, Pulte's (INAUDIBLE).\n\nUNIDENTIFIED MALE: I have no observations on the matter.\n\nCORNISH: I'm going to start using that one, actually. No, keep in mind, this person --\n\nDAVIS: Actually, they (ph) just laugh after he said that. Did you see that?\n\nCORNISH: That the person they're describing is now already firing people.\n\nDAVIS: Well, I'm OK with actually -- like taking everything else out of it. There's so many things here.\n\nFirst of all, I'm hoping that Clayton issue gets solved tomorrow when the president goes up and talks to Senate Republicans because I actually think that is part of a broader issue. Pulte is in there for one thing, as everyone said, which is to get rid of a lot of these people. I was around when we created this agency, the DNI. I think that there's a lot of issues with it, and there's a lot of fat, but there's also a lot of leaks. The problem is, is Bill is a little bit -- not a little bit. Bill is a lightning rod because he doesn't have any internet (ph). He doesn't have any background in intelligence.\n\nCORNISH: Is that the only reason it's a lightning rod, Ashley?\n\nDAVIS: Well, no. He's also a lightning rod just because of all of his policies. I mean he actually did a lot of cage rattling within the -- in the West Wing. So, there is -- there's not a big -- there's not a -- he has a lot of enemies and a lot of allies, but his number one -- the number --\n\nROCHA: Didn't somebody already hit him at the White House? Didn't somebody punch him in the face?\n\nDAVIS: No, that wasn't -- that was -- that was Secretary Bessent.\n\nCORNISH: Oh, that was --\n\nROCHA: Oh, my bad. KEITH: And he just threatened to.\n\nCORNISH: Yes, just threatened. Yes.\n\nROCHA: I get my MMA mixed up all the time at the White House.\n\nDAVIS: But just -- I just want to say something, like, yes, that's true.\n\nROCHA: I'll be quite now.\n\nDAVIS: There is something that's really important. The DNI agency is the most leaked agency in the intelligence world. There needs to be changes there. It's just, the controversy is around the person that's doing it.\n\nCORNISH: Should a person who doesn't have the job yet, is not confirmed by the Senate, be firing people already? That seems like it opens the door for people --\n\nDAVIS: If they're leaking stuff, I don't care who fires them.\n\nCORNISH: But we don't know why. That's the thing.\n\nDAVIS: Well, there's major investigations going on that are classified of who's leaking. So, yes, I think that if -- those people should be fired if they're leaking national --\n\nROCHA: I think Trump's going to get exactly what he wants. He wants this.\n\nROCHA: Trump wants Pulte firing everybody. And then he wants to say, OK, we got rid of that bad guy. We'll bring Clayton in. Everybody likes this Clayton guy because they put up the worst of the worst of somebody that's totally not qualified to do this job.\n\nCORNISH: It seems like the recipe for a lawsuit. But, like, I'm not a lawyer. I don't know.\n\nDAVIS: But I think -- well, I'm -- I mean, that's like the everyone is --\n\nCORNISH: Do you know what I mean? Like, it kind of feels like, are you fired without cause? Like, can you raise the question?\n\nDAVIS: I like to -- I'm making my prediction. I think Clayton's confirmed in July.\n\nCORNISH: I think he's -- you're both right. He's confirmed. But after a bunch of firings.\n\nDAVIS: No, in July. I think he gets confirmed in July. ROCHA: (INAUDIBLE). Tell her (INAUDIBLE). Here we go.\n\nCORNISH: OK, you guys, there's one more. I want to talk about this. This is actually really interesting.\n\nNext on CNN THIS MORNING, Tucker Carlson claiming he's out of the Republican Party. This is years after defending Trump to the MAGA movement. So, we're wondering where he's going to take his support next. And then later on CNN, a White House plot grows. There are new arrests revealing drones, explosives and a widening network connected with the alleged plot to attack the UFC event.\n\nCORNISH: So, the Democratic Party, as we talked about, continues to struggle with its messaging on Israel in the wake of the '24 election. Today, as voters in New York head to the polls, a pro-Israeli lobbying group highlights a rift in the party. AIPAC, American Israel Public Affairs Committee, it's donated nearly $42 million to campaigns this year alone. And several high-profile Democrats, Cory Booker, Gavin Newsom, AOC, say they refuse to accept AIPAC funds. In New York, Mayor Zohran Mamdani also calling out candidates who do not take that money -- candidates who do take that money.\n\nMAYOR ZOHRAN MAMDANI (D), NEW YORK CITY: The old world is dying and the new world struggles to be born. Now is the time of monsters. These monsters take many forms today.\n\nIn AIPAC, for whom the only thing more frightening than democracy being allowed to run its course is an end to genocide in Netanyahu's wars.\n\nThey move millions in dark money to accomplish a single goal, to preserve their power so that they can turn us against one another, instead of our leaders turning towards the moral change we all know to be necessary.\n\nCORNISH: OK. He was specifically pointing to Congressman Adriano Espaillat, who is running against one of Mamdani's backed candidates.\n\nNow, according to the Federal Election Commission, AIPAC made two donations last month totaling around $600,000. Ted Deutch, the CEO of the American Jewish Committee, called Mamdani's comments, quote, \"outrageous and dangerous, and the impact of your words extend far beyond politics.\"\n\nMamdani has doubled down.\n\n(BEGIN VIDEO CLIP) MAYOR ZOHRAN MAMDANI (D), NEW YORK: I want to be very clear. We're talking about a status quo where children are being killed on a daily basis.\n\nAnd when I am speaking about AIPAC, I'm speaking about an organization that has been supportive of the status quo, that has fought any attempt to actually deliver safety to people, not just in Palestine, but, frankly, through much of the region. And it is a status quo for immorality. It is one that I will not accept.\n\nAnd I think that it is important that when we ask ourselves how such death and destruction is happening overseas, we also name those who allow it to take place.\n\nCORNISH: Joining me now, Errol Louis, political anchor with Spectrum News.\n\nErrol, in a minute I want to play for you Rep, Dan Goldman, who had kind of an altercation with a coffee shop around this issue of anti- Semitism.\n\nBut first, can you talk about how this AIPAC conversation, why it's playing such a big role in these essentially small city races?\n\nERROL LOUIS, POLITICAL ANCHOR, SPECTRUM NEWS: Yes. Good morning, Audie.\n\nThe issue of AIPAC is really shorthand for opposing Israel's policies in Gaza and elsewhere in the region.\n\nAnd so, they've done what politicians do with slogans. They've made it so that it basically ends the conversation just to say, hey, you took money from AIPAC and then you can't say much more about it. And that's, you know, this is -- this is what happens in the middle of a heated campaign.\n\nIt's a little unusual because just as the mayor talks about this and has made it really central to a lot of his politics and a lot of the politics of these congressional races, there are a ton of other issues. I mean we're always talking about affordability, and somehow this issue has taken what some would call an outsized level of influence when it comes to all of these local races.\n\nCORNISH: Is it also because culturally what's happened on the streets, even since Mamdani's election, right, since October 7th, but then since Mamdani's election itself, when you had people saying, oh, we're going to leave the city if he wins, right, raising over these concerns.\n\nIn particular, I want to flag for you something that happened downtown, I think it was Brooklyn. I'm not sure.\n\nCORNISH: And you've got this guy, Congressman Goldman. And he's dealing with a bit of a firestorm. He was visiting a coffee shop there. And after he visited, they posted that he was banned over his support for Israel. And they wrote, \"we see that you stopped by our shop for coffee. Do you see how it doesn't taste like genocide juice? Or are you still having a hard time telling the difference?\" They go on to say, \"we don't serve racist, fascists, homophobes, genocide enablers, or anyone in between. Too bad we didn't recognize you right away.\"\n\nSo, Goldman responded. And here's what he had to say.\n\nREP. DAN GOLDMAN (D-NY): And I think it's really dangerous when people start conflating the actions of the Israeli government with American Jews who have absolutely nothing to do with what is going on in Israel and the rise in anti-Semitism, because of what is happening in the Middle East, here in the United States, is really dangerous and it is escalating significantly.\n\nCORNISH: Errol, I don't know if you had heard about this incident --\n\nCORNISH: But what do you make of how he is, you know, articulating this?\n\nLOUIS: Yes, I did hear about the incident. It's not far from where I'm sitting right now, in fact, in Brooklyn. And very disturbing. Very disturbing. This was -- he went in because he needed to use the bathroom. He was with his seven-year-old daughter while he was out campaigning. And they were nice enough to let him do it. And he bought a cup of coffee. And then after the fact, they published this photo and that statement and that kind of a thing.\n\nListen, the issues in the Middle East are so complicated. Issues like genocide, fascism, you know, these buzzwords that some of these activists like to throw around with such abandon are the opposite of trying to find some kind of a path forward and some kind of a civil discourse, which is hopefully what you'll have, including during a political campaign of this kind. It's a real -- really a lost opportunity.\n\nBut make no mistake about it, this is a group of activists who have declared war on the mainstream Democratic Party. And they are using these buzzwords, they are using these issues, that kind of rough style where they try and target people and personalize it is what they're trying to bring to politics. And they say that this is going to be the path forward. We'll see later today, tonight, whether or not New York voters are going to go for that.\n\nCORNISH: That's Errol Louis. As always, totally appreciate your time. Thank you.\n\nSo, we've been talking about this issue, whether this could affect the fate of these politicians in New York. And it appears Israel sealed the fate of Tucker Carlson as well. For months, Republicans have been painting him as anti-Semitic.\n\nSEN. TED CRUZ (R-TX): And I will say on the right, I have seen more anti-Semitism in the last 18 months on the right.\n\nIt is being spread by loud voices, the most consequential of whom is Tucker Carlson. I believe Tucker Carlson is the single most dangerous demagogue in this country.\n\nCORNISH: Carlson says he is done with the Republican Party. He says it puts the interest of Israel above those of its own citizens.\n\nTUCKER CARLSON, CONSERVATIVE POLITICAL COMMENTATOR: I would not support the Republican Party. There's no chance I would support the Republican Party. I'm not going to support the Democratic Party. I don't know what I'm going to do. But at this point, you know, how could you support -- how could I or any American voter support a political party that's not loyal to the United States?\n\nCORNISH: Group chat is back.\n\nTam, we're going two ends of the spectrum here, right?\n\nKEITH: And then it meets up at the top.\n\nCORNISH: The horseshoe politics. I think what's interesting is that Tucker has been at odds with the White House for many months almost every time there's a foreign intervention. But this one in particular seems to have pushed him over the edge in terms of how he speaks publicly.\n\nKEITH: I think that what is happening here with Tucker Carlson, with Ted Cruz is various parts of what has been the Republican coalition figuring out what happens in a potential post-Trump reality and positioning themselves.\n\nAnd there are flashpoints. Israel is going to be a flashpoint. It didn't used to be. Republicans were all very pro-Israel. That's not the case anymore. And I think you're going to see it over abortion and other issues as well.\n\nCORNISH: Yes. Marjorie Taylor Greene tweeting, \"Tucker's not the only one who's done supporting the Republican Party.\" This is her, I think, on X. \"There's a lot of us that are absolutely fed up and will not support a party that betrays its voters and country. That doesn't mean we're turning into Democrats either. But we are done with the America last Republican Party.\"\n\nROCHA: There's something going on here. It's not just this issue. If you think about this issue, you think about the war. You think about the Epstein files. You have all of these activists on the right who voted for Donald Trump because of those three things. And Tucker Carlson, major -- maybe Marjorie Taylor Greene, are trying to tap into that. The old political consultant here thinks it has a lot to do with 2028.\n\nCORNISH: And, yes, 2028, and also where the public sentiment is. I mean when I went to look at the Pew research polls, I was trying to figure out, OK, what are the views of Israel right now based on the polling?\n\nCORNISH: And in 2022, Republicans were at 27 percent with an unfavorable view of Israel. Now they're at 41, which means it's almost doubled. And meanwhile, Democrats, of course, we know, in 2022, 53 percent. Now they're at 80 percent. So, a Mamdani or a Tucker, they're speaking to the people who moved in this shift from 2022 to now.\n\nDAVIS: Israel is what they're fighting right now. But I think it's very important to say they're against any sort of foreign conflict.\n\nDAVIS: I don't think it's just Israel. I think it would be, if we were -- obviously, no one on the Republican side wanted us to be in Ukraine either. So, I think that's -- but I agree with Chuck in regards to --\n\nCORNISH: But he's not leaving over Venezuela. Like, it feels as though --\n\nDAVIS: No, but we're not at war --\n\nDAVIS: I mean that was like something very quick. We don't have a lot of troops on the ground. You know, we're not -- anyway, I think that's a little bit different. But I get your point.\n\nI also think that Marjorie Taylor Greene and Tucker are trying to figure out a path in regards to 2028. I think they're both testing the grounds of running. But also one of the questions I have really for you is, there are four or five potential Jewish candidates on the Democrat side that would run in 2028.\n\nCORNISH: Correct. DAVIS: One of them, my dear friend Josh Shapiro. How does that happen? I mean, they're like going -- trying -- the Dems are trying to go left of the left of the left of Israel.\n\nROCHA: This has -- this has relevance in Democratic and primaries for both parties in 2028. When you have multiple people running, more than four or five, you can win the nomination with 30 percent. Keep in mind, you just need that 30 percent. And Tucker Carlson knows that.\n\nCORNISH: OK. You get -- you think he's -- this is a he's running situation?\n\nOK. Well, let's talk about what else is in our group chats.\n\nCORNISH: Starting with you, Ashley.\n\nDAVIS: I'm talking about the power pivot. OK, I just want to talk about how great it is to watch all of these people visiting from Europe or around the world for the soccer teams.\n\nCORNISH: Yes. World Cup fans.\n\nDAVIS: I mean, but also loving America. I mean they're like really loving our food. I have heard that a lot of people are gaining some weight.\n\nROCHA: We are making them fat.\n\nDAVIS: So, we may need to give them some (INAUDIBLE) on the way out.\n\nCORNISH: I had not heard that. But, thank you. Ashley.\n\nDAVIS: Oh, yes. No, people are gaining lots of weight. You know, if you're in the Midwest, you're eating a lot of gravy.\n\nWait until you see until they get to Costco. That's all their minds will be blown.\n\nBut it is nice. It's been a lot of compliments.\n\nKEITH: Just wait till you see -- until they get to Costco and their minds will be blown.\n\nCORNISH: Oh, that's a whole other situation. Yes.\n\nKEITH: But it is nice. It's been a lot of complements.\n\nROCHA: So today I'm really honored. I get to host the first annual Latino Vote Summit. We're bringing in Republican, independent, and Democrat Latinos to the press club today where we're going to talk about the Latino agenda. If you're a Republican, holding the Republican Party accountable. If you're a Democrat, holding -- but what is it for the community?\n\nROCHA: So, I'm really happy that we're coming together.\n\nCORNISH: Because 2024 revealed some big rifts.\n\nROCHA: The Latino vote has probably been the one electorate that swung right, swung left, and now they're in the middle looking for a home. And I'm honored to be hosting this with my Latino vote podcast co-host Mike Madrid.\n\nCORNISH: Very nice. Very nice. Shout out to the pod.\n\nROCHA: Oh, yes, finally. Thank you, Tamara.\n\nCORNISH: Reflecting Pool.\n\nKEITH: Yes. What I cannot let go of is this Reflecting Pool. The ongoing battle. The --\n\nCORNISH: Are you hunting for vandals?\n\nKEITH: I am not hunting for vandals.\n\nCORNISH: Is Bill Pulte hunting for vandals?\n\nKEITH: It could be part of the intel job. Who knows?\n\nCORNISH: I don't know.\n\nKEITH: It could be part of the remit.\n\nKEITH: But, you know, finding out what happened. Epoxy. It's tough. So is keeping a pool clean.\n\nCORNISH: Oh, really? Do you have a problem with this?\n\nKEITH: I no longer have a pool.\n\nDAVIS: Was it -- like what --\n\nROCHA: Did you say the president (ph)?\n\nDAVIS: What happened to it?\n\nCORNISH: You have to clean a pool. It's annoying.\n\nDAVIS: I know. And you didn't. Is that why you got rid of it? Was it like an above ground swimming pool?\n\nKEITH: It was -- it was just a lot of work.\n\nCORNISH: Did it have algae?\n\nKEITH: Yes, it had all kinds of problems.\n\nKEITH: It's hard to keep the chemicals right.\n\nCORNISH: Did you catch who did it?\n\nKEITH: Me and my indifference to chemicals.\n\nWell, thank you guys so much for talking with me today. We found -- we uncovered a lot of very serious news that we need to follow up on.\n\nROCHA: But we did not find out who sabotaged the pool.\n\nCORNISH: We have not found that out yet.\n\nROCHA: Right. That's what I'm worried about.\n\nCORNISH: We will have intelligence agencies on that shortly.\n\nROCHA: They put up new cameras down there all up and down the way.\n\nCORNISH: All right, see, this is how you're getting me in trouble. Everybody else, especially those of you in New York, good luck today.\n\nPolls are open. Go out and vote.\n\nWe've got plenty of news for you coming up, as we said, about the Reflecting Pool, about the state of the Iran talks, Rubio heading to the Middle East. Those headlines are next.\n\nI'm Audie Cornish, and thank you for waking up with me."
+    }
+  ]
+}

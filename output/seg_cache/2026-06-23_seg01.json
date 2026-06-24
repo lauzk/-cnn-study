@@ -1,0 +1,409 @@
+{
+  "date": "2026-06-23",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-23/segment/01",
+  "vocabulary": [
+    {
+      "word": "tenure",
+      "phonetic": "/ˈtenjər/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "任期",
+      "en": "the period during which someone holds a particular job or position",
+      "excerpt": "the influence of New York City's mayor, tested just six months into his tenure.",
+      "example_cn": "他的任期刚满六个月。"
+    },
+    {
+      "word": "incumbent",
+      "phonetic": "/ɪnˈkʌmbənt/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "现任者",
+      "en": "the person who currently holds a particular office or position",
+      "excerpt": "Two are going up against Democratic incumbents",
+      "example_cn": "两位挑战者正与民主党现任者竞争。"
+    },
+    {
+      "word": "progressive",
+      "phonetic": "/prəˈɡresɪv/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "进步的",
+      "en": "favoring or promoting social reform or new ideas",
+      "excerpt": "I'm a longtime progressive, a Working Families Party member.",
+      "example_cn": "我是一名长期的进步派，工薪家庭党成员。"
+    },
+    {
+      "word": "socialist",
+      "phonetic": "/ˈsoʊʃəlɪst/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "社会主义者",
+      "en": "a person who advocates or practices socialism",
+      "excerpt": "Can more Democratic socialists ride Mayor Mamdani's wave?",
+      "example_cn": "更多的民主社会主义者能乘上曼达尼市长的浪潮吗？"
+    },
+    {
+      "word": "coalition",
+      "phonetic": "/ˌkoʊəˈlɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "联盟",
+      "en": "a temporary alliance of distinct parties, persons, or states for joint action",
+      "excerpt": "Vox was calling this race a splitting of Mamdani's coalition",
+      "example_cn": "Vox称这场竞选是曼达尼联盟的分裂。"
+    },
+    {
+      "word": "catalyst",
+      "phonetic": "/ˈkætəlɪst/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "催化剂",
+      "en": "a person or thing that precipitates an event or change",
+      "excerpt": "Dr. King talked about creative tension being a catalyst for social justice.",
+      "example_cn": "金博士谈到创造性紧张是社会正义的催化剂。"
+    },
+    {
+      "word": "boogeyman",
+      "phonetic": "/ˈbʊɡimæn/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "令人恐惧的人或物",
+      "en": "a person or thing that is widely regarded as an object of fear",
+      "excerpt": "AIPAC has become a real boogeyman in races.",
+      "example_cn": "AIPAC在竞选中已成为一个真正的可怕角色。"
+    },
+    {
+      "word": "rift",
+      "phonetic": "/rɪft/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "分裂",
+      "en": "a serious break in friendly relations",
+      "excerpt": "It has created a political rift, both in the Democratic Party and in the Republican Party.",
+      "example_cn": "它在民主党和共和党内部都造成了政治裂痕。"
+    },
+    {
+      "word": "backlash",
+      "phonetic": "/ˈbæklæʃ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "强烈反对",
+      "en": "a strong adverse reaction to something",
+      "excerpt": "this backlash against Israel",
+      "example_cn": "这种对以色列的强烈反对。"
+    },
+    {
+      "word": "exacerbate",
+      "phonetic": "/ɪɡˈzæsərbeɪt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "加剧",
+      "en": "to make a problem, bad situation, or negative feeling worse",
+      "excerpt": "And exacerbated by October 7th and all that has followed since.",
+      "example_cn": "并且因10月7日及之后发生的一切而加剧。"
+    },
+    {
+      "word": "ransom",
+      "phonetic": "/ˈrænsəm/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "赎金",
+      "en": "a sum of money demanded or paid for the release of a captive",
+      "excerpt": "one prior which demanded ransom",
+      "example_cn": "之前一封要求赎金的信。"
+    },
+    {
+      "word": "scrub",
+      "phonetic": "/skrʌb/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "删除；取消",
+      "en": "to cancel or abandon something",
+      "excerpt": "The Trump administration blocked from using Social Security and immigration data to scrub voter rolls.",
+      "example_cn": "特朗普政府被禁止使用社保和移民数据来清理选民名册。"
+    },
+    {
+      "word": "overhaul",
+      "phonetic": "/ˈoʊvərhɔːl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "彻底改革",
+      "en": "a thorough examination and repair or reorganization",
+      "excerpt": "a key part of the president's election overhaul plan",
+      "example_cn": "总统选举改革计划的关键部分。"
+    },
+    {
+      "word": "tarp",
+      "phonetic": "/tɑːrp/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "防水布",
+      "en": "a sheet of waterproof material used as a cover",
+      "excerpt": "what's behind the tarp outside the Kennedy Center?",
+      "example_cn": "肯尼迪中心外的防水布后面是什么？"
+    },
+    {
+      "word": "comply",
+      "phonetic": "/kəmˈplaɪ/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "遵守",
+      "en": "to act in accordance with a wish or command",
+      "excerpt": "complying with a judge's ruling",
+      "example_cn": "遵守法官的裁决。"
+    },
+    {
+      "word": "memorial",
+      "phonetic": "/məˈmɔːriəl/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "纪念碑；纪念物",
+      "en": "something, especially a structure, established to remind people of a person or event",
+      "excerpt": "a living memorial to the late president",
+      "example_cn": "对已故总统的活纪念碑。"
+    },
+    {
+      "word": "upheaval",
+      "phonetic": "/ʌpˈhiːvl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "剧变",
+      "en": "a violent or sudden change or disruption",
+      "excerpt": "this big upheaval",
+      "example_cn": "这场大动荡。"
+    },
+    {
+      "word": "audition",
+      "phonetic": "/ɔːˈdɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "试镜；考验",
+      "en": "a test of a performer's suitability for a role",
+      "excerpt": "Warsh's big audition was last week.",
+      "example_cn": "沃什的重大考验在上周。"
+    },
+    {
+      "word": "parse",
+      "phonetic": "/pɑːrs/",
+      "pos": "v.",
+      "level": "专八",
+      "cn": "解析",
+      "en": "to analyze a sentence or text grammatically",
+      "excerpt": "the closely parsed policy statement",
+      "example_cn": "被仔细解析的政策声明。"
+    },
+    {
+      "word": "wonky",
+      "phonetic": "/ˈwɒŋki/",
+      "pos": "adj.",
+      "level": "专八",
+      "cn": "摇摇晃晃的；不稳定的",
+      "en": "not steady or stable; shaky",
+      "excerpt": "A wonky way of saying they will get inflation back to 2 percent.",
+      "example_cn": "一种不稳定的说法，表示他们将把通胀率恢复到2%。"
+    },
+    {
+      "word": "grapple",
+      "phonetic": "/ˈɡræpl/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "努力解决",
+      "en": "to struggle to deal with or overcome a difficulty",
+      "excerpt": "what the Fed has to grapple with here",
+      "example_cn": "美联储必须努力解决的问题。"
+    },
+    {
+      "word": "reverence",
+      "phonetic": "/ˈrevərəns/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "尊敬",
+      "en": "deep respect or admiration",
+      "excerpt": "why people still think of him with such reverence",
+      "example_cn": "为什么人们仍然对他如此尊敬。"
+    },
+    {
+      "word": "preside",
+      "phonetic": "/prɪˈzaɪd/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "主持",
+      "en": "to be in charge of a meeting, ceremony, or organization",
+      "excerpt": "he presided over a period where there was huge technological change",
+      "example_cn": "他主持了一个技术巨变的时期。"
+    },
+    {
+      "word": "usher",
+      "phonetic": "/ˈʌʃər/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "引领；开创",
+      "en": "to show or guide someone somewhere; to cause something to begin",
+      "excerpt": "the Internet boom was going to usher in this huge era of productivity",
+      "example_cn": "互联网繁荣将开创一个巨大的生产力时代。"
+    },
+    {
+      "word": "sticky",
+      "phonetic": "/ˈstɪki/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "粘性的；持久的",
+      "en": "tending to persist; difficult to change",
+      "excerpt": "inflation that is soaring now, but was already sticky before the war",
+      "example_cn": "现在飙升的通胀，但在战前就已经很顽固。"
+    },
+    {
+      "word": "soar",
+      "phonetic": "/sɔːr/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "飙升",
+      "en": "to increase rapidly above the usual level",
+      "excerpt": "inflation soaring now",
+      "example_cn": "通胀现在飙升。"
+    },
+    {
+      "word": "recess",
+      "phonetic": "/rɪˈses/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "休会期",
+      "en": "a break in the proceedings of a court, legislature, or other official body",
+      "excerpt": "before its summer recess",
+      "example_cn": "在夏季休会之前。"
+    },
+    {
+      "word": "intel",
+      "phonetic": "/ˈɪntel/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "情报",
+      "en": "information, especially of military or political value",
+      "excerpt": "mass firings underway at the nation's top intel office",
+      "example_cn": "国家最高情报机构正在进行大规模解雇。"
+    },
+    {
+      "word": "hand-picked",
+      "phonetic": "/ˈhænd pɪkt/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "精心挑选的",
+      "en": "carefully chosen for a special purpose",
+      "excerpt": "the president's hand-picked temporary director",
+      "example_cn": "总统精心挑选的临时主任。"
+    },
+    {
+      "word": "tailwind",
+      "phonetic": "/ˈteɪlwɪnd/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "顺风；有利因素",
+      "en": "a wind blowing in the same direction as the course of a vehicle or aircraft; a factor that helps progress",
+      "excerpt": "he is trying to have tailwinds",
+      "example_cn": "他试图拥有顺风（有利因素）。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Can more Democratic socialists ride Mayor Mamdani's wave?",
+      "cn": "更多的民主社会主义者能乘上曼达尼市长的浪潮吗？",
+      "structure": "简单疑问句，主语+谓语+宾语",
+      "analysis": "主语：more Democratic socialists；谓语：ride；宾语：Mayor Mamdani's wave。'ride one's wave'为习语，意为'借助某人的势头'。"
+    },
+    {
+      "en": "He's backed candidates in three House races, two are going up against Democratic incumbents, and they are hoping to ride the wave of Democratic socialists, who have been winning big races across the country.",
+      "cn": "他支持了三个众议院选区的候选人，其中两位正与民主党现任者竞争，他们希望乘上民主社会主义者的浪潮，这些人已在全美赢得重大竞选。",
+      "structure": "并列复合句，由and连接三个分句，第三个分句包含定语从句",
+      "analysis": "第一个分句：He's backed candidates；第二个分句：two are going up against incumbents；第三个分句：they are hoping to ride the wave of Democratic socialists，后接who引导的非限制性定语从句修饰Democratic socialists。"
+    },
+    {
+      "en": "I'm a longtime progressive, a Working Families Party member, but yes, if by 'Democratic socialist,' do you mean do I want Medicare for all?",
+      "cn": "我是一名长期的进步派，工薪家庭党成员，但是的，如果'民主社会主义者'是指我是否想要全民医保？",
+      "structure": "复合句，包含条件状语从句",
+      "analysis": "主句：I'm a longtime progressive... but yes；条件状语从句：if by 'Democratic socialist,' do you mean...；从句中嵌套间接疑问句。"
+    },
+    {
+      "en": "I am someone who has felt deeply abandoned by the establishment politics that far too often see my community as merely a statistic.",
+      "cn": "我是一个深感被建制政治抛弃的人，这种政治常常把我的社区仅仅视为一个统计数据。",
+      "structure": "主句+定语从句+定语从句",
+      "analysis": "主句：I am someone；第一个定语从句：who has felt deeply abandoned by the establishment politics；第二个定语从句：that far too often see my community as merely a statistic，修饰establishment politics。"
+    },
+    {
+      "en": "What we are witnessing here at this moment is the tension Dr. King talked about creative tension being a catalyst for social justice.",
+      "cn": "我们此刻目睹的正是金博士所谈论的创造性紧张，这种紧张是社会正义的催化剂。",
+      "structure": "主语从句+表语从句",
+      "analysis": "主语从句：What we are witnessing here at this moment；系动词：is；表语：the tension；后接省略that的定语从句Dr. King talked about...，其中creative tension being a catalyst为动名词复合结构。"
+    },
+    {
+      "en": "I was quoting Gramsci, who said that the old world is dying and the new world struggles to be born.",
+      "cn": "我引用葛兰西的话，他说旧世界正在消亡，新世界挣扎着诞生。",
+      "structure": "主句+非限制性定语从句",
+      "analysis": "主句：I was quoting Gramsci；定语从句：who said that...，其中that引导宾语从句，包含两个并列分句：the old world is dying and the new world struggles to be born。"
+    },
+    {
+      "en": "I used the term to describe all those who are preventing the birth of a new world, not solely AIPAC, but frankly, super PACs at large who are spending millions of dollars in deceptive and misleading ads that are blanketing airwaves.",
+      "cn": "我用这个词来描述所有阻止新世界诞生的人，不仅仅是AIPAC，坦率地说，还有那些花费数百万美元投放欺骗性和误导性广告、充斥电波的超级政治行动委员会。",
+      "structure": "主句+定语从句+定语从句",
+      "analysis": "主句：I used the term to describe all those；定语从句：who are preventing the birth of a new world；插入语：not solely AIPAC, but frankly, super PACs at large；第二个定语从句：who are spending...，其中包含that引导的定语从句修饰ads。"
+    },
+    {
+      "en": "A federal judge says the system relied on inaccurate information and risks wrongly removing eligible voters.",
+      "cn": "一位联邦法官表示，该系统依赖不准确的信息，并存在错误移除合格选民的风险。",
+      "structure": "主句+宾语从句",
+      "analysis": "主句：A federal judge says；宾语从句：the system relied on inaccurate information and risks wrongly removing eligible voters，从句中relied和risks并列作谓语。"
+    },
+    {
+      "en": "Workers began removing Trump's name from an exterior wall ten days ago, complying with a judge's ruling that the institution could only be named for John F. Kennedy as a living memorial to the late president.",
+      "cn": "十天前，工人们开始从外墙移除特朗普的名字，以遵守法官的裁决，即该机构只能以约翰·F·肯尼迪命名，作为对已故总统的活纪念碑。",
+      "structure": "主句+现在分词短语作状语+同位语从句",
+      "analysis": "主句：Workers began removing Trump's name；现在分词短语：complying with a judge's ruling；同位语从句：that the institution could only be named for John F. Kennedy as a living memorial to the late president，解释ruling的内容。"
+    },
+    {
+      "en": "But the problem is exactly what you say: we have this inflation issue, it's really hard for the Fed not to raise interest rates in the face of inflation that is soaring now, but was already sticky before the war.",
+      "cn": "但问题正如你所说：我们有这个通胀问题，面对现在飙升但在战前就已经顽固的通胀，美联储很难不提高利率。",
+      "structure": "主系表结构，表语为名词性从句，后接并列句",
+      "analysis": "主句：the problem is exactly what you say；冒号后为解释说明：we have this inflation issue；后接并列句：it's really hard for the Fed not to raise interest rates in the face of inflation that is soaring now, but was already sticky before the war，其中that引导定语从句修饰inflation。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "纽约市初选与民主社会主义者",
+      "content": "纽约市举行初选，市长佐兰·曼达尼支持的民主社会主义者候选人挑战现任民主党议员。曼达尼试图复制其竞选成功，但面临党内建制派与进步派的分裂。",
+      "keywords": "New York primary, Democratic socialists, Zohran Mamdani, progressive, incumbent"
+    },
+    {
+      "title": "肯尼迪中心更名事件",
+      "content": "根据法官裁决，肯尼迪中心外墙上的特朗普名字被移除，因为该中心只能以约翰·F·肯尼迪命名。此举是特朗普与肯尼迪中心法律纠纷的一部分。",
+      "keywords": "Kennedy Center, Trump name removal, judge ruling, living memorial"
+    },
+    {
+      "title": "美联储新主席凯文·沃什的政策方向",
+      "content": "新任美联储主席凯文·沃什在首次政策会议上保持利率不变，但通胀上升（4.2%）和消费者信心下降可能迫使其加息。沃什倾向于减少市场指引，回归格林斯潘风格。",
+      "keywords": "Federal Reserve, Kevin Warsh, inflation, interest rates, Alan Greenspan"
+    },
+    {
+      "title": "AIPAC对两党政治的影响",
+      "content": "美国以色列公共事务委员会（AIPAC）在竞选中成为争议焦点，加剧了民主党和共和党内部在以色列政策上的分歧。塔克·卡尔森的退出也与此相关。",
+      "keywords": "AIPAC, Israel, political rift, Tucker Carlson, Democratic Party"
+    },
+    {
+      "title": "南希·格思里失踪案新线索",
+      "content": "执法部门发现一封与南希·格思里失踪相关的信件，声称她已被杀。此前曾有一封赎金信。调查人员认为这些信件可信。",
+      "keywords": "Nancy Guthrie, disappearance, ransom note, kidnapping"
+    },
+    {
+      "title": "最高法院待决案件",
+      "content": "最高法院即将就跨性别运动员、出生公民权等案件作出裁决，可能影响总统权力。",
+      "keywords": "Supreme Court, transgender athletes, birthright citizenship, presidential power"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nVoting Begins in New York: Will Mamdani's Candidates Win?; New Images Show Trump's Name Taken Off Kennedy Center; New Boss at Fed's First Priority: Fight Inflation. Aired 6-6:30a ET\n\nAired June 23, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nBRAD SMITH, CNN ANCHOR: And imagine opening your door and finding two million reasons to stay inside. That is exactly what happened in Texas after a truck carrying millions of bees crashed.\n\nVideo from Queen Bee Supply shows the chaos workers faced to capture the swarm. The company says that professional and backyard beekeepers stepped in to help.\n\nThat does it for CNN HEADLINE EXPRESS. I'm Brad Smith. We're buzzing away. But CNN THIS MORNING with Audie Cornish starts right now.\n\nAUDIE CORNISH, CNN ANCHOR: Today in the group chat, it's primary day in New York. Can more Democratic socialists ride Mayor Mamdani's wave?\n\nMAYOR ZOHRAN MAMDANI (D), NEW YORK CITY: When does the race for 2028 begin? It starts now.\n\nCORNISH: Anticipation builds to today's Supreme Court decisions. Will justices go against the president in cases that could help define his power?\n\nAnd so-called deep-state firings have started at a top U.S. intelligence agency. What else could the president's hand-picked temporary director do?\n\nAnd Tucker Carlson says he's out. Will he take MAGA with him?\n\nTUCKER CARLSON, PODCASTER: I would not support the Republican Party. There's no chance I would support the Republican Party.\n\nMAMDANI: Now, people often ask me what I think of the state of the Democratic Party. This slate here today is our answer. The Democratic Party must change.\n\nCORNISH: Zohran Mamdani putting his power to the test. Can his team of Democratic socialists win big in New York?\n\nGood morning, everybody. I'm Audie Cornish, and right now polls are open in New York. And the influence of New York City's mayor, tested just six months into his tenure.\n\nHe's backed candidates in three House races. Two are going up against Democratic incumbents, and they are hoping to ride the wave of Democratic socialists, who have been winning big races across the country.\n\nBRAD LANDER (D), CANDIDATE, NY-10: I'm a longtime progressive, a Working Families Party member. But yes, if by \"Democratic socialist,\" do you mean do I want Medicare for all? Do I want to make sure that folks can organize unions? Do I want to make sure we're getting to universal childcare and investing a lot more in housing everyone can afford? Yes.\n\nDARIALIZA AVILA CHEVALIER (D), CANDIDATE, NY-13: I am someone who has felt deeply abandoned by the establishment politics that far too often see my community as merely a statistic.\n\nCORNISH: All right, so today in the group chat, Tamara Keith, senior political correspondent at NPR; Chuck Rocha, Democratic strategist and former senior adviser to Bernie Sanders's presidential campaigns; and Ashley Davis, former White House official under President George W. Bush.\n\nLove seeing you guys. Thank you so much for being here.\n\nCHUCK ROCHA, DEMOCRATIC STRATEGIST: Of course.\n\nCORNISH: So, Tamara, I want to start with you, because Mamdani story is a story that I think a lot of these folks would like to emulate. They're not handpicked by the party, yet somehow, they rise via the -- you know, the Internet and the power of their ideas. And he is trying to have, like, tailwinds. So, do we know if he does?\n\nTAMARA KEITH, SENIOR POLITICAL CORRESPONDENT, NPR: I think we will know very soon whether he does. He -- certainly, some of these candidates look to be polling pretty well in their races.\n\nI don't know that we can extrapolate about the national Democratic Party from what happens in New York City.\n\nCORNISH: No, I mean, Democratic socialists.\n\nKEITH: Right. CORNISH: Which, city by city, I mean, even here in D.C. --\n\nCORNISH: -- we've been talking about that.\n\nI was noticing in -- was that Lander who we just played earlier?\n\nCORNISH: Notice how the first thing out of his mouth in that answer is, \"If by Democratic socialist, you mean.\" And I hear this over and over again, people trying to define it for themselves, even as actual Democratic socialists are out there defining it pretty loudly.\n\nROCHA: I would go a step further and say that it's already seen.\n\nIn political world, you don't beat incumbents. You don't go against the machine. In city politics, New York City. To your point, Audie, in Washington, D.C., just last week, when three Democratic socialists overcame the odds in like --\n\nROCHA: All the way around.\n\nROCHA: but that's much different than every other battleground district in America. There's about 34 battleground districts, and none of those are in the heart of any city where Democratic socialists -- And that's what the party is worried about.\n\nThe Democratic socialist message of being for the people, by the people. Working class. Pull yourself up. That's all good. But in these marginal seats, they'll say everybody's a Democratic socialist. All Ashley's friends will be running ads tomorrow on this.\n\nCORNISH: I know. You're trying to divorce it here. I want to play for you. This is Attorney General Tish James.\n\nROCHA: -- with it. I ain't divorcing nothing.\n\nCORNISH: No, no, hold on one second, because this is going to be the difficult thing as a consultant.\n\nCORNISH: How do you do this when there are people who are successfully running --\n\nCORNISH: -- behind this flag? So basically, race was -- Vox was calling this race a splitting of Mamdani's coalition: that it pitted progressives against Democratic socialists. [06:05:02]\n\nAnd then Letitia James was asked about this split. She's the former [SIC] attorney general. Here's what she had to say.\n\nLETITIA JAMES, ATTORNEY GENERAL OF NEW YORK: What we are witnessing here at this moment is the tension. Dr. King talked about creative tension being a catalyst for social -- for social justice.\n\nAnd clearly, given D.S. -- DSA and quote, unquote \"progressive Democrats,\" we are moving forward, and we are broadening the tent of the Democratic Party.\n\nWe are moving forward, broadening the tent, focusing on women, people of color, immigrants, working people in the labor movement. And that's why -- that's what you are witnessing now, given the split between a mayor who I've supported and who is a friend of mine, who I respect.\n\nCORNISH: And I should say current attorney general.\n\nASHLEY DAVIS, FORMER WHITE HOUSE OFFICIAL UNDER PRESIDENT GEORGE W. BUSH: Yes.\n\nCORNISH: But I wanted to ask you how you hear her describing this split, which I think Bush-era Republicans may be familiar with. Right? When the party starts to pull away from you.\n\nDAVIS: Well, right. I mean, I think this whole movement is two things. One, it's the Tea Party of the Republicans back in the day, or maybe even MAGA in some way.\n\nBut also, I think it's really anti-establishment, which most people in the country, whether you are Republicans or Democrats, are 100 percent running against the status quo, because no one's happy with it.\n\nBut what's really going to show me for the mayor, because I think that these -- he has a really good chance of winning these three races today. At least two of them.\n\nBut can they win in a general? And I think that's the question.\n\nDAVIS: I think we'll see. Some will, some won't.\n\nCORNISH: Let me just play one last thing. This is the mayor. Mayor Zohran Mamdani. He was just speaking from the mayor's office on Monday.\n\nMAMDANI: I was quoting Gramsci, who said that the old world is dying and the new world struggles to be born. Now is the time of monsters.\n\nI used the term to describe all those who are preventing the birth of a new world. Not solely AIPAC, but frankly, super PACs at large who are spending millions of dollars in deceptive and misleading ads that are blanketing airwaves.\n\nCORNISH: I wanted to add this one last thing. We're going to talk about it more in the program.\n\nBut this conversation around AIPAC and how it is dividing the Democratic Party and, to some extent, even Republicans. I remember Tom Massie's loss in Kentucky. He vehemently criticized AIPAC after.\n\nKEITH: Yes. And AIPAC has, in the last several years, become a real boogeyman in races. This obviously has a lot to do with politics involving Israel and Israel's shift --\n\nCORNISH: And exacerbated by October 7th and all that has followed since.\n\nKEITH: Absolutely. And everything that has followed.\n\nKEITH: And it has created a political rift, both in the Democratic Party and in the Republican Party. And this backlash, you know, against Israel, which is a change.\n\nCORNISH: Yes. And that thread runs through Tucker Carlson's exit, as --\n\nKEITH: It runs all the way from Tucker Carlson to Zohran Mamdani.\n\nCORNISH: Exactly. So, we're going to talk more about that on the program today. We've got a lot to handle.\n\nI do want to bring up one other thing, coming up on CNN THIS MORNING. There's actually a new clue in the Nancy Guthrie case. What it could say about her disappearance.\n\nPlus, what's behind the tarp outside the Kennedy Center? New images showing what we now know is not there.\n\nAnd we're remembering the man with the golden ears who launched the careers of icons, including Whitney Houston and Bruce Springsteen. Legendary music producer Clive Davis has died at the age of 94. Here he is in 2024, talking about his legacy.\n\nCLIVE DAVIS, MUSIC PRODUCER: I discovered or nurtured an unusual array of the most gifted artists of all time and that they felt safe.\n\n(END VIDEO CLIP) (COMMERCIAL BREAK)\n\nCORNISH: It is now 12 minutes past the hour. This is your morning roundup.\n\nLaw enforcement sources telling CNN a note connected to the disappearance of Nancy Guthrie claims that she died, and that note was sent to media outlets back in February.\n\nWe're told the kidnappers wrote it -- wrote that she died shortly after she was taken and that they did not mean to kill her.\n\nNow, this note followed one prior which demanded ransom. Investigators believe these notes are legitimate.\n\nAnd a major ruling on voting and privacy. The Trump administration blocked from using Social Security and immigration data to scrub voter rolls.\n\nA federal judge says the system relied on inaccurate information and risks wrongly removing eligible voters.\n\nNow, this ruling halted a key part of the president -- of the president's election overhaul plan.\n\nAnd we're getting a new look at what's behind the tarp at the Kennedy Center. These images, obtained by CNN, show President Trump's name is no longer on the building.\n\nWorkers began removing Trump's name from an exterior wall ten days ago, complying with a judge's ruling that the institution could only be named for John F. Kennedy as a living memorial to the late president.\n\nAshley, I feel like you have some goss here. You're involved with the National Symphony?\n\nDAVIS: Yes, absolutely. And I think it's really important, because the Kennedy Center -- also, the judge said the Kennedy Center will remain open for now, as well. And we'll see what happens there.\n\nCORNISH: Instead of shutting down for a big Trump-induced renovation.\n\nDAVIS: Exactly. But the NSO is in to stay. And they are either going to do it with the symphony or some other way, if there's not going to be a budget to support them.\n\nBut 100 percent, these musicians have stayed with the NSO from the beginning, and they --\n\nCORNISH: None of them quit during --\n\nDAVIS: None of them quit.\n\nCORNISH: -- this big upheaval.\n\nDAVIS: And we have a season to announce as soon as we can, and --\n\nROCHA: What's the NSO?\n\nDAVIS: National Symphony Orchestra.\n\nROCHA: That's why I don't know what the NSO is.\n\nCORNISH: I'm going to take you to a concert. I'm going to take you to a concert.\n\nCORNISH: Shout-out to the National Symphony orchestra. Glad you guys stuck with it. Looking forward to the new season.\n\nI want to talk about this after the break. Does a quieter Fed equal a louder market? How Kevin Warsh's gamble might impact your money.\n\nPlus, the light at the end of the tunnel is here for Americans exposed on that hantavirus-stricken cruise ship.\n\nIn the meantime, a live look in Houston. The World Cup play will continue there with a match featuring Portugal versus Uzbekistan.\n\nKEVIN WARSH, FEDERAL RESERVE CHAIRMAN: I don't share the view that was expressed a few generations ago that Federal Reserve chairmen show up at a podium like this and say, you've got to choose, and you're going to have to decide whether you're willing to tolerate higher inflation to put more people at work.\n\nCORNISH: Newly sworn-in Federal Reserve Chairman Kevin Warsh, leaving interest rates steady for now. But concerning economic data, since the start of the war with Iran could mean he'll have to change his mind.\n\nSo let me give you an example. Inflation rose half a percent from April to May. That means it's now around 4.2 percent. Consumer confidence dipping among Americans.\n\nSo, joining me now Courtenay Brown. She's the senior economics reporter at Axios. Welcome back. Thanks so much.\n\nSo, I'm starting with the inflation, just to give people a sense, because that's always the boogeyman. Is inflation high? Is inflation low? And this is where monetary policy comes into play. What is our sense, now that Warsh is in the job, of how he thinks\n\nCOURTENAY BROWN, SENIOR ECONOMICS REPORTER, AXIOS: Do you want to hear something crazy?\n\nCORNISH: About Fed policy, Courtenay. Yes.\n\nBROWN: Because he is not so -- Warsh's big audition was last week. First Fed policy meeting. We get the closely parsed policy statement. It is 130 words, more than a third of the length in the Powell era, just months before.\n\nHe wants to say less. He wants to guide markets less.\n\nWhat we know is that he said that inflation -- or the Fed will accomplish price stability. A wonky way of saying they will get inflation back to 2 percent. As you said, so far from 2 percent right now.\n\nCORNISH: Yes. Can I -- let's look at the chart. She was making fun of me trying to read my own charts here for business.\n\nBROWN: I like your charts.\n\nCORNISH: Consumer price index.\n\nCORNISH: OK. What are we looking at in this chart right now?\n\nBROWN: So, what we've seen is inflation shooting right up since the war.\n\nCORNISH: Oh, see, I did the same thing guys. That's confidence. Give me consumer price.\n\nBROWN: But that's an important story, too.\n\nCORNISH: Oh, it is? Why?\n\nBROWN: The stories are connected.\n\nBROWN: Because inflation is shooting up, consumers feel really crappy about the economy right now. We all know this. Not a new story. It is a -- it is partially because of inflation, but it's also because\n\nof price levels. Prices have just been really high and have not come down.\n\nSo, I think what the Fed has to grapple with here is how do you bring inflation down without wrecking the economy? Financial markets have decided that the Fed will probably raise interest rates this year. That's crazy.\n\nCORNISH: \"Wall Street Journal\" saying Fed could raise -- could raise it three times this year.\n\nCORNISH: Pointing to --\n\nBROWN: Everyone on Wall Street --\n\nCORNISH: -- reporting from the forecast from Bank of America.\n\nBROWN: Everyone on Wall Street is revising their expectations for rate hikes this year. When just a few months ago, they were expecting rate cuts.\n\nBut we don't actually know. Kevin Warsh didn't say that. He doesn't want to guide markets in the way that traditional Fed chairman have. He wants to go back to the Greenspan era, the late Alan Greenspan, who died yesterday.\n\nCORNISH: Let's take a beat on that.\n\nCORNISH: Because there's some familiar language here. When the -- the late Alan Greenspan, who died this week, when he took over the Fed from Paul Volcker, you had Gulf wars fueling spikes in prices, right? So, something going on in the Middle East.\n\nYou had high inflation, and you had real worries about that and prices. So, some of this feels a bit familiar for us in this moment under Trump's term.\n\nWhat did Greenspan do that's part of his legacy, why people still think of him with -- with such reverence?\n\nBROWN: The celebrity Fed chairman of our era, really.\n\nThere's one more parallel to this moment that's quite spooky. Alan Greenspan, during his term, he presided -- or he led the Fed over a period where there was huge technological change, the Internet boom of the '90s.\n\nCORNISH: Oh, yes. And its bubble.\n\nBROWN: Yes. Sound like A.I. a little bit right now?\n\nBROWN: Maybe. So, I think Alan Greenspan is having such a moment right now. It is so interesting to me that he died at the -- at the moment where his legacy is kind of front and center --\n\nBROWN: -- among Trump economic officials. You hear them shouting out Alan Greenspan because of what he did.\n\nHe -- he believed that, then the Internet boom was going to usher in this huge era of productivity. And it would not be inflationary.\n\nAnd we've heard the White House explicitly say that they think the Fed can do the very same thing in this moment: keep interest rates low, not cut off this economic boom that we're having.\n\nBROWN: But the problem is exactly what you say. We have this inflation issue. It's really hard for the Fed not to raise interest rates in the face of inflation that is soaring now, but was already sticky before the war. So, they have a problem.\n\nCORNISH: One other thing I want to read from Alan Greenspan, because I think it's relevant here.\n\nIn 1994, he said, \"We will be at price stability when households and businesses need not factor expectations of changes in the average level of prices into their decisions.\"\n\nI'm going to translate and say he cared about our prices, about how households were able to afford their economy.\n\nBROWN: He did. He did.\n\nCORNISH: Courtenay, thank you so much. Love having you. I'm going to come up with more excuses to cover Fed policy just to soak in your enthusiasm.\n\nNext on CNN THIS MORNING, we're going to talk about the issues from transgender athletes to birthright citizenship before the Supreme Court. We could get some opinions later today, before its summer recess.\n\nPlus, mass firings underway at the nation's top intel office. And lawmakers warn of serious risks with each lost job.",
+  "segments": [
+    {
+      "seg": 1,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-23/segment/01",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nVoting Begins in New York: Will Mamdani's Candidates Win?; New Images Show Trump's Name Taken Off Kennedy Center; New Boss at Fed's First Priority: Fight Inflation. Aired 6-6:30a ET\n\nAired June 23, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nBRAD SMITH, CNN ANCHOR: And imagine opening your door and finding two million reasons to stay inside. That is exactly what happened in Texas after a truck carrying millions of bees crashed.\n\nVideo from Queen Bee Supply shows the chaos workers faced to capture the swarm. The company says that professional and backyard beekeepers stepped in to help.\n\nThat does it for CNN HEADLINE EXPRESS. I'm Brad Smith. We're buzzing away. But CNN THIS MORNING with Audie Cornish starts right now.\n\nAUDIE CORNISH, CNN ANCHOR: Today in the group chat, it's primary day in New York. Can more Democratic socialists ride Mayor Mamdani's wave?\n\nMAYOR ZOHRAN MAMDANI (D), NEW YORK CITY: When does the race for 2028 begin? It starts now.\n\nCORNISH: Anticipation builds to today's Supreme Court decisions. Will justices go against the president in cases that could help define his power?\n\nAnd so-called deep-state firings have started at a top U.S. intelligence agency. What else could the president's hand-picked temporary director do?\n\nAnd Tucker Carlson says he's out. Will he take MAGA with him?\n\nTUCKER CARLSON, PODCASTER: I would not support the Republican Party. There's no chance I would support the Republican Party.\n\nMAMDANI: Now, people often ask me what I think of the state of the Democratic Party. This slate here today is our answer. The Democratic Party must change.\n\nCORNISH: Zohran Mamdani putting his power to the test. Can his team of Democratic socialists win big in New York?\n\nGood morning, everybody. I'm Audie Cornish, and right now polls are open in New York. And the influence of New York City's mayor, tested just six months into his tenure.\n\nHe's backed candidates in three House races. Two are going up against Democratic incumbents, and they are hoping to ride the wave of Democratic socialists, who have been winning big races across the country.\n\nBRAD LANDER (D), CANDIDATE, NY-10: I'm a longtime progressive, a Working Families Party member. But yes, if by \"Democratic socialist,\" do you mean do I want Medicare for all? Do I want to make sure that folks can organize unions? Do I want to make sure we're getting to universal childcare and investing a lot more in housing everyone can afford? Yes.\n\nDARIALIZA AVILA CHEVALIER (D), CANDIDATE, NY-13: I am someone who has felt deeply abandoned by the establishment politics that far too often see my community as merely a statistic.\n\nCORNISH: All right, so today in the group chat, Tamara Keith, senior political correspondent at NPR; Chuck Rocha, Democratic strategist and former senior adviser to Bernie Sanders's presidential campaigns; and Ashley Davis, former White House official under President George W. Bush.\n\nLove seeing you guys. Thank you so much for being here.\n\nCHUCK ROCHA, DEMOCRATIC STRATEGIST: Of course.\n\nCORNISH: So, Tamara, I want to start with you, because Mamdani story is a story that I think a lot of these folks would like to emulate. They're not handpicked by the party, yet somehow, they rise via the -- you know, the Internet and the power of their ideas. And he is trying to have, like, tailwinds. So, do we know if he does?\n\nTAMARA KEITH, SENIOR POLITICAL CORRESPONDENT, NPR: I think we will know very soon whether he does. He -- certainly, some of these candidates look to be polling pretty well in their races.\n\nI don't know that we can extrapolate about the national Democratic Party from what happens in New York City.\n\nCORNISH: No, I mean, Democratic socialists.\n\nKEITH: Right. CORNISH: Which, city by city, I mean, even here in D.C. --\n\nCORNISH: -- we've been talking about that.\n\nI was noticing in -- was that Lander who we just played earlier?\n\nCORNISH: Notice how the first thing out of his mouth in that answer is, \"If by Democratic socialist, you mean.\" And I hear this over and over again, people trying to define it for themselves, even as actual Democratic socialists are out there defining it pretty loudly.\n\nROCHA: I would go a step further and say that it's already seen.\n\nIn political world, you don't beat incumbents. You don't go against the machine. In city politics, New York City. To your point, Audie, in Washington, D.C., just last week, when three Democratic socialists overcame the odds in like --\n\nROCHA: All the way around.\n\nROCHA: but that's much different than every other battleground district in America. There's about 34 battleground districts, and none of those are in the heart of any city where Democratic socialists -- And that's what the party is worried about.\n\nThe Democratic socialist message of being for the people, by the people. Working class. Pull yourself up. That's all good. But in these marginal seats, they'll say everybody's a Democratic socialist. All Ashley's friends will be running ads tomorrow on this.\n\nCORNISH: I know. You're trying to divorce it here. I want to play for you. This is Attorney General Tish James.\n\nROCHA: -- with it. I ain't divorcing nothing.\n\nCORNISH: No, no, hold on one second, because this is going to be the difficult thing as a consultant.\n\nCORNISH: How do you do this when there are people who are successfully running --\n\nCORNISH: -- behind this flag? So basically, race was -- Vox was calling this race a splitting of Mamdani's coalition: that it pitted progressives against Democratic socialists. [06:05:02]\n\nAnd then Letitia James was asked about this split. She's the former [SIC] attorney general. Here's what she had to say.\n\nLETITIA JAMES, ATTORNEY GENERAL OF NEW YORK: What we are witnessing here at this moment is the tension. Dr. King talked about creative tension being a catalyst for social -- for social justice.\n\nAnd clearly, given D.S. -- DSA and quote, unquote \"progressive Democrats,\" we are moving forward, and we are broadening the tent of the Democratic Party.\n\nWe are moving forward, broadening the tent, focusing on women, people of color, immigrants, working people in the labor movement. And that's why -- that's what you are witnessing now, given the split between a mayor who I've supported and who is a friend of mine, who I respect.\n\nCORNISH: And I should say current attorney general.\n\nASHLEY DAVIS, FORMER WHITE HOUSE OFFICIAL UNDER PRESIDENT GEORGE W. BUSH: Yes.\n\nCORNISH: But I wanted to ask you how you hear her describing this split, which I think Bush-era Republicans may be familiar with. Right? When the party starts to pull away from you.\n\nDAVIS: Well, right. I mean, I think this whole movement is two things. One, it's the Tea Party of the Republicans back in the day, or maybe even MAGA in some way.\n\nBut also, I think it's really anti-establishment, which most people in the country, whether you are Republicans or Democrats, are 100 percent running against the status quo, because no one's happy with it.\n\nBut what's really going to show me for the mayor, because I think that these -- he has a really good chance of winning these three races today. At least two of them.\n\nBut can they win in a general? And I think that's the question.\n\nDAVIS: I think we'll see. Some will, some won't.\n\nCORNISH: Let me just play one last thing. This is the mayor. Mayor Zohran Mamdani. He was just speaking from the mayor's office on Monday.\n\nMAMDANI: I was quoting Gramsci, who said that the old world is dying and the new world struggles to be born. Now is the time of monsters.\n\nI used the term to describe all those who are preventing the birth of a new world. Not solely AIPAC, but frankly, super PACs at large who are spending millions of dollars in deceptive and misleading ads that are blanketing airwaves.\n\nCORNISH: I wanted to add this one last thing. We're going to talk about it more in the program.\n\nBut this conversation around AIPAC and how it is dividing the Democratic Party and, to some extent, even Republicans. I remember Tom Massie's loss in Kentucky. He vehemently criticized AIPAC after.\n\nKEITH: Yes. And AIPAC has, in the last several years, become a real boogeyman in races. This obviously has a lot to do with politics involving Israel and Israel's shift --\n\nCORNISH: And exacerbated by October 7th and all that has followed since.\n\nKEITH: Absolutely. And everything that has followed.\n\nKEITH: And it has created a political rift, both in the Democratic Party and in the Republican Party. And this backlash, you know, against Israel, which is a change.\n\nCORNISH: Yes. And that thread runs through Tucker Carlson's exit, as --\n\nKEITH: It runs all the way from Tucker Carlson to Zohran Mamdani.\n\nCORNISH: Exactly. So, we're going to talk more about that on the program today. We've got a lot to handle.\n\nI do want to bring up one other thing, coming up on CNN THIS MORNING. There's actually a new clue in the Nancy Guthrie case. What it could say about her disappearance.\n\nPlus, what's behind the tarp outside the Kennedy Center? New images showing what we now know is not there.\n\nAnd we're remembering the man with the golden ears who launched the careers of icons, including Whitney Houston and Bruce Springsteen. Legendary music producer Clive Davis has died at the age of 94. Here he is in 2024, talking about his legacy.\n\nCLIVE DAVIS, MUSIC PRODUCER: I discovered or nurtured an unusual array of the most gifted artists of all time and that they felt safe.\n\n(END VIDEO CLIP) (COMMERCIAL BREAK)\n\nCORNISH: It is now 12 minutes past the hour. This is your morning roundup.\n\nLaw enforcement sources telling CNN a note connected to the disappearance of Nancy Guthrie claims that she died, and that note was sent to media outlets back in February.\n\nWe're told the kidnappers wrote it -- wrote that she died shortly after she was taken and that they did not mean to kill her.\n\nNow, this note followed one prior which demanded ransom. Investigators believe these notes are legitimate.\n\nAnd a major ruling on voting and privacy. The Trump administration blocked from using Social Security and immigration data to scrub voter rolls.\n\nA federal judge says the system relied on inaccurate information and risks wrongly removing eligible voters.\n\nNow, this ruling halted a key part of the president -- of the president's election overhaul plan.\n\nAnd we're getting a new look at what's behind the tarp at the Kennedy Center. These images, obtained by CNN, show President Trump's name is no longer on the building.\n\nWorkers began removing Trump's name from an exterior wall ten days ago, complying with a judge's ruling that the institution could only be named for John F. Kennedy as a living memorial to the late president.\n\nAshley, I feel like you have some goss here. You're involved with the National Symphony?\n\nDAVIS: Yes, absolutely. And I think it's really important, because the Kennedy Center -- also, the judge said the Kennedy Center will remain open for now, as well. And we'll see what happens there.\n\nCORNISH: Instead of shutting down for a big Trump-induced renovation.\n\nDAVIS: Exactly. But the NSO is in to stay. And they are either going to do it with the symphony or some other way, if there's not going to be a budget to support them.\n\nBut 100 percent, these musicians have stayed with the NSO from the beginning, and they --\n\nCORNISH: None of them quit during --\n\nDAVIS: None of them quit.\n\nCORNISH: -- this big upheaval.\n\nDAVIS: And we have a season to announce as soon as we can, and --\n\nROCHA: What's the NSO?\n\nDAVIS: National Symphony Orchestra.\n\nROCHA: That's why I don't know what the NSO is.\n\nCORNISH: I'm going to take you to a concert. I'm going to take you to a concert.\n\nCORNISH: Shout-out to the National Symphony orchestra. Glad you guys stuck with it. Looking forward to the new season.\n\nI want to talk about this after the break. Does a quieter Fed equal a louder market? How Kevin Warsh's gamble might impact your money.\n\nPlus, the light at the end of the tunnel is here for Americans exposed on that hantavirus-stricken cruise ship.\n\nIn the meantime, a live look in Houston. The World Cup play will continue there with a match featuring Portugal versus Uzbekistan.\n\nKEVIN WARSH, FEDERAL RESERVE CHAIRMAN: I don't share the view that was expressed a few generations ago that Federal Reserve chairmen show up at a podium like this and say, you've got to choose, and you're going to have to decide whether you're willing to tolerate higher inflation to put more people at work.\n\nCORNISH: Newly sworn-in Federal Reserve Chairman Kevin Warsh, leaving interest rates steady for now. But concerning economic data, since the start of the war with Iran could mean he'll have to change his mind.\n\nSo let me give you an example. Inflation rose half a percent from April to May. That means it's now around 4.2 percent. Consumer confidence dipping among Americans.\n\nSo, joining me now Courtenay Brown. She's the senior economics reporter at Axios. Welcome back. Thanks so much.\n\nSo, I'm starting with the inflation, just to give people a sense, because that's always the boogeyman. Is inflation high? Is inflation low? And this is where monetary policy comes into play. What is our sense, now that Warsh is in the job, of how he thinks\n\nCOURTENAY BROWN, SENIOR ECONOMICS REPORTER, AXIOS: Do you want to hear something crazy?\n\nCORNISH: About Fed policy, Courtenay. Yes.\n\nBROWN: Because he is not so -- Warsh's big audition was last week. First Fed policy meeting. We get the closely parsed policy statement. It is 130 words, more than a third of the length in the Powell era, just months before.\n\nHe wants to say less. He wants to guide markets less.\n\nWhat we know is that he said that inflation -- or the Fed will accomplish price stability. A wonky way of saying they will get inflation back to 2 percent. As you said, so far from 2 percent right now.\n\nCORNISH: Yes. Can I -- let's look at the chart. She was making fun of me trying to read my own charts here for business.\n\nBROWN: I like your charts.\n\nCORNISH: Consumer price index.\n\nCORNISH: OK. What are we looking at in this chart right now?\n\nBROWN: So, what we've seen is inflation shooting right up since the war.\n\nCORNISH: Oh, see, I did the same thing guys. That's confidence. Give me consumer price.\n\nBROWN: But that's an important story, too.\n\nCORNISH: Oh, it is? Why?\n\nBROWN: The stories are connected.\n\nBROWN: Because inflation is shooting up, consumers feel really crappy about the economy right now. We all know this. Not a new story. It is a -- it is partially because of inflation, but it's also because\n\nof price levels. Prices have just been really high and have not come down.\n\nSo, I think what the Fed has to grapple with here is how do you bring inflation down without wrecking the economy? Financial markets have decided that the Fed will probably raise interest rates this year. That's crazy.\n\nCORNISH: \"Wall Street Journal\" saying Fed could raise -- could raise it three times this year.\n\nCORNISH: Pointing to --\n\nBROWN: Everyone on Wall Street --\n\nCORNISH: -- reporting from the forecast from Bank of America.\n\nBROWN: Everyone on Wall Street is revising their expectations for rate hikes this year. When just a few months ago, they were expecting rate cuts.\n\nBut we don't actually know. Kevin Warsh didn't say that. He doesn't want to guide markets in the way that traditional Fed chairman have. He wants to go back to the Greenspan era, the late Alan Greenspan, who died yesterday.\n\nCORNISH: Let's take a beat on that.\n\nCORNISH: Because there's some familiar language here. When the -- the late Alan Greenspan, who died this week, when he took over the Fed from Paul Volcker, you had Gulf wars fueling spikes in prices, right? So, something going on in the Middle East.\n\nYou had high inflation, and you had real worries about that and prices. So, some of this feels a bit familiar for us in this moment under Trump's term.\n\nWhat did Greenspan do that's part of his legacy, why people still think of him with -- with such reverence?\n\nBROWN: The celebrity Fed chairman of our era, really.\n\nThere's one more parallel to this moment that's quite spooky. Alan Greenspan, during his term, he presided -- or he led the Fed over a period where there was huge technological change, the Internet boom of the '90s.\n\nCORNISH: Oh, yes. And its bubble.\n\nBROWN: Yes. Sound like A.I. a little bit right now?\n\nBROWN: Maybe. So, I think Alan Greenspan is having such a moment right now. It is so interesting to me that he died at the -- at the moment where his legacy is kind of front and center --\n\nBROWN: -- among Trump economic officials. You hear them shouting out Alan Greenspan because of what he did.\n\nHe -- he believed that, then the Internet boom was going to usher in this huge era of productivity. And it would not be inflationary.\n\nAnd we've heard the White House explicitly say that they think the Fed can do the very same thing in this moment: keep interest rates low, not cut off this economic boom that we're having.\n\nBROWN: But the problem is exactly what you say. We have this inflation issue. It's really hard for the Fed not to raise interest rates in the face of inflation that is soaring now, but was already sticky before the war. So, they have a problem.\n\nCORNISH: One other thing I want to read from Alan Greenspan, because I think it's relevant here.\n\nIn 1994, he said, \"We will be at price stability when households and businesses need not factor expectations of changes in the average level of prices into their decisions.\"\n\nI'm going to translate and say he cared about our prices, about how households were able to afford their economy.\n\nBROWN: He did. He did.\n\nCORNISH: Courtenay, thank you so much. Love having you. I'm going to come up with more excuses to cover Fed policy just to soak in your enthusiasm.\n\nNext on CNN THIS MORNING, we're going to talk about the issues from transgender athletes to birthright citizenship before the Supreme Court. We could get some opinions later today, before its summer recess.\n\nPlus, mass firings underway at the nation's top intel office. And lawmakers warn of serious risks with each lost job."
+    }
+  ]
+}
