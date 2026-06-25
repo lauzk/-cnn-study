@@ -1,0 +1,386 @@
+{
+  "date": "2026-06-24",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-24/segment/01",
+  "vocabulary": [
+    {
+      "word": "backed",
+      "phonetic": "/bækt/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "支持的",
+      "en": "supported",
+      "excerpt": "Candidates he backed made a big statement in New York last night.",
+      "example_cn": "他支持的候选人在昨晚的纽约取得了重大胜利。"
+    },
+    {
+      "word": "primary",
+      "phonetic": "/ˈpraɪmeri/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "初选",
+      "en": "a preliminary election to select a candidate",
+      "excerpt": "JFK's only grandson just lost his primary in New York.",
+      "example_cn": "肯尼迪唯一的孙子刚刚在纽约的初选中失利。"
+    },
+    {
+      "word": "incumbent",
+      "phonetic": "/ɪnˈkʌmbənt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "现任者",
+      "en": "the current holder of an office",
+      "excerpt": "defeating incumbent Adriano Espaillat.",
+      "example_cn": "击败了现任议员阿德里亚诺·埃斯帕拉特。"
+    },
+    {
+      "word": "progressive",
+      "phonetic": "/prəˈɡresɪv/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "进步派人士",
+      "en": "a person advocating social reform",
+      "excerpt": "The three progressives who were backed by New York City's Democratic socialist mayor.",
+      "example_cn": "三位得到纽约市民主社会主义市长支持的进步派人士。"
+    },
+    {
+      "word": "socialist",
+      "phonetic": "/ˈsoʊʃəlɪst/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "社会主义者",
+      "en": "a person who advocates socialism",
+      "excerpt": "Democratic socialist mayor.",
+      "example_cn": "民主社会主义市长。"
+    },
+    {
+      "word": "bruising",
+      "phonetic": "/ˈbruːzɪŋ/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "激烈的",
+      "en": "very intense and damaging",
+      "excerpt": "after a bruising campaign that focused heavily on their differences over Israel.",
+      "example_cn": "在一场激烈且主要围绕以色列问题分歧的竞选之后。"
+    },
+    {
+      "word": "catastrophic",
+      "phonetic": "/ˌkætəˈstrɑːfɪk/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "灾难性的",
+      "en": "extremely harmful",
+      "excerpt": "Joe Biden's 'hug Bibi' strategy was a catastrophic failure.",
+      "example_cn": "乔·拜登的‘拥抱比比’策略是一场灾难性的失败。"
+    },
+    {
+      "word": "litmus test",
+      "phonetic": "/ˈlɪtməs test/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "试金石",
+      "en": "a decisive test",
+      "excerpt": "Israel is becoming a litmus test for many.",
+      "example_cn": "以色列正成为许多人的试金石。"
+    },
+    {
+      "word": "swing district",
+      "phonetic": "/swɪŋ ˈdɪstrɪkt/",
+      "pos": "n.",
+      "level": "专四",
+      "cn": "摇摆选区",
+      "en": "a district where both major parties have similar support",
+      "excerpt": "a swing district in New York that will help us get the majority.",
+      "example_cn": "一个将帮助我们获得多数席位的纽约摇摆选区。"
+    },
+    {
+      "word": "filibuster",
+      "phonetic": "/ˈfɪlɪbʌstər/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "阻挠议事",
+      "en": "a tactic to delay or block legislation",
+      "excerpt": "he wants the Senate to end the filibuster.",
+      "example_cn": "他希望参议院结束阻挠议事。"
+    },
+    {
+      "word": "war powers resolution",
+      "phonetic": "/wɔːr ˈpaʊərz ˌrezəˈluːʃn/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "战争权力决议",
+      "en": "a resolution limiting the president's war-making authority",
+      "excerpt": "Senate passes War Powers Resolution.",
+      "example_cn": "参议院通过了战争权力决议。"
+    },
+    {
+      "word": "cyberattack",
+      "phonetic": "/ˈsaɪbərəˌtæk/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "网络攻击",
+      "en": "an attack on computer systems",
+      "excerpt": "The next major cyberattack could be just months away.",
+      "example_cn": "下一次重大网络攻击可能就在几个月后。"
+    },
+    {
+      "word": "intelligence warning",
+      "phonetic": "/ɪnˈtelɪdʒəns ˈwɔːrnɪŋ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "情报警告",
+      "en": "a warning from intelligence agencies",
+      "excerpt": "a stark intelligence warning.",
+      "example_cn": "一个严峻的情报警告。"
+    },
+    {
+      "word": "Camelot",
+      "phonetic": "/ˈkæməlɑːt/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "卡米洛特（指肯尼迪时代）",
+      "en": "a term for the Kennedy administration",
+      "excerpt": "the legacy that a lot of people used to call Camelot?",
+      "example_cn": "许多人曾称之为卡米洛特的遗产？"
+    },
+    {
+      "word": "clean sweep",
+      "phonetic": "/kliːn swiːp/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "大获全胜",
+      "en": "complete victory",
+      "excerpt": "A clean sweep for Zohran Mamdani.",
+      "example_cn": "佐赫兰·马姆达尼大获全胜。"
+    },
+    {
+      "word": "old guard",
+      "phonetic": "/oʊld ɡɑːrd/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "保守派",
+      "en": "the conservative faction",
+      "excerpt": "a rough night for the old guard in New York.",
+      "example_cn": "对纽约的保守派来说是一个艰难的夜晚。"
+    },
+    {
+      "word": "turnout",
+      "phonetic": "/ˈtɜːrnaʊt/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "投票率",
+      "en": "the number of people who vote",
+      "excerpt": "the robust, healthy turnout we saw expanding our traditional base.",
+      "example_cn": "我们看到的强劲健康的投票率扩大了我们的传统基础。"
+    },
+    {
+      "word": "buffet",
+      "phonetic": "/bəˈfeɪ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "自助餐",
+      "en": "a meal where guests serve themselves",
+      "excerpt": "the buffet known as the Democratic Party are adding some items.",
+      "example_cn": "被称为民主党的自助餐正在增加一些菜品。"
+    },
+    {
+      "word": "through line",
+      "phonetic": "/θruː laɪn/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "主线",
+      "en": "a consistent theme",
+      "excerpt": "The through line has been economics, has been affordability.",
+      "example_cn": "主线一直是经济，一直是可负担性。"
+    },
+    {
+      "word": "red shirt",
+      "phonetic": "/red ʃɜːrt/",
+      "pos": "n.",
+      "level": "专四",
+      "cn": "红衫（指运动员休赛一年）",
+      "en": "a year of sitting out to preserve eligibility",
+      "excerpt": "Red shirts and waivers are now eliminated.",
+      "example_cn": "红衫和豁免现在被取消了。"
+    },
+    {
+      "word": "waiver",
+      "phonetic": "/ˈweɪvər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "豁免",
+      "en": "an exemption from a rule",
+      "excerpt": "Red shirts and waivers are now eliminated.",
+      "example_cn": "红衫和豁免现在被取消了。"
+    },
+    {
+      "word": "overhaul",
+      "phonetic": "/ˈoʊvərhɔːl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "彻底改革",
+      "en": "a thorough examination and repair",
+      "excerpt": "the NCAA has approved a sweeping overhaul of eligibility rules.",
+      "example_cn": "NCAA批准了对资格规则的全面改革。"
+    },
+    {
+      "word": "collision course",
+      "phonetic": "/kəˈlɪʒn kɔːrs/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "冲突路线",
+      "en": "a path that leads to conflict",
+      "excerpt": "President Trump on a collision course with Republican senators.",
+      "example_cn": "特朗普总统与共和党参议员处于冲突路线上。"
+    },
+    {
+      "word": "heartburn",
+      "phonetic": "/ˈhɑːrtbɜːrn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "胃灼热；不满",
+      "en": "indigestion; resentment",
+      "excerpt": "Who's going to leave with heartburn?",
+      "example_cn": "谁会带着不满离开？"
+    },
+    {
+      "word": "voter suppression",
+      "phonetic": "/ˈvoʊtər səˈpreʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "选民压制",
+      "en": "efforts to prevent people from voting",
+      "excerpt": "to strike fear and intimidation and voter suppression into the midterms.",
+      "example_cn": "在中期选举中制造恐惧、恐吓和选民压制。"
+    },
+    {
+      "word": "redistricting",
+      "phonetic": "/ˌriːˈdɪstrɪktɪŋ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "重新划分选区",
+      "en": "the process of redrawing electoral district boundaries",
+      "excerpt": "You add this with redistricting.",
+      "example_cn": "再加上重新划分选区。"
+    },
+    {
+      "word": "mail-in voting",
+      "phonetic": "/meɪl ɪn ˈvoʊtɪŋ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "邮寄投票",
+      "en": "voting by mail",
+      "excerpt": "his executive order on banning mail-in voting.",
+      "example_cn": "他关于禁止邮寄投票的行政命令。"
+    },
+    {
+      "word": "bipartisan",
+      "phonetic": "/ˌbaɪˈpɑːrtɪzən/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "两党的",
+      "en": "involving two political parties",
+      "excerpt": "They also passed a housing bill last night, bipartisan.",
+      "example_cn": "他们昨晚还通过了一项两党住房法案。"
+    },
+    {
+      "word": "dependent variable",
+      "phonetic": "/dɪˈpendənt ˈveriəbl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "因变量",
+      "en": "a variable whose value depends on another",
+      "excerpt": "they are dependent variables.",
+      "example_cn": "他们是因变量。"
+    },
+    {
+      "word": "plume and peacock",
+      "phonetic": "/pluːm ænd ˈpiːkɑːk/",
+      "pos": "phrase",
+      "level": "专八",
+      "cn": "炫耀",
+      "en": "to show off",
+      "excerpt": "plume (ph) and peacock.",
+      "example_cn": "炫耀。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "The three progressives who were backed by New York City's Democratic socialist mayor, all of them won their House primaries last night.",
+      "cn": "三位得到纽约市民主社会主义市长支持的进步派人士，昨晚都赢得了众议院初选。",
+      "structure": "主语（The three progressives）+ 定语从句（who were backed by...）+ 主句（all of them won...）",
+      "analysis": "这是一个复合句，主句是“all of them won their House primaries last night”，主语“The three progressives”后跟一个由“who”引导的定语从句，修饰“progressives”。"
+    },
+    {
+      "en": "So, you had former city comptroller Brad Lander ousted two-term congressman Dan Goldman after a bruising campaign that focused heavily on their differences over Israel.",
+      "cn": "所以，前市审计长布拉德·兰德在经历了一场激烈且主要围绕以色列问题分歧的竞选后，击败了两任国会议员丹·戈德曼。",
+      "structure": "主语（you）+ 谓语（had）+ 宾语（former city comptroller Brad Lander）+ 宾语补足语（ousted...）+ 时间状语（after...）+ 定语从句（that focused...）",
+      "analysis": "这是一个简单句，但包含复杂的宾语补足语结构。“had”在这里是使役动词，表示“使得”。“ousted”是过去分词作宾语补足语。"
+    },
+    {
+      "en": "But what I'll tell you, what I will tell you is that the big takeaway from the New York primaries last night was New York 17, a moderate candidate who will take on Mike Lawler, a swing district in New York that will help us get the majority.",
+      "cn": "但我要告诉你的是，昨晚纽约初选的最大收获是纽约第17选区，一位温和派候选人将挑战迈克·劳勒，这是一个摇摆选区，将帮助我们获得多数席位。",
+      "structure": "主语从句（what I'll tell you）+ 系动词（is）+ 表语从句（that the big takeaway...）",
+      "analysis": "这是一个复合句，主语由“what”引导的主语从句充当，表语由“that”引导的表语从句充当。表语从句中又包含定语从句修饰“candidate”和“district”。"
+    },
+    {
+      "en": "And if they do get to Washington, they are going to affect the internal dynamics of the caucus.",
+      "cn": "如果他们真的进入华盛顿，他们将影响党团内部的动态。",
+      "structure": "条件状语从句（if they do get to Washington）+ 主句（they are going to affect...）",
+      "analysis": "这是一个条件句，从句使用“do”表示强调，主句使用“be going to”表示将来。"
+    },
+    {
+      "en": "But ultimately, I think whether the left comes out of November with as much momentum as they look like this morning, I think it's going to depend a lot on how those candidates in swing districts do.",
+      "cn": "但最终，我认为左翼在11月之后是否还能保持像今天早上这样的势头，很大程度上取决于那些摇摆选区的候选人的表现。",
+      "structure": "主句（I think）+ 宾语从句（whether...）+ 插入语（I think）+ 主句（it's going to depend...）",
+      "analysis": "这是一个复合句，第一个“I think”后跟一个由“whether”引导的宾语从句，第二个“I think”后跟一个主句，其中包含“how”引导的宾语从句。"
+    },
+    {
+      "en": "And as long as there isn't, you can't impose a national voting regime on red states and blue states.",
+      "cn": "只要没有，你就不能将全国性的投票制度强加给红州和蓝州。",
+      "structure": "条件状语从句（as long as there isn't）+ 主句（you can't impose...）",
+      "analysis": "这是一个条件句，“as long as”引导条件状语从句，主句使用“can't”表示否定。"
+    },
+    {
+      "en": "It is very hard for a Senate candidate, no matter how strong or popular they are personally, to win on ground that usually votes the other way for president.",
+      "cn": "对于一位参议员候选人来说，无论他们个人多么强大或受欢迎，要在通常投票支持另一方总统的选区获胜是非常困难的。",
+      "structure": "形式主语（It）+ 系动词（is）+ 表语（very hard）+ 真正主语（for a Senate candidate...to win...）+ 让步状语（no matter how...）+ 定语从句（that usually votes...）",
+      "analysis": "这是一个使用形式主语的句子，真正的主语是“for a Senate candidate to win...”，其中包含一个让步状语从句和一个定语从句。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "2026年纽约州初选与民主党内部左转",
+      "content": "2026年6月23日，纽约州举行国会众议院初选。纽约市民主社会主义市长佐赫兰·马姆达尼支持的候选人取得全面胜利，包括布拉德·兰德击败现任议员丹·戈德曼，克莱尔·瓦尔德兹和达里亚利扎·阿维拉·切瓦利尔也分别获胜。这标志着民主党内部进步派势力的崛起，尤其是在以色列政策等议题上。分析人士指出，虽然这些胜利主要发生在安全选区，但可能影响民主党未来的内部动态和全国选举策略。",
+      "keywords": "纽约初选, 民主党, 进步派, 马姆达尼, 以色列"
+    },
+    {
+      "title": "特朗普与参议院共和党人的冲突：SAVE法案与阻挠议事",
+      "content": "特朗普总统推动的《SAVE法案》（选民身份验证法案）在参议院遭遇阻力。参议院共和党领袖约翰·图恩表示，废除阻挠议事规则以通过该法案不现实，因为缺乏足够支持。同时，参议院通过了一项战争权力决议，要求总统在继续对伊朗战争前获得国会批准。这反映了特朗普与部分共和党参议员之间的紧张关系，以及参议院内部关于权力平衡的争论。",
+      "keywords": "特朗普, 参议院, SAVE法案, 阻挠议事, 战争权力决议"
+    },
+    {
+      "title": "AI与网络安全威胁",
+      "content": "节目中提及一个严峻的情报警告：下一次重大网络攻击可能就在几个月后，且人类可能与之无关。这暗示了人工智能驱动的网络攻击的潜在风险。随着AI技术的发展，网络安全威胁日益复杂，可能对国家安全和关键基础设施构成挑战。",
+      "keywords": "网络安全, AI, 网络攻击, 情报警告"
+    },
+    {
+      "title": "肯尼迪家族的政治遗产",
+      "content": "约翰·F·肯尼迪的唯一孙子在纽约初选中失利，引发了对肯尼迪家族政治遗产（常被称为“卡米洛特”）的讨论。这反映了政治世家的影响力在当代美国政治中的变化，以及选民对传统政治家族的接受度。",
+      "keywords": "肯尼迪, 卡米洛特, 政治遗产, 初选"
+    },
+    {
+      "title": "NCAA运动员资格规则改革",
+      "content": "NCAA批准了对一级运动员资格规则的全面改革，允许运动员在大学生涯中参加五个赛季的比赛，取消了红衫和豁免制度。这一改革将影响大学体育的竞争格局和运动员的职业生涯规划。",
+      "keywords": "NCAA, 运动员资格, 改革, 大学体育"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nMamdani-Backed Candidates Win Big in New York Primaries; Trump to Meet with Congressional Republicans as Senate Passes War Powers Resolution. Aired 6-6:30a ET\n\nAired June 24, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nBRAD SMITH, CNN ANCHOR: But according to Ross Township Police Department, that fawn went over the side of a retaining wall at a high school on Monday.\n\nOfficer Roy and his sergeant came to the rescue. Good job there. They were able to take care of the matter and safely, as well.\n\nThat does it for CNN HEADLINE EXPRESS. I'm Brad Smith. CNN THIS MORNING with Audie Cornish starts right now.\n\nAUDIE CORNISH, CNN ANCHOR: Today in the group chat is on Mamdani, the Democrats' new power broker. Candidates he backed made a big statement in New York last night.\n\nBRAD LANDER (D), NEW YORK HOUSE CANDIDATE: Revamp and recharge the Democratic Party in Washington that has, in so many ways, failed to meet the moment.\n\nCORNISH: And a stark intelligence warning. The next major cyberattack could be just months away. And humans may have little to do with it.\n\nAnd JFK's only grandson just lost his primary in New York. Where does that leave the legacy that a lot of people used to call Camelot?\n\nAnd some things Zohran Mamdani and Donald Trump can agree on: a big triumph in Washington for an issue that couldn't be closer to home.\n\nMAYOR ZOHRAN MAMDANI (D), NEW YORK CITY: The old world is dying, and the new world struggles to be born.\n\nCORNISH: A clean sweep for Zohran Mamdani. Good morning, everybody. I'm Audie Cornish, and here's what we're talking about today.\n\nThe three progressives who were backed by New York City's Democratic socialist mayor, all of them won their House primaries last night. So, you had former city comptroller Brad Lander ousted two-term congressman Dan Goldman after a bruising campaign that focused heavily on their differences over Israel.\n\nLANDER: Democrats are painfully divided by our differences over the U.S. relationship to Israel and Palestine, and we have to face up to it squarely.\n\nUNIDENTIFIED FEMALE: Yes.\n\nLANDER: Our party needs to admit that Joe Biden's \"hug Bibi\" strategy was a catastrophic failure.\n\nCORNISH: And state Assemblywoman Claire Valdez, a Mamdani-backed Democratic socialist, will be the Democratic nominee for New York's 7th congressional district.\n\nAnd Darializa Avila Chevalier, another Democratic socialist, captured New York's 13th District, defeating incumbent Adriano Espaillat.\n\nSo, it was a rough night for the old guard in New York. There are two incumbents who were defeated.\n\nREP. DAN GOLDMAN (D), NEW YORK: Politics like sports, has seasons of disappointment and seasons of triumph. What matters is that we continue showing up. We continue believing. We continue fighting for something bigger than just ourselves. And so, while my service in Congress may end at the end of this year, my commitment to these ideals will not.\n\nCORNISH: Joining me now in the group chat, Ron Brownstein, CNN senior political analyst; Jarrett Stepman, contributor at \"The Daily Signal\"; and Antjuan Seawright, Democratic Party strategist.\n\nAntjuan, I'm going to start with you, because this is all about Democrats last night and the Democratic Party, except it kind of was about the Democratic socialists instead.\n\nYou had someone like hakeem Jeffries on Wednesday, sort of implying like, hey, settle down, everyone trying to turn these into tea leaves. Here he is.\n\nREP. HAKEEM JEFFRIES (D-NY): There are 215 members in the House Democratic Caucus. A handful of primaries that go in one direction or the other in a given state or two aren't going to reshape who we are as House Democrats. (END VIDEO CLIP)\n\nCORNISH: Is this denying the reality of where voters are headed?\n\nANTJUAN SEAWRIGHT, DEMOCRATIC PARTY STRATEGIST: A few takeaways from last night. One, I think that these New York primaries are not some big, bold -- big, bold print or summary of where the totality of the Democratic Party is heading.\n\nNo. 2, I would argue that the big takeaway from last night was the robust, healthy turnout we saw expanding our traditional base in these primaries, which means that we have room to grow.\n\nI think that means that the buffet known as the Democratic Party are adding some items. And so that means more people will stand in line to eat from the buffet in November.\n\nCORNISH: Yes. It sounds like a parallel buffet. No, no, no. Before you go, Jamie Harrison, Democrat, he was saying -- I think this is 23rd, almost midnight. He's tweeting this: \"Political parties aren't perfect, but they're built by millions of people who knock doors, make calls, fight for the values they believe in.\"\n\nAnd then he says this, because a lot of people are -- are criticizing the party. \"If you don't believe in the party, then don't ask its members to carry you across the finish line.\"\n\nChris Murphy responds, Chris Murphy of Connecticut. And he goes, \"I don't know, man. Who is the Democratic Party, if not the voters? Democratic voters choose candidates, not party leaders. And party leaders need to listen to what voters are telling us. And right now, they're demanding our party be bolder.\"\n\nSEAWRIGHT: Sure. We are experiencing growing pains. That happens on both sides of the aisle.\n\nBut what I'll tell you, what I will tell you is that the big takeaway from the New York primaries last night was New York 17, a moderate candidate who will take on Mike Lawler, a swing district in New York that will help us get the majority.\n\nDemocrats -- progressive winning in Democratic safe seats is not some narrative that we should just be flashing the lights about. I mean, that's healthy debate. That's healthy within the party.\n\nI'm more focused on how do we get to 218? And New York 17 primary is a direct result of that.\n\nRON BROWNSTEIN, CNN SENIOR POLITICAL ANALYST: It is really a two-track story. I think that it is not as simple as being portrayed.\n\nAntjuan was right. I mean, in safe Democratic seats, in blue places, there is no question the party is moving to the left. If you are an incumbent, kind of a mainstream Democrat in a solidly blue district, especially in an urban setting, you have to be looking over your left shoulder after what we are watching this year.\n\nBut if you look at the districts that are going to decide which party has the majority with a few exceptions, Democrats are still relying primarily on moderate nominees.\n\nI mean, New York 17, South Carolina 1 and Utah 1 last night. We didn't say Ben McAdams. We didn't say Nancy Lacore. We didn't say Kate Connelly. But ultimately, those are the candidates that are going to decide whether -- which party is in the majority.\n\nNow, it is not without consequence that these left candidates are winning in, even in safe places, because A, Republicans are going to try to tie all Democrats to them.\n\nAnd if -- if Democrats do get the majority, it's going to affect the internal dynamics of the caucus.\n\nCORNISH: Let me make sure -- let me make sure --\n\nBROWNSTEIN: But in terms of who gets the majority, it's not critical.\n\nCORNISH: -- Jarrett has a moment to step in here. Because this is the argument that I've heard over and over and over again with each one of these special elections.\n\nThere's a moderate doing well. There's someone over here making noise. Why? Who are they?\n\nBut you have Republicans using those voices to be like, look, they're all communists. And does that work against some of these moderate candidates?\n\nJARRETT STEPMAN, CONTRIBUTOR, \"THE DAILY SIGNAL\": Sure. But you can't deny the fact that Mamdani and folks like him are trying to reshape the Democrat Party.\n\nI thought a lot of the issues were actually less just directed toward Donald Trump. What you see a lot of in the Democrat Party is opposition to Trump. This is about internal debates within the party.\n\nI mean, it's very clear now that Israel is becoming a litmus test for many, especially in these deep-blue districts. That clearly came to pass in these elections.\n\nSo, yes, I understand that the larger political picture, the national picture, is being shaped by a few more moderate swing districts. But this does shape the party, long-term. If you're sending more socialist members to Congress --\n\nCORNISH: Are you saying that --\n\nSTEPMAN: -- that changes the dynamic.\n\nCORNISH: -- because of what happened with both the Tea Party and MAGA candidates.\n\nCORNISH: -- who also, at the time, were considered extreme, can't win generals. Why are they doing this? Where is the party going? Bush Republicans melting down, you know, like witches in \"The Wizard of Oz.\" It was a whole thing.\n\nSTEPMAN: It was transitionary.\n\nCORNISH: Are you speaking from experience?\n\nCORNISH: Or are you poking at the weak spots?\n\nSTEPMAN: No, it is experience. The populist politics of the right have reshaped the Republican Party.\n\nI think the Democrat Party is going through a similar period: that the establishment is seen as not being as credible. They've taken some lumps. They've gone against Trump and lost in 2024. Many of the Bernie Sanders-style politicians feel that they're -- they're in a good spot right now.\n\nCORNISH: You just mentioned Bernie Sanders.\n\nCORNISH: Did he have a good night endorsing?\n\nBROWNSTEIN: Yes, sure. In New York, right? I mean, and in New York City. I mean, you know, and there are -- look, as I was saying, this is primarily happening in safe blue places so far.\n\nThere are a few of the Sanders-Warren-type candidates who are -- who have gotten nominations in competitive races. Maine, Graham Platner, obviously, in the Senate race. There's a California -- the race for David Valadao's seat. There's going to be one in Colorado coming up.\n\nHow they do in November is going to be really critical to the long- term --\n\nBROWNSTEIN: -- prospects of this movement. I mean, these -- the -- you know, all the districts we're talking about in New York City, Harris won at least 72 percent of the vote. OK, so these are -- these are very safe Democratic places.\n\nAnd if they do get to Washington, they are going to -- they are going to affect the internal dynamics of the caucus. But ultimately, I think whether the left comes out of November with as much momentum as they look like this morning, I think it's going to depend a lot on how those candidates in swing districts do.\n\nCORNISH: So, momentum is fair, which is back to Antjuan's point. SEAWRIGHT: The through line has been economics, has been affordability. And I think, whether you talk about the progressive left or the centrist left or the moderates, however you want to describe them, the through line has been affordability.\n\nAnd I would just say that how you campaign and how you govern are two different things.\n\nCORNISH: Yes. Mamdani's a good example.\n\nSEAWRIGHT: And I think we're seeing that with Mayor Mamdani. He talked about a number of things on the campaign trail. But people in New York, by and large, have been very pleased with him.\n\nThat's why the right have not been able to attack him and tried to mold him in to be something he's not.\n\nCORNISH: OK. We're going to talk more about some of these races, but I want to turn to one other thing, because I always like to look at where the money went.\n\nSo, did big tech try to buy New York's political primary? How tech companies spent millions to shape Tuesday's vote.\n\nPlus, are immigration courts becoming ICE hunting grounds? A federal judge has decided to step in.\n\nCORNISH: All right. It's now almost 15 minutes past the hour. This is your morning roundup.\n\nBill Gates told congressional investigators he suspected he was in the presence of Jeffrey Epstein's victims. Gates testified before the House Oversight Committee in a closed-door hearing earlier this month.\n\nAccording to newly-released transcripts, Gates said he never interacted with the victims and never witnessed any sexual misconduct.\n\nA federal judge has issued a nationwide block against the Trump administration's policy of making arrests at immigration courts. Federal officers began detaining court attendees last year under the Trump administration's policies. Now, this new ruling calls the practice arbitrary.\n\nAnd a wildfire in Utah has now burned about 31,000 acres. It's still not contained. High temperatures and strong winds are making the fire difficult to put out.\n\nThe fire started on Monday near multiple campgrounds and summer homes.\n\nAnd the NCAA has approved a sweeping overhaul of eligibility rules for student athletes. Division I athletes will now be allowed five years of competition in their college years, instead of four. Red shirts and waivers are now eliminated. And this new model goes\n\ninto effect following this school year.\n\nAnd round one of the NBA draft is in the books. Any one of four top prospects could have been picked first by the Washington Wizards.\n\nUNIDENTIFIED MALE: 2026.\n\nADAM SILVER, NBA COMMISSIONER: With the first pick in the 2026 NBA draft, the Washington Wizards select Anicet Dybantsa Jr. from Brigham Young University.\n\nCORNISH: He is six foot nine and averages 25.5 points per game. He is the first player in more than 30 years to lead the NCAA in Division I scoring and get picked first in the NBA draft.\n\nNow, after the break on CNN THIS MORNING, progress in the war between Israel and Lebanon. Can Marco Rubio keep both sides engaged in peace talks?\n\nBut first, President Trump on a collision course with Republican senators on Capitol Hill. They'll hash it out over lunch today. Who's going to leave with heartburn?\n\nAnd good morning from here in our nation's capital, as we take a live look at the sunrise over the dome.\n\nCORNISH: President Trump is failing to get his way in the Senate. He wants to pass his voting requirements bill, known as the SAVE Act, and he wants the Senate to end the filibuster to override Democrats to get it done.\n\nSenator Thom Tillis, a Republican, says that's not going to happen.\n\nSEN. THOM TILLIS (R-NC): This is a waste of time. It's a distraction, and it's not going to get -- it's not going to happen in this Congress.\n\nHe's just got to understand some of the limits that we have here in the Senate.\n\nTalking's good. SAVE Act's a waste of time.\n\nCORNISH: Last night, several Republicans crossed party lines to vote for a war powers resolution, demanding that the president come to Congress if he wants to continue a war with Iran.\n\nNow, the battle over these bills is coming to a head for Senate leader John Thune. He's facing not just Trump, but rival Republicans gunning for his job and willing to use Trump's frustration to get it.\n\nSo, what can we expect today? The group chat is back.\n\nI'm going to nerd out, because I used to cover the Senate. And Sen. Thune was on X, hitting back at Mike Lee and others who were, like, Pass the SAVE Act and get rid of the filibuster. We're all frothy about this.\n\nAnd Thune was telling reporters, look, I have to deal with reality. And sometimes the alternative universe that is X does not reflect the facts on the ground. This is the old \"Twitter is not real life\" argument.\n\nAnd he says, \"There are not the voters to nuke the filibuster. They aren't going to be ten Democratic votes to, all of a sudden, support the SAVE America Act. Those are hard realities. And I think people at some point have to come to grips with that.\" People or Trump?\n\nSTEPMAN: Yes, I think this is really an interesting moment, especially for the filibuster. I would say that Trump is using this moment to say, look, it needs to be done away with to get what we want.\n\nCORNISH: But why use it with something they don't want and that they can't pass. Why not use it with something --\n\nSTEPMAN: Because I think that President Trump especially has actually had some criticism, even from his own voters, that he hasn't paid enough attention to domestic politics, that he's been focused on international affairs.\n\nThe SAVE America Act, which is very popular amongst the Republican base, is something that needs to happen. And so, Trump, I think, is getting pressure from his own voters. And he is now pressuring the Senate, thinking, Well --\n\nCORNISH: But why not press an economic thing?\n\nSTEPMAN: -- what have we been doing these last six months -- six months?\n\nCORNISH: Like, if you're -- like, if their problem is focusing on domestic policy, why not do something that actually affects their pockets?\n\nSTEPMAN: I think because Republican voters also see elections as mattering. They -- they very much support voter I.D. as a --\n\nCORNISH: So, he's putting them on that. What do you see?\n\nBROWNSTEIN: I see meet the new boss, same as the old boss. What was the issue on which there was the most pressure to end the filibuster during Joe Biden's presidency? HR-1, voting reform. The Democratic vision of what national voting rules should be.\n\nAnd ultimately, they could not -- they did not have enough votes to pass to end the filibuster in the Senate. Manchin and Sinema and others who were mostly unnamed.\n\nTo -- to this point, there is not a majority in the Senate on either side to end the filibuster. And as long as there isn't, you can't impose a national voting regime on red states and blue states.\n\nCORNISH: So, one other thing. Rick Scott of Florida, I was reading the reporting, was the one who might have invited Trump. You're nodding. You heard this, too. Invited Trump to this lunch.\n\nThune was like, Oh, yes, I, too, want him at this lunch. And so now they're going to have to face Trump.\n\nYou've been in leader meetings, I know, on House side, but how does this go down?\n\nSEAWRIGHT: Oh, it will be -- whatever happens in the meeting will be leaked to the press before the meeting even ends. That's No. 1.\n\nSEAWRIGHT: No. 2. But I think this whole idea of the SAVE America Act, or Voter Suppression Act.\n\nCORNISH: And I'm going to put up while you're speaking, what's in it so people can see.\n\nSEAWRIGHT: This Voter Suppression Act is a larger narrative that the president and his party are trying to implement, to strike fear and intimidation and voter suppression into the midterms.\n\nYou add this with redistricting. You add this with his executive order on banning mail-in voting. There's a number of things they're trying to do to shape what the midterms look like.\n\nI've often called it the \"if you can't beat them, cheat them\" strategy. And most reasonable Republicans know that this is not the way to go if they want to be successful in the midterms.\n\nCORNISH: But can I underscore Ron's point, which is that under Democrats, people didn't want to mess with it. And under Republicans now, people don't want to mess with it. They see voting as the province of the states. They already have watched this redistricting war.\n\nAnd this brings me to this point. Why is it with a war powers vote -- I'm going to show you the Republicans who crossed the aisle with voting. Why are these the trigger points that have inspired a certain courage in the Senate against Trump?\n\nBROWNSTEIN: Sixty-nine percent of Americans in a poll on Sunday said the war was not worth the costs. I mean, that's -- you know, you can find a lot of courage in a -- in a 69 percent issue.\n\nAnd it is still like, even on the voting, the vast majority of each party's legislators are willing to vote for setting national rules that would -- that would affect all 50 states, but not enough. I mean, it is -- you know, I don't know how many Republicans would vote to end the filibuster to pass the SAVE Act. But it's -- you know, it's a lot. It's probably like 45 or 47.\n\nCORNISH: Yes, we're being pretty vague. There are things in here --\n\nCORNISH: -- Democrats can campaign on. As a woman with a hyphenated name, I've been watching this closely. I don't want to get to the polls and be told, well, wait a second. Are you who you say you are?\n\nIt feels like this is an issue that can be easily brought to voters, a la Antjuan, but that Republicans -- I mean, if Thune is saying it's not there --\n\nSTEPMAN: It's not there.\n\nCORNISH: -- are the people going after him, just trying to curry favor with Trump, to show, Look, I would have done this on your agenda if it was me.\n\nSTEPMAN: But some of the issues, like, for instance, voter I.D., is extremely --\n\nCORNISH: No, no, answer my question.\n\nCORNISH: Is it a power move on Thune to basically bring him before the president and tell everyone, look what he's not doing? I would have done it.\n\nSTEPMAN: No question. And this is sort of the independence that the Senate has sort of always had as -- as a body; sees itself as outside the president. I think you get a little less of that opposition in the House.\n\nSEAWRIGHT: Yes. I don't -- I think you have convenient independence. Because more than not, they have aligned themselves --\n\nSEAWRIGHT: -- with Donald Trump on almost every single issue.\n\nAnd that's why Senate Republicans are so unpopular, because the president is underwater on every single issue.\n\nI also think Thune understands now that the affordability crisis is right at their doorstep, and they're taking responsibility for it. And the Donald Trump agenda is very unpopular --\n\nSEAWRIGHT: -- amongst the American people, including the savings (ph).\n\nCORNISH: They also passed a housing bill last night, bipartisan. We're not going to hear about it, because they're going to be -- So, it's like that kind of thing where it's like, wait, you have an item you could be promoting to the voter. Look, we got a bipartisan housing bill.\n\nInstead, you're like, really, I want to go after all these different voting things. How about we spend time on that?\n\nBROWNSTEIN: The thing that's frustrating for senators in both parties is they are much less able than when I first got to Washington in the '80s to swim against the current. You know.\n\nCORNISH: Yes. There's no reward for that.\n\nBROWNSTEIN: If you look -- if you look, there are 25 states that voted three times for Donald Trump. Right now, there are 50 Republican senators in those 25. They have every Senate seats.\n\nNineteen states voted three times against him. Democrats have every one of those Senate seats except for Susan Collins.\n\nIt is very hard for a Senate candidate, no matter how strong or popular they are personally, to win on ground that usually votes the other way for president. So, in some ways, they are dependent variables.\n\nCORNISH: They are, but there's also --\n\nBROWNSTEIN: In the future no matter how much they kind of, you know --\n\nCORNISH: There's also now a small --\n\nBROWNSTEIN: -- plume (ph) and peacock.\n\nCORNISH: -- caucus of people burned by Trump in the Republican caucus.\n\nBROWNSTEIN: Yes. They're on their way out.\n\nCORNISH: And they're on their way out.\n\nBROWNSTEIN: They're on their way out.\n\nCORNISH: But on their way out, they may say, I'll cast a few votes the way I want.\n\nCORNISH: That's how -- that's how courage is built.\n\nOK, you guys, thank you for this.\n\nStraight ahead on CNN THIS MORNING, NATO sending its Trump whisperer. So, can the secretary-general keep the alliance together?\n\nPlus, how much has the A.I. industry spent in just one congressional race? Why one election has -- was worth tens of millions in influence.",
+  "segments": [
+    {
+      "seg": 1,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-24/segment/01",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nMamdani-Backed Candidates Win Big in New York Primaries; Trump to Meet with Congressional Republicans as Senate Passes War Powers Resolution. Aired 6-6:30a ET\n\nAired June 24, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nBRAD SMITH, CNN ANCHOR: But according to Ross Township Police Department, that fawn went over the side of a retaining wall at a high school on Monday.\n\nOfficer Roy and his sergeant came to the rescue. Good job there. They were able to take care of the matter and safely, as well.\n\nThat does it for CNN HEADLINE EXPRESS. I'm Brad Smith. CNN THIS MORNING with Audie Cornish starts right now.\n\nAUDIE CORNISH, CNN ANCHOR: Today in the group chat is on Mamdani, the Democrats' new power broker. Candidates he backed made a big statement in New York last night.\n\nBRAD LANDER (D), NEW YORK HOUSE CANDIDATE: Revamp and recharge the Democratic Party in Washington that has, in so many ways, failed to meet the moment.\n\nCORNISH: And a stark intelligence warning. The next major cyberattack could be just months away. And humans may have little to do with it.\n\nAnd JFK's only grandson just lost his primary in New York. Where does that leave the legacy that a lot of people used to call Camelot?\n\nAnd some things Zohran Mamdani and Donald Trump can agree on: a big triumph in Washington for an issue that couldn't be closer to home.\n\nMAYOR ZOHRAN MAMDANI (D), NEW YORK CITY: The old world is dying, and the new world struggles to be born.\n\nCORNISH: A clean sweep for Zohran Mamdani. Good morning, everybody. I'm Audie Cornish, and here's what we're talking about today.\n\nThe three progressives who were backed by New York City's Democratic socialist mayor, all of them won their House primaries last night. So, you had former city comptroller Brad Lander ousted two-term congressman Dan Goldman after a bruising campaign that focused heavily on their differences over Israel.\n\nLANDER: Democrats are painfully divided by our differences over the U.S. relationship to Israel and Palestine, and we have to face up to it squarely.\n\nUNIDENTIFIED FEMALE: Yes.\n\nLANDER: Our party needs to admit that Joe Biden's \"hug Bibi\" strategy was a catastrophic failure.\n\nCORNISH: And state Assemblywoman Claire Valdez, a Mamdani-backed Democratic socialist, will be the Democratic nominee for New York's 7th congressional district.\n\nAnd Darializa Avila Chevalier, another Democratic socialist, captured New York's 13th District, defeating incumbent Adriano Espaillat.\n\nSo, it was a rough night for the old guard in New York. There are two incumbents who were defeated.\n\nREP. DAN GOLDMAN (D), NEW YORK: Politics like sports, has seasons of disappointment and seasons of triumph. What matters is that we continue showing up. We continue believing. We continue fighting for something bigger than just ourselves. And so, while my service in Congress may end at the end of this year, my commitment to these ideals will not.\n\nCORNISH: Joining me now in the group chat, Ron Brownstein, CNN senior political analyst; Jarrett Stepman, contributor at \"The Daily Signal\"; and Antjuan Seawright, Democratic Party strategist.\n\nAntjuan, I'm going to start with you, because this is all about Democrats last night and the Democratic Party, except it kind of was about the Democratic socialists instead.\n\nYou had someone like hakeem Jeffries on Wednesday, sort of implying like, hey, settle down, everyone trying to turn these into tea leaves. Here he is.\n\nREP. HAKEEM JEFFRIES (D-NY): There are 215 members in the House Democratic Caucus. A handful of primaries that go in one direction or the other in a given state or two aren't going to reshape who we are as House Democrats. (END VIDEO CLIP)\n\nCORNISH: Is this denying the reality of where voters are headed?\n\nANTJUAN SEAWRIGHT, DEMOCRATIC PARTY STRATEGIST: A few takeaways from last night. One, I think that these New York primaries are not some big, bold -- big, bold print or summary of where the totality of the Democratic Party is heading.\n\nNo. 2, I would argue that the big takeaway from last night was the robust, healthy turnout we saw expanding our traditional base in these primaries, which means that we have room to grow.\n\nI think that means that the buffet known as the Democratic Party are adding some items. And so that means more people will stand in line to eat from the buffet in November.\n\nCORNISH: Yes. It sounds like a parallel buffet. No, no, no. Before you go, Jamie Harrison, Democrat, he was saying -- I think this is 23rd, almost midnight. He's tweeting this: \"Political parties aren't perfect, but they're built by millions of people who knock doors, make calls, fight for the values they believe in.\"\n\nAnd then he says this, because a lot of people are -- are criticizing the party. \"If you don't believe in the party, then don't ask its members to carry you across the finish line.\"\n\nChris Murphy responds, Chris Murphy of Connecticut. And he goes, \"I don't know, man. Who is the Democratic Party, if not the voters? Democratic voters choose candidates, not party leaders. And party leaders need to listen to what voters are telling us. And right now, they're demanding our party be bolder.\"\n\nSEAWRIGHT: Sure. We are experiencing growing pains. That happens on both sides of the aisle.\n\nBut what I'll tell you, what I will tell you is that the big takeaway from the New York primaries last night was New York 17, a moderate candidate who will take on Mike Lawler, a swing district in New York that will help us get the majority.\n\nDemocrats -- progressive winning in Democratic safe seats is not some narrative that we should just be flashing the lights about. I mean, that's healthy debate. That's healthy within the party.\n\nI'm more focused on how do we get to 218? And New York 17 primary is a direct result of that.\n\nRON BROWNSTEIN, CNN SENIOR POLITICAL ANALYST: It is really a two-track story. I think that it is not as simple as being portrayed.\n\nAntjuan was right. I mean, in safe Democratic seats, in blue places, there is no question the party is moving to the left. If you are an incumbent, kind of a mainstream Democrat in a solidly blue district, especially in an urban setting, you have to be looking over your left shoulder after what we are watching this year.\n\nBut if you look at the districts that are going to decide which party has the majority with a few exceptions, Democrats are still relying primarily on moderate nominees.\n\nI mean, New York 17, South Carolina 1 and Utah 1 last night. We didn't say Ben McAdams. We didn't say Nancy Lacore. We didn't say Kate Connelly. But ultimately, those are the candidates that are going to decide whether -- which party is in the majority.\n\nNow, it is not without consequence that these left candidates are winning in, even in safe places, because A, Republicans are going to try to tie all Democrats to them.\n\nAnd if -- if Democrats do get the majority, it's going to affect the internal dynamics of the caucus.\n\nCORNISH: Let me make sure -- let me make sure --\n\nBROWNSTEIN: But in terms of who gets the majority, it's not critical.\n\nCORNISH: -- Jarrett has a moment to step in here. Because this is the argument that I've heard over and over and over again with each one of these special elections.\n\nThere's a moderate doing well. There's someone over here making noise. Why? Who are they?\n\nBut you have Republicans using those voices to be like, look, they're all communists. And does that work against some of these moderate candidates?\n\nJARRETT STEPMAN, CONTRIBUTOR, \"THE DAILY SIGNAL\": Sure. But you can't deny the fact that Mamdani and folks like him are trying to reshape the Democrat Party.\n\nI thought a lot of the issues were actually less just directed toward Donald Trump. What you see a lot of in the Democrat Party is opposition to Trump. This is about internal debates within the party.\n\nI mean, it's very clear now that Israel is becoming a litmus test for many, especially in these deep-blue districts. That clearly came to pass in these elections.\n\nSo, yes, I understand that the larger political picture, the national picture, is being shaped by a few more moderate swing districts. But this does shape the party, long-term. If you're sending more socialist members to Congress --\n\nCORNISH: Are you saying that --\n\nSTEPMAN: -- that changes the dynamic.\n\nCORNISH: -- because of what happened with both the Tea Party and MAGA candidates.\n\nCORNISH: -- who also, at the time, were considered extreme, can't win generals. Why are they doing this? Where is the party going? Bush Republicans melting down, you know, like witches in \"The Wizard of Oz.\" It was a whole thing.\n\nSTEPMAN: It was transitionary.\n\nCORNISH: Are you speaking from experience?\n\nCORNISH: Or are you poking at the weak spots?\n\nSTEPMAN: No, it is experience. The populist politics of the right have reshaped the Republican Party.\n\nI think the Democrat Party is going through a similar period: that the establishment is seen as not being as credible. They've taken some lumps. They've gone against Trump and lost in 2024. Many of the Bernie Sanders-style politicians feel that they're -- they're in a good spot right now.\n\nCORNISH: You just mentioned Bernie Sanders.\n\nCORNISH: Did he have a good night endorsing?\n\nBROWNSTEIN: Yes, sure. In New York, right? I mean, and in New York City. I mean, you know, and there are -- look, as I was saying, this is primarily happening in safe blue places so far.\n\nThere are a few of the Sanders-Warren-type candidates who are -- who have gotten nominations in competitive races. Maine, Graham Platner, obviously, in the Senate race. There's a California -- the race for David Valadao's seat. There's going to be one in Colorado coming up.\n\nHow they do in November is going to be really critical to the long- term --\n\nBROWNSTEIN: -- prospects of this movement. I mean, these -- the -- you know, all the districts we're talking about in New York City, Harris won at least 72 percent of the vote. OK, so these are -- these are very safe Democratic places.\n\nAnd if they do get to Washington, they are going to -- they are going to affect the internal dynamics of the caucus. But ultimately, I think whether the left comes out of November with as much momentum as they look like this morning, I think it's going to depend a lot on how those candidates in swing districts do.\n\nCORNISH: So, momentum is fair, which is back to Antjuan's point. SEAWRIGHT: The through line has been economics, has been affordability. And I think, whether you talk about the progressive left or the centrist left or the moderates, however you want to describe them, the through line has been affordability.\n\nAnd I would just say that how you campaign and how you govern are two different things.\n\nCORNISH: Yes. Mamdani's a good example.\n\nSEAWRIGHT: And I think we're seeing that with Mayor Mamdani. He talked about a number of things on the campaign trail. But people in New York, by and large, have been very pleased with him.\n\nThat's why the right have not been able to attack him and tried to mold him in to be something he's not.\n\nCORNISH: OK. We're going to talk more about some of these races, but I want to turn to one other thing, because I always like to look at where the money went.\n\nSo, did big tech try to buy New York's political primary? How tech companies spent millions to shape Tuesday's vote.\n\nPlus, are immigration courts becoming ICE hunting grounds? A federal judge has decided to step in.\n\nCORNISH: All right. It's now almost 15 minutes past the hour. This is your morning roundup.\n\nBill Gates told congressional investigators he suspected he was in the presence of Jeffrey Epstein's victims. Gates testified before the House Oversight Committee in a closed-door hearing earlier this month.\n\nAccording to newly-released transcripts, Gates said he never interacted with the victims and never witnessed any sexual misconduct.\n\nA federal judge has issued a nationwide block against the Trump administration's policy of making arrests at immigration courts. Federal officers began detaining court attendees last year under the Trump administration's policies. Now, this new ruling calls the practice arbitrary.\n\nAnd a wildfire in Utah has now burned about 31,000 acres. It's still not contained. High temperatures and strong winds are making the fire difficult to put out.\n\nThe fire started on Monday near multiple campgrounds and summer homes.\n\nAnd the NCAA has approved a sweeping overhaul of eligibility rules for student athletes. Division I athletes will now be allowed five years of competition in their college years, instead of four. Red shirts and waivers are now eliminated. And this new model goes\n\ninto effect following this school year.\n\nAnd round one of the NBA draft is in the books. Any one of four top prospects could have been picked first by the Washington Wizards.\n\nUNIDENTIFIED MALE: 2026.\n\nADAM SILVER, NBA COMMISSIONER: With the first pick in the 2026 NBA draft, the Washington Wizards select Anicet Dybantsa Jr. from Brigham Young University.\n\nCORNISH: He is six foot nine and averages 25.5 points per game. He is the first player in more than 30 years to lead the NCAA in Division I scoring and get picked first in the NBA draft.\n\nNow, after the break on CNN THIS MORNING, progress in the war between Israel and Lebanon. Can Marco Rubio keep both sides engaged in peace talks?\n\nBut first, President Trump on a collision course with Republican senators on Capitol Hill. They'll hash it out over lunch today. Who's going to leave with heartburn?\n\nAnd good morning from here in our nation's capital, as we take a live look at the sunrise over the dome.\n\nCORNISH: President Trump is failing to get his way in the Senate. He wants to pass his voting requirements bill, known as the SAVE Act, and he wants the Senate to end the filibuster to override Democrats to get it done.\n\nSenator Thom Tillis, a Republican, says that's not going to happen.\n\nSEN. THOM TILLIS (R-NC): This is a waste of time. It's a distraction, and it's not going to get -- it's not going to happen in this Congress.\n\nHe's just got to understand some of the limits that we have here in the Senate.\n\nTalking's good. SAVE Act's a waste of time.\n\nCORNISH: Last night, several Republicans crossed party lines to vote for a war powers resolution, demanding that the president come to Congress if he wants to continue a war with Iran.\n\nNow, the battle over these bills is coming to a head for Senate leader John Thune. He's facing not just Trump, but rival Republicans gunning for his job and willing to use Trump's frustration to get it.\n\nSo, what can we expect today? The group chat is back.\n\nI'm going to nerd out, because I used to cover the Senate. And Sen. Thune was on X, hitting back at Mike Lee and others who were, like, Pass the SAVE Act and get rid of the filibuster. We're all frothy about this.\n\nAnd Thune was telling reporters, look, I have to deal with reality. And sometimes the alternative universe that is X does not reflect the facts on the ground. This is the old \"Twitter is not real life\" argument.\n\nAnd he says, \"There are not the voters to nuke the filibuster. They aren't going to be ten Democratic votes to, all of a sudden, support the SAVE America Act. Those are hard realities. And I think people at some point have to come to grips with that.\" People or Trump?\n\nSTEPMAN: Yes, I think this is really an interesting moment, especially for the filibuster. I would say that Trump is using this moment to say, look, it needs to be done away with to get what we want.\n\nCORNISH: But why use it with something they don't want and that they can't pass. Why not use it with something --\n\nSTEPMAN: Because I think that President Trump especially has actually had some criticism, even from his own voters, that he hasn't paid enough attention to domestic politics, that he's been focused on international affairs.\n\nThe SAVE America Act, which is very popular amongst the Republican base, is something that needs to happen. And so, Trump, I think, is getting pressure from his own voters. And he is now pressuring the Senate, thinking, Well --\n\nCORNISH: But why not press an economic thing?\n\nSTEPMAN: -- what have we been doing these last six months -- six months?\n\nCORNISH: Like, if you're -- like, if their problem is focusing on domestic policy, why not do something that actually affects their pockets?\n\nSTEPMAN: I think because Republican voters also see elections as mattering. They -- they very much support voter I.D. as a --\n\nCORNISH: So, he's putting them on that. What do you see?\n\nBROWNSTEIN: I see meet the new boss, same as the old boss. What was the issue on which there was the most pressure to end the filibuster during Joe Biden's presidency? HR-1, voting reform. The Democratic vision of what national voting rules should be.\n\nAnd ultimately, they could not -- they did not have enough votes to pass to end the filibuster in the Senate. Manchin and Sinema and others who were mostly unnamed.\n\nTo -- to this point, there is not a majority in the Senate on either side to end the filibuster. And as long as there isn't, you can't impose a national voting regime on red states and blue states.\n\nCORNISH: So, one other thing. Rick Scott of Florida, I was reading the reporting, was the one who might have invited Trump. You're nodding. You heard this, too. Invited Trump to this lunch.\n\nThune was like, Oh, yes, I, too, want him at this lunch. And so now they're going to have to face Trump.\n\nYou've been in leader meetings, I know, on House side, but how does this go down?\n\nSEAWRIGHT: Oh, it will be -- whatever happens in the meeting will be leaked to the press before the meeting even ends. That's No. 1.\n\nSEAWRIGHT: No. 2. But I think this whole idea of the SAVE America Act, or Voter Suppression Act.\n\nCORNISH: And I'm going to put up while you're speaking, what's in it so people can see.\n\nSEAWRIGHT: This Voter Suppression Act is a larger narrative that the president and his party are trying to implement, to strike fear and intimidation and voter suppression into the midterms.\n\nYou add this with redistricting. You add this with his executive order on banning mail-in voting. There's a number of things they're trying to do to shape what the midterms look like.\n\nI've often called it the \"if you can't beat them, cheat them\" strategy. And most reasonable Republicans know that this is not the way to go if they want to be successful in the midterms.\n\nCORNISH: But can I underscore Ron's point, which is that under Democrats, people didn't want to mess with it. And under Republicans now, people don't want to mess with it. They see voting as the province of the states. They already have watched this redistricting war.\n\nAnd this brings me to this point. Why is it with a war powers vote -- I'm going to show you the Republicans who crossed the aisle with voting. Why are these the trigger points that have inspired a certain courage in the Senate against Trump?\n\nBROWNSTEIN: Sixty-nine percent of Americans in a poll on Sunday said the war was not worth the costs. I mean, that's -- you know, you can find a lot of courage in a -- in a 69 percent issue.\n\nAnd it is still like, even on the voting, the vast majority of each party's legislators are willing to vote for setting national rules that would -- that would affect all 50 states, but not enough. I mean, it is -- you know, I don't know how many Republicans would vote to end the filibuster to pass the SAVE Act. But it's -- you know, it's a lot. It's probably like 45 or 47.\n\nCORNISH: Yes, we're being pretty vague. There are things in here --\n\nCORNISH: -- Democrats can campaign on. As a woman with a hyphenated name, I've been watching this closely. I don't want to get to the polls and be told, well, wait a second. Are you who you say you are?\n\nIt feels like this is an issue that can be easily brought to voters, a la Antjuan, but that Republicans -- I mean, if Thune is saying it's not there --\n\nSTEPMAN: It's not there.\n\nCORNISH: -- are the people going after him, just trying to curry favor with Trump, to show, Look, I would have done this on your agenda if it was me.\n\nSTEPMAN: But some of the issues, like, for instance, voter I.D., is extremely --\n\nCORNISH: No, no, answer my question.\n\nCORNISH: Is it a power move on Thune to basically bring him before the president and tell everyone, look what he's not doing? I would have done it.\n\nSTEPMAN: No question. And this is sort of the independence that the Senate has sort of always had as -- as a body; sees itself as outside the president. I think you get a little less of that opposition in the House.\n\nSEAWRIGHT: Yes. I don't -- I think you have convenient independence. Because more than not, they have aligned themselves --\n\nSEAWRIGHT: -- with Donald Trump on almost every single issue.\n\nAnd that's why Senate Republicans are so unpopular, because the president is underwater on every single issue.\n\nI also think Thune understands now that the affordability crisis is right at their doorstep, and they're taking responsibility for it. And the Donald Trump agenda is very unpopular --\n\nSEAWRIGHT: -- amongst the American people, including the savings (ph).\n\nCORNISH: They also passed a housing bill last night, bipartisan. We're not going to hear about it, because they're going to be -- So, it's like that kind of thing where it's like, wait, you have an item you could be promoting to the voter. Look, we got a bipartisan housing bill.\n\nInstead, you're like, really, I want to go after all these different voting things. How about we spend time on that?\n\nBROWNSTEIN: The thing that's frustrating for senators in both parties is they are much less able than when I first got to Washington in the '80s to swim against the current. You know.\n\nCORNISH: Yes. There's no reward for that.\n\nBROWNSTEIN: If you look -- if you look, there are 25 states that voted three times for Donald Trump. Right now, there are 50 Republican senators in those 25. They have every Senate seats.\n\nNineteen states voted three times against him. Democrats have every one of those Senate seats except for Susan Collins.\n\nIt is very hard for a Senate candidate, no matter how strong or popular they are personally, to win on ground that usually votes the other way for president. So, in some ways, they are dependent variables.\n\nCORNISH: They are, but there's also --\n\nBROWNSTEIN: In the future no matter how much they kind of, you know --\n\nCORNISH: There's also now a small --\n\nBROWNSTEIN: -- plume (ph) and peacock.\n\nCORNISH: -- caucus of people burned by Trump in the Republican caucus.\n\nBROWNSTEIN: Yes. They're on their way out.\n\nCORNISH: And they're on their way out.\n\nBROWNSTEIN: They're on their way out.\n\nCORNISH: But on their way out, they may say, I'll cast a few votes the way I want.\n\nCORNISH: That's how -- that's how courage is built.\n\nOK, you guys, thank you for this.\n\nStraight ahead on CNN THIS MORNING, NATO sending its Trump whisperer. So, can the secretary-general keep the alliance together?\n\nPlus, how much has the A.I. industry spent in just one congressional race? Why one election has -- was worth tens of millions in influence."
+    }
+  ]
+}

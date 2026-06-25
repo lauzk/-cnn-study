@@ -1,0 +1,494 @@
+{
+  "date": "2026-06-24",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-24/segment/02",
+  "vocabulary": [
+    {
+      "word": "appointee",
+      "phonetic": "/əˌpɔɪnˈtiː/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "被任命者",
+      "en": "a person who is appointed to a job or position",
+      "excerpt": "Sources tell CNN he fired six political appointees hired under former DNI Tulsi Gabbard.",
+      "example_cn": "消息人士告诉CNN，他解雇了前国家情报总监图尔西·加巴德任命的六名政治任命官员。"
+    },
+    {
+      "word": "shrink",
+      "phonetic": "/ʃrɪŋk/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "缩小，减少",
+      "en": "to become or make smaller in size or amount",
+      "excerpt": "Additional cuts could come in the weeks ahead as Pulte pushes to shrink the agency.",
+      "example_cn": "随着普尔特推动缩减该机构，未来几周可能还会有更多裁员。"
+    },
+    {
+      "word": "mediate",
+      "phonetic": "/ˈmiːdieɪt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "调解，斡旋",
+      "en": "to try to end a disagreement between two or more people or groups by talking to them and suggesting ways to resolve it",
+      "excerpt": "The fifth round of peace talks between Israel and Lebanon, mediated by the U.S., took place at the State Department Tuesday.",
+      "example_cn": "由美国斡旋的以色列和黎巴嫩第五轮和平谈判周二在国务院举行。"
+    },
+    {
+      "word": "sovereign",
+      "phonetic": "/ˈsɒvrɪn/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "主权的，独立自主的",
+      "en": "having the highest power or authority; independent",
+      "excerpt": "It's separate because Lebanon is a sovereign country.",
+      "example_cn": "这是分开的，因为黎巴嫩是一个主权国家。"
+    },
+    {
+      "word": "sponsorship",
+      "phonetic": "/ˈspɒnsəʃɪp/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "赞助，支持",
+      "en": "the act of supporting a person, organization, or activity by giving money or other help",
+      "excerpt": "And that is their support and sponsorship of Hezbollah.",
+      "example_cn": "那就是他们对真主党的支持和赞助。"
+    },
+    {
+      "word": "self-defense",
+      "phonetic": "/ˌself dɪˈfens/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "自卫",
+      "en": "the act of protecting yourself or your property when you are attacked",
+      "excerpt": "Israel says the strikes are in self-defense against Hezbollah.",
+      "example_cn": "以色列表示，这些打击是针对真主党的自卫行动。"
+    },
+    {
+      "word": "whisperer",
+      "phonetic": "/ˈwɪspərər/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "低声说话的人；驯马师；能影响他人的人",
+      "en": "a person who is able to influence or control a particular person or thing",
+      "excerpt": "NATO Secretary General Mark Rutte, deemed the Trump whisperer, will meet with President Trump today.",
+      "example_cn": "被称为“特朗普驯服者”的北约秘书长马克·吕特今天将与特朗普总统会面。"
+    },
+    {
+      "word": "primary",
+      "phonetic": "/ˈpraɪməri/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "初选",
+      "en": "an election in which voters choose the candidates from each party who will compete in the main election",
+      "excerpt": "And we have the winner of New York's Democratic primary race to fill congressman Jerry Nadler's seat.",
+      "example_cn": "我们知道了纽约民主党初选的结果，以填补众议员杰里·纳德勒的席位。"
+    },
+    {
+      "word": "proxy",
+      "phonetic": "/ˈprɒksi/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "代理人，代表",
+      "en": "a person who is given the authority to act for someone else",
+      "excerpt": "But the second-place finisher, Alex Bores, who calls for A.I. regulation, was at the center of a proxy battle between OpenAI and Anthropic.",
+      "example_cn": "但排名第二的亚历克斯·博雷斯呼吁监管人工智能，他成为了OpenAI和Anthropic之间代理权争夺的中心。"
+    },
+    {
+      "word": "super PAC",
+      "phonetic": "/ˈsuːpər pæk/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "超级政治行动委员会",
+      "en": "a type of political action committee that can raise and spend unlimited amounts of money to support or oppose candidates, but cannot coordinate directly with campaigns",
+      "excerpt": "Super PACs, partially funded by Claude maker Anthropic, spent a whopping $18 million in support of Alex Bores.",
+      "example_cn": "由Claude制造商Anthropic部分资助的超级政治行动委员会，花费了高达1800万美元支持亚历克斯·博雷斯。"
+    },
+    {
+      "word": "regulation",
+      "phonetic": "/ˌreɡjuˈleɪʃn/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "监管，规章",
+      "en": "an official rule or law that controls how something is done",
+      "excerpt": "Bores, who's a former Palantir employee, is at the forefront of pushing A.I. regulation.",
+      "example_cn": "前Palantir员工博雷斯处于推动人工智能监管的前沿。"
+    },
+    {
+      "word": "moratorium",
+      "phonetic": "/ˌmɒrəˈtɔːriəm/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "暂停，中止",
+      "en": "a temporary stopping of an activity, especially by official agreement",
+      "excerpt": "Lasher also supports a data center moratorium.",
+      "example_cn": "拉舍尔还支持数据中心暂停令。"
+    },
+    {
+      "word": "extreme",
+      "phonetic": "/ɪkˈstriːm/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "极端的，极度的",
+      "en": "very great in degree; not moderate",
+      "excerpt": "And that's something -- that's one of the most extreme A.I. positions to be taking right now.",
+      "example_cn": "这是目前最极端的人工智能立场之一。"
+    },
+    {
+      "word": "displacement",
+      "phonetic": "/dɪsˈpleɪsmənt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "取代，替代",
+      "en": "the act of forcing something or someone out of its usual or original position",
+      "excerpt": "Whether it has to do with jobs, it's mostly had to do with job displacement.",
+      "example_cn": "无论是与工作有关，主要还是与工作替代有关。"
+    },
+    {
+      "word": "alarmist",
+      "phonetic": "/əˈlɑːmɪst/",
+      "pos": "adj.",
+      "level": "专八",
+      "cn": "危言耸听的",
+      "en": "tending to cause unnecessary fear or anxiety",
+      "excerpt": "But I think what we've been hearing across the board from CEOs are these big, alarmist statements.",
+      "example_cn": "但我认为，我们从CEO们那里听到的都是这些危言耸听的言论。"
+    },
+    {
+      "word": "inversion",
+      "phonetic": "/ɪnˈvɜːʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "倒置，颠倒",
+      "en": "a change in the normal order or position of things",
+      "excerpt": "I would say, the class inversion since the '80s and '70s is really one of the most powerful dynamics in American politics.",
+      "example_cn": "我想说，自七八十年代以来的阶级倒置确实是美国政治中最强大的动力之一。"
+    },
+    {
+      "word": "blue collar",
+      "phonetic": "/ˌbluː ˈkɒlər/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "蓝领的，体力劳动的",
+      "en": "relating to people who do physical work rather than office work",
+      "excerpt": "Republicans doing better among blue collar workers, increasingly across racial lines.",
+      "example_cn": "共和党人在蓝领工人中表现更好，而且越来越跨越种族界限。"
+    },
+    {
+      "word": "white collar",
+      "phonetic": "/ˌwaɪt ˈkɒlər/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "白领的，脑力劳动的",
+      "en": "relating to people who work in offices, often doing work that needs mental rather than physical effort",
+      "excerpt": "Democrats doing better among white collar workers.",
+      "example_cn": "民主党人在白领工人中表现更好。"
+    },
+    {
+      "word": "reinforcement",
+      "phonetic": "/ˌriːɪnˈfɔːsmənt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "强化，加强",
+      "en": "the act of making something stronger or more effective",
+      "excerpt": "What's happening in the A.I. era is you get a reinforcement on economic grounds.",
+      "example_cn": "在人工智能时代，你在经济层面上得到了强化。"
+    },
+    {
+      "word": "localism",
+      "phonetic": "/ˈləʊkəlɪzəm/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "地方主义，地方观念",
+      "en": "a preference for local people, customs, or products over those from other places",
+      "excerpt": "Yes, I mean, I think there's a certain amount of localism here.",
+      "example_cn": "是的，我认为这里有一定的地方主义。"
+    },
+    {
+      "word": "optimist",
+      "phonetic": "/ˈɒptɪmɪst/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "乐观主义者",
+      "en": "a person who always expects good things to happen",
+      "excerpt": "I mean the Republican Party on the national level seems to be much more of the A.I. optimist party.",
+      "example_cn": "我的意思是，共和党在全国层面上似乎更是一个人工智能乐观主义政党。"
+    },
+    {
+      "word": "executive order",
+      "phonetic": "/ɪɡˈzekjətɪv ˈɔːrdər/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "行政命令",
+      "en": "a rule or order issued by the president of the United States that has the force of law",
+      "excerpt": "Trump did sign an A.I. executive order.",
+      "example_cn": "特朗普确实签署了一项人工智能行政命令。"
+    },
+    {
+      "word": "jailbreak",
+      "phonetic": "/ˈdʒeɪlbreɪk/",
+      "pos": "v.",
+      "level": "专八",
+      "cn": "越狱；破解（系统）",
+      "en": "to break out of jail; to bypass security restrictions on a device or system",
+      "excerpt": "We've reported on this, you know, extensively, that this does have to do with real cybersecurity concerns, that these models could be jailbroken.",
+      "example_cn": "我们广泛报道过，这确实与真正的网络安全担忧有关，这些模型可能被破解。"
+    },
+    {
+      "word": "export control",
+      "phonetic": "/ˈekspɔːrt kənˈtrəʊl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "出口管制",
+      "en": "government restrictions on the export of certain goods or technologies",
+      "excerpt": "We're seeing OpenAI, a rival A.I. lab, continue to release advanced models and not face export controls the way Anthropic has.",
+      "example_cn": "我们看到竞争对手人工智能实验室OpenAI继续发布先进模型，而没有像Anthropic那样面临出口管制。"
+    },
+    {
+      "word": "cachet",
+      "phonetic": "/ˈkæʃeɪ/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "声望，威信",
+      "en": "a quality of being respected or admired; prestige",
+      "excerpt": "I just -- I don't know if the Kennedy name has much cachet.",
+      "example_cn": "我只是不知道肯尼迪这个姓氏还有多少声望。"
+    },
+    {
+      "word": "mystique",
+      "phonetic": "/mɪˈstiːk/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "神秘感，神秘魅力",
+      "en": "a quality of mystery, awe, or fascination that surrounds a person or thing",
+      "excerpt": "Anyone who watched FX's \"Love Story\" has picked up a cigarette and relived the '90s because of the Kennedy mystique.",
+      "example_cn": "任何看过FX频道《爱情故事》的人，都会因为肯尼迪的神秘魅力而拿起香烟，重温90年代。"
+    },
+    {
+      "word": "bipartisan",
+      "phonetic": "/ˌbaɪpɑːrtɪˈzæn/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "两党的，跨党派的",
+      "en": "involving two political parties, especially in a way that shows agreement or cooperation",
+      "excerpt": "It passed with rare and overwhelming support in both chambers of Congress.",
+      "example_cn": "它在国会两院获得了罕见且压倒性的支持。"
+    },
+    {
+      "word": "affordability",
+      "phonetic": "/əˌfɔːrdəˈbɪləti/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "可负担性",
+      "en": "the quality of being cheap enough for people to buy or pay for",
+      "excerpt": "This could be the first clear sign that Congress is hearing the concerns from the American people around the issue of affordability.",
+      "example_cn": "这可能是第一个明确迹象，表明国会正在倾听美国人民对可负担性问题的担忧。"
+    },
+    {
+      "word": "private equity",
+      "phonetic": "/ˈpraɪvət ˈekwəti/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "私募股权",
+      "en": "investment in companies that are not publicly traded, often by buying them and then selling them for a profit",
+      "excerpt": "It would limit private equity from buying up homes.",
+      "example_cn": "它将限制私募股权购买房屋。"
+    },
+    {
+      "word": "zoning",
+      "phonetic": "/ˈzoʊnɪŋ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "分区规划",
+      "en": "the process of dividing a city or area into zones for different purposes, such as housing, business, or industry",
+      "excerpt": "Attempts to ease zoning and permitting rules.",
+      "example_cn": "试图放宽分区和许可规则。"
+    },
+    {
+      "word": "groundswell",
+      "phonetic": "/ˈɡraʊndswel/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "迅速高涨的情绪或支持",
+      "en": "a sudden increase in a particular feeling or opinion among a group of people",
+      "excerpt": "There's a groundswell of American -- of the American people who are very upset with the fact that their housing is very expensive.",
+      "example_cn": "美国民众中有一股迅速高涨的情绪，他们对住房非常昂贵这一事实感到非常不满。"
+    },
+    {
+      "word": "underwater",
+      "phonetic": "/ˌʌndərˈwɔːtər/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "（比喻）处于困境，表现不佳",
+      "en": "in a difficult situation, especially financially; performing poorly",
+      "excerpt": "The reality is he, Tim Scott, understands that every single issue that they campaigned on in the last election cycle, Republicans and Donald Trump are underwater on.",
+      "example_cn": "现实是，蒂姆·斯科特明白，他们在上一个选举周期中竞选的每一个议题，共和党和唐纳德·特朗普都表现不佳。"
+    },
+    {
+      "word": "quiescent",
+      "phonetic": "/kwiˈesnt/",
+      "pos": "adj.",
+      "level": "专八",
+      "cn": "静止的，不活动的",
+      "en": "in a state of inactivity or dormancy",
+      "excerpt": "On the one hand, they clearly need to keep Trump relatively quiescent so that he will do what they need to help turn out their voters.",
+      "example_cn": "一方面，他们显然需要让特朗普相对安静，这样他才会做他们需要的事情来帮助动员他们的选民。"
+    },
+    {
+      "word": "thunderbolt",
+      "phonetic": "/ˈθʌndərboʊlt/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "霹雳，突然的打击",
+      "en": "a flash of lightning and a crash of thunder together; a sudden and unexpected event that causes shock or damage",
+      "excerpt": "If you show independence from Trump, you risk him, you know, throwing a thunderbolt at you and depressing base turnout.",
+      "example_cn": "如果你表现出对特朗普的独立性，你就有可能被他突然打击，从而压低基本盘投票率。"
+    },
+    {
+      "word": "endorsement",
+      "phonetic": "/ɪnˈdɔːrsmənt/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "支持，背书",
+      "en": "a public statement of support for a person, product, or idea",
+      "excerpt": "My group chat is the co-endorsement from the president in our Republican gubernatorial primary.",
+      "example_cn": "我的群聊是关于总统在我们共和党州长初选中的共同背书。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Sources tell CNN he fired six political appointees hired under former DNI Tulsi Gabbard.",
+      "cn": "消息人士告诉CNN，他解雇了前国家情报总监图尔西·加巴德任命的六名政治任命官员。",
+      "structure": "主谓宾+宾语从句",
+      "analysis": "主句为'Sources tell CNN'，后接省略that的宾语从句'he fired...'，从句中'fired'为谓语，'six political appointees'为宾语，过去分词短语'hired under former DNI Tulsi Gabbard'作后置定语修饰'appointees'。"
+    },
+    {
+      "en": "The fifth round of peace talks between Israel and Lebanon, mediated by the U.S., took place at the State Department Tuesday.",
+      "cn": "由美国斡旋的以色列和黎巴嫩第五轮和平谈判周二在国务院举行。",
+      "structure": "主谓宾+地点状语+时间状语",
+      "analysis": "主语为'The fifth round of peace talks between Israel and Lebanon'，过去分词短语'mediated by the U.S.'作插入语修饰主语，谓语为'took place'，地点状语'at the State Department'，时间状语'Tuesday'。"
+    },
+    {
+      "en": "Super PACs, partially funded by Claude maker Anthropic, spent a whopping $18 million in support of Alex Bores.",
+      "cn": "由Claude制造商Anthropic部分资助的超级政治行动委员会，花费了高达1800万美元支持亚历克斯·博雷斯。",
+      "structure": "主谓宾+状语",
+      "analysis": "主语为'Super PACs'，过去分词短语'partially funded by Claude maker Anthropic'作后置定语，谓语'spent'，宾语'a whopping $18 million'，介词短语'in support of Alex Bores'作目的状语。"
+    },
+    {
+      "en": "And then a super PAC, partially funded by OpenAI's co-founder, spent $8 million opposing him.",
+      "cn": "然后一个由OpenAI联合创始人部分资助的超级政治行动委员会花费了800万美元反对他。",
+      "structure": "主谓宾+现在分词短语作状语",
+      "analysis": "主语为'a super PAC'，过去分词短语'partially funded by OpenAI's co-founder'作后置定语，谓语'spent'，宾语'$8 million'，现在分词短语'opposing him'作伴随状语。"
+    },
+    {
+      "en": "Both of those bills were opposed by the entire A.I. industry, including by Anthropic.",
+      "cn": "这两项法案都遭到了整个人工智能行业的反对，包括Anthropic。",
+      "structure": "被动语态",
+      "analysis": "主语'Both of those bills'，谓语'were opposed'，介词短语'by the entire A.I. industry'引出动作执行者，现在分词短语'including by Anthropic'进一步补充说明。"
+    },
+    {
+      "en": "It's just that the battle lines in this race, in particular, are whether we can regulate A.I. at all.",
+      "cn": "只是这场竞选中的战线，特别是，在于我们是否能够监管人工智能。",
+      "structure": "主系表+表语从句",
+      "analysis": "主句为'It's just that...'，其中'that'引导表语从句，从句主语为'the battle lines'，系动词'are'，表语为'whether we can regulate A.I. at all'。"
+    },
+    {
+      "en": "And out of the 29 races that they have gotten involved in, they've won 28.",
+      "cn": "在他们参与的29场竞选中，他们赢了28场。",
+      "structure": "介词短语+主谓宾",
+      "analysis": "介词短语'out of the 29 races'作状语，后接定语从句'that they have gotten involved in'修饰'races'，主句为'they've won 28'。"
+    },
+    {
+      "en": "What's really interesting about Palantir talking point in all of this saga is that the co-founder of Leading the Future is a Palantir co-founder as well.",
+      "cn": "关于Palantir在整个事件中的话题点，真正有趣的是Leading the Future的联合创始人也是Palantir的联合创始人。",
+      "structure": "主语从句+系动词+表语从句",
+      "analysis": "主语从句'What's really interesting about Palantir talking point in all of this saga'作主语，系动词'is'，表语从句'that the co-founder of Leading the Future is a Palantir co-founder as well'。"
+    },
+    {
+      "en": "And he went after Bores over Bores' ties to Palantir, even though Bores left because of ethical concerns.",
+      "cn": "他因为博雷斯与Palantir的关系而攻击他，尽管博雷斯是因为道德问题离开的。",
+      "structure": "主谓宾+状语从句",
+      "analysis": "主句为'he went after Bores'，介词短语'over Bores' ties to Palantir'作原因状语，后接让步状语从句'even though Bores left because of ethical concerns'。"
+    },
+    {
+      "en": "If you are going to disrupt the economic and therefore political power significantly of one party's base, highly educated, often female voters who vote mostly Democrat and military and working class people who do not feel supported, and you feel like that's -- you believe that that's going to work out politically, you're in an insane asylum.",
+      "cn": "如果你要严重破坏一个政党基本盘的经济和政治权力，这些基本盘包括受过高等教育、通常投票给民主党的女性选民，以及感到不被支持的军人和工人阶级，而你觉得——你相信这在政治上行得通，那你就是在疯人院里。",
+      "structure": "条件状语从句+主句",
+      "analysis": "条件状语从句由'If'引导，从句中'you are going to disrupt'为谓语，宾语为'the economic and therefore political power significantly of one party's base'，后接两个并列的定语从句修饰'base'：'highly educated, often female voters who vote mostly Democrat'和'military and working class people who do not feel supported'。主句为'you're in an insane asylum'。"
+    },
+    {
+      "en": "But what -- that was driven mostly on cultural grounds.",
+      "cn": "但这主要是由文化因素驱动的。",
+      "structure": "被动语态",
+      "analysis": "主语'that'指代前文内容，谓语'was driven'，介词短语'on cultural grounds'作方式状语。"
+    },
+    {
+      "en": "What's happening in the A.I. era is you get a reinforcement on economic grounds, where you now have, I think, in white collar America, a lot of the economic anxiety that really helped drive blue collar America in the other way in the '80s.",
+      "cn": "在人工智能时代发生的是，你在经济层面上得到了强化，我认为，现在在美国白领阶层中，有很多经济焦虑，这种焦虑在80年代曾帮助推动蓝领阶层走向另一个方向。",
+      "structure": "主语从句+系动词+表语从句",
+      "analysis": "主语从句'What's happening in the A.I. era'作主语，系动词'is'，表语从句'you get a reinforcement on economic grounds'，后接非限制性定语从句'where you now have...'修饰'economic grounds'，定语从句中插入语'I think'，宾语'a lot of the economic anxiety'后接定语从句'that really helped drive blue collar America in the other way in the '80s'。"
+    },
+    {
+      "en": "And it tends -- the economics is going to push in the same direction as the culture.",
+      "cn": "而且它倾向于——经济将朝着与文化相同的方向推进。",
+      "structure": "主谓宾+比较结构",
+      "analysis": "主语'the economics'，谓语'is going to push'，介词短语'in the same direction'，后接比较结构'as the culture'。"
+    },
+    {
+      "en": "And it's something that's important to me.",
+      "cn": "这对我来说很重要。",
+      "structure": "主系表+定语从句",
+      "analysis": "主语'It'，系动词'is'，表语'something'，后接定语从句'that's important to me'。"
+    },
+    {
+      "en": "It's just not easy.",
+      "cn": "这并不容易。",
+      "structure": "主系表",
+      "analysis": "主语'It'，系动词'is'，表语'not easy'。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "New York Congressional Primary and AI Regulation",
+      "content": "The Democratic primary in New York's 12th congressional district saw significant spending from AI-related super PACs. Micah Lasher won, while Alex Bores, a pro-regulation candidate, was backed by Anthropic-funded PACs and opposed by OpenAI-funded PACs. The race highlights the growing influence of AI companies in politics and the debate over AI regulation.",
+      "keywords": "New York primary, AI regulation, super PAC, Anthropic, OpenAI, Micah Lasher, Alex Bores"
+    },
+    {
+      "title": "Kennedy Legacy in Politics",
+      "content": "Jack Schlossberg, JFK's only grandson, lost the Democratic primary in New York, finishing third. The discussion explores whether the Kennedy name still holds political power, with panelists noting that name recognition alone is not enough in modern elections, especially among younger voters.",
+      "keywords": "Kennedy, Jack Schlossberg, political dynasty, name recognition, primary loss"
+    },
+    {
+      "title": "Housing Affordability Bill",
+      "content": "Congress passed a bipartisan housing affordability bill that limits private equity from buying homes, eases zoning and permitting rules, and promotes manufactured housing. The bill reflects growing public concern over housing costs and is seen as a rare bipartisan achievement.",
+      "keywords": "housing affordability, bipartisan, private equity, zoning, manufactured homes, Congress"
+    },
+    {
+      "title": "AI and Job Displacement",
+      "content": "The transcript discusses the economic anxiety caused by AI, particularly among white-collar workers, and compares it to the blue-collar job losses of the 1980s. CEOs are making alarmist statements about job displacement while rapidly deploying AI, raising questions about the true intent.",
+      "keywords": "AI, job displacement, white-collar, blue-collar, economic anxiety, CEOs"
+    },
+    {
+      "title": "Trump Administration and Intelligence Community",
+      "content": "Acting DNI Bill Pulte fired political appointees and removed career officials, signaling a push to shrink the intelligence agency. This reflects ongoing tensions between the Trump administration and the intelligence community.",
+      "keywords": "DNI, Bill Pulte, intelligence community, political appointees, agency cuts"
+    },
+    {
+      "title": "Israel-Lebanon Peace Talks and Iran",
+      "content": "The fifth round of U.S.-mediated peace talks between Israel and Lebanon took place, with Iran threatening to leave negotiations over Israeli strikes. Secretary of State Marco Rubio emphasized that the talks are separate from U.S.-Iran negotiations, though Iran's support for Hezbollah will be discussed.",
+      "keywords": "Israel, Lebanon, peace talks, Iran, Hezbollah, Marco Rubio"
+    },
+    {
+      "title": "NATO and Trump",
+      "content": "NATO Secretary General Mark Rutte, known as the 'Trump whisperer,' met with President Trump ahead of the NATO summit. Trump continues to threaten leaving NATO, highlighting ongoing tensions between the U.S. and the alliance.",
+      "keywords": "NATO, Mark Rutte, Trump, summit, alliance"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nAXIOS Reporter Maria Curi is Interviewed about the New York Congressional Race; Schlossberg Loses Primary; Congress Passes Housing Affordability Bill. Aired 6:30-7a ET\n\nAired June 24, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nAUDIE CORNISH, CNN ANCHOR: Good morning, everybody. I'm Audie Cornish. Thank you for joining me on CNN THIS MORNING.\n\nIt's half past the hour. Here's what's happening right now.\n\nActing Director of National Intelligence Bill Pulte wasting no time. Sources tell CNN he fired six political appointees hired under former DNI Tulsi Gabbard. He also reportedly removed 45 career officials from their posts. Additional cuts could come in the weeks ahead as Pulte pushes to shrink the agency.\n\nAnd the fifth round of peace talks between Israel and Lebanon, mediated by the U.S., took place at the State Department Tuesday. Iran has threatened numerous times to leave negotiations with the U.S. over Israeli strikes in Lebanon. Secretary of State Marco Rubio is trying to separate those talks from the U.S.-Iran negotiations.\n\nMARCO RUBIO, SECRETARY OF STATE: It's separate because Lebanon is a sovereign country.\n\nNow, there's an Iranian issue with regard to Lebanon, and that is their support and sponsorship of Hezbollah. And so that will -- that factor will be discussed as part of our conversations with the Iranians.\n\nCORNISH: Israel says the strikes are in self-defense against Hezbollah.\n\nAnd NATO Secretary General Mark Rutte, deemed the Trump whisperer, will meet with President Trump today. Now, their meeting comes ahead of the annual NATO summit, which is in two weeks. And Trump is still threatening to leave NATO altogether.\n\nAnd we have the winner of New York's Democratic primary race to fill congressman Jerry Nadler's seat.\n\nBig tech, in a sign of what's to come in the midterm elections, A.I. companies poured cash into the race. Micah Lasher is the winner. But the second-place finisher, Alex Bores, who calls for A.I. regulation, was at the center of a proxy battle between OpenAI and Anthropic. Super PACs, partially funded by Claude maker Anthropic, spent a whopping $18 million in support of Alex Bores. And then a super PAC, partially funded by OpenAI's co-founder, spent $8 million opposing him. Now, Bores, who's a former Palantir employee, is at the forefront of pushing A.I. regulation.\n\nALEX BORES (D), NEW YORK ASSEMBLYMEMBER: Last year I passed the strongest A.I. safety bill in the country over Donald Trump's executive order. I followed it up this year with the strongest bill to protect kids from A.I. chatbots. Both of those bills were opposed by the entire A.I. industry, including by Anthropic. It's just that the battle lines in this race, in particular, are whether we can regulate A.I. at all. And for that question, most people are on the side that we need some regulation.\n\nCORNISH: So, joining us in the group chat, Maria Curi, tech reporter for \"Axios.\"\n\nThank you for being here.\n\nWhile we're talking, I'm going to put up the names of some of the future super PAC. These are guys who spent money in opposition to Alex Bores. You have Marc Andreessen, Ben Horowitz, Greg Brockman, who's president and co-founder of OpenAI. Why this spending on this district?\n\nMARIA CURI, TECH POLICY REPORTER, \"AXIOS\": You know, it's really interesting because at the end of the day, Alex Bores and Micah Lasher have a lot of similarities when it comes to A.I. regulation.\n\nCORNISH: That's why I didn't get it. I was like, I don't understand this spending.\n\nCURI: Right. Lasher is actually the co-sponsor of the Raise Act, which is one of the strongest safety legislation bills in the country right now. Lasher also supports a data center moratorium. And that's something -- that's one of the most extreme A.I. positions to be taking right now. And so, I think what this ultimately did was make Alex Bores a stronger candidate, a more well-known candidate in the race.\n\nCORNISH: In the future.\n\nCURI: In the future. And that --\n\nCORNISH: Yes. And then let me play for you --\n\nCORNISH: In the meantime, they might have woke up this morning to hear this from Micah Lasher. As we said, New York 12. Here's how he talked about it.\n\nMICHA LASHER (D), NEW YORK CONGRESSIONAL CANDIDATE: I have some news for the two big A.I. companies who've taken such an unusual interest in who won this congressional seat. I won't be taking my cues from either of you when it comes to protecting our kids, our jobs and our environment\n\nCORNISH: What's at stake here then?\n\nCURI: At the end of the day, you know, this super PAC, across the country, the Leading the Future Super PAC, has spent more than $100 million in races. And out of the 29 races --\n\nCORNISH: I'm sorry, say that again.\n\nCURI: This super PAC, Leading the Future, has spent more than $100 million in races across he country.\n\nCORNISH: OK. Because I've been talking about AIPAC. I've been talking about VoteVets on war. And in the meantime, in the background, you're telling me $100 million has been spent.\n\nCURI: More than $100 million. And out of the 29 races that they have gotten involved in, they've won 28.\n\nCORNISH: The other thing I'm interested in, I was reading in \"NOTUS,\" the newsletter, Palantir hiring two new lobbyists with Democratic Party ties. Is this a thing where they're leaning into the party they think will be in power come midterms?\n\nCURI: Right. It could be that. You know, what's really interesting about Palantir talking point in all of this saga is that the co- founder of Leading the Future is a Palantir co-founder as well. And he went after Bores over Bores' ties to Palantir, even though Bores left because of ethical concerns. And so Palantir has become kind of a sticking point in all of this.\n\nCURI: But it's across the aisle, present.\n\nCORNISH: And probably because the co-founder -- the co-CEO, or CEO, Alex Karp, just in March said this to CNBC. He's not shying away from the question of how the public will react as voters.\n\n(BEGIN VIDEO CLIP) ALEX KARP, CEO, PALANTIR: If you are going to disrupt the economic and therefore political power significantly of one party's base, highly educated, often female voters who vote mostly Democrat and military and working class people who do not feel supported, and you feel like that's -- you believe that that's going to work out politically, you're in an insane asylum.\n\nCURI: Alex Karp is interesting in his own political donations.\n\nCURI: He's gone back and forth between Democrats and Republicans. It's like as, in a personal level, he can't decide.\n\nBut I think what we've been hearing across the board from CEOs are these big, alarmist statements. Whether it has to do with jobs, it's mostly had to do with job displacement, and yet they are moving as fast as possible to release this technology, which begs the question, what do you actually want to see here? What do you want to be done here?\n\nCORNISH: One -- oh, go ahead.\n\nRON BROWNSTEIN, CNN SENIOR POLITICAL ANALYST: I would say, the class inversion since the '80s and '70s is really one of the most powerful dynamics in American politics, with Republicans doing better among blue collar workers, increasingly across racial lines, Democrats doing better among white collar workers.\n\nBut what -- that was driven mostly on cultural grounds. What's happening in the A.I. era is you get a reinforcement on economic grounds, where you now have, I think, in white collar America, a lot of the economic anxiety that really helped drive blue collar America in the other way in the '80s.\n\nCORNISH: Yes, which featured in New York 12. Yes.\n\nBROWNSTEIN: I mean we -- there used to be plant closing legislation aimed at blue collar workers in the '80s. Now there's kind of proposals for A.I. job loss legislation aimed at white collar workers. And it tends -- the economics is going to push in the same direction as the culture.\n\nCORNISH: Big time. You had --\n\nBROWNSTEIN: Education toward Democrats, blue collar (INAUDIBLE).\n\nCORNISH: You had Microsoft's A.I. -- Microsoft's chief, actually, allude to this, talking about the similarities between the promises of globalization, '80s, '90s, and what turned out to be the reality for workers after. For my partizans, this is money that lawmakers don't know how to feel\n\nabout yet, because in some places, like a Utah, red state, they fought the hell out of a data center. And then you have candidates like this, Democrats, talking about regulation.\n\nSo, do we expect to see them taking the money and not talking about it? Do we expect to see a lane for a candidate who cares about A.I. displacement, who suddenly comes to the forefront talking about it?\n\nJARRETT STEPMAN, COLUMNIST, \"THE DAILY SIGNAL\": Yes, I mean, I think there's a certain amount of localism here. I mean the Republican Party on the national level seems to be much more of the A.I. optimist party. On the local level it's very --\n\nCORNISH: Not so much.\n\nSTEPMAN: It's very different.\n\nSTEPMAN: And, in fact, it reflects the fact that a lot of Americans, on the left and right, are very nervous about A.I. They don't quite know what to make of it. And they're more concerned about it than some of the leaders in Washington who seem to say, oh, it's, you know, this is going to be great. It's going to be transformative. And from our economy --\n\nCORNISH: Yes. And we should say, Trump did sign an A.I. executive order. I was talking with Maria earlier about how, first there were supposed to be big announcement. Then they pulled it after some griping from the tech guys. And then they actually signed one, which does encourage A.I. model sharing with the government and tries to crack down on security breaches linked to A.I.\n\nThe reason why I'm bringing this up is because, at this point you've got international intelligence agencies warning that A.I. models are advancing so quickly they could overwhelm government and business defenses, like not one day, but months from now.\n\nANTJUAN SEAWRIGHT, DEMOCRATIC STRATEGIST: When you talk about A.I., Ron, we're not talking about Antjuan intelligence. We're talking about artificial intelligence.\n\nCORNISH: Yes, we did not make that mistake. But continue.\n\nBROWNSTEIN: But they spelled it out in the executive (INAUDIBLE).\n\nSEAWRIGHT: But I think, within my part, there are real conversations about how they impact these communities locally, from driving up high utility costs that most Americans cannot afford from the environmental concerns.\n\nCORNISH: But that's why I'm asking. It's not clear where the parties fall on these things.\n\nBROWNSTEIN: Well -- SEAWRIGHT: Well, I think -- I think we have a mixed bag. I think we have a mixed bag feeling within the party because I don't think that people are clear about the long term impact and the effects that they're going to have on communities. And I would just say, for folks who are taking money from A.I. and still not certain about where they stand, I call it research.\n\nIn the meantime, let me come to you about this warning because, first of all, there's always warnings about A.I. every few weeks, every few months, to be honest. And the latest one, you know, it's giving Skynet, just the idea that there could be the next hack that comes, could be, I guess, driven by the A.I. itself. Can you explain this?\n\nCURI: So, here's why this executive order matters and is important. And it has to do with this as well. This executive order essentially says that A.I. companies, they need to have a certain level of transparency, and it's voluntary, but A.I. labs realize they have to do it.\n\nCORNISH: And Anthropic did something like this, in fact, just a few months ago.\n\nCURI: And Anthropic did it and received explicit approval from the government to release its models. But we're now seeing that they've shut down their most advanced models to allies around the country, and even foreign nationals within the U.S., including top researchers at Anthropic, how do you protect against cyberattacks if you don't have access to the most advanced models.\n\nCORNISH: Especially if you're used to -- Trump is used to doing transactional business with political allies and friends. So, with Anthropic, right, he and Hegseth, they get sideways with Anthropic. They don't like the person who runs it. And yet still the technology was so, let's say, scary that Anthropic, in the middle of being called a supply chain risk, went to the government and said, I think you should know about this.\n\nCORNISH: There's this weird push-pull where, like, we want them, we want to control them, but we can't, it's out of our control.\n\nCURI: Right. And we've reported on this, you know, extensively, that this does have to do with real cybersecurity concerns, that these models could be jailbroken.\n\nCURI: But it also has to do with personality clashes and the fact that the Anthropic CEO has not figured out a way to communicate effectively with the Trump administration. And we're seeing OpenAI, a rival A.I. lab, continue to release advanced models and not face export controls the way Anthropic has.\n\nCORNISH: Because they're going to go with him to the Middle East. They're going to go with him to -- like the relationship is there.\n\nCORNISH: OK. Since this is non-partisan, thank you guys for playing with me on it. It affects us all.\n\nMaria Curi, thank you so much for being here.\n\nCORNISH: Next on CNN THIS MORNING, there -- a Kennedy lost in New York. So, after Jack Schlossberg's loss, is the Kennedy legacy losing its power?\n\nSEN. ELIZABETH WARREN (D-MA): It is possible to find bipartisan, common ground on legislation.\n\nCORNISH: All right. So, we all agree the rent is too high, but can Congress come together to fix it?\n\nCORNISH: Once upon a time the name Kennedy carried some weight in U.S. politics. Last night, Jack Schlossberg, JFK's only grandson, lost in a crowded and expensive congressional primary in New York City. He's Caroline Kennedy's 33-year-old son.\n\nSchlossberg finished a disappointing third in a race that also had all of that A.I. spending we just talked about and well-known cable news name George Conway. Schlossberg spoke after his defeat.\n\nJACK SCHLOSSBERG (D), NEW YORK CONGRESSIONAL CANDIDATE: We need to do things differently. We don't just need younger candidates. We need different leaders. We need different voices.\n\nCORNISH: Unfortunate background for him there, since he is quite literally on the cutting room floor. BROWNSTEIN: Ah.\n\nCORNISH: But everybody liked the way he had a deft use of the media, which is also part of the Kennedy legacy.\n\nBROWNSTEIN: Yes. Yes. Look, I mean, we are, I think, further from JFK's election than he was from the Spanish-American War, OK. So, like, it's a -- it --\n\nCORNISH: But we are closer to the arguments about the effects of TV and celebrity on politics.\n\nBROWNSTEIN: It's a long time. Yes. No, and, look, I mean, you know, having name I.D. is valuable. I mean it's tangible. It's -- it costs you a lot of money to get known. Like, look at what happened in California. I mean, in, you know, in like in the governor, it costs a lot of money to get known, but it doesn't supersede everything else.\n\nSEAWRIGHT: I was just going to say, name doesn't mean game, Ron.\n\nBROWNSTEIN: Right. Right.\n\nSEAWRIGHT: And I think that --\n\nCORNISH: Have you been saving that?\n\nSEAWRIGHT: No, I haven't. But name doesn't mean game. And I think when you have this change election environment where people want to test drive something different, I don't think the name relatability helps you in these cases. And I think it was very telling (ph).\n\nCORNISH: You think that actually played against him?\n\nCORNISH: Because he was trying to show, things need to change. He was speaking the language of the modern Democratic Party.\n\nSEAWRIGHT: He was speaking to some in the modern Democratic Party. But also there's something about local relationships and how they play out in these elections.\n\nSEAWRIGHT: And I think the winner in that district had solid foundational local relationships that gave them ultimately the advantage.\n\nSTEPMAN: Yes. And I just -- I don't know if the Kennedy name has much cachet, especially with -- it's already going out with millennials. Gen , maybe a little summer (ph) revival (ph).\n\nCORNISH: No, see, we argued about this just now.\n\nSTEPMAN: Yes, I just --\n\nCORNISH: Anyone who watched FX's \"Love Story\" --\n\nSTEPMAN: Yes, that's true.\n\nCORNISH: Has picked up a cigarette and relived the '90s because of the Kennedy mystique.\n\nSTEPMAN: But it still seems like a very long time ago. A little mystique, but it's been broken, I feel, within the last few generations. That's how far we're getting from it now.\n\nCORNISH: Even with RFK in the White House?\n\nSTEPMAN: Yes, but, see now --\n\nCORNISH: Where are you from again?\n\nCORNISH: \"Daily Signal\"?\n\nSEAWRIGHT: That's the reason people voted against him.\n\nCORNISH: I tried. I tried. I'm trying to help y'all in this discussion.\n\nOne more thing. It's a bit of good news, because it's bipartisan. President Trump expected to sign a housing affordability bill. It passed with rare and overwhelming support in both chambers of Congress.\n\nSEN. ELIZABETH WARREN (D-MA): Today's vote proves that it is possible to find bipartisan common ground on legislation that actually helps the American people.\n\nSEN. TIM SCOTT (R-SC): If we would just focus on the American people and listen when they speak, we would remember two things. Number one, they hire us. We work for them.\n\nCORNISH: So, this could be the first clear sign that Congress is hearing the concerns from the American people around the issue of affordability.\n\nSo, what's in this legislation? It would limit private equity from buying up homes. We know this is a really big issue from people who are concerned that private equity is buying up homes and driving up costs. It's supposed to make manufacturing homes easier and cheaper to build. Tough one given local zoning laws. And that's why this is here. Attempts to ease zoning and permitting rules. I can't help but think, looking at the polling showing Trump's\n\nhandling of the economy, that, as Tim Scott said, maybe they are finally listening.\n\nBROWNSTEIN: I am -- well, that's funny because I was thinking of President Trump at the 2020 Republican Convention talking about how Democrats want to override zoning rules and bring multifamily housing to all the suburbs. I mean, remember, that was like a big --\n\nCORNISH: Oh, yes, yes, yes.\n\nBROWNSTEIN: That was a big thing. And essentially it was -- it was bringing non-white people to white suburbs was kind of the clear underlying message.\n\nLook, you know, I mean, housing is -- it's tough for the federal government to have a real big impact on even the states. Like California has struggled to pass policies at the state level that shift local zoning decisions by not (INAUDIBLE). So --\n\nCORNISH: But that's legislatively tough. Is it politically tough to tell private equity to kick rocks when they give money in elections as well?\n\nCORNISH: I mean these are huge entities.\n\nSTEPMAN: They are, but there's a groundswell of American -- of the American people who are very upset with the fact that their housing is very expensive, especially the younger generations. A lot of millennials, the youngers, can't afford a house.\n\nCORNISH: So, who do they blame?\n\nSTEPMAN: And they feel that that's Americans dream.\n\nCORNISH: Because right now we're going to put up that polling, 70 percent disapproval on the economy. Are they blaming Trump for that?\n\nSTEPMAN: I don't know if they're blaming Trump. Of course, he's the president of the United States. So, people, of course, are going to be angry at the party in power. And that's -- that seems to be Trump.\n\nBut at the same time, again, you saw this as a bipartisan bill. People are angry about the housing issue, period.\n\nIt's on -- it's happening in blue states and red states across the board. And even in places like New York City, you have Mamdani, who has tried to open up more housing. A lot of Republicans are kind of OK with that. And so it's -- I feel that sort of -- that sort of crosses the line on this particular issue. That's why they even got anything bipartisan.\n\nSEAWRIGHT: I think this is a step in the right direction. But by and large, I think this is a pimple on a rhinoceros' butt when you think about how --\n\nCORNISH: How do you come up with this stuff?\n\nSEAWRIGHT: When you think about the housing crisis that we're facing in this country, because it's largely around affordability.\n\nSEAWRIGHT: The average homeowner, first time homeowner, in this country now is 40 years old. People cannot afford to pay the rent. You have a Republican Party and including the leader of the campaign on the Republican Party --\n\nCORNISH: Yes, we're going to put up home sales while you're talking.\n\nSEAWRIGHT: Who says that we have a housing issue in this country because illegals have come to this country zapping up all the housing. They refuse to come to grips with the reality that it's an affordability issue. And it's an accessibility issue.\n\nCORNISH: One second. I just want to point out one thing. I played Tim Scott at the start of that. I did not play Tim Scott earlier in the show when we were talking about Trump's lead priorities in the SENATE, which are the SAVE Act and the filibuster. So, why is the guy whose main job is getting more senators hired who are Republicans not in that conversation, but featured heavily in this one?\n\nSEAWRIGHT: Well, you can run, but you can't hide. The reality is he, Tim Scott, understands that every single issue that they campaigned on in the last election cycle, Republicans and Donald Trump are underwater on. And he does not want to bear the responsibility for losing the majority in November.\n\nCORNISH: How do you avoid that? That's his job.\n\nBROWNSTEIN: Well, no. And they are facing the conundrum of the president's party in a midterm when the president is unpopular. On the one hand, they clearly need to keep Trump relatively quiescent so that he will do what they need to help turn out their voters. On the other hand, Trump is looking at a 70 percent disapproval rating among independents, and they also need independent voters in most of these states. And it's kind of like a no win game. If you show independence from Trump, you risk him, you know, throwing a thunderbolt at you and depressing base turnout. And if you don't, it's very hard to get enough purchase among those independent voters who disapprove of him two to one. It's just not easy. It's not unique to Republicans in '26, but it is the core problem we face. CORNISH: All right, we're going to hear a lot this week, especially\n\nafter this lunch today where the president is heading to The Hill. We've got stuff going on with Israel and Lebanon.\n\nI want to hear about your group chats for a minute. Let's cleanse the timeline. What are you talking about in your world?\n\nSTEPMAN: I'm actually getting geared up for the Fourth of July, for the 250 celebration. New York City.\n\nSEAWRIGHT: With Vanilla Ice?\n\nSTEPMAN: I'm very excited. Actually, in New York City.\n\nCORNISH: It's still June.\n\nSTEPMAN: I know it's still June, but it's very important. We've got a -- the party's ready to go. And for me, my tradition has always been to go -- usually when I was in Washington, D.C., I'd visit Mount Vernon, put flowers by the grave of Washington. Now I'm going to go to the Hamilton's grave in New York City. Trinity Church.\n\nCORNISH: Wait, you're not going to go to the show?\n\nSEAWRIGHT: With Vanilla Ice.\n\nSTEPMAN: No, I'm going to be in New York.\n\nCORNISH: Why are you hating on Vanilla Ice? I'm just trying to figure out if he's going to it.\n\nSTEPMAN: No, no. You know what? I'm going to be in New York City. I think there's going to be a huge celebration there.\n\nCORNISH: With Democrats.\n\nSTEPMAN: With -- but I will personally go to Hamilton's grave and put some flowers there.\n\nSTEPMAN: I think he deserves it.\n\nSTEPMAN: And it's something that's important to me.\n\nCORNISH: All right, Antjuan, what about you?\n\nSEAWRIGHT: My group chat is the co-endorsement from the president in our Republican gubernatorial primary. It's new water we're swimming in here.\n\nBROWNSTEIN: New tradition. SEAWRIGHT: But it's -- Ron, it's almost like if you're from South\n\nCarolina, you appreciate this, cheering for the Gamecocks and the Clemson Tigers in the Palmetto Bowl.\n\nBROWNSTEIN: Yes. Yes.\n\nSEAWRIGHT: It's just unprecedented. Trump has lost in Iowa. He's lost in Georgia. He was about to lose in South Carolina. So, he wanted to throw this hail Mary pass and endorse two candidates.\n\nBROWNSTEIN: It's like those people who live in the middle of Connecticut and had those half Yankee half Red Sox hats. I mean it was like --\n\nBROWNSTEIN: That's what -- OK, speaking of celebration hats.\n\nSEAWRIGHT: Half and half.\n\nBROWNSTEIN: Speaking of -- speaking of -- speaking of celebrations for July 4th in New York. My timeline, my group chat, literally is obsessed with, is Taylor Swift really going to get married at Madison Square Garden on July 4th?\n\nBROWNSTEIN: Because, like, that would -- I -- she makes it --\n\nCORNISH: I thought, at this point it's happening in Rhode Island, is it not?\n\nBROWNSTEIN: She -- you know, because -- I mean that would be like -- that would be the worst decision ever. I mean, like, like you view yourself essentially as a product or a commodity or a phenomenon. But, I don't know. Mamdani seemed to like hint that it was --\n\nSTEPMAN: It was (INAUDIBLE).\n\nBROWNSTEIN: Mamdani hinted that it was coming. He said, we can prepare -- what did he say? We can do the security for the --\n\nCORNISH: We are going to have some reporting on this later today.\n\nBROWNSTEIN: We can do security for a Knicks game. We can do security for -- did he say that?\n\nCORNISH: Yes, he mentioned it.\n\nSEAWRIGHT: Well, then there are going to be watch parties outside the Garden.\n\nBROWNSTEIN: That -- oh, yes.\n\nCORNISH: No. No, actually.\n\nBROWNSTEIN: That's a -- that's a good one.\n\nCORNISH: Is the president going to attend also? I think no. I'm guessing. Wild guess here.\n\nBROWNSTEIN: I'm guessing no. I'm guessing no on that one.\n\nCORNISH: Is J.D. Vance going to attend. Also, I'm going to say it's a no. Even if she would no longer be a kind of single cat lady, the worst kind of person to be, according to the vice president. No, he's just apologized. You can read about it in the new book.\n\nAll right, you guys, thank you so much for talking about this. Ron, I hope you get the answers you're looking for on Taylor Swift's wedding.\n\nBROWNSTEIN: I -- you know. I still haven't found what I'm looking for which is (INAUDIBLE).\n\nCORNISH: Well played. Well played.\n\nAt 8 a.m. Maggie Haberman, Jonathan Swan reporting on their new book on the Trump administration. It's called \"Regime Change.\" There's going to be lots of interesting details in there, so please stick around.\n\nI'm Audie Cornish. And you know what? I know there's a lot of places where you could choose to spend your time in the morning. And I'm glad that you are spending it with us.\n\nStay with us. We've got more news ahead.",
+  "segments": [
+    {
+      "seg": 2,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-24/segment/02",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nAXIOS Reporter Maria Curi is Interviewed about the New York Congressional Race; Schlossberg Loses Primary; Congress Passes Housing Affordability Bill. Aired 6:30-7a ET\n\nAired June 24, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nAUDIE CORNISH, CNN ANCHOR: Good morning, everybody. I'm Audie Cornish. Thank you for joining me on CNN THIS MORNING.\n\nIt's half past the hour. Here's what's happening right now.\n\nActing Director of National Intelligence Bill Pulte wasting no time. Sources tell CNN he fired six political appointees hired under former DNI Tulsi Gabbard. He also reportedly removed 45 career officials from their posts. Additional cuts could come in the weeks ahead as Pulte pushes to shrink the agency.\n\nAnd the fifth round of peace talks between Israel and Lebanon, mediated by the U.S., took place at the State Department Tuesday. Iran has threatened numerous times to leave negotiations with the U.S. over Israeli strikes in Lebanon. Secretary of State Marco Rubio is trying to separate those talks from the U.S.-Iran negotiations.\n\nMARCO RUBIO, SECRETARY OF STATE: It's separate because Lebanon is a sovereign country.\n\nNow, there's an Iranian issue with regard to Lebanon, and that is their support and sponsorship of Hezbollah. And so that will -- that factor will be discussed as part of our conversations with the Iranians.\n\nCORNISH: Israel says the strikes are in self-defense against Hezbollah.\n\nAnd NATO Secretary General Mark Rutte, deemed the Trump whisperer, will meet with President Trump today. Now, their meeting comes ahead of the annual NATO summit, which is in two weeks. And Trump is still threatening to leave NATO altogether.\n\nAnd we have the winner of New York's Democratic primary race to fill congressman Jerry Nadler's seat.\n\nBig tech, in a sign of what's to come in the midterm elections, A.I. companies poured cash into the race. Micah Lasher is the winner. But the second-place finisher, Alex Bores, who calls for A.I. regulation, was at the center of a proxy battle between OpenAI and Anthropic. Super PACs, partially funded by Claude maker Anthropic, spent a whopping $18 million in support of Alex Bores. And then a super PAC, partially funded by OpenAI's co-founder, spent $8 million opposing him. Now, Bores, who's a former Palantir employee, is at the forefront of pushing A.I. regulation.\n\nALEX BORES (D), NEW YORK ASSEMBLYMEMBER: Last year I passed the strongest A.I. safety bill in the country over Donald Trump's executive order. I followed it up this year with the strongest bill to protect kids from A.I. chatbots. Both of those bills were opposed by the entire A.I. industry, including by Anthropic. It's just that the battle lines in this race, in particular, are whether we can regulate A.I. at all. And for that question, most people are on the side that we need some regulation.\n\nCORNISH: So, joining us in the group chat, Maria Curi, tech reporter for \"Axios.\"\n\nThank you for being here.\n\nWhile we're talking, I'm going to put up the names of some of the future super PAC. These are guys who spent money in opposition to Alex Bores. You have Marc Andreessen, Ben Horowitz, Greg Brockman, who's president and co-founder of OpenAI. Why this spending on this district?\n\nMARIA CURI, TECH POLICY REPORTER, \"AXIOS\": You know, it's really interesting because at the end of the day, Alex Bores and Micah Lasher have a lot of similarities when it comes to A.I. regulation.\n\nCORNISH: That's why I didn't get it. I was like, I don't understand this spending.\n\nCURI: Right. Lasher is actually the co-sponsor of the Raise Act, which is one of the strongest safety legislation bills in the country right now. Lasher also supports a data center moratorium. And that's something -- that's one of the most extreme A.I. positions to be taking right now. And so, I think what this ultimately did was make Alex Bores a stronger candidate, a more well-known candidate in the race.\n\nCORNISH: In the future.\n\nCURI: In the future. And that --\n\nCORNISH: Yes. And then let me play for you --\n\nCORNISH: In the meantime, they might have woke up this morning to hear this from Micah Lasher. As we said, New York 12. Here's how he talked about it.\n\nMICHA LASHER (D), NEW YORK CONGRESSIONAL CANDIDATE: I have some news for the two big A.I. companies who've taken such an unusual interest in who won this congressional seat. I won't be taking my cues from either of you when it comes to protecting our kids, our jobs and our environment\n\nCORNISH: What's at stake here then?\n\nCURI: At the end of the day, you know, this super PAC, across the country, the Leading the Future Super PAC, has spent more than $100 million in races. And out of the 29 races --\n\nCORNISH: I'm sorry, say that again.\n\nCURI: This super PAC, Leading the Future, has spent more than $100 million in races across he country.\n\nCORNISH: OK. Because I've been talking about AIPAC. I've been talking about VoteVets on war. And in the meantime, in the background, you're telling me $100 million has been spent.\n\nCURI: More than $100 million. And out of the 29 races that they have gotten involved in, they've won 28.\n\nCORNISH: The other thing I'm interested in, I was reading in \"NOTUS,\" the newsletter, Palantir hiring two new lobbyists with Democratic Party ties. Is this a thing where they're leaning into the party they think will be in power come midterms?\n\nCURI: Right. It could be that. You know, what's really interesting about Palantir talking point in all of this saga is that the co- founder of Leading the Future is a Palantir co-founder as well. And he went after Bores over Bores' ties to Palantir, even though Bores left because of ethical concerns. And so Palantir has become kind of a sticking point in all of this.\n\nCURI: But it's across the aisle, present.\n\nCORNISH: And probably because the co-founder -- the co-CEO, or CEO, Alex Karp, just in March said this to CNBC. He's not shying away from the question of how the public will react as voters.\n\n(BEGIN VIDEO CLIP) ALEX KARP, CEO, PALANTIR: If you are going to disrupt the economic and therefore political power significantly of one party's base, highly educated, often female voters who vote mostly Democrat and military and working class people who do not feel supported, and you feel like that's -- you believe that that's going to work out politically, you're in an insane asylum.\n\nCURI: Alex Karp is interesting in his own political donations.\n\nCURI: He's gone back and forth between Democrats and Republicans. It's like as, in a personal level, he can't decide.\n\nBut I think what we've been hearing across the board from CEOs are these big, alarmist statements. Whether it has to do with jobs, it's mostly had to do with job displacement, and yet they are moving as fast as possible to release this technology, which begs the question, what do you actually want to see here? What do you want to be done here?\n\nCORNISH: One -- oh, go ahead.\n\nRON BROWNSTEIN, CNN SENIOR POLITICAL ANALYST: I would say, the class inversion since the '80s and '70s is really one of the most powerful dynamics in American politics, with Republicans doing better among blue collar workers, increasingly across racial lines, Democrats doing better among white collar workers.\n\nBut what -- that was driven mostly on cultural grounds. What's happening in the A.I. era is you get a reinforcement on economic grounds, where you now have, I think, in white collar America, a lot of the economic anxiety that really helped drive blue collar America in the other way in the '80s.\n\nCORNISH: Yes, which featured in New York 12. Yes.\n\nBROWNSTEIN: I mean we -- there used to be plant closing legislation aimed at blue collar workers in the '80s. Now there's kind of proposals for A.I. job loss legislation aimed at white collar workers. And it tends -- the economics is going to push in the same direction as the culture.\n\nCORNISH: Big time. You had --\n\nBROWNSTEIN: Education toward Democrats, blue collar (INAUDIBLE).\n\nCORNISH: You had Microsoft's A.I. -- Microsoft's chief, actually, allude to this, talking about the similarities between the promises of globalization, '80s, '90s, and what turned out to be the reality for workers after. For my partizans, this is money that lawmakers don't know how to feel\n\nabout yet, because in some places, like a Utah, red state, they fought the hell out of a data center. And then you have candidates like this, Democrats, talking about regulation.\n\nSo, do we expect to see them taking the money and not talking about it? Do we expect to see a lane for a candidate who cares about A.I. displacement, who suddenly comes to the forefront talking about it?\n\nJARRETT STEPMAN, COLUMNIST, \"THE DAILY SIGNAL\": Yes, I mean, I think there's a certain amount of localism here. I mean the Republican Party on the national level seems to be much more of the A.I. optimist party. On the local level it's very --\n\nCORNISH: Not so much.\n\nSTEPMAN: It's very different.\n\nSTEPMAN: And, in fact, it reflects the fact that a lot of Americans, on the left and right, are very nervous about A.I. They don't quite know what to make of it. And they're more concerned about it than some of the leaders in Washington who seem to say, oh, it's, you know, this is going to be great. It's going to be transformative. And from our economy --\n\nCORNISH: Yes. And we should say, Trump did sign an A.I. executive order. I was talking with Maria earlier about how, first there were supposed to be big announcement. Then they pulled it after some griping from the tech guys. And then they actually signed one, which does encourage A.I. model sharing with the government and tries to crack down on security breaches linked to A.I.\n\nThe reason why I'm bringing this up is because, at this point you've got international intelligence agencies warning that A.I. models are advancing so quickly they could overwhelm government and business defenses, like not one day, but months from now.\n\nANTJUAN SEAWRIGHT, DEMOCRATIC STRATEGIST: When you talk about A.I., Ron, we're not talking about Antjuan intelligence. We're talking about artificial intelligence.\n\nCORNISH: Yes, we did not make that mistake. But continue.\n\nBROWNSTEIN: But they spelled it out in the executive (INAUDIBLE).\n\nSEAWRIGHT: But I think, within my part, there are real conversations about how they impact these communities locally, from driving up high utility costs that most Americans cannot afford from the environmental concerns.\n\nCORNISH: But that's why I'm asking. It's not clear where the parties fall on these things.\n\nBROWNSTEIN: Well -- SEAWRIGHT: Well, I think -- I think we have a mixed bag. I think we have a mixed bag feeling within the party because I don't think that people are clear about the long term impact and the effects that they're going to have on communities. And I would just say, for folks who are taking money from A.I. and still not certain about where they stand, I call it research.\n\nIn the meantime, let me come to you about this warning because, first of all, there's always warnings about A.I. every few weeks, every few months, to be honest. And the latest one, you know, it's giving Skynet, just the idea that there could be the next hack that comes, could be, I guess, driven by the A.I. itself. Can you explain this?\n\nCURI: So, here's why this executive order matters and is important. And it has to do with this as well. This executive order essentially says that A.I. companies, they need to have a certain level of transparency, and it's voluntary, but A.I. labs realize they have to do it.\n\nCORNISH: And Anthropic did something like this, in fact, just a few months ago.\n\nCURI: And Anthropic did it and received explicit approval from the government to release its models. But we're now seeing that they've shut down their most advanced models to allies around the country, and even foreign nationals within the U.S., including top researchers at Anthropic, how do you protect against cyberattacks if you don't have access to the most advanced models.\n\nCORNISH: Especially if you're used to -- Trump is used to doing transactional business with political allies and friends. So, with Anthropic, right, he and Hegseth, they get sideways with Anthropic. They don't like the person who runs it. And yet still the technology was so, let's say, scary that Anthropic, in the middle of being called a supply chain risk, went to the government and said, I think you should know about this.\n\nCORNISH: There's this weird push-pull where, like, we want them, we want to control them, but we can't, it's out of our control.\n\nCURI: Right. And we've reported on this, you know, extensively, that this does have to do with real cybersecurity concerns, that these models could be jailbroken.\n\nCURI: But it also has to do with personality clashes and the fact that the Anthropic CEO has not figured out a way to communicate effectively with the Trump administration. And we're seeing OpenAI, a rival A.I. lab, continue to release advanced models and not face export controls the way Anthropic has.\n\nCORNISH: Because they're going to go with him to the Middle East. They're going to go with him to -- like the relationship is there.\n\nCORNISH: OK. Since this is non-partisan, thank you guys for playing with me on it. It affects us all.\n\nMaria Curi, thank you so much for being here.\n\nCORNISH: Next on CNN THIS MORNING, there -- a Kennedy lost in New York. So, after Jack Schlossberg's loss, is the Kennedy legacy losing its power?\n\nSEN. ELIZABETH WARREN (D-MA): It is possible to find bipartisan, common ground on legislation.\n\nCORNISH: All right. So, we all agree the rent is too high, but can Congress come together to fix it?\n\nCORNISH: Once upon a time the name Kennedy carried some weight in U.S. politics. Last night, Jack Schlossberg, JFK's only grandson, lost in a crowded and expensive congressional primary in New York City. He's Caroline Kennedy's 33-year-old son.\n\nSchlossberg finished a disappointing third in a race that also had all of that A.I. spending we just talked about and well-known cable news name George Conway. Schlossberg spoke after his defeat.\n\nJACK SCHLOSSBERG (D), NEW YORK CONGRESSIONAL CANDIDATE: We need to do things differently. We don't just need younger candidates. We need different leaders. We need different voices.\n\nCORNISH: Unfortunate background for him there, since he is quite literally on the cutting room floor. BROWNSTEIN: Ah.\n\nCORNISH: But everybody liked the way he had a deft use of the media, which is also part of the Kennedy legacy.\n\nBROWNSTEIN: Yes. Yes. Look, I mean, we are, I think, further from JFK's election than he was from the Spanish-American War, OK. So, like, it's a -- it --\n\nCORNISH: But we are closer to the arguments about the effects of TV and celebrity on politics.\n\nBROWNSTEIN: It's a long time. Yes. No, and, look, I mean, you know, having name I.D. is valuable. I mean it's tangible. It's -- it costs you a lot of money to get known. Like, look at what happened in California. I mean, in, you know, in like in the governor, it costs a lot of money to get known, but it doesn't supersede everything else.\n\nSEAWRIGHT: I was just going to say, name doesn't mean game, Ron.\n\nBROWNSTEIN: Right. Right.\n\nSEAWRIGHT: And I think that --\n\nCORNISH: Have you been saving that?\n\nSEAWRIGHT: No, I haven't. But name doesn't mean game. And I think when you have this change election environment where people want to test drive something different, I don't think the name relatability helps you in these cases. And I think it was very telling (ph).\n\nCORNISH: You think that actually played against him?\n\nCORNISH: Because he was trying to show, things need to change. He was speaking the language of the modern Democratic Party.\n\nSEAWRIGHT: He was speaking to some in the modern Democratic Party. But also there's something about local relationships and how they play out in these elections.\n\nSEAWRIGHT: And I think the winner in that district had solid foundational local relationships that gave them ultimately the advantage.\n\nSTEPMAN: Yes. And I just -- I don't know if the Kennedy name has much cachet, especially with -- it's already going out with millennials. Gen , maybe a little summer (ph) revival (ph).\n\nCORNISH: No, see, we argued about this just now.\n\nSTEPMAN: Yes, I just --\n\nCORNISH: Anyone who watched FX's \"Love Story\" --\n\nSTEPMAN: Yes, that's true.\n\nCORNISH: Has picked up a cigarette and relived the '90s because of the Kennedy mystique.\n\nSTEPMAN: But it still seems like a very long time ago. A little mystique, but it's been broken, I feel, within the last few generations. That's how far we're getting from it now.\n\nCORNISH: Even with RFK in the White House?\n\nSTEPMAN: Yes, but, see now --\n\nCORNISH: Where are you from again?\n\nCORNISH: \"Daily Signal\"?\n\nSEAWRIGHT: That's the reason people voted against him.\n\nCORNISH: I tried. I tried. I'm trying to help y'all in this discussion.\n\nOne more thing. It's a bit of good news, because it's bipartisan. President Trump expected to sign a housing affordability bill. It passed with rare and overwhelming support in both chambers of Congress.\n\nSEN. ELIZABETH WARREN (D-MA): Today's vote proves that it is possible to find bipartisan common ground on legislation that actually helps the American people.\n\nSEN. TIM SCOTT (R-SC): If we would just focus on the American people and listen when they speak, we would remember two things. Number one, they hire us. We work for them.\n\nCORNISH: So, this could be the first clear sign that Congress is hearing the concerns from the American people around the issue of affordability.\n\nSo, what's in this legislation? It would limit private equity from buying up homes. We know this is a really big issue from people who are concerned that private equity is buying up homes and driving up costs. It's supposed to make manufacturing homes easier and cheaper to build. Tough one given local zoning laws. And that's why this is here. Attempts to ease zoning and permitting rules. I can't help but think, looking at the polling showing Trump's\n\nhandling of the economy, that, as Tim Scott said, maybe they are finally listening.\n\nBROWNSTEIN: I am -- well, that's funny because I was thinking of President Trump at the 2020 Republican Convention talking about how Democrats want to override zoning rules and bring multifamily housing to all the suburbs. I mean, remember, that was like a big --\n\nCORNISH: Oh, yes, yes, yes.\n\nBROWNSTEIN: That was a big thing. And essentially it was -- it was bringing non-white people to white suburbs was kind of the clear underlying message.\n\nLook, you know, I mean, housing is -- it's tough for the federal government to have a real big impact on even the states. Like California has struggled to pass policies at the state level that shift local zoning decisions by not (INAUDIBLE). So --\n\nCORNISH: But that's legislatively tough. Is it politically tough to tell private equity to kick rocks when they give money in elections as well?\n\nCORNISH: I mean these are huge entities.\n\nSTEPMAN: They are, but there's a groundswell of American -- of the American people who are very upset with the fact that their housing is very expensive, especially the younger generations. A lot of millennials, the youngers, can't afford a house.\n\nCORNISH: So, who do they blame?\n\nSTEPMAN: And they feel that that's Americans dream.\n\nCORNISH: Because right now we're going to put up that polling, 70 percent disapproval on the economy. Are they blaming Trump for that?\n\nSTEPMAN: I don't know if they're blaming Trump. Of course, he's the president of the United States. So, people, of course, are going to be angry at the party in power. And that's -- that seems to be Trump.\n\nBut at the same time, again, you saw this as a bipartisan bill. People are angry about the housing issue, period.\n\nIt's on -- it's happening in blue states and red states across the board. And even in places like New York City, you have Mamdani, who has tried to open up more housing. A lot of Republicans are kind of OK with that. And so it's -- I feel that sort of -- that sort of crosses the line on this particular issue. That's why they even got anything bipartisan.\n\nSEAWRIGHT: I think this is a step in the right direction. But by and large, I think this is a pimple on a rhinoceros' butt when you think about how --\n\nCORNISH: How do you come up with this stuff?\n\nSEAWRIGHT: When you think about the housing crisis that we're facing in this country, because it's largely around affordability.\n\nSEAWRIGHT: The average homeowner, first time homeowner, in this country now is 40 years old. People cannot afford to pay the rent. You have a Republican Party and including the leader of the campaign on the Republican Party --\n\nCORNISH: Yes, we're going to put up home sales while you're talking.\n\nSEAWRIGHT: Who says that we have a housing issue in this country because illegals have come to this country zapping up all the housing. They refuse to come to grips with the reality that it's an affordability issue. And it's an accessibility issue.\n\nCORNISH: One second. I just want to point out one thing. I played Tim Scott at the start of that. I did not play Tim Scott earlier in the show when we were talking about Trump's lead priorities in the SENATE, which are the SAVE Act and the filibuster. So, why is the guy whose main job is getting more senators hired who are Republicans not in that conversation, but featured heavily in this one?\n\nSEAWRIGHT: Well, you can run, but you can't hide. The reality is he, Tim Scott, understands that every single issue that they campaigned on in the last election cycle, Republicans and Donald Trump are underwater on. And he does not want to bear the responsibility for losing the majority in November.\n\nCORNISH: How do you avoid that? That's his job.\n\nBROWNSTEIN: Well, no. And they are facing the conundrum of the president's party in a midterm when the president is unpopular. On the one hand, they clearly need to keep Trump relatively quiescent so that he will do what they need to help turn out their voters. On the other hand, Trump is looking at a 70 percent disapproval rating among independents, and they also need independent voters in most of these states. And it's kind of like a no win game. If you show independence from Trump, you risk him, you know, throwing a thunderbolt at you and depressing base turnout. And if you don't, it's very hard to get enough purchase among those independent voters who disapprove of him two to one. It's just not easy. It's not unique to Republicans in '26, but it is the core problem we face. CORNISH: All right, we're going to hear a lot this week, especially\n\nafter this lunch today where the president is heading to The Hill. We've got stuff going on with Israel and Lebanon.\n\nI want to hear about your group chats for a minute. Let's cleanse the timeline. What are you talking about in your world?\n\nSTEPMAN: I'm actually getting geared up for the Fourth of July, for the 250 celebration. New York City.\n\nSEAWRIGHT: With Vanilla Ice?\n\nSTEPMAN: I'm very excited. Actually, in New York City.\n\nCORNISH: It's still June.\n\nSTEPMAN: I know it's still June, but it's very important. We've got a -- the party's ready to go. And for me, my tradition has always been to go -- usually when I was in Washington, D.C., I'd visit Mount Vernon, put flowers by the grave of Washington. Now I'm going to go to the Hamilton's grave in New York City. Trinity Church.\n\nCORNISH: Wait, you're not going to go to the show?\n\nSEAWRIGHT: With Vanilla Ice.\n\nSTEPMAN: No, I'm going to be in New York.\n\nCORNISH: Why are you hating on Vanilla Ice? I'm just trying to figure out if he's going to it.\n\nSTEPMAN: No, no. You know what? I'm going to be in New York City. I think there's going to be a huge celebration there.\n\nCORNISH: With Democrats.\n\nSTEPMAN: With -- but I will personally go to Hamilton's grave and put some flowers there.\n\nSTEPMAN: I think he deserves it.\n\nSTEPMAN: And it's something that's important to me.\n\nCORNISH: All right, Antjuan, what about you?\n\nSEAWRIGHT: My group chat is the co-endorsement from the president in our Republican gubernatorial primary. It's new water we're swimming in here.\n\nBROWNSTEIN: New tradition. SEAWRIGHT: But it's -- Ron, it's almost like if you're from South\n\nCarolina, you appreciate this, cheering for the Gamecocks and the Clemson Tigers in the Palmetto Bowl.\n\nBROWNSTEIN: Yes. Yes.\n\nSEAWRIGHT: It's just unprecedented. Trump has lost in Iowa. He's lost in Georgia. He was about to lose in South Carolina. So, he wanted to throw this hail Mary pass and endorse two candidates.\n\nBROWNSTEIN: It's like those people who live in the middle of Connecticut and had those half Yankee half Red Sox hats. I mean it was like --\n\nBROWNSTEIN: That's what -- OK, speaking of celebration hats.\n\nSEAWRIGHT: Half and half.\n\nBROWNSTEIN: Speaking of -- speaking of -- speaking of celebrations for July 4th in New York. My timeline, my group chat, literally is obsessed with, is Taylor Swift really going to get married at Madison Square Garden on July 4th?\n\nBROWNSTEIN: Because, like, that would -- I -- she makes it --\n\nCORNISH: I thought, at this point it's happening in Rhode Island, is it not?\n\nBROWNSTEIN: She -- you know, because -- I mean that would be like -- that would be the worst decision ever. I mean, like, like you view yourself essentially as a product or a commodity or a phenomenon. But, I don't know. Mamdani seemed to like hint that it was --\n\nSTEPMAN: It was (INAUDIBLE).\n\nBROWNSTEIN: Mamdani hinted that it was coming. He said, we can prepare -- what did he say? We can do the security for the --\n\nCORNISH: We are going to have some reporting on this later today.\n\nBROWNSTEIN: We can do security for a Knicks game. We can do security for -- did he say that?\n\nCORNISH: Yes, he mentioned it.\n\nSEAWRIGHT: Well, then there are going to be watch parties outside the Garden.\n\nBROWNSTEIN: That -- oh, yes.\n\nCORNISH: No. No, actually.\n\nBROWNSTEIN: That's a -- that's a good one.\n\nCORNISH: Is the president going to attend also? I think no. I'm guessing. Wild guess here.\n\nBROWNSTEIN: I'm guessing no. I'm guessing no on that one.\n\nCORNISH: Is J.D. Vance going to attend. Also, I'm going to say it's a no. Even if she would no longer be a kind of single cat lady, the worst kind of person to be, according to the vice president. No, he's just apologized. You can read about it in the new book.\n\nAll right, you guys, thank you so much for talking about this. Ron, I hope you get the answers you're looking for on Taylor Swift's wedding.\n\nBROWNSTEIN: I -- you know. I still haven't found what I'm looking for which is (INAUDIBLE).\n\nCORNISH: Well played. Well played.\n\nAt 8 a.m. Maggie Haberman, Jonathan Swan reporting on their new book on the Trump administration. It's called \"Regime Change.\" There's going to be lots of interesting details in there, so please stick around.\n\nI'm Audie Cornish. And you know what? I know there's a lot of places where you could choose to spend your time in the morning. And I'm glad that you are spending it with us.\n\nStay with us. We've got more news ahead."
+    }
+  ]
+}
