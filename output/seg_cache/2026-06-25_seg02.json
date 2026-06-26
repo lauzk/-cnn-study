@@ -1,0 +1,520 @@
+{
+  "date": "2026-06-25",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-25/segment/02",
+  "vocabulary": [
+    {
+      "word": "metastasize",
+      "phonetic": "/mɪˈtæstəsaɪz/",
+      "pos": "v.",
+      "level": "专八",
+      "cn": "（疾病）转移；恶化",
+      "en": "to spread and grow in a harmful way",
+      "excerpt": "Because they let it metastasize until they had a candidate who represented it.",
+      "example_cn": "他们任由其恶化，直到出现一个代表它的候选人。"
+    },
+    {
+      "word": "harness",
+      "phonetic": "/ˈhɑːrnɪs/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "利用；控制",
+      "en": "to control and use the force or strength of something to produce power or achieve something",
+      "excerpt": "How do you harness an energy instead of, honestly, shooting the tires out of your car trying to run it over?",
+      "example_cn": "你如何利用这种能量，而不是像试图开车碾过它却先射穿自己的轮胎？"
+    },
+    {
+      "word": "litmus test",
+      "phonetic": "/ˈlɪtməs test/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "试金石；决定性考验",
+      "en": "a test that uses a single factor to decide whether something is acceptable or not",
+      "excerpt": "And I am not a person who believes that the mayor of New York is a litmus test for all things, right?",
+      "example_cn": "我并不认为纽约市长是衡量一切的试金石。"
+    },
+    {
+      "word": "prominence",
+      "phonetic": "/ˈprɑːmɪnəns/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "突出；重要",
+      "en": "the state of being important, well-known, or noticeable",
+      "excerpt": "But it is a path to prominence and a kind of leadership role in the party.",
+      "example_cn": "但这是一条通往显赫地位和在党内担任领导角色的道路。"
+    },
+    {
+      "word": "rescind",
+      "phonetic": "/rɪˈsɪnd/",
+      "pos": "v.",
+      "level": "专八",
+      "cn": "废除；撤销",
+      "en": "to officially end a law, agreement, or decision",
+      "excerpt": "They rescinded their national endorsement of her over the way that she's handled the situation with Israel.",
+      "example_cn": "他们撤销了对她的全国性支持，因为她处理以色列问题的方式。"
+    },
+    {
+      "word": "moderate",
+      "phonetic": "/ˈmɑːdəreɪt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "使缓和；变得温和",
+      "en": "to become less extreme or to make something less extreme",
+      "excerpt": "So, I think sometimes, even when you get into power, it moderates you in the process.",
+      "example_cn": "所以我认为，有时即使你掌权，这个过程也会让你变得温和。"
+    },
+    {
+      "word": "foil",
+      "phonetic": "/fɔɪl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "陪衬；对手",
+      "en": "a person or thing that contrasts with another and makes the other seem better or more noticeable",
+      "excerpt": "Donald Trump works best, I think, when he has a foil.",
+      "example_cn": "我认为唐纳德·特朗普在有对手时表现最佳。"
+    },
+    {
+      "word": "dismantle",
+      "phonetic": "/dɪsˈmæntl/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "拆除；废除",
+      "en": "to take apart a machine or structure; to gradually end a system or organization",
+      "excerpt": "President Trump has spent a good amount of time dismantling the legacy of the Obama and Biden eras.",
+      "example_cn": "特朗普总统花费了大量时间拆除奥巴马和拜登时代的遗产。"
+    },
+    {
+      "word": "obsession",
+      "phonetic": "/əbˈseʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "痴迷；执念",
+      "en": "a state in which someone thinks about something or someone all the time",
+      "excerpt": "I have watched this Donald Trump pretty much be obsessed with this.",
+      "example_cn": "我目睹了唐纳德·特朗普对此几乎痴迷。"
+    },
+    {
+      "word": "shtick",
+      "phonetic": "/ʃtɪk/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "特色；把戏",
+      "en": "a particular type of behavior or way of performing that is typical of a person",
+      "excerpt": "I just think that that's his whole shtick here.",
+      "example_cn": "我认为这就是他的全部把戏。"
+    },
+    {
+      "word": "aftershock",
+      "phonetic": "/ˈæftərʃɑːk/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "余震",
+      "en": "a small earthquake that happens after a larger one",
+      "excerpt": "Is there a threat of aftershocks still being discussed?",
+      "example_cn": "是否仍在讨论余震的威胁？"
+    },
+    {
+      "word": "rubble",
+      "phonetic": "/ˈrʌbl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "碎石；瓦砾",
+      "en": "broken stones, bricks, or other material from a destroyed building",
+      "excerpt": "crews are digging through the rubble, searching for survivors.",
+      "example_cn": "救援人员正在挖掘瓦砾，搜寻幸存者。"
+    },
+    {
+      "word": "interim",
+      "phonetic": "/ˈɪntərɪm/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "临时的；过渡的",
+      "en": "temporary; intended to be used for a short time until something permanent is arranged",
+      "excerpt": "According to Venezuela's interim president, more than 900 reported injured.",
+      "example_cn": "据委内瑞拉临时总统称，已有900多人受伤。"
+    },
+    {
+      "word": "devastation",
+      "phonetic": "/ˌdevəˈsteɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "破坏；毁灭",
+      "en": "great destruction or damage",
+      "excerpt": "after such a massive devastation across the country",
+      "example_cn": "在全国遭受如此大规模的破坏之后"
+    },
+    {
+      "word": "marathon",
+      "phonetic": "/ˈmærəθɑːn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "马拉松；持久的活动",
+      "en": "a long race of about 42 kilometers; a long and difficult activity",
+      "excerpt": "It will be like a marathon.",
+      "example_cn": "这将是一场马拉松。"
+    },
+    {
+      "word": "sweep",
+      "phonetic": "/swiːp/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "全胜；横扫",
+      "en": "a complete victory in a series of events",
+      "excerpt": "establishment Democrats on notice after this week's socialist sweep.",
+      "example_cn": "本周社会主义者横扫后，建制派民主党人受到警告。"
+    },
+    {
+      "word": "binary choice",
+      "phonetic": "/ˈbaɪnəri tʃɔɪs/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "二元选择",
+      "en": "a choice between two things",
+      "excerpt": "We are being presented right now with what I believe is a false, binary choice.",
+      "example_cn": "我们现在面临的是一个我认为错误的二元选择。"
+    },
+    {
+      "word": "grassroots",
+      "phonetic": "/ˈɡræsruːts/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "基层的；草根的",
+      "en": "involving ordinary people in a society or organization, not the leaders",
+      "excerpt": "I've got more grassroots support than my opponents combined.",
+      "example_cn": "我获得的基层支持比我的对手加起来还多。"
+    },
+    {
+      "word": "flip",
+      "phonetic": "/flɪp/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "翻转；改变",
+      "en": "to turn over quickly; to change something completely",
+      "excerpt": "I helped flip the entire state senate to Democrats for the first time in 40 years.",
+      "example_cn": "我帮助整个州参议院40年来首次转向民主党。"
+    },
+    {
+      "word": "whip",
+      "phonetic": "/wɪp/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "（政党）组织秘书",
+      "en": "a member of a political party in a legislature whose job is to make sure that party members vote according to the party's official policy",
+      "excerpt": "as majority whip, I've delivered on health care, housing, civil rights, voting rights.",
+      "example_cn": "作为多数党党鞭，我在医疗、住房、民权、投票权等方面取得了成果。"
+    },
+    {
+      "word": "rent free",
+      "phonetic": "/rent friː/",
+      "pos": "idiom",
+      "level": "六级",
+      "cn": "免费居住；比喻占据某人的思想",
+      "en": "to live in a place without paying rent; used figuratively to mean occupying someone's thoughts without payment",
+      "excerpt": "Obama lives rent free in Trump's head.",
+      "example_cn": "奥巴马免费住在特朗普的脑子里。"
+    },
+    {
+      "word": "suite",
+      "phonetic": "/swiːt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "套房；一套房间",
+      "en": "a set of rooms, especially in a hotel",
+      "excerpt": "A suite in his -- in his head.",
+      "example_cn": "他脑子里的一套套房。"
+    },
+    {
+      "word": "JCPOA",
+      "phonetic": "/dʒeɪ siː piː oʊ eɪ/",
+      "pos": "abbr.",
+      "level": "六级",
+      "cn": "伊朗核问题全面协议（Joint Comprehensive Plan of Action）",
+      "en": "the Iran nuclear deal",
+      "excerpt": "given the situation we're in, in Iran, it is, I think, pretty clear that Obama is the topic of conversation",
+      "example_cn": "鉴于我们在伊朗的处境，我认为很明显奥巴马是话题。"
+    },
+    {
+      "word": "ballistic missile",
+      "phonetic": "/bəˈlɪstɪk ˈmɪsaɪl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "弹道导弹",
+      "en": "a missile that is guided during its ascent and then falls freely",
+      "excerpt": "We can argue about there was something about ballistic missiles in there.",
+      "example_cn": "我们可以争论其中是否有关于弹道导弹的内容。"
+    },
+    {
+      "word": "nostalgia",
+      "phonetic": "/nɑːˈstældʒə/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "怀旧；乡愁",
+      "en": "a feeling of pleasure and sadness when thinking about the past",
+      "excerpt": "I just think it's like this moment of nostalgia that you see with her",
+      "example_cn": "我只是觉得这是你从她身上看到的一种怀旧时刻。"
+    },
+    {
+      "word": "comeback",
+      "phonetic": "/ˈkʌmbæk/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "复出；回归",
+      "en": "a return to a former position of success or popularity",
+      "excerpt": "Love the comeback.",
+      "example_cn": "喜欢这次复出。"
+    },
+    {
+      "word": "toxic",
+      "phonetic": "/ˈtɑːksɪk/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "有毒的；有害的",
+      "en": "poisonous; very harmful or unpleasant",
+      "excerpt": "She was in the toxic mom group chat.",
+      "example_cn": "她在有毒妈妈群聊里。"
+    },
+    {
+      "word": "endorsement",
+      "phonetic": "/ɪnˈdɔːrsmənt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "支持；背书",
+      "en": "a public statement of support for a person, product, or idea",
+      "excerpt": "They rescinded their national endorsement of her",
+      "example_cn": "他们撤销了对她的全国性支持。"
+    },
+    {
+      "word": "primary",
+      "phonetic": "/ˈpraɪmeri/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "初选",
+      "en": "an election in which people vote for the person they want to represent their political party in a later election",
+      "excerpt": "All three of Zohran Mamdani's backed Democratic socialist candidates won their primaries Tuesday night",
+      "example_cn": "周二晚上，佐兰·马姆达尼支持的三名民主社会主义候选人都赢得了初选。"
+    },
+    {
+      "word": "spoiler",
+      "phonetic": "/ˈspɔɪlər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "搅局者",
+      "en": "a person or thing that spoils something; in politics, a candidate who is not expected to win but takes votes from another candidate",
+      "excerpt": "You are a spoiler candidate.",
+      "example_cn": "你是一个搅局候选人。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "There is a political graveyard of Republicans, moderate, Bush era, a certain kind of Republican who appeals to the middle.",
+      "cn": "有一个共和党人的政治墓地，他们是温和派、布什时代的、某种吸引中间派的共和党人。",
+      "structure": "There be 句型，主语为 a political graveyard，后接 of 短语修饰，who 引导定语从句修饰 Republican。",
+      "analysis": "该句使用比喻，将政治失败者比作墓地，强调这类共和党人已不复存在。"
+    },
+    {
+      "en": "Because they let it metastasize until they had a candidate who represented it.",
+      "cn": "因为他们任由它恶化，直到出现一个代表它的候选人。",
+      "structure": "Because 引导原因状语从句，主句为 they let it metastasize，until 引导时间状语从句，who 引导定语从句修饰 candidate。",
+      "analysis": "it 指代前文的 movement，metastasize 原指疾病转移，此处比喻政治运动失控。"
+    },
+    {
+      "en": "How do you harness an energy instead of, honestly, shooting the tires out of your car trying to run it over?",
+      "cn": "你如何利用这种能量，而不是像试图开车碾过它却先射穿自己的轮胎？",
+      "structure": "How 引导特殊疑问句，instead of 后接动名词短语，trying to run it over 作目的状语。",
+      "analysis": "该句使用比喻，shooting the tires out of your car 形象地说明自我破坏的行为。"
+    },
+    {
+      "en": "And I am not a person who believes that the mayor of New York is a litmus test for all things, right?",
+      "cn": "我并不认为纽约市长是衡量一切的试金石，对吧？",
+      "structure": "主句为 I am not a person，who 引导定语从句修饰 person，that 引导宾语从句。",
+      "analysis": "litmus test 为比喻，意为决定性测试。"
+    },
+    {
+      "en": "But it is a path to prominence and a kind of leadership role in the party.",
+      "cn": "但这是一条通往显赫地位和在党内担任领导角色的道路。",
+      "structure": "主系表结构，to prominence and a kind of leadership role 为介词短语作定语修饰 path。",
+      "analysis": "it 指代前文提到的成为纽约市长。"
+    },
+    {
+      "en": "They rescinded their national endorsement of her over the way that she's handled the situation with Israel.",
+      "cn": "他们撤销了对她的全国性支持，因为她处理以色列问题的方式。",
+      "structure": "主谓宾结构，over 引导原因状语，that 引导定语从句修饰 way。",
+      "analysis": "rescind 意为正式撤销，over 表示原因。"
+    },
+    {
+      "en": "So, I think sometimes, even when you get into power, it moderates you in the process.",
+      "cn": "所以我认为，有时即使你掌权，这个过程也会让你变得温和。",
+      "structure": "主句为 I think，省略 that 的宾语从句，从句中包含 even when 引导的让步状语从句。",
+      "analysis": "it 指代掌权的过程，moderate 作动词。"
+    },
+    {
+      "en": "Donald Trump works best, I think, when he has a foil.",
+      "cn": "我认为唐纳德·特朗普在有对手时表现最佳。",
+      "structure": "主句为 Donald Trump works best，I think 为插入语，when 引导时间状语从句。",
+      "analysis": "foil 意为陪衬或对手。"
+    },
+    {
+      "en": "President Trump has spent a good amount of time dismantling the legacy of the Obama and Biden eras.",
+      "cn": "特朗普总统花费了大量时间拆除奥巴马和拜登时代的遗产。",
+      "structure": "主谓宾结构，spend time doing sth.，dismantling 为动名词作宾语补足语。",
+      "analysis": "dismantle 意为拆除，legacy 指政治遗产。"
+    },
+    {
+      "en": "I have watched this Donald Trump pretty much be obsessed with this.",
+      "cn": "我目睹了唐纳德·特朗普对此几乎痴迷。",
+      "structure": "主谓宾结构，watch sb. do sth.，be obsessed with 为固定短语。",
+      "analysis": "pretty much 意为几乎。"
+    },
+    {
+      "en": "I just think that that's his whole shtick here.",
+      "cn": "我认为这就是他的全部把戏。",
+      "structure": "主句为 I just think，that 引导宾语从句，从句中 that 为主语。",
+      "analysis": "shtick 意为特色或把戏，口语化表达。"
+    },
+    {
+      "en": "Is there a threat of aftershocks still being discussed?",
+      "cn": "是否仍在讨论余震的威胁？",
+      "structure": "一般疑问句，there be 句型，still being discussed 为现在分词的被动形式作定语。",
+      "analysis": "threat of aftershocks 意为余震的威胁。"
+    },
+    {
+      "en": "crews are digging through the rubble, searching for survivors.",
+      "cn": "救援人员正在挖掘瓦砾，搜寻幸存者。",
+      "structure": "主谓宾结构，searching for survivors 为现在分词短语作伴随状语。",
+      "analysis": "dig through 意为挖掘穿过。"
+    },
+    {
+      "en": "According to Venezuela's interim president, more than 900 reported injured.",
+      "cn": "据委内瑞拉临时总统称，已有900多人受伤。",
+      "structure": "According to 引导状语，主句为 more than 900 reported injured，省略了 are。",
+      "analysis": "interim 意为临时的。"
+    },
+    {
+      "en": "after such a massive devastation across the country",
+      "cn": "在全国遭受如此大规模的破坏之后",
+      "structure": "介词短语作时间状语。",
+      "analysis": "devastation 意为破坏。"
+    },
+    {
+      "en": "It will be like a marathon.",
+      "cn": "这将是一场马拉松。",
+      "structure": "主系表结构。",
+      "analysis": "比喻救援工作持久。"
+    },
+    {
+      "en": "establishment Democrats on notice after this week's socialist sweep.",
+      "cn": "本周社会主义者横扫后，建制派民主党人受到警告。",
+      "structure": "省略句，完整为 establishment Democrats are on notice。",
+      "analysis": "sweep 意为全胜。"
+    },
+    {
+      "en": "We are being presented right now with what I believe is a false, binary choice.",
+      "cn": "我们现在面临的是一个我认为错误的二元选择。",
+      "structure": "主谓宾结构，with 后接 what 引导的宾语从句，I believe 为插入语。",
+      "analysis": "binary choice 意为二元选择。"
+    },
+    {
+      "en": "I've got more grassroots support than my opponents combined.",
+      "cn": "我获得的基层支持比我的对手加起来还多。",
+      "structure": "主谓宾结构，than 引导比较状语从句，combined 为过去分词。",
+      "analysis": "grassroots 意为基层的。"
+    },
+    {
+      "en": "I helped flip the entire state senate to Democrats for the first time in 40 years.",
+      "cn": "我帮助整个州参议院40年来首次转向民主党。",
+      "structure": "主谓宾结构，flip...to... 意为使...转向...。",
+      "analysis": "flip 意为翻转。"
+    },
+    {
+      "en": "as majority whip, I've delivered on health care, housing, civil rights, voting rights.",
+      "cn": "作为多数党党鞭，我在医疗、住房、民权、投票权等方面取得了成果。",
+      "structure": "as 引导状语，主句为 I've delivered on...。",
+      "analysis": "deliver on 意为兑现承诺。"
+    },
+    {
+      "en": "Obama lives rent free in Trump's head.",
+      "cn": "奥巴马免费住在特朗普的脑子里。",
+      "structure": "主谓宾结构，rent free 为状语。",
+      "analysis": "比喻奥巴马占据特朗普的思想。"
+    },
+    {
+      "en": "A suite in his -- in his head.",
+      "cn": "他脑子里的一套套房。",
+      "structure": "名词短语，省略了主谓。",
+      "analysis": "接续前文，强调占据空间。"
+    },
+    {
+      "en": "given the situation we're in, in Iran, it is, I think, pretty clear that Obama is the topic of conversation",
+      "cn": "鉴于我们在伊朗的处境，我认为很明显奥巴马是话题。",
+      "structure": "given 引导条件状语，主句为 it is clear that...，I think 为插入语。",
+      "analysis": "given 意为考虑到。"
+    },
+    {
+      "en": "We can argue about there was something about ballistic missiles in there.",
+      "cn": "我们可以争论其中是否有关于弹道导弹的内容。",
+      "structure": "主谓宾结构，about 后接宾语从句。",
+      "analysis": "ballistic missile 意为弹道导弹。"
+    },
+    {
+      "en": "I just think it's like this moment of nostalgia that you see with her",
+      "cn": "我只是觉得这是你从她身上看到的一种怀旧时刻。",
+      "structure": "主句为 I think，省略 that 的宾语从句，从句中包含 that 引导的定语从句修饰 moment。",
+      "analysis": "nostalgia 意为怀旧。"
+    },
+    {
+      "en": "Love the comeback.",
+      "cn": "喜欢这次复出。",
+      "structure": "省略主语的祈使句。",
+      "analysis": "comeback 意为复出。"
+    },
+    {
+      "en": "She was in the toxic mom group chat.",
+      "cn": "她在有毒妈妈群聊里。",
+      "structure": "主系表结构。",
+      "analysis": "toxic 意为有毒的，此处指负面情绪。"
+    },
+    {
+      "en": "They rescinded their national endorsement of her",
+      "cn": "他们撤销了对她的全国性支持。",
+      "structure": "主谓宾结构。",
+      "analysis": "endorsement 意为支持。"
+    },
+    {
+      "en": "All three of Zohran Mamdani's backed Democratic socialist candidates won their primaries Tuesday night",
+      "cn": "周二晚上，佐兰·马姆达尼支持的三名民主社会主义候选人都赢得了初选。",
+      "structure": "主谓宾结构，backed 为过去分词作定语。",
+      "analysis": "primary 意为初选。"
+    },
+    {
+      "en": "You are a spoiler candidate.",
+      "cn": "你是一个搅局候选人。",
+      "structure": "主系表结构。",
+      "analysis": "spoiler 意为搅局者。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "Venezuela Earthquakes",
+      "content": "2026年6月25日，委内瑞拉发生两次强烈地震，分别为7.2级和7.5级，造成至少164人死亡，900多人受伤。救援工作正在进行，国际红十字会等组织提供援助。委内瑞拉目前由临时政府领导，基础设施老旧，救援面临挑战。",
+      "keywords": "earthquake, Venezuela, rescue, IFRC, aftershock"
+    },
+    {
+      "title": "Democratic Party Internal Divisions",
+      "content": "美国民主党内部存在建制派与民主社会主义者之间的分歧。在纽约初选中，民主社会主义者支持的候选人获胜，引发关于政党方向的讨论。密歇根州参议员Mallory McMorrow作为温和派候选人，面临来自左翼对手的挑战，辩论焦点包括如何团结不同派系。",
+      "keywords": "Democratic Party, socialist, moderate, primary, faction"
+    },
+    {
+      "title": "Trump's Obsession with Obama",
+      "content": "唐纳德·特朗普在任期间及之后频繁提及前总统巴拉克·奥巴马，试图拆除其政治遗产。分析认为特朗普需要对手作为陪衬，而奥巴马成为新的焦点。奥巴马本人也幽默回应，称自己在特朗普脑中“免费居住”。",
+      "keywords": "Trump, Obama, obsession, foil, legacy"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nIFRC Spokesperson Tommaso Della Longa is Interviewed about the Earthquakes in Venezuela; Michigan State Senator Mallory McMorrow is Interviewed about Democratic Socialists Beating Moderates; Trump's Obsession with Obama. Aired 6:30-7a ET\n\nAired June 25, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nMIKE DUBKE, FORMER TRUMP WHITE HOUSE COMMUNICATIONS DIRECTOR: In right now.\n\nAUDIE CORNISH, CNN ANCHOR: OK.\n\nDUBKE: So, we're arguing over shades of blue.\n\nCORNISH: Now, counterpoint on recent history. There is a political graveyard of Republicans, moderate, Bush era, a certain kind of Republican who appeals to the middle. They live in the green rooms of cable news and not in the voting booth. That part of the party is toast because they ignored a movement like this. Because they let it metastasize until they had a candidate who represented it.\n\nCORNISH: So, this is the history I'm going back to, just 2014, 2016, 2018. And that's what I'm kind of asking here. How do you harness an energy instead of, honestly, shooting the tires out of your car trying to run it over?\n\nMEGHAN HAYS, FORMER BIDEN WHITE HOUSE DIRECTOR OF MESSAGE PLANNING: It's really hard. It's also hard for people to understand how government works and how you have to operate. Campaigning is a lot easier than actually governing.\n\nCORNISH: No, they do, they just don't like it.\n\nHAYS: That's fine, but that's -- but also Mamdani has also abandoned some of his policies that he was running on, the free grocery stores, the free busses. Some of these things that these people are running on in New York will never get passed in Congress because they're one --\n\nCORNISH: So has Trump, right?\n\nHAYS: Exactly. But that's exactly the point.\n\nCORNISH: But he is in office.\n\nHAYS: And you will be in office and they'll get nothing done. And you see now how we are getting nothing done. Governing is actually harder than campaigning.\n\nHAYS: And you have to be able to work together, and you have to be moderate, because that is what actually gets things passed. You have to be able to agree and compromise.\n\nCORNISH: And I am not a person who believes that the mayor of New York is a litmus test for all things, right? You can ask Bloomberg. You can ask Giuliani. It is not necessarily a path to the White House. Many have tried.\n\nBut it is a path to prominence and a kind of leadership role in the party. And as more and more specifically cities turn in this direction, I'm just trying to figure out how that's going to work, because the DNC has people who are not so exciting to listen to talk, and everyone's mad at them.\n\nSABRINA RODRIGUEZ, POLITICS REPORTER, \"THE WALL STREET JOURNAL\": Well, but I do think as we still see -- for -- I mean, of course, Republicans do not like Alexandria Ocasio-Cortez, and there's plenty of criticism of her and that, you know, her framed as being very extremist. But we've even seen it in her own political journey where she was elected in 2018. It was like, oh my God, this change coming to the party. And we've seen --\n\nCORNISH: Yes, protesting Pelosi's office. Yes.\n\nRODRIGUEZ: And we've seen it in many ways, the ways that she herself has moderated her own political ambitions, her own way of maneuvering in politics. Notably, she didn't endorse in these congressional races despite her having certain alignments with Mamdani and certain alignment with these candidates.\n\nCORNISH: And you pointed out even her connection with the Democratic Socialists of America.\n\nRODRIGUEZ: Yes. They rescinded their national endorsement of her over the way that she's handled the situation with Israel. And I think we see, you know, more and more, in this cycle, the person that she did an endorsement video for was Tish James, the attorney general of New York, who you'd consider to be more on the establishment side of the Democratic Party, a very popular establishment Democrat, but is not that DSA, is not that Democratic socialist candidate.\n\nSo, I think sometimes, even when you get into power, it moderates you in the process.\n\nHAYS: Because you realize you have to get things done.\n\nDUBKE: Well, you have to get things done. And then when you want more power and more national power, you have to moderate in order to appeal to more than just these very small --\n\nCORNISH: Is that what you learned in Trump one White House?\n\nDUBKE: Which part of what I just said?\n\nCORNISH: Moderating once you get in office. We literally just talked about the guy kicking a housing bill to the curb because he couldn't get his more extreme version of a voting rights bill. Like --\n\nDUBKE: We talked about kicking a housing bill to the curb that is going to --\n\nCORNISH: What's moderate about Trump now?\n\nDUBKE: That is going to pass anyway. He didn't kick --\n\nCORNISH: Not due to him.\n\nCORNISH: You're implying that once you start governing, you become more moderate.\n\nCORNISH: I'm arguing that the left --\n\nDUBKE: No, no, no, no, no. No.\n\nCORNISH: Looks at Trump and they don't see that.\n\nDUBKE: No, it absolutely --\n\nCORNISH: And they want one of their own.\n\nDUBKE: You've got me absolutely wrong.\n\nDUBKE: I'm making the argument that when you campaign on being an extremist on either the far left or the far right, but you want to gain in national prominence, you tend to moderate. I'm going back to the AOC example. That has nothing to do with governing. That has everything to do with what your national ambitions are. And that's what -- that was the point that I was trying to make.\n\nCORNISH: But did Trump moderate?\n\nDUBKE: Trump started at the top.\n\nCORNISH: So, he didn't have to? Help me understand.\n\nDUBKE: No, no, no. He --\n\nCORNISH: Did Trump moderate once he started governing?\n\nDUBKE: In many ways, yes. In many ways, a lot of what he has put forward has not become -- has not become law. A lot of the things that he talked about --\n\nCORNISH: Of his own volition or courts and other lawmakers?\n\nDUBKE: Well, both. Both.\n\nCORNISH: OK, we're going to come back to this.\n\nCORNISH: No, no, let me pause. We have actual -- an actual moderate who has to run in a race in Michigan. And we're going to ask them questions directly. Mike and I will have it out during the break.\n\nI want to turn to this because there is this very serious breaking news that is still happening. Back-to-back earthquakes in Venezuela. These are the largest in a century. And now there are some rescuers who are searching for survivors. So, we're going to be tracking that breaking news next.\n\nANNOUNCER: This is CNN breaking news.\n\nCORNISH: All right, we're continuing to follow this breaking news out of Venezuela. At this point, the death toll is climbing. Right now we know 164 people at least are dead. This is after two earthquakes. According to Venezuela's interim president, more than 900 reported injured. Rescues are still underway. So, after the duel earthquakes, one of the strongest in more than a century, crews are digging through the rubble, searching for survivors.\n\nUNIDENTIFIED FEMALE (through translator): I leaned out onto the balcony, screaming, we're trapped!\n\nWe need help! Please, someone come! We didn't realize there were two aftershocks back-to-back. We thought it had lasted a minute. Maybe a minute and a half. But it felt endless.\n\nCORNISH: Right now, we're talking to Tommaso Della Longa, IFRC spokesperson.\n\nThank you so much for being here, as this is all still unfolding.\n\nSo, we were learning that the first quake was a 7.2, the second a 7.5. Is there a threat of aftershocks still being discussed?\n\nTOMMASO DELLA LONGA, SPOKESPERSON, INTERNATIONAL FEDERATION OF THE RED CROSS: First of all, thanks a lot for having me today. Well, of course, aftershocks are always a risk. I would say that has\n\nalready happened after the two powerful earthquakes. They were several aftershocks. And of course, these can affect heavily both the search and rescue operation, but also the safety of people who are in the areas affected.\n\nCORNISH: What is the state of play for your organization right now in terms of supporting rescue efforts?\n\nLONGA: Yes, I mean, we are working through the IFRC delegation in Caracas and the Venezuelan Red Cross. Our teams are supporting search and rescue operations. But also through the network of hospitals, clinics and mobile clinics so that Venezuelan Red Cross, they're giving air support to the people in the areas affected.\n\nAnd we're looking at mental health, which is very important since the first moments after the earthquake and already looking at the next step. We know that priorities after the window of search and rescue will be shelter, but also water, food, all the essentials. And this is why the IFRC has already mobilized two million (INAUDIBLE), which is almost 2 million U.S. dollars, to support the local efforts who are leading the emergency response.\n\nCORNISH: We've been hearing earlier about how the infrastructure in and around these sections of Venezuela is older, and that it may not have been really earthquake ready or be able to deal with these shocks. What is the state of, say, hospitals or some of these areas that would be actually helping in a rescue situation?\n\nLONGA: Well, the situation is very -- is very complicated. I mean, we know even the Red Cross of (INAUDIBLE) has been affected and several others, public building, (INAUDIBLE) infrastructure. I mean, even looking at the airport of Caracas has been affected. So, from one side, we know that the country, of course, had several -- have had several challenges in the past. But on the other side, we also need to take into account that these two powerful earthquakes, most probably one of the power -- most powerful in the last century, would have heavily affected every country in the world.\n\nAnd now the real question is when we'll get a proper picture and a proper assessment in the next coming hours is how we'll be able, through the logistics, to bring the aid needed, not only in the capital, but also in the most remote areas that may be hard to reach, even for rubles in the streets, and issue to all the logistic infrastructure.\n\nCORNISH: Is this government prepared to do that? We know it's an interim government right now, as Maduro is facing charges in the U.S. We know that there is now a U.S. embassy and that there may be diplomatic support. Is Rodriguez and her government in a position to help?\n\nLONGA: Well, as Red Cross, we are not really entering in a -- in a political debate or in a judgment on authorities (ph). What I can tell you, though, is that the Venezuelan Red Cross, with the support of the IFRC, is supporting local and national authorities in all the efforts. The reality here is that we are looking at a team effort after such a massive devastation across the country, and everyone needs to do it's own -- it's own part.\n\nAnd our part is to support the authorities and all the other organizations to make sure that people who are at the moment under the rubble are saved. And we know by experience that the window is very short. But on the other side, also to put in safety, all the other people who are alive. And we are also looking at something that is not really a sprint. It will be like a marathon. And the -- so it needs and solidarity to the people in Venezuela will need to have the support of the international community for -- not only for the weeks, but the months to come.\n\nCORNISH: That's Tommaso Della Longa, spokesperson for the International Federation of the Red Cross.\n\nAnd stay with us. We'll be right back.\n\nUNIDENTIFIED MALE: Democrats want to win the majority against MAGA Republicans and Donald Trump. And that takes building unity across a diverse party.\n\nIt has to be built from listening to the lessons that voters are giving us. And to me, those lessons are pretty clear. And they're good Democratic messages.\n\nCORNISH: OK, establishment Democrats on notice after this week's socialist sweep. All three of Zohran Mamdani's backed Democratic socialist candidates won their primaries Tuesday night in New York. But does that mean socialists are going to maybe take over the way MAGA did on the right?\n\nWell, Letitia James, who split from Mamdani and backed a moderate, told CNN, quote, \"all of us are a little frustrated with the Democratic Party, but you don't blow it up. That's what MAGA has done.\"\n\nNow, New York's mayor is putting the focus back on issues.\n\nMAYOR ZOHRAN MAMDANI (D), NEW YORK CITY: What you will see, whether it's a vision on making health care more affordable and making housing more affordable, or on a vision as Nadia Alyssa (ph) often talks about, of investing in babies, not bombs, is the kind of conscience, the kind of clarity, the kind of conviction that has been missing in our politics for far too long. And I cannot wait to work with them on accomplishing that.\n\nCORNISH: Joining me now, Democratic Party Senate candidate in Michigan, State Senator Mallory McMorrow.\n\nWelcome to the program. Thank you for being here.\n\nI believe at least you consider yourself a moderate Democrat. We heard on the panel today Democratic socialists are not Democrats. Are you frustrated with this debate?\n\nMALLORY MCMORROW (D), MICHIGAN STATE SENATOR: Well, what's clear across the country is that voters are demanding change. The status quo is fundamentally broken. And in a state like Michigan, people simply don't think of themselves in lanes. We are a state where you don't have to register by party. We have open primaries. There are people here in Michigan who voted for Republican Governor Rick Snyder and Democratic Governor Gretchen Whitmer, who voted for Donald Trump and for Bernie Sanders.\n\nPeople want a fighter. Somebody who knows how to build real power, not just to fight with rhetoric, but deliver actual results. And that is what I'm offering to voters.\n\nCORNISH: There has been a lot of support on the left for Abdul El- Sayed. He's been endorsed by Hasan Piker, who has millions of followers on social media, mainly people under the age of 30. I mention this because he is a very controversial figure. And in March you compared him to white supremacist Nick Fuentes.\n\nNow, Piker spoke to Detroit Public Radio about that yesterday. I want you to take a listen and respond.\n\nHASAN PIKER, POLITICAL COMMENTATOR: There's so much diversity of choice in where people can get their news from. So, people can come to me directly and figure out what I'm actually about. So, that was one of the reasons why that smear campaign failed spectacularly.\n\nPeople started looking at Abdul's campaign, people started hearing what he was saying, and they liked it. And lo and behold, he was in third place before this smear campaign started. And now he's comfortably in first place.\n\nCORNISH: I want to give you a chance to respond to that.\n\nMCMORROW: Certainly. There's a responsibility for whoever we nominate as our next U.S. senator to recognize, we have to build and expand a big tent. My opponent made a decision to bring in Hasan shortly after there was an attack on a synagogue here in Michigan where a man drove a pickup truck into a synagogue where 140 preschoolers were at school that day. And had it not been for the security measures, the bollards in place, it could have been the largest mass killing of kids in this country's history. And to bring somebody in to represent your campaign, in my mind, is a very different decision than going on somebody's stream and talking to their audience.\n\nI believe in freedom of speech. People should be able to say and do whatever they want. But we have a very diverse population here in Michigan. We have the largest Arab American population in the country, alongside a very significant Jewish population. And we need to keep everybody together, not just to win, but to govern and to represent this state appropriately.\n\nCORNISH: I want to ask another question about maintaining support. Hearing reporting about you having very soft numbers with black voters. Hearing you have very low numbers overall. And the chatter is growing louder that you should drop out. That you are a spoiler candidate. Will you drop out?\n\nMCMORROW: The polling has been all over the place. Here's what I can tell you. We are being presented right now with what I believe is a false, binary choice. That either we have to accept the status quo in Haley Stevens, a member of Congress who's taken tens of thousands of dollars in corporate PAC donations, who hasn't done any public events. She's not meeting with people. She's not taking tough questions. Or --\n\nCORNISH: But she has been on debates and on the debate stage. So, people have been able to look at the three of you side by side. And right now, you're the one coming up short.\n\nMCMORROW: Certainly. I hear you. And on the other side, we've got a candidate who has never won a campaign before. In the last quarter, I outraised the congresswoman by $1 million with no corporate PAC donations. I've got more grassroots support than my opponents combined. We are out there every single day with our message that we don't have to accept an either or. That we can have both.\n\nI am the only candidate in the race who's won tough elections. I helped flip the entire state senate to Democrats for the first time in 40 years. And as majority whip, I've delivered on health care, housing, civil rights, voting rights. You name it, we've done it.\n\nCORNISH: Yes. Well, Mallory McMorrow, thank you for being here. I also want to let our viewers know, we've extended invitations to the other candidates running for Senate in that race.\n\nI want to turn to national politics for a moment. I made a joke last week that, like Obama lives rent free in Trump's head. And other people are asking this question as well, including Obama.\n\nBARACK OBAMA, FORMER U.S. PRESIDENT: I mean, the thing about it is, look, you got to ask him what it is that --\n\n[06:55:01] UNIDENTIFIED MALE: The obsession?\n\nOBAMA: The obsession.\n\nUNIDENTIFIED MALE: I know what it is.\n\nOBAMA: I, you know, what -- I, obviously, you know, have a room in his head.\n\nUNIDENTIFIED MALE: Rent free. You do everything with grace.\n\nOBAMA: A suite in his -- in his head.\n\nCORNISH: All right, so President Trump has spent a good amount of time dismantling the legacy of the Obama and Biden eras. That included ripping up the Iran nuclear deal. Then to today, the renovation of the Reflecting Pool, and repeated attempts to repeal the Affordable Care Act.\n\nIn a CNN analysis from his first term in 2019, we found President Trump mentioned Obama's name 537 times, an average of just under twice a day.\n\nI want to take this to the group chat.\n\nSince we were talking about Trump one era, I didn't know who -- who's counting. But --\n\nDUBKE: I don't know where those statistics come from.\n\nCORNISH: Yes, I'm sort of curious.\n\nDUBKE: Is -- that's Wikipedia or if that's something else, but --\n\nCORNISH: No, no, we did an analysis. So, someone spent time counting that.\n\nDUBKE: Oh, that's good.\n\nCORNISH: But I want to ask --\n\nDUBKE: I'm glad A.I. is useful for something.\n\nCORNISH: For someone.\n\nI think that we're in a time -- oh, Trump was elected in part to dismantle --\n\nCORNISH: Obama legacy. So, that part makes sense to me.\n\nDUBKE: And he directly followed Obama in Trump 1.0.\n\nDUBKE: And we need to remember that.\n\nCORNISH: So it's now where it's like, why are you still talking about this?\n\nDUBKE: I think it's timing. And what I -- Donald Trump works best, I think, when he has a foil. And his foil for years was Hillary Clinton or Joe Biden. And now, with the unveiling of the Obama library and all of the talk about JCPOA, given the situation we're in, in Iran, it is, I think, pretty clear that Obama is the topic of conversation and the new foil, because Hillary Clinton isn't much of a player anymore.\n\nCORNISH: Because there isn't another option?\n\nDUBKE: And Joe Biden --\n\nDUBKE: Exactly right.\n\nDUBKE: And so, I think this is less rent free --\n\nCORNISH: I feel like you should answer that, Meghan. Is there really no other option?\n\nHAYS: I mean, I think that option would be to just be a better president. I think he's just jealous that these things are --\n\nHAYS: The JCPOA is far significantly better than what we're getting now.\n\nDUBKE: We can argue about there was something about ballistic missiles in there.\n\nHAYS: OK, but let me -- let me finish in this.\n\nDUBKE: OK. I'm sorry, I brought policy into that.\n\nHAYS: But then the -- all the -- all the legacy building that he's trying to do. I mean it's just -- nobody is going to think of Donald Trump the same way they think of Barack Obama or even Hillary Clinton for that fact or Joe Biden. So, I just think that that's his whole shtick here. He wants to have this relevance in the American people's lives forever and he's not. He's not going to be on Post Offices. He's not going to be on schools. He's done horrible things to our country. And the majority of the people understand that. And he's trying to -- CORNISH: Well, it has been interesting to hear Obama come back on the scene using the library as a moment to do things. He hasn't really done that much, which is like comment on the Trump era in general.\n\nRODRIGUEZ: I mean, he's still certainly like -- former President Obama is still very strategic in the way he talks about it.\n\nRODRIGUEZ: And he, like, tries not to get too much into name dropping Trump directly and all of that. And I think he's clearly chosen his shots when he comes out onto the scene and is talking about politics and the Trump era.\n\nBut I think for Trump, I mean, it goes back to like, the president likes to play his greatest hits. He knows what worked on the campaign trail. He's thinking about the MAGA audience. He's thinking about the Republican base who likes to hear the slamming.\n\nCORNISH: But it feels like ever since that joke at that White House Correspondents Dinner by Obama at Trump's expense, I have watched this Donald Trump pretty much be obsessed with this.\n\nDUBKE: Well, see you basically -- with that belief, Barack Obama brought Donald Trump to America.\n\nHAYS: It's obsessed with (INAUDIBLE).\n\nCORNISH: The -- yes, to --\n\nDUBKE: If you follow your line of thinking on it.\n\nHAYS: So, that -- but that's -- but I'm like --\n\nDUBKE: Well, to the presidency, yes.\n\nHAYS: But Donald Trump was asking for his birth certificate.\n\nHAYS: I mean, like this is all -- it's just -- Donald Trump wants to be relevant and he wants to stay relevant, but he doesn't have the policies that are impacting the American people to stay relevant. Barack Obama did. And it's (INAUDIBLE).\n\nDUBKE: We're saying two very different things. I, you know, look, the president works well with a foil. Right now Barack Obama is the perfect foil in the spring, late, early summer of 2026.\n\nCORNISH: Yes. Well, there are new -- there are new foils coming up.\n\nDUBKE: Very new, yes.\n\nCORNISH: Like the young people who are voting.\n\nDUBKE: The young and the clueless are going to be a new foil.\n\nCORNISH: Being accused of being socialists.\n\nSabrina, I want to give you a chance to speak on this day. What is in your group chat?\n\nRODRIGUEZ: Hillary Duff.\n\nRODRIGUEZ: My girl is back. She's just --\n\nCORNISH: She is. She is -- no, she's living her best life.\n\nRODRIGUEZ: Her tour just started this week. I may or may not have bought tickets with my best friend to go and see her in August. But I just think it's like this moment of nostalgia that you see with her, like, coming out and she's playing her greatest hits.\n\nCORNISH: Is that elder millennial, millennial? I'm not trying to age you. I'm generally wondering.\n\nRODRIGUEZ: I'm like squarely mid millennial, I think.\n\nCORNISH: Got it. Got it.\n\nRODRIGUEZ: So, love her. Love Lizzie McGuire. Love the comeback.\n\nCORNISH: But also we're hearing all the gos, because she's like talking about her family relationships.\n\nRODRIGUEZ: Yes. All the ex's and the drama.\n\nCORNISH: She was in the toxic mom group chat.\n\nRODRIGUEZ: Very here for it.\n\nCORNISH: Which is not like this group chat. This is a healthy, friendly group chat where people come together and connect over the stories of the day.\n\nDUBKE: Of course (INAUDIBLE).\n\nCORNISH: I want to thank you for being with us. It's a quite serious news day as we're reporting on this earthquake in Venezuela.\n\nWe have more details coming up on that. We have reporters in neighboring Colombia and Bogota. We are hearing from the Red Cross, and we're hoping to hear from Delcy Rodriguez, the interim leader of Venezuela, where right now the death toll does continue to climb and even the number of injured is up.\n\nI'm Audie Cornish. The headlines are next.",
+  "segments": [
+    {
+      "seg": 2,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-25/segment/02",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nIFRC Spokesperson Tommaso Della Longa is Interviewed about the Earthquakes in Venezuela; Michigan State Senator Mallory McMorrow is Interviewed about Democratic Socialists Beating Moderates; Trump's Obsession with Obama. Aired 6:30-7a ET\n\nAired June 25, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nMIKE DUBKE, FORMER TRUMP WHITE HOUSE COMMUNICATIONS DIRECTOR: In right now.\n\nAUDIE CORNISH, CNN ANCHOR: OK.\n\nDUBKE: So, we're arguing over shades of blue.\n\nCORNISH: Now, counterpoint on recent history. There is a political graveyard of Republicans, moderate, Bush era, a certain kind of Republican who appeals to the middle. They live in the green rooms of cable news and not in the voting booth. That part of the party is toast because they ignored a movement like this. Because they let it metastasize until they had a candidate who represented it.\n\nCORNISH: So, this is the history I'm going back to, just 2014, 2016, 2018. And that's what I'm kind of asking here. How do you harness an energy instead of, honestly, shooting the tires out of your car trying to run it over?\n\nMEGHAN HAYS, FORMER BIDEN WHITE HOUSE DIRECTOR OF MESSAGE PLANNING: It's really hard. It's also hard for people to understand how government works and how you have to operate. Campaigning is a lot easier than actually governing.\n\nCORNISH: No, they do, they just don't like it.\n\nHAYS: That's fine, but that's -- but also Mamdani has also abandoned some of his policies that he was running on, the free grocery stores, the free busses. Some of these things that these people are running on in New York will never get passed in Congress because they're one --\n\nCORNISH: So has Trump, right?\n\nHAYS: Exactly. But that's exactly the point.\n\nCORNISH: But he is in office.\n\nHAYS: And you will be in office and they'll get nothing done. And you see now how we are getting nothing done. Governing is actually harder than campaigning.\n\nHAYS: And you have to be able to work together, and you have to be moderate, because that is what actually gets things passed. You have to be able to agree and compromise.\n\nCORNISH: And I am not a person who believes that the mayor of New York is a litmus test for all things, right? You can ask Bloomberg. You can ask Giuliani. It is not necessarily a path to the White House. Many have tried.\n\nBut it is a path to prominence and a kind of leadership role in the party. And as more and more specifically cities turn in this direction, I'm just trying to figure out how that's going to work, because the DNC has people who are not so exciting to listen to talk, and everyone's mad at them.\n\nSABRINA RODRIGUEZ, POLITICS REPORTER, \"THE WALL STREET JOURNAL\": Well, but I do think as we still see -- for -- I mean, of course, Republicans do not like Alexandria Ocasio-Cortez, and there's plenty of criticism of her and that, you know, her framed as being very extremist. But we've even seen it in her own political journey where she was elected in 2018. It was like, oh my God, this change coming to the party. And we've seen --\n\nCORNISH: Yes, protesting Pelosi's office. Yes.\n\nRODRIGUEZ: And we've seen it in many ways, the ways that she herself has moderated her own political ambitions, her own way of maneuvering in politics. Notably, she didn't endorse in these congressional races despite her having certain alignments with Mamdani and certain alignment with these candidates.\n\nCORNISH: And you pointed out even her connection with the Democratic Socialists of America.\n\nRODRIGUEZ: Yes. They rescinded their national endorsement of her over the way that she's handled the situation with Israel. And I think we see, you know, more and more, in this cycle, the person that she did an endorsement video for was Tish James, the attorney general of New York, who you'd consider to be more on the establishment side of the Democratic Party, a very popular establishment Democrat, but is not that DSA, is not that Democratic socialist candidate.\n\nSo, I think sometimes, even when you get into power, it moderates you in the process.\n\nHAYS: Because you realize you have to get things done.\n\nDUBKE: Well, you have to get things done. And then when you want more power and more national power, you have to moderate in order to appeal to more than just these very small --\n\nCORNISH: Is that what you learned in Trump one White House?\n\nDUBKE: Which part of what I just said?\n\nCORNISH: Moderating once you get in office. We literally just talked about the guy kicking a housing bill to the curb because he couldn't get his more extreme version of a voting rights bill. Like --\n\nDUBKE: We talked about kicking a housing bill to the curb that is going to --\n\nCORNISH: What's moderate about Trump now?\n\nDUBKE: That is going to pass anyway. He didn't kick --\n\nCORNISH: Not due to him.\n\nCORNISH: You're implying that once you start governing, you become more moderate.\n\nCORNISH: I'm arguing that the left --\n\nDUBKE: No, no, no, no, no. No.\n\nCORNISH: Looks at Trump and they don't see that.\n\nDUBKE: No, it absolutely --\n\nCORNISH: And they want one of their own.\n\nDUBKE: You've got me absolutely wrong.\n\nDUBKE: I'm making the argument that when you campaign on being an extremist on either the far left or the far right, but you want to gain in national prominence, you tend to moderate. I'm going back to the AOC example. That has nothing to do with governing. That has everything to do with what your national ambitions are. And that's what -- that was the point that I was trying to make.\n\nCORNISH: But did Trump moderate?\n\nDUBKE: Trump started at the top.\n\nCORNISH: So, he didn't have to? Help me understand.\n\nDUBKE: No, no, no. He --\n\nCORNISH: Did Trump moderate once he started governing?\n\nDUBKE: In many ways, yes. In many ways, a lot of what he has put forward has not become -- has not become law. A lot of the things that he talked about --\n\nCORNISH: Of his own volition or courts and other lawmakers?\n\nDUBKE: Well, both. Both.\n\nCORNISH: OK, we're going to come back to this.\n\nCORNISH: No, no, let me pause. We have actual -- an actual moderate who has to run in a race in Michigan. And we're going to ask them questions directly. Mike and I will have it out during the break.\n\nI want to turn to this because there is this very serious breaking news that is still happening. Back-to-back earthquakes in Venezuela. These are the largest in a century. And now there are some rescuers who are searching for survivors. So, we're going to be tracking that breaking news next.\n\nANNOUNCER: This is CNN breaking news.\n\nCORNISH: All right, we're continuing to follow this breaking news out of Venezuela. At this point, the death toll is climbing. Right now we know 164 people at least are dead. This is after two earthquakes. According to Venezuela's interim president, more than 900 reported injured. Rescues are still underway. So, after the duel earthquakes, one of the strongest in more than a century, crews are digging through the rubble, searching for survivors.\n\nUNIDENTIFIED FEMALE (through translator): I leaned out onto the balcony, screaming, we're trapped!\n\nWe need help! Please, someone come! We didn't realize there were two aftershocks back-to-back. We thought it had lasted a minute. Maybe a minute and a half. But it felt endless.\n\nCORNISH: Right now, we're talking to Tommaso Della Longa, IFRC spokesperson.\n\nThank you so much for being here, as this is all still unfolding.\n\nSo, we were learning that the first quake was a 7.2, the second a 7.5. Is there a threat of aftershocks still being discussed?\n\nTOMMASO DELLA LONGA, SPOKESPERSON, INTERNATIONAL FEDERATION OF THE RED CROSS: First of all, thanks a lot for having me today. Well, of course, aftershocks are always a risk. I would say that has\n\nalready happened after the two powerful earthquakes. They were several aftershocks. And of course, these can affect heavily both the search and rescue operation, but also the safety of people who are in the areas affected.\n\nCORNISH: What is the state of play for your organization right now in terms of supporting rescue efforts?\n\nLONGA: Yes, I mean, we are working through the IFRC delegation in Caracas and the Venezuelan Red Cross. Our teams are supporting search and rescue operations. But also through the network of hospitals, clinics and mobile clinics so that Venezuelan Red Cross, they're giving air support to the people in the areas affected.\n\nAnd we're looking at mental health, which is very important since the first moments after the earthquake and already looking at the next step. We know that priorities after the window of search and rescue will be shelter, but also water, food, all the essentials. And this is why the IFRC has already mobilized two million (INAUDIBLE), which is almost 2 million U.S. dollars, to support the local efforts who are leading the emergency response.\n\nCORNISH: We've been hearing earlier about how the infrastructure in and around these sections of Venezuela is older, and that it may not have been really earthquake ready or be able to deal with these shocks. What is the state of, say, hospitals or some of these areas that would be actually helping in a rescue situation?\n\nLONGA: Well, the situation is very -- is very complicated. I mean, we know even the Red Cross of (INAUDIBLE) has been affected and several others, public building, (INAUDIBLE) infrastructure. I mean, even looking at the airport of Caracas has been affected. So, from one side, we know that the country, of course, had several -- have had several challenges in the past. But on the other side, we also need to take into account that these two powerful earthquakes, most probably one of the power -- most powerful in the last century, would have heavily affected every country in the world.\n\nAnd now the real question is when we'll get a proper picture and a proper assessment in the next coming hours is how we'll be able, through the logistics, to bring the aid needed, not only in the capital, but also in the most remote areas that may be hard to reach, even for rubles in the streets, and issue to all the logistic infrastructure.\n\nCORNISH: Is this government prepared to do that? We know it's an interim government right now, as Maduro is facing charges in the U.S. We know that there is now a U.S. embassy and that there may be diplomatic support. Is Rodriguez and her government in a position to help?\n\nLONGA: Well, as Red Cross, we are not really entering in a -- in a political debate or in a judgment on authorities (ph). What I can tell you, though, is that the Venezuelan Red Cross, with the support of the IFRC, is supporting local and national authorities in all the efforts. The reality here is that we are looking at a team effort after such a massive devastation across the country, and everyone needs to do it's own -- it's own part.\n\nAnd our part is to support the authorities and all the other organizations to make sure that people who are at the moment under the rubble are saved. And we know by experience that the window is very short. But on the other side, also to put in safety, all the other people who are alive. And we are also looking at something that is not really a sprint. It will be like a marathon. And the -- so it needs and solidarity to the people in Venezuela will need to have the support of the international community for -- not only for the weeks, but the months to come.\n\nCORNISH: That's Tommaso Della Longa, spokesperson for the International Federation of the Red Cross.\n\nAnd stay with us. We'll be right back.\n\nUNIDENTIFIED MALE: Democrats want to win the majority against MAGA Republicans and Donald Trump. And that takes building unity across a diverse party.\n\nIt has to be built from listening to the lessons that voters are giving us. And to me, those lessons are pretty clear. And they're good Democratic messages.\n\nCORNISH: OK, establishment Democrats on notice after this week's socialist sweep. All three of Zohran Mamdani's backed Democratic socialist candidates won their primaries Tuesday night in New York. But does that mean socialists are going to maybe take over the way MAGA did on the right?\n\nWell, Letitia James, who split from Mamdani and backed a moderate, told CNN, quote, \"all of us are a little frustrated with the Democratic Party, but you don't blow it up. That's what MAGA has done.\"\n\nNow, New York's mayor is putting the focus back on issues.\n\nMAYOR ZOHRAN MAMDANI (D), NEW YORK CITY: What you will see, whether it's a vision on making health care more affordable and making housing more affordable, or on a vision as Nadia Alyssa (ph) often talks about, of investing in babies, not bombs, is the kind of conscience, the kind of clarity, the kind of conviction that has been missing in our politics for far too long. And I cannot wait to work with them on accomplishing that.\n\nCORNISH: Joining me now, Democratic Party Senate candidate in Michigan, State Senator Mallory McMorrow.\n\nWelcome to the program. Thank you for being here.\n\nI believe at least you consider yourself a moderate Democrat. We heard on the panel today Democratic socialists are not Democrats. Are you frustrated with this debate?\n\nMALLORY MCMORROW (D), MICHIGAN STATE SENATOR: Well, what's clear across the country is that voters are demanding change. The status quo is fundamentally broken. And in a state like Michigan, people simply don't think of themselves in lanes. We are a state where you don't have to register by party. We have open primaries. There are people here in Michigan who voted for Republican Governor Rick Snyder and Democratic Governor Gretchen Whitmer, who voted for Donald Trump and for Bernie Sanders.\n\nPeople want a fighter. Somebody who knows how to build real power, not just to fight with rhetoric, but deliver actual results. And that is what I'm offering to voters.\n\nCORNISH: There has been a lot of support on the left for Abdul El- Sayed. He's been endorsed by Hasan Piker, who has millions of followers on social media, mainly people under the age of 30. I mention this because he is a very controversial figure. And in March you compared him to white supremacist Nick Fuentes.\n\nNow, Piker spoke to Detroit Public Radio about that yesterday. I want you to take a listen and respond.\n\nHASAN PIKER, POLITICAL COMMENTATOR: There's so much diversity of choice in where people can get their news from. So, people can come to me directly and figure out what I'm actually about. So, that was one of the reasons why that smear campaign failed spectacularly.\n\nPeople started looking at Abdul's campaign, people started hearing what he was saying, and they liked it. And lo and behold, he was in third place before this smear campaign started. And now he's comfortably in first place.\n\nCORNISH: I want to give you a chance to respond to that.\n\nMCMORROW: Certainly. There's a responsibility for whoever we nominate as our next U.S. senator to recognize, we have to build and expand a big tent. My opponent made a decision to bring in Hasan shortly after there was an attack on a synagogue here in Michigan where a man drove a pickup truck into a synagogue where 140 preschoolers were at school that day. And had it not been for the security measures, the bollards in place, it could have been the largest mass killing of kids in this country's history. And to bring somebody in to represent your campaign, in my mind, is a very different decision than going on somebody's stream and talking to their audience.\n\nI believe in freedom of speech. People should be able to say and do whatever they want. But we have a very diverse population here in Michigan. We have the largest Arab American population in the country, alongside a very significant Jewish population. And we need to keep everybody together, not just to win, but to govern and to represent this state appropriately.\n\nCORNISH: I want to ask another question about maintaining support. Hearing reporting about you having very soft numbers with black voters. Hearing you have very low numbers overall. And the chatter is growing louder that you should drop out. That you are a spoiler candidate. Will you drop out?\n\nMCMORROW: The polling has been all over the place. Here's what I can tell you. We are being presented right now with what I believe is a false, binary choice. That either we have to accept the status quo in Haley Stevens, a member of Congress who's taken tens of thousands of dollars in corporate PAC donations, who hasn't done any public events. She's not meeting with people. She's not taking tough questions. Or --\n\nCORNISH: But she has been on debates and on the debate stage. So, people have been able to look at the three of you side by side. And right now, you're the one coming up short.\n\nMCMORROW: Certainly. I hear you. And on the other side, we've got a candidate who has never won a campaign before. In the last quarter, I outraised the congresswoman by $1 million with no corporate PAC donations. I've got more grassroots support than my opponents combined. We are out there every single day with our message that we don't have to accept an either or. That we can have both.\n\nI am the only candidate in the race who's won tough elections. I helped flip the entire state senate to Democrats for the first time in 40 years. And as majority whip, I've delivered on health care, housing, civil rights, voting rights. You name it, we've done it.\n\nCORNISH: Yes. Well, Mallory McMorrow, thank you for being here. I also want to let our viewers know, we've extended invitations to the other candidates running for Senate in that race.\n\nI want to turn to national politics for a moment. I made a joke last week that, like Obama lives rent free in Trump's head. And other people are asking this question as well, including Obama.\n\nBARACK OBAMA, FORMER U.S. PRESIDENT: I mean, the thing about it is, look, you got to ask him what it is that --\n\n[06:55:01] UNIDENTIFIED MALE: The obsession?\n\nOBAMA: The obsession.\n\nUNIDENTIFIED MALE: I know what it is.\n\nOBAMA: I, you know, what -- I, obviously, you know, have a room in his head.\n\nUNIDENTIFIED MALE: Rent free. You do everything with grace.\n\nOBAMA: A suite in his -- in his head.\n\nCORNISH: All right, so President Trump has spent a good amount of time dismantling the legacy of the Obama and Biden eras. That included ripping up the Iran nuclear deal. Then to today, the renovation of the Reflecting Pool, and repeated attempts to repeal the Affordable Care Act.\n\nIn a CNN analysis from his first term in 2019, we found President Trump mentioned Obama's name 537 times, an average of just under twice a day.\n\nI want to take this to the group chat.\n\nSince we were talking about Trump one era, I didn't know who -- who's counting. But --\n\nDUBKE: I don't know where those statistics come from.\n\nCORNISH: Yes, I'm sort of curious.\n\nDUBKE: Is -- that's Wikipedia or if that's something else, but --\n\nCORNISH: No, no, we did an analysis. So, someone spent time counting that.\n\nDUBKE: Oh, that's good.\n\nCORNISH: But I want to ask --\n\nDUBKE: I'm glad A.I. is useful for something.\n\nCORNISH: For someone.\n\nI think that we're in a time -- oh, Trump was elected in part to dismantle --\n\nCORNISH: Obama legacy. So, that part makes sense to me.\n\nDUBKE: And he directly followed Obama in Trump 1.0.\n\nDUBKE: And we need to remember that.\n\nCORNISH: So it's now where it's like, why are you still talking about this?\n\nDUBKE: I think it's timing. And what I -- Donald Trump works best, I think, when he has a foil. And his foil for years was Hillary Clinton or Joe Biden. And now, with the unveiling of the Obama library and all of the talk about JCPOA, given the situation we're in, in Iran, it is, I think, pretty clear that Obama is the topic of conversation and the new foil, because Hillary Clinton isn't much of a player anymore.\n\nCORNISH: Because there isn't another option?\n\nDUBKE: And Joe Biden --\n\nDUBKE: Exactly right.\n\nDUBKE: And so, I think this is less rent free --\n\nCORNISH: I feel like you should answer that, Meghan. Is there really no other option?\n\nHAYS: I mean, I think that option would be to just be a better president. I think he's just jealous that these things are --\n\nHAYS: The JCPOA is far significantly better than what we're getting now.\n\nDUBKE: We can argue about there was something about ballistic missiles in there.\n\nHAYS: OK, but let me -- let me finish in this.\n\nDUBKE: OK. I'm sorry, I brought policy into that.\n\nHAYS: But then the -- all the -- all the legacy building that he's trying to do. I mean it's just -- nobody is going to think of Donald Trump the same way they think of Barack Obama or even Hillary Clinton for that fact or Joe Biden. So, I just think that that's his whole shtick here. He wants to have this relevance in the American people's lives forever and he's not. He's not going to be on Post Offices. He's not going to be on schools. He's done horrible things to our country. And the majority of the people understand that. And he's trying to -- CORNISH: Well, it has been interesting to hear Obama come back on the scene using the library as a moment to do things. He hasn't really done that much, which is like comment on the Trump era in general.\n\nRODRIGUEZ: I mean, he's still certainly like -- former President Obama is still very strategic in the way he talks about it.\n\nRODRIGUEZ: And he, like, tries not to get too much into name dropping Trump directly and all of that. And I think he's clearly chosen his shots when he comes out onto the scene and is talking about politics and the Trump era.\n\nBut I think for Trump, I mean, it goes back to like, the president likes to play his greatest hits. He knows what worked on the campaign trail. He's thinking about the MAGA audience. He's thinking about the Republican base who likes to hear the slamming.\n\nCORNISH: But it feels like ever since that joke at that White House Correspondents Dinner by Obama at Trump's expense, I have watched this Donald Trump pretty much be obsessed with this.\n\nDUBKE: Well, see you basically -- with that belief, Barack Obama brought Donald Trump to America.\n\nHAYS: It's obsessed with (INAUDIBLE).\n\nCORNISH: The -- yes, to --\n\nDUBKE: If you follow your line of thinking on it.\n\nHAYS: So, that -- but that's -- but I'm like --\n\nDUBKE: Well, to the presidency, yes.\n\nHAYS: But Donald Trump was asking for his birth certificate.\n\nHAYS: I mean, like this is all -- it's just -- Donald Trump wants to be relevant and he wants to stay relevant, but he doesn't have the policies that are impacting the American people to stay relevant. Barack Obama did. And it's (INAUDIBLE).\n\nDUBKE: We're saying two very different things. I, you know, look, the president works well with a foil. Right now Barack Obama is the perfect foil in the spring, late, early summer of 2026.\n\nCORNISH: Yes. Well, there are new -- there are new foils coming up.\n\nDUBKE: Very new, yes.\n\nCORNISH: Like the young people who are voting.\n\nDUBKE: The young and the clueless are going to be a new foil.\n\nCORNISH: Being accused of being socialists.\n\nSabrina, I want to give you a chance to speak on this day. What is in your group chat?\n\nRODRIGUEZ: Hillary Duff.\n\nRODRIGUEZ: My girl is back. She's just --\n\nCORNISH: She is. She is -- no, she's living her best life.\n\nRODRIGUEZ: Her tour just started this week. I may or may not have bought tickets with my best friend to go and see her in August. But I just think it's like this moment of nostalgia that you see with her, like, coming out and she's playing her greatest hits.\n\nCORNISH: Is that elder millennial, millennial? I'm not trying to age you. I'm generally wondering.\n\nRODRIGUEZ: I'm like squarely mid millennial, I think.\n\nCORNISH: Got it. Got it.\n\nRODRIGUEZ: So, love her. Love Lizzie McGuire. Love the comeback.\n\nCORNISH: But also we're hearing all the gos, because she's like talking about her family relationships.\n\nRODRIGUEZ: Yes. All the ex's and the drama.\n\nCORNISH: She was in the toxic mom group chat.\n\nRODRIGUEZ: Very here for it.\n\nCORNISH: Which is not like this group chat. This is a healthy, friendly group chat where people come together and connect over the stories of the day.\n\nDUBKE: Of course (INAUDIBLE).\n\nCORNISH: I want to thank you for being with us. It's a quite serious news day as we're reporting on this earthquake in Venezuela.\n\nWe have more details coming up on that. We have reporters in neighboring Colombia and Bogota. We are hearing from the Red Cross, and we're hoping to hear from Delcy Rodriguez, the interim leader of Venezuela, where right now the death toll does continue to climb and even the number of injured is up.\n\nI'm Audie Cornish. The headlines are next."
+    }
+  ]
+}

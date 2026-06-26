@@ -1,0 +1,404 @@
+{
+  "date": "2026-06-25",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-25/segment/01",
+  "vocabulary": [
+    {
+      "word": "devastating",
+      "phonetic": "/ˈdevəsteɪtɪŋ/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "毁灭性的",
+      "en": "causing great damage or destruction",
+      "excerpt": "At least 32 people are dead and hundreds more injured after devastating back-to-back earthquakes there.",
+      "example_cn": "这场毁灭性的地震摧毁了整个城镇。"
+    },
+    {
+      "word": "epicenter",
+      "phonetic": "/ˈepɪsentər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "震中",
+      "en": "the point on the earth's surface directly above the focus of an earthquake",
+      "excerpt": "The epicenter of the quakes, located along the country's Northern coastal region.",
+      "example_cn": "地震的震中位于太平洋海底。"
+    },
+    {
+      "word": "triggered",
+      "phonetic": "/ˈtrɪɡərd/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "引发",
+      "en": "caused something to happen",
+      "excerpt": "The 7.2- and 7.5-magnitude earthquakes triggered evacuations more than 1,000 miles away.",
+      "example_cn": "他的言论引发了激烈的争论。"
+    },
+    {
+      "word": "evacuation",
+      "phonetic": "/ɪˌvækjuˈeɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "疏散",
+      "en": "the process of moving people from a dangerous place to a safe place",
+      "excerpt": "The 7.2- and 7.5-magnitude earthquakes triggered evacuations more than 1,000 miles away.",
+      "example_cn": "政府下令立即疏散沿海地区。"
+    },
+    {
+      "word": "state of emergency",
+      "phonetic": "/steɪt əv ɪˈmɜːrdʒənsi/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "紧急状态",
+      "en": "a situation in which a government gives itself special powers to deal with a crisis",
+      "excerpt": "Venezuela's president declaring a state of emergency.",
+      "example_cn": "洪水过后，政府宣布进入紧急状态。"
+    },
+    {
+      "word": "suspend",
+      "phonetic": "/səˈspend/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "暂停",
+      "en": "to officially stop something for a period of time",
+      "excerpt": "We have also suspended the metro and railway systems in order to facilitate both rescue operations and the recovery of vital infrastructure.",
+      "example_cn": "由于天气原因，航班被暂停。"
+    },
+    {
+      "word": "facilitate",
+      "phonetic": "/fəˈsɪlɪteɪt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "促进",
+      "en": "to make something easier or more likely to happen",
+      "excerpt": "We have also suspended the metro and railway systems in order to facilitate both rescue operations and the recovery of vital infrastructure.",
+      "example_cn": "新机场将促进该地区的旅游业发展。"
+    },
+    {
+      "word": "infrastructure",
+      "phonetic": "/ˈɪnfrəstrʌktʃər/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "基础设施",
+      "en": "the basic systems and services that a country or organization needs to function",
+      "excerpt": "We have also suspended the metro and railway systems in order to facilitate both rescue operations and the recovery of vital infrastructure.",
+      "example_cn": "政府正在投资改善基础设施。"
+    },
+    {
+      "word": "catastrophe",
+      "phonetic": "/kəˈtæstrəfi/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "灾难",
+      "en": "a sudden event that causes great damage or suffering",
+      "excerpt": "to present how the first responders and emergency services are coming up to terms with this catastrophe.",
+      "example_cn": "这场洪水是一场巨大的灾难。"
+    },
+    {
+      "word": "concentrated",
+      "phonetic": "/ˈkɑːnsəntreɪtɪd/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "集中的",
+      "en": "existing or happening in one particular area",
+      "excerpt": "most of the damages seem to be concentrated in the state of la Guaira.",
+      "example_cn": "大多数贫困人口集中在农村地区。"
+    },
+    {
+      "word": "sandwiched",
+      "phonetic": "/ˈsænwɪtʃt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "夹在中间",
+      "en": "to be squeezed between two things",
+      "excerpt": "That is North to the capital, Caracas, pretty much sandwiched between the coast and the city itself.",
+      "example_cn": "这个小村庄夹在两座山之间。"
+    },
+    {
+      "word": "aftershock",
+      "phonetic": "/ˈæftərʃɑːk/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "余震",
+      "en": "a small earthquake that follows a larger one",
+      "excerpt": "given the presence of aftershocks",
+      "example_cn": "主震后发生了多次余震。"
+    },
+    {
+      "word": "fragile",
+      "phonetic": "/ˈfrædʒl/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "脆弱的",
+      "en": "easily broken or damaged",
+      "excerpt": "the infrastructure of the buildings in Venezuela is so fragile as a consequence of the economic crisis",
+      "example_cn": "这个国家的经济仍然很脆弱。"
+    },
+    {
+      "word": "renovation",
+      "phonetic": "/ˌrenəˈveɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "翻新",
+      "en": "the process of repairing and improving a building",
+      "excerpt": "there has been close to little renovation on most of the buildings",
+      "example_cn": "这栋建筑需要彻底翻新。"
+    },
+    {
+      "word": "solidarity",
+      "phonetic": "/ˌsɑːlɪˈdærəti/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "团结",
+      "en": "support and agreement among people in a group",
+      "excerpt": "several countries in the region have expressed their solidarity",
+      "example_cn": "工人们表示团结一致。"
+    },
+    {
+      "word": "bipartisan",
+      "phonetic": "/ˌbaɪpɑːrtɪˈzæn/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "两党的",
+      "en": "involving two political parties",
+      "excerpt": "Congress finally passed a bipartisan housing bill.",
+      "example_cn": "该法案得到了两党的支持。"
+    },
+    {
+      "word": "devolve",
+      "phonetic": "/dɪˈvɑːlv/",
+      "pos": "v.",
+      "level": "专八",
+      "cn": "恶化",
+      "en": "to gradually become worse or less",
+      "excerpt": "Trump's GOP Luncheon Devolves into Shouting Match",
+      "example_cn": "讨论演变成了争吵。"
+    },
+    {
+      "word": "tantrum",
+      "phonetic": "/ˈtæntrəm/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "发脾气",
+      "en": "a sudden short period of angry behavior",
+      "excerpt": "Republicans described the president as, quote, \"having an 'F'-ing tantrum.\"",
+      "example_cn": "孩子开始发脾气。"
+    },
+    {
+      "word": "venting",
+      "phonetic": "/ˈventɪŋ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "发泄",
+      "en": "the expression of strong emotions",
+      "excerpt": "The meeting, as they quote, \"venting session,\"",
+      "example_cn": "他需要发泄一下自己的挫败感。"
+    },
+    {
+      "word": "unified",
+      "phonetic": "/ˈjuːnɪfaɪd/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "统一的",
+      "en": "joined together to form a single unit",
+      "excerpt": "we have a really well unified party.",
+      "example_cn": "他们提出了统一的战略。"
+    },
+    {
+      "word": "preach",
+      "phonetic": "/priːtʃ/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "宣扬",
+      "en": "to give a speech about religious or moral subjects, or to strongly recommend something",
+      "excerpt": "The president closed by preaching unity",
+      "example_cn": "他宣扬和平与宽容。"
+    },
+    {
+      "word": "pocket veto",
+      "phonetic": "/ˈpɑːkɪt ˈviːtoʊ/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "口袋否决",
+      "en": "a way for a president to veto a bill by not signing it within a certain time",
+      "excerpt": "Unless he takes certain action, and it becomes a pocket veto.",
+      "example_cn": "总统可能会使用口袋否决。"
+    },
+    {
+      "word": "disgraceful",
+      "phonetic": "/dɪsˈɡreɪsfl/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "可耻的",
+      "en": "very bad and unacceptable",
+      "excerpt": "And it's kind of disgraceful",
+      "example_cn": "他的行为是可耻的。"
+    },
+    {
+      "word": "affordability",
+      "phonetic": "/əˌfɔːrdəˈbɪləti/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "可负担性",
+      "en": "the quality of being cheap enough for people to buy",
+      "excerpt": "All we talk about constantly is working on affordability",
+      "example_cn": "住房可负担性是一个主要问题。"
+    },
+    {
+      "word": "slap in the face",
+      "phonetic": "/slæp ɪn ðə feɪs/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "侮辱",
+      "en": "an insult or a disappointment",
+      "excerpt": "it just seems like a big slap in the face to the American people.",
+      "example_cn": "他的拒绝是对她的一种侮辱。"
+    },
+    {
+      "word": "shortsighted",
+      "phonetic": "/ˌʃɔːrtˈsaɪtɪd/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "目光短浅的",
+      "en": "not considering the future effects of something",
+      "excerpt": "It is very shortsighted of him.",
+      "example_cn": "这是一个目光短浅的决定。"
+    },
+    {
+      "word": "grandstand",
+      "phonetic": "/ˈɡrændstænd/",
+      "pos": "v.",
+      "level": "专八",
+      "cn": "哗众取宠",
+      "en": "to behave in a way that attracts attention",
+      "excerpt": "you can say, take a stand or grandstand to show they're acting on the president's agenda.",
+      "example_cn": "他只是在哗众取宠。"
+    },
+    {
+      "word": "veto-proof",
+      "phonetic": "/ˈviːtoʊ pruːf/",
+      "pos": "adj.",
+      "level": "专八",
+      "cn": "无法否决的",
+      "en": "having enough votes to override a veto",
+      "excerpt": "It had veto-proof majorities.",
+      "example_cn": "该法案拥有无法否决的多数支持。"
+    },
+    {
+      "word": "populist",
+      "phonetic": "/ˈpɑːpjəlɪst/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "民粹主义的",
+      "en": "relating to a political approach that appeals to ordinary people",
+      "excerpt": "President Trump himself capitalized on in campaigning in 2024 and throughout his political rise has been sort of this populist movement.",
+      "example_cn": "民粹主义运动正在兴起。"
+    },
+    {
+      "word": "horseshoe",
+      "phonetic": "/ˈhɔːrʃuː/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "马蹄铁",
+      "en": "a U-shaped piece of metal attached to a horse's foot",
+      "excerpt": "it's like a weird horseshoe.",
+      "example_cn": "政治光谱有时像马蹄铁一样弯曲。"
+    },
+    {
+      "word": "amplify",
+      "phonetic": "/ˈæmplɪfaɪ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "放大",
+      "en": "to increase the strength of something, especially sound",
+      "excerpt": "The media then amplifies it.",
+      "example_cn": "媒体放大了这一事件。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "The epicenter of the quakes, located along the country's Northern coastal region, has caused widespread damage, collapsed buildings, and sent terrified residents into the streets.",
+      "cn": "地震的震中位于该国北部沿海地区，造成了广泛的破坏、建筑物倒塌，并迫使惊恐的居民涌上街头。",
+      "structure": "主语（The epicenter）+ 定语（located...）+ 谓语（has caused）+ 并列宾语（damage, buildings, residents）",
+      "analysis": "本句主语为The epicenter，后接过去分词短语located along...作定语，谓语has caused后接三个并列宾语：widespread damage, collapsed buildings, and sent terrified residents into the streets。其中sent...into the streets为动词短语，表示‘迫使…上街’。"
+    },
+    {
+      "en": "We have also suspended the metro and railway systems in order to facilitate both rescue operations and the recovery of vital infrastructure.",
+      "cn": "我们还暂停了地铁和铁路系统，以便于救援行动和重要基础设施的恢复。",
+      "structure": "主语（We）+ 谓语（have suspended）+ 宾语（the metro and railway systems）+ 目的状语（in order to facilitate...）",
+      "analysis": "本句为主谓宾结构，in order to引导目的状语，facilitate后接both...and...连接的并列宾语。"
+    },
+    {
+      "en": "And that is where Delcy Rodriguez told us last night that dozens of buildings have collapsed in these two separate earthquakes, one within 40 seconds of the other, that both hit the Northern coast of Venezuela with a dramatic effect.",
+      "cn": "这就是德尔西·罗德里格斯昨晚告诉我们的地方：数十座建筑在这两次独立的地震中倒塌，两次地震相隔不到40秒，都猛烈袭击了委内瑞拉北部海岸。",
+      "structure": "主句（And that is where...）+ 宾语从句（that dozens...）+ 同位语（one within...）+ 定语从句（that both hit...）",
+      "analysis": "本句结构复杂。主句为And that is where...，where引导表语从句。在该从句中，told us后接that引导的宾语从句。宾语从句中，one within 40 seconds of the other为同位语，补充说明two separate earthquakes。最后that both hit...为定语从句，修饰earthquakes。"
+    },
+    {
+      "en": "We are here in the Andes, up in the Colombian capital, about 800 miles from Caracas itself, and we felt it here in Bogota.",
+      "cn": "我们现在在安第斯山脉，哥伦比亚首都，距离加拉加斯约800英里，我们在波哥大也感觉到了震动。",
+      "structure": "并列句：主语（We）+ 系动词（are）+ 表语（here...）+ 并列连词（and）+ 主语（we）+ 谓语（felt）+ 宾语（it）+ 状语（here in Bogota）",
+      "analysis": "本句为并列句，由and连接两个分句。第一个分句为We are here...，其中up in the Colombian capital和about 800 miles from Caracas itself为地点状语。第二个分句为we felt it here in Bogota。"
+    },
+    {
+      "en": "Most of Caracas was built in the 1950s and '60s, and pretty much for the last 20 years, there has been close to little renovation on most of the buildings, be that hospitals, be that basic infrastructure, houses, buildings highway or even bridges.",
+      "cn": "加拉加斯的大部分建筑建于20世纪50年代和60年代，而在过去20年里，大多数建筑几乎没有翻新，无论是医院、基本基础设施、房屋、建筑、高速公路甚至桥梁。",
+      "structure": "并列句：主语（Most of Caracas）+ 谓语（was built）+ 时间状语（in the 1950s and '60s）+ 并列连词（and）+ there be句型（there has been...）+ 让步状语（be that...）",
+      "analysis": "本句为并列句。第一个分句为被动语态。第二个分句为there be句型，close to little表示‘几乎没有’。be that...为让步状语从句的省略形式，相当于whether it be...，表示‘无论是…’。"
+    },
+    {
+      "en": "I think that most countries here have made themselves available, I was able to speak with both representatives of the U.S. embassy in Caracas, which, by the way, was open only a couple of months ago because of this fragile diplomatic relationship between the two countries, but also here with first responders in Colombia, who have said that they have teams ready to activate as quickly as Caracas makes that diplomatic call, calling for other countries to come to help.",
+      "cn": "我认为这里的大多数国家都已经表示愿意提供帮助。我能够与加拉加斯的美国大使馆代表交谈，顺便说一句，由于两国之间脆弱的外交关系，该大使馆仅在几个月前才开放，同时我也与哥伦比亚的急救人员进行了交谈，他们表示，一旦加拉加斯发出外交呼吁，请求其他国家提供帮助，他们就会立即启动救援队。",
+      "structure": "主句（I think that...）+ 并列谓语（I was able to speak with...but also...）+ 定语从句（which...）+ 定语从句（who...）+ 时间状语从句（as quickly as...）",
+      "analysis": "本句为复合句。主句为I think that...，that引导宾语从句。主句后为并列谓语I was able to speak with...but also...。第一个宾语中，which引导非限制性定语从句修饰the U.S. embassy。第二个宾语中，who引导定语从句修饰first responders，其中包含as quickly as引导的时间状语从句。"
+    },
+    {
+      "en": "The president closed by preaching unity, but he spent the prior hour talking about things which were not exactly unifying.",
+      "cn": "总统以宣扬团结结束，但他之前的一个小时却在谈论一些并不完全团结的事情。",
+      "structure": "并列句：主语（The president）+ 谓语（closed）+ 方式状语（by preaching unity）+ 并列连词（but）+ 主语（he）+ 谓语（spent）+ 宾语（the prior hour）+ 宾语补足语（talking about things）+ 定语从句（which were...）",
+      "analysis": "本句为并列句，由but连接两个分句。第一个分句为简单句。第二个分句中，spend time doing sth.为固定搭配，which引导定语从句修饰things。"
+    },
+    {
+      "en": "And I think that's where you see his frustration coming out into the public.",
+      "cn": "我认为这就是你看到他的沮丧情绪公开化的地方。",
+      "structure": "主句（I think）+ 宾语从句（that's where...）",
+      "analysis": "本句为主从复合句。I think后省略了that，宾语从句为that's where...，其中where引导表语从句，see his frustration coming out为see sb. doing结构。"
+    },
+    {
+      "en": "What he's jeopardizing is that feel-good moment where you have bipartisanship in D.C.",
+      "cn": "他危及的是那种在华盛顿出现两党合作的美好时刻。",
+      "structure": "主语从句（What he's jeopardizing）+ 系动词（is）+ 表语（that feel-good moment）+ 定语从句（where you have...）",
+      "analysis": "本句为主系表结构。主语由what引导的主语从句充当，表语为that feel-good moment，后接where引导的定语从句修饰moment。"
+    },
+    {
+      "en": "And when a small group -- what does that say, 7 percent of mostly white and under 30 voters came out in New York City? When you've got a small vocal group in a one-party state like Manhattan, you see this.",
+      "cn": "当一个小群体——那意味着什么，7%主要是白人和30岁以下的选民在纽约市投票？当你在像曼哈顿这样的一党制州有一个声音响亮的小群体时，你就会看到这种情况。",
+      "structure": "时间状语从句（When...）+ 插入语（what does that say...）+ 主句（you see this）",
+      "analysis": "本句结构松散，包含插入语。第一个When引导时间状语从句，其中插入what does that say...进行解释。第二个When引导另一个时间状语从句，主句为you see this。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "Venezuela Earthquakes",
+      "content": "2026年6月24日，委内瑞拉北部沿海地区发生两次强烈地震（7.2级和7.5级），造成至少32人死亡，数百人受伤，预计死亡人数还会上升。震中位于拉瓜伊拉州，首都加拉加斯以北。地震导致建筑物倒塌、机场受损、基础设施破坏，并引发远至巴西亚马逊地区的疏散。委内瑞拉临时总统德尔西·罗德里格斯宣布进入紧急状态，暂停地铁和铁路系统，并取消本周剩余课程。国际社会表示愿意提供援助，但加拉加斯机场受损，救援物资的接收面临挑战。美国与委内瑞拉关系脆弱，美国大使馆数月前才重新开放。",
+      "keywords": "Venezuela, earthquake, rescue, state of emergency, Delcy Rodriguez, Caracas, infrastructure"
+    },
+    {
+      "title": "Trump's GOP Luncheon Chaos",
+      "content": "2026年6月24日，美国总统特朗普与参议院共和党人的午餐会演变成激烈争吵。特朗普因参议员比尔·卡西迪（Bill Cassidy）此前投票支持限制总统对伊朗动武的决议而对其发难，双方发生口角。特朗普随后威胁不签署两党住房法案，并离开会议。共和党人形容特朗普“大发雷霆”，会议成为“发泄会”。尽管特朗普声称党内团结，但多位共和党参议员公开表示不满。此次冲突凸显了特朗普与国会共和党人之间的裂痕，尤其是在他帮助初选击败一些共和党议员之后。",
+      "keywords": "Trump, GOP, Senate, Bill Cassidy, shouting match, housing bill, Iran war powers"
+    },
+    {
+      "title": "AOC and Democratic Socialism",
+      "content": "纽约市市长佐兰·马姆达尼（Zohran Mamdani）在2026年6月的初选中成功支持三位进步派候选人，引发关于民主社会主义在民主党内部影响力的讨论。马姆达尼被视为2028年总统选举的潜在候选人，而亚历山大·奥卡西奥-科尔特斯（AOC）也被认为是可能的民主社会主义总统候选人。讨论指出，民粹主义和反建制情绪正在上升，年轻选民对现状不满，这为民主社会主义者提供了机会。然而，也有观点认为民主社会主义者并非真正的民主党人，其影响力被媒体放大。",
+      "keywords": "AOC, Democratic Socialism, Zohran Mamdani, 2028 election, progressive, populism"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nRescues Underway after Deadly Earthquakes in Venezuela; Trump's GOP Luncheon Devolves into Shouting Match; Could AOC Be Democratic Socialist Candidate for President? Aired 6-6:30a ET\n\nAired June 25, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nANNOUNCER: This is CNN breaking news\n\nAUDIE CORNISH, CNN ANCHOR: Good morning, everybody. I'm Audie Cornish. I want to start with this breaking news in Venezuela.\n\nAt least 32 people are dead and hundreds more injured after devastating back-to-back earthquakes there. Rescue efforts now underway. And those numbers are expected to climb into the thousands.\n\nThe epicenter of the quakes, located along the country's Northern coastal region. It's caused widespread damage, collapsed buildings, and sent terrified residents into the streets.\n\nThe 7.2- and 7.5-magnitude earthquakes triggered evacuations more than 1,000 miles away in Brazil's Amazon.\n\nNow Venezuela's main airport suffered major damage, with a section of the terminal roof reportedly collapsing. Venezuela's president declaring a state of emergency.\n\nDELCY RODRIGUEZ, VENEZUELAN PRESIDENT (through translator): We have also suspended the metro and railway systems in order to facilitate both rescue operations and the recovery of vital infrastructure.\n\nI want to announce that there will be no classes for the remaining days of this week. There will also be a suspension of activities that are not considered essential services.\n\nCORNISH: To give us the latest developments here we have CNN's Stefano Pozzebon. He's in Bogota. What are you learning this morning?\n\nSTEFANO POZZEBON, CNN INTERNATIONAL CORRESPONDENT: We're learning only that the president, the interim president of Venezuela, Delcy Rodriguez, which you just heard in that sound from late last night, Audie, will be speaking to the nation. She will be speaking to the nation momentarily in a few minutes, we were told from the presidential palace, to update the death toll and of course, to present how the first responders and emergency services are coming up to terms with this catastrophe.\n\nLike you said, we are expecting that death toll, which late last night at around 11 p.m. was here in Bogota, so midnight in Venezuela, the death toll was set at 32. But unfortunately, we do believe that that -- that number will be growing and rising in the coming hours.\n\nIn particular, most of the damages seem to be concentrated in the state of la Guaira. That is North to the capital, Caracas, pretty much sandwiched between the coast and the city itself. And that is where Delcy Rodriguez told us last night that dozens of buildings have-- have collapsed in these two separate earthquakes, one within 40 seconds of the other, that both hit the Northern coast of Venezuela with a dramatic effect.\n\nAnd you mentioned the Brazilian Amazon. We are here in the Andes, up in the Colombian capital, about 800 miles from Caracas itself. And we felt it here in Bogota. We felt it strong. So, we can only imagine how badly it was felt down in the -- in the Venezuelan capital, where hundreds, if not thousands of people have slept or spent the night roughly on the street, because the authorities have made a plea not to go back into their homes, given the presence of aftershocks, and because the infrastructure of the buildings in Venezuela is so fragile as a consequence of the economic crisis that have been hit in that country for the last 10 to 15 years.\n\nYesterday, for example, our team in Caracas was able to speak with the son of Nicolas Maduro, Nicolas Maduro being, of course, the former authoritarian president who had been -- has been removed from office by the United States in January. Well, his son, who is also called Nicolas Maduro Jr., he told us, for example, that one of the main worries is that the buildings are not prepared to sustain an earthquake.\n\nMost of Caracas was built in the 1950s and '60s, and pretty much for the last 20 years, there has been close to little renovation on most of the buildings, be that hospitals, be that basic infrastructure, houses, buildings highway or even bridges. And so that's why he was so concerned that -- that the aftershocks could be even more damaging than those two previous earthquakes that, by the way, hit at 6 p.m. in the afternoon on a public holiday.\n\nYesterday was a public holiday in Venezuela. A lot of people were either at home or out in the street. And this is also another factor of concern.\n\nWe're waiting to hear more, Audie, from the Venezuelan authorities. Hopefully, we will hear from Delcy Rodriguez, the interim president of Venezuela, in the upcoming hour, and we will bring it to you as quickly as we can.\n\nCORNISH: I want to ask you one or two more questions. One: you're feeling it all the way in Colombia. Is -- are there regional rescue supplies headed to Venezuela? And the second question is the U.S. Obviously, it's an interim\n\ngovernment. You mentioned the Maduro family. Is there any word yet about what support may be headed to Venezuela now?\n\nPOZZEBON: I think that most countries here have made themselves available. I was able to speak with both representatives of the U.S. embassy in Caracas, which, by the way, was open only a couple of months ago because of this fragile diplomatic relationship between the two countries, but also here with first responders in Colombia, who have said that they have teams ready to activate as quickly as Caracas makes that diplomatic call, calling for other countries to come to help.\n\nYesterday, Delcy Rodriguez told us, for example, that several countries in the region have expressed their solidarity and have prepared aid in terms of both first responders and emergency services, but also just like material aid. We need to bring in medicines. We need to bring plasters, emergency kits, water supplies, or generators.\n\nThe big, big challenge, however, Audie, is the airport. Right now, Caracas Airport is not working. It's not functioning. The runway has been damaged by the earthquake. So, they will need to get that running before being able to receive aid from abroad.\n\nHowever, the region is showing a network of solidarity, and hopefully, in the coming hours and days, you will see, that aid coming -- coming in, streaming in into Venezuela, including from the United States.\n\nCORNISH: OK. That's Stefano Pozzebon, speaking to us from neighboring Colombia as we follow up on those back-to-back earthquakes that have struck Venezuela this morning.\n\nAlso happening today, Delcy Rodriguez, the interim head of Venezuela, is set to speak and brief people on the latest.\n\nHere in the U.S., I want to turn to Congress. The president hit pause on a major piece of legislation.\n\nSEN. ELIZABETH WARREN (D-MA): Americans are paying more for groceries, more for healthcare, more for electricity, more for housing. And this was at least one chance to push back against that.\n\nCORNISH: Congress finally passed a bipartisan housing bill. So, why is it stuck at the finish line?\n\nAnd in the words of Mariah Carey, \"Why are you so obsessed with me?\" That's the question former President Obama wants to ask of President Trump.\n\n[06:12:36] (BEGIN VIDEO CLIP)\n\nSEN. BILL CASSIDY (R-LA): I felt like I was trying to get answers for the American people. And I'm not going to be bullied when I'm trying to get answers for the American people. And so -- so it escalated from there.\n\nCORNISH: Yes, to name calling and yelling. This all happened at a closed-door meeting between the president and Senate Republicans. It was a full-on screaming match.\n\nSo, is he pushing his party further away? There's a deepening divide in the Republican Party. President Trump's Republican luncheon turns into chaos because he went toe-to-toe with one of the senators he helped oust, Bill Cassidy.\n\nNow, the day before the Louisiana senator had actually voted with Democrats to limit Trump's war powers in Iran.\n\nCASSIDY: The president was wondering why people would vote for the War Powers Act. I asked him if that would be a rhetorical question or a real question. He said real. And so, to begin to speak. The president didn't want to hear my question; interrupted me. I didn't care to be interrupted.\n\nCORNISH: Republicans described the president as, quote, \"having an 'F'-ing tantrum.\" The meeting, as they quote, \"venting session,\" and Majority Leader John Thune telling CNN it was more of a, quote, \"one- sided conversation.\"\n\nBut there are always two sides to the story.\n\nDONALD TRUMP, U.S. PRESIDENT: I think we had a really great meeting, and we're very proud of the party. We like our leader. We like everybody, really, in the room. I don't like a few people, but that's OK. I think you know who they are.\n\nBut for the most part, we have a really well unified party.\n\nCORNISH: OK, so that word stuck out to the other Republican senator Trump helped oust earlier this year: John Cornyn.\n\nSEN. JOHN CORNYN (R-TX): The president closed by preaching unity, but he spent the prior hour talking about things which were not exactly unifying.\n\nCORNISH: OK. So, today in the group chat, Sabrina Rodriguez, politics reporter at \"The Wall Street Journal\"; Mike Dubke, former Trump White House communications director; Meghan Hays, former Biden White House director of message planning.\n\nSo, I'm interested in this for two reasons. He didn't just yell. He walked out and said, \"Look, I'm not signing this bipartisan bill you're so excited to talk about: a housing bill.\"\n\nHere's Lisa Murkowski walking out the door, and she kind of gives us the lay of the land.\n\nSEN. LISA MURKOWSKI (R-AK): If he chooses to hold up his own agenda, because he wants action on the SAVE Act, that's, I guess, his call.\n\nIt is not helpful to him. It's not helpful to the country. And it's not moving the needle. If you don't have the votes, sir, you don't have the votes.\n\nCORNISH: Notice, she's strolling. She's enjoying the sun. She's like, you do what you want to do. I'm going to let you cook, because you don't have the votes for either your election nearing, bill, right? Or your war powers resolution keeps nudging further away from you. She just looks unbothered.\n\nSABRINA RODRIGUEZ, POLITICS REPORTER, \"THE WALL STREET JOURNAL\": Audie, I feel like we're just in such a different moment now with Trump's relationship with the Hill.\n\nI think for the last year, if you go -- if we just think of, like, a year ago, what we've been talking -- or just a few months ago, we'd be talking about how, you know, Republicans on the Hill really fall in line for what the president wants; how they haven't really pushed back on his administration.\n\nAnd now, we're seeing people step away from him. And I think that's where you see his frustration.\n\nCORNISH: But only the people who have been wounded, right?\n\nRODRIGUEZ: No question.\n\nCORNISH: I mean, \"The Wall Street Journal\" called them the Wounded Bear Caucus.\n\nRODRIGUEZ: But I think --\n\nCORNISH: It feels like they're not going to fall in line.\n\nRODRIGUEZ: But it's enough to stop things from passing.\n\nCORNISH: There we go.\n\nRODRIGUEZ: And that's where you see his frustration coming out into the public.\n\nAnd you see people being more willing to say what's happening in a private meeting and be more open to saying, No, we don't agree with him.\n\nAnd clearly, there's a frustration, because as much as he talks about the SAVE America Act, it's not getting through, because the votes are not there.\n\nCORNISH: I want to add that the yelling did work on some people. Trump went to Truth Social to say, \"Wow!\" exclamation point. \"The Senate just changed its vote on Iran from 50-to-48 against to 50-47 for. Rand Paul and Bill Cassidy changed.\"\n\nAnd then he says, \"Thanks to leader John Thune,\" et cetera. \"This vote puts Iran on notice.\"\n\nHe -- this was one of many things he wanted. And he got it. So, what do you think of that?\n\nMIKE DUBKE, FORMER TRUMP WHITE HOUSE COMMUNICATIONS DIRECTOR: I don't think anyone paid any attention to that vote at the end of the day.\n\nI think what we're focused on -- and I think what everybody else is focused on -- is exactly what happened right prior to the -- to the lunch, which was the cancellation of the signing, the lunch, the argument. I talked to some senators who walked out and said, \"bizarre\" was the word that -- that they used for that.\n\nCORNISH: They said bizarre.\n\nCORNISH: Even by Trump measures?\n\nDUBKE: Yes. Even by Trump measures. And I think what you're seeing here -- and this is really a difference in timing. And I think you're exactly right in this, that when the Republicans were lining up, it was prior to filing deadlines. It was prior to primaries. Now we're post that.\n\nWe have a shock within that caucus of the endorsements against -- not necessarily against Cassidy. That kind -- that one was -- was a bit telegraphed.\n\nCORNISH: Yes, but Cornyn.\n\nDUBKE: The one against Cornyn was not.\n\nAnd so, the president has taken, you know, short-term gain for what is long-term pain, I think, for the rest of the year.\n\nAnd what is shortsighted about this, at least to me, is that at the end of the day, the second half of this Trump 2.0 is going to be very, very difficult. If you do not have the House, and especially if you do not have the Senate, because you need the Senate in order to get your cabinet secretaries and everybody else approved.\n\nCORNISH: Yes. It'll be more difficult for people who --\n\nDUBKE: And judges and everything else.\n\nCORNISH: -- don't have a house, and maybe were happy to see a housing bill finally pass.\n\nI should say caveat on the rules. According to the law, if he doesn't sign it after X amount of days, it becomes law.\n\nCORNISH: Unless he takes certain action, and it becomes a pocket veto. So, I don't know if he's going to go that route, but it does seem like he wanted to rob them of that moment.\n\nMEGHAN HAYS, FORMER BIDEN WHITE HOUSE DIRECTOR OF MESSAGE PLANNING: Yes, absolutely. And it's kind of disgraceful, because this is one thing that is bipartisan. We get nothing in Washington that's bipartisan. It's actually something that would help the American people.\n\nAll we talk about constantly is working on affordability, working on the cost of housing and groceries and gas. This actually was going to help the American people and do that. And it was in a bipartisan fashion.\n\nSo, it just seems like a big slap in the face to the American people.\n\nCORNISH: Well, I guess I'm asking, is it a slap in his own face? Do you know what I mean? Like, is it cutting off your nose --\n\nHAYS: Well, for Trump --\n\nCORNISH: -- to spite your face?\n\nCORNISH: But for no reason. Because --\n\nCORNISH: All your voters are asking are \"America first.\" That's what they're saying over and over again. This had a clause about private equity, which on the right very much is an issue. And yet, it was worth it just to stick it to the Senate.\n\nHAYS: But it also, it's a slap in the face to the House members and these people who are running. This is a terrible thing for them when they are going up for reelection. These are going to be in campaign ads. It's -- it's a terrible -- Trump is -- It is very shortsighted of him. He is not thinking of his people now.\n\nCORNISH: It could, unless you plan to hold on, unless you plan to -- hold on -- unless you plan to spend your time talking about the SAVE Act, which does have a lot of purchase on the sort of X and Twitter- led right.\n\nI want to play one last quote for you on the way out. Representative Anna Paulina Luna, Republican of Florida, talking about what she's willing to do to try and get this thing that Sabrina has said, and John Thune has said, many people have said does not have the votes, to the floor.\n\nREP. ANNA PAULINA LUNA (R-FL): I'm going to hold them accountable. I'm totally fine with keeping it shut down as long as possible until they can get off their butts, go vote, do what you need to do. But they don't get to stipulate to the House what the deal is.\n\nMANU RAJU, CNN CHIEF CONGRESSIONAL CORRESPONDENT: Because they're saying they don't have the votes. I mean, you may --\n\nLUNA: Well, the votes aren't there to reopen the floor.\n\nCORNISH: So, there's a lot still to do. And there are now people willing to, as you know, you can say, take a stand or grandstand to show they're acting on the president's agenda.\n\nDUBKE: I mean, let's -- let's look at what -- just briefly here, what's happened?\n\nThis -- this non-veto, non-signing, whatever, this bill is going to become law. It had veto-proof majorities. Even if he pocket vetoes this, this thing is going to become law, because they'll vote to -- to overturn. So, he's really not jeopardizing anything.\n\nWhat he's jeopardizing is that feel-good moment where you have bipartisanship in D.C.\n\nHAYS: The optics and the pictures.\n\nDUBKE: And from a communications standpoint, I would have argued this is what the caucus, the conference, Republicans need going into the midterms.\n\nDUBKE: So, absolutely on that. DNA and Pulte last week, that is another situation. But he's getting rid of who he wanted.\n\nSo, he's playing a different game than they're playing. But this is -- this is causing chaos in Washington.\n\nCORNISH: All right. After the break this morning, just want to let you know, we are continuing to monitor the breaking news out of Venezuela. President Trump being updated on those earthquakes this morning.\n\nPlus, could Alexandria Ocasio-Cortez be the Democratic socialist candidate in the 2028 race for the White House?\n\nCORNISH: OK. We want to talk about New York City's new political kingmaker. Mayor Zohran Mamdani has an eye on an even bigger prize in 2028: the White House, after three progressives he endorsed pulled off a clean sweep in Tuesday night's primaries. Mamdani is looking to fundamentally change the Democratic Party.\n\nMAYOR ZOHRAN MAMDANI (D), NEW YORK CITY: Part of my hope in working to -- to elect these Congresspeople, these state legislators, is also to help write a new chapter in our party's history, where working people are back at the heart of that struggle.\n\nCORNISH: So, if a far left progressive or Democratic socialist emerges as a viable candidate for the presidency in 2028, who might that be? Could you be looking at her now?\n\nSo, the group chat is back. I wanted to talk about this divide between Mamdani, who's like, I'm at the front of a movement and he's excited. And then \"The New York Post\" types, who describe this constituency as \"The young and the clueless.\" And right in the front is someone wearing a Democratic socialist T-shirt.\n\nSo, our messaging folks, how do you see this conversation around the DSA? Is it growing? Are you seeing the power? Let me hear.\n\nHAYS: Well, one they're not -- they're not Democrats. They don't believe -- they don't have, like, solid Democratic values. They don't believe in a capitalist society. There's, like, a lot of different things here that they're not Democrats.\n\nI am not sure, fundamentally, why the Democratic establishment is supporting them and why they're using the resources.\n\nCORNISH: Probably because the voters.\n\nHAYS: But that's -- but that's a misnomer, because the people who are actually going to help take back the majority in the House are not those three people in New York. Those are turning blue districts bluer.\n\nNew York 17, Utah 1, who also had primaries, who elected very moderate candidates. Josh Turek in Ohio [SIC].\n\nCORNISH: So, what are you --\n\nHAYS: Or, I'm sorry, in Iowa.\n\nCORNISH: But help me account for the enthusiasm, because I often hear this description from moderate Democrats. It's like, that's out there. That's not the real thing.\n\nAnd it's confusing, because you saw all those crowds for Bernie Sanders and AOC a few months ago. I didn't see crowds for any moderate. And I don't understand this back and forth.\n\nRODRIGUEZ: I mean, I think it gets to the heart of it, and I'm not trying to move away from, like, just specifically talking about Democratic socialism.\n\nBut I think it talks to this moment in politics where people are fed up with the government. People don't think that the government's getting things done, that politicians are getting done -- things done, that the establishment is getting done, that the status quo doesn't work.\n\nAnd I think that you have candidates who are taking advantage of this moment, like we see in New York, by speaking to those issues that people are feeling.\n\nThat's where you see a lot of enthusiasm. You could go anywhere in this country right now, whether it is red areas, purple areas, blue areas, and talk to people how you feel about the government broadly, how you feel about Washington broadly.\n\nCORNISH: Or billionaires, or like there's a whole language of populism.\n\nRODRIGUEZ: There's a lot of discontent.\n\nHAYS: There's a lot of anti-incumbency going on right now.\n\nCORNISH: No, not just anti-incumbency, anti-institution. They don't like the billionaires. They don't like the corporate money. They don't like -- like there's a lot of --\n\nRODRIGUEZ: And let's be clear: that's something -- that's something that President Trump himself capitalized on in campaigning in 2024 and throughout his political rise has been sort of this populist movement. So, you see, it's like a weird horseshoe.\n\nCORNISH: Which people said at the time when they're like, are Bernie Bros ever going to go for Trump? Like there is a horseshoe politics.\n\nAnd I guess I'm trying to figure out why people have a hard time. Why -- why establishment parties have a hard time acknowledging or figuring out how to deal with those people in the middle of that space of the horseshoe.\n\nDUBKE: Because we are arguing about shades of blue right now on the -- on the Democratic side, as we were arguing about shades of red on the Republican side with Trump.\n\nEvery time -- and I'm going to go full-on history professor here, when we have had major disruptions to the economy, where there has been this -- this -- this huge difference between the wealthy and the poor in this country, we have seen these populist/socialist movements.\n\nWe saw it in the 1890s, in the early 1900s, with Eugene Debs. We saw populist movements that captured kind of this imagination.\n\nAnd why do parties have trouble dealing with it? Because parties, in a two-party system, you're huge umbrellas. You have to embrace everybody.\n\nAnd when a small group -- what does that say, 7 percent of mostly white and under 30 voters came out in New York City? When you've got a small vocal group in a one-party state [SIC] like Manhattan, you see this.\n\nThe media then amplifies it. That's what we're in right now.\n\nDUBKE: So, we're arguing over shades of blue.\n\nCORNISH: Now our point on recent history.",
+  "segments": [
+    {
+      "seg": 1,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-25/segment/01",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nRescues Underway after Deadly Earthquakes in Venezuela; Trump's GOP Luncheon Devolves into Shouting Match; Could AOC Be Democratic Socialist Candidate for President? Aired 6-6:30a ET\n\nAired June 25, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nANNOUNCER: This is CNN breaking news\n\nAUDIE CORNISH, CNN ANCHOR: Good morning, everybody. I'm Audie Cornish. I want to start with this breaking news in Venezuela.\n\nAt least 32 people are dead and hundreds more injured after devastating back-to-back earthquakes there. Rescue efforts now underway. And those numbers are expected to climb into the thousands.\n\nThe epicenter of the quakes, located along the country's Northern coastal region. It's caused widespread damage, collapsed buildings, and sent terrified residents into the streets.\n\nThe 7.2- and 7.5-magnitude earthquakes triggered evacuations more than 1,000 miles away in Brazil's Amazon.\n\nNow Venezuela's main airport suffered major damage, with a section of the terminal roof reportedly collapsing. Venezuela's president declaring a state of emergency.\n\nDELCY RODRIGUEZ, VENEZUELAN PRESIDENT (through translator): We have also suspended the metro and railway systems in order to facilitate both rescue operations and the recovery of vital infrastructure.\n\nI want to announce that there will be no classes for the remaining days of this week. There will also be a suspension of activities that are not considered essential services.\n\nCORNISH: To give us the latest developments here we have CNN's Stefano Pozzebon. He's in Bogota. What are you learning this morning?\n\nSTEFANO POZZEBON, CNN INTERNATIONAL CORRESPONDENT: We're learning only that the president, the interim president of Venezuela, Delcy Rodriguez, which you just heard in that sound from late last night, Audie, will be speaking to the nation. She will be speaking to the nation momentarily in a few minutes, we were told from the presidential palace, to update the death toll and of course, to present how the first responders and emergency services are coming up to terms with this catastrophe.\n\nLike you said, we are expecting that death toll, which late last night at around 11 p.m. was here in Bogota, so midnight in Venezuela, the death toll was set at 32. But unfortunately, we do believe that that -- that number will be growing and rising in the coming hours.\n\nIn particular, most of the damages seem to be concentrated in the state of la Guaira. That is North to the capital, Caracas, pretty much sandwiched between the coast and the city itself. And that is where Delcy Rodriguez told us last night that dozens of buildings have-- have collapsed in these two separate earthquakes, one within 40 seconds of the other, that both hit the Northern coast of Venezuela with a dramatic effect.\n\nAnd you mentioned the Brazilian Amazon. We are here in the Andes, up in the Colombian capital, about 800 miles from Caracas itself. And we felt it here in Bogota. We felt it strong. So, we can only imagine how badly it was felt down in the -- in the Venezuelan capital, where hundreds, if not thousands of people have slept or spent the night roughly on the street, because the authorities have made a plea not to go back into their homes, given the presence of aftershocks, and because the infrastructure of the buildings in Venezuela is so fragile as a consequence of the economic crisis that have been hit in that country for the last 10 to 15 years.\n\nYesterday, for example, our team in Caracas was able to speak with the son of Nicolas Maduro, Nicolas Maduro being, of course, the former authoritarian president who had been -- has been removed from office by the United States in January. Well, his son, who is also called Nicolas Maduro Jr., he told us, for example, that one of the main worries is that the buildings are not prepared to sustain an earthquake.\n\nMost of Caracas was built in the 1950s and '60s, and pretty much for the last 20 years, there has been close to little renovation on most of the buildings, be that hospitals, be that basic infrastructure, houses, buildings highway or even bridges. And so that's why he was so concerned that -- that the aftershocks could be even more damaging than those two previous earthquakes that, by the way, hit at 6 p.m. in the afternoon on a public holiday.\n\nYesterday was a public holiday in Venezuela. A lot of people were either at home or out in the street. And this is also another factor of concern.\n\nWe're waiting to hear more, Audie, from the Venezuelan authorities. Hopefully, we will hear from Delcy Rodriguez, the interim president of Venezuela, in the upcoming hour, and we will bring it to you as quickly as we can.\n\nCORNISH: I want to ask you one or two more questions. One: you're feeling it all the way in Colombia. Is -- are there regional rescue supplies headed to Venezuela? And the second question is the U.S. Obviously, it's an interim\n\ngovernment. You mentioned the Maduro family. Is there any word yet about what support may be headed to Venezuela now?\n\nPOZZEBON: I think that most countries here have made themselves available. I was able to speak with both representatives of the U.S. embassy in Caracas, which, by the way, was open only a couple of months ago because of this fragile diplomatic relationship between the two countries, but also here with first responders in Colombia, who have said that they have teams ready to activate as quickly as Caracas makes that diplomatic call, calling for other countries to come to help.\n\nYesterday, Delcy Rodriguez told us, for example, that several countries in the region have expressed their solidarity and have prepared aid in terms of both first responders and emergency services, but also just like material aid. We need to bring in medicines. We need to bring plasters, emergency kits, water supplies, or generators.\n\nThe big, big challenge, however, Audie, is the airport. Right now, Caracas Airport is not working. It's not functioning. The runway has been damaged by the earthquake. So, they will need to get that running before being able to receive aid from abroad.\n\nHowever, the region is showing a network of solidarity, and hopefully, in the coming hours and days, you will see, that aid coming -- coming in, streaming in into Venezuela, including from the United States.\n\nCORNISH: OK. That's Stefano Pozzebon, speaking to us from neighboring Colombia as we follow up on those back-to-back earthquakes that have struck Venezuela this morning.\n\nAlso happening today, Delcy Rodriguez, the interim head of Venezuela, is set to speak and brief people on the latest.\n\nHere in the U.S., I want to turn to Congress. The president hit pause on a major piece of legislation.\n\nSEN. ELIZABETH WARREN (D-MA): Americans are paying more for groceries, more for healthcare, more for electricity, more for housing. And this was at least one chance to push back against that.\n\nCORNISH: Congress finally passed a bipartisan housing bill. So, why is it stuck at the finish line?\n\nAnd in the words of Mariah Carey, \"Why are you so obsessed with me?\" That's the question former President Obama wants to ask of President Trump.\n\n[06:12:36] (BEGIN VIDEO CLIP)\n\nSEN. BILL CASSIDY (R-LA): I felt like I was trying to get answers for the American people. And I'm not going to be bullied when I'm trying to get answers for the American people. And so -- so it escalated from there.\n\nCORNISH: Yes, to name calling and yelling. This all happened at a closed-door meeting between the president and Senate Republicans. It was a full-on screaming match.\n\nSo, is he pushing his party further away? There's a deepening divide in the Republican Party. President Trump's Republican luncheon turns into chaos because he went toe-to-toe with one of the senators he helped oust, Bill Cassidy.\n\nNow, the day before the Louisiana senator had actually voted with Democrats to limit Trump's war powers in Iran.\n\nCASSIDY: The president was wondering why people would vote for the War Powers Act. I asked him if that would be a rhetorical question or a real question. He said real. And so, to begin to speak. The president didn't want to hear my question; interrupted me. I didn't care to be interrupted.\n\nCORNISH: Republicans described the president as, quote, \"having an 'F'-ing tantrum.\" The meeting, as they quote, \"venting session,\" and Majority Leader John Thune telling CNN it was more of a, quote, \"one- sided conversation.\"\n\nBut there are always two sides to the story.\n\nDONALD TRUMP, U.S. PRESIDENT: I think we had a really great meeting, and we're very proud of the party. We like our leader. We like everybody, really, in the room. I don't like a few people, but that's OK. I think you know who they are.\n\nBut for the most part, we have a really well unified party.\n\nCORNISH: OK, so that word stuck out to the other Republican senator Trump helped oust earlier this year: John Cornyn.\n\nSEN. JOHN CORNYN (R-TX): The president closed by preaching unity, but he spent the prior hour talking about things which were not exactly unifying.\n\nCORNISH: OK. So, today in the group chat, Sabrina Rodriguez, politics reporter at \"The Wall Street Journal\"; Mike Dubke, former Trump White House communications director; Meghan Hays, former Biden White House director of message planning.\n\nSo, I'm interested in this for two reasons. He didn't just yell. He walked out and said, \"Look, I'm not signing this bipartisan bill you're so excited to talk about: a housing bill.\"\n\nHere's Lisa Murkowski walking out the door, and she kind of gives us the lay of the land.\n\nSEN. LISA MURKOWSKI (R-AK): If he chooses to hold up his own agenda, because he wants action on the SAVE Act, that's, I guess, his call.\n\nIt is not helpful to him. It's not helpful to the country. And it's not moving the needle. If you don't have the votes, sir, you don't have the votes.\n\nCORNISH: Notice, she's strolling. She's enjoying the sun. She's like, you do what you want to do. I'm going to let you cook, because you don't have the votes for either your election nearing, bill, right? Or your war powers resolution keeps nudging further away from you. She just looks unbothered.\n\nSABRINA RODRIGUEZ, POLITICS REPORTER, \"THE WALL STREET JOURNAL\": Audie, I feel like we're just in such a different moment now with Trump's relationship with the Hill.\n\nI think for the last year, if you go -- if we just think of, like, a year ago, what we've been talking -- or just a few months ago, we'd be talking about how, you know, Republicans on the Hill really fall in line for what the president wants; how they haven't really pushed back on his administration.\n\nAnd now, we're seeing people step away from him. And I think that's where you see his frustration.\n\nCORNISH: But only the people who have been wounded, right?\n\nRODRIGUEZ: No question.\n\nCORNISH: I mean, \"The Wall Street Journal\" called them the Wounded Bear Caucus.\n\nRODRIGUEZ: But I think --\n\nCORNISH: It feels like they're not going to fall in line.\n\nRODRIGUEZ: But it's enough to stop things from passing.\n\nCORNISH: There we go.\n\nRODRIGUEZ: And that's where you see his frustration coming out into the public.\n\nAnd you see people being more willing to say what's happening in a private meeting and be more open to saying, No, we don't agree with him.\n\nAnd clearly, there's a frustration, because as much as he talks about the SAVE America Act, it's not getting through, because the votes are not there.\n\nCORNISH: I want to add that the yelling did work on some people. Trump went to Truth Social to say, \"Wow!\" exclamation point. \"The Senate just changed its vote on Iran from 50-to-48 against to 50-47 for. Rand Paul and Bill Cassidy changed.\"\n\nAnd then he says, \"Thanks to leader John Thune,\" et cetera. \"This vote puts Iran on notice.\"\n\nHe -- this was one of many things he wanted. And he got it. So, what do you think of that?\n\nMIKE DUBKE, FORMER TRUMP WHITE HOUSE COMMUNICATIONS DIRECTOR: I don't think anyone paid any attention to that vote at the end of the day.\n\nI think what we're focused on -- and I think what everybody else is focused on -- is exactly what happened right prior to the -- to the lunch, which was the cancellation of the signing, the lunch, the argument. I talked to some senators who walked out and said, \"bizarre\" was the word that -- that they used for that.\n\nCORNISH: They said bizarre.\n\nCORNISH: Even by Trump measures?\n\nDUBKE: Yes. Even by Trump measures. And I think what you're seeing here -- and this is really a difference in timing. And I think you're exactly right in this, that when the Republicans were lining up, it was prior to filing deadlines. It was prior to primaries. Now we're post that.\n\nWe have a shock within that caucus of the endorsements against -- not necessarily against Cassidy. That kind -- that one was -- was a bit telegraphed.\n\nCORNISH: Yes, but Cornyn.\n\nDUBKE: The one against Cornyn was not.\n\nAnd so, the president has taken, you know, short-term gain for what is long-term pain, I think, for the rest of the year.\n\nAnd what is shortsighted about this, at least to me, is that at the end of the day, the second half of this Trump 2.0 is going to be very, very difficult. If you do not have the House, and especially if you do not have the Senate, because you need the Senate in order to get your cabinet secretaries and everybody else approved.\n\nCORNISH: Yes. It'll be more difficult for people who --\n\nDUBKE: And judges and everything else.\n\nCORNISH: -- don't have a house, and maybe were happy to see a housing bill finally pass.\n\nI should say caveat on the rules. According to the law, if he doesn't sign it after X amount of days, it becomes law.\n\nCORNISH: Unless he takes certain action, and it becomes a pocket veto. So, I don't know if he's going to go that route, but it does seem like he wanted to rob them of that moment.\n\nMEGHAN HAYS, FORMER BIDEN WHITE HOUSE DIRECTOR OF MESSAGE PLANNING: Yes, absolutely. And it's kind of disgraceful, because this is one thing that is bipartisan. We get nothing in Washington that's bipartisan. It's actually something that would help the American people.\n\nAll we talk about constantly is working on affordability, working on the cost of housing and groceries and gas. This actually was going to help the American people and do that. And it was in a bipartisan fashion.\n\nSo, it just seems like a big slap in the face to the American people.\n\nCORNISH: Well, I guess I'm asking, is it a slap in his own face? Do you know what I mean? Like, is it cutting off your nose --\n\nHAYS: Well, for Trump --\n\nCORNISH: -- to spite your face?\n\nCORNISH: But for no reason. Because --\n\nCORNISH: All your voters are asking are \"America first.\" That's what they're saying over and over again. This had a clause about private equity, which on the right very much is an issue. And yet, it was worth it just to stick it to the Senate.\n\nHAYS: But it also, it's a slap in the face to the House members and these people who are running. This is a terrible thing for them when they are going up for reelection. These are going to be in campaign ads. It's -- it's a terrible -- Trump is -- It is very shortsighted of him. He is not thinking of his people now.\n\nCORNISH: It could, unless you plan to hold on, unless you plan to -- hold on -- unless you plan to spend your time talking about the SAVE Act, which does have a lot of purchase on the sort of X and Twitter- led right.\n\nI want to play one last quote for you on the way out. Representative Anna Paulina Luna, Republican of Florida, talking about what she's willing to do to try and get this thing that Sabrina has said, and John Thune has said, many people have said does not have the votes, to the floor.\n\nREP. ANNA PAULINA LUNA (R-FL): I'm going to hold them accountable. I'm totally fine with keeping it shut down as long as possible until they can get off their butts, go vote, do what you need to do. But they don't get to stipulate to the House what the deal is.\n\nMANU RAJU, CNN CHIEF CONGRESSIONAL CORRESPONDENT: Because they're saying they don't have the votes. I mean, you may --\n\nLUNA: Well, the votes aren't there to reopen the floor.\n\nCORNISH: So, there's a lot still to do. And there are now people willing to, as you know, you can say, take a stand or grandstand to show they're acting on the president's agenda.\n\nDUBKE: I mean, let's -- let's look at what -- just briefly here, what's happened?\n\nThis -- this non-veto, non-signing, whatever, this bill is going to become law. It had veto-proof majorities. Even if he pocket vetoes this, this thing is going to become law, because they'll vote to -- to overturn. So, he's really not jeopardizing anything.\n\nWhat he's jeopardizing is that feel-good moment where you have bipartisanship in D.C.\n\nHAYS: The optics and the pictures.\n\nDUBKE: And from a communications standpoint, I would have argued this is what the caucus, the conference, Republicans need going into the midterms.\n\nDUBKE: So, absolutely on that. DNA and Pulte last week, that is another situation. But he's getting rid of who he wanted.\n\nSo, he's playing a different game than they're playing. But this is -- this is causing chaos in Washington.\n\nCORNISH: All right. After the break this morning, just want to let you know, we are continuing to monitor the breaking news out of Venezuela. President Trump being updated on those earthquakes this morning.\n\nPlus, could Alexandria Ocasio-Cortez be the Democratic socialist candidate in the 2028 race for the White House?\n\nCORNISH: OK. We want to talk about New York City's new political kingmaker. Mayor Zohran Mamdani has an eye on an even bigger prize in 2028: the White House, after three progressives he endorsed pulled off a clean sweep in Tuesday night's primaries. Mamdani is looking to fundamentally change the Democratic Party.\n\nMAYOR ZOHRAN MAMDANI (D), NEW YORK CITY: Part of my hope in working to -- to elect these Congresspeople, these state legislators, is also to help write a new chapter in our party's history, where working people are back at the heart of that struggle.\n\nCORNISH: So, if a far left progressive or Democratic socialist emerges as a viable candidate for the presidency in 2028, who might that be? Could you be looking at her now?\n\nSo, the group chat is back. I wanted to talk about this divide between Mamdani, who's like, I'm at the front of a movement and he's excited. And then \"The New York Post\" types, who describe this constituency as \"The young and the clueless.\" And right in the front is someone wearing a Democratic socialist T-shirt.\n\nSo, our messaging folks, how do you see this conversation around the DSA? Is it growing? Are you seeing the power? Let me hear.\n\nHAYS: Well, one they're not -- they're not Democrats. They don't believe -- they don't have, like, solid Democratic values. They don't believe in a capitalist society. There's, like, a lot of different things here that they're not Democrats.\n\nI am not sure, fundamentally, why the Democratic establishment is supporting them and why they're using the resources.\n\nCORNISH: Probably because the voters.\n\nHAYS: But that's -- but that's a misnomer, because the people who are actually going to help take back the majority in the House are not those three people in New York. Those are turning blue districts bluer.\n\nNew York 17, Utah 1, who also had primaries, who elected very moderate candidates. Josh Turek in Ohio [SIC].\n\nCORNISH: So, what are you --\n\nHAYS: Or, I'm sorry, in Iowa.\n\nCORNISH: But help me account for the enthusiasm, because I often hear this description from moderate Democrats. It's like, that's out there. That's not the real thing.\n\nAnd it's confusing, because you saw all those crowds for Bernie Sanders and AOC a few months ago. I didn't see crowds for any moderate. And I don't understand this back and forth.\n\nRODRIGUEZ: I mean, I think it gets to the heart of it, and I'm not trying to move away from, like, just specifically talking about Democratic socialism.\n\nBut I think it talks to this moment in politics where people are fed up with the government. People don't think that the government's getting things done, that politicians are getting done -- things done, that the establishment is getting done, that the status quo doesn't work.\n\nAnd I think that you have candidates who are taking advantage of this moment, like we see in New York, by speaking to those issues that people are feeling.\n\nThat's where you see a lot of enthusiasm. You could go anywhere in this country right now, whether it is red areas, purple areas, blue areas, and talk to people how you feel about the government broadly, how you feel about Washington broadly.\n\nCORNISH: Or billionaires, or like there's a whole language of populism.\n\nRODRIGUEZ: There's a lot of discontent.\n\nHAYS: There's a lot of anti-incumbency going on right now.\n\nCORNISH: No, not just anti-incumbency, anti-institution. They don't like the billionaires. They don't like the corporate money. They don't like -- like there's a lot of --\n\nRODRIGUEZ: And let's be clear: that's something -- that's something that President Trump himself capitalized on in campaigning in 2024 and throughout his political rise has been sort of this populist movement. So, you see, it's like a weird horseshoe.\n\nCORNISH: Which people said at the time when they're like, are Bernie Bros ever going to go for Trump? Like there is a horseshoe politics.\n\nAnd I guess I'm trying to figure out why people have a hard time. Why -- why establishment parties have a hard time acknowledging or figuring out how to deal with those people in the middle of that space of the horseshoe.\n\nDUBKE: Because we are arguing about shades of blue right now on the -- on the Democratic side, as we were arguing about shades of red on the Republican side with Trump.\n\nEvery time -- and I'm going to go full-on history professor here, when we have had major disruptions to the economy, where there has been this -- this -- this huge difference between the wealthy and the poor in this country, we have seen these populist/socialist movements.\n\nWe saw it in the 1890s, in the early 1900s, with Eugene Debs. We saw populist movements that captured kind of this imagination.\n\nAnd why do parties have trouble dealing with it? Because parties, in a two-party system, you're huge umbrellas. You have to embrace everybody.\n\nAnd when a small group -- what does that say, 7 percent of mostly white and under 30 voters came out in New York City? When you've got a small vocal group in a one-party state [SIC] like Manhattan, you see this.\n\nThe media then amplifies it. That's what we're in right now.\n\nDUBKE: So, we're arguing over shades of blue.\n\nCORNISH: Now our point on recent history."
+    }
+  ]
+}
