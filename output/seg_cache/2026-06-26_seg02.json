@@ -1,0 +1,659 @@
+{
+  "date": "2026-06-26",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-26/segment/02",
+  "vocabulary": [
+    {
+      "word": "drone",
+      "phonetic": "/droʊn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "无人机",
+      "en": "an unmanned aircraft or ship guided by remote control or onboard computers",
+      "excerpt": "Iranian Drone Hits Cargo Ship",
+      "example_cn": "伊朗无人机击中货船。"
+    },
+    {
+      "word": "cargo ship",
+      "phonetic": "/ˈkɑːrɡoʊ ʃɪp/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "货船",
+      "en": "a ship designed to carry goods",
+      "excerpt": "Iranian Drone Hits Cargo Ship",
+      "example_cn": "伊朗无人机击中货船。"
+    },
+    {
+      "word": "evacuation",
+      "phonetic": "/ɪˌvækjuˈeɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "疏散，撤离",
+      "en": "the process of moving people from a dangerous place to a safe place",
+      "excerpt": "There was an evacuation that was underway by the U.N.",
+      "example_cn": "联合国正在进行疏散。"
+    },
+    {
+      "word": "seafarer",
+      "phonetic": "/ˈsiːferər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "海员，航海者",
+      "en": "a person who works on a ship",
+      "excerpt": "more than 11,000 seafarers who had been stuck in the Persian Gulf",
+      "example_cn": "超过11000名被困在波斯湾的海员。"
+    },
+    {
+      "word": "transit",
+      "phonetic": "/ˈtrænzɪt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "通过，过境",
+      "en": "to pass through or across",
+      "excerpt": "some 70 vessels managed to transit through the Strait of Hormuz",
+      "example_cn": "大约70艘船只成功通过了霍尔木兹海峡。"
+    },
+    {
+      "word": "halt",
+      "phonetic": "/hɔːlt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "停止，暂停",
+      "en": "to stop; to bring to a stop",
+      "excerpt": "that is all on hold. The U.N. saying they're halting this evacuation.",
+      "example_cn": "联合国表示他们暂停了这次疏散。"
+    },
+    {
+      "word": "claim responsibility",
+      "phonetic": "/kleɪm rɪˌspɑːnsəˈbɪləti/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "声称负责",
+      "en": "to state that one is responsible for something",
+      "excerpt": "Iran hasn't claimed responsibility at this point for this strike",
+      "example_cn": "伊朗目前尚未声称对此次袭击负责。"
+    },
+    {
+      "word": "Revolutionary Guard",
+      "phonetic": "/ˌrevəˈluːʃəneri ɡɑːrd/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "革命卫队",
+      "en": "a branch of Iran's armed forces",
+      "excerpt": "the Revolutionary Guard in Iran saying that they couldn't guarantee safe passage",
+      "example_cn": "伊朗革命卫队表示他们无法保证安全通行。"
+    },
+    {
+      "word": "safe passage",
+      "phonetic": "/seɪf ˈpæsɪdʒ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "安全通行",
+      "en": "the right to travel without being harmed",
+      "excerpt": "they couldn't guarantee safe passage for any vessel",
+      "example_cn": "他们无法保证任何船只的安全通行。"
+    },
+    {
+      "word": "hug",
+      "phonetic": "/hʌɡ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "紧靠，沿着……走",
+      "en": "to keep close to something",
+      "excerpt": "the southern part, which is hugging the coast of Oman",
+      "example_cn": "南部紧贴阿曼海岸。"
+    },
+    {
+      "word": "throw into doubt",
+      "phonetic": "/θroʊ ˈɪntuː daʊt/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "使……受到怀疑",
+      "en": "to cause something to be uncertain",
+      "excerpt": "this really throws into doubt now the U.S. president's claim",
+      "example_cn": "这使美国总统的说法受到质疑。"
+    },
+    {
+      "word": "dip",
+      "phonetic": "/dɪp/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "下降，下跌",
+      "en": "to go down temporarily",
+      "excerpt": "The oil price dipping because of that.",
+      "example_cn": "油价因此下跌。"
+    },
+    {
+      "word": "secretary of state",
+      "phonetic": "/ˈsekrəteri əv steɪt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "国务卿",
+      "en": "the head of the U.S. Department of State",
+      "excerpt": "the U.S. secretary of state, Marco Rubio",
+      "example_cn": "美国国务卿马可·鲁比奥。"
+    },
+    {
+      "word": "international waterway",
+      "phonetic": "/ˌɪntərˈnæʃənl ˈwɔːtərweɪ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "国际水道",
+      "en": "a waterway used by international shipping",
+      "excerpt": "no country on earth should be able to claim responsibility over an international waterway",
+      "example_cn": "地球上任何国家都不应声称对国际水道负责。"
+    },
+    {
+      "word": "toll-free",
+      "phonetic": "/ˈtoʊl friː/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "免费的，免通行费的",
+      "en": "without a toll or fee",
+      "excerpt": "They support a toll-free system.",
+      "example_cn": "他们支持免费通行系统。"
+    },
+    {
+      "word": "mine",
+      "phonetic": "/maɪn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "水雷",
+      "en": "an explosive device placed in water to destroy ships",
+      "excerpt": "there is the issue of mines in the Strait of Hormuz",
+      "example_cn": "霍尔木兹海峡还有水雷问题。"
+    },
+    {
+      "word": "remit",
+      "phonetic": "/rɪˈmɪt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "职权范围，领域",
+      "en": "the area of authority or responsibility",
+      "excerpt": "widening the remit",
+      "example_cn": "扩大职权范围。"
+    },
+    {
+      "word": "proxy",
+      "phonetic": "/ˈprɑːksi/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "代理人，代理",
+      "en": "a person or thing acting on behalf of another",
+      "excerpt": "its use of proxies",
+      "example_cn": "其使用代理人的行为。"
+    },
+    {
+      "word": "devastating",
+      "phonetic": "/ˈdevəsteɪtɪŋ/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "毁灭性的",
+      "en": "causing great damage or destruction",
+      "excerpt": "two devastating earthquakes",
+      "example_cn": "两次毁灭性的地震。"
+    },
+    {
+      "word": "death toll",
+      "phonetic": "/deθ toʊl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "死亡人数",
+      "en": "the number of people killed",
+      "excerpt": "The death toll climbed to more than 230 people.",
+      "example_cn": "死亡人数攀升至230人以上。"
+    },
+    {
+      "word": "reel",
+      "phonetic": "/riːl/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "感到震惊，蹒跚",
+      "en": "to feel shocked or confused",
+      "excerpt": "Venezuelans are not only reeling from the physical destruction",
+      "example_cn": "委内瑞拉人不仅因物质破坏而震惊。"
+    },
+    {
+      "word": "vacuum of authority",
+      "phonetic": "/ˈvækjuːm əv əˈθɔːrəti/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "权力真空",
+      "en": "a situation where there is no clear leadership or control",
+      "excerpt": "there's also a vacuum of authority in the country",
+      "example_cn": "该国也存在权力真空。"
+    },
+    {
+      "word": "harrowing",
+      "phonetic": "/ˈhæroʊɪŋ/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "令人痛苦的，折磨人的",
+      "en": "very distressing or painful",
+      "excerpt": "these have been the most harrowing few days for Venezuelans",
+      "example_cn": "对委内瑞拉人来说，这是最痛苦的几天。"
+    },
+    {
+      "word": "orphaned",
+      "phonetic": "/ˈɔːrfənd/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "成为孤儿的",
+      "en": "having lost both parents",
+      "excerpt": "children that are left completely orphaned",
+      "example_cn": "完全成为孤儿的孩子。"
+    },
+    {
+      "word": "heavy machinery",
+      "phonetic": "/ˈhevi məˈʃiːnəri/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "重型机械",
+      "en": "large machines used in construction or industry",
+      "excerpt": "There's no heavy machinery.",
+      "example_cn": "没有重型机械。"
+    },
+    {
+      "word": "overwhelmed",
+      "phonetic": "/ˌoʊvərˈwelmd/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "不堪重负的",
+      "en": "unable to cope with a situation",
+      "excerpt": "Hospitals are overwhelmed.",
+      "example_cn": "医院不堪重负。"
+    },
+    {
+      "word": "asylum seeker",
+      "phonetic": "/əˈsaɪləm ˈsiːkər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "寻求庇护者",
+      "en": "a person who has fled their country and is seeking protection",
+      "excerpt": "Venezuelan asylum seekers who are already here",
+      "example_cn": "已经在这里的委内瑞拉寻求庇护者。"
+    },
+    {
+      "word": "terminate",
+      "phonetic": "/ˈtɜːrmɪneɪt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "终止，结束",
+      "en": "to bring to an end",
+      "excerpt": "they've had their status terminated",
+      "example_cn": "他们的身份已被终止。"
+    },
+    {
+      "word": "pledge",
+      "phonetic": "/pledʒ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "承诺，保证",
+      "en": "to promise solemnly",
+      "excerpt": "They've, of course, pledged $150 million in aid.",
+      "example_cn": "他们当然承诺了1.5亿美元的援助。"
+    },
+    {
+      "word": "diaspora",
+      "phonetic": "/daɪˈæspərə/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "散居海外的人",
+      "en": "the dispersion of a people from their original homeland",
+      "excerpt": "I can speak for a diaspora of nearly eight million people",
+      "example_cn": "我可以代表近800万散居海外的人发言。"
+    },
+    {
+      "word": "ironic",
+      "phonetic": "/aɪˈrɑːnɪk/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "讽刺的",
+      "en": "happening in a way contrary to what is expected",
+      "excerpt": "it is ironic that the same week that Venezuela becomes a disaster zone",
+      "example_cn": "具有讽刺意味的是，就在委内瑞拉成为灾区的同一周。"
+    },
+    {
+      "word": "temporary protected status",
+      "phonetic": "/ˈtempəreri prəˈtektɪd ˈsteɪtəs/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "临时保护身份",
+      "en": "a temporary immigration status granted to nationals of certain countries",
+      "excerpt": "TPS, for roughly 300,000 Venezuelans already terminated",
+      "example_cn": "大约30万委内瑞拉人的临时保护身份已被终止。"
+    },
+    {
+      "word": "untenable",
+      "phonetic": "/ʌnˈtenəbl/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "站不住脚的，无法维持的",
+      "en": "not able to be maintained or defended",
+      "excerpt": "the removals to a country in the midst of a disaster zone like this are untenable",
+      "example_cn": "将人遣返到这样一个灾区是站不住脚的。"
+    },
+    {
+      "word": "political prisoner",
+      "phonetic": "/pəˈlɪtɪkl ˈprɪzənər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "政治犯",
+      "en": "a person imprisoned for their political beliefs or activities",
+      "excerpt": "500 to 600 innocent political prisoners",
+      "example_cn": "500到600名无辜的政治犯。"
+    },
+    {
+      "word": "interim",
+      "phonetic": "/ˈɪntərɪm/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "临时的，过渡的",
+      "en": "temporary or provisional",
+      "excerpt": "There is interim leadership.",
+      "example_cn": "有临时领导层。"
+    },
+    {
+      "word": "cartel",
+      "phonetic": "/kɑːrˈtel/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "卡特尔，垄断集团",
+      "en": "a group of businesses that agree to control prices or limit competition",
+      "excerpt": "a regime that has operated for years as a cartel",
+      "example_cn": "一个多年来像卡特尔一样运作的政权。"
+    },
+    {
+      "word": "plunder",
+      "phonetic": "/ˈplʌndər/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "掠夺，抢劫",
+      "en": "to steal goods from a place, especially during war or disorder",
+      "excerpt": "has plundered our oil industry and our health system",
+      "example_cn": "掠夺了我们的石油工业和医疗系统。"
+    },
+    {
+      "word": "mount a response",
+      "phonetic": "/maʊnt ə rɪˈspɑːns/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "组织回应",
+      "en": "to organize and carry out a response",
+      "excerpt": "how they will mount a response",
+      "example_cn": "他们将如何组织回应。"
+    },
+    {
+      "word": "opposition figure",
+      "phonetic": "/ˌɑːpəˈzɪʃn ˈfɪɡjər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "反对派人物",
+      "en": "a person who is part of the political opposition",
+      "excerpt": "aid should not be administered by opposition figures on the ground",
+      "example_cn": "援助不应由当地的反对派人物管理。"
+    },
+    {
+      "word": "progressive",
+      "phonetic": "/prəˈɡresɪv/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "进步的，革新的",
+      "en": "favoring social reform or new ideas",
+      "excerpt": "a new progressive voice rising",
+      "example_cn": "一个新的进步声音正在崛起。"
+    },
+    {
+      "word": "boogeyman",
+      "phonetic": "/ˈbʊɡimæn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "令人恐惧的人或物",
+      "en": "a person or thing that is feared, often irrationally",
+      "excerpt": "Does the right have a new boogeyman?",
+      "example_cn": "右翼有了新的令人恐惧的对象吗？"
+    },
+    {
+      "word": "centrist",
+      "phonetic": "/ˈsentrɪst/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "中间派",
+      "en": "a person with moderate political views",
+      "excerpt": "One centrist Democrat put it like this",
+      "example_cn": "一位中间派民主党人这样说道。"
+    },
+    {
+      "word": "unhinged",
+      "phonetic": "/ʌnˈhɪndʒd/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "精神错乱的，失常的",
+      "en": "mentally unbalanced; crazy",
+      "excerpt": "this person is unhinged and indefensible",
+      "example_cn": "这个人精神失常且无可辩护。"
+    },
+    {
+      "word": "deja vu",
+      "phonetic": "/ˌdeɪʒɑː ˈvuː/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "似曾相识的感觉",
+      "en": "the feeling that you have already experienced something that is happening now",
+      "excerpt": "I feel like it's deja vu all over again.",
+      "example_cn": "我感觉这完全是似曾相识。"
+    },
+    {
+      "word": "mainstream",
+      "phonetic": "/ˈmeɪnstriːm/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "主流的",
+      "en": "belonging to the prevailing trend of opinion or practice",
+      "excerpt": "positions that are wildly out of the mainstream",
+      "example_cn": "完全脱离主流的立场。"
+    },
+    {
+      "word": "poster child",
+      "phonetic": "/ˈpoʊstər tʃaɪld/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "典型代表，形象代言人",
+      "en": "a person or thing that is a perfect example of something",
+      "excerpt": "Darializa the sort of poster child of this.",
+      "example_cn": "达里亚利扎是这方面的典型代表。"
+    },
+    {
+      "word": "caucus",
+      "phonetic": "/ˈkɔːkəs/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "核心小组，党团会议",
+      "en": "a meeting of members of a political party to decide policy or choose candidates",
+      "excerpt": "they should not seat her in the caucus",
+      "example_cn": "他们不应该让她进入党团会议。"
+    },
+    {
+      "word": "hijack",
+      "phonetic": "/ˈhaɪdʒæk/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "劫持，控制",
+      "en": "to take control of something illegally or forcefully",
+      "excerpt": "able to hijack the floor and really set an agenda",
+      "example_cn": "能够劫持会议并真正设定议程。"
+    },
+    {
+      "word": "out of step",
+      "phonetic": "/aʊt əv step/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "不合拍，不一致",
+      "en": "not in agreement with others",
+      "excerpt": "out of step with not only independent and mainstream voters",
+      "example_cn": "不仅与独立和主流选民不一致。"
+    },
+    {
+      "word": "resign in disgrace",
+      "phonetic": "/rɪˈzaɪn ɪn dɪsˈɡreɪs/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "不光彩地辞职",
+      "en": "to resign because of shame or loss of reputation",
+      "excerpt": "best known for resigning in disgrace",
+      "example_cn": "以不光彩地辞职而闻名。"
+    },
+    {
+      "word": "deep state",
+      "phonetic": "/diːp steɪt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "深层政府",
+      "en": "a secret network of powerful people within a government",
+      "excerpt": "how the deep state took down Richard Nixon",
+      "example_cn": "深层政府如何扳倒了理查德·尼克松。"
+    },
+    {
+      "word": "quibble",
+      "phonetic": "/ˈkwɪbl/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "争论，挑剔",
+      "en": "to argue about trivial matters",
+      "excerpt": "who might quibble with being called the deep state",
+      "example_cn": "他们可能会对被称为深层政府提出异议。"
+    },
+    {
+      "word": "break-in",
+      "phonetic": "/ˈbreɪk ɪn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "闯入，破门而入",
+      "en": "an illegal entry into a building",
+      "excerpt": "he authorized the break-in of the DNC",
+      "example_cn": "他授权闯入民主党全国委员会。"
+    },
+    {
+      "word": "bugging equipment",
+      "phonetic": "/ˈbʌɡɪŋ ɪˈkwɪpmənt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "窃听设备",
+      "en": "devices used to secretly listen to conversations",
+      "excerpt": "to install bugging equipment",
+      "example_cn": "安装窃听设备。"
+    },
+    {
+      "word": "slush fund",
+      "phonetic": "/slʌʃ fʌnd/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "非法资金，贿赂基金",
+      "en": "a fund used for illegal or corrupt purposes",
+      "excerpt": "paid for by a slush fund controlled by the White House",
+      "example_cn": "由白宫控制的非法资金支付。"
+    },
+    {
+      "word": "oversight hearing",
+      "phonetic": "/ˈoʊvərsaɪt ˈhɪrɪŋ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "监督听证会",
+      "en": "a hearing held by a legislative body to review the actions of the executive branch",
+      "excerpt": "I haven't seen an oversight hearing in weeks.",
+      "example_cn": "我已经好几个星期没看到监督听证会了。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "The U.S. accusing Iran of attacking a vessel and pausing U.N. efforts to evacuate ships.",
+      "cn": "美国指责伊朗袭击一艘船只，并暂停了联合国疏散船只的努力。",
+      "structure": "主句：The U.S. accusing Iran of attacking a vessel and pausing U.N. efforts to evacuate ships. (现在分词短语作伴随状语，accusing...and pausing...并列)",
+      "analysis": "这是一个现在分词短语作伴随状语的句子，主语是The U.S.，谓语是accusing，后面接of attacking...和pausing...两个并列的宾语。"
+    },
+    {
+      "en": "The incident happened as shipping traffic was just starting to pick up, just days after the U.S. lifted sanctions on Iranian oil, allowing Tehran to sell oil in dollars for the first time in decades.",
+      "cn": "事件发生在航运交通刚刚开始恢复之际，就在美国解除对伊朗石油制裁几天后，制裁解除使德黑兰几十年来首次能够以美元出售石油。",
+      "structure": "主句：The incident happened as shipping traffic was just starting to pick up (时间状语从句) + just days after the U.S. lifted sanctions on Iranian oil (时间状语) + allowing Tehran to sell oil in dollars for the first time in decades (现在分词短语作结果状语)",
+      "analysis": "主句是The incident happened，后面跟了一个as引导的时间状语从句，然后是一个名词短语just days after...作时间状语，最后是现在分词短语allowing...作结果状语。"
+    },
+    {
+      "en": "What we heard just hours before this strike happened was the Revolutionary Guard in Iran saying that they couldn't guarantee safe passage for any vessel that wasn't using their route through the Strait of Hormuz.",
+      "cn": "就在这次袭击发生前几个小时，我们听到的是伊朗革命卫队表示，他们无法保证任何不通过他们指定的霍尔木兹海峡航线的船只的安全通行。",
+      "structure": "主语从句：What we heard just hours before this strike happened + 系动词was + 表语：the Revolutionary Guard in Iran saying that... (现在分词短语作表语，that引导宾语从句)",
+      "analysis": "这是一个主语从句作主语的句子，What we heard...是主语，was是系动词，后面是表语部分，其中saying是现在分词，后面跟that引导的宾语从句。"
+    },
+    {
+      "en": "It is ironic that the same week that Venezuela becomes a disaster zone, the U.S. is closing the door, TPS, for roughly 300,000 Venezuelans already terminated.",
+      "cn": "具有讽刺意味的是，就在委内瑞拉成为灾区的同一周，美国却关上了大门，大约30万委内瑞拉人的临时保护身份已被终止。",
+      "structure": "形式主语It + 系动词is + 表语ironic + 真正主语that从句：that the same week that Venezuela becomes a disaster zone, the U.S. is closing the door, TPS, for roughly 300,000 Venezuelans already terminated.",
+      "analysis": "这是一个形式主语句型，真正的主语是that引导的从句。从句中又包含一个定语从句that Venezuela becomes a disaster zone修饰the same week。"
+    },
+    {
+      "en": "And I think that any candidate of any party that's running their own race has the responsibility to run their race.",
+      "cn": "我认为任何政党的任何候选人，只要他们在进行自己的竞选，就有责任做好自己的竞选。",
+      "structure": "主句：I think + 宾语从句：that any candidate of any party that's running their own race has the responsibility to run their race (that引导宾语从句，其中包含一个定语从句that's running their own race修饰candidate)",
+      "analysis": "这是一个复合句，主句是I think，后面是that引导的宾语从句。宾语从句的主语是any candidate，后面跟了一个定语从句that's running their own race，谓语是has，宾语是the responsibility，不定式to run their race作定语。"
+    },
+    {
+      "en": "The most enthusiastic and loudest in the primaries aren't maybe necessarily the people who are polled or who will be appearing in the general.",
+      "cn": "初选中最热情、最响亮的声音可能不一定是那些被民调的人，也不一定是那些将出现在大选中的人。",
+      "structure": "主句：The most enthusiastic and loudest in the primaries aren't maybe necessarily the people + 定语从句：who are polled or who will be appearing in the general (两个并列的定语从句修饰the people)",
+      "analysis": "这是一个主系表结构，主语是The most enthusiastic and loudest，系动词是aren't，表语是the people，后面跟了两个由who引导的定语从句，用or连接。"
+    },
+    {
+      "en": "There's a party in the wilderness, people there is discontent in the country, and folks from the outside just want to push their party in their direction.",
+      "cn": "有一个在野的政党，国内存在不满情绪，而外部人士只想推动他们的政党朝着他们的方向前进。",
+      "structure": "并列句：There's a party in the wilderness + people there is discontent in the country + and folks from the outside just want to push their party in their direction.",
+      "analysis": "这是一个由三个并列分句组成的句子，每个分句都有独立的主谓结构。第一个分句是There be句型，第二个分句是主系表结构，第三个分句是主谓宾结构。"
+    },
+    {
+      "en": "If you look at the story of how the deep state took down Richard Nixon, it's not all that different from what the same groups of people, the same institutions, tried to do to Donald Trump in the first Trump administration.",
+      "cn": "如果你看看深层政府如何扳倒理查德·尼克松的故事，这与同一群人、同一机构在特朗普第一届政府期间试图对唐纳德·特朗普做的事情并没有太大不同。",
+      "structure": "条件状语从句：If you look at the story of how the deep state took down Richard Nixon + 主句：it's not all that different from what the same groups of people, the same institutions, tried to do to Donald Trump in the first Trump administration (what引导宾语从句)",
+      "analysis": "这是一个条件状语从句+主句的复合句。条件状语从句中，how引导宾语从句作of的宾语。主句中，what引导宾语从句作from的宾语。"
+    },
+    {
+      "en": "He authorized the break-in of the DNC to install bugging equipment, then enlisted the CIA to mislead the FBI, and the entire operation was paid for by a slush fund controlled by the White House.",
+      "cn": "他授权闯入民主党全国委员会安装窃听设备，然后利用中央情报局误导联邦调查局，整个行动由白宫控制的非法资金支付。",
+      "structure": "并列句：He authorized the break-in of the DNC to install bugging equipment + then enlisted the CIA to mislead the FBI + and the entire operation was paid for by a slush fund controlled by the White House.",
+      "analysis": "这是一个由三个并列分句组成的句子，前两个分句主语是He，谓语分别是authorized和enlisted，第三个分句是被动语态，主语是the entire operation。"
+    },
+    {
+      "en": "The Supreme Court's like, don't worry about it, the executive can be more powerful, the Congress are like, you want to do --",
+      "cn": "最高法院就像在说，别担心，行政分支可以更强大，国会就像在说，你想做——",
+      "structure": "并列句：The Supreme Court's like, don't worry about it + the executive can be more powerful + the Congress are like, you want to do --",
+      "analysis": "这是一个口语化的并列句，每个分句都使用了like来引导直接引语或想法。第一个分句是祈使句，第二个分句是主系表结构，第三个分句是主谓宾结构。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "伊朗无人机袭击货船与霍尔木兹海峡局势",
+      "content": "美国指责伊朗无人机袭击了一艘货船，这是自美伊同意推进和平协议以来的首次袭击。事件发生在美国解除对伊朗石油制裁后不久，航运交通刚刚恢复。伊朗革命卫队声称无法保证不经过其指定航线的船只的安全通行，导致联合国暂停了疏散被困海员的行动。美国国务卿鲁比奥强调任何国家都不应声称对国际水道负责，但伊朗似乎试图控制海峡。",
+      "keywords": "伊朗, 无人机, 霍尔木兹海峡, 制裁, 航运, 革命卫队, 联合国疏散"
+    },
+    {
+      "title": "委内瑞拉地震与人道主义危机",
+      "content": "委内瑞拉遭遇两次毁灭性地震，死亡人数超过230人，预计还会上升。救援工作因缺乏重型机械和医疗系统崩溃而受阻。美国承诺提供1.5亿美元援助，但同时终止了约30万委内瑞拉人的临时保护身份，引发批评。委内瑞拉政权被指像卡特尔一样运作，无力应对危机，救援主要依靠民间组织。",
+      "keywords": "委内瑞拉, 地震, 人道主义危机, 救援, 临时保护身份, 政权, 援助"
+    },
+    {
+      "title": "美国政治新星达里亚利扎·阿维拉·切瓦利耶",
+      "content": "达里亚利扎·阿维拉·切瓦利耶在纽约初选中获胜，被比作新一代的AOC。她的激进立场引发左右两派关注，中间派民主党人认为她“精神失常且无可辩护”。民主党内部出现分裂，部分人认为她不应被纳入党团会议。民调显示多数独立选民和民主党人希望党走向中间路线。",
+      "keywords": "达里亚利扎·切瓦利耶, 民主党, 社会主义, 初选, 中间派, AOC, 政治分裂"
+    },
+    {
+      "title": "副总统万斯对水门事件的评论",
+      "content": "副总统J.D.万斯在尼克松图书馆发表讲话，称如果水门事件发生在今天，只会成为12小时的新闻，并暗示深层政府试图扳倒尼克松与特朗普类似。这一言论引发争议，评论员指出尼克松的行为包括授权闯入、利用CIA误导FBI等，其下台是因为两党共识。万斯的言论反映了当前政治环境下对历史事件的重新解读。",
+      "keywords": "J.D.万斯, 水门事件, 尼克松, 深层政府, 特朗普, 政治评论, 历史解读"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nIranian Drone Hits Cargo Ship; Journalist Mariana Atencio is Interviewed about the Venezuelan Earthquake; Darializa Avila Chevalier Becoming the New AOC; Vice President Vance Comments on Watergate. Aired 6:30-7a ET\n\nAired June 26, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nWILL LEITCH, CONTRIBUTING EDITOR, \"NEW YORK MAGAZINE\": They can't compete on the world stage if they are not a favorite like a Spain or a France or an England, but they are good and they are getting better. Those are fun teams to root for. We always think of ourselves as Rocky Balboa, but usually we're not.\n\nAUDIE CORNISH, CNN ANCHOR: Right. Yes.\n\nLEITCH: In the closest there we are. Like, this is the closest you kind of get for that. We are this -- the closest as a U.S. national team will ever get to being Hoosiers. So, that's a fun team to kind of get excited and cheer.\n\nCORNISH: Good reference. Will Leitch, thank you so much.\n\nCORNISH: Straight ahead on CNN THIS MORNING, we're going to follow up on what's going on with the Strait of Hormuz. The U.S. accusing Iran of attacking a vessel and pausing U.N. efforts to evacuate ships.\n\nPlus, why did J.D. Vance downplay the impact of Watergate?\n\nCORNISH: Developing this morning, a ship has struck the Strait of Hormuz. A ship has been struck in the Strait of Hormuz. The U.S. is pointing the finger at Iran, saying one of their drones hit the cargo ship. It's the first strike since the U.S. and Iran agreed to work towards a peace deal.\n\nNow, the incident happened as shipping traffic was just starting to pick up. Just days after the U.S. lifted sanctions on Iranian oil, allowing Tehran to sell oil in dollars for the first time in decades.\n\nSo, we're bringing in CNN's Paula Hancocks.\n\nPaula, as I said, consequential day, the lifting of sanctions. And then at the same time, you've got this strike occurring in the Strait of Hormuz. Can you talk about what that means for the ability of these negotiations to go on if there's still threats to the ships from passing through?\n\nPAULA HANCOCKS, CNN CORRESPONDENT: So, Audie, it had been going so well in the Strait of Hormuz this week. With this latest strike, there were no casualties. There's no environmental damage. But the hit to confidence in the shipping industry is pretty significant.\n\nThere was an evacuation that was underway by the U.N., by the international maritime organization to try and get the vessels and more than 11,000 seafarers who had been stuck in the Persian Gulf since the start of the war out into the open waters. Now that had begun.\n\nWe saw on Wednesday some 70 vessels managed to transit through the Strait of Hormuz. But now that there has been this strike, that is all on hold. The U.N. saying they're halting this evacuation. They said the safety of the seafarers is the most important. They need more clarity.\n\nNow, Iran hasn't claimed responsibility at this point for this strike on the vessel, which the U.S. says was done by an Iranian drone. But what we heard just hours before this strike happened was the Revolutionary Guard in Iran saying that they couldn't guarantee safe passage for any vessel that wasn't using their route through the Strait of Hormuz. They want vessels to be going along the northern part of the Strait of Hormuz, so they have to go through Tehran, they have to fill in the forms that Tehran gives them, rather than the southern part, which is hugging the coast of Oman, which, understandably, most vessels are going through.\n\nSo, this really throws into doubt now the U.S. president's claim that the Strait of Hormuz is open and that it is free. And it really brings a halt to what we had seen earlier in this week with the Strait of Hormuz seeing a number of vessels coming through. The oil price dipping because of that. And, of course, gas prices as well dipping slightly.\n\nNow, what we've heard from the U.S. secretary of state, Marco Rubio, he's just been in this region. He was meeting some of the gulf nations who were really hardest hit by Iran in their retaliation during the war. And he has said that no country on earth should be able to claim responsibility over an international waterway. But that does appear to be exactly what Iran wants to do.\n\nIt says that it's in talks with Oman, which is on the other side of the water. But Oman's foreign minister says that they support international law. They support a toll-free system. So, at this point, Tehran is really out on its own when it is saying that it wants vessels to use its route.\n\nAnd of course, there is the issue of mines in the Strait of Hormuz as well. Presumably why no vessels are wanting to go through the center of this waterway. But it does throw into doubt the talks that have been ongoing. We heard from Secretary Rubio as well that that he's given a statement with the gulf nations here really widening the remit, also pointing out they have to deal with Iran's missiles and its use of proxies.\n\nCORNISH: OK, that's Paula Hancocks from Abu Dhabi.\n\nI want to turn to this. The U.S. forces being sent to Venezuela as the nation deals with the aftermath of two devastating earthquakes. The death toll climbed to more than 230 people. It is still expected to rise. The country's health minister saying more than 4,300 people are injured. Rescue efforts ongoing, with hundreds of people trapped under rubble or missing.\n\nAnd Venezuelans are not only reeling from the physical destruction of their country. Critics say there's also a vacuum of authority in the country with the burden of rescue and relief efforts falling on civil organizations and schools and local churches and families.\n\nJoining me now, Mariana Atencio. She's a Venezuelan journalist, author and speaker.\n\nThank you so much for being with us. I'm so sorry it's under these circumstances because I know you have friends and family still in Venezuela. What have you heard from them?\n\nMARIANA ATENCIO, JOURNALIST: Audie, these have been the most harrowing few days for Venezuelans. On the ground, local organizations estimate the number of missing could climb to 40,000 people. I'm seeing images of children that are left completely orphaned. And you stated it, there is a power vacuum in Venezuela right now. The worst hit areas of La Guaira. There's -- that's the coastal area. There's no heavy machinery. Neighbors are digging their own family members out of the rubble by hand. Hospitals are overwhelmed. They're treating the wounded in the streets because this earthquake is hitting a country that had nothing left to absorb it. And we're talking about a health system that's collapsed after years of crisis.\n\nCORNISH: You know, it's such a moment to be talking about this because here in the U.S. the Venezuelan asylum seekers who are already here, they've had their status terminated. We talked about that earlier, happening to Syrians and Haitians and others. But the U.S. now has a very peculiar relationship with Venezuela. Is there any sign of it now that the country is suffering?\n\nATENCIO: So Rubio said the response will be big, fast, effective. President Trump called Venezuela our new and great friends. They've, of course, pledged $150 million in aid.\n\nBut at the same time, I can speak for a diaspora of nearly eight million people, being sent back doesn't mean being sent back home right now. It means going back to rubble. So, it is ironic that the same week that Venezuela becomes a disaster zone, the U.S. is closing the door, TPS, for roughly 300,000 Venezuelans already terminated.\n\nAnd that is what TPS is created for, Audie, temporary protected status. I mean, the Congressional Hispanic Caucus even made the same point in a letter to Rubio and Trump saying, the removals to a country in the midst of a disaster zone like this are untenable.\n\nAnd I'll bring up one more point in terms of the relationship with the U.S., which I think is critically important. And it's also this idea of, you are pledging all of this aid. This new regime, or new and great friends, need to be held accountable for how they administer that aid, but also for who they are locking up inside of Venezuela. There's around 500 to 600 innocent political prisoners that they are still holding behind bars. Those people, in the midst of this disaster, should be released to their families immediately.\n\nCORNISH: Just one other thing. Delcy Rodriguez, we're talking about a vacuum. There is interim leadership. Leadership who had even been there under Maduro. Is the sense right now that they have an inability to or they are not capable of dealing with this moment?\n\nATENCIO: We can't really call this a government, Audie. This is -- this is a regime that has operated for years as a cartel that has been laundering money, stealing from Venezuelans, and has plundered our oil industry and our health system. So, this does not function like a regular government.\n\nThis is a very big test for Delcy Rodriguez. But on the ground, what you are seeing are churches, our neighbors really just rising up to this moment, regular people, because the government has really an inability to respond to a crisis of this scale. So, it remains to be seen how they will mount a response and how they will administer the aid. But already I'm hearing very worrying reports of them saying that the aid should not be administered by opposition figures on the ground. And this is a moment when Venezuela needs to come together as a nation to be able to overcome this incredible test.\n\nCORNISH: OK, that's journalist Mariana Atencio.\n\nAnd if you are watching right now, and you want to know how you can help with the victims for the Venezuelan earthquake, I want you to go to cnn.com/impact. You can also just text the word \"quake\" to 707070.\n\nAnd next on CNN THIS MORNING, there's a new progressive voice rising. And Darializa Chevalier wins big in New York. Why some are saying she's the next AOC.\n\nPlus, Vice President Vance drawing criticism after saying the Watergate scandal would have been a blip in today's news cycle.\n\nAnd in the next hour on CNN NEWS CENTRAL, a Boeing 777 flies close to the ground in Texas. The FAA investigation now underway.\n\nREP. MIKE LAWLER (R-NY): I think it's a disaster for Democrats. I mean they took out very progressive Democratic members in favor of socialists.\n\nCORNISH: Does the right have a new boogeyman? Democratic socialist Darializa Avila Chevalier, fresh off her big win Tuesday, now looking to the general. But DAC's comments about deportation, borders, prisons and past tweets are making her a target for not only the right but those in her party. One centrist Democrat put it like this, \"if AOC was this Tea Party's Ted Cruz, yes, DAC is this Tea Party's MTG.\" I know it's a lot. \"It's less substance and more about a sense that this person is unhinged and indefensible.\"\n\nREP. ALEXANDRIA OCASIO-CORTE (D-NY): I feel like it's deja vu all over again. There was so much fear around that when I was elected.\n\nAnd none of it bore out to be true. Voters vote for what is happening in their community and what's on their ballot. And I think that any candidate of any party that's running their own race has the responsibility to run their race.\n\nCORNISH: OK. Group chat is back.\n\nI wanted to talk about this analogy because we're mentioning these names, Ted Cruz or AOC or MTG. Like, once you get into office, you have to deal with the realities of being in office and your positions change from when you are -- not your positions change, your tone and tenor can change depending.\n\nLulu, what do you see in the way people have been talking about this particular candidate this week? Does it, like AOC says, feel familiar?\n\nLULU GARCIA-NAVARRO, CNN CONTRIBUTOR: It feels familiar. It wasn't a hot minute after she was elected that the right was just -- like you could -- they could not contain their joy. This is an absolute gift, in their view, to them.\n\nShe has positions that are wildly out of the mainstream. I mean, let's be honest about this.\n\nCORNISH: Yes. And just to be clear. So, here's \"The New York Post\" tying her -- or tying just sort of Democratic socialists to Hochul, who's generally not a person I think of in that way. We're bringing in Marxism. We're going all the way. Socialism's not good enough.\n\nGARCIA-NAVARRO: I mean they're basically saying that they're going to target this. I mean -- what --\n\nCORNISH: But that makes sense too.\n\nGARCIA-NAVARRO: Yes, I mean the Democratic socialist project, and this is by their own admission, is that they do want a civil war with the Democratic Party. They think the Democratic Party has lost its way and they want to overtake it. And they think that it has not been forceful enough in pushing a very progressive agenda. That is different in some ways than making --\n\nCORNISH: Well, then --\n\nGARCIA-NAVARRO: Darializa the sort of poster child of this.\n\nCORNISH: Well, then let me play one thing for you, because James Carville has always got to enter the chat.\n\nGARCIA-NAVARRO: He does.\n\nCORNISH: Here he is, what he has to say\n\nJAMES CARVILLE, POLITICAL CONSULTANT: This Chevalier lady, I don't -- they should not seat her in the caucus.\n\nAll of these people hate Democrats. Why do they want to run as a Democrat? Start your own movement. If it's such a powerful, sweeping movement that's got momentum everywhere, then go ahead and be at the head of it. Don't use the Democratic Party to advance it.\n\nCORNISH: Rob, I got to ask you, because I've asked Republicans all week who may have deja vu from MAGA and Tea Party, does that work to just be like, y'all go somewhere else? I mean Donald Trump's president now.\n\nROB BLUEY, PRESIDENT AND EXECUTIVE EDITOR, \"THE DAILY SIGNAL\": Donald Trump is president. You have the House Freedom Caucus, which is a group that exerted its power, right? When you have these narrow margins. I mean, Hakeem Jeffries, right now, is probably looking at a big headache if he were to become speaker next year because he's going to have a large number of now Democratic socialists who would be able to hijack the floor and really set an agenda.\n\nAnd if you look at that party's platform, not party, but I mean if you look at the Democratic socialist platform, I mean they have quite radical ideas, which I agree are out of step with not only independent and mainstream voters, but probably the Democratic Party as large.\n\nCORNISH: We'll at least, while you're talking, put up this \"New York Times\" polling piece. They were asked, should Democratic Party be -- move more to the center or to the left? And I have to admit, I wasn't surprised about the Republican thoughts on that. But the independent thoughts, 77 percent, at least of these people polled, saying more to the center. And even Democrats, it's 44 percent to the center.\n\nELLIOT WILLIAMS, CNN LEGAL ANALYST: Yes. That's right.\n\nCORNISH: And this is the split. The most enthusiastic and loudest in the primaries aren't maybe necessarily the people who are polled or who will be appearing in the general.\n\nWILLIAMS: Yes. Nothing is shocking about those numbers here, partly because, of course, people in the center want a bigger center. It's a common American theme.\n\nNow, it's interesting that I think both of you had mentioned both the Tea Party and MAGA, and there are echoes of that here. There's a party in the wilderness. People -- there's discontent in the country. And folks from the outside just want to push their party in their direction. That's exactly what happened both times and led to Donald Trump to some extent. You know, now, I -- does this lead to a Democratic socialist president? I think perhaps that's unlikely right now.\n\nWILLIAMS: But I -- but --\n\nGARCIA-NAVARRO: But I also --\n\nWILLIAMS: We've seen these kinds of movements before.\n\nGARCIA-NAVARRO: I also just want to say that turnout was extremely low in these elections that brought these Democratic socialists out.\n\nGARCIA-NAVARRO: This was a very, very marginal election where very few people came out to vote. And the people who came out to vote were the most motivated young people who are very far left.\n\nCORNISH: Right. But I still care about it because lots of people look to New York for political playbooks. Things they do sometimes gets exported to other campaigns around the country.\n\nBLUEY: And Mayor Mamdani --\n\nCORNISH: Wait one second. I'm still talking about 2028.\n\nCORNISH: I want to come to this thing about J.D. Vance, because he's still been on tour with his book. He's making some claims now about Richard Nixon, the 37th president. The vice president was promoting at the New York presidential -- the Nixon Presidential Library in Yorba Linda, California.\n\nThis was Thursday. And he was talking all about his admiration for Nixon, who, of course, is best known for resigning in disgrace.\n\nJ.D. VANCE, VICE PRESIDENT OF THE UNITED STATES: If Watergate happened tomorrow, it would be like a 12-hour news story. Like, the idea that it would have taken down a presidency is crazy. And by the way, if you look at the story of how the deep state took down Richard Nixon, it's not all that different from what the same groups of people, the same institutions, tried to do to Donald Trump in the first Trump administration. There is a parallel.\n\nCORNISH: Group chat is back.\n\nThere's a couple of Republicans, I mean maybe not still alive, but who might quibble with being called the deep state? Fundamentally, Nixon went down because of a bipartisan conversation about what happened, no?\n\nBLUEY: Sure. Well, I -- yes. So, I say a couple of things on this. Number one, let's remember historically that Richard Nixon greatly expanded government. And conservatives were no fan of Richard Nixon for the creation of the EPA and other government agencies. So, I think we do need to put that in the historical context.\n\nCORNISH: Yes. But this one is. Vance has comment -- has mimicked Nixon in talking about certain ideas.\n\nGARCIA-NAVARRO: And so, who are these (INAUDIBLE) here?\n\nBLUEY: Nixon is making a resurgence.\n\nGARCIA-NAVARRO: Like, I'm so sorry we're trying to bring back Nixon now?\n\nBLUEY: Well, but Bill Clinton did as well. I mean he's --\n\nGARCIA-NAVARRO: I mean, do we have to like -- do we have to -- do we have to revisit what he actually did? Do you -- I mean I feel like reading David Axelrod street (ph). Just to review, he authorized the break-in of the DNC to install bugging equipment. He then enlisted the CIA to mislead the FBI. Then the entire operation was paid for by a slush fund controlled by the White House.\n\nCORNISH: However, we are now Nixon maxing. And if you check out the Nixon Foundation Instagram page, which is very hip these days.\n\nCORNISH: There is a lot of capital c content kind of rewriting his story. And actually, one of the top popular comments from one of the viewers is, Watergate was a lie, you know what I mean, with a bunch of heart, likes and -- WILLIAMS: With the heart eyes thing.\n\nCORNISH: Yes. But so --\n\nWILLIAMS: Yes, I just don't know if celebrating Richard Nixon is the burn that folks think it is. And just to the points that Lulu was making before, simply on account of his universally accepted misdeeds, he ultimately had to leave the presidency because his party turned on him, regardless of, you know, the merits of anything (ph). Yes.\n\nCORNISH: So, to that point, Vance said something that I think is absolutely true, which is, in this day and age, that would be a blip in the news cycle.\n\nCORNISH: If you think of the kinds of things we have been reporting on for the last six, eight, ten years, the break in is looking smaller and smaller compared to a --\n\nGARCIA-NAVARRO: What does that say about our current political moment. I mean this is -- my bigger problem with what J.D. Vance actually said is that it actually reflects quite poorly, perhaps, on his administration.\n\nBLUEY: Well, I think you have to go back even further. I mean Bill Clinton having sex in the Oval Office. Your own colleague, Jake Tapper, reporting about the cover-up of Joe Biden's mental acuity. I mean, so it's not just Donald Trump. I think we need to broaden the --\n\nCORNISH: Yes. So, you would agree. The -- it wouldn't have been the crisis it is now, mainly because we have crazy things going on.\n\nBLUEY: That's right. Sure.\n\nCORNISH: You can name all the presidents you want. That's great.\n\nCORNISH: All comers accepted. Also and it feels as though the moral sort of outcry that marked the Watergate era, that era of politics is done.\n\nCORNISH: The Supreme Court's like, don't worry about it. The executive can be more powerful. The Congress are like, you want to do --\n\nGARCIA-NAVARRO: Trump has gotten billions of dollars while in office. So has his family.\n\nCORNISH: I haven't seen an oversight hearing in weeks.\n\nCORNISH: It's just one of those things where Washington itself doesn't behave this way anymore.\n\nWILLIAMS: I think few people are going to defend Bill Clinton and his conduct. I think we can universally agree with that. You know, Richard Nixon --\n\nCORNISH: At least there were hearings.\n\nWILLIAMS: Richard Nixon had a documented history of anti-Semitic comments in sort of -- to people that he thought were trusted. He spied on his allies. He cheapened the American political system. Regardless of anything he did, you know, as a successful politician, we ought not be celebrating Richard Nixon here.\n\nCORNISH: OK. Elliot, not Nixon maxing. Got it.\n\nWILLIAMS: Well, yes, look --\n\nCORNISH: Not in your group chat.\n\nWILLIAMS: But I will say this, look, that the '70s with big hair is back. We got a World Cup. Gas is expensive. Nixon is back. Let's go back to '74.\n\nCORNISH: OK. I'm sure the administration is glad it's not Carter.\n\nWILLIAMS: Glad it's not Carter (ph).\n\nCORNISH: Rob, you haven't been here in a while. What's in your group chat?\n\nBLUEY: Sure. Well, the Great American State Fair is taking place on the National Mall. And the U.S. State Department has just announced that they're giving a limited number of U.S. passports to celebrate America 250. And if you want one, it has Donald Trump's picture inside.\n\nCORNISH: OK. And you -- and for you?\n\nWILLIAMS: McDonalds has brought back the apple -- the fried apple pie.\n\nGARCIA-NAVARRO: Yes. Yes.\n\nCORNISH: Oh, man, that is American.\n\nWILLIAMS: Because, you know what? And, you know -- and get -- it is American. You know what, back to the '70s being back. I feel like, as a child of the '70s, every kid needs to celebrate burning the hell out of your mouth on that cardboard, too sweet, overly spicy apple pie. It's when you --\n\nCORNISH: You mean the delicate pastry that --\n\nGARCIA-NAVARRO: I love that.\n\nWILLIAMS: And it's fun.\n\nGARCIA-NAVARRO: It is delicious.\n\nGARCIA-NAVARRO: And I am thrilled that it's back. I'm going to leave here --\n\nBLUEY: Sounds like we're going to --\n\nGARCIA-NAVARRO: And go shovel 15 in my mouth.\n\nWILLIAMS: Yes. No, no, quick, to bring it all back, it's actually fried, not baked now, but (INAUDIBLE) now.\n\nCORNISH: OK. Brought to you by McDonald's. Thank you guys in the group chat. Thank you for waking up with us. I'm Audie Cornish. Headlines now.",
+  "segments": [
+    {
+      "seg": 2,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-26/segment/02",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nIranian Drone Hits Cargo Ship; Journalist Mariana Atencio is Interviewed about the Venezuelan Earthquake; Darializa Avila Chevalier Becoming the New AOC; Vice President Vance Comments on Watergate. Aired 6:30-7a ET\n\nAired June 26, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nWILL LEITCH, CONTRIBUTING EDITOR, \"NEW YORK MAGAZINE\": They can't compete on the world stage if they are not a favorite like a Spain or a France or an England, but they are good and they are getting better. Those are fun teams to root for. We always think of ourselves as Rocky Balboa, but usually we're not.\n\nAUDIE CORNISH, CNN ANCHOR: Right. Yes.\n\nLEITCH: In the closest there we are. Like, this is the closest you kind of get for that. We are this -- the closest as a U.S. national team will ever get to being Hoosiers. So, that's a fun team to kind of get excited and cheer.\n\nCORNISH: Good reference. Will Leitch, thank you so much.\n\nCORNISH: Straight ahead on CNN THIS MORNING, we're going to follow up on what's going on with the Strait of Hormuz. The U.S. accusing Iran of attacking a vessel and pausing U.N. efforts to evacuate ships.\n\nPlus, why did J.D. Vance downplay the impact of Watergate?\n\nCORNISH: Developing this morning, a ship has struck the Strait of Hormuz. A ship has been struck in the Strait of Hormuz. The U.S. is pointing the finger at Iran, saying one of their drones hit the cargo ship. It's the first strike since the U.S. and Iran agreed to work towards a peace deal.\n\nNow, the incident happened as shipping traffic was just starting to pick up. Just days after the U.S. lifted sanctions on Iranian oil, allowing Tehran to sell oil in dollars for the first time in decades.\n\nSo, we're bringing in CNN's Paula Hancocks.\n\nPaula, as I said, consequential day, the lifting of sanctions. And then at the same time, you've got this strike occurring in the Strait of Hormuz. Can you talk about what that means for the ability of these negotiations to go on if there's still threats to the ships from passing through?\n\nPAULA HANCOCKS, CNN CORRESPONDENT: So, Audie, it had been going so well in the Strait of Hormuz this week. With this latest strike, there were no casualties. There's no environmental damage. But the hit to confidence in the shipping industry is pretty significant.\n\nThere was an evacuation that was underway by the U.N., by the international maritime organization to try and get the vessels and more than 11,000 seafarers who had been stuck in the Persian Gulf since the start of the war out into the open waters. Now that had begun.\n\nWe saw on Wednesday some 70 vessels managed to transit through the Strait of Hormuz. But now that there has been this strike, that is all on hold. The U.N. saying they're halting this evacuation. They said the safety of the seafarers is the most important. They need more clarity.\n\nNow, Iran hasn't claimed responsibility at this point for this strike on the vessel, which the U.S. says was done by an Iranian drone. But what we heard just hours before this strike happened was the Revolutionary Guard in Iran saying that they couldn't guarantee safe passage for any vessel that wasn't using their route through the Strait of Hormuz. They want vessels to be going along the northern part of the Strait of Hormuz, so they have to go through Tehran, they have to fill in the forms that Tehran gives them, rather than the southern part, which is hugging the coast of Oman, which, understandably, most vessels are going through.\n\nSo, this really throws into doubt now the U.S. president's claim that the Strait of Hormuz is open and that it is free. And it really brings a halt to what we had seen earlier in this week with the Strait of Hormuz seeing a number of vessels coming through. The oil price dipping because of that. And, of course, gas prices as well dipping slightly.\n\nNow, what we've heard from the U.S. secretary of state, Marco Rubio, he's just been in this region. He was meeting some of the gulf nations who were really hardest hit by Iran in their retaliation during the war. And he has said that no country on earth should be able to claim responsibility over an international waterway. But that does appear to be exactly what Iran wants to do.\n\nIt says that it's in talks with Oman, which is on the other side of the water. But Oman's foreign minister says that they support international law. They support a toll-free system. So, at this point, Tehran is really out on its own when it is saying that it wants vessels to use its route.\n\nAnd of course, there is the issue of mines in the Strait of Hormuz as well. Presumably why no vessels are wanting to go through the center of this waterway. But it does throw into doubt the talks that have been ongoing. We heard from Secretary Rubio as well that that he's given a statement with the gulf nations here really widening the remit, also pointing out they have to deal with Iran's missiles and its use of proxies.\n\nCORNISH: OK, that's Paula Hancocks from Abu Dhabi.\n\nI want to turn to this. The U.S. forces being sent to Venezuela as the nation deals with the aftermath of two devastating earthquakes. The death toll climbed to more than 230 people. It is still expected to rise. The country's health minister saying more than 4,300 people are injured. Rescue efforts ongoing, with hundreds of people trapped under rubble or missing.\n\nAnd Venezuelans are not only reeling from the physical destruction of their country. Critics say there's also a vacuum of authority in the country with the burden of rescue and relief efforts falling on civil organizations and schools and local churches and families.\n\nJoining me now, Mariana Atencio. She's a Venezuelan journalist, author and speaker.\n\nThank you so much for being with us. I'm so sorry it's under these circumstances because I know you have friends and family still in Venezuela. What have you heard from them?\n\nMARIANA ATENCIO, JOURNALIST: Audie, these have been the most harrowing few days for Venezuelans. On the ground, local organizations estimate the number of missing could climb to 40,000 people. I'm seeing images of children that are left completely orphaned. And you stated it, there is a power vacuum in Venezuela right now. The worst hit areas of La Guaira. There's -- that's the coastal area. There's no heavy machinery. Neighbors are digging their own family members out of the rubble by hand. Hospitals are overwhelmed. They're treating the wounded in the streets because this earthquake is hitting a country that had nothing left to absorb it. And we're talking about a health system that's collapsed after years of crisis.\n\nCORNISH: You know, it's such a moment to be talking about this because here in the U.S. the Venezuelan asylum seekers who are already here, they've had their status terminated. We talked about that earlier, happening to Syrians and Haitians and others. But the U.S. now has a very peculiar relationship with Venezuela. Is there any sign of it now that the country is suffering?\n\nATENCIO: So Rubio said the response will be big, fast, effective. President Trump called Venezuela our new and great friends. They've, of course, pledged $150 million in aid.\n\nBut at the same time, I can speak for a diaspora of nearly eight million people, being sent back doesn't mean being sent back home right now. It means going back to rubble. So, it is ironic that the same week that Venezuela becomes a disaster zone, the U.S. is closing the door, TPS, for roughly 300,000 Venezuelans already terminated.\n\nAnd that is what TPS is created for, Audie, temporary protected status. I mean, the Congressional Hispanic Caucus even made the same point in a letter to Rubio and Trump saying, the removals to a country in the midst of a disaster zone like this are untenable.\n\nAnd I'll bring up one more point in terms of the relationship with the U.S., which I think is critically important. And it's also this idea of, you are pledging all of this aid. This new regime, or new and great friends, need to be held accountable for how they administer that aid, but also for who they are locking up inside of Venezuela. There's around 500 to 600 innocent political prisoners that they are still holding behind bars. Those people, in the midst of this disaster, should be released to their families immediately.\n\nCORNISH: Just one other thing. Delcy Rodriguez, we're talking about a vacuum. There is interim leadership. Leadership who had even been there under Maduro. Is the sense right now that they have an inability to or they are not capable of dealing with this moment?\n\nATENCIO: We can't really call this a government, Audie. This is -- this is a regime that has operated for years as a cartel that has been laundering money, stealing from Venezuelans, and has plundered our oil industry and our health system. So, this does not function like a regular government.\n\nThis is a very big test for Delcy Rodriguez. But on the ground, what you are seeing are churches, our neighbors really just rising up to this moment, regular people, because the government has really an inability to respond to a crisis of this scale. So, it remains to be seen how they will mount a response and how they will administer the aid. But already I'm hearing very worrying reports of them saying that the aid should not be administered by opposition figures on the ground. And this is a moment when Venezuela needs to come together as a nation to be able to overcome this incredible test.\n\nCORNISH: OK, that's journalist Mariana Atencio.\n\nAnd if you are watching right now, and you want to know how you can help with the victims for the Venezuelan earthquake, I want you to go to cnn.com/impact. You can also just text the word \"quake\" to 707070.\n\nAnd next on CNN THIS MORNING, there's a new progressive voice rising. And Darializa Chevalier wins big in New York. Why some are saying she's the next AOC.\n\nPlus, Vice President Vance drawing criticism after saying the Watergate scandal would have been a blip in today's news cycle.\n\nAnd in the next hour on CNN NEWS CENTRAL, a Boeing 777 flies close to the ground in Texas. The FAA investigation now underway.\n\nREP. MIKE LAWLER (R-NY): I think it's a disaster for Democrats. I mean they took out very progressive Democratic members in favor of socialists.\n\nCORNISH: Does the right have a new boogeyman? Democratic socialist Darializa Avila Chevalier, fresh off her big win Tuesday, now looking to the general. But DAC's comments about deportation, borders, prisons and past tweets are making her a target for not only the right but those in her party. One centrist Democrat put it like this, \"if AOC was this Tea Party's Ted Cruz, yes, DAC is this Tea Party's MTG.\" I know it's a lot. \"It's less substance and more about a sense that this person is unhinged and indefensible.\"\n\nREP. ALEXANDRIA OCASIO-CORTE (D-NY): I feel like it's deja vu all over again. There was so much fear around that when I was elected.\n\nAnd none of it bore out to be true. Voters vote for what is happening in their community and what's on their ballot. And I think that any candidate of any party that's running their own race has the responsibility to run their race.\n\nCORNISH: OK. Group chat is back.\n\nI wanted to talk about this analogy because we're mentioning these names, Ted Cruz or AOC or MTG. Like, once you get into office, you have to deal with the realities of being in office and your positions change from when you are -- not your positions change, your tone and tenor can change depending.\n\nLulu, what do you see in the way people have been talking about this particular candidate this week? Does it, like AOC says, feel familiar?\n\nLULU GARCIA-NAVARRO, CNN CONTRIBUTOR: It feels familiar. It wasn't a hot minute after she was elected that the right was just -- like you could -- they could not contain their joy. This is an absolute gift, in their view, to them.\n\nShe has positions that are wildly out of the mainstream. I mean, let's be honest about this.\n\nCORNISH: Yes. And just to be clear. So, here's \"The New York Post\" tying her -- or tying just sort of Democratic socialists to Hochul, who's generally not a person I think of in that way. We're bringing in Marxism. We're going all the way. Socialism's not good enough.\n\nGARCIA-NAVARRO: I mean they're basically saying that they're going to target this. I mean -- what --\n\nCORNISH: But that makes sense too.\n\nGARCIA-NAVARRO: Yes, I mean the Democratic socialist project, and this is by their own admission, is that they do want a civil war with the Democratic Party. They think the Democratic Party has lost its way and they want to overtake it. And they think that it has not been forceful enough in pushing a very progressive agenda. That is different in some ways than making --\n\nCORNISH: Well, then --\n\nGARCIA-NAVARRO: Darializa the sort of poster child of this.\n\nCORNISH: Well, then let me play one thing for you, because James Carville has always got to enter the chat.\n\nGARCIA-NAVARRO: He does.\n\nCORNISH: Here he is, what he has to say\n\nJAMES CARVILLE, POLITICAL CONSULTANT: This Chevalier lady, I don't -- they should not seat her in the caucus.\n\nAll of these people hate Democrats. Why do they want to run as a Democrat? Start your own movement. If it's such a powerful, sweeping movement that's got momentum everywhere, then go ahead and be at the head of it. Don't use the Democratic Party to advance it.\n\nCORNISH: Rob, I got to ask you, because I've asked Republicans all week who may have deja vu from MAGA and Tea Party, does that work to just be like, y'all go somewhere else? I mean Donald Trump's president now.\n\nROB BLUEY, PRESIDENT AND EXECUTIVE EDITOR, \"THE DAILY SIGNAL\": Donald Trump is president. You have the House Freedom Caucus, which is a group that exerted its power, right? When you have these narrow margins. I mean, Hakeem Jeffries, right now, is probably looking at a big headache if he were to become speaker next year because he's going to have a large number of now Democratic socialists who would be able to hijack the floor and really set an agenda.\n\nAnd if you look at that party's platform, not party, but I mean if you look at the Democratic socialist platform, I mean they have quite radical ideas, which I agree are out of step with not only independent and mainstream voters, but probably the Democratic Party as large.\n\nCORNISH: We'll at least, while you're talking, put up this \"New York Times\" polling piece. They were asked, should Democratic Party be -- move more to the center or to the left? And I have to admit, I wasn't surprised about the Republican thoughts on that. But the independent thoughts, 77 percent, at least of these people polled, saying more to the center. And even Democrats, it's 44 percent to the center.\n\nELLIOT WILLIAMS, CNN LEGAL ANALYST: Yes. That's right.\n\nCORNISH: And this is the split. The most enthusiastic and loudest in the primaries aren't maybe necessarily the people who are polled or who will be appearing in the general.\n\nWILLIAMS: Yes. Nothing is shocking about those numbers here, partly because, of course, people in the center want a bigger center. It's a common American theme.\n\nNow, it's interesting that I think both of you had mentioned both the Tea Party and MAGA, and there are echoes of that here. There's a party in the wilderness. People -- there's discontent in the country. And folks from the outside just want to push their party in their direction. That's exactly what happened both times and led to Donald Trump to some extent. You know, now, I -- does this lead to a Democratic socialist president? I think perhaps that's unlikely right now.\n\nWILLIAMS: But I -- but --\n\nGARCIA-NAVARRO: But I also --\n\nWILLIAMS: We've seen these kinds of movements before.\n\nGARCIA-NAVARRO: I also just want to say that turnout was extremely low in these elections that brought these Democratic socialists out.\n\nGARCIA-NAVARRO: This was a very, very marginal election where very few people came out to vote. And the people who came out to vote were the most motivated young people who are very far left.\n\nCORNISH: Right. But I still care about it because lots of people look to New York for political playbooks. Things they do sometimes gets exported to other campaigns around the country.\n\nBLUEY: And Mayor Mamdani --\n\nCORNISH: Wait one second. I'm still talking about 2028.\n\nCORNISH: I want to come to this thing about J.D. Vance, because he's still been on tour with his book. He's making some claims now about Richard Nixon, the 37th president. The vice president was promoting at the New York presidential -- the Nixon Presidential Library in Yorba Linda, California.\n\nThis was Thursday. And he was talking all about his admiration for Nixon, who, of course, is best known for resigning in disgrace.\n\nJ.D. VANCE, VICE PRESIDENT OF THE UNITED STATES: If Watergate happened tomorrow, it would be like a 12-hour news story. Like, the idea that it would have taken down a presidency is crazy. And by the way, if you look at the story of how the deep state took down Richard Nixon, it's not all that different from what the same groups of people, the same institutions, tried to do to Donald Trump in the first Trump administration. There is a parallel.\n\nCORNISH: Group chat is back.\n\nThere's a couple of Republicans, I mean maybe not still alive, but who might quibble with being called the deep state? Fundamentally, Nixon went down because of a bipartisan conversation about what happened, no?\n\nBLUEY: Sure. Well, I -- yes. So, I say a couple of things on this. Number one, let's remember historically that Richard Nixon greatly expanded government. And conservatives were no fan of Richard Nixon for the creation of the EPA and other government agencies. So, I think we do need to put that in the historical context.\n\nCORNISH: Yes. But this one is. Vance has comment -- has mimicked Nixon in talking about certain ideas.\n\nGARCIA-NAVARRO: And so, who are these (INAUDIBLE) here?\n\nBLUEY: Nixon is making a resurgence.\n\nGARCIA-NAVARRO: Like, I'm so sorry we're trying to bring back Nixon now?\n\nBLUEY: Well, but Bill Clinton did as well. I mean he's --\n\nGARCIA-NAVARRO: I mean, do we have to like -- do we have to -- do we have to revisit what he actually did? Do you -- I mean I feel like reading David Axelrod street (ph). Just to review, he authorized the break-in of the DNC to install bugging equipment. He then enlisted the CIA to mislead the FBI. Then the entire operation was paid for by a slush fund controlled by the White House.\n\nCORNISH: However, we are now Nixon maxing. And if you check out the Nixon Foundation Instagram page, which is very hip these days.\n\nCORNISH: There is a lot of capital c content kind of rewriting his story. And actually, one of the top popular comments from one of the viewers is, Watergate was a lie, you know what I mean, with a bunch of heart, likes and -- WILLIAMS: With the heart eyes thing.\n\nCORNISH: Yes. But so --\n\nWILLIAMS: Yes, I just don't know if celebrating Richard Nixon is the burn that folks think it is. And just to the points that Lulu was making before, simply on account of his universally accepted misdeeds, he ultimately had to leave the presidency because his party turned on him, regardless of, you know, the merits of anything (ph). Yes.\n\nCORNISH: So, to that point, Vance said something that I think is absolutely true, which is, in this day and age, that would be a blip in the news cycle.\n\nCORNISH: If you think of the kinds of things we have been reporting on for the last six, eight, ten years, the break in is looking smaller and smaller compared to a --\n\nGARCIA-NAVARRO: What does that say about our current political moment. I mean this is -- my bigger problem with what J.D. Vance actually said is that it actually reflects quite poorly, perhaps, on his administration.\n\nBLUEY: Well, I think you have to go back even further. I mean Bill Clinton having sex in the Oval Office. Your own colleague, Jake Tapper, reporting about the cover-up of Joe Biden's mental acuity. I mean, so it's not just Donald Trump. I think we need to broaden the --\n\nCORNISH: Yes. So, you would agree. The -- it wouldn't have been the crisis it is now, mainly because we have crazy things going on.\n\nBLUEY: That's right. Sure.\n\nCORNISH: You can name all the presidents you want. That's great.\n\nCORNISH: All comers accepted. Also and it feels as though the moral sort of outcry that marked the Watergate era, that era of politics is done.\n\nCORNISH: The Supreme Court's like, don't worry about it. The executive can be more powerful. The Congress are like, you want to do --\n\nGARCIA-NAVARRO: Trump has gotten billions of dollars while in office. So has his family.\n\nCORNISH: I haven't seen an oversight hearing in weeks.\n\nCORNISH: It's just one of those things where Washington itself doesn't behave this way anymore.\n\nWILLIAMS: I think few people are going to defend Bill Clinton and his conduct. I think we can universally agree with that. You know, Richard Nixon --\n\nCORNISH: At least there were hearings.\n\nWILLIAMS: Richard Nixon had a documented history of anti-Semitic comments in sort of -- to people that he thought were trusted. He spied on his allies. He cheapened the American political system. Regardless of anything he did, you know, as a successful politician, we ought not be celebrating Richard Nixon here.\n\nCORNISH: OK. Elliot, not Nixon maxing. Got it.\n\nWILLIAMS: Well, yes, look --\n\nCORNISH: Not in your group chat.\n\nWILLIAMS: But I will say this, look, that the '70s with big hair is back. We got a World Cup. Gas is expensive. Nixon is back. Let's go back to '74.\n\nCORNISH: OK. I'm sure the administration is glad it's not Carter.\n\nWILLIAMS: Glad it's not Carter (ph).\n\nCORNISH: Rob, you haven't been here in a while. What's in your group chat?\n\nBLUEY: Sure. Well, the Great American State Fair is taking place on the National Mall. And the U.S. State Department has just announced that they're giving a limited number of U.S. passports to celebrate America 250. And if you want one, it has Donald Trump's picture inside.\n\nCORNISH: OK. And you -- and for you?\n\nWILLIAMS: McDonalds has brought back the apple -- the fried apple pie.\n\nGARCIA-NAVARRO: Yes. Yes.\n\nCORNISH: Oh, man, that is American.\n\nWILLIAMS: Because, you know what? And, you know -- and get -- it is American. You know what, back to the '70s being back. I feel like, as a child of the '70s, every kid needs to celebrate burning the hell out of your mouth on that cardboard, too sweet, overly spicy apple pie. It's when you --\n\nCORNISH: You mean the delicate pastry that --\n\nGARCIA-NAVARRO: I love that.\n\nWILLIAMS: And it's fun.\n\nGARCIA-NAVARRO: It is delicious.\n\nGARCIA-NAVARRO: And I am thrilled that it's back. I'm going to leave here --\n\nBLUEY: Sounds like we're going to --\n\nGARCIA-NAVARRO: And go shovel 15 in my mouth.\n\nWILLIAMS: Yes. No, no, quick, to bring it all back, it's actually fried, not baked now, but (INAUDIBLE) now.\n\nCORNISH: OK. Brought to you by McDonald's. Thank you guys in the group chat. Thank you for waking up with us. I'm Audie Cornish. Headlines now."
+    }
+  ]
+}

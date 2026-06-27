@@ -1,386 +1,1308 @@
 {
-  "date": "2026-06-25",
-  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-25/segment/01",
+  "date": "2026-06-26",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-26/segment/02",
   "vocabulary": [
     {
-      "word": "devastating",
-      "phonetic": "/ˈdevəsteɪtɪŋ/",
-      "pos": "adj.",
-      "level": "六级",
-      "cn": "毁灭性的",
-      "en": "causing great damage or suffering",
-      "excerpt": "At least 32 people are dead and hundreds more injured after devastating back-to-back earthquakes there.",
-      "example_cn": "这场毁灭性的地震导致数十人丧生。"
-    },
-    {
-      "word": "epicenter",
-      "phonetic": "/ˈepɪsentər/",
+      "word": "drone",
+      "phonetic": "/droʊn/",
       "pos": "n.",
       "level": "六级",
-      "cn": "震中",
-      "en": "the point on the earth's surface directly above the focus of an earthquake",
-      "excerpt": "The epicenter of the quakes, located along the country's Northern coastal region.",
-      "example_cn": "地震的震中位于海底。"
+      "cn": "无人机",
+      "en": "an unmanned aircraft or ship guided by remote control or onboard computers",
+      "excerpt": "Iranian Drone Hits Cargo Ship",
+      "example_cn": "伊朗无人机击中货船。"
     },
     {
-      "word": "collapse",
-      "phonetic": "/kəˈlæps/",
-      "pos": "v.",
-      "level": "考研",
-      "cn": "倒塌",
-      "en": "to fall down or fall in suddenly",
-      "excerpt": "It's caused widespread damage, collapsed buildings, and sent terrified residents into the streets.",
-      "example_cn": "旧建筑在地震中倒塌了。"
+      "word": "cargo ship",
+      "phonetic": "/ˈkɑːrɡoʊ ʃɪp/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "货船",
+      "en": "a ship designed to carry goods",
+      "excerpt": "Iranian Drone Hits Cargo Ship",
+      "example_cn": "伊朗无人机击中货船。"
     },
     {
       "word": "evacuation",
       "phonetic": "/ɪˌvækjuˈeɪʃn/",
       "pos": "n.",
       "level": "六级",
-      "cn": "疏散",
+      "cn": "疏散，撤离",
       "en": "the process of moving people from a dangerous place to a safe place",
-      "excerpt": "The 7.2- and 7.5-magnitude earthquakes triggered evacuations more than 1,000 miles away in Brazil's Amazon.",
-      "example_cn": "政府下令立即疏散。"
+      "excerpt": "There was an evacuation that was underway by the U.N.",
+      "example_cn": "联合国正在进行疏散。"
     },
     {
-      "word": "state of emergency",
-      "phonetic": "/steɪt əv ɪˈmɜːrdʒənsi/",
+      "word": "seafarer",
+      "phonetic": "/ˈsiːferər/",
       "pos": "n.",
       "level": "六级",
-      "cn": "紧急状态",
-      "en": "a situation in which a government gives itself special powers to deal with a crisis",
-      "excerpt": "Venezuela's president declaring a state of emergency.",
-      "example_cn": "总统宣布全国进入紧急状态。"
+      "cn": "海员，航海者",
+      "en": "a person who works on a ship",
+      "excerpt": "more than 11,000 seafarers who had been stuck in the Persian Gulf",
+      "example_cn": "超过11000名被困在波斯湾的海员。"
     },
     {
-      "word": "suspend",
-      "phonetic": "/səˈspend/",
-      "pos": "v.",
-      "level": "考研",
-      "cn": "暂停",
-      "en": "to officially stop something for a period of time",
-      "excerpt": "We have also suspended the metro and railway systems in order to facilitate both rescue operations and the recovery of vital infrastructure.",
-      "example_cn": "由于暴风雪，学校停课。"
-    },
-    {
-      "word": "facilitate",
-      "phonetic": "/fəˈsɪlɪteɪt/",
+      "word": "transit",
+      "phonetic": "/ˈtrænzɪt/",
       "pos": "v.",
       "level": "六级",
-      "cn": "促进",
-      "en": "to make an action or process easier",
-      "excerpt": "We have also suspended the metro and railway systems in order to facilitate both rescue operations and the recovery of vital infrastructure.",
-      "example_cn": "新机场将促进旅游业的发展。"
+      "cn": "通过，过境",
+      "en": "to pass through or across",
+      "excerpt": "some 70 vessels managed to transit through the Strait of Hormuz",
+      "example_cn": "大约70艘船只成功通过了霍尔木兹海峡。"
     },
     {
-      "word": "infrastructure",
-      "phonetic": "/ˈɪnfrəstrʌktʃər/",
+      "word": "halt",
+      "phonetic": "/hɔːlt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "停止，暂停",
+      "en": "to stop or cause to stop",
+      "excerpt": "that is all on hold. The U.N. saying they're halting this evacuation.",
+      "example_cn": "联合国表示他们正在暂停这次疏散。"
+    },
+    {
+      "word": "responsibility",
+      "phonetic": "/rɪˌspɑːnsəˈbɪləti/",
       "pos": "n.",
       "level": "考研",
-      "cn": "基础设施",
-      "en": "the basic systems and services that a country or organization uses in order to work effectively",
-      "excerpt": "We have also suspended the metro and railway systems in order to facilitate both rescue operations and the recovery of vital infrastructure.",
-      "example_cn": "该国的基础设施在战争中遭到破坏。"
+      "cn": "责任",
+      "en": "the state of being responsible for something",
+      "excerpt": "Iran hasn't claimed responsibility at this point for this strike",
+      "example_cn": "伊朗目前尚未声称对此次袭击负责。"
+    },
+    {
+      "word": "claim responsibility",
+      "phonetic": "/kleɪm rɪˌspɑːnsəˈbɪləti/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "声称负责",
+      "en": "to state that one is responsible for something",
+      "excerpt": "Iran hasn't claimed responsibility at this point for this strike",
+      "example_cn": "伊朗目前尚未声称对此次袭击负责。"
+    },
+    {
+      "word": "guarantee",
+      "phonetic": "/ˌɡærənˈtiː/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "保证",
+      "en": "to promise that something will happen or be done",
+      "excerpt": "they couldn't guarantee safe passage for any vessel",
+      "example_cn": "他们无法保证任何船只的安全通行。"
+    },
+    {
+      "word": "safe passage",
+      "phonetic": "/seɪf ˈpæsɪdʒ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "安全通行",
+      "en": "the right to travel safely through a dangerous area",
+      "excerpt": "they couldn't guarantee safe passage for any vessel",
+      "example_cn": "他们无法保证任何船只的安全通行。"
+    },
+    {
+      "word": "hug",
+      "phonetic": "/hʌɡ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "紧靠，沿着……走",
+      "en": "to keep close to something, especially a coast",
+      "excerpt": "the southern part, which is hugging the coast of Oman",
+      "example_cn": "南部紧贴阿曼海岸。"
+    },
+    {
+      "word": "throw into doubt",
+      "phonetic": "/θroʊ ˈɪntuː daʊt/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "使……受到怀疑",
+      "en": "to cause something to be uncertain",
+      "excerpt": "this really throws into doubt now the U.S. president's claim",
+      "example_cn": "这使美国总统的说法受到质疑。"
+    },
+    {
+      "word": "dip",
+      "phonetic": "/dɪp/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "下降，下跌",
+      "en": "to go down to a lower level",
+      "excerpt": "The oil price dipping because of that.",
+      "example_cn": "油价因此下跌。"
+    },
+    {
+      "word": "remit",
+      "phonetic": "/ˈriːmɪt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "职权范围，职责",
+      "en": "the area of authority or responsibility of a person or group",
+      "excerpt": "widening the remit",
+      "example_cn": "扩大职权范围。"
+    },
+    {
+      "word": "proxy",
+      "phonetic": "/ˈprɑːksi/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "代理人，代理",
+      "en": "a person authorized to act for another",
+      "excerpt": "its use of proxies",
+      "example_cn": "其使用代理人的行为。"
+    },
+    {
+      "word": "devastating",
+      "phonetic": "/ˈdevəsteɪtɪŋ/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "毁灭性的",
+      "en": "causing great damage or destruction",
+      "excerpt": "two devastating earthquakes",
+      "example_cn": "两次毁灭性的地震。"
     },
     {
       "word": "death toll",
-      "phonetic": "/deθ təʊl/",
+      "phonetic": "/deθ toʊl/",
       "pos": "n.",
       "level": "六级",
       "cn": "死亡人数",
-      "en": "the number of people who die in a particular event",
-      "excerpt": "We are expecting that death toll, which late last night at around 11 p.m. was here in Bogota, so midnight in Venezuela, the death toll was set at 32.",
-      "example_cn": "地震造成的死亡人数仍在上升。"
+      "en": "the number of people killed in a disaster, war, etc.",
+      "excerpt": "The death toll climbed to more than 230 people.",
+      "example_cn": "死亡人数攀升至230人以上。"
     },
     {
-      "word": "concentrate",
-      "phonetic": "/ˈkɑːnsntreɪt/",
-      "pos": "v.",
-      "level": "考研",
-      "cn": "集中",
-      "en": "to bring or come together in a small area",
-      "excerpt": "In particular, most of the damages seem to be concentrated in the state of la Guaira.",
-      "example_cn": "大部分工业集中在城市北部。"
-    },
-    {
-      "word": "sandwich",
-      "phonetic": "/ˈsænwɪtʃ/",
-      "pos": "v.",
+      "word": "reel from",
+      "phonetic": "/riːl frʌm/",
+      "pos": "phrase",
       "level": "六级",
-      "cn": "夹在中间",
-      "en": "to squeeze someone or something between two other people or things",
-      "excerpt": "That is North to the capital, Caracas, pretty much sandwiched between the coast and the city itself.",
-      "example_cn": "这个小镇夹在两座山之间。"
+      "cn": "因……而震惊/受创",
+      "en": "to be shocked or upset by something",
+      "excerpt": "Venezuelans are not only reeling from the physical destruction",
+      "example_cn": "委内瑞拉人不仅因物质破坏而震惊。"
     },
     {
-      "word": "aftershock",
-      "phonetic": "/ˈæftərʃɑːk/",
-      "pos": "n.",
+      "word": "vacuum of authority",
+      "phonetic": "/ˈvækjuːm əv əˈθɔːrəti/",
+      "pos": "phrase",
       "level": "六级",
-      "cn": "余震",
-      "en": "a small earthquake that follows a larger one",
-      "excerpt": "The authorities have made a plea not to go back into their homes, given the presence of aftershocks.",
-      "example_cn": "主震后发生了多次余震。"
+      "cn": "权力真空",
+      "en": "a situation where there is no clear leadership or control",
+      "excerpt": "there's also a vacuum of authority in the country",
+      "example_cn": "该国也存在权力真空。"
     },
     {
-      "word": "fragile",
-      "phonetic": "/ˈfrædʒaɪl/",
-      "pos": "adj.",
-      "level": "考研",
-      "cn": "脆弱的",
-      "en": "easily broken or damaged",
-      "excerpt": "The infrastructure of the buildings in Venezuela is so fragile as a consequence of the economic crisis.",
-      "example_cn": "经济仍然脆弱。"
-    },
-    {
-      "word": "renovation",
-      "phonetic": "/ˌrenəˈveɪʃn/",
-      "pos": "n.",
-      "level": "六级",
-      "cn": "翻新",
-      "en": "the act of repairing and improving a building",
-      "excerpt": "There has been close to little renovation on most of the buildings.",
-      "example_cn": "这栋建筑需要大规模翻新。"
-    },
-    {
-      "word": "solidarity",
-      "phonetic": "/ˌsɑːlɪˈdærəti/",
-      "pos": "n.",
-      "level": "六级",
-      "cn": "团结",
-      "en": "support by one group of people for another because they share feelings or opinions",
-      "excerpt": "Several countries in the region have expressed their solidarity and have prepared aid.",
-      "example_cn": "工人们表示团结一致。"
-    },
-    {
-      "word": "bipartisan",
-      "phonetic": "/ˌbaɪpɑːrtɪˈzæn/",
+      "word": "harrowing",
+      "phonetic": "/ˈhæroʊɪŋ/",
       "pos": "adj.",
       "level": "六级",
-      "cn": "两党的",
-      "en": "involving two political parties",
-      "excerpt": "Congress finally passed a bipartisan housing bill.",
-      "example_cn": "该法案得到了两党的支持。"
+      "cn": "令人痛苦的，折磨人的",
+      "en": "very distressing or painful",
+      "excerpt": "these have been the most harrowing few days for Venezuelans",
+      "example_cn": "对委内瑞拉人来说，这是最痛苦的几天。"
     },
     {
-      "word": "tantrum",
-      "phonetic": "/ˈtæntrəm/",
+      "word": "orphaned",
+      "phonetic": "/ˈɔːrfənd/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "成为孤儿的",
+      "en": "having lost both parents",
+      "excerpt": "children that are left completely orphaned",
+      "example_cn": "完全成为孤儿的孩子。"
+    },
+    {
+      "word": "rubble",
+      "phonetic": "/ˈrʌbl/",
       "pos": "n.",
       "level": "六级",
-      "cn": "发脾气",
-      "en": "a sudden short period of angry, unreasonable behavior",
-      "excerpt": "Republicans described the president as, quote, \"having an 'F'-ing tantrum.\"",
-      "example_cn": "孩子大发脾气。"
+      "cn": "瓦砾，碎石",
+      "en": "broken pieces of stone, brick, etc., from a destroyed building",
+      "excerpt": "digging their own family members out of the rubble by hand",
+      "example_cn": "徒手从瓦砾中挖出家人。"
     },
     {
-      "word": "unify",
-      "phonetic": "/ˈjuːnɪfaɪ/",
+      "word": "overwhelmed",
+      "phonetic": "/ˌoʊvərˈwelmd/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "不堪重负的",
+      "en": "having too much to deal with",
+      "excerpt": "Hospitals are overwhelmed.",
+      "example_cn": "医院不堪重负。"
+    },
+    {
+      "word": "asylum seeker",
+      "phonetic": "/əˈsaɪləm ˈsiːkər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "寻求庇护者",
+      "en": "a person who has left their home country and is seeking protection from persecution",
+      "excerpt": "Venezuelan asylum seekers who are already here",
+      "example_cn": "已经在这里的委内瑞拉寻求庇护者。"
+    },
+    {
+      "word": "terminate",
+      "phonetic": "/ˈtɜːrmɪneɪt/",
       "pos": "v.",
       "level": "六级",
-      "cn": "统一",
-      "en": "to bring together separate parts to form a single unit",
-      "excerpt": "The president closed by preaching unity, but he spent the prior hour talking about things which were not exactly unifying.",
-      "example_cn": "新领导人努力统一国家。"
+      "cn": "终止，结束",
+      "en": "to bring to an end",
+      "excerpt": "they've had their status terminated",
+      "example_cn": "他们的身份已被终止。"
     },
     {
-      "word": "veto",
-      "phonetic": "/ˈviːtəʊ/",
-      "pos": "n./v.",
-      "level": "六级",
-      "cn": "否决",
-      "en": "the power to refuse to allow something to be done",
-      "excerpt": "Unless he takes certain action, and it becomes a pocket veto.",
-      "example_cn": "总统否决了该法案。"
-    },
-    {
-      "word": "pocket veto",
-      "phonetic": "/ˈpɒkɪt ˈviːtəʊ/",
-      "pos": "n.",
-      "level": "专八",
-      "cn": "口袋否决",
-      "en": "a veto that occurs when the president does not sign a bill within ten days while Congress is adjourned",
-      "excerpt": "Unless he takes certain action, and it becomes a pocket veto.",
-      "example_cn": "总统使用了口袋否决权。"
-    },
-    {
-      "word": "populist",
-      "phonetic": "/ˈpɒpjəlɪst/",
-      "pos": "adj./n.",
-      "level": "六级",
-      "cn": "民粹主义的",
-      "en": "relating to a political approach that appeals to ordinary people who feel that their concerns are ignored by the elite",
-      "excerpt": "President Trump himself capitalized on this sort of populist movement.",
-      "example_cn": "该党奉行民粹主义政策。"
-    },
-    {
-      "word": "horseshoe",
-      "phonetic": "/ˈhɔːrʃuː/",
-      "pos": "n.",
-      "level": "六级",
-      "cn": "马蹄铁；形似马蹄铁的东西",
-      "en": "a U-shaped piece of metal attached to a horse's foot; used metaphorically for political spectrum",
-      "excerpt": "It's like a weird horseshoe.",
-      "example_cn": "政治光谱有时呈马蹄形。"
-    },
-    {
-      "word": "discontent",
-      "phonetic": "/ˌdɪskənˈtent/",
-      "n.",
-      "pos": "n.",
-      "level": "六级",
-      "cn": "不满",
-      "en": "a feeling of being unhappy or not satisfied with a situation",
-      "excerpt": "There's a lot of discontent.",
-      "example_cn": "民众对政府的不满情绪日益高涨。"
-    },
-    {
-      "word": "anti-incumbency",
-      "phonetic": "/ˌænti ɪnˈkʌmbənsi/",
-      "pos": "n.",
-      "level": "专八",
-      "cn": "反现任",
-      "en": "opposition to current officeholders",
-      "excerpt": "There's a lot of anti-incumbency going on right now.",
-      "example_cn": "反现任情绪在选举中很常见。"
-    },
-    {
-      "word": "amplify",
-      "phonetic": "/ˈæmplɪfaɪ/",
+      "word": "pledge",
+      "phonetic": "/pledʒ/",
       "pos": "v.",
       "level": "六级",
-      "cn": "放大",
-      "en": "to increase the strength of something, especially sound; to make something more noticeable",
-      "excerpt": "The media then amplifies it.",
-      "example_cn": "媒体放大了这一事件。"
+      "cn": "承诺，保证",
+      "en": "to promise solemnly",
+      "excerpt": "pledged $150 million in aid",
+      "example_cn": "承诺提供1.5亿美元援助。"
     },
     {
-      "word": "socialist",
-      "phonetic": "/ˈsəʊʃəlɪst/",
-      "pos": "adj./n.",
-      "level": "考研",
-      "cn": "社会主义的",
-      "en": "relating to socialism; a person who supports socialism",
-      "excerpt": "Could AOC Be Democratic Socialist Candidate for President?",
-      "example_cn": "她是一名民主社会主义者。"
-    },
-    {
-      "word": "primary",
-      "phonetic": "/ˈpraɪmeri/",
+      "word": "diaspora",
+      "phonetic": "/daɪˈæspərə/",
       "pos": "n.",
-      "level": "考研",
-      "cn": "初选",
-      "en": "an election in which voters choose the candidates from each party who will compete in the main election",
-      "excerpt": "Three progressives he endorsed pulled off a clean sweep in Tuesday night's primaries.",
-      "example_cn": "她在初选中获胜。"
+      "level": "六级",
+      "cn": "散居海外的人群",
+      "en": "the dispersion of a people from their original homeland",
+      "excerpt": "I can speak for a diaspora of nearly eight million people",
+      "example_cn": "我可以代表近800万散居海外的人发言。"
     },
     {
-      "word": "endorse",
-      "phonetic": "/ɪnˈdɔːrs/",
+      "word": "ironic",
+      "phonetic": "/aɪˈrɑːnɪk/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "讽刺的",
+      "en": "happening in a way contrary to what is expected, often amusingly",
+      "excerpt": "it is ironic that the same week that Venezuela becomes a disaster zone",
+      "example_cn": "具有讽刺意味的是，就在委内瑞拉成为灾区的同一周。"
+    },
+    {
+      "word": "tenable",
+      "phonetic": "/ˈtenəbl/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "站得住脚的，合理的",
+      "en": "able to be defended or maintained",
+      "excerpt": "the removals to a country in the midst of a disaster zone like this are untenable",
+      "example_cn": "将人遣返到这样一个灾区是站不住脚的。"
+    },
+    {
+      "word": "administer",
+      "phonetic": "/ədˈmɪnɪstər/",
       "pos": "v.",
       "level": "六级",
-      "cn": "支持",
-      "en": "to give support or approval to someone or something",
-      "excerpt": "Three progressives he endorsed pulled off a clean sweep.",
-      "example_cn": "该报支持那位候选人。"
+      "cn": "管理，执行",
+      "en": "to manage or be responsible for the running of something",
+      "excerpt": "how they administer that aid",
+      "example_cn": "他们如何管理那笔援助。"
     },
     {
-      "word": "clean sweep",
-      "phonetic": "/kliːn swiːp/",
+      "word": "political prisoner",
+      "phonetic": "/pəˈlɪtɪkl ˈprɪzənər/",
       "pos": "n.",
       "level": "六级",
-      "cn": "大获全胜",
-      "en": "a complete victory in which one person or party wins all the contests",
-      "excerpt": "Three progressives he endorsed pulled off a clean sweep in Tuesday night's primaries.",
-      "example_cn": "该党在选举中大获全胜。"
+      "cn": "政治犯",
+      "en": "a person imprisoned for their political beliefs or activities",
+      "excerpt": "500 to 600 innocent political prisoners",
+      "example_cn": "500到600名无辜的政治犯。"
     },
     {
-      "word": "establishment",
-      "phonetic": "/ɪˈstæblɪʃmənt/",
+      "word": "plunder",
+      "phonetic": "/ˈplʌndər/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "掠夺，抢劫",
+      "en": "to steal goods from a place, especially during a war or riot",
+      "excerpt": "has plundered our oil industry and our health system",
+      "example_cn": "掠夺了我们的石油工业和医疗系统。"
+    },
+    {
+      "word": "mount a response",
+      "phonetic": "/maʊnt ə rɪˈspɑːns/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "发起回应",
+      "en": "to organize and carry out a response",
+      "excerpt": "how they will mount a response",
+      "example_cn": "他们将如何发起回应。"
+    },
+    {
+      "word": "boogeyman",
+      "phonetic": "/ˈbʊɡimæn/",
       "pos": "n.",
-      "level": "考研",
-      "cn": "当权派",
-      "en": "the people in positions of power in a society or organization, who are seen as not wanting change",
-      "excerpt": "The establishment doesn't work.",
-      "example_cn": "他反对当权派。"
+      "level": "六级",
+      "cn": "令人恐惧的人或物",
+      "en": "a person or thing that is widely feared or blamed",
+      "excerpt": "Does the right have a new boogeyman?",
+      "example_cn": "右翼有了新的令人恐惧的对象吗？"
+    },
+    {
+      "word": "unhinged",
+      "phonetic": "/ʌnˈhɪndʒd/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "精神错乱的，失常的",
+      "en": "mentally unbalanced; deranged",
+      "excerpt": "this person is unhinged and indefensible",
+      "example_cn": "这个人精神失常且无可辩护。"
+    },
+    {
+      "word": "indefensible",
+      "phonetic": "/ˌɪndɪˈfensəbl/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "不可辩护的，站不住脚的",
+      "en": "not able to be justified or defended",
+      "excerpt": "this person is unhinged and indefensible",
+      "example_cn": "这个人精神失常且无可辩护。"
+    },
+    {
+      "word": "deja vu",
+      "phonetic": "/ˌdeɪʒɑː ˈvuː/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "似曾相识的感觉",
+      "en": "a feeling of having already experienced the present situation",
+      "excerpt": "I feel like it's deja vu all over again.",
+      "example_cn": "我感觉这完全是似曾相识。"
+    },
+    {
+      "word": "bear out",
+      "phonetic": "/ber aʊt/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "证实，支持",
+      "en": "to show that something is true or correct",
+      "excerpt": "And none of it bore out to be true.",
+      "example_cn": "而这一切都没有被证实是真的。"
+    },
+    {
+      "word": "tenor",
+      "phonetic": "/ˈtenər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "基调，趋势",
+      "en": "the general meaning or character of something",
+      "excerpt": "your tone and tenor can change depending",
+      "example_cn": "你的语气和基调可能会改变。"
+    },
+    {
+      "word": "mainstream",
+      "phonetic": "/ˈmeɪnstriːm/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "主流的",
+      "en": "belonging to the prevailing trend in opinion, fashion, etc.",
+      "excerpt": "positions that are wildly out of the mainstream",
+      "example_cn": "完全脱离主流的立场。"
+    },
+    {
+      "word": "poster child",
+      "phonetic": "/ˈpoʊstər tʃaɪld/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "典型代表，形象代言人",
+      "en": "a person or thing that is a perfect example of something",
+      "excerpt": "Darializa the sort of poster child of this.",
+      "example_cn": "Darializa 是这方面的典型代表。"
+    },
+    {
+      "word": "caucus",
+      "phonetic": "/ˈkɔːkəs/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "党团会议，核心小组",
+      "en": "a meeting of members of a political party to decide policy or choose candidates",
+      "excerpt": "they should not seat her in the caucus",
+      "example_cn": "他们不应该让她进入党团会议。"
+    },
+    {
+      "word": "hijack",
+      "phonetic": "/ˈhaɪdʒæk/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "劫持，控制",
+      "en": "to take control of something illegally or by force",
+      "excerpt": "hijack the floor and really set an agenda",
+      "example_cn": "劫持会场并真正设定议程。"
+    },
+    {
+      "word": "out of step with",
+      "phonetic": "/aʊt əv step wɪð/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "与……不一致",
+      "en": "not in agreement with",
+      "excerpt": "out of step with not only independent and mainstream voters",
+      "example_cn": "不仅与独立选民和主流选民不一致。"
+    },
+    {
+      "word": "resurgence",
+      "phonetic": "/rɪˈsɜːrdʒəns/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "复兴，复苏",
+      "en": "a revival or comeback",
+      "excerpt": "Nixon is making a resurgence.",
+      "example_cn": "尼克松正在复兴。"
+    },
+    {
+      "word": "authorize",
+      "phonetic": "/ˈɔːθəraɪz/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "授权，批准",
+      "en": "to give official permission for something",
+      "excerpt": "he authorized the break-in of the DNC",
+      "example_cn": "他授权闯入民主党全国委员会。"
+    },
+    {
+      "word": "bug",
+      "phonetic": "/bʌɡ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "安装窃听器",
+      "en": "to install a listening device in a place",
+      "excerpt": "to install bugging equipment",
+      "example_cn": "安装窃听设备。"
+    },
+    {
+      "word": "enlist",
+      "phonetic": "/ɪnˈlɪst/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "争取，获得（支持）",
+      "en": "to obtain the help or support of someone",
+      "excerpt": "He then enlisted the CIA to mislead the FBI.",
+      "example_cn": "然后他争取中情局误导联邦调查局。"
+    },
+    {
+      "word": "slush fund",
+      "phonetic": "/slʌʃ fʌnd/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "非法政治基金",
+      "en": "a fund used for illicit purposes, especially political bribery",
+      "excerpt": "paid for by a slush fund controlled by the White House",
+      "example_cn": "由白宫控制的非法政治基金支付。"
+    },
+    {
+      "word": "misdeed",
+      "phonetic": "/ˌmɪsˈdiːd/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "不端行为，罪行",
+      "en": "a wrong or illegal act",
+      "excerpt": "his universally accepted misdeeds",
+      "example_cn": "他普遍被认可的不端行为。"
+    },
+    {
+      "word": "blip",
+      "phonetic": "/blɪp/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "短暂的小插曲",
+      "en": "a temporary and unimportant change or event",
+      "excerpt": "that would be a blip in the news cycle",
+      "example_cn": "那将是新闻周期中的一个小插曲。"
+    },
+    {
+      "word": "acuity",
+      "phonetic": "/əˈkjuːəti/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "敏锐，尖锐",
+      "en": "sharpness or keenness of thought, vision, or hearing",
+      "excerpt": "the cover-up of Joe Biden's mental acuity",
+      "example_cn": "掩盖乔·拜登的思维敏锐度问题。"
+    },
+    {
+      "word": "oversight",
+      "phonetic": "/ˈoʊvərsaɪt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "监督，监管",
+      "en": "the action of overseeing something",
+      "excerpt": "I haven't seen an oversight hearing in weeks.",
+      "example_cn": "我已经几周没看到监督听证会了。"
     }
   ],
   "sentences": [
     {
-      "en": "The epicenter of the quakes, located along the country's Northern coastal region, has caused widespread damage, collapsed buildings, and sent terrified residents into the streets.",
-      "cn": "地震的震中位于该国北部沿海地区，造成了广泛的破坏、建筑物倒塌，并将惊恐的居民赶到街上。",
-      "structure": "主语（The epicenter）+ 后置定语（located...）+ 谓语（has caused）+ 并列宾语（damage, buildings, residents）",
-      "analysis": "本句主干为The epicenter has caused damage, buildings, and residents。其中located along...为过去分词短语作后置定语修饰epicenter；collapsed buildings为名词短语作宾语；sent terrified residents into the streets为动词短语作并列谓语。"
+      "en": "The U.S. accusing Iran of attacking a vessel and pausing U.N. efforts to evacuate ships.",
+      "cn": "美国指责伊朗攻击一艘船只，并暂停联合国疏散船只的努力。",
+      "structure": "主谓宾结构，现在分词短语作伴随状语",
+      "analysis": "主语The U.S.，谓语accusing，宾语Iran，of attacking...和pausing...为并列的介词短语作宾语补足语。"
     },
     {
-      "en": "We have also suspended the metro and railway systems in order to facilitate both rescue operations and the recovery of vital infrastructure.",
-      "cn": "我们还暂停了地铁和铁路系统，以便于救援行动和重要基础设施的恢复。",
-      "structure": "主语（We）+ 谓语（have suspended）+ 宾语（the metro and railway systems）+ 目的状语（in order to facilitate...）",
-      "analysis": "in order to引导目的状语，facilitate后接并列宾语rescue operations和the recovery of vital infrastructure。"
+      "en": "It's the first strike since the U.S. and Iran agreed to work towards a peace deal.",
+      "cn": "这是自美国和伊朗同意致力于达成和平协议以来的首次袭击。",
+      "structure": "主系表结构，since引导时间状语从句",
+      "analysis": "主语It，系动词is，表语the first strike，since引导从句作时间状语。"
     },
     {
-      "en": "In particular, most of the damages seem to be concentrated in the state of la Guaira, that is North to the capital, Caracas, pretty much sandwiched between the coast and the city itself.",
-      "cn": "特别是，大部分破坏似乎集中在拉瓜伊拉州，该州位于首都加拉加斯以北，几乎夹在海岸和城市之间。",
-      "structure": "主语（most of the damages）+ 谓语（seem to be concentrated）+ 地点状语（in the state of la Guaira）+ 非限制性定语从句（that is...）",
-      "analysis": "that引导非限制性定语从句修饰la Guaira，从句中sandwiched between...为过去分词短语作表语。"
+      "en": "The incident happened as shipping traffic was just starting to pick up.",
+      "cn": "事件发生在航运交通刚刚开始恢复的时候。",
+      "structure": "主从复合句，as引导时间状语从句",
+      "analysis": "主句The incident happened，从句as shipping traffic was just starting to pick up。"
     },
     {
-      "en": "And that is where Delcy Rodriguez told us last night that dozens of buildings have collapsed in these two separate earthquakes, one within 40 seconds of the other, that both hit the Northern coast of Venezuela with a dramatic effect.",
-      "cn": "这就是德尔西·罗德里格斯昨晚告诉我们的地方，数十座建筑在这两次独立的地震中倒塌，两次地震相隔不到40秒，都猛烈袭击了委内瑞拉北部海岸。",
-      "structure": "主句（that is where...）+ 宾语从句（that dozens...）+ 同位语（one within...）+ 定语从句（that both hit...）",
-      "analysis": "where引导表语从句；told后接间接宾语us和直接宾语从句；one within...为独立主格结构作状语；that both hit...为定语从句修饰earthquakes。"
+      "en": "Just days after the U.S. lifted sanctions on Iranian oil, allowing Tehran to sell oil in dollars for the first time in decades.",
+      "cn": "就在美国解除对伊朗石油制裁几天后，允许德黑兰几十年来首次以美元出售石油。",
+      "structure": "介词短语作时间状语，现在分词短语作结果状语",
+      "analysis": "Just days after...为时间状语，allowing...为现在分词短语作结果状语。"
     },
     {
-      "en": "We are expecting that death toll, which late last night at around 11 p.m. was here in Bogota, so midnight in Venezuela, the death toll was set at 32.",
-      "cn": "我们预计死亡人数——昨晚深夜11点左右在波哥大（即委内瑞拉午夜）时，死亡人数为32人。",
-      "structure": "主句（We are expecting that death toll）+ 非限制性定语从句（which...was set at 32）",
-      "analysis": "which引导非限制性定语从句修饰death toll，从句中插入时间状语late last night at around 11 p.m.和地点状语here in Bogota，以及同位语so midnight in Venezuela。"
+      "en": "Can you talk about what that means for the ability of these negotiations to go on if there's still threats to the ships from passing through?",
+      "cn": "你能谈谈如果船只通行仍受到威胁，这对谈判继续进行的能力意味着什么吗？",
+      "structure": "主谓宾结构，宾语为what引导的从句，if引导条件状语从句",
+      "analysis": "主句Can you talk about，宾语为what that means...，if引导条件状语从句。"
     },
     {
-      "en": "The president closed by preaching unity, but he spent the prior hour talking about things which were not exactly unifying.",
-      "cn": "总统以宣扬团结结束，但他之前的一个小时却在谈论一些并不真正团结的事情。",
-      "structure": "并列句：第一分句（The president closed by preaching unity）+ 第二分句（he spent the prior hour talking about things which...）",
-      "analysis": "by preaching unity为方式状语；spend time doing sth.结构；which引导定语从句修饰things。"
+      "en": "With this latest strike, there were no casualties.",
+      "cn": "在这次最新袭击中，没有人员伤亡。",
+      "structure": "介词短语作状语，there be句型",
+      "analysis": "With this latest strike为介词短语作状语，there were为there be句型。"
     },
     {
-      "en": "What he's jeopardizing is that feel-good moment where you have bipartisanship in D.C.",
-      "cn": "他正在危及的是那种在华盛顿出现两党合作的美好时刻。",
-      "structure": "主语从句（What he's jeopardizing）+ 系动词（is）+ 表语（that feel-good moment）+ 定语从句（where you have...）",
-      "analysis": "What引导主语从句；where引导定语从句修饰moment。"
+      "en": "But the hit to confidence in the shipping industry is pretty significant.",
+      "cn": "但对航运业信心的打击相当严重。",
+      "structure": "主系表结构",
+      "analysis": "主语the hit，系动词is，表语pretty significant。"
     },
     {
-      "en": "Part of my hope in working to elect these Congresspeople, these state legislators, is also to help write a new chapter in our party's history, where working people are back at the heart of that struggle.",
-      "cn": "我努力选举这些国会议员、州议员的部分希望，也是帮助书写我们党历史的新篇章，让劳动人民重新成为这场斗争的核心。",
-      "structure": "主语（Part of my hope）+ 后置定语（in working to elect...）+ 系动词（is）+ 表语（to help write...）+ 定语从句（where working people...）",
-      "analysis": "in working to elect...为介词短语作定语修饰hope；where引导非限制性定语从句修饰chapter。"
+      "en": "There was an evacuation that was underway by the U.N., by the international maritime organization to try and get the vessels and more than 11,000 seafarers who had been stuck in the Persian Gulf since the start of the war out into the open waters.",
+      "cn": "联合国和国际海事组织正在进行疏散，试图将自战争开始以来被困在波斯湾的船只和超过11000名海员转移到开阔水域。",
+      "structure": "there be句型，that引导定语从句，who引导定语从句",
+      "analysis": "There was an evacuation为主句，that was underway...为定语从句修饰evacuation，who had been stuck...为定语从句修饰seafarers。"
     },
     {
-      "en": "And I think that's where you see his frustration coming out into the public.",
-      "cn": "我认为这就是你看到他的沮丧情绪公开化的地方。",
-      "structure": "主句（I think）+ 宾语从句（that's where...）",
-      "analysis": "that's where...为表语从句；see his frustration coming out为see+宾语+宾补结构。"
+      "en": "Now that there has been this strike, that is all on hold.",
+      "cn": "既然发生了这次袭击，一切都暂停了。",
+      "structure": "now that引导原因状语从句",
+      "analysis": "Now that there has been this strike为原因状语从句，主句that is all on hold。"
     },
     {
-      "en": "When you've got a small vocal group in a one-party state like Manhattan, you see this.",
-      "cn": "当你在像曼哈顿这样的一党制州有一个声音响亮的小团体时，你就会看到这一点。",
-      "structure": "时间状语从句（When you've got...）+ 主句（you see this）",
-      "analysis": "When引导时间状语从句；a small vocal group指少数但活跃的群体。"
-    }
-  ],
-  "topics": [
-    {
-      "title": "Venezuela Earthquakes",
-      "content": "2026年6月24日，委内瑞拉北部沿海地区发生两次强烈地震（7.2级和7.5级），造成至少32人死亡，数百人受伤，大量建筑倒塌。震中位于拉瓜伊拉州，首都加拉加斯受影响严重。委内瑞拉临时总统德尔西·罗德里格斯宣布进入紧急状态，暂停地铁和铁路系统，学校停课。救援工作正在进行，但机场受损，国际援助面临物流挑战。美国与委内瑞拉关系脆弱，但已表示愿意提供援助。",
-      "keywords": "Venezuela, earthquake, rescue, state of emergency, Delcy Rodriguez, Caracas"
+      "en": "They said the safety of the seafarers is the most important.",
+      "cn": "他们说海员的安全是最重要的。",
+      "structure": "主谓宾结构，宾语为省略that的从句",
+      "analysis": "主语They，谓语said，宾语从句the safety...is the most important。"
     },
     {
-      "title": "Trump's GOP Luncheon Chaos",
-      "content": "2026年6月24日，美国总统特朗普与参议院共和党人在午餐会上发生激烈争吵。特朗普因参议员比尔·卡西迪投票支持限制其对伊朗动武的战争权力法案而对其发怒，会议演变为对骂。特朗普随后威胁否决两党住房法案，并推动SAVE法案，但缺乏足够支持。此举凸显特朗普与国会共和党人之间的裂痕，尤其是那些曾被他攻击的议员。",
-      "keywords": "Trump, GOP, Senate, Bill Cassidy, war powers, housing bill, SAVE Act"
+      "en": "What we heard just hours before this strike happened was the Revolutionary Guard in Iran saying that they couldn't guarantee safe passage for any vessel that wasn't using their route through the Strait of Hormuz.",
+      "cn": "就在这次袭击发生前几小时，我们听到伊朗革命卫队表示，他们无法保证任何不使用他们指定的霍尔木兹海峡航线的船只的安全通行。",
+      "structure": "主语从句+主系表+that宾语从句",
+      "analysis": "What we heard...为主语从句，was为系动词，the Revolutionary Guard...saying...为表语，saying后接that宾语从句。"
     },
     {
-      "title": "Democratic Socialism and 2028 Election",
-      "content": "纽约市长佐兰·马姆达尼支持的进步派候选人在初选中大获全胜，引发关于民主社会主义者是否可能成为2028年总统候选人的讨论。亚历山大·奥卡西奥-科尔特斯（AOC）被视为潜在人选。分析指出，民粹主义和反建制情绪在选民中蔓延，民主社会主义运动虽规模较小但声音响亮，可能影响民主党未来方向。",
-      "keywords": "AOC, Democratic Socialist, 2028 election, Zohran Mamdani, progressive, populism"
-    }
-  ]
-}
+      "en": "They want vessels to be going along the northern part of the Strait of Hormuz, so they have to go through Tehran, they have to fill in the forms that Tehran gives them, rather than the southern part, which is hugging the coast of Oman, which, understandably, most vessels are going through.",
+      "cn": "他们希望船只沿着霍尔木兹海峡北部航行，因此必须经过德黑兰，填写德黑兰提供的表格，而不是南部紧贴阿曼海岸的航线，而大多数船只显然都在走南部航线。",
+      "structure": "主谓宾+不定式短语，so引导结果状语从句，rather than比较结构，which引导非限制性定语从句",
+      "analysis": "主句They want vessels to be going...，so引导结果状语从句，rather than引出比较对象，which引导非限制性定语从句修饰the southern part。"
+    },
+    {
+      "en": "This really throws into doubt now the U.S. president's claim that the Strait of Hormuz is open and that it is free.",
+      "cn": "这确实使美国总统关于霍尔木兹海峡开放且自由的声明受到质疑。",
+      "structure": "主谓宾结构，that引导同位语从句",
+      "analysis": "主语This，谓语throws，宾语the U.S. president's claim，into doubt为状语，that引导同位语从句修饰claim。"
+    },
+    {
+      "en": "And it really brings a halt to what we had seen earlier in this week with the Strait of Hormuz seeing a number of vessels coming through.",
+      "cn": "这确实使我们本周早些时候看到的霍尔木兹海峡有多艘船只通过的情况停止了。",
+      "structure": "主谓宾结构，what引导宾语从句，with复合结构",
+      "analysis": "主语it，谓语brings，宾语a halt，to what...为介词短语，what引导宾语从句，with the Strait...seeing...为with复合结构。"
+    },
+    {
+      "en": "He has said that no country on earth should be able to claim responsibility over an international waterway.",
+      "cn": "他说，地球上任何国家都不应该能够声称对国际水道负责。",
+      "structure": "主谓宾结构，that引导宾语从句",
+      "analysis": "主语He，谓语has said，that引导宾语从句。"
+    },
+    {
+      "en": "But that does appear to be exactly what Iran wants to do.",
+      "cn": "但这似乎正是伊朗想做的。",
+      "structure": "主系表结构，what引导表语从句",
+      "analysis": "主语that，系动词does appear to be，表语what Iran wants to do。"
+    },
+    {
+      "en": "It says that it's in talks with Oman, which is on the other side of the water.",
+      "cn": "它表示正在与位于水域另一侧的阿曼进行谈判。",
+      "structure": "主谓宾结构，that引导宾语从句，which引导非限制性定语从句",
+      "analysis": "主语It，谓语says，that引导宾语从句，which引导非限制性定语从句修饰Oman。"
+    },
+    {
+      "en": "But Oman's foreign minister says that they support international law.",
+      "cn": "但阿曼外交部长表示他们支持国际法。",
+      "structure": "主谓宾结构，that引导宾语从句",
+      "analysis": "主语Oman's foreign minister，谓语says，that引导宾语从句。"
+    },
+    {
+      "en": "So, at this point, Tehran is really out on its own when it is saying that it wants vessels to use its route.",
+      "cn": "所以，在这一点上，德黑兰实际上是孤立的，它声称希望船只使用其航线。",
+      "structure": "主系表结构，when引导时间状语从句，that引导宾语从句",
+      "analysis": "主语Tehran，系动词is，表语out on its own，when引导时间状语从句，从句中that引导宾语从句。"
+    },
+    {
+      "en": "And of course, there is the issue of mines in the Strait of Hormuz as well.",
+      "cn": "当然，还有霍尔木兹海峡的水雷问题。",
+      "structure": "there be句型",
+      "analysis": "there is为主句，the issue of mines...为主语。"
+    },
+    {
+      "en": "Presumably why no vessels are wanting to go through the center of this waterway.",
+      "cn": "大概这就是为什么没有船只愿意通过这条水道的中心。",
+      "structure": "省略句，why引导表语从句",
+      "analysis": "省略了That is，why引导表语从句。"
+    },
+    {
+      "en": "But it does throw into doubt the talks that have been ongoing.",
+      "cn": "但这确实使正在进行的谈判受到质疑。",
+      "structure": "主谓宾结构，that引导定语从句",
+      "analysis": "主语it，谓语does throw，宾语the talks，into doubt为状语，that引导定语从句修饰talks。"
+    },
+    {
+      "en": "We heard from Secretary Rubio as well that he's given a statement with the gulf nations here really widening the remit, also pointing out they have to deal with Iran's missiles and its use of proxies.",
+      "cn": "我们还听到鲁比奥国务卿说，他与海湾国家发表了一份声明，实际上扩大了职权范围，并指出他们必须处理伊朗的导弹及其使用代理人的问题。",
+      "structure": "主谓宾结构，that引导宾语从句，现在分词短语作伴随状语",
+      "analysis": "主语We，谓语heard，from Secretary Rubio为状语，that引导宾语从句，从句中widening和pointing out为现在分词短语作伴随状语。"
+    },
+    {
+      "en": "The U.S. forces being sent to Venezuela as the nation deals with the aftermath of two devastating earthquakes.",
+      "cn": "美国军队被派往委内瑞拉，该国正在应对两次毁灭性地震的后果。",
+      "structure": "主谓宾结构，as引导时间状语从句",
+      "analysis": "主语The U.S. forces，谓语being sent，to Venezuela为状语，as引导时间状语从句。"
+    },
+    {
+      "en": "The death toll climbed to more than 230 people.",
+      "cn": "死亡人数攀升至230人以上。",
+      "structure": "主谓宾结构",
+      "analysis": "主语The death toll，谓语climbed，to more than 230 people为状语。"
+    },
+    {
+      "en": "It is still expected to rise.",
+      "cn": "预计还会上升。",
+      "structure": "主谓宾结构，被动语态",
+      "analysis": "主语It，谓语is expected，to rise为宾语补足语。"
+    },
+    {
+      "en": "The country's health minister saying more than 4,300 people are injured.",
+      "cn": "该国卫生部长表示超过4300人受伤。",
+      "structure": "主谓宾结构，现在分词短语作谓语",
+      "analysis": "主语The country's health minister，谓语saying，宾语从句more than 4,300 people are injured。"
+    },
+    {
+      "en": "Rescue efforts ongoing, with hundreds of people trapped under rubble or missing.",
+      "cn": "救援工作正在进行，数百人被困在瓦砾下或失踪。",
+      "structure": "独立主格结构",
+      "analysis": "Rescue efforts ongoing为独立主格结构，with hundreds of people...为with复合结构。"
+    },
+    {
+      "en": "And Venezuelans are not only reeling from the physical destruction of their country.",
+      "cn": "委内瑞拉人不仅因国家的物质破坏而震惊。",
+      "structure": "主谓宾结构",
+      "analysis": "主语Venezuelans，谓语are reeling，from the physical destruction为状语。"
+    },
+    {
+      "en": "Critics say there's also a vacuum of authority in the country with the burden of rescue and relief efforts falling on civil organizations and schools and local churches and families.",
+      "cn": "批评者说，该国还存在权力真空，救援和救济工作的负担落在了民间组织、学校、当地教堂和家庭身上。",
+      "structure": "主谓宾结构，宾语为省略that的从句，with复合结构",
+      "analysis": "主语Critics，谓语say，宾语从句there's also a vacuum...，with the burden...falling...为with复合结构。"
+    },
+    {
+      "en": "Joining me now, Mariana Atencio.",
+      "cn": "现在加入我们的是Mariana Atencio。",
+      "structure": "倒装句",
+      "analysis": "现在分词短语Joining me now置于句首，主语Mariana Atencio后置。"
+    },
+    {
+      "en": "I'm so sorry it's under these circumstances because I know you have friends and family still in Venezuela.",
+      "cn": "我很抱歉是在这种情况下，因为我知道你还有朋友和家人在委内瑞拉。",
+      "structure": "主系表结构，because引导原因状语从句",
+      "analysis": "主句I'm so sorry，it's under these circumstances为宾语从句，because引导原因状语从句。"
+    },
+    {
+      "en": "On the ground, local organizations estimate the number of missing could climb to 40,000 people.",
+      "cn": "在当地，当地组织估计失踪人数可能攀升至4万人。",
+      "structure": "主谓宾结构，宾语为省略that的从句",
+      "analysis": "主语local organizations，谓语estimate，宾语从句the number of missing could climb to 40,000 people。"
+    },
+    {
+      "en": "I'm seeing images of children that are left completely orphaned.",
+      "cn": "我看到完全成为孤儿的孩子的画面。",
+      "structure": "主谓宾结构，that引导定语从句",
+      "analysis": "主语I，谓语'm seeing，宾语images，of children为定语，that引导定语从句修饰children。"
+    },
+    {
+      "en": "And you stated it, there is a power vacuum in Venezuela right now.",
+      "cn": "你提到了，委内瑞拉目前存在权力真空。",
+      "structure": "主谓宾结构，there be句型",
+      "analysis": "主语you，谓语stated，宾语it，there is...为补充说明。"
+    },
+    {
+      "en": "The worst hit areas of La Guaira.",
+      "cn": "受灾最严重的拉瓜伊拉地区。",
+      "structure": "名词短语",
+      "analysis": "名词短语，作主语或话题。"
+    },
+    {
+      "en": "There's no heavy machinery.",
+      "cn": "没有重型机械。",
+      "structure": "there be句型",
+      "analysis": "there's为there be句型，no heavy machinery为主语。"
+    },
+    {
+      "en": "Neighbors are digging their own family members out of the rubble by hand.",
+      "cn": "邻居们正在徒手从瓦砾中挖出自己的家人。",
+      "structure": "主谓宾结构",
+      "analysis": "主语Neighbors，谓语are digging，宾语their own family members，out of the rubble为状语，by hand为方式状语。"
+    },
+    {
+      "en": "Hospitals are overwhelmed.",
+      "cn": "医院不堪重负。",
+      "structure": "主系表结构",
+      "analysis": "主语Hospitals，系动词are，表语overwhelmed。"
+    },
+    {
+      "en": "They're treating the wounded in the streets because this earthquake is hitting a country that had nothing left to absorb it.",
+      "cn": "他们在街上治疗伤员，因为这场地震袭击了一个已经一无所有的国家。",
+      "structure": "主谓宾结构，because引导原因状语从句，that引导定语从句",
+      "analysis": "主句They're treating the wounded，because引导原因状语从句，从句中that引导定语从句修饰country。"
+    },
+    {
+      "en": "And we're talking about a health system that's collapsed after years of crisis.",
+      "cn": "我们谈论的是一个经过多年危机后已经崩溃的医疗系统。",
+      "structure": "主谓宾结构，that引导定语从句",
+      "analysis": "主语we，谓语're talking，about a health system为状语，that引导定语从句修饰system。"
+    },
+    {
+      "en": "You know, it's such a moment to be talking about this because here in the U.S. the Venezuelan asylum seekers who are already here, they've had their status terminated.",
+      "cn": "你知道，现在谈论这个时机很特殊，因为在美国，已经在这里的委内瑞拉寻求庇护者的身份已被终止。",
+      "structure": "主系表结构，because引导原因状语从句，who引导定语从句",
+      "analysis": "主句it's such a moment，to be talking about this为不定式短语，because引导原因状语从句，从句中who引导定语从句修饰asylum seekers。"
+    },
+    {
+      "en": "We talked about that earlier, happening to Syrians and Haitians and others.",
+      "cn": "我们早些时候谈到过，同样发生在叙利亚人、海地人和其他人身上。",
+      "structure": "主谓宾结构，现在分词短语作伴随状语",
+      "analysis": "主语We，谓语talked，about that为状语，happening...为现在分词短语作伴随状语。"
+    },
+    {
+      "en": "But the U.S. now has a very peculiar relationship with Venezuela.",
+      "cn": "但美国现在与委内瑞拉有着非常特殊的关系。",
+      "structure": "主谓宾结构",
+      "analysis": "主语the U.S.，谓语has，宾语a very peculiar relationship，with Venezuela为状语。"
+    },
+    {
+      "en": "Is there any sign of it now that the country is suffering?",
+      "cn": "现在这个国家正在受苦，有什么迹象吗？",
+      "structure": "there be句型，now that引导原因状语从句",
+      "analysis": "Is there any sign为主句，now that the country is suffering为原因状语从句。"
+    },
+    {
+      "en": "So Rubio said the response will be big, fast, effective.",
+      "cn": "所以鲁比奥说回应将是大规模、快速、有效的。",
+      "structure": "主谓宾结构，宾语为省略that的从句",
+      "analysis": "主语Rubio，谓语said，宾语从句the response will be big, fast, effective。"
+    },
+    {
+      "en": "President Trump called Venezuela our new and great friends.",
+      "cn": "特朗普总统称委内瑞拉为我们新的伟大朋友。",
+      "structure": "主谓宾+宾补结构",
+      "analysis": "主语President Trump，谓语called，宾语Venezuela，宾补our new and great friends。"
+    },
+    {
+      "en": "They've, of course, pledged $150 million in aid.",
+      "cn": "他们当然承诺了1.5亿美元的援助。",
+      "structure": "主谓宾结构",
+      "analysis": "主语They，谓语've pledged，宾语$150 million，in aid为状语。"
+    },
+    {
+      "en": "But at the same time, I can speak for a diaspora of nearly eight million people, being sent back doesn't mean being sent back home right now.",
+      "cn": "但与此同时，我可以代表近800万散居海外的人说，被遣返并不意味着现在就被送回家。",
+      "structure": "主谓宾结构，宾语从句",
+      "analysis": "主语I，谓语can speak，for a diaspora为状语，being sent back...为宾语从句。"
+    },
+    {
+      "en": "It means going back to rubble.",
+      "cn": "这意味着回到瓦砾中。",
+      "structure": "主谓宾结构",
+      "analysis": "主语It，谓语means，宾语going back to rubble。"
+    },
+    {
+      "en": "So, it is ironic that the same week that Venezuela becomes a disaster zone, the U.S. is closing the door, TPS, for roughly 300,000 Venezuelans already terminated.",
+      "cn": "所以，具有讽刺意味的是，就在委内瑞拉成为灾区的同一周，美国正在关闭大门，大约30万委内瑞拉人的临时保护身份已被终止。",
+      "structure": "主系表结构，it作形式主语，that引导主语从句",
+      "analysis": "It is ironic为形式主语，that引导的主语从句为真正主语。"
+    },
+    {
+      "en": "And that is what TPS is created for, Audie, temporary protected status.",
+      "cn": "而这正是临时保护身份（TPS）的设立目的，Audie。",
+      "structure": "主系表结构，what引导表语从句",
+      "analysis": "主语that，系动词is，表语what TPS is created for。"
+    },
+    {
+      "en": "I mean, the Congressional Hispanic Caucus even made the same point in a letter to Rubio and Trump saying, the removals to a country in the midst of a disaster zone like this are untenable.",
+      "cn": "我的意思是，国会西班牙裔核心小组甚至在给鲁比奥和特朗普的信中提出了同样的观点，称将人遣返到这样一个灾区是站不住脚的。",
+      "structure": "主谓宾结构，现在分词短语作伴随状语",
+      "analysis": "主语the Congressional Hispanic Caucus，谓语made，宾语the same point，saying...为现在分词短语作伴随状语。"
+    },
+    {
+      "en": "And I'll bring up one more point in terms of the relationship with the U.S., which I think is critically important.",
+      "cn": "我还要提出一点关于与美国的关系，我认为这一点至关重要。",
+      "structure": "主谓宾结构，which引导非限制性定语从句",
+      "analysis": "主语I，谓语'll bring up，宾语one more point，which引导非限制性定语从句修饰point。"
+    },
+    {
+      "en": "And it's also this idea of, you are pledging all of this aid.",
+      "cn": "而且这也是一个想法，你承诺了所有这些援助。",
+      "structure": "主系表结构",
+      "analysis": "主语it，系动词's，表语this idea，of...为介词短语。"
+    },
+    {
+      "en": "This new regime, or new and great friends, need to be held accountable for how they administer that aid, but also for who they are locking up inside of Venezuela.",
+      "cn": "这个新政权，或者说新的伟大朋友，需要为他们如何管理那笔援助负责，也要为他们关押在委内瑞拉境内的人负责。",
+      "structure": "主谓宾结构，how和who引导宾语从句",
+      "analysis": "主语This new regime，谓语need to be held accountable，for how...和for who...为并列的介词短语。"
+    },
+    {
+      "en": "There's around 500 to 600 innocent political prisoners that they are still holding behind bars.",
+      "cn": "大约有500到600名无辜的政治犯仍被关在监狱里。",
+      "structure": "there be句型，that引导定语从句",
+      "analysis": "There's around 500 to 600 innocent political prisoners为主句，that引导定语从句修饰prisoners。"
+    },
+    {
+      "en": "Those people, in the midst of this disaster, should be released to their families immediately.",
+      "cn": "这些人，在这场灾难中，应该立即被释放给他们的家人。",
+      "structure": "主谓宾结构，被动语态",
+      "analysis": "主语Those people，谓语should be released，to their families为状语。"
+    },
+    {
+      "en": "Just one other thing.",
+      "cn": "还有一件事。",
+      "structure": "名词短语",
+      "analysis": "名词短语，作独立成分。"
+    },
+    {
+      "en": "Delcy Rodriguez, we're talking about a vacuum.",
+      "cn": "Delcy Rodriguez，我们说的是权力真空。",
+      "structure": "呼语+主谓宾结构",
+      "analysis": "Delcy Rodriguez为呼语，we're talking about a vacuum为主句。"
+    },
+    {
+      "en": "There is interim leadership.",
+      "cn": "有临时领导层。",
+      "structure": "there be句型",
+      "analysis": "there is为主句，interim leadership为主语。"
+    },
+    {
+      "en": "Leadership who had even been there under Maduro.",
+      "cn": "甚至在马杜罗时期就在那里的领导层。",
+      "structure": "名词短语，who引导定语从句",
+      "analysis": "Leadership为名词，who引导定语从句修饰Leadership。"
+    },
+    {
+      "en": "Is the sense right now that they have an inability to or they are not capable of dealing with this moment?",
+      "cn": "现在的感觉是他们没有能力或无法应对这一时刻吗？",
+      "structure": "主系表结构，that引导同位语从句",
+      "analysis": "主语the sense，系动词is，表语right now，that引导同位语从句修饰sense。"
+    },
+    {
+      "en": "We can't really call this a government, Audie.",
+      "cn": "我们真的不能称这为政府，Audie。",
+      "structure": "主谓宾+宾补结构",
+      "analysis": "主语We，谓语can't call，宾语this，宾补a government。"
+    },
+    {
+      "en": "This is a regime that has operated for years as a cartel that has been laundering money, stealing from Venezuelans, and has plundered our oil industry and our health system.",
+      "cn": "这是一个多年来像卡特尔一样运作的政权，一直在洗钱、盗窃委内瑞拉人，并掠夺了我们的石油工业和医疗系统。",
+      "structure": "主系表结构，that引导定语从句",
+      "analysis": "主语This，系动词is，表语a regime，that引导定语从句修饰regime，从句中has operated...as a cartel，that has been...为另一个定语从句修饰cartel。"
+    },
+    {
+      "en": "So, this does not function like a regular government.",
+      "cn": "所以，这不像一个正常政府那样运作。",
+      "structure": "主谓宾结构",
+      "analysis": "主语this，谓语does not function，like a regular government为状语。"
+    },
+    {
+      "en": "This is a very big test for Delcy Rodriguez.",
+      "cn": "这对Delcy Rodriguez来说是一个非常大的考验。",
+      "structure": "主系表结构",
+      "analysis": "主语This，系动词is，表语a very big test，for Delcy Rodriguez为状语。"
+    },
+    {
+      "en": "But on the ground, what you are seeing are churches, our neighbors really just rising up to this moment, regular people, because the government has really an inability to respond to a crisis of this scale.",
+      "cn": "但在当地，你看到的是教堂、我们的邻居真的在挺身而出，普通人，因为政府确实没有能力应对这种规模的危机。",
+      "structure": "主语从句+主系表+because引导原因状语从句",
+      "analysis": "What you are seeing为主语从句，系动词are，表语churches, our neighbors...，because引导原因状语从句。"
+    },
+    {
+      "en": "So, it remains to be seen how they will mount a response and how they will administer the aid.",
+      "cn": "所以，他们将如何发起回应以及如何管理援助还有待观察。",
+      "structure": "it作形式主语，how引导主语从句",
+      "analysis": "It remains to be seen为形式主语，how they will mount...和how they will administer...为并列的主语从句。"
+    },
+    {
+      "en": "But already I'm hearing very worrying reports of them saying that the aid should not be administered by opposition figures on the ground.",
+      "cn": "但我已经听到非常令人担忧的报告，他们说援助不应由当地的反对派人物管理。",
+      "structure": "主谓宾结构，that引导宾语从句",
+      "analysis": "主语I，谓语'm hearing，宾语very worrying reports，of them saying...为介词短语，saying后接that宾语从句。"
+    },
+    {
+      "en": "And this is a moment when Venezuela needs to come together as a nation to be able to overcome this incredible test.",
+      "cn": "这是一个委内瑞拉需要团结一致才能克服这一严峻考验的时刻。",
+      "structure": "主系表结构，when引导定语从句",
+      "analysis": "主语this，系动词is，表语a moment，when引导定语从句修饰moment。"
+    },
+    {
+      "en": "And if you are watching right now, and you want to know how you can help with the victims for the Venezuelan earthquake, I want you to go to cnn.com/impact.",
+      "cn": "如果你正在观看，并且想知道如何帮助委内瑞拉地震的受害者，我希望你去cnn.com/impact。",
+      "structure": "if引导条件状语从句，主句为主谓宾+宾补结构",
+      "analysis": "if引导条件状语从句，主句I want you to go to cnn.com/impact。"
+    },
+    {
+      "en": "You can also just text the word \"quake\" to 707070.",
+      "cn": "你也可以将单词\"quake\"发送到707070。",
+      "structure": "主谓宾结构",
+      "analysis": "主语You，谓语can text，宾语the word \"quake\"，to 707070为状语。"
+    },
+    {
+      "en": "And next on CNN THIS MORNING, there's a new progressive voice rising.",
+      "cn": "接下来在CNN今晨节目中，有一个新的进步声音正在崛起。",
+      "structure": "there be句型，现在分词短语作定语",
+      "analysis": "there's a new progressive voice为主句，rising为现在分词短语作定语修饰voice。"
+    },
+    {
+      "en": "And Darializa Chevalier wins big in New York.",
+      "cn": "Darializa Chevalier在纽约大获全胜。",
+      "structure": "主谓宾结构",
+      "analysis": "主语Darializa Chevalier，谓语wins，宾语big。"
+    },
+    {
+      "en": "Why some are saying she's the next AOC.",
+      "cn": "为什么有人说她是下一个AOC。",
+      "structure": "疑问词引导的从句",
+      "analysis": "Why引导从句，some are saying为主谓，she's the next AOC为宾语从句。"
+    },
+    {
+      "en": "Plus, Vice President Vance drawing criticism after saying the Watergate scandal would have been a blip in today's news cycle.",
+      "cn": "另外，副总统万斯在表示水门事件在今天的新闻周期中只会是一个小插曲后招致批评。",
+      "structure": "现在分词短语作谓语，after引导时间状语",
+      "analysis": "Vice President Vance为主语，drawing criticism为谓语，after saying...为时间状语。"
+    },
+    {
+      "en": "And in the next hour on CNN NEWS CENTRAL, a Boeing 777 flies close to the ground in Texas.",
+      "cn": "在接下来一小时的CNN新闻中心节目中，一架波音777在德克萨斯州低空飞行。",
+      "structure": "主谓宾结构",
+      "analysis": "主语a Boeing 777，谓语flies，close to the ground为状语。"
+    },
+    {
+      "en": "The FAA investigation now underway.",
+      "cn": "美国联邦航空管理局的调查正在进行中。",
+      "structure": "名词短语，独立主格结构",
+      "analysis": "The FAA investigation为主语，now underway为独立主格结构。"
+    },
+    {
+      "en": "I think it's a disaster for Democrats.",
+      "cn": "我认为这对民主党来说是一场灾难。",
+      "structure": "主谓宾结构，宾语为省略that的从句",
+      "analysis": "主语I，谓语think，宾语从句it's a disaster for Democrats。"
+    },
+    {
+      "en": "I mean they took out very progressive Democratic members in favor of socialists.",
+      "cn": "我的意思是他们淘汰了非常进步的民主党成员，支持社会主义者。",
+      "structure": "主谓宾结构",
+      "analysis": "主语they，谓语took out，宾语very progressive Democratic members，in favor of socialists为状语。"
+    },
+    {
+      "en": "Does the right have a new boogeyman?",
+      "cn": "右翼有了新的令人恐惧的对象吗？",
+      "structure": "一般疑问句",
+      "analysis": "助动词Does，主语the right，谓语have，宾语a new boogeyman。"
+    },
+    {
+      "en": "Democratic socialist Darializa Avila Chevalier, fresh off her big win Tuesday, now looking to the general.",
+      "cn": "民主社会主义者Darializa Avila Chevalier，周二大获全胜后，现在着眼于大选。",
+      "structure": "名词短语，现在分词短语作谓语",
+      "analysis": "Darializa Avila Chevalier为主语，fresh off...为形容词短语作定语，now looking to the general为现在分词短语作谓语。"
+    },
+    {
+      "en": "But DAC's comments about deportation, borders, prisons and past tweets are making her a target for not only the right but those in her party.",
+      "cn": "但DAC关于驱逐出境、边境、监狱的评论以及过去的推文使她成为不仅是右翼而且是她党内人士的目标。",
+      "structure": "主谓宾+宾补结构",
+      "analysis": "主语DAC's comments，谓语are making，宾语her，宾补a target。"
+    },
+    {
+      "en": "One centrist Democrat put it like this, \"if AOC was this Tea Party's Ted Cruz, yes, DAC is this Tea Party's MTG.\"",
+      "cn": "一位中间派民主党人这样说：“如果AOC是茶党的特德·克鲁兹，那么是的，DAC就是茶党的MTG。”",
+      "structure": "主谓宾结构，直接引语",
+      "analysis": "主语One centrist Democrat，谓语put，宾语it，like this为状语，直接引语为补充说明。"
+    },
+    {
+      "en": "I know it's a lot.",
+      "cn": "我知道这很多。",
+      "structure": "主谓宾结构，宾语为省略that的从句",
+      "analysis": "主语I，谓语know，宾语从句it's a lot。"
+    },
+    {
+      "en": "\"It's less substance and more about a sense that this person is unhinged and indefensible.\"",
+      "cn": "“这更少实质内容，更多是关于一种感觉，即这个人精神失常且无可辩护。”",
+      "structure": "主系表结构，that引导同位语从句",
+      "analysis": "主语It，系动词's，表语less substance and more about a sense，that引导同位语从句修饰sense。"
+    },
+    {
+      "en": "I feel like it's deja vu all over again.",
+      "cn": "我感觉这完全是似曾相识。",
+      "structure": "主谓宾结构，宾语从句",
+      "analysis": "主语I，谓语feel，like it's deja vu all over again为宾语从句。"
+    },
+    {
+      "en": "There was so much fear around that when I was elected.",
+      "cn": "我当选时周围有那么多恐惧。",
+      "structure": "there be句型，when引导时间状语从句",
+      "analysis": "There was so much fear为主句，around that为状语，when I was elected为时间状语从句。"
+    },
+    {
+      "en": "And none of it bore out to be true.",
+      "cn": "而这一切都没有被证实是真的。",
+      "structure": "主谓宾结构",
+      "analysis": "主语none of it，谓语bore out，to be true为宾语补足语。"
+    },
+    {
+      "en": "Voters vote for what is happening in their community and what's on their ballot.",
+      "cn": "选民投票支持他们社区发生的事情以及选票上的内容。",
+      "structure": "主谓宾结构，what引导宾语从句",
+      "analysis": "主语Voters，谓语vote，for what...和what...为并列的介词宾语从句。"
+    },
+    {
+      "en": "And I think that any candidate of any party that's running their own race has the responsibility to run their race.",
+      "cn": "而且我认为任何政党的任何候选人，只要在竞选自己的职位，都有责任做好自己的竞选。",
+      "structure": "主谓宾结构，that引导宾语从句，that引导定语从句",
+      "analysis": "主语I，谓语think，that引导宾语从句，从句中that's running...为定语从句修饰candidate。"
+    },
+    {
+      "en": "OK. Group chat is back.",
+      "cn": "好的。群聊回来了。",
+      "structure": "主系表结构",
+      "analysis": "主语Group chat，系动词is，表语back。"
+    },
+    {
+      "en": "I wanted to talk about this analogy because we're mentioning these names, Ted Cruz or AOC or MTG.",
+      "cn": "我想谈谈这个类比，因为我们提到了这些名字：特德·克鲁兹、AOC或MTG。",
+      "structure": "主谓宾结构，because引导原因状语从句",
+      "analysis": "主句I wanted to talk about this analogy，because引导原因状语从句。"
+    },
+    {
+      "en": "Like, once you get into office, you have to deal with the realities of being in office and your positions change from when you are -- not your positions change, your tone and tenor can change depending.",
+      "cn": "比如，一旦你上任，你必须面对任职的现实，你的立场会改变——不是你的立场改变，你的语气和基调可能会根据情况改变。",
+      "structure": "主从复合句，once引导时间状语从句",
+      "analysis": "once you get into office为时间状语从句，主句you have to deal with...，and连接并列句。"
+    },
+    {
+      "en": "Lulu, what do you see in the way people have been talking about this particular candidate this week?",
+      "cn": "Lulu，你如何看待人们本周谈论这位特定候选人的方式？",
+      "structure": "特殊疑问句，in the way引导定语从句",
+      "analysis": "疑问词what，助动词do，主语you，谓语see，in the way为状语，people have been talking...为定语从句修饰way。"
+    },
+    {
+      "en": "Does it, like AOC says, feel familiar?",
+      "cn": "它是否像AOC说的那样，感觉熟悉？",
+      "structure": "一般疑问句，插入语",
+      "analysis": "助动词Does，主语it，插入语like AOC says，谓语feel，表语familiar。"
+    },
+    {
+      "en": "It feels familiar.",
+      "cn": "感觉熟悉。",
+      "structure": "主系表结构",
+      "analysis": "主语It，系动词feels，表语familiar。"
+    },
+    {
+      "en": "It wasn't a hot minute after she was elected that the right was just -- like you could -- they could not contain their joy.",
+      "cn": "她当选后没过多久，右翼就——就像你能——他们无法抑制自己的喜悦。",
+      "structure": "强调句型，that引导从句",
+      "analysis": "It wasn't a hot minute...that...为强调句型，强调时间状语。"
+    },
+    {
+      "en": "This is an absolute gift, in their view, to them.",
+      "cn": "在他们看来，这对他们来说是一份绝对的礼物。",
+      "structure": "主系表结构",
+      "analysis": "主语This，系动词is，表语an absolute gift，in their view为插入语。"
+    },
+    {
+      "en": "She has positions that are wildly out of the mainstream.",
+      "cn": "她的立场完全脱离主流。",
+      "structure": "主谓宾结构，that引导定语从句",
+      "analysis": "主语She，谓语has，宾语positions，that引导定语从句修饰positions。"
+    },
+    {
+      "en": "I mean, let's be honest about this.",
+      "cn": "我的意思是，让我们对此诚实。",
+      "structure": "祈使句",
+      "analysis": "let's be honest about this为祈使句。"
+    },
+    {
+      "en": "And just to be clear.",
+      "cn": "只是为了明确。",
+      "structure": "不定式短语",
+      "analysis": "不定式短语作独立成分。"
+    },
+    {
+      "en": "So, here's \"The New York Post\" tying her -- or tying just sort of Democratic socialists to Hochul, who's generally not a person I think of in that way.",
+      "cn": "所以，《纽约邮报》将她——或者说将民主社会主义者与霍楚尔联系起来，而霍楚尔通常不是我认为的那种人。",
+      "structure": "倒装句，现在分词短语作定语，who引导非限制性定语从句",
+      "analysis": "here's \"The New York Post\"为倒装，tying her...为现在分词短语作定语，who引导非限制性定语从句修饰Hochul。"
+    },
+    {
+      "en": "We're bringing in Marxism.",
+      "cn": "我们引入了马克思主义。",
+      "structure": "主谓宾结构",
+      "analysis": "主语We，谓语're bringing in，宾语Marxism。"
+    },
+    {
+      "en": "We're going all the way.",
+      "cn": "我们一路走到底。",
+      "structure": "主谓宾结构",
+      "analysis": "主语We，谓语're going，宾语all the way。"
+    },
+    {
+      "en": "Socialism's not good enough.",
+      "cn": "社会主义还不够好。",
+      "structure": "主系表结构",
+      "analysis": "主语Socialism，系动词's not，表语good enough。"
+    },
+    {
+      "en": "I mean they're basically saying that they're going to target this.",
+      "cn": "我的意思是他们基本上说他们会针对这一点。",
+      "structure": "主谓宾结构，that引导宾语从句",
+      "analysis": "主语they，谓语're saying，that引导宾语从句。"
+    },
+    {
+      "en": "I mean -- what --",
+      "cn": "我的意思是——什么——",
+      "structure": "不完整句",
+      "analysis": "口语中的不完整句。"
+    },
+    {
+      "en": "But that makes sense too.",
+      "cn": "但那也有道理。",
+      "structure": "主谓宾结构",
+      "analysis": "主语that，谓语makes，宾语sense。"
+    },
+    {
+      "en": "Yes, I mean the Democratic socialist project, and this is by their own admission, is that they do want a civil war with the Democratic Party.",
+      "cn": "是的，我的意思是民主社会主义计划，而且他们自己也承认，是他们确实想要与民主党进行内战。",
+      "structure": "主系表结构，that引导表语从句",
+      "analysis": "主语the Democratic socialist project，系动词is，表语that they do want...，and this is by their own admission为插入语。"
+    },
+    {
+      "en": "They think the Democratic Party has lost its way and they want to overtake it.",
+      "cn": "他们认为民主党已经迷失了方向，他们想要超越它。",
+      "structure": "主谓宾结构，宾语为省略that的从句",
+      "analysis": "主语They，谓语think，宾语从句the Democratic Party has lost its way and they want to overtake it。"
+    },
+    {
+      "en": "And they think that it has not been forceful enough in pushing a very progressive agenda.",
+      "cn": "而且他们认为它在推动非常进步的议程方面不够有力。",
+      "structure": "主谓宾结构，that引导宾语从句",
+      "analysis": "主语They，谓语think，that引导宾语从句。"
+    },
+    {
+      "en": "That is different in some ways than making --",
+      "cn": "这在某些方面不同于制造——",
+      "structure": "主系表结构",
+      "analysis": "主语That，系动词is，表语different，in some ways为状语。"
+    },
+    {
+      "en": "Well, then --",
+      "cn": "嗯，那么——",
+      "structure": "不完整句",
+      "analysis": "口语中的不完整句。"
+    },
+    {
+      "en": "Darializa the sort of poster child of this.",
+      "cn": "Darializa 是这方面的典型代表。",
+      "structure": "名词短语",
+      "analysis": "名词短语，省略了系动词。"
+    },
+    {
+      "en": "Well, then let me play one thing for you, because James Carville has always got to enter the chat.",
+      "cn": "那么，让我为你播放一段，因为詹姆斯·卡维尔总是要加入讨论。",
+      "structure": "祈使句，because引导原因状语从句",
+      "analysis": "let me play one thing for you为祈使句，because引导原因状语从句。"
+    },
+    {
+      "en": "He does.",
+      "cn": "他确实。",
+      "structure": "主谓结构",
+      "analysis": "主语He，谓语does。"
+    },
+    {
+      "en": "Here he is, what he has to say",
+      "cn": "他来了，他要说的话",
+      "structure": "倒装句，what引导从句",
+      "analysis": "Here he is为倒装，what he has to say为名词性从句。"
+    },
+    {
+      "en": "This Chevalier lady, I don't -- they should not seat her in the caucus.",
+      "cn": "这位Chevalier女士，我不——他们不应该让她进入党团会议。",
+      "structure": "呼语+主谓宾结构",
+      "analysis": "This Chevalier lady为呼语，I don't为不完整句，they should not seat her in the caucus为主句。"
+    },
+    {
+      "en": "All of these people hate Democrats.",
+      "cn": "所有这些人都讨厌民主党。",
+      "structure": "主谓宾结构",
+      "analysis": "主语All of these people，谓语hate，宾语Democrats。"
+    },
+    {
+      "en": "Why do they want to run as a Democrat?",
+      "cn": "他们为什么想以民主党人身份参选？",
+      "structure": "特殊疑问句",
+      "analysis": "疑问词Why，助动词do，主语they，谓语want，to run as a Democrat为不定式短语。"
+    },
+    {
+      "en": "Start your own movement.",
+      "cn": "发起你自己的运动。",
+      "structure": "祈使句",
+      "analysis": "Start your own movement为祈使句。"
+    },
+    {
+      "en": "If it's such a powerful, sweeping movement that's got momentum everywhere, then go ahead and be at the head of it.",
+      "cn": "如果它是一个如此强大、席卷一切、到处都有势头的运动，那就去做并领导它。",
+      "structure": "if引导条件状语从句，主句为祈使句",
+      "analysis": "if引导条件状语从句，主句go ahead and be at the head of it为祈使句。"
+    },
+    {
+      "en": "Don't use the Democratic Party to advance it.",
+      "cn": "不要利用民主党来推进它。",
+      "structure": "祈使句",
+      "analysis": "Don't use the Democratic Party to advance it为祈使句。"
+    },
+    {
+      "en": "Rob, I got to ask you, because I've asked Republicans all week who may have deja vu from MAGA and Tea Party, does that work to just be like, y'all go somewhere else?",
+      "cn": "Rob，我得问你，因为我整周都在问共和党人，他们可能对MAGA和茶党有似曾相识的感觉，那样做有用吗，就像你们去别处？",
+      "structure": "主谓宾结构，because引导原因状语从句，who引导定语从句",
+      "analysis": "主句I got to ask you，because引导原因状语从句，从句中who引导定语从句修饰Republicans。"
+    },
+    {
+      "en": "I mean Donald Trump's president now.",
+      "cn": "我的意思是唐纳德·特朗普现在是总统。",
+      "structure": "主系表结构",
+      "analysis": "主语Donald Trump，系动词's，表语president。"
+    },
+    {
+      "en": "Donald Trump is president.",
+      "cn": "唐纳德·特朗普是总统。",
+      "structure": "主系表结构",
+      "analysis": "主语Donald Trump，系动词is，表语president。"
+    },
+    {
+      "en": "You have the House Freedom Caucus, which is a group that exerted its power, right?",
+      "cn": "你有众议院自由核心小组，这是一个行使权力的团体，对吧？",
+      "structure": "主谓宾结构，which引导非限制性定语从句，that
