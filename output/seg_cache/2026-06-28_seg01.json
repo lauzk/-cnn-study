@@ -1,0 +1,392 @@
+{
+  "date": "2026-06-28",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-28/segment/01",
+  "vocabulary": [
+    {
+      "word": "interim agreement",
+      "phonetic": "/ˈɪntərɪm əˈɡriːmənt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "临时协议",
+      "en": "a temporary agreement pending a final settlement",
+      "excerpt": "Interim Agreement Under Strain As U.S., Iran Exchange Fire",
+      "example_cn": "临时协议因美伊交火而面临压力。"
+    },
+    {
+      "word": "escalation",
+      "phonetic": "/ˌeskəˈleɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "升级；加剧",
+      "en": "increase in intensity or magnitude",
+      "excerpt": "It's a tit for tat escalation over three, four days now.",
+      "example_cn": "这是三四天来针锋相对的升级。"
+    },
+    {
+      "word": "retaliatory",
+      "phonetic": "/rɪˈtæliətɔːri/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "报复性的",
+      "en": "done against someone because they have done something unpleasant to you",
+      "excerpt": "Iran responded to the 10 U.S. strikes by launching missiles and drones against U.S. facilities in Bahrain and Kuwait.",
+      "example_cn": "伊朗以发射导弹和无人机报复美国的10次打击。"
+    },
+    {
+      "word": "ceasefire",
+      "phonetic": "/ˈsiːsfaɪər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "停火",
+      "en": "a temporary stopping of fighting",
+      "excerpt": "Now this is happening as there is technically a ceasefire in place",
+      "example_cn": "现在这发生在技术上存在停火的情况下。"
+    },
+    {
+      "word": "memorandum of understanding",
+      "phonetic": "/ˌmeməˈrændəm əv ˌʌndəˈstændɪŋ/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "谅解备忘录",
+      "en": "a document that describes the general principles of an agreement between parties",
+      "excerpt": "It's really the most serious escalation between the U.S. and Iran that we've seen since the two sides signed that memorandum of understanding.",
+      "example_cn": "这是自双方签署谅解备忘录以来最严重的升级。"
+    },
+    {
+      "word": "Strait of Hormuz",
+      "phonetic": "/streɪt əv hɔːrˈmuːz/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "霍尔木兹海峡",
+      "en": "a strait between the Persian Gulf and the Gulf of Oman",
+      "excerpt": "Iran's foreign minister warned any interference in the Strait of Hormuz will delay its reopening.",
+      "example_cn": "伊朗外长警告任何干涉霍尔木兹海峡的行为都将推迟其重新开放。"
+    },
+    {
+      "word": "infrastructure",
+      "phonetic": "/ˈɪnfrəstrʌktʃər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "基础设施",
+      "en": "the basic systems and services that a country or organization uses in order to work effectively",
+      "excerpt": "U.S. Central Command said, the Air Force and Navy targets included Iran's various military infrastructure",
+      "example_cn": "美国中央司令部表示，空军和海军的目标包括伊朗的各种军事基础设施。"
+    },
+    {
+      "word": "commercial vessel",
+      "phonetic": "/kəˈmɜːrʃl ˈvesl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "商船",
+      "en": "a ship used for carrying goods or passengers for payment",
+      "excerpt": "The U.S. military says it was in response to what it called an Iranian attack on a commercial vessel in the Strait of Hormuz.",
+      "example_cn": "美国军方称这是对伊朗袭击霍尔木兹海峡一艘商船的回应。"
+    },
+    {
+      "word": "tit for tat",
+      "phonetic": "/tɪt fɔːr tæt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "以牙还牙",
+      "en": "something done in retaliation",
+      "excerpt": "It's a tit for tat escalation over three, four days now.",
+      "example_cn": "这是三四天来针锋相对的升级。"
+    },
+    {
+      "word": "ballistic missile",
+      "phonetic": "/bəˈlɪstɪk ˈmɪsaɪl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "弹道导弹",
+      "en": "a missile that is guided during its ascent but falls freely after reaching its target",
+      "excerpt": "Reportedly, last night, the Islamic Republic again used ballistic missiles",
+      "example_cn": "据报道，昨晚伊朗伊斯兰共和国再次使用了弹道导弹。"
+    },
+    {
+      "word": "non-state actor",
+      "phonetic": "/nɒn steɪt ˈæktər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "非国家行为体",
+      "en": "an individual or organization that has significant political influence but is not allied to any particular country or state",
+      "excerpt": "the conflict is between a state and a non-state actor",
+      "example_cn": "冲突发生在国家与非国家行为体之间。"
+    },
+    {
+      "word": "terror group",
+      "phonetic": "/ˈterər ɡruːp/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "恐怖组织",
+      "en": "an organization that uses violence and intimidation to achieve political aims",
+      "excerpt": "a terror group backed by the Islamic Republic of Iran",
+      "example_cn": "一个由伊朗伊斯兰共和国支持的恐怖组织。"
+    },
+    {
+      "word": "deconfliction",
+      "phonetic": "/ˌdiːkənˈflɪkʃn/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "冲突消除",
+      "en": "the process of preventing or resolving conflicts",
+      "excerpt": "really deconfliction as it relates to the border",
+      "example_cn": "真正与边界相关的冲突消除。"
+    },
+    {
+      "word": "security zone",
+      "phonetic": "/sɪˈkjʊrəti zoʊn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "安全区",
+      "en": "an area where special security measures are in place",
+      "excerpt": "an attempt to create security zones as a predicate to withdrawing from Southern Lebanon",
+      "example_cn": "试图建立安全区作为从黎巴嫩南部撤军的前提。"
+    },
+    {
+      "word": "hard line",
+      "phonetic": "/hɑːrd laɪn/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "强硬的",
+      "en": "uncompromising; strict",
+      "excerpt": "hard line kind of riot activity",
+      "example_cn": "强硬派的骚乱活动。"
+    },
+    {
+      "word": "pro-Hezbollah",
+      "phonetic": "/proʊ hezˈbɑːlə/",
+      "pos": "adj.",
+      "level": "专八",
+      "cn": "亲真主党的",
+      "en": "supportive of Hezbollah",
+      "excerpt": "hard line pro-Hezbollah and pro-Iran media",
+      "example_cn": "强硬的亲真主党和亲伊朗媒体。"
+    },
+    {
+      "word": "earthquake",
+      "phonetic": "/ˈɜːrθkweɪk/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "地震",
+      "en": "a sudden violent shaking of the ground",
+      "excerpt": "The death toll from the two devastating earthquakes is now above 1,400 people.",
+      "example_cn": "两次毁灭性地震造成的死亡人数现已超过1400人。"
+    },
+    {
+      "word": "death toll",
+      "phonetic": "/deθ toʊl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "死亡人数",
+      "en": "the number of people killed in an accident, war, etc.",
+      "excerpt": "The death toll from the two devastating earthquakes is now above 1,400 people.",
+      "example_cn": "两次毁灭性地震造成的死亡人数现已超过1400人。"
+    },
+    {
+      "word": "rescue operation",
+      "phonetic": "/ˈreskjuː ˌɒpəˈreɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "救援行动",
+      "en": "an organized effort to save people from danger",
+      "excerpt": "Urgent Rescue Operations Underway As Death Toll Soars In Venezuela",
+      "example_cn": "随着委内瑞拉死亡人数飙升，紧急救援行动正在进行。"
+    },
+    {
+      "word": "golden window",
+      "phonetic": "/ˈɡoʊldən ˈwɪndoʊ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "黄金时间",
+      "en": "the critical period during which rescue efforts are most likely to succeed",
+      "excerpt": "as this golden window is really thinning down",
+      "example_cn": "随着这个黄金窗口期正在缩小。"
+    },
+    {
+      "word": "heatwave",
+      "phonetic": "/ˈhiːtweɪv/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "热浪",
+      "en": "a period of unusually hot weather",
+      "excerpt": "Relief from a heatwave is finally in sight for millions of Europeans.",
+      "example_cn": "数百万欧洲人终于看到了热浪缓解的希望。"
+    },
+    {
+      "word": "record-breaking",
+      "phonetic": "/ˈrekɔːrd breɪkɪŋ/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "破纪录的",
+      "en": "exceeding the previous best or highest",
+      "excerpt": "the impact of that record breaking heat is far from over",
+      "example_cn": "破纪录高温的影响远未结束。"
+    },
+    {
+      "word": "flash flood",
+      "phonetic": "/flæʃ flʌd/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "山洪暴发",
+      "en": "a sudden local flood due to heavy rain",
+      "excerpt": "We've got roughly a dozen flash flood warnings right now",
+      "example_cn": "目前大约有十几个山洪暴发警告。"
+    },
+    {
+      "word": "state of emergency",
+      "phonetic": "/steɪt əv ɪˈmɜːrdʒənsi/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "紧急状态",
+      "en": "a situation in which a government is given special powers to deal with a crisis",
+      "excerpt": "that prompted the governor to declare a state of emergency",
+      "example_cn": "这促使州长宣布进入紧急状态。"
+    },
+    {
+      "word": "partisan",
+      "phonetic": "/ˈpɑːrtɪzn/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "党派性的",
+      "en": "strongly supporting a particular political party or group",
+      "excerpt": "they complained that it was too partisan",
+      "example_cn": "他们抱怨说这太党派化了。"
+    },
+    {
+      "word": "counter program",
+      "phonetic": "/ˈkaʊntər ˈproʊɡræm/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "对立活动",
+      "en": "an event organized in opposition to another event",
+      "excerpt": "there was a counter program organized by several mostly progressive organizations",
+      "example_cn": "有几个主要是进步组织策划的对立活动。"
+    },
+    {
+      "word": "spectacle",
+      "phonetic": "/ˈspektəkl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "景象；奇观",
+      "en": "a visually striking performance or display",
+      "excerpt": "the Trump administration has turned them into partisan spectacles",
+      "example_cn": "特朗普政府将它们变成了党派奇观。"
+    },
+    {
+      "word": "temporary protected status (TPS)",
+      "phonetic": "/ˈtempəreri prəˈtektɪd ˈsteɪtəs/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "临时保护身份",
+      "en": "a temporary immigration status granted to nationals of certain countries experiencing conflict or disaster",
+      "excerpt": "the Trump administration is now able to cancel temporary protections for hundreds of thousands of Haitian and Syrian nationals",
+      "example_cn": "特朗普政府现在能够取消数十万海地和叙利亚国民的临时保护。"
+    },
+    {
+      "word": "asylum claim",
+      "phonetic": "/əˈsaɪləm kleɪm/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "庇护申请",
+      "en": "a request for protection as a refugee",
+      "excerpt": "The decisions will have sweeping impacts on asylum claims at the border",
+      "example_cn": "这些决定将对边境的庇护申请产生广泛影响。"
+    },
+    {
+      "word": "sweeping impact",
+      "phonetic": "/ˈswiːpɪŋ ˈɪmpækt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "广泛影响",
+      "en": "a far-reaching effect",
+      "excerpt": "The decisions will have sweeping impacts on asylum claims at the border",
+      "example_cn": "这些决定将对边境的庇护申请产生广泛影响。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "It's really the most serious escalation between the U.S. and Iran that we've seen since the two sides signed that memorandum of understanding.",
+      "cn": "这确实是自双方签署谅解备忘录以来我们看到的美伊之间最严重的升级。",
+      "structure": "主系表结构，主语It，系动词is，表语the most serious escalation，后接定语从句that we've seen since...",
+      "analysis": "that引导定语从句修饰escalation，since引导时间状语从句。"
+    },
+    {
+      "en": "He said that the Strait of Hormuz could be back to pre-war levels when it comes to the amount of vessels coming through within 30 days.",
+      "cn": "他说，就通过船只数量而言，霍尔木兹海峡可能在30天内恢复到战前水平。",
+      "structure": "主谓宾结构，主语He，谓语said，宾语从句that...，从句中when it comes to...为状语。",
+      "analysis": "when it comes to...是固定短语，意为“就……而言”。"
+    },
+    {
+      "en": "There may come a point when we are no longer able to be reasonable, and will be forced to militarily complete the job that we very successfully started.",
+      "cn": "可能会有一个时刻，我们不再能够保持理性，并将被迫以军事方式完成我们非常成功开始的工作。",
+      "structure": "There be句型，主语a point，后接when引导的定语从句，从句中and连接两个谓语。",
+      "analysis": "when引导定语从句修饰point，that引导定语从句修饰job。"
+    },
+    {
+      "en": "It kicked off this 60-day time period to address some of the big details related to Iran's nuclear program, like the fate of its stockpile of highly enriched uranium, and then other key topics.",
+      "cn": "它启动了这60天的时间段，以解决与伊朗核计划相关的一些重大细节，如其高浓缩铀库存的命运，以及其他关键议题。",
+      "structure": "主谓宾结构，主语It，谓语kicked off，宾语this 60-day time period，后接不定式短语作目的状语。",
+      "analysis": "related to...为过去分词短语作定语修饰details。"
+    },
+    {
+      "en": "My fear here, however, is that the logic of tit for tat will lead to unintended escalation and will lead to more risk taking by one side, thinking that they're kind of set in for this new normal, and not really realizing that, oh my goodness, we're in an entirely different world.",
+      "cn": "然而，我担心的是，以牙还牙的逻辑将导致意外升级，并导致一方冒更多风险，认为他们已经适应了这种新常态，而没有真正意识到，哦，天哪，我们处于一个完全不同的世界。",
+      "structure": "主系表结构，主语My fear，系动词is，表语从句that...，从句中and连接两个谓语will lead to，后接现在分词短语thinking...作伴随状语。",
+      "analysis": "thinking和realizing为现在分词短语，逻辑主语为one side。"
+    },
+    {
+      "en": "This is an attempt by the United States as well as by Israel, to make sure that any kind of diplomatic agreement, whether that is, you know, pie in the sky normalization or really deconfliction as it relates to the border or much more realistically, an attempt to create security zones as a predicate to withdrawing from Southern Lebanon, whatever that is, is between two governments, not between one government and one terrorist organization.",
+      "cn": "这是美国以及以色列的一次尝试，以确保任何形式的外交协议——无论是遥不可及的正常化，还是与边界相关的真正冲突消除，或者更现实地说，是建立安全区作为从黎巴嫩南部撤军的前提——都是在两国政府之间，而不是在一国政府和一个恐怖组织之间。",
+      "structure": "主系表结构，主语This，系动词is，表语an attempt，后接不定式短语to make sure...，其中that引导宾语从句，从句中插入多个插入语。",
+      "analysis": "whether...or...结构列举可能性，as it relates to...为状语从句。"
+    },
+    {
+      "en": "And it speaks to how divided many Americans have been over these events, with some of them arguing that the Trump administration has turned them into partisan spectacles.",
+      "cn": "它说明了许多美国人在这些事件上有多么分裂，其中一些人认为特朗普政府将它们变成了党派奇观。",
+      "structure": "主谓宾结构，主语It，谓语speaks to，宾语从句how divided...，后接with复合结构作伴随状语。",
+      "analysis": "with + 宾语 + 现在分词短语，arguing that...为现在分词短语。"
+    },
+    {
+      "en": "The decisions will have sweeping impacts on asylum claims at the border, but also the Trump administration is now able to cancel temporary protections for hundreds of thousands of Haitian and Syrian nationals.",
+      "cn": "这些决定将对边境的庇护申请产生广泛影响，而且特朗普政府现在能够取消对数十万海地和叙利亚国民的临时保护。",
+      "structure": "并列句，由but also连接两个分句。第一个分句主谓宾结构，第二个分句主系表结构。",
+      "analysis": "have impacts on...为固定搭配，意为“对……产生影响”。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "美伊冲突与临时协议",
+      "content": "美国与伊朗在签署临时协议后仍发生交火，伊朗警告干涉霍尔木兹海峡将延迟其重新开放。美国对伊朗军事目标发动打击，伊朗以导弹和无人机报复。双方在谈判中同时进行军事行动，局势紧张。",
+      "keywords": "美伊关系, 临时协议, 霍尔木兹海峡, 军事打击, 谈判"
+    },
+    {
+      "title": "委内瑞拉地震救援",
+      "content": "委内瑞拉发生两次毁灭性地震，死亡人数超过1400人。国际救援队抵达，包括美国、西班牙等国的团队。救援行动持续进行，黄金救援时间已过，但仍有幸存者被救出。",
+      "keywords": "委内瑞拉, 地震, 救援, 死亡人数, 国际援助"
+    },
+    {
+      "title": "美国250周年庆典争议",
+      "content": "美国250周年庆典活动在华盛顿国家广场举行，但被批评过于党派化。多个民主党州拒绝参与，音乐艺术家取消演出。同时有对立活动举行，反映美国社会的分裂。",
+      "keywords": "美国250周年, 党派分歧, 国家广场, 庆典, 对立活动"
+    },
+    {
+      "title": "欧洲热浪与极端天气",
+      "content": "欧洲遭遇历史性热浪，德国出现有记录以来最热的一天和最热的夜晚。基础设施受损，铁路服务受影响。同时美国肯塔基州遭遇严重洪灾，造成人员死亡和财产损失。",
+      "keywords": "热浪, 欧洲, 极端天气, 洪灾, 肯塔基"
+    },
+    {
+      "title": "美国移民政策与最高法院裁决",
+      "content": "美国最高法院保守派多数支持特朗普政府的移民政策，允许取消对海地和叙利亚国民的临时保护身份，并对边境庇护申请产生广泛影响。",
+      "keywords": "移民政策, 最高法院, 临时保护身份, 庇护, 特朗普"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nInterim Agreement Under Strain As U.S., Iran Exchange Fire; Israel To Withdraw From Two Areas In Lebanon Under Newly-Signed Agreement; Three Firefighters Killed, Two Others Hurt Battling Wildfire In Colorado; Urgent Rescue Operations Underway As Death Toll Soars In Venezuela; Biden Lashes Out At Trump; CNN Projects: Letlow Wins Louisiana GOP Senate Runoff; Deadly Kentucky Floods Leave At Least Four People Dead. Record Temps Impact Daily Life Across Europe; Great American State Fair Begins On National Mall; Supreme Court Gives Trump Major Wins On Two Immigration Cases; Millions Expected To Attend Pride Parades Across The U.S.; Mamdani Jumps Into Pool To Kick Off NYC Swim Season; World Cup Viewers Gather At FIFA Fest In Atlanta. Aired 6-7a ET\n\nAired June 28, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nVICTOR BLACKWELL, CNN ANCHOR: Welcome to CNN THIS MORNING. Here's what's new this morning. U.S. and Iran are trading new strikes. And now President Trump says the U.S. is prepared to complete the job if Iran keeps escalating.\n\nAnd the search in Venezuela every hour is making it harder to find survivors. We have a live report from inside the country as these rescue efforts are continuing.\n\nUNIDENTIFIED FEMALE: This is not a protest. This is a celebration of our vision as a people for what we want and who we really are. We are an inclusive people.\n\nUNIDENTIFIED MALE: People don't like what the other side is doing. No matter what it is, they'll fight tooth and nail. It's just politics.\n\nBLACKWELL: A mile apart in Washington, two very different celebrations of America. What it says about the country as it turns 250.\n\nALLISON CHINCHAR, CNN METEOROLOGIST: And more heavy rain continues to batter hard hit states like Kentucky. We'll take a look at when they could finally see a break and where all of that heavy rain is moving.\n\nBLACKWELL: June 28th. Welcome to a new week. Thanks for joining us. I'm Victor Blackwell. We're starting this morning with the escalating tensions between the U.S. and Iran. A short time ago, Iran's foreign minister warned any interference in the Strait of Hormuz will delay its reopening.\n\nEarlier, Iran called 10 U.S. strikes on Iranian military targets a clear violation of the ceasefire interim agreement signed just 10 days ago. U.S. Central Command said, the Air Force and Navy targets included Iran's various military infrastructure, their air defense sites and drone storage facilities. The U.S. military says it was in response to what it called an Iranian attack on a commercial vessel in the Strait of Hormuz.\n\nNow, Iran responded to the 10 U.S. strikes by launching missiles and drones against U.S. facilities in Bahrain and Kuwait. And Bahrain's government released some images -- these images to the damage of residential buildings in that attack.\n\nLet's go to CNN's Paula Hancocks with the latest. It's a tit for tat escalation over three, four days now.\n\nPAULA HANCOCKS, CNN CORRESPONDENT: Yes, Victor. It's really the most serious escalation between the U.S. and Iran that we've seen since the two sides signed that memorandum of understanding. Now, it was a sleepless night for a number of residents in Kuwait and Bahrain, as once again, they bore the brunt of the Iranian retaliation. Iran saying that it was a defensive strike, claiming that it was in response to U.S. strikes against them overnight.\n\nNow, what we have seen is from the foreign minister of Iran. He's currently in Baghdad, Abbas Araghchi. He has just been giving a press conference. And he said that the Strait of Hormuz could be back to pre-war levels when it comes to the amount of vessels coming through within 30 days. But here's the tricky point. He does say as long as it's under Iran's exclusive management.\n\nNow, this is the way that Tehran is reading the memorandum at this point that they are in control of the Strait of Hormuz. We heard just last week from the U.S. Secretary of State, Marco Rubio, that no country has the right to claim control over international waterways.\n\nSo, this is becoming a very serious sticking point when it comes to this issue. And of course, we know that it is very worrying for those seafarers still stuck in the Persian Gulf. There was this U.N. effort to evacuate them. Some 11,000 had been there since the beginning of the war at the end of February, but that has been halted because of this increase in tensions.\n\nWe also heard from the Revolutionary Guard spokesperson about the U.S. strikes. Let's listen to what he said\n\nHOSSEIN MOHEBBI, ISLAMIC REVOLUTIONARY GUARD CORPS SPOKESPERSON (through translator): This is simply the nature of our enemy. It is untrustworthy and prone to breaking its commitments in. At any moment, we may engage in such actions regardless as consistent with enemy's nature, because we know its character. But as I said, what is most important is that we have always responded to the enemy, and we will continue to do so.\n\nHANCOCKS: So we've heard from Tehran that if there is more concern, more trouble as far as they're concerned, in the Strait of Hormuz, i.e. that vessels are not using their pre-designated route and filling in forms for them and getting their permission then there will be targeting of vessels once again, Victor.\n\nBLACKWELL: Paula Hancocks for us in Abu Dhabi. Thanks so much. Now this is happening as there is technically a ceasefire in place and as the two countries are preparing to try to tackle the more complex issues. CNN's Julia Benbrook has more.\n\nJULIA BENBROOK, CNN CORRESPONDENT: The main questions throughout this back and forth are, how does this impact the ceasefire and how it will impact the ongoing negotiations between the United States and Iran?\n\nPresident Donald Trump's post Saturday evening really only highlighted that uncertainty. He wrote, quote, \"United States aircraft just struck Iranian missile and drone storage locations and coastal radar sites for violating the cease fire agreement, again. It is very possible that they will never learn. There may come a point when we are no longer able to be reasonable, and will be forced to militarily complete the job that we very successfully started. If that happens, the Islamic Republic of Iran will no longer exist.\"\n\nIt was just about a week ago, last weekend that Vice President JD Vance traveled to Switzerland to lead high level talks with Iran. He started off the technical talks because the memorandum of understanding is really just a starting point. It kicked off this 60- day time period to address some of the big details related to Iran's nuclear program, like the fate of its stockpile of highly enriched uranium, and then other key topics.\n\nBut as Vance left, he expressed optimism. He said, that they had made great progress toward a long term deal. Now, all of this recent back and forth really threatens to put a strain on those already fragile negotiations.\n\nJulia Benbrook, CNN, the White House.\n\nBLACKWELL: All right. With me now to discuss is Behnam Ben Taleblu. He's the senior director of the Iran program at the Foundation for Defense of Democracies. Thanks so much for coming back.\n\nSo this latest volley started on Thursday with Iran striking this Singaporean flagged ship in the strait. Is this an escalation? Is this an exchange that you think Iran wants? I mean, why start this?\n\nBEHNAM BEN TALEBLU, SR. DIR., FOUNDATION FOR DEFENSE OF DEMOCRACIES: Great to be with you, Victor. It certainly is an escalation, but it is also a blast from the past. During the ceasefire, the actually ceasefire which was in place for about 60 days from April 8th to the middle of June when this new memorandum of understanding was agreed to, we've seen lots of activities like this by the Islamic Republic that were forcefully responded to by the U.S., and also many that were ignored.\n\nYou know, the Islamic Republic in that period and now following the deal has turned Kuwait and Bahrain and formerly the UAE into something of a punching bag amid its larger attempts to signal resolve against America. And the Islamic Republic is doing this for one explicit reason, and that is leverage and leverage over the Strait of Hormuz, even as it is supposed to be helping to open that up or free that up.\n\nBecause the one thing that is really asked of Iran in this MOU, in this deal, is to actually un-impede the Strait of Hormuz. Everything else you see in that text is either mutual, kicks the can down the line, or is incumbent on the U.S.\n\nBLACKWELL: OK, so is there any influence of the strike, retaliatory strike, whether it's proportional or slightly escalatory, does that influence the negotiating strategy of Iran? Does this move them at all?\n\nTALEBLU: I, actually, see things as pretty siloed and pretty isolated. Certainly both sides through their respective responses and respective military flexing, wanted to impact the negotiating posture of the other. But both of them, I think, are pretty well insulated, meaning both sides are comfortable walking and chewing gum. Both sides are comfortable talking and shooting at the same time.\n\nAnd again, we saw the green shoots of this dynamic during that 67-day ceasefire after April 8th in the region. And I think that logic is going to continue. My fear here, however, is that the logic of tit for tat will lead to unintended escalation and will lead to more risk taking by one side, thinking that they're kind of set in for this new normal, and not really realizing that, oh my goodness, we're in an entirely different world.\n\nI mean, I just want to footnote one thing for the audience. Reportedly, last night, the Islamic Republic again used ballistic missiles that would mark the 16th ballistic missile operation directly, overtly kinetically from the country's territory in the past two years.\n\nWhereas if you go back from 1988, when the Iran-Iraq war ended all the way up to December 2022, Iran had only launched 13 of these operations. So 16 in two years versus 13 in about a couple of decades. That says a lot about the new world were living in.\n\nBLACKWELL: Yes. And the administration, the U.S. administration initially said that eliminating their missiles program was part of the goal of this action. [06:10:02]\n\nBut now we heard from the president just outside the G7 a couple of weeks ago that it would be unfair to take their missiles and allow their neighbors to keep them. Let me ask you about the Israeli and Lebanon element of this. The Israeli military struck Southern Lebanon again.\n\nIsrael says that it killed members of Hezbollah, the militant group backed by Iran. What then is the significance of this agreement that was reached between Israel and Lebanon? Hezbollah was not party to this. Hezbollah has condemned the agreement. The fighting continues and the fight was initially between Israel and Hezbollah in this chapter.\n\nTALEBLU: That's precisely right. And use the exact right word there, which is Lebanon. This is an attempt by the United States as well as by Israel, to make sure that any kind of diplomatic agreement, whether that is, you know, pie in the sky normalization or really deconfliction as it relates to the border or much more realistically, an attempt to create security zones as a predicate to withdrawing from Southern Lebanon, whatever that is, is between two governments, not between one government and one terrorist organization, which is what many in Israel had feared based on the plain reading of the text of the memorandum of understanding.\n\nNow, you're right that the conflict is between a state and a non-state actor, a country backed by the United States and a non-state actor, a terror group backed by the Islamic Republic of Iran. But thus far, this is diplomatically and politically how Israel and America are trying to dance around that.\n\nAs you know, Hezbollah and Hezbollah supporters, more importantly in Lebanon, have pushed back against this attempt to carve out a separate bilateral governmental channel by America and Israel, with the central authority in Beirut, which is why coterminous with this escalation in the Strait of Hormuz, you actually saw some protests and, you know, hard line kind of riot activity that was amplified by hard line pro- Hezbollah and pro-Iran media in the region in a bid to say, no, if you think we're going to be doing a 180 around us, you have something else coming.\n\nBLACKWELL: All right. Behnam Ben Taleblu, always good to have you. Have a good week.\n\nComing up, the search for survivors --\n\nBLACKWELL: -- in Venezuela after two major earthquakes rocked the country. We're live with the latest on the rescue efforts and the people still holding on to hope.\n\nPlus, one celebration, two very different gatherings. What the first weekend of America 250 events in Washington, D.C. reveals about the country. And a deadly flooding hits Kentucky. The weather is not done yet. We'll look at what's still to come.\n\nBLACKWELL: Three firefighters were killed, Saturday, while battling the wildfires near Colorado's border with Utah. Two other firefighters were hurt and taken to the hospital. Now the crews are battling more than a dozen fires across Western Colorado and Utah with thousands of acres already burned.\n\nAnd rescue crews from all over the world are headed to Venezuela to try to save some trapped survivors. The death toll from the two devastating earthquakes is now above 1,400 people. More than three days have passed since the earthquakes. Chances of survival dropped rapidly after 72 hours without water.\n\nThousands of international aid workers have arrived in Venezuela, and they're bringing with them tons of equipment and specialized rescue teams. We saw moments of hope like this one on Saturday.\n\nYes. Rescue teams from the U.S., they were able to pull this nine- month-old baby along with the child's mother from that rubble. They only had minor injuries.\n\nTake a look at this too. Now, Spanish rescue crew pulled that man by his legs from the rubble. The man appeared to be understandably speechless and in disbelief as he was being rescued.\n\nCNN's Stefano Pozzebon joins us now from Caracas. Stefano, what do you see? What's the latest there?\n\nSTEFANO POZZEBON, CNN CONTRIBUTOR: Well, Victor, the latest is, of course, that these rescue operations are not stopping. We are now 84 hours after that terrible twin earthquake that hit this country in -- on Wednesday afternoon. But here, at least in the center of Caracas, we are in an area called Chacao, which has been one of the most hit with several buildings collapsed, the operations are still ongoing.\n\nThere are rescue workers, for example, working at that excavator just behind my back and trying to go through the structure of the building. And here in the center of the city, you can also appreciate the level of the scale of the logistical operation that these -- that these rescue operation is taking in with workers and first responders from dozens of countries really coming in and trying to help Venezuelans.\n\nAnd of course, thousands, tens of thousands of Venezuelans as well. One of them is my new friend Gandhi here.\n\nHe's from the city of Valencia, which is, by the way, where we flew in the day before yesterday. And it's also a big city that has not been as affected. Gandhi, (speaking in foreign language).\n\nGANDHI, RESIDENT OF VALENCIA: (Speaking in foreign language).\n\nPOZZEBON: He's telling me that they are working 24 hours a day, but at the same time, rest is important. So they're trying to take naps whenever they can, try to get their forces and coming in. (Speaking in foreign language).\n\nGANDHI, RESIDENT OF VALENCIA: (Speaking in foreign language).\n\nPOZZEBON: Victor, Gandhi here was saying that there are almost done with these parts of the city. This is the center of Chacao, the center of Caracas. And of course here is not as affected as the area of La Guaira, which is where that video that you played before was coming up. They are going to go there in the coming days because that is where the majority of the missing people are still believed to be located as this golden window is really thinning down.\n\nBut at the same time, here in Caracas, even though the damage is still not as big as in La Guaira, you can also -- you can still see the impact of these -- of the tremors, Victor.\n\nBLACKWELL: Yes, even outside of the crucial 72 hours, often there is additional life. There are people who are pulled out alive and we hope that they still can find some people in the rubble as they continue the search. Stefano Pozzebon, live from Venezuela, thank you so much.\n\nRelief from a heatwave is finally in sight for millions of Europeans. I know they've been waiting for. We're live from Berlin where the relief is arriving but the impact of that record breaking heat is far from over.\n\nCHINCHAR: And we're going from one round of devastating flooding to another. More rain continues across areas of Kentucky. We'll take a look at when they could finally see some relief.\n\nBLACKWELL: Joe Biden is lashing out at President Trump. The former president delivered a blistering speech at a Democratic fundraiser in Maryland last night. Coincidentally, it came exactly two years after the disastrous debate performance against Trump that derailed his bid for a second term.\n\nJOE BIDEN, FORMER PRESIDENT OF THE UNITED STATES: The reflecting pool reflects something even worse than the narcissism and incompetence at the core of this administration. It's the corruption, the corruption, the brazen, blatant corruption. Corruption on a scale never seen before in American history in any administration.\n\n(END VIDEO CLIP) BLACKWELL: Former President Biden also criticized Trump and claimed he wants to give taxpayer money to January 6th insurrectionists. Former President Biden is 83 years old and continues to battle prostate cancer that has metastasized to his bones.\n\nCNN projects Congresswoman Julia Letlow has won the Republican Senate runoff in Louisiana. She defeated state treasurer John Fleming. Letlow got a boost from President Trump, who endorsed her during the race.\n\nNow, he praised her support for his immigration policies and other key priorities. Incumbent Senator Bill Cassidy lost his primary last month. One of two Republicans defeated after Trump opposed them.\n\nNow to Kentucky, at least four people have died after heavy rain caused major flooding. Some areas saw up to seven inches of rain, and that prompted the governor to declare a state of emergency.\n\nHomes and roads, look at this, under water and that water is moving. The bridges are out. Roads are blocked. Dozens of people have been rescued. Officials are warning people to be cautious and really avoid unnecessary travel.\n\nCNN meteorologist Allison Chinchar is here. That's always good advice. If you don't have to be out, don't go out. Especially don't drive through moving water. What can they expect today?\n\nCHINCHAR: Unfortunately, more rain. And the seven inches you were talking about, keep in mind, they had had two to three inches the day before. So you're talking a 48-hour total in some of these places of 10 to 12 inches of rain, which is why that water came up so quickly.\n\nAnd we could see the same thing again today, even though most of these areas may only get an extra one to two inches. Remember, that ground is fully saturated now. It's not going to take much to trigger additional flooding.\n\nYou can see all of these. We've got roughly a dozen flash flood warnings right now along this line of storms making its way through portions of Kentucky and into Tennessee. That line itself is going to shift down to the south and east as we go through the rest of the day.\n\nSo eventually, Kentucky will finally get a break. The problem is the short term. So because of that, that's why you have all these flash flood warnings as well as the watches in place because of what we anticipate over the next few hours.\n\nThis is the concern for the flooding over the next -- for really for the rest of the day today, because all of that water takes time to recede. So even once it stops raining, it could be hours before you really start to see that water go back down and you can see the ground underneath it. Then it's going to shift a little bit farther to the east.\n\nSo even areas of the Carolinas that really haven't had much of that heavy rain that is expected to move there later on today. You can see that by the afternoon. Here's about 2:00, 3:00, 4:00 in the afternoon. A lot of the bulk of that has really started to shift over towards the mid-Atlantic and the eastern seaboard with Kentucky finally getting that break that they absolutely need to have. We've got another round of showers and even some stronger thunderstorms across portions of the Midwest. That will be the concern in the short term.\n\nNow the long term concern for a lot of people across the country is actually going to be the upcoming heat wave. It begins today across areas of the central U.S. and then will gradually spread eastward in the coming days. And for a lot of these areas, we're talking about a pretty big uptick.\n\nTake a look at this, for example, again, Chicago going from 80 today to 95 on Tuesday, 76 today in Minneapolis, not too bad, up to 92 by Tuesday. It's more gradual for areas of the northeast, but that's because it's just going to take a couple extra days. Take Washington, D.C., for example. Thursday, Friday, you're looking at about 104 for each of these days.\n\nA lot of July 4th celebrations planned for late this week and into next weekend. Please make sure you stay hydrated with proper hydration as you are planning to celebrate those festivities.\n\nVICTOR BLACKWELL, CNN ANCHOR: Would you say proper hydration?\n\nCHINCHAR (on-camera): Water.\n\nBLACKWELL: OK. All right.\n\nCHINCHAR (on-camera): Water.\n\nBLACKWELL: White cloth?\n\nCHINCHAR (on-camera): And water.\n\nBLACKWELL: And water. All right, Allison Chinchar, thanks so much.\n\nThis morning across much of Europe, the heat wave, historic heat. It's continuing. Landmarks have closed. Farms are taking a hit. Some hospitals are under strain, too. Live pictures here from Warsaw, Poland.\n\nLeaders have set up water stations there. You see people trying to get anything to cool off. The heat is also affecting major events, including the Ironman European Championship in Frankfurt. Parts of the race have been shortened today because of the heat.\n\nLet's go to Fred Pleitgen in Berlin.\n\nFred, I see the boats there. You got some tourists who are still braving the heat.\n\nFREDERIK PLEITGEN, CNN SENIOR INTERNATIONAL CORRESPONDENT (on-camera): Yes.\n\nBLACKWELL: What's it feel like and what's it look like out there?\n\nPLEITGEN (on-camera): Yes, it's a lot fewer tourists than we would be expecting on a day like this, because Europe is still, as you mentioned, absolutely getting baked. One of the interesting facts that we've dug up is that last -- yesterday was the hottest day on record in Germany. And last night, this past night was actually the hottest night on record in Germany as well.\n\nI can tell you from here in Berlin, there were actually some thunderstorms overnight. But the respite was really very short as this morning, once again, the temperatures have spiked yet again. And this is causing a lot of issues for people here in Germany. As we talked about yesterday, Victor, very few houses here have air conditioning. People are being told to not go out if they if they don't have to.\n\nIf I get out of your way, you can see that here on the shore in Germany, you can see the boat that's over there. But you can also see people that are there on the other shore over there trying to put their feet in the water, trying to find any way to cool down, because inside is not the place that you're going to get cooled down here in Germany.\n\nIt's also having actually having a big effect on infrastructure. There's big health issues, obviously, for people. But the German government has said that there's actually a lot of highways where the concrete of the highway is either melting or is cracking. And that's why some of the highways here in Germany are getting shut down or there's additional speed limits in place simply because they think that the situation there could be unstable.\n\nAnother thing also, of course, we have a lot of international travelers as our viewers. The German Railway Service and other railway services in Europe are telling people to try and avoid any rail travel if they don't have to travel by rail. Of course, if there are delays or if air conditions malfunction and the like, that could be a big issue.\n\nSo, the heat wave continues here in Europe. Big issue in France, big issue in Germany. And you just said that's a video from Poland as well. As far as the forecast is concerned, one thing that I predict, Victor, is that you're not going to see me here tomorrow because there is a temperature drop that is predicted for this coming night when things then hopefully are going to be a little more agreeable for the folks here in Europe. We've been during this heat wave for, I would say, the better part of a week now, Victor.\n\nBLACKWELL: Well, that's good. That's good.\n\nListen, when you said zoom in to the folks sitting there with their feet in the water, I remember you taught us about that free body culture in Germany. I was hoping we would only see feet live on television.\n\nPLEITGEN (on-camera): Yes. Well, we went to the PG rated part of the shoreline here in Berlin. We're actually right in the city center. If we zoom over there, you can see that's the German parliament building, the Reichstag, which normally would have a lot of tourists around it as well. And this part here is not necessarily where you would see those nude bathing people that we spoke about yesterday. That's more in the public parks and in the public lakes.\n\nBut as you can see, the folks that are coming out here really trying to cool themselves in any way that they can. I can tell you from standing out here just a couple of minutes that it certainly is extremely hot standing out here. And the sun really is shining very heavily as well, Victor.\n\nBLACKWELL: All right, Fred, we're going to let you get back into at least some shade.\n\nFred Pleitgen for us there in Berlin. Thanks so much.\n\nThe Great American State Fair is off to an underwhelming start. A lot of guests who attended this event, they complained that it was too partisan. Organizers even had to remove a Confederate flag image from the North Carolina booth. This headline in the Atlantic sums up a lot of the sentiment from guests who attended. The Great American State Fair isn't very great.\n\nCNN's Gabe Cohen has more.\n\nGABE COHEN, CNN CORRESPONDENT: Well, the Great American State Fair kicked off its first weekend here on the National Mall. But on Saturday, just about a mile down the road, there was a counter program organized by several mostly progressive organizations who said they wanted to hold their own event, marking this country's 250th birthday.\n\nAnd it speaks to how divided many Americans have been over these events, with some of them arguing that the Trump administration has turned them into partisan spectacles. This state fair has been controversial partly because it was organized by a Trump-aligned nonprofit, Freedom 250, as opposed to the bipartisan organization that Congress had established in recent years. And the President has put his stamp on it. Not only did he kick off this state fair with a rally, but in the middle of it you'll find this scaled-down replica of the triumphal arch that he's hoping to build here in the nation's capital.\n\nIn recent weeks, we've seen musical artists cancel their performances they had scheduled for the state fair, arguing it was becoming a partisan event. We've also seen Democratic states say they would refuse to participate in the state fair.\n\nSo we spoke to some of the people who came here, really from all over the country, some of them Trump supporters, about why they wanted to be a part of this. And we spoke to one of the organizers of that event across town, who said she and others don't feel welcome here. SARU JAYARAMAN, PRESIDENT & CO-FOUNDER, ONE FAIR WAGE: The people who are putting on that fair are attacking who we are, and we are saying we all belong here.\n\nYou're welcome to come to our event. We don't feel welcome at your event, but everybody is welcome at ours.\n\nCOHEN: And this is just the beginning of the celebration events expected here in Washington, including on the 4th of July, when President Trump is expected to hold a rally here on the National Mall, followed by a massive fireworks display.\n\nGabe Cohen, CNN, Washington.\n\nBLACKWELL: Gabe, thanks so much.\n\nStill ahead, the White House is moving forward with ending protections for thousands of migrants, how deporting those migrants could impact communities across the country.\n\nAnd if you're heading out, whether it's scorching hot out there, if you have one of the coolest spots in the country, take me with you, please. You can stream my show from anywhere, right in the U.S., from the CNN app, or you can go to CNN.com/Watch.\n\nLive look at Washington. Good morning.\n\nBLACKWELL: The Supreme Court's conservative majority handed President Trump two major wins on his immigration policies this past week. The decisions will have sweeping impacts on asylum claims at the border, but also the Trump administration is now able to cancel temporary protections for hundreds of thousands of Haitian and Syrian nationals.\n\nJoining me now is Andrew Arthur. He's a Resident Fellow in Law and Policy at the Center for Immigration Studies. Good to have you on the show.\n\nAnd I really want to kind of start with how life changed dramatically for the people who were here under TPS. I had Viles Dorsainvil, who is the creator of the Haitian Support Center in Springfield, Ohio. He was on with me, and this is what he says he's hearing from Haitians in Springfi",
+  "segments": [
+    {
+      "seg": 1,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-28/segment/01",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nInterim Agreement Under Strain As U.S., Iran Exchange Fire; Israel To Withdraw From Two Areas In Lebanon Under Newly-Signed Agreement; Three Firefighters Killed, Two Others Hurt Battling Wildfire In Colorado; Urgent Rescue Operations Underway As Death Toll Soars In Venezuela; Biden Lashes Out At Trump; CNN Projects: Letlow Wins Louisiana GOP Senate Runoff; Deadly Kentucky Floods Leave At Least Four People Dead. Record Temps Impact Daily Life Across Europe; Great American State Fair Begins On National Mall; Supreme Court Gives Trump Major Wins On Two Immigration Cases; Millions Expected To Attend Pride Parades Across The U.S.; Mamdani Jumps Into Pool To Kick Off NYC Swim Season; World Cup Viewers Gather At FIFA Fest In Atlanta. Aired 6-7a ET\n\nAired June 28, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nVICTOR BLACKWELL, CNN ANCHOR: Welcome to CNN THIS MORNING. Here's what's new this morning. U.S. and Iran are trading new strikes. And now President Trump says the U.S. is prepared to complete the job if Iran keeps escalating.\n\nAnd the search in Venezuela every hour is making it harder to find survivors. We have a live report from inside the country as these rescue efforts are continuing.\n\nUNIDENTIFIED FEMALE: This is not a protest. This is a celebration of our vision as a people for what we want and who we really are. We are an inclusive people.\n\nUNIDENTIFIED MALE: People don't like what the other side is doing. No matter what it is, they'll fight tooth and nail. It's just politics.\n\nBLACKWELL: A mile apart in Washington, two very different celebrations of America. What it says about the country as it turns 250.\n\nALLISON CHINCHAR, CNN METEOROLOGIST: And more heavy rain continues to batter hard hit states like Kentucky. We'll take a look at when they could finally see a break and where all of that heavy rain is moving.\n\nBLACKWELL: June 28th. Welcome to a new week. Thanks for joining us. I'm Victor Blackwell. We're starting this morning with the escalating tensions between the U.S. and Iran. A short time ago, Iran's foreign minister warned any interference in the Strait of Hormuz will delay its reopening.\n\nEarlier, Iran called 10 U.S. strikes on Iranian military targets a clear violation of the ceasefire interim agreement signed just 10 days ago. U.S. Central Command said, the Air Force and Navy targets included Iran's various military infrastructure, their air defense sites and drone storage facilities. The U.S. military says it was in response to what it called an Iranian attack on a commercial vessel in the Strait of Hormuz.\n\nNow, Iran responded to the 10 U.S. strikes by launching missiles and drones against U.S. facilities in Bahrain and Kuwait. And Bahrain's government released some images -- these images to the damage of residential buildings in that attack.\n\nLet's go to CNN's Paula Hancocks with the latest. It's a tit for tat escalation over three, four days now.\n\nPAULA HANCOCKS, CNN CORRESPONDENT: Yes, Victor. It's really the most serious escalation between the U.S. and Iran that we've seen since the two sides signed that memorandum of understanding. Now, it was a sleepless night for a number of residents in Kuwait and Bahrain, as once again, they bore the brunt of the Iranian retaliation. Iran saying that it was a defensive strike, claiming that it was in response to U.S. strikes against them overnight.\n\nNow, what we have seen is from the foreign minister of Iran. He's currently in Baghdad, Abbas Araghchi. He has just been giving a press conference. And he said that the Strait of Hormuz could be back to pre-war levels when it comes to the amount of vessels coming through within 30 days. But here's the tricky point. He does say as long as it's under Iran's exclusive management.\n\nNow, this is the way that Tehran is reading the memorandum at this point that they are in control of the Strait of Hormuz. We heard just last week from the U.S. Secretary of State, Marco Rubio, that no country has the right to claim control over international waterways.\n\nSo, this is becoming a very serious sticking point when it comes to this issue. And of course, we know that it is very worrying for those seafarers still stuck in the Persian Gulf. There was this U.N. effort to evacuate them. Some 11,000 had been there since the beginning of the war at the end of February, but that has been halted because of this increase in tensions.\n\nWe also heard from the Revolutionary Guard spokesperson about the U.S. strikes. Let's listen to what he said\n\nHOSSEIN MOHEBBI, ISLAMIC REVOLUTIONARY GUARD CORPS SPOKESPERSON (through translator): This is simply the nature of our enemy. It is untrustworthy and prone to breaking its commitments in. At any moment, we may engage in such actions regardless as consistent with enemy's nature, because we know its character. But as I said, what is most important is that we have always responded to the enemy, and we will continue to do so.\n\nHANCOCKS: So we've heard from Tehran that if there is more concern, more trouble as far as they're concerned, in the Strait of Hormuz, i.e. that vessels are not using their pre-designated route and filling in forms for them and getting their permission then there will be targeting of vessels once again, Victor.\n\nBLACKWELL: Paula Hancocks for us in Abu Dhabi. Thanks so much. Now this is happening as there is technically a ceasefire in place and as the two countries are preparing to try to tackle the more complex issues. CNN's Julia Benbrook has more.\n\nJULIA BENBROOK, CNN CORRESPONDENT: The main questions throughout this back and forth are, how does this impact the ceasefire and how it will impact the ongoing negotiations between the United States and Iran?\n\nPresident Donald Trump's post Saturday evening really only highlighted that uncertainty. He wrote, quote, \"United States aircraft just struck Iranian missile and drone storage locations and coastal radar sites for violating the cease fire agreement, again. It is very possible that they will never learn. There may come a point when we are no longer able to be reasonable, and will be forced to militarily complete the job that we very successfully started. If that happens, the Islamic Republic of Iran will no longer exist.\"\n\nIt was just about a week ago, last weekend that Vice President JD Vance traveled to Switzerland to lead high level talks with Iran. He started off the technical talks because the memorandum of understanding is really just a starting point. It kicked off this 60- day time period to address some of the big details related to Iran's nuclear program, like the fate of its stockpile of highly enriched uranium, and then other key topics.\n\nBut as Vance left, he expressed optimism. He said, that they had made great progress toward a long term deal. Now, all of this recent back and forth really threatens to put a strain on those already fragile negotiations.\n\nJulia Benbrook, CNN, the White House.\n\nBLACKWELL: All right. With me now to discuss is Behnam Ben Taleblu. He's the senior director of the Iran program at the Foundation for Defense of Democracies. Thanks so much for coming back.\n\nSo this latest volley started on Thursday with Iran striking this Singaporean flagged ship in the strait. Is this an escalation? Is this an exchange that you think Iran wants? I mean, why start this?\n\nBEHNAM BEN TALEBLU, SR. DIR., FOUNDATION FOR DEFENSE OF DEMOCRACIES: Great to be with you, Victor. It certainly is an escalation, but it is also a blast from the past. During the ceasefire, the actually ceasefire which was in place for about 60 days from April 8th to the middle of June when this new memorandum of understanding was agreed to, we've seen lots of activities like this by the Islamic Republic that were forcefully responded to by the U.S., and also many that were ignored.\n\nYou know, the Islamic Republic in that period and now following the deal has turned Kuwait and Bahrain and formerly the UAE into something of a punching bag amid its larger attempts to signal resolve against America. And the Islamic Republic is doing this for one explicit reason, and that is leverage and leverage over the Strait of Hormuz, even as it is supposed to be helping to open that up or free that up.\n\nBecause the one thing that is really asked of Iran in this MOU, in this deal, is to actually un-impede the Strait of Hormuz. Everything else you see in that text is either mutual, kicks the can down the line, or is incumbent on the U.S.\n\nBLACKWELL: OK, so is there any influence of the strike, retaliatory strike, whether it's proportional or slightly escalatory, does that influence the negotiating strategy of Iran? Does this move them at all?\n\nTALEBLU: I, actually, see things as pretty siloed and pretty isolated. Certainly both sides through their respective responses and respective military flexing, wanted to impact the negotiating posture of the other. But both of them, I think, are pretty well insulated, meaning both sides are comfortable walking and chewing gum. Both sides are comfortable talking and shooting at the same time.\n\nAnd again, we saw the green shoots of this dynamic during that 67-day ceasefire after April 8th in the region. And I think that logic is going to continue. My fear here, however, is that the logic of tit for tat will lead to unintended escalation and will lead to more risk taking by one side, thinking that they're kind of set in for this new normal, and not really realizing that, oh my goodness, we're in an entirely different world.\n\nI mean, I just want to footnote one thing for the audience. Reportedly, last night, the Islamic Republic again used ballistic missiles that would mark the 16th ballistic missile operation directly, overtly kinetically from the country's territory in the past two years.\n\nWhereas if you go back from 1988, when the Iran-Iraq war ended all the way up to December 2022, Iran had only launched 13 of these operations. So 16 in two years versus 13 in about a couple of decades. That says a lot about the new world were living in.\n\nBLACKWELL: Yes. And the administration, the U.S. administration initially said that eliminating their missiles program was part of the goal of this action. [06:10:02]\n\nBut now we heard from the president just outside the G7 a couple of weeks ago that it would be unfair to take their missiles and allow their neighbors to keep them. Let me ask you about the Israeli and Lebanon element of this. The Israeli military struck Southern Lebanon again.\n\nIsrael says that it killed members of Hezbollah, the militant group backed by Iran. What then is the significance of this agreement that was reached between Israel and Lebanon? Hezbollah was not party to this. Hezbollah has condemned the agreement. The fighting continues and the fight was initially between Israel and Hezbollah in this chapter.\n\nTALEBLU: That's precisely right. And use the exact right word there, which is Lebanon. This is an attempt by the United States as well as by Israel, to make sure that any kind of diplomatic agreement, whether that is, you know, pie in the sky normalization or really deconfliction as it relates to the border or much more realistically, an attempt to create security zones as a predicate to withdrawing from Southern Lebanon, whatever that is, is between two governments, not between one government and one terrorist organization, which is what many in Israel had feared based on the plain reading of the text of the memorandum of understanding.\n\nNow, you're right that the conflict is between a state and a non-state actor, a country backed by the United States and a non-state actor, a terror group backed by the Islamic Republic of Iran. But thus far, this is diplomatically and politically how Israel and America are trying to dance around that.\n\nAs you know, Hezbollah and Hezbollah supporters, more importantly in Lebanon, have pushed back against this attempt to carve out a separate bilateral governmental channel by America and Israel, with the central authority in Beirut, which is why coterminous with this escalation in the Strait of Hormuz, you actually saw some protests and, you know, hard line kind of riot activity that was amplified by hard line pro- Hezbollah and pro-Iran media in the region in a bid to say, no, if you think we're going to be doing a 180 around us, you have something else coming.\n\nBLACKWELL: All right. Behnam Ben Taleblu, always good to have you. Have a good week.\n\nComing up, the search for survivors --\n\nBLACKWELL: -- in Venezuela after two major earthquakes rocked the country. We're live with the latest on the rescue efforts and the people still holding on to hope.\n\nPlus, one celebration, two very different gatherings. What the first weekend of America 250 events in Washington, D.C. reveals about the country. And a deadly flooding hits Kentucky. The weather is not done yet. We'll look at what's still to come.\n\nBLACKWELL: Three firefighters were killed, Saturday, while battling the wildfires near Colorado's border with Utah. Two other firefighters were hurt and taken to the hospital. Now the crews are battling more than a dozen fires across Western Colorado and Utah with thousands of acres already burned.\n\nAnd rescue crews from all over the world are headed to Venezuela to try to save some trapped survivors. The death toll from the two devastating earthquakes is now above 1,400 people. More than three days have passed since the earthquakes. Chances of survival dropped rapidly after 72 hours without water.\n\nThousands of international aid workers have arrived in Venezuela, and they're bringing with them tons of equipment and specialized rescue teams. We saw moments of hope like this one on Saturday.\n\nYes. Rescue teams from the U.S., they were able to pull this nine- month-old baby along with the child's mother from that rubble. They only had minor injuries.\n\nTake a look at this too. Now, Spanish rescue crew pulled that man by his legs from the rubble. The man appeared to be understandably speechless and in disbelief as he was being rescued.\n\nCNN's Stefano Pozzebon joins us now from Caracas. Stefano, what do you see? What's the latest there?\n\nSTEFANO POZZEBON, CNN CONTRIBUTOR: Well, Victor, the latest is, of course, that these rescue operations are not stopping. We are now 84 hours after that terrible twin earthquake that hit this country in -- on Wednesday afternoon. But here, at least in the center of Caracas, we are in an area called Chacao, which has been one of the most hit with several buildings collapsed, the operations are still ongoing.\n\nThere are rescue workers, for example, working at that excavator just behind my back and trying to go through the structure of the building. And here in the center of the city, you can also appreciate the level of the scale of the logistical operation that these -- that these rescue operation is taking in with workers and first responders from dozens of countries really coming in and trying to help Venezuelans.\n\nAnd of course, thousands, tens of thousands of Venezuelans as well. One of them is my new friend Gandhi here.\n\nHe's from the city of Valencia, which is, by the way, where we flew in the day before yesterday. And it's also a big city that has not been as affected. Gandhi, (speaking in foreign language).\n\nGANDHI, RESIDENT OF VALENCIA: (Speaking in foreign language).\n\nPOZZEBON: He's telling me that they are working 24 hours a day, but at the same time, rest is important. So they're trying to take naps whenever they can, try to get their forces and coming in. (Speaking in foreign language).\n\nGANDHI, RESIDENT OF VALENCIA: (Speaking in foreign language).\n\nPOZZEBON: Victor, Gandhi here was saying that there are almost done with these parts of the city. This is the center of Chacao, the center of Caracas. And of course here is not as affected as the area of La Guaira, which is where that video that you played before was coming up. They are going to go there in the coming days because that is where the majority of the missing people are still believed to be located as this golden window is really thinning down.\n\nBut at the same time, here in Caracas, even though the damage is still not as big as in La Guaira, you can also -- you can still see the impact of these -- of the tremors, Victor.\n\nBLACKWELL: Yes, even outside of the crucial 72 hours, often there is additional life. There are people who are pulled out alive and we hope that they still can find some people in the rubble as they continue the search. Stefano Pozzebon, live from Venezuela, thank you so much.\n\nRelief from a heatwave is finally in sight for millions of Europeans. I know they've been waiting for. We're live from Berlin where the relief is arriving but the impact of that record breaking heat is far from over.\n\nCHINCHAR: And we're going from one round of devastating flooding to another. More rain continues across areas of Kentucky. We'll take a look at when they could finally see some relief.\n\nBLACKWELL: Joe Biden is lashing out at President Trump. The former president delivered a blistering speech at a Democratic fundraiser in Maryland last night. Coincidentally, it came exactly two years after the disastrous debate performance against Trump that derailed his bid for a second term.\n\nJOE BIDEN, FORMER PRESIDENT OF THE UNITED STATES: The reflecting pool reflects something even worse than the narcissism and incompetence at the core of this administration. It's the corruption, the corruption, the brazen, blatant corruption. Corruption on a scale never seen before in American history in any administration.\n\n(END VIDEO CLIP) BLACKWELL: Former President Biden also criticized Trump and claimed he wants to give taxpayer money to January 6th insurrectionists. Former President Biden is 83 years old and continues to battle prostate cancer that has metastasized to his bones.\n\nCNN projects Congresswoman Julia Letlow has won the Republican Senate runoff in Louisiana. She defeated state treasurer John Fleming. Letlow got a boost from President Trump, who endorsed her during the race.\n\nNow, he praised her support for his immigration policies and other key priorities. Incumbent Senator Bill Cassidy lost his primary last month. One of two Republicans defeated after Trump opposed them.\n\nNow to Kentucky, at least four people have died after heavy rain caused major flooding. Some areas saw up to seven inches of rain, and that prompted the governor to declare a state of emergency.\n\nHomes and roads, look at this, under water and that water is moving. The bridges are out. Roads are blocked. Dozens of people have been rescued. Officials are warning people to be cautious and really avoid unnecessary travel.\n\nCNN meteorologist Allison Chinchar is here. That's always good advice. If you don't have to be out, don't go out. Especially don't drive through moving water. What can they expect today?\n\nCHINCHAR: Unfortunately, more rain. And the seven inches you were talking about, keep in mind, they had had two to three inches the day before. So you're talking a 48-hour total in some of these places of 10 to 12 inches of rain, which is why that water came up so quickly.\n\nAnd we could see the same thing again today, even though most of these areas may only get an extra one to two inches. Remember, that ground is fully saturated now. It's not going to take much to trigger additional flooding.\n\nYou can see all of these. We've got roughly a dozen flash flood warnings right now along this line of storms making its way through portions of Kentucky and into Tennessee. That line itself is going to shift down to the south and east as we go through the rest of the day.\n\nSo eventually, Kentucky will finally get a break. The problem is the short term. So because of that, that's why you have all these flash flood warnings as well as the watches in place because of what we anticipate over the next few hours.\n\nThis is the concern for the flooding over the next -- for really for the rest of the day today, because all of that water takes time to recede. So even once it stops raining, it could be hours before you really start to see that water go back down and you can see the ground underneath it. Then it's going to shift a little bit farther to the east.\n\nSo even areas of the Carolinas that really haven't had much of that heavy rain that is expected to move there later on today. You can see that by the afternoon. Here's about 2:00, 3:00, 4:00 in the afternoon. A lot of the bulk of that has really started to shift over towards the mid-Atlantic and the eastern seaboard with Kentucky finally getting that break that they absolutely need to have. We've got another round of showers and even some stronger thunderstorms across portions of the Midwest. That will be the concern in the short term.\n\nNow the long term concern for a lot of people across the country is actually going to be the upcoming heat wave. It begins today across areas of the central U.S. and then will gradually spread eastward in the coming days. And for a lot of these areas, we're talking about a pretty big uptick.\n\nTake a look at this, for example, again, Chicago going from 80 today to 95 on Tuesday, 76 today in Minneapolis, not too bad, up to 92 by Tuesday. It's more gradual for areas of the northeast, but that's because it's just going to take a couple extra days. Take Washington, D.C., for example. Thursday, Friday, you're looking at about 104 for each of these days.\n\nA lot of July 4th celebrations planned for late this week and into next weekend. Please make sure you stay hydrated with proper hydration as you are planning to celebrate those festivities.\n\nVICTOR BLACKWELL, CNN ANCHOR: Would you say proper hydration?\n\nCHINCHAR (on-camera): Water.\n\nBLACKWELL: OK. All right.\n\nCHINCHAR (on-camera): Water.\n\nBLACKWELL: White cloth?\n\nCHINCHAR (on-camera): And water.\n\nBLACKWELL: And water. All right, Allison Chinchar, thanks so much.\n\nThis morning across much of Europe, the heat wave, historic heat. It's continuing. Landmarks have closed. Farms are taking a hit. Some hospitals are under strain, too. Live pictures here from Warsaw, Poland.\n\nLeaders have set up water stations there. You see people trying to get anything to cool off. The heat is also affecting major events, including the Ironman European Championship in Frankfurt. Parts of the race have been shortened today because of the heat.\n\nLet's go to Fred Pleitgen in Berlin.\n\nFred, I see the boats there. You got some tourists who are still braving the heat.\n\nFREDERIK PLEITGEN, CNN SENIOR INTERNATIONAL CORRESPONDENT (on-camera): Yes.\n\nBLACKWELL: What's it feel like and what's it look like out there?\n\nPLEITGEN (on-camera): Yes, it's a lot fewer tourists than we would be expecting on a day like this, because Europe is still, as you mentioned, absolutely getting baked. One of the interesting facts that we've dug up is that last -- yesterday was the hottest day on record in Germany. And last night, this past night was actually the hottest night on record in Germany as well.\n\nI can tell you from here in Berlin, there were actually some thunderstorms overnight. But the respite was really very short as this morning, once again, the temperatures have spiked yet again. And this is causing a lot of issues for people here in Germany. As we talked about yesterday, Victor, very few houses here have air conditioning. People are being told to not go out if they if they don't have to.\n\nIf I get out of your way, you can see that here on the shore in Germany, you can see the boat that's over there. But you can also see people that are there on the other shore over there trying to put their feet in the water, trying to find any way to cool down, because inside is not the place that you're going to get cooled down here in Germany.\n\nIt's also having actually having a big effect on infrastructure. There's big health issues, obviously, for people. But the German government has said that there's actually a lot of highways where the concrete of the highway is either melting or is cracking. And that's why some of the highways here in Germany are getting shut down or there's additional speed limits in place simply because they think that the situation there could be unstable.\n\nAnother thing also, of course, we have a lot of international travelers as our viewers. The German Railway Service and other railway services in Europe are telling people to try and avoid any rail travel if they don't have to travel by rail. Of course, if there are delays or if air conditions malfunction and the like, that could be a big issue.\n\nSo, the heat wave continues here in Europe. Big issue in France, big issue in Germany. And you just said that's a video from Poland as well. As far as the forecast is concerned, one thing that I predict, Victor, is that you're not going to see me here tomorrow because there is a temperature drop that is predicted for this coming night when things then hopefully are going to be a little more agreeable for the folks here in Europe. We've been during this heat wave for, I would say, the better part of a week now, Victor.\n\nBLACKWELL: Well, that's good. That's good.\n\nListen, when you said zoom in to the folks sitting there with their feet in the water, I remember you taught us about that free body culture in Germany. I was hoping we would only see feet live on television.\n\nPLEITGEN (on-camera): Yes. Well, we went to the PG rated part of the shoreline here in Berlin. We're actually right in the city center. If we zoom over there, you can see that's the German parliament building, the Reichstag, which normally would have a lot of tourists around it as well. And this part here is not necessarily where you would see those nude bathing people that we spoke about yesterday. That's more in the public parks and in the public lakes.\n\nBut as you can see, the folks that are coming out here really trying to cool themselves in any way that they can. I can tell you from standing out here just a couple of minutes that it certainly is extremely hot standing out here. And the sun really is shining very heavily as well, Victor.\n\nBLACKWELL: All right, Fred, we're going to let you get back into at least some shade.\n\nFred Pleitgen for us there in Berlin. Thanks so much.\n\nThe Great American State Fair is off to an underwhelming start. A lot of guests who attended this event, they complained that it was too partisan. Organizers even had to remove a Confederate flag image from the North Carolina booth. This headline in the Atlantic sums up a lot of the sentiment from guests who attended. The Great American State Fair isn't very great.\n\nCNN's Gabe Cohen has more.\n\nGABE COHEN, CNN CORRESPONDENT: Well, the Great American State Fair kicked off its first weekend here on the National Mall. But on Saturday, just about a mile down the road, there was a counter program organized by several mostly progressive organizations who said they wanted to hold their own event, marking this country's 250th birthday.\n\nAnd it speaks to how divided many Americans have been over these events, with some of them arguing that the Trump administration has turned them into partisan spectacles. This state fair has been controversial partly because it was organized by a Trump-aligned nonprofit, Freedom 250, as opposed to the bipartisan organization that Congress had established in recent years. And the President has put his stamp on it. Not only did he kick off this state fair with a rally, but in the middle of it you'll find this scaled-down replica of the triumphal arch that he's hoping to build here in the nation's capital.\n\nIn recent weeks, we've seen musical artists cancel their performances they had scheduled for the state fair, arguing it was becoming a partisan event. We've also seen Democratic states say they would refuse to participate in the state fair.\n\nSo we spoke to some of the people who came here, really from all over the country, some of them Trump supporters, about why they wanted to be a part of this. And we spoke to one of the organizers of that event across town, who said she and others don't feel welcome here. SARU JAYARAMAN, PRESIDENT & CO-FOUNDER, ONE FAIR WAGE: The people who are putting on that fair are attacking who we are, and we are saying we all belong here.\n\nYou're welcome to come to our event. We don't feel welcome at your event, but everybody is welcome at ours.\n\nCOHEN: And this is just the beginning of the celebration events expected here in Washington, including on the 4th of July, when President Trump is expected to hold a rally here on the National Mall, followed by a massive fireworks display.\n\nGabe Cohen, CNN, Washington.\n\nBLACKWELL: Gabe, thanks so much.\n\nStill ahead, the White House is moving forward with ending protections for thousands of migrants, how deporting those migrants could impact communities across the country.\n\nAnd if you're heading out, whether it's scorching hot out there, if you have one of the coolest spots in the country, take me with you, please. You can stream my show from anywhere, right in the U.S., from the CNN app, or you can go to CNN.com/Watch.\n\nLive look at Washington. Good morning.\n\nBLACKWELL: The Supreme Court's conservative majority handed President Trump two major wins on his immigration policies this past week. The decisions will have sweeping impacts on asylum claims at the border, but also the Trump administration is now able to cancel temporary protections for hundreds of thousands of Haitian and Syrian nationals.\n\nJoining me now is Andrew Arthur. He's a Resident Fellow in Law and Policy at the Center for Immigration Studies. Good to have you on the show.\n\nAnd I really want to kind of start with how life changed dramatically for the people who were here under TPS. I had Viles Dorsainvil, who is the creator of the Haitian Support Center in Springfield, Ohio. He was on with me, and this is what he says he's hearing from Haitians in Springfi"
+    }
+  ]
+}

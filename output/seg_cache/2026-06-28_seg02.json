@@ -1,0 +1,558 @@
+{
+  "date": "2026-06-28",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-28/segment/02",
+  "vocabulary": [
+    {
+      "word": "interim",
+      "phonetic": "/ˈɪntərɪm/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "临时的，过渡的",
+      "en": "temporary or provisional",
+      "excerpt": "the fragile interim agreement between the U.S. and Iran is starting to show some strain.",
+      "example_cn": "美国和伊朗之间脆弱的临时协议开始出现紧张迹象。"
+    },
+    {
+      "word": "strain",
+      "phonetic": "/streɪn/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "压力，紧张",
+      "en": "pressure or tension",
+      "excerpt": "the fragile interim agreement between the U.S. and Iran is starting to show some strain.",
+      "example_cn": "该协议开始显现出一些压力。"
+    },
+    {
+      "word": "retaliate",
+      "phonetic": "/rɪˈtælieɪt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "报复",
+      "en": "to make an attack in return for a similar attack",
+      "excerpt": "Iran retaliated for those 10 U.S. strikes by launching missiles and drones against U.S. facilities in Bahrain and Kuwait.",
+      "example_cn": "伊朗针对美国的10次打击进行报复，向美国在巴林和科威特的设施发射导弹和无人机。"
+    },
+    {
+      "word": "escalation",
+      "phonetic": "/ˌeskəˈleɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "升级，加剧",
+      "en": "increase in intensity or magnitude",
+      "excerpt": "the most serious escalation we have seen since that MOU was signed.",
+      "example_cn": "自谅解备忘录签署以来我们看到的最严重的升级。"
+    },
+    {
+      "word": "memorandum of understanding",
+      "phonetic": "/ˌmeməˈrændəm əv ˌʌndərˈstændɪŋ/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "谅解备忘录",
+      "en": "a document that describes the general principles of an agreement between parties",
+      "excerpt": "the most serious escalation we have seen since that MOU, the memorandum of understanding, was signed.",
+      "example_cn": "自谅解备忘录签署以来最严重的升级。"
+    },
+    {
+      "word": "tenuous",
+      "phonetic": "/ˈtenjuəs/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "脆弱的，微弱的",
+      "en": "very weak or slight",
+      "excerpt": "it is a lot more tenuous with those threats coming from Iran.",
+      "example_cn": "由于来自伊朗的威胁，情况变得更加脆弱。"
+    },
+    {
+      "word": "evacuation",
+      "phonetic": "/ɪˌvækjuˈeɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "疏散，撤离",
+      "en": "the process of moving people from a dangerous place to a safe place",
+      "excerpt": "The U.N. evacuation of seafarers stuck there since the end of February has also been halted.",
+      "example_cn": "联合国对自2月底以来被困在那里的海员的疏散也已停止。"
+    },
+    {
+      "word": "rubble",
+      "phonetic": "/ˈrʌbl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "碎石，瓦砾",
+      "en": "broken pieces of stone, brick, etc., from a building that has been destroyed",
+      "excerpt": "A rescue team from the U.S. actually pulled that nine-month-old along with the child's mother from the rubble.",
+      "example_cn": "一支来自美国的救援队从废墟中救出了那个九个月大的婴儿和孩子的母亲。"
+    },
+    {
+      "word": "golden window",
+      "phonetic": "/ˈɡoʊldən ˈwɪndoʊ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "黄金救援时间",
+      "en": "the critical period after a disaster during which survival chances are highest",
+      "excerpt": "the 72-hour what's called golden window for survivors has closed.",
+      "example_cn": "所谓的72小时黄金救援时间已经过去。"
+    },
+    {
+      "word": "temporary protected status",
+      "phonetic": "/ˈtempəreri prəˈtektɪd ˈsteɪtəs/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "临时保护身份",
+      "en": "a temporary immigration status granted to nationals of certain countries experiencing crisis",
+      "excerpt": "the court cleared the way to end temporary protected status, or TPS, for Haitian and Syrian people.",
+      "example_cn": "法院为结束海地和叙利亚人民的临时保护身份扫清了道路。"
+    },
+    {
+      "word": "ripple effect",
+      "phonetic": "/ˈrɪpl ɪˈfekt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "连锁反应",
+      "en": "a situation in which one event causes a series of other events",
+      "excerpt": "the potential ripple effects of that ruling.",
+      "example_cn": "该裁决的潜在连锁反应。"
+    },
+    {
+      "word": "de-documentization",
+      "phonetic": "/diːˌdɒkjʊmentaɪˈzeɪʃn/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "去文件化（指取消合法身份）",
+      "en": "the process of removing legal documentation or status from people",
+      "excerpt": "the largest de-documentization event of people in U.S. history.",
+      "example_cn": "美国历史上最大规模的人员去文件化事件。"
+    },
+    {
+      "word": "whitewash",
+      "phonetic": "/ˈwaɪtwɒʃ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "粉饰，掩盖",
+      "en": "to hide unpleasant facts about something",
+      "excerpt": "Don't whitewash anything. Just tell the absolute truth.",
+      "example_cn": "不要粉饰任何事情。只要说出绝对的真相。"
+    },
+    {
+      "word": "monolith",
+      "phonetic": "/ˈmɒnəlɪθ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "巨石，巨型石碑",
+      "en": "a large single upright block of stone",
+      "excerpt": "a monolith featuring the names of more than 600 victims of racial killings.",
+      "example_cn": "一块刻有600多名种族杀戮受害者名字的巨石。"
+    },
+    {
+      "word": "steeped in",
+      "phonetic": "/stiːpt ɪn/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "充满，沉浸于",
+      "en": "filled with or deeply involved in",
+      "excerpt": "Mississippi's history is also steeped in racial injustices.",
+      "example_cn": "密西西比州的历史也充满了种族不公。"
+    },
+    {
+      "word": "divergence",
+      "phonetic": "/daɪˈvɜːrdʒəns/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "分歧，差异",
+      "en": "a difference in opinions, interests, etc.",
+      "excerpt": "What explains the divergence between the administration federally and trying to maybe downplay some of the racial elements of America's history?",
+      "example_cn": "是什么解释了联邦政府与试图淡化美国历史中种族元素之间的分歧？"
+    },
+    {
+      "word": "candy apple red",
+      "phonetic": "/ˈkændi ˈæpl red/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "深红色（比喻政治倾向深红，即共和党占绝对优势）",
+      "en": "a bright red color; used metaphorically to indicate a strongly Republican state",
+      "excerpt": "Mississippi is candy apple red.",
+      "example_cn": "密西西比州是深红色的（共和党占绝对优势）。"
+    },
+    {
+      "word": "containment",
+      "phonetic": "/kənˈteɪnmənt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "控制，遏制",
+      "en": "the act of keeping something under control",
+      "excerpt": "That fire is 0 percent contained.",
+      "example_cn": "那场火灾的控制率为0%。"
+    },
+    {
+      "word": "red flag warning",
+      "phonetic": "/red flæɡ ˈwɔːrnɪŋ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "红旗警告（火灾危险等级）",
+      "en": "a warning issued by weather services indicating high fire danger",
+      "excerpt": "many of them recently due to red flag warnings that we've been in that have been from lightning caused.",
+      "example_cn": "其中许多是由于我们一直处于的红旗警告状态，由闪电引发。"
+    },
+    {
+      "word": "erratic",
+      "phonetic": "/ɪˈrætɪk/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "不稳定的，难以预测的",
+      "en": "not regular or predictable",
+      "excerpt": "we're seeing erratic fire behavior due to dry fuels and historic drought conditions.",
+      "example_cn": "由于干燥的燃料和历史性的干旱条件，我们看到了不稳定的火灾行为。"
+    },
+    {
+      "word": "unprecedented",
+      "phonetic": "/ʌnˈpresɪdentɪd/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "史无前例的",
+      "en": "never done or known before",
+      "excerpt": "really unprecedented behavior on that fire.",
+      "example_cn": "那场火灾的行为确实是史无前例的。"
+    },
+    {
+      "word": "combustible",
+      "phonetic": "/kəmˈbʌstəbl/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "易燃的",
+      "en": "able to catch fire and burn easily",
+      "excerpt": "The fuels are actually combustible at this point.",
+      "example_cn": "燃料实际上在这一点上是易燃的。"
+    },
+    {
+      "word": "stage two fire restrictions",
+      "phonetic": "/steɪdʒ tuː ˈfaɪər rɪˈstrɪkʃnz/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "二级火灾限制",
+      "en": "a set of restrictions on activities that could cause fires, such as campfires and fireworks",
+      "excerpt": "We've been in stage two fire restrictions now.",
+      "example_cn": "我们现在处于二级火灾限制状态。"
+    },
+    {
+      "word": "triple digits",
+      "phonetic": "/ˈtrɪpl ˈdɪdʒɪts/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "三位数（指温度超过100华氏度）",
+      "en": "numbers with three digits, often referring to temperatures above 100°F",
+      "excerpt": "Other people maybe say going to New York City to celebrate as well. You're also going to have triple digits.",
+      "example_cn": "其他人也许说去纽约市庆祝。你也会遇到三位数的高温。"
+    },
+    {
+      "word": "titans",
+      "phonetic": "/ˈtaɪtnz/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "巨头，巨人",
+      "en": "people of great importance or power",
+      "excerpt": "Titans of the music industry will gather Monday to say goodbye to Clive Davis.",
+      "example_cn": "音乐界的巨头们将于周一聚集，向克莱夫·戴维斯告别。"
+    },
+    {
+      "word": "overturn",
+      "phonetic": "/ˌoʊvərˈtɜːrn/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "推翻，撤销",
+      "en": "to reverse a decision or result",
+      "excerpt": "his murder convictions were overturned on appeal.",
+      "example_cn": "他的谋杀定罪在上诉中被推翻。"
+    },
+    {
+      "word": "soar",
+      "phonetic": "/sɔːr/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "飙升，猛增",
+      "en": "to rise very quickly to a high level",
+      "excerpt": "disrupting oil production and sending gas prices soaring.",
+      "example_cn": "扰乱石油生产，导致汽油价格飙升。"
+    },
+    {
+      "word": "halt",
+      "phonetic": "/hɔːlt/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "停止，暂停",
+      "en": "to stop or cause to stop",
+      "excerpt": "maritime traffic in the Strait had essentially halted.",
+      "example_cn": "海峡的海上交通基本上已经停止。"
+    },
+    {
+      "word": "rallying cry",
+      "phonetic": "/ˈræliɪŋ kraɪ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "战斗口号，号召",
+      "en": "a phrase or slogan used to unite people in support of a cause",
+      "excerpt": "the Battle of the Alamo becomes a rallying cry for the Texas Revolution.",
+      "example_cn": "阿拉莫战役成为德克萨斯革命的战斗口号。"
+    },
+    {
+      "word": "ancestor",
+      "phonetic": "/ˈænsestər/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "祖先",
+      "en": "a person from whom one is descended",
+      "excerpt": "To think that my ancestors were here and fought to build this country.",
+      "example_cn": "想到我的祖先曾在这里为建立这个国家而战斗。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "In just the last few hours, Iran's foreign minister threatened to delay the reopening of the Strait of Hormuz if there are any continued interferences on what he calls Iran's exclusive management of the waterway.",
+      "cn": "就在过去几小时内，伊朗外交部长威胁称，如果对他所谓的伊朗对该水道的独家管理有任何持续干涉，将推迟霍尔木兹海峡的重新开放。",
+      "structure": "主句（Iran's foreign minister threatened to delay the reopening of the Strait of Hormuz）+ 条件状语从句（if there are any continued interferences on...）",
+      "analysis": "该句包含一个条件状语从句，其中'what he calls Iran's exclusive management of the waterway'是介词on的宾语从句。'exclusive management'意为独家管理，体现了伊朗对海峡控制权的强硬立场。"
+    },
+    {
+      "en": "U.S. Central Command said its strikes hit hard Iran's military infrastructure, air defense sites, drone storage facilities.",
+      "cn": "美国中央司令部表示，其打击重创了伊朗的军事基础设施、防空站点和无人机存储设施。",
+      "structure": "主句（U.S. Central Command said）+ 宾语从句（its strikes hit hard Iran's military infrastructure...）",
+      "analysis": "宾语从句中'hit hard'是动词短语，意为'重创'，后接三个并列名词短语作宾语。该句简洁地列举了打击目标，体现了军事行动的针对性。"
+    },
+    {
+      "en": "Iran retaliated for those 10 U.S. strikes by launching missiles and drones against U.S. facilities in Bahrain and Kuwait, and Bahrain's government shared these images of the damage to a residential building in that Iranian attack.",
+      "cn": "伊朗针对美国的10次打击进行报复，向美国在巴林和科威特的设施发射导弹和无人机，巴林政府分享了这些伊朗袭击中一栋住宅楼受损的图像。",
+      "structure": "并列句：第一分句（Iran retaliated...by launching...）+ 第二分句（Bahrain's government shared...）",
+      "analysis": "第一分句中'by launching...'是方式状语，说明报复的方式。第二分句补充了袭击造成的后果。两个分句通过and连接，展示了事件的因果链条。"
+    },
+    {
+      "en": "But what we are seeing is this the tit-for-tat strikes, really the most serious escalation we have seen since that MOU, the memorandum of understanding, was signed.",
+      "cn": "但我们看到的是这种针锋相对的打击，确实是自谅解备忘录签署以来我们看到的最严重的升级。",
+      "structure": "主语从句（What we are seeing）+ 系动词（is）+ 表语（this the tit-for-tat strikes...）",
+      "analysis": "主语从句'What we are seeing'作主语，表语部分包含同位语'the memorandum of understanding'解释MOU。'tit-for-tat'意为以牙还牙，形象地描述了双方的报复行为。"
+    },
+    {
+      "en": "Now, the key issue at this point is the Strait of Hormuz, I should say, one of the key issues.",
+      "cn": "现在，关键问题在于霍尔木兹海峡，我应该说，是其中一个关键问题。",
+      "structure": "主句（the key issue...is the Strait of Hormuz）+ 插入语（I should say）+ 同位语（one of the key issues）",
+      "analysis": "插入语'I should say'表示说话者的自我修正或强调，同位语进一步说明海峡的重要性。该句体现了口语化的表达方式。"
+    },
+    {
+      "en": "We heard that the security status level is substantial, according to the U.K. Maritime Agency, in the straits at this point.",
+      "cn": "我们听说，根据英国海事局的说法，目前海峡的安全状况级别很高。",
+      "structure": "主句（We heard）+ 宾语从句（that the security status level is substantial...）+ 插入语（according to the U.K. Maritime Agency）",
+      "analysis": "宾语从句中'substantial'意为'重大的、实质性的'，这里指安全级别高。插入语提供了信息来源，增强了报道的权威性。"
+    },
+    {
+      "en": "More than 350,000 people living legally in the United States could be forced to leave after a landmark Supreme Court decision.",
+      "cn": "在最高法院一项具有里程碑意义的裁决之后，超过35万在美国合法居住的人可能被迫离开。",
+      "structure": "主句（More than 350,000 people...could be forced to leave）+ 时间状语（after a landmark Supreme Court decision）",
+      "analysis": "主语部分包含现在分词短语'living legally in the United States'作后置定语。'landmark'意为里程碑式的，强调该裁决的重要性。"
+    },
+    {
+      "en": "On Thursday, the court cleared the way to end temporary protected status, or TPS, for Haitian and Syrian people who have come to America leaving war or instability.",
+      "cn": "周四，法院为结束海地和叙利亚人民的临时保护身份扫清了道路，这些人因战争或动荡来到美国。",
+      "structure": "主句（the court cleared the way to end...）+ 定语从句（who have come to America leaving war or instability）",
+      "analysis": "'cleared the way'意为扫清障碍。定语从句修饰'Haitian and Syrian people'，其中'leaving war or instability'是现在分词短语作原因状语，说明他们离开的原因。"
+    },
+    {
+      "en": "The attorney who argued the Syrian TPS case before the Supreme Court said that this would be, quote, \"The largest de-documentization event of people in U.S. history.\"",
+      "cn": "在最高法院为叙利亚TPS案件辩护的律师表示，这将是，引用原话，“美国历史上最大规模的人员去文件化事件”。",
+      "structure": "主句（The attorney...said）+ 宾语从句（that this would be...）+ 插入语（quote）",
+      "analysis": "主语部分包含定语从句'who argued...'修饰attorney。'quote'表示直接引用，'de-documentization'是生造词，意为取消合法身份，强调该裁决的严重性。"
+    },
+    {
+      "en": "And we are told by employers that removing Haitian TPS holders from the workforce would have a major impact on their employers, on their industries and the economy as a whole.",
+      "cn": "雇主告诉我们，将海地TPS持有者从劳动力中移除将对他们的雇主、行业以及整个经济产生重大影响。",
+      "structure": "主句（we are told by employers）+ 宾语从句（that removing...would have a major impact...）",
+      "analysis": "宾语从句中主语是动名词短语'removing Haitian TPS holders from the workforce'，谓语'would have a major impact'后接三个并列的介词短语'on...'，层层递进地说明影响范围。"
+    },
+    {
+      "en": "The Museum of Mississippi History and the Mississippi Civil Rights Museum together, called Two Mississippi Museums, created a special Mississippi-made exhibit to highlight its own homegrown achievements, like the invention of the household cleaner Pine-Sol and medical advances like the first human lung transplant.",
+      "cn": "密西西比历史博物馆和密西西比民权博物馆合称为“两个密西西比博物馆”，共同创建了一个特别的密西西比制造展览，以突出其本土成就，如家用清洁剂Pine-Sol的发明和首例人类肺移植等医学进步。",
+      "structure": "主句（The Museum...and...created a special exhibit）+ 目的状语（to highlight...）+ 举例（like...and...）",
+      "analysis": "主语部分包含过去分词短语'called Two Mississippi Museums'作同位语。目的状语中'homegrown'意为本土的，举例部分用'like'引出具体成就，使内容更生动。"
+    },
+    {
+      "en": "Mississippi's history is also steeped in racial injustices, and that's also on display, from the Ku Klux Klan robes to a monolith featuring the names of more than 600 victims of racial killings.",
+      "cn": "密西西比州的历史也充满了种族不公，这些也在展览中展示，从三K党长袍到一块刻有600多名种族杀戮受害者名字的巨石。",
+      "structure": "并列句：第一分句（Mississippi's history is also steeped in...）+ 第二分句（that's also on display...）",
+      "analysis": "第一分句中'steeped in'意为充满。第二分句中'from...to...'结构列举了展品范围，'featuring'是现在分词作定语修饰monolith，意为以...为特色。"
+    },
+    {
+      "en": "The director of the collection says instructions were simple from the people that they consulted: Just tell the truth.",
+      "cn": "收藏品负责人表示，他们咨询的人给出的指示很简单：只要说出真相。",
+      "structure": "主句（The director...says）+ 宾语从句（instructions were simple...）+ 同位语（Just tell the truth）",
+      "analysis": "宾语从句中包含定语从句'that they consulted'修饰people。冒号后的内容是对'simple'的具体说明，体现了直接引用的效果。"
+    },
+    {
+      "en": "What explains the divergence between the administration federally and trying to maybe downplay some of the racial elements of America's history? And ruby red Mississippi that says we're going to show it all?",
+      "cn": "是什么解释了联邦政府与试图淡化美国历史中种族元素之间的分歧？而深红色的密西西比州却说我们要展示一切？",
+      "structure": "两个疑问句：第一句（What explains the divergence...）+ 第二句（And ruby red Mississippi that says...?）",
+      "analysis": "第一句中'divergence between...and...'结构对比了联邦政府和密西西比州的做法。第二句中'ruby red'比喻政治倾向，'that says...'是定语从句修饰Mississippi，体现了该州与众不同的态度。"
+    },
+    {
+      "en": "But our state government has always been extremely supportive of the Mississippi Department of Archives and History's work, making the two Mississippi museums here.",
+      "cn": "但我们的州政府一直非常支持密西西比档案与历史部的工作，从而建立了这里的两个密西西比博物馆。",
+      "structure": "主句（our state government has always been supportive...）+ 结果状语（making the two Mississippi museums here）",
+      "analysis": "现在分词短语'making...'作结果状语，表示州政府支持的结果。'extremely supportive'体现了州政府的积极态度。"
+    },
+    {
+      "en": "And I think it comes from, you know, we all want Mississippi to grow and learn from our past.",
+      "cn": "我认为这源于，你知道，我们都希望密西西比州成长并从过去中学习。",
+      "structure": "主句（I think）+ 宾语从句（it comes from...）+ 插入语（you know）+ 同位语从句（we all want Mississippi to grow...）",
+      "analysis": "'it comes from'后省略了that，'you know'是口语插入语。同位语从句解释了'it'的具体内容，体现了说话者的解释性语气。"
+    },
+    {
+      "en": "Rescue crews from all over the world are headed to Venezuela to try to save trapped survivors after the earthquake.",
+      "cn": "来自世界各地的救援队正前往委内瑞拉，试图在地震后拯救被困的幸存者。",
+      "structure": "主句（Rescue crews...are headed to Venezuela）+ 目的状语（to try to save trapped survivors after the earthquake）",
+      "analysis": "主语部分包含介词短语'from all over the world'作定语。目的状语中'trapped'是过去分词作定语修饰survivors，意为被困的。"
+    },
+    {
+      "en": "More than three days have passed since the earthquakes and chances of survival dropped rapidly after 72 hours without water.",
+      "cn": "地震已经过去三天多，在没有水的情况下，72小时后生存几率迅速下降。",
+      "structure": "并列句：第一分句（More than three days have passed）+ 第二分句（chances of survival dropped rapidly...）",
+      "analysis": "第一分句用现在完成时表示从过去持续到现在。第二分句中'after 72 hours without water'是时间状语，说明了生存几率下降的时间点。"
+    },
+    {
+      "en": "They need silence and they need good conditions in order to listen if somebody is yelling or asking for help.",
+      "cn": "他们需要安静和良好的条件，以便倾听是否有人在呼喊或求救。",
+      "structure": "并列句：第一分句（They need silence）+ 第二分句（they need good conditions）+ 目的状语（in order to listen if...）",
+      "analysis": "目的状语中'if'引导宾语从句，作listen的宾语，意为'是否'。该句强调了救援工作对环境的要求。"
+    },
+    {
+      "en": "Other things that we have witnessed is people living in tents waiting for approval to return to their buildings in large residential areas.",
+      "cn": "我们目睹的其他情况是，人们住在帐篷里，等待获准返回大型住宅区的建筑物。",
+      "structure": "主句（Other things...is people living in tents...）+ 定语从句（that we have witnessed）",
+      "analysis": "主语部分包含定语从句'that we have witnessed'。表语部分'people living in tents waiting for approval...'中，'living'和'waiting'都是现在分词作定语，描述人们的状态。"
+    },
+    {
+      "en": "The race to this November's midterm elections heating up in Georgia.",
+      "cn": "今年11月中期选举的竞争在佐治亚州升温。",
+      "structure": "主句（The race...heating up in Georgia）",
+      "analysis": "'heating up'是现在分词短语作谓语，表示正在升温。'to this November's midterm elections'是介词短语作定语修饰race。"
+    },
+    {
+      "en": "Incumbent Democrat Senator Jon Ossoff is facing Trump endorsed representative Mike Collins.",
+      "cn": "现任民主党参议员乔恩·奥索夫正面临特朗普支持的众议员迈克·柯林斯的挑战。",
+      "structure": "主句（Incumbent Democrat Senator Jon Ossoff is facing...）",
+      "analysis": "'Incumbent'意为现任的，'Trump endorsed'是复合形容词，意为特朗普支持的。该句简洁地描述了选举对阵双方。"
+    },
+    {
+      "en": "While Americans pay more than they ever have for just about everything, he adorns his office in gold.",
+      "cn": "当美国人为几乎所有东西支付比以往更多的钱时，他却用黄金装饰他的办公室。",
+      "structure": "时间状语从句（While Americans pay more...）+ 主句（he adorns his office in gold）",
+      "analysis": "'While'引导时间状语从句，表示对比。'more than they ever have'是比较结构，意为比以往更多。主句中的'adorns...in gold'形象地描述了奢侈行为。"
+    },
+    {
+      "en": "While cancer patients face down the prospect of losing health coverage, he builds a monument to himself.",
+      "cn": "当癌症患者面临失去医疗保险的前景时，他却为自己建造了一座纪念碑。",
+      "structure": "时间状语从句（While cancer patients face down...）+ 主句（he builds a monument to himself）",
+      "analysis": "'face down'意为勇敢面对，这里带有讽刺意味。'prospect'意为前景。主句中的'monument to himself'批评了自我膨胀的行为。"
+    },
+    {
+      "en": "Three firefighters were killed overnight while battling fast moving wildfires near the Colorado-Utah border.",
+      "cn": "三名消防员在科罗拉多-犹他州边界附近扑救快速蔓延的野火时丧生。",
+      "structure": "主句（Three firefighters were killed）+ 时间状语（while battling fast moving wildfires...）",
+      "analysis": "'while battling...'是省略了主语和be动词的时间状语从句，完整形式为'while they were battling...'。'fast moving'是复合形容词，意为快速移动的。"
+    },
+    {
+      "en": "Some of these areas in Utah have seen little to no precipitation for at least probably 20 to 30 days now.",
+      "cn": "犹他州的一些地区现在至少可能已经有20到30天几乎没有降水了。",
+      "structure": "主句（Some of these areas...have seen little to no precipitation...）",
+      "analysis": "'have seen'是现在完成时，表示持续到现在的状态。'little to no'意为几乎没有，'for at least probably 20 to 30 days'是时间状语，其中'at least probably'体现了不确定性。"
+    },
+    {
+      "en": "It's really like nothing we've ever seen before.",
+      "cn": "这真的像我们以前从未见过的情况。",
+      "structure": "主句（It's really like nothing）+ 定语从句（we've ever seen before）",
+      "analysis": "'nothing'后省略了关系代词that，定语从句修饰nothing。该句表达了情况的极端罕见。"
+    },
+    {
+      "en": "We've got low soil moisture, it's really lined up to be a really severe fire season.",
+      "cn": "土壤湿度低，这真的预示着将是一个非常严重的火灾季节。",
+      "structure": "并列句：第一分句（We've got low soil moisture）+ 第二分句（it's really lined up to be...）",
+      "analysis": "第二分句中'lined up to be'意为安排、准备好成为，这里指各种条件已经具备，预示着一个严重的火灾季节。"
+    },
+    {
+      "en": "As other states across the western United States start to see fires, we will be in competition for resources.",
+      "cn": "随着美国西部其他州开始出现火灾，我们将面临资源竞争。",
+      "structure": "时间状语从句（As other states...start to see fires）+ 主句（we will be in competition for resources）",
+      "analysis": "'As'引导时间状语从句，表示伴随情况。'in competition for'意为为...而竞争，体现了资源紧张的局面。"
+    },
+    {
+      "en": "The one-week countdown to July 4th has begun and some Americans are already traveling for the big America 250 celebrations this year.",
+      "cn": "7月4日的一周倒计时已经开始，一些美国人已经开始为今年盛大的美国250周年庆典出行。",
+      "structure": "并列句：第一分句（The one-week countdown...has begun）+ 第二分句（some Americans are already traveling...）",
+      "analysis": "第一分句中'countdown to'意为倒计时。第二分句中'big'修饰celebrations，强调庆典的盛大。"
+    },
+    {
+      "en": "As of Saturday, the national average for a gallon of regular gas was $3.88.",
+      "cn": "截至周六，一加仑普通汽油的全国平均价格为3.88美元。",
+      "structure": "主句（the national average...was $3.88）+ 时间状语（As of Saturday）",
+      "analysis": "'As of'意为截至，'national average'是全国平均价格。该句提供了具体的价格数据。"
+    },
+    {
+      "en": "Prices have dropped 58 cents in the last month, but they're still higher than a year ago according to AAA.",
+      "cn": "价格在过去一个月下降了58美分，但根据AAA的数据，仍比一年前高。",
+      "structure": "并列句：第一分句（Prices have dropped 58 cents）+ 第二分句（they're still higher...）+ 插入语（according to AAA）",
+      "analysis": "第一分句用现在完成时表示过去一个月的变化。第二分句中'higher than a year ago'是比较结构，插入语提供了信息来源。"
+    },
+    {
+      "en": "The Strait of Hormuz has seen more traffic in the last week than it has in the past three months.",
+      "cn": "霍尔木兹海峡在过去一周的交通量比过去三个月都多。",
+      "structure": "主句（The Strait of Hormuz has seen more traffic...）+ 比较状语（than it has in the past three months）",
+      "analysis": "'has seen'是拟人化用法，意为经历。比较结构'more...than...'突出了交通量的显著增加。"
+    },
+    {
+      "en": "It appeared the U.S. and Iran were close to finalizing a memorandum of understanding, but as tensions escalate with Iran again, there's fear traffic could halt again which could cause gas prices to go up as millions of Americans get ready to travel this week.",
+      "cn": "美国和伊朗似乎接近敲定一份谅解备忘录，但随着与伊朗的紧张局势再次升级，人们担心交通可能再次中断，这可能导致汽油价格上涨，而数百万美国人正准备本周出行。",
+      "structure": "并列句：第一分句（It appeared...）+ 第二分句（but as tensions escalate...there's fear...）+ 定语从句（which could cause...）+ 时间状语（as millions of Americans get ready...）",
+      "analysis": "第一分句中'It appeared'后省略了that。第二分句中'as'引导时间状语从句，'there's fear'后省略了that引导的同位语从句。定语从句'which could cause...'修饰整个主句，时间状语进一步说明了背景。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "美伊冲突与霍尔木兹海峡局势",
+      "content": "美国与伊朗之间的临时协议出现裂痕，双方互相指责对方违反谅解备忘录。伊朗威胁推迟重新开放霍尔木兹海峡，要求独家管理权。美国对伊朗军事目标进行打击，伊朗则向巴林和科威特的美国设施发射导弹。霍尔木兹海峡的航运受到严重影响，油价波动。",
+      "keywords": "美伊关系, 霍尔木兹海峡, 谅解备忘录, 军事打击, 油价"
+    },
+    {
+      "title": "委内瑞拉地震救援",
+      "content": "委内瑞拉遭遇两次强烈地震，死亡人数超过1400人，救援工作持续进行。国际救援队参与搜救，但72小时黄金救援时间已过，幸存者生还几率下降。天气恶劣（降雨）增加了救援难度。",
+      "keywords": "委内瑞拉地震, 救援, 黄金救援时间, 幸存者, 国际援助"
+    },
+    {
+      "title": "美国最高法院裁定终止TPS",
+      "content": "最高法院裁定可以终止海地和叙利亚难民的临时保护身份（TPS），影响超过35万人。该裁决可能导致大规模驱逐，对劳动力市场和经济产生重大影响，尤其是服务业和养老护理行业。",
+      "keywords": "TPS, 最高法院, 海地难民, 叙利亚难民, 驱逐, 劳动力"
+    },
+    {
+      "title": "密西西比州历史展览与美国250周年",
+      "content": "为庆祝美国250周年，密西西比州的两个博物馆联合举办展览，展示该州的历史成就和种族不公。展览包括三K党长袍和种族杀戮受害者名单，体现了“讲述全部真相”的理念，与联邦政府淡化种族问题的做法形成对比。",
+      "keywords": "密西西比州, 美国250周年, 种族不公, 历史展览, 真相"
+    },
+    {
+      "title": "佐治亚州中期选举",
+      "content": "佐治亚州参议员选举成为焦点，现任民主党参议员乔恩·奥索夫对阵特朗普支持的共和党众议员迈克·柯林斯。奥索夫批评特朗普的外交政策和经济表现，选举结果可能影响参议院权力平衡。",
+      "keywords": "佐治亚州, 中期选举, 参议员, 奥索夫, 柯林斯, 特朗普"
+    },
+    {
+      "title": "美国西部野火",
+      "content": "科罗拉多州和犹他州发生多起野火，其中犹他州的Cottonwood火灾已烧毁9.2万英亩，0%受控。三名消防员丧生。干旱、低湿度和强风加剧了火势，犹他州限制独立日烟花燃放。",
+      "keywords": "野火, 科罗拉多州, 犹他州, 干旱, 消防员, 烟花禁令"
+    },
+    {
+      "title": "独立日出行与油价",
+      "content": "AAA预计超过7200万美国人将在独立日期间出行，其中近6200万人驾车。汽油价格近期下跌，全国均价3.88美元/加仑，但仍高于去年同期。霍尔木兹海峡的紧张局势可能影响油价。",
+      "keywords": "独立日, 出行, AAA, 油价, 霍尔木兹海峡"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nInterim Agreement Under Strain As U.S., Iran Exchange Fire; Urgent Rescue Operations Underway As Death Toll Soars; Thousands Of Haitians Legally Living And Working In U.S. Could Lose Work Permits & Be Deported After Ruling On TPS; Mississippi Puts Its Difficult History On Display; Focus On High-Profile Georgia Races Ahead Of November Vote; More Than A Dozen Wildfires Continue To Burn Across Colorado & Utah. More Than a Dozen Wildfires Continue to Burn Across Colorado and Utah; Utah Restricts Fourth of July Fireworks Amid Fire Danger; AAA: Record Fourth of July Travel Expected as Gas Prices Fall. Aired 7-8a ET\n\nAired June 28, 2026 - 07:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nVICTOR BLACKWELL, CNN ANCHOR: Welcome back to CNN This Morning. Here's what you need to know today. In Venezuela, unfortunately, the death toll climbing. The search for the missing is not over. We'll take you inside the country as families are hoping their loved ones are rescued. That's coming up next.\n\nAnd also in Utah, the state's most destructive wildfire is burning out of control this morning. But it's the fires that have not yet started that has officials concerned. Plus, America is getting ready to turn 250. One state is asking whether you can celebrate the country by skipping the hard parts of history. Why Mississippi is choosing to tell a fuller story of its past.\n\nALLISON CHINCHAR, CNN METEOROLOGIST: And we are officially in summer, and it is going to feel like it this week. A lot of heat alerts starting to pop. We'll talk about just how hot those temperatures are going to get coming up.\n\nBLACKWELL: It's Sunday, June 28th, a brand new week. Thanks for starting it with me. I'm Victor Blackwell.\n\nThis morning, the fragile interim agreement between the U.S. and Iran is starting to show some strain. In just the last few hours, Iran's foreign minister threatened to delay the reopening of the Strait of Hormuz if there are any continued interferences on what he calls Iran's exclusive management of the waterway.\n\nEarlier, Iran said the 10 U.S. strikes on Iranian military targets violated the ceasefire memo of understanding. That memo was signed just 10 days ago. U.S. Central Command said its strikes hit hard Iran's military infrastructure, air defense sites, drone storage facilities. The U.S. military says it was in response to what it called an Iranian attack on a commercial ship in the Strait of Hormuz.\n\nIran retaliated for those 10 U.S. strikes by launching missiles and drones against U.S. facilities in Bahrain and Kuwait, and Bahrain's government shared these images of the damage to a residential building in that Iranian attack.\n\nCNN's Paula Hancocks has more. Good morning.\n\nPAULA HANCOCKS, CNN CORRESPONDENT: Hello, Victor. Well, it was a sleepless night for many residents in both Bahrain and Kuwait, as once again they found themselves bearing the brunt of the Iranian retaliation. We heard in Bahrain that there was damage to a residential building. No deaths were reported, though.\n\nBut what we are seeing is this the tit-for-tat strikes, really the most serious escalation we have seen since that MOU, the memorandum of understanding, was signed. And we are also seeing both sides, both the U.S. and Iran, accusing the other of violating that memorandum.\n\nNow, the key issue at this point is the Strait of Hormuz, I should say, one of the key issues. But this is what has sparked the most recent escalation. We have heard from a Revolutionary Guard spokesperson saying that this is a violation, what the U.S. has done, also saying it will result in the complete halt of all diplomatic processes, suggesting that they may not go back to the talks.\n\nBut what we have seen certainly is that vessels in the Strait of Hormuz have, for the most part, been taking the southern route closer to the Omani coast, and Iran says they have to go in the Iranian route, which means they have full control of who comes through. And this is what we heard from Abbas Araghchi, the Iranian foreign minister, who just gave a press conference a couple of hours ago in Baghdad, saying that the number of vessels could be back to pre-war levels in 30 days, but Iran has to have exclusive control over the Strait of Hormuz.\n\nNow, clearly that is not something the U.S. or the Gulf nations, frankly, will be agreeing to. Let's listen to more from what we heard of a Revolutionary Guard spokesperson earlier.\n\nHOSSEIN MOHEBBI, ISLAMIC REVOLUTIONARY GUARD CORPS SPOKESPERSON: (Speaking Foreign Language)\n\nHANCOCKS: U.S. Central Command saying that Iran had the opportunity to respect this ceasefire. It chose not to, but the commercial vessels are still trying to transit the Strait of Hormuz, and we do see that as well from data from marine traffic, for example. We do see a number of ships trying to get through the Strait of Hormuz, but, of course, it is a lot more tenuous with those threats coming from Iran. We heard that the security status level is substantial, according to the U.K. Maritime Agency, in the straits at this point. The U.N. evacuation of seafarers stuck there since the end of February has also been halted. Victor?\n\nBLITZER: Paula Hancocks reporting from Abu Dhabi. Thank you.\n\nMore than 1,400 people are dead, 3,200 others hurt in Venezuela after the country was hit by those two major earthquakes last week, and the rescue efforts have been going on 24 hours a day.\n\nBLACKWELL: And there's been some success. You hear that baby crying. A rescue team from the U.S. actually pulled that nine-month-old along with the child's mother from the rubble. Both had only minor injuries. And although the 72-hour what's called golden window for survivors has closed, there is still hope as crews find survivors.\n\n(Speaking Foreign Language)\n\nBLACKWELL: The President of El Salvador shared this video. It shows the moment that a Salvadoran man, a rescuer, locates a woman trapped under the rubble, and the rescuer reassures her that help is on the way. And then there's this.\n\nBLACKWELL: I mean, imagine working for hours and hours, and then you get this. The Spanish rescue crew pulled that man by his legs from the rubble. The man was speechless. You saw him there. Just the expression on his face tells the story. It will have much more on the efforts to pull more of the people trapped there in Caracas and part that -- around that part of Venezuela out. We have that coming up in a live report.\n\nMore than 350,000 people living legally in the United States could be forced to leave after a landmark Supreme Court decision. On Thursday, the court cleared the way to end temporary protected status, or TPS, for Haitian and Syrian people who have come to America leaving war or instability.\n\nCNN's Gloria Pazmino has more on the potential ripple effects of that ruling. GLORIA PAZMINO, CNN CORRESPONDENT: That's right. I think we can sum it up by describing the incredible amount of uncertainty that these communities are feeling now. Communities that are wondering how this is going to affect them, when and if, how this is going to be enforced and how it's going to be enforced, and what it's going to mean for communities that, frankly, have been here in New York and throughout the United States for many years.\n\nHere in New York City, there's an estimated 160,000 Haitians who live and work in the city. And overall, 350,000 Haitians and 6,000 Syrians who are currently under TPS could be affected by this decision, which means that the shockwaves of this are going to be felt throughout those communities and the industries that these people work in.\n\nNow, TPS is given to nationals from certain countries that are experiencing either humanitarian or natural crises. The protection allows people to stay and work in the United States legally, but it's only valid while their TPS status is valid. And many of the Haitians who we spoke to here in New York City told us that it would just be incredibly difficult to return home.\n\nJEAN BAPTISTE, MOVED TO THE U.S. 42 YEARS AGO: Haiti is not good right now. It's not good to let the people go send them to Haiti. You know, they know exactly what it is, you know? So I don't know why they took that decision to send them to Haiti.\n\nPAZMINO: The attorney who argued the Syrian TPS case before the Supreme Court said that this would be, quote, \"The largest de- documentization event of people in U.S. history.\" And we've talked about the economic impact that this could have. You know, these are people who live, work and pay taxes here. There is so much data about the millions of dollars that they contribute to local and the national economies.\n\nAnd we are told by employers that removing Haitian TPS holders from the workforce would have a major impact on their employers, on their industries and the economy as a whole. Haitians already make up a significant share of the service industry, as well as the elder care industry, particularly here in New York City, where there is already a significant staffing shortage.\n\nGloria Pazmino, CNN, New York.\n\nBLACKWELL: Still ahead, the race for Senate in Georgia is one that could decide the balance of power in the body. We have the latest from the campaign trail.\n\nAlso, millions of Americans, maybe you, are going to hit the road for the Fourth of July celebrations this week. We have some good news. Mississippi has put its difficult history on display for America's 250th celebrations. We'll take a look at how this exhibit came together after the break.\n\nBLACKWELL: Mississippi is one of the many states celebrating the 250th anniversary of the U.S. by putting its own state history on display. The Museum of Mississippi History and the Mississippi Civil Rights Museum together, called Two Mississippi Museums, created a special Mississippi-made exhibit to highlight its own homegrown achievements, like the invention of the household cleaner Pine-Sol and medical advances like the first human lung transplant.\n\nMississippi's history is also steeped in racial injustices, and that's also on display, from the Ku Klux Klan robes to a monolith featuring the names of more than 600 victims of racial killings. The director of the collection says instructions were simple from the people that they consulted. Just tell the truth.\n\nThe curator of collections for the Mississippi Department of Archives and History, Jessica Walzer, joins me now. Jessica, good morning to you. And I want to actually read the quote, according to the Associated Press, from the director of your department. \"Don't brush over anything. Don't whitewash anything. Just tell the absolute truth.\"\n\nAnd in this social and political climate, that's risky. That's controversial. Talk to me about why that was Mississippi's approach.\n\nJESSICA WALZER, CURATOR, MISSISSIPPI DEPT. OF ARCHIVES & HISTORY: Sure. Yes, it's never really been controversial for us here at MDH. That's kind of always what we're looking to do at all of our sites is we're looking to tell the whole truth of Mississippi's history. And so for all of our museum sites, that's no different. And that's something that goes through all of our work here.\n\nBLACKWELL: And so what does that look like in practice? Walk me through some of the highlights of what you all have put together.\n\nWALZER: Sure. Our temporary exhibit for America 250 this year is called Mississippi Made. And it features 250 artifacts that represent Mississippi's contributions to America's story. And, of course, you know, the exhibit is very celebratory about Mississippi history. We have a lot to celebrate in Mississippi.\n\nBut, yes, we do have a difficult history that is embedded in our past. And it comes through even in these kind of celebratory ways. It's shaped our history. And so it's kind of impossible to separate those things.\n\nBLACKWELL: Yes, let me pull that thread, because there will be lots of celebrations across the country leading into the weekend. And what I'm hearing from you is that celebration alone is not enough.\n\nWALZER: Yes, I think so. I think it's important to celebrate, and especially with Mississippi having having a difficult history and oftentimes a dark history, that it's important for us to also celebrate the things that the state has provided, the things that people have overcome to impact the nation. And so, yes, those things, I think, yes, are tied together.\n\nBut especially in this temporary exhibit, it's very celebratory in its themes. But in our permanent displays, yes, the -- especially in the Mississippi Civil Rights Museum, that comes through a lot where we focus on that kind of year round. So the American 250 is giving us a reason to kind of highlight some of the more exciting.\n\nBLACKWELL: Jessica, I don't want to put you in a difficult position here, but Mississippi is candy apple red. I mean, hasn't elected a Democratic governor this century. A Democrat hasn't won Mississippi's electoral vote since Carter. So we're talking 50 years now.\n\nWhat explains the divergence between the administration federally and trying to maybe downplay some of the racial elements of America's history? And ruby red Mississippi that says we're going to show it all?\n\nWALZER: Yes, so we, as a state agency, are subject to the federal regulations recently. But our state government has always been extremely supportive of the Mississippi Department of Archives and History's work, making the two Mississippi museums here. And especially with the Civil Rights Museum, the goal and objective from the state government has always been to tell the truth and to, again, like we said, not brush over these parts of history, but really spotlight them.\n\nAnd I think it comes from, you know, we all want Mississippi to grow and learn from our past. And so that that's really important for even, yes, the state government here.\n\nBLACKWELL: Yes. Jessica Walzer, thanks so much, I mean, especially in Mississippi, a state that acknowledges that it still has some growing to do, some developments to make on this front to show the fuller story. I appreciate the conversation. Thank you.\n\nStill ahead, rescue teams are racing in Venezuela, hoping to find survivors after powerful earthquakes. They go live to Caracas as aftershocks complicate the rescue efforts.\n\nAnd the wildfires ripping through Utah have turned deadly. They've claimed three lives of firefighters. We have the latest coming up.\n\nBLACKWELL: Rescue crews from all over the world are headed to Venezuela to try to save trapped survivors after the earthquake. The death toll from those two devastating quakes is now above 1,400. More than three days have passed since the earthquakes and chances of survival dropped rapidly after 72 hours without water. Temporary shelters have been established in some areas to house more than 3,000 families that have lost their homes.\n\nJournalist Mary Triny Mena is on the ground for us there in Caracas. Mary, tell us -- I see the weather is pretty bad. What's going on there?\n\nMARY TRINY MENA, JOURNALIST: Good morning, Victor. As you can see, it's raining in Caracas. It is important to notice that this could affect the work of rescue teams that are in the ground trying to bring more people, trying to save more people alive.\n\nThere's still hope to find more Venezuelans that are trapped behind the rubble. Acting President Rodriguez shown an image of a boy's refuge yesterday and he was alive. So authorities say there's still a chance, a little chance, but there's still a chance to find people alive.\n\nThey need silence and they need good conditions in order to listen if somebody is yelling or asking for help. Other things that we have witnessed is people living in tents waiting for approval to return to their buildings in large residential areas. That even though their buildings didn't collapse, they need to be checked by a specialist.\n\nSo it is -- those are hard conditions to work right now for rescue teams since the situation and the conditions on the ground is getting more complex as the hours goes by.\n\nBLACKWELL: Yes. And what they don't need is another challenge as presented by that weather we see.\n\nMary Triny Mena, thank you so much for the report.\n\nThe race to this November's midterm elections heating up in Georgia. Incumbent Democrat Senator Jon Ossoff is facing Trump endorsed representative Mike Collins. My colleague Manu Raju spoke with Senator Ossoff about the race and being a target of President Trump.\n\nMANU RAJU, CNN CHIEF CONGRESSIONAL CORRESPONDENT: You have any thoughts on the nicknames Trump has given you?\n\nSEN. JON OSSOFF (D), GEORGIA: I don't care about nicknames, but I think what is widely understood across the country and the entire world is that this President has humiliated himself through the failure of his foreign policy in the Middle East. His approval rating sits at 34 percent. While Americans pay more than they ever have for just about everything, he adorns his office in gold.\n\nWhile cancer patients face down the prospect of losing health coverage, he builds a monument to himself. I think this is a failed lame duck President who has cemented his legacy in disgrace.\n\nBLACKWELL: You can watch that interview with Senator Ossoff and his Republican opponent for Senate Representative Mike Collins. That's coming up on Inside Politics with Manu Raju starting at 8:00 this morning.\n\nThree firefighters were killed overnight while battling fast moving wildfires near the Colorado-Utah border. Two others were injured, taken to the hospital. They were part of a crew responding to the Knowles and Gore fires in Mesa County, Colorado.\n\nThis morning, fires across western Colorado and parts of Utah are still growing. Colorado's governor has declared a disaster emergency. In Utah, some communities near the Cottonwood fire have been told to leave their homes. That fire has burned more than 92,000 acres and is still not contained.\n\nJoining me now is Jamie Barnes, the director of Utah Forestry, Fire and State Lands. Jamie, good morning to you. The latest numbers on Cottonwood, is that still 92,000? And what do we know about expansion or containment?\n\nJAMIE BARNES, UTAH FORESTRY, FIRE AND STATE LANDS DIRECTOR: Yes, that is still 92,000 acres right now. We'll receive new acreage counts today. Right now, that fire is 0 percent contained.\n\nBLACKWELL: As I was reading it on the Cottonwood fire, there are so many fires burning. You've got the wild goose, the maple peak, the cherry. How many fires are active across the state right now?\n\nBARNES: Yes, so right now we're managing five large fires. We have seen many, many small fires that have been started across the state, many of them recently due to red flag warnings that we've been in that have been from lightning caused. So, a lot going on here in Utah right now.\n\nVICTOR BLACKWELL, CNN ANCHOR: Yes. The governor has said that it is as bleak as it's ever been. Less than a week out from Independence Day. A lot of people like to pop off their fireworks. Those have been heavily restricted across the state. Just help us understand the ingredients, the landscape there that's making these so hard to fight and so easy to start.\n\nBARNES: Yes. So, overall, we're seeing, you know, erratic fire behavior due to dry fuels and historic drought conditions. We're seeing these fires make large runs. When we talk about the Cottonwood fire, we estimate that fire was making runs at about 1,000 acres per hour. So, really unprecedented behavior on that fire.\n\nSome of these areas in Utah have seen little to no precipitation for at least probably 20 to 30 days now. We did see some storms try to push through the area the last couple days, but again, those produced some dry lightning. We're in drought, historical drought conditions. The fuels are dry. The fuels are actually combustible at this point. It's really like nothing we've ever seen before. You talk to veteran firefighters, they say, these are fuels that we've just never seen them burn like this before.\n\nWe've got low soil moisture. It's really lined up to be a really severe fire season. It started off quick. We've burned over 200,000 acres, which in some seasons we don't even hit that many acres in a full season.\n\nSo, Smoky Valleys, we've really been pushing that, you know, a lot of these fires have been human caused. We need to see a behavior change with that, hence the reason for the firework ban. We've been in stage two fire restrictions now, but we're really hoping for some cooler temps and some recovery on some of these so we can start to get some containment on some of these fires. As other states across the western United States start to see fires, we will be in competition for resources.\n\nBLACKWELL: I've read that the winds there are actually making it tough to keep these water bombers in the air. What's the expectation for today if you'll be able to get these aircraft to just drop water where you can on these fires?\n\nBARNES: Yes, I'm hopeful that today is going to be a better day. It was pretty crazy the last two days. We saw a little relief yesterday. We're supposed to get some relief today, and I'm hopeful today that with that relief we can get some containment percentage behind us and we can keep aviation flying. But yes, those winds we saw anywhere from 30 to 60 miles per hour in some areas of Utah yesterday.\n\nBLACKWELL: I know the work is exhausting. Jamie Barnes, thank you for your time and the work you're doing.\n\nLet's turn now to CNN meteorologist Allison Chinchar. I mean, not just the ingredients to start the fire, but the weather's keeping them from fighting it.\n\nALLISON CHINCHAR, CNN METEOROLOGIST: Right, especially those winds, you talked about the airplanes. Now, she was talking about, you know, 30 to 60 mile per hour winds. Today, it'll be more like 20 to 50. So, they're still there, maybe slightly lower than they were yesterday, which I mean, at this point, any little bit helps.\n\nBut yes, a 40- to 50-mile per hour wind not only makes it difficult for those planes to get out there, but it also just fuels and fans all of those fires that are already out. So, that is still going to be a concern today. That's why you have all of these red flag warnings.\n\nIt's not just in Utah. You also have them across portions of Colorado, Arizona, and New Mexico, because all of those states have those ideal conditions for the fires. We're talking low humidities, very gusty winds, and very hot conditions too.\n\nNow, it's been on the cooler side the last few days out to the west. The heat has really kind of been just east of the Rockies, but we're going to start to see a little bit of a shift here over the coming days. You're really going to start to see a lot of that heat building across the east, but also more of that heat or the cooler temperatures taking over the west. That may sound like a good thing on the surface, but a lot of times what that can do is that can also kick up the winds. So, this is going to be a concern for them over the next several days.\n\nAnd then finally, we start to see that cooler air and the winds begin to appease a little bit out west. However, the heat really actually continues to build into the east, and that's what you're seeing here. Look at all of these heat alerts across areas so far in the Midwest. You've got some in the southeast and even areas of the northeast.\n\nAnd more and more of those heat alerts are going to start to fill in in the coming days, especially by Wednesday, Thursday, and Friday of the upcoming week. That's because we're going to see those temperatures rise.\n\nTake a look at Minneapolis, OK. Today, high temperature of 76, low 90s by the time we get to Tuesday. Chicago going from 80 to 94, and St. Louis going to top out just barely below triple digits by the time we get to Tuesday.\n\nIt's a little bit more of a delayed effect to the northeast. That doesn't mean it's not going to happen. It just means it's going to take a few extra days. So, take, for example, D.C. Look at this, 101, 104, 104. So, it's really that Wednesday through Friday that's going to be the key timeline. The concern here with Washington, D.C. specifically, you have a lot of folks headed there for the big 250th anniversary around July 4th holidays. So, you've got a lot of people that are going to be outside wanting to celebrate in that intense heat.\n\nOther people maybe say going to New York City to celebrate as well. You're also going to have triple digits. In fact, it kind of peaks Thursday and Friday even as we head into the weekend. So, we talked about this earlier. Stay hydrated. Victor.\n\nBLACKWELL: With water.\n\nCHINCHAR: Water. Water is the key.\n\nBLACKWELL: I'm going to be in New York for the fourth and it's going to be what, 95?\n\nCHINCHAR: Get you some water. Lots of it.\n\nBLACKWELL: I have to get myself a couple of popsicles.\n\nCHINCHAR: That too. Yes.\n\nBLACKWELL: All right. Allison Chinchar. Hey, the Theodore Roosevelt Presidential Library opened this week, but probably not where you think it is. And if you're heading out, remember, you can always stream my show from anywhere in the U.S. Just go to that CNN app. You can also go to cnn.com/watch.\n\nBLACKWELL: Top stories for you as we head into a new week. Alex Murdaugh, the former South Carolina attorney accused of killing his wife and son is expected to appear in court tomorrow. It'll be his first hearing since his murder convictions were overturned on appeal.\n\nTitans of the music industry will gather Monday to say goodbye to Clive Davis. Record executive died June 22nd. He was 94 years old. Davis founded Arista Records and signed artists including Whitney Houston, Grateful Dead, Barry Manilow, Bruce Springsteen, Alicia Keys, Jennifer Hudson. Just some of the artists expected to attend the funeral in New York on your screen there.\n\nPresident Trump and all living past presidents have been invited to the opening of the presidential library near Theodore Roosevelt National Park in North Dakota. The new library focuses on the former president's cattle ranching and cowboy days in the 1880s. President Trump is expected to attend. If you're traveling for Independence Day, expect lots of traffic.\n\nOK. AAA expects, estimates that more than 60 million people will drive to their destinations between today and Sunday, July 5th. Some good news for you though, as CNN's Jen Sullivan reports, gas prices are coming down.\n\nJENN SULLIVAN, CNN CORRESPONDENT (voice-over): The one-week countdown to July 4th has begun and some Americans are already traveling for the big America 250 celebrations this year.\n\nAIXA DIAZ, AAA SPOKESPERSON: We over the years saw that people really either take off the entire week or they'll leave the weekend before.\n\nSULLIVAN (voice-over): AAA spokesperson Aixa Diaz says more than 72 million Americans are expected to travel 50 miles or more between June 27th through July 5th. That would be a new record. Most travelers will drive with nearly 62 million hitting the road and there's good news when it comes to gas prices.\n\nDIAZ: We are seeing some improvement there and that might motivate some people who maybe weren't planning to take a road trip to jump in the car and do it.\n\nSULLIVAN (voice-over): As of Saturday, the national average for a gallon of regular gas was $3.88. Prices have dropped 58 cents in the last month, but they're still higher than a year ago according to AAA.\n\nTOM KLOZA, CHIEF ENERGY ADVISER, GULF OIL: Gasoline prices are dropping and in the next 30 days you're going to see them drop.\n\nSULLIVAN (voice-over): Tom Kloza with Gulf Oil says prices have dropped because more tankers carrying oil are starting to travel through the Strait of Hormuz.\n\nKLOZA: It's open enough right now so that the next 30 or 40 days I think you'll see a lot of oil and you'll see generally weak prices.\n\nSULLIVAN (voice-over): The Strait of Hormuz has seen more traffic in the last week than it has in the past three months. Since the war with Iran began, maritime traffic in the Strait had essentially halted, disrupting oil production and sending gas prices soaring.\n\nIt appeared the U.S. and Iran were close to finalizing a memorandum of understanding, but as tensions escalate with Iran again, there's fear traffic could halt again which could cause gas prices to go up as millions of Americans get ready to travel this week.\n\nI'm Jen Sullivan reporting.\n\nBLACKWELL: And according to AAA, the worst time to travel by car will be Sunday, July 5th between noon and 6:00 p.m. as people are coming back home getting ready for work the next day.\n\nAll right. Still ahead, World Cup fans came to the United States for soccer, but they're leaving with a taste of things unique to our beautiful country. From barbecue to big gulps, the local flavors are becoming part of the World Cup experience.\n\nUNIDENTIFIED FEMALE: Buc-ee's.\n\nUNIDENTIFIED FEMALE: This is their smallest size. Oh, my gosh. America.\n\nUNIDENTIFIED FEMALE: Where's the mascot?\n\nBLACKWELL: You got to love Buc-ee's. All right. Tonight, the Battle of the Alamo becomes a rallying cry for the Texas Revolution reshaping North America and its balance of power.\n\nUNIDENTIFIED MALE: My family's part of the original families that settled here in Texas. They came in under Spain. When I was a teenager, we learned about the Alamo. We grew up knowing Davy Crockett as a true American hero, but later on we found out that we had family involved in the Battle of the Alamo. And that kind of changed everything for us.\n\nBut later on, we found out that we had family involved in the Battle of the Alamo. That kind of changed everything for us. To think that my ancestors were here and fought to build this country and help change the borders of the United States.\n\nBLACKWELL: The new episode of the CNN original series, \"This Land,\" airs tonight at nine on CNN and tomorrow on the CNN app.\n\n(COMMERCIAL BREAK) BLACKWELL: Well, Messi started on the bench for Argentina last night, but he found a way to get",
+  "segments": [
+    {
+      "seg": 2,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-28/segment/02",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nInterim Agreement Under Strain As U.S., Iran Exchange Fire; Urgent Rescue Operations Underway As Death Toll Soars; Thousands Of Haitians Legally Living And Working In U.S. Could Lose Work Permits & Be Deported After Ruling On TPS; Mississippi Puts Its Difficult History On Display; Focus On High-Profile Georgia Races Ahead Of November Vote; More Than A Dozen Wildfires Continue To Burn Across Colorado & Utah. More Than a Dozen Wildfires Continue to Burn Across Colorado and Utah; Utah Restricts Fourth of July Fireworks Amid Fire Danger; AAA: Record Fourth of July Travel Expected as Gas Prices Fall. Aired 7-8a ET\n\nAired June 28, 2026 - 07:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nVICTOR BLACKWELL, CNN ANCHOR: Welcome back to CNN This Morning. Here's what you need to know today. In Venezuela, unfortunately, the death toll climbing. The search for the missing is not over. We'll take you inside the country as families are hoping their loved ones are rescued. That's coming up next.\n\nAnd also in Utah, the state's most destructive wildfire is burning out of control this morning. But it's the fires that have not yet started that has officials concerned. Plus, America is getting ready to turn 250. One state is asking whether you can celebrate the country by skipping the hard parts of history. Why Mississippi is choosing to tell a fuller story of its past.\n\nALLISON CHINCHAR, CNN METEOROLOGIST: And we are officially in summer, and it is going to feel like it this week. A lot of heat alerts starting to pop. We'll talk about just how hot those temperatures are going to get coming up.\n\nBLACKWELL: It's Sunday, June 28th, a brand new week. Thanks for starting it with me. I'm Victor Blackwell.\n\nThis morning, the fragile interim agreement between the U.S. and Iran is starting to show some strain. In just the last few hours, Iran's foreign minister threatened to delay the reopening of the Strait of Hormuz if there are any continued interferences on what he calls Iran's exclusive management of the waterway.\n\nEarlier, Iran said the 10 U.S. strikes on Iranian military targets violated the ceasefire memo of understanding. That memo was signed just 10 days ago. U.S. Central Command said its strikes hit hard Iran's military infrastructure, air defense sites, drone storage facilities. The U.S. military says it was in response to what it called an Iranian attack on a commercial ship in the Strait of Hormuz.\n\nIran retaliated for those 10 U.S. strikes by launching missiles and drones against U.S. facilities in Bahrain and Kuwait, and Bahrain's government shared these images of the damage to a residential building in that Iranian attack.\n\nCNN's Paula Hancocks has more. Good morning.\n\nPAULA HANCOCKS, CNN CORRESPONDENT: Hello, Victor. Well, it was a sleepless night for many residents in both Bahrain and Kuwait, as once again they found themselves bearing the brunt of the Iranian retaliation. We heard in Bahrain that there was damage to a residential building. No deaths were reported, though.\n\nBut what we are seeing is this the tit-for-tat strikes, really the most serious escalation we have seen since that MOU, the memorandum of understanding, was signed. And we are also seeing both sides, both the U.S. and Iran, accusing the other of violating that memorandum.\n\nNow, the key issue at this point is the Strait of Hormuz, I should say, one of the key issues. But this is what has sparked the most recent escalation. We have heard from a Revolutionary Guard spokesperson saying that this is a violation, what the U.S. has done, also saying it will result in the complete halt of all diplomatic processes, suggesting that they may not go back to the talks.\n\nBut what we have seen certainly is that vessels in the Strait of Hormuz have, for the most part, been taking the southern route closer to the Omani coast, and Iran says they have to go in the Iranian route, which means they have full control of who comes through. And this is what we heard from Abbas Araghchi, the Iranian foreign minister, who just gave a press conference a couple of hours ago in Baghdad, saying that the number of vessels could be back to pre-war levels in 30 days, but Iran has to have exclusive control over the Strait of Hormuz.\n\nNow, clearly that is not something the U.S. or the Gulf nations, frankly, will be agreeing to. Let's listen to more from what we heard of a Revolutionary Guard spokesperson earlier.\n\nHOSSEIN MOHEBBI, ISLAMIC REVOLUTIONARY GUARD CORPS SPOKESPERSON: (Speaking Foreign Language)\n\nHANCOCKS: U.S. Central Command saying that Iran had the opportunity to respect this ceasefire. It chose not to, but the commercial vessels are still trying to transit the Strait of Hormuz, and we do see that as well from data from marine traffic, for example. We do see a number of ships trying to get through the Strait of Hormuz, but, of course, it is a lot more tenuous with those threats coming from Iran. We heard that the security status level is substantial, according to the U.K. Maritime Agency, in the straits at this point. The U.N. evacuation of seafarers stuck there since the end of February has also been halted. Victor?\n\nBLITZER: Paula Hancocks reporting from Abu Dhabi. Thank you.\n\nMore than 1,400 people are dead, 3,200 others hurt in Venezuela after the country was hit by those two major earthquakes last week, and the rescue efforts have been going on 24 hours a day.\n\nBLACKWELL: And there's been some success. You hear that baby crying. A rescue team from the U.S. actually pulled that nine-month-old along with the child's mother from the rubble. Both had only minor injuries. And although the 72-hour what's called golden window for survivors has closed, there is still hope as crews find survivors.\n\n(Speaking Foreign Language)\n\nBLACKWELL: The President of El Salvador shared this video. It shows the moment that a Salvadoran man, a rescuer, locates a woman trapped under the rubble, and the rescuer reassures her that help is on the way. And then there's this.\n\nBLACKWELL: I mean, imagine working for hours and hours, and then you get this. The Spanish rescue crew pulled that man by his legs from the rubble. The man was speechless. You saw him there. Just the expression on his face tells the story. It will have much more on the efforts to pull more of the people trapped there in Caracas and part that -- around that part of Venezuela out. We have that coming up in a live report.\n\nMore than 350,000 people living legally in the United States could be forced to leave after a landmark Supreme Court decision. On Thursday, the court cleared the way to end temporary protected status, or TPS, for Haitian and Syrian people who have come to America leaving war or instability.\n\nCNN's Gloria Pazmino has more on the potential ripple effects of that ruling. GLORIA PAZMINO, CNN CORRESPONDENT: That's right. I think we can sum it up by describing the incredible amount of uncertainty that these communities are feeling now. Communities that are wondering how this is going to affect them, when and if, how this is going to be enforced and how it's going to be enforced, and what it's going to mean for communities that, frankly, have been here in New York and throughout the United States for many years.\n\nHere in New York City, there's an estimated 160,000 Haitians who live and work in the city. And overall, 350,000 Haitians and 6,000 Syrians who are currently under TPS could be affected by this decision, which means that the shockwaves of this are going to be felt throughout those communities and the industries that these people work in.\n\nNow, TPS is given to nationals from certain countries that are experiencing either humanitarian or natural crises. The protection allows people to stay and work in the United States legally, but it's only valid while their TPS status is valid. And many of the Haitians who we spoke to here in New York City told us that it would just be incredibly difficult to return home.\n\nJEAN BAPTISTE, MOVED TO THE U.S. 42 YEARS AGO: Haiti is not good right now. It's not good to let the people go send them to Haiti. You know, they know exactly what it is, you know? So I don't know why they took that decision to send them to Haiti.\n\nPAZMINO: The attorney who argued the Syrian TPS case before the Supreme Court said that this would be, quote, \"The largest de- documentization event of people in U.S. history.\" And we've talked about the economic impact that this could have. You know, these are people who live, work and pay taxes here. There is so much data about the millions of dollars that they contribute to local and the national economies.\n\nAnd we are told by employers that removing Haitian TPS holders from the workforce would have a major impact on their employers, on their industries and the economy as a whole. Haitians already make up a significant share of the service industry, as well as the elder care industry, particularly here in New York City, where there is already a significant staffing shortage.\n\nGloria Pazmino, CNN, New York.\n\nBLACKWELL: Still ahead, the race for Senate in Georgia is one that could decide the balance of power in the body. We have the latest from the campaign trail.\n\nAlso, millions of Americans, maybe you, are going to hit the road for the Fourth of July celebrations this week. We have some good news. Mississippi has put its difficult history on display for America's 250th celebrations. We'll take a look at how this exhibit came together after the break.\n\nBLACKWELL: Mississippi is one of the many states celebrating the 250th anniversary of the U.S. by putting its own state history on display. The Museum of Mississippi History and the Mississippi Civil Rights Museum together, called Two Mississippi Museums, created a special Mississippi-made exhibit to highlight its own homegrown achievements, like the invention of the household cleaner Pine-Sol and medical advances like the first human lung transplant.\n\nMississippi's history is also steeped in racial injustices, and that's also on display, from the Ku Klux Klan robes to a monolith featuring the names of more than 600 victims of racial killings. The director of the collection says instructions were simple from the people that they consulted. Just tell the truth.\n\nThe curator of collections for the Mississippi Department of Archives and History, Jessica Walzer, joins me now. Jessica, good morning to you. And I want to actually read the quote, according to the Associated Press, from the director of your department. \"Don't brush over anything. Don't whitewash anything. Just tell the absolute truth.\"\n\nAnd in this social and political climate, that's risky. That's controversial. Talk to me about why that was Mississippi's approach.\n\nJESSICA WALZER, CURATOR, MISSISSIPPI DEPT. OF ARCHIVES & HISTORY: Sure. Yes, it's never really been controversial for us here at MDH. That's kind of always what we're looking to do at all of our sites is we're looking to tell the whole truth of Mississippi's history. And so for all of our museum sites, that's no different. And that's something that goes through all of our work here.\n\nBLACKWELL: And so what does that look like in practice? Walk me through some of the highlights of what you all have put together.\n\nWALZER: Sure. Our temporary exhibit for America 250 this year is called Mississippi Made. And it features 250 artifacts that represent Mississippi's contributions to America's story. And, of course, you know, the exhibit is very celebratory about Mississippi history. We have a lot to celebrate in Mississippi.\n\nBut, yes, we do have a difficult history that is embedded in our past. And it comes through even in these kind of celebratory ways. It's shaped our history. And so it's kind of impossible to separate those things.\n\nBLACKWELL: Yes, let me pull that thread, because there will be lots of celebrations across the country leading into the weekend. And what I'm hearing from you is that celebration alone is not enough.\n\nWALZER: Yes, I think so. I think it's important to celebrate, and especially with Mississippi having having a difficult history and oftentimes a dark history, that it's important for us to also celebrate the things that the state has provided, the things that people have overcome to impact the nation. And so, yes, those things, I think, yes, are tied together.\n\nBut especially in this temporary exhibit, it's very celebratory in its themes. But in our permanent displays, yes, the -- especially in the Mississippi Civil Rights Museum, that comes through a lot where we focus on that kind of year round. So the American 250 is giving us a reason to kind of highlight some of the more exciting.\n\nBLACKWELL: Jessica, I don't want to put you in a difficult position here, but Mississippi is candy apple red. I mean, hasn't elected a Democratic governor this century. A Democrat hasn't won Mississippi's electoral vote since Carter. So we're talking 50 years now.\n\nWhat explains the divergence between the administration federally and trying to maybe downplay some of the racial elements of America's history? And ruby red Mississippi that says we're going to show it all?\n\nWALZER: Yes, so we, as a state agency, are subject to the federal regulations recently. But our state government has always been extremely supportive of the Mississippi Department of Archives and History's work, making the two Mississippi museums here. And especially with the Civil Rights Museum, the goal and objective from the state government has always been to tell the truth and to, again, like we said, not brush over these parts of history, but really spotlight them.\n\nAnd I think it comes from, you know, we all want Mississippi to grow and learn from our past. And so that that's really important for even, yes, the state government here.\n\nBLACKWELL: Yes. Jessica Walzer, thanks so much, I mean, especially in Mississippi, a state that acknowledges that it still has some growing to do, some developments to make on this front to show the fuller story. I appreciate the conversation. Thank you.\n\nStill ahead, rescue teams are racing in Venezuela, hoping to find survivors after powerful earthquakes. They go live to Caracas as aftershocks complicate the rescue efforts.\n\nAnd the wildfires ripping through Utah have turned deadly. They've claimed three lives of firefighters. We have the latest coming up.\n\nBLACKWELL: Rescue crews from all over the world are headed to Venezuela to try to save trapped survivors after the earthquake. The death toll from those two devastating quakes is now above 1,400. More than three days have passed since the earthquakes and chances of survival dropped rapidly after 72 hours without water. Temporary shelters have been established in some areas to house more than 3,000 families that have lost their homes.\n\nJournalist Mary Triny Mena is on the ground for us there in Caracas. Mary, tell us -- I see the weather is pretty bad. What's going on there?\n\nMARY TRINY MENA, JOURNALIST: Good morning, Victor. As you can see, it's raining in Caracas. It is important to notice that this could affect the work of rescue teams that are in the ground trying to bring more people, trying to save more people alive.\n\nThere's still hope to find more Venezuelans that are trapped behind the rubble. Acting President Rodriguez shown an image of a boy's refuge yesterday and he was alive. So authorities say there's still a chance, a little chance, but there's still a chance to find people alive.\n\nThey need silence and they need good conditions in order to listen if somebody is yelling or asking for help. Other things that we have witnessed is people living in tents waiting for approval to return to their buildings in large residential areas. That even though their buildings didn't collapse, they need to be checked by a specialist.\n\nSo it is -- those are hard conditions to work right now for rescue teams since the situation and the conditions on the ground is getting more complex as the hours goes by.\n\nBLACKWELL: Yes. And what they don't need is another challenge as presented by that weather we see.\n\nMary Triny Mena, thank you so much for the report.\n\nThe race to this November's midterm elections heating up in Georgia. Incumbent Democrat Senator Jon Ossoff is facing Trump endorsed representative Mike Collins. My colleague Manu Raju spoke with Senator Ossoff about the race and being a target of President Trump.\n\nMANU RAJU, CNN CHIEF CONGRESSIONAL CORRESPONDENT: You have any thoughts on the nicknames Trump has given you?\n\nSEN. JON OSSOFF (D), GEORGIA: I don't care about nicknames, but I think what is widely understood across the country and the entire world is that this President has humiliated himself through the failure of his foreign policy in the Middle East. His approval rating sits at 34 percent. While Americans pay more than they ever have for just about everything, he adorns his office in gold.\n\nWhile cancer patients face down the prospect of losing health coverage, he builds a monument to himself. I think this is a failed lame duck President who has cemented his legacy in disgrace.\n\nBLACKWELL: You can watch that interview with Senator Ossoff and his Republican opponent for Senate Representative Mike Collins. That's coming up on Inside Politics with Manu Raju starting at 8:00 this morning.\n\nThree firefighters were killed overnight while battling fast moving wildfires near the Colorado-Utah border. Two others were injured, taken to the hospital. They were part of a crew responding to the Knowles and Gore fires in Mesa County, Colorado.\n\nThis morning, fires across western Colorado and parts of Utah are still growing. Colorado's governor has declared a disaster emergency. In Utah, some communities near the Cottonwood fire have been told to leave their homes. That fire has burned more than 92,000 acres and is still not contained.\n\nJoining me now is Jamie Barnes, the director of Utah Forestry, Fire and State Lands. Jamie, good morning to you. The latest numbers on Cottonwood, is that still 92,000? And what do we know about expansion or containment?\n\nJAMIE BARNES, UTAH FORESTRY, FIRE AND STATE LANDS DIRECTOR: Yes, that is still 92,000 acres right now. We'll receive new acreage counts today. Right now, that fire is 0 percent contained.\n\nBLACKWELL: As I was reading it on the Cottonwood fire, there are so many fires burning. You've got the wild goose, the maple peak, the cherry. How many fires are active across the state right now?\n\nBARNES: Yes, so right now we're managing five large fires. We have seen many, many small fires that have been started across the state, many of them recently due to red flag warnings that we've been in that have been from lightning caused. So, a lot going on here in Utah right now.\n\nVICTOR BLACKWELL, CNN ANCHOR: Yes. The governor has said that it is as bleak as it's ever been. Less than a week out from Independence Day. A lot of people like to pop off their fireworks. Those have been heavily restricted across the state. Just help us understand the ingredients, the landscape there that's making these so hard to fight and so easy to start.\n\nBARNES: Yes. So, overall, we're seeing, you know, erratic fire behavior due to dry fuels and historic drought conditions. We're seeing these fires make large runs. When we talk about the Cottonwood fire, we estimate that fire was making runs at about 1,000 acres per hour. So, really unprecedented behavior on that fire.\n\nSome of these areas in Utah have seen little to no precipitation for at least probably 20 to 30 days now. We did see some storms try to push through the area the last couple days, but again, those produced some dry lightning. We're in drought, historical drought conditions. The fuels are dry. The fuels are actually combustible at this point. It's really like nothing we've ever seen before. You talk to veteran firefighters, they say, these are fuels that we've just never seen them burn like this before.\n\nWe've got low soil moisture. It's really lined up to be a really severe fire season. It started off quick. We've burned over 200,000 acres, which in some seasons we don't even hit that many acres in a full season.\n\nSo, Smoky Valleys, we've really been pushing that, you know, a lot of these fires have been human caused. We need to see a behavior change with that, hence the reason for the firework ban. We've been in stage two fire restrictions now, but we're really hoping for some cooler temps and some recovery on some of these so we can start to get some containment on some of these fires. As other states across the western United States start to see fires, we will be in competition for resources.\n\nBLACKWELL: I've read that the winds there are actually making it tough to keep these water bombers in the air. What's the expectation for today if you'll be able to get these aircraft to just drop water where you can on these fires?\n\nBARNES: Yes, I'm hopeful that today is going to be a better day. It was pretty crazy the last two days. We saw a little relief yesterday. We're supposed to get some relief today, and I'm hopeful today that with that relief we can get some containment percentage behind us and we can keep aviation flying. But yes, those winds we saw anywhere from 30 to 60 miles per hour in some areas of Utah yesterday.\n\nBLACKWELL: I know the work is exhausting. Jamie Barnes, thank you for your time and the work you're doing.\n\nLet's turn now to CNN meteorologist Allison Chinchar. I mean, not just the ingredients to start the fire, but the weather's keeping them from fighting it.\n\nALLISON CHINCHAR, CNN METEOROLOGIST: Right, especially those winds, you talked about the airplanes. Now, she was talking about, you know, 30 to 60 mile per hour winds. Today, it'll be more like 20 to 50. So, they're still there, maybe slightly lower than they were yesterday, which I mean, at this point, any little bit helps.\n\nBut yes, a 40- to 50-mile per hour wind not only makes it difficult for those planes to get out there, but it also just fuels and fans all of those fires that are already out. So, that is still going to be a concern today. That's why you have all of these red flag warnings.\n\nIt's not just in Utah. You also have them across portions of Colorado, Arizona, and New Mexico, because all of those states have those ideal conditions for the fires. We're talking low humidities, very gusty winds, and very hot conditions too.\n\nNow, it's been on the cooler side the last few days out to the west. The heat has really kind of been just east of the Rockies, but we're going to start to see a little bit of a shift here over the coming days. You're really going to start to see a lot of that heat building across the east, but also more of that heat or the cooler temperatures taking over the west. That may sound like a good thing on the surface, but a lot of times what that can do is that can also kick up the winds. So, this is going to be a concern for them over the next several days.\n\nAnd then finally, we start to see that cooler air and the winds begin to appease a little bit out west. However, the heat really actually continues to build into the east, and that's what you're seeing here. Look at all of these heat alerts across areas so far in the Midwest. You've got some in the southeast and even areas of the northeast.\n\nAnd more and more of those heat alerts are going to start to fill in in the coming days, especially by Wednesday, Thursday, and Friday of the upcoming week. That's because we're going to see those temperatures rise.\n\nTake a look at Minneapolis, OK. Today, high temperature of 76, low 90s by the time we get to Tuesday. Chicago going from 80 to 94, and St. Louis going to top out just barely below triple digits by the time we get to Tuesday.\n\nIt's a little bit more of a delayed effect to the northeast. That doesn't mean it's not going to happen. It just means it's going to take a few extra days. So, take, for example, D.C. Look at this, 101, 104, 104. So, it's really that Wednesday through Friday that's going to be the key timeline. The concern here with Washington, D.C. specifically, you have a lot of folks headed there for the big 250th anniversary around July 4th holidays. So, you've got a lot of people that are going to be outside wanting to celebrate in that intense heat.\n\nOther people maybe say going to New York City to celebrate as well. You're also going to have triple digits. In fact, it kind of peaks Thursday and Friday even as we head into the weekend. So, we talked about this earlier. Stay hydrated. Victor.\n\nBLACKWELL: With water.\n\nCHINCHAR: Water. Water is the key.\n\nBLACKWELL: I'm going to be in New York for the fourth and it's going to be what, 95?\n\nCHINCHAR: Get you some water. Lots of it.\n\nBLACKWELL: I have to get myself a couple of popsicles.\n\nCHINCHAR: That too. Yes.\n\nBLACKWELL: All right. Allison Chinchar. Hey, the Theodore Roosevelt Presidential Library opened this week, but probably not where you think it is. And if you're heading out, remember, you can always stream my show from anywhere in the U.S. Just go to that CNN app. You can also go to cnn.com/watch.\n\nBLACKWELL: Top stories for you as we head into a new week. Alex Murdaugh, the former South Carolina attorney accused of killing his wife and son is expected to appear in court tomorrow. It'll be his first hearing since his murder convictions were overturned on appeal.\n\nTitans of the music industry will gather Monday to say goodbye to Clive Davis. Record executive died June 22nd. He was 94 years old. Davis founded Arista Records and signed artists including Whitney Houston, Grateful Dead, Barry Manilow, Bruce Springsteen, Alicia Keys, Jennifer Hudson. Just some of the artists expected to attend the funeral in New York on your screen there.\n\nPresident Trump and all living past presidents have been invited to the opening of the presidential library near Theodore Roosevelt National Park in North Dakota. The new library focuses on the former president's cattle ranching and cowboy days in the 1880s. President Trump is expected to attend. If you're traveling for Independence Day, expect lots of traffic.\n\nOK. AAA expects, estimates that more than 60 million people will drive to their destinations between today and Sunday, July 5th. Some good news for you though, as CNN's Jen Sullivan reports, gas prices are coming down.\n\nJENN SULLIVAN, CNN CORRESPONDENT (voice-over): The one-week countdown to July 4th has begun and some Americans are already traveling for the big America 250 celebrations this year.\n\nAIXA DIAZ, AAA SPOKESPERSON: We over the years saw that people really either take off the entire week or they'll leave the weekend before.\n\nSULLIVAN (voice-over): AAA spokesperson Aixa Diaz says more than 72 million Americans are expected to travel 50 miles or more between June 27th through July 5th. That would be a new record. Most travelers will drive with nearly 62 million hitting the road and there's good news when it comes to gas prices.\n\nDIAZ: We are seeing some improvement there and that might motivate some people who maybe weren't planning to take a road trip to jump in the car and do it.\n\nSULLIVAN (voice-over): As of Saturday, the national average for a gallon of regular gas was $3.88. Prices have dropped 58 cents in the last month, but they're still higher than a year ago according to AAA.\n\nTOM KLOZA, CHIEF ENERGY ADVISER, GULF OIL: Gasoline prices are dropping and in the next 30 days you're going to see them drop.\n\nSULLIVAN (voice-over): Tom Kloza with Gulf Oil says prices have dropped because more tankers carrying oil are starting to travel through the Strait of Hormuz.\n\nKLOZA: It's open enough right now so that the next 30 or 40 days I think you'll see a lot of oil and you'll see generally weak prices.\n\nSULLIVAN (voice-over): The Strait of Hormuz has seen more traffic in the last week than it has in the past three months. Since the war with Iran began, maritime traffic in the Strait had essentially halted, disrupting oil production and sending gas prices soaring.\n\nIt appeared the U.S. and Iran were close to finalizing a memorandum of understanding, but as tensions escalate with Iran again, there's fear traffic could halt again which could cause gas prices to go up as millions of Americans get ready to travel this week.\n\nI'm Jen Sullivan reporting.\n\nBLACKWELL: And according to AAA, the worst time to travel by car will be Sunday, July 5th between noon and 6:00 p.m. as people are coming back home getting ready for work the next day.\n\nAll right. Still ahead, World Cup fans came to the United States for soccer, but they're leaving with a taste of things unique to our beautiful country. From barbecue to big gulps, the local flavors are becoming part of the World Cup experience.\n\nUNIDENTIFIED FEMALE: Buc-ee's.\n\nUNIDENTIFIED FEMALE: This is their smallest size. Oh, my gosh. America.\n\nUNIDENTIFIED FEMALE: Where's the mascot?\n\nBLACKWELL: You got to love Buc-ee's. All right. Tonight, the Battle of the Alamo becomes a rallying cry for the Texas Revolution reshaping North America and its balance of power.\n\nUNIDENTIFIED MALE: My family's part of the original families that settled here in Texas. They came in under Spain. When I was a teenager, we learned about the Alamo. We grew up knowing Davy Crockett as a true American hero, but later on we found out that we had family involved in the Battle of the Alamo. And that kind of changed everything for us.\n\nBut later on, we found out that we had family involved in the Battle of the Alamo. That kind of changed everything for us. To think that my ancestors were here and fought to build this country and help change the borders of the United States.\n\nBLACKWELL: The new episode of the CNN original series, \"This Land,\" airs tonight at nine on CNN and tomorrow on the CNN app.\n\n(COMMERCIAL BREAK) BLACKWELL: Well, Messi started on the bench for Argentina last night, but he found a way to get"
+    }
+  ]
+}
