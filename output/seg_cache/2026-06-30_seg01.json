@@ -1,0 +1,514 @@
+{
+  "date": "2026-06-30",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-30/segment/01",
+  "vocabulary": [
+    {
+      "word": "mixed bag",
+      "phonetic": "/mɪkst bæɡ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "好坏参半的结果",
+      "en": "a varied collection of things, especially one that contains both good and bad elements",
+      "excerpt": "Supreme Court Delivers Mixed Bag of Decisions",
+      "example_cn": "最高法院的裁决好坏参半。"
+    },
+    {
+      "word": "unseat",
+      "phonetic": "/ʌnˈsiːt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "使下台，罢免",
+      "en": "to remove someone from a position of power",
+      "excerpt": "Democratic Socialist Looks to Unseat Incumbent in Colorado Primary",
+      "example_cn": "民主社会主义者试图在科罗拉多州初选中击败现任议员。"
+    },
+    {
+      "word": "incumbent",
+      "phonetic": "/ɪnˈkʌmbənt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "现任者",
+      "en": "the person who currently holds a particular office or position",
+      "excerpt": "Democratic Socialist Looks to Unseat Incumbent in Colorado Primary",
+      "example_cn": "现任议员面临挑战。"
+    },
+    {
+      "word": "birthright citizenship",
+      "phonetic": "/ˈbɜːrθraɪt ˈsɪtɪzənʃɪp/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "出生公民权",
+      "en": "the right of anyone born in a country to be a citizen of that country",
+      "excerpt": "Will today's ruling on birthright citizenship be another win for the executive branch?",
+      "example_cn": "关于出生公民权的裁决会是行政部门的又一次胜利吗？"
+    },
+    {
+      "word": "executive branch",
+      "phonetic": "/ɪɡˈzekjətɪv bræntʃ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "行政部门",
+      "en": "the branch of government that is responsible for implementing and enforcing laws",
+      "excerpt": "Will today's ruling on birthright citizenship be another win for the executive branch?",
+      "example_cn": "行政部门由总统领导。"
+    },
+    {
+      "word": "watchdog",
+      "phonetic": "/ˈwɒtʃdɒɡ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "监督者，监察机构",
+      "en": "a person or group that monitors the activities of others to ensure they do not act illegally or unethically",
+      "excerpt": "You will not be watchdogs anymore. You will be lapdogs.",
+      "example_cn": "他们不再是监督者，而是成了走狗。"
+    },
+    {
+      "word": "lapdog",
+      "phonetic": "/ˈlæpdɒɡ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "走狗，唯命是从的人",
+      "en": "a person who is completely under the control of someone else and does whatever they are told",
+      "excerpt": "You will not be watchdogs anymore. You will be lapdogs.",
+      "example_cn": "他们被指责为政府的走狗。"
+    },
+    {
+      "word": "liability",
+      "phonetic": "/ˌlaɪəˈbɪləti/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "不利因素，负担",
+      "en": "something that puts someone at a disadvantage or causes problems",
+      "excerpt": "Will her past tweets praising communism be a liability?",
+      "example_cn": "她过去的推文会成为她的不利因素吗？"
+    },
+    {
+      "word": "setback",
+      "phonetic": "/ˈsetbæk/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "挫折，阻碍",
+      "en": "a problem that delays or prevents progress, or makes things worse than they were",
+      "excerpt": "The Supreme Court enters the final day of its session today after already giving Donald Trump several key victories and some setbacks.",
+      "example_cn": "尽管遭遇了一些挫折，项目仍在继续。"
+    },
+    {
+      "word": "recess",
+      "phonetic": "/rɪˈses/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "休会期",
+      "en": "a period of time when a court or parliament does not meet",
+      "excerpt": "it's just a few hours before the Supreme Court will publish their final decisions of this term and then head for summer recess.",
+      "example_cn": "最高法院即将进入夏季休会期。"
+    },
+    {
+      "word": "executive order",
+      "phonetic": "/ɪɡˈzekjətɪv ˈɔːrdər/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "行政命令",
+      "en": "a rule or order issued by the president to an executive branch of government and having the force of law",
+      "excerpt": "something the president tried to end with an executive order on his first day in office last year.",
+      "example_cn": "总统签署了一项行政命令。"
+    },
+    {
+      "word": "skepticism",
+      "phonetic": "/ˈskeptɪsɪzəm/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "怀疑态度",
+      "en": "an attitude of doubting that claims or statements are true",
+      "excerpt": "I don't know if there are particular justices you noticed, who expressed skepticism.",
+      "example_cn": "法官们对此表示怀疑。"
+    },
+    {
+      "word": "fringe view",
+      "phonetic": "/frɪndʒ vjuː/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "边缘观点",
+      "en": "an opinion that is not shared by most people",
+      "excerpt": "Now, that is a fringe view in American law.",
+      "example_cn": "这在法律界是一种边缘观点。"
+    },
+    {
+      "word": "mainstream",
+      "phonetic": "/ˈmeɪnstriːm/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "主流",
+      "en": "the ideas, attitudes, or activities that are shared by most people",
+      "excerpt": "It's not a widely held view in the legal mainstream.",
+      "example_cn": "这种观点并非法律界主流。"
+    },
+    {
+      "word": "oral argument",
+      "phonetic": "/ˈɔːrəl ˈɑːrɡjumənt/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "口头辩论",
+      "en": "a presentation to a judge or appellate court in which a lawyer argues the client's case",
+      "excerpt": "And as we saw at the oral argument in this case",
+      "example_cn": "在口头辩论中，律师陈述了论点。"
+    },
+    {
+      "word": "uphill battle",
+      "phonetic": "/ˌʌpˈhɪl ˈbætl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "艰难的斗争",
+      "en": "a very difficult struggle",
+      "excerpt": "the administration just has an uphill battle on this one.",
+      "example_cn": "政府在这件事上面临一场硬仗。"
+    },
+    {
+      "word": "tear down",
+      "phonetic": "/teər daʊn/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "批评，诋毁",
+      "en": "to criticize someone or something severely",
+      "excerpt": "tearing them down over other rulings they've made",
+      "example_cn": "他因其他裁决而批评他们。"
+    },
+    {
+      "word": "mail-in ballot",
+      "phonetic": "/ˈmeɪl ɪn ˈbælət/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "邮寄选票",
+      "en": "a ballot that is sent by mail to voters who then return it by mail",
+      "excerpt": "the mail-in voting and the voting fight",
+      "example_cn": "邮寄选票在选举中越来越常见。"
+    },
+    {
+      "word": "postmark",
+      "phonetic": "/ˈpoʊstmɑːrk/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "盖邮戳",
+      "en": "to stamp a mark on a letter or package showing the date and place of posting",
+      "excerpt": "if things are postmarked by the day, it's fine.",
+      "example_cn": "只要信件盖上当天的邮戳就没问题。"
+    },
+    {
+      "word": "redistrict",
+      "phonetic": "/ˌriːˈdɪstrɪkt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "重新划分选区",
+      "en": "to divide a region into new political districts",
+      "excerpt": "they're not fighting redistricting, mail-in ballot, like, multiple battles?",
+      "example_cn": "他们不再为重新划分选区而斗争。"
+    },
+    {
+      "word": "insurgent",
+      "phonetic": "/ɪnˈsɜːrdʒənt/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "反叛的，起义的",
+      "en": "opposing the government or the people in power",
+      "excerpt": "And when you have these insurgent candidates",
+      "example_cn": "这些反叛的候选人挑战了现任者。"
+    },
+    {
+      "word": "incumbent",
+      "phonetic": "/ɪnˈkʌmbənt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "现任者",
+      "en": "the person who currently holds a particular office or position",
+      "excerpt": "a 30-year-long incumbent, Diana Degette",
+      "example_cn": "现任议员已任职30年。"
+    },
+    {
+      "word": "Democratic socialist",
+      "phonetic": "/ˌdeməˈkrætɪk ˈsoʊʃəlɪst/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "民主社会主义者",
+      "en": "a person who believes in a political system that combines democracy with socialist economic policies",
+      "excerpt": "29-year-old lawyer and Democratic socialist Melat Kiros.",
+      "example_cn": "她是一名民主社会主义者。"
+    },
+    {
+      "word": "establishment",
+      "phonetic": "/ɪˈstæblɪʃmənt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "当权派，建制派",
+      "en": "the people in positions of power within a society or organization",
+      "excerpt": "establishment Democrats are wondering if this wave will crash into Colorado today.",
+      "example_cn": "建制派民主党人担心这股浪潮。"
+    },
+    {
+      "word": "purple state",
+      "phonetic": "/ˈpɜːrpl steɪt/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "摇摆州",
+      "en": "a state where both Democratic and Republican candidates have a reasonable chance of winning",
+      "excerpt": "Colorado as a place where the Democrats who appealed in purple states had sort of made a home",
+      "example_cn": "科罗拉多州曾是一个摇摆州。"
+    },
+    {
+      "word": "gerontocracy",
+      "phonetic": "/ˌdʒerənˈtɒkrəsi/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "老人统治，老人政治",
+      "en": "a government or society ruled by old people",
+      "excerpt": "I'm the first to be out here talking about gerontocracy.",
+      "example_cn": "我率先谈论老人政治问题。"
+    },
+    {
+      "word": "affinity group",
+      "phonetic": "/əˈfɪnəti ɡruːp/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "亲和团体，志趣相投的群体",
+      "en": "a group of people who share a common interest or goal",
+      "excerpt": "there's some affinity groups in Congress",
+      "example_cn": "国会中存在一些亲和团体。"
+    },
+    {
+      "word": "wilderness",
+      "phonetic": "/ˈwɪldərnəs/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "在野，政治荒野",
+      "en": "a situation in which a person or group is no longer in a position of power or influence",
+      "excerpt": "when a party is out of power and sort of in the wilderness",
+      "example_cn": "该党处于在野状态。"
+    },
+    {
+      "word": "Tea Party",
+      "phonetic": "/tiː ˈpɑːrti/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "茶党（美国保守派政治运动）",
+      "en": "a conservative political movement in the United States that emerged in 2009",
+      "excerpt": "And that led, in some part, to the Tea Party",
+      "example_cn": "这在一定程度上导致了茶党的兴起。"
+    },
+    {
+      "word": "manifesto",
+      "phonetic": "/ˌmænɪˈfestəʊ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "宣言",
+      "en": "a written statement of the beliefs, aims, and policies of a political party or group",
+      "excerpt": "This is our manifesto.",
+      "example_cn": "这是我们的宣言。"
+    },
+    {
+      "word": "term-limited",
+      "phonetic": "/tɜːrm ˈlɪmɪtɪd/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "受任期限制的",
+      "en": "restricted by a limit on the number of terms a person can serve in office",
+      "excerpt": "Donald Trump, who is term-limited",
+      "example_cn": "特朗普受任期限制。"
+    },
+    {
+      "word": "marginal seat",
+      "phonetic": "/ˈmɑːrdʒɪnl siːt/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "边缘席位（胜负难料的选区）",
+      "en": "a parliamentary seat that is held by a small majority and could easily change hands",
+      "excerpt": "It's a true marginal seat that we're talking about.",
+      "example_cn": "这是一个真正的边缘席位。"
+    },
+    {
+      "word": "freshman",
+      "phonetic": "/ˈfreʃmən/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "新手，一年级议员",
+      "en": "a person who is in their first year of something, especially a politician in their first term",
+      "excerpt": "Also, there's a freshman Republican.",
+      "example_cn": "还有一位共和党新人。"
+    },
+    {
+      "word": "ALS",
+      "phonetic": "/ˌeɪ el ˈes/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "肌萎缩侧索硬化症（渐冻症）",
+      "en": "a serious disease that affects the nerve cells and causes progressive loss of muscle control",
+      "excerpt": "Chris Johnson revealed in a TV interview that he suffers from ALS.",
+      "example_cn": "克里斯·约翰逊透露他患有渐冻症。"
+    },
+    {
+      "word": "computerized speech generation device",
+      "phonetic": "/kəmˈpjuːtəraɪzd spiːtʃ ˌdʒenəˈreɪʃn dɪˈvaɪs/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "计算机语音生成设备",
+      "en": "a device that produces spoken words from text input, used by people who cannot speak",
+      "excerpt": "he was only able to communicate through a computerized speech generation device.",
+      "example_cn": "他只能通过语音生成设备交流。"
+    },
+    {
+      "word": "upset",
+      "phonetic": "/ʌpˈset/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "冷门，爆冷",
+      "en": "an unexpected result in a competition",
+      "excerpt": "Paraguay shocked Germany in a massive upset last night on penalties.",
+      "example_cn": "巴拉圭爆冷击败德国。"
+    },
+    {
+      "word": "penalty",
+      "phonetic": "/ˈpenəlti/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "点球",
+      "en": "a penalty kick in soccer",
+      "excerpt": "Paraguay shocked Germany in a massive upset last night on penalties.",
+      "example_cn": "比赛进入点球大战。"
+    },
+    {
+      "word": "Round of 16",
+      "phonetic": "/raʊnd əv sɪksˈtiːn/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "16强赛",
+      "en": "the stage of a tournament where 16 teams remain",
+      "excerpt": "Paraguay advancing to the Round of 16 later this week.",
+      "example_cn": "巴拉圭晋级16强。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "The Supreme Court has said, no, we will not have that independent check. You will not be watchdogs anymore. You will be lapdogs.",
+      "cn": "最高法院已经说了，不，我们不会有那种独立监督。你们不再是监督者了。你们将成为走狗。",
+      "structure": "复合句：主句 + 直接引语（包含三个并列句）",
+      "analysis": "该句为直接引语，包含三个并列的简单句，语气强烈，通过\"watchdogs\"和\"lapdogs\"的对比表达对最高法院裁决的批评。"
+    },
+    {
+      "en": "The Supreme Court enters the final day of its session today after already giving Donald Trump several key victories and some setbacks.",
+      "cn": "最高法院今天进入其开庭期的最后一天，此前已经给了唐纳德·特朗普几次关键胜利和一些挫折。",
+      "structure": "简单句：主语 + 谓语 + 宾语 + 时间状语从句",
+      "analysis": "主句为\"The Supreme Court enters the final day of its session today\"，后接\"after\"引导的时间状语从句，说明在此之前发生的事件。"
+    },
+    {
+      "en": "Expected among those rulings, a key one on birthright citizenship, something the president tried to end with an executive order on his first day in office last year.",
+      "cn": "在这些裁决中，预计将有一项关于出生公民权的关键裁决，这是总统去年上任第一天试图通过行政命令废除的。",
+      "structure": "省略句：省略了\"is\"，完整为\"A key one on birthright citizenship is expected among those rulings\"，后接同位语从句",
+      "analysis": "句首\"Expected among those rulings\"为倒装结构，主语\"a key one\"后接\"on birthright citizenship\"作定语，\"something\"引导同位语从句解释说明。"
+    },
+    {
+      "en": "Now, that is a fringe view in American law. Let's be clear. It's not a widely held view in the legal mainstream.",
+      "cn": "现在，这是美国法律中的一种边缘观点。我们要清楚。这不是法律主流中广泛持有的观点。",
+      "structure": "三个简单句并列",
+      "analysis": "通过三个短句强调该观点的非主流性，语气坚定。"
+    },
+    {
+      "en": "You have heard him for months now, attacking justices on the Supreme Court by name, who he thinks are going to potentially rule against him on birthright citizenship; tearing them down over other rulings they've made that have been directly related to tariffs and other issues.",
+      "cn": "几个月来，你听到他点名攻击最高法院的法官，他认为这些法官可能会在出生公民权问题上对他不利；他还因他们做出的与关税和其他问题直接相关的其他裁决而诋毁他们。",
+      "structure": "复合句：主句 + 现在分词短语作伴随状语（包含定语从句）",
+      "analysis": "主句为\"You have heard him\"，后接两个现在分词短语\"attacking...\"和\"tearing...\"作伴随状语。第一个分词短语中包含\"who\"引导的定语从句修饰\"justices\"，第二个分词短语中包含\"that\"引导的定语从句修饰\"rulings\"。"
+    },
+    {
+      "en": "But the way that he's been raising birthright citizenship for months in this context suggests that the administration knows, like you said, that this was a long shot.",
+      "cn": "但他几个月来在这种背景下提出出生公民权的方式表明，正如你所说，政府知道这希望渺茫。",
+      "structure": "复合句：主句 + 定语从句 + 宾语从句",
+      "analysis": "主句主语为\"the way\"，后接\"that\"引导的定语从句修饰\"way\"，谓语\"suggests\"后接\"that\"引导的宾语从句，其中包含插入语\"like you said\"。"
+    },
+    {
+      "en": "And what that causes you to do is not spend any money talking to voters over a long period of time, because you're safe cycle after cycle.",
+      "cn": "而这导致你做的事情是，长期不花钱与选民沟通，因为你一个又一个周期都很安全。",
+      "structure": "复合句：主语从句 + 系表结构 + 原因状语从句",
+      "analysis": "\"What that causes you to do\"为主语从句，系动词\"is\"后接不定式短语\"not spend...\"作表语，\"because\"引导原因状语从句。"
+    },
+    {
+      "en": "And when you have these insurgent candidates where there's money being spent in a time where incumbents are looked at as poison, Democrat or Republican.",
+      "cn": "当你有了这些反叛的候选人，在现任者被视为毒药的时候，无论民主党还是共和党，都有资金投入。",
+      "structure": "复合句：时间状语从句 + 定语从句",
+      "analysis": "\"when\"引导时间状语从句，其中包含\"where\"引导的定语从句修饰\"candidates\"，以及\"where\"引导的定语从句修饰\"time\"。"
+    },
+    {
+      "en": "I think the thing that I wrestle with is that there are so many, both progressives and even, let's say, Congressional Black Caucus has this problem.",
+      "cn": "我认为我纠结的是，有这么多人，无论是进步派，甚至，比如说，国会黑人核心小组也有这个问题。",
+      "structure": "复合句：主句 + 宾语从句（包含定语从句和表语从句）",
+      "analysis": "主句为\"I think\"，后接\"that\"引导的宾语从句，其中主语\"the thing\"后接\"that\"引导的定语从句，系动词\"is\"后接\"that\"引导的表语从句。"
+    },
+    {
+      "en": "And it's very tough when you're fighting against a wave.",
+      "cn": "当你与浪潮抗争时，这是非常艰难的。",
+      "structure": "复合句：主句 + 时间状语从句",
+      "analysis": "主句为\"it's very tough\"，\"when\"引导时间状语从句。"
+    },
+    {
+      "en": "But it's also -- it's also important to note we're talking about blue district primaries in blue districts, in blue states.",
+      "cn": "但同样重要的是，我们谈论的是蓝色选区、蓝色州的蓝色选区初选。",
+      "structure": "复合句：主句 + 宾语从句",
+      "analysis": "主句为\"it's important to note\"，后接省略\"that\"的宾语从句。"
+    },
+    {
+      "en": "It's one of those 40 seats that is literally 50/50.",
+      "cn": "这是那40个真正五五开的席位之一。",
+      "structure": "复合句：主句 + 定语从句",
+      "analysis": "主句为\"It's one of those 40 seats\"，后接\"that\"引导的定语从句修饰\"seats\"。"
+    },
+    {
+      "en": "This seat will determine who controls Congress and many seats just like that.",
+      "cn": "这个席位将决定谁控制国会以及许多类似的席位。",
+      "structure": "复合句：主句 + 宾语从句",
+      "analysis": "主句为\"This seat will determine\"，后接\"who\"引导的宾语从句。"
+    },
+    {
+      "en": "I'm a nobody. I'm just a young man who spent five days trapped beneath a building.",
+      "cn": "我是个无名小卒。我只是一个被困在建筑物下五天的年轻人。",
+      "structure": "两个简单句，第二句包含定语从句",
+      "analysis": "第一句为简单句，第二句主语为\"I\"，后接\"who\"引导的定语从句修饰\"young man\"。"
+    },
+    {
+      "en": "As far as I know, I was just informed that I was the only person in that building who was found alive.",
+      "cn": "据我所知，我刚刚被告知，我是那栋楼里唯一被发现活着的人。",
+      "structure": "复合句：状语从句 + 主句 + 宾语从句 + 定语从句",
+      "analysis": "\"As far as I know\"为状语从句，主句为\"I was just informed\"，后接\"that\"引导的宾语从句，其中包含\"who\"引导的定语从句修饰\"person\"。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "美国最高法院裁决",
+      "content": "美国最高法院在2026年6月30日发布了一系列裁决，涉及总统权力、出生公民权、独立机构官员任免等议题。裁决结果好坏参半，总统特朗普获得了一些关键胜利，但也遭遇了挫折。其中，关于出生公民权的裁决备受关注，特朗普曾试图通过行政命令废除该权利，但最高法院可能不会支持。此外，法院还裁定总统可以随意解雇独立机构官员，但联邦储备委员会因其特殊性而例外。",
+      "keywords": "Supreme Court, birthright citizenship, executive power, independent agencies, Federal Reserve"
+    },
+    {
+      "title": "科罗拉多州初选与民主党内部代际冲突",
+      "content": "科罗拉多州举行初选，29岁的民主社会主义者Melat Kiros挑战已任职30年的现任议员Diana Degette。这反映了民主党内部建制派与进步派之间的代际冲突，以及选民对长期执政的现任者的不满。类似情况也在纽约、华盛顿特区等地出现，民主社会主义者正在崛起。",
+      "keywords": "Colorado primary, Democratic socialist, incumbent, generational shift, progressive"
+    },
+    {
+      "title": "委内瑞拉地震救援",
+      "content": "委内瑞拉发生地震，造成约1700人死亡，5000人受伤，多人失踪。救援人员从废墟中救出幸存者，包括一名12岁儿童和一名被困5天的21岁男子。还有宠物被救出。",
+      "keywords": "Venezuela, earthquake, rescue, survivor, rubble"
+    },
+    {
+      "title": "前NFL球星克里斯·约翰逊患渐冻症",
+      "content": "前NFL跑卫克里斯·约翰逊（Chris Johnson）在电视采访中透露自己患有肌萎缩侧索硬化症（ALS），只能通过语音生成设备交流。他是NFL历史上仅有的9个单赛季冲球超过2000码的球员之一。",
+      "keywords": "Chris Johnson, NFL, ALS, amyotrophic lateral sclerosis, speech generation device"
+    },
+    {
+      "title": "世界杯爆冷：巴拉圭淘汰德国",
+      "content": "在世界杯比赛中，巴拉圭通过点球大战击败四届冠军德国队，晋级16强。这是德国队首次在世界杯点球大战中失利。",
+      "keywords": "World Cup, Paraguay, Germany, upset, penalty shootout"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nSupreme Court Delivers Mixed Bag of Decisions; Democratic Socialist Looks to Unseat Incumbent in Colorado Primary. Aired 6-6:30a ET\n\nAired June 30, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nBRAD SMITH, CNN ANCHOR: -- Indianapolis International Airport. This was just one of two grenades inside a passenger's checked bag.\n\nThe passenger was immediately questioned by officials. They haven't said yet if there will be charges. We will continue to track any developments there.\n\nThat does it for CNN HEADLINE EXPRESS. I'm Brad Smith. CNN THIS MORNING with Audie Cornish starts right now.\n\nAUDIE CORNISH, CNN ANCHOR: Today in the group chat: the Supreme Court. Will it give Donald Trump more presidential power? And will today's ruling on birthright citizenship be another win for the executive branch?\n\nUNIDENTIFIED FEMALE: The Supreme Court has said, no, we will not have that independent check. You will not be watchdogs anymore. You will be lapdogs.\n\nCORNISH: Is the Democratic Party tipping to the extreme? What a Michigan Senate candidate says about the party's future.\n\nUNIDENTIFIED MALE: I'm a nobody. I'm just a young man who spent five days trapped beneath a building.\n\nCORNISH: Miracles emerge from the devastation in Venezuela. People, even pets being rescued from rubble.\n\nDARIALIZA AVILA CHEVALIER (D), NEW YORK CONGRESSIONAL CANDIDATE: I do regret my tweets. And that's something that I think has brought a lot of division, and that's something I regret.\n\nCORNISH: A rising star on the left answering for her old social media post. Will her past tweets praising communism be a liability?\n\nUNIDENTIFIED FEMALE: The president said it himself. It is the largest expansion of executive power in over 100 years, and that is exactly why we should be worried about it.\n\nCORNISH: The Supreme Court enters the final day of its session today after already giving Donald Trump several key victories and some setbacks. So, where will these final cases fall?\n\nGood morning, everybody. I'm Audie Cornish, and it's just a few hours before the Supreme Court will publish their final decisions of this term and then head for summer recess.\n\nExpected among those rulings, a key one on birthright citizenship, something the president tried to end with an executive order on his first day in office last year.\n\nUNIDENTIFIED MALE: Birthright citizenship. What are your thoughts? And will you accept it if it rules against you?\n\nDONALD TRUMP, U.S. PRESIDENT; Well, I guess I have to accept. It's the Supreme Court, so I'll accept. I think it's very bad for our nation.\n\nI don't know. It's up to them. But in terms of for the good of the country, it would be great if they did the -- they didn't allow it.\n\nCORNISH: Joining me now in the group chat, Francesca Chambers, White House correspondent for USA Today; Elliot Williams, CNN legal analyst and former federal prosecutor; Chuck Rocha, Democratic strategist and former senior adviser to the Bernie Sanders presidential campaigns; and Ashley Davis, former White House official under President George W. Bush.\n\nYou guys, thank you so much for being here. Starting with something easy. You know, the Supreme Court.\n\nCHUCK ROCHA, DEMOCRATIC STRATEGIST: That's easy.\n\nCORNISH: And it's been kind of a weird week for the White House, right? Like, something like mail-in ballots --\n\nELLIOT WILLIAMS, CNN LEGAL ANALYST: Yes.\n\nCORNISH: -- didn't quite work out. And I want to come to birthright citizenship. But first, can you talk to me about the -- the rejection of the attempt to fire Lisa Cook?\n\nWILLIAMS: Right. And --\n\nCORNISH: Because this was a weird one.\n\nWILLIAMS: It's a weird one.\n\nCORNISH: I'm not quite sure what happened in the end.\n\nWILLIAMS: I'll tell you exactly why. And they were able -- the court was able to treat the Federal Reserve different from other agencies for a host of different reasons.\n\nSomething that doesn't get talked a lot about is this idea that the Fed is funded differently than other entities. It's funded, in large part, on account of securities that it holds. Right?\n\nSo, they could treat it as not like a typical agency, like the kind that are funded by Congress, and they can carve it out and say that, because of the Fed's unique stature and -- and also, as a policy matter, because the Fed has the power to upend global markets, we have to keep it independent.\n\nNow, Amy Coney Barrett noted in a dissent that's kind of bonkers, because they're sort of being a little cute with treating some agencies one way and some another.\n\nNow, in terms of the specifics of Lisa Cook, she was accused of some --\n\nCORNISH: Mortgage fraud, yes.\n\nWILLIAMS: -- mortgage fraud and irregularities and was -- like, her termination was related to that. Right? Or at least her purported termination.\n\nIt's a little different with Rebecca Slaughter over at the Federal Trade Commission, because that was, Can we just fire because we don't want her? Because she doesn't comport with the agency's priorities, with the president's priorities? Pardon me.\n\nThe Supreme Court yesterday said that's fine.\n\nWILLIAMS: Just the president's ability to fire somebody who disagrees with his --\n\nCORNISH: We can fire people that are in independent agencies --\n\nCORNISH: -- if we're in the executive branch, except at the Fed, because they've got some special powers. WILLIAMS: They've got special juice.\n\nCORNISH: I want to then --\n\nASHLEY DAVIS, FORMER WHITE HOUSE OFFICIAL UNDER PRESIDENT GEORGE W. BUSH: My question is, though --\n\nDAVIS: -- for that, I think that you still have to nominate a Democrat within the party. It still has to be a Democrat nominee. So, her slot wouldn't go to a Republican nominee. It has to still go through Schumer.\n\nWILLIAMS: Well, that's what the law says, but who knows what --\n\nWILLIAMS: I mean, so, think about it this way. Yes, technically, a Democratic nominee could be put in the FTC or FTC or whatever else. And what stops the president from firing them the next day for -- for whatever reason that that president so chose?\n\nAccording to what the Supreme Court ruled yesterday, presidents now --\n\nCORNISH: Has the authority, yes.\n\nWILLIAMS: -- have vast authority to remove anybody for any reason that they want.\n\nCORNISH: OK. So, there are some reality checks to that power.\n\nCORNISH: People think maybe the birthright citizenship ruling will be one of those reality checks.\n\nCORNISH: Why was this considered a long shot? And I know we've heard the arguments since, so I don't know if there are particular justices you noticed, who expressed skepticism.\n\nWILLIAMS: Right, right. So big picture, the Constitution, 14th Amendment, says that all citizens born in the United States and subject to the jurisdiction thereof, are citizens of the United States. That has been a --\n\nCORNISH: And the Trump administration has taken a line we've heard in conservative circles for a long time, which is, hey, that was just an amendment for --\n\nCORNISH: -- the American descendants of slavery.\n\nCORNISH: And it didn't really mean much --\n\nCORNISH: -- for everyone else. So. what is happening? Why --\n\nWILLIAMS: And moreover, that line, \"subject to the jurisdiction thereof,\" means that it's -- it's a little bit squishier.\n\nNow, that is a fringe view in American law. Let's be clear. It's not a widely held view in the legal mainstream. And as we saw at the oral argument in this case, whether it's eight of the justices or seven of the justices, a lot of them are just not sympathetic to the idea.\n\nCORNISH: Oh, that's a big number.\n\nWILLIAMS: Yes. I -- I --\n\nCORNISH: We're not looking at, like, one or two.\n\nWILLIAMS: Hard to say and forget, you know -- and Lord strike me down for making a prediction that -- that's a little kooky. But it's just -- just looking at how the oral argument went.\n\nYou had John Roberts, the chief justice, saying right there in court, Look, the world has changed, but the Constitution has not. Or I think it was same world, different Constitution.\n\nHe is saying that, even though the country might have a different attitude toward immigration today than it did in 1789, the simple fact is, the Constitution is plainly clear on its face, and the administration just has an uphill battle on this one.\n\nSo, I think they lose. It's just hard to see how much.\n\nFRANCESCA CHAMBERS, WHITE HOUSE CORRESPONDENT, \"USA TODAY\": Jumping in as the resident White House correspondent on the panel, I think that President Donald Trump knows that.\n\nYou have heard him for months now, attacking justices on the Supreme Court by name, who he thinks are going to potentially rule against him on birthright citizenship; tearing them down over other rulings they've made that have been directly related to tariffs and other issues.\n\nBut the way that he's been raising birthright citizenship for months in this context suggests that the administration knows, like you said, that this was -- this was a long shot.\n\nCORNISH: One other thing. Chuck, I want to ask you about the mail-in voting and the voting fight, because in the end, the court seemed to say, look, if things are postmarked by the day, it's fine.\n\nBut this is still a major sort of talking point on the right. Does it feel like it is something that is helpful for Democrats going forward; that they're not fighting redistricting, mail-in ballot, like, multiple battles?\n\nROCHA: I think when you're talking about letting people legally vote, it's a good thing.\n\nAnd I think one of the message points we will have when there was a group text last night talking about this, a lot of these ballots are military ballots. People serving overseas, people that are on ships. This is a big part of why we even created this law --\n\nROCHA: -- is that when you're overseas and you're military, you should be able to vote in your home district where your house resides. And I think that's a winning message every day when you're letting Americans, especially service members, do your democratic -- democratic duty.\n\nCORNISH: Ashley, is there a ruling that you've already seen that you were surprised by, or one you're hoping to hear about today?\n\nDAVIS: No, I think the transgender athlete issue today will be interesting. I think, on the opposite side, most people think he'll lose the birthright. Most people think he'll win that that the birthright -- the birth. I'm sorry, the transgender.\n\nCORNISH: State bans on transgender athletes in youth sports.\n\nDAVIS: Exactly. What's interesting to me were the dissents yesterday. So, you have, like, Roberts, who dissented at least twice. I mean, in regards to the two FTC and the Reserve.\n\nAnd then Brett Kavanaugh --\n\nDAVIS: -- actually was one of the dissents for -- he sided with Roberts and the minority.\n\nDAVIS: And then Amy Coney Barrett, who does a lot, do the --\n\nCORNISH: And who I've already seen as a kind of target in sort of right-wing media circles.\n\nWILLIAMS: Yes. I think a couple things. Just in American history, always read the dissents, because that's where you're seeing sort of what the future of American law is.\n\nCORNISH: Yes. Just ask Clarence Thomas.\n\nWILLIAMS: Ask Clarence Thomas. And where they're disagreeing.\n\nBut also, the big fight yesterday was Amy Coney Barrett versus Justice Alito over terminations and firings. And there was just -- you're watching fights among the conservatives, which are really fascinating.\n\nCORNISH: Yes. The seeds of discontent become law at some point.\n\nDAVIS: We were reading her dissent that's, like, 80 billion pages that happened yesterday, top.\n\nCORNISH: Hey, you guys wanted on camera, too. So, we'll see.\n\nAll right, you guys, stay with me. We've got a lot to talk about this hour coming up on CNN THIS MORNING.\n\nToday is primary day in Colorado. There's a Gen Z congressional candidate taking on an incumbent who has elected -- who was elected the year before she was born. So, are we looking at a generational shift?\n\nPlus, a World Cup knockout. Paraguay stuns Germany, defeating the four-time world champions.\n\nUNIDENTIFIED MALE: A few have been in this position for Paraguay, but he scores! Paraguay have done it! Paraguay won it!\n\nMELAT KIROS (D), COLORADO CONGRESSIONAL CANDIDATE: Experience only matters if you actually do something with it. And we're finding now with a lot of incumbent Democrats, that they're not actually able to deliver meaningfully on the things that working families need right now.\n\nCORNISH: So, it's primary day in Colorado. Democrats are eyeing one particular congressional district, which sees a 30-year-long incumbent, Diana Degette, fighting for her seat against 29-year-old lawyer and Democratic socialist Melat Kiros.\n\nDegette took over in office the year that Kiros was born.\n\nDemocratic socialists have successfully advanced in primaries in New York City, Washington, D.C., and L.A. Now, establishment Democrats are wondering if this wave will crash into Colorado today.\n\nThe group chat is back. I want to start with my Democratic adviser here.\n\nCORNISH: Why is Colorado close? I have to admit, I looked at Colorado as a place where the Democrats who appealed in purple states had sort of made a home and were showing they could do it.\n\nAnd yet even Michael Bennet, the senator, people are looking at his seat now and be like, well, wait a second, what's going on? So, why are they vulnerable there?\n\nROCHA: People keep forgetting that Colorado is one of those states that 20 years ago was a purple state, almost a red state.\n\nROCHA: And it's become more and more blue as you've had lots of migration into there. But what you're --\n\nCORNISH: A fragile blue.\n\nCORNISH: A pale blue.\n\nWILLIAMS: And it's been periwinkle.\n\nROCHA: But what you see there is you see this inside versus outside game.\n\nROCHA: This is not much about Democratic socialists against conservatives or however the media or operatives like me want to categorize it. But it's about you see these incumbents, and here's the pattern that's emerged even from New York to Colorado, is you have lots of really safe Democrats I've talked about on this show. Lots of Democrats have very safe congressional seats, just like lots of Republicans do.\n\nAnd what that causes you to do is not spend any money talking to voters over a long period of time, because you're safe cycle after cycle.\n\nROCHA: And when you have these insurgent candidates where there's money being spent in a time where incumbents are looked at as poison, Democrat or Republican.\n\nCORNISH: It's called a wave.\n\nROCHA: You see an insurgency ready to happen. CORNISH: So \"Politico\" is writing about Degette, and one of these on\n\nbackground types said it's not looking great. And it's very tough when you're fighting against a wave.\n\nAnd getting to that word, you're talking about, the wave. I think the thing that I wrestle with is that there are so many, both progressives and even, let's say, Congressional Black Caucus has this problem.\n\nCORNISH: Latino Caucus has this problem. These guys have been in office for so long, but they only just now are starting to get gavels and be in power. And they're, like, trying to turn to the voter and be like, no, no, no, no, no, no. We just -- we're going to do it now.\n\nROCHA: It's important to say this. Just one second. Degette, who she's running against, is in the Progressive Caucus.\n\nROCHA: She's a very progressive member.\n\nROCHA: She just hasn't spent any money talking to voters in a long time.\n\nCORNISH: Well, she also --\n\nDAVIS: She also has a really reasonable -- I mean, like I know from the Republican side, for her and Bennet, Republicans like to work with both of them. So that's a problem right there when they're in this election.\n\nBut I agree with you. Everyone's too old, and everyone is just tired of the status quo.\n\nCORNISH: Yes. And I'm the first to be out here talking about gerontocracy. I'm not going to act as though I've been immune to this language, but I have wrestled with it as I've thought about, like, some of these -- again, the progressives, the black, Latino. There's -- there's some affinity groups in Congress where they really never got into positions of power until now, right? When people are like, well, wait a second. You're too old to do the job.\n\nWILLIAMS: Yes. The other -- the other factor looming over this is that you saw this with Republicans in 2012 and 2016, that when a party is out of power and sort of in the wilderness, people are even hungrier to sort of, as both of you were saying, to sort of upset the world and see a lot of the older --\n\nCORNISH: Yes, because why not? You're already in the wilderness.\n\nWILLIAMS: Why not? Why not, we're in the wilderness.\n\nCORNISH: Yes. WILLIAMS: And -- and also we -- various factions have different visions for how the future ought to be. And they're very, very different. Again, you saw it with the Republicans. And that led, in some part, to the Tea Party, but also to Donald Trump.\n\nCORNISH: Can I talk about this split?\n\nWILLIAMS: -- what the party was.\n\nCORNISH: Let me talk about the split divisions for a minute, because where this surfaces over and over again is this counting of how many socialists may be coming. We are panicking about that. This is our manifesto.\n\nSenator Chris Coons was talking about this on Friday. Here was his take. And we hear this take often.\n\nSEN. CHRIS COONS (D-DE): I'm a member of the Democratic Party. I'm not a member of the Socialist Party. And frankly, I think that, while folks can take ideas from other political traditions, if you're running in a Democratic primary, you ought to be a Democrat.\n\nCORNISH: And then in the meantime, poor Hakeem Jeffries --\n\nCORNISH: -- has to be asked about this over and over again. He is, as we say, House minority leader, hoping to change that in November. And people are saying, are you worried about the fall? Here's what he had to say on Monday.\n\nMANU RAJU, CNN CHIEF CONGRESSIONAL CORRESPONDENT: Mr. Jeffries, do you think that the -- all these socialists who are coming in here, is that good for your party right now?\n\nREP. HAKEEM JEFFRIES (D-NY): The party is going to continue to focus on winning seats currently held by Republicans and flipping them blue.\n\nRAJU: Yes, but they're going to come in, and they're going to demand the moon, and you're not going to be able to deliver the moon.\n\nJEFFRIES: Well, let's cross that bridge when we get to it, because I think, before we can even get to governing, we have to win.\n\nCORNISH: Pro tip: when they walk slow, they want to answer.\n\nCHAMBERS: This is part of, you know, this broader debate that's taking place in the Democratic Party right now, leading into not just the midterm elections. I know that you hate it when I talk about 2028, Audie.\n\nCORNISH: No, I'm there. I'm there. We're doing it. We're doing it as it comes.\n\nCHAMBERS: OK. But leading into the 2028 presidential race is the -- the country determines what it wants after Donald Trump, who is term- limited and whether or not the Democratic Party, you know, fighting against Donald Trump is enough. Or if there has to be some other set of policies and ideas.\n\nAnd if so, what exactly those are. You see that playing out in New York, in Colorado, and across the country right now.\n\nBut it's not just, by the way, on the Democratic side, although I know that's what we're talking about right now. And I think this is what you were about to get into --\n\nCORNISH: Yes. We didn't even get into the Republican side of the Colorado race.\n\nCHAMBERS: I see this happening on the Republican side, as well, with the country. Republicans, at least in this country, repeatedly siding with President Donald Trump when he backs candidates over people who are establishment, if he simply says that this person wasn't supportive enough.\n\nCORNISH: Republicans in the primaries.\n\nCHAMBERS: In the primaries. In the primaries.\n\nCORNISH: And for both parties, the question is the general.\n\nWILLIAMS: But it's also -- it's also important to note we're talking about blue district primaries in blue districts, in blue states. These are --\n\nROCHA: But let me push back.\n\nWILLIAMS: -- you know, this is not the entire country.\n\nROCHA: Let me push back tonight. In -- in Colorado Eight tonight, in this race today that they're having in Colorado, it's a true marginal seat that we're talking about.\n\nIt's one of those 40 seats that is literally 50/50. It's just North of downtown. My PAC, in full disclosure, has run some ads there for a Latino that's running, a young Latino who's 31, running against a sitting state senator there. She's 57.\n\nBetween the two Democrats. Also, there's a freshman Republican. This seat will determine who controls Congress and many seats just like that. DAVIS: Who's going to win that one? The -- the --\n\nROCHA: The young guy's probably going to win it.\n\nCORNISH: Well, don't ask him, will you put money on the race? But also, sir, you're saying 51 is old?\n\nROCHA: I'm saying in this context it is.\n\nCORNISH: What are we saying?\n\nROCHA: It's a generational change.\n\nROCHA: Fifty-one is too old.\n\nCORNISH: Hope and change. Chuck Rocha, Elliot, thank you for being here. I love when you enter the chat.\n\nAfter the break on CNN THIS MORNING from breaking NFL records to fighting for his life. Chris Johnson reveals his life-changing diagnosis.\n\nPlus, a dangerous heat wave set up across the Eastern half of the U.S., taking you all the way into the July 4th holiday weekend. And Washington, D.C., expected to top out Saturday in the triple digits, forecasted to have its hottest Fourth of July on record.\n\nCORNISH: It's now 25 minutes past the hour. This is your morning roundup: some of the stories you might have missed.\n\nDid you know there are survivors still being found in Venezuela after last night's earthquakes? Crews rescued a 12-year-old who was trapped underneath the rubble.\n\nNow, this came hours after a 21-year-old man was pulled from underneath a building that collapsed. He'd been trapped for days. And here's what he had to say after the rescue.\n\nAARON LEVI CANTILLO, RESCUED MAN (through translator): I'm a nobody. I'm just a young man who spent five days trapped beneath a building. But I'm here today, and I'm alive, thanks to my God. He is the only one who got me out of there and sent his angels.\n\nWho were his angels? The people who worked tirelessly on my rescue. The people who cared about how I was doing, the people who were there when I came out, who shouted my name when they saw me emerge. As far as I know, I was just informed that I was the only person in\n\nthat building who was found alive.\n\nCORNISH: In the meantime, there are crews finding pets barking from beneath the damage, which led them to pull this puppy to safety.\n\nNow, these are only some of the lucky few who have been found alive. The death toll currently stands at around 1,700; 5,000 people injured. Many more remain missing.\n\nFormer NFL star running back Chris Johnson revealed in a TV interview that he suffers from ALS. The 40-year-old spent ten years in the NFL and last played in 2017.\n\nNow, in his interview on ABC's \"Good Morning America,\" he was only able to communicate through a computerized speech generation device.\n\nCHRIS JOHNSON, FORMER NFL RUNNINGBACK: I first noticed weakness in my right hand. At first it was little things like my grip didn't feel right, and I wasn't as strong as I've always been.\n\nIt's continued to progress much faster than I ever imagined.\n\nCORNISH: Now, Johnson is one of only nine players in NFL history to rush more than 2,000 yards in a season.\n\nAnd Paraguay shocked Germany in a massive upset last night on penalties.\n\nUNIDENTIFIED MALE: Down to Jose Canale. A few have been in this position for Paraguay, but he scores! Paraguay have done it! Paraguay have won it! And they've booted Germany out of the World Cup!\n\nCORNISH: Woof. The four-time World Cup winners now out of this year's championships. It's the first time the Germans have ever lost in the World Cup on penalties.\n\nParaguay advancing to the Round of 16 later this week.\n\nAnd straight ahead on CNN THIS MORNING, deleted tweets from a rising Democratic figure now raising questions about socialist views inside the party.\n\nPlus, what a key vote on military aid to Israel might say about deep divisions inside the party, as well.",
+  "segments": [
+    {
+      "seg": 1,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-30/segment/01",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nSupreme Court Delivers Mixed Bag of Decisions; Democratic Socialist Looks to Unseat Incumbent in Colorado Primary. Aired 6-6:30a ET\n\nAired June 30, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nBRAD SMITH, CNN ANCHOR: -- Indianapolis International Airport. This was just one of two grenades inside a passenger's checked bag.\n\nThe passenger was immediately questioned by officials. They haven't said yet if there will be charges. We will continue to track any developments there.\n\nThat does it for CNN HEADLINE EXPRESS. I'm Brad Smith. CNN THIS MORNING with Audie Cornish starts right now.\n\nAUDIE CORNISH, CNN ANCHOR: Today in the group chat: the Supreme Court. Will it give Donald Trump more presidential power? And will today's ruling on birthright citizenship be another win for the executive branch?\n\nUNIDENTIFIED FEMALE: The Supreme Court has said, no, we will not have that independent check. You will not be watchdogs anymore. You will be lapdogs.\n\nCORNISH: Is the Democratic Party tipping to the extreme? What a Michigan Senate candidate says about the party's future.\n\nUNIDENTIFIED MALE: I'm a nobody. I'm just a young man who spent five days trapped beneath a building.\n\nCORNISH: Miracles emerge from the devastation in Venezuela. People, even pets being rescued from rubble.\n\nDARIALIZA AVILA CHEVALIER (D), NEW YORK CONGRESSIONAL CANDIDATE: I do regret my tweets. And that's something that I think has brought a lot of division, and that's something I regret.\n\nCORNISH: A rising star on the left answering for her old social media post. Will her past tweets praising communism be a liability?\n\nUNIDENTIFIED FEMALE: The president said it himself. It is the largest expansion of executive power in over 100 years, and that is exactly why we should be worried about it.\n\nCORNISH: The Supreme Court enters the final day of its session today after already giving Donald Trump several key victories and some setbacks. So, where will these final cases fall?\n\nGood morning, everybody. I'm Audie Cornish, and it's just a few hours before the Supreme Court will publish their final decisions of this term and then head for summer recess.\n\nExpected among those rulings, a key one on birthright citizenship, something the president tried to end with an executive order on his first day in office last year.\n\nUNIDENTIFIED MALE: Birthright citizenship. What are your thoughts? And will you accept it if it rules against you?\n\nDONALD TRUMP, U.S. PRESIDENT; Well, I guess I have to accept. It's the Supreme Court, so I'll accept. I think it's very bad for our nation.\n\nI don't know. It's up to them. But in terms of for the good of the country, it would be great if they did the -- they didn't allow it.\n\nCORNISH: Joining me now in the group chat, Francesca Chambers, White House correspondent for USA Today; Elliot Williams, CNN legal analyst and former federal prosecutor; Chuck Rocha, Democratic strategist and former senior adviser to the Bernie Sanders presidential campaigns; and Ashley Davis, former White House official under President George W. Bush.\n\nYou guys, thank you so much for being here. Starting with something easy. You know, the Supreme Court.\n\nCHUCK ROCHA, DEMOCRATIC STRATEGIST: That's easy.\n\nCORNISH: And it's been kind of a weird week for the White House, right? Like, something like mail-in ballots --\n\nELLIOT WILLIAMS, CNN LEGAL ANALYST: Yes.\n\nCORNISH: -- didn't quite work out. And I want to come to birthright citizenship. But first, can you talk to me about the -- the rejection of the attempt to fire Lisa Cook?\n\nWILLIAMS: Right. And --\n\nCORNISH: Because this was a weird one.\n\nWILLIAMS: It's a weird one.\n\nCORNISH: I'm not quite sure what happened in the end.\n\nWILLIAMS: I'll tell you exactly why. And they were able -- the court was able to treat the Federal Reserve different from other agencies for a host of different reasons.\n\nSomething that doesn't get talked a lot about is this idea that the Fed is funded differently than other entities. It's funded, in large part, on account of securities that it holds. Right?\n\nSo, they could treat it as not like a typical agency, like the kind that are funded by Congress, and they can carve it out and say that, because of the Fed's unique stature and -- and also, as a policy matter, because the Fed has the power to upend global markets, we have to keep it independent.\n\nNow, Amy Coney Barrett noted in a dissent that's kind of bonkers, because they're sort of being a little cute with treating some agencies one way and some another.\n\nNow, in terms of the specifics of Lisa Cook, she was accused of some --\n\nCORNISH: Mortgage fraud, yes.\n\nWILLIAMS: -- mortgage fraud and irregularities and was -- like, her termination was related to that. Right? Or at least her purported termination.\n\nIt's a little different with Rebecca Slaughter over at the Federal Trade Commission, because that was, Can we just fire because we don't want her? Because she doesn't comport with the agency's priorities, with the president's priorities? Pardon me.\n\nThe Supreme Court yesterday said that's fine.\n\nWILLIAMS: Just the president's ability to fire somebody who disagrees with his --\n\nCORNISH: We can fire people that are in independent agencies --\n\nCORNISH: -- if we're in the executive branch, except at the Fed, because they've got some special powers. WILLIAMS: They've got special juice.\n\nCORNISH: I want to then --\n\nASHLEY DAVIS, FORMER WHITE HOUSE OFFICIAL UNDER PRESIDENT GEORGE W. BUSH: My question is, though --\n\nDAVIS: -- for that, I think that you still have to nominate a Democrat within the party. It still has to be a Democrat nominee. So, her slot wouldn't go to a Republican nominee. It has to still go through Schumer.\n\nWILLIAMS: Well, that's what the law says, but who knows what --\n\nWILLIAMS: I mean, so, think about it this way. Yes, technically, a Democratic nominee could be put in the FTC or FTC or whatever else. And what stops the president from firing them the next day for -- for whatever reason that that president so chose?\n\nAccording to what the Supreme Court ruled yesterday, presidents now --\n\nCORNISH: Has the authority, yes.\n\nWILLIAMS: -- have vast authority to remove anybody for any reason that they want.\n\nCORNISH: OK. So, there are some reality checks to that power.\n\nCORNISH: People think maybe the birthright citizenship ruling will be one of those reality checks.\n\nCORNISH: Why was this considered a long shot? And I know we've heard the arguments since, so I don't know if there are particular justices you noticed, who expressed skepticism.\n\nWILLIAMS: Right, right. So big picture, the Constitution, 14th Amendment, says that all citizens born in the United States and subject to the jurisdiction thereof, are citizens of the United States. That has been a --\n\nCORNISH: And the Trump administration has taken a line we've heard in conservative circles for a long time, which is, hey, that was just an amendment for --\n\nCORNISH: -- the American descendants of slavery.\n\nCORNISH: And it didn't really mean much --\n\nCORNISH: -- for everyone else. So. what is happening? Why --\n\nWILLIAMS: And moreover, that line, \"subject to the jurisdiction thereof,\" means that it's -- it's a little bit squishier.\n\nNow, that is a fringe view in American law. Let's be clear. It's not a widely held view in the legal mainstream. And as we saw at the oral argument in this case, whether it's eight of the justices or seven of the justices, a lot of them are just not sympathetic to the idea.\n\nCORNISH: Oh, that's a big number.\n\nWILLIAMS: Yes. I -- I --\n\nCORNISH: We're not looking at, like, one or two.\n\nWILLIAMS: Hard to say and forget, you know -- and Lord strike me down for making a prediction that -- that's a little kooky. But it's just -- just looking at how the oral argument went.\n\nYou had John Roberts, the chief justice, saying right there in court, Look, the world has changed, but the Constitution has not. Or I think it was same world, different Constitution.\n\nHe is saying that, even though the country might have a different attitude toward immigration today than it did in 1789, the simple fact is, the Constitution is plainly clear on its face, and the administration just has an uphill battle on this one.\n\nSo, I think they lose. It's just hard to see how much.\n\nFRANCESCA CHAMBERS, WHITE HOUSE CORRESPONDENT, \"USA TODAY\": Jumping in as the resident White House correspondent on the panel, I think that President Donald Trump knows that.\n\nYou have heard him for months now, attacking justices on the Supreme Court by name, who he thinks are going to potentially rule against him on birthright citizenship; tearing them down over other rulings they've made that have been directly related to tariffs and other issues.\n\nBut the way that he's been raising birthright citizenship for months in this context suggests that the administration knows, like you said, that this was -- this was a long shot.\n\nCORNISH: One other thing. Chuck, I want to ask you about the mail-in voting and the voting fight, because in the end, the court seemed to say, look, if things are postmarked by the day, it's fine.\n\nBut this is still a major sort of talking point on the right. Does it feel like it is something that is helpful for Democrats going forward; that they're not fighting redistricting, mail-in ballot, like, multiple battles?\n\nROCHA: I think when you're talking about letting people legally vote, it's a good thing.\n\nAnd I think one of the message points we will have when there was a group text last night talking about this, a lot of these ballots are military ballots. People serving overseas, people that are on ships. This is a big part of why we even created this law --\n\nROCHA: -- is that when you're overseas and you're military, you should be able to vote in your home district where your house resides. And I think that's a winning message every day when you're letting Americans, especially service members, do your democratic -- democratic duty.\n\nCORNISH: Ashley, is there a ruling that you've already seen that you were surprised by, or one you're hoping to hear about today?\n\nDAVIS: No, I think the transgender athlete issue today will be interesting. I think, on the opposite side, most people think he'll lose the birthright. Most people think he'll win that that the birthright -- the birth. I'm sorry, the transgender.\n\nCORNISH: State bans on transgender athletes in youth sports.\n\nDAVIS: Exactly. What's interesting to me were the dissents yesterday. So, you have, like, Roberts, who dissented at least twice. I mean, in regards to the two FTC and the Reserve.\n\nAnd then Brett Kavanaugh --\n\nDAVIS: -- actually was one of the dissents for -- he sided with Roberts and the minority.\n\nDAVIS: And then Amy Coney Barrett, who does a lot, do the --\n\nCORNISH: And who I've already seen as a kind of target in sort of right-wing media circles.\n\nWILLIAMS: Yes. I think a couple things. Just in American history, always read the dissents, because that's where you're seeing sort of what the future of American law is.\n\nCORNISH: Yes. Just ask Clarence Thomas.\n\nWILLIAMS: Ask Clarence Thomas. And where they're disagreeing.\n\nBut also, the big fight yesterday was Amy Coney Barrett versus Justice Alito over terminations and firings. And there was just -- you're watching fights among the conservatives, which are really fascinating.\n\nCORNISH: Yes. The seeds of discontent become law at some point.\n\nDAVIS: We were reading her dissent that's, like, 80 billion pages that happened yesterday, top.\n\nCORNISH: Hey, you guys wanted on camera, too. So, we'll see.\n\nAll right, you guys, stay with me. We've got a lot to talk about this hour coming up on CNN THIS MORNING.\n\nToday is primary day in Colorado. There's a Gen Z congressional candidate taking on an incumbent who has elected -- who was elected the year before she was born. So, are we looking at a generational shift?\n\nPlus, a World Cup knockout. Paraguay stuns Germany, defeating the four-time world champions.\n\nUNIDENTIFIED MALE: A few have been in this position for Paraguay, but he scores! Paraguay have done it! Paraguay won it!\n\nMELAT KIROS (D), COLORADO CONGRESSIONAL CANDIDATE: Experience only matters if you actually do something with it. And we're finding now with a lot of incumbent Democrats, that they're not actually able to deliver meaningfully on the things that working families need right now.\n\nCORNISH: So, it's primary day in Colorado. Democrats are eyeing one particular congressional district, which sees a 30-year-long incumbent, Diana Degette, fighting for her seat against 29-year-old lawyer and Democratic socialist Melat Kiros.\n\nDegette took over in office the year that Kiros was born.\n\nDemocratic socialists have successfully advanced in primaries in New York City, Washington, D.C., and L.A. Now, establishment Democrats are wondering if this wave will crash into Colorado today.\n\nThe group chat is back. I want to start with my Democratic adviser here.\n\nCORNISH: Why is Colorado close? I have to admit, I looked at Colorado as a place where the Democrats who appealed in purple states had sort of made a home and were showing they could do it.\n\nAnd yet even Michael Bennet, the senator, people are looking at his seat now and be like, well, wait a second, what's going on? So, why are they vulnerable there?\n\nROCHA: People keep forgetting that Colorado is one of those states that 20 years ago was a purple state, almost a red state.\n\nROCHA: And it's become more and more blue as you've had lots of migration into there. But what you're --\n\nCORNISH: A fragile blue.\n\nCORNISH: A pale blue.\n\nWILLIAMS: And it's been periwinkle.\n\nROCHA: But what you see there is you see this inside versus outside game.\n\nROCHA: This is not much about Democratic socialists against conservatives or however the media or operatives like me want to categorize it. But it's about you see these incumbents, and here's the pattern that's emerged even from New York to Colorado, is you have lots of really safe Democrats I've talked about on this show. Lots of Democrats have very safe congressional seats, just like lots of Republicans do.\n\nAnd what that causes you to do is not spend any money talking to voters over a long period of time, because you're safe cycle after cycle.\n\nROCHA: And when you have these insurgent candidates where there's money being spent in a time where incumbents are looked at as poison, Democrat or Republican.\n\nCORNISH: It's called a wave.\n\nROCHA: You see an insurgency ready to happen. CORNISH: So \"Politico\" is writing about Degette, and one of these on\n\nbackground types said it's not looking great. And it's very tough when you're fighting against a wave.\n\nAnd getting to that word, you're talking about, the wave. I think the thing that I wrestle with is that there are so many, both progressives and even, let's say, Congressional Black Caucus has this problem.\n\nCORNISH: Latino Caucus has this problem. These guys have been in office for so long, but they only just now are starting to get gavels and be in power. And they're, like, trying to turn to the voter and be like, no, no, no, no, no, no. We just -- we're going to do it now.\n\nROCHA: It's important to say this. Just one second. Degette, who she's running against, is in the Progressive Caucus.\n\nROCHA: She's a very progressive member.\n\nROCHA: She just hasn't spent any money talking to voters in a long time.\n\nCORNISH: Well, she also --\n\nDAVIS: She also has a really reasonable -- I mean, like I know from the Republican side, for her and Bennet, Republicans like to work with both of them. So that's a problem right there when they're in this election.\n\nBut I agree with you. Everyone's too old, and everyone is just tired of the status quo.\n\nCORNISH: Yes. And I'm the first to be out here talking about gerontocracy. I'm not going to act as though I've been immune to this language, but I have wrestled with it as I've thought about, like, some of these -- again, the progressives, the black, Latino. There's -- there's some affinity groups in Congress where they really never got into positions of power until now, right? When people are like, well, wait a second. You're too old to do the job.\n\nWILLIAMS: Yes. The other -- the other factor looming over this is that you saw this with Republicans in 2012 and 2016, that when a party is out of power and sort of in the wilderness, people are even hungrier to sort of, as both of you were saying, to sort of upset the world and see a lot of the older --\n\nCORNISH: Yes, because why not? You're already in the wilderness.\n\nWILLIAMS: Why not? Why not, we're in the wilderness.\n\nCORNISH: Yes. WILLIAMS: And -- and also we -- various factions have different visions for how the future ought to be. And they're very, very different. Again, you saw it with the Republicans. And that led, in some part, to the Tea Party, but also to Donald Trump.\n\nCORNISH: Can I talk about this split?\n\nWILLIAMS: -- what the party was.\n\nCORNISH: Let me talk about the split divisions for a minute, because where this surfaces over and over again is this counting of how many socialists may be coming. We are panicking about that. This is our manifesto.\n\nSenator Chris Coons was talking about this on Friday. Here was his take. And we hear this take often.\n\nSEN. CHRIS COONS (D-DE): I'm a member of the Democratic Party. I'm not a member of the Socialist Party. And frankly, I think that, while folks can take ideas from other political traditions, if you're running in a Democratic primary, you ought to be a Democrat.\n\nCORNISH: And then in the meantime, poor Hakeem Jeffries --\n\nCORNISH: -- has to be asked about this over and over again. He is, as we say, House minority leader, hoping to change that in November. And people are saying, are you worried about the fall? Here's what he had to say on Monday.\n\nMANU RAJU, CNN CHIEF CONGRESSIONAL CORRESPONDENT: Mr. Jeffries, do you think that the -- all these socialists who are coming in here, is that good for your party right now?\n\nREP. HAKEEM JEFFRIES (D-NY): The party is going to continue to focus on winning seats currently held by Republicans and flipping them blue.\n\nRAJU: Yes, but they're going to come in, and they're going to demand the moon, and you're not going to be able to deliver the moon.\n\nJEFFRIES: Well, let's cross that bridge when we get to it, because I think, before we can even get to governing, we have to win.\n\nCORNISH: Pro tip: when they walk slow, they want to answer.\n\nCHAMBERS: This is part of, you know, this broader debate that's taking place in the Democratic Party right now, leading into not just the midterm elections. I know that you hate it when I talk about 2028, Audie.\n\nCORNISH: No, I'm there. I'm there. We're doing it. We're doing it as it comes.\n\nCHAMBERS: OK. But leading into the 2028 presidential race is the -- the country determines what it wants after Donald Trump, who is term- limited and whether or not the Democratic Party, you know, fighting against Donald Trump is enough. Or if there has to be some other set of policies and ideas.\n\nAnd if so, what exactly those are. You see that playing out in New York, in Colorado, and across the country right now.\n\nBut it's not just, by the way, on the Democratic side, although I know that's what we're talking about right now. And I think this is what you were about to get into --\n\nCORNISH: Yes. We didn't even get into the Republican side of the Colorado race.\n\nCHAMBERS: I see this happening on the Republican side, as well, with the country. Republicans, at least in this country, repeatedly siding with President Donald Trump when he backs candidates over people who are establishment, if he simply says that this person wasn't supportive enough.\n\nCORNISH: Republicans in the primaries.\n\nCHAMBERS: In the primaries. In the primaries.\n\nCORNISH: And for both parties, the question is the general.\n\nWILLIAMS: But it's also -- it's also important to note we're talking about blue district primaries in blue districts, in blue states. These are --\n\nROCHA: But let me push back.\n\nWILLIAMS: -- you know, this is not the entire country.\n\nROCHA: Let me push back tonight. In -- in Colorado Eight tonight, in this race today that they're having in Colorado, it's a true marginal seat that we're talking about.\n\nIt's one of those 40 seats that is literally 50/50. It's just North of downtown. My PAC, in full disclosure, has run some ads there for a Latino that's running, a young Latino who's 31, running against a sitting state senator there. She's 57.\n\nBetween the two Democrats. Also, there's a freshman Republican. This seat will determine who controls Congress and many seats just like that. DAVIS: Who's going to win that one? The -- the --\n\nROCHA: The young guy's probably going to win it.\n\nCORNISH: Well, don't ask him, will you put money on the race? But also, sir, you're saying 51 is old?\n\nROCHA: I'm saying in this context it is.\n\nCORNISH: What are we saying?\n\nROCHA: It's a generational change.\n\nROCHA: Fifty-one is too old.\n\nCORNISH: Hope and change. Chuck Rocha, Elliot, thank you for being here. I love when you enter the chat.\n\nAfter the break on CNN THIS MORNING from breaking NFL records to fighting for his life. Chris Johnson reveals his life-changing diagnosis.\n\nPlus, a dangerous heat wave set up across the Eastern half of the U.S., taking you all the way into the July 4th holiday weekend. And Washington, D.C., expected to top out Saturday in the triple digits, forecasted to have its hottest Fourth of July on record.\n\nCORNISH: It's now 25 minutes past the hour. This is your morning roundup: some of the stories you might have missed.\n\nDid you know there are survivors still being found in Venezuela after last night's earthquakes? Crews rescued a 12-year-old who was trapped underneath the rubble.\n\nNow, this came hours after a 21-year-old man was pulled from underneath a building that collapsed. He'd been trapped for days. And here's what he had to say after the rescue.\n\nAARON LEVI CANTILLO, RESCUED MAN (through translator): I'm a nobody. I'm just a young man who spent five days trapped beneath a building. But I'm here today, and I'm alive, thanks to my God. He is the only one who got me out of there and sent his angels.\n\nWho were his angels? The people who worked tirelessly on my rescue. The people who cared about how I was doing, the people who were there when I came out, who shouted my name when they saw me emerge. As far as I know, I was just informed that I was the only person in\n\nthat building who was found alive.\n\nCORNISH: In the meantime, there are crews finding pets barking from beneath the damage, which led them to pull this puppy to safety.\n\nNow, these are only some of the lucky few who have been found alive. The death toll currently stands at around 1,700; 5,000 people injured. Many more remain missing.\n\nFormer NFL star running back Chris Johnson revealed in a TV interview that he suffers from ALS. The 40-year-old spent ten years in the NFL and last played in 2017.\n\nNow, in his interview on ABC's \"Good Morning America,\" he was only able to communicate through a computerized speech generation device.\n\nCHRIS JOHNSON, FORMER NFL RUNNINGBACK: I first noticed weakness in my right hand. At first it was little things like my grip didn't feel right, and I wasn't as strong as I've always been.\n\nIt's continued to progress much faster than I ever imagined.\n\nCORNISH: Now, Johnson is one of only nine players in NFL history to rush more than 2,000 yards in a season.\n\nAnd Paraguay shocked Germany in a massive upset last night on penalties.\n\nUNIDENTIFIED MALE: Down to Jose Canale. A few have been in this position for Paraguay, but he scores! Paraguay have done it! Paraguay have won it! And they've booted Germany out of the World Cup!\n\nCORNISH: Woof. The four-time World Cup winners now out of this year's championships. It's the first time the Germans have ever lost in the World Cup on penalties.\n\nParaguay advancing to the Round of 16 later this week.\n\nAnd straight ahead on CNN THIS MORNING, deleted tweets from a rising Democratic figure now raising questions about socialist views inside the party.\n\nPlus, what a key vote on military aid to Israel might say about deep divisions inside the party, as well."
+    }
+  ]
+}

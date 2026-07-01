@@ -1,0 +1,524 @@
+{
+  "date": "2026-06-30",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-30/segment/02",
+  "vocabulary": [
+    {
+      "word": "scrub",
+      "phonetic": "/skrʌb/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "删除，清除",
+      "en": "to remove or delete something, especially from a record or online account",
+      "excerpt": "Who doesn't have a social media background worth scrubbing.",
+      "example_cn": "谁没有值得清理的社交媒体背景呢。"
+    },
+    {
+      "word": "unsavory",
+      "phonetic": "/ʌnˈseɪvəri/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "令人不快的，讨厌的",
+      "en": "unpleasant or morally offensive",
+      "excerpt": "finding politically unsavory things",
+      "example_cn": "发现政治上令人不快的事情。"
+    },
+    {
+      "word": "divisive",
+      "phonetic": "/dɪˈvaɪsɪv/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "引起分歧的，分裂的",
+      "en": "causing disagreement or hostility between people",
+      "excerpt": "It's a very, very divisive issue.",
+      "example_cn": "这是一个非常具有分裂性的问题。"
+    },
+    {
+      "word": "litmus test",
+      "phonetic": "/ˈlɪtməs test/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "试金石，决定性考验",
+      "en": "a test that uses a single indicator to make a decision or judgment",
+      "excerpt": "it could turn into a defining litmus test for the American left.",
+      "example_cn": "它可能成为美国左派的一个决定性考验。"
+    },
+    {
+      "word": "insurgent",
+      "phonetic": "/ɪnˈsɜːrdʒənt/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "起义的，反叛的",
+      "en": "rising in active revolt; rebellious",
+      "excerpt": "after recent primary victories by far-left, even Democratic socialist candidates in New York, the party is grappling with a surge that some have compared to the Tea Party movement Republicans faced 16 years ago.",
+      "example_cn": "在纽约极左翼甚至民主社会主义候选人在初选中获胜后，该党正在应对一股被一些人比作共和党16年前面临的茶党运动的浪潮。"
+    },
+    {
+      "word": "schism",
+      "phonetic": "/ˈskɪzəm/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "分裂，分歧",
+      "en": "a split or division between strongly opposed groups",
+      "excerpt": "I actually do think it's time for Democrats to talk the \"s\" word \"schism.\"",
+      "example_cn": "我确实认为现在是民主党谈论“分裂”这个词的时候了。"
+    },
+    {
+      "word": "genocide",
+      "phonetic": "/ˈdʒenəsaɪd/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "种族灭绝",
+      "en": "the deliberate killing of a large group of people, especially those of a particular ethnic group or nation",
+      "excerpt": "we saw that done by our tax dollars in a genocide in Gaza.",
+      "example_cn": "我们看到我们的税款在加沙的种族灭绝中造成了这种情况。"
+    },
+    {
+      "word": "anti-Semitic",
+      "phonetic": "/ˌænti səˈmɪtɪk/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "反犹太的",
+      "en": "hostile to or prejudiced against Jewish people",
+      "excerpt": "it scares me, the anti-Semitic undertones that are happening throughout the country.",
+      "example_cn": "全国范围内出现的反犹太主义暗流让我感到害怕。"
+    },
+    {
+      "word": "endorsement",
+      "phonetic": "/ɪnˈdɔːrsmənt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "支持， endorsement",
+      "en": "a public statement of support for a person, product, or idea",
+      "excerpt": "I'm honored to have earned the UAW endorsement.",
+      "example_cn": "我很荣幸获得UAW的支持。"
+    },
+    {
+      "word": "vet",
+      "phonetic": "/vet/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "审查，核实",
+      "en": "to examine someone or something carefully to decide if they are suitable or acceptable",
+      "excerpt": "Did I vet all of you before I came and sat here because one of you might have said something I disagree with?",
+      "example_cn": "我来这里之前是否审查过你们所有人，因为你们中有人可能说过我不同意的话？"
+    },
+    {
+      "word": "rig",
+      "phonetic": "/rɪɡ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "操纵，舞弊",
+      "en": "to manipulate or control something dishonestly for personal gain",
+      "excerpt": "we have an economy where we've allowed big corporations to buy and sell politicians to rig the system against us.",
+      "example_cn": "我们的经济允许大公司买卖政客来操纵体制对我们不利。"
+    },
+    {
+      "word": "vice grip",
+      "phonetic": "/vaɪs ɡrɪp/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "钳制，控制",
+      "en": "a very tight hold or control",
+      "excerpt": "How do we break the vice grip that corporations have on our politics?",
+      "example_cn": "我们如何打破公司对我们政治的钳制？"
+    },
+    {
+      "word": "lagging indicator",
+      "phonetic": "/ˈlæɡɪŋ ˈɪndɪkeɪtər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "滞后指标",
+      "en": "an economic or other indicator that changes after the overall economy or situation has changed",
+      "excerpt": "lawmakers are a lagging indicator.",
+      "example_cn": "立法者是滞后指标。"
+    },
+    {
+      "word": "exurb",
+      "phonetic": "/ˈeksɜːrb/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "远郊",
+      "en": "a region or settlement that lies outside a city and usually beyond its suburbs",
+      "excerpt": "They're all in the exurbs or the suburbs.",
+      "example_cn": "它们都在远郊或郊区。"
+    },
+    {
+      "word": "tacit",
+      "phonetic": "/ˈtæsɪt/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "默示的，不言而喻的",
+      "en": "understood or implied without being stated",
+      "excerpt": "I thought that was a weird, tacit acknowledgment by the White House that the public sentiment is not in Netanyahu's favor.",
+      "example_cn": "我认为这是白宫的一种奇怪的默示承认，即公众情绪不利于内塔尼亚胡。"
+    },
+    {
+      "word": "derail",
+      "phonetic": "/dɪˈreɪl/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "使出轨，破坏",
+      "en": "to cause a process or plan to go wrong",
+      "excerpt": "he sees Netanyahu's strikes on Hezbollah in Lebanon as something that's, you know, helping to derail potentially a longer term agreement with Iran.",
+      "example_cn": "他认为内塔尼亚胡对黎巴嫩真主党的打击有助于破坏与伊朗的长期协议。"
+    },
+    {
+      "word": "oversight",
+      "phonetic": "/ˈoʊvərsaɪt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "监督，监管",
+      "en": "the action of overseeing something; supervision",
+      "excerpt": "it's really important that you have democratic oversight of that technology.",
+      "example_cn": "对该技术进行民主监督非常重要。"
+    },
+    {
+      "word": "deploy",
+      "phonetic": "/dɪˈplɔɪ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "部署，运用",
+      "en": "to bring into effective action; to use something in a situation",
+      "excerpt": "democracy overseeing the way A.I. is being deployed.",
+      "example_cn": "民主监督人工智能的部署方式。"
+    },
+    {
+      "word": "epidemiologist",
+      "phonetic": "/ˌepɪdiːmiˈɑːlədʒɪst/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "流行病学家",
+      "en": "a scientist who studies the causes, distribution, and control of diseases in populations",
+      "excerpt": "you're an epidemiologist by trade",
+      "example_cn": "你是一名流行病学家。"
+    },
+    {
+      "word": "unscathed",
+      "phonetic": "/ʌnˈskeɪðd/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "未受伤的，未受损害的",
+      "en": "not harmed or damaged",
+      "excerpt": "I don't know any public health folks who have come out unscathed.",
+      "example_cn": "我不知道有任何公共卫生人员毫发无损地走出来。"
+    },
+    {
+      "word": "favorable",
+      "phonetic": "/ˈfeɪvərəbl/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "有利的，赞成的",
+      "en": "expressing approval or support",
+      "excerpt": "positive opinions of socialism. In 2010, yes, there's movement from Democrats. Democrats now view socialism more favorably.",
+      "example_cn": "对社会主义的正面看法。2010年，是的，民主党有变化。民主党现在更看好社会主义。"
+    },
+    {
+      "word": "brand",
+      "phonetic": "/brænd/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "给……打上烙印，污名化",
+      "en": "to mark or label someone as having a particular bad quality",
+      "excerpt": "Communism is much more, if you're just branding them, and you know this as a communicator for campaigns, it's much easier to understand.",
+      "example_cn": "如果你只是给他们贴上标签，共产主义更容易理解。"
+    },
+    {
+      "word": "normalize",
+      "phonetic": "/ˈnɔːrməlaɪz/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "使正常化，使常态化",
+      "en": "to make something normal or usual",
+      "excerpt": "Donald Trump kind of normalized some of the things that you've said.",
+      "example_cn": "唐纳德·特朗普使你说的一些事情正常化了。"
+    },
+    {
+      "word": "disappearing app",
+      "phonetic": "/ˌdɪsəˈpɪrɪŋ æp/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "阅后即焚应用",
+      "en": "an application that automatically deletes messages or content after a short time",
+      "excerpt": "the disappearing apps are more popular than ever",
+      "example_cn": "阅后即焚应用比以往任何时候都更受欢迎。"
+    },
+    {
+      "word": "fair game",
+      "phonetic": "/fer ɡeɪm/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "可攻击的对象，合理目标",
+      "en": "a person or thing that is considered a reasonable target for criticism or attack",
+      "excerpt": "if you're going to run, everything is fair game.",
+      "example_cn": "如果你要参选，一切都是公平的。"
+    },
+    {
+      "word": "oppositional research",
+      "phonetic": "/ˌɑːpəˈzɪʃənl rɪˈsɜːrtʃ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "对手研究",
+      "en": "research conducted to find damaging information about an opponent",
+      "excerpt": "He was talking about oppositional research.",
+      "example_cn": "他在谈论对手研究。"
+    },
+    {
+      "word": "primary",
+      "phonetic": "/ˈpraɪmeri/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "初选",
+      "en": "an election in which voters choose the candidates for a later election",
+      "excerpt": "you can only be beat on this issue in your primary.",
+      "example_cn": "你只能在初选中在这个问题上被击败。"
+    },
+    {
+      "word": "swing voter",
+      "phonetic": "/swɪŋ ˈvoʊtər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "摇摆选民",
+      "en": "a voter who does not consistently vote for a single party and is likely to switch sides",
+      "excerpt": "We don't mention either one of these to a swing voter because it's not their number one issue.",
+      "example_cn": "我们不会向摇摆选民提及其中任何一个，因为这不是他们的首要问题。"
+    },
+    {
+      "word": "base",
+      "phonetic": "/beɪs/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "（政党的）基础选民",
+      "en": "the group of people who strongly support a political party or candidate",
+      "excerpt": "It matters in the base of the left of the Democrats and in the base right of the Republicans.",
+      "example_cn": "这在民主党的左翼基础和共和党的右翼基础中很重要。"
+    },
+    {
+      "word": "big tent",
+      "phonetic": "/bɪɡ tent/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "大帐篷（包容性强的政党）",
+      "en": "a political party or group that welcomes a wide range of views and members",
+      "excerpt": "we're coalition, we're big tent.",
+      "example_cn": "我们是联盟，我们是包容性强的政党。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "A CNN KFILE investigation uncovered deleted social media posts from Democratic congressional nominee Darializa Avila Chevalier's old Twitter account.",
+      "cn": "CNN的KFILE调查发现了民主党国会候选人Darializa Avila Chevalier旧推特账户上已删除的社交媒体帖子。",
+      "structure": "主谓宾结构：主语(A CNN KFILE investigation) + 谓语(uncovered) + 宾语(deleted social media posts) + 介词短语(from...account)作定语修饰posts。",
+      "analysis": "这是一个简单句，主语是A CNN KFILE investigation，谓语是uncovered，宾语是deleted social media posts，from...account是介词短语作后置定语修饰posts。"
+    },
+    {
+      "en": "And when asked about President Trump accusing her of being a communist, she said this.",
+      "cn": "当被问及特朗普总统指责她是共产主义者时，她这样说道。",
+      "structure": "时间状语从句+主句：When asked about... (省略主语和be动词的状语从句) + 主句(she said this)。",
+      "analysis": "when asked about...是过去分词短语作时间状语，相当于when she was asked about...，主句是she said this。"
+    },
+    {
+      "en": "I think that is -- that framing is one that I've been very proud to be able to say I don't respond to.",
+      "cn": "我认为那种框架是我非常自豪能够说我不回应的。",
+      "structure": "主谓宾+定语从句：I think (that) that framing is one (that I've been very proud to be able to say I don't respond to).",
+      "analysis": "主句是I think，后面是宾语从句，宾语从句中主语是that framing，系动词is，表语one，后面that引导定语从句修饰one，定语从句中I've been very proud to be able to say是谓语部分，say后面是省略that的宾语从句I don't respond to。"
+    },
+    {
+      "en": "But I'll promise you, there is a Republican out there now taking those tweets and going to put them on an ad that says all Democrats are this way.",
+      "cn": "但我向你保证，现在有一个共和党人正在拿那些推文，准备把它们放在一则广告上，广告上说所有民主党人都是这样。",
+      "structure": "主句+宾语从句：I'll promise you (that) there is a Republican... + 定语从句(that says...)。",
+      "analysis": "主句是I'll promise you，后面是省略that的宾语从句，宾语从句是there be句型，主语a Republican，后面现在分词短语taking...和going to put...作定语修饰Republican，最后that引导定语从句修饰ad。"
+    },
+    {
+      "en": "I think it's the biggest threat to our nation there is, maybe since our founding.",
+      "cn": "我认为这是自建国以来对我们国家最大的威胁。",
+      "structure": "主谓宾+宾语从句：I think (that) it's the biggest threat... + 定语从句(there is) + 状语(since our founding)。",
+      "analysis": "主句是I think，后面是宾语从句，宾语从句中it's the biggest threat，后面there is是定语从句修饰threat，since our founding是时间状语。"
+    },
+    {
+      "en": "And I just wonder why you can't just critique socialism as is, and you have to go straight to communism.",
+      "cn": "我只是想知道为什么你不能就事论事地批评社会主义，而必须直接跳到共产主义。",
+      "structure": "主谓+宾语从句：I wonder + 宾语从句(why you can't... and you have to...)。",
+      "analysis": "主句是I wonder，后面是why引导的宾语从句，从句中两个并列句由and连接。"
+    },
+    {
+      "en": "And what we come down to in this is, in a time in a midterm, for all of you at home, national polls and the way the sentiment doesn't matter.",
+      "cn": "归根结底，在中期选举时期，对于所有在家观看的观众来说，全国民调和情绪走向并不重要。",
+      "structure": "主语从句+系表结构：What we come down to in this is + 表语从句(national polls... doesn't matter)。",
+      "analysis": "主语是what引导的主语从句What we come down to in this，系动词is，后面是表语从句，表语从句中主语是national polls and the way，谓语doesn't matter，the way后面省略了that/in which的定语从句the sentiment。"
+    },
+    {
+      "en": "And the real basis comes down to, do you care more about somebody's regretful tweet or the price of hamburger and eggs?",
+      "cn": "真正的基础归结为：你更关心某人令人遗憾的推文，还是汉堡和鸡蛋的价格？",
+      "structure": "主谓+宾语从句：The real basis comes down to + 宾语从句(do you care more about... or...)。",
+      "analysis": "主句是The real basis comes down to，后面是省略whether的宾语从句，从句是疑问句语序。"
+    },
+    {
+      "en": "If you are advocating or advancing society in a direction that capital owners don't want, they're going to come after you.",
+      "cn": "如果你在倡导或推动社会朝着资本所有者不希望的方向发展，他们就会来找你。",
+      "structure": "条件状语从句+主句：If you are advocating... + 主句(they're going to come after you)。",
+      "analysis": "if引导条件状语从句，从句中in a direction是介词短语作状语，后面that引导定语从句修饰direction。主句是they're going to come after you。"
+    },
+    {
+      "en": "And if they can't find anything in your background, they're going to invent stuff, right?",
+      "cn": "如果他们找不到你背景中的任何东西，他们就会编造东西，对吧？",
+      "structure": "条件状语从句+主句：If they can't find... + 主句(they're going to invent stuff)。",
+      "analysis": "if引导条件状语从句，主句是they're going to invent stuff。"
+    },
+    {
+      "en": "I think any state that privileges one religion over the other is one that I can't tell you I support, whether it be Israel or Saudi Arabia or anywhere else.",
+      "cn": "我认为任何优待一种宗教而非另一种宗教的国家，我都不能告诉你我支持它，无论是以色列、沙特阿拉伯还是其他任何地方。",
+      "structure": "主谓+宾语从句：I think (that) any state... is one... + 让步状语从句(whether it be...)。",
+      "analysis": "主句是I think，后面是宾语从句，宾语从句主语any state，后面that引导定语从句修饰state，系动词is，表语one，后面that引导定语从句修饰one，定语从句中I can't tell you I support，I support是省略that的宾语从句。最后whether...or...引导让步状语从句。"
+    },
+    {
+      "en": "And a lot of that comes back to a fundamental belief that we should all be considered equal, no matter what our faith is.",
+      "cn": "其中很多都归结为一个基本信念：无论我们的信仰是什么，我们都应该被视为平等的。",
+      "structure": "主谓宾+同位语从句：A lot of that comes back to a fundamental belief + 同位语从句(that we should...)。",
+      "analysis": "主句是A lot of that comes back to a fundamental belief，后面that引导同位语从句解释belief，从句中no matter what引导让步状语从句。"
+    },
+    {
+      "en": "And I also think, listen, it scares me, the anti-Semitic undertones that are happening throughout the country.",
+      "cn": "而且我还认为，听着，全国范围内出现的反犹太主义暗流让我感到害怕。",
+      "structure": "主谓+宾语从句：I think + 宾语从句(it scares me, the anti-Semitic undertones...)。",
+      "analysis": "主句是I think，后面是宾语从句，从句中it是形式主语，真正主语是the anti-Semitic undertones，后面that引导定语从句修饰undertones。"
+    },
+    {
+      "en": "But I think that there is a way, though, of saying, pretty definitively, that after October 7th the conversation around Israel has changed tremendously.",
+      "cn": "但我认为，有一种方式可以相当明确地说，10月7日之后，围绕以色列的对话发生了巨大变化。",
+      "structure": "主谓+宾语从句：I think + 宾语从句(there is a way... of saying... that...)。",
+      "analysis": "主句是I think，后面是宾语从句，从句是there be句型，主语a way，后面of saying...是介词短语作定语，saying后面that引导宾语从句。"
+    },
+    {
+      "en": "And then there's American's views on Israel in general, in 2022, 55 percent were favorable, in 2026, 37 percent.",
+      "cn": "然后是美国人总体上对以色列的看法，2022年55%的人持赞成态度，2026年37%。",
+      "structure": "并列句：There's American's views... + 两个并列分句(in 2022... in 2026...)。",
+      "analysis": "第一个分句是there be句型，后面两个分句是并列的，省略了主语和谓语。"
+    },
+    {
+      "en": "And I thought that was a weird, tacit acknowledgment by the White House that the public sentiment is not in Netanyahu's favor.",
+      "cn": "我认为这是白宫的一种奇怪的默示承认，即公众情绪不利于内塔尼亚胡。",
+      "structure": "主谓+宾语从句：I thought + 宾语从句(that was a weird... acknowledgment... that...)。",
+      "analysis": "主句是I thought，后面是宾语从句，从句主语that，系动词was，表语acknowledgment，后面that引导同位语从句解释acknowledgment。"
+    },
+    {
+      "en": "But I do want to step back and -- we do this thing of dissecting our politics as if all the things are not related.",
+      "cn": "但我确实想退一步——我们做这种剖析政治的事情，好像所有事情都不相关。",
+      "structure": "并列句：I do want to step back + 并列分句(we do this thing... as if...)。",
+      "analysis": "第一个分句是I do want to step back，第二个分句是we do this thing，后面as if引导方式状语从句。"
+    },
+    {
+      "en": "Every dollar we send abroad to drop a bomb on another kid is a dollar we don't spend here to invest in your kids' school or your health care.",
+      "cn": "我们寄往国外投在另一个孩子身上的每一美元，都是我们没有花在这里投资于你孩子的学校或你的医疗保健的一美元。",
+      "structure": "主系表结构：Every dollar (we send abroad...) is a dollar (we don't spend...)。",
+      "analysis": "主语Every dollar，后面省略that的定语从句we send abroad to drop a bomb on another kid，系动词is，表语a dollar，后面省略that的定语从句we don't spend here to invest...。"
+    },
+    {
+      "en": "And the politicians, the politics, that speaks to the lived experience of the average person that actually talks about how do we put money back in your pocket?",
+      "cn": "而那些政治家、政治，那些与普通人的生活经历对话、真正谈论如何把钱放回你口袋的政治？",
+      "structure": "主语+定语从句：The politicians, the politics, + 定语从句(that speaks to... that actually talks about...)。",
+      "analysis": "主语是the politicians, the politics，后面that引导定语从句，从句中又包含一个that引导的定语从句修饰the lived experience，第二个定语从句中how do we put money back in your pocket是宾语从句。"
+    },
+    {
+      "en": "But so long as you're having this nagging debate about where the party is going from your comfortable home in wherever it is, I just think you're missing the point because too many people are uncomfortable in their homes or don't have a home in the first place.",
+      "cn": "但只要你从你舒适的家中（无论在哪里）进行这场关于党走向何方的令人厌烦的辩论，我就认为你忽略了重点，因为太多人在自己的家中感到不舒服，或者根本没有家。",
+      "structure": "条件状语从句+主句：So long as you're having... + 主句(I just think...)。",
+      "analysis": "so long as引导条件状语从句，从句中about where the party is going是介词短语作定语，from your comfortable home是状语，in wherever it is是地点状语从句。主句是I just think，后面是宾语从句，宾语从句中because引导原因状语从句。"
+    },
+    {
+      "en": "And to bring somebody in to represent your campaign, in my mind, is a very different decision than going on somebody's stream and talking to their audience.",
+      "cn": "在我看来，请某人来代表你的竞选，与去某人的直播中与他们的观众交谈，是一个非常不同的决定。",
+      "structure": "主语+系表结构：To bring somebody in... is a very different decision than...。",
+      "analysis": "主语是不定式短语To bring somebody in to represent your campaign，系动词is，表语a very different decision，后面than引导比较状语，比较对象是going on somebody's stream and talking to their audience。"
+    },
+    {
+      "en": "And I think we have to take seriously the idea that the money that we spent to kill other people's kids there was money that we did not spend to take care of the kids that I was taking care of in Wayne County in Detroit to make sure they had --",
+      "cn": "而且我认为我们必须认真对待这样一个想法：我们花在杀死别人孩子上的钱，是我们没有花在照顾我在底特律韦恩县照顾的孩子上的钱，以确保他们拥有——",
+      "structure": "主谓+宾语从句：I think + 宾语从句(we have to take seriously the idea that...)。",
+      "analysis": "主句是I think，后面是宾语从句，从句中take seriously是动词短语，宾语the idea，后面that引导同位语从句，同位语从句中主语the money，后面that引导定语从句修饰money，系动词was，表语money，后面that引导定语从句修饰money，定语从句中又包含that引导的定语从句修饰the kids。"
+    },
+    {
+      "en": "The idea that we're going to tie people together and say, well, guilt by association so is just not in keeping with the way most of us think about the world.",
+      "cn": "那种我们要把人们联系在一起并说“好吧，关联有罪”的想法，根本不符合我们大多数人看待世界的方式。",
+      "structure": "主语+系表结构：The idea (that we're going to tie... and say...) is just not in keeping with the way...。",
+      "analysis": "主语The idea，后面that引导同位语从句，从句中两个并列谓语tie和say，系动词is，表语not in keeping with the way，后面省略that/in which的定语从句most of us think about the world。"
+    },
+    {
+      "en": "And whether we're talking about the parties writ large or we're talking about our Michigan race, it's on people to get to decide.",
+      "cn": "无论我们是在谈论整个政党，还是在谈论我们密歇根州的竞选，决定权都在人民手中。",
+      "structure": "让步状语从句+主句：Whether we're talking about... or... + 主句(it's on people to decide)。",
+      "analysis": "whether...or...引导让步状语从句，主句是it's on people to get to decide，it是形式主语，真正主语是不定式短语to get to decide。"
+    },
+    {
+      "en": "And this is just what I'm saying.",
+      "cn": "这正是我所说的。",
+      "structure": "主系表结构：This is + 表语从句(what I'm saying)。",
+      "analysis": "主语This，系动词is，后面what引导表语从句。"
+    },
+    {
+      "en": "So long as we are missing the conversation about everyday people and why they are struggling in their lives, we are missing the point of Democratic politics in the first place.",
+      "cn": "只要我们错过了关于普通民众以及他们为何在生活中挣扎的对话，我们就首先错过了民主政治的意义。",
+      "structure": "条件状语从句+主句：So long as we are missing... + 主句(we are missing...)。",
+      "analysis": "so long as引导条件状语从句，从句中about everyday people and why they are struggling是介词短语作定语，why引导宾语从句。主句是we are missing the point。"
+    },
+    {
+      "en": "And they keep telling me that I'm not going to be able to get further.",
+      "cn": "他们一直告诉我，我无法走得更远。",
+      "structure": "主谓+宾语从句：They keep telling me + 宾语从句(that I'm not going to be able to get further)。",
+      "analysis": "主句是They keep telling me，后面that引导宾语从句。"
+    },
+    {
+      "en": "But I'll also tell you this, I'm not going to pretend like not calling out the problems that I see is going to make things better.",
+      "cn": "但我也会告诉你这一点：我不会假装不指出我看到的问题会让事情变得更好。",
+      "structure": "主谓+双宾语+同位语从句：I'll tell you this + 同位语从句(I'm not going to pretend...)。",
+      "analysis": "主句是I'll tell you this，this指代后面整个句子，后面句子是同位语从句，从句中pretend like后面是宾语从句，宾语从句主语是not calling out the problems，problems后面that引导定语从句，系动词is，表语going to make things better。"
+    },
+    {
+      "en": "And the real conversation is not between me and 99 other senators when I get there, it's between me and the 350 million people.",
+      "cn": "真正的对话不是在我和另外99名参议员之间（当我到那里时），而是在我和3.5亿人民之间。",
+      "structure": "并列句：The real conversation is not between... when..., it's between...。",
+      "analysis": "两个并列分句，第一个分句中包含when引导的时间状语从句。"
+    },
+    {
+      "en": "And that's the mistake that I think both parties are making.",
+      "cn": "这就是我认为两党都在犯的错误。",
+      "structure": "主系表+定语从句：That's the mistake + 定语从句(that I think both parties are making)。",
+      "analysis": "主语That，系动词is，表语the mistake，后面that引导定语从句，从句中I think是插入语，both parties are making是宾语从句。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "美国民主党内部意识形态分歧",
+      "content": "本文讨论了民主党内部因候选人过往社交媒体言论（如支持共产主义、马克思主义）引发的争议，以及党内进步派与温和派在以色列政策、经济议题上的分歧。部分评论将当前进步派崛起与共和党2010年茶党运动类比，认为可能引发党内分裂。",
+      "keywords": "Democratic Party, progressive, moderate, schism, socialism, communism, Tea Party"
+    },
+    {
+      "title": "美国对以色列政策与公众舆论变化",
+      "content": "节目分析了美国民众对以色列看法的转变，特别是年轻民主党人中对以色列持负面看法的比例高达84%。同时讨论了国会内部关于对以色列军事援助的争议，以及进步派要求改变政策的压力。还提及特朗普政府对内塔尼亚胡的不满。",
+      "keywords": "Israel, Gaza, military aid, public opinion, Democratic Party, Netanyahu, AIPAC"
+    },
+    {
+      "title": "社交媒体言论对政治候选人的影响",
+      "content": "候选人过去在社交媒体上的言论成为竞选攻击的焦点。节目探讨了“挖掘旧推文”作为政治手段的公平性，以及选民是否更关心经济问题而非候选人的历史言论。同时提到“阅后即焚”应用因避免留下痕迹而日益流行。",
+      "keywords": "social media, deleted posts, opposition research, vetting, fair game, disappearing apps"
+    },
+    {
+      "title": "2026年中期选举与关键议题",
+      "content": "讨论聚焦于中期选举中哪些议题真正影响选民，如经济、物价、工资等。战略分析师认为全国民调对具体选区影响有限，关键在郊区选民的关注点。同时提及密歇根州参议员初选，候选人围绕是否接受企业捐款、AI监管等议题展开辩论。",
+      "keywords": "midterm election, swing voters, economy, inflation, Michigan Senate race, corporate money"
+    },
+    {
+      "title": "人工智能监管与民主控制",
+      "content": "候选人Abdul El-Sayed主张对AI技术进行民主监督，认为应防止其被少数公司控制。他拒绝接受企业捐款，包括AI公司，并呼吁其他民主党人也这样做。这反映了进步派对科技巨头影响力的担忧。",
+      "keywords": "artificial intelligence, democratic oversight, corporate money, regulation, technology"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nNew York Democratic Nominee Deletes Posts; Americans Disapproval of Israel; Michigan Senate Candidate Abdul El-Sayed (D) is Interviewed about his Race and the Party. Aired 6:30-7a ET\n\nAired June 30, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nAUDIE CORNISH, CNN ANCHOR: A CNN KFILE investigation uncovered deleted social media posts from Democratic congressional nominee Darializa Avila Chevalier's old Twitter account. So, the posts include favorable references to communism, Marxist ideology, and authoritarian communist figures. She says she has grown considerably since those posts. And when asked about President Trump accusing her of being a communist, she said this.\n\nDARIALIZA AVILA CHEVALIER (D), U.S. HOUSE CANDIDATE FROM NEW YORK: You know, I think that is -- that framing is one that I've been very proud to be able to say I don't respond to. One in which I have been very intentional to say, I won't be reactive.\n\nCORNISH: Group chat is back.\n\nI wanted to talk about this for two reasons. One, the tweets. This is a second round of going through her social media posts and finding politically unsavory things. Before we get to that, her saying, I'm just not going to react, is that going to work when you think of the consultants that are out there writing their ads right now, with just pictures of Marx and Lenin and a stamp over her face?\n\nCHUCK ROCHA, DEMOCRATIC STRATEGIST: Two things can happen at the same time. She can regret those tweets. She can say that they were stupid. She can not respond to them, like she did. But I'll promise you, there is a Republican out there now taking those tweets and going to put them on an ad that says all Democrats are this way.\n\nASHLEY DAVIS, FORMER HOMELAND SECURITY OFFICIAL: But for her seat, it doesn't matter. I mean she's going to win no matter what.\n\nDAVIS: So, I would think, in her -- in her situation --\n\nCORNISH: Well, here's just a sample. Here is President Trump, how he plans on talking about it.\n\nDAVIS: Right, but for her situation --\n\nCORNISH: On Monday, this is how he talked about the whole socialism thing.\n\nDAVIS: Yes. Not responding.\n\nDONALD TRUMP, PRESIDENT OF THE UNITED STATES: It's not socialism. It's really communism. They use the word social Democrat because it sounds so nice, but it's really communism you're talking about. I think it's the biggest threat to our nation there is, maybe since our founding. That includes World War I, World War II, September 11th. It includes the Pearl Harbor attack.\n\nCORNISH: So, it's not whether or not she can -- this blue state or this blue district will vote for a person who's in their leaning. It's, when you paint the broad brush, how far does it reach and does it stick?\n\nDAVIS: Well, I think that -- and we were talking about this in the break -- that Donald Trump kind of normalized some of the things that you've said. And people seem to either want to care or not want to care. And they --\n\nCORNISH: On social media specifically, yes.\n\nDAVIS: On social media in general.\n\nBut I have to say, she grew up, I would think, I don't know exactly how old she is, where --\n\nDAVIS: She's young, yes, Through this whole social media world, where you just put your whole life out there.\n\nDAVIS: And so, I do think times are changing. But as I also was saying, like, in the business community, it's also changing. I threaten my son every day not to put things, which is probably why the disappearing apps are more popular than ever, because you can't go back and find those as easy.\n\nCORNISH: But you're saying we're at an age where it would be hard pressed to find someone in their 30s at this point --\n\nDAVIS: Correct. You live your life on this. I mean, yes. CORNISH: Who doesn't have a social media background worth scrubbing.\n\nFRANCESCA CHAMBERS, WHITE HOUSE CORRESPONDENT, \"USA TODAY\": Why are you looking at me?\n\nCORNISH: You're a person who may.\n\nDAVIS: You're the (INAUDIBLE) of us.\n\nCORNISH: I don't -- a young person. No, seriously, I wrestle with this because also it's -- I would think it's fair game. If Democrats can go scrubbing for old tweets where you find out there are Republican candidates who have said things that are racist, doesn't it -- isn't it fair game to go after somebody who has said, abolish police, or said things that actually are even directly related to policy?\n\nCHAMBERS: I think regardless of what are in these social media posts from any candidate, that President Donald Trump and the Republican Party are going to make this argument about these Democratic socialists as alleged communists one way or another. I mean, he's made it, you know, very clear, going back to his comments on Friday, when he was at a religious conservative conference and he spent most of his speech, by the way, talking about this, talking about the threat of communism, explaining about how Democrats are going to try and offer you free stuff. And that might sound good for a couple of years.\n\nCORNISH: Do you think it's weird they're skipping straight to communism? Like isn't -- I just want to show, positive opinions of socialism. In 2010, yes, there's movement from Democrats. Democrats now view socialism more favorably. But Americans in general don't view it all that much better than they did in 2010.\n\nCORNISH: And I just wonder why you can't just critique socialism as is, and you have to go straight to communism.\n\nDAVIS: Communism is much more, if you're just branding them, and you know this as a communicator for campaigns, it's much easier to understand.\n\nCORNISH: (INAUDIBLE) to go straight back to the '50s.\n\nCORNISH: Love it. OK. Well --\n\nROCHA: Absolutely. And what we come down to in this is, in a -- in a time in a midterm, for all of you at home, national polls and the way the sentiment doesn't matter. It only matters in a handful of congressional races, none of which that are in the inside of any major city. They're all in the exurbs or the suburbs. So, you're talking to a group -- different group of people than you would in a downtown urban setting. And the real basis comes down to, do you care more about somebody's regretful tweet or the price of hamburger and eggs? That's what it's going to come down to. CORNISH: Well, also, in a new media market.\n\nI'm going to turn to another topic before I go. Hasan Piker, the streamer, Democratic activist, has been backing a lot of Democratic socialist candidates. He said this about the idea of going into people's background and want to play it for you guys.\n\nHASAN PIKER, STREAMER/DEMOCRATIC ACTIVIST: If you are advocating or advancing society in a direction that capital owners don't want, they're going to come after you. They're going to come after you. And if they can't find anything in your background, they're going to invent stuff, right? We saw this with Nadya Alyssa (ph). They didn't have anything that they can hit her on, so they just started, you know, they just started creating controversy off of her tweets. This is how these guys operate.\n\nCORNISH: He was talking about oppositional research. He was -- you're nodding.\n\nDAVIS: Yes, I mean, this is -- if you're going to run, everything is fair game. I mean this is why Chuck and I are never able to run for office.\n\nCORNISH: Well, let me state here --\n\nDAVIS: I mean this is like as old as time in regards to the -- everything's fair game. This is what you're putting yourself out there for.\n\nCORNISH: All right. Well, another thing that's become fair game, and the reason why I wanted to play Piker is this conversation about Israel, which continues to divide the party, particularly the Democratic Party.\n\nChevalier's opinions on that have also come up. Speaking on this sort of shifting landscape with Mayor Mamdani, who backed her, actually being asked to clarify his position on Israel. And here's what he had to say.\n\nJONATHAN KARL, ABC NEWS: And the idea of a Jewish state, Israel as a Jewish state, that's in the charter. That's the way it is now. I do you support that?\n\nMAYOR ZOHRAN MAMDANI (D), NEW YORK CITY: I've said time and again that I support the state of Israel as a state with equal rights. I believe that any state that -- KARL: But as a Jewish state is the question.\n\nMAMDANI: I think any state that privileges one religion over the other is one that I can't tell you I support, whether it be Israel or Saudi Arabia or anywhere else. And a lot of that comes back to a fundamental belief that we should all be considered equal, no matter what our faith is.\n\nCORNISH: So, this week, House Democratic leaders opposed an amendment that would block $3.3 billion in military aid to Israel. Leadership calls the measure flawed. Then you've got this growing progressive base that is pushing to break ranks. And if this amendment makes it to the floor, it could turn into a defining litmus test for the American left.\n\nSo, I want to talk to you guys for a couple reasons. First, I was under the impression that Paul -- Thomas Massie was part of this amendment, which is somebody who just lost a race, very much blamed AIPAC, blamed groups lobbying on behalf of the -- of Israel.\n\nDAVIS: Tucker Carlson starting to do -- you know, is doing this --\n\nCORNISH: Tucker Carlson straight up left the party, right?\n\nDAVIS: Exactly. Well, over -- and a big part of it is over Israel. So, I don't think this is just happening on the Democrat side. It's happening on both sides. But more on the Democrat side.\n\nAnd I also think, listen, it scares me, the anti-Semitic undertones that are happening throughout the country. Not whether they're Israel. It's just that the racism in general, I would call it. And so, it does make me nervous that it's happening.\n\nBut I think that this is going back to something like when you had all the Republicans say, if we win, we're never giving money to Ukraine. I think there is a lot of people that are just -- don't want Americans involved in other wars.\n\nWell, I think that there is a way, though, of saying, pretty definitively, that after October 7th the conversation around Israel has changed tremendously. Just looking at Pew research surveys from March. Looking at the people who have somewhat unfavorable opinions of Israel. We wanted to look at it via age. And for people under the age of 50, on the Democratic side, we've heard this, 84 percent. On the Republican side, 57. OK. So, we're clearing the majority mark. And then ages 50 plus, it's not that much better, OK? So, the vote -- these lawmakers are appealing to someone.\n\nAnd then there's American's views on Israel in general, in 2022, 55 percent were favorable, in 2026, 37 percent. And in that context, it makes more sense for me to have been reading a headline back in June, in \"Axios,\" where Trump was mad at Netanyahu, and he's yelling at him about Lebanon. But he doesn't just say that. He says, \"you're f-ing crazy\" and everyone hates you. And I thought that was a weird, tacit acknowledgment by the White House that the public sentiment is not in Netanyahu's favor.\n\nCHAMBERS: Well, I mean, I think President Trump is also frustrated with Netanyahu for other reasons because he's trying to get this peace agreement. He sees Netanyahu's strikes on Hezbollah in Lebanon as something that's, you know, helping to derail potentially a longer term agreement with Iran. So, there is a -- there's a few other things that are going on there.\n\nBut I wanted to pick up on what Ashley was saying about, I think this broader sentiment there is within the Democratic Party going back to October 7th in the 2024 election. We saw this with vice president, former Vice President Kamala Harris, you know, playing out over Israel. But you also see, within the Republican Party, this taking place on Israel.\n\nCORNISH: But can I go back to my point there --\n\nCORNISH: Because it's not -- I always joke that lawmakers are a lagging indicator. They're not at the forefront of what the public view is on Israel. They are followers. And so, are they looking at numbers and saying, wait a second, there's some vulnerability here. Maybe I should be speaking differently.\n\nROCHA: I can answer this. It matters in the base of the left of the Democrats and in the base right of the Republicans. It's a very, very divisive issue. And to my point, 400 congressional seats are safe, Democrat or Republican. So, you can only be beat on this issue in your primary. In the general election, Audie, I promise you, I'm making these ads. We don't mention either one of these to a swing voter because it's not their number one issue. They care about the price of everything in their life and not making enough money and they can't get ahead.\n\nNot saying it's not an important issue, but it's super important.\n\nCORNISH: Yes. I'm not saying that either, but I was showing you a poll of American's views, not extremist horseshoe views. We are talking a majority now.\n\nROCHA: But those numbers, if you looked at the base of the party, the folks who actually vote, it's even tremendously more.\n\nCORNISH: That's always code, the folks who actually vote.\n\nROCHA: Exactly right.\n\nCORNISH: I feel like that's a way of saying, there's some people who are excited now who aren't going to show up later.\n\nROCHA: Y'all got to remember, it's about winning elections.\n\nDAVIS: Elected officials have access to different information than the American people of why a safe Israel, a strong Israel, is very important for our national security.\n\nCORNISH: And are they conveying this well enough to the voters?\n\nDAVIS: I don't think they can.\n\nCORNISH: Or are they leaving this to the world of internet online personalities who will speak about it in more striking ways?\n\nDAVIS: They may be leaving it but -- they may be leaving it but I think that they'll take votes supporting Israel because how important -- they know how important it is. It's a hard (INAUDIBLE).\n\nCORNISH: Well, this is going to come up more. We're actually going to have a guest on who can talk about this and other things. We're going to talk about why the party is evolving one way or another. And we're going to have live here a Michigan Senate candidate, who's going to talk about the party's future.\n\nPlus, President Trump calling out Republicans. Can Congress function without his approval?\n\nGroup chat is back after the break.\n\nCORNISH: So, after recent primary victories by far-left, even Democratic socialist candidates in New York, the party is grappling with a surge that some have compared to the Tea Party movement Republicans faced 16 years ago. For some Democrats, that insurgent movement is not welcome.\n\nJAMES CARVILLE, DEMOCRATIC STRATEGIST: I actually do think it's time for Democrats to talk the \"s\" word \"schism.\" I really do. And everybody's always said, no, no, we -- we're coalition, we're big tent. And at some -- there's just some (EXPLETIVE DELETED) that I can't be in the same tent with.\n\nCORNISH: So, joining me now to discuss, Dr. Abdul El-Sayed. He is running for the Democratic nomination for the U.S. Senate in Michigan.\n\nThank you so much for being here. We had one of your opponents on last week, so I'm glad you could come in.\n\nFirst, can we talk about the \"s\" word, as Carville describes it?\n\nABDUL EL-SAYED (D), MICHIGAN SENATE CANDIDATE: Yes. You know, it's funny, because isn't he the guy who said it's the economy, stupid. I think that's the \"s\" word we should be talking about. It is the economy. If you go to Michigan, if you go to New York, if you go anywhere in the country, people are frustrated because they can't afford the basic means of a dignified life. The fact that the Democrats have not delivered on those issues, the fact that people feel like both sides of our politics are not listening, that's why you're seeing a lot of these candidates, who are speaking differently about that economy, winning.\n\nCORNISH: Isn't his argument that it's not the economy part he disagrees with, it's everything else. It's the things we spoke about earlier, policy about Israel and how whether or not to support that government and its operations. Maybe it's around billionaire taxes. They have substantive questions and concerns about the Democratic socialist position.\n\nEL-SAYED: I think one of the frustrations -- and, look, the real red scare we should be talking about is that Donald Trump is still president. Donald Trump is still doing things like taking us to wars we shouldn't be fighting.\n\nBut I do want to step back and -- we do this thing of dissecting our politics as if all the things are not related. That you can talk about foreign policy, but you don't have to relate that to the economy. Every dollar we send abroad to drop a bomb on another kid is a dollar we don't spend here to invest in your kids' school or your health care.\n\nThe reason that our economy is rigged so that we have a trillionaire and the average person can't afford their basic life is because we have an economy where we've allowed big corporations to buy and sell politicians to rig the system against us. We --\n\nCORNISH: So, you're ready to talk economy without being accused of being a communist, or you're basically like, those labels don't matter anymore?\n\nEL-SAYED: Well, number one, I think people look askance when folks from D.C. call other people communists because we've heard that play run I don't know how many times. But the second point about that is, I just think it's important that we don't center parties in our politics. We center the people who vote for parties and vote in our politics. And I think the problem is that we're having this debate about where the party is going, but we're not actually talking about where people's lives are going.\n\nAnd the politicians, the politics, that speaks to the lived experience of the average person that actually talks about how do we put money back in your pocket? How do we break the vice grip that corporations have on our politics?\n\nEL-SAYED: How do we make sure that you can have health care? That's the kind of politics that's going to win. So, if you don't like where the party is going, then run an\n\nalternative that's actually going to address peoples' issues. But so long as you're having this nagging debate about where the party is going from your comfortable home in wherever it is, I just think you're missing the point because too many people are uncomfortable in their homes or don't have a home in the first place.\n\nCORNISH: So, your opponent, Mallory McMorrow, was on our show last week, as I mentioned. She was criticizing your decision to embrace the support of streamer Hasan Piker to represent your campaign. And what she said was very specific. That she goes, look, I have a problem with him embracing this person in the wake of an attack on a synagogue. This is when a truck was driven into the synagogue.\n\nI want to play for you what she said after that.\n\nMALLORY MCMORROW (D), MICHIGAN STATE CANDIDATE: It could have been the largest mass killing of kids in this country's history. And to bring somebody in to represent your campaign, in my mind, is a very different decision than going on somebody's stream and talking to their audience.\n\nEL-SAYED: I condemned the Temple Israel attack immediately. Any act of anti-Semitism is wrong and has no place in our politics, no place in our society.\n\nBut I think what people find frustrating by that perspective is that, when you talk about the mass killing of children, we saw that done by our tax dollars in a genocide in Gaza. And it took, I don't know, two years to talk about that. And I think we have to take seriously the idea that the money that we spent to kill other people's kids there was money that we did not spend to take care of the kids that I was taking care of in Wayne County in Detroit to make sure they had --\n\nCORNISH: So, no answer about this embrace of him.\n\nDo you think people are making too much or too little about this?\n\nEL-SAYED: Look, you know, it's a pretty crazy -- you know, so, Hasan Piker was invited to stream from the DNC in 2024. We had a whole debate about whether or not the vice president should have gone on Rogan. The idea that we're going to tie people together and say, well, guilt by association so is just not in keeping with the way most of us think about the world.\n\nEL-SAYED: I'm sitting on a panel with a very diverse group of people. Did I vet all of you before I came and sat here because one of you might have said something I disagree with? I just think it's a ridiculous way to think about politics.\n\nCORNISH: Yes. Well, you're running for office, which is why you're in the hot seat.\n\nEL-SAYED: Well, I'm happy to be in the hot seat, but let me just speak to that.\n\nCORNISH: But this is why you're being vetted. I want to raise something. You used the word \"genocide.\"\n\nCORNISH: This is the kind of thing that people point to over and over again as a problem for a party that is trying to zip up its big tent.\n\nEL-SAYED: But, may I make --\n\nCORNISH: \"The Detroit Free Press\" editorial board just endorsed Mallory McMorrow and said that you are \"running a divisive campaign, casting\" your \"opponents as morally compromised.\"\n\nEL-SAYED: I think if you've taken money from the people who caused the problems in your life, and then come and tell people, hey, we're going to solve your problems, that's just inconsistent with being serious about solving problems. Now, if that's divisive, I think we need to have hard conversations in our party. I think we need to be talking about who's actually there to solve problems for you. If you're not serious about not taking money from the utility company as people's rates are going up, if you're not serious about not taking money from the health insurance corporations who just raised your premiums 15 percent and putting millions of people in bankruptcy, I'm so sorry, I don't think you're serious about solving the problems. If that makes me divisive, that's fine.\n\nBut look, the American public is going to get to pick. The Michiganders are going to get to pick. And whether we're talking about the parties writ large or we're talking about our Michigan race, it's on people to get to decide.\n\nEL-SAYED: And this is just what I'm saying. This is not a conversation about parties. So long as we are missing the conversation about everyday people and why they are struggling in their lives, we are missing the point of Democratic politics in the first place.\n\nCORNISH: OK, I want you guys -- do you have a question, actually?\n\nCHUCK ROCHA, FORMER SENIOR ADVISER TO BERNIE SANDERS' 2016 AND 2020 CAMPAIGNS: I do.\n\nROCHA: In Michigan, you know, it's a really unique place because of the auto industry and because of an influx of immigrants, lots of Latinos from south Texas, a lot of folks from lots of parts of the country have come in there. As the last working class consultant who never went to college, who worked for the steelworkers union, who have watched my brothers and sisters who grew up there like I did with a single mom trying to figure it out, none of them talked to me every day about the issues that are debated on TV like y'all just finished doing. They're talking to me about things costing too much and not making enough money. Most folks haven't seen real wage gains in years.\n\nCORNISH: Wait, Chuck, is this a question?\n\nROCHA: Yes. What are you seeing out there between you and the other candidates and what those people are saying? That's all I care about.\n\nEL-SAYED: Chuck, thank you for saying that. I'm honored to have earned the UAW endorsement. And look, my dad came to America to build cars. But you talk to autoworkers out in Michigan, Macomb County, in Detroit, and they'll tell you, look, my life has gotten harder to afford every single year for the past ten years. Doesn't matter who's president. Every year I struggle. And they keep telling me that I'm not going to be able to get further. And I'm watching Elon Musk become a trillionaire.\n\nCORNISH: Do you feel like you would enter a Congress and be able to work in a bipartisan way how -- given how you've spoken about these folks, not just in the party, but across?\n\nEL-SAYED: I'll work -- I'll work with anyone who wants to work with me to get things done. But I'll also tell you this, I'm not going to pretend like not calling out the problems that I see is going to make things better.\n\nEL-SAYED: The real conversation is not between me and 99 other senators when I get there, it's between me and the 350 million people. It's between all of us and the 350 million people who elect all of us. And that's the mistake that I think both parties are making. We're not having a conversation with the actual public, we're out here debating these issues and we're watching as this discussion is getting further and further away from the lived experience of everyday people.\n\nCORNISH: One issue I care about a lot on this show is A.I. and its effect on the economy to come. You have talked about public takeover, if I have that right, or privatization.\n\nEL-SAYED: Takeover was not the word. If you want to use that word.\n\nCORNISH: Oh, what word do you want to use.\n\nEL-SAYED: A.I. under democracy. I mean democracy is, like, you know, public takeover of government.\n\nCORNISH: Who would run the company, the government or the people who own the company?\n\nEL-SAYED: I think that if you have a technology that is going to vastly change the nature of the economy, it's really important that you have democratic oversight of that technology. So, if we call that a takeover, then we've had a takeover of a lot of different things. But I think democracy is a good thing.\n\nAnd A.I. is a scary new technology, while democracy is a very tried and true old technology. And I'm just saying that you should have democracy overseeing the way A.I. is being deployed.\n\nCORNISH: Well, another litmus test then. Would you turn down money from A.I. companies, and do you think other Democrats should?\n\nEL-SAYED: I turn -- I turn down money from all companies. I don't take corporate money.\n\nCORNISH: Have you turned down money from an A.I. company?\n\nEL-SAYED: I've taken -- turned down money from every company. I don't take corporate money.\n\nCORNISH: Should Democrats turn down money from A.I. companies?\n\nEL-SAYED: I think Democrats should turn down money from all companies, because you should not be bought by the people who have interests in making sure government works for them instead of working for everyday people. This is a simple thing.\n\nCORNISH: So, you've got a race coming up, August 4th. You going to spend more time back in state, or are you going to be out here talking more to the general voter?\n\nEL-SAYED: Well, I'll be out here talking to folks, but I spend almost all my time in Michigan. But since I was here, I figured I'd come and talk to you.\n\nCORNISH: I appreciate it, because you're an epidemiologist by trade, and y'all had a rough decade. I don't know any public health folks who have come out unscathed.\n\nEL-SAYED: I would tell you, I think we, as a country, had a rough decade.\n\nAnd we were trying to fix it, address it. And, you know, as an epidemiologist, I'm trained to understand problems as I see them and to try to solve them. So, I hope that I can apply that in our politics as well.\n\nCORNISH: OK. Dr. Abdul El-Sayed, thank you so much for being here.\n\nAnd thank you all for being in this conversation with us. We know you could be in a lot of places and we're glad you're here with us. I'm Audie Cornish, and the headlines are next.",
+  "segments": [
+    {
+      "seg": 2,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-30/segment/02",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nNew York Democratic Nominee Deletes Posts; Americans Disapproval of Israel; Michigan Senate Candidate Abdul El-Sayed (D) is Interviewed about his Race and the Party. Aired 6:30-7a ET\n\nAired June 30, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nAUDIE CORNISH, CNN ANCHOR: A CNN KFILE investigation uncovered deleted social media posts from Democratic congressional nominee Darializa Avila Chevalier's old Twitter account. So, the posts include favorable references to communism, Marxist ideology, and authoritarian communist figures. She says she has grown considerably since those posts. And when asked about President Trump accusing her of being a communist, she said this.\n\nDARIALIZA AVILA CHEVALIER (D), U.S. HOUSE CANDIDATE FROM NEW YORK: You know, I think that is -- that framing is one that I've been very proud to be able to say I don't respond to. One in which I have been very intentional to say, I won't be reactive.\n\nCORNISH: Group chat is back.\n\nI wanted to talk about this for two reasons. One, the tweets. This is a second round of going through her social media posts and finding politically unsavory things. Before we get to that, her saying, I'm just not going to react, is that going to work when you think of the consultants that are out there writing their ads right now, with just pictures of Marx and Lenin and a stamp over her face?\n\nCHUCK ROCHA, DEMOCRATIC STRATEGIST: Two things can happen at the same time. She can regret those tweets. She can say that they were stupid. She can not respond to them, like she did. But I'll promise you, there is a Republican out there now taking those tweets and going to put them on an ad that says all Democrats are this way.\n\nASHLEY DAVIS, FORMER HOMELAND SECURITY OFFICIAL: But for her seat, it doesn't matter. I mean she's going to win no matter what.\n\nDAVIS: So, I would think, in her -- in her situation --\n\nCORNISH: Well, here's just a sample. Here is President Trump, how he plans on talking about it.\n\nDAVIS: Right, but for her situation --\n\nCORNISH: On Monday, this is how he talked about the whole socialism thing.\n\nDAVIS: Yes. Not responding.\n\nDONALD TRUMP, PRESIDENT OF THE UNITED STATES: It's not socialism. It's really communism. They use the word social Democrat because it sounds so nice, but it's really communism you're talking about. I think it's the biggest threat to our nation there is, maybe since our founding. That includes World War I, World War II, September 11th. It includes the Pearl Harbor attack.\n\nCORNISH: So, it's not whether or not she can -- this blue state or this blue district will vote for a person who's in their leaning. It's, when you paint the broad brush, how far does it reach and does it stick?\n\nDAVIS: Well, I think that -- and we were talking about this in the break -- that Donald Trump kind of normalized some of the things that you've said. And people seem to either want to care or not want to care. And they --\n\nCORNISH: On social media specifically, yes.\n\nDAVIS: On social media in general.\n\nBut I have to say, she grew up, I would think, I don't know exactly how old she is, where --\n\nDAVIS: She's young, yes, Through this whole social media world, where you just put your whole life out there.\n\nDAVIS: And so, I do think times are changing. But as I also was saying, like, in the business community, it's also changing. I threaten my son every day not to put things, which is probably why the disappearing apps are more popular than ever, because you can't go back and find those as easy.\n\nCORNISH: But you're saying we're at an age where it would be hard pressed to find someone in their 30s at this point --\n\nDAVIS: Correct. You live your life on this. I mean, yes. CORNISH: Who doesn't have a social media background worth scrubbing.\n\nFRANCESCA CHAMBERS, WHITE HOUSE CORRESPONDENT, \"USA TODAY\": Why are you looking at me?\n\nCORNISH: You're a person who may.\n\nDAVIS: You're the (INAUDIBLE) of us.\n\nCORNISH: I don't -- a young person. No, seriously, I wrestle with this because also it's -- I would think it's fair game. If Democrats can go scrubbing for old tweets where you find out there are Republican candidates who have said things that are racist, doesn't it -- isn't it fair game to go after somebody who has said, abolish police, or said things that actually are even directly related to policy?\n\nCHAMBERS: I think regardless of what are in these social media posts from any candidate, that President Donald Trump and the Republican Party are going to make this argument about these Democratic socialists as alleged communists one way or another. I mean, he's made it, you know, very clear, going back to his comments on Friday, when he was at a religious conservative conference and he spent most of his speech, by the way, talking about this, talking about the threat of communism, explaining about how Democrats are going to try and offer you free stuff. And that might sound good for a couple of years.\n\nCORNISH: Do you think it's weird they're skipping straight to communism? Like isn't -- I just want to show, positive opinions of socialism. In 2010, yes, there's movement from Democrats. Democrats now view socialism more favorably. But Americans in general don't view it all that much better than they did in 2010.\n\nCORNISH: And I just wonder why you can't just critique socialism as is, and you have to go straight to communism.\n\nDAVIS: Communism is much more, if you're just branding them, and you know this as a communicator for campaigns, it's much easier to understand.\n\nCORNISH: (INAUDIBLE) to go straight back to the '50s.\n\nCORNISH: Love it. OK. Well --\n\nROCHA: Absolutely. And what we come down to in this is, in a -- in a time in a midterm, for all of you at home, national polls and the way the sentiment doesn't matter. It only matters in a handful of congressional races, none of which that are in the inside of any major city. They're all in the exurbs or the suburbs. So, you're talking to a group -- different group of people than you would in a downtown urban setting. And the real basis comes down to, do you care more about somebody's regretful tweet or the price of hamburger and eggs? That's what it's going to come down to. CORNISH: Well, also, in a new media market.\n\nI'm going to turn to another topic before I go. Hasan Piker, the streamer, Democratic activist, has been backing a lot of Democratic socialist candidates. He said this about the idea of going into people's background and want to play it for you guys.\n\nHASAN PIKER, STREAMER/DEMOCRATIC ACTIVIST: If you are advocating or advancing society in a direction that capital owners don't want, they're going to come after you. They're going to come after you. And if they can't find anything in your background, they're going to invent stuff, right? We saw this with Nadya Alyssa (ph). They didn't have anything that they can hit her on, so they just started, you know, they just started creating controversy off of her tweets. This is how these guys operate.\n\nCORNISH: He was talking about oppositional research. He was -- you're nodding.\n\nDAVIS: Yes, I mean, this is -- if you're going to run, everything is fair game. I mean this is why Chuck and I are never able to run for office.\n\nCORNISH: Well, let me state here --\n\nDAVIS: I mean this is like as old as time in regards to the -- everything's fair game. This is what you're putting yourself out there for.\n\nCORNISH: All right. Well, another thing that's become fair game, and the reason why I wanted to play Piker is this conversation about Israel, which continues to divide the party, particularly the Democratic Party.\n\nChevalier's opinions on that have also come up. Speaking on this sort of shifting landscape with Mayor Mamdani, who backed her, actually being asked to clarify his position on Israel. And here's what he had to say.\n\nJONATHAN KARL, ABC NEWS: And the idea of a Jewish state, Israel as a Jewish state, that's in the charter. That's the way it is now. I do you support that?\n\nMAYOR ZOHRAN MAMDANI (D), NEW YORK CITY: I've said time and again that I support the state of Israel as a state with equal rights. I believe that any state that -- KARL: But as a Jewish state is the question.\n\nMAMDANI: I think any state that privileges one religion over the other is one that I can't tell you I support, whether it be Israel or Saudi Arabia or anywhere else. And a lot of that comes back to a fundamental belief that we should all be considered equal, no matter what our faith is.\n\nCORNISH: So, this week, House Democratic leaders opposed an amendment that would block $3.3 billion in military aid to Israel. Leadership calls the measure flawed. Then you've got this growing progressive base that is pushing to break ranks. And if this amendment makes it to the floor, it could turn into a defining litmus test for the American left.\n\nSo, I want to talk to you guys for a couple reasons. First, I was under the impression that Paul -- Thomas Massie was part of this amendment, which is somebody who just lost a race, very much blamed AIPAC, blamed groups lobbying on behalf of the -- of Israel.\n\nDAVIS: Tucker Carlson starting to do -- you know, is doing this --\n\nCORNISH: Tucker Carlson straight up left the party, right?\n\nDAVIS: Exactly. Well, over -- and a big part of it is over Israel. So, I don't think this is just happening on the Democrat side. It's happening on both sides. But more on the Democrat side.\n\nAnd I also think, listen, it scares me, the anti-Semitic undertones that are happening throughout the country. Not whether they're Israel. It's just that the racism in general, I would call it. And so, it does make me nervous that it's happening.\n\nBut I think that this is going back to something like when you had all the Republicans say, if we win, we're never giving money to Ukraine. I think there is a lot of people that are just -- don't want Americans involved in other wars.\n\nWell, I think that there is a way, though, of saying, pretty definitively, that after October 7th the conversation around Israel has changed tremendously. Just looking at Pew research surveys from March. Looking at the people who have somewhat unfavorable opinions of Israel. We wanted to look at it via age. And for people under the age of 50, on the Democratic side, we've heard this, 84 percent. On the Republican side, 57. OK. So, we're clearing the majority mark. And then ages 50 plus, it's not that much better, OK? So, the vote -- these lawmakers are appealing to someone.\n\nAnd then there's American's views on Israel in general, in 2022, 55 percent were favorable, in 2026, 37 percent. And in that context, it makes more sense for me to have been reading a headline back in June, in \"Axios,\" where Trump was mad at Netanyahu, and he's yelling at him about Lebanon. But he doesn't just say that. He says, \"you're f-ing crazy\" and everyone hates you. And I thought that was a weird, tacit acknowledgment by the White House that the public sentiment is not in Netanyahu's favor.\n\nCHAMBERS: Well, I mean, I think President Trump is also frustrated with Netanyahu for other reasons because he's trying to get this peace agreement. He sees Netanyahu's strikes on Hezbollah in Lebanon as something that's, you know, helping to derail potentially a longer term agreement with Iran. So, there is a -- there's a few other things that are going on there.\n\nBut I wanted to pick up on what Ashley was saying about, I think this broader sentiment there is within the Democratic Party going back to October 7th in the 2024 election. We saw this with vice president, former Vice President Kamala Harris, you know, playing out over Israel. But you also see, within the Republican Party, this taking place on Israel.\n\nCORNISH: But can I go back to my point there --\n\nCORNISH: Because it's not -- I always joke that lawmakers are a lagging indicator. They're not at the forefront of what the public view is on Israel. They are followers. And so, are they looking at numbers and saying, wait a second, there's some vulnerability here. Maybe I should be speaking differently.\n\nROCHA: I can answer this. It matters in the base of the left of the Democrats and in the base right of the Republicans. It's a very, very divisive issue. And to my point, 400 congressional seats are safe, Democrat or Republican. So, you can only be beat on this issue in your primary. In the general election, Audie, I promise you, I'm making these ads. We don't mention either one of these to a swing voter because it's not their number one issue. They care about the price of everything in their life and not making enough money and they can't get ahead.\n\nNot saying it's not an important issue, but it's super important.\n\nCORNISH: Yes. I'm not saying that either, but I was showing you a poll of American's views, not extremist horseshoe views. We are talking a majority now.\n\nROCHA: But those numbers, if you looked at the base of the party, the folks who actually vote, it's even tremendously more.\n\nCORNISH: That's always code, the folks who actually vote.\n\nROCHA: Exactly right.\n\nCORNISH: I feel like that's a way of saying, there's some people who are excited now who aren't going to show up later.\n\nROCHA: Y'all got to remember, it's about winning elections.\n\nDAVIS: Elected officials have access to different information than the American people of why a safe Israel, a strong Israel, is very important for our national security.\n\nCORNISH: And are they conveying this well enough to the voters?\n\nDAVIS: I don't think they can.\n\nCORNISH: Or are they leaving this to the world of internet online personalities who will speak about it in more striking ways?\n\nDAVIS: They may be leaving it but -- they may be leaving it but I think that they'll take votes supporting Israel because how important -- they know how important it is. It's a hard (INAUDIBLE).\n\nCORNISH: Well, this is going to come up more. We're actually going to have a guest on who can talk about this and other things. We're going to talk about why the party is evolving one way or another. And we're going to have live here a Michigan Senate candidate, who's going to talk about the party's future.\n\nPlus, President Trump calling out Republicans. Can Congress function without his approval?\n\nGroup chat is back after the break.\n\nCORNISH: So, after recent primary victories by far-left, even Democratic socialist candidates in New York, the party is grappling with a surge that some have compared to the Tea Party movement Republicans faced 16 years ago. For some Democrats, that insurgent movement is not welcome.\n\nJAMES CARVILLE, DEMOCRATIC STRATEGIST: I actually do think it's time for Democrats to talk the \"s\" word \"schism.\" I really do. And everybody's always said, no, no, we -- we're coalition, we're big tent. And at some -- there's just some (EXPLETIVE DELETED) that I can't be in the same tent with.\n\nCORNISH: So, joining me now to discuss, Dr. Abdul El-Sayed. He is running for the Democratic nomination for the U.S. Senate in Michigan.\n\nThank you so much for being here. We had one of your opponents on last week, so I'm glad you could come in.\n\nFirst, can we talk about the \"s\" word, as Carville describes it?\n\nABDUL EL-SAYED (D), MICHIGAN SENATE CANDIDATE: Yes. You know, it's funny, because isn't he the guy who said it's the economy, stupid. I think that's the \"s\" word we should be talking about. It is the economy. If you go to Michigan, if you go to New York, if you go anywhere in the country, people are frustrated because they can't afford the basic means of a dignified life. The fact that the Democrats have not delivered on those issues, the fact that people feel like both sides of our politics are not listening, that's why you're seeing a lot of these candidates, who are speaking differently about that economy, winning.\n\nCORNISH: Isn't his argument that it's not the economy part he disagrees with, it's everything else. It's the things we spoke about earlier, policy about Israel and how whether or not to support that government and its operations. Maybe it's around billionaire taxes. They have substantive questions and concerns about the Democratic socialist position.\n\nEL-SAYED: I think one of the frustrations -- and, look, the real red scare we should be talking about is that Donald Trump is still president. Donald Trump is still doing things like taking us to wars we shouldn't be fighting.\n\nBut I do want to step back and -- we do this thing of dissecting our politics as if all the things are not related. That you can talk about foreign policy, but you don't have to relate that to the economy. Every dollar we send abroad to drop a bomb on another kid is a dollar we don't spend here to invest in your kids' school or your health care.\n\nThe reason that our economy is rigged so that we have a trillionaire and the average person can't afford their basic life is because we have an economy where we've allowed big corporations to buy and sell politicians to rig the system against us. We --\n\nCORNISH: So, you're ready to talk economy without being accused of being a communist, or you're basically like, those labels don't matter anymore?\n\nEL-SAYED: Well, number one, I think people look askance when folks from D.C. call other people communists because we've heard that play run I don't know how many times. But the second point about that is, I just think it's important that we don't center parties in our politics. We center the people who vote for parties and vote in our politics. And I think the problem is that we're having this debate about where the party is going, but we're not actually talking about where people's lives are going.\n\nAnd the politicians, the politics, that speaks to the lived experience of the average person that actually talks about how do we put money back in your pocket? How do we break the vice grip that corporations have on our politics?\n\nEL-SAYED: How do we make sure that you can have health care? That's the kind of politics that's going to win. So, if you don't like where the party is going, then run an\n\nalternative that's actually going to address peoples' issues. But so long as you're having this nagging debate about where the party is going from your comfortable home in wherever it is, I just think you're missing the point because too many people are uncomfortable in their homes or don't have a home in the first place.\n\nCORNISH: So, your opponent, Mallory McMorrow, was on our show last week, as I mentioned. She was criticizing your decision to embrace the support of streamer Hasan Piker to represent your campaign. And what she said was very specific. That she goes, look, I have a problem with him embracing this person in the wake of an attack on a synagogue. This is when a truck was driven into the synagogue.\n\nI want to play for you what she said after that.\n\nMALLORY MCMORROW (D), MICHIGAN STATE CANDIDATE: It could have been the largest mass killing of kids in this country's history. And to bring somebody in to represent your campaign, in my mind, is a very different decision than going on somebody's stream and talking to their audience.\n\nEL-SAYED: I condemned the Temple Israel attack immediately. Any act of anti-Semitism is wrong and has no place in our politics, no place in our society.\n\nBut I think what people find frustrating by that perspective is that, when you talk about the mass killing of children, we saw that done by our tax dollars in a genocide in Gaza. And it took, I don't know, two years to talk about that. And I think we have to take seriously the idea that the money that we spent to kill other people's kids there was money that we did not spend to take care of the kids that I was taking care of in Wayne County in Detroit to make sure they had --\n\nCORNISH: So, no answer about this embrace of him.\n\nDo you think people are making too much or too little about this?\n\nEL-SAYED: Look, you know, it's a pretty crazy -- you know, so, Hasan Piker was invited to stream from the DNC in 2024. We had a whole debate about whether or not the vice president should have gone on Rogan. The idea that we're going to tie people together and say, well, guilt by association so is just not in keeping with the way most of us think about the world.\n\nEL-SAYED: I'm sitting on a panel with a very diverse group of people. Did I vet all of you before I came and sat here because one of you might have said something I disagree with? I just think it's a ridiculous way to think about politics.\n\nCORNISH: Yes. Well, you're running for office, which is why you're in the hot seat.\n\nEL-SAYED: Well, I'm happy to be in the hot seat, but let me just speak to that.\n\nCORNISH: But this is why you're being vetted. I want to raise something. You used the word \"genocide.\"\n\nCORNISH: This is the kind of thing that people point to over and over again as a problem for a party that is trying to zip up its big tent.\n\nEL-SAYED: But, may I make --\n\nCORNISH: \"The Detroit Free Press\" editorial board just endorsed Mallory McMorrow and said that you are \"running a divisive campaign, casting\" your \"opponents as morally compromised.\"\n\nEL-SAYED: I think if you've taken money from the people who caused the problems in your life, and then come and tell people, hey, we're going to solve your problems, that's just inconsistent with being serious about solving problems. Now, if that's divisive, I think we need to have hard conversations in our party. I think we need to be talking about who's actually there to solve problems for you. If you're not serious about not taking money from the utility company as people's rates are going up, if you're not serious about not taking money from the health insurance corporations who just raised your premiums 15 percent and putting millions of people in bankruptcy, I'm so sorry, I don't think you're serious about solving the problems. If that makes me divisive, that's fine.\n\nBut look, the American public is going to get to pick. The Michiganders are going to get to pick. And whether we're talking about the parties writ large or we're talking about our Michigan race, it's on people to get to decide.\n\nEL-SAYED: And this is just what I'm saying. This is not a conversation about parties. So long as we are missing the conversation about everyday people and why they are struggling in their lives, we are missing the point of Democratic politics in the first place.\n\nCORNISH: OK, I want you guys -- do you have a question, actually?\n\nCHUCK ROCHA, FORMER SENIOR ADVISER TO BERNIE SANDERS' 2016 AND 2020 CAMPAIGNS: I do.\n\nROCHA: In Michigan, you know, it's a really unique place because of the auto industry and because of an influx of immigrants, lots of Latinos from south Texas, a lot of folks from lots of parts of the country have come in there. As the last working class consultant who never went to college, who worked for the steelworkers union, who have watched my brothers and sisters who grew up there like I did with a single mom trying to figure it out, none of them talked to me every day about the issues that are debated on TV like y'all just finished doing. They're talking to me about things costing too much and not making enough money. Most folks haven't seen real wage gains in years.\n\nCORNISH: Wait, Chuck, is this a question?\n\nROCHA: Yes. What are you seeing out there between you and the other candidates and what those people are saying? That's all I care about.\n\nEL-SAYED: Chuck, thank you for saying that. I'm honored to have earned the UAW endorsement. And look, my dad came to America to build cars. But you talk to autoworkers out in Michigan, Macomb County, in Detroit, and they'll tell you, look, my life has gotten harder to afford every single year for the past ten years. Doesn't matter who's president. Every year I struggle. And they keep telling me that I'm not going to be able to get further. And I'm watching Elon Musk become a trillionaire.\n\nCORNISH: Do you feel like you would enter a Congress and be able to work in a bipartisan way how -- given how you've spoken about these folks, not just in the party, but across?\n\nEL-SAYED: I'll work -- I'll work with anyone who wants to work with me to get things done. But I'll also tell you this, I'm not going to pretend like not calling out the problems that I see is going to make things better.\n\nEL-SAYED: The real conversation is not between me and 99 other senators when I get there, it's between me and the 350 million people. It's between all of us and the 350 million people who elect all of us. And that's the mistake that I think both parties are making. We're not having a conversation with the actual public, we're out here debating these issues and we're watching as this discussion is getting further and further away from the lived experience of everyday people.\n\nCORNISH: One issue I care about a lot on this show is A.I. and its effect on the economy to come. You have talked about public takeover, if I have that right, or privatization.\n\nEL-SAYED: Takeover was not the word. If you want to use that word.\n\nCORNISH: Oh, what word do you want to use.\n\nEL-SAYED: A.I. under democracy. I mean democracy is, like, you know, public takeover of government.\n\nCORNISH: Who would run the company, the government or the people who own the company?\n\nEL-SAYED: I think that if you have a technology that is going to vastly change the nature of the economy, it's really important that you have democratic oversight of that technology. So, if we call that a takeover, then we've had a takeover of a lot of different things. But I think democracy is a good thing.\n\nAnd A.I. is a scary new technology, while democracy is a very tried and true old technology. And I'm just saying that you should have democracy overseeing the way A.I. is being deployed.\n\nCORNISH: Well, another litmus test then. Would you turn down money from A.I. companies, and do you think other Democrats should?\n\nEL-SAYED: I turn -- I turn down money from all companies. I don't take corporate money.\n\nCORNISH: Have you turned down money from an A.I. company?\n\nEL-SAYED: I've taken -- turned down money from every company. I don't take corporate money.\n\nCORNISH: Should Democrats turn down money from A.I. companies?\n\nEL-SAYED: I think Democrats should turn down money from all companies, because you should not be bought by the people who have interests in making sure government works for them instead of working for everyday people. This is a simple thing.\n\nCORNISH: So, you've got a race coming up, August 4th. You going to spend more time back in state, or are you going to be out here talking more to the general voter?\n\nEL-SAYED: Well, I'll be out here talking to folks, but I spend almost all my time in Michigan. But since I was here, I figured I'd come and talk to you.\n\nCORNISH: I appreciate it, because you're an epidemiologist by trade, and y'all had a rough decade. I don't know any public health folks who have come out unscathed.\n\nEL-SAYED: I would tell you, I think we, as a country, had a rough decade.\n\nAnd we were trying to fix it, address it. And, you know, as an epidemiologist, I'm trained to understand problems as I see them and to try to solve them. So, I hope that I can apply that in our politics as well.\n\nCORNISH: OK. Dr. Abdul El-Sayed, thank you so much for being here.\n\nAnd thank you all for being in this conversation with us. We know you could be in a lot of places and we're glad you're here with us. I'm Audie Cornish, and the headlines are next."
+    }
+  ]
+}
