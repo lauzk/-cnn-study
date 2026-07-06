@@ -1,0 +1,524 @@
+{
+  "date": "2026-07-05",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-05/segment/01",
+  "vocabulary": [
+    {
+      "word": "tout",
+      "phonetic": "/taʊt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "兜售；吹捧",
+      "en": "to praise something or someone in order to make them seem attractive or successful",
+      "excerpt": "He touted past U.S. military victories and added some of the military operations initiated by his administration into the mix.",
+      "example_cn": "他吹嘘了美国过去的军事胜利，并将他政府发起的一些军事行动也加了进去。"
+    },
+    {
+      "word": "tame",
+      "phonetic": "/teɪm/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "驯服；征服",
+      "en": "to make something less wild or difficult to control",
+      "excerpt": "Americans crossed the Great Plains, scaled the Rockies, tamed the wilderness and conquered the frontier and built the empire.",
+      "example_cn": "美国人穿越了大平原，翻越了落基山脉，驯服了荒野，征服了边疆，建立了帝国。"
+    },
+    {
+      "word": "overhaul",
+      "phonetic": "/ˈoʊvərhɔːl/",
+      "pos": "v./n.",
+      "level": "六级",
+      "cn": "彻底检修；改革",
+      "en": "to repair or improve something completely",
+      "excerpt": "He also argued for the passage of the Save America Act, his proposed bill that would overhaul federal elections.",
+      "example_cn": "他还主张通过《拯救美国法案》，这是他提出的将彻底改革联邦选举的法案。"
+    },
+    {
+      "word": "blistering",
+      "phonetic": "/ˈblɪstərɪŋ/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "极热的；猛烈的",
+      "en": "extremely hot or intense",
+      "excerpt": "the celebrations faced major disruptions from blistering triple digit heat during the day to severe evening thunderstorms",
+      "example_cn": "庆祝活动面临重大干扰，从白天三位数的酷热到晚上的严重雷暴。"
+    },
+    {
+      "word": "evacuate",
+      "phonetic": "/ɪˈvækjueɪt/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "疏散；撤离",
+      "en": "to move people from a dangerous place to a safer place",
+      "excerpt": "severe evening thunderstorms that actually temporarily evacuated the National Mall",
+      "example_cn": "严重的晚间雷暴实际上暂时疏散了国家广场。"
+    },
+    {
+      "word": "deter",
+      "phonetic": "/dɪˈtɜːr/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "阻止；威慑",
+      "en": "to prevent someone from doing something by making them realize it will be difficult or have bad results",
+      "excerpt": "Delayed but not deterred, President Donald Trump still took to the stage for a late night speech.",
+      "example_cn": "虽然延迟但并未被阻止，唐纳德·特朗普总统仍然登台发表了深夜演讲。"
+    },
+    {
+      "word": "derail",
+      "phonetic": "/dɪˈreɪl/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "使出轨；使偏离轨道",
+      "en": "to cause a train to leave the tracks",
+      "excerpt": "Extreme heat can sometimes cause metal rails to buckle. No one was injured and all of the passengers were able to evacuate safely.",
+      "example_cn": "极端高温有时会导致金属轨道弯曲。无人受伤，所有乘客均安全疏散。"
+    },
+    {
+      "word": "buckle",
+      "phonetic": "/ˈbʌkl/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "弯曲；变形",
+      "en": "to bend or become bent, often because of pressure or heat",
+      "excerpt": "Extreme heat can sometimes cause metal rails to buckle.",
+      "example_cn": "极端高温有时会导致金属轨道弯曲。"
+    },
+    {
+      "word": "hose",
+      "phonetic": "/hoʊz/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "用软管冲洗",
+      "en": "to wash or spray something using a hose",
+      "excerpt": "Fireboats were brought in to hose it down to try to cool it off and get it working again.",
+      "example_cn": "消防船被调来用水管冲洗它，试图使其冷却并重新工作。"
+    },
+    {
+      "word": "contend",
+      "phonetic": "/kənˈtend/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "竞争；处理",
+      "en": "to compete or deal with a difficult situation",
+      "excerpt": "So anybody that still has some outdoor activities left for today will have to contend with that.",
+      "example_cn": "所以任何今天还有户外活动的人都必须应对这种情况。"
+    },
+    {
+      "word": "rebound",
+      "phonetic": "/rɪˈbaʊnd/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "反弹；回升",
+      "en": "to increase again after decreasing",
+      "excerpt": "We're going to start to see those temperatures rebounding back up again after maybe about a day or two of a little bit of a mini break.",
+      "example_cn": "在短暂的一两天休息后，我们将开始看到那些温度再次回升。"
+    },
+    {
+      "word": "lay to rest",
+      "phonetic": "/leɪ tuː rest/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "安葬；消除",
+      "en": "to bury a dead person; to put an end to something",
+      "excerpt": "Iran's supreme leader is being laid to rest.",
+      "example_cn": "伊朗最高领袖正在被安葬。"
+    },
+    {
+      "word": "slain",
+      "phonetic": "/sleɪn/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "被杀害的",
+      "en": "killed",
+      "excerpt": "crowds in Iran have been turning out for the second day of the public funeral for their slain supreme leader",
+      "example_cn": "伊朗民众连续第二天涌向被杀害的最高领袖的公开葬礼。"
+    },
+    {
+      "word": "prostrate",
+      "phonetic": "/ˈprɑːstreɪt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "俯伏；拜倒",
+      "en": "to lie with your face down, especially as a sign of worship or respect",
+      "excerpt": "So you're seeing a lot of images of people crying, praying, prostrating themselves",
+      "example_cn": "所以你看到很多人们哭泣、祈祷、俯伏在地的画面。"
+    },
+    {
+      "word": "schism",
+      "phonetic": "/ˈskɪzəm/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "分裂；分歧",
+      "en": "a division or separation within a group, especially a religious or political one",
+      "excerpt": "it could also signal a type of schism within the Iranians",
+      "example_cn": "这也可能预示着伊朗人内部的一种分裂。"
+    },
+    {
+      "word": "accommodation",
+      "phonetic": "/əˌkɑːməˈdeɪʃn/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "和解；住宿",
+      "en": "an agreement or arrangement between people or groups who have different opinions",
+      "excerpt": "Some of the Iranian leadership is going to be in favor of some type of accommodation with the U.S.",
+      "example_cn": "一些伊朗领导层将赞成与美国达成某种和解。"
+    },
+    {
+      "word": "hardliner",
+      "phonetic": "/ˈhɑːrdlaɪnər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "强硬派",
+      "en": "a person who has very strong and uncompromising beliefs",
+      "excerpt": "others are going to be much more hard line",
+      "example_cn": "其他人将更加持强硬路线。"
+    },
+    {
+      "word": "asymmetric warfare",
+      "phonetic": "/ˌeɪsɪˈmetrɪk ˈwɔːrfer/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "非对称战争",
+      "en": "warfare between forces of unequal strength, often involving unconventional tactics",
+      "excerpt": "Iran is very good at what we call asymmetric warfare.",
+      "example_cn": "伊朗非常擅长我们所说的非对称战争。"
+    },
+    {
+      "word": "proxy",
+      "phonetic": "/ˈprɑːksi/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "代理人；代理",
+      "en": "a person or organization that acts on behalf of another",
+      "excerpt": "it could be anything that is unconventional terrorist attacks that they sponsor through one of their proxies",
+      "example_cn": "可能是他们通过某个代理人发起的非常规恐怖袭击。"
+    },
+    {
+      "word": "ire",
+      "phonetic": "/ˈaɪər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "愤怒",
+      "en": "anger",
+      "excerpt": "But the most recent issues that really has been -- drew his ire has been their lack of participation in the Iran strikes.",
+      "example_cn": "但最近真正引起他愤怒的问题是他们没有参与对伊朗的打击。"
+    },
+    {
+      "word": "ramp up",
+      "phonetic": "/ræmp ʌp/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "增加；加强",
+      "en": "to increase something",
+      "excerpt": "NATO allies started to ramp up their defense spending.",
+      "example_cn": "北约盟国开始增加国防开支。"
+    },
+    {
+      "word": "fever pitch",
+      "phonetic": "/ˈfiːvər pɪtʃ/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "高度兴奋；狂热",
+      "en": "a state of great excitement or activity",
+      "excerpt": "it really reached a fever pitch, if you will, within the last decade or so.",
+      "example_cn": "在过去十年左右的时间里，它确实达到了狂热的程度。"
+    },
+    {
+      "word": "adversarial",
+      "phonetic": "/ˌædvərˈseriəl/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "对抗的；敌对的",
+      "en": "involving or characterized by conflict or opposition",
+      "excerpt": "especially in light of the adversarial relationship between Israel and Turkey",
+      "example_cn": "特别是考虑到以色列和土耳其之间的敌对关系。"
+    },
+    {
+      "word": "espouse",
+      "phonetic": "/ɪˈspaʊz/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "支持；拥护",
+      "en": "to support a belief, idea, or cause",
+      "excerpt": "due to some of the rhetoric that's been espoused by President Erdogan",
+      "example_cn": "由于埃尔多安总统所宣扬的一些言论。"
+    },
+    {
+      "word": "misdemeanor",
+      "phonetic": "/ˌmɪsdɪˈmiːnər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "轻罪",
+      "en": "a crime that is considered less serious than a felony",
+      "excerpt": "Paul Pelosi could be facing a misdemeanor charge for a hit and run accident",
+      "example_cn": "保罗·佩洛西可能因肇事逃逸面临轻罪指控。"
+    },
+    {
+      "word": "mortar",
+      "phonetic": "/ˈmɔːrtər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "迫击炮；灰浆",
+      "en": "a short cannon that fires shells at a high angle; a mixture of cement, sand, and water used in building",
+      "excerpt": "We're just hoping it was just the mortar that went off underneath but definitely felt the big bang.",
+      "example_cn": "我们只希望是下面的迫击炮爆炸了，但确实感觉到了巨大的爆炸声。"
+    },
+    {
+      "word": "echo down through the ages",
+      "phonetic": "/ˈekoʊ daʊn θruː ði ˈeɪdʒɪz/",
+      "pos": "phrase",
+      "level": "专八",
+      "cn": "流传千古",
+      "en": "to be remembered or have an impact for a very long time",
+      "excerpt": "Some words that hopefully will be echoing down through the ages",
+      "example_cn": "一些有望流传千古的话语。"
+    },
+    {
+      "word": "momentous",
+      "phonetic": "/moʊˈmentəs/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "重大的；重要的",
+      "en": "very important because of having a great effect on future events",
+      "excerpt": "trying to sort of meet the moment and rise to the occasion for something as momentous as the 250th anniversary",
+      "example_cn": "试图应对这一时刻，迎接像250周年这样重大的事件。"
+    },
+    {
+      "word": "dysfunctional",
+      "phonetic": "/dɪsˈfʌŋkʃənl/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "功能失调的；不正常的",
+      "en": "not working normally or properly",
+      "excerpt": "it says something about Congress that as dysfunctional as it's been as troubled as it has been in this session",
+      "example_cn": "这说明了国会的问题，尽管它在本届会议中功能失调、麻烦不断。"
+    },
+    {
+      "word": "amenable",
+      "phonetic": "/əˈmiːnəbl/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "顺从的；愿意接受的",
+      "en": "willing to accept or be influenced by something",
+      "excerpt": "they're going to really be amenable to it",
+      "example_cn": "他们会非常愿意接受它。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "The president devoted much of his speech to America's history and its strength.",
+      "cn": "总统的演讲大部分内容都致力于讲述美国的历史和实力。",
+      "structure": "主语 + 谓语 + 宾语 + 状语",
+      "analysis": "简单句，'devoted...to' 是固定搭配，意为'把...用于'。"
+    },
+    {
+      "en": "He touted past U.S. military victories and added some of the military operations initiated by his administration into the mix.",
+      "cn": "他吹嘘了美国过去的军事胜利，并将他政府发起的一些军事行动也加了进去。",
+      "structure": "主语 + 谓语 + 宾语1 + 并列谓语 + 宾语2 + 后置定语",
+      "analysis": "并列谓语结构，'initiated by his administration' 是过去分词短语作后置定语修饰 'military operations'。"
+    },
+    {
+      "en": "Americans crossed the Great Plains, scaled the Rockies, tamed the wilderness and conquered the frontier and built the empire.",
+      "cn": "美国人穿越了大平原，翻越了落基山脉，驯服了荒野，征服了边疆，建立了帝国。",
+      "structure": "主语 + 并列谓语（多个动词短语）",
+      "analysis": "多个并列谓语，描述一系列动作，增强气势。"
+    },
+    {
+      "en": "While the president largely stuck to his script, he did get political in his remarks.",
+      "cn": "虽然总统基本上遵循了讲稿，但他的言论确实带有政治色彩。",
+      "structure": "让步状语从句 + 主句",
+      "analysis": "'While' 引导让步状语从句，主句用 'did' 强调。"
+    },
+    {
+      "en": "He brought up communism multiple times throughout his speech, and he also argued for the passage of the Save America Act, his proposed bill that would overhaul federal elections.",
+      "cn": "他在演讲中多次提到共产主义，还主张通过《拯救美国法案》，这是他提出的将彻底改革联邦选举的法案。",
+      "structure": "并列句 + 同位语 + 定语从句",
+      "analysis": "'his proposed bill' 是 'the Save America Act' 的同位语，'that would overhaul federal elections' 是定语从句修饰 'bill'。"
+    },
+    {
+      "en": "The fireworks launched from 10 different sites across Washington, D.C., and may have set a world record for the largest firework display in history.",
+      "cn": "烟花从华盛顿特区10个不同地点发射，可能创造了历史上最大烟花表演的世界纪录。",
+      "structure": "并列谓语",
+      "analysis": "'launched' 和 'may have set' 并列，'may have set' 表示对过去的推测。"
+    },
+    {
+      "en": "It was a historic milestone, years in the making, but the celebrations faced major disruptions from blistering triple digit heat during the day to severe evening thunderstorms that actually temporarily evacuated the National Mall.",
+      "cn": "这是一个历史性的里程碑，酝酿多年，但庆祝活动面临重大干扰，从白天三位数的酷热到晚上的严重雷暴，后者实际上暂时疏散了国家广场。",
+      "structure": "并列句 + 定语从句",
+      "analysis": "'years in the making' 是插入语，'that actually temporarily evacuated the National Mall' 是定语从句修饰 'thunderstorms'。"
+    },
+    {
+      "en": "Delayed but not deterred, President Donald Trump still took to the stage for a late night speech.",
+      "cn": "虽然延迟但并未被阻止，唐纳德·特朗普总统仍然登台发表了深夜演讲。",
+      "structure": "形容词短语作状语 + 主句",
+      "analysis": "'Delayed but not deterred' 是过去分词短语作状语，表示让步。"
+    },
+    {
+      "en": "Over the last two days, a fierce heat wave also forced organizers to alter or cancel events in the capital and in communities all along the East Coast.",
+      "cn": "在过去两天里，一场强烈的热浪也迫使组织者改变或取消了首都和东海岸沿线社区的活动。",
+      "structure": "时间状语 + 主语 + 谓语 + 宾语 + 宾补 + 地点状语",
+      "analysis": "'forced organizers to alter or cancel' 是 'force sb. to do sth.' 结构。"
+    },
+    {
+      "en": "The heat is also causing unhealthy air quality in some cities.",
+      "cn": "高温还导致一些城市的空气质量不健康。",
+      "structure": "主语 + 谓语 + 宾语 + 宾补",
+      "analysis": "'causing...air quality' 是动宾结构，'unhealthy' 是宾语补足语。"
+    },
+    {
+      "en": "On top of that, the extended fireworks displays will likely only make the air quality worse.",
+      "cn": "除此之外，延长的烟花表演可能只会使空气质量更差。",
+      "structure": "状语 + 主语 + 谓语 + 宾语 + 宾补",
+      "analysis": "'make the air quality worse' 是 'make + 宾语 + 宾补' 结构。"
+    },
+    {
+      "en": "We've also learned that more than 50 people were treated for heat related illnesses at the Freedom 250 celebration.",
+      "cn": "我们还了解到，在自由250庆祝活动中，有50多人因与高温有关的疾病接受了治疗。",
+      "structure": "主句 + 宾语从句",
+      "analysis": "'that' 引导宾语从句，从句为被动语态。"
+    },
+    {
+      "en": "Extreme heat can sometimes cause metal rails to buckle.",
+      "cn": "极端高温有时会导致金属轨道弯曲。",
+      "structure": "主语 + 谓语 + 宾语 + 宾补",
+      "analysis": "'cause...to buckle' 是 'cause sb./sth. to do' 结构。"
+    },
+    {
+      "en": "The heat caused the metal to expand to the point that the bridge could no longer close.",
+      "cn": "高温导致金属膨胀到桥无法再关闭的程度。",
+      "structure": "主语 + 谓语 + 宾语 + 宾补 + 结果状语从句",
+      "analysis": "'to the point that' 引导结果状语从句。"
+    },
+    {
+      "en": "Fireboats were brought in to hose it down to try to cool it off and get it working again.",
+      "cn": "消防船被调来用水管冲洗它，试图使其冷却并重新工作。",
+      "structure": "被动语态 + 目的状语",
+      "analysis": "'to hose it down' 是目的状语，'to try to cool it off and get it working again' 进一步说明目的。"
+    },
+    {
+      "en": "I estimate that we threw probably about 3 million gallons of water at the bridge while we were operating.",
+      "cn": "我估计我们在操作期间向桥上喷了大约300万加仑的水。",
+      "structure": "主句 + 宾语从句 + 时间状语从句",
+      "analysis": "'that' 引导宾语从句，'while we were operating' 是时间状语从句。"
+    },
+    {
+      "en": "And even a couple places, believe it or not, may actually get below average in a few days from now.",
+      "cn": "而且，信不信由你，甚至有几个地方几天后可能会低于平均水平。",
+      "structure": "插入语 + 主句",
+      "analysis": "'believe it or not' 是插入语。"
+    },
+    {
+      "en": "So you just got to get through really the kind of this last day of the heat in some areas for today, but vastly different than yesterday.",
+      "cn": "所以你只需要熬过今天一些地区最后一天的高温，但与昨天截然不同。",
+      "structure": "并列句",
+      "analysis": "'but' 连接两个分句，表示对比。"
+    },
+    {
+      "en": "Now, we do still have several ongoing showers and thunderstorms across much of the country.",
+      "cn": "现在，全国大部分地区确实仍有几场持续的阵雨和雷暴。",
+      "structure": "简单句",
+      "analysis": "'do' 用于强调。"
+    },
+    {
+      "en": "Damaging winds will be the primary concern.",
+      "cn": "破坏性大风将是主要担忧。",
+      "structure": "简单句",
+      "analysis": "主系表结构。"
+    },
+    {
+      "en": "So anybody that still has some outdoor activities left for today will have to contend with that.",
+      "cn": "所以任何今天还有户外活动的人都必须应对这种情况。",
+      "structure": "主句 + 定语从句",
+      "analysis": "'that still has some outdoor activities left for today' 是定语从句修饰 'anybody'。"
+    },
+    {
+      "en": "Speaking of break, we are finally going to get one from the heat.",
+      "cn": "说到休息，我们终于可以从高温中解脱一下了。",
+      "structure": "分词短语作状语 + 主句",
+      "analysis": "'Speaking of break' 是现在分词短语作状语。"
+    },
+    {
+      "en": "Keep in mind the average high this time of year is 89.",
+      "cn": "记住，一年中这个时候的平均最高气温是89华氏度。",
+      "structure": "祈使句 + 宾语从句",
+      "analysis": "'Keep in mind' 是祈使句，后面省略了 'that' 的宾语从句。"
+    },
+    {
+      "en": "We have been well above that the last few days.",
+      "cn": "过去几天我们一直远高于那个水平。",
+      "structure": "现在完成进行时",
+      "analysis": "'have been well above' 表示持续状态。"
+    },
+    {
+      "en": "We will be pretty close to that starting tomorrow.",
+      "cn": "从明天开始我们将非常接近那个水平。",
+      "structure": "将来时 + 时间状语",
+      "analysis": "'starting tomorrow' 是现在分词短语作时间状语。"
+    },
+    {
+      "en": "And then by the time we get to the middle of the week, look at this 84.",
+      "cn": "然后到周中，看这个84华氏度。",
+      "structure": "时间状语从句 + 祈使句",
+      "analysis": "'by the time' 引导时间状语从句。"
+    },
+    {
+      "en": "We're actually about five degrees below normal for a change.",
+      "cn": "我们实际上比正常水平低了大约5度，算是变化了。",
+      "structure": "简单句",
+      "analysis": "'for a change' 是固定短语，意为'为了改变一下'。"
+    },
+    {
+      "en": "And that's going to be the case for areas of the mid-Atlantic, the northeast.",
+      "cn": "中大西洋和东北部地区也将是这种情况。",
+      "structure": "简单句",
+      "analysis": "'be the case' 意为'是这种情况'。"
+    },
+    {
+      "en": "But the opposite is going to take place in the Midwest.",
+      "cn": "但相反的情况将发生在中西部。",
+      "structure": "简单句",
+      "analysis": "'take place' 意为'发生'。"
+    },
+    {
+      "en": "We're going to start to see those temperatures rebounding back up again after maybe about a day or two of a little bit of a mini break.",
+      "cn": "在短暂的一两天休息后，我们将开始看到那些温度再次回升。",
+      "structure": "将来时 + 时间状语",
+      "analysis": "'after maybe about a day or two of a little bit of a mini break' 是时间状语。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "美国独立250周年庆典",
+      "content": "2026年7月4日是美国独立250周年，全国各地举行了庆祝活动，包括音乐会、游行和烟花表演。总统特朗普在华盛顿发表演讲，强调美国历史和军事胜利，并推动《拯救美国法案》。",
+      "keywords": "July 4th, 250th anniversary, Trump speech, fireworks, Save America Act"
+    },
+    {
+      "title": "极端天气影响",
+      "content": "美国东海岸遭遇极端高温和雷暴天气，导致庆祝活动中断、列车脱轨、桥梁卡住等事故。华盛顿特区有50多人因高温相关疾病接受治疗。",
+      "keywords": "heat wave, thunderstorms, train derailment, bridge stuck, heat-related illnesses"
+    },
+    {
+      "title": "伊朗最高领袖葬礼",
+      "content": "伊朗最高领袖哈梅内伊在美以联合打击中身亡，伊朗举行大规模公开葬礼，预计1500万人参加。其子穆杰塔巴·哈梅内伊继任但未公开露面，引发外界关注。",
+      "keywords": "Iran, Supreme Leader, Khamenei, funeral, successor, mourning"
+    },
+    {
+      "title": "特朗普与北约关系",
+      "content": "特朗普对北约盟友在伊朗战争中的不参与表示不满，并推动北约国家将国防开支提高到GDP的5%。他计划出席在土耳其举行的北约峰会，与埃尔多安会面。",
+      "keywords": "NATO, Turkey, defense spending, Trump, Erdogan, F-35"
+    },
+    {
+      "title": "美国中期选举与参议院控制权",
+      "content": "CNN首次分析11月中期选举中可能翻转的参议院席位，这将影响权力平衡。特朗普推动的《拯救美国法案》因争议性大而面临阻力。",
+      "keywords": "midterm elections, Senate, flip, Save America Act, voter ID"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nTrump Gives July 4th Speech After Storm Delays; Forty-Minute Massive Fireworks Display Lights Up D.C. Sky; Storms And Severe Heat Disrupt July 4th Events On The East Coast; Fifty-One People Treated For Heat-Related Ailments At D.C. July 4th Event; Extreme Heat Causes Passenger Train To Derail In Virginia; New York Bridge Gets Stuck In Up Position Due To Extreme Heat; Heat, Storms, Impact July 4th Celebrations Across The Country; Iranians Mourn Death Of Slain Supreme Leader Ali Khamenei; Trump To Attend NATO Summit In Turkey This Week. Trump Delivers 40-Minute Late-Night Speech In DC; The Battle For November: Which Senate Seats Are Likely To Flip?; Pope Visit To Migrant Gateway Island Delivers Global Message. Aired 6-7a ET\n\nAired July 05, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nBRAD SMITH, CNN ANCHOR: Welcome to CNN THIS MORNING. Here's what you need to know to start your Sunday morning. Extreme heat and storms delayed but did not stop the July celebrations across the country for the fourth. A look at how Americans celebrated the country's 250th anniversary and President Trump's message to the country, coming up.\n\nAnd happening now, Iranians are once again gathering to mourn former supreme leader Ayatollah Ali Khamenei. The defiant message coming from Tehran this morning.\n\nAnd a bitter battle brewing for control of the Senate in the November midterms. And for the first time, CNN has a look at the states that are most likely to flip and what that means for the balance of power.\n\nPlus, a close call over the skies of Chicago.\n\nUNIDENTIFIED PILOT: Tower, we just had a firework hit our plane. Delta 1076. We're continuing.\n\nUNIDENTIFIED AIR TRAFFIC CONTROL: Roger.\n\nSMITH: It is Sunday, July 5th. Thank you so much for joining us. I'm Brad Smith in for Victor Blackwell.\n\nConcerts, parades, fireworks lit up the cities in all 50 states for America's 250th birthday. In Washington after a storm related delay of nearly two hours, President Trump took center stage to cap off the day's events. The president devoted much of his speech to America's history and its strength. He touted past U.S. military victories and added some of the military operations initiated by his administration into the mix.\n\nDONALD TRUMP, PRESIDENT OF THE UNITED STATES: Our rise to being the world's strongest and most powerful nation was no accident of history. We rebuilt our military in my first term. We use it a little bit in our, actually, I should say third term, but I won't do that because I don't want any controversy. But we use it and we've had tremendous success.\n\nYou look at Venezuela, you look at Iran. We wiped it out. Wiped out their military. Americans crossed the Great Plains, scaled the Rockies, tamed the wilderness and conquered the frontier and built the empire. It's called the empire of liberty.\n\nSMITH: Trump also thanked U.S. heroes and veterans who fought for America's freedom. He brought out three veterans from World War II, calling them truly the greatest generation.\n\nWhile the president largely stuck to his script, he did get political in his remarks. He brought up communism multiple times throughout his speech, and he also argued for the passage of the Save America Act, his proposed bill that would overhaul federal elections.\n\nTRUMP: Today, our country is winning again, and we're winning like never before. America is back, and we want to keep America great, and we will do so by approving the Save America Act, which means all voters must show voter I.D. All voters must provide a little thing called proof of citizenship. And there will be no mail in ballots except for illness, disability, military deployment, or travel.\n\nSMITH: So following Trump's remarks, a massive 40-minute firework display took place over D.C. skies. The fireworks launched from 10 different sites across Washington, D.C., and may have set a world record for the largest firework display in history.\n\nErrol Louis joins us now -- well, later on to break down the big themes in Trump's address. Really excited for that conversation, clearly. That address to the nation and the reactions from lawmakers going to be broken down in that conversation.\n\nStaying with America's 250th anniversary, it was a historic milestone, years in the making, but the celebrations faced major disruptions from blistering triple digit heat during the day to severe evening thunderstorms that actually temporarily evacuated the National Mall. Michael Yoshida is in Washington, D.C. with the details on how the weather affected yesterday's celebrations.\n\n(BEGIN VIDEOTAPE) MICHAEL YOSHIDA, CNN NATIONAL CORRESPONDENT (voice-over): Gates opened at the Salute to America event on the National Mall around 5:00 p.m., Saturday, despite the intense heat.\n\nA severe thunderstorm forced an evacuation just a couple hours later. Delayed but not deterred, President Donald Trump still took to the stage for a late night speech.\n\nTRUMP: This is the big day. We want July fourth. We're not looking for July something else, because this is the 250th anniversary of the declaration of independence. Nothing like it.\n\nYOSHIDA (voice-over): Trump's celebration for America's 250th anniversary promised a record breaking firework show.\n\nSTEPHEN VITALE, CEO, PYROTECNICO: We're going for the world record, but most importantly, we want the show to be memorable and esthetically beautiful for the crowd and something that people will remember forever.\n\nYOSHIDA (voice-over): Over the last two days, a fierce heat wave also forced organizers to alter or cancel events in the capital and in communities all along the East Coast. In Washington, D.C., the opening of the Great American State Fair was postponed by two hours, Saturday. Friday, it had to temporarily shut down due to the heat.\n\nUNIDENTIFIED FEMALE: We were told that they were closing it down due to the heat. A lot of people were passing out.\n\nYOSHIDA (voice-over): First responders were on hand to quickly respond to any emergencies.\n\nUNIDENTIFIED MALE: Fourth of July is typically our busiest day of the year, where we run five to 600 calls a day. I think we're going to be over 1,000 this weekend.\n\nYOSHIDA (voice-over): The heat is also causing unhealthy air quality in some cities. On top of that, the extended fireworks displays will likely only make the air quality worse.\n\nIn Washington, I'm Michael Yoshida, reporting.\n\nSMITH: All right. Thank you, Michael. We've also learned that more than 50 people were treated for heat related illnesses at the Freedom 250 celebration. And take a look at this. D.C. metro officials, they say that the heat caused this train to derail. Extreme heat can sometimes cause metal rails to buckle. No one was injured and all of the passengers were able to evacuate safely.\n\nNow in upstate New York, the heat is blamed for causing a bridge to get stuck in the up position. The heat caused the metal to expand to the point that the bridge could no longer close. Fireboats were brought in to hose it down to try to cool it off and get it working again.\n\nCAPT. MICHAEL KICK, BUFFALO FIRE DEPARTMENT (on the phone): We were out for about five hours, flowing water from the Buffalo River onto the Michigan Street Bridge in an attempt to cool it down. I estimate that we threw probably about 3 million gallons of water at the bridge while we were operating.\n\nSMITH: CNN meteorologist Allison Chinchar with us now to break down more of this. I mean, things finally starting to cool down a little bit, it seems, hopefully.\n\nALLISON CHINCHAR, CNN METEOROLOGIST: Yes. And even a couple places, believe it or not, may actually get below average in a few days from now. So you just got to get through really the kind of this last day of the heat in some areas for today, but vastly different than yesterday.\n\nNow, we do still have several ongoing showers and thunderstorms across much of the country. And you can see they're really scattered. We've got some just to the east of Chicago. We've got other areas across the Central Plains, portions of the northeast that are also looking at some few areas of showers and thunderstorms.\n\nThe main targets for today, it's going to be kind of a U-shaped here, where were looking at some of those showers and thunderstorms. It starts across portions of Texas and Oklahoma, stretches down through the southeast and then up into the mid-Atlantic and northeast. That's where you're going to have the best chance for those showers and thunderstorms.\n\nDamaging winds will be the primary concern. We could have some large hail, especially closer into the plains, and a lot of frequent lightning. So anybody that still has some outdoor activities left for today will have to contend with that.\n\nHere's a look at the forecast radar. Again, even as we go through the afternoon, you'll start to see more and more of them firing up across the Midwest, the southeast, southern plains, those kind of areas. They will continue through the evening and overnight timeline. So again, these are going to be ongoing, really kind of those typical summertime pop up showers and thunderstorms. They fire up, they move out, you know, and then you get a little bit of a break afterwards.\n\nSpeaking of break, we are finally going to get one from the heat. Take a look at this. Say Washington, D.C., for example. Keep in mind the average high this time of year is 89. We have been well above that the last few days. We will be pretty close to that starting tomorrow.\n\nAnd then by the time we get to the middle of the week, look at this 84. We're actually about five degrees below normal for a change. And that's going to be the case for areas of the mid-Atlantic, the northeast. But the opposite is going to take place in the Midwest. We're going to start to see those temperatures rebounding back up again after maybe about a day or two of a little bit of a mini break. But I think at this point, we'll take it.\n\nSMITH: All right. The I-95 corridor needs to hear this today.\n\nSMITH: Allison, thank you so much. Well, next up, a country in mourning. Iran's supreme leader is being laid to rest. We will explain what this means for negotiations with the U.S. moving forward.\n\nPlus, fireworks weren't the only thing lighting up the night sky over the Brooklyn Bridge. Details after the break.\n\nAnd we have some alarming cockpit audio. It was recorded when a Delta pilot reported that his plane was hit by fireworks. All that and more coming up.\n\nSMITH: This morning in the Middle East, crowds in Iran have been turning out for the second day of the public funeral for their slain supreme leader, Ayatollah Ali Khamenei. Now Iran's health ministry says an estimated 15 million mourners are expected to take part in the public farewell.\n\nThe supreme leader was killed by an Israeli strike on the first day of the joint U.S. Israeli war on Iran. His sons were seen weeping at his funeral, but Khamenei's successor, his son, Mojtaba Khamenei, has so far not been seen nor heard from today.\n\nLet's go to CNN's Leila Gharagozlou with more. What have we seen? What have we watched play out as this nation is in mourning?\n\nLEILA GHARAGOZLOU, CNN PRODUCER: Yes. So today is the second day of the public mourning ceremony. So, average Iranians can go and pay their respects. We've seen quite an influx of people into the capital city, Tehran, to pay their respects. And this crowd is expected to get even bigger ahead of tomorrow's procession through the city.\n\nNow, we've seen a lot of outward displays of emotion and grief, which are very typical for Iranian funerals. So you're seeing a lot of images of people crying, praying, prostrating themselves, including leaders like the speaker of parliament, Mohammad Bagher Ghalibaf, and the president, Masoud Pezeshkian, just openly crying and showing their grief and emotion.\n\nI think what's really important to understand about this is that Ayatollah Ali Khamenei wasn't just a head of state. He is a really important figure within the Shiite Islamic world. So, his passing is one that is spreading beyond just the borders of Iran and is much more emotional than it might have been if it was just a world leader. Now, we're expecting to have, after the processions tomorrow, the funeral move to other key cities, Qom being one of them, which is one of the epicenters of Iran's religious life. A lot of the seminaries are there. From there, they'll move to Karbala and Najaf in Iraq before ending in Mashhad, which is the ayatollah's home town.\n\nWe don't know whether we're going to see his son Mojtaba Khamenei, as you mentioned. He has not been seen since he took over as supreme leader. If we do see him, it's likely that it could be on Thursday, but even that is very up in the air. So, a lot more funeral processions to come over the next six days, and everyone's going to be waiting to see if we see the new supreme leader.\n\nSMITH: All right. A lot to keep tabs on over those next several days here. Leila Gharagozlou, thank you so much.\n\nLet's discuss this further with CNN military analyst and retired Air Force colonel Cedric Leighton. We also have CNN global affairs analyst Alex Plitsas joining us.\n\nYou know, as we think about what Leila was just laying out this next few several days here, there's going to be a lot for the U.S. to continue to watch as well as there are a lot of emotions that could play into talks that once again need to restart or at least get some more solid footing.\n\nColonel Leighton, I wonder how much this and the talks to end the war are ongoing. How does this public funeral mark a new phase, if any, at all?\n\nCOL. CEDRIC LEIGHTON (RET.), CNN MILITARY ANALYST: Well, Brad, good morning. I think what it does is, you know, first of all, it's a necessary passage for the Iranians to go through. You know, the funerals are extremely important for them, not only from a political standpoint, but also, as Leila pointed out, from a cultural and a religious perspective. So, this is going to be a critical moment for the Iranians.\n\nAnd one of the key things to watch is the fact that many people in these funeral processions are calling for revenge, and that could very well color the Iranian response to any U.S. diplomatic overtures, any U.S. military movements, and, frankly, any U.S. political and diplomatic movements. So that's going to be, I think, a critical element here.\n\nAnd if that -- you know, if that colors the Iranian response, it could also signal a type of schism within the Iranians. Some of the Iranian leadership is going to be in favor of some type of accommodation with the U.S., and others are going to be much more hard line. And a funeral like this gives the hardliners a lot more strength, basically, and increases their position and their leverage in a situation of this type.\n\nSMITH: Alex, I wonder what should we read into and not read into as well on the late supreme leader's son and successor, Mojtaba Khamenei's absence at the funeral at least so far to this juncture? ALEX PLITSAS, CNN GLOBAL AFFAIRS ANALYST: So, there are reports that have come out over the last several months that he was pretty severely wounded, potentially multiple surgeries on his arm. There could have been a prosthetic that was necessary for one of his legs, severe burns on his face. So, it's possible that this is due to the severe nature of the injuries that he sustained.\n\nThere was some questions for a while as to whether or not he was actually alive. But by and large, and speaking to a number of the GCC partners in the gulf and then to U.S. officials, the working theory now is that he is, in fact, alive and actively involved in state affairs, and this is likely due to his injuries.\n\nSMITH: And so, Colonel Leighton, I wonder, as you were bringing up a moment ago, just to follow up on that, some of the mourners, they have expressed a desire for vengeance against the United States. What does this mean for U.S. national security threats, interests? How has all of that heightened as a result?\n\nLEIGHTON: Well, certainly, I think increases at least -- potentially increases the threat level against U.S. forces especially in the Gulf region. But it also has implications worldwide. And Iran is very good at what we call asymmetric warfare. And what that means is, you know, it could be anything that is unconventional terrorist attacks that they sponsor through one of their proxies. Or it could mean cyber- attacks or a combination of those kinds of things.\n\nAnd one of the key elements, you know, of those terrorist attacks, especially, would be potentially, and I hate to bring this up, but targeted assassinations of key officials, and that is something that they are actively talking about, at least in public. Whether or not they actually do that, of course, is a very different issue.\n\nSMITH: Alex, it is notable as well that NATO made sure to send a public congratulations to the U.S. on the 250th anniversary of its independence. I mean, as all of these different factors are playing out on the world stage and with diplomacy and with all of the posturing, do you expect that to make any difference in smoothing over bad feelings that Trump has towards NATO members here? And is the strategy to tread lightly?\n\nPLITSAS: I mean, it was appropriate for the alliance to send that message. And it was, I think, welcomed. But at the end of the day, the president has been aggravated with NATO partners and allies who he thought didn't come to his aid when he needed them during the war against Iran, even though it's been very clear for many of those allies that their own legal counsels have interpreted that there was no legal justification for their participation in strikes, let alone use of their bases in many cases.\n\nSo, that was part of the frustration. And then it's been since his first administration, the president's been pushing for NATO to take more responsibility, particularly the European allies for European security and seeing an increase in in spending on defense from three to five percent of GDP.\n\nSo, he's still pushing those allies to spend more and take more responsibility for security. He's also, you know, been on the opposite side of the equation in many cases with Ukraine at least this administration. So, there's been a lot of tension. But the most recent issues that really has been -- drew his ire has been their lack of participation in the Iran strikes.\n\nSMITH: Colonel, what is the reality that we would actually see NATO allies spending more? And what is the reality, the truth regarding that which Trump has said and railed about NATO allies not spending enough to support NATO?\n\nLEIGHTON: Yes. Well, really starting even before the Biden administration and the first Trump administration, NATO allies started to ramp up their defense spending. And it really reached a fever pitch, if you will, within the last decade or so. And in the Biden administration and also in this second Trump administration, NATO allies have actually increased their projected NATO defense spending.\n\nThere are two countries in particular, Poland and Lithuania, that are either close to the five percent or have exceeded the five percent threshold of GDP spending. So, what the president is talking about is basically old news. What he really needs to focus on is the fact that the United States has convinced all these NATO countries to spend a lot more. And that includes countries like Germany, which historically been limited in their capacities and as well as in their willingness to spend more on defense. But by 2035, Germany will approach that threshold of five percent GDP.\n\nWe have to keep in mind, the U.S. only spends at the moment, at least 2.8 percent of its GDP on defense. So, there's a big difference in what we're asking the NATO countries to do and what we're willing to do ourselves.\n\nSMITH: Alex, one of the ways that we've seen Trump in this 2.0 version of his presidency now, in the administration, really marked some of their wins, is how much spending other countries are willing to do into U.S. assets. For Turkey, for instance, there is a desire to buy F-35s from the U.S. How does that affect the NATO summit, especially in light of the adversarial relationship between Israel and Turkey?\n\nPLITSAS: It's only gotten worse in recent years in terms of that adversarial relationship. I mean, if you speak to the Israelis, as I have over the last year or two, you really saw Iran as the long term strategic threat. And but now, due to some of the rhetoric that's been espoused by President Erdogan, if you speak to Israeli leaders, they see Turkey as a longer term strategic threat, which is obviously, you know, both odd and difficult as a NATO member and, you know, given tensions that have gone on.\n\nThe F-35 sale, as you know, Colonel Leighton has talked about many times, is really -- it had been controversial just given the fact that they hosted Russian air defense systems and other things. There was a significant, I think, tension about whether or not that should take place, you know, both within the State Department and the Pentagon to a certain extent.\n\nIt looks like that may move forward. The president has developed a much better relationship with President Erdogan, particularly as he assisted with the transition in Syria and really making sure that from his perspective there was another semi-autonomous Kurdish state inside of Syria and that the Syrian Arab forces really took over.\n\nThat's now the new government. So, he's really headed to the summit from what I was told by U.S. officials because President Erdogan asked him to. So, this was almost seen as a personal favor and a reflection of their relationship.\n\nSMITH: Really valuable insights, both of you. Colonel Cedric Leighton and Alex Plitsas, thank you so much for joining us today.\n\nLEIGHTON: Thanks, Brad.\n\nSMITH: Well, next up, Paul Pelosi back in legal trouble. Why authorities say the former speaker's husband could face a hit and run charge. Stay with us.\n\nSMITH: Paul Pelosi could be facing a misdemeanor charge for a hit and run accident in California's wine country. Police say the 86-year-old husband of former House Speaker Nancy Pelosi drove his convertible into a legally parked car on Friday, stopped briefly and then drove off.\n\nHe was found about a quarter of a mile away telling officers he wasn't sure what happened. He was not arrested and no one was hurt. Authorities say that Pelosi did not have alcohol in his system.\n\nFirefighters in New York had to put out several small fires last night on the Brooklyn Bridge. The flames broke out at the end of the Macy's fireworks show. No one was injured and it's not clear what sparked the fires and police are not saying whether fireworks may have caused them.\n\nAnd a frightening moment in the skies over Chicago during the Fourth of July celebrations. A Delta flight from Atlanta appears to have been struck by fireworks while landing at Midway Airport.\n\nListen to what the pilots told air traffic control.\n\nUNIDENTIFIED MALE: We're just hoping it was just the mortar that went off underneath but definitely felt the big bang.\n\nUNIDENTIFIED MALE: There have been multiple reports as you can imagine. The city's aware. They said they would notify the Chicago police, but you know, I don't know what they'll do. UNIDENTIFIED MALE: Southwest 223, just for your information the preceding Airbus said they were struck by a firework approximately 200 AGL.\n\nSMITH: Delta says the aircraft landed safely and is now being inspected. Authorities are looking into how fireworks may have gotten that close to planes approaching the airport.\n\nWell, the President's promised Fourth of July rally speech took on a different tone than expected. It mostly stuck to scripts thanking veterans highlighting historic U.S. flags and wrapped it up by promising to take the country to new heights.\n\nDONALD TRUMP, PRESIDENT OF UNITED STATES: This is only the dawn of the golden age of America and on this 250th Fourth of July we declare just as they did two and a half centuries ago that for our country and for our children and for the cause of liberty, we are going to take our country to new levels to levels not reached. We're going to make it bigger better stronger and we're going to love it even more.\n\nSMITH: The President also used the moment to slam communism and tout his controversial Save America Act to overall federal elections.\n\nJoining me now, we've got Spectrum News political anchor Errol Louis. He's also the host of The Big Deal with Errol Louis. Errol good to have you here with us today.\n\nLet's just talk about the overall message here. He built this as a Trump rally but it was somewhat of a departure of his typical rally style speeches. What was your reading even if he did get into political topics? The main takeaway that anyone who was watching or listening or attending should have gotten from that speech.\n\nERROL LOUIS, POLITICAL ANCHOR, SPECTRUM NEWS: Good morning, Brad. It was a really a repeat of what he'd done the night before in front of Mount Rushmore and it combined you know 80 to 90 percent what you would expect on an occasion like this. Some words that hopefully will be echoing down through the ages trying to sort of meet the moment and rise to the occasion for something as momentous as the 250th anniversary of the Declaration of Independence.\n\nOn the other hand, being Donald Trump he could not resist a chance to do a little bit of politics and a little bit of legislating and trying to sort of push for the legislation that he wants passed. And when he says he wants that Save America Act passed he combined it with a prediction that Republicans would win for the next hundred years if they got it passed.\n\nAnd that takes us right into the realm of a very controversial piece of legislation that by the way is not likely to pass. I mean this was the President putting out his legislative wish list in the middle of what would have been a much bigger broader ceremony for most of us watching.\n\nSMITH: Well, I mean well it's a day that ends in why. So of course, the Save America Act was going to be brought up by President Trump and he did that made the arguments. We should also note in the doubling down on that bill refusing to sign off on bipartisan legislation like the housing affordability overhaul bill as well until the Save America Act is passed.\n\nBut there's not wide ranging support. In fact, the House Speaker had to make sure that he was even amid some of the Republican infighting making sure that he was letting people go home early for vacation because there was so much disdain. And so, what is the reality moving forward. What does this mean for other legislation as well that can actually meaningful -- meaningful -- meaningfully help American households.\n\nLOUIS: Well, it says something about Congress that as dysfunctional as it's been as troubled as it has been in this session they could get the housing bill passed. I mean that that there was in fact some support for it. The problem of course is that the Save America Act is the opposite of bipartisan legislation that it would require the kind of identification to vote that something an estimated 21 million Americans do not have, including 9 million women who may have changed their names after marriage or for other reasons. It's really just not a workable piece of legislation.\n\nAnd, you know, the White House has just refused to accept that. Donald Trump has refused to accept that. But members of Congress, even big supporters of the President have said we just can't do this. We do not want to throw our elections into chaos. That starts to affect all of the members of Congress, by the way.\n\nSo even if they support the President, they don't necessarily want their own jobs to be at risk or thrown into the middle of a lot of confusion in the fall.\n\nSMITH: You know, while we have you, Trump also took the opportunity to slam communism. I mean, we were talking in the break just about like who is praising communism right now. Trump continues to bring this up, an effort to kind of muddle that term with democratic socialism, which has seen some pretty marked wins going into the midterm elections in the Democratic primaries as well.\n\nI want to play a quick clip of that for our viewers and then we'll get your reaction on the other side.\n\nTRUMP: America will never be a communist country. Won't happen. Communism is a loser and it always will be. The communist system is the opposite of the American system and the communist system has never worked. Our warriors did not fight communism on battlefields across the world only to have that menace rear its ugly head right back here in America. We're not going to let it happen.\n\nSMITH: OK, so, Errol, I think I was in seventh grade social studies in Montgomery Middle School in New Jersey when we learned that communism is not socialism. What is Trump getting at here?\n\nLOUIS: Well, he's suggesting, I think, Brad, that what the Republicans should run on is an all-out attack on the Democratic opponents that they have by calling them all communists. Now, that's not a very viable strategy, you know, because the polling clearly indicates, as well as, frankly, the results of a lot of recent elections, that people want paid sick leave. They want health care that they can afford. They want affordable groceries at the store.\n\nAnd anybody who's trying to deliver that, which is kind of what Democrats are running on this season, that they're going to really be amenable to it. And you can try and brand it as communism or anything else. But the reality is it's just not likely to work. So this is Donald Trump making arguments from a prior generation.\n\nYou know, I'm old enough to remember the Soviet Union. And you would call anybody who was like left leaning. You could say, well, you're a fellow traveler or, you know, there'd be all these kind of insinuations and accusa",
+  "segments": [
+    {
+      "seg": 1,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-05/segment/01",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nTrump Gives July 4th Speech After Storm Delays; Forty-Minute Massive Fireworks Display Lights Up D.C. Sky; Storms And Severe Heat Disrupt July 4th Events On The East Coast; Fifty-One People Treated For Heat-Related Ailments At D.C. July 4th Event; Extreme Heat Causes Passenger Train To Derail In Virginia; New York Bridge Gets Stuck In Up Position Due To Extreme Heat; Heat, Storms, Impact July 4th Celebrations Across The Country; Iranians Mourn Death Of Slain Supreme Leader Ali Khamenei; Trump To Attend NATO Summit In Turkey This Week. Trump Delivers 40-Minute Late-Night Speech In DC; The Battle For November: Which Senate Seats Are Likely To Flip?; Pope Visit To Migrant Gateway Island Delivers Global Message. Aired 6-7a ET\n\nAired July 05, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nBRAD SMITH, CNN ANCHOR: Welcome to CNN THIS MORNING. Here's what you need to know to start your Sunday morning. Extreme heat and storms delayed but did not stop the July celebrations across the country for the fourth. A look at how Americans celebrated the country's 250th anniversary and President Trump's message to the country, coming up.\n\nAnd happening now, Iranians are once again gathering to mourn former supreme leader Ayatollah Ali Khamenei. The defiant message coming from Tehran this morning.\n\nAnd a bitter battle brewing for control of the Senate in the November midterms. And for the first time, CNN has a look at the states that are most likely to flip and what that means for the balance of power.\n\nPlus, a close call over the skies of Chicago.\n\nUNIDENTIFIED PILOT: Tower, we just had a firework hit our plane. Delta 1076. We're continuing.\n\nUNIDENTIFIED AIR TRAFFIC CONTROL: Roger.\n\nSMITH: It is Sunday, July 5th. Thank you so much for joining us. I'm Brad Smith in for Victor Blackwell.\n\nConcerts, parades, fireworks lit up the cities in all 50 states for America's 250th birthday. In Washington after a storm related delay of nearly two hours, President Trump took center stage to cap off the day's events. The president devoted much of his speech to America's history and its strength. He touted past U.S. military victories and added some of the military operations initiated by his administration into the mix.\n\nDONALD TRUMP, PRESIDENT OF THE UNITED STATES: Our rise to being the world's strongest and most powerful nation was no accident of history. We rebuilt our military in my first term. We use it a little bit in our, actually, I should say third term, but I won't do that because I don't want any controversy. But we use it and we've had tremendous success.\n\nYou look at Venezuela, you look at Iran. We wiped it out. Wiped out their military. Americans crossed the Great Plains, scaled the Rockies, tamed the wilderness and conquered the frontier and built the empire. It's called the empire of liberty.\n\nSMITH: Trump also thanked U.S. heroes and veterans who fought for America's freedom. He brought out three veterans from World War II, calling them truly the greatest generation.\n\nWhile the president largely stuck to his script, he did get political in his remarks. He brought up communism multiple times throughout his speech, and he also argued for the passage of the Save America Act, his proposed bill that would overhaul federal elections.\n\nTRUMP: Today, our country is winning again, and we're winning like never before. America is back, and we want to keep America great, and we will do so by approving the Save America Act, which means all voters must show voter I.D. All voters must provide a little thing called proof of citizenship. And there will be no mail in ballots except for illness, disability, military deployment, or travel.\n\nSMITH: So following Trump's remarks, a massive 40-minute firework display took place over D.C. skies. The fireworks launched from 10 different sites across Washington, D.C., and may have set a world record for the largest firework display in history.\n\nErrol Louis joins us now -- well, later on to break down the big themes in Trump's address. Really excited for that conversation, clearly. That address to the nation and the reactions from lawmakers going to be broken down in that conversation.\n\nStaying with America's 250th anniversary, it was a historic milestone, years in the making, but the celebrations faced major disruptions from blistering triple digit heat during the day to severe evening thunderstorms that actually temporarily evacuated the National Mall. Michael Yoshida is in Washington, D.C. with the details on how the weather affected yesterday's celebrations.\n\n(BEGIN VIDEOTAPE) MICHAEL YOSHIDA, CNN NATIONAL CORRESPONDENT (voice-over): Gates opened at the Salute to America event on the National Mall around 5:00 p.m., Saturday, despite the intense heat.\n\nA severe thunderstorm forced an evacuation just a couple hours later. Delayed but not deterred, President Donald Trump still took to the stage for a late night speech.\n\nTRUMP: This is the big day. We want July fourth. We're not looking for July something else, because this is the 250th anniversary of the declaration of independence. Nothing like it.\n\nYOSHIDA (voice-over): Trump's celebration for America's 250th anniversary promised a record breaking firework show.\n\nSTEPHEN VITALE, CEO, PYROTECNICO: We're going for the world record, but most importantly, we want the show to be memorable and esthetically beautiful for the crowd and something that people will remember forever.\n\nYOSHIDA (voice-over): Over the last two days, a fierce heat wave also forced organizers to alter or cancel events in the capital and in communities all along the East Coast. In Washington, D.C., the opening of the Great American State Fair was postponed by two hours, Saturday. Friday, it had to temporarily shut down due to the heat.\n\nUNIDENTIFIED FEMALE: We were told that they were closing it down due to the heat. A lot of people were passing out.\n\nYOSHIDA (voice-over): First responders were on hand to quickly respond to any emergencies.\n\nUNIDENTIFIED MALE: Fourth of July is typically our busiest day of the year, where we run five to 600 calls a day. I think we're going to be over 1,000 this weekend.\n\nYOSHIDA (voice-over): The heat is also causing unhealthy air quality in some cities. On top of that, the extended fireworks displays will likely only make the air quality worse.\n\nIn Washington, I'm Michael Yoshida, reporting.\n\nSMITH: All right. Thank you, Michael. We've also learned that more than 50 people were treated for heat related illnesses at the Freedom 250 celebration. And take a look at this. D.C. metro officials, they say that the heat caused this train to derail. Extreme heat can sometimes cause metal rails to buckle. No one was injured and all of the passengers were able to evacuate safely.\n\nNow in upstate New York, the heat is blamed for causing a bridge to get stuck in the up position. The heat caused the metal to expand to the point that the bridge could no longer close. Fireboats were brought in to hose it down to try to cool it off and get it working again.\n\nCAPT. MICHAEL KICK, BUFFALO FIRE DEPARTMENT (on the phone): We were out for about five hours, flowing water from the Buffalo River onto the Michigan Street Bridge in an attempt to cool it down. I estimate that we threw probably about 3 million gallons of water at the bridge while we were operating.\n\nSMITH: CNN meteorologist Allison Chinchar with us now to break down more of this. I mean, things finally starting to cool down a little bit, it seems, hopefully.\n\nALLISON CHINCHAR, CNN METEOROLOGIST: Yes. And even a couple places, believe it or not, may actually get below average in a few days from now. So you just got to get through really the kind of this last day of the heat in some areas for today, but vastly different than yesterday.\n\nNow, we do still have several ongoing showers and thunderstorms across much of the country. And you can see they're really scattered. We've got some just to the east of Chicago. We've got other areas across the Central Plains, portions of the northeast that are also looking at some few areas of showers and thunderstorms.\n\nThe main targets for today, it's going to be kind of a U-shaped here, where were looking at some of those showers and thunderstorms. It starts across portions of Texas and Oklahoma, stretches down through the southeast and then up into the mid-Atlantic and northeast. That's where you're going to have the best chance for those showers and thunderstorms.\n\nDamaging winds will be the primary concern. We could have some large hail, especially closer into the plains, and a lot of frequent lightning. So anybody that still has some outdoor activities left for today will have to contend with that.\n\nHere's a look at the forecast radar. Again, even as we go through the afternoon, you'll start to see more and more of them firing up across the Midwest, the southeast, southern plains, those kind of areas. They will continue through the evening and overnight timeline. So again, these are going to be ongoing, really kind of those typical summertime pop up showers and thunderstorms. They fire up, they move out, you know, and then you get a little bit of a break afterwards.\n\nSpeaking of break, we are finally going to get one from the heat. Take a look at this. Say Washington, D.C., for example. Keep in mind the average high this time of year is 89. We have been well above that the last few days. We will be pretty close to that starting tomorrow.\n\nAnd then by the time we get to the middle of the week, look at this 84. We're actually about five degrees below normal for a change. And that's going to be the case for areas of the mid-Atlantic, the northeast. But the opposite is going to take place in the Midwest. We're going to start to see those temperatures rebounding back up again after maybe about a day or two of a little bit of a mini break. But I think at this point, we'll take it.\n\nSMITH: All right. The I-95 corridor needs to hear this today.\n\nSMITH: Allison, thank you so much. Well, next up, a country in mourning. Iran's supreme leader is being laid to rest. We will explain what this means for negotiations with the U.S. moving forward.\n\nPlus, fireworks weren't the only thing lighting up the night sky over the Brooklyn Bridge. Details after the break.\n\nAnd we have some alarming cockpit audio. It was recorded when a Delta pilot reported that his plane was hit by fireworks. All that and more coming up.\n\nSMITH: This morning in the Middle East, crowds in Iran have been turning out for the second day of the public funeral for their slain supreme leader, Ayatollah Ali Khamenei. Now Iran's health ministry says an estimated 15 million mourners are expected to take part in the public farewell.\n\nThe supreme leader was killed by an Israeli strike on the first day of the joint U.S. Israeli war on Iran. His sons were seen weeping at his funeral, but Khamenei's successor, his son, Mojtaba Khamenei, has so far not been seen nor heard from today.\n\nLet's go to CNN's Leila Gharagozlou with more. What have we seen? What have we watched play out as this nation is in mourning?\n\nLEILA GHARAGOZLOU, CNN PRODUCER: Yes. So today is the second day of the public mourning ceremony. So, average Iranians can go and pay their respects. We've seen quite an influx of people into the capital city, Tehran, to pay their respects. And this crowd is expected to get even bigger ahead of tomorrow's procession through the city.\n\nNow, we've seen a lot of outward displays of emotion and grief, which are very typical for Iranian funerals. So you're seeing a lot of images of people crying, praying, prostrating themselves, including leaders like the speaker of parliament, Mohammad Bagher Ghalibaf, and the president, Masoud Pezeshkian, just openly crying and showing their grief and emotion.\n\nI think what's really important to understand about this is that Ayatollah Ali Khamenei wasn't just a head of state. He is a really important figure within the Shiite Islamic world. So, his passing is one that is spreading beyond just the borders of Iran and is much more emotional than it might have been if it was just a world leader. Now, we're expecting to have, after the processions tomorrow, the funeral move to other key cities, Qom being one of them, which is one of the epicenters of Iran's religious life. A lot of the seminaries are there. From there, they'll move to Karbala and Najaf in Iraq before ending in Mashhad, which is the ayatollah's home town.\n\nWe don't know whether we're going to see his son Mojtaba Khamenei, as you mentioned. He has not been seen since he took over as supreme leader. If we do see him, it's likely that it could be on Thursday, but even that is very up in the air. So, a lot more funeral processions to come over the next six days, and everyone's going to be waiting to see if we see the new supreme leader.\n\nSMITH: All right. A lot to keep tabs on over those next several days here. Leila Gharagozlou, thank you so much.\n\nLet's discuss this further with CNN military analyst and retired Air Force colonel Cedric Leighton. We also have CNN global affairs analyst Alex Plitsas joining us.\n\nYou know, as we think about what Leila was just laying out this next few several days here, there's going to be a lot for the U.S. to continue to watch as well as there are a lot of emotions that could play into talks that once again need to restart or at least get some more solid footing.\n\nColonel Leighton, I wonder how much this and the talks to end the war are ongoing. How does this public funeral mark a new phase, if any, at all?\n\nCOL. CEDRIC LEIGHTON (RET.), CNN MILITARY ANALYST: Well, Brad, good morning. I think what it does is, you know, first of all, it's a necessary passage for the Iranians to go through. You know, the funerals are extremely important for them, not only from a political standpoint, but also, as Leila pointed out, from a cultural and a religious perspective. So, this is going to be a critical moment for the Iranians.\n\nAnd one of the key things to watch is the fact that many people in these funeral processions are calling for revenge, and that could very well color the Iranian response to any U.S. diplomatic overtures, any U.S. military movements, and, frankly, any U.S. political and diplomatic movements. So that's going to be, I think, a critical element here.\n\nAnd if that -- you know, if that colors the Iranian response, it could also signal a type of schism within the Iranians. Some of the Iranian leadership is going to be in favor of some type of accommodation with the U.S., and others are going to be much more hard line. And a funeral like this gives the hardliners a lot more strength, basically, and increases their position and their leverage in a situation of this type.\n\nSMITH: Alex, I wonder what should we read into and not read into as well on the late supreme leader's son and successor, Mojtaba Khamenei's absence at the funeral at least so far to this juncture? ALEX PLITSAS, CNN GLOBAL AFFAIRS ANALYST: So, there are reports that have come out over the last several months that he was pretty severely wounded, potentially multiple surgeries on his arm. There could have been a prosthetic that was necessary for one of his legs, severe burns on his face. So, it's possible that this is due to the severe nature of the injuries that he sustained.\n\nThere was some questions for a while as to whether or not he was actually alive. But by and large, and speaking to a number of the GCC partners in the gulf and then to U.S. officials, the working theory now is that he is, in fact, alive and actively involved in state affairs, and this is likely due to his injuries.\n\nSMITH: And so, Colonel Leighton, I wonder, as you were bringing up a moment ago, just to follow up on that, some of the mourners, they have expressed a desire for vengeance against the United States. What does this mean for U.S. national security threats, interests? How has all of that heightened as a result?\n\nLEIGHTON: Well, certainly, I think increases at least -- potentially increases the threat level against U.S. forces especially in the Gulf region. But it also has implications worldwide. And Iran is very good at what we call asymmetric warfare. And what that means is, you know, it could be anything that is unconventional terrorist attacks that they sponsor through one of their proxies. Or it could mean cyber- attacks or a combination of those kinds of things.\n\nAnd one of the key elements, you know, of those terrorist attacks, especially, would be potentially, and I hate to bring this up, but targeted assassinations of key officials, and that is something that they are actively talking about, at least in public. Whether or not they actually do that, of course, is a very different issue.\n\nSMITH: Alex, it is notable as well that NATO made sure to send a public congratulations to the U.S. on the 250th anniversary of its independence. I mean, as all of these different factors are playing out on the world stage and with diplomacy and with all of the posturing, do you expect that to make any difference in smoothing over bad feelings that Trump has towards NATO members here? And is the strategy to tread lightly?\n\nPLITSAS: I mean, it was appropriate for the alliance to send that message. And it was, I think, welcomed. But at the end of the day, the president has been aggravated with NATO partners and allies who he thought didn't come to his aid when he needed them during the war against Iran, even though it's been very clear for many of those allies that their own legal counsels have interpreted that there was no legal justification for their participation in strikes, let alone use of their bases in many cases.\n\nSo, that was part of the frustration. And then it's been since his first administration, the president's been pushing for NATO to take more responsibility, particularly the European allies for European security and seeing an increase in in spending on defense from three to five percent of GDP.\n\nSo, he's still pushing those allies to spend more and take more responsibility for security. He's also, you know, been on the opposite side of the equation in many cases with Ukraine at least this administration. So, there's been a lot of tension. But the most recent issues that really has been -- drew his ire has been their lack of participation in the Iran strikes.\n\nSMITH: Colonel, what is the reality that we would actually see NATO allies spending more? And what is the reality, the truth regarding that which Trump has said and railed about NATO allies not spending enough to support NATO?\n\nLEIGHTON: Yes. Well, really starting even before the Biden administration and the first Trump administration, NATO allies started to ramp up their defense spending. And it really reached a fever pitch, if you will, within the last decade or so. And in the Biden administration and also in this second Trump administration, NATO allies have actually increased their projected NATO defense spending.\n\nThere are two countries in particular, Poland and Lithuania, that are either close to the five percent or have exceeded the five percent threshold of GDP spending. So, what the president is talking about is basically old news. What he really needs to focus on is the fact that the United States has convinced all these NATO countries to spend a lot more. And that includes countries like Germany, which historically been limited in their capacities and as well as in their willingness to spend more on defense. But by 2035, Germany will approach that threshold of five percent GDP.\n\nWe have to keep in mind, the U.S. only spends at the moment, at least 2.8 percent of its GDP on defense. So, there's a big difference in what we're asking the NATO countries to do and what we're willing to do ourselves.\n\nSMITH: Alex, one of the ways that we've seen Trump in this 2.0 version of his presidency now, in the administration, really marked some of their wins, is how much spending other countries are willing to do into U.S. assets. For Turkey, for instance, there is a desire to buy F-35s from the U.S. How does that affect the NATO summit, especially in light of the adversarial relationship between Israel and Turkey?\n\nPLITSAS: It's only gotten worse in recent years in terms of that adversarial relationship. I mean, if you speak to the Israelis, as I have over the last year or two, you really saw Iran as the long term strategic threat. And but now, due to some of the rhetoric that's been espoused by President Erdogan, if you speak to Israeli leaders, they see Turkey as a longer term strategic threat, which is obviously, you know, both odd and difficult as a NATO member and, you know, given tensions that have gone on.\n\nThe F-35 sale, as you know, Colonel Leighton has talked about many times, is really -- it had been controversial just given the fact that they hosted Russian air defense systems and other things. There was a significant, I think, tension about whether or not that should take place, you know, both within the State Department and the Pentagon to a certain extent.\n\nIt looks like that may move forward. The president has developed a much better relationship with President Erdogan, particularly as he assisted with the transition in Syria and really making sure that from his perspective there was another semi-autonomous Kurdish state inside of Syria and that the Syrian Arab forces really took over.\n\nThat's now the new government. So, he's really headed to the summit from what I was told by U.S. officials because President Erdogan asked him to. So, this was almost seen as a personal favor and a reflection of their relationship.\n\nSMITH: Really valuable insights, both of you. Colonel Cedric Leighton and Alex Plitsas, thank you so much for joining us today.\n\nLEIGHTON: Thanks, Brad.\n\nSMITH: Well, next up, Paul Pelosi back in legal trouble. Why authorities say the former speaker's husband could face a hit and run charge. Stay with us.\n\nSMITH: Paul Pelosi could be facing a misdemeanor charge for a hit and run accident in California's wine country. Police say the 86-year-old husband of former House Speaker Nancy Pelosi drove his convertible into a legally parked car on Friday, stopped briefly and then drove off.\n\nHe was found about a quarter of a mile away telling officers he wasn't sure what happened. He was not arrested and no one was hurt. Authorities say that Pelosi did not have alcohol in his system.\n\nFirefighters in New York had to put out several small fires last night on the Brooklyn Bridge. The flames broke out at the end of the Macy's fireworks show. No one was injured and it's not clear what sparked the fires and police are not saying whether fireworks may have caused them.\n\nAnd a frightening moment in the skies over Chicago during the Fourth of July celebrations. A Delta flight from Atlanta appears to have been struck by fireworks while landing at Midway Airport.\n\nListen to what the pilots told air traffic control.\n\nUNIDENTIFIED MALE: We're just hoping it was just the mortar that went off underneath but definitely felt the big bang.\n\nUNIDENTIFIED MALE: There have been multiple reports as you can imagine. The city's aware. They said they would notify the Chicago police, but you know, I don't know what they'll do. UNIDENTIFIED MALE: Southwest 223, just for your information the preceding Airbus said they were struck by a firework approximately 200 AGL.\n\nSMITH: Delta says the aircraft landed safely and is now being inspected. Authorities are looking into how fireworks may have gotten that close to planes approaching the airport.\n\nWell, the President's promised Fourth of July rally speech took on a different tone than expected. It mostly stuck to scripts thanking veterans highlighting historic U.S. flags and wrapped it up by promising to take the country to new heights.\n\nDONALD TRUMP, PRESIDENT OF UNITED STATES: This is only the dawn of the golden age of America and on this 250th Fourth of July we declare just as they did two and a half centuries ago that for our country and for our children and for the cause of liberty, we are going to take our country to new levels to levels not reached. We're going to make it bigger better stronger and we're going to love it even more.\n\nSMITH: The President also used the moment to slam communism and tout his controversial Save America Act to overall federal elections.\n\nJoining me now, we've got Spectrum News political anchor Errol Louis. He's also the host of The Big Deal with Errol Louis. Errol good to have you here with us today.\n\nLet's just talk about the overall message here. He built this as a Trump rally but it was somewhat of a departure of his typical rally style speeches. What was your reading even if he did get into political topics? The main takeaway that anyone who was watching or listening or attending should have gotten from that speech.\n\nERROL LOUIS, POLITICAL ANCHOR, SPECTRUM NEWS: Good morning, Brad. It was a really a repeat of what he'd done the night before in front of Mount Rushmore and it combined you know 80 to 90 percent what you would expect on an occasion like this. Some words that hopefully will be echoing down through the ages trying to sort of meet the moment and rise to the occasion for something as momentous as the 250th anniversary of the Declaration of Independence.\n\nOn the other hand, being Donald Trump he could not resist a chance to do a little bit of politics and a little bit of legislating and trying to sort of push for the legislation that he wants passed. And when he says he wants that Save America Act passed he combined it with a prediction that Republicans would win for the next hundred years if they got it passed.\n\nAnd that takes us right into the realm of a very controversial piece of legislation that by the way is not likely to pass. I mean this was the President putting out his legislative wish list in the middle of what would have been a much bigger broader ceremony for most of us watching.\n\nSMITH: Well, I mean well it's a day that ends in why. So of course, the Save America Act was going to be brought up by President Trump and he did that made the arguments. We should also note in the doubling down on that bill refusing to sign off on bipartisan legislation like the housing affordability overhaul bill as well until the Save America Act is passed.\n\nBut there's not wide ranging support. In fact, the House Speaker had to make sure that he was even amid some of the Republican infighting making sure that he was letting people go home early for vacation because there was so much disdain. And so, what is the reality moving forward. What does this mean for other legislation as well that can actually meaningful -- meaningful -- meaningfully help American households.\n\nLOUIS: Well, it says something about Congress that as dysfunctional as it's been as troubled as it has been in this session they could get the housing bill passed. I mean that that there was in fact some support for it. The problem of course is that the Save America Act is the opposite of bipartisan legislation that it would require the kind of identification to vote that something an estimated 21 million Americans do not have, including 9 million women who may have changed their names after marriage or for other reasons. It's really just not a workable piece of legislation.\n\nAnd, you know, the White House has just refused to accept that. Donald Trump has refused to accept that. But members of Congress, even big supporters of the President have said we just can't do this. We do not want to throw our elections into chaos. That starts to affect all of the members of Congress, by the way.\n\nSo even if they support the President, they don't necessarily want their own jobs to be at risk or thrown into the middle of a lot of confusion in the fall.\n\nSMITH: You know, while we have you, Trump also took the opportunity to slam communism. I mean, we were talking in the break just about like who is praising communism right now. Trump continues to bring this up, an effort to kind of muddle that term with democratic socialism, which has seen some pretty marked wins going into the midterm elections in the Democratic primaries as well.\n\nI want to play a quick clip of that for our viewers and then we'll get your reaction on the other side.\n\nTRUMP: America will never be a communist country. Won't happen. Communism is a loser and it always will be. The communist system is the opposite of the American system and the communist system has never worked. Our warriors did not fight communism on battlefields across the world only to have that menace rear its ugly head right back here in America. We're not going to let it happen.\n\nSMITH: OK, so, Errol, I think I was in seventh grade social studies in Montgomery Middle School in New Jersey when we learned that communism is not socialism. What is Trump getting at here?\n\nLOUIS: Well, he's suggesting, I think, Brad, that what the Republicans should run on is an all-out attack on the Democratic opponents that they have by calling them all communists. Now, that's not a very viable strategy, you know, because the polling clearly indicates, as well as, frankly, the results of a lot of recent elections, that people want paid sick leave. They want health care that they can afford. They want affordable groceries at the store.\n\nAnd anybody who's trying to deliver that, which is kind of what Democrats are running on this season, that they're going to really be amenable to it. And you can try and brand it as communism or anything else. But the reality is it's just not likely to work. So this is Donald Trump making arguments from a prior generation.\n\nYou know, I'm old enough to remember the Soviet Union. And you would call anybody who was like left leaning. You could say, well, you're a fellow traveler or, you know, there'd be all these kind of insinuations and accusa"
+    }
+  ]
+}
