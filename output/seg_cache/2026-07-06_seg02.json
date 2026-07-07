@@ -1,0 +1,404 @@
+{
+  "date": "2026-07-06",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-06/segment/02",
+  "vocabulary": [
+    {
+      "word": "astonished",
+      "phonetic": "/əˈstɒnɪʃt/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "惊讶的",
+      "en": "very surprised",
+      "excerpt": "They had also said they were astonished.",
+      "example_cn": "他们对这个消息感到非常惊讶。"
+    },
+    {
+      "word": "unprecedented",
+      "phonetic": "/ʌnˈpresɪdentɪd/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "史无前例的",
+      "en": "never done or known before",
+      "excerpt": "expressing our disbelief in such an unprecedented, incomprehensible and unjustifiable decision.",
+      "example_cn": "这一决定史无前例，令人难以置信且毫无道理。"
+    },
+    {
+      "word": "incomprehensible",
+      "phonetic": "/ɪnˌkɒmprɪˈhensəbl/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "无法理解的",
+      "en": "impossible to understand",
+      "excerpt": "expressing our disbelief in such an unprecedented, incomprehensible and unjustifiable decision.",
+      "example_cn": "他的行为完全无法理解。"
+    },
+    {
+      "word": "unjustifiable",
+      "phonetic": "/ʌnˈdʒʌstɪfaɪəbl/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "不可辩解的",
+      "en": "impossible to justify or excuse",
+      "excerpt": "expressing our disbelief in such an unprecedented, incomprehensible and unjustifiable decision.",
+      "example_cn": "这种暴力行为是不可辩解的。"
+    },
+    {
+      "word": "allude to",
+      "phonetic": "/əˈluːd tuː/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "暗示，提及",
+      "en": "to mention someone or something in an indirect way",
+      "excerpt": "as the Royal Belgian Football Association is alluding to at this point?",
+      "example_cn": "他暗示可能辞职。"
+    },
+    {
+      "word": "rip from",
+      "phonetic": "/rɪp frɒm/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "从……撕下；像从……中取材",
+      "en": "to take something from something else, often used metaphorically",
+      "excerpt": "Now this is something that feels ripped from the WWE.",
+      "example_cn": "这个情节就像从电影中撕下来的一样。"
+    },
+    {
+      "word": "home cooking",
+      "phonetic": "/həʊm ˈkʊkɪŋ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "家常菜；主场优势",
+      "en": "food cooked at home; also used metaphorically for home advantage",
+      "excerpt": "You know, home cooking is the best cooking.",
+      "example_cn": "主场优势确实很重要。"
+    },
+    {
+      "word": "torn between",
+      "phonetic": "/tɔːrn bɪˈtwiːn/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "在……之间左右为难",
+      "en": "unable to decide between two things",
+      "excerpt": "And I'm kind of torn between being an American fan...",
+      "example_cn": "她在两个工作机会之间左右为难。"
+    },
+    {
+      "word": "outlandish",
+      "phonetic": "/aʊtˈlændɪʃ/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "古怪的，奇异的",
+      "en": "strange and unusual",
+      "excerpt": "it seems almost outlandish, insane that this man has been cleared.",
+      "example_cn": "他的穿着非常古怪。"
+    },
+    {
+      "word": "repeal",
+      "phonetic": "/rɪˈpiːl/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "废除（法律）",
+      "en": "to officially end a law",
+      "excerpt": "a White House phone call to the head of FIFA to repeal a ban...",
+      "example_cn": "政府废除了这项不受欢迎的法律。"
+    },
+    {
+      "word": "asterisk",
+      "phonetic": "/ˈæstərɪsk/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "星号；注脚",
+      "en": "a symbol (*) used to mark something; also used metaphorically for a footnote or caveat",
+      "excerpt": "It's basically -- it's going to be an asterisk no matter what happens.",
+      "example_cn": "这个记录将永远带着一个星号。"
+    },
+    {
+      "word": "play one's lights out",
+      "phonetic": "/pleɪ wʌnz laɪts aʊt/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "竭尽全力表现",
+      "en": "to perform extremely well",
+      "excerpt": "It's the Tim Howard game when he played his lights out...",
+      "example_cn": "他在决赛中竭尽全力。"
+    },
+    {
+      "word": "caper",
+      "phonetic": "/ˈkeɪpər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "犯罪活动；冒险",
+      "en": "an illegal or unusual activity, often involving a group",
+      "excerpt": "They're like a crime caper. Old guys coming back for one more crime.",
+      "example_cn": "这部电影是一部有趣的犯罪冒险片。"
+    },
+    {
+      "word": "multitudes",
+      "phonetic": "/ˈmʌltɪtjuːdz/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "众多，大量",
+      "en": "a large number of people or things",
+      "excerpt": "The World Cup contains multitudes.",
+      "example_cn": "这本书包含众多主题。"
+    },
+    {
+      "word": "delightfully",
+      "phonetic": "/dɪˈlaɪtfəli/",
+      "pos": "adv.",
+      "level": "六级",
+      "cn": "令人愉快地",
+      "en": "in a way that is very pleasant",
+      "excerpt": "It had felt delightfully non-political up until this point.",
+      "example_cn": "这个花园令人愉快地宁静。"
+    },
+    {
+      "word": "intimidating",
+      "phonetic": "/ɪnˈtɪmɪdeɪtɪŋ/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "令人胆怯的",
+      "en": "making you feel frightened or nervous",
+      "excerpt": "The most intimidating venue in world football.",
+      "example_cn": "面试过程令人胆怯。"
+    },
+    {
+      "word": "emerge",
+      "phonetic": "/ɪˈmɜːrdʒ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "出现，浮现",
+      "en": "to come out of a difficult situation",
+      "excerpt": "And somehow emerging barely intact with a victory.",
+      "example_cn": "公司从危机中幸存下来。"
+    },
+    {
+      "word": "odyssey",
+      "phonetic": "/ˈɒdɪsi/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "漫长的旅程",
+      "en": "a long journey with many adventures",
+      "excerpt": "It is like the odyssey, a Greek epic poem.",
+      "example_cn": "他的职业生涯是一次漫长的旅程。"
+    },
+    {
+      "word": "dissonance",
+      "phonetic": "/ˈdɪsənəns/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "不和谐，不一致",
+      "en": "lack of agreement or harmony",
+      "excerpt": "Just speaking about kind of the dissonance that we see here.",
+      "example_cn": "他的言论与行动之间存在不一致。"
+    },
+    {
+      "word": "harken back to",
+      "phonetic": "/ˈhɑːrkən bæk tuː/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "回想起，类似于",
+      "en": "to remind you of something in the past",
+      "excerpt": "it kind of harkens back to... so many other photos that we've seen throughout history.",
+      "example_cn": "这首歌让人回想起60年代。"
+    },
+    {
+      "word": "reprehensible",
+      "phonetic": "/ˌreprɪˈhensəbl/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "应受谴责的",
+      "en": "morally wrong and deserving criticism",
+      "excerpt": "people say things that I think are reprehensible about President Trump...",
+      "example_cn": "他的行为应受谴责。"
+    },
+    {
+      "word": "galvanize",
+      "phonetic": "/ˈɡælvənaɪz/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "激励，使振奋",
+      "en": "to cause people to become active and determined",
+      "excerpt": "the government has galvanized its supporters.",
+      "example_cn": "这次演讲激励了民众采取行动。"
+    },
+    {
+      "word": "culminate",
+      "phonetic": "/ˈkʌlmɪneɪt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "达到顶点，以……告终",
+      "en": "to reach the highest point or final stage",
+      "excerpt": "then culminate when the supreme leader is laid to rest...",
+      "example_cn": "庆祝活动以烟花表演告终。"
+    },
+    {
+      "word": "cobble together",
+      "phonetic": "/ˈkɒbl təˈɡeðər/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "拼凑",
+      "en": "to put something together quickly and not very well",
+      "excerpt": "cobble together enough Republicans to get another reconciliation bill through?",
+      "example_cn": "他们拼凑了一个临时计划。"
+    },
+    {
+      "word": "voter suppression",
+      "phonetic": "/ˈvəʊtər səˈpreʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "选民压制",
+      "en": "efforts to prevent certain groups from voting",
+      "excerpt": "just voter suppression, he'll probably get it...",
+      "example_cn": "批评者称该法律是选民压制。"
+    },
+    {
+      "word": "rudderless",
+      "phonetic": "/ˈrʌdərləs/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "无方向的",
+      "en": "without a clear direction or leader",
+      "excerpt": "when you don't have the White House, there -- you're a little rudderless, right?",
+      "example_cn": "该党目前群龙无首。"
+    },
+    {
+      "word": "quintessential",
+      "phonetic": "/ˌkwɪntɪˈsenʃl/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "典型的，精髓的",
+      "en": "representing the most typical example",
+      "excerpt": "Michigan, which is a quintessential purple state...",
+      "example_cn": "她是典型的现代女性。"
+    },
+    {
+      "word": "borne out",
+      "phonetic": "/bɔːrn aʊt/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "证实",
+      "en": "to be proved true",
+      "excerpt": "whether or not that's borne out in November...",
+      "example_cn": "这些预测后来被证实了。"
+    },
+    {
+      "word": "prestige television",
+      "phonetic": "/preˈstiːʒ ˈtelɪvɪʒn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "高端电视剧",
+      "en": "high-quality, critically acclaimed television series",
+      "excerpt": "people with stressful jobs don't watch prestige television, they watch reality TV.",
+      "example_cn": "她喜欢看高端电视剧，比如《继承之战》。"
+    },
+    {
+      "word": "Casa Amor",
+      "phonetic": "/ˈkɑːsə əˈmɔːr/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "爱情小屋（《爱情岛》节目环节）",
+      "en": "a segment in the reality show Love Island where contestants are separated and tempted",
+      "excerpt": "best episode of this season, Casa Amor.",
+      "example_cn": "《爱情岛》的“爱情小屋”环节总是充满戏剧性。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "And then we just heard this morning from the United European Football Association, which governs -- is the governing body of soccer in Europe, \"expressing our disbelief in such an unprecedented, incomprehensible and unjustifiable decision.\"",
+      "cn": "然后我们今天早上刚刚听到欧洲足球协会联盟——它是欧洲足球的管理机构——表示“我们对这样一个史无前例、无法理解且毫无道理的决定表示难以置信。”",
+      "structure": "主句 + 定语从句 + 直接引语",
+      "analysis": "主句为\"we just heard from the United European Football Association\"，后接which引导的非限制性定语从句修饰该协会，定语从句中\"governs\"与\"is the governing body\"并列，用破折号连接表示解释。直接引语部分为\"expressing our disbelief...\"，其中包含三个并列形容词unprecedented, incomprehensible, unjustifiable修饰decision。"
+    },
+    {
+      "en": "The very last because of, as a \"New York Times\" is reporting, a White House phone call to the head of FIFA to repeal a ban that has no right to appeal against.",
+      "cn": "最后，正如《纽约时报》报道的那样，是因为白宫给国际足联主席打了一个电话，要求撤销一项无权上诉的禁令。",
+      "structure": "主句 + 插入语 + 定语从句",
+      "analysis": "主句为\"The very last because of a White House phone call\"，中间插入\"as a 'New York Times' is reporting\"作为方式状语。\"to repeal a ban\"为不定式短语作目的状语，后接that引导的定语从句修饰ban，从句中\"has no right to appeal against\"为谓语部分。"
+    },
+    {
+      "en": "And the crazy thing is, the U.S. were doing so well in this tournament. We were playing so well. There was an element that going into battle today with Belgium, not like this. This is going to scare and stain the U.S. journey in the long term forever.",
+      "cn": "疯狂的是，美国队在本届赛事中表现如此出色。我们踢得这么好。今天与比利时作战，本不该是这样的。这将永远在长期内吓坏并玷污美国队的征程。",
+      "structure": "并列句 + 定语从句",
+      "analysis": "由多个并列句组成。\"The crazy thing is\"后接表语从句\"the U.S. were doing so well\"。\"There was an element that...\"中that引导定语从句修饰element，从句中\"going into battle today with Belgium\"为动名词短语作主语。最后一句为简单句，\"scare and stain\"并列谓语。"
+    },
+    {
+      "en": "And I do believe this is the agony for me. I thought the U.S. were going to win this whatever this major, major game, get through this stage, round of 16 in which we traditionally stumble. But it's going to be a matchup with extra layers, football, intrigue, courtroom drama and that geopolitical level over the top of it.",
+      "cn": "我确实相信这对我来说是痛苦。我以为美国队会赢下这场重大比赛，通过这个阶段——16强赛，我们传统上在这里跌倒。但这将是一场充满额外层次的较量：足球、阴谋、法庭剧，以及其上的地缘政治层面。",
+      "structure": "复合句 + 定语从句 + 并列结构",
+      "analysis": "第一句为简单句。第二句主句为\"I thought\"，后接宾语从句\"the U.S. were going to win...\"，其中\"whatever this major, major game\"为让步状语，\"get through this stage\"与\"win\"并列，\"round of 16\"为同位语，后接\"in which\"引导的定语从句修饰\"round of 16\"。第三句为简单句，\"with extra layers\"后跟并列名词短语。"
+    },
+    {
+      "en": "And somehow emerging barely intact with a victory. You're watching football. I know, as we watch it, Erica, that it will be talked about for generations. It's that beautiful. We're watching it played out before our eyes. It is like the odyssey, a Greek epic poem.",
+      "cn": "并且不知何故几乎完好无损地取得了胜利。你在看足球。我知道，当我们观看时，埃里卡，它将被几代人谈论。它就是那么美。我们正在目睹它在我们眼前上演。它就像奥德赛，一部希腊史诗。",
+      "structure": "并列句 + 宾语从句 + 比喻",
+      "analysis": "第一句为省略主语的简单句，\"emerging\"为现在分词作状语。第二句简单句。第三句主句为\"I know\"，后接that引导的宾语从句，中间插入\"as we watch it\"时间状语从句。第四句简单句。第五句简单句，\"played out\"为过去分词作宾补。第六句为比喻句，\"like the odyssey\"为介词短语作表语，\"a Greek epic poem\"为同位语。"
+    },
+    {
+      "en": "And just the iconic -- the iconic part of this photo. I mean it kind of harkens back to, on this 250th anniversary of our country, harkens back to so many other photos that we've seen throughout history as well.",
+      "cn": "正是这张照片的标志性部分。我的意思是，在我们国家250周年之际，它让人回想起历史上我们见过的许多其他照片。",
+      "structure": "简单句 + 定语从句",
+      "analysis": "第一句为名词短语，省略了谓语。第二句主句为\"I mean\"，后接宾语从句\"it kind of harkens back to...\"，其中\"on this 250th anniversary\"为时间状语插入，\"harkens back to\"重复使用，后接that引导的定语从句修饰\"photos\"。"
+    },
+    {
+      "en": "And so, whether or not we see further comments, further weighing in from the White House, I think, remains to be seen. But either way, it speaks volumes that, again, these are people who have felt comfortable coming out and being part of the celebration on Saturday given that Trump has made it so much about himself and his role in American exceptionalism.",
+      "cn": "因此，我们是否看到白宫进一步的评论或介入，我认为还有待观察。但无论如何，这充分说明，这些人觉得在周六出来参加庆祝活动很自在，因为特朗普把庆祝活动搞得如此关于他自己和他在美国例外论中的角色。",
+      "structure": "主语从句 + 宾语从句 + 定语从句 + 原因状语从句",
+      "analysis": "第一句主语为\"whether or not we see further comments...\"，谓语为\"remains to be seen\"，中间插入\"I think\"。第二句主句为\"it speaks volumes\"，后接that引导的同位语从句说明\"it\"，从句中\"who\"引导定语从句修饰\"people\"，定语从句中\"given that\"引导原因状语从句。"
+    },
+    {
+      "en": "And then, you know, the idea that they're going to, you know, create some legislation. They don't do any legislation. And they passed the one big spending bill, which spent, you know, $4.5 trillion, mostly on tax cuts for the super wealthy, cut health care by $1 trillion. They passed the second bill to add another $70 billion to ICE, bringing the total for ICE to $240 billion.",
+      "cn": "然后，你知道，他们打算制定一些立法的想法。他们根本不立法。他们通过了一项大的支出法案，花费了4.5万亿美元，主要用于给超级富豪减税，削减了1万亿美元的医疗保健。他们通过了第二项法案，再给ICE增加700亿美元，使ICE的总预算达到2400亿美元。",
+      "structure": "并列句 + 定语从句 + 分词短语",
+      "analysis": "第一句为名词短语加同位语从句。第二句简单句。第三句主句为\"They passed the one big spending bill\"，后接which引导的非限制性定语从句修饰bill，从句中\"spent\"后跟宾语，\"mostly on...\"为介词短语作状语，\"cut health care\"为并列谓语。第四句主句为\"They passed the second bill\"，\"to add...\"为不定式短语作目的状语，\"bringing...\"为现在分词短语作结果状语。"
+    },
+    {
+      "en": "And to spend that weekend, you know, talking about, you know, how divided we are and this threat, you know, that we present to one another, as opposed to lifting us up, which I think the American people desperately want, is a leader that's going to bring us together and lift us up.",
+      "cn": "而花那个周末谈论我们有多么分裂以及我们彼此构成的威胁，而不是提升我们——我认为美国人民迫切希望——是一个能够团结我们并提升我们的领导者。",
+      "structure": "主语（不定式短语）+ 谓语 + 定语从句",
+      "analysis": "主语为\"to spend that weekend talking about...\"，其中\"talking about\"后跟两个宾语从句\"how divided we are\"和\"this threat\"，\"that we present to one another\"为定语从句修饰\"threat\"。\"as opposed to lifting us up\"为比较状语，\"which\"引导非限制性定语从句修饰\"lifting us up\"。谓语为\"is\"，表语为\"a leader\"，后接that引导的定语从句。"
+    },
+    {
+      "en": "And what folks we spoke with in the fall when we wrote about this initially when it was popping up in the House told us was, there's just so much enthusiasm on the Democratic side and there's so much frustration with Trump that a lot of it is being expressed via these more farther left positions.",
+      "cn": "我们在秋天最初写这件事时采访的人告诉我们的是，民主党方面有如此多的热情，对特朗普有如此多的沮丧，以至于很多情绪正通过这些更左的立场表达出来。",
+      "structure": "主语从句 + 定语从句 + 时间状语从句 + 结果状语从句",
+      "analysis": "主语为\"what folks...told us\"，其中\"folks\"后跟定语从句\"we spoke with\"，定语从句中又包含时间状语从句\"when we wrote about this initially\"和\"when it was popping up in the House\"。谓语为\"was\"，表语为\"there's just so much enthusiasm...\"，其中包含\"so...that...\"结果状语从句。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "2026年世界杯争议：美国球员禁赛被撤销",
+      "content": "2026年世界杯期间，美国队一名关键球员因违规被禁赛，但据报道白宫致电国际足联主席后禁赛被撤销，引发争议。评论员认为此举可能玷污美国队的成绩，并引发关于公平竞赛和地缘政治干预的讨论。",
+      "keywords": "World Cup, FIFA, ban, White House, controversy, U.S. men's national team"
+    },
+    {
+      "title": "美国白人至上主义团体游行与言论自由争议",
+      "content": "2026年7月4日美国独立日250周年之际，白人至上主义团体“爱国阵线”在华盛顿特区游行，成员蒙面并携带邦联旗。一张非裔女性在地铁上被该团体包围的照片走红。内政部长道格·伯格姆以言论自由为由拒绝谴责该团体，引发关于双重标准的讨论。",
+      "keywords": "white nationalism, Patriot Front, free speech, double standard, Confederate flag, D.C. march"
+    },
+    {
+      "title": "伊朗最高领袖葬礼与反美情绪",
+      "content": "伊朗最高领袖哈梅内伊在美以空袭中身亡，德黑兰举行大规模葬礼。现场民众高呼“美国去死”和“以色列去死”，誓言复仇。报道指出，尽管并非所有伊朗人都支持哈梅内伊，但政府已动员支持者，传递若谈判失败伊朗准备再战的信号。",
+      "keywords": "Iran, Supreme Leader, Khamenei, funeral, death to America, U.S.-Israel airstrike"
+    },
+    {
+      "title": "美国《SAVE法案》与选举改革争议",
+      "content": "特朗普总统力推《SAVE美国法案》，要求选民出示身份证件，称其防止选举作弊。众议院议长约翰逊计划通过预算和解程序再次推动该法案。民主党议员兰兹曼批评该法案为选民压制，与民众关心的医疗、住房等问题无关。",
+      "keywords": "SAVE America Act, voter ID, voter suppression, reconciliation, Mike Johnson, Greg Landsman"
+    },
+    {
+      "title": "民主党内部路线之争：密歇根州参议员初选",
+      "content": "密歇根州参议员初选中，进步派候选人阿卜杜勒·埃尔-赛义德获得AOC等背书，而建制派支持的海莉·史蒂文斯则强调选举能力。前参选人麦克莫罗退选后，其支持者流向成为关键。该竞选被视为民主党内部意识形态斗争的缩影，特朗普则利用“共产主义”标签攻击进步派。",
+      "keywords": "Michigan Senate race, Mallory McMorrow, Abdul El-Sayed, Haley Stevens, progressive vs. establishment, AOC endorsement"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nWhite National Group Marches in D.C.; Funeral Today for Iran's Supreme Leader; Rep. Greg Landsman (D-OH) is Interviewed about the SAVE America Act; McMorrow Drops out of Michigan Race. Aired 6:30-7a ET\n\nAired July 06, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nERICA HILL, CNN ANCHOR: Mentioned, you know, the Royal Belgian Football Association. They had also said they were astonished. Currently investigating all potential legal options.\n\nAnd then we just heard this morning from the United European Football Association, which governs -- is the governing body of soccer in Europe, \"expressing our disbelief in such an unprecedented, incomprehensible and unjustifiable decision.\" I mean, are there any other options, certainly any legal options, as the Royal Belgian Football Association is alluding to at this point?\n\nROGER BENNETT, FOUNDER, MEN IN BLAZERS MEDIA NETWORK: This is why we watch football, erica, because we love legislative courtroom drama. Now this is something that feels ripped from the WWE.\n\nBENNETT: You know, home cooking is the best cooking.\n\nI mean, it's totally unprecedented. And I'm kind of torn between being an American fan, despite my accent, I love this nation like Kenny Powers loves this nation. And as an American fan, emotionally, I'm like, this is the greatest thing ever. And as a rational fan of the football and the World Cup as an integral operation with rules and regulations in which it seems almost outlandish, insane that this man has been cleared. The very last because of, as a \"New York Times\" is reporting, a White House phone call to the head of FIFA to repeal a ban that has no right to appeal against.\n\nSo, our -- our great goal scorer is free on the eve of probably the biggest game in modern U.S. men's national team football history. And it feels great for many American fans. We do have to ask ourselves, Erica, if it was the other way around, if we were playing France and Macron had put the call in to get Mbappe, their best striker, ready to play, or Saudi Arabia or Qatar had done something, how would we feel? And the crazy thing is, the U.S. were doing so well in this tournament. We were playing so well. There was an element that going into battle today with Belgium, not like this. This is going to scare and stain the U.S. journey in the long term forever.\n\nHILL: Yes. You're not the first to say. It's basically -- it's going to be an asterisk no matter what happens.\n\nWhen we look at the matchup for tonight, Belgium, of course, beat the U.S. in a friendly, 5-2, back in March. What do you think the U.S.' chances are?\n\nBENNETT: This is a game with an echo in history. In 2014, in Brazil, the United States played at the same stage, Belgium. They were then at their peak. This was a game many viewers may remember. It's the Tim Howard game when he played his lights out, the most saves ever in a -- in a World Cup game. We lost in agony at the end. Unbelievably, four of the Belgian players are still the core of their team. They're now an aging core. They're like a crime caper. Old guys coming back for one more crime. So, it's veteran experience against this young, very athletic United States team with Flo Balogun asterisk.\n\nAnd I do believe this is the agony for me. I thought the U.S. were going to win this whatever this major, major game, get through this stage, round of 16 in which we traditionally stumble. But it's going to be a matchup with extra layers, football, intrigue, courtroom drama and that geopolitical level over the top of it. The World Cup contains multitudes.\n\nHILL: Yes, it certainly does. It had felt delightfully non-political up until this point. We'll see if we can maintain that.\n\nBefore I let you go, as you noted, huge U.S. soccer fan. But we do hear your accent. So, let's talk a little England-Mexico, if we could.\n\nI admitted to you in the break, I had to go to bed because I had to get up for this show. I am guessing, though, you stayed up late and watched it all.\n\nBENNETT: Oh, Erica --\n\nHILL: How are you feeling this morning?\n\nBENNETT: How am I feeling? We'll sleep after the final in two weeks' time.\n\nHILL: That's the spirit.\n\nBENNETT: This is one that -- this is one of the greatest World Cups of my lifetime. As you say, it's been the people's World Cup. Just a World Cup of wonder. Off the field, the world falling in love with America again. America falling in love with global football.\n\nThe game last night in the Azteca, England going to this kind of \"Game of Thrones\" fortress, high altitude, smog. The most intimidating venue in world football. And somehow emerging barely intact with a victory. You're watching football. I know, as we watch it, Erica, that it will be talked about for generations. It's that beautiful. We're watching it played out before our eyes. It is like the odyssey, a Greek epic poem. And God bless the English. They were up all night. In England time, they're normally hungover. They kept drinking, kept powering through. And this World Cup is just a human gift.\n\nHILL: It's great. I mean, that's how you power for the hangover, right, you just got to keep going.\n\nBENNETT: There -- again, Erica, you're giving out tips to all your viewers.\n\nHILL: It's an important lesson from the Brits.\n\nYou know, we're here to help on so many levels at CNN THIS MORNING. All the information you need to start your day and your week.\n\nBENNETT: Well played. Well played.\n\nHILL: Roger, it's great to have you with us. Thank you.\n\nBENNETT: You too. Courage. Thank you.\n\nHILL: Just a reminder, you can check out Roger's book, \"We Are the World Cup: A Personal History of the World's Greatest Sporting Event.\"\n\nWell, while the country was celebrating 250 years over the weekend, a crowd of masked members of the white nationalist group Patriot Front marched through D.C. Patriot Front is considered one of the most active white nationalist groups in the country. Members were heard chanting \"life, liberty, victory and reclaim America.\" Some of them carrying confederate flags. There's also this photo we're about to show you. This photo, which has gone viral. It shows a young African American woman sitting on the subway, surrounded by members of the group.\n\nThe group chat is back with us.\n\nThis photo, I mean, you talk about a photo that is worth a thousand words. There is so much in that.\n\nI know, Mario, you told us, you know, we always ask our guests what's going to be in your -- in your group chat for later in the show. This was in your group chat. What was the conversation?\n\nMARIO PARKER, MANAGING EDITOR, ECONOMY/GOVERNMENT, \"BLOOMBERG NEWS\": Absolutely. Well, first of all, my cousin sent it to me on Saturday after I turned my face away from my phone. My mother yesterday was talking about it too as well. Both African American women. Not lost on me at all. Just speaking about kind of the dissonance that we see here. Just so much captured in this photo, the courage of the young woman just standing -- sitting there, if you will, the posture that she has, as my mother mentioned, ten toes firmly down to the ground there.\n\nAnd just the iconic -- the iconic part of this photo. I mean it kind of harkens back to, on this 250th anniversary of our country, harkens back to so many other photos that we've seen throughout history as well. And so, it just resonated with my family, my friends, and just resonated throughout my group chat as well right there.\n\nHILL: And understandably. There were also, you know, the questions about what this represents. My colleague, Dana Bash, yesterday, she asked Interior Secretary Doug Burgum if he would recommend to the president that he condemn this group. This again, white nationalist group. Here's his response.\n\nDOUG BURGUM, INTERIOR SECRETARY: A part of my response to that is that there are protests on The Mall that people say things that I think are reprehensible about President Trump, and yet they're allowed to go on because of free speech in our country.\n\nHILL: So, it's tough to forget that in the wake of the assassination of Charlie Kirk, President Trump actually issued a presidential memorandum, and he directed the National Joint Terrorism Task Force to focus on, in his words, \"domestic terrorists whose common ideologies include anti-Americanism, anti-capitalism, anti-Christianity.\"\n\nYou have masked -- masked, it's important to note -- white nationalists marching through the capital. Confederate flags. The administration, Eleanor, is saying this is protected free speech. Is there a double standard?\n\nELEANOR MUELLER, WHITE HOUSE REPORTER, SEMAFOR: It's a fantastic question. And I think it's unfortunate that Congress is out for the next week because I think a lot of people would have liked to hear what Republicans in the House and the Senate would have had to say. I'm sure that some of them would have taken this line that the interior secretary took, said that it was free speech and that there was nothing the administration could do. But I am also sure that we would have seen others denounce this group and what it stands for.\n\nI was on The Mall with the president on Saturday night. I saw the folks in attendance. Mostly supporters, right? I think Trump has very purposefully turned this 250th anniversary of America into a partisan exercise, a political exercise. And, you know, clearly, the participants in this march, these -- the members of this white supremacy group have felt comfortable coming forward amid that context. And so, whether or not we see further comments, further weighing in from the White House, I think, remains to be seen. But either way, it speaks volumes that, again, these are people who have felt comfortable coming out and being part of the celebration on Saturday given that Trump has made it so much about himself and his role in American exceptionalism.\n\nHILL: It's interesting they feel comfortable coming out, but, Joey, do not feel comfortable showing their faces. How much do you think this could potentially continue to be a part of the conversation in Washington? Do you see some lawmakers picking this up? You know, as Eleanor noted, Congress out of session at this point, but do you think we'll hear more about it into the week?\n\nJOEY GARRISON, WHITE HOUSE REPORTER, \"USA TODAY\": Yes, I mean, I think we could. I mean it was very striking that, you know, Washington, D.C., is a very diverse city. And people -- these white nationalists were marching in the Capitol Hill neighborhoods as they went towards the National Mall.\n\nAnd, you know, 250 years after the founding of this country, I think the images that we saw, particularly the really pointed image in the metro subway car, just shows how many in this country don't accept the multiculturalism that we have become. And so, I think it does start a larger conversation as we move into this week.\n\nHILL: Yes. One could hope that it would, right, about what is actually acceptable, what is not, and what it means to be an American.\n\nHILL: It's good to have all of you with us for that chat.\n\nMuch more ahead here on CNN THIS MORNING.\n\nPresident Trump reviewing Republicans line -- previewing, rather, the Republican line of attack heading into the midterms.\n\nDONALD TRUMP, PRESIDENT OF THE UNITED STATES: America will never be a communist country.\n\nHILL: Democrats say they're a big tent. Says it include candidates that the president is now trying to label as communists. I'll ask Democratic Congressman Greg Landsman about that next.\n\nAnd also, take a look at this. Lava spewing into the sky in Sicily. Mount Etna erupting right now.\n\nHILL: A massive funeral procession for Iran's supreme leader, Ali Khamenei, underway in Tehran at this hour.\n\nThis is the third, the largest day of public mourning.\n\nCNN's Frederik Pleitgen is in Tehran, inside that very loud, crowded procession.\n\nJust a reminder, of course, CNN operates in Iran with the permission of the government but maintains full editorial control of its reports.\n\nFREDERIK PLEITGEN, CNN SENIOR INTERNATIONAL CORRESPONDENT: This is truly a historic moment that we're witnessing here in Tehran as scores of people have come out to commemorate Iran's late supreme leader, Ayatollah Ali Khamenei, who, of course, was killed in a U.S.-Israeli airstrike along with several family members at the beginning of the U.S. and Israel's war against Iran.\n\nAnd as you can see, on the ground here there is a lot of sorrow, but there is also a lot of anger. The chants of \"death to America,\" we're hearing right now, and \"death to Israel\" have been going on almost nonstop, with people vowing revenge against the United States.\n\nUNIDENTIFIED FEMALE (through translator): We have come here to seek the revenge for the blood of our leader and we will not abandon this goal for a second. We will continue until we take the revenge from the killer of our leader.\n\nPLEITGEN: Of course, we always have to point out that everybody is mourning today. Not everybody is out here. There are people who are deeply opposed to the rule of Ayatollah Ali Khamenei. But as you can see here, right now, the government has galvanized its supporters. They have come out here en masse.\n\nAnd the message that they're sending, of course, is also directed at the United States. That if negotiations fail, Iran is ready for another fight.\n\nNow, these processions are going to go on for another several days and then culminate when the supreme leader is laid to rest in the city of Mashhad in eastern Iran.\n\nFred Pleitgen CNN, Tehran.\n\nHILL: Well, President Trump has made it clear he's putting his elections overhaul bill above everything else on Capitol Hill right now\n\nDONALD TRUMP, PRESIDENT OF THE UNITED STATES: We want to keep America great, and we will do so by approving the SAVE America Act, which means all voters must show voter I.D..\n\nYou won't have cheating on the elections anymore. It's very simple\n\nHILL: Now, House Speaker Mike Johnson says he's got a plan to save the SAVE Act again after sending Congress home early for the July 4th recess.\n\nREP. MIKE JOHNSON (R-LA): I just decided it was best to send everybody home to go celebrate July 4th in their districts. We'll come back, gather everybody together. The big urgency is to get SAVE America passed. The president has that\n\nas a top priority, and so do I. We've passed it three times in the House. We're going to try one more time on a budget reconciliation bill, and I think that will be the way to get it through the Senate and finally to the president's desk.\n\nHILL: Joining me now to discuss, Democratic Congressman Greg Landsman of Ohio.\n\nCongressman, nice to have you with us this morning.\n\nSo, the House, of course, is out until next week. Then you have eight legislative days until another five-week recess. What are the chances that the speaker is going to be able to cobble together enough Republicans to get another reconciliation bill through?\n\nREP. GREG LANDSMAN (D-OH): I doesn't look great. I mean, you know, they are now fighting with each other. He has a hard time getting anything onto the floor. I mean, the Congress has been shut down, essentially, many, many times this session. So, I think it's low.\n\nBut, you know, the -- if Trump wants this bill, which has nothing to do with health care or schools or utility bills or what Americans are dealing with every day, just voter suppression, he'll probably get it, though it's not going to pass the Senate. They don't -- they don't have the votes.\n\nHILL: What are your conversations behind the scenes? I'm not asking for names. But I'm always curious, what are the conversations with your colleagues across the aisle about this concerted effort by the president, which the speaker has, of course, picked up and is running with, to focus solely on this bill?\n\nLANDSMAN: Yes, they don't like it. I mean they all have priorities that they're working on. A lot of it has to do with their districts, things that they care about. This is not top of mind for any of their constituents. No one is focused on this. They're focused on housing. For example, we got this bipartisan housing bill done to, you know, accelerate the production, the building of new housing to bring the cost of housing down.\n\nAnd then he, you know, canceled the signing ceremony, said he wasn't going to sign the housing bill. That it boring. That it was a big yawn because the only thing that matters is this voter suppression bill. It's just not where they are.\n\nYou know, they don't -- they don't actually like this president. And in large part, it's because Trump doesn't really like them.\n\nHILL: A bold statement. We'll -- I'd be interested to hear their take on that.\n\nWhen we -- when we look at where things stand, there is also, that we heard from Speaker Johnson, say that he's working on a legislative fix when it comes to the ruling from the Supreme Court over birthright citizenship. What do you see as a possible legislative fix that the speaker could come up with?\n\nLANDSMAN: Who knows? I mean, you know, the -- a couple things. One is, why is he not focused on the American people? I -- the American people are struggling. And millions have already lost their health care. And, you know, it's become unaffordable for tens of millions of Americans. Why not try to get a legislative fix on health care, on utility costs, on food costs, on, you know, all kinds of issues that Americans are struggling with. This is not an issue that they're struggling with. People have opinions about birthright, but it's not something that impacts their lives every day. So, I don't know why he's not working on the things that matter most to most Americans.\n\nAnd then, you know, the idea that they're going to, you know, create some legislation. They don't do any legislation. And they passed the one big spending bill, which spent, you know, $4.5 trillion, mostly on tax cuts for the super wealthy, cut health care by $1 trillion. They passed the second bill to add another $70 billion to ICE, bringing the total for ICE to $240 billion. That's a quarter of a trillion dollars. That's it.\n\nSo, the idea that they're convening experts or, you know, looking at it from all different angles, I think he said yesterday, is laughable. They don't -- they don't really do policy.\n\nHILL: There is, of course, a big focus on November at this point as things are picking up speed heading into the midterms. We have seen a rise in further left Democratic candidates. We saw Democratic socialists winning here in New York City. Also last week in Colorado. President Trump really seems to be leaning into that, also looking to label some Democratic socialists as communists, which is something he brought up during his speech on July 4th.\n\nDONALD TRUMP, PRESIDENT OF THE UNITED STATES: Warriors did not fight communism on battlefields across the world only to have that menace rear its ugly head right back here in America.\n\nWe like to stop a threat like that immediately and before it begins. It's like a cancer. You got to cut it out. You got to cut it out fast.\n\nHILL: This seems to be something that we're going to hear more and more from the president, from Republicans as well. Democrats want to be a big tent party, as I know. Sometimes a united message seems to be challenging for your party. Is there a plan for that messaging from the president?\n\nLANDSMAN: You know, he's such a divisive figure. I mean, you know, that's an understatement. But it's sad because on, you know, a July 4th weekend where most of us spent the weekend out in our communities, you know, I did several parades and spent a ton of time with constituents. And I was just really appreciative of how excited people were to be together. These, you know, these are Democrats and Republicans and independents. People don't care anything about politics. And they're just -- they're Americans. And it's just such a great weekend.\n\nAnd to spend that weekend, you know, talking about, you know, how divided we are and this threat, you know, that we present to one another, as opposed to lifting us up, which I think the American people desperately want, is a leader that's going to bring us together and lift us up. And hopefully that's next. And that we'll have a nominee that does that, that is that kind of, you know, person that wants to bring us back together.\n\nHILL: Who is the leader of the Democratic Party, in your mind, right now?\n\nLANDSMAN: I mean, you know, Hakeem is at the top of the list. Hakeem Jeffries. But, you know, when you don't have the White House, there -- you're a little rudderless, right? And that happens all the time. What you're going to see after the midterms is, my hope, you know, a great debate among dozens of potential candidates. And these are people who want to be the president of the United States running in the Democratic primary. And my hope is that the debate is about the future of the country and where we're going to go. And we haven't had a big debate like that in a long time. And whoever emerges will be -- will be the nominee and the leader and hopefully the next president of the United States.\n\nHILL: Congressman Greg Landsman, appreciate your time this morning. Thank you.\n\nThe group chat is back with us now.\n\nAs we -- let's continue on this road of the future of the Democratic Party and where the voices are. And I think a good place to start with that is the Michigan Senate race.\n\nSo, just yesterday, State Senator Mallory McMorrow dropped out of the race. She released this video statement on her social page. Her opponent Abdul ElSsayed, of course, also releasing a video statement thanking her for her democracy but asking supporters to support him.\n\nI want to play a little bit of what she had to say.\n\nSTATE SENATOR MALLORY MCMORROW (D-MI): So, here's what we do next. Every day through November 3rd we win this Senate seat and we send Mike Rogers back to Florida for good. Whoever wins this primary on August 4th will have my full support.\n\nHILL: Joey, there has been a lot of attention, of course, on this race. What does McMorrow dropping out, what does it change right now?\n\nGARRISON: Well, she had already been dropping in the polls, but she has -- still is polling at about 10 percent. I think there's a big fight right now between Haley Stevens, who's more the establishment- backed candidate, supported by Schumer, and El-Sayed, who is backed by the progressive wing and recently got the endorsement of AOC.\n\nYou know, where are those moral voters going to swing over? I mean that I think for Stevens, that's now the path for her trying to win this by arguing, hey, I'm the more electable candidate in a general election against Rogers. But all the momentum seems to be on the more progressive side of El-Sayed. And in recent polling that's shown.\n\nAnd, you know, we -- in your previous segment, you saw the attacks from President Trump warning of communism in the country. He's really pointing to these rise in Democratic socialist candidates from Democrats. And, you know, that would fit into the president's narrative.\n\nAnd so, you know, I think all these questions are going to be kind of battled out here in the next month before that August 4th primary in Michigan.\n\nHILL: Mario, we still -- you know, as Joey was just mentioning, the endorsement of AOC, of course for El-Sayed and a number of other progressives who have gotten behind him. Notable endorsements. As we look at this place, this race, rather, playing out, Mario, how much of it is a snapshot of the -- of the battle within the Democratic Party?\n\nPARKER: I think it's a lot of that. It's a big snapshot of that ideological battle that's taking place. If you speak to some of the progressives, DSA, Democratic Socialists of America, its important. El-sayed is not a member, though he has some of that backing and is aligned with them. They're looking for something new after President Trump was able to win two elections, right, from -- at the hands of moderate, more moderate Democrats.\n\nNow, here's the distinction that I think is kind of missing here. These races that we saw in Colorado and New York as well, these are House races, right? So, when you're Chuck Schumer looking at a place like Michigan, which is a quintessential purple state, a Democratic governor, that Trump won that state in 2024 as well, whether or not a statewide race, right, for a Senate candidate, whether or not that will fly, and you can convince independents to get on board with a more progressive candidate rather than a more moderate candidate. I think what you're seeing from Schumer and the establishment is some doubts there.\n\nHILL: And that is -- Eleanor, that is ultimately the concern, right? And that's certainly what we heard in the wake of New York City, but also in the wake of Colorado, from more establishment Democrats who were very focused on purple areas, right? Not on, in their words, turning a blue seat cobalt, right, safe seats there, but focused on places like Michigan. But, of course, they're not going to be the only ones focused there. I mean, is the Democratic machine positioned well enough, Eleanor, to\n\ncounter some of these attacks, even just the communism label from President Trump?\n\nMUELLER: It's a fantastic question. And I think it's worth noting, too, that McMorrow, of course, is by no means a moderate. She was endorsed by Warren, if not Sanders and AOC. And the Democratic establishment, I think, is grappling with this across races. I think we saw it in the fall a lot in Democratic House races. To Mario's point, it is even more -- the stakes are even higher in these Senate races because, yes, again, this is a purple seat. It is a state where you have to appeal to voters who may have voted for Trump just two years ago. And what folks we spoke with in the fall when we wrote about this initially when it was popping up in the House told us was, there's just so much enthusiasm on the Democratic side and there's so much frustration with Trump that a lot of it is being expressed via these more farther left positions.\n\nClearly, Trump thinks it's a winning argument to denounce them as communism, to warn people about the dangers of adhering to these kinds of stances. But whether or not that's borne out in November, I think, is kind of anyone's guess at this point.\n\nHILL: As we move into the group chat, as I noted earlier in the show, of course, NATO Summit this week in Turkey. President Trump will be making his way there. He is set to meet with President Zelenskyy on the sidelines.\n\nJoey, this is in your group chat.\n\nGARRISON: Yes. I'm really curious whether Zelenskyy is able to use this meeting on Wednesday to really kind of convince President Trump to refocus on Russia's war in Ukraine. You know, for the past several months, Trump has been really solely kind of concentrated his foreign policy on the war in Iran. And, you know, that's often put this on the sidelines. Can Zelenskyy change the conversation here?\n\nHILL: Well, we'll be watching to see. We have about 30 seconds for you guys to share.\n\nEleanor, \"Love Island U.K.\" A little bit of a departure from Zelenskyy.\n\nMUELLER: A little bit of a departure. Someone said recently that people with stressful jobs don't watch prestige television, they watch reality TV. And I think that's true.\n\nMUELLER: And if you're watching \"Love Island,\" best episode of this season, Casa Amor. If you know, you know.\n\nHILL: OK. And, Mario, you get last word for something that I know is in Boris\n\nSanchez's, my good friend's group chat, because he wants LeBron in Miami.\n\nPARKER: Yes. Where LeBron goes next. Does he go to the Golden State Warriors? Does he go back home to Cleveland?\n\nHILL: We will be watching it all.\n\nGreat to have all of you with us this morning. Thank you.\n\nThanks to all of you for watching. I'm Erica Hill. The headlines are next.",
+  "segments": [
+    {
+      "seg": 2,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-06/segment/02",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nWhite National Group Marches in D.C.; Funeral Today for Iran's Supreme Leader; Rep. Greg Landsman (D-OH) is Interviewed about the SAVE America Act; McMorrow Drops out of Michigan Race. Aired 6:30-7a ET\n\nAired July 06, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nERICA HILL, CNN ANCHOR: Mentioned, you know, the Royal Belgian Football Association. They had also said they were astonished. Currently investigating all potential legal options.\n\nAnd then we just heard this morning from the United European Football Association, which governs -- is the governing body of soccer in Europe, \"expressing our disbelief in such an unprecedented, incomprehensible and unjustifiable decision.\" I mean, are there any other options, certainly any legal options, as the Royal Belgian Football Association is alluding to at this point?\n\nROGER BENNETT, FOUNDER, MEN IN BLAZERS MEDIA NETWORK: This is why we watch football, erica, because we love legislative courtroom drama. Now this is something that feels ripped from the WWE.\n\nBENNETT: You know, home cooking is the best cooking.\n\nI mean, it's totally unprecedented. And I'm kind of torn between being an American fan, despite my accent, I love this nation like Kenny Powers loves this nation. And as an American fan, emotionally, I'm like, this is the greatest thing ever. And as a rational fan of the football and the World Cup as an integral operation with rules and regulations in which it seems almost outlandish, insane that this man has been cleared. The very last because of, as a \"New York Times\" is reporting, a White House phone call to the head of FIFA to repeal a ban that has no right to appeal against.\n\nSo, our -- our great goal scorer is free on the eve of probably the biggest game in modern U.S. men's national team football history. And it feels great for many American fans. We do have to ask ourselves, Erica, if it was the other way around, if we were playing France and Macron had put the call in to get Mbappe, their best striker, ready to play, or Saudi Arabia or Qatar had done something, how would we feel? And the crazy thing is, the U.S. were doing so well in this tournament. We were playing so well. There was an element that going into battle today with Belgium, not like this. This is going to scare and stain the U.S. journey in the long term forever.\n\nHILL: Yes. You're not the first to say. It's basically -- it's going to be an asterisk no matter what happens.\n\nWhen we look at the matchup for tonight, Belgium, of course, beat the U.S. in a friendly, 5-2, back in March. What do you think the U.S.' chances are?\n\nBENNETT: This is a game with an echo in history. In 2014, in Brazil, the United States played at the same stage, Belgium. They were then at their peak. This was a game many viewers may remember. It's the Tim Howard game when he played his lights out, the most saves ever in a -- in a World Cup game. We lost in agony at the end. Unbelievably, four of the Belgian players are still the core of their team. They're now an aging core. They're like a crime caper. Old guys coming back for one more crime. So, it's veteran experience against this young, very athletic United States team with Flo Balogun asterisk.\n\nAnd I do believe this is the agony for me. I thought the U.S. were going to win this whatever this major, major game, get through this stage, round of 16 in which we traditionally stumble. But it's going to be a matchup with extra layers, football, intrigue, courtroom drama and that geopolitical level over the top of it. The World Cup contains multitudes.\n\nHILL: Yes, it certainly does. It had felt delightfully non-political up until this point. We'll see if we can maintain that.\n\nBefore I let you go, as you noted, huge U.S. soccer fan. But we do hear your accent. So, let's talk a little England-Mexico, if we could.\n\nI admitted to you in the break, I had to go to bed because I had to get up for this show. I am guessing, though, you stayed up late and watched it all.\n\nBENNETT: Oh, Erica --\n\nHILL: How are you feeling this morning?\n\nBENNETT: How am I feeling? We'll sleep after the final in two weeks' time.\n\nHILL: That's the spirit.\n\nBENNETT: This is one that -- this is one of the greatest World Cups of my lifetime. As you say, it's been the people's World Cup. Just a World Cup of wonder. Off the field, the world falling in love with America again. America falling in love with global football.\n\nThe game last night in the Azteca, England going to this kind of \"Game of Thrones\" fortress, high altitude, smog. The most intimidating venue in world football. And somehow emerging barely intact with a victory. You're watching football. I know, as we watch it, Erica, that it will be talked about for generations. It's that beautiful. We're watching it played out before our eyes. It is like the odyssey, a Greek epic poem. And God bless the English. They were up all night. In England time, they're normally hungover. They kept drinking, kept powering through. And this World Cup is just a human gift.\n\nHILL: It's great. I mean, that's how you power for the hangover, right, you just got to keep going.\n\nBENNETT: There -- again, Erica, you're giving out tips to all your viewers.\n\nHILL: It's an important lesson from the Brits.\n\nYou know, we're here to help on so many levels at CNN THIS MORNING. All the information you need to start your day and your week.\n\nBENNETT: Well played. Well played.\n\nHILL: Roger, it's great to have you with us. Thank you.\n\nBENNETT: You too. Courage. Thank you.\n\nHILL: Just a reminder, you can check out Roger's book, \"We Are the World Cup: A Personal History of the World's Greatest Sporting Event.\"\n\nWell, while the country was celebrating 250 years over the weekend, a crowd of masked members of the white nationalist group Patriot Front marched through D.C. Patriot Front is considered one of the most active white nationalist groups in the country. Members were heard chanting \"life, liberty, victory and reclaim America.\" Some of them carrying confederate flags. There's also this photo we're about to show you. This photo, which has gone viral. It shows a young African American woman sitting on the subway, surrounded by members of the group.\n\nThe group chat is back with us.\n\nThis photo, I mean, you talk about a photo that is worth a thousand words. There is so much in that.\n\nI know, Mario, you told us, you know, we always ask our guests what's going to be in your -- in your group chat for later in the show. This was in your group chat. What was the conversation?\n\nMARIO PARKER, MANAGING EDITOR, ECONOMY/GOVERNMENT, \"BLOOMBERG NEWS\": Absolutely. Well, first of all, my cousin sent it to me on Saturday after I turned my face away from my phone. My mother yesterday was talking about it too as well. Both African American women. Not lost on me at all. Just speaking about kind of the dissonance that we see here. Just so much captured in this photo, the courage of the young woman just standing -- sitting there, if you will, the posture that she has, as my mother mentioned, ten toes firmly down to the ground there.\n\nAnd just the iconic -- the iconic part of this photo. I mean it kind of harkens back to, on this 250th anniversary of our country, harkens back to so many other photos that we've seen throughout history as well. And so, it just resonated with my family, my friends, and just resonated throughout my group chat as well right there.\n\nHILL: And understandably. There were also, you know, the questions about what this represents. My colleague, Dana Bash, yesterday, she asked Interior Secretary Doug Burgum if he would recommend to the president that he condemn this group. This again, white nationalist group. Here's his response.\n\nDOUG BURGUM, INTERIOR SECRETARY: A part of my response to that is that there are protests on The Mall that people say things that I think are reprehensible about President Trump, and yet they're allowed to go on because of free speech in our country.\n\nHILL: So, it's tough to forget that in the wake of the assassination of Charlie Kirk, President Trump actually issued a presidential memorandum, and he directed the National Joint Terrorism Task Force to focus on, in his words, \"domestic terrorists whose common ideologies include anti-Americanism, anti-capitalism, anti-Christianity.\"\n\nYou have masked -- masked, it's important to note -- white nationalists marching through the capital. Confederate flags. The administration, Eleanor, is saying this is protected free speech. Is there a double standard?\n\nELEANOR MUELLER, WHITE HOUSE REPORTER, SEMAFOR: It's a fantastic question. And I think it's unfortunate that Congress is out for the next week because I think a lot of people would have liked to hear what Republicans in the House and the Senate would have had to say. I'm sure that some of them would have taken this line that the interior secretary took, said that it was free speech and that there was nothing the administration could do. But I am also sure that we would have seen others denounce this group and what it stands for.\n\nI was on The Mall with the president on Saturday night. I saw the folks in attendance. Mostly supporters, right? I think Trump has very purposefully turned this 250th anniversary of America into a partisan exercise, a political exercise. And, you know, clearly, the participants in this march, these -- the members of this white supremacy group have felt comfortable coming forward amid that context. And so, whether or not we see further comments, further weighing in from the White House, I think, remains to be seen. But either way, it speaks volumes that, again, these are people who have felt comfortable coming out and being part of the celebration on Saturday given that Trump has made it so much about himself and his role in American exceptionalism.\n\nHILL: It's interesting they feel comfortable coming out, but, Joey, do not feel comfortable showing their faces. How much do you think this could potentially continue to be a part of the conversation in Washington? Do you see some lawmakers picking this up? You know, as Eleanor noted, Congress out of session at this point, but do you think we'll hear more about it into the week?\n\nJOEY GARRISON, WHITE HOUSE REPORTER, \"USA TODAY\": Yes, I mean, I think we could. I mean it was very striking that, you know, Washington, D.C., is a very diverse city. And people -- these white nationalists were marching in the Capitol Hill neighborhoods as they went towards the National Mall.\n\nAnd, you know, 250 years after the founding of this country, I think the images that we saw, particularly the really pointed image in the metro subway car, just shows how many in this country don't accept the multiculturalism that we have become. And so, I think it does start a larger conversation as we move into this week.\n\nHILL: Yes. One could hope that it would, right, about what is actually acceptable, what is not, and what it means to be an American.\n\nHILL: It's good to have all of you with us for that chat.\n\nMuch more ahead here on CNN THIS MORNING.\n\nPresident Trump reviewing Republicans line -- previewing, rather, the Republican line of attack heading into the midterms.\n\nDONALD TRUMP, PRESIDENT OF THE UNITED STATES: America will never be a communist country.\n\nHILL: Democrats say they're a big tent. Says it include candidates that the president is now trying to label as communists. I'll ask Democratic Congressman Greg Landsman about that next.\n\nAnd also, take a look at this. Lava spewing into the sky in Sicily. Mount Etna erupting right now.\n\nHILL: A massive funeral procession for Iran's supreme leader, Ali Khamenei, underway in Tehran at this hour.\n\nThis is the third, the largest day of public mourning.\n\nCNN's Frederik Pleitgen is in Tehran, inside that very loud, crowded procession.\n\nJust a reminder, of course, CNN operates in Iran with the permission of the government but maintains full editorial control of its reports.\n\nFREDERIK PLEITGEN, CNN SENIOR INTERNATIONAL CORRESPONDENT: This is truly a historic moment that we're witnessing here in Tehran as scores of people have come out to commemorate Iran's late supreme leader, Ayatollah Ali Khamenei, who, of course, was killed in a U.S.-Israeli airstrike along with several family members at the beginning of the U.S. and Israel's war against Iran.\n\nAnd as you can see, on the ground here there is a lot of sorrow, but there is also a lot of anger. The chants of \"death to America,\" we're hearing right now, and \"death to Israel\" have been going on almost nonstop, with people vowing revenge against the United States.\n\nUNIDENTIFIED FEMALE (through translator): We have come here to seek the revenge for the blood of our leader and we will not abandon this goal for a second. We will continue until we take the revenge from the killer of our leader.\n\nPLEITGEN: Of course, we always have to point out that everybody is mourning today. Not everybody is out here. There are people who are deeply opposed to the rule of Ayatollah Ali Khamenei. But as you can see here, right now, the government has galvanized its supporters. They have come out here en masse.\n\nAnd the message that they're sending, of course, is also directed at the United States. That if negotiations fail, Iran is ready for another fight.\n\nNow, these processions are going to go on for another several days and then culminate when the supreme leader is laid to rest in the city of Mashhad in eastern Iran.\n\nFred Pleitgen CNN, Tehran.\n\nHILL: Well, President Trump has made it clear he's putting his elections overhaul bill above everything else on Capitol Hill right now\n\nDONALD TRUMP, PRESIDENT OF THE UNITED STATES: We want to keep America great, and we will do so by approving the SAVE America Act, which means all voters must show voter I.D..\n\nYou won't have cheating on the elections anymore. It's very simple\n\nHILL: Now, House Speaker Mike Johnson says he's got a plan to save the SAVE Act again after sending Congress home early for the July 4th recess.\n\nREP. MIKE JOHNSON (R-LA): I just decided it was best to send everybody home to go celebrate July 4th in their districts. We'll come back, gather everybody together. The big urgency is to get SAVE America passed. The president has that\n\nas a top priority, and so do I. We've passed it three times in the House. We're going to try one more time on a budget reconciliation bill, and I think that will be the way to get it through the Senate and finally to the president's desk.\n\nHILL: Joining me now to discuss, Democratic Congressman Greg Landsman of Ohio.\n\nCongressman, nice to have you with us this morning.\n\nSo, the House, of course, is out until next week. Then you have eight legislative days until another five-week recess. What are the chances that the speaker is going to be able to cobble together enough Republicans to get another reconciliation bill through?\n\nREP. GREG LANDSMAN (D-OH): I doesn't look great. I mean, you know, they are now fighting with each other. He has a hard time getting anything onto the floor. I mean, the Congress has been shut down, essentially, many, many times this session. So, I think it's low.\n\nBut, you know, the -- if Trump wants this bill, which has nothing to do with health care or schools or utility bills or what Americans are dealing with every day, just voter suppression, he'll probably get it, though it's not going to pass the Senate. They don't -- they don't have the votes.\n\nHILL: What are your conversations behind the scenes? I'm not asking for names. But I'm always curious, what are the conversations with your colleagues across the aisle about this concerted effort by the president, which the speaker has, of course, picked up and is running with, to focus solely on this bill?\n\nLANDSMAN: Yes, they don't like it. I mean they all have priorities that they're working on. A lot of it has to do with their districts, things that they care about. This is not top of mind for any of their constituents. No one is focused on this. They're focused on housing. For example, we got this bipartisan housing bill done to, you know, accelerate the production, the building of new housing to bring the cost of housing down.\n\nAnd then he, you know, canceled the signing ceremony, said he wasn't going to sign the housing bill. That it boring. That it was a big yawn because the only thing that matters is this voter suppression bill. It's just not where they are.\n\nYou know, they don't -- they don't actually like this president. And in large part, it's because Trump doesn't really like them.\n\nHILL: A bold statement. We'll -- I'd be interested to hear their take on that.\n\nWhen we -- when we look at where things stand, there is also, that we heard from Speaker Johnson, say that he's working on a legislative fix when it comes to the ruling from the Supreme Court over birthright citizenship. What do you see as a possible legislative fix that the speaker could come up with?\n\nLANDSMAN: Who knows? I mean, you know, the -- a couple things. One is, why is he not focused on the American people? I -- the American people are struggling. And millions have already lost their health care. And, you know, it's become unaffordable for tens of millions of Americans. Why not try to get a legislative fix on health care, on utility costs, on food costs, on, you know, all kinds of issues that Americans are struggling with. This is not an issue that they're struggling with. People have opinions about birthright, but it's not something that impacts their lives every day. So, I don't know why he's not working on the things that matter most to most Americans.\n\nAnd then, you know, the idea that they're going to, you know, create some legislation. They don't do any legislation. And they passed the one big spending bill, which spent, you know, $4.5 trillion, mostly on tax cuts for the super wealthy, cut health care by $1 trillion. They passed the second bill to add another $70 billion to ICE, bringing the total for ICE to $240 billion. That's a quarter of a trillion dollars. That's it.\n\nSo, the idea that they're convening experts or, you know, looking at it from all different angles, I think he said yesterday, is laughable. They don't -- they don't really do policy.\n\nHILL: There is, of course, a big focus on November at this point as things are picking up speed heading into the midterms. We have seen a rise in further left Democratic candidates. We saw Democratic socialists winning here in New York City. Also last week in Colorado. President Trump really seems to be leaning into that, also looking to label some Democratic socialists as communists, which is something he brought up during his speech on July 4th.\n\nDONALD TRUMP, PRESIDENT OF THE UNITED STATES: Warriors did not fight communism on battlefields across the world only to have that menace rear its ugly head right back here in America.\n\nWe like to stop a threat like that immediately and before it begins. It's like a cancer. You got to cut it out. You got to cut it out fast.\n\nHILL: This seems to be something that we're going to hear more and more from the president, from Republicans as well. Democrats want to be a big tent party, as I know. Sometimes a united message seems to be challenging for your party. Is there a plan for that messaging from the president?\n\nLANDSMAN: You know, he's such a divisive figure. I mean, you know, that's an understatement. But it's sad because on, you know, a July 4th weekend where most of us spent the weekend out in our communities, you know, I did several parades and spent a ton of time with constituents. And I was just really appreciative of how excited people were to be together. These, you know, these are Democrats and Republicans and independents. People don't care anything about politics. And they're just -- they're Americans. And it's just such a great weekend.\n\nAnd to spend that weekend, you know, talking about, you know, how divided we are and this threat, you know, that we present to one another, as opposed to lifting us up, which I think the American people desperately want, is a leader that's going to bring us together and lift us up. And hopefully that's next. And that we'll have a nominee that does that, that is that kind of, you know, person that wants to bring us back together.\n\nHILL: Who is the leader of the Democratic Party, in your mind, right now?\n\nLANDSMAN: I mean, you know, Hakeem is at the top of the list. Hakeem Jeffries. But, you know, when you don't have the White House, there -- you're a little rudderless, right? And that happens all the time. What you're going to see after the midterms is, my hope, you know, a great debate among dozens of potential candidates. And these are people who want to be the president of the United States running in the Democratic primary. And my hope is that the debate is about the future of the country and where we're going to go. And we haven't had a big debate like that in a long time. And whoever emerges will be -- will be the nominee and the leader and hopefully the next president of the United States.\n\nHILL: Congressman Greg Landsman, appreciate your time this morning. Thank you.\n\nThe group chat is back with us now.\n\nAs we -- let's continue on this road of the future of the Democratic Party and where the voices are. And I think a good place to start with that is the Michigan Senate race.\n\nSo, just yesterday, State Senator Mallory McMorrow dropped out of the race. She released this video statement on her social page. Her opponent Abdul ElSsayed, of course, also releasing a video statement thanking her for her democracy but asking supporters to support him.\n\nI want to play a little bit of what she had to say.\n\nSTATE SENATOR MALLORY MCMORROW (D-MI): So, here's what we do next. Every day through November 3rd we win this Senate seat and we send Mike Rogers back to Florida for good. Whoever wins this primary on August 4th will have my full support.\n\nHILL: Joey, there has been a lot of attention, of course, on this race. What does McMorrow dropping out, what does it change right now?\n\nGARRISON: Well, she had already been dropping in the polls, but she has -- still is polling at about 10 percent. I think there's a big fight right now between Haley Stevens, who's more the establishment- backed candidate, supported by Schumer, and El-Sayed, who is backed by the progressive wing and recently got the endorsement of AOC.\n\nYou know, where are those moral voters going to swing over? I mean that I think for Stevens, that's now the path for her trying to win this by arguing, hey, I'm the more electable candidate in a general election against Rogers. But all the momentum seems to be on the more progressive side of El-Sayed. And in recent polling that's shown.\n\nAnd, you know, we -- in your previous segment, you saw the attacks from President Trump warning of communism in the country. He's really pointing to these rise in Democratic socialist candidates from Democrats. And, you know, that would fit into the president's narrative.\n\nAnd so, you know, I think all these questions are going to be kind of battled out here in the next month before that August 4th primary in Michigan.\n\nHILL: Mario, we still -- you know, as Joey was just mentioning, the endorsement of AOC, of course for El-Sayed and a number of other progressives who have gotten behind him. Notable endorsements. As we look at this place, this race, rather, playing out, Mario, how much of it is a snapshot of the -- of the battle within the Democratic Party?\n\nPARKER: I think it's a lot of that. It's a big snapshot of that ideological battle that's taking place. If you speak to some of the progressives, DSA, Democratic Socialists of America, its important. El-sayed is not a member, though he has some of that backing and is aligned with them. They're looking for something new after President Trump was able to win two elections, right, from -- at the hands of moderate, more moderate Democrats.\n\nNow, here's the distinction that I think is kind of missing here. These races that we saw in Colorado and New York as well, these are House races, right? So, when you're Chuck Schumer looking at a place like Michigan, which is a quintessential purple state, a Democratic governor, that Trump won that state in 2024 as well, whether or not a statewide race, right, for a Senate candidate, whether or not that will fly, and you can convince independents to get on board with a more progressive candidate rather than a more moderate candidate. I think what you're seeing from Schumer and the establishment is some doubts there.\n\nHILL: And that is -- Eleanor, that is ultimately the concern, right? And that's certainly what we heard in the wake of New York City, but also in the wake of Colorado, from more establishment Democrats who were very focused on purple areas, right? Not on, in their words, turning a blue seat cobalt, right, safe seats there, but focused on places like Michigan. But, of course, they're not going to be the only ones focused there. I mean, is the Democratic machine positioned well enough, Eleanor, to\n\ncounter some of these attacks, even just the communism label from President Trump?\n\nMUELLER: It's a fantastic question. And I think it's worth noting, too, that McMorrow, of course, is by no means a moderate. She was endorsed by Warren, if not Sanders and AOC. And the Democratic establishment, I think, is grappling with this across races. I think we saw it in the fall a lot in Democratic House races. To Mario's point, it is even more -- the stakes are even higher in these Senate races because, yes, again, this is a purple seat. It is a state where you have to appeal to voters who may have voted for Trump just two years ago. And what folks we spoke with in the fall when we wrote about this initially when it was popping up in the House told us was, there's just so much enthusiasm on the Democratic side and there's so much frustration with Trump that a lot of it is being expressed via these more farther left positions.\n\nClearly, Trump thinks it's a winning argument to denounce them as communism, to warn people about the dangers of adhering to these kinds of stances. But whether or not that's borne out in November, I think, is kind of anyone's guess at this point.\n\nHILL: As we move into the group chat, as I noted earlier in the show, of course, NATO Summit this week in Turkey. President Trump will be making his way there. He is set to meet with President Zelenskyy on the sidelines.\n\nJoey, this is in your group chat.\n\nGARRISON: Yes. I'm really curious whether Zelenskyy is able to use this meeting on Wednesday to really kind of convince President Trump to refocus on Russia's war in Ukraine. You know, for the past several months, Trump has been really solely kind of concentrated his foreign policy on the war in Iran. And, you know, that's often put this on the sidelines. Can Zelenskyy change the conversation here?\n\nHILL: Well, we'll be watching to see. We have about 30 seconds for you guys to share.\n\nEleanor, \"Love Island U.K.\" A little bit of a departure from Zelenskyy.\n\nMUELLER: A little bit of a departure. Someone said recently that people with stressful jobs don't watch prestige television, they watch reality TV. And I think that's true.\n\nMUELLER: And if you're watching \"Love Island,\" best episode of this season, Casa Amor. If you know, you know.\n\nHILL: OK. And, Mario, you get last word for something that I know is in Boris\n\nSanchez's, my good friend's group chat, because he wants LeBron in Miami.\n\nPARKER: Yes. Where LeBron goes next. Does he go to the Golden State Warriors? Does he go back home to Cleveland?\n\nHILL: We will be watching it all.\n\nGreat to have all of you with us this morning. Thank you.\n\nThanks to all of you for watching. I'm Erica Hill. The headlines are next."
+    }
+  ]
+}

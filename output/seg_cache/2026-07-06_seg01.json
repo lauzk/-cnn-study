@@ -1,0 +1,424 @@
+{
+  "date": "2026-07-06",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-06/segment/01",
+  "vocabulary": [
+    {
+      "word": "red card",
+      "phonetic": "/red kɑːrd/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "红牌",
+      "en": "a card shown by the referee to a player who is being sent off the field",
+      "excerpt": "The red card reversal heard round the world, boosting Team USA before a critical World Cup match",
+      "example_cn": "裁判出示红牌将球员罚下场。"
+    },
+    {
+      "word": "reversal",
+      "phonetic": "/rɪˈvɜːrsl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "逆转，撤销",
+      "en": "a change to an opposite direction, position, or course of action",
+      "excerpt": "The red card reversal heard round the world",
+      "example_cn": "这一决定是对先前判决的逆转。"
+    },
+    {
+      "word": "suspend",
+      "phonetic": "/səˈspend/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "暂停，禁赛",
+      "en": "to officially prevent someone from playing or taking part for a period of time",
+      "excerpt": "the U.S. men's team's star player suspended until President Trump entered the chat",
+      "example_cn": "该球员因犯规被禁赛一场。"
+    },
+    {
+      "word": "cry foul",
+      "phonetic": "/kraɪ faʊl/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "抱怨，指责不公",
+      "en": "to complain about something that is unfair",
+      "excerpt": "some fans and coaches are crying foul",
+      "example_cn": "球迷们对裁判的判罚表示不满。"
+    },
+    {
+      "word": "trump card",
+      "phonetic": "/trʌmp kɑːrd/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "王牌，杀手锏",
+      "en": "something that gives someone an advantage over others",
+      "excerpt": "Definitely think that Trump played a trump card",
+      "example_cn": "他在这场谈判中打出了王牌。"
+    },
+    {
+      "word": "intimidation",
+      "phonetic": "/ɪnˌtɪmɪˈdeɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "恐吓，威胁",
+      "en": "the act of frightening or threatening someone",
+      "excerpt": "Is it free speech or intimidation?",
+      "example_cn": "这种行为被视为一种恐吓。"
+    },
+    {
+      "word": "reflecting pool",
+      "phonetic": "/rɪˈflektɪŋ puːl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "倒影池",
+      "en": "a shallow pool designed to reflect a surrounding structure",
+      "excerpt": "The Reflecting Pool may need to be drained this week",
+      "example_cn": "林肯纪念堂前的倒影池正在维修。"
+    },
+    {
+      "word": "balloon",
+      "phonetic": "/bəˈluːn/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "激增，膨胀",
+      "en": "to increase rapidly in size or cost",
+      "excerpt": "ballooning from the initial estimate of under $2 million",
+      "example_cn": "成本从最初的200万美元激增到1600万美元。"
+    },
+    {
+      "word": "showdown",
+      "phonetic": "/ˈʃoʊdaʊn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "对决，摊牌",
+      "en": "a final test or confrontation",
+      "excerpt": "The U.S. has a huge World Cup showdown with Belgium",
+      "example_cn": "两支球队将在决赛中一决高下。"
+    },
+    {
+      "word": "pitch",
+      "phonetic": "/pɪtʃ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "球场",
+      "en": "the field where a sports game is played",
+      "excerpt": "one of their stars will be on the pitch",
+      "example_cn": "球员们正在球场上热身。"
+    },
+    {
+      "word": "sideline",
+      "phonetic": "/ˈsaɪdlaɪn/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "使退出比赛，使靠边站",
+      "en": "to prevent someone from taking part in an activity",
+      "excerpt": "who was supposed to sit out due to that red card",
+      "example_cn": "伤病使他无法参加比赛。"
+    },
+    {
+      "word": "obscure",
+      "phonetic": "/əbˈskjʊr/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "模糊的，鲜为人知的",
+      "en": "not well known or not easily understood",
+      "excerpt": "citing an obscure FIFA rule",
+      "example_cn": "他们引用了一条鲜为人知的规则。"
+    },
+    {
+      "word": "applaud",
+      "phonetic": "/əˈplɔːd/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "称赞，鼓掌",
+      "en": "to express approval or praise",
+      "excerpt": "Trump applauded the move on social media",
+      "example_cn": "观众为他的精彩表现鼓掌。"
+    },
+    {
+      "word": "injustice",
+      "phonetic": "/ɪnˈdʒʌstɪs/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "不公正",
+      "en": "lack of fairness or justice",
+      "excerpt": "reversing a great injustice",
+      "example_cn": "他声称自己受到了不公正待遇。"
+    },
+    {
+      "word": "precedent",
+      "phonetic": "/ˈpresɪdənt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "先例",
+      "en": "an earlier event or action that is regarded as an example",
+      "excerpt": "it is precedent-shattering",
+      "example_cn": "这一决定开创了危险的先例。"
+    },
+    {
+      "word": "shatter",
+      "phonetic": "/ˈʃætər/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "打破，粉碎",
+      "en": "to break or destroy something",
+      "excerpt": "precedent-shattering",
+      "example_cn": "这一发现打破了之前的理论。"
+    },
+    {
+      "word": "taint",
+      "phonetic": "/teɪnt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "玷污，污染",
+      "en": "to spoil or affect something negatively",
+      "excerpt": "whether this taints things",
+      "example_cn": "丑闻玷污了他的名声。"
+    },
+    {
+      "word": "enrage",
+      "phonetic": "/ɪnˈreɪdʒ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "激怒",
+      "en": "to make someone very angry",
+      "excerpt": "it's enraged Belgium in the process",
+      "example_cn": "他的言论激怒了在场的所有人。"
+    },
+    {
+      "word": "asterisk",
+      "phonetic": "/ˈæstərɪsk/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "星号，注脚",
+      "en": "a symbol used to indicate a footnote or that something is exceptional",
+      "excerpt": "they may have an asterisk now",
+      "example_cn": "这项纪录可能被打上星号。"
+    },
+    {
+      "word": "funeral procession",
+      "phonetic": "/ˈfjuːnərəl prəˈseʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "送葬队伍",
+      "en": "a line of people or vehicles moving slowly as part of a funeral",
+      "excerpt": "Mourners lining the streets in Iran for the funeral procession",
+      "example_cn": "成千上万的哀悼者参加了送葬队伍。"
+    },
+    {
+      "word": "supreme leader",
+      "phonetic": "/suːˈpriːm ˈliːdər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "最高领袖",
+      "en": "the highest-ranking leader in some countries",
+      "excerpt": "funeral procession of Iran's late supreme leader",
+      "example_cn": "伊朗最高领袖拥有最终决定权。"
+    },
+    {
+      "word": "simmering tensions",
+      "phonetic": "/ˈsɪmərɪŋ ˈtenʃnz/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "一触即发的紧张局势",
+      "en": "tensions that are about to become worse",
+      "excerpt": "simmering tensions in the Middle East",
+      "example_cn": "该地区的紧张局势一触即发。"
+    },
+    {
+      "word": "mayday",
+      "phonetic": "/ˈmeɪdeɪ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "求救信号",
+      "en": "an international radio distress signal",
+      "excerpt": "mayday, mayday, mayday!",
+      "example_cn": "飞行员发出了求救信号。"
+    },
+    {
+      "word": "hard landing",
+      "phonetic": "/hɑːrd ˈlændɪŋ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "硬着陆",
+      "en": "a landing that is rough or sudden",
+      "excerpt": "A small seaplane making a hard landing",
+      "example_cn": "飞机在跑道上硬着陆。"
+    },
+    {
+      "word": "ballooning",
+      "phonetic": "/bəˈluːnɪŋ/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "激增的",
+      "en": "increasing rapidly",
+      "excerpt": "ballooning from the initial estimate",
+      "example_cn": "成本激增令人担忧。"
+    },
+    {
+      "word": "vandal",
+      "phonetic": "/ˈvændl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "故意破坏者",
+      "en": "someone who deliberately damages property",
+      "excerpt": "vandals caused all that damage",
+      "example_cn": "破坏者砸碎了窗户。"
+    },
+    {
+      "word": "peel off",
+      "phonetic": "/piːl ɒf/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "剥落",
+      "en": "to come off in thin layers",
+      "excerpt": "Pieces of the coating began peeling off the bottom",
+      "example_cn": "墙上的油漆开始剥落。"
+    },
+    {
+      "word": "newlywed",
+      "phonetic": "/ˈnuːliwed/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "新婚夫妇",
+      "en": "a person who has recently married",
+      "excerpt": "Taylor Swift and Travis Kelce are newlyweds",
+      "example_cn": "新婚夫妇正在度蜜月。"
+    },
+    {
+      "word": "bouquet",
+      "phonetic": "/buːˈkeɪ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "花束",
+      "en": "a bunch of flowers",
+      "excerpt": "who caught the bouquet",
+      "example_cn": "新娘抛出了花束。"
+    },
+    {
+      "word": "officiant",
+      "phonetic": "/əˈfɪʃiənt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "主婚人",
+      "en": "a person who officiates at a wedding ceremony",
+      "excerpt": "Adam Sandler appeared as the officiant",
+      "example_cn": "主婚人宣布他们结为夫妻。"
+    },
+    {
+      "word": "raffle",
+      "phonetic": "/ˈræfl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "抽奖",
+      "en": "a lottery where tickets are sold and prizes are given",
+      "excerpt": "win tickets for raffles",
+      "example_cn": "他们为慈善活动举办了抽奖。"
+    },
+    {
+      "word": "docuseries",
+      "phonetic": "/ˈdɒkjuːsɪəriːz/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "纪录片系列",
+      "en": "a series of documentary programs",
+      "excerpt": "could be a documentary, docuseries",
+      "example_cn": "Netflix制作了一部关于该乐队的纪录片系列。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "The suspension was supposedly not able to be reviewed.",
+      "cn": "据称，该禁赛决定无法被复审。",
+      "structure": "主语 + 系动词 + 表语（形容词短语）",
+      "analysis": "supposedly 为副词，修饰整个句子，表示‘据称’。not able to be reviewed 为形容词短语作表语，其中 to be reviewed 为不定式被动语态。"
+    },
+    {
+      "en": "A source, however, tells CNN President Trump personally called FIFA's president to ask for a review.",
+      "cn": "然而，一位消息人士告诉CNN，特朗普总统亲自致电国际足联主席，要求进行复审。",
+      "structure": "主语 + 谓语 + 间接宾语 + 直接宾语（宾语从句）",
+      "analysis": "tells 后接双宾语，CNN 为间接宾语，President Trump... 为宾语从句，省略了 that。从句中 personally 为副词修饰 called。"
+    },
+    {
+      "en": "The Belgian Football Association isn't defending itself, nor is it defending the national team.",
+      "cn": "比利时足协不是在为自己辩护，也不是在为国家队辩护。",
+      "structure": "否定句 + nor + 倒装句",
+      "analysis": "nor 引导倒装结构，表示‘也不’，is it defending 为部分倒装。"
+    },
+    {
+      "en": "It also, I mean, is proof, I think, of this relationship between Trump and the FIFA president.",
+      "cn": "我认为，这也证明了特朗普与国际足联主席之间的关系。",
+      "structure": "主语 + 插入语 + 系动词 + 表语 + 介词短语",
+      "analysis": "I mean 和 I think 为插入语，proof of... 为表语，between...and... 修饰 relationship。"
+    },
+    {
+      "en": "The fact that this call was controversial, it did allow for the president to kind of put his finger on the scale.",
+      "cn": "这次通话具有争议性，这一事实确实让总统得以在一定程度上施加影响。",
+      "structure": "同位语从句 + 主句",
+      "analysis": "The fact that... 为同位语从句，it 为形式主语，真正主语为 The fact...，allow for... 意为‘允许’，kind of 为口语化副词短语。"
+    },
+    {
+      "en": "Whether the U.S. wins tonight or not, they may have an asterisk now, just based off of this action.",
+      "cn": "无论美国队今晚是否获胜，由于这一举动，他们的成绩现在可能被打上星号。",
+      "structure": "让步状语从句 + 主句 + 分词短语",
+      "analysis": "Whether...or not 引导让步状语从句，based off of 为分词短语作状语，意为‘基于’。"
+    },
+    {
+      "en": "Trump had pledged to restore the pool in time for the nation's 250th birthday, but shortly after, the bottom was repainted American flag blue, the green algae returned.",
+      "cn": "特朗普曾承诺在国庆250周年之际及时修复该池，但不久后，池底被重新漆成美国国旗蓝，绿藻又回来了。",
+      "structure": "并列句",
+      "analysis": "but 连接两个并列分句，第一个分句为过去完成时，第二个分句为一般过去时，the green algae returned 为独立主格结构。"
+    },
+    {
+      "en": "The only way you can end up with actual slices in one spot and not the other, is that someone physically cut it.",
+      "cn": "你在一处而非另一处出现实际切口的唯一可能是有人用物理方式切割了它。",
+      "structure": "主语从句 + 系动词 + 表语从句",
+      "analysis": "The only way (that) you can... 为定语从句修饰 way，is that... 为表语从句。"
+    },
+    {
+      "en": "And something that has been completely secret, not a lot of details have emerged.",
+      "cn": "而且，这件事一直完全保密，没有太多细节浮出水面。",
+      "structure": "并列句",
+      "analysis": "and 连接两个分句，第一个分句为 something that... 结构，that 引导定语从句。"
+    },
+    {
+      "en": "Since it hasn't been so close to the Fourth, I'm wondering if it's not today, if they're going to hold onto it.",
+      "cn": "既然离国庆节还不太近，我在想如果不是今天，他们是否会保留它。",
+      "structure": "原因状语从句 + 主句（含宾语从句）",
+      "analysis": "Since 引导原因状语从句，主句中 wondering 后接 if 引导的宾语从句，第二个 if 为并列宾语从句。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "Trump干预FIFA红牌事件",
+      "content": "美国总统特朗普被指亲自致电国际足联主席，要求复审美国队球员Folarin Balogun的红牌禁赛，随后独立委员会撤销了禁赛。此举引发争议，比利时队教练和球迷表示不满，认为这是不公平的干预。",
+      "keywords": "Trump, FIFA, red card, World Cup, intervention"
+    },
+    {
+      "title": "Taylor Swift与Travis Kelce婚礼",
+      "content": "Taylor Swift和Travis Kelce在麦迪逊广场花园举行婚礼，由Adam Sandler主婚，众多明星出席。婚礼细节保密，但宾客透露了部分信息，包括婚礼色调、娱乐活动等。外界猜测婚礼可能被制作成纪录片。",
+      "keywords": "Taylor Swift, Travis Kelce, wedding, Madison Square Garden, celebrity"
+    },
+    {
+      "title": "林肯纪念堂倒影池维修成本激增",
+      "content": "林肯纪念堂倒影池的维修成本从最初的200万美元激增至1600万美元。内政部长Doug Burgum声称是破坏者造成了损坏，但未提供证据。",
+      "keywords": "Lincoln Memorial, Reflecting Pool, cost overrun, vandalism"
+    },
+    {
+      "title": "伊朗最高领袖葬礼",
+      "content": "伊朗最高领袖去世，送葬队伍在德黑兰街头行进，CNN记者在现场报道。",
+      "keywords": "Iran, supreme leader, funeral, Tehran"
+    },
+    {
+      "title": "美国队世界杯对阵比利时",
+      "content": "美国队将在世界杯16强赛中对阵比利时，因红牌撤销事件，美国队头号射手Balogun得以参赛，比赛备受关注。",
+      "keywords": "World Cup, USA, Belgium, Round of 16, soccer"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nTeam USA Red Card Reversal Tied to Trump; Taylor Swift & Travis Kelce Tie the Knot at Madison Square Garden. Aired 6-6:30a ET\n\nAired July 06, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nERICA HILL, CNN ANCHOR: Today in the group chat, the U.S. men's team's star player suspended until President Trump entered the chat. Now that one-game ban has been lifted, and some fans and coaches are crying foul.\n\nUNIDENTIFIED MALE: Definitely think that Trump played a trump card.\n\nHILL: White nationalists marching through the streets of D.C. on July Fourth. Is it free speech or intimidation? The White House take.\n\nThe Reflecting Pool may need to be drained this week for yet another round of repairs. So just how much more could this latest fix cost taxpayers?\n\nIn a crucial Michigan Senate race, one candidate gets an important backer; another drops out. So, how will this change the face of that race?\n\nMICHIGAN STATE SENATOR MALLORY MCMORROW (D), FORMER CANDIDATE, MICHIGAN SENATE RACE: I may be suspending this campaign, but I am not leaving the fight.\n\nHILL: The red card reversal heard round the world, boosting Team USA before a critical World Cup match and forcing the U.S. Men's coach to respond to reports of an assist from the White House.\n\nMAURICIO POCHETTINO, UNITED STATES HEAD COACH: I am listening different coaches, different, you know, federation that talk about, oh, the president called the -- this, that. No. Everything want to be involved, is not surprise me.\n\nHILL: Doesn't surprise him.\n\nGood morning, everyone. I'm Erica Hill, in for Audie Cornish.\n\nThe U.S. has a huge World Cup showdown, of course, tonight with Belgium. And now, one of their stars will be on the pitch after FIFA on Sunday shocked the tournament by sidelining the suspension of U.S. soccer star Folarin Balogun, who was supposed to sit out due to that red card in the previous game.\n\nThe suspension was supposedly not able to be reviewed. A source, however, tells CNN President Trump personally called FIFA's president to ask for a review.\n\nAnd then, a few days later, the penalty was set aside by an independent commission, citing an obscure FIFA rule. I believe it's Rule 27.\n\nTrump applauded the move on social media, posting, \"Thank you to FIFA for doing what was right and reversing a great injustice.\"\n\nBelgium's manager, meantime, compared the announcement to April Fool's Day.\n\nRUDI GARCIA, BELGIUM HEAD COACH (through translator): I didn't realize that at FIFA headquarters, July 5th was the equivalent of April 1st in Europe.\n\nThe Belgian Football Association isn't defending itself, nor is it defending the national team. It's defending football in general.\n\nHILL: Joining me now in the group chat, Mario Parker, managing editor, economy and government at Bloomberg News; Joey Garrison, White House reporter, \"USA Today\"; and Eleanor Mueller, White -- White House reporter at \"Semafor.\"\n\nSo, CNN, you know, according to the reporting, there's some reporting that Trump made a phone call. FIFA says this was an independent commission that made this decision. Eleanor, what are you hearing this morning?\n\nELEANOR MUELLER, WHITE HOUSE REPORTER, \"SEMAFOR\": Well, it's on brand for Trump, right? To take issue with something and believe he can change it. We know that Howard Lutnick, the commerce secretary, was involved in this talks. He -- he's this type of guy. He's the let me call them. Let me talk to them. Let me see what I can do.\n\nAnd it also, I mean, is proof, I think, of this relationship between Trump and the FIFA president. The FIFA president created this FIFA Peace Prize to give to Trump when he was upset about not getting the Nobel Peace Prize.\n\nAnd so, in some ways, this makes a lot of sense. Of course, that doesn't change the fact that it is precedent-shattering.\n\nHILL: It is -- it was remarkable, I will say, Mario, that so much of what we have seen so far in the tournament, the president didn't seem to be all that interested. It felt delightfully nonpolitical. Are those days now over, Mario?\n\nMARIO PARKER, MANAGING EDITOR, ECONOMY AND GOVERNMENT, BLOOMBERG NEWS: Yes, those days are over. It was only a matter of time, right? I mean, we're two weeks or three weeks out from when the president visited the NBA finals in New York, for example, as well. We know that the president hosted a UFC fight on the White House grounds. He's a sports aficionado.\n\nThe fact that this call was controversial, it did allow for the president. It gave the president an opportunity to kind of put his finger on the scale.\n\nNow, obviously, some of the -- the criticism that we've heard from opponents are that this is a bad precedent that could be set, but also whether or not the U.S. wins, whether the -- whether the U.S. wins tonight or not, they may have an asterisk now, just based off of this action.\n\nHILL: In terms of that asterisk, it's interesting, I think, some of the comments that we heard from fans. I mean, certainly, we heard, you know, coaches, managers speaking out here, but CNN spoke to some fans, as well. Just take a listen to their take.\n\nUNIDENTIFIED MALE: You really want to hope that that's not the case. But with all the rumors about the FIFA president going around and the fact that Trump's got his nose in everything, I wouldn't be surprised.\n\nUNIDENTIFIED MALE: Everybody gets a red card. Everybody has the right to go to the president and ask for help. I don't know.\n\nUNIDENTIFIED MALE: Maybe this is a favored nation.\n\nHILL: You know, we look at -- when we look at where we are at, Joey, you know, Mario mentioned, like, there is a question of whether this taints things.\n\nHow does the White House look at this? Is this exactly the outcome that they may have wanted, that President Trump would want? To be able to say, oh, I picked up the phone?\n\nJOEY GARRISON, WHITE HOUSE REPORTER, \"USA TODAY\": Well, I think President Trump certainly enjoys that narrative; that maybe he did have something to do with this -- this change.\n\nYou know, the White House, or a U.S. official says that the right outcome was ultimately picked here. Officials who talked to me said that Trump simply wanted to, quote, \"better understand\" the rules for FIFA when it comes to appeals during the World Cup. But it's hard not to think that Trump's call to the FIFA president played a role.\n\nBut -- but yes, I mean, as -- as others have said here, I mean, Trump loves nothing better to -- than to use his contacts and to show that he can get a quick result.\n\nBut yes, it's enraged Belgium in the process. And if the U.S. does win, you know, I think you're going to see that ramped up further, especially if he were to score a goal tonight.\n\nHILL: We will be watching to see.\n\nMuch more to come ahead this morning on CNN THIS MORNING. Mourners lining the streets in Iran. CNN is on the ground in Tehran for the funeral procession of Iran's late supreme leader.\n\nPlus, House Speaker Mike Johnson has a new plan to get Trump's SAVE Act across the finish line. But can he actually get everyone on board?\n\nAnd a Delta flight hit by fireworks on Saturday as it landed at Chicago Midway. Air traffic controllers say there had been multiple reports of similar incidents. The FAA now investigating.\n\nUNIDENTIFIED MALE: Tower, we just had a firework hit our plane. We're just hoping it was just a mortar that went off underneath, but definitely felt a big bang.\n\nHILL: Eleven minutes past the hour. Now here's your morning roundup.\n\nPresident Trump preparing for his trip to Turkey for a critical NATO summit as the alliance faces continued stress over the Ukraine war, simmering tensions in the Middle East, and Trump's repeated attacks on allies and the alliance itself for not supporting the war with Iran.\n\nTrump is set to meet with Ukraine's president on the sidelines of the conference.\n\nUNIDENTIFIED MALE: LaGuardia Tower, mayday, mayday, mayday! The plane down on the water.\n\nHILL: A small seaplane making a hard landing in New York's East River on Sunday. Officials say eight people were removed from the aircraft by first responders. Just two suffered minor injuries.\n\nThe FAA is now investigating.\n\nRepairing the Lincoln Memorial Reflecting Pool is now expected to cost taxpayers upwards of $16 million. That is, of course, ballooning from the initial estimate of under $2 million.\n\nTrump had pledged to restore the pool in time for the nation's 250th birthday, but shortly after, the bottom was repainted American flag blue, the green algae returned. Pieces of the coating began peeling off the bottom.\n\nInterior Secretary Doug Burgum told CNN, though, he's 100 percent sure vandals caused all that damage.\n\nDOUG BURGUM, INTERIOR SECRETARY: This is, like, a strong material, and it's the size of eight football fields. And the only way you can end up with actual slices in one spot and not the other, is that someone physically cut it.\n\nHILL: The administration has not offered evidence to support that claim, but despite being asked multiple times. Burgum says the contractors will finish the repairs, noting they did a, quote, \"fantastic job.\"\n\nAfter the break here on CNN THIS MORNING, Taylor and Travis, of course, have said their \"I do's\" now. The dress, the guest list, who caught the bouquet. The new details we have for you this morning.\n\nPlus, raucous fans, altitude, home team advantage, all of that adding up to a match for the ages between England and Mexico.\n\nAnd good morning, Baltimore. Sun starting to come up there. We hope it will peak through. See you back in a couple minutes.\n\nHILL: Well, now that it's official, Taylor Swift and Travis Kelce are newlyweds. Fans are still waiting for some more details about the wedding spectacle that took place inside Madison Square Garden.\n\nSome of the guests -- musicians, actors, athletes, and more -- are starting to share little tiny tidbits of their experiences on social media, including the sister of Kansas City Chiefs lineman Trey Smith, who revealed she caught Taylor's bouquet.\n\nFans already using that picture, of course, to go down deep in the rabbit hole, speculating on the color scheme of the wedding. All the things you can pull from that little bouquet.\n\nKansas City Chiefs Coach Andy Reid, by the way, recounting to CNN what he thought was the most memorable moment of the night.\n\nANDY REID, KANSAS CITY CHIEFS HEAD COACH: I would probably tell you, Adam Sandler doing a phenomenal job with the vows -- or the ceremony. And -- and just how he went about bringing a little bit of humor, but also some sensitivity to the -- to what was going on.\n\nHILL: Joining me now, Brian West. He, of course, is the Taylor Swift reporter for \"USA Today.\"\n\nBrian, great to have you with us this morning, especially because you have some new details this morning about what went down, including a little Taylor karaoke during the night?\n\nBRIAN WEST, TAYLOR SWIFT REPORTER, \"USA TODAY\": Good morning, Erica. We do have some details that are coming out.\n\nAnd for something that has been shrouded in secrecy, especially among the guests, what's really interesting is kind of the flow.\n\nSo, everybody saw that long line, the caravan of cars that was pulling up. As soon as guests entered, they went into these tents that you see there. The -- the workers pulled the tent behind them. They were able to walk up this area.\n\nI'm told that the esthetic was very peach, apricot, kind of a pink color. There were cutouts of Taylor and Travis on either side that were them, their entire ages. There was pictures of them as a couple.\n\nAs they walked out into Madison Square Garden, though, we're told that it was intimate. It didn't feel like an arena or a stadium.\n\nAdam Sandler appeared as the officiant. They exchanged vows that were both funny and heartfelt. He offered his best piece of advice, being, of course, kiss often.\n\nThen afterwards, they went to the reception, which was in a different area. I'm told they couldn't tell which area of the floor that they were in.\n\nIt was lush. There was greenery everywhere. There was arcade games where you could win tickets for raffles, for designer handbags, Cartier watches. There was also a lot of food there. Tall, five-foot story, illuminated trees.\n\nAnd then that's what I'm told, for the reception, that Taylor and Travis were up there. They were singing. Stevie Nicks perform. Paul McCartney performed. And then there was, of course, dancing and karaoke, inviting people like Sabrina Carpenter, Ice Spice on stage to come up and sing. HILL: I mean, you've got quite the cast of characters to choose from\n\nfor your karaoke. I'm just wondering if anybody did \"Islands in the Stream,\" because it's a classic.\n\nWhen you talk about -- I'm floored by the -- the carnival games where you could win a Cartier watch, a designer handbag. We had this list, almost a run of show, if you will, that was posted by AMC CEO Adam Aron, just literally going through everything that happened. And then that was quickly deleted.\n\nHow accurate do you think it was? And how much do you think this may have disrupted the actual rollout strategy from Taylor and Travis?\n\nWEST: So, I do think it was pretty accurate. Adam Aron is known for tweeting a lot. I think that is his favorite form of social media. And the fact that it was deleted is what is the most glaring.\n\nSo, I imagine somebody maybe from her team or his team was like, hey, this needs to be deleted. But of course, in today's day and age of technology, once it's out there, everybody grabs it. And then that's what they cling onto.\n\nAnd something that has been completely secret. Not a lot of details have emerged. And out of a thousand people guest list, that's pretty rare and amazing feat in and of itself.\n\nWhat I would say is just this was probably affecting the rollout strategy, especially because, you know, the photos and videos. I imagine that Taylor will release those when she's ready.\n\nSince it hasn't been so close to the Fourth, I'm wondering if it's not today, if they're going to hold onto it. Remember, the engagement photos were 13 days.\n\nHILL: So, maybe we'll have to wait 13 days, since I'm told that's her favorite number.\n\nIt's hard to miss, though. AMC had this direct partnership, right, with Taylor Swift for the Eras Tour, right? The CEO was there.\n\nThere were -- some of our correspondents spotted signs that there was filming in the area. The fact that we haven't even had a single picture.\n\nWe've had one press release, essentially, from Taylor's team. Is this all building up to the wedding itself being packaged into some sort of a documentary? I mean, are we going to have to, you know, pay for this at Disney or Netflix or something?\n\nWEST: So, Swifties are already excited at the opportunity that could be a documentary, docuseries. I could also see this maybe being a music video. A lot of country stars do that. A lot of singers do that, where they take their wedding footage kind of on a montage.\n\nSo, with Taylor, I could see her putting those together, maybe a 30- second clip. It is entirely possible, though, that she does, you know, turn this\n\ninto a documentary. She did that with her concert, the Eras Tour.\n\nHILL: All right, well, maybe we'll get a clip first, teasing to the full doc later on.\n\nBrian, good to have you. Thank you.\n\nHILL: Straight ahead here on CNN THIS MORNING, she was a candidate who wanted to find a lane between the far left and establishment Dems. Now, she is ending her bid for Senate. So, is there any room left in the middle for Democrats?\n\nUNIDENTIFIED MALE: A red card is a red card. And if there's a rule that you miss a game, you miss a game.\n\nHILL: It's a red card until it's not, apparently. The red card reversal heard round the world. Can Belgium do anything to fight the lifted ban?\n\nPlus, residents in D.C. experiencing the worst air quality in the world on Sunday, prompting a code red air quality alert from city officials. Why?\n\nWell, this 40 minutes of fireworks had a whole lot to do with it.\n\nUNIDENTIFIED MALE: The reversal is a little weird, and the timing is a little strange.\n\nUNIDENTIFIED MALE: I'd be really annoyed if I was a Belgium fan. It's good for the USA, though.\n\nHILL: As questions continue to swirl over just how U.S. soccer star Folarin Balogun was cleared to play, the U.S. coach is trying to steer the conversation back to where he wants it: to the game.\n\nPOCHETTINO: We need to celebrate that we -- you know, I think it's fair, that decision not to punish more us, because I think it was enough. And now focus on the game.\n\nHILL: So, FIFA's decision here means the Americans will, of course, get their leading scorer back for this pivotal Round of 16 showdown with Belgium tonight in Seattle.\n\nBalogun posting this image of himself, no caption, shortly after learning he would play.\n\nMeantime, the Royal Belgian Football Association said in a statement they are investigating all available legal -- or all potential legal options.\n\nJoining us now, Roger Bennett. He's the founder of Men in Blazers Media Network and author of the book \"We Are the World Cup: A Personal History of the World's Greatest Sporting Event.\"\n\nIt's great to have you here. So, as I mentioned, you know, the Royal Belgian Football Association, they had also said they were astonished. Currently investigating all potential legal options.",
+  "segments": [
+    {
+      "seg": 1,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-06/segment/01",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nTeam USA Red Card Reversal Tied to Trump; Taylor Swift & Travis Kelce Tie the Knot at Madison Square Garden. Aired 6-6:30a ET\n\nAired July 06, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nERICA HILL, CNN ANCHOR: Today in the group chat, the U.S. men's team's star player suspended until President Trump entered the chat. Now that one-game ban has been lifted, and some fans and coaches are crying foul.\n\nUNIDENTIFIED MALE: Definitely think that Trump played a trump card.\n\nHILL: White nationalists marching through the streets of D.C. on July Fourth. Is it free speech or intimidation? The White House take.\n\nThe Reflecting Pool may need to be drained this week for yet another round of repairs. So just how much more could this latest fix cost taxpayers?\n\nIn a crucial Michigan Senate race, one candidate gets an important backer; another drops out. So, how will this change the face of that race?\n\nMICHIGAN STATE SENATOR MALLORY MCMORROW (D), FORMER CANDIDATE, MICHIGAN SENATE RACE: I may be suspending this campaign, but I am not leaving the fight.\n\nHILL: The red card reversal heard round the world, boosting Team USA before a critical World Cup match and forcing the U.S. Men's coach to respond to reports of an assist from the White House.\n\nMAURICIO POCHETTINO, UNITED STATES HEAD COACH: I am listening different coaches, different, you know, federation that talk about, oh, the president called the -- this, that. No. Everything want to be involved, is not surprise me.\n\nHILL: Doesn't surprise him.\n\nGood morning, everyone. I'm Erica Hill, in for Audie Cornish.\n\nThe U.S. has a huge World Cup showdown, of course, tonight with Belgium. And now, one of their stars will be on the pitch after FIFA on Sunday shocked the tournament by sidelining the suspension of U.S. soccer star Folarin Balogun, who was supposed to sit out due to that red card in the previous game.\n\nThe suspension was supposedly not able to be reviewed. A source, however, tells CNN President Trump personally called FIFA's president to ask for a review.\n\nAnd then, a few days later, the penalty was set aside by an independent commission, citing an obscure FIFA rule. I believe it's Rule 27.\n\nTrump applauded the move on social media, posting, \"Thank you to FIFA for doing what was right and reversing a great injustice.\"\n\nBelgium's manager, meantime, compared the announcement to April Fool's Day.\n\nRUDI GARCIA, BELGIUM HEAD COACH (through translator): I didn't realize that at FIFA headquarters, July 5th was the equivalent of April 1st in Europe.\n\nThe Belgian Football Association isn't defending itself, nor is it defending the national team. It's defending football in general.\n\nHILL: Joining me now in the group chat, Mario Parker, managing editor, economy and government at Bloomberg News; Joey Garrison, White House reporter, \"USA Today\"; and Eleanor Mueller, White -- White House reporter at \"Semafor.\"\n\nSo, CNN, you know, according to the reporting, there's some reporting that Trump made a phone call. FIFA says this was an independent commission that made this decision. Eleanor, what are you hearing this morning?\n\nELEANOR MUELLER, WHITE HOUSE REPORTER, \"SEMAFOR\": Well, it's on brand for Trump, right? To take issue with something and believe he can change it. We know that Howard Lutnick, the commerce secretary, was involved in this talks. He -- he's this type of guy. He's the let me call them. Let me talk to them. Let me see what I can do.\n\nAnd it also, I mean, is proof, I think, of this relationship between Trump and the FIFA president. The FIFA president created this FIFA Peace Prize to give to Trump when he was upset about not getting the Nobel Peace Prize.\n\nAnd so, in some ways, this makes a lot of sense. Of course, that doesn't change the fact that it is precedent-shattering.\n\nHILL: It is -- it was remarkable, I will say, Mario, that so much of what we have seen so far in the tournament, the president didn't seem to be all that interested. It felt delightfully nonpolitical. Are those days now over, Mario?\n\nMARIO PARKER, MANAGING EDITOR, ECONOMY AND GOVERNMENT, BLOOMBERG NEWS: Yes, those days are over. It was only a matter of time, right? I mean, we're two weeks or three weeks out from when the president visited the NBA finals in New York, for example, as well. We know that the president hosted a UFC fight on the White House grounds. He's a sports aficionado.\n\nThe fact that this call was controversial, it did allow for the president. It gave the president an opportunity to kind of put his finger on the scale.\n\nNow, obviously, some of the -- the criticism that we've heard from opponents are that this is a bad precedent that could be set, but also whether or not the U.S. wins, whether the -- whether the U.S. wins tonight or not, they may have an asterisk now, just based off of this action.\n\nHILL: In terms of that asterisk, it's interesting, I think, some of the comments that we heard from fans. I mean, certainly, we heard, you know, coaches, managers speaking out here, but CNN spoke to some fans, as well. Just take a listen to their take.\n\nUNIDENTIFIED MALE: You really want to hope that that's not the case. But with all the rumors about the FIFA president going around and the fact that Trump's got his nose in everything, I wouldn't be surprised.\n\nUNIDENTIFIED MALE: Everybody gets a red card. Everybody has the right to go to the president and ask for help. I don't know.\n\nUNIDENTIFIED MALE: Maybe this is a favored nation.\n\nHILL: You know, we look at -- when we look at where we are at, Joey, you know, Mario mentioned, like, there is a question of whether this taints things.\n\nHow does the White House look at this? Is this exactly the outcome that they may have wanted, that President Trump would want? To be able to say, oh, I picked up the phone?\n\nJOEY GARRISON, WHITE HOUSE REPORTER, \"USA TODAY\": Well, I think President Trump certainly enjoys that narrative; that maybe he did have something to do with this -- this change.\n\nYou know, the White House, or a U.S. official says that the right outcome was ultimately picked here. Officials who talked to me said that Trump simply wanted to, quote, \"better understand\" the rules for FIFA when it comes to appeals during the World Cup. But it's hard not to think that Trump's call to the FIFA president played a role.\n\nBut -- but yes, I mean, as -- as others have said here, I mean, Trump loves nothing better to -- than to use his contacts and to show that he can get a quick result.\n\nBut yes, it's enraged Belgium in the process. And if the U.S. does win, you know, I think you're going to see that ramped up further, especially if he were to score a goal tonight.\n\nHILL: We will be watching to see.\n\nMuch more to come ahead this morning on CNN THIS MORNING. Mourners lining the streets in Iran. CNN is on the ground in Tehran for the funeral procession of Iran's late supreme leader.\n\nPlus, House Speaker Mike Johnson has a new plan to get Trump's SAVE Act across the finish line. But can he actually get everyone on board?\n\nAnd a Delta flight hit by fireworks on Saturday as it landed at Chicago Midway. Air traffic controllers say there had been multiple reports of similar incidents. The FAA now investigating.\n\nUNIDENTIFIED MALE: Tower, we just had a firework hit our plane. We're just hoping it was just a mortar that went off underneath, but definitely felt a big bang.\n\nHILL: Eleven minutes past the hour. Now here's your morning roundup.\n\nPresident Trump preparing for his trip to Turkey for a critical NATO summit as the alliance faces continued stress over the Ukraine war, simmering tensions in the Middle East, and Trump's repeated attacks on allies and the alliance itself for not supporting the war with Iran.\n\nTrump is set to meet with Ukraine's president on the sidelines of the conference.\n\nUNIDENTIFIED MALE: LaGuardia Tower, mayday, mayday, mayday! The plane down on the water.\n\nHILL: A small seaplane making a hard landing in New York's East River on Sunday. Officials say eight people were removed from the aircraft by first responders. Just two suffered minor injuries.\n\nThe FAA is now investigating.\n\nRepairing the Lincoln Memorial Reflecting Pool is now expected to cost taxpayers upwards of $16 million. That is, of course, ballooning from the initial estimate of under $2 million.\n\nTrump had pledged to restore the pool in time for the nation's 250th birthday, but shortly after, the bottom was repainted American flag blue, the green algae returned. Pieces of the coating began peeling off the bottom.\n\nInterior Secretary Doug Burgum told CNN, though, he's 100 percent sure vandals caused all that damage.\n\nDOUG BURGUM, INTERIOR SECRETARY: This is, like, a strong material, and it's the size of eight football fields. And the only way you can end up with actual slices in one spot and not the other, is that someone physically cut it.\n\nHILL: The administration has not offered evidence to support that claim, but despite being asked multiple times. Burgum says the contractors will finish the repairs, noting they did a, quote, \"fantastic job.\"\n\nAfter the break here on CNN THIS MORNING, Taylor and Travis, of course, have said their \"I do's\" now. The dress, the guest list, who caught the bouquet. The new details we have for you this morning.\n\nPlus, raucous fans, altitude, home team advantage, all of that adding up to a match for the ages between England and Mexico.\n\nAnd good morning, Baltimore. Sun starting to come up there. We hope it will peak through. See you back in a couple minutes.\n\nHILL: Well, now that it's official, Taylor Swift and Travis Kelce are newlyweds. Fans are still waiting for some more details about the wedding spectacle that took place inside Madison Square Garden.\n\nSome of the guests -- musicians, actors, athletes, and more -- are starting to share little tiny tidbits of their experiences on social media, including the sister of Kansas City Chiefs lineman Trey Smith, who revealed she caught Taylor's bouquet.\n\nFans already using that picture, of course, to go down deep in the rabbit hole, speculating on the color scheme of the wedding. All the things you can pull from that little bouquet.\n\nKansas City Chiefs Coach Andy Reid, by the way, recounting to CNN what he thought was the most memorable moment of the night.\n\nANDY REID, KANSAS CITY CHIEFS HEAD COACH: I would probably tell you, Adam Sandler doing a phenomenal job with the vows -- or the ceremony. And -- and just how he went about bringing a little bit of humor, but also some sensitivity to the -- to what was going on.\n\nHILL: Joining me now, Brian West. He, of course, is the Taylor Swift reporter for \"USA Today.\"\n\nBrian, great to have you with us this morning, especially because you have some new details this morning about what went down, including a little Taylor karaoke during the night?\n\nBRIAN WEST, TAYLOR SWIFT REPORTER, \"USA TODAY\": Good morning, Erica. We do have some details that are coming out.\n\nAnd for something that has been shrouded in secrecy, especially among the guests, what's really interesting is kind of the flow.\n\nSo, everybody saw that long line, the caravan of cars that was pulling up. As soon as guests entered, they went into these tents that you see there. The -- the workers pulled the tent behind them. They were able to walk up this area.\n\nI'm told that the esthetic was very peach, apricot, kind of a pink color. There were cutouts of Taylor and Travis on either side that were them, their entire ages. There was pictures of them as a couple.\n\nAs they walked out into Madison Square Garden, though, we're told that it was intimate. It didn't feel like an arena or a stadium.\n\nAdam Sandler appeared as the officiant. They exchanged vows that were both funny and heartfelt. He offered his best piece of advice, being, of course, kiss often.\n\nThen afterwards, they went to the reception, which was in a different area. I'm told they couldn't tell which area of the floor that they were in.\n\nIt was lush. There was greenery everywhere. There was arcade games where you could win tickets for raffles, for designer handbags, Cartier watches. There was also a lot of food there. Tall, five-foot story, illuminated trees.\n\nAnd then that's what I'm told, for the reception, that Taylor and Travis were up there. They were singing. Stevie Nicks perform. Paul McCartney performed. And then there was, of course, dancing and karaoke, inviting people like Sabrina Carpenter, Ice Spice on stage to come up and sing. HILL: I mean, you've got quite the cast of characters to choose from\n\nfor your karaoke. I'm just wondering if anybody did \"Islands in the Stream,\" because it's a classic.\n\nWhen you talk about -- I'm floored by the -- the carnival games where you could win a Cartier watch, a designer handbag. We had this list, almost a run of show, if you will, that was posted by AMC CEO Adam Aron, just literally going through everything that happened. And then that was quickly deleted.\n\nHow accurate do you think it was? And how much do you think this may have disrupted the actual rollout strategy from Taylor and Travis?\n\nWEST: So, I do think it was pretty accurate. Adam Aron is known for tweeting a lot. I think that is his favorite form of social media. And the fact that it was deleted is what is the most glaring.\n\nSo, I imagine somebody maybe from her team or his team was like, hey, this needs to be deleted. But of course, in today's day and age of technology, once it's out there, everybody grabs it. And then that's what they cling onto.\n\nAnd something that has been completely secret. Not a lot of details have emerged. And out of a thousand people guest list, that's pretty rare and amazing feat in and of itself.\n\nWhat I would say is just this was probably affecting the rollout strategy, especially because, you know, the photos and videos. I imagine that Taylor will release those when she's ready.\n\nSince it hasn't been so close to the Fourth, I'm wondering if it's not today, if they're going to hold onto it. Remember, the engagement photos were 13 days.\n\nHILL: So, maybe we'll have to wait 13 days, since I'm told that's her favorite number.\n\nIt's hard to miss, though. AMC had this direct partnership, right, with Taylor Swift for the Eras Tour, right? The CEO was there.\n\nThere were -- some of our correspondents spotted signs that there was filming in the area. The fact that we haven't even had a single picture.\n\nWe've had one press release, essentially, from Taylor's team. Is this all building up to the wedding itself being packaged into some sort of a documentary? I mean, are we going to have to, you know, pay for this at Disney or Netflix or something?\n\nWEST: So, Swifties are already excited at the opportunity that could be a documentary, docuseries. I could also see this maybe being a music video. A lot of country stars do that. A lot of singers do that, where they take their wedding footage kind of on a montage.\n\nSo, with Taylor, I could see her putting those together, maybe a 30- second clip. It is entirely possible, though, that she does, you know, turn this\n\ninto a documentary. She did that with her concert, the Eras Tour.\n\nHILL: All right, well, maybe we'll get a clip first, teasing to the full doc later on.\n\nBrian, good to have you. Thank you.\n\nHILL: Straight ahead here on CNN THIS MORNING, she was a candidate who wanted to find a lane between the far left and establishment Dems. Now, she is ending her bid for Senate. So, is there any room left in the middle for Democrats?\n\nUNIDENTIFIED MALE: A red card is a red card. And if there's a rule that you miss a game, you miss a game.\n\nHILL: It's a red card until it's not, apparently. The red card reversal heard round the world. Can Belgium do anything to fight the lifted ban?\n\nPlus, residents in D.C. experiencing the worst air quality in the world on Sunday, prompting a code red air quality alert from city officials. Why?\n\nWell, this 40 minutes of fireworks had a whole lot to do with it.\n\nUNIDENTIFIED MALE: The reversal is a little weird, and the timing is a little strange.\n\nUNIDENTIFIED MALE: I'd be really annoyed if I was a Belgium fan. It's good for the USA, though.\n\nHILL: As questions continue to swirl over just how U.S. soccer star Folarin Balogun was cleared to play, the U.S. coach is trying to steer the conversation back to where he wants it: to the game.\n\nPOCHETTINO: We need to celebrate that we -- you know, I think it's fair, that decision not to punish more us, because I think it was enough. And now focus on the game.\n\nHILL: So, FIFA's decision here means the Americans will, of course, get their leading scorer back for this pivotal Round of 16 showdown with Belgium tonight in Seattle.\n\nBalogun posting this image of himself, no caption, shortly after learning he would play.\n\nMeantime, the Royal Belgian Football Association said in a statement they are investigating all available legal -- or all potential legal options.\n\nJoining us now, Roger Bennett. He's the founder of Men in Blazers Media Network and author of the book \"We Are the World Cup: A Personal History of the World's Greatest Sporting Event.\"\n\nIt's great to have you here. So, as I mentioned, you know, the Royal Belgian Football Association, they had also said they were astonished. Currently investigating all potential legal options."
+    }
+  ]
+}
