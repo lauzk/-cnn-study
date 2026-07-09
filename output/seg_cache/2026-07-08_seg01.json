@@ -1,0 +1,499 @@
+{
+  "date": "2026-07-08",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-08/segment/01",
+  "vocabulary": [
+    {
+      "word": "memorandum of understanding",
+      "phonetic": "/ˌmeməˈrændəm əv ˌʌndərˈstændɪŋ/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "谅解备忘录",
+      "en": "a non-binding agreement between parties outlining the terms and details of an understanding",
+      "excerpt": "President Trump says the memorandum of understanding with Iran is over.",
+      "example_cn": "双方签署了一份谅解备忘录以促进合作。"
+    },
+    {
+      "word": "retaliatory",
+      "phonetic": "/rɪˈtæliətɔːri/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "报复性的",
+      "en": "done to harm someone because they harmed you first",
+      "excerpt": "We did see last night the president ordering up those retaliatory strikes on Iran.",
+      "example_cn": "该国采取了报复性关税措施。"
+    },
+    {
+      "word": "sanctions waivers",
+      "phonetic": "/ˈsæŋkʃnz ˈweɪvərz/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "制裁豁免",
+      "en": "official permission to ignore a sanction or restriction",
+      "excerpt": "He also pulled back those sanctions waivers that he had put on the sales of Iranian oil.",
+      "example_cn": "政府撤销了针对某些国家的制裁豁免。"
+    },
+    {
+      "word": "ceasefire",
+      "phonetic": "/ˈsiːsfaɪər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "停火",
+      "en": "an agreement to stop fighting for a period of time",
+      "excerpt": "Can you talk about what this means for the state of what was known as a ceasefire?",
+      "example_cn": "双方同意停火24小时。"
+    },
+    {
+      "word": "collapse",
+      "phonetic": "/kəˈlæps/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "崩溃，瓦解",
+      "en": "to fall down or fail suddenly",
+      "excerpt": "President Trump thinks this deal has totally collapsed.",
+      "example_cn": "谈判在最后一刻破裂了。"
+    },
+    {
+      "word": "concession",
+      "phonetic": "/kənˈseʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "让步",
+      "en": "something that you give or allow to someone in order to reach an agreement",
+      "excerpt": "To try and get some nuclear concessions.",
+      "example_cn": "作为让步，公司同意提高工资。"
+    },
+    {
+      "word": "deadline",
+      "phonetic": "/ˈdedlaɪn/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "截止日期",
+      "en": "a time or date by which something must be done",
+      "excerpt": "Even though they were up against this 60-day deadline.",
+      "example_cn": "我们必须在截止日期前提交报告。"
+    },
+    {
+      "word": "dishonest",
+      "phonetic": "/dɪsˈɒnɪst/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "不诚实的",
+      "en": "not honest; intending to deceive",
+      "excerpt": "Furious at Iran for being dishonest negotiators.",
+      "example_cn": "他被指控有不诚实行为。"
+    },
+    {
+      "word": "commercial vessel",
+      "phonetic": "/kəˈmɜːrʃl ˈvesl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "商船",
+      "en": "a ship used for carrying goods or passengers for money",
+      "excerpt": "Because they were firing on those commercial vessels in the Strait of Hormuz.",
+      "example_cn": "霍尔木兹海峡的商船遭到袭击。"
+    },
+    {
+      "word": "cuckoo",
+      "phonetic": "/ˈkʊkuː/",
+      "pos": "adj.",
+      "level": "专八",
+      "cn": "疯狂的，愚蠢的",
+      "en": "crazy or silly",
+      "excerpt": "He called them scum. He said that they were cuckoo.",
+      "example_cn": "他的想法简直疯了。"
+    },
+    {
+      "word": "resume",
+      "phonetic": "/rɪˈzjuːm/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "重新开始",
+      "en": "to start again after a pause",
+      "excerpt": "Suggesting that he's prepared to resume this conflict.",
+      "example_cn": "谈判将于下周恢复。"
+    },
+    {
+      "word": "catastrophe",
+      "phonetic": "/kəˈtæstrəfi/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "灾难",
+      "en": "a sudden disaster that causes great suffering or damage",
+      "excerpt": "If the conflict continued, it would result in economic catastrophe.",
+      "example_cn": "地震是一场巨大的灾难。"
+    },
+    {
+      "word": "glimmer of hope",
+      "phonetic": "/ˈɡlɪmər əv həʊp/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "一线希望",
+      "en": "a small sign of hope",
+      "excerpt": "Although the president does say that there's a glimmer of hope that these negotiations can continue.",
+      "example_cn": "在黑暗中仍有一线希望。"
+    },
+    {
+      "word": "conciliatory",
+      "phonetic": "/kənˈsɪliətɔːri/",
+      "pos": "adj.",
+      "level": "专八",
+      "cn": "安抚的，和解的",
+      "en": "intended to make someone less angry or more willing to compromise",
+      "excerpt": "Perhaps a more conciliatory president would come here.",
+      "example_cn": "他发表了和解性的讲话。"
+    },
+    {
+      "word": "grievance",
+      "phonetic": "/ˈɡriːvəns/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "不满，抱怨",
+      "en": "a complaint or a feeling of being treated unfairly",
+      "excerpt": "All of his grievances and all of his frustrations at NATO have not waned one bit.",
+      "example_cn": "工人们表达了对工作条件的不满。"
+    },
+    {
+      "word": "disproportionately",
+      "phonetic": "/ˌdɪsprəˈpɔːrʃənətli/",
+      "pos": "adv.",
+      "level": "六级",
+      "cn": "不成比例地",
+      "en": "in a way that is too large or too small compared to something else",
+      "excerpt": "We pay disproportionately.",
+      "example_cn": "少数人承担了不成比例的负担。"
+    },
+    {
+      "word": "ratchet up",
+      "phonetic": "/ˈrætʃɪt ʌp/",
+      "pos": "v.",
+      "level": "专八",
+      "cn": "逐步增加",
+      "en": "to increase something gradually",
+      "excerpt": "I think President Trump is just trying to ratchet up the visible frustration.",
+      "example_cn": "政府正在逐步加大对对手的压力。"
+    },
+    {
+      "word": "regime of control",
+      "phonetic": "/reɪˈʒiːm əv kənˈtrəʊl/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "控制体系",
+      "en": "a system or method of controlling something",
+      "excerpt": "Where they can gradually establish a regime of control.",
+      "example_cn": "他们试图建立一套严格的控制体系。"
+    },
+    {
+      "word": "escalate",
+      "phonetic": "/ˈeskəleɪt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "升级，加剧",
+      "en": "to become greater or more serious",
+      "excerpt": "See whether the U.S. really wants to escalate this or not.",
+      "example_cn": "冲突可能升级为全面战争。"
+    },
+    {
+      "word": "playbook",
+      "phonetic": "/ˈpleɪbʊk/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "策略手册",
+      "en": "a set of strategies or tactics used by someone",
+      "excerpt": "That is the playbook here.",
+      "example_cn": "他遵循了标准的竞选策略手册。"
+    },
+    {
+      "word": "green light",
+      "phonetic": "/ɡriːn laɪt/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "绿灯，许可",
+      "en": "permission to start or continue something",
+      "excerpt": "Does that mean Israel still has a kind of green light to continue its fight?",
+      "example_cn": "项目已获绿灯放行。"
+    },
+    {
+      "word": "Gordian knot",
+      "phonetic": "/ˈɡɔːrdiən nɒt/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "戈尔迪之结，难题",
+      "en": "a very difficult or complicated problem",
+      "excerpt": "It is at the center of this kind of Gordian knot of international issues.",
+      "example_cn": "这个外交僵局就像戈尔迪之结一样难解。"
+    },
+    {
+      "word": "spinning plates",
+      "phonetic": "/ˈspɪnɪŋ pleɪts/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "同时处理多项事务",
+      "en": "the act of managing multiple tasks or problems at the same time",
+      "excerpt": "There's a lot of spinning plates here.",
+      "example_cn": "作为CEO，他必须同时处理许多事务。"
+    },
+    {
+      "word": "diverge",
+      "phonetic": "/daɪˈvɜːrdʒ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "分歧，偏离",
+      "en": "to be different or to develop in a different direction",
+      "excerpt": "There are few cases where they diverge.",
+      "example_cn": "他们的观点在关键问题上存在分歧。"
+    },
+    {
+      "word": "stand down",
+      "phonetic": "/stænd daʊn/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "退出，停止行动",
+      "en": "to withdraw from a position or stop doing something",
+      "excerpt": "I think they're going to stand down on any attacks for a little while.",
+      "example_cn": "抗议者被要求停止行动。"
+    },
+    {
+      "word": "primary",
+      "phonetic": "/ˈpraɪmeri/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "初选",
+      "en": "an election in which voters choose the candidates from each party",
+      "excerpt": "Ahead of their primary, which is on August 4th.",
+      "example_cn": "初选将于下月举行。"
+    },
+    {
+      "word": "insurgency",
+      "phonetic": "/ɪnˈsɜːrdʒənsi/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "叛乱，起义",
+      "en": "an attempt to take control of a country by force",
+      "excerpt": "A progressive insurgency.",
+      "example_cn": "该地区爆发了武装叛乱。"
+    },
+    {
+      "word": "establishment",
+      "phonetic": "/ɪˈstæblɪʃmənt/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "当权派，体制",
+      "en": "the people in positions of power in a society or organization",
+      "excerpt": "More moderate establishment party forces.",
+      "example_cn": "他挑战了政治体制。"
+    },
+    {
+      "word": "workhorse",
+      "phonetic": "/ˈwɜːrkhɔːrs/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "勤恳工作的人",
+      "en": "a person who works very hard and reliably",
+      "excerpt": "A bipartisan, workhorse version of things.",
+      "example_cn": "她是团队中的骨干。"
+    },
+    {
+      "word": "majority",
+      "phonetic": "/məˈdʒɔːrəti/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "多数，多数党",
+      "en": "the largest group in a legislature, or the number of votes by which a person or party wins",
+      "excerpt": "There is no way that anybody really can see that Democrats can take the majority of the Senate.",
+      "example_cn": "共和党在参议院占多数。"
+    },
+    {
+      "word": "battleground state",
+      "phonetic": "/ˈbætlɡraʊnd steɪt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "战场州，关键州",
+      "en": "a state where the outcome of an election is uncertain and both parties campaign heavily",
+      "excerpt": "Michigan is a battleground state in 2028.",
+      "example_cn": "俄亥俄州是总统大选的关键战场州。"
+    },
+    {
+      "word": "affordability crisis",
+      "phonetic": "/əˌfɔːrdəˈbɪləti ˈkraɪsɪs/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "可负担性危机",
+      "en": "a situation where many people cannot afford basic necessities like housing or healthcare",
+      "excerpt": "Both candidates are talking about the affordability crisis that Republicans have created.",
+      "example_cn": "许多城市正面临住房可负担性危机。"
+    },
+    {
+      "word": "ACA subsidies",
+      "phonetic": "/ˌeɪ siː ˈeɪ ˈsʌbsɪdiz/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "《平价医疗法案》补贴",
+      "en": "financial assistance provided under the Affordable Care Act to help people pay for health insurance",
+      "excerpt": "We're going to pass those ACA subsidies that Republicans refused to pass.",
+      "example_cn": "数百万美国人依赖ACA补贴来支付医疗保险。"
+    },
+    {
+      "word": "roil",
+      "phonetic": "/rɔɪl/",
+      "pos": "v.",
+      "level": "专八",
+      "cn": "搅动，使动荡",
+      "en": "to make something turbulent or cause trouble",
+      "excerpt": "It is an issue that is roiling the Democratic Party right now.",
+      "example_cn": "这场丑闻搅乱了政坛。"
+    },
+    {
+      "word": "thread the needle",
+      "phonetic": "/θred ðə ˈniːdl/",
+      "pos": "v.",
+      "level": "专八",
+      "cn": "走钢丝，巧妙应对",
+      "en": "to successfully navigate a difficult situation between two extremes",
+      "excerpt": "How do you thread the needle and navigate a conversation around this?",
+      "example_cn": "他必须在两派之间巧妙周旋。"
+    },
+    {
+      "word": "bedevil",
+      "phonetic": "/bɪˈdevl/",
+      "pos": "v.",
+      "level": "专八",
+      "cn": "困扰，折磨",
+      "en": "to cause great trouble or problems for someone or something",
+      "excerpt": "A conversation around this that is bedeviling both parties.",
+      "example_cn": "这个问题长期困扰着该地区。"
+    },
+    {
+      "word": "shore up",
+      "phonetic": "/ʃɔːr ʌp/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "支撑，加固",
+      "en": "to support or strengthen something that is weak or in danger",
+      "excerpt": "Construction crews working through the night, because they need to shore up a high rise.",
+      "example_cn": "工人们正在加固地基。"
+    },
+    {
+      "word": "buckle",
+      "phonetic": "/ˈbʌkl/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "弯曲，变形",
+      "en": "to bend or become twisted, often due to pressure",
+      "excerpt": "Two columns buckled on the 21st floor.",
+      "example_cn": "桥梁在重压下弯曲了。"
+    },
+    {
+      "word": "evacuate",
+      "phonetic": "/ɪˈvækjueɪt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "疏散",
+      "en": "to move people from a dangerous place to a safer one",
+      "excerpt": "The building was evacuated after two columns bent.",
+      "example_cn": "当局下令疏散该地区。"
+    },
+    {
+      "word": "precaution",
+      "phonetic": "/prɪˈkɔːʃn/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "预防措施",
+      "en": "something done to prevent something dangerous or unpleasant from happening",
+      "excerpt": "Several other buildings were also cleared out as a precaution.",
+      "example_cn": "作为预防措施，他们关闭了道路。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "The comments this morning from President Trump come after the U.S. military hit more than 80 Iranian targets on Tuesday and, in its biggest move yet, reimposed sanctions on Iranian oil in retaliation for attacks on ships near the Strait of Hormuz.",
+      "cn": "特朗普总统今早的言论是在美军周二打击了80多个伊朗目标，并采取了迄今最大规模的行动，即重新对伊朗石油实施制裁，以报复霍尔木兹海峡附近船只遭袭之后发表的。",
+      "structure": "主句（The comments...come after...）+ 时间状语从句（after the U.S. military hit...and reimposed...）+ 目的状语（in retaliation for...）",
+      "analysis": "这是一个复合句，主句为'The comments...come after...'，after引导时间状语从句，从句中并列谓语'hit'和'reimposed'，'in its biggest move yet'为插入语，'in retaliation for...'为目的状语。"
+    },
+    {
+      "en": "But what that actually means for the negotiations and for the war are a little bit unclear.",
+      "cn": "但这实际上对谈判和战争意味着什么，还不太清楚。",
+      "structure": "主语从句（what that actually means...）+ 系动词（are）+ 表语（unclear）",
+      "analysis": "这是一个主语从句作主语的句子，'what that actually means for the negotiations and for the war'是主语从句，谓语动词用单数形式，但这里用了'are'，可能是口语中的非正式用法。"
+    },
+    {
+      "en": "You know, the president said that he would allow the negotiators to continue these discussions with Iran to try and get some nuclear concessions, most accounts suggest that those talks had been very, very slow going, even though they were up against this 60-day deadline.",
+      "cn": "你知道，总统说他将允许谈判代表继续与伊朗进行这些讨论，试图获得一些核让步；大多数报道表明，这些谈判进展非常非常缓慢，尽管他们面临着60天的最后期限。",
+      "structure": "主句（the president said that...）+ 宾语从句（that he would allow...）+ 并列句（most accounts suggest that...）+ 让步状语从句（even though...）",
+      "analysis": "这是一个并列复合句，第一个分句包含宾语从句，第二个分句包含宾语从句和让步状语从句。'to try and get'是目的状语。"
+    },
+    {
+      "en": "But the president sort of shrugging that off as a waste of time and really entering this summit furious at Iran for being dishonest negotiators, in his view, because they were firing on those commercial vessels in the Strait of Hormuz.",
+      "cn": "但总统有点不以为然，认为这是浪费时间，并且真的带着对伊朗的愤怒进入峰会，在他看来，伊朗是不诚实的谈判者，因为他们向霍尔木兹海峡的那些商船开火。",
+      "structure": "主句（the president...shrugging...and entering...）+ 原因状语（for being...）+ 插入语（in his view）+ 原因状语从句（because...）",
+      "analysis": "这是一个简单句，但包含多个修饰成分。'shrugging that off'和'entering this summit'是并列的现在分词短语作谓语，'furious at Iran'是形容词短语作伴随状语，'for being dishonest negotiators'是原因状语，'in his view'是插入语，'because...'是原因状语从句。"
+    },
+    {
+      "en": "And so, this is all, I think, falling apart rather quickly, although the president does say that there's a glimmer of hope that these negotiations can continue.",
+      "cn": "所以，我认为这一切都在相当快地瓦解，尽管总统确实说还有一线希望，这些谈判可以继续。",
+      "structure": "主句（this is...falling apart）+ 插入语（I think）+ 让步状语从句（although the president does say that...）+ 同位语从句（that these negotiations can continue）",
+      "analysis": "这是一个复合句，主句为'this is...falling apart'，'I think'为插入语，although引导让步状语从句，从句中包含宾语从句'that there's a glimmer of hope'，而'that these negotiations can continue'是'glimmer of hope'的同位语从句。"
+    },
+    {
+      "en": "But it was evident, listening to him this morning, that all of his grievances and all of his frustrations at NATO have not waned one bit.",
+      "cn": "但今早听他讲话，很明显，他对北约的所有不满和沮丧丝毫没有减弱。",
+      "structure": "形式主语（It）+ 系动词（was）+ 表语（evident）+ 插入语（listening to him this morning）+ 真正主语从句（that all of his grievances...have not waned）",
+      "analysis": "这是一个it作形式主语的句子，真正的主语是that引导的主语从句，'listening to him this morning'是现在分词短语作插入语。"
+    },
+    {
+      "en": "And it is an issue that is roiling the Democratic Party right now, and in Michigan especially, there is a large Arab American population, there's a large Jewish population, there is a lot of different views of what should be done there.",
+      "cn": "这是一个目前正在搅动民主党的问题，尤其是在密歇根州，那里有大量的阿拉伯裔美国人和犹太裔美国人，对于应该采取什么行动存在许多不同观点。",
+      "structure": "主句（it is an issue that...）+ 定语从句（that is roiling...）+ 并列句（and in Michigan especially, there is...there is...there is...）",
+      "analysis": "这是一个并列复合句，第一个分句包含定语从句修饰'issue'，第二个分句是三个there be句型并列，'of what should be done there'是介词短语修饰'views'。"
+    },
+    {
+      "en": "El-Sayed has said over and over that he is anti-AIPAC, and he said to me in an interview I did with him last week that the only way that anybody could support Israel is if there's money supporting them.",
+      "cn": "埃尔-赛义德一再表示他反对AIPAC，他在上周我对他的一次采访中告诉我，任何人支持以色列的唯一方式就是有钱支持他们。",
+      "structure": "主句（El-Sayed has said...that...）+ 并列句（and he said to me...that...）+ 定语从句（I did with him last week）+ 表语从句（that the only way...is if...）",
+      "analysis": "这是一个并列复合句，第一个分句包含宾语从句，第二个分句包含宾语从句，其中'that the only way...is if...'是表语从句，'I did with him last week'是定语从句修饰'interview'。"
+    },
+    {
+      "en": "And I think that is what he's going to do with the Iranians here, step by step: keep putting the pressure on about the strait, keep putting pressure on about the nuclear issue, try to get to something that he can actually live with, which is no fighting, so that oil prices and gasoline prices stay down.",
+      "cn": "我认为这就是他在这里要对伊朗人采取的做法，一步一步来：继续就海峡问题施压，继续就核问题施压，试图达成一个他真正能接受的结果，即没有战斗，这样油价和汽油价格就能保持低位。",
+      "structure": "主句（I think that...）+ 表语从句（that is what...）+ 同位语（step by step）+ 并列祈使句（keep putting...keep putting...try to get...）+ 定语从句（that he can actually live with）+ 非限制性定语从句（which is no fighting）+ 目的状语从句（so that...）",
+      "analysis": "这是一个复合句，主句为'I think that...'，that引导表语从句，冒号后是三个并列的祈使句，其中'try to get'后接定语从句和目的状语从句。"
+    },
+    {
+      "en": "And in the minds -- whether or not those things are even at odds.",
+      "cn": "而在思想上——这些东西是否甚至相互矛盾。",
+      "structure": "介词短语（in the minds）+ 插入语（whether or not...）",
+      "analysis": "这是一个不完整的句子，可能是口语中的省略。'whether or not those things are even at odds'是名词性从句作插入语。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "美伊关系与核协议",
+      "content": "特朗普总统宣布与伊朗的谅解备忘录（MOU）结束，美军打击了80多个伊朗目标并重新实施石油制裁，伊朗威胁将做出“毁灭性回应”。这标志着美伊紧张局势升级，核谈判面临破裂。背景包括伊朗在霍尔木兹海峡袭击商船、美国要求伊朗停止核活动等。",
+      "keywords": "Iran, nuclear deal, sanctions, Strait of Hormuz, MOU"
+    },
+    {
+      "title": "北约峰会与特朗普的批评",
+      "content": "特朗普在土耳其安卡拉参加北约峰会，对北约盟友表达不满，认为美国承担了不成比例的防务费用，并批评盟友在需要时未提供支持。这反映了特朗普一贯对北约的批评态度，以及北约内部关于军费分摊的长期矛盾。",
+      "keywords": "NATO, summit, burden-sharing, Trump, Ankara"
+    },
+    {
+      "title": "密歇根州民主党参议员初选",
+      "content": "密歇根州民主党参议员初选在Abdul El-Sayed和Haley Stevens之间展开，两人在以色列政策、AIPAC资金、党内路线等问题上激烈交锋。该初选被视为民主党内部进步派与建制派斗争的缩影，对2026年中期选举和2028年大选具有风向标意义。",
+      "keywords": "Michigan, Democratic primary, Senate, AIPAC, progressive vs establishment"
+    },
+    {
+      "title": "纽约曼哈顿高层建筑结构问题",
+      "content": "纽约曼哈顿一栋前辉瑞总部大楼在改建为公寓时，两根柱子发生弯曲，导致建筑疏散。施工人员连夜进行加固。该事件引发对建筑安全和施工监管的关注。",
+      "keywords": "New York, high-rise, structural failure, evacuation, construction safety"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nTrump: Memorandum of Understanding with Iran is 'Over'; Michigan Senate Candidates Clash Over Future of Democratic Party. Aired 6-6:30a ET\n\nAired July 08, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nBRAD SMITH, CNN ANCHOR: That does it for CNN HEADLINE EXPRESS. I'm Brad Smith. CNN THIS MORNING with Audie Cornish starts right now.\n\nANNOUNCER: This is CNN breaking news\n\nAUDIE CORNISH, CNN ANCHOR: We are following breaking news right now out of the Middle East, where President Trump says the memorandum of understanding with Iran is over.\n\nDONALD TRUMP, U.S. PRESIDENT: As far as I'm concerned, it's just a waste of time dealing with them.\n\nCORNISH: Good morning, everybody. I'm Audie Cornish, and this is where we begin.\n\nDetails out of the NATO summit. Now, the comments this morning from President Trump come after the U.S. military hit more than 80 Iranian targets on Tuesday and, in its biggest move yet, reimposed sanctions on Iranian oil in retaliation for attacks on ships near the Strait of Hormuz.\n\nIran said it would deliver a, quote, \"crushing response.\" But as far as Trump is concerned, he is done negotiating with Iran.\n\nTRUMP: To me, I think it's over. I don't want to deal with them anymore. They're scum. You know what scum is? They're scum. They're sick people. They're led by sick people. And they're vicious, violent people. And if they had a nuclear weapon, they'd use it.\n\nAs far as I'm concerned, it's over. I'll speak to our negotiators. They want to negotiate. They're good people, Steve Witkoff, Jared Kushner. But they have to come back to me. As far as I'm concerned, it's just a waste of time dealing with them.\n\n(END VIDEO CLIP) CORNISH: So, we're bringing in CNN senior White House reporter Kevin Liptak, who is in Turkey for this summit.\n\nKevin, can you talk about what this means for the state of what was known as a ceasefire, even though it was just a memorandum?\n\nKEVIN LIPTAK, CNN SENIOR WHITE HOUSE CORRESPONDENT: Yes, I think it's clear that President Trump thinks this deal has totally collapsed.\n\nBut what that actually means for the negotiations and for the war are a little bit unclear.\n\nYou know, the president said that he would allow the negotiators to continue these discussions with Iran to try and get some nuclear concessions. Most accounts suggest that those talks had been very, very slow going, even though they were up against this 60-day deadline.\n\nBut the president sort of shrugging that off as a waste of time and really entering this summit furious at Iran for being dishonest negotiators, in his view, because they were firing on those commercial vessels in the Strait of Hormuz.\n\nHe called them scum. He said that they were cuckoo and suggesting that he's prepared to resume this conflict. But what that looks like, not particularly clear.\n\nRemember, it was only three weeks ago that the president signed this agreement and said that, if the conflict continued, it would result in economic catastrophe. You know, none of those political pressures on the president to end the war have gone away.\n\nAnd so, how he proceeds from here at this point, not exactly clear.\n\nWe did see last night the president ordering up those retaliatory strikes on Iran. He also pulled back those sanctions waivers that he had put on the sales of Iranian oil.\n\nAnd you've already seen the Iranians sort of list out the ways that they view the United States having violated this agreement.\n\nAnd so, this is all, I think, falling apart rather quickly. Although the president does say that there's a glimmer of hope that these negotiations can continue.\n\nYou know, it all adds up to a furious President Trump. He was angry at Iran, but he's also angry at NATO. You know, there had been some hope, a glimmer of hope, perhaps, that perhaps a more conciliatory president would come here, because he's in a country that's governed by a friend of his, the Turkish president, Recep Tayyip Erdogan.\n\nHe said that that's the only reason that he came to this summit at all. But it was evident, listening to him this morning, that all of his grievances and all of his frustrations at NATO have not waned one bit. Listen to what he said here.\n\nTRUMP: We're having the big meeting in a little while, and I'm going to -- I'm going to relate my -- my problems.\n\nWhen we wanted them -- we didn't want them badly. But we did say, if you want to join us. And they all said, no. But when they could have, they weren't there for us. And we've been there for them.\n\nWe're going to work something out, I think, one way or the other. But we've been treated unfairly. We pay disproportionately.\n\nLIPTAK: So, this is all sort of exactly the scenario that the NATO chief, Mark Rutte, other European leaders had wanted to avoid at the summit.\n\nBut it seems pretty clear that President Trump is going to be airing all of these grievances as he's now meeting with NATO leaders behind closed doors -- Audie.\n\nCORNISH: OK. That's Kevin Liptak, speaking to us from Ankara in Turkey.\n\nI want to bring in now Kurt Volker, former U.S. ambassador to NATO.\n\nThank you so much for being here on what is now turning into an eventful day. The president saying that the ceasefire that they had negotiated, their memorandum of understanding, is over after some attacks on ships in the Strait of Hormuz.\n\nI want to play a bit for the president, for you to hear, and then we'll talk on the other side.\n\nTRUMP: They can talk, but I think they're wasting their time. Frankly, I don't want to waste my time with them. Now, I'll let our wonderful negotiators keep talking if they want, but I don't see it.\n\nCORNISH: OK, Ambassador, you know what it's like to have to keep talking. What does this mean for people who had been tasked with continuing this conversation?\n\nKURT VOLKER, FORMER U.S. AMBASSADOR TO NATO: Right. I think President Trump is just trying to ratchet up the visible frustration; try to put more pressure on the Iranians; see if he can get them back to a situation where they're not attacking anything.\n\nWhat happened is the Iranians attacked some vessels that were trying to go through the Omani side of the Strait of Hormuz. The Iranians don't want that. They want them to go through Iranian waters, where they can gradually establish a regime of control.\n\nOf course, we don't want that.\n\nBut the problem is that we may want it or not want it. But if we are not prepared militarily, physically to defeat the regime and prevent them from doing this sort of thing, this is where this is going to go.\n\nI don't think President Trump really wants to restart the war. He may get forced into it, but I don't think he really wants to. So, he's trying to be tougher now to back up his negotiators, to see whether he can get things back where they were with this MOU a few weeks ago.\n\nCORNISH: Yes. You were asked, I think, just last night about Greenland. And you said that Trump has a kind of routine. He complains, he criticizes. He says people aren't doing enough, and he keeps threats on the table. And I thought, gee, that's kind of applicable to this exact moment.\n\nVOLKER: Yes, it is. No, that is the playbook here. He will do that, and he'll never concede anything.\n\nSo, even with Greenland, for example, I don't think he was planning to bring up Greenland at the summit at all. But somebody asked him about it. So, he says, yes, of course, it's still on the table. Of course it should be ours.\n\nAnd I think that is what he's going to do with the Iranians here, step by step. Keep putting the pressure on about the strait. Keep putting pressure on about the nuclear issue. Try to get to something that he can actually live with, which is no fighting, so that oil prices and gasoline prices stay down.\n\nCORNISH: If the ceasefire is over, Does that mean Israel still has a kind of green light to continue its fight with Hezbollah in Lebanon?\n\nVolker: Well, I think that's a very good point, because the Israelis will certainly take it that way. I think President Trump would like to feel that he's in the driver's seat. And so, if Israel is going to attack or not, he would like to be the one who says so.\n\nBut I think the Israelis are going to look at this and say, OK, if anything happens, Hezbollah does anything at all, We have a green light. We feel free to go after them again, now.\n\nCORNISH: It's interesting that this NATO summit is happening -- is happening in Ankara. People look at Turkey, in a lot of ways, as a sort of gateway between the East and the West. And it is at the center of this kind of Gordian knot of international issues, right?\n\nYou've got Zelenskyy there, trying to get support in its war against Russia. You've got Turkey asking the U.S. for access to F-35 fighter jets, kind of the most advanced fighter jets, and Israel saying, no, don't give it to them.\n\nIt feels like the president actually -- there's a lot of spinning plates here. VOLKER: Yes, well, there are. And just look at the geography. I mean,\n\nif you pull up a map, you've got the Black Sea, Ukraine and Russia to the North. You've got Iran and Iraq to the East. You've got Syria and Lebanon to the South.\n\nFurther down, you've got Israel on the other side of the mediterranean.\n\nIt is a region that has a lot of issues. And Turkey is a very large country, very capable country, militarily, economically. And they play a role in all of these issues that we care about.\n\nMost of the time, U.S. and Turkish interests are actually aligned, but there are few cases where they diverge. And in all of these cases, it's really important that we are talking to the Turks and working with them, because it could go very badly if we don't.\n\nCORNISH: And we should say, despite their requests, we're seeing reports, CNN reporting now that the defense secretary, Hegseth, has actually canceled his trip to Israel, where he was supposed to sort of soothe concerns about this potential sale.\n\nWhat are you going to be listening for now? Is it J.D. Vance that has to come out and say technical talks are still going, if the Iran -- Iranians play nice? Is it Hegseth? Kind of what are you expecting to see today?\n\nVOLKER: Well, a couple of things. One of them, let's not forget it's the NATO summit meeting. So, I think it would be important for NATO to say something condemning the Iranian attacks on shipping and supporting freedom of navigation in the Persian Gulf.\n\nVery important that NATO stay aligned with the U.S. as we go through this, even if they're not contributing militarily to show the direction that we want to go in.\n\nThe second thing is, I think the Iranians are going to listen to President Trump and try to judge: is this just one more threat that he then winds down a couple of days from now? Or is it going to be something different this time?\n\nThey're going to be watching that. And in -- and in doing so, I think they're going to stand down on any attacks for a little while.\n\nThey had, you know, a quick one just recently, but I think they're going to stand down and see whether the U.S. really wants to escalate this or not. They're probably betting that we don't. And I think things will 00 will be quieter for a while.\n\nCORNISH: OK. That's Ambassador Kurt -- former ambassador Kurt Volker. Thank you so much for your time. Appreciate it.\n\nVOLKER: It is appreciated (ph). CORNISH: And coming up on CNN THIS MORNING, we are monitoring the situation in New York. Construction crews are working to stabilize a high rise.\n\nUNIDENTIFIED MALE: It was crazy. And everybody -- everybody was panicking.\n\nCORNISH: Why officials are confident that they can keep a building from buckling.\n\nPlus, Democrats still trying to answer for Israel. Now it's coming to a head on Michigan's debate stage.\n\nAnd why Senator Mitch McConnell's team is being secretive about his health. Questions being raised about whether they owe it to voters to explain what's going on.\n\nUNIDENTIFIED MALE: Mitch McConnell talked to the GOP leaders on the phone. I feel like we have a \"Weekend at Bernie's\" situation going on right here.\n\nABDUL EL-SAYED (D), MICHIGAN SENATORIAL CANDIDATE: If you want somebody who's electable, the last three polls in a row show that I'm the most electable Democrat in November. Why? Because you got to actually fight for something.\n\nREP. HALEY STEVENS (D-MI), MICHIGAN SENATORIAL CANDIDATE: I worked really hard to make sure that Kamala Harris was going to get elected, and that Donald Trump would be stopped. And my opponent did nothing.\n\nCORNISH: You're looking at the last two candidates remaining in the Democratic primary for Senate in Michigan. They were in a heated debate on Tuesday night. This is ahead of their primary, which is on August 4th.\n\nAbdul El-Sayed and Congresswoman Haley Stevens are fighting to replace retiring Senator Gary Peters. The race is critical for Democrats, who are hoping to flip the Senate in November. It's also exposing a rift in the national party between more moderate establishment party forces and a progressive insurgency. (BEGIN VIDEO CLIP)\n\nEL-SAYED: Chuck Schumer desperately wants one of us to be the next senator, and it's not me. So, if you want your politics dictated to you by AIPAC or Chuck Schumer, then I'm not your guy.\n\nSTEVENS: There are many who want to make this run for U.S. Senate about Washington, D.C., insider deals and what's going on with our party leadership. Friends, this is about the future of Michigan.\n\nCORNISH: So, joining me now in the group chat, Isaac Dovere, CNN senior reporter; Terry Schilling, president of the American Principles Project; and Antjuan Seawright, Democratic strategist.\n\nIsaac, I want to start with you, because there's a handful of Senate races were all watching very closely. And yet you call this one the apex for Democrats? Why?\n\nEDWARD-ISAAC DOVERE, CNN SENIOR CORRESPONDENT: Yes. Well, look, this is really where you see, in this primary, especially now with Mallory McMorrow dropping out at the beginning of the week, this just playing out in full contrast of the different things that are going on in the Democratic Party, this fight that is happening. The fight for both the hearts of Democrats and the minds of Democrats, who they want to believe they are.\n\nIs it a bipartisan, workhorse version of things, the way that Haley Stevens supporters sell forward, or is it this progressive fighter model that that that Abdul El-Sayed has put himself forward as? And in the minds --\n\nCORNISH: Whether or not those things are even at odds.\n\nCORNISH: I'm sure the moderates would say, like, we're fighting up a storm.\n\nDOVERE: They would. And there's a lot that overlaps in terms of policy for both of them.\n\nAnd then it's also about the minds, where they're thinking, this is a race. There is no way that anybody really can see that Democrats can take the majority of the Senate, which is already a stretch, if they lose this seat in Michigan.\n\nAnd so, part of what even played out on the debate stage, what you're playing before we started is this conversation of who will be the strongest candidate to go up against Mike Rogers, former congressman who very nearly won the Senate seat against Elissa Slotkin in 2024.\n\nCORNISH: OK. I want to play for you guys a little snippet of the debate, just so the audience can hear a little bit about what was talked about. Here's an exchange they had about -- even though it's the state of Michigan -- U.S. policy on Israel.\n\nEL-SAYED: For too long, our foreign policy has been handed to us by the likes of the state of Israel and AIPAC, who has made sure that Democrats and Republicans are doing their bidding.\n\nI don't take that money. They are spending against me, because they've called me the most dangerous candidate for the U.S.-Israel relationship.\n\nSTEVENS: Well, Abdul, I would say no one is afraid of you. And in fact, the GOP is spending thousands of dollars to prop up your campaign, because they think it -- they will make it easier for Mike Rogers to win if you are the nominee.\n\nEL-SAYED: Well, you know, if Congresswoman Stevens makes it or Mike Rogers wins, either way, Israel will win. AIPAC is perfectly fine with either of my two opponents, because they know that they will have a comfortable, reliable vote in the U.S. Senate.\n\nCORNISH: I wanted to play that, one, because the \"no one is afraid of you\" was like, kind of quite the dig. And I want to be clear for the audience, it's not like we're verifying the claims they're making in this debate.\n\nAntjuan, what do you see in sort of how they're going at each other? Is it reflective of anything or is this a Michigan race?\n\nANTJUAN SEAWRIGHT, DEMOCRATIC STRATEGIST: This is a race solely about Michigan. But I will add, this is a race solely about the future of our country. Take Michigan out of it.\n\nI think where there's no pathway for the majority and for us to have the majority in the Senate without us maintaining the state of Michigan in our column.\n\nI would also add, we continue to have these conversations of style versus substance in our primaries. And quite frankly, I think it's doing a disservice to the overall goal. And that's to win in November.\n\nSay what you want about the Republicans, but they seem to be united after primaries. We have a problem doing that. And I hope that Michigan is not one of those examples.\n\nThe truth of the matter is Michigan is a battleground state in 2028. And so, we have to set the tone in 2026. That's why this primary is so important.\n\nSEAWRIGHT: I think people forget that there were strong divisions within Michigan in the 2024 election cycle that caused us not to put Michigan in the winning column for Democrats.\n\nCORNISH: Are you guys united?\n\nTERRY SCHILLING, PRESIDENT, AMERICAN PRINCIPLES PROJECT: Look, yes, no. Mike Rogers, the party's aligned behind him.\n\nI think the big thing that I took away from that debate last night is that it's a lot of style over substance, right? They're not talking about exciting policies that are going to transform Americans' lives. They're talking over about campaign disclosures, financial disclosures. They're talking about who can win, who's best seated to win. Well, the reality is --\n\nCORNISH: Well, maybe because the policies are actually quite similar.\n\nSEAWRIGHT: I disagree with they're not talking about issues, because I think that both candidates are talking about the affordability crisis that Republicans have created. They're both talking about this.\n\nCORNISH: You're saying they're not clashing on it, right? Like they basically --\n\nSEAWRIGHT: Well, that's the point.\n\nSCHILLING: I'm saying, actually, that they're -- they don't have exciting plans.\n\nIf I had a plan that I actually thought was going to transform people's lives, I'm not going to talk about my campaign disclosures or my candidate's campaign disclosures. I'm going to talk -- or certainly not AIPAC.\n\nSEAWRIGHT: I think that's where you may be wrong. With all due respect, Terry, they are talking about the affordability issue. They all talk -- they're all talking about health care. They're all talking about the 100,000 manufacturing jobs that have been lost under this administration.\n\nSCHILLING: Well, what's their policy?\n\nSEAWRIGHT: And this -- and this do-nothing majority.\n\nSCHILLING: All right. They talked a lot about it. What was their policy on --\n\nSEAWRIGHT: Costs, care.\n\nSCHILLING: No, how are they going to solve those things?\n\nSEAWRIGHT: Costs, lowering costs.\n\nSCHILLING: How are they going to lower costs.\n\nSEAWRIGHT: For -- dealing with the health care crisis. The 18.2 million Americans --\n\nSCHILLING: How are they dealing with the -- with the crisis?\n\nSEAWRIGHT: Well, they're going to -- I just told you. We're going to pass a --\n\nSCHILLING: Raising taxes?\n\nSEAWRIGHT: No. We're going to pass those ACA subsidies that Republicans refused to pass to make sure that premiums --\n\nSCHILLING: So, raise taxes.\n\nCORNISH: So, hold on one second.\n\nSEAWRIGHT: Premiums, co-pays and deductibles do not rise.\n\nCORNISH: You guys right now are having the argument we plan to listen to in 2028.\n\nSCHILLING: Yes, that's right.\n\nCORNISH: Don't want to jump the gun.\n\nSEAWRIGHT: No, this is a 2026 argument.\n\nCORNISH: We're still -- well, I want to talk about the primaries, because we are not there yet. The argument you're talking about is the argument they have to make in a general. This is what we do different from Republicans.\n\nIt's getting there. The journey is the destination right now. And what are we learning?\n\nDOVERE: We're learning that the Democrats have a lot that they're fighting over.\n\nLook, the -- it is not a coincidence that AIPAC and Israel was such an issue in that debate last night. It is an issue that is roiling the Democratic Party right now.\n\nCORNISH: Yes. And Republicans, it's come up here and there. Yes.\n\nDOVERE: And it's an issue. And in Michigan especially, there is a large Arab American population. There's a large Jewish population. There is a lot of different views of what should be done there.\n\nEl-Sayed has said over and over that he is anti-AIPAC. And he said to me in an interview I did with him last week that the -- the only way that anybody could support Israel is if there's money supporting them.\n\nThere is a lot of AIPAC-related money that's going to Haley Stevens.\n\nBut it's also an issue that that El-Sayed has said speaks to deeper progressive values --\n\nCORNISH: Yes. Let me --\n\nDOVERE: -- of where people are. And that's not what Stevens thinks. And it's not clear where voters are on this.\n\nCORNISH: It is not. And let me pause on that particular conversation for this reason.\n\nRahm Emanuel, someone who has been out there, former Democratic operative, is planning to make a speech and talk about Israel. I think this is going to be an interesting --\n\nCORNISH: In Israel. I think this is going to be an interesting moment for the party, where someone tries to figure out, how do you thread the needle and navigate a conversation around this that is bedeviling both parties?\n\nSo, let's pause on this, because we are definitely going to come back to it.\n\nAnd in the meantime, I just want to give you guys an update on a couple of things. The president's lawsuit against \"The Washington Post\" thrown out. Why a judge said the Trump administration did not provide enough evidence.\n\nCORNISH: Argentina's epic comeback to keep their World Cup dreams alive.\n\nCORNISH: It is now 28 minutes past the hour. This is your morning roundup.\n\nNow I want to show you right now live images. Construction crews working through the night, because they need to shore up a high rise in midtown Manhattan.\n\nUNIDENTIFIED MALE: We're getting reports from the construction that two columns buckled on the 21st floor.\n\nUNIDENTIFIED MALE: Construction company has done a roll call. All construction workers are accounted for at this time.\n\nCORNISH: Did you hear that word, \"buckled\"? The building was evacuated after two columns bent on Tuesday.\n\nThis is the former headquarters of Pfizer, which is being converted into apartments. Several other buildings were also cleared out as a precaution.\n\nUNIDENTIFIED MALE: It was a disaster the way they were -- they were running out of the hotel. It was crazy. And everybody -- everybody was panicking. A lot of people was [SIC] panicking.\n\nCORNISH: And the New York City building commissioner says crews at the time were trying to add 11 new floors to the building, which already had 22 floors.",
+  "segments": [
+    {
+      "seg": 1,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-08/segment/01",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nTrump: Memorandum of Understanding with Iran is 'Over'; Michigan Senate Candidates Clash Over Future of Democratic Party. Aired 6-6:30a ET\n\nAired July 08, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nBRAD SMITH, CNN ANCHOR: That does it for CNN HEADLINE EXPRESS. I'm Brad Smith. CNN THIS MORNING with Audie Cornish starts right now.\n\nANNOUNCER: This is CNN breaking news\n\nAUDIE CORNISH, CNN ANCHOR: We are following breaking news right now out of the Middle East, where President Trump says the memorandum of understanding with Iran is over.\n\nDONALD TRUMP, U.S. PRESIDENT: As far as I'm concerned, it's just a waste of time dealing with them.\n\nCORNISH: Good morning, everybody. I'm Audie Cornish, and this is where we begin.\n\nDetails out of the NATO summit. Now, the comments this morning from President Trump come after the U.S. military hit more than 80 Iranian targets on Tuesday and, in its biggest move yet, reimposed sanctions on Iranian oil in retaliation for attacks on ships near the Strait of Hormuz.\n\nIran said it would deliver a, quote, \"crushing response.\" But as far as Trump is concerned, he is done negotiating with Iran.\n\nTRUMP: To me, I think it's over. I don't want to deal with them anymore. They're scum. You know what scum is? They're scum. They're sick people. They're led by sick people. And they're vicious, violent people. And if they had a nuclear weapon, they'd use it.\n\nAs far as I'm concerned, it's over. I'll speak to our negotiators. They want to negotiate. They're good people, Steve Witkoff, Jared Kushner. But they have to come back to me. As far as I'm concerned, it's just a waste of time dealing with them.\n\n(END VIDEO CLIP) CORNISH: So, we're bringing in CNN senior White House reporter Kevin Liptak, who is in Turkey for this summit.\n\nKevin, can you talk about what this means for the state of what was known as a ceasefire, even though it was just a memorandum?\n\nKEVIN LIPTAK, CNN SENIOR WHITE HOUSE CORRESPONDENT: Yes, I think it's clear that President Trump thinks this deal has totally collapsed.\n\nBut what that actually means for the negotiations and for the war are a little bit unclear.\n\nYou know, the president said that he would allow the negotiators to continue these discussions with Iran to try and get some nuclear concessions. Most accounts suggest that those talks had been very, very slow going, even though they were up against this 60-day deadline.\n\nBut the president sort of shrugging that off as a waste of time and really entering this summit furious at Iran for being dishonest negotiators, in his view, because they were firing on those commercial vessels in the Strait of Hormuz.\n\nHe called them scum. He said that they were cuckoo and suggesting that he's prepared to resume this conflict. But what that looks like, not particularly clear.\n\nRemember, it was only three weeks ago that the president signed this agreement and said that, if the conflict continued, it would result in economic catastrophe. You know, none of those political pressures on the president to end the war have gone away.\n\nAnd so, how he proceeds from here at this point, not exactly clear.\n\nWe did see last night the president ordering up those retaliatory strikes on Iran. He also pulled back those sanctions waivers that he had put on the sales of Iranian oil.\n\nAnd you've already seen the Iranians sort of list out the ways that they view the United States having violated this agreement.\n\nAnd so, this is all, I think, falling apart rather quickly. Although the president does say that there's a glimmer of hope that these negotiations can continue.\n\nYou know, it all adds up to a furious President Trump. He was angry at Iran, but he's also angry at NATO. You know, there had been some hope, a glimmer of hope, perhaps, that perhaps a more conciliatory president would come here, because he's in a country that's governed by a friend of his, the Turkish president, Recep Tayyip Erdogan.\n\nHe said that that's the only reason that he came to this summit at all. But it was evident, listening to him this morning, that all of his grievances and all of his frustrations at NATO have not waned one bit. Listen to what he said here.\n\nTRUMP: We're having the big meeting in a little while, and I'm going to -- I'm going to relate my -- my problems.\n\nWhen we wanted them -- we didn't want them badly. But we did say, if you want to join us. And they all said, no. But when they could have, they weren't there for us. And we've been there for them.\n\nWe're going to work something out, I think, one way or the other. But we've been treated unfairly. We pay disproportionately.\n\nLIPTAK: So, this is all sort of exactly the scenario that the NATO chief, Mark Rutte, other European leaders had wanted to avoid at the summit.\n\nBut it seems pretty clear that President Trump is going to be airing all of these grievances as he's now meeting with NATO leaders behind closed doors -- Audie.\n\nCORNISH: OK. That's Kevin Liptak, speaking to us from Ankara in Turkey.\n\nI want to bring in now Kurt Volker, former U.S. ambassador to NATO.\n\nThank you so much for being here on what is now turning into an eventful day. The president saying that the ceasefire that they had negotiated, their memorandum of understanding, is over after some attacks on ships in the Strait of Hormuz.\n\nI want to play a bit for the president, for you to hear, and then we'll talk on the other side.\n\nTRUMP: They can talk, but I think they're wasting their time. Frankly, I don't want to waste my time with them. Now, I'll let our wonderful negotiators keep talking if they want, but I don't see it.\n\nCORNISH: OK, Ambassador, you know what it's like to have to keep talking. What does this mean for people who had been tasked with continuing this conversation?\n\nKURT VOLKER, FORMER U.S. AMBASSADOR TO NATO: Right. I think President Trump is just trying to ratchet up the visible frustration; try to put more pressure on the Iranians; see if he can get them back to a situation where they're not attacking anything.\n\nWhat happened is the Iranians attacked some vessels that were trying to go through the Omani side of the Strait of Hormuz. The Iranians don't want that. They want them to go through Iranian waters, where they can gradually establish a regime of control.\n\nOf course, we don't want that.\n\nBut the problem is that we may want it or not want it. But if we are not prepared militarily, physically to defeat the regime and prevent them from doing this sort of thing, this is where this is going to go.\n\nI don't think President Trump really wants to restart the war. He may get forced into it, but I don't think he really wants to. So, he's trying to be tougher now to back up his negotiators, to see whether he can get things back where they were with this MOU a few weeks ago.\n\nCORNISH: Yes. You were asked, I think, just last night about Greenland. And you said that Trump has a kind of routine. He complains, he criticizes. He says people aren't doing enough, and he keeps threats on the table. And I thought, gee, that's kind of applicable to this exact moment.\n\nVOLKER: Yes, it is. No, that is the playbook here. He will do that, and he'll never concede anything.\n\nSo, even with Greenland, for example, I don't think he was planning to bring up Greenland at the summit at all. But somebody asked him about it. So, he says, yes, of course, it's still on the table. Of course it should be ours.\n\nAnd I think that is what he's going to do with the Iranians here, step by step. Keep putting the pressure on about the strait. Keep putting pressure on about the nuclear issue. Try to get to something that he can actually live with, which is no fighting, so that oil prices and gasoline prices stay down.\n\nCORNISH: If the ceasefire is over, Does that mean Israel still has a kind of green light to continue its fight with Hezbollah in Lebanon?\n\nVolker: Well, I think that's a very good point, because the Israelis will certainly take it that way. I think President Trump would like to feel that he's in the driver's seat. And so, if Israel is going to attack or not, he would like to be the one who says so.\n\nBut I think the Israelis are going to look at this and say, OK, if anything happens, Hezbollah does anything at all, We have a green light. We feel free to go after them again, now.\n\nCORNISH: It's interesting that this NATO summit is happening -- is happening in Ankara. People look at Turkey, in a lot of ways, as a sort of gateway between the East and the West. And it is at the center of this kind of Gordian knot of international issues, right?\n\nYou've got Zelenskyy there, trying to get support in its war against Russia. You've got Turkey asking the U.S. for access to F-35 fighter jets, kind of the most advanced fighter jets, and Israel saying, no, don't give it to them.\n\nIt feels like the president actually -- there's a lot of spinning plates here. VOLKER: Yes, well, there are. And just look at the geography. I mean,\n\nif you pull up a map, you've got the Black Sea, Ukraine and Russia to the North. You've got Iran and Iraq to the East. You've got Syria and Lebanon to the South.\n\nFurther down, you've got Israel on the other side of the mediterranean.\n\nIt is a region that has a lot of issues. And Turkey is a very large country, very capable country, militarily, economically. And they play a role in all of these issues that we care about.\n\nMost of the time, U.S. and Turkish interests are actually aligned, but there are few cases where they diverge. And in all of these cases, it's really important that we are talking to the Turks and working with them, because it could go very badly if we don't.\n\nCORNISH: And we should say, despite their requests, we're seeing reports, CNN reporting now that the defense secretary, Hegseth, has actually canceled his trip to Israel, where he was supposed to sort of soothe concerns about this potential sale.\n\nWhat are you going to be listening for now? Is it J.D. Vance that has to come out and say technical talks are still going, if the Iran -- Iranians play nice? Is it Hegseth? Kind of what are you expecting to see today?\n\nVOLKER: Well, a couple of things. One of them, let's not forget it's the NATO summit meeting. So, I think it would be important for NATO to say something condemning the Iranian attacks on shipping and supporting freedom of navigation in the Persian Gulf.\n\nVery important that NATO stay aligned with the U.S. as we go through this, even if they're not contributing militarily to show the direction that we want to go in.\n\nThe second thing is, I think the Iranians are going to listen to President Trump and try to judge: is this just one more threat that he then winds down a couple of days from now? Or is it going to be something different this time?\n\nThey're going to be watching that. And in -- and in doing so, I think they're going to stand down on any attacks for a little while.\n\nThey had, you know, a quick one just recently, but I think they're going to stand down and see whether the U.S. really wants to escalate this or not. They're probably betting that we don't. And I think things will 00 will be quieter for a while.\n\nCORNISH: OK. That's Ambassador Kurt -- former ambassador Kurt Volker. Thank you so much for your time. Appreciate it.\n\nVOLKER: It is appreciated (ph). CORNISH: And coming up on CNN THIS MORNING, we are monitoring the situation in New York. Construction crews are working to stabilize a high rise.\n\nUNIDENTIFIED MALE: It was crazy. And everybody -- everybody was panicking.\n\nCORNISH: Why officials are confident that they can keep a building from buckling.\n\nPlus, Democrats still trying to answer for Israel. Now it's coming to a head on Michigan's debate stage.\n\nAnd why Senator Mitch McConnell's team is being secretive about his health. Questions being raised about whether they owe it to voters to explain what's going on.\n\nUNIDENTIFIED MALE: Mitch McConnell talked to the GOP leaders on the phone. I feel like we have a \"Weekend at Bernie's\" situation going on right here.\n\nABDUL EL-SAYED (D), MICHIGAN SENATORIAL CANDIDATE: If you want somebody who's electable, the last three polls in a row show that I'm the most electable Democrat in November. Why? Because you got to actually fight for something.\n\nREP. HALEY STEVENS (D-MI), MICHIGAN SENATORIAL CANDIDATE: I worked really hard to make sure that Kamala Harris was going to get elected, and that Donald Trump would be stopped. And my opponent did nothing.\n\nCORNISH: You're looking at the last two candidates remaining in the Democratic primary for Senate in Michigan. They were in a heated debate on Tuesday night. This is ahead of their primary, which is on August 4th.\n\nAbdul El-Sayed and Congresswoman Haley Stevens are fighting to replace retiring Senator Gary Peters. The race is critical for Democrats, who are hoping to flip the Senate in November. It's also exposing a rift in the national party between more moderate establishment party forces and a progressive insurgency. (BEGIN VIDEO CLIP)\n\nEL-SAYED: Chuck Schumer desperately wants one of us to be the next senator, and it's not me. So, if you want your politics dictated to you by AIPAC or Chuck Schumer, then I'm not your guy.\n\nSTEVENS: There are many who want to make this run for U.S. Senate about Washington, D.C., insider deals and what's going on with our party leadership. Friends, this is about the future of Michigan.\n\nCORNISH: So, joining me now in the group chat, Isaac Dovere, CNN senior reporter; Terry Schilling, president of the American Principles Project; and Antjuan Seawright, Democratic strategist.\n\nIsaac, I want to start with you, because there's a handful of Senate races were all watching very closely. And yet you call this one the apex for Democrats? Why?\n\nEDWARD-ISAAC DOVERE, CNN SENIOR CORRESPONDENT: Yes. Well, look, this is really where you see, in this primary, especially now with Mallory McMorrow dropping out at the beginning of the week, this just playing out in full contrast of the different things that are going on in the Democratic Party, this fight that is happening. The fight for both the hearts of Democrats and the minds of Democrats, who they want to believe they are.\n\nIs it a bipartisan, workhorse version of things, the way that Haley Stevens supporters sell forward, or is it this progressive fighter model that that that Abdul El-Sayed has put himself forward as? And in the minds --\n\nCORNISH: Whether or not those things are even at odds.\n\nCORNISH: I'm sure the moderates would say, like, we're fighting up a storm.\n\nDOVERE: They would. And there's a lot that overlaps in terms of policy for both of them.\n\nAnd then it's also about the minds, where they're thinking, this is a race. There is no way that anybody really can see that Democrats can take the majority of the Senate, which is already a stretch, if they lose this seat in Michigan.\n\nAnd so, part of what even played out on the debate stage, what you're playing before we started is this conversation of who will be the strongest candidate to go up against Mike Rogers, former congressman who very nearly won the Senate seat against Elissa Slotkin in 2024.\n\nCORNISH: OK. I want to play for you guys a little snippet of the debate, just so the audience can hear a little bit about what was talked about. Here's an exchange they had about -- even though it's the state of Michigan -- U.S. policy on Israel.\n\nEL-SAYED: For too long, our foreign policy has been handed to us by the likes of the state of Israel and AIPAC, who has made sure that Democrats and Republicans are doing their bidding.\n\nI don't take that money. They are spending against me, because they've called me the most dangerous candidate for the U.S.-Israel relationship.\n\nSTEVENS: Well, Abdul, I would say no one is afraid of you. And in fact, the GOP is spending thousands of dollars to prop up your campaign, because they think it -- they will make it easier for Mike Rogers to win if you are the nominee.\n\nEL-SAYED: Well, you know, if Congresswoman Stevens makes it or Mike Rogers wins, either way, Israel will win. AIPAC is perfectly fine with either of my two opponents, because they know that they will have a comfortable, reliable vote in the U.S. Senate.\n\nCORNISH: I wanted to play that, one, because the \"no one is afraid of you\" was like, kind of quite the dig. And I want to be clear for the audience, it's not like we're verifying the claims they're making in this debate.\n\nAntjuan, what do you see in sort of how they're going at each other? Is it reflective of anything or is this a Michigan race?\n\nANTJUAN SEAWRIGHT, DEMOCRATIC STRATEGIST: This is a race solely about Michigan. But I will add, this is a race solely about the future of our country. Take Michigan out of it.\n\nI think where there's no pathway for the majority and for us to have the majority in the Senate without us maintaining the state of Michigan in our column.\n\nI would also add, we continue to have these conversations of style versus substance in our primaries. And quite frankly, I think it's doing a disservice to the overall goal. And that's to win in November.\n\nSay what you want about the Republicans, but they seem to be united after primaries. We have a problem doing that. And I hope that Michigan is not one of those examples.\n\nThe truth of the matter is Michigan is a battleground state in 2028. And so, we have to set the tone in 2026. That's why this primary is so important.\n\nSEAWRIGHT: I think people forget that there were strong divisions within Michigan in the 2024 election cycle that caused us not to put Michigan in the winning column for Democrats.\n\nCORNISH: Are you guys united?\n\nTERRY SCHILLING, PRESIDENT, AMERICAN PRINCIPLES PROJECT: Look, yes, no. Mike Rogers, the party's aligned behind him.\n\nI think the big thing that I took away from that debate last night is that it's a lot of style over substance, right? They're not talking about exciting policies that are going to transform Americans' lives. They're talking over about campaign disclosures, financial disclosures. They're talking about who can win, who's best seated to win. Well, the reality is --\n\nCORNISH: Well, maybe because the policies are actually quite similar.\n\nSEAWRIGHT: I disagree with they're not talking about issues, because I think that both candidates are talking about the affordability crisis that Republicans have created. They're both talking about this.\n\nCORNISH: You're saying they're not clashing on it, right? Like they basically --\n\nSEAWRIGHT: Well, that's the point.\n\nSCHILLING: I'm saying, actually, that they're -- they don't have exciting plans.\n\nIf I had a plan that I actually thought was going to transform people's lives, I'm not going to talk about my campaign disclosures or my candidate's campaign disclosures. I'm going to talk -- or certainly not AIPAC.\n\nSEAWRIGHT: I think that's where you may be wrong. With all due respect, Terry, they are talking about the affordability issue. They all talk -- they're all talking about health care. They're all talking about the 100,000 manufacturing jobs that have been lost under this administration.\n\nSCHILLING: Well, what's their policy?\n\nSEAWRIGHT: And this -- and this do-nothing majority.\n\nSCHILLING: All right. They talked a lot about it. What was their policy on --\n\nSEAWRIGHT: Costs, care.\n\nSCHILLING: No, how are they going to solve those things?\n\nSEAWRIGHT: Costs, lowering costs.\n\nSCHILLING: How are they going to lower costs.\n\nSEAWRIGHT: For -- dealing with the health care crisis. The 18.2 million Americans --\n\nSCHILLING: How are they dealing with the -- with the crisis?\n\nSEAWRIGHT: Well, they're going to -- I just told you. We're going to pass a --\n\nSCHILLING: Raising taxes?\n\nSEAWRIGHT: No. We're going to pass those ACA subsidies that Republicans refused to pass to make sure that premiums --\n\nSCHILLING: So, raise taxes.\n\nCORNISH: So, hold on one second.\n\nSEAWRIGHT: Premiums, co-pays and deductibles do not rise.\n\nCORNISH: You guys right now are having the argument we plan to listen to in 2028.\n\nSCHILLING: Yes, that's right.\n\nCORNISH: Don't want to jump the gun.\n\nSEAWRIGHT: No, this is a 2026 argument.\n\nCORNISH: We're still -- well, I want to talk about the primaries, because we are not there yet. The argument you're talking about is the argument they have to make in a general. This is what we do different from Republicans.\n\nIt's getting there. The journey is the destination right now. And what are we learning?\n\nDOVERE: We're learning that the Democrats have a lot that they're fighting over.\n\nLook, the -- it is not a coincidence that AIPAC and Israel was such an issue in that debate last night. It is an issue that is roiling the Democratic Party right now.\n\nCORNISH: Yes. And Republicans, it's come up here and there. Yes.\n\nDOVERE: And it's an issue. And in Michigan especially, there is a large Arab American population. There's a large Jewish population. There is a lot of different views of what should be done there.\n\nEl-Sayed has said over and over that he is anti-AIPAC. And he said to me in an interview I did with him last week that the -- the only way that anybody could support Israel is if there's money supporting them.\n\nThere is a lot of AIPAC-related money that's going to Haley Stevens.\n\nBut it's also an issue that that El-Sayed has said speaks to deeper progressive values --\n\nCORNISH: Yes. Let me --\n\nDOVERE: -- of where people are. And that's not what Stevens thinks. And it's not clear where voters are on this.\n\nCORNISH: It is not. And let me pause on that particular conversation for this reason.\n\nRahm Emanuel, someone who has been out there, former Democratic operative, is planning to make a speech and talk about Israel. I think this is going to be an interesting --\n\nCORNISH: In Israel. I think this is going to be an interesting moment for the party, where someone tries to figure out, how do you thread the needle and navigate a conversation around this that is bedeviling both parties?\n\nSo, let's pause on this, because we are definitely going to come back to it.\n\nAnd in the meantime, I just want to give you guys an update on a couple of things. The president's lawsuit against \"The Washington Post\" thrown out. Why a judge said the Trump administration did not provide enough evidence.\n\nCORNISH: Argentina's epic comeback to keep their World Cup dreams alive.\n\nCORNISH: It is now 28 minutes past the hour. This is your morning roundup.\n\nNow I want to show you right now live images. Construction crews working through the night, because they need to shore up a high rise in midtown Manhattan.\n\nUNIDENTIFIED MALE: We're getting reports from the construction that two columns buckled on the 21st floor.\n\nUNIDENTIFIED MALE: Construction company has done a roll call. All construction workers are accounted for at this time.\n\nCORNISH: Did you hear that word, \"buckled\"? The building was evacuated after two columns bent on Tuesday.\n\nThis is the former headquarters of Pfizer, which is being converted into apartments. Several other buildings were also cleared out as a precaution.\n\nUNIDENTIFIED MALE: It was a disaster the way they were -- they were running out of the hotel. It was crazy. And everybody -- everybody was panicking. A lot of people was [SIC] panicking.\n\nCORNISH: And the New York City building commissioner says crews at the time were trying to add 11 new floors to the building, which already had 22 floors."
+    }
+  ]
+}

@@ -1,0 +1,561 @@
+{
+  "date": "2026-07-08",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-08/segment/02",
+  "vocabulary": [
+    {
+      "word": "defamation",
+      "phonetic": "/ˌdefəˈmeɪʃn/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "诽谤",
+      "en": "the act of damaging someone's reputation by saying or writing bad things about them",
+      "excerpt": "President Trump's $3.8 billion defamation lawsuit against \"The Washington Post,\" now thrown out by a judge.",
+      "example_cn": "特朗普总统对《华盛顿邮报》提起的38亿美元诽谤诉讼被法官驳回。"
+    },
+    {
+      "word": "alleging",
+      "phonetic": "/əˈledʒɪŋ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "指控",
+      "en": "claiming or asserting something without proof",
+      "excerpt": "The president's media and technology group brought the suit in 2023 over a \"Post\" article alleging securities fraud.",
+      "example_cn": "总统的媒体科技集团于2023年因一篇指控证券欺诈的《邮报》文章提起诉讼。"
+    },
+    {
+      "word": "malice",
+      "phonetic": "/ˈmælɪs/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "恶意",
+      "en": "the intention to do harm or cause suffering",
+      "excerpt": "But a federal judge in Florida ruled that Trump media failed to present evidence of actual malice.",
+      "example_cn": "但佛罗里达州的一名联邦法官裁定，特朗普媒体未能提供实际恶意的证据。"
+    },
+    {
+      "word": "stunned",
+      "phonetic": "/stʌnd/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "使震惊",
+      "en": "shocked or surprised someone very much",
+      "excerpt": "Defending champion Argentina stunned Egypt, scoring three second half goals to come back from a two-goal deficit.",
+      "example_cn": "卫冕冠军阿根廷队震惊了埃及队，在下半场连进三球，从两球落后的局面中逆转。"
+    },
+    {
+      "word": "deficit",
+      "phonetic": "/ˈdefɪsɪt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "赤字；落后",
+      "en": "the amount by which something is less than what is needed or expected",
+      "excerpt": "Defending champion Argentina stunned Egypt, scoring three second half goals to come back from a two-goal deficit.",
+      "example_cn": "卫冕冠军阿根廷队震惊了埃及队，在下半场连进三球，从两球落后的局面中逆转。"
+    },
+    {
+      "word": "penalty kick shootout",
+      "phonetic": "/ˈpenəlti kɪk ˈʃuːtaʊt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "点球大战",
+      "en": "a method of deciding a tied game in soccer where players take penalty kicks",
+      "excerpt": "Switzerland took down Colombia in a penalty kick shootout after the game ended in a tie.",
+      "example_cn": "瑞士队在比赛打平后通过点球大战击败了哥伦比亚队。"
+    },
+    {
+      "word": "quarter finals",
+      "phonetic": "/ˈkwɔːrtər ˈfaɪnlz/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "四分之一决赛",
+      "en": "the round of a competition before the semi-finals",
+      "excerpt": "And it will be the first time the Swiss will have reached the World Cup quarter finals since 1954.",
+      "example_cn": "这将是瑞士队自1954年以来首次进入世界杯四分之一决赛。"
+    },
+    {
+      "word": "nominations",
+      "phonetic": "/ˌnɒmɪˈneɪʃnz/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "提名",
+      "en": "the act of officially suggesting someone for a position or award",
+      "excerpt": "And today the nominations will be announced for the 78th Emmy Awards.",
+      "example_cn": "今天将公布第78届艾美奖的提名名单。"
+    },
+    {
+      "word": "ceasefire",
+      "phonetic": "/ˈsiːsfaɪər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "停火",
+      "en": "an agreement to stop fighting for a period of time",
+      "excerpt": "That's where the president has just said that the ceasefire with Iran is over.",
+      "example_cn": "总统刚刚表示与伊朗的停火已经结束。"
+    },
+    {
+      "word": "memorandum of understanding",
+      "phonetic": "/ˌmeməˈrændəm əv ˌʌndərˈstændɪŋ/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "谅解备忘录",
+      "en": "a document that describes the general principles of an agreement between parties",
+      "excerpt": "President Trump saying that the memorandum of understanding with Iran is over.",
+      "example_cn": "特朗普总统表示与伊朗的谅解备忘录已经终止。"
+    },
+    {
+      "word": "truce",
+      "phonetic": "/truːs/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "休战",
+      "en": "a temporary agreement to stop fighting",
+      "excerpt": "So that means this truce is uncertain right now.",
+      "example_cn": "所以这意味着目前的休战状态不确定。"
+    },
+    {
+      "word": "flare-up",
+      "phonetic": "/ˈfleər ʌp/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "突然爆发",
+      "en": "a sudden increase in violence or activity",
+      "excerpt": "It follows a flare-up overnight between the U.S. and Iran.",
+      "example_cn": "此前美国与伊朗之间一夜之间爆发了冲突。"
+    },
+    {
+      "word": "crushing",
+      "phonetic": "/ˈkrʌʃɪŋ/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "压倒性的",
+      "en": "very severe or overwhelming",
+      "excerpt": "And Iran promising a crushing response.",
+      "example_cn": "伊朗承诺将做出压倒性的回应。"
+    },
+    {
+      "word": "cuckoo",
+      "phonetic": "/ˈkʊkuː/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "疯狂的",
+      "en": "crazy or silly",
+      "excerpt": "There's something wrong with them. They're cuckoo.",
+      "example_cn": "他们有问题。他们疯了。"
+    },
+    {
+      "word": "mediators",
+      "phonetic": "/ˈmiːdieɪtərz/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "调解人",
+      "en": "people who try to bring about an agreement between opposing sides",
+      "excerpt": "And what we've seen in the past is the Qatari and Pakistani mediators who are in the middle of this, working diligently, slowly behind the scenes.",
+      "example_cn": "我们过去看到的是卡塔尔和巴基斯坦的调解人参与其中，在幕后勤奋而缓慢地工作。"
+    },
+    {
+      "word": "de-escalate",
+      "phonetic": "/diːˈeskəleɪt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "缓和",
+      "en": "to reduce the intensity of a conflict or dangerous situation",
+      "excerpt": "trying to talk both sides down, trying to de-escalate at times",
+      "example_cn": "试图说服双方冷静下来，有时试图缓和局势。"
+    },
+    {
+      "word": "diplomatic lifting",
+      "phonetic": "/ˌdɪpləˈmætɪk ˈlɪftɪŋ/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "外交努力",
+      "en": "the effort of diplomacy to achieve something",
+      "excerpt": "eventually getting that MOU after almost two months of hard diplomatic lifting.",
+      "example_cn": "经过近两个月艰苦的外交努力，最终达成了那份谅解备忘录。"
+    },
+    {
+      "word": "asymmetrical warfare",
+      "phonetic": "/ˌeɪsɪˈmetrɪkl ˈwɔːrfeər/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "非对称战争",
+      "en": "warfare between forces of unequal strength, often involving unconventional tactics",
+      "excerpt": "they've become the leading kind of battlefield experts on asymmetrical warfare and drones.",
+      "example_cn": "他们已成为非对称战争和无人机领域的顶尖战场专家。"
+    },
+    {
+      "word": "ballistic missiles",
+      "phonetic": "/bəˈlɪstɪk ˈmɪsaɪlz/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "弹道导弹",
+      "en": "missiles that are guided in the first part of flight and then fall freely",
+      "excerpt": "And President Zelenskyy is desperate to get more air defense missiles to stop the big, ballistic missiles that are killing people in Ukraine.",
+      "example_cn": "泽连斯基总统迫切希望获得更多防空导弹，以阻止那些在乌克兰造成人员伤亡的大型弹道导弹。"
+    },
+    {
+      "word": "distraction",
+      "phonetic": "/dɪˈstrækʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "分心；干扰",
+      "en": "something that takes attention away from what you are doing",
+      "excerpt": "Iran, Israel war has been a distraction, consuming the very resources that Ukraine really needs.",
+      "example_cn": "伊朗、以色列战争一直是一种干扰，消耗了乌克兰真正需要的资源。"
+    },
+    {
+      "word": "deviation",
+      "phonetic": "/ˌdiːviˈeɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "偏离",
+      "en": "the act of moving away from what is normal or expected",
+      "excerpt": "this will be a deviation off the track of what NATO really wants to focus on today.",
+      "example_cn": "这将偏离北约今天真正想要关注的重点。"
+    },
+    {
+      "word": "cutting edge",
+      "phonetic": "/ˈkʌtɪŋ edʒ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "前沿",
+      "en": "the most advanced stage of development",
+      "excerpt": "he is at the cutting edge, that drone technology changes quickly on the battlefield.",
+      "example_cn": "他处于前沿，无人机技术在战场上变化很快。"
+    },
+    {
+      "word": "sexual assault",
+      "phonetic": "/ˈsekʃuəl əˈsɔːlt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "性侵犯",
+      "en": "unwanted sexual contact or behavior",
+      "excerpt": "This is after a new sexual assault allegation against the democratic candidate.",
+      "example_cn": "这是在针对民主党候选人的新的性侵犯指控之后。"
+    },
+    {
+      "word": "coercive control",
+      "phonetic": "/kəʊˈɜːrsɪv kənˈtrəʊl/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "强制控制",
+      "en": "a pattern of behavior that dominates and controls another person through fear and intimidation",
+      "excerpt": "coercive control, lying, deception, abuse, and really horrible things",
+      "example_cn": "强制控制、撒谎、欺骗、虐待以及非常可怕的事情。"
+    },
+    {
+      "word": "drop out",
+      "phonetic": "/drɒp aʊt/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "退出",
+      "en": "to withdraw from a race or competition",
+      "excerpt": "And Platner is facing widespread calls to drop out of the race from the Democratic Party.",
+      "example_cn": "普拉特纳面临民主党广泛要求他退出竞选的呼声。"
+    },
+    {
+      "word": "step down",
+      "phonetic": "/step daʊn/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "辞职",
+      "en": "to resign from a position",
+      "excerpt": "I have recommended that he step down.",
+      "example_cn": "我建议他辞职。"
+    },
+    {
+      "word": "withdraw",
+      "phonetic": "/wɪðˈdrɔː/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "退出",
+      "en": "to remove oneself from a situation or competition",
+      "excerpt": "he has to withdraw by the 13th.",
+      "example_cn": "他必须在13日之前退出。"
+    },
+    {
+      "word": "vacancy",
+      "phonetic": "/ˈveɪkənsi/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "空缺",
+      "en": "an empty position or place",
+      "excerpt": "the secretary of state cannot allow a new name on the ballot until there's a vacancy.",
+      "example_cn": "在出现空缺之前，州务卿不能允许新名字出现在选票上。"
+    },
+    {
+      "word": "huddled",
+      "phonetic": "/ˈhʌdld/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "聚集；蜷缩",
+      "en": "gathered closely together, often in a private or secret manner",
+      "excerpt": "he's spending his time huddled in private trying to figure out what to do.",
+      "example_cn": "他正私下里聚在一起，试图弄清楚该怎么做。"
+    },
+    {
+      "word": "gung ho",
+      "phonetic": "/ˌɡʌŋ ˈhəʊ/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "狂热的",
+      "en": "very enthusiastic and eager",
+      "excerpt": "a lot of Democrats who were very gung ho about him",
+      "example_cn": "很多对他非常狂热的民主党人。"
+    },
+    {
+      "word": "waved off",
+      "phonetic": "/weɪvd ɒf/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "挥手拒绝；不予理会",
+      "en": "dismissed or ignored",
+      "excerpt": "the previous allegations from women that were all waved off and said it's not enough to be an issue for him",
+      "example_cn": "之前来自女性的指控都被挥手拒绝，并说这不足以成为他的问题。"
+    },
+    {
+      "word": "pop-up convention",
+      "phonetic": "/ˈpɒp ʌp kənˈvenʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "临时大会",
+      "en": "a convention that is organized quickly and unexpectedly",
+      "excerpt": "Should the party have a pop-up convention on the weekend of the 25th",
+      "example_cn": "该党是否应该在25日那个周末举行一次临时大会？"
+    },
+    {
+      "word": "caucus",
+      "phonetic": "/ˈkɔːkəs/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "党团会议",
+      "en": "a meeting of members of a political party to choose candidates or decide policy",
+      "excerpt": "should they have a statewide caucus, basically redo the primary election?",
+      "example_cn": "他们是否应该举行全州范围的党团会议，基本上重新进行初选？"
+    },
+    {
+      "word": "proof of life",
+      "phonetic": "/pruːf əv laɪf/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "生命证明",
+      "en": "evidence that a person is still alive, often demanded in hostage situations",
+      "excerpt": "And yet some MAGA voices demanding, quote, \"proof of life.\"",
+      "example_cn": "然而一些MAGA声音要求所谓的“生命证明”。"
+    },
+    {
+      "word": "ventilator",
+      "phonetic": "/ˈventɪleɪtər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "呼吸机",
+      "en": "a machine that helps a person breathe",
+      "excerpt": "If he's dead or if he's on a ventilator, if he's not able to do his job, he should resign right now.",
+      "example_cn": "如果他死了或者靠呼吸机维持生命，如果他无法履行职责，他应该立即辞职。"
+    },
+    {
+      "word": "special election",
+      "phonetic": "/ˈspeʃl ɪˈlekʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "特别选举",
+      "en": "an election held to fill a vacancy that occurs between regular elections",
+      "excerpt": "They should have a special election.",
+      "example_cn": "他们应该举行一次特别选举。"
+    },
+    {
+      "word": "gaslit",
+      "phonetic": "/ˈɡæslɪt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "煤气灯效应（心理操纵）",
+      "en": "manipulated someone into questioning their own reality or sanity",
+      "excerpt": "But we were gaslit and told that he was at the top of his game.",
+      "example_cn": "但我们被煤气灯效应操纵，被告知他处于最佳状态。"
+    },
+    {
+      "word": "burdening",
+      "phonetic": "/ˈbɜːrdnɪŋ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "使负担",
+      "en": "causing someone to carry a heavy load or worry",
+      "excerpt": "I never liked burdening others with my problems.",
+      "example_cn": "我从来不喜欢用我的问题给别人增加负担。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "President Trump's $3.8 billion defamation lawsuit against \"The Washington Post,\" now thrown out by a judge.",
+      "cn": "特朗普总统对《华盛顿邮报》提起的38亿美元诽谤诉讼，现已被法官驳回。",
+      "structure": "简单句，主语是President Trump's $3.8 billion defamation lawsuit against \"The Washington Post\"，谓语是now thrown out by a judge。",
+      "analysis": "这是一个简单句，主语较长，包含所有格和介词短语。谓语部分使用被动语态，表示诉讼被驳回。"
+    },
+    {
+      "en": "Defending champion Argentina stunned Egypt, scoring three second half goals to come back from a two-goal deficit.",
+      "cn": "卫冕冠军阿根廷队震惊了埃及队，在下半场连进三球，从两球落后的局面中逆转。",
+      "structure": "简单句，主语是Defending champion Argentina，谓语是stunned，宾语是Egypt，现在分词短语scoring...作伴随状语。",
+      "analysis": "现在分词短语作伴随状语，说明阿根廷队如何震惊埃及队。不定式短语to come back...表示目的。"
+    },
+    {
+      "en": "And it will be the first time the Swiss will have reached the World Cup quarter finals since 1954.",
+      "cn": "这将是瑞士队自1954年以来首次进入世界杯四分之一决赛。",
+      "structure": "主句是it will be the first time，后面跟一个定语从句the Swiss will have reached...，省略了关系词that。",
+      "analysis": "这是一个固定句型，表示“这是第一次...”。从句使用将来完成时，强调到将来某个时间点已经完成的动作。"
+    },
+    {
+      "en": "President Trump saying that the memorandum of understanding with Iran is over.",
+      "cn": "特朗普总统表示与伊朗的谅解备忘录已经终止。",
+      "structure": "现在分词短语作伴随状语，主语是President Trump，谓语是saying，后面跟that引导的宾语从句。",
+      "analysis": "这是一个现在分词短语，在新闻中常用于表示某人正在说的话。宾语从句是系表结构。"
+    },
+    {
+      "en": "It follows a flare-up overnight between the U.S. and Iran.",
+      "cn": "此前美国与伊朗之间一夜之间爆发了冲突。",
+      "structure": "简单句，主语是It，谓语是follows，宾语是a flare-up overnight between the U.S. and Iran。",
+      "analysis": "这是一个简单句，it指代前文提到的总统声明。follows表示时间上的先后顺序。"
+    },
+    {
+      "en": "And what we've seen in the past is the Qatari and Pakistani mediators who are in the middle of this, working diligently, slowly behind the scenes, trying to talk both sides down, trying to de-escalate at times, getting the original ceasefire, eventually getting that MOU after almost two months of hard diplomatic lifting.",
+      "cn": "我们过去看到的是卡塔尔和巴基斯坦的调解人参与其中，在幕后勤奋而缓慢地工作，试图说服双方冷静下来，有时试图缓和局势，达成最初的停火，经过近两个月艰苦的外交努力，最终达成了那份谅解备忘录。",
+      "structure": "主句是what we've seen in the past is the Qatari and Pakistani mediators，后面跟who引导的定语从句，从句中多个现在分词短语作伴随状语。",
+      "analysis": "这是一个复杂句，主语是what引导的主语从句。定语从句修饰mediators，其中包含一系列现在分词短语，描述调解人的一系列行动。"
+    },
+    {
+      "en": "But I think putting it in the context of the NATO summit here, you know, the secretary general, Mark Rutte, said he expected it to be a topic of conversation.",
+      "cn": "但我认为，将其放在北约峰会的背景下，你知道，秘书长马克·吕特表示他预计这将是一个话题。",
+      "structure": "主句是I think，后面跟省略that的宾语从句。宾语从句中，putting it in the context...是现在分词短语作状语，主句是the secretary general...said...。",
+      "analysis": "这是一个复合句，think后接宾语从句。现在分词短语putting...作状语，表示条件或背景。said后接省略that的宾语从句。"
+    },
+    {
+      "en": "And over the past few months there's a sense in Europe that the U.S., Iran, Israel war has been a distraction, consuming the very resources that Ukraine really needs, missile defense systems, and that this will be a deviation off the track of what NATO really wants to focus on today.",
+      "cn": "在过去几个月里，欧洲有一种感觉，认为美国、伊朗、以色列战争一直是一种干扰，消耗了乌克兰真正需要的资源，即导弹防御系统，并且这将偏离北约今天真正想要关注的重点。",
+      "structure": "主句是there's a sense in Europe，后面跟两个that引导的同位语从句，由and连接。第一个同位语从句中，consuming...是现在分词短语作伴随状语。",
+      "analysis": "这是一个复杂句，there be句型后接同位语从句。第一个同位语从句中包含现在分词短语作状语，第二个同位语从句是系表结构。"
+    },
+    {
+      "en": "And we saw President Zelenskyy pretty much when Iran began hitting the United States' friends and allies in the gulf, he went out to Saudi, he went out to others in the gulf and said, we've got these defensive capabilities against drones.",
+      "cn": "我们看到泽连斯基总统，当伊朗开始打击美国在海湾地区的朋友和盟友时，他前往沙特，前往海湾其他国家，并说，我们有这些针对无人机的防御能力。",
+      "structure": "主句是we saw President Zelenskyy，后面跟when引导的时间状语从句，主句是he went out...and said...，said后跟直接引语。",
+      "analysis": "这是一个复合句，saw后接宾语，when引导时间状语从句。主句包含并列谓语went out和said，直接引语是简单句。"
+    },
+    {
+      "en": "And that's, you know, where he -- the card that he's short of.",
+      "cn": "这就是，你知道，他缺少的那张牌。",
+      "structure": "主句是that's，后面跟where引导的表语从句，其中包含一个定语从句that he's short of修饰the card。",
+      "analysis": "这是一个复合句，where引导表语从句，从句中the card是主语，that he's short of是定语从句。"
+    },
+    {
+      "en": "The things that he does in private, in his relationships with women, the things that he has done to women, coercive control, lying, deception, abuse, and really horrible things that we know about him -- sorry, we know that, that you can't be that way in private and not have it translate into how you would govern.",
+      "cn": "他在私下里、在与女性的关系中做的事情，他对女性做过的事情，强制控制、撒谎、欺骗、虐待以及我们知道的非常可怕的事情——抱歉，我们知道，你不能在私下里那样做而不让它转化为你将如何治理。",
+      "structure": "这是一个复杂句，主语是The things...，谓语是隐含的are或类似动词，但实际句子结构不完整。后面跟that引导的定语从句，以及并列的名词短语。最后是that引导的宾语从句。",
+      "analysis": "这是一个口语化的句子，结构松散。开头是名词短语作主语，后面跟一系列列举。最后一部分是that引导的宾语从句，其中包含not...and...结构。"
+    },
+    {
+      "en": "And even though people keep saying to him, no, no, no, no, no, he is saying, yes, I can keep doing this, right.",
+      "cn": "尽管人们一直对他说，不，不，不，不，不，他却在说，是的，我可以继续这样做，对吧。",
+      "structure": "主句是he is saying，前面是even though引导的让步状语从句。",
+      "analysis": "这是一个复合句，even though引导让步状语从句。主句和从句都包含直接引语。"
+    },
+    {
+      "en": "I think it's really important that as many Democratic voters have a voice in this process when Graham Platner withdraws.",
+      "cn": "我认为，当格雷厄姆·普拉特纳退出时，尽可能多的民主党选民在这个过程有发言权是非常重要的。",
+      "structure": "主句是I think，后面跟省略that的宾语从句。宾语从句中，it是形式主语，真正的主语是that引导的主语从句，其中包含when引导的时间状语从句。",
+      "analysis": "这是一个复合句，think后接宾语从句。宾语从句中使用it作形式主语，that从句是真正主语，其中包含时间状语从句。"
+    },
+    {
+      "en": "We have an obligation, as -- in service of not just Mainers, but in service of the entire country to defeat Senator Collins this upcoming November.",
+      "cn": "我们有义务，不仅为缅因州人民服务，而且为整个国家服务，在今年11月击败参议员柯林斯。",
+      "structure": "主句是We have an obligation，后面跟不定式短语to defeat...作定语，as引导的插入语表示方式。",
+      "analysis": "这是一个简单句，不定式短语作定语修饰obligation。as引导的插入语补充说明义务的内容。"
+    },
+    {
+      "en": "And I think there's a lesson for Democrats to learn in these moments.",
+      "cn": "我认为在这些时刻民主党有一个教训要吸取。",
+      "structure": "主句是I think，后面跟省略that的宾语从句。宾语从句是there be句型，不定式短语to learn作定语。",
+      "analysis": "这是一个复合句，think后接宾语从句。there be句型中，不定式短语修饰lesson。"
+    },
+    {
+      "en": "But the lesson for some Democrats was what was going on until Monday with Platner, which is to say all of those things that are supposed to be problems we're going to say aren't problems and we should go forward here.",
+      "cn": "但对一些民主党人来说，教训是直到周一普拉特纳发生的事情，也就是说，所有那些本应是问题的事情，我们都会说不是问题，我们应该继续前进。",
+      "structure": "主句是the lesson...was，后面跟what引导的表语从句。表语从句中，which is to say引导一个解释性的从句，其中包含that引导的定语从句和并列句。",
+      "analysis": "这是一个复杂句，what引导表语从句。which is to say是非限制性定语从句，修饰整个表语从句。其中包含that定语从句修饰things，以及并列句we're going to say...and we should go...。"
+    },
+    {
+      "en": "And it's a difference in how Democrats and Republicans operate for sure, whether it's Ken Paxton or Max Miller or there are a lot of -- or Donald Trump, there are a lot of people --",
+      "cn": "这当然是民主党和共和党运作方式的差异，无论是肯·帕克斯顿还是马克斯·米勒，还是有很多——或者唐纳德·特朗普，有很多人——",
+      "structure": "主句是it's a difference，后面跟in how引导的介词宾语从句。whether...or...引导让步状语从句。",
+      "analysis": "这是一个复合句，how引导宾语从句作介词in的宾语。whether...or...引导让步状语从句，列举例子。"
+    },
+    {
+      "en": "And I just think that from the party who claims transparency and accountability, we should just know more when these situations pop up.",
+      "cn": "我只是认为，从声称透明和问责的政党那里，当这些情况出现时，我们应该知道更多。",
+      "structure": "主句是I just think，后面跟that引导的宾语从句。宾语从句中，from the party...是状语，who claims...是定语从句修饰party，when引导时间状语从句。",
+      "analysis": "这是一个复合句，think后接宾语从句。宾语从句中包含定语从句和时间状语从句。"
+    },
+    {
+      "en": "If this were Democrats, Republicans would be wetting their diapers about accountability and responsibility.",
+      "cn": "如果这是民主党人，共和党人就会在问责和责任问题上尿裤子。",
+      "structure": "这是一个虚拟条件句，if引导非真实条件句，主句用would be doing。",
+      "analysis": "这是一个与现在事实相反的虚拟语气，条件从句用were，主句用would be doing，表示假设情况。"
+    },
+    {
+      "en": "But I've learned from this experience.",
+      "cn": "但我从这次经历中学到了。",
+      "structure": "简单句，主语是I，谓语是've learned，介词短语from this experience作状语。",
+      "analysis": "这是一个简单句，现在完成时表示过去的经历对现在的影响。"
+    },
+    {
+      "en": "Taking this kind of job means losing some of the privacy that most of us expect.",
+      "cn": "接受这种工作意味着失去我们大多数人期望的一些隐私。",
+      "structure": "主语是动名词短语Taking this kind of job，谓语是means，宾语是动名词短语losing some of the privacy，后面跟that引导的定语从句。",
+      "analysis": "这是一个简单句，动名词短语作主语和宾语。定语从句修饰privacy。"
+    },
+    {
+      "en": "The American people have a right to know if their leaders are facing health challenges that might affect their ability to perform their duties, even temporarily.",
+      "cn": "美国人民有权知道他们的领导人是否面临可能影响其履行职责能力的健康挑战，即使是暂时的。",
+      "structure": "主句是The American people have a right to know，后面跟if引导的宾语从句。宾语从句中，that引导定语从句修饰health challenges。",
+      "analysis": "这是一个复合句，不定式短语to know后接if引导的宾语从句。定语从句修饰challenges。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "美伊关系与核协议",
+      "content": "特朗普总统宣布终止与伊朗的谅解备忘录，美伊之间再次爆发冲突。美国打击了80个目标，伊朗承诺做出回应。此前卡塔尔和巴基斯坦曾进行调解，但特朗普表示不再与伊朗谈判。",
+      "keywords": "Iran, ceasefire, memorandum of understanding, nuclear weapon, mediators"
+    },
+    {
+      "title": "北约峰会与乌克兰局势",
+      "content": "北约峰会在安卡拉举行，焦点是乌克兰问题。泽连斯基寻求更多防空导弹以应对俄罗斯的弹道导弹。欧洲认为美伊冲突分散了资源，影响了乌克兰的防御。",
+      "keywords": "NATO summit, Ukraine, Zelenskyy, air defense missiles, ballistic missiles"
+    },
+    {
+      "title": "美国参议院选举与格雷厄姆·普拉特纳丑闻",
+      "content": "民主党候选人格雷厄姆·普拉特纳面临新的性侵犯指控，包括前女友的暴力指控。党内要求他退选，但他在考虑是否退出以及如何指定继任者。缅因州参议院席位竞争激烈，民主党担心失去机会。",
+      "keywords": "Graham Platner, sexual assault, Maine, Senate, Bernie Sanders, drop out"
+    },
+    {
+      "title": "米奇·麦康奈尔的健康状况",
+      "content": "参议院共和党领袖米奇·麦康奈尔住院三周，原因不明。一些MAGA声音要求“生命证明”，而共和党同僚称与他通话过。民主党批评共和党缺乏透明度，并提及此前国防部长奥斯汀隐瞒住院的教训。",
+      "keywords": "Mitch McConnell, hospitalization, proof of life, special election, transparency"
+    },
+    {
+      "title": "2026年世界杯",
+      "content": "世界杯八强产生，阿根廷逆转埃及，瑞士点球战胜哥伦比亚，瑞士自1954年以来首次进入四分之一决赛。",
+      "keywords": "World Cup, Argentina, Egypt, Switzerland, Colombia, quarter finals"
+    },
+    {
+      "title": "第78届艾美奖提名",
+      "content": "艾美奖提名公布，《The Pitt》和《Hacks》预计获得多项提名。玛莉丝卡·哈吉塔将主持颁奖礼，成为15年来首位女性主持人。",
+      "keywords": "Emmy Awards, nominations, Mariska Hargitay, host"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nTrump's Done Dealing with Iran; Platner Considering Best Path Forward; Questions Over Mitch McConnell's Health. Aired 6:30-7a ET\n\nAired July 08, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nAUDIE CORNISH, CNN ANCHOR: City building commissioner says crews at the time were trying to add 11 new floors to the building, which already had 22 floors.\n\nPresident Trump's $3.8 billion defamation lawsuit against \"The Washington Post,\" now thrown out by a judge. The president's media and technology group brought the suit in 2023 over a \"Post\" article alleging securities fraud. But a federal judge in Florida ruled that Trump media failed to present evidence of actual malice.\n\nAnd the World Cup now down to eight teams after a pair of crazy finishes to the round of 16 Tuesday, led by Messi. Defending champion Argentina stunned Egypt, scoring three second half goals to come back from a two-goal deficit. In the meantime, Switzerland took down Colombia in a penalty kick shootout after the game ended in a tie. And it will be the first time the Swiss will have reached the World Cup quarter finals since 1954.\n\nAnd today the nominations will be announced for the 78th Emmy Awards. \"The Pitt\" and \"Hacks\" expected to bring in a number of nods. Yesterday, the Emmy's announced \"Law and Order SVU\" star Mariska Hargitay will host the show, and she will be the first female host in 15 years. Who knew?\n\nStraight ahead on CNN THIS MORNING ,we're going to continue to follow that breaking news out of the Middle East. That's where the president has just said that the ceasefire with Iran is over. We're going to try and figure out what that means.\n\nUNIDENTIFIED FEMALE: We have a very short window here to pull ourselves together and find somebody.\n\nCORNISH: The Platner problem. In Maine, his top backer now says he should drop out, but do Democrats have enough time to run a successful campaign to beat Senator Susan Collins?\n\nAnd in the meantime, good morning to Chicago. This is a look at the sunrise over the city's skyline.\n\nCORNISH: So, we continue to follow this breaking news out of the Middle East. President Trump saying that the memorandum of understanding with Iran is over. So that means this truce is uncertain right now.\n\nIt follows a flare-up overnight between the U.S. and Iran. The U.S. hitting 80 targets. And Iran promising a crushing response. President Trump, however, says he is done talking.\n\nDONALD TRUMP, PRESIDENT OF THE UNITED STATES: As far as I'm concerned, it's just a waste of time dealing with them. They're liars.\n\nEveryone's agreed, no nuclear weapon. We make a deal. They go outside, talk to the press. They say, we never even talked about it. There's something wrong with them. They're cuckoo.\n\nCORNISH: I'm going to bring in CNN international diplomatic editor Nic Robertson, who is in Ankara.\n\nAnd, Nic, leading up to this, we had the president talking about the funeral proceedings that had been happening in Iran. You had the technical talks that were supposed to keep going for 60 days. How did this break down? What is known right now?\n\nNIC ROBERTSON, CNN INTERNATIONAL DIPLOMATIC EDITOR: Well, the president did acknowledge that the negotiators do want to keep talking. And I think a lot of people will hold on to that and say, that's a positive right there. And what we've seen in the past is the Qatari and Pakistani mediators who are in the middle of this, working diligently, slowly behind the scenes, one step at a time, trying to talk both sides down, trying to de-escalate at times, getting the original ceasefire, eventually getting that MOU after almost two months of hard diplomatic lifting.\n\nI don't think they're going to want to drop it. But it really does depend on what the president has to say and where he has committed his direction of travel on this. And we've seen that he does want to try to make a deal. But I think putting it in the context of the NATO summit here, you know, the secretary general, Mark Rutte, said he expected it to be a topic of conversation. The president sort of put it on the agenda yesterday before the strikes because he felt NATO nations should have stepped up more to help.\n\nBut the picture here is, they really want to focus on Ukraine. And President Zelenskyy is desperate to get more air defense missiles to stop the big, ballistic missiles that are killing people in Ukraine. And over the past few months there's a sense in Europe that the U.S.,\n\nIran, Israel war has been a distraction, consuming the very resources that Ukraine really needs, missile defense systems, and that this will be a deviation off the track of what NATO really wants to focus on today. There's no doubt it will get discussion. But, of course, here we are talking about it. And really the thrust here is to get on and support Ukraine.\n\nCORNISH: Nic, one other thing, though. When it comes to Ukraine, they've become the leading kind of battlefield experts on asymmetrical warfare and drones. And this is the exact issue the U.S. is dealing with when it comes to Iran. Is there any card to be played, so to speak, by Zelenskyy?\n\nROBERTSON: Zelenskyy clearly believes that he does have cards to play with the drones, their manufacturer, the long distance drones that are reaching more than a thousand, certainly 2,000 miles inside of Russia, hitting sensitive Russian targets. And we saw President Zelenskyy pretty much when Iran began hitting the United States' friends and allies in the gulf, he went out to Saudi, he went out to others in the gulf and said, we've got these defensive capabilities against drones. Here's how they work. And he signed contracts.\n\nSo, I think Zelenskyy, and certainly his European supporters here would recognize that he is at the cutting edge, that drone technology changes quickly on the battlefield.\n\nHis country is a battlefield. He has the space, the technology, the people, the equipment to be at the cutting edge. So, he has something to offer. But he needs the money and he needs the resources against these ballistic missiles. And that's, you know, where he -- the card that he's short of. And he's made that very clear just yesterday in his comments here, saying that Europe needs an air defense missile system capability, needs to be able to do it at scale, and quickly.\n\nCORNISH: OK, that's Nic Robertson, speaking to us about the news out of the NATO Summit. You heard him there talking about Ukraine. We're also following reporting about the president saying that his memorandum of understanding is off and his frustrations with Iran.\n\nI want to turn to some domestic politics because the balance of the Senate is in question. Graham Platner's Senate candidacy hanging on by a thread this morning up in Maine. This is after a new sexual assault allegation against the democratic candidate. His original accuser now coming forward, telling CNN's Jake Tapper that Platner was a violent boyfriend.\n\nLYNDSEY FIFIELD, GRAHAM PLATNER ACCUSER: The things that he does in private, in his relationships with women, the things that he has done to women, coercive control, lying, deception, abuse, and really horrible things that we've -- that we've -- that we know about him -- sorry, we know that, that you can't be that way in private and not have it translate into how you would govern.\n\nCORNISH: And Platner is facing widespread calls to drop out of the race from the Democratic Party. That includes one of his biggest supporters, Bernie Sanders. In a statement, Sanders writes, \"I have spoken with Graham Platner about the best path forward for Maine. In light of these very serious allegations,\" Sanders says, \"I have recommended that he step down.\"\n\nThe group chat is back.\n\nI think this is one of those stories that is actually in political group chats as more and more information drips out. But let me let people understand what's happening here. I think according to my notes, he has to withdraw by the 13th. And the reason why that's important is the secretary of state cannot allow a new name on the ballot until there's a vacancy. So, this is why everyone is on Platner watch. But how is Platner spending his time?\n\nEDWARD-ISAAC DOVERE, CNN SENIOR REPORTER: Well, he's spending his time huddled in private trying to figure out what to do.\n\nLook, there are two sets of things here.\n\nCORNISH: Well, it sounded like he was busy pressuring the Democratic Party again (ph).\n\nDOVERE: Well, right. I mean that's the thing. And so, thing number one is, a lot of Democrats who were very gung ho about him, until the revelations this week, do need to face their own questions of why everything else was allowed with Platner and they were for him. The Nazi tattoo, the Reddit post with all the political views saying black people don't tip, the previous allegations from women that were all waved off and said it's not enough to be an issue for him, but that this, all of a sudden, was.\n\nThe other thing is, when it comes to the -- replacing Platner on the ballot, perhaps, we have a situation here where Platner is holding -- he is saying that after being accused of sexual assault and abusing women, that he now has the right to have some control that he forces on the Democratic Party.\n\nCORNISH: To name a successor.\n\nDOVERE: To name a successor. And even though people keep saying to him, no, no, no, no, no, he is saying, yes, I can keep doing this, right.\n\nCORNISH: And in the meantime you've got the former Maine state Senate president, Troy Jackson, the first person to officially explore a run. I think we have a couple of other faces and names that we're going to put up later. But in terms of this process, it feels pretty clear that everyone is saying withdraw.\n\nDOVERE: Yes. CORNISH: Why do you think there's a delay here?\n\nANTJUAN SEAWRIGHT, DEMOCRATIC STRATEGIST: Take everything off the table. He needs -- he needs to withdraw. Start there.\n\nNumber two, I always --\n\nCORNISH: Well, like, the clock's a ticking, you know?\n\nSEAWRIGHT: I always believe in the old southern carpenter's rule when it comes to candidates. And I've always believed this throughout my 20 years in this business. Measure three times, cut once. It seems as if that this whole style versus substance conversation that is wrecking our party right now is leading to candidates like this that are tapping into the angry wing of our party, who are frustrated, rightly so, because things are not happening at the pace they wanted to. But yet we're not taking the time to vet candidates.\n\nI credit the Senate Democratic leadership for recruiting Roy Cooper and Janet Mills. They were two of our top recruits this cycle. I think Cooper is going to do well in North Carolina. I also think Janet Mills would have done Maine -- done well in Maine because she's connected to the community. But that is --\n\nDOVERE: She didn't do well in Maine, right? She didn't do well with the voters. Which is a separate conversation whether Platner --\n\nSEAWRIGHT: Well, Isaac, I think she did not do well because there was this big push by those who were angry and not necessarily informed to push in. We need to be anti the establishment.\n\nCORNISH: You mean the voter?\n\nSEAWRIGHT: And that has always been led by Bernie Sanders, the independent senator from Vermont, inserting himself in these primaries. And as a result, when it comes to competitive seats, it does not play out well. Look at Fetterman in Pennsylvania. Look at Tulsi Gabbard and others.\n\nCORNISH: Well, let me let others jump in here because we have a bunch of things to get to, specifically who's going to run next. And to your point, why that matters. If that person is going to be more moderate or not.\n\nBefore I come to you, Terry, I'm very sorry. I think we should hear from voters and hear some of them.\n\nUNIDENTIFIED FEMALE: The stakes are so high. If we don't flip the Senate, the Epstein class wins. They win.\n\nUNIDENTIFIED FEMALE: I definitely wouldn't vote for him. So, yes, get out of the race.\n\nUNIDENTIFIED MALE: The best thing we can do is look at the Democratic socialist alternative. At this point, it is pretty apparent that everyone in the Republican and Democratic field does not have the interest in the American -- of the American people in mind.\n\nCORNISH: Check out for me there, young man saying Republicans and Democrats don't have us in mind and looking to a populist answer. And the woman at the start mentioning the Epstein class, which I think that kind of voter is out there.\n\nCORNISH: What do you hear, especially that last person who is not necessarily going to just default to Collins because Platner has problems.\n\nTERRY SCHILLING, PRESIDENT, American PRINCIPLES PROJECT: Well, look, I've said this before. I think that elections have to be future oriented because voters are future oriented.\n\nSCHILLING: They want to know what you're going to do to help them.\n\nLook, what was in Graham Platner's past was all very well known to the people that recruited him. And the party activists that did recruit him said that none of those things that they found, the Reddit post, the Nazi tattoo, all that stuff, none of it should keep him from the nomination.\n\nCORNISH: Yes. They were a Democratic Party but socialists.\n\nDOVERE: But, importantly, no, the --\n\nCORNISH: Well, I'm sorry, can we talk about recruitment for a second?\n\nCORNISH: That means something here. Who recruited him? And is this a lesson learned for the people who are out there saying the parties aren't doing it too well. It's time for other people to step in and do recruiting.\n\nDOVERE: The people who recruited him were people from -- who were not from Maine, for the most part. And those are the same people who are now saying that they get to decide what happens here. One of the top consultants for Platner was in Europe over the last couple days. He is now flying to Maine to help the process that they think that they are going to dictate of who gets to be Platner's replacement.\n\nAnd again, I do think it's an interesting choice to say that this man, who is accused of sexual assault, now gets to put his will onto the party. SCHILLING: Can I just -- my main point was, is that all that stuff was\n\nalready well known. But what changed here, I think, is what these people are seeing on camera, where the voters are saying, we can't support him anymore. And it's not so much with the allegations. I think that just the dynamics of the race have changed. And I think what's worrisome, if I was a Democrat, what I would be worried about right now is it seems that more and more these Democratic Party primaries are no longer primaries and elections, they're just suggestion boxes. And the elites really don't like suggestions.\n\nCORNISH: Let me talk about the suggestion, because now we have to figure out who is next. What is the process? You've got some people jockeying for position. But in the meantime, you've got them just saying basically, beat Susan Collins. We've got a couple names there. Most of them are people who hold state office or have run for state office. But here's a sample of who's talking.\n\nTROY JACKSON, FORMER MAINE SENATE PRESIDENT: Short timeline. Obviously money and all that is going to be a challenge. But I definitely think it's doable because the message, the movement is right and that's what's important.\n\nSHENNA BELLOWS, MAINE SECRETARY OF STATE: I think it's really important that as many Democratic voters have a voice in this process when Graham Platner withdraws.\n\nDR. NIRAV SHAH (D), FORMER MAINE GOVERNOR CANDIDATE: The stakes are incredibly high. We have an obligation, as -- in service of not just Mainers, but in service of the entire country to defeat Senator Collins this upcoming November.\n\nCORNISH: And working backwards, that was Dr. Nirav Shah, former Maine governor candidate, Shenna Bellows, the secretary of state, and Troy Jackson, former Maine Senate president.\n\nFor people who might have some trauma around the Biden dropping out of the race and the air quotes process that followed, there are a lot of questions. Should the party have a pop-up convention on the weekend of the 25th, which is the deadline to choose a nominee, should they have a statewide caucus, basically redo the primary election?\n\nAntjuan, what do you think they should do?\n\nSEAWRIGHT: I think we should follow the process.\n\nCORNISH: There is no process.\n\nSEAWRIGHT: Well, that's not true. There is a process in place to put a nominee into place. And I think that's what happened in 2024, regardless of how you -- how you -- whether you agree with how Kamala Harris became my party's nominee. I think we have to follow process.\n\nCORNISH: What is the process? I'm missing something.\n\nSEAWRIGHT: Maine has a process in place to replace a person on their ballot. I think it's like a party pick kind of situation.\n\nSEAWRIGHT: It's a party pick because there is a process in place. There are process in place all across the country for these emergency situations that happen.\n\nI think we need to follow that. That's number one.\n\nNumber two, I also don't want to give Republicans a slot here in this moment because they have just as corrupt candidates, from Paxton and others who are on the ballot, but they do not govern themselves the same way when it comes to their issues and Democratic issues. And I think there's a lesson for Democrats to learn in these moments.\n\nLook at Ken Paxton on July 4th. And now we're looking at Ken Paxton. I mean we're looking at our candidate in Maine. There's a lesson about how these things are covered and how we talk about them within the party.\n\nDOVERE: But the lesson for some Democrats was what was going on until Monday with Platner, which is to say all of those things that are supposed to be problems we're going to say aren't problems and we should go forward here. And that is part of how the Democrats got to this place.\n\nAnd it's a difference in how Democrats and Republicans operate for sure, whether it's Ken Paxton or Max Miller or there are a lot of -- or Donald Trump, there are a lot of people --\n\nSEAWRIGHT: That's right.\n\nDOVERE: Who are Republicans who have had a lot of accusations made against them that are pretty serious.\n\nSCHILLING: But again, the reason that Paxton's succeeding is because he has a compelling policy agenda. He won over the voters. He had 130 --\n\nSCHILLING: Antjuan, he had $130 million in party money spent against him, and he crushed it by -- won by double digits.\n\nSEAWRIGHT: Terry, Terry, Terry. Terry --\n\nSCHILLING: It's about -- it's about substance. It's about policy. It's about how you're going to protect people and make their lives better, period. SEAWRIGHT: Terry, Terry, respectfully, you're going to ignore the\n\nSCHILLING: There's no -- there's no rape allegations. There's no Nazi tattoos. There's no reckless (ph) --\n\nSEAWRIGHT: You -- no, no, you're going to -- you're going to ignore the moral conversation around Ken Paxton?\n\nSCHILLING: No, no. No, here's the moral --\n\nSEAWRIGHT: You're going to ignore the moral conversation around Max Miller beating his wife in front of his kids.\n\nSCHILLING: Here's the moral conversation. Here's the -- here's the moral conversation in a democracy.\n\nSEAWRIGHT: You can't -- you can't come to us and say that these things --\n\nSCHILLING: In a democracy voters get to decide.\n\nSEAWRIGHT: Somehow or another we should ignore those things because of somehow or another some right-wing policy issues --\n\nSCHILLING: In a democracy, voters get to choose their party leader (ph).\n\nCORNISH: All right, I'm going to bring it back to a female victim. I want to just repeat this before we go. This is Lyndsey Fifield, who is the accuser against Graham Platner, talking about violence and abuse. And she says something that I think we should remember going forward as we're trying to decide politically, as a political class, what matters in a man's history. And she says, \"the things that he does in private, in his relationships with women, the things that he has done to women, coercive, control, lying, deception, abuse, and really horrible things that we know about him,\" she says, \"we know that you cannot be that way in private and not have it translate into how you would govern.\"\n\nYou guys, stay with us. We're going to come back.\n\nRight now I want to show you live images from New York because they are actually trying to stabilize a high rise. Crews are working overnight to shore up the weakest parts of a building.\n\nSCOTT JENNINGS, CNN SENIOR POLITICAL COMMENTATOR: We talk for about 17 minutes. You know, he talked a lot about the situation with Iran. He talked a little bit about Ukraine and what's going on in Europe. I'd gotten a few text messages from him, but I hadn't spoken to him.\n\nSo, it was good to hear his voice. His voice sounded strong and sounded like he was keeping up with the news to me.\n\nCORNISH: OK, Senator Mitch McConnell has been hospitalized for three weeks. Still unclear why or when he'll be released. And yet some MAGA voices demanding, quote, \"proof of life.\" Here's an example. Laura Loomer posting, \"high level source close to the White House tells me, quote, 'Mitch McConnell is officially brain dead and he's not coming back'.\"\n\nAgain, that is Laura Loomer on X saying that.\n\nAnd then this is a former senior adviser for Kamala Harris' campaign, Mike Nellis.\n\nMIKE NELLIS, FORMER SENIOR ADVISER FOR KAMALA HARRIS' CAMPAIGN: If Scott Jennings and Thune and everybody else could have a 20 minute phone call with Mitch McConnell, he should be able to shoot a 60 second proof of life video to show us that he's OK.\n\nI think they know the deadline for a special election is August 3rd. If he's dead or if he's on a ventilator, if he's not able to do his job, he should resign right now. They should have a special election.\n\nCORNISH: So, you have a lot of Senate Republicans coming out. We're going to just show some on screen, Isaac, all saying, I talked to him, I talked to him, I talked to him for 20 minutes, I talked to him for 45 minutes.\n\nWe heard -- we're hearing these pundits talk not just about his potential health, but what they think the issue is, a special election deadline.\n\nDOVERE: Yes. Look, Audie, if you were -- hadn't been on air for three weeks and there was no answers where you had gone, probably CNN would be interested to know what was going on with you.\n\nCORNISH: Yes, although Reddit would say thank you.\n\nDOVERE: Same thing with -- sure. Maybe.\n\nDOVERE: I think the same would be true of me probably for you guys, too.\n\nDOVERE: Mitch McConnell is entitled to private information about his health, but he is a public official. He is the taxpayers of Kentucky and of the federal government -- and of the country, because he's a federal employee, are entitled to know what's going on.\n\nSEAWRIGHT: Isaac, this is the second Republican who we've had these medical mishaps, if you will, missing in action. And I just think that from the party who claims transparency and accountability, we should just know more when these situations pop up. We had a member of Congress who was missing in action for months.\n\nSEAWRIGHT: And we didn't hear anything. And we later learned depression. Now we have Senator McConnell. If this were Democrats, Republicans would be wetting their diapers about accountability and responsibility.\n\nDOVERE: If these are -- if these are important jobs, as they are --\n\nSCHILLING: Well, it's just interesting because I am old enough to remember the Biden years where we had our secretary of defense absolutely AWOL, went out for a surgery for, I think, three weeks. We had the president of the United States obviously suffering from some type of a mental affliction and suffering, dementia (ph).\n\nSEAWRIGHT: OK, do you have medical proof of that?\n\nSCHILLING: Well, I saw it on TV. I saw it would my own eyes.\n\nCORNISH: Well, hold on. Let me get -- let me bring you one other thing.\n\nSCHILLING: But we were gaslit and told that he was at the top of his game.\n\nCORNISH: We're going to give the last word to Lloyd Austin, who you just mentioned.\n\nSCHILLING: Here we go.\n\nCORNISH: Because back in 2024, he answered questions about this. And this is a great way to end the show. Here is the lesson he took away from being private about your health and not telling the public.\n\nLLOYD AUSTIN, FORMER BIDEN SECRETARY OF DEFENSE: I don't think it's news that I'm a pretty private guy. I never liked burdening others with my problems. It's just not my way.\n\nBut I've learned from this experience. Taking this kind of job means losing some of the privacy that most of us expect. The American people have a right to know if their leaders are facing health challenges that might affect their ability to perform their duties, even temporarily.\n\nCORNISH: And later on, testified before Congress that there would be changes made to notify the chain of command, as well as the public. There is a way for Congress and lawmakers to deal with this. They have not chosen to.\n\nI want to thank you guys for being here. I want to thank you for waking up with me. I'm Audie Cornish, and the headlines are next.",
+  "segments": [
+    {
+      "seg": 2,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-08/segment/02",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nTrump's Done Dealing with Iran; Platner Considering Best Path Forward; Questions Over Mitch McConnell's Health. Aired 6:30-7a ET\n\nAired July 08, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nAUDIE CORNISH, CNN ANCHOR: City building commissioner says crews at the time were trying to add 11 new floors to the building, which already had 22 floors.\n\nPresident Trump's $3.8 billion defamation lawsuit against \"The Washington Post,\" now thrown out by a judge. The president's media and technology group brought the suit in 2023 over a \"Post\" article alleging securities fraud. But a federal judge in Florida ruled that Trump media failed to present evidence of actual malice.\n\nAnd the World Cup now down to eight teams after a pair of crazy finishes to the round of 16 Tuesday, led by Messi. Defending champion Argentina stunned Egypt, scoring three second half goals to come back from a two-goal deficit. In the meantime, Switzerland took down Colombia in a penalty kick shootout after the game ended in a tie. And it will be the first time the Swiss will have reached the World Cup quarter finals since 1954.\n\nAnd today the nominations will be announced for the 78th Emmy Awards. \"The Pitt\" and \"Hacks\" expected to bring in a number of nods. Yesterday, the Emmy's announced \"Law and Order SVU\" star Mariska Hargitay will host the show, and she will be the first female host in 15 years. Who knew?\n\nStraight ahead on CNN THIS MORNING ,we're going to continue to follow that breaking news out of the Middle East. That's where the president has just said that the ceasefire with Iran is over. We're going to try and figure out what that means.\n\nUNIDENTIFIED FEMALE: We have a very short window here to pull ourselves together and find somebody.\n\nCORNISH: The Platner problem. In Maine, his top backer now says he should drop out, but do Democrats have enough time to run a successful campaign to beat Senator Susan Collins?\n\nAnd in the meantime, good morning to Chicago. This is a look at the sunrise over the city's skyline.\n\nCORNISH: So, we continue to follow this breaking news out of the Middle East. President Trump saying that the memorandum of understanding with Iran is over. So that means this truce is uncertain right now.\n\nIt follows a flare-up overnight between the U.S. and Iran. The U.S. hitting 80 targets. And Iran promising a crushing response. President Trump, however, says he is done talking.\n\nDONALD TRUMP, PRESIDENT OF THE UNITED STATES: As far as I'm concerned, it's just a waste of time dealing with them. They're liars.\n\nEveryone's agreed, no nuclear weapon. We make a deal. They go outside, talk to the press. They say, we never even talked about it. There's something wrong with them. They're cuckoo.\n\nCORNISH: I'm going to bring in CNN international diplomatic editor Nic Robertson, who is in Ankara.\n\nAnd, Nic, leading up to this, we had the president talking about the funeral proceedings that had been happening in Iran. You had the technical talks that were supposed to keep going for 60 days. How did this break down? What is known right now?\n\nNIC ROBERTSON, CNN INTERNATIONAL DIPLOMATIC EDITOR: Well, the president did acknowledge that the negotiators do want to keep talking. And I think a lot of people will hold on to that and say, that's a positive right there. And what we've seen in the past is the Qatari and Pakistani mediators who are in the middle of this, working diligently, slowly behind the scenes, one step at a time, trying to talk both sides down, trying to de-escalate at times, getting the original ceasefire, eventually getting that MOU after almost two months of hard diplomatic lifting.\n\nI don't think they're going to want to drop it. But it really does depend on what the president has to say and where he has committed his direction of travel on this. And we've seen that he does want to try to make a deal. But I think putting it in the context of the NATO summit here, you know, the secretary general, Mark Rutte, said he expected it to be a topic of conversation. The president sort of put it on the agenda yesterday before the strikes because he felt NATO nations should have stepped up more to help.\n\nBut the picture here is, they really want to focus on Ukraine. And President Zelenskyy is desperate to get more air defense missiles to stop the big, ballistic missiles that are killing people in Ukraine. And over the past few months there's a sense in Europe that the U.S.,\n\nIran, Israel war has been a distraction, consuming the very resources that Ukraine really needs, missile defense systems, and that this will be a deviation off the track of what NATO really wants to focus on today. There's no doubt it will get discussion. But, of course, here we are talking about it. And really the thrust here is to get on and support Ukraine.\n\nCORNISH: Nic, one other thing, though. When it comes to Ukraine, they've become the leading kind of battlefield experts on asymmetrical warfare and drones. And this is the exact issue the U.S. is dealing with when it comes to Iran. Is there any card to be played, so to speak, by Zelenskyy?\n\nROBERTSON: Zelenskyy clearly believes that he does have cards to play with the drones, their manufacturer, the long distance drones that are reaching more than a thousand, certainly 2,000 miles inside of Russia, hitting sensitive Russian targets. And we saw President Zelenskyy pretty much when Iran began hitting the United States' friends and allies in the gulf, he went out to Saudi, he went out to others in the gulf and said, we've got these defensive capabilities against drones. Here's how they work. And he signed contracts.\n\nSo, I think Zelenskyy, and certainly his European supporters here would recognize that he is at the cutting edge, that drone technology changes quickly on the battlefield.\n\nHis country is a battlefield. He has the space, the technology, the people, the equipment to be at the cutting edge. So, he has something to offer. But he needs the money and he needs the resources against these ballistic missiles. And that's, you know, where he -- the card that he's short of. And he's made that very clear just yesterday in his comments here, saying that Europe needs an air defense missile system capability, needs to be able to do it at scale, and quickly.\n\nCORNISH: OK, that's Nic Robertson, speaking to us about the news out of the NATO Summit. You heard him there talking about Ukraine. We're also following reporting about the president saying that his memorandum of understanding is off and his frustrations with Iran.\n\nI want to turn to some domestic politics because the balance of the Senate is in question. Graham Platner's Senate candidacy hanging on by a thread this morning up in Maine. This is after a new sexual assault allegation against the democratic candidate. His original accuser now coming forward, telling CNN's Jake Tapper that Platner was a violent boyfriend.\n\nLYNDSEY FIFIELD, GRAHAM PLATNER ACCUSER: The things that he does in private, in his relationships with women, the things that he has done to women, coercive control, lying, deception, abuse, and really horrible things that we've -- that we've -- that we know about him -- sorry, we know that, that you can't be that way in private and not have it translate into how you would govern.\n\nCORNISH: And Platner is facing widespread calls to drop out of the race from the Democratic Party. That includes one of his biggest supporters, Bernie Sanders. In a statement, Sanders writes, \"I have spoken with Graham Platner about the best path forward for Maine. In light of these very serious allegations,\" Sanders says, \"I have recommended that he step down.\"\n\nThe group chat is back.\n\nI think this is one of those stories that is actually in political group chats as more and more information drips out. But let me let people understand what's happening here. I think according to my notes, he has to withdraw by the 13th. And the reason why that's important is the secretary of state cannot allow a new name on the ballot until there's a vacancy. So, this is why everyone is on Platner watch. But how is Platner spending his time?\n\nEDWARD-ISAAC DOVERE, CNN SENIOR REPORTER: Well, he's spending his time huddled in private trying to figure out what to do.\n\nLook, there are two sets of things here.\n\nCORNISH: Well, it sounded like he was busy pressuring the Democratic Party again (ph).\n\nDOVERE: Well, right. I mean that's the thing. And so, thing number one is, a lot of Democrats who were very gung ho about him, until the revelations this week, do need to face their own questions of why everything else was allowed with Platner and they were for him. The Nazi tattoo, the Reddit post with all the political views saying black people don't tip, the previous allegations from women that were all waved off and said it's not enough to be an issue for him, but that this, all of a sudden, was.\n\nThe other thing is, when it comes to the -- replacing Platner on the ballot, perhaps, we have a situation here where Platner is holding -- he is saying that after being accused of sexual assault and abusing women, that he now has the right to have some control that he forces on the Democratic Party.\n\nCORNISH: To name a successor.\n\nDOVERE: To name a successor. And even though people keep saying to him, no, no, no, no, no, he is saying, yes, I can keep doing this, right.\n\nCORNISH: And in the meantime you've got the former Maine state Senate president, Troy Jackson, the first person to officially explore a run. I think we have a couple of other faces and names that we're going to put up later. But in terms of this process, it feels pretty clear that everyone is saying withdraw.\n\nDOVERE: Yes. CORNISH: Why do you think there's a delay here?\n\nANTJUAN SEAWRIGHT, DEMOCRATIC STRATEGIST: Take everything off the table. He needs -- he needs to withdraw. Start there.\n\nNumber two, I always --\n\nCORNISH: Well, like, the clock's a ticking, you know?\n\nSEAWRIGHT: I always believe in the old southern carpenter's rule when it comes to candidates. And I've always believed this throughout my 20 years in this business. Measure three times, cut once. It seems as if that this whole style versus substance conversation that is wrecking our party right now is leading to candidates like this that are tapping into the angry wing of our party, who are frustrated, rightly so, because things are not happening at the pace they wanted to. But yet we're not taking the time to vet candidates.\n\nI credit the Senate Democratic leadership for recruiting Roy Cooper and Janet Mills. They were two of our top recruits this cycle. I think Cooper is going to do well in North Carolina. I also think Janet Mills would have done Maine -- done well in Maine because she's connected to the community. But that is --\n\nDOVERE: She didn't do well in Maine, right? She didn't do well with the voters. Which is a separate conversation whether Platner --\n\nSEAWRIGHT: Well, Isaac, I think she did not do well because there was this big push by those who were angry and not necessarily informed to push in. We need to be anti the establishment.\n\nCORNISH: You mean the voter?\n\nSEAWRIGHT: And that has always been led by Bernie Sanders, the independent senator from Vermont, inserting himself in these primaries. And as a result, when it comes to competitive seats, it does not play out well. Look at Fetterman in Pennsylvania. Look at Tulsi Gabbard and others.\n\nCORNISH: Well, let me let others jump in here because we have a bunch of things to get to, specifically who's going to run next. And to your point, why that matters. If that person is going to be more moderate or not.\n\nBefore I come to you, Terry, I'm very sorry. I think we should hear from voters and hear some of them.\n\nUNIDENTIFIED FEMALE: The stakes are so high. If we don't flip the Senate, the Epstein class wins. They win.\n\nUNIDENTIFIED FEMALE: I definitely wouldn't vote for him. So, yes, get out of the race.\n\nUNIDENTIFIED MALE: The best thing we can do is look at the Democratic socialist alternative. At this point, it is pretty apparent that everyone in the Republican and Democratic field does not have the interest in the American -- of the American people in mind.\n\nCORNISH: Check out for me there, young man saying Republicans and Democrats don't have us in mind and looking to a populist answer. And the woman at the start mentioning the Epstein class, which I think that kind of voter is out there.\n\nCORNISH: What do you hear, especially that last person who is not necessarily going to just default to Collins because Platner has problems.\n\nTERRY SCHILLING, PRESIDENT, American PRINCIPLES PROJECT: Well, look, I've said this before. I think that elections have to be future oriented because voters are future oriented.\n\nSCHILLING: They want to know what you're going to do to help them.\n\nLook, what was in Graham Platner's past was all very well known to the people that recruited him. And the party activists that did recruit him said that none of those things that they found, the Reddit post, the Nazi tattoo, all that stuff, none of it should keep him from the nomination.\n\nCORNISH: Yes. They were a Democratic Party but socialists.\n\nDOVERE: But, importantly, no, the --\n\nCORNISH: Well, I'm sorry, can we talk about recruitment for a second?\n\nCORNISH: That means something here. Who recruited him? And is this a lesson learned for the people who are out there saying the parties aren't doing it too well. It's time for other people to step in and do recruiting.\n\nDOVERE: The people who recruited him were people from -- who were not from Maine, for the most part. And those are the same people who are now saying that they get to decide what happens here. One of the top consultants for Platner was in Europe over the last couple days. He is now flying to Maine to help the process that they think that they are going to dictate of who gets to be Platner's replacement.\n\nAnd again, I do think it's an interesting choice to say that this man, who is accused of sexual assault, now gets to put his will onto the party. SCHILLING: Can I just -- my main point was, is that all that stuff was\n\nalready well known. But what changed here, I think, is what these people are seeing on camera, where the voters are saying, we can't support him anymore. And it's not so much with the allegations. I think that just the dynamics of the race have changed. And I think what's worrisome, if I was a Democrat, what I would be worried about right now is it seems that more and more these Democratic Party primaries are no longer primaries and elections, they're just suggestion boxes. And the elites really don't like suggestions.\n\nCORNISH: Let me talk about the suggestion, because now we have to figure out who is next. What is the process? You've got some people jockeying for position. But in the meantime, you've got them just saying basically, beat Susan Collins. We've got a couple names there. Most of them are people who hold state office or have run for state office. But here's a sample of who's talking.\n\nTROY JACKSON, FORMER MAINE SENATE PRESIDENT: Short timeline. Obviously money and all that is going to be a challenge. But I definitely think it's doable because the message, the movement is right and that's what's important.\n\nSHENNA BELLOWS, MAINE SECRETARY OF STATE: I think it's really important that as many Democratic voters have a voice in this process when Graham Platner withdraws.\n\nDR. NIRAV SHAH (D), FORMER MAINE GOVERNOR CANDIDATE: The stakes are incredibly high. We have an obligation, as -- in service of not just Mainers, but in service of the entire country to defeat Senator Collins this upcoming November.\n\nCORNISH: And working backwards, that was Dr. Nirav Shah, former Maine governor candidate, Shenna Bellows, the secretary of state, and Troy Jackson, former Maine Senate president.\n\nFor people who might have some trauma around the Biden dropping out of the race and the air quotes process that followed, there are a lot of questions. Should the party have a pop-up convention on the weekend of the 25th, which is the deadline to choose a nominee, should they have a statewide caucus, basically redo the primary election?\n\nAntjuan, what do you think they should do?\n\nSEAWRIGHT: I think we should follow the process.\n\nCORNISH: There is no process.\n\nSEAWRIGHT: Well, that's not true. There is a process in place to put a nominee into place. And I think that's what happened in 2024, regardless of how you -- how you -- whether you agree with how Kamala Harris became my party's nominee. I think we have to follow process.\n\nCORNISH: What is the process? I'm missing something.\n\nSEAWRIGHT: Maine has a process in place to replace a person on their ballot. I think it's like a party pick kind of situation.\n\nSEAWRIGHT: It's a party pick because there is a process in place. There are process in place all across the country for these emergency situations that happen.\n\nI think we need to follow that. That's number one.\n\nNumber two, I also don't want to give Republicans a slot here in this moment because they have just as corrupt candidates, from Paxton and others who are on the ballot, but they do not govern themselves the same way when it comes to their issues and Democratic issues. And I think there's a lesson for Democrats to learn in these moments.\n\nLook at Ken Paxton on July 4th. And now we're looking at Ken Paxton. I mean we're looking at our candidate in Maine. There's a lesson about how these things are covered and how we talk about them within the party.\n\nDOVERE: But the lesson for some Democrats was what was going on until Monday with Platner, which is to say all of those things that are supposed to be problems we're going to say aren't problems and we should go forward here. And that is part of how the Democrats got to this place.\n\nAnd it's a difference in how Democrats and Republicans operate for sure, whether it's Ken Paxton or Max Miller or there are a lot of -- or Donald Trump, there are a lot of people --\n\nSEAWRIGHT: That's right.\n\nDOVERE: Who are Republicans who have had a lot of accusations made against them that are pretty serious.\n\nSCHILLING: But again, the reason that Paxton's succeeding is because he has a compelling policy agenda. He won over the voters. He had 130 --\n\nSCHILLING: Antjuan, he had $130 million in party money spent against him, and he crushed it by -- won by double digits.\n\nSEAWRIGHT: Terry, Terry, Terry. Terry --\n\nSCHILLING: It's about -- it's about substance. It's about policy. It's about how you're going to protect people and make their lives better, period. SEAWRIGHT: Terry, Terry, respectfully, you're going to ignore the\n\nSCHILLING: There's no -- there's no rape allegations. There's no Nazi tattoos. There's no reckless (ph) --\n\nSEAWRIGHT: You -- no, no, you're going to -- you're going to ignore the moral conversation around Ken Paxton?\n\nSCHILLING: No, no. No, here's the moral --\n\nSEAWRIGHT: You're going to ignore the moral conversation around Max Miller beating his wife in front of his kids.\n\nSCHILLING: Here's the moral conversation. Here's the -- here's the moral conversation in a democracy.\n\nSEAWRIGHT: You can't -- you can't come to us and say that these things --\n\nSCHILLING: In a democracy voters get to decide.\n\nSEAWRIGHT: Somehow or another we should ignore those things because of somehow or another some right-wing policy issues --\n\nSCHILLING: In a democracy, voters get to choose their party leader (ph).\n\nCORNISH: All right, I'm going to bring it back to a female victim. I want to just repeat this before we go. This is Lyndsey Fifield, who is the accuser against Graham Platner, talking about violence and abuse. And she says something that I think we should remember going forward as we're trying to decide politically, as a political class, what matters in a man's history. And she says, \"the things that he does in private, in his relationships with women, the things that he has done to women, coercive, control, lying, deception, abuse, and really horrible things that we know about him,\" she says, \"we know that you cannot be that way in private and not have it translate into how you would govern.\"\n\nYou guys, stay with us. We're going to come back.\n\nRight now I want to show you live images from New York because they are actually trying to stabilize a high rise. Crews are working overnight to shore up the weakest parts of a building.\n\nSCOTT JENNINGS, CNN SENIOR POLITICAL COMMENTATOR: We talk for about 17 minutes. You know, he talked a lot about the situation with Iran. He talked a little bit about Ukraine and what's going on in Europe. I'd gotten a few text messages from him, but I hadn't spoken to him.\n\nSo, it was good to hear his voice. His voice sounded strong and sounded like he was keeping up with the news to me.\n\nCORNISH: OK, Senator Mitch McConnell has been hospitalized for three weeks. Still unclear why or when he'll be released. And yet some MAGA voices demanding, quote, \"proof of life.\" Here's an example. Laura Loomer posting, \"high level source close to the White House tells me, quote, 'Mitch McConnell is officially brain dead and he's not coming back'.\"\n\nAgain, that is Laura Loomer on X saying that.\n\nAnd then this is a former senior adviser for Kamala Harris' campaign, Mike Nellis.\n\nMIKE NELLIS, FORMER SENIOR ADVISER FOR KAMALA HARRIS' CAMPAIGN: If Scott Jennings and Thune and everybody else could have a 20 minute phone call with Mitch McConnell, he should be able to shoot a 60 second proof of life video to show us that he's OK.\n\nI think they know the deadline for a special election is August 3rd. If he's dead or if he's on a ventilator, if he's not able to do his job, he should resign right now. They should have a special election.\n\nCORNISH: So, you have a lot of Senate Republicans coming out. We're going to just show some on screen, Isaac, all saying, I talked to him, I talked to him, I talked to him for 20 minutes, I talked to him for 45 minutes.\n\nWe heard -- we're hearing these pundits talk not just about his potential health, but what they think the issue is, a special election deadline.\n\nDOVERE: Yes. Look, Audie, if you were -- hadn't been on air for three weeks and there was no answers where you had gone, probably CNN would be interested to know what was going on with you.\n\nCORNISH: Yes, although Reddit would say thank you.\n\nDOVERE: Same thing with -- sure. Maybe.\n\nDOVERE: I think the same would be true of me probably for you guys, too.\n\nDOVERE: Mitch McConnell is entitled to private information about his health, but he is a public official. He is the taxpayers of Kentucky and of the federal government -- and of the country, because he's a federal employee, are entitled to know what's going on.\n\nSEAWRIGHT: Isaac, this is the second Republican who we've had these medical mishaps, if you will, missing in action. And I just think that from the party who claims transparency and accountability, we should just know more when these situations pop up. We had a member of Congress who was missing in action for months.\n\nSEAWRIGHT: And we didn't hear anything. And we later learned depression. Now we have Senator McConnell. If this were Democrats, Republicans would be wetting their diapers about accountability and responsibility.\n\nDOVERE: If these are -- if these are important jobs, as they are --\n\nSCHILLING: Well, it's just interesting because I am old enough to remember the Biden years where we had our secretary of defense absolutely AWOL, went out for a surgery for, I think, three weeks. We had the president of the United States obviously suffering from some type of a mental affliction and suffering, dementia (ph).\n\nSEAWRIGHT: OK, do you have medical proof of that?\n\nSCHILLING: Well, I saw it on TV. I saw it would my own eyes.\n\nCORNISH: Well, hold on. Let me get -- let me bring you one other thing.\n\nSCHILLING: But we were gaslit and told that he was at the top of his game.\n\nCORNISH: We're going to give the last word to Lloyd Austin, who you just mentioned.\n\nSCHILLING: Here we go.\n\nCORNISH: Because back in 2024, he answered questions about this. And this is a great way to end the show. Here is the lesson he took away from being private about your health and not telling the public.\n\nLLOYD AUSTIN, FORMER BIDEN SECRETARY OF DEFENSE: I don't think it's news that I'm a pretty private guy. I never liked burdening others with my problems. It's just not my way.\n\nBut I've learned from this experience. Taking this kind of job means losing some of the privacy that most of us expect. The American people have a right to know if their leaders are facing health challenges that might affect their ability to perform their duties, even temporarily.\n\nCORNISH: And later on, testified before Congress that there would be changes made to notify the chain of command, as well as the public. There is a way for Congress and lawmakers to deal with this. They have not chosen to.\n\nI want to thank you guys for being here. I want to thank you for waking up with me. I'm Audie Cornish, and the headlines are next."
+    }
+  ]
+}
