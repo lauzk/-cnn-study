@@ -1,0 +1,419 @@
+{
+  "date": "2026-07-09",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-09/segment/03",
+  "vocabulary": [
+    {
+      "word": "ceasefire",
+      "phonetic": "/ˈsiːsfaɪər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "停火",
+      "en": "a temporary stopping of fighting",
+      "excerpt": "U.S., Iran Trade Strikes: Is the Ceasefire Over?",
+      "example_cn": "双方同意停火。"
+    },
+    {
+      "word": "allegation",
+      "phonetic": "/ˌæləˈɡeɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "指控",
+      "en": "a statement that someone has done something wrong or illegal",
+      "excerpt": "Graham Platner Suspends Maine Senate Campaign in Response to Allegations.",
+      "example_cn": "他否认了所有指控。"
+    },
+    {
+      "word": "infrastructure",
+      "phonetic": "/ˈɪnfrəstrʌktʃər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "基础设施",
+      "en": "the basic systems and services that a country or organization uses",
+      "excerpt": "Those who provided their territories, military bases, and infrastructure to enable the aggression cannot evade responsibility.",
+      "example_cn": "政府投资于基础设施建设。"
+    },
+    {
+      "word": "unprovoked",
+      "phonetic": "/ʌnprəˈvoʊkt/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "无端的",
+      "en": "not caused by anything that someone has done",
+      "excerpt": "an unprovoked aggression and its grave consequences.",
+      "example_cn": "这是一次无端的攻击。"
+    },
+    {
+      "word": "escalate",
+      "phonetic": "/ˈeskəleɪt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "升级",
+      "en": "to become greater or more serious",
+      "excerpt": "if things escalate further, the U.S. is going to go after infrastructure that is not only military in nature, but also civilian in use.",
+      "example_cn": "冲突可能升级为全面战争。"
+    },
+    {
+      "word": "disentangle",
+      "phonetic": "/ˌdɪsɪnˈtæŋɡl/",
+      "pos": "v.",
+      "level": "专八",
+      "cn": "分清",
+      "en": "to separate something from something else that is closely connected",
+      "excerpt": "it is really hard to disentangle what is a U.S. military facility from Gulf territory.",
+      "example_cn": "很难分清事实与虚构。"
+    },
+    {
+      "word": "leverage",
+      "phonetic": "/ˈlevərɪdʒ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "影响力",
+      "en": "the power to influence people or get results",
+      "excerpt": "Is this about control of the strait and therefore leverage?",
+      "example_cn": "他们利用自己的地位作为谈判筹码。"
+    },
+    {
+      "word": "skirmish",
+      "phonetic": "/ˈskɜːrmɪʃ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "小规模冲突",
+      "en": "a short fight between small groups of soldiers",
+      "excerpt": "you're going to continue to see these kinds of tit-for-tat strikes, these -- this kind of skirmishing.",
+      "example_cn": "双方发生了小规模冲突。"
+    },
+    {
+      "word": "tentative",
+      "phonetic": "/ˈtentətɪv/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "暂时的",
+      "en": "not definite or certain",
+      "excerpt": "you've always looked at this as being very tentative.",
+      "example_cn": "我们达成了初步协议。"
+    },
+    {
+      "word": "exodus",
+      "phonetic": "/ˈeksədəs/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "大批离去",
+      "en": "a situation in which many people leave a place at the same time",
+      "excerpt": "a mass exodus of endorsements and contributions to the campaign.",
+      "example_cn": "该地区出现了大规模的人口外流。"
+    },
+    {
+      "word": "vetting",
+      "phonetic": "/ˈvetɪŋ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "审查",
+      "en": "the process of examining someone or something carefully",
+      "excerpt": "Did the vetting process turn up the tattoo that became so controversial?",
+      "example_cn": "候选人需要经过严格审查。"
+    },
+    {
+      "word": "malignant",
+      "phonetic": "/məˈlɪɡnənt/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "恶意的",
+      "en": "having a strong desire to harm someone",
+      "excerpt": "just because something's bad doesn't mean it's malignant.",
+      "example_cn": "他怀有恶意。"
+    },
+    {
+      "word": "womanizing",
+      "phonetic": "/ˈwʊmənaɪzɪŋ/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "好色的",
+      "en": "having many sexual relationships with women",
+      "excerpt": "When you've got a womanizing Nazi, what could go wrong?",
+      "example_cn": "他以好色闻名。"
+    },
+    {
+      "word": "specter",
+      "phonetic": "/ˈspektər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "幽灵",
+      "en": "something that is frightening or unpleasant",
+      "excerpt": "there's this fear that Graham Platner may sort of remain as a specter for the remaining candidates.",
+      "example_cn": "战争的幽灵依然存在。"
+    },
+    {
+      "word": "taint",
+      "phonetic": "/teɪnt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "玷污",
+      "en": "to spoil something by adding an undesirable element",
+      "excerpt": "will the remaining candidates be tainted by association with him?",
+      "example_cn": "丑闻玷污了他的名声。"
+    },
+    {
+      "word": "whataboutism",
+      "phonetic": "/ˈwɒtəbaʊtɪzəm/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "转移话题",
+      "en": "the practice of responding to an accusation by making a similar accusation against the accuser",
+      "excerpt": "it is a whataboutism waterfall of which men in which party are the ones that should be disqualified?",
+      "example_cn": "他使用了转移话题的伎俩。"
+    },
+    {
+      "word": "vivisection",
+      "phonetic": "/ˌvɪvɪˈsekʃn/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "活体解剖",
+      "en": "the act of cutting open a living animal for scientific examination",
+      "excerpt": "Like all Democratic political autopsies, this one is a vivisection.",
+      "example_cn": "这场辩论是对政策的活体解剖。"
+    },
+    {
+      "word": "autopsy",
+      "phonetic": "/ˈɔːtɒpsi/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "尸检",
+      "en": "a medical examination of a dead body to find the cause of death",
+      "excerpt": "Like all Democratic political autopsies, this one is a vivisection.",
+      "example_cn": "医生进行了尸检。"
+    },
+    {
+      "word": "disqualify",
+      "phonetic": "/dɪsˈkwɒlɪfaɪ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "取消资格",
+      "en": "to prevent someone from taking part in something",
+      "excerpt": "which men in which party are the ones that should be disqualified?",
+      "example_cn": "他的年龄使他失去了参赛资格。"
+    },
+    {
+      "word": "parasitic",
+      "phonetic": "/ˌpærəˈsɪtɪk/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "寄生的",
+      "en": "living on or inside another organism and getting food from it",
+      "excerpt": "Nearly 1,000 people diagnosed in the largest parasitic outbreak in Michigan history.",
+      "example_cn": "这是一种寄生虫感染。"
+    },
+    {
+      "word": "antitrust",
+      "phonetic": "/ˌæntiˈtrʌst/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "反垄断的",
+      "en": "relating to laws that prevent unfair business practices",
+      "excerpt": "lawyers for several states now finalizing an antitrust lawsuit challenging Paramount's pending acquisition of Warner Bros. Discovery.",
+      "example_cn": "该公司面临反垄断调查。"
+    },
+    {
+      "word": "acquisition",
+      "phonetic": "/ˌækwɪˈzɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "收购",
+      "en": "the act of buying a company",
+      "excerpt": "challenging Paramount's pending acquisition of Warner Bros. Discovery.",
+      "example_cn": "该公司收购了一家初创企业。"
+    },
+    {
+      "word": "clearance",
+      "phonetic": "/ˈklɪərəns/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "批准",
+      "en": "official permission for something to happen",
+      "excerpt": "The Justice Department cleared the deal last month, but federal clearance does not prevent states from bringing their own claims.",
+      "example_cn": "该项目已获得政府批准。"
+    },
+    {
+      "word": "hospitalization",
+      "phonetic": "/ˌhɒspɪtəlaɪˈzeɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "住院",
+      "en": "the act of being admitted to a hospital for treatment",
+      "excerpt": "Have you spoken with Senator Mitch McConnell since his hospitalization?",
+      "example_cn": "他住院了。"
+    },
+    {
+      "word": "parody",
+      "phonetic": "/ˈpærədi/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "模仿",
+      "en": "a humorous imitation of a serious piece of writing or speech",
+      "excerpt": "One of them was mistakenly taken from a parody account on Twitter.",
+      "example_cn": "这是一个对流行歌曲的模仿。"
+    },
+    {
+      "word": "funeral",
+      "phonetic": "/ˈfjuːnərəl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "葬礼",
+      "en": "a ceremony for burying or cremating a dead person",
+      "excerpt": "Iran concludes funeral honors for the late supreme leader.",
+      "example_cn": "葬礼将于明天举行。"
+    },
+    {
+      "word": "supreme leader",
+      "phonetic": "/suːˈpriːm ˈliːdər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "最高领袖",
+      "en": "the highest-ranking political leader in some countries",
+      "excerpt": "Iran concludes funeral honors for the late supreme leader.",
+      "example_cn": "最高领袖发表了讲话。"
+    },
+    {
+      "word": "crossroads",
+      "phonetic": "/ˈkrɒsrəʊdz/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "十字路口",
+      "en": "a point at which an important decision must be made",
+      "excerpt": "Rahm Emanuel saying Democrats are at a crossroads.",
+      "example_cn": "该国正处于十字路口。"
+    },
+    {
+      "word": "divisive",
+      "phonetic": "/dɪˈvaɪsɪv/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "分裂的",
+      "en": "causing disagreement between people",
+      "excerpt": "Is the party's divide over Israel getting deeper?",
+      "example_cn": "这是一个分裂性问题。"
+    },
+    {
+      "word": "lay to rest",
+      "phonetic": "/leɪ tuː rest/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "安葬",
+      "en": "to bury a dead person",
+      "excerpt": "That is where he will be laid to rest.",
+      "example_cn": "他被安葬在家族墓地。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Those who provided their territories, military bases, and infrastructure to enable the aggression cannot evade responsibility for their contribution to an unprovoked aggression and its grave consequences.",
+      "cn": "那些提供领土、军事基地和基础设施以促成侵略行为的人，无法逃避他们对无端侵略及其严重后果所应承担的责任。",
+      "structure": "主句：Those...cannot evade responsibility；定语从句：who provided...；介词短语：for their contribution...",
+      "analysis": "这是一个复合句，主句主语为Those，后接who引导的定语从句修饰Those，谓语为cannot evade，宾语为responsibility，后接for引导的介词短语说明责任的内容。"
+    },
+    {
+      "en": "And to me, that's a signal that the U.S. is trying to send to Iran to tell them that, if these strikes continue, and if things escalate further, the U.S. is going to go after infrastructure that is not only military in nature, but also civilian in use.",
+      "cn": "对我来说，这是一个信号，表明美国试图向伊朗传达：如果这些打击继续下去，如果局势进一步升级，美国将打击那些不仅具有军事性质，而且用于民用目的的基础设施。",
+      "structure": "主句：that's a signal；同位语从句：that the U.S. is trying to send...；不定式短语：to tell them that...；条件状语从句：if these strikes continue...；定语从句：that is not only...",
+      "analysis": "这是一个多重复合句，主句为that's a signal，后接同位语从句解释signal的内容，同位语从句中包含不定式短语作目的状语，不定式短语中又包含that引导的宾语从句，宾语从句中包含两个if引导的条件状语从句和一个定语从句修饰infrastructure。"
+    },
+    {
+      "en": "And I think that's very much what we're seeing here.",
+      "cn": "我认为这正是我们在这里所看到的。",
+      "structure": "主句：I think；宾语从句：that's very much what we're seeing here；表语从句：what we're seeing here",
+      "analysis": "这是一个复合句，主句为I think，后接that引导的宾语从句，宾语从句中又包含what引导的表语从句。"
+    },
+    {
+      "en": "And for now, I don't think either side wants to return to high-intensity conflict, which is why you're going to continue to see these kinds of tit-for-tat strikes, these -- this kind of skirmishing, which, frankly, has become a feature of the conflict rather than a bug.",
+      "cn": "就目前而言，我认为双方都不希望回到高强度冲突，这就是为什么你会继续看到这种针锋相对的打击，这种小规模冲突，坦率地说，已经成为冲突的一个特征，而不是一个缺陷。",
+      "structure": "主句：I don't think；宾语从句：either side wants to return...；非限制性定语从句：which is why...；非限制性定语从句：which...has become...",
+      "analysis": "这是一个复合句，主句为I don't think，后接宾语从句，宾语从句后接which引导的非限制性定语从句，修饰整个宾语从句，该定语从句中又包含why引导的表语从句，表语从句中又包含which引导的非限制性定语从句修饰skirmishing。"
+    },
+    {
+      "en": "But that doesn't mean that there aren't risks for escalation.",
+      "cn": "但这并不意味着没有升级的风险。",
+      "structure": "主句：that doesn't mean；宾语从句：that there aren't risks...",
+      "analysis": "这是一个复合句，主句主语为that，谓语为doesn't mean，后接that引导的宾语从句，宾语从句为there be句型的否定形式。"
+    },
+    {
+      "en": "And I also feel an immense amount of responsibility to everyone who has worked so hard to get us to where we are.",
+      "cn": "我也对每一个努力工作让我们走到今天的人感到巨大的责任。",
+      "structure": "主句：I feel responsibility；定语从句：who has worked...；宾语从句：where we are",
+      "analysis": "这是一个复合句，主句为I feel an immense amount of responsibility，后接to everyone，everyone后接who引导的定语从句，定语从句中包含where引导的宾语从句作to的宾语。"
+    },
+    {
+      "en": "And the fact that the Democratic Party stood with him after the first allegations, and the men of the Democratic Party stood with him is disgusting.",
+      "cn": "民主党在第一次指控后仍然支持他，而且民主党的男性支持他，这一事实令人作呕。",
+      "structure": "主语：the fact；同位语从句：that the Democratic Party stood...；并列谓语：and the men...stood；系表结构：is disgusting",
+      "analysis": "这是一个复合句，主语为the fact，后接that引导的同位语从句说明fact的内容，同位语从句中包含两个并列的谓语stood，主句谓语为is，表语为disgusting。"
+    },
+    {
+      "en": "And there's this question of will the remaining candidates be tainted by association with him?",
+      "cn": "还有一个问题：剩下的候选人是否会因为与他有关联而受到玷污？",
+      "structure": "主句：there's this question；介词短语：of will...；宾语从句：will the remaining candidates be tainted...",
+      "analysis": "这是一个复合句，主句为there be句型，后接of介词短语，of后接一个疑问句形式的宾语从句。"
+    },
+    {
+      "en": "And I feel like he owes us all an apology for forcing a candidate like that into the system, who obviously backfired.",
+      "cn": "我觉得他欠我们所有人一个道歉，因为他把这样一个候选人强行纳入体系，而这个人显然适得其反。",
+      "structure": "主句：I feel；宾语从句：he owes us an apology；介词短语：for forcing...；定语从句：who obviously backfired",
+      "analysis": "这是一个复合句，主句为I feel，后接like引导的宾语从句（口语化用法），宾语从句中谓语为owes，后接for引导的介词短语说明原因，介词短语中forcing的宾语candidate后接who引导的定语从句。"
+    },
+    {
+      "en": "And I think that's very much what we're seeing here.",
+      "cn": "我认为这正是我们在这里所看到的。",
+      "structure": "主句：I think；宾语从句：that's very much what we're seeing here；表语从句：what we're seeing here",
+      "analysis": "这是一个复合句，主句为I think，后接that引导的宾语从句，宾语从句中又包含what引导的表语从句。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "美伊冲突与停火前景",
+      "content": "美国与伊朗之间互相打击军事目标，美国打击了伊朗90多个目标，伊朗声称打击了美国在科威特和巴林的军事基地。伊朗外交部发言人警告海湾盟友和北约领导人，称提供领土和基础设施支持侵略者的人不能逃避责任。分析人士认为，双方都不希望回到全面战争，但低烈度冲突可能成为新常态。",
+      "keywords": "美伊冲突, 停火, 军事打击, 霍尔木兹海峡, 低烈度冲突"
+    },
+    {
+      "title": "格雷厄姆·普拉特纳退出缅因州参议员竞选",
+      "content": "民主党候选人格雷厄姆·普拉特纳因性行为不端指控而暂停竞选活动，导致大量背书和捐款流失。他的竞选团队缺乏审查，被批评为“虚假候选人”。民主党内部对此反应不一，有人指责伯尼·桑德斯推动该候选人进入体系。",
+      "keywords": "格雷厄姆·普拉特纳, 缅因州参议员, 性行为不端, 竞选审查, 民主党"
+    },
+    {
+      "title": "美国政治中的“转移话题”现象",
+      "content": "在讨论普拉特纳丑闻时，主持人指出存在“转移话题”现象，即用对方党派的问题来回避自身问题。例如，提及特朗普的性侵案来转移对普拉特纳的批评。",
+      "keywords": "转移话题, 政治辩论, 党派之争, 双重标准"
+    },
+    {
+      "title": "密歇根州寄生虫爆发",
+      "content": "密歇根州爆发了该州历史上最大规模的寄生虫感染，近1000人确诊，导致数周的水样腹泻。其他28个州也有类似疫情报告，感染源难以确定，但通常通过受污染的食物传播。",
+      "keywords": "寄生虫爆发, 密歇根州, 腹泻, 食品安全"
+    },
+    {
+      "title": "派拉蒙收购华纳兄弟探索的反垄断诉讼",
+      "content": "多个州的律师正在敲定一项反垄断诉讼，挑战派拉蒙对华纳兄弟探索的收购。诉讼称该交易将损害娱乐和新闻行业的竞争。派拉蒙回应称将继续与监管机构建设性接触。",
+      "keywords": "反垄断, 派拉蒙, 华纳兄弟探索, 收购, 竞争"
+    },
+    {
+      "title": "特朗普机场命名",
+      "content": "佛罗里达州棕榈滩国际机场正式更名为“唐纳德·J·特朗普总统国际机场”，机场代码将改为“DJT”。有两起诉讼试图阻止这一更名。",
+      "keywords": "特朗普, 机场命名, 棕榈滩, 诉讼"
+    },
+    {
+      "title": "米奇·麦康奈尔的健康状况",
+      "content": "84岁的参议员米奇·麦康奈尔已住院三周，原因不明。特朗普表示不知道他的情况。肯塔基州州长安迪·贝希尔要求麦康奈尔披露更多信息。",
+      "keywords": "米奇·麦康奈尔, 住院, 健康状况, 特朗普"
+    },
+    {
+      "title": "伊朗前最高领袖葬礼",
+      "content": "伊朗为前最高领袖阿里·哈梅内伊举行马拉松式葬礼，遗体将被安葬在他的出生地东北部城市。",
+      "keywords": "伊朗, 最高领袖, 葬礼, 哈梅内伊"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nU.S., Iran Trade Strikes: Is the Ceasefire Over?; Graham Platner Suspends Maine Senate Campaign in Response to Allegations. Aired 6-6:30a ET\n\nAired July 09, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nAUDIE CORNISH, CNN ANCHOR: The U.S. military hit more than 90 military targets last night. President Trump posted these videos on Truth Social, showing some of the attacks.\n\nAnd Iran's military is hitting back, claiming to have targeted U.S. Military bases in Kuwait and Bahrain.\n\nThe spokesperson for Iran's foreign minister sent a warning to Gulf allies and NATO leaders, writing on X, quote, \"Those who provided their territories, military bases, and infrastructure to enable the aggression cannot evade responsibility for their contribution to an unprovoked aggression and its grave consequences.\"\n\nTo unpack some of this, we have Becca Wasser, defense lead at Bloomberg Economics.\n\nBecca, thanks so much for being here.\n\nSo, first, I want to talk about who's aiming at what. What do you see in what the U.S. is targeting in terms of this kind of ceasefire falling apart?\n\nBECCA WASSER, DEFENSE LEAD, BLOOMBERG ECONOMICS: Well, in the past two days, the United States has struck over 170 targets in Iran. Most of these have been along the Iranian coastline. It's been military sites, capabilities, and infrastructure needed to launch some of the attacks that we've seen Iran carry out against commercial shipping.\n\nBut I will say, in those 90 strikes last night, we did see a slight shift in the target set. And here we did see an expansion of the geography that the U.S. was hitting, as well as the U.S. striking two railway bridges.\n\nAnd to me, that's a signal that the U.S. is trying to send to Iran to tell them that, if these strikes continue, and if things escalate further, the U.S. is going to go after infrastructure that is not only military in nature, but also civilian in use. And that puts us on a very different plane.\n\nAnd then, you also have Iran continuing to strike at U.S. bases in the Gulf, particularly in Bahrain, Kuwait, and also now Qatar. But in many cases, these bases are co-located in populations and other civilian areas. So, it is really hard to disentangle what is a U.S. military facility from Gulf territory.\n\nCORNISH: The Institute for the Study of War put out a new analysis yesterday, where their takeaway is that Iran is willing to return to a large-scale conflict with the U.S., if necessary, to secure its control over the Strait of Hormuz.\n\nI want to ask you about that, because prior to this breakdown, we were still seeing attacks and little strikes on ships, nudging ships in the direction that they want them to go.\n\nIs this about control of the strait and therefore leverage?\n\nWASSER: I think, for both Iran and the U.S., it's about control over the strait.\n\nI think, you know, that assessment is right. I believe Iran is willing to potentially go back to full-scale war, if control over the strait is in such dire question.\n\nBut that's not necessarily their preference. And they think that they can achieve what they need to without having to revert to that.\n\nAt the same time, the United States wants to ensure that there's the free flow of traffic through the Strait of Hormuz, specifically commercial traffic carrying oil and energy. That does not mean that the U.S. wants to go back to war either.\n\nAnd both sides are really trying to use this to shape not only the negotiations, but also the outcomes of what it means for the strait to be open. And I think that's very much what we're seeing here.\n\nAnd for now, I don't think either side wants to return to high- intensity conflict, which is why you're going to continue to see these kinds of tit-for-tat strikes, these -- this kind of skirmishing, which, frankly, has become a feature of the conflict rather than a bug.\n\nCORNISH: Yes. You're the one who told me, I think, when you were sitting here, that this was more fire than cease. So, you've always looked at this as being very tentative.\n\nBut are you implying that this could be basically the new normal, this low-level skirmishing, rather than full-scale war or this thing ever coming to an end?\n\nWASSER: This is the new normal. This is no war, but no peace either. And that's where we've been. And I think that's where we're going to continue to be.\n\nThat doesn't mean that there aren't risks for escalation. That doesn't mean that there's not going to be some of these close calls.\n\nBut right now, both sides, despite being frustrated with the other, are committed to not returning to full-scale conflict because, frankly, there is not much that either can achieve that they couldn't have gotten from those 39 days of fighting. So, if the U.S., for example, were to go back to all of its high-\n\nintensity airstrikes against Iran, they're not going to get much from that.\n\nCORNISH: Do you want another question, or are we done?\n\nAnd we were -- Becca, I want you to stick around. Thank you so much for talking with us, because we are going to talk about the diplomatic part of it. But so much of this military aspect is driving the conversation. So, thank you for your time.\n\nAnd coming up on CNN THIS MORNING, we're going to talk about the president's about-face on Iran. You've got folks at home, people like Joe Rogan fanning the flames of the MAGA rift over this war.\n\nPlus, what President Trump says about Mitch McConnell's health as everyone looks for answers.\n\nAnd Graham Platner drops out of the Maine Senate race finally, but not without a parting shot.\n\nGRAHAM PLATNER (D), FORMER MAINE SENATORIAL CANDIDATE: A corporate media system and the political establishment got to act as judge, jury, and executioner.\n\nCORNISH: We've got more breaking news this morning. Democrats in Maine scrambling to find a new candidate for the Senate race there as Graham Platner drops out.\n\nThe collapse of his campaign comes after allegations of sexual misconduct from several women, which caused a mass exodus of endorsements and contributions to the campaign.\n\nPLATNER: We are suspending campaign operations. This is incredibly difficult, because I know that some will think it's an admission of guilt, and it most certainly is not. We're not doing it because of the allegations. We're doing it because of the structures that are being taken away from us by those in power.\n\nAnd I also feel an immense amount of responsibility to everyone who has worked so hard to get us to where we are.\n\nCORNISH: So, what happens now?\n\nJoining me in the group chat, Anna Kramer, reporter at \"NOTUS\"; Joel Rubin, former deputy assistant secretary of state in the Obama administration; Mike Dubke, former Trump White House communications director; and Meghan Hays, former Biden White House director of message planning.\n\nSo, first, I want to talk about just the dropping out. To begin with, this is not a campaign that had a lot of high-roller donors behind it. It had more small contributions. Is that correct, Anna?\n\nANNA KRAMER, REPORTER, \"NOTUS\": Yes, it is. And the reality is that now the folks who had endorsed Graham Platner, once they started pulling them, there's a lot of concerns, I think, that he just wasn't going to have the funding to keep going. It's not clear whether he actually wanted to drop out.\n\nCORNISH: Which they raised themselves, I think, like a week and a half ago. They were like, gee, we really could use more money. And everyone was like, but is another shoe going to drop?\n\nKRAMER: Exactly. And then the other shoe seems to have dropped, and the infrastructure sort of collapsed out from under him. So, now we have a problem where he doesn't have a choice but to drop out, regardless of whether that's what he wanted to do.\n\nCORNISH: Like all Democratic political autopsies, this one is a vivisection. People are now looking at the strategists. Who brought this guy into Maine? Who recruited him?\n\n\"The Wall Street Journal\" did an interview with some of the folks behind that back in June. I just want to play a sample for you. This is reporter Aaron Zitner, asking about the vetting process, which we all have questions about now.\n\nAARON ZITNER, WSJ REPORTER: Did the vetting process turn up the tattoo that became so controversial?\n\nDANIEL MORAFF, SENIOR STRATEGIST, PLATNER CAMPAIGN: No.\n\nZITNER: The Reddit posts, did that turn up in the vetting process?\n\nMORAFF: The firm sent us a thing, and it had some of the posts.\n\nUNIDENTIFIED FEMALE: Yes.\n\nMORAFF: I said, none of this will, or should, stop him from becoming a U.S. senator.\n\nCORNISH: Sounds like there's a lot more here than the tattoo, right? Which also was revealed by an ex-girlfriend.\n\nI saw you scribbling up a storm, Joel. So, what are your thoughts here?\n\nJOEL RUBIN, FORMER DEPUTY ASSISTANT OF STATE IN OBAMA ADMINISTRATION: I can't help it. Look, Audie, this is a fake candidacy. This was a fake candidate. There was no vetting process done. But that's because they did it as a pageant.\n\nThey brought in people to try to figure out who they could put in as their candidate, to carry a message. And so, what Daniel Moraff is pointing out there is, no, we didn't do vetting, because he wanted political vetting. He didn't care about the actual person himself.\n\nCORNISH: I know. But just sometimes because something's bad doesn't mean it's malignant. I mean, is this just a bad campaign in the sense that it's not done well, not a malicious one.\n\nMIKE DUBKE, FORMER TRUMP WHITE HOUSE COMMUNICATIONS DIRECTOR: I am sorry. When you've got a womanizing Nazi, what could go wrong?\n\nMEGHAN HAYS, FORMER BIDEN WHITE HOUSE DIRECTOR OF MESSAGE PLANNING: I mean --\n\nDUBKE: Right? That's the original question here. And he proved it in his own text and ink on his body.\n\nSo, there is a -- there's a lot of questions to be looked at here.\n\nI'm actually more interested -- and this is where I'd ask the reporters this question -- knowing that the date of July 13th was coming up, how many Democrats were leaking to reporters all the other things that they had found when they finally vetted the guy?\n\nDUBKE: Because I think there was a desperation by the Democratic Party to get this guy out. To me, that's the story. That's the --\n\nDUBKE: I was going to say \"fun part.\" I don't mean that in a bad way. But that is the -- that is the more interesting.\n\nCORNISH: But leaks sort of -- it's not a leak. It's just, like, the faucet.\n\nHAYS: Yes. There was a lot of rumors swirling around that the Republicans were going to drop something after this.\n\nHAYS: Yes, the July 13th date, so you couldn't replace them. But the fact of the matter is, is these are the same consultants that are bringing you Abdul El-Sayed in Michigan. They're the same people who are bringing you other candidates that are not vetted, because they think that, if you are online and you are popular online, that you are going to win people. And it is disgusting and gross. This person was bad from the\n\nbeginning. I have said it for months. He has no business being in the Senate. He has no business being on a campaign.\n\nAnd the fact that the Democratic Party stood with him after the first allegations, and the men of the Democratic Party stood with him is disgusting. And the women are the only ones that stood up.\n\nCORNISH: Can I add something here? Abdul El-Sayed is not facing any kind of allegation of sexual abuse.\n\nHAYS: And he's an unvetted, untested candidate.\n\nCORNISH: He's also a former public health worker.\n\nCORNISH: I just want to put that out.\n\nHAYS: Totally fine, but the same --\n\nCORNISH: I want to make sure that we are not taking a very serious allegation and smearing it across the entire slate. Because I think that is a question that has come up time and time again about Trump.\n\nAs we are talking today, a judge is trying to force the president to release payment that is due to her for a case that involved sexual abuse and then damages for defamation, saying she was lying about it.\n\nSo, this has been -- I'm watching all the cable shows, and it is a whataboutism waterfall of which men in which party are the ones that should be disqualified?\n\nKRAMER: One thing I'd like to note, too, is that with the campaign moving forward now, our reporters have been talking to folks about how there's this fear that Graham Platner may sort of remain as a specter for the remaining candidates.\n\nAnd there's this question of will the remaining candidates be tainted by association with him? Will whoever gets the nomination end up being someone who has to run away from his endorsement, even though he might want to endorse?\n\nCORNISH: The answer is yes.\n\nCORNISH: I mean Mike. Mike, I'll just help you out here. The answer from Mike Dubke is yes.\n\nHAYS: Did we not learn as children, two wrongs don't make a right? The Democrats don't -- didn't want to vote for Donald Trump because of all these allegations. They shouldn't have wanted to vote for a Democrat at the same token. RUBIN: Yes.\n\nHAYS: So, how can we have it both ways?\n\nRUBIN: I want to pick up on what Meghan is saying. Look, I think the whole ethical problem here for Democrats is that we've been spending years saying that we're not going to do what the Republicans did.\n\nRUBIN: We're not going to support a candidate who now is going to have to pay money to someone who he sexually abused.\n\nBut here we are, essentially, turning a blind eye to a candidate who -- and I've got to say, as a Jewish person, it really bothers me that the Nazi tattoo wasn't enough, that that wasn't somehow disqualifying.\n\nAnd Senator Sanders, who I worked for as his Jewish director in 2020, you know, he pushed this candidate into the system.\n\nRUBIN: This was not an endorsement.\n\nCORNISH: And has now helped push him out.\n\nRUBIN: This was a creation of Bernie Sanders. And I feel like he owes us all an apology for forcing a candidate like that into the system, who obviously backfired. And now it may blow up the chances to get that seat back, which is a highly winnable seat for Democrats.\n\nCORNISH: OK. And I --\n\nCORNISH: I hear you bringing the Sanders name and apology. You're the second person to say this on air to me, so --\n\nRUBIN: Yes, we need that. We need that.\n\nCORNISH: OK, you guys stay with me. Obviously, a lot to talk about.\n\nAfter the break on CNN THIS MORNING, there is an outbreak of a parasite in Michigan, a stomach illness making more than a thousand people sick.\n\nPlus, another landmark will bear the Trump name. What some Florida travelers are already noticing starting today.\n\nAnd in the meantime, a live look at the Vegas Strip.\n\nCORNISH: OK. It is now 21 minutes past the hour. Here are five things making news this morning.\n\nNearly 1,000 people diagnosed in the largest parasitic outbreak in Michigan history. It's an infection that causes weeks of watery diarrhea.\n\nSimilar outbreaks have been reported in 28 other states. The cause of the infection, frankly, it's hard to pin down, but the parasites usually spread through contaminated food.\n\nSources telling CNN that lawyers for several states now finalizing an antitrust lawsuit challenging Paramount's pending acquisition of Warner Bros. Discovery. The suit claims the deal would harm competition across the entertainment and news industries.\n\nA Paramount spokesperson responded, saying, quote, \"We continue to engage constructively with regulators, including state attorneys general, and are prepared to address any legitimate antitrust issues.\"\n\nThe Justice Department cleared the deal last month, but federal clearance does not prevent states from bringing their own claims.\n\nAnd, of course, Warner Bros. Discovery is a parent company of CNN.\n\nAnd President Trump officially has an airport named for him. As of this morning, the Palm Beach International Airport becomes the President Donald J. Trump International Airport. The new airport code of \"DJT\" will take effect next month.\n\nThere are two separate lawsuits hoping to stop the name change.\n\nAnd the White House announced a new network of gas stations that it says will offer lower prices. Twenty-five privately owned, quote, \"Freedom Fuel\" gas stations will be located in the Greater Philadelphia area and South New Jersey.\n\nThe one that opened on Wednesday initially sold gas for $3.47 per gallon, which a nod to Trump being the 47th president during his second term.\n\nThe price has already gone up at that location.\n\nAnd many are still asking this morning, how is Senator Mitch McConnell's health? But don't ask President Trump.\n\nUNIDENTIFIED FEMALE: Have you spoken with Senator Mitch McConnell since his hospitalization?\n\nTRUMP: No, I haven't.\n\nUNIDENTIFIED FEMALE: How's he doing?\n\nTRUMP: I have no idea. I have no idea how he's doing.\n\n(END VIDEO CLIP) CORNISH: The 84-year-old has been hospitalized for three weeks. It's unclear why he was admitted or what his condition is.\n\nKentucky Governor Andy Beshear is now asking the senator directly to disclose more about his condition, writing a letter saying that Kentuckians are concerned.\n\nAnd yesterday on the show, we displayed quotes from a Republican -- some Republicans, about Senator Mitch McConnell's stay in the hospital. One of them was mistakenly taken from a parody account on Twitter.\n\nNow, obviously, we should not have done that, and we regret the error.\n\nStraight ahead on CNN THIS MORNING, Iran concludes funeral honors for the late supreme leader just as strikes with the U.S. are ramping up. Is Tehran prepared for another wave of war?\n\nPlus, Rahm Emanuel saying Democrats are at a crossroads. Is the party's divide over Israel getting deeper?\n\nAnd the marathon funeral.\n\nCORNISH: The marathon funeral of Iran's former supreme leader nearing its end, with his burial happening today.\n\nNow the funeral procession has now moved to a city in Northeast Iran, the birthplace of Ali Khamenei. That is where he will be laid to rest.",
+  "segments": [
+    {
+      "seg": 3,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-09/segment/03",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nU.S., Iran Trade Strikes: Is the Ceasefire Over?; Graham Platner Suspends Maine Senate Campaign in Response to Allegations. Aired 6-6:30a ET\n\nAired July 09, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nAUDIE CORNISH, CNN ANCHOR: The U.S. military hit more than 90 military targets last night. President Trump posted these videos on Truth Social, showing some of the attacks.\n\nAnd Iran's military is hitting back, claiming to have targeted U.S. Military bases in Kuwait and Bahrain.\n\nThe spokesperson for Iran's foreign minister sent a warning to Gulf allies and NATO leaders, writing on X, quote, \"Those who provided their territories, military bases, and infrastructure to enable the aggression cannot evade responsibility for their contribution to an unprovoked aggression and its grave consequences.\"\n\nTo unpack some of this, we have Becca Wasser, defense lead at Bloomberg Economics.\n\nBecca, thanks so much for being here.\n\nSo, first, I want to talk about who's aiming at what. What do you see in what the U.S. is targeting in terms of this kind of ceasefire falling apart?\n\nBECCA WASSER, DEFENSE LEAD, BLOOMBERG ECONOMICS: Well, in the past two days, the United States has struck over 170 targets in Iran. Most of these have been along the Iranian coastline. It's been military sites, capabilities, and infrastructure needed to launch some of the attacks that we've seen Iran carry out against commercial shipping.\n\nBut I will say, in those 90 strikes last night, we did see a slight shift in the target set. And here we did see an expansion of the geography that the U.S. was hitting, as well as the U.S. striking two railway bridges.\n\nAnd to me, that's a signal that the U.S. is trying to send to Iran to tell them that, if these strikes continue, and if things escalate further, the U.S. is going to go after infrastructure that is not only military in nature, but also civilian in use. And that puts us on a very different plane.\n\nAnd then, you also have Iran continuing to strike at U.S. bases in the Gulf, particularly in Bahrain, Kuwait, and also now Qatar. But in many cases, these bases are co-located in populations and other civilian areas. So, it is really hard to disentangle what is a U.S. military facility from Gulf territory.\n\nCORNISH: The Institute for the Study of War put out a new analysis yesterday, where their takeaway is that Iran is willing to return to a large-scale conflict with the U.S., if necessary, to secure its control over the Strait of Hormuz.\n\nI want to ask you about that, because prior to this breakdown, we were still seeing attacks and little strikes on ships, nudging ships in the direction that they want them to go.\n\nIs this about control of the strait and therefore leverage?\n\nWASSER: I think, for both Iran and the U.S., it's about control over the strait.\n\nI think, you know, that assessment is right. I believe Iran is willing to potentially go back to full-scale war, if control over the strait is in such dire question.\n\nBut that's not necessarily their preference. And they think that they can achieve what they need to without having to revert to that.\n\nAt the same time, the United States wants to ensure that there's the free flow of traffic through the Strait of Hormuz, specifically commercial traffic carrying oil and energy. That does not mean that the U.S. wants to go back to war either.\n\nAnd both sides are really trying to use this to shape not only the negotiations, but also the outcomes of what it means for the strait to be open. And I think that's very much what we're seeing here.\n\nAnd for now, I don't think either side wants to return to high- intensity conflict, which is why you're going to continue to see these kinds of tit-for-tat strikes, these -- this kind of skirmishing, which, frankly, has become a feature of the conflict rather than a bug.\n\nCORNISH: Yes. You're the one who told me, I think, when you were sitting here, that this was more fire than cease. So, you've always looked at this as being very tentative.\n\nBut are you implying that this could be basically the new normal, this low-level skirmishing, rather than full-scale war or this thing ever coming to an end?\n\nWASSER: This is the new normal. This is no war, but no peace either. And that's where we've been. And I think that's where we're going to continue to be.\n\nThat doesn't mean that there aren't risks for escalation. That doesn't mean that there's not going to be some of these close calls.\n\nBut right now, both sides, despite being frustrated with the other, are committed to not returning to full-scale conflict because, frankly, there is not much that either can achieve that they couldn't have gotten from those 39 days of fighting. So, if the U.S., for example, were to go back to all of its high-\n\nintensity airstrikes against Iran, they're not going to get much from that.\n\nCORNISH: Do you want another question, or are we done?\n\nAnd we were -- Becca, I want you to stick around. Thank you so much for talking with us, because we are going to talk about the diplomatic part of it. But so much of this military aspect is driving the conversation. So, thank you for your time.\n\nAnd coming up on CNN THIS MORNING, we're going to talk about the president's about-face on Iran. You've got folks at home, people like Joe Rogan fanning the flames of the MAGA rift over this war.\n\nPlus, what President Trump says about Mitch McConnell's health as everyone looks for answers.\n\nAnd Graham Platner drops out of the Maine Senate race finally, but not without a parting shot.\n\nGRAHAM PLATNER (D), FORMER MAINE SENATORIAL CANDIDATE: A corporate media system and the political establishment got to act as judge, jury, and executioner.\n\nCORNISH: We've got more breaking news this morning. Democrats in Maine scrambling to find a new candidate for the Senate race there as Graham Platner drops out.\n\nThe collapse of his campaign comes after allegations of sexual misconduct from several women, which caused a mass exodus of endorsements and contributions to the campaign.\n\nPLATNER: We are suspending campaign operations. This is incredibly difficult, because I know that some will think it's an admission of guilt, and it most certainly is not. We're not doing it because of the allegations. We're doing it because of the structures that are being taken away from us by those in power.\n\nAnd I also feel an immense amount of responsibility to everyone who has worked so hard to get us to where we are.\n\nCORNISH: So, what happens now?\n\nJoining me in the group chat, Anna Kramer, reporter at \"NOTUS\"; Joel Rubin, former deputy assistant secretary of state in the Obama administration; Mike Dubke, former Trump White House communications director; and Meghan Hays, former Biden White House director of message planning.\n\nSo, first, I want to talk about just the dropping out. To begin with, this is not a campaign that had a lot of high-roller donors behind it. It had more small contributions. Is that correct, Anna?\n\nANNA KRAMER, REPORTER, \"NOTUS\": Yes, it is. And the reality is that now the folks who had endorsed Graham Platner, once they started pulling them, there's a lot of concerns, I think, that he just wasn't going to have the funding to keep going. It's not clear whether he actually wanted to drop out.\n\nCORNISH: Which they raised themselves, I think, like a week and a half ago. They were like, gee, we really could use more money. And everyone was like, but is another shoe going to drop?\n\nKRAMER: Exactly. And then the other shoe seems to have dropped, and the infrastructure sort of collapsed out from under him. So, now we have a problem where he doesn't have a choice but to drop out, regardless of whether that's what he wanted to do.\n\nCORNISH: Like all Democratic political autopsies, this one is a vivisection. People are now looking at the strategists. Who brought this guy into Maine? Who recruited him?\n\n\"The Wall Street Journal\" did an interview with some of the folks behind that back in June. I just want to play a sample for you. This is reporter Aaron Zitner, asking about the vetting process, which we all have questions about now.\n\nAARON ZITNER, WSJ REPORTER: Did the vetting process turn up the tattoo that became so controversial?\n\nDANIEL MORAFF, SENIOR STRATEGIST, PLATNER CAMPAIGN: No.\n\nZITNER: The Reddit posts, did that turn up in the vetting process?\n\nMORAFF: The firm sent us a thing, and it had some of the posts.\n\nUNIDENTIFIED FEMALE: Yes.\n\nMORAFF: I said, none of this will, or should, stop him from becoming a U.S. senator.\n\nCORNISH: Sounds like there's a lot more here than the tattoo, right? Which also was revealed by an ex-girlfriend.\n\nI saw you scribbling up a storm, Joel. So, what are your thoughts here?\n\nJOEL RUBIN, FORMER DEPUTY ASSISTANT OF STATE IN OBAMA ADMINISTRATION: I can't help it. Look, Audie, this is a fake candidacy. This was a fake candidate. There was no vetting process done. But that's because they did it as a pageant.\n\nThey brought in people to try to figure out who they could put in as their candidate, to carry a message. And so, what Daniel Moraff is pointing out there is, no, we didn't do vetting, because he wanted political vetting. He didn't care about the actual person himself.\n\nCORNISH: I know. But just sometimes because something's bad doesn't mean it's malignant. I mean, is this just a bad campaign in the sense that it's not done well, not a malicious one.\n\nMIKE DUBKE, FORMER TRUMP WHITE HOUSE COMMUNICATIONS DIRECTOR: I am sorry. When you've got a womanizing Nazi, what could go wrong?\n\nMEGHAN HAYS, FORMER BIDEN WHITE HOUSE DIRECTOR OF MESSAGE PLANNING: I mean --\n\nDUBKE: Right? That's the original question here. And he proved it in his own text and ink on his body.\n\nSo, there is a -- there's a lot of questions to be looked at here.\n\nI'm actually more interested -- and this is where I'd ask the reporters this question -- knowing that the date of July 13th was coming up, how many Democrats were leaking to reporters all the other things that they had found when they finally vetted the guy?\n\nDUBKE: Because I think there was a desperation by the Democratic Party to get this guy out. To me, that's the story. That's the --\n\nDUBKE: I was going to say \"fun part.\" I don't mean that in a bad way. But that is the -- that is the more interesting.\n\nCORNISH: But leaks sort of -- it's not a leak. It's just, like, the faucet.\n\nHAYS: Yes. There was a lot of rumors swirling around that the Republicans were going to drop something after this.\n\nHAYS: Yes, the July 13th date, so you couldn't replace them. But the fact of the matter is, is these are the same consultants that are bringing you Abdul El-Sayed in Michigan. They're the same people who are bringing you other candidates that are not vetted, because they think that, if you are online and you are popular online, that you are going to win people. And it is disgusting and gross. This person was bad from the\n\nbeginning. I have said it for months. He has no business being in the Senate. He has no business being on a campaign.\n\nAnd the fact that the Democratic Party stood with him after the first allegations, and the men of the Democratic Party stood with him is disgusting. And the women are the only ones that stood up.\n\nCORNISH: Can I add something here? Abdul El-Sayed is not facing any kind of allegation of sexual abuse.\n\nHAYS: And he's an unvetted, untested candidate.\n\nCORNISH: He's also a former public health worker.\n\nCORNISH: I just want to put that out.\n\nHAYS: Totally fine, but the same --\n\nCORNISH: I want to make sure that we are not taking a very serious allegation and smearing it across the entire slate. Because I think that is a question that has come up time and time again about Trump.\n\nAs we are talking today, a judge is trying to force the president to release payment that is due to her for a case that involved sexual abuse and then damages for defamation, saying she was lying about it.\n\nSo, this has been -- I'm watching all the cable shows, and it is a whataboutism waterfall of which men in which party are the ones that should be disqualified?\n\nKRAMER: One thing I'd like to note, too, is that with the campaign moving forward now, our reporters have been talking to folks about how there's this fear that Graham Platner may sort of remain as a specter for the remaining candidates.\n\nAnd there's this question of will the remaining candidates be tainted by association with him? Will whoever gets the nomination end up being someone who has to run away from his endorsement, even though he might want to endorse?\n\nCORNISH: The answer is yes.\n\nCORNISH: I mean Mike. Mike, I'll just help you out here. The answer from Mike Dubke is yes.\n\nHAYS: Did we not learn as children, two wrongs don't make a right? The Democrats don't -- didn't want to vote for Donald Trump because of all these allegations. They shouldn't have wanted to vote for a Democrat at the same token. RUBIN: Yes.\n\nHAYS: So, how can we have it both ways?\n\nRUBIN: I want to pick up on what Meghan is saying. Look, I think the whole ethical problem here for Democrats is that we've been spending years saying that we're not going to do what the Republicans did.\n\nRUBIN: We're not going to support a candidate who now is going to have to pay money to someone who he sexually abused.\n\nBut here we are, essentially, turning a blind eye to a candidate who -- and I've got to say, as a Jewish person, it really bothers me that the Nazi tattoo wasn't enough, that that wasn't somehow disqualifying.\n\nAnd Senator Sanders, who I worked for as his Jewish director in 2020, you know, he pushed this candidate into the system.\n\nRUBIN: This was not an endorsement.\n\nCORNISH: And has now helped push him out.\n\nRUBIN: This was a creation of Bernie Sanders. And I feel like he owes us all an apology for forcing a candidate like that into the system, who obviously backfired. And now it may blow up the chances to get that seat back, which is a highly winnable seat for Democrats.\n\nCORNISH: OK. And I --\n\nCORNISH: I hear you bringing the Sanders name and apology. You're the second person to say this on air to me, so --\n\nRUBIN: Yes, we need that. We need that.\n\nCORNISH: OK, you guys stay with me. Obviously, a lot to talk about.\n\nAfter the break on CNN THIS MORNING, there is an outbreak of a parasite in Michigan, a stomach illness making more than a thousand people sick.\n\nPlus, another landmark will bear the Trump name. What some Florida travelers are already noticing starting today.\n\nAnd in the meantime, a live look at the Vegas Strip.\n\nCORNISH: OK. It is now 21 minutes past the hour. Here are five things making news this morning.\n\nNearly 1,000 people diagnosed in the largest parasitic outbreak in Michigan history. It's an infection that causes weeks of watery diarrhea.\n\nSimilar outbreaks have been reported in 28 other states. The cause of the infection, frankly, it's hard to pin down, but the parasites usually spread through contaminated food.\n\nSources telling CNN that lawyers for several states now finalizing an antitrust lawsuit challenging Paramount's pending acquisition of Warner Bros. Discovery. The suit claims the deal would harm competition across the entertainment and news industries.\n\nA Paramount spokesperson responded, saying, quote, \"We continue to engage constructively with regulators, including state attorneys general, and are prepared to address any legitimate antitrust issues.\"\n\nThe Justice Department cleared the deal last month, but federal clearance does not prevent states from bringing their own claims.\n\nAnd, of course, Warner Bros. Discovery is a parent company of CNN.\n\nAnd President Trump officially has an airport named for him. As of this morning, the Palm Beach International Airport becomes the President Donald J. Trump International Airport. The new airport code of \"DJT\" will take effect next month.\n\nThere are two separate lawsuits hoping to stop the name change.\n\nAnd the White House announced a new network of gas stations that it says will offer lower prices. Twenty-five privately owned, quote, \"Freedom Fuel\" gas stations will be located in the Greater Philadelphia area and South New Jersey.\n\nThe one that opened on Wednesday initially sold gas for $3.47 per gallon, which a nod to Trump being the 47th president during his second term.\n\nThe price has already gone up at that location.\n\nAnd many are still asking this morning, how is Senator Mitch McConnell's health? But don't ask President Trump.\n\nUNIDENTIFIED FEMALE: Have you spoken with Senator Mitch McConnell since his hospitalization?\n\nTRUMP: No, I haven't.\n\nUNIDENTIFIED FEMALE: How's he doing?\n\nTRUMP: I have no idea. I have no idea how he's doing.\n\n(END VIDEO CLIP) CORNISH: The 84-year-old has been hospitalized for three weeks. It's unclear why he was admitted or what his condition is.\n\nKentucky Governor Andy Beshear is now asking the senator directly to disclose more about his condition, writing a letter saying that Kentuckians are concerned.\n\nAnd yesterday on the show, we displayed quotes from a Republican -- some Republicans, about Senator Mitch McConnell's stay in the hospital. One of them was mistakenly taken from a parody account on Twitter.\n\nNow, obviously, we should not have done that, and we regret the error.\n\nStraight ahead on CNN THIS MORNING, Iran concludes funeral honors for the late supreme leader just as strikes with the U.S. are ramping up. Is Tehran prepared for another wave of war?\n\nPlus, Rahm Emanuel saying Democrats are at a crossroads. Is the party's divide over Israel getting deeper?\n\nAnd the marathon funeral.\n\nCORNISH: The marathon funeral of Iran's former supreme leader nearing its end, with his burial happening today.\n\nNow the funeral procession has now moved to a city in Northeast Iran, the birthplace of Ali Khamenei. That is where he will be laid to rest."
+    }
+  ]
+}

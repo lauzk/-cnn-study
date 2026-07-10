@@ -1,0 +1,432 @@
+{
+  "date": "2026-07-09",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-09/segment/01",
+  "vocabulary": [
+    {
+      "word": "ceasefire",
+      "phonetic": "/ˈsiːsfaɪər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "停火",
+      "en": "a temporary suspension of fighting",
+      "excerpt": "A U.S. official telling CNN the ceasefire with Iran has, quote, temporarily ceased",
+      "example_cn": "双方同意停火24小时。"
+    },
+    {
+      "word": "dynamic",
+      "phonetic": "/daɪˈnæmɪk/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "动态的；不断变化的",
+      "en": "characterized by constant change or activity",
+      "excerpt": "the situation remains dynamic",
+      "example_cn": "市场环境是动态的。"
+    },
+    {
+      "word": "maritime",
+      "phonetic": "/ˈmærɪtaɪm/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "海上的；海事的",
+      "en": "relating to the sea or shipping",
+      "excerpt": "a maritime control tower in a port city",
+      "example_cn": "该国拥有重要的 maritime 利益。"
+    },
+    {
+      "word": "infrastructure",
+      "phonetic": "/ˈɪnfrəstrʌktʃər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "基础设施",
+      "en": "the basic physical systems of a country",
+      "excerpt": "a rare case where civilian infrastructure was targeted",
+      "example_cn": "政府投资于基础设施。"
+    },
+    {
+      "word": "negotiator",
+      "phonetic": "/nɪˈɡoʊʃieɪtər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "谈判者",
+      "en": "a person who conducts negotiations",
+      "excerpt": "Their top negotiator posting this warning on X",
+      "example_cn": "首席谈判代表抵达会场。"
+    },
+    {
+      "word": "bullying",
+      "phonetic": "/ˈbʊliɪŋ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "欺凌；恃强凌弱",
+      "en": "behavior that intimidates or harms others",
+      "excerpt": "America still hasn't learned that bullying and breaking promises are no longer cost-free",
+      "example_cn": "欺凌行为不可接受。"
+    },
+    {
+      "word": "retaliation",
+      "phonetic": "/rɪˌtæliˈeɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "报复",
+      "en": "the action of returning a military attack",
+      "excerpt": "Iran also claiming that it targeted Qatar in the retaliation",
+      "example_cn": "他们威胁要进行报复。"
+    },
+    {
+      "word": "escalation",
+      "phonetic": "/ˌeskəˈleɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "升级；加剧",
+      "en": "an increase in intensity or scope",
+      "excerpt": "the most serious escalation in violence",
+      "example_cn": "冲突升级为全面战争。"
+    },
+    {
+      "word": "catastrophic",
+      "phonetic": "/ˌkætəˈstrɒfɪk/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "灾难性的",
+      "en": "involving or causing sudden great damage",
+      "excerpt": "would have catastrophic consequences",
+      "example_cn": "地震造成了灾难性的破坏。"
+    },
+    {
+      "word": "waterway",
+      "phonetic": "/ˈwɔːtərweɪ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "水路；航道",
+      "en": "a river, canal, or other navigable channel",
+      "excerpt": "the number of vessels managing to get through that critical waterway",
+      "example_cn": "这条水路对贸易至关重要。"
+    },
+    {
+      "word": "stranded",
+      "phonetic": "/ˈstrændɪd/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "搁浅的；被困的",
+      "en": "left without means of transport",
+      "excerpt": "some 6,000 seafarers that is still stranded",
+      "example_cn": "游客因暴风雪被困。"
+    },
+    {
+      "word": "minesweeper",
+      "phonetic": "/ˈmaɪnswiːpər/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "扫雷舰",
+      "en": "a ship designed to clear mines",
+      "excerpt": "we have deployed a minesweeper in the region",
+      "example_cn": "扫雷舰正在清理航道。"
+    },
+    {
+      "word": "permissive",
+      "phonetic": "/pərˈmɪsɪv/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "许可的；宽容的",
+      "en": "allowing freedom of behavior",
+      "excerpt": "a permissive environment is needed",
+      "example_cn": "需要宽松的环境。"
+    },
+    {
+      "word": "tit-for-tat",
+      "phonetic": "/ˌtɪt fɔːr ˈtæt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "以牙还牙",
+      "en": "the exchange of similar retaliatory actions",
+      "excerpt": "in the middle of this tit-for-tat",
+      "example_cn": "双方陷入以牙还牙的循环。"
+    },
+    {
+      "word": "procession",
+      "phonetic": "/prəˈseʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "队伍；行列",
+      "en": "a number of people moving forward in an orderly way",
+      "excerpt": "the week-long funeral procession",
+      "example_cn": "葬礼队伍缓缓前行。"
+    },
+    {
+      "word": "mourner",
+      "phonetic": "/ˈmɔːrnər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "哀悼者",
+      "en": "a person who attends a funeral",
+      "excerpt": "mourners carried Ali Khamenei's coffin",
+      "example_cn": "哀悼者表达敬意。"
+    },
+    {
+      "word": "reins",
+      "phonetic": "/reɪnz/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "缰绳；控制权",
+      "en": "the power to direct and control",
+      "excerpt": "taking the reins of the Islamic Republic",
+      "example_cn": "他接掌了公司控制权。"
+    },
+    {
+      "word": "kinetic",
+      "phonetic": "/kɪˈnetɪk/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "运动的；动力的",
+      "en": "relating to or resulting from motion",
+      "excerpt": "the actual kinetic operations between the U.S. and Iran",
+      "example_cn": "动能武器使用运动能量。"
+    },
+    {
+      "word": "logistical",
+      "phonetic": "/ləˈdʒɪstɪkl/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "后勤的；物流的",
+      "en": "relating to the organization of complex operations",
+      "excerpt": "logistically difficult to conduct",
+      "example_cn": "后勤挑战巨大。"
+    },
+    {
+      "word": "shaky",
+      "phonetic": "/ˈʃeɪki/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "不稳固的；摇摇欲坠的",
+      "en": "not firm or stable",
+      "excerpt": "the ceasefire was extremely shaky",
+      "example_cn": "和平协议很脆弱。"
+    },
+    {
+      "word": "caveat",
+      "phonetic": "/ˈkæviæt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "警告；限制性说明",
+      "en": "a warning or proviso",
+      "excerpt": "We have to caveat that",
+      "example_cn": "需要加上一个 caveat。"
+    },
+    {
+      "word": "shore up",
+      "phonetic": "/ʃɔːr ʌp/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "支撑；加强",
+      "en": "to support or strengthen",
+      "excerpt": "shoring up the support that they have",
+      "example_cn": "政府试图支撑经济。"
+    },
+    {
+      "word": "standoff",
+      "phonetic": "/ˈstændɒf/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "僵持；对峙",
+      "en": "a situation in which neither side can win",
+      "excerpt": "in that standoff with the United States",
+      "example_cn": "双方陷入僵持。"
+    },
+    {
+      "word": "retrofit",
+      "phonetic": "/ˈretroʊfɪt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "改装；翻新",
+      "en": "to add new technology to older systems",
+      "excerpt": "what it would cost to retrofit it",
+      "example_cn": "他们计划 retrofit 旧建筑。"
+    },
+    {
+      "word": "survivability",
+      "phonetic": "/sərˌvaɪvəˈbɪləti/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "生存能力",
+      "en": "the ability to survive under adverse conditions",
+      "excerpt": "lacks some of the basic survivability",
+      "example_cn": "飞机的 survivability 至关重要。"
+    },
+    {
+      "word": "prosecute",
+      "phonetic": "/ˈprɒsɪkjuːt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "进行；执行",
+      "en": "to carry out or conduct",
+      "excerpt": "to essentially prosecute a war from afar",
+      "example_cn": "他们决定 prosecute 这项计划。"
+    },
+    {
+      "word": "gut",
+      "phonetic": "/ɡʌt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "拆除内部；毁坏内部",
+      "en": "to remove the internal contents",
+      "excerpt": "would it have to be gutted to the studs",
+      "example_cn": "他们 gutted 旧房子进行翻新。"
+    },
+    {
+      "word": "leverage",
+      "phonetic": "/ˈlevərɪdʒ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "杠杆作用；影响力",
+      "en": "the power to influence people or events",
+      "excerpt": "We came into the situation with maximum leverage",
+      "example_cn": "谈判中拥有 leverage。"
+    },
+    {
+      "word": "turn over a new leaf",
+      "phonetic": "/tɜːrn ˈoʊvər ə nuː liːf/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "翻开新的一页；改过自新",
+      "en": "to start behaving in a better way",
+      "excerpt": "We want to turn over a new leaf",
+      "example_cn": "他决定改过自新。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "A U.S. official telling CNN the ceasefire with Iran has, quote, temporarily ceased, but the situation remains dynamic.",
+      "cn": "一位美国官员告诉CNN，与伊朗的停火协议“暂时停止”，但局势仍然动态变化。",
+      "structure": "主谓宾+宾语从句，插入语quote",
+      "analysis": "主句为A U.S. official telling CNN，后接宾语从句the ceasefire...ceased，quote表示引用，but连接并列句。"
+    },
+    {
+      "en": "Iran also claiming that it targeted Qatar in the retaliation against these U.S. military assets.",
+      "cn": "伊朗还声称，在针对这些美国军事资产的报复行动中，它袭击了卡塔尔。",
+      "structure": "主谓宾+宾语从句，介词短语作状语",
+      "analysis": "主句Iran also claiming，后接that引导的宾语从句，in the retaliation...作状语修饰targeted。"
+    },
+    {
+      "en": "The Secretary General reiterates that a return to full-scale hostilities would have catastrophic consequences for the peoples of the region, for international peace and security, and for the global economy.",
+      "cn": "秘书长重申，恢复全面敌对行动将对该地区人民、国际和平与安全以及全球经济造成灾难性后果。",
+      "structure": "主谓宾+宾语从句，并列介词短语",
+      "analysis": "主句The Secretary General reiterates，后接that宾语从句，从句中for...并列三个对象。"
+    },
+    {
+      "en": "We are seeing the number of vessels managing to get through that critical waterway lesson because of the increase in hostilities.",
+      "cn": "我们看到，由于敌对行动增加，能够通过这条关键水道的船只数量减少了。",
+      "structure": "主谓宾+宾语从句，原因状语",
+      "analysis": "主句We are seeing，后接省略that的宾语从句，managing to get through作定语修饰vessels，because of...作原因状语。"
+    },
+    {
+      "en": "They believe that they are in control of the Strait of Hormuz, that this memorandum gives them control over the logistics, the coordination, and all ships transiting through have to coordinate with them and any that are trying to avoid that and go via the Omani route, some of them are being targeted.",
+      "cn": "他们认为自己控制着霍尔木兹海峡，这份备忘录赋予他们对物流和协调的控制权，所有过境船只都必须与他们协调，任何试图避开并经由阿曼航线的船只，其中一些正成为目标。",
+      "structure": "主谓宾+并列宾语从句，并列谓语",
+      "analysis": "主句They believe，后接两个that宾语从句，第二个从句中and连接并列谓语have to coordinate和are being targeted，any that...作主语。"
+    },
+    {
+      "en": "One of the things, though, that the leadership here says is they say that he's fully in charge, he's fully in control.",
+      "cn": "不过，这里的领导层所说的一件事是，他们说他完全负责，完全掌控。",
+      "structure": "主系表+定语从句+表语从句",
+      "analysis": "主句One of the things is，that the leadership here says是定语从句修饰things，表语从句they say that...，其中that引导宾语从句。"
+    },
+    {
+      "en": "And one of the things, by the way, that we also have to keep in mind is that the office of Supreme Leader is actually a pretty large body.",
+      "cn": "顺便说一句，我们还必须记住的一件事是，最高领袖办公室实际上是一个相当大的机构。",
+      "structure": "主系表+定语从句+表语从句",
+      "analysis": "主句one of the things is，that we also have to keep in mind是定语从句，表语从句that the office...。"
+    },
+    {
+      "en": "You'll recall that Ayatollah Ali Khamenei was killed in the early hours of the U.S. and Israel's attacks on Iran in a massive airstrike here in Tehran on his headquarters in the center of the city on February 28.",
+      "cn": "你会记得，阿亚图拉·阿里·哈梅内伊是在2月28日凌晨，美国和以色列对伊朗发动袭击时，在德黑兰市中心他的总部遭到大规模空袭而丧生的。",
+      "structure": "主谓宾+宾语从句，时间地点状语",
+      "analysis": "主句You'll recall，后接that宾语从句，从句中in the early hours...和in a massive airstrike...等作状语。"
+    },
+    {
+      "en": "And if you look at what's been going on here over the past couple of days, it's been one event after another.",
+      "cn": "如果你看看过去几天这里发生的事情，那是一个接一个的事件。",
+      "structure": "条件状语从句+主句",
+      "analysis": "if引导条件状语从句，从句中what's been going on是宾语从句，主句it's been one event after another。"
+    },
+    {
+      "en": "So, as you can imagine, this is a huge logistical operation on the part of the authorities, on the part of organizations that are pitching in as well.",
+      "cn": "所以，可以想象，这对当局和参与其中的组织来说都是一项巨大的后勤行动。",
+      "structure": "插入语+主系表+并列介词短语+定语从句",
+      "analysis": "as you can imagine是插入语，主句this is a huge logistical operation，on the part of...并列，that are pitching in定语从句修饰organizations。"
+    },
+    {
+      "en": "And I think that it -- the power, the people who are in power here in this country certainly see that as also shoring up the support that they have as they are in these negotiations with the United States and now, again, in that standoff with the United States as well.",
+      "cn": "我认为，这个国家的掌权者当然也将其视为巩固他们拥有的支持，因为他们正在与美国进行谈判，现在又再次与美国陷入僵持。",
+      "structure": "主谓宾+宾语从句，插入语+定语从句+状语从句",
+      "analysis": "主句I think，后接that宾语从句，从句中the power是插入语，the people who...是主语，see that as...，that they have定语从句修饰support，as引导原因状语从句。"
+    },
+    {
+      "en": "And what I'm hearing between all of this is really the lack of three things that caused him to fly home on the older Air Force One.",
+      "cn": "我从这一切中听到的实际上是缺乏三样东西，导致他乘坐较旧的空军一号飞回家。",
+      "structure": "主语从句+系表+定语从句",
+      "analysis": "what I'm hearing是主语从句，主句is the lack of three things，that caused...定语从句修饰things。"
+    },
+    {
+      "en": "Additionally, it probably doesn't have the full secure communications network that President Trump would also need to essentially prosecute a war from afar with some of the strikes on Iran that we've seen in the past two days.",
+      "cn": "此外，它可能没有完整的保密通信网络，而特朗普总统也需要这些网络来从远处进行战争，包括我们过去两天看到的对伊朗的一些打击。",
+      "structure": "主谓宾+定语从句+不定式目的状语",
+      "analysis": "主句it doesn't have the network，that President Trump would need定语从句，to prosecute...不定式作目的状语，that we've seen定语从句修饰strikes。"
+    },
+    {
+      "en": "Some of those Air Force One airplanes really were built to be survivable under even the worst things like being able to survive a potential nuclear blast.",
+      "cn": "其中一些空军一号飞机确实被建造得即使在最坏的情况下也能生存，比如能够承受潜在的核爆炸。",
+      "structure": "主谓+不定式目的状语+介词短语",
+      "analysis": "主句Some of those airplanes were built，to be survivable不定式作目的状语，like being able to...介词短语举例。"
+    },
+    {
+      "en": "And I think that's exactly why we're seeing him fly home on some of the older jets.",
+      "cn": "我认为这正是我们看到他在一些较旧的飞机上飞回家的原因。",
+      "structure": "主谓宾+表语从句",
+      "analysis": "主句I think，后接that宾语从句（省略that），从句中that's exactly why...是表语从句，why引导原因状语从句。"
+    },
+    {
+      "en": "And what they've done is tried to make it work.",
+      "cn": "他们所做的就是试图让它工作。",
+      "structure": "主语从句+系表+不定式短语",
+      "analysis": "what they've done是主语从句，主句is tried to make it work，tried是过去分词作表语？实际应为is to try，但口语中省略to。"
+    },
+    {
+      "en": "Iran lacks capabilities with the correct ranges to be able to come after some of, you know, some of where the president would be.",
+      "cn": "伊朗缺乏适当射程的能力来攻击总统可能所在的一些地方。",
+      "structure": "主谓宾+不定式目的状语+插入语",
+      "analysis": "主句Iran lacks capabilities，with the correct ranges作定语，to be able to come after不定式目的状语，you know插入语，where the president would be定语从句修饰some。"
+    },
+    {
+      "en": "And you've got some people within the Iranian system who are saying, you know what? We want to change our relationship with the United States.",
+      "cn": "伊朗体制内有一些人在说，你知道吗？我们想改变与美国的关系。",
+      "structure": "主谓宾+定语从句+直接引语",
+      "analysis": "主句You've got some people，who are saying定语从句，直接引语We want to change...。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "美伊冲突与停火破裂",
+      "content": "2026年7月，美国与伊朗在经历短暂停火后再次爆发冲突。美国对伊朗90个军事目标实施打击，伊朗则报复性攻击美国在科威特和巴林的军事基地。局势紧张，联合国警告全面战争将带来灾难性后果。",
+      "keywords": "美伊冲突, 停火, 军事打击, 霍尔木兹海峡, 联合国"
+    },
+    {
+      "title": "伊朗最高领袖葬礼与权力交接",
+      "content": "伊朗前最高领袖阿里·哈梅内伊在2月28日美以空袭中丧生，其葬礼持续一周，最终在伊朗马什哈德下葬。其子穆杰塔巴·哈梅内伊接任最高领袖，但未公开露面，仅通过书面声明沟通。葬礼期间民众反美情绪高涨。",
+      "keywords": "伊朗最高领袖, 葬礼, 权力交接, 穆杰塔巴·哈梅内伊, 反美情绪"
+    },
+    {
+      "title": "特朗普使用旧空军一号的安保争议",
+      "content": "特朗普总统在结束土耳其访问后，未使用卡塔尔捐赠的新空军一号，而是改乘旧飞机。特勤局担忧新飞机的安保、通信和生存能力不足，尤其是在国际环境中。新飞机因匆忙改装而缺乏导弹防御和保密通信系统。",
+      "keywords": "空军一号, 特朗普, 安保, 卡塔尔, 飞机改装"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nU.S., Iran Trade Strikes: Is The Ceasefire Over?; Funeral For Iran's Former Supreme Leader Nears Its End; Trump Uses Old Air Force One To Depart Turkey. Aired 5-5:30a ET\n\nAired July 09, 2026 - 05:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nANNOUNCER: This is CNN Breaking News.\n\nAUDIE CORNISH, CNN ANCHOR: We're following this breaking news in the war with Iran after another night of strikes between the U.S. and Iran. Is the U.S. getting ready to return to full-scale war?\n\nDONALD TRUMP, PRESIDENT OF THE UNITED STATES: We just hit it very hard. And I'd say we hit it 20 to 1. Every time they hit us, we're going to hit them 20. And when they hit, we hit back much harder.\n\nCORNISH: Good morning, everyone. I'm Audie Cornish. I want to start here.\n\nThe uncertainty in the region this morning. A U.S. official telling CNN the ceasefire with Iran has, quote, temporarily ceased, but the situation remains dynamic.\n\nSo, overnight, the U.S. military hit 90 targets in Iran. This is video obtained by CNN. You can see here showing some damage to what is a maritime control tower in a port city in the southeastern coast of Iran.\n\nNow, Iran claims the U.S. also hit a railway bridge northeast of Tehran. And if confirmed, this would be a rare case where civilian infrastructure was targeted. Iran's military says it targeted U.S. military bases in Kuwait and Bahrain.\n\nTheir top negotiator posting this warning on X, quote, \"America still hasn't learned that bullying and breaking promises are no longer cost- free. If you strike, you'll get hit.\"\n\nSo we're bringing in CNN's Paula Hancocks joins us from Abu Dhabi.\n\nI want to start with the targets. We know that Iran has threatened to hit back. Do we have any sense of whether they were able to cause damage to U.S. military bases or civilian places in the region?\n\nPAULA HANCOCKS, CNN CORRESPONDENT: So, Audie, we haven't had confirmation from those Gulf nations at this point as to exactly what damage there was, if there was any damage. But we do know it was a second night of sleeplessness for residents in both Bahrain and Kuwait. Bahrain saying that they had intercepted several attacks, calling it a flagrant violation of international humanitarian law.\n\nIran also claiming that it targeted Qatar. in the retaliation against these U.S. military assets. Now, this is really the most serious escalation in violence that we've seen since this memorandum of understanding was signed. We are hearing from many around the world concerns that this will continue to escalate.\n\nI have a statement here from the United Nations spokesperson I want to read to you saying, quote, The Secretary General reiterates that a return to full-scale hostilities would have catastrophic consequences for the peoples of the region, for international peace and security, and for the global economy. Now, it really is focusing around the Strait of Hormuz, starting when U.S. officials say that Iran targeted three vessels in the Strait of Hormuz, which sparked this 48 hours of U.S. strikes followed by Iranian retaliation.\n\nWe are seeing the number of vessels managing to get through that critical waterway lesson because of the increase in hostilities. On Wednesday, we had some facts and figures from marine traffic saying that, in the previous 24 hours, about 20 ships had managed to get through.\n\nNow, bear in mind, it's usually 110 per day at the pre-war level. So, certainly, we are seeing a significant impact on the region. We're also hearing from the U.N. Maritime Agency that they still have some 6,000 seafarers that is still stranded in the Persian Gulf since this war began, so many of them since February 28th, that they are unable to get out of this waterway at this point because of these hostilities that are ongoing -- Audie.\n\nCORNISH: Paula, I do want to follow up on that last part because we're coming off a NATO summit. Al Jazeera just spoke to Germany's foreign minister, and he said that they were ready to at least take some supportive action in the Strait of Hormuz. I want you to take a listen.\n\nJOHANNA WADEPHUL, GERMAN FOREIGN MINISTER: And we have deployed a minesweeper in the region. We are ready to begin our work. But, of course, a permissive environment is needed.\n\nSo we need an agreement with Oman and with Iran that they agree that European units are doing this work. We are urging all parties to come back to the negotiation table.\n\nCORNISH: So does that mean that these minesweepers can't get to work unless there is another ceasefire? HANCOCKS: Well, certainly, there are very few countries who are going to want to put their carriers, their personnel, in the middle of what is happening at the moment. These mines are believed to be planted by Iran in the central route through the Strait of Hormuz. There is still a northern route, which hugs the Iranian coast, but that is the route where you have to have Iranian permission and coordination.\n\nNow, many vessels don't want to do that. So they are using the southern route of this Strait of Hormuz, so hugging the Omani coast. And that is where this problem lies as far as Iran is concerned.\n\nThey believe that they are in control of the Strait of Hormuz. They believe that this memorandum gives them control over the logistics, the coordination, and all ships transiting through have to coordinate with them and any that are trying to avoid that and go via the Omani route, some of them are being targeted. We know a Saudi tanker, a Qatari tanker earlier this week were both targeted.\n\nSo when it comes to this central route, it's simply not being used by many vessels at this point, because that is where the mines are believed to be. But as I say, it's hard to believe that any country, any of these European nations offering the mine-sweeping capabilities are going to want to put their vessels and their personnel in the middle of this tit-for-tat that we are seeing at this exact moment -- Audie.\n\nCORNISH: OK, that's Paula Hancock speaking to us from Abu Dhabi.\n\nWe want to talk about what's been happening in Iran domestically. This new round of strikes is coming as the week-long funeral procession for Iran's former supreme leader nears an end. Earlier today, we were talking about this marathon funeral continued in Iraq, where mourners carried Ali Khamenei's coffin in a crowded mosque.\n\nHis coffin is now being taken to its final resting place, the town where he was born in Iran. The question looming over today's events, will the new Supreme Leader, Khamenei's son, make an appearance?\n\nSo, CNN's Fred Pleitgen is in Tehran. CNN is operating inside the country with permission of the government, and CNN retains full editorial control of our reporting.\n\nFred, I want to start with the former leader being finally laid to rest. The question has been, given the threats to Iran's leadership, whether his son Mojtaba would be there today, and what's the sense of whether that could happen?\n\nFREDERIK PLEITGEN, CNN SENIOR INTERNATIONAL CORRESPONDENT: Hi there, Audie.\n\nWell, I think it's highly unlikely that Mojtaba Khamenei is going to make an appearance in Mashhad.\n\nYou're absolutely right. He hasn't been seen since taking the reins of the Islamic Republic of Iran. He's really only communicated by our written statement, so we don't even have any audio messages from him. One of the things, though, that the leadership here says is they say that he's fully in charge, he's fully in control. Certainly, if you ask the supporters of the Islamic Republic of Iran, and many of them, of course, were out here on the streets over the past couple of days as this marathon funeral ceremonies were going on here in Tehran and other cities in Iran, as you mentioned, also all the way to Iraq and the holiest Shiite cities there, finally ending in Mashhad in the east of Iran today, that many people came out.\n\nThey were out in force. They were very angry at the United States. They called for revenge for the killing of Ali Khamenei. Essentially, what the people here are saying is whether or not Mojtaba Khamenei makes an appearance, which seems pretty unlikely at this point in time, that he is the one calling the shots, that he is also the one directing Iran's reaction, for instance, to those U.S. strikes and also to all the negotiations that are going on with the U.S. as well.\n\nSo, they say, whether or not he's seen in public, he certainly is a big presence as far as running the Islamic Republic is concerned. And one of the things, Audie, by the way, that we also have to keep in mind is that the office of Supreme Leader is actually a pretty large body. It's also a big administration as well.\n\nSo in any case, that seems to be functioning in a way that at least is effective enough to control those negotiations, but then also, of course, to oversee the ceremonies that we're seeing there happening in Mashhad, which is, of course, the holiest place in Shia Islam on Iranian soil -- Audie.\n\nCORNISH: For people who aren't familiar with how this is supposed to work, why the length of time between the Supreme Leader's death and these funeral proceedings?\n\nPLEITGEN: Well, that's -- yeah, that's basically due to the war that was going on between the United States, Israel, and then Iran on the other side. You'll recall that Ayatollah Ali Khamenei was killed in the early hours of the U.S. and Israel's attacks on Iran in a massive airstrike here in Tehran on his headquarters in the center of the city on February 28.\n\nOf course, the Iranians have been vowing revenge, but then the actual kinetic operations between the U.S. and Iran, and of course, Israel on the U.S.'s side went on for an extended period of time, and the Iranians simply felt, that it was too dangerous and logistically difficult to conduct the large funeral ceremonies that they wanted to conduct.\n\nAnd if you look at what's been going on here over the past couple of days, it's been one event after another. I think you called it a marathon funeral ceremony, and that certainly is what it was. The body, not just of Ayatollah Ali Khamenei, because some members of his family were also killed in that stripe, including a 14-month-old granddaughter. They lie in state for two days. Then there was a very big procession here in Tehran. Then the body was brought to a very important holy site in Iran, then\n\nto the two main Shia holy sites, Najaf and Karbala, on Iraqi soil, and then finally today to Mashhad in the east of Iran. So, as you can imagine, this is a huge logistical operation on the part of the authorities, on the part of organizations that are pitching in as well. And then, of course, also big logistic operation as far as people traveling to those places on planes, trains, and automobiles, that that is something that required a lot of operation by the authorities.\n\nAnd they simply said they didn't have the capacity to do that, as that ceasefire between the U.S. and Iran, of course, was extremely shaky before the signing of that memorandum of understanding. And now we're seeing it seems shaky once again -- Audie.\n\nCORNISH: One other thing, I've been reading that there are people with signs in English there, and that there have been calls for revenge within the crowd. Can you talk about the mood in and around the cities as they are going through this process?\n\nSure, absolutely. And you're absolutely right. There are a lot of people with signs in English calling for revenge against the United States, revenge against Israel, revenge specifically against U.S. President Donald Trump. And a lot of those signs are obviously meant to show that anger also to Western audiences and to U.S. audiences as well.\n\nI can tell you from anywhere that we've turned up at these funeral processions, people were very keen to show us those signs. People in, you know, even if they didn't speak very good English, in English, told us that they would have revenge on the United States and on U.S. President Donald Trump.\n\nSo that whole notion of revenge is one that is extremely important to the supporters of Ayatollah Ali Khamenei, and they certainly did come out in force here on the ground over the past couple of days. We have to caveat that, of course, there are people here in this country who opposed Ayatollah Ali Khamenei's role and his rule.\n\nBut we did see over the past few days, as these processions were going on, that the government here was able to bring out people in force with many hundreds of thousands of people coming on the streets, specifically for that procession that happened in Tehran and really voiced their support. And I think that it -- the power, the people who are in power here in this country certainly see that as also shoring up the support that they have as they are in these negotiations with the United States and now, again, in that standoff with the United States as well -- Audie.\n\nCORNISH: OK, that's our Fred Pleitgen, joining us. He's live in Tehran. Thank you so much.\n\nAnd coming up on CNN THIS MORNING, we're going to talk about the strategy out of Tehran, whether they are trying to box President Trump in, keep the clock ticking until the U.S. midterm election day. Plus, President Trump ditches the new Air Force One for at least one\n\nleg of his trip home. We're going to find out what's behind that switch up.\n\nAnd in the state of Maine, Graham Platner is out of the Senate race. Democrats have to find a new candidate in one of their most important races of the midterms.\n\nGRAHAM PLATNER (D), FORMER MAINE SENATE CANDIDATE: Accusations are supposed to be the beginning of things, not the end.\n\nCORNISH: So, when President Trump left Turkey for England on the first leg of his trip home, he was on the old Air Force One instead of his new Qatari-donated plane. And the switch came at the urging of the Secret Service.\n\nA source tells CNN they were concerned about the security capabilities of the new aircraft in international settings. The president claims that he sent the Qatari-gifted jet to Milton Hall, Air Force Base in the U.K. to give our soldiers, quote, \"a chance to see it\". But that's left reporters with a lot of questions.\n\nREPORTER: Do you think there wasn't a security concern?\n\nTRUMP: No, no. Why would --\n\nREPORTER: Do you know why they had us close our window blinds? That was not usual.\n\nTRUMP: Well, yeah, because you're probably on a dangerous flight because of the sleazebags that we have to deal with.\n\nREPORTER: Iran was possibly thinking --\n\nTRUMP: Yeah. I mean, if they ask you to close your windows, probably they feel that way. They didn't ask me to close mine, but if they did, I would have done it.\n\nCORNISH: So we're bringing in Becca Wasser, defense lead at \"Bloomberg Economics\".\n\nBecca, we've talked about this plane in the past, what it would cost to retrofit it. And now we are here, right, in the moment when it has to travel internationally. And I want you to help clarify a thing. I mean, sometimes the flight attendant tells you to put the shades\n\ndown because of the sun. So what do you hear between this conversation of? Is it a security concern or something else?\n\nBECCA WASSER, DEFENSE LEAD, BLOOMBERG ECONOMICS: Listen, I think what's happening here is the efforts to try and retrofit this aircraft so quickly means that there are some gaps in what it needs to be a secure Air Force One for an international visit.\n\nAnd what I'm hearing between all of this is really the lack of three things that caused him to fly home on the older Air Force One. And it's about security. It's about communications and it's about survivability.\n\nSo if, you know, there was this rush to trying get the Qatari aircraft to be his Air Force One, that means that it's probably lacking some of its missile detection and countermeasures that it likely needs. Additionally, it probably doesn't have the full secure communications network that President Trump would also need to essentially prosecute a war from afar with some of the strikes on Iran that we've seen in the past two days.\n\nAnd then lastly, it probably lacks some of the basic survivability that it would need. Some of those Air Force One airplanes really were built to be survivable under even the worst things like being able to survive a potential nuclear blast. And it is very clear that the Qatari jet definitely lacks that capability.\n\nCORNISH: Becca, I'm sorry, this is crazy. These are the three things that are the point of an Air Force One. I mean, security, communications, and survivability. I mean, was this kind of inevitable? I had always wondered, would it have to be gutted to the studs to be what the U.S. needs it to be.\n\nWASSER: I think it probably had to, but that wasn't the timeline that, frankly, the Air Force was offered. So they managed to do this under a year, and that could possibly work for domestic use of Air Force One.\n\nBut when the president is flying overseas in international airspace under different conditions, you're going to want something that is a little bit more secure than what that could offer. And I think that's exactly why we're seeing him fly home on some of the older jets.\n\nCORNISH: In the end, is that kind of what this is for, though, his domestic comfort?\n\nWASSER: It could be, but I think it was very clear that Qatar offered a gift to the president, and it was one that he wanted to take. And so, you know, the U.S. military was essentially given a job to do, which is make this work.\n\nAnd what they've done is tried to make it work. But that doesn't necessarily mean that it meets the standard that is required for the president's overseas travel and to be able to do some of the secure -- you know, messages that he would probably need to do.\n\nCORNISH: So what's at stake here? We are in the middle of renewed hostilities with Iran. Trump flew on this Air Force One as this was escalating. After that, they switched planes.\n\nIs there a concern, you think, about Iran specifically, or, as we said, this kind of general concern about international, you know, support for the leader of the free world?\n\nWASSER: I think it's more about general concerns and, again, having that secure communications network that you would need to be able to, you know, help, you know, develop military operations and make those calls. Iran lacks capabilities with the correct ranges to be able to come after some of, you know, some of where the president would be.\n\nYou know, it's -- Iranian drones are short-range. They aren't able to get to Turkey. Additionally, while it does have missiles that have greater range, that's probably not, you know, what the biggest concern was here, even though it is definitely something that, you know, I'm sure the Secret Service has been very concerned about.\n\nCORNISH: OK, Becca Wasser, thank you for talking with us about this. I know you will be back as we talk about this fresh round of strikes on Iran.\n\nAnd after the break on CNN THIS MORNING, President Trump has lost again in court. There's a judge here who says that E. Jean Carroll is owed millions of dollars. But will she ever collect?\n\nPlus, who has the leverage in this Mideast standoff, the balance of power in the U.S. war with Iran?\n\nTRUMP: They have very little left, and they want to make a deal so badly. They called a little while ago. They want to make a deal so badly. I just don't know if they're worthy of making a deal. I don't know that they're going to honor the deal.\n\nCORNISH: So the president claims Iran now wants to make a deal as the two countries exchanged a new round of strikes. U.S. Central Command saying they carried out attacks on 90 military targets across Iran. Iran's Revolutionary Guard saying it responded with drones and missiles aimed at U.S. military bases in Kuwait and Bahrain.\n\nSo, at this point, who has the upper hand in making a deal?\n\nJ.D. VANCE, VICE PRESIDENT OF THE UNITED STATES: We came into the situation with maximum leverage and maximum strength. Their nuclear program was destroyed. Their conventional military was destroyed.\n\nAnd you've got some people within the Iranian system who are saying, you know what? We want to change our relationship with the United States. We want to turn over a new leaf. And the president said, OK, we will sit down at the table and negotiate and see if the smart people in that system can take over from the crazy people.\n\nCORNISH: Joining me now, Sabrina Singh, CNN global affairs commentator, also former deputy Pentagon press secretary.\n\nSabrina, good morning.\n\nI want to start with what the President was saying there, talking about maximum leverage, because we heard him describe it as leverage militarily. Can you help me parse that with where we are now, the U.S. having to do strikes again?",
+  "segments": [
+    {
+      "seg": 1,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-09/segment/01",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nU.S., Iran Trade Strikes: Is The Ceasefire Over?; Funeral For Iran's Former Supreme Leader Nears Its End; Trump Uses Old Air Force One To Depart Turkey. Aired 5-5:30a ET\n\nAired July 09, 2026 - 05:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nANNOUNCER: This is CNN Breaking News.\n\nAUDIE CORNISH, CNN ANCHOR: We're following this breaking news in the war with Iran after another night of strikes between the U.S. and Iran. Is the U.S. getting ready to return to full-scale war?\n\nDONALD TRUMP, PRESIDENT OF THE UNITED STATES: We just hit it very hard. And I'd say we hit it 20 to 1. Every time they hit us, we're going to hit them 20. And when they hit, we hit back much harder.\n\nCORNISH: Good morning, everyone. I'm Audie Cornish. I want to start here.\n\nThe uncertainty in the region this morning. A U.S. official telling CNN the ceasefire with Iran has, quote, temporarily ceased, but the situation remains dynamic.\n\nSo, overnight, the U.S. military hit 90 targets in Iran. This is video obtained by CNN. You can see here showing some damage to what is a maritime control tower in a port city in the southeastern coast of Iran.\n\nNow, Iran claims the U.S. also hit a railway bridge northeast of Tehran. And if confirmed, this would be a rare case where civilian infrastructure was targeted. Iran's military says it targeted U.S. military bases in Kuwait and Bahrain.\n\nTheir top negotiator posting this warning on X, quote, \"America still hasn't learned that bullying and breaking promises are no longer cost- free. If you strike, you'll get hit.\"\n\nSo we're bringing in CNN's Paula Hancocks joins us from Abu Dhabi.\n\nI want to start with the targets. We know that Iran has threatened to hit back. Do we have any sense of whether they were able to cause damage to U.S. military bases or civilian places in the region?\n\nPAULA HANCOCKS, CNN CORRESPONDENT: So, Audie, we haven't had confirmation from those Gulf nations at this point as to exactly what damage there was, if there was any damage. But we do know it was a second night of sleeplessness for residents in both Bahrain and Kuwait. Bahrain saying that they had intercepted several attacks, calling it a flagrant violation of international humanitarian law.\n\nIran also claiming that it targeted Qatar. in the retaliation against these U.S. military assets. Now, this is really the most serious escalation in violence that we've seen since this memorandum of understanding was signed. We are hearing from many around the world concerns that this will continue to escalate.\n\nI have a statement here from the United Nations spokesperson I want to read to you saying, quote, The Secretary General reiterates that a return to full-scale hostilities would have catastrophic consequences for the peoples of the region, for international peace and security, and for the global economy. Now, it really is focusing around the Strait of Hormuz, starting when U.S. officials say that Iran targeted three vessels in the Strait of Hormuz, which sparked this 48 hours of U.S. strikes followed by Iranian retaliation.\n\nWe are seeing the number of vessels managing to get through that critical waterway lesson because of the increase in hostilities. On Wednesday, we had some facts and figures from marine traffic saying that, in the previous 24 hours, about 20 ships had managed to get through.\n\nNow, bear in mind, it's usually 110 per day at the pre-war level. So, certainly, we are seeing a significant impact on the region. We're also hearing from the U.N. Maritime Agency that they still have some 6,000 seafarers that is still stranded in the Persian Gulf since this war began, so many of them since February 28th, that they are unable to get out of this waterway at this point because of these hostilities that are ongoing -- Audie.\n\nCORNISH: Paula, I do want to follow up on that last part because we're coming off a NATO summit. Al Jazeera just spoke to Germany's foreign minister, and he said that they were ready to at least take some supportive action in the Strait of Hormuz. I want you to take a listen.\n\nJOHANNA WADEPHUL, GERMAN FOREIGN MINISTER: And we have deployed a minesweeper in the region. We are ready to begin our work. But, of course, a permissive environment is needed.\n\nSo we need an agreement with Oman and with Iran that they agree that European units are doing this work. We are urging all parties to come back to the negotiation table.\n\nCORNISH: So does that mean that these minesweepers can't get to work unless there is another ceasefire? HANCOCKS: Well, certainly, there are very few countries who are going to want to put their carriers, their personnel, in the middle of what is happening at the moment. These mines are believed to be planted by Iran in the central route through the Strait of Hormuz. There is still a northern route, which hugs the Iranian coast, but that is the route where you have to have Iranian permission and coordination.\n\nNow, many vessels don't want to do that. So they are using the southern route of this Strait of Hormuz, so hugging the Omani coast. And that is where this problem lies as far as Iran is concerned.\n\nThey believe that they are in control of the Strait of Hormuz. They believe that this memorandum gives them control over the logistics, the coordination, and all ships transiting through have to coordinate with them and any that are trying to avoid that and go via the Omani route, some of them are being targeted. We know a Saudi tanker, a Qatari tanker earlier this week were both targeted.\n\nSo when it comes to this central route, it's simply not being used by many vessels at this point, because that is where the mines are believed to be. But as I say, it's hard to believe that any country, any of these European nations offering the mine-sweeping capabilities are going to want to put their vessels and their personnel in the middle of this tit-for-tat that we are seeing at this exact moment -- Audie.\n\nCORNISH: OK, that's Paula Hancock speaking to us from Abu Dhabi.\n\nWe want to talk about what's been happening in Iran domestically. This new round of strikes is coming as the week-long funeral procession for Iran's former supreme leader nears an end. Earlier today, we were talking about this marathon funeral continued in Iraq, where mourners carried Ali Khamenei's coffin in a crowded mosque.\n\nHis coffin is now being taken to its final resting place, the town where he was born in Iran. The question looming over today's events, will the new Supreme Leader, Khamenei's son, make an appearance?\n\nSo, CNN's Fred Pleitgen is in Tehran. CNN is operating inside the country with permission of the government, and CNN retains full editorial control of our reporting.\n\nFred, I want to start with the former leader being finally laid to rest. The question has been, given the threats to Iran's leadership, whether his son Mojtaba would be there today, and what's the sense of whether that could happen?\n\nFREDERIK PLEITGEN, CNN SENIOR INTERNATIONAL CORRESPONDENT: Hi there, Audie.\n\nWell, I think it's highly unlikely that Mojtaba Khamenei is going to make an appearance in Mashhad.\n\nYou're absolutely right. He hasn't been seen since taking the reins of the Islamic Republic of Iran. He's really only communicated by our written statement, so we don't even have any audio messages from him. One of the things, though, that the leadership here says is they say that he's fully in charge, he's fully in control. Certainly, if you ask the supporters of the Islamic Republic of Iran, and many of them, of course, were out here on the streets over the past couple of days as this marathon funeral ceremonies were going on here in Tehran and other cities in Iran, as you mentioned, also all the way to Iraq and the holiest Shiite cities there, finally ending in Mashhad in the east of Iran today, that many people came out.\n\nThey were out in force. They were very angry at the United States. They called for revenge for the killing of Ali Khamenei. Essentially, what the people here are saying is whether or not Mojtaba Khamenei makes an appearance, which seems pretty unlikely at this point in time, that he is the one calling the shots, that he is also the one directing Iran's reaction, for instance, to those U.S. strikes and also to all the negotiations that are going on with the U.S. as well.\n\nSo, they say, whether or not he's seen in public, he certainly is a big presence as far as running the Islamic Republic is concerned. And one of the things, Audie, by the way, that we also have to keep in mind is that the office of Supreme Leader is actually a pretty large body. It's also a big administration as well.\n\nSo in any case, that seems to be functioning in a way that at least is effective enough to control those negotiations, but then also, of course, to oversee the ceremonies that we're seeing there happening in Mashhad, which is, of course, the holiest place in Shia Islam on Iranian soil -- Audie.\n\nCORNISH: For people who aren't familiar with how this is supposed to work, why the length of time between the Supreme Leader's death and these funeral proceedings?\n\nPLEITGEN: Well, that's -- yeah, that's basically due to the war that was going on between the United States, Israel, and then Iran on the other side. You'll recall that Ayatollah Ali Khamenei was killed in the early hours of the U.S. and Israel's attacks on Iran in a massive airstrike here in Tehran on his headquarters in the center of the city on February 28.\n\nOf course, the Iranians have been vowing revenge, but then the actual kinetic operations between the U.S. and Iran, and of course, Israel on the U.S.'s side went on for an extended period of time, and the Iranians simply felt, that it was too dangerous and logistically difficult to conduct the large funeral ceremonies that they wanted to conduct.\n\nAnd if you look at what's been going on here over the past couple of days, it's been one event after another. I think you called it a marathon funeral ceremony, and that certainly is what it was. The body, not just of Ayatollah Ali Khamenei, because some members of his family were also killed in that stripe, including a 14-month-old granddaughter. They lie in state for two days. Then there was a very big procession here in Tehran. Then the body was brought to a very important holy site in Iran, then\n\nto the two main Shia holy sites, Najaf and Karbala, on Iraqi soil, and then finally today to Mashhad in the east of Iran. So, as you can imagine, this is a huge logistical operation on the part of the authorities, on the part of organizations that are pitching in as well. And then, of course, also big logistic operation as far as people traveling to those places on planes, trains, and automobiles, that that is something that required a lot of operation by the authorities.\n\nAnd they simply said they didn't have the capacity to do that, as that ceasefire between the U.S. and Iran, of course, was extremely shaky before the signing of that memorandum of understanding. And now we're seeing it seems shaky once again -- Audie.\n\nCORNISH: One other thing, I've been reading that there are people with signs in English there, and that there have been calls for revenge within the crowd. Can you talk about the mood in and around the cities as they are going through this process?\n\nSure, absolutely. And you're absolutely right. There are a lot of people with signs in English calling for revenge against the United States, revenge against Israel, revenge specifically against U.S. President Donald Trump. And a lot of those signs are obviously meant to show that anger also to Western audiences and to U.S. audiences as well.\n\nI can tell you from anywhere that we've turned up at these funeral processions, people were very keen to show us those signs. People in, you know, even if they didn't speak very good English, in English, told us that they would have revenge on the United States and on U.S. President Donald Trump.\n\nSo that whole notion of revenge is one that is extremely important to the supporters of Ayatollah Ali Khamenei, and they certainly did come out in force here on the ground over the past couple of days. We have to caveat that, of course, there are people here in this country who opposed Ayatollah Ali Khamenei's role and his rule.\n\nBut we did see over the past few days, as these processions were going on, that the government here was able to bring out people in force with many hundreds of thousands of people coming on the streets, specifically for that procession that happened in Tehran and really voiced their support. And I think that it -- the power, the people who are in power here in this country certainly see that as also shoring up the support that they have as they are in these negotiations with the United States and now, again, in that standoff with the United States as well -- Audie.\n\nCORNISH: OK, that's our Fred Pleitgen, joining us. He's live in Tehran. Thank you so much.\n\nAnd coming up on CNN THIS MORNING, we're going to talk about the strategy out of Tehran, whether they are trying to box President Trump in, keep the clock ticking until the U.S. midterm election day. Plus, President Trump ditches the new Air Force One for at least one\n\nleg of his trip home. We're going to find out what's behind that switch up.\n\nAnd in the state of Maine, Graham Platner is out of the Senate race. Democrats have to find a new candidate in one of their most important races of the midterms.\n\nGRAHAM PLATNER (D), FORMER MAINE SENATE CANDIDATE: Accusations are supposed to be the beginning of things, not the end.\n\nCORNISH: So, when President Trump left Turkey for England on the first leg of his trip home, he was on the old Air Force One instead of his new Qatari-donated plane. And the switch came at the urging of the Secret Service.\n\nA source tells CNN they were concerned about the security capabilities of the new aircraft in international settings. The president claims that he sent the Qatari-gifted jet to Milton Hall, Air Force Base in the U.K. to give our soldiers, quote, \"a chance to see it\". But that's left reporters with a lot of questions.\n\nREPORTER: Do you think there wasn't a security concern?\n\nTRUMP: No, no. Why would --\n\nREPORTER: Do you know why they had us close our window blinds? That was not usual.\n\nTRUMP: Well, yeah, because you're probably on a dangerous flight because of the sleazebags that we have to deal with.\n\nREPORTER: Iran was possibly thinking --\n\nTRUMP: Yeah. I mean, if they ask you to close your windows, probably they feel that way. They didn't ask me to close mine, but if they did, I would have done it.\n\nCORNISH: So we're bringing in Becca Wasser, defense lead at \"Bloomberg Economics\".\n\nBecca, we've talked about this plane in the past, what it would cost to retrofit it. And now we are here, right, in the moment when it has to travel internationally. And I want you to help clarify a thing. I mean, sometimes the flight attendant tells you to put the shades\n\ndown because of the sun. So what do you hear between this conversation of? Is it a security concern or something else?\n\nBECCA WASSER, DEFENSE LEAD, BLOOMBERG ECONOMICS: Listen, I think what's happening here is the efforts to try and retrofit this aircraft so quickly means that there are some gaps in what it needs to be a secure Air Force One for an international visit.\n\nAnd what I'm hearing between all of this is really the lack of three things that caused him to fly home on the older Air Force One. And it's about security. It's about communications and it's about survivability.\n\nSo if, you know, there was this rush to trying get the Qatari aircraft to be his Air Force One, that means that it's probably lacking some of its missile detection and countermeasures that it likely needs. Additionally, it probably doesn't have the full secure communications network that President Trump would also need to essentially prosecute a war from afar with some of the strikes on Iran that we've seen in the past two days.\n\nAnd then lastly, it probably lacks some of the basic survivability that it would need. Some of those Air Force One airplanes really were built to be survivable under even the worst things like being able to survive a potential nuclear blast. And it is very clear that the Qatari jet definitely lacks that capability.\n\nCORNISH: Becca, I'm sorry, this is crazy. These are the three things that are the point of an Air Force One. I mean, security, communications, and survivability. I mean, was this kind of inevitable? I had always wondered, would it have to be gutted to the studs to be what the U.S. needs it to be.\n\nWASSER: I think it probably had to, but that wasn't the timeline that, frankly, the Air Force was offered. So they managed to do this under a year, and that could possibly work for domestic use of Air Force One.\n\nBut when the president is flying overseas in international airspace under different conditions, you're going to want something that is a little bit more secure than what that could offer. And I think that's exactly why we're seeing him fly home on some of the older jets.\n\nCORNISH: In the end, is that kind of what this is for, though, his domestic comfort?\n\nWASSER: It could be, but I think it was very clear that Qatar offered a gift to the president, and it was one that he wanted to take. And so, you know, the U.S. military was essentially given a job to do, which is make this work.\n\nAnd what they've done is tried to make it work. But that doesn't necessarily mean that it meets the standard that is required for the president's overseas travel and to be able to do some of the secure -- you know, messages that he would probably need to do.\n\nCORNISH: So what's at stake here? We are in the middle of renewed hostilities with Iran. Trump flew on this Air Force One as this was escalating. After that, they switched planes.\n\nIs there a concern, you think, about Iran specifically, or, as we said, this kind of general concern about international, you know, support for the leader of the free world?\n\nWASSER: I think it's more about general concerns and, again, having that secure communications network that you would need to be able to, you know, help, you know, develop military operations and make those calls. Iran lacks capabilities with the correct ranges to be able to come after some of, you know, some of where the president would be.\n\nYou know, it's -- Iranian drones are short-range. They aren't able to get to Turkey. Additionally, while it does have missiles that have greater range, that's probably not, you know, what the biggest concern was here, even though it is definitely something that, you know, I'm sure the Secret Service has been very concerned about.\n\nCORNISH: OK, Becca Wasser, thank you for talking with us about this. I know you will be back as we talk about this fresh round of strikes on Iran.\n\nAnd after the break on CNN THIS MORNING, President Trump has lost again in court. There's a judge here who says that E. Jean Carroll is owed millions of dollars. But will she ever collect?\n\nPlus, who has the leverage in this Mideast standoff, the balance of power in the U.S. war with Iran?\n\nTRUMP: They have very little left, and they want to make a deal so badly. They called a little while ago. They want to make a deal so badly. I just don't know if they're worthy of making a deal. I don't know that they're going to honor the deal.\n\nCORNISH: So the president claims Iran now wants to make a deal as the two countries exchanged a new round of strikes. U.S. Central Command saying they carried out attacks on 90 military targets across Iran. Iran's Revolutionary Guard saying it responded with drones and missiles aimed at U.S. military bases in Kuwait and Bahrain.\n\nSo, at this point, who has the upper hand in making a deal?\n\nJ.D. VANCE, VICE PRESIDENT OF THE UNITED STATES: We came into the situation with maximum leverage and maximum strength. Their nuclear program was destroyed. Their conventional military was destroyed.\n\nAnd you've got some people within the Iranian system who are saying, you know what? We want to change our relationship with the United States. We want to turn over a new leaf. And the president said, OK, we will sit down at the table and negotiate and see if the smart people in that system can take over from the crazy people.\n\nCORNISH: Joining me now, Sabrina Singh, CNN global affairs commentator, also former deputy Pentagon press secretary.\n\nSabrina, good morning.\n\nI want to start with what the President was saying there, talking about maximum leverage, because we heard him describe it as leverage militarily. Can you help me parse that with where we are now, the U.S. having to do strikes again?"
+    }
+  ]
+}

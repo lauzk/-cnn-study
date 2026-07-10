@@ -1,0 +1,465 @@
+{
+  "date": "2026-07-09",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-09/segment/02",
+  "vocabulary": [
+    {
+      "word": "leverage",
+      "phonetic": "/ˈlevərɪdʒ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "杠杆作用；影响力",
+      "en": "the power to influence a person or situation",
+      "excerpt": "talking about maximum leverage because we heard him describe it as leverage militarily.",
+      "example_cn": "他在谈判中利用经济杠杆。"
+    },
+    {
+      "word": "parse",
+      "phonetic": "/pɑːrz/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "解析；理解",
+      "en": "to examine something in detail to understand it",
+      "excerpt": "Can you help me parse that with where we are now?",
+      "example_cn": "我们需要解析这些数据。"
+    },
+    {
+      "word": "retain",
+      "phonetic": "/rɪˈteɪn/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "保留；保持",
+      "en": "to keep or continue to have something",
+      "excerpt": "The United States military does retain significant capabilities within the Middle East.",
+      "example_cn": "她保留了那本书的版权。"
+    },
+    {
+      "word": "capability",
+      "phonetic": "/ˌkeɪpəˈbɪləti/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "能力；性能",
+      "en": "the ability to do something",
+      "excerpt": "The United States military does retain significant capabilities within the Middle East.",
+      "example_cn": "这个系统有处理大量数据的能力。"
+    },
+    {
+      "word": "bomb into submission",
+      "phonetic": "/bɑːm ˈɪntə səbˈmɪʃn/",
+      "pos": "phrase",
+      "level": "考研",
+      "cn": "通过轰炸迫使屈服",
+      "en": "to force someone to surrender by bombing",
+      "excerpt": "can Iran be bombed into submission over time?",
+      "example_cn": "敌人最终被炸得投降了。"
+    },
+    {
+      "word": "protracted",
+      "phonetic": "/prəˈtræktɪd/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "持久的；延长的",
+      "en": "lasting for a long time or longer than expected",
+      "excerpt": "Now I think we're looking at a protracted conflict.",
+      "example_cn": "他们进行了长时间的谈判。"
+    },
+    {
+      "word": "murky",
+      "phonetic": "/ˈmɜːrki/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "模糊的；不清楚的",
+      "en": "not clear; vague or ambiguous",
+      "excerpt": "It was very murky in its details.",
+      "example_cn": "协议细节模糊不清。"
+    },
+    {
+      "word": "interpretation",
+      "phonetic": "/ɪnˌtɜːrprɪˈteɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "解释；理解",
+      "en": "the way in which something is understood or explained",
+      "excerpt": "There's going to be misinterpretations on both sides.",
+      "example_cn": "他对这首诗有不同的解释。"
+    },
+    {
+      "word": "exert",
+      "phonetic": "/ɪɡˈzɜːrt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "施加；运用",
+      "en": "to use power or influence to affect something",
+      "excerpt": "Now they're exerting some power.",
+      "example_cn": "他对团队施加了很大影响。"
+    },
+    {
+      "word": "project power",
+      "phonetic": "/prəˈdʒekt ˈpaʊər/",
+      "pos": "phrase",
+      "level": "考研",
+      "cn": "投射力量；展示实力",
+      "en": "to demonstrate military or political strength",
+      "excerpt": "They're trying to project power as they've attacked some of those ships transiting.",
+      "example_cn": "该国通过军事演习投射力量。"
+    },
+    {
+      "word": "transit",
+      "phonetic": "/ˈtrænzɪt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "通过；过境",
+      "en": "to pass through or across",
+      "excerpt": "as they've attacked some of those ships transiting.",
+      "example_cn": "货物正在通过苏伊士运河运输。"
+    },
+    {
+      "word": "freedom of navigation",
+      "phonetic": "/ˈfriːdəm əv ˌnævɪˈɡeɪʃn/",
+      "pos": "phrase",
+      "level": "考研",
+      "cn": "航行自由",
+      "en": "the right of ships to sail anywhere in international waters",
+      "excerpt": "the United States is basically saying that goes against freedom of navigation international law.",
+      "example_cn": "美国主张南海航行自由。"
+    },
+    {
+      "word": "kinetic action",
+      "phonetic": "/kɪˈnetɪk ˈækʃn/",
+      "pos": "phrase",
+      "level": "专八",
+      "cn": "军事行动；动能行动",
+      "en": "military action involving physical force",
+      "excerpt": "as we're seeing kinetic action over the last few days.",
+      "example_cn": "双方发生了动能冲突。"
+    },
+    {
+      "word": "interlocutor",
+      "phonetic": "/ˌɪntərˈlɑːkjətər/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "对话者；中间人",
+      "en": "a person who takes part in a conversation or negotiation",
+      "excerpt": "Qatar has been a main interlocutor when it comes to securing this peace agreement.",
+      "example_cn": "联合国是冲突双方的调解人。"
+    },
+    {
+      "word": "antagonize",
+      "phonetic": "/ænˈtæɡənaɪz/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "使对抗；引起敌意",
+      "en": "to cause someone to become hostile",
+      "excerpt": "why they're also antagonizing a party that is trying to bring both sides to the table.",
+      "example_cn": "他的言论激怒了对方。"
+    },
+    {
+      "word": "deplete",
+      "phonetic": "/dɪˈpliːt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "耗尽；减少",
+      "en": "to reduce the amount of something",
+      "excerpt": "It is just depleting of not only just munitions but time and energy.",
+      "example_cn": "战争耗尽了国家的资源。"
+    },
+    {
+      "word": "ceasefire",
+      "phonetic": "/ˈsiːsfaɪər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "停火",
+      "en": "an agreement to stop fighting",
+      "excerpt": "I think both sides do want to see some type of agreement and ceasefire put back in place.",
+      "example_cn": "双方签署了停火协议。"
+    },
+    {
+      "word": "mass exodus",
+      "phonetic": "/mæs ˈeksədəs/",
+      "pos": "phrase",
+      "level": "考研",
+      "cn": "大规模离开",
+      "en": "a large number of people leaving a place at the same time",
+      "excerpt": "which caused a mass exodus of endorsements and contributions to his campaign.",
+      "example_cn": "灾难导致居民大规模撤离。"
+    },
+    {
+      "word": "liable",
+      "phonetic": "/ˈlaɪəbl/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "有责任的；有义务的",
+      "en": "legally responsible for something",
+      "excerpt": "after he was found liable for sexually abusing and defaming her.",
+      "example_cn": "公司对产品缺陷负有责任。"
+    },
+    {
+      "word": "structural failure",
+      "phonetic": "/ˈstrʌktʃərəl ˈfeɪljər/",
+      "pos": "phrase",
+      "level": "考研",
+      "cn": "结构失效；结构破坏",
+      "en": "the collapse or breakdown of a building or structure",
+      "excerpt": "investigating what caused the structural failure earlier this week.",
+      "example_cn": "桥梁因结构失效而倒塌。"
+    },
+    {
+      "word": "co-produce",
+      "phonetic": "/koʊ prəˈduːs/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "合作生产",
+      "en": "to produce something jointly",
+      "excerpt": "will be teaming with Ukraine to co-produce Patriot missile interceptors.",
+      "example_cn": "两国合作生产战斗机。"
+    },
+    {
+      "word": "interceptor",
+      "phonetic": "/ˌɪntərˈseptər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "拦截器；截击机",
+      "en": "a missile or aircraft used to intercept enemy attacks",
+      "excerpt": "to co-produce Patriot missile interceptors.",
+      "example_cn": "爱国者拦截器用于防御导弹。"
+    },
+    {
+      "word": "air defense",
+      "phonetic": "/er dɪˈfens/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "防空",
+      "en": "defense against air attacks",
+      "excerpt": "a development that could significantly improve Kyiv's air defenses.",
+      "example_cn": "该国加强了防空系统。"
+    },
+    {
+      "word": "gamechanger",
+      "phonetic": "/ˈɡeɪm tʃeɪndʒər/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "改变游戏规则的事物",
+      "en": "something that dramatically changes a situation",
+      "excerpt": "But these strikes into Moscow -- that's the gamechanger.",
+      "example_cn": "这项新技术是行业的游戏规则改变者。"
+    },
+    {
+      "word": "inflection point",
+      "phonetic": "/ɪnˈflekʃn pɔɪnt/",
+      "pos": "phrase",
+      "level": "考研",
+      "cn": "转折点",
+      "en": "a point at which a significant change occurs",
+      "excerpt": "we're at this inflection point with the war with Iran.",
+      "example_cn": "公司正处于发展的转折点。"
+    },
+    {
+      "word": "churn out",
+      "phonetic": "/tʃɜːrn aʊt/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "大量生产",
+      "en": "to produce large quantities quickly",
+      "excerpt": "the U.S. now dealing with a country that can churn out drones.",
+      "example_cn": "工厂每天生产数千件产品。"
+    },
+    {
+      "word": "perfected",
+      "phonetic": "/pərˈfektɪd/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "完善的；精通的",
+      "en": "made perfect or highly skilled",
+      "excerpt": "Ukraine, out of necessity, has perfected drone technology on the cheap.",
+      "example_cn": "她完善了这项技术。"
+    },
+    {
+      "word": "on the cheap",
+      "phonetic": "/ɑːn ðə tʃiːp/",
+      "pos": "phrase",
+      "level": "考研",
+      "cn": "廉价地；低成本地",
+      "en": "at a low cost",
+      "excerpt": "has perfected drone technology on the cheap.",
+      "example_cn": "他们廉价地建造了房子。"
+    },
+    {
+      "word": "top of the line",
+      "phonetic": "/tɑːp əv ðə laɪn/",
+      "pos": "phrase",
+      "level": "考研",
+      "cn": "最高级的；顶尖的",
+      "en": "the best or most expensive of its kind",
+      "excerpt": "That drone technology that Ukraine has is the top of the line.",
+      "example_cn": "他们购买了顶级设备。"
+    },
+    {
+      "word": "in abeyance",
+      "phonetic": "/ɪn əˈbeɪəns/",
+      "pos": "phrase",
+      "level": "专八",
+      "cn": "暂停；搁置",
+      "en": "temporarily not in use or suspended",
+      "excerpt": "the ceasefire that's now in abeyance between us and Iran.",
+      "example_cn": "该项目暂时搁置。"
+    },
+    {
+      "word": "bear fruit",
+      "phonetic": "/ber fruːt/",
+      "pos": "phrase",
+      "level": "考研",
+      "cn": "取得成果",
+      "en": "to produce successful results",
+      "excerpt": "that actually seems to be bearing more fruit than the Iran-U.S. MOU.",
+      "example_cn": "他的努力终于有了成果。"
+    },
+    {
+      "word": "mood music",
+      "phonetic": "/muːd ˈmjuːzɪk/",
+      "pos": "phrase",
+      "level": "考研",
+      "cn": "氛围；基调",
+      "en": "the general feeling or atmosphere",
+      "excerpt": "When the mood music changes, as it did with President Trump yesterday.",
+      "example_cn": "会议的氛围是积极的。"
+    },
+    {
+      "word": "dynamic",
+      "phonetic": "/daɪˈnæmɪk/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "动态的；不断变化的",
+      "en": "constantly changing or active",
+      "excerpt": "it is a very dynamic situation here.",
+      "example_cn": "市场形势瞬息万变。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "The United States military does retain significant capabilities within the Middle East.",
+      "cn": "美国军方在中东确实保留了重要的军事能力。",
+      "structure": "主语 + 谓语（does retain）+ 宾语 + 状语",
+      "analysis": "使用助动词does强调谓语retain，表示‘确实保留’。"
+    },
+    {
+      "en": "Can Iran be bombed into submission over time?",
+      "cn": "伊朗能通过持续轰炸被炸得屈服吗？",
+      "structure": "情态动词 + 主语 + 被动语态 + 状语",
+      "analysis": "被动语态be bombed into submission，into表示结果状态。"
+    },
+    {
+      "en": "This war started February 28. President Trump said then that this was about to be, you know, around four to six weeks.",
+      "cn": "这场战争始于2月28日。特朗普总统当时说，这大概会持续四到六周。",
+      "structure": "简单句 + 复合句（主句+宾语从句）",
+      "analysis": "宾语从句中be about to表示‘即将’，you know为插入语。"
+    },
+    {
+      "en": "Now I think we're looking at a protracted conflict, and the negotiations are going to be in trouble for a while.",
+      "cn": "现在我认为我们面临一场持久冲突，谈判将暂时陷入困境。",
+      "structure": "主句 + 宾语从句 + 并列句",
+      "analysis": "look at在此意为‘面临’，be going to表示将来。"
+    },
+    {
+      "en": "This is the problem with the MOU that was signed between the United States and Iran.",
+      "cn": "这就是美伊签署的谅解备忘录的问题所在。",
+      "structure": "主系表 + 定语从句",
+      "analysis": "that引导定语从句修饰MOU。"
+    },
+    {
+      "en": "And because the details — I mean, there was 14 points, 1 1/2 pages. I mean, I think we've talked about having grocery lists that are longer than the MOU.",
+      "cn": "因为细节——我是说，只有14点，1.5页。我是说，我想我们讨论过比备忘录还长的购物清单。",
+      "structure": "原因状语从句 + 插入语 + 主句 + 宾语从句 + 定语从句",
+      "analysis": "I mean为插入语，that引导定语从句修饰grocery lists。"
+    },
+    {
+      "en": "But this is really the problem. Both sides signed a very murky agreement and now to implement it and execute it it's proving to be very difficult as we're seeing kinetic action over the last few days.",
+      "cn": "但这确实是问题所在。双方签署了一份非常模糊的协议，现在要实施和执行它，事实证明非常困难，正如我们过去几天看到的军事行动。",
+      "structure": "简单句 + 并列句 + 不定式短语 + 主句 + 状语从句",
+      "analysis": "to implement it and execute it为不定式短语作主语，it为形式主语；as引导时间状语从句。"
+    },
+    {
+      "en": "I think when it gets beyond those sites along the strait and we see strikes within central Iran — the western part of the country — that's when we're going to see a larger expansion of this war.",
+      "cn": "我认为，当打击超出海峡沿岸地点，我们看到伊朗中部——该国西部——遭到打击时，那才是我们将看到战争更大规模扩大之时。",
+      "structure": "主句 + 宾语从句（内含时间状语从句+主句）",
+      "analysis": "when引导时间状语从句，主句为that's when...，when引导表语从句。"
+    },
+    {
+      "en": "It is just depleting of not only just munitions but time and energy.",
+      "cn": "这不仅消耗弹药，还消耗时间和精力。",
+      "structure": "主系表 + 介词短语",
+      "analysis": "depleting of...为形容词短语，not only...but...连接并列成分。"
+    },
+    {
+      "en": "And they were really the ones that said to this administration we need to stop this war and put some type of ceasefire into place because we just can't handle the level of strikes that are coming towards our country right now.",
+      "cn": "他们正是那些对政府说我们需要停止这场战争并实施某种停火的人，因为我们无法承受目前针对我国的打击力度。",
+      "structure": "主句 + 定语从句 + 宾语从句 + 原因状语从句 + 定语从句",
+      "analysis": "第一个that引导定语从句修饰ones；第二个that引导定语从句修饰strikes。"
+    },
+    {
+      "en": "Now this all comes after allegations of sexual misconduct from several women, which caused a mass exodus of endorsements and contributions to his campaign.",
+      "cn": "这一切发生在多名女性指控其性行为不端之后，这些指控导致其竞选活动的支持和捐款大量流失。",
+      "structure": "主句 + 时间状语从句 + 非限制性定语从句",
+      "analysis": "which引导非限制性定语从句，指代allegations。"
+    },
+    {
+      "en": "President Trump has been trying to delay paying Carroll after he was found liable for sexually abusing and defaming her.",
+      "cn": "特朗普总统一直试图拖延向卡罗尔支付赔偿，此前他被认定对性虐待和诽谤她负有责任。",
+      "structure": "主句 + 时间状语从句",
+      "analysis": "has been trying为现在完成进行时；after引导时间状语从句。"
+    },
+    {
+      "en": "He announced the U.S. will be buying Ukrainian drones and more significantly will be teaming with Ukraine to co-produce Patriot missile interceptors — a development that could significantly improve Kyiv's air defenses.",
+      "cn": "他宣布美国将购买乌克兰无人机，更重要的是，将与乌克兰合作生产爱国者导弹拦截器——这一进展可能显著改善基辅的防空能力。",
+      "structure": "主句 + 宾语从句 + 同位语 + 定语从句",
+      "analysis": "a development为同位语，that引导定语从句修饰development。"
+    },
+    {
+      "en": "This way he can't complain that we're not giving them enough.",
+      "cn": "这样他就不能抱怨我们给得不够了。",
+      "structure": "状语 + 主句 + 宾语从句",
+      "analysis": "This way作状语，that引导宾语从句。"
+    },
+    {
+      "en": "And I think for President Trump to see Ukraine not only being able to strike inside Moscow but then, of course, to defend its territory — if he can add this extra nudge maybe he thinks that can get Putin to a deal.",
+      "cn": "我认为，对于特朗普总统来说，看到乌克兰不仅能够打击莫斯科境内，而且还能保卫其领土——如果他能再推一把，也许他认为这能让普京达成协议。",
+      "structure": "主句 + 宾语从句（内含不定式短语+条件状语从句+宾语从句）",
+      "analysis": "for President Trump to see...为不定式复合结构作主语；if引导条件状语从句；that引导宾语从句。"
+    },
+    {
+      "en": "So when the mood music changes, as it did with President Trump yesterday where the United States and NATO and our European allies are essentially talking from the same sheet — that is a sign to Putin that he can't break the alliance.",
+      "cn": "所以，当氛围发生变化——就像昨天特朗普总统那样，美国、北约和我们的欧洲盟友基本上步调一致——这对普京来说是一个信号，表明他无法破坏联盟。",
+      "structure": "时间状语从句 + 方式状语从句 + 定语从句 + 主句 + 同位语从句",
+      "analysis": "as引导方式状语从句；where引导定语从句修饰yesterday；that引导同位语从句修饰sign。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "美伊冲突与霍尔木兹海峡",
+      "content": "美国与伊朗在霍尔木兹海峡附近发生军事冲突。美国对伊朗沿海目标进行打击，伊朗则攻击美国军事基地和商船。双方签署的谅解备忘录（MOU）细节模糊，导致执行困难。伊朗试图控制海峡并收取通行费，美国则强调航行自由。冲突可能扩大，海湾国家担忧被卷入。",
+      "keywords": "Iran, Strait of Hormuz, MOU, freedom of navigation, military strikes"
+    },
+    {
+      "title": "美国与乌克兰合作生产爱国者导弹拦截器",
+      "content": "特朗普宣布美国将与乌克兰合作生产爱国者导弹拦截器，并购买乌克兰无人机。此举旨在提升乌克兰的防空能力，并被视为对乌克兰在无人机技术方面创新的认可。同时，乌克兰对莫斯科的打击改变了战场态势，特朗普对乌克兰的态度发生转变。",
+      "keywords": "Ukraine, Patriot missile, drone technology, air defense, NATO"
+    },
+    {
+      "title": "美国政治与性侵指控",
+      "content": "民主党参议员候选人Graham Platner因多名女性指控性行为不端而退出竞选，导致缅因州民主党需重新提名候选人。同时，特朗普被联邦法官命令向E. Jean Carroll支付近600万美元，因其被认定对性虐待和诽谤负有责任。",
+      "keywords": "Graham Platner, sexual misconduct, E. Jean Carroll, defamation, Maine Democratic Party"
+    },
+    {
+      "title": "纽约曼哈顿高层建筑结构问题",
+      "content": "纽约曼哈顿一栋高层建筑面临倒塌风险，施工人员从9层到屋顶每层加装钢支撑。纽约市建筑局正在调查结构失效的原因。",
+      "keywords": "Manhattan high-rise, structural failure, steel supports, New York Department of Buildings"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nTrump Claims Iran Wants A Deal \"So Badly\" Amid New Strikes; Graham Platner Drops Senate Bid, Denies Rape Allegation; Trump: U.S. To Produce Missile Interceptors With Ukraine. Aired 5:30-6a ET\n\nAired July 09, 2026 - 05:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nAUDIE CORNISH, CNN ANCHOR: Joining me now is Sabrina Singh, CNN global affairs commentator and also former deputy Pentagon press secretary. Sabrina, good morning.\n\nI want to start with what the president was saying there, talking about maximum leverage because we heard him describe it as leverage militarily.\n\nCan you help me parse that with where we are now -- the U.S. having to do strikes again?\n\nSABRINA SINGH, CNN GLOBAL AFFAIRS COMMENTATOR, FORMER DEPUTY PENTAGON PRESS SECRETARY (via Webex by Cisco): Yeah. Good morning, Audie.\n\nThe United States military does retain significant capabilities within the Middle East. I mean, we have an aircraft carrier there with multiple destroyers that can continue to launch waves of strikes that you saw last night and the night before on Iran. So there is military leverage, but can Iran be bombed into submission over time? And I think the answer that we know to that is no.\n\nJust look at the course of the war and how it has played out. This war started February 28. President Trump said then that this was about to be, you know, around four to six weeks. Obviously that timeline has just blown by. We're almost at mid-July at this point and the war is continuing.\n\nSo the United States retains some military capabilities which allows it some leverage, but it does have economic leverage and that really comes in the form of sanctions. And before the sanctions were lifted on Iran and Iran was able to sell its oil on the global market its economy was cratering. So the U.S. has put some of those sanctions back in place. We still hold some of those cards, like the president likes to use that term. But overall Iran really has time on its side, and they can continue to run down the clock.\n\nCORNISH: Now, in the House, Democratic Congressman Adam Smith, who is on the Armed Services committee -- he, of course, has been critical of how and why the president started the war in the first place. But this is what he had to say about the latest move from Iran.\n\n(BEGIN VIDEO CLIP) REP. ADAM SMITH (D-WASHINGTON): But I will say I think Iran is kind of pushing their luck a little bit. I mean, they had a pretty good deal here where they could get paid to open the strait. Instead they wanted to say well, we'll open the strait a little bit, not entirely. And that's why they're shooting at some ships going through the lanes they don't want them to go through. Now I think we're looking at a protracted conflict, and the negotiations are going to be in trouble for a while.\n\nCORNISH: Can you talk about this? I've heard this in other places that Iran, in its strikes in the strait in the last couple of days, was essentially nudging people into the lane that it wanted them to traverse because they hoped to one day have a toll.\n\nSINGH: Yeah. This is the problem with the MOU that was signed between the United States and Iran. It was very murky in its details and in one of the lines in the MOU it does say that Iran is responsible for clearing the strait of mines. Now, Iran is obviously interpreting that as it controls the Strait of Hormuz.\n\nAnd because the details -- I mean, there was 14 points, 1 1/2 pages. I mean, I think we've talked about having grocery lists that are longer than the MOU. There's going to be misinterpretations on both sides of the MOU and how it should be executed.\n\nBut Congressman Smith is right. I mean, the MOU hugely, largely favored Iran. They were able to sell their oil on the global market in American dollars and so this was a very good deal for them.\n\nNow they're exerting some power. They're trying to project power as they've attacked some of those ships transiting. They want ships to pay some type of fee or toll to them. And the United States is basically saying that goes against freedom of navigation international law and the MOU that you signed.\n\nBut this is really the problem. Both sides signed a very murky agreement and now to implement it and execute it it's proving to be very difficult as we're seeing kinetic action over the last few days.\n\nCORNISH: What can you tell us when you look at the targets, meaning the U.S. focusing on these coastal parts? You've got Iran at least aiming in the direction of U.S. military bases. When will we know that this is quite serious based on the target?\n\nSINGH: Well, what is interesting is also Iran launched strikes at Qatar, and we know Qatar has been a main interlocutor when it comes to securing this peace agreement. So it's a little confusing why they're also antagonizing a party that is trying to bring both sides to the table, but they are saying that they're targeting U.S. bases in those three countries.\n\nNow, the U.S. military is targeting military sites that they're saying are in the southeast of Iran. These are the sites that are really being used to control the Strait of Hormuz. I think when it gets beyond those sites along the strait and we see strikes within central Iran -- the western part of the country -- that's when we're going to see a larger expansion of this war.\n\nI really don't think either side wants to go back to a full-scale war. It is just depleting of not only just munitions but time and energy. I think both sides do want to see some type of agreement and ceasefire put back in place.\n\nBut it is very possible that this war expands and then you're going to have Gulf countries brought back into this. And they were really the ones that said to this administration we need to stop this war and put some type of ceasefire into place because we just can't handle the level of strikes that are coming towards our country right now.\n\nCORNISH: Yeah. It'll be interesting to see what we hear from those countries out of the region today.\n\nSabrina Singh, thank you for being here. Appreciate your time.\n\nSINGH: Thanks, Audie.\n\nCORNISH: Now straight ahead on CNN THIS MORNING we're going to turn to that high-rise in Manhattan that had seemed on the very of collapse. Now investigators want to know how did things get to that point.\n\nAnd coming up in the next hour, has Israel become a dividing line for Democrats? We're going to talk about why Rahm Emanuel says the party needs a new strategy.\n\nCORNISH: It's now almost 40 minutes past the hour. This is your Morning Roundup.\n\nDemocrats in Maine are scrambling to find a new candidate for Senate as Graham Platner drops out of the race.\n\nGRAHAM PLATNER, (D) FORMER SENATE CANDIDATE: I intend to file my paperwork to withdraw. What comes next needs to come from the people. It needs to come from the people of Maine.\n\nCORNISH: Now this all comes after allegations of sexual misconduct from several women, which caused a mass exodus of endorsements and contributions to his campaign. Platner denies the accusations.\n\nThe Maine Democratic Party will hold a nominating convention to select a new Senate nominee, and they have until July 27 to make that decision. And a federal judge orders the release of nearly $6 million to E. Jean Carroll from President Trump. His team immediately appealed the decision. They were denied. President Trump has been trying to delay paying Carroll after he was found liable for sexually abusing and defaming her.\n\nIn New York, there is significant progress in the stabilization of a Manhattan high-rise that had been at risk of collapse. Crews added steel supports to each floor from the ninth to the roof. The New York Department of Buildings has inspectors and engineers on site monitoring and investigating what caused the structural failure earlier this week.\n\nAnd next on CNN THIS MORNING what's life like on the front lines of the war with Iran? We take you aboard a U.S. aircraft carrier patrolling the Arabian Sea.\n\nDONALD TRUMP, (R) PRESIDENT OF THE UNITED STATES: This way he can't complain that we're not giving them enough. I say make them yourself.\n\nCORNISH: Could this be the change Ukraine needs in its war with Russia? How President Trump is boosting Ukraine's air defenses.\n\nCORNISH: So a big political win for Ukraine hand-delivered by President Trump. He announced the U.S. will be buying Ukrainian drones and more significantly will be teaming with Ukraine to co-produce Patriot missile interceptors -- a development that could significantly improve Kyiv's air defenses.\n\nTRUMP: We're going to give a license to you to make Patriots. That's pretty cool, right?\n\nVOLODYMYR ZELENSKYY, UKRAINIAN PRESIDENT: Yeah, very cool.\n\nTRUMP: This way he can't complain that we're not giving them enough. I say make them yourself. We haven't informed the company of that yet but that'll work out alright. I'm sure they'll be thrilled. But, you know, they'll be able to do it. You'll be able to figure that out. Most countries couldn't do that.\n\nTRUMP: If I said that to most countries, they wouldn't know what I'm talking about. But this is a very ingenious group. And what I like about that it's a defensive -- it's a defensive situation as opposed to an offensive.\n\nCORNISH: Joel Rubin joins us. He's the former deputy assistant Secretary of State for Legislative Affairs under the Obama administration. Good morning, Joel.\n\nJOEL RUBIN, FORMER DEPUTY ASSISTANT SECRETARY OF STATE FOR LEGISLATION AFFAIRS, OBAMA ADMINISTRATION, DEMOCRATIC STRATEGIST: Good morning, Audie.\n\nCORNISH: There's actually a lot to unpack in that short statement, but I want to start with this -- the turnaround from when Trump was sitting next to Zelenskyy and telling him you don't have any cards. You can't dictate this process.\n\nWhat do you think has changed in the backdrop leading up to this moment?\n\nRUBIN: Audie, it's great to be with you.\n\nAnd clearly, Trump likes a winner and what he's seeing now and what the intelligence is demonstrating is that Russia is on the defensive. Ukraine is able to strike into Moscow at will. That the losses on the field -- on the ground by Russia have been significant and they're not making progress. And so President Trump -- he sees that.\n\nAnd you combine that -- and I've got to say that moment yesterday at NATO was really surreal. President Trump basically has now flipped his narrative on NATO. He now sees it as a value add to American security. And so combining that with the move on Zelenskyy, I think Trump realizes that he can gain a lot more with our allies and our friends and sees Ukraine as winning in this war.\n\nCORNISH: At the same time, Ukraine is not winning. It has Russia at a standstill.\n\nCORNISH: And I was surprised to hear the president use the word there \"this is defensive\" when Ukraine, as you mentioned, has pushed its missiles further and further deeper into Russian territory.\n\nRUBIN: Yeah. So Patriots are a defensive weapons system -- a missile defense system. Now, the Russians are going to say that this is an aggression because they don't like there being any missile defense near them because that inhibits their ability to strike. But for Ukraine to hold Russia to a standstill -- that's winning because again, Russia is invading into Ukraine.\n\nBut these strikes into Moscow -- that's the gamechanger. The Russian people are noticing that the war is now coming home and that's creating pressure on Putin as well. And I think for President Trump to see Ukraine not only being able to strike inside Moscow but then, of course, to defend its territory -- if he can add this extra nudge maybe he thinks that can get Putin to a deal. I hope he's right. But certainly it is quite a turnaround with Ukraine.\n\nCORNISH: I want to connect the dots here because we're at this inflection point with the war with Iran --\n\nCORNISH: -- and there are some connections between what's happening with the war in Iran and what's happening between Ukraine and Russia.\n\nOne example is drones. Just Ukraine really showcasing it is now at the forefront of innovation on drone battlefield warfare, and the U.S. now dealing with a country that can churn out drones.\n\nIs that, like, yet another aspect of this that has kind of shifted things? And then I want to ask you about sanctions.\n\nRUBIN: Yeah. Look, you know, I was just in Israel last week and the drone wars are real. They're across the Middle East. And Ukraine, out of necessity, has perfected drone technology on the cheap. But also there's another factor as well, which is that Iran was providing drone technology to Russia to bomb into Ukraine as well. So all of these wars now -- they seem to be connecting.\n\nThe technology is real. It's robust coming out of Ukraine. They have a value added edge frankly in the global marketplace and I think for Trump he sees that as well. And that's the future of warfare. Those drones and that technology that Ukraine has is the top of the line.\n\nCORNISH: Does this open up the channel or --\n\nCORNISH: -- make it easier for Netanyahu and Israel to continue the war against Hezbollah? I mentioned this to someone yesterday but from a diplomatic point of view I'd love to hear from you what you think. Is it basically all bets are off if the New York Post is posting, you know, \"Peace Out\" --\n\nCORNISH: -- on the ceasefire deal?\n\nRUBIN: I mean, Audie, there's two parallel tracks on diplomacy with Iran. Of course, the ceasefire that's now in abeyance between us and Iran. And then there's the separate track, which is Israel and Lebanon government-to-government being sponsored by the State Department and Marco Rubio? That's always been a tension point in the diplomacy.\n\nSo I wouldn't say that it's a guarantee that we're going to see fighting renewed inside of Lebanon because the Israeli government and the Lebanese government are talking right now. And that actually seems to be bearing more fruit than the Iran-U.S. MOU that has obviously collapsed. CORNISH: Before I let you go, a short time left. After this NATO summit, is the U.S. in a stronger position with Europe? Is Putin going to be concerned that relationship has improved?\n\nRUBIN: Well, he can't be pleased, right? Like, if you're Vladimir Putin your whole goal for the last decade, frankly, if not longer has been to separate the United States from NATO and to break NATO. To break that collective security arrangement inside Europe.\n\nSo when the mood music -- mood music changes, as it did with President Trump yesterday where the United States and NATO and our European allies are essentially talking from the same sheet -- that is a sign to Putin that he can't break the alliance, and that is a strong position for American national security.\n\nCORNISH: OK, Joel. Don't get any breakfast yet. I need you in the next hour. We're going to talk more --\n\nCORNISH: -- about some of these regional concerns.\n\nNext on CNN THIS MORNING a CNN crew aboard the USS Abraham Lincoln in the Arabian Sea. It's one of more than 20 Navy warships patrolling the waters near the Middle East.\n\nAnd in the next hour, President Trump promised cheaper gas prices. Is Freedom Fuel the answer?\n\nCORNISH: Our breaking news coverage continues now as the U.S. and Iran trade new strikes overnight. The U.S. military touting its presence in the region, posting new video of its more than 20 Navy warships patrolling the waters near the Middle East.\n\nCNN's Pam Brown was on one of those ships in the Northern Arabian Sea yesterday with the crew of the USS Abraham Lincoln.\n\nPAMELA BROWN, CNN CHIEF INVESTIGATIVE CORRESPONDENT: This is one of two aircraft carriers in the region. And you see behind me what's called the bridge -- the flight tower. This is where all the shots are called. And you see the planes. Here they are on this deck. There's F- 35s, F-18s, Growlers, E-2s. All of them play certain roles in the conflict.\n\nNow, what we know for sure per a U.S. official I spoke to, is that there will be defensive missions happening on the USS Abraham. And, in fact, there has already been a shift in operational plans in the wake of the Iranian attacks on those vessels. This ship left port early yesterday so that it can be out here at sea and ready to go in case orders are given. So you can see some of that preparation happening right now. There is some maintenance happening over here on this helicopter. And then if we pan over here you can see they pulled out some armaments -- some missiles -- to put on the flights. Now I'm told that would be standard operating procedure because tomorrow is a flight day.\n\nBut, of course, this takes on new meaning in the wake of the latest rhetoric from the president and the Iranians as well, so we'll have to wait and see. As one source said, it is a very dynamic situation here.\n\nPamela Brown, CNN, from the USS Abraham Lincoln.\n\nCORNISH: And I'm Audie Cornish. Stay with us. Our breaking news coverage continues right now.\n\nANNOUNCER: This is CNN breaking news.\n\nCORNISH: And the breaking news we are following, the war with Iran. New threats, new attacks. Are we in a new phase of this war?\n\nTRUMP: When they hit, we hit back much harder. They started this. They're a little bit out of control, but they want to make a deal badly.\n\nCORNISH: Good morning, everybody. I'm Audie Cornish.\n\nWe're going to start with the big question this morning. Are the U.S. and Iran about to return to full-scale war? The U.S. military hit more than 90 military targets last night. President Trump posted these videos on Truth Social showing some of the attacks.",
+  "segments": [
+    {
+      "seg": 2,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-09/segment/02",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nTrump Claims Iran Wants A Deal \"So Badly\" Amid New Strikes; Graham Platner Drops Senate Bid, Denies Rape Allegation; Trump: U.S. To Produce Missile Interceptors With Ukraine. Aired 5:30-6a ET\n\nAired July 09, 2026 - 05:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nAUDIE CORNISH, CNN ANCHOR: Joining me now is Sabrina Singh, CNN global affairs commentator and also former deputy Pentagon press secretary. Sabrina, good morning.\n\nI want to start with what the president was saying there, talking about maximum leverage because we heard him describe it as leverage militarily.\n\nCan you help me parse that with where we are now -- the U.S. having to do strikes again?\n\nSABRINA SINGH, CNN GLOBAL AFFAIRS COMMENTATOR, FORMER DEPUTY PENTAGON PRESS SECRETARY (via Webex by Cisco): Yeah. Good morning, Audie.\n\nThe United States military does retain significant capabilities within the Middle East. I mean, we have an aircraft carrier there with multiple destroyers that can continue to launch waves of strikes that you saw last night and the night before on Iran. So there is military leverage, but can Iran be bombed into submission over time? And I think the answer that we know to that is no.\n\nJust look at the course of the war and how it has played out. This war started February 28. President Trump said then that this was about to be, you know, around four to six weeks. Obviously that timeline has just blown by. We're almost at mid-July at this point and the war is continuing.\n\nSo the United States retains some military capabilities which allows it some leverage, but it does have economic leverage and that really comes in the form of sanctions. And before the sanctions were lifted on Iran and Iran was able to sell its oil on the global market its economy was cratering. So the U.S. has put some of those sanctions back in place. We still hold some of those cards, like the president likes to use that term. But overall Iran really has time on its side, and they can continue to run down the clock.\n\nCORNISH: Now, in the House, Democratic Congressman Adam Smith, who is on the Armed Services committee -- he, of course, has been critical of how and why the president started the war in the first place. But this is what he had to say about the latest move from Iran.\n\n(BEGIN VIDEO CLIP) REP. ADAM SMITH (D-WASHINGTON): But I will say I think Iran is kind of pushing their luck a little bit. I mean, they had a pretty good deal here where they could get paid to open the strait. Instead they wanted to say well, we'll open the strait a little bit, not entirely. And that's why they're shooting at some ships going through the lanes they don't want them to go through. Now I think we're looking at a protracted conflict, and the negotiations are going to be in trouble for a while.\n\nCORNISH: Can you talk about this? I've heard this in other places that Iran, in its strikes in the strait in the last couple of days, was essentially nudging people into the lane that it wanted them to traverse because they hoped to one day have a toll.\n\nSINGH: Yeah. This is the problem with the MOU that was signed between the United States and Iran. It was very murky in its details and in one of the lines in the MOU it does say that Iran is responsible for clearing the strait of mines. Now, Iran is obviously interpreting that as it controls the Strait of Hormuz.\n\nAnd because the details -- I mean, there was 14 points, 1 1/2 pages. I mean, I think we've talked about having grocery lists that are longer than the MOU. There's going to be misinterpretations on both sides of the MOU and how it should be executed.\n\nBut Congressman Smith is right. I mean, the MOU hugely, largely favored Iran. They were able to sell their oil on the global market in American dollars and so this was a very good deal for them.\n\nNow they're exerting some power. They're trying to project power as they've attacked some of those ships transiting. They want ships to pay some type of fee or toll to them. And the United States is basically saying that goes against freedom of navigation international law and the MOU that you signed.\n\nBut this is really the problem. Both sides signed a very murky agreement and now to implement it and execute it it's proving to be very difficult as we're seeing kinetic action over the last few days.\n\nCORNISH: What can you tell us when you look at the targets, meaning the U.S. focusing on these coastal parts? You've got Iran at least aiming in the direction of U.S. military bases. When will we know that this is quite serious based on the target?\n\nSINGH: Well, what is interesting is also Iran launched strikes at Qatar, and we know Qatar has been a main interlocutor when it comes to securing this peace agreement. So it's a little confusing why they're also antagonizing a party that is trying to bring both sides to the table, but they are saying that they're targeting U.S. bases in those three countries.\n\nNow, the U.S. military is targeting military sites that they're saying are in the southeast of Iran. These are the sites that are really being used to control the Strait of Hormuz. I think when it gets beyond those sites along the strait and we see strikes within central Iran -- the western part of the country -- that's when we're going to see a larger expansion of this war.\n\nI really don't think either side wants to go back to a full-scale war. It is just depleting of not only just munitions but time and energy. I think both sides do want to see some type of agreement and ceasefire put back in place.\n\nBut it is very possible that this war expands and then you're going to have Gulf countries brought back into this. And they were really the ones that said to this administration we need to stop this war and put some type of ceasefire into place because we just can't handle the level of strikes that are coming towards our country right now.\n\nCORNISH: Yeah. It'll be interesting to see what we hear from those countries out of the region today.\n\nSabrina Singh, thank you for being here. Appreciate your time.\n\nSINGH: Thanks, Audie.\n\nCORNISH: Now straight ahead on CNN THIS MORNING we're going to turn to that high-rise in Manhattan that had seemed on the very of collapse. Now investigators want to know how did things get to that point.\n\nAnd coming up in the next hour, has Israel become a dividing line for Democrats? We're going to talk about why Rahm Emanuel says the party needs a new strategy.\n\nCORNISH: It's now almost 40 minutes past the hour. This is your Morning Roundup.\n\nDemocrats in Maine are scrambling to find a new candidate for Senate as Graham Platner drops out of the race.\n\nGRAHAM PLATNER, (D) FORMER SENATE CANDIDATE: I intend to file my paperwork to withdraw. What comes next needs to come from the people. It needs to come from the people of Maine.\n\nCORNISH: Now this all comes after allegations of sexual misconduct from several women, which caused a mass exodus of endorsements and contributions to his campaign. Platner denies the accusations.\n\nThe Maine Democratic Party will hold a nominating convention to select a new Senate nominee, and they have until July 27 to make that decision. And a federal judge orders the release of nearly $6 million to E. Jean Carroll from President Trump. His team immediately appealed the decision. They were denied. President Trump has been trying to delay paying Carroll after he was found liable for sexually abusing and defaming her.\n\nIn New York, there is significant progress in the stabilization of a Manhattan high-rise that had been at risk of collapse. Crews added steel supports to each floor from the ninth to the roof. The New York Department of Buildings has inspectors and engineers on site monitoring and investigating what caused the structural failure earlier this week.\n\nAnd next on CNN THIS MORNING what's life like on the front lines of the war with Iran? We take you aboard a U.S. aircraft carrier patrolling the Arabian Sea.\n\nDONALD TRUMP, (R) PRESIDENT OF THE UNITED STATES: This way he can't complain that we're not giving them enough. I say make them yourself.\n\nCORNISH: Could this be the change Ukraine needs in its war with Russia? How President Trump is boosting Ukraine's air defenses.\n\nCORNISH: So a big political win for Ukraine hand-delivered by President Trump. He announced the U.S. will be buying Ukrainian drones and more significantly will be teaming with Ukraine to co-produce Patriot missile interceptors -- a development that could significantly improve Kyiv's air defenses.\n\nTRUMP: We're going to give a license to you to make Patriots. That's pretty cool, right?\n\nVOLODYMYR ZELENSKYY, UKRAINIAN PRESIDENT: Yeah, very cool.\n\nTRUMP: This way he can't complain that we're not giving them enough. I say make them yourself. We haven't informed the company of that yet but that'll work out alright. I'm sure they'll be thrilled. But, you know, they'll be able to do it. You'll be able to figure that out. Most countries couldn't do that.\n\nTRUMP: If I said that to most countries, they wouldn't know what I'm talking about. But this is a very ingenious group. And what I like about that it's a defensive -- it's a defensive situation as opposed to an offensive.\n\nCORNISH: Joel Rubin joins us. He's the former deputy assistant Secretary of State for Legislative Affairs under the Obama administration. Good morning, Joel.\n\nJOEL RUBIN, FORMER DEPUTY ASSISTANT SECRETARY OF STATE FOR LEGISLATION AFFAIRS, OBAMA ADMINISTRATION, DEMOCRATIC STRATEGIST: Good morning, Audie.\n\nCORNISH: There's actually a lot to unpack in that short statement, but I want to start with this -- the turnaround from when Trump was sitting next to Zelenskyy and telling him you don't have any cards. You can't dictate this process.\n\nWhat do you think has changed in the backdrop leading up to this moment?\n\nRUBIN: Audie, it's great to be with you.\n\nAnd clearly, Trump likes a winner and what he's seeing now and what the intelligence is demonstrating is that Russia is on the defensive. Ukraine is able to strike into Moscow at will. That the losses on the field -- on the ground by Russia have been significant and they're not making progress. And so President Trump -- he sees that.\n\nAnd you combine that -- and I've got to say that moment yesterday at NATO was really surreal. President Trump basically has now flipped his narrative on NATO. He now sees it as a value add to American security. And so combining that with the move on Zelenskyy, I think Trump realizes that he can gain a lot more with our allies and our friends and sees Ukraine as winning in this war.\n\nCORNISH: At the same time, Ukraine is not winning. It has Russia at a standstill.\n\nCORNISH: And I was surprised to hear the president use the word there \"this is defensive\" when Ukraine, as you mentioned, has pushed its missiles further and further deeper into Russian territory.\n\nRUBIN: Yeah. So Patriots are a defensive weapons system -- a missile defense system. Now, the Russians are going to say that this is an aggression because they don't like there being any missile defense near them because that inhibits their ability to strike. But for Ukraine to hold Russia to a standstill -- that's winning because again, Russia is invading into Ukraine.\n\nBut these strikes into Moscow -- that's the gamechanger. The Russian people are noticing that the war is now coming home and that's creating pressure on Putin as well. And I think for President Trump to see Ukraine not only being able to strike inside Moscow but then, of course, to defend its territory -- if he can add this extra nudge maybe he thinks that can get Putin to a deal. I hope he's right. But certainly it is quite a turnaround with Ukraine.\n\nCORNISH: I want to connect the dots here because we're at this inflection point with the war with Iran --\n\nCORNISH: -- and there are some connections between what's happening with the war in Iran and what's happening between Ukraine and Russia.\n\nOne example is drones. Just Ukraine really showcasing it is now at the forefront of innovation on drone battlefield warfare, and the U.S. now dealing with a country that can churn out drones.\n\nIs that, like, yet another aspect of this that has kind of shifted things? And then I want to ask you about sanctions.\n\nRUBIN: Yeah. Look, you know, I was just in Israel last week and the drone wars are real. They're across the Middle East. And Ukraine, out of necessity, has perfected drone technology on the cheap. But also there's another factor as well, which is that Iran was providing drone technology to Russia to bomb into Ukraine as well. So all of these wars now -- they seem to be connecting.\n\nThe technology is real. It's robust coming out of Ukraine. They have a value added edge frankly in the global marketplace and I think for Trump he sees that as well. And that's the future of warfare. Those drones and that technology that Ukraine has is the top of the line.\n\nCORNISH: Does this open up the channel or --\n\nCORNISH: -- make it easier for Netanyahu and Israel to continue the war against Hezbollah? I mentioned this to someone yesterday but from a diplomatic point of view I'd love to hear from you what you think. Is it basically all bets are off if the New York Post is posting, you know, \"Peace Out\" --\n\nCORNISH: -- on the ceasefire deal?\n\nRUBIN: I mean, Audie, there's two parallel tracks on diplomacy with Iran. Of course, the ceasefire that's now in abeyance between us and Iran. And then there's the separate track, which is Israel and Lebanon government-to-government being sponsored by the State Department and Marco Rubio? That's always been a tension point in the diplomacy.\n\nSo I wouldn't say that it's a guarantee that we're going to see fighting renewed inside of Lebanon because the Israeli government and the Lebanese government are talking right now. And that actually seems to be bearing more fruit than the Iran-U.S. MOU that has obviously collapsed. CORNISH: Before I let you go, a short time left. After this NATO summit, is the U.S. in a stronger position with Europe? Is Putin going to be concerned that relationship has improved?\n\nRUBIN: Well, he can't be pleased, right? Like, if you're Vladimir Putin your whole goal for the last decade, frankly, if not longer has been to separate the United States from NATO and to break NATO. To break that collective security arrangement inside Europe.\n\nSo when the mood music -- mood music changes, as it did with President Trump yesterday where the United States and NATO and our European allies are essentially talking from the same sheet -- that is a sign to Putin that he can't break the alliance, and that is a strong position for American national security.\n\nCORNISH: OK, Joel. Don't get any breakfast yet. I need you in the next hour. We're going to talk more --\n\nCORNISH: -- about some of these regional concerns.\n\nNext on CNN THIS MORNING a CNN crew aboard the USS Abraham Lincoln in the Arabian Sea. It's one of more than 20 Navy warships patrolling the waters near the Middle East.\n\nAnd in the next hour, President Trump promised cheaper gas prices. Is Freedom Fuel the answer?\n\nCORNISH: Our breaking news coverage continues now as the U.S. and Iran trade new strikes overnight. The U.S. military touting its presence in the region, posting new video of its more than 20 Navy warships patrolling the waters near the Middle East.\n\nCNN's Pam Brown was on one of those ships in the Northern Arabian Sea yesterday with the crew of the USS Abraham Lincoln.\n\nPAMELA BROWN, CNN CHIEF INVESTIGATIVE CORRESPONDENT: This is one of two aircraft carriers in the region. And you see behind me what's called the bridge -- the flight tower. This is where all the shots are called. And you see the planes. Here they are on this deck. There's F- 35s, F-18s, Growlers, E-2s. All of them play certain roles in the conflict.\n\nNow, what we know for sure per a U.S. official I spoke to, is that there will be defensive missions happening on the USS Abraham. And, in fact, there has already been a shift in operational plans in the wake of the Iranian attacks on those vessels. This ship left port early yesterday so that it can be out here at sea and ready to go in case orders are given. So you can see some of that preparation happening right now. There is some maintenance happening over here on this helicopter. And then if we pan over here you can see they pulled out some armaments -- some missiles -- to put on the flights. Now I'm told that would be standard operating procedure because tomorrow is a flight day.\n\nBut, of course, this takes on new meaning in the wake of the latest rhetoric from the president and the Iranians as well, so we'll have to wait and see. As one source said, it is a very dynamic situation here.\n\nPamela Brown, CNN, from the USS Abraham Lincoln.\n\nCORNISH: And I'm Audie Cornish. Stay with us. Our breaking news coverage continues right now.\n\nANNOUNCER: This is CNN breaking news.\n\nCORNISH: And the breaking news we are following, the war with Iran. New threats, new attacks. Are we in a new phase of this war?\n\nTRUMP: When they hit, we hit back much harder. They started this. They're a little bit out of control, but they want to make a deal badly.\n\nCORNISH: Good morning, everybody. I'm Audie Cornish.\n\nWe're going to start with the big question this morning. Are the U.S. and Iran about to return to full-scale war? The U.S. military hit more than 90 military targets last night. President Trump posted these videos on Truth Social showing some of the attacks."
+    }
+  ]
+}
