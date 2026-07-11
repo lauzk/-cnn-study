@@ -1,0 +1,524 @@
+{
+  "date": "2026-07-10",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-10/segment/01",
+  "vocabulary": [
+    {
+      "word": "transparency",
+      "phonetic": "/trænsˈpærənsi/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "透明度",
+      "en": "the quality of being open and honest; not hiding anything",
+      "excerpt": "It's bringing up questions about transparency surrounding his health.",
+      "example_cn": "政府需要提高决策的透明度。"
+    },
+    {
+      "word": "assassinate",
+      "phonetic": "/əˈsæsɪneɪt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "暗杀",
+      "en": "to murder a prominent person, often for political reasons",
+      "excerpt": "Israel Warns U.S. of Iran Plot to Assassinate Trump",
+      "example_cn": "他们密谋暗杀总统。"
+    },
+    {
+      "word": "backlash",
+      "phonetic": "/ˈbæklæʃ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "强烈反对",
+      "en": "a strong negative reaction to a recent event or development",
+      "excerpt": "Kylie's Meta Collaboration Sparks Backlash.",
+      "example_cn": "该政策引发了公众的强烈反对。"
+    },
+    {
+      "word": "ambulance",
+      "phonetic": "/ˈæmbjələns/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "救护车",
+      "en": "a vehicle equipped for taking sick or injured people to hospital",
+      "excerpt": "Neighbors Report Seeing McConnell Put in Ambulance on Stretcher",
+      "example_cn": "他们叫了救护车。"
+    },
+    {
+      "word": "stretcher",
+      "phonetic": "/ˈstretʃər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "担架",
+      "en": "a framework for carrying a sick or injured person",
+      "excerpt": "Neighbors Report Seeing McConnell Put in Ambulance on Stretcher",
+      "example_cn": "伤者被用担架抬走了。"
+    },
+    {
+      "word": "intel",
+      "phonetic": "/ˈɪntel/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "情报",
+      "en": "information, especially about an enemy or potential enemy",
+      "excerpt": "Israel shares intel of an Iran plan to assassinate President Trump.",
+      "example_cn": "情报部门收集了关于该组织的情报。"
+    },
+    {
+      "word": "switcheroo",
+      "phonetic": "/ˌswɪtʃəˈruː/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "突然改变",
+      "en": "a sudden or unexpected change or exchange",
+      "excerpt": "Does that explain the plane switcheroo and the renewed strikes by the U.S.?",
+      "example_cn": "他们玩了个调包计。"
+    },
+    {
+      "word": "buckling",
+      "phonetic": "/ˈbʌklɪŋ/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "弯曲的",
+      "en": "bending or warping under pressure",
+      "excerpt": "Urgent work continues to save that buckling building in New York from partial collapse.",
+      "example_cn": "这座桥的梁开始弯曲。"
+    },
+    {
+      "word": "partial collapse",
+      "phonetic": "/ˈpɑːrʃəl kəˈlæps/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "部分坍塌",
+      "en": "a situation where only part of a structure falls down",
+      "excerpt": "Urgent work continues to save that buckling building in New York from partial collapse.",
+      "example_cn": "地震导致大楼部分坍塌。"
+    },
+    {
+      "word": "surveillance",
+      "phonetic": "/sɜːrˈveɪləns/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "监视",
+      "en": "close observation of a person or group, especially one suspected of wrongdoing",
+      "excerpt": "From hot girl summer to hot surveillance summer.",
+      "example_cn": "警方对该地区进行了监视。"
+    },
+    {
+      "word": "sweep under the rug",
+      "phonetic": "/swiːp ˈʌndər ðə rʌɡ/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "掩盖",
+      "en": "to hide or ignore a problem or mistake",
+      "excerpt": "Is Meta trying to sweep privacy concerns under the rug by making Kylie Jenner the face of its new A.I. glasses?",
+      "example_cn": "公司试图掩盖丑闻。"
+    },
+    {
+      "word": "manufacturing consent",
+      "phonetic": "/ˌmænjuˈfæktʃərɪŋ kənˈsent/",
+      "pos": "phrase",
+      "level": "专八",
+      "cn": "制造同意",
+      "en": "the process by which media and other institutions shape public opinion to accept certain ideas",
+      "excerpt": "They are manufacturing consent.",
+      "example_cn": "媒体被指责在制造同意。"
+    },
+    {
+      "word": "exclusive",
+      "phonetic": "/ɪkˈskluːsɪv/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "独家的",
+      "en": "not shared with others; only available to one person or group",
+      "excerpt": "CNN has exclusively obtained video of the moment that the Kentucky Republican was taken by ambulance from his home.",
+      "example_cn": "这家报纸获得了独家报道。"
+    },
+    {
+      "word": "eyewitness",
+      "phonetic": "/ˈaɪwɪtnəs/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "目击者",
+      "en": "a person who has seen something happen and can give a first-hand account",
+      "excerpt": "an eyewitness saw McConnell's face.",
+      "example_cn": "目击者描述了事故经过。"
+    },
+    {
+      "word": "kept in the dark",
+      "phonetic": "/kept ɪn ðə dɑːrk/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "被蒙在鼓里",
+      "en": "to be deliberately not informed about something",
+      "excerpt": "Many Republican lawmakers on Capitol Hill say they've been kept in the dark.",
+      "example_cn": "员工们对公司的计划被蒙在鼓里。"
+    },
+    {
+      "word": "ghoulish",
+      "phonetic": "/ˈɡuːlɪʃ/",
+      "pos": "adj.",
+      "level": "专八",
+      "cn": "恐怖的",
+      "en": "showing an unhealthy interest in death or disaster",
+      "excerpt": "One of the reasons why people are talking about this, political people are talking about this in a kind of ghoulish way, frankly.",
+      "example_cn": "他对事故细节表现出病态的兴趣。"
+    },
+    {
+      "word": "vacancy",
+      "phonetic": "/ˈveɪkənsi/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "空缺",
+      "en": "a position or job that is available",
+      "excerpt": "the Kentucky Senate vacancy law",
+      "example_cn": "该职位有空缺。"
+    },
+    {
+      "word": "special election",
+      "phonetic": "/ˈspeʃl ɪˈlekʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "特别选举",
+      "en": "an election held to fill a vacancy that occurs between regular elections",
+      "excerpt": "There's a special election.",
+      "example_cn": "州长宣布举行特别选举。"
+    },
+    {
+      "word": "certified",
+      "phonetic": "/ˈsɜːrtɪfaɪd/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "被认证的",
+      "en": "officially recognized as meeting certain standards",
+      "excerpt": "The seat has to be empty until a winner is certified.",
+      "example_cn": "选举结果已获认证。"
+    },
+    {
+      "word": "charade",
+      "phonetic": "/ʃəˈreɪd/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "伪装",
+      "en": "an absurd pretense intended to create a pleasant or respectable appearance",
+      "excerpt": "This charade can't continue.",
+      "example_cn": "他们的幸福婚姻只是一场伪装。"
+    },
+    {
+      "word": "coherent",
+      "phonetic": "/koʊˈhɪrənt/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "连贯的",
+      "en": "logical and consistent; easy to understand",
+      "excerpt": "Scott Jennings has backed up that he's completely fine, and he's coherent.",
+      "example_cn": "他的演讲清晰连贯。"
+    },
+    {
+      "word": "pending",
+      "phonetic": "/ˈpendɪŋ/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "即将发生的",
+      "en": "awaiting decision or settlement",
+      "excerpt": "Because there was a pending election that voters were going to make a decision on.",
+      "example_cn": "该案件仍在审理中。"
+    },
+    {
+      "word": "much ado about nothing",
+      "phonetic": "/mʌtʃ əˈduː əˈbaʊt ˈnʌθɪŋ/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "无事生非",
+      "en": "a lot of fuss about something trivial",
+      "excerpt": "I think this is much ado about nothing.",
+      "example_cn": "整件事不过是无事生非。"
+    },
+    {
+      "word": "obviate",
+      "phonetic": "/ˈɑːbvieɪt/",
+      "pos": "v.",
+      "level": "专八",
+      "cn": "消除",
+      "en": "to remove a need or difficulty",
+      "excerpt": "The fact that there isn't an election somehow obviates the senator from one transparency or to doing his job.",
+      "example_cn": "新技术消除了对人工的需求。"
+    },
+    {
+      "word": "gerontocracy",
+      "phonetic": "/ˌdʒerənˈtɑːkrəsi/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "老人统治",
+      "en": "a state or society governed by old people",
+      "excerpt": "The United States Senate is a gerontocracy.",
+      "example_cn": "该国被视为老人统治。"
+    },
+    {
+      "word": "deteriorating",
+      "phonetic": "/dɪˈtɪriəreɪtɪŋ/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "恶化的",
+      "en": "becoming progressively worse",
+      "excerpt": "And then there's, like, a deteriorating something.",
+      "example_cn": "他的健康状况正在恶化。"
+    },
+    {
+      "word": "vouching for",
+      "phonetic": "/vaʊtʃɪŋ fɔːr/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "担保",
+      "en": "to express confidence in or guarantee the quality of something",
+      "excerpt": "And are all the people who are out there vouching for his health creating problems for themselves?",
+      "example_cn": "我愿为他的诚实担保。"
+    },
+    {
+      "word": "tip off",
+      "phonetic": "/tɪp ɔːf/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "通风报信",
+      "en": "to give secret information to someone",
+      "excerpt": "This was the warning from Israel to tip off the White House.",
+      "example_cn": "有人向警方通风报信。"
+    },
+    {
+      "word": "bounty",
+      "phonetic": "/ˈbaʊnti/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "赏金",
+      "en": "a sum of money offered for capturing a person or animal",
+      "excerpt": "a hardline Iranian newspaper put a $100 million bounty on Trump's head.",
+      "example_cn": "政府悬赏捉拿逃犯。"
+    },
+    {
+      "word": "foiled",
+      "phonetic": "/fɔɪld/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "被挫败的",
+      "en": "prevented from succeeding",
+      "excerpt": "there have been two plots that were foiled related to the latter two.",
+      "example_cn": "阴谋被挫败了。"
+    },
+    {
+      "word": "breakout period",
+      "phonetic": "/ˈbreɪkaʊt ˈpɪriəd/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "突破期",
+      "en": "the time needed for a country to develop nuclear weapons",
+      "excerpt": "questioned intel from Netanyahu, for example, on nuclear breakout periods",
+      "example_cn": "专家估计了伊朗的核突破期。"
+    },
+    {
+      "word": "tarmac",
+      "phonetic": "/ˈtɑːrmæk/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "停机坪",
+      "en": "the area of an airport where planes are parked",
+      "excerpt": "our planes are on the tarmac.",
+      "example_cn": "飞机停在停机坪上。"
+    },
+    {
+      "word": "audience of one",
+      "phonetic": "/ˈɔːdiəns əv wʌn/",
+      "pos": "phrase",
+      "level": "专八",
+      "cn": "单一听众",
+      "en": "speaking to a single person, often to influence them",
+      "excerpt": "the Israeli prime minister, Benjamin Netanyahu, has been speaking to an audience of one",
+      "example_cn": "他的演讲似乎只针对一个人。"
+    },
+    {
+      "word": "withdrew from",
+      "phonetic": "/wɪðˈdruː frɒm/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "退出",
+      "en": "to stop being part of an agreement or organization",
+      "excerpt": "President Donald Trump withdrew from the Iran nuclear deal",
+      "example_cn": "该国退出了条约。"
+    },
+    {
+      "word": "crackdown",
+      "phonetic": "/ˈkrækdaʊn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "镇压",
+      "en": "severe action taken to restrict undesirable activities",
+      "excerpt": "a severe and violent crackdown of protests",
+      "example_cn": "政府对抗议活动进行了镇压。"
+    },
+    {
+      "word": "uprising",
+      "phonetic": "/ˈʌpraɪzɪŋ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "起义",
+      "en": "an act of resistance or rebellion against authority",
+      "excerpt": "the January anti-regime uprising",
+      "example_cn": "起义最终被镇压。"
+    },
+    {
+      "word": "emboldened",
+      "phonetic": "/ɪmˈboʊldənd/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "被鼓舞的",
+      "en": "given the courage or confidence to do something",
+      "excerpt": "a more emboldened regime",
+      "example_cn": "这次胜利使军队士气大振。"
+    },
+    {
+      "word": "inflection point",
+      "phonetic": "/ɪnˈflekʃn pɔɪnt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "转折点",
+      "en": "a time of significant change in a situation",
+      "excerpt": "in this inflection point",
+      "example_cn": "公司正处于转折点。"
+    },
+    {
+      "word": "scaffolding",
+      "phonetic": "/ˈskæfəldɪŋ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "脚手架",
+      "en": "a temporary structure used to support workers and materials during construction",
+      "excerpt": "You can see already they are covered with scaffolding.",
+      "example_cn": "大楼周围搭满了脚手架。"
+    },
+    {
+      "word": "tamper with",
+      "phonetic": "/ˈtæmpər wɪð/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "篡改",
+      "en": "to interfere with something in order to damage or alter it",
+      "excerpt": "users can actually tamper with that LED light on the glasses",
+      "example_cn": "有人篡改了证据。"
+    },
+    {
+      "word": "Cybertrucks for the face",
+      "phonetic": "/ˈsaɪbətrʌks fɔːr ðə feɪs/",
+      "pos": "phrase",
+      "level": "专八",
+      "cn": "脸上的赛博卡车",
+      "en": "a metaphor for something ugly or dystopian worn on the face",
+      "excerpt": "people who are online calling this either Cybertrucks for the face",
+      "example_cn": "这些眼镜被戏称为脸上的赛博卡车。"
+    },
+    {
+      "word": "pervert technology",
+      "phonetic": "/pərˈvɜːrt tekˈnɑːlədʒi/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "变态技术",
+      "en": "technology used for inappropriate or immoral purposes",
+      "excerpt": "the biggest advance in pervert technology since the trench coat",
+      "example_cn": "这种设备被批评为变态技术。"
+    },
+    {
+      "word": "social niceties",
+      "phonetic": "/ˈsoʊʃl ˈnaɪsətiz/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "社交礼仪",
+      "en": "polite behavior in social situations",
+      "excerpt": "What are the social niceties for me to say...",
+      "example_cn": "他忽略了基本的社交礼仪。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "CNN has exclusively obtained video of the moment that the Kentucky Republican was taken by ambulance from his home.",
+      "cn": "CNN独家获得了肯塔基州共和党人（麦康奈尔）被救护车从家中接走的视频。",
+      "structure": "主句 + 定语从句",
+      "analysis": "主句为'CNN has exclusively obtained video'，'of the moment'修饰video，'that'引导定语从句修饰'the moment'，从句中主语为'the Kentucky Republican'，谓语为'was taken'。"
+    },
+    {
+      "en": "One of the reasons why people are talking about this, political people are talking about this in a kind of ghoulish way, frankly, is that the Kentucky Senate vacancy law, meaning what do you have to do if suddenly a Senate seat is open?",
+      "cn": "人们谈论此事的原因之一，坦率地说，政治人物以一种病态的方式谈论此事，是因为肯塔基州参议员空缺法，即如果参议员席位突然空缺，你必须做什么？",
+      "structure": "主系表结构 + 同位语从句",
+      "analysis": "主语为'One of the reasons'，'why'引导定语从句修饰'reasons'，主句谓语为'is'，表语为'that'引导的从句，其中'meaning'后为解释说明。"
+    },
+    {
+      "en": "And I think it's a reasonable question to ask, is this individual fit to serve?",
+      "cn": "我认为问这个问题是合理的：这个人是否适合任职？",
+      "structure": "主句 + 宾语从句",
+      "analysis": "主句为'I think'，后接省略that的宾语从句，从句中'it'为形式主语，真正主语为'to ask'，后接直接引语疑问句。"
+    },
+    {
+      "en": "And are all the people who are out there vouching for his health creating problems for themselves later on, by being on the record about it?",
+      "cn": "所有那些公开为他健康担保的人，日后是否会因为公开表态而给自己制造麻烦？",
+      "structure": "主句 + 定语从句",
+      "analysis": "主句为'are all the people...creating problems'，'who'引导定语从句修饰'people'，'by being on the record'为方式状语。"
+    },
+    {
+      "en": "But even though it wasn't exactly new information, the fact that this had been presented was really what sold President Trump to decide that he was finally going to withdraw from the nuclear deal in May of 2018.",
+      "cn": "但尽管这并非全新信息，但这一呈现方式实际上说服了特朗普总统最终决定在2018年5月退出核协议。",
+      "structure": "让步状语从句 + 主句 + 表语从句",
+      "analysis": "'even though'引导让步状语从句，主句主语为'the fact'，后接同位语从句，谓语为'was'，表语为'what'引导的从句，其中包含'that'引导的宾语从句。"
+    },
+    {
+      "en": "And to see that this is a more emboldened regime, one that, surprisingly, has more support from people that are critics of the war.",
+      "cn": "而看到的是一个更加胆大的政权，令人惊讶的是，它得到了更多战争批评者的支持。",
+      "structure": "不定式短语 + 同位语 + 定语从句",
+      "analysis": "'to see that'为不定式短语，'that'引导宾语从句，'one'为同位语，后接'that'引导的定语从句，其中又包含'that'引导的定语从句修饰'people'。"
+    },
+    {
+      "en": "And if you were an anti-regime protests or lost a loved one, I remember some of the commentary after the Internet blackout ended was, oh, well, you didn't let us bury our loved ones, but it took you many months to bury your own, meaning the supreme leader.",
+      "cn": "如果你曾是反政府抗议者或失去了亲人，我记得网络中断结束后的一些评论是：哦，你们不让我们埋葬亲人，但你们却花了几个月才埋葬自己的（最高领袖）。",
+      "structure": "条件状语从句 + 主句 + 宾语从句",
+      "analysis": "'if'引导条件状语从句，主句为'I remember'，后接省略that的宾语从句，从句主语为'some of the commentary'，谓语为'was'，后接直接引语，'meaning'为现在分词作状语。"
+    },
+    {
+      "en": "And there were countless banners calling for the president to be assassinated, along with other U.S. politicos like Senator Lindsey Graham.",
+      "cn": "还有无数横幅呼吁暗杀总统，以及其他美国政客，如参议员林赛·格雷厄姆。",
+      "structure": "there be句型 + 现在分词短语",
+      "analysis": "'there were'为存在句型，主语为'countless banners'，'calling for'为现在分词短语作定语修饰'banners'，'along with'为介词短语。"
+    },
+    {
+      "en": "So, this is new and exclusive video just into CNN, showing the moment a month ago that Senator Mitch McConnell was loaded into an ambulance.",
+      "cn": "所以，这是CNN刚刚获得的独家新视频，显示一个月前参议员米奇·麦康奈尔被抬上救护车的时刻。",
+      "structure": "主句 + 现在分词短语 + 定语从句",
+      "analysis": "主句为'this is video'，'showing'为现在分词短语作定语，'that'引导定语从句修饰'the moment'。"
+    },
+    {
+      "en": "And I think it's a reasonable question to ask, is this individual fit to serve?",
+      "cn": "我认为问这个问题是合理的：这个人是否适合任职？",
+      "structure": "主句 + 宾语从句",
+      "analysis": "主句为'I think'，后接省略that的宾语从句，从句中'it'为形式主语，真正主语为'to ask'，后接直接引语疑问句。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "Mitch McConnell's Health and Transparency",
+      "content": "美国参议员米奇·麦康奈尔（Mitch McConnell）的健康状况引发关注。CNN独家视频显示他一个月前被救护车接走，但官方未公开详情。共和党内部对透明度有质疑，部分议员表示不知情。肯塔基州参议员空缺法规定，若席位空缺需举行特别选举。此事引发关于政客健康透明度的讨论，类似此前拜登和特朗普的健康争议。",
+      "keywords": "Mitch McConnell, health, transparency, Senate vacancy, special election"
+    },
+    {
+      "title": "Iran Assassination Plot Against Trump",
+      "content": "以色列向美国提供情报，称伊朗计划暗杀特朗普总统。此前伊朗强硬派报纸曾悬赏1亿美元刺杀特朗普。美国与以色列在伊朗核问题及地区冲突中合作密切，但以色列情报的可信度曾受质疑，如内塔尼亚胡关于伊朗核突破期的说法。伊朗国内反政府情绪与对未来的担忧并存。",
+      "keywords": "Iran, assassination plot, Trump, Israel, intelligence, nuclear deal"
+    },
+    {
+      "title": "Meta's AI Glasses and Privacy Backlash",
+      "content": "Meta与凯莉·詹娜（Kylie Jenner）合作推广其AI眼镜，引发隐私担忧。用户可篡改LED指示灯，使他人无法察觉被录制。Meta随后更新软件，关闭摄像头时自动关闭指示灯。公众批评该技术为“脸上的赛博卡车”或“变态技术”，并担忧其被滥用于偷拍。Meta此前因隐私问题多次被起诉。",
+      "keywords": "Meta, AI glasses, privacy, Kylie Jenner, surveillance, backlash"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nNeighbors Report Seeing McConnell Put in Ambulance on Stretcher; Israel Warns U.S. of Iran Plot to Assassinate Trump; Kylie's Meta Collaboration Sparks Backlash. Aired 6-6:30a ET\n\nAired July 10, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nBRAD SMITH, CNN ANCHOR: People in California, but not in a good way. This peach truck, it lost some of its fruit on the roadway and caused a major traffic jam.\n\nThe peaches were eventually pushed to the median, and the lane was thankfully reopened. As if there's not enough that L.A. drivers have to deal with.\n\nThat does it for CNN HEADLINE EXPRESS. I'm Brad Smith. CNN THIS MORNING with Audie Cornish starts right now.\n\nAUDIE CORNISH, CNN ANCHOR: All right. We've got new video just into CNN, showing the moment Mitch McConnell was taken to the hospital a month ago. It's bringing up questions about transparency surrounding his health.\n\nUNIDENTIFIED MALE: He's obviously not doing well, but don't know if he's alive or has passed away.\n\nCORNISH: And Israel shares intel of an Iran plant -- plan to assassinate President Trump. Does that explain the plane switcheroo and the renewed strikes by the U.S.?\n\nUrgent work continues to save that buckling building in New York from partial collapse. Is the timeline too ambitious?\n\nAnd from hot girl summer to hot surveillance summer. Is Meta trying to sweep privacy concerns under the rug by making Kylie Jenner the face of its new A.I. glasses?\n\nUNIDENTIFIED FEMALE: Do not buy the Kylie Jenner Meta glasses. Don't buy them. Point blank, period. They are manufacturing consent.\n\n(END VIDEO CLIP) CORNISH: So, this is new and exclusive video just into CNN. It's showing the moment a month ago that Senator Mitch McConnell was loaded into an ambulance.\n\nNow, his current health status remains in question.\n\nGood morning, everybody. I'm Audie Cornish, and we want to start with the discussion about the former Senate leader's health.\n\nCNN has exclusively obtained video of the moment that the Kentucky Republican was taken by ambulance from his home. This happened on June 14.\n\nNeighbors saw the senator being loaded into an ambulance on a stretcher. Two ambulances, a fire truck, and Capitol police officers were also seen blocking off the street.\n\nNow, the face of the person isn't visible in the video, but one neighbor told CNN that an eyewitness saw McConnell's face.\n\nNow, this is new detail around McConnell's hospitalization, which has been a mystery so far. Many Republican lawmakers on Capitol Hill say they've been kept in the dark.\n\nREP. BRETT GUTHRIE (R-KY): We haven't spoken directly. I've text with him, and I've talked to people with his office and his staff. And, you know, I don't know much more than what the public knows.\n\nSEN. MARSHA BLACKBURN (R-TN): I have not had any conversations with him. I understand that some of my colleagues have. We wish him a speedy recovery.\n\nREP. MARLIN STUTZMAN (R-IN): Yes. No, no, I have not heard from him. And I think it's a question that Republicans should be asking.\n\nUNIDENTIFIED FEMALE: Do you know that he's alive?\n\nSTUTZMAN: I don't. You know, just the things that I've heard and seen from some friends is that he's obviously not doing well, but don't know if he's alive or has passed away.\n\nCORNISH: So, joining me now in the group chat, Elliot Williams, CNN legal analyst and former federal prosecutor; Terry Schilling, president of the American Principles Project; and Lulu Garcia-Navarro, CNN contributor and \"New York Times\" journalist.\n\nOne of the reasons why people are talking about this, political people are talking about this in a kind of ghoulish way, frankly, is that the Kentucky Senate vacancy law, meaning what do you have to do if suddenly a Senate seat is open?\n\nWell, there's a special election. The governor has to call for it. And the seat has to be empty until a winner is certified.\n\nSo, the idea is that the clock is somehow ticking on if, suddenly. there's an open seat in Kentucky, whether it can be filled.\n\nWhat I don't know is why Republicans are kind of leading the charge online, talking about this. This is Nancy Mace in a social media post: \"If McConnell is in as bad a shape as Biden ever was, or worse, he needs to step aside. This charade can't continue. We can't demand of others what we won't demand of ourselves.\"\n\nTERRY SCHILLING, PRESIDENT, AMERICAN PRINCIPLES PROJECT: I think this is all getting kind of crazy, frankly. I can speak a little bit to this personally.\n\nWhen my dad was running for Congress in Iowa, Western Iowa, in 2020, he was diagnosed with stage four intestinal cancer. And we made the decision that, since it was an ongoing election, to come public and disclose everything.\n\nThe reality is, is that I think McConnell is doing fine. Scott Jennings has backed up that he's completely fine, and he's coherent.\n\nCORNISH: But don't skip over that. You said, \"We made the decision to be public.\"\n\nSCHILLING: Because there was a pending election that voters were going to make a decision on.\n\nBut you look at what's happening in the Senate right now. They're not doing anything of substance. There's -- there's not going to be a SAVE Vote Act. It looks like they don't need his vote right now.\n\nHe's announced his retirement. He's being replaced by, most likely, Andy Barr in Kentucky. It will be exciting to see.\n\nBut I think this is much ado about nothing. I think we should let -- give him the grace and give him some privacy. He'll come out when he is -- when he feels comfortable.\n\nELLIOT WILLIAMS, CNN LEGAL ANALYST: Can I ask a question? If you're a resident of the state of Kentucky and need help getting a passport with the State Department, who do you call?\n\nSCHILLING: You call Senator Mitch McConnell's office. You -- oh, please, the Senate staff. Everyone knows that the Senate staff is really where the magic happens and makes it all work.\n\nWILLIAMS: I think. Well, no, no, but I just -- I just think the notion that, because there is not a major piece of --\n\nCORNISH: Fighting legislation.\n\nWILLIAMS: Fighting legislation that's a priority to Republicans, that somehow, the residents of the state of Kentucky aren't entitled to -- aren't entitled to know, No. 1, what the health status is of one of the most senior senators in the United States.\n\nWILLIAMS: And two, the fact that there isn't an election somehow obviates the senator from one transparency or to doing his job.\n\nCORNISH: There's probably a trust issue, too, because I think during -- when McConnell was a leader, he was someone who manipulated the calendar a lot, somebody who would delay votes for this reason or that reason, most famously, when it came to the Supreme Court.\n\nMeghan McCain weighed in, as well. Another child of a politico, saying, \"I also have a lot of regrets almost a decade since my dad's passing. My family should have forced him to step down the second he was diagnosed, which is why I'm now an advocate of age and term limits in politics. I also sincerely hope Senator McConnell, OK.\"\n\nWhat struck me there was the word \"forced.\"\n\nLULU GARCIA-NAVARRO, CNN CONTRIBUTOR: Yes. This is two things. And you have the experience of having it be both a political matter and a personal matter.\n\nEveryone, as a personal matter, has had to deal with aging parents who you have to take their car keys away and --\n\nGARCIA-NAVARRO: -- and have that difficult conversation. They have to decide what they're going to do when they -- you know, if they're going to go into special facilities, et cetera, et cetera.\n\nWhen it becomes more than that, it's when it's a political matter and not just about the election, but about transparency.\n\nAnd I do take the point that, at this point, if -- if Mitch McConnell is well enough to be gabbing to Scott Jennings, he should be well enough to call in to CNN or to \"The New York Times\" or to FOX News or whatever, to -- to show that he's OK.\n\nAnd the fact that he hasn't done that is quite -- quite frankly, leading to these conspiracies.\n\nSCHILLING: If I could, because, again, I think there's a charitable way to read this, especially if you know Mitch McConnell.\n\nHe is a very strong man. He does not like being told what to do, especially by public pressure.\n\nSCHILLING: He -- he works on his own time frame. And so, I think you've got to give it to him. Give him a few days, take it -- take a deep breath. CORNISH: But let me play for someone you pointed out this week who you\n\ncould describe very similarly, the former defense secretary, Lloyd Austin. When he went to the hospital for his treatment, it became quite the scandal for Republicans.\n\nAnd in the end, he came out, more or less kind of apologized. And I want to play for you the lesson that he took away from that moment.\n\nLLOYD AUSTIN, FORMER SECRETARY OF DEFENSE: I don't think it's news that I'm a pretty private guy. I never liked burdening others with my problems. It's just not my way.\n\nBut I've learned from this experience, taking this kind of job means losing some of the privacy that most of us expect. The American people have a right to know if their leaders are facing health challenges that might affect their ability to perform their duties, even temporarily.\n\nCORNISH: \"Even temporarily.\" Also notice, he said, the loss of privacy is part of the gig.\n\nAnd I just want to put up some images here, in memoriam. These are lawmakers who have died while they were holding office since 2024. And you pointed out many of these names.\n\nSCHILLING: A lot of Dems up there.\n\nCORNISH: A lot of \"D's.\"\n\nWILLIAMS: Well, it's a lot of old people.\n\nWILLIAMS: I mean, I think let's just -- We should also discuss the fact that the United States Senate is a gerontocracy. It is. Well, it is.\n\nCORNISH: I think the reason why people are discussing is because the Biden thing --\n\nCORNISH: -- was like a big wakeup call where everybody was questioning, and Republicans are still questioning.\n\nGARCIA-NAVARRO: Can we talk about the Trump thing? I mean, this is the other thing.\n\nGARCIA-NAVARRO: We don't know what President Trump actually is suffering from. What are his swelling -- SCHILLING: What are you talking about?\n\nGARCIA-NAVARRO: Well, there's a lot of --\n\nCORNISH: There's -- we have done many segments on the rumors about various health issues.\n\nGARCIA-NAVARRO: About various health issues where doctors speculated, with has swollen ankles, you know, the continued bruising on his arms, like -- on his hands.\n\nI mean, there are lots of questions about, when -- when people get to a certain age. I mean, let's be honest. I mean, he's 80. Mitch McConnell is -- how old is Mitch McConnell now?\n\nSCHILLING: He should be in his 80s. I don't think --\n\nGARCIA-NAVARRO: Yes, he's in his 80s. I mean, obviously, Biden was also in his 80s. I mean, you start to have serious health concerns.\n\nAnd my point about this, more broadly, is I think the more general point, which is about transparency and what do you owe the voting public about --\n\nCORNISH: What do you owe?\n\nGARCIA-NAVARRO: What do you owe the voting public about your health?\n\nCORNISH: And here's a fact I owe all of you. He's 84.\n\nSCHILLING: Eighty-four.\n\nGARCIA-NAVARRO: Thank you.\n\nCORNISH: But I have to be honest. One of the things that happened with Biden and Trump was this idea of, like, well, there's a vigorous and, you know, still operating 80-something. And then there's, like, a deteriorating something.\n\nAnd I think what the audience and voters want to know is, are we all on the same page about when it's OK not to say anything --\n\nCORNISH: -- about what's happening? And the answer is sounding more and more like no.\n\nWILLIAMS: Well, yes. And moreover, I think a lot of people showed their behinds about Bidens age. I mean, I think we went through -- people don't remember, there was a year-long debate about Joe Biden being unfit for the presidency.\n\nWILLIAMS: Which was right for us to have as a nation, because it was clear the president was not fit.\n\nThis is an individual who is, No. 1, one of the senior leaders on the Appropriations Committee, a former Senate majority leader and a representative serving the state of Kentucky.\n\nAnd I think it's a reasonable question to ask, is this individual fit to serve? And are all the people who are out there vouching for his health creating problems for themselves?\n\nWILLIAMS: Later on, by being on the record about it?\n\nCORNISH: Let me follow up on something else quite serious. Coming up on CNN THIS MORNING, is Iran looking to assassinate President Trump? This was the warning from Israel to tip off the White House.\n\nPlus, extreme heat fueling dangerous and deadly wildfires in Spain.\n\nAnd where will LeBron go? The odds on Kalshi say there's a greater than 60 percent chance he heads to Cleveland, followed by the Heat and Warriors. We're going to tell you what Charles Barkley thinks.\n\nCHARLES BARKLEY, SPORTS ANALYST/FORMER PROFESSIONAL BASKETBALL PLAYER: He should go back to Cleveland and finish his career there. If he goes to Philly, there's people going to say he's ring-chasing to catch Michael. If he goes to Golden State, they're going to say he's ring- chasing.\n\nCORNISH: So, an alleged plot by Iran to assassinate President Trump, uncovered by Israel. Sources tell CNN they shared the intelligence with the United States this week.\n\nDONALD TRUMP, U.S. PRESIDENT: I'm No. 1 on the kill list for Iran. They're lovely people. I'm No. 1. I may be gone, too, because I'm their No. 1 target. It's out all over the place. I'm their No. 1, because they're scum.\n\nCORNISH: Now, during funeral processions for the former Iranian leader, Ayatollah Ali Khamenei, a hardline Iranian newspaper put a $100 million bounty on Trump's head.\n\nAnd there were countless banners calling for the president to be assassinated, along with other U.S. politicos like Senator Lindsey Graham.\n\nGraham posted this photo on social media, remarking, \"At least they used a good photo of me.\"\n\nJoining the group chat, Holly Dagres, senior fellow at the Washington Institute for Near East Policy.\n\nObviously, the U.S. and Israel were able to take out whole tiers of leadership in Iran. So, talk about how serious this assassination threat is, could have been based on what you're reading on the sources.\n\nHOLLY DAGRES, SENIOR FELLOW, WASHINGTON INSTITUTE FOR NEAR EAST POLICY: Well, first, we should start by saying that this was related to the targeted killing of Quds Force Commander Qasem Soleimani by a U.S. drone strike in Baghdad in 2020.\n\nSo, these calls for an assassination of not just President Donald Trump, but senior U.S. officials that were in the first Trump administration: then-Secretary of State Mike Pompeo, national security adviser John Bolton, among those. And actually, there have been two plots that were foiled related to the latter two.\n\nSo, this isn't entirely new. But to your point, I mean, this is right now happening after a three-month war.\n\nCORNISH: I do want to raise something, which is that the people who have been very critical of this war and critical of the U.S. and the Netanyahu and Trump relationship, have kind of questioned intel from Netanyahu, for example, on nuclear breakout periods or something like that.\n\nI want to play for you. This is Hillary Clinton. This is many weeks back, but she was talking about what it was like to deal with Netanyahu when she was secretary of state. And it's relevant here. Let me play it for you.\n\nHILLARY CLINTON, FORMER U.S. SECRETARY OF STATE: I remember one day I was on the phone for hours with Ehud, with Bibi, with others, you know. And they would say things like, you know, our planes are on the tarmac.\n\nAnd I'd say, Well, good luck. I mean, great. Why are you doing this?\n\nUNIDENTIFIED MALE: You're saying you were -- they were -- you were -- you were being played?\n\nCLINTON: All the time.\n\n(END VIDEO CLIP) CORNISH: Can you talk about this in this context? I think where people are speaking about Netanyahu and Israel with suspicion.\n\nDAGRES: Well, we've seen incidents where the Israeli prime minister, Benjamin Netanyahu, has been speaking to an audience of one, which famously in 2018, right before President Donald Trump withdrew from the Iran nuclear deal, Netanyahu did this very well-known presentation in English, of course, about new findings that Mossad had found from some files they had stolen from an undeclared site.\n\nBut even though it wasn't exactly new information, the fact that this had been presented was really what sold President Trump to decide that he was finally going to withdraw from the nuclear deal in May of 2018.\n\nSo, I think that a lot of questions are arising in this moment, because it's clear that the goals that the Israelis had for the war hadn't been met, but had to be deterred because of the ceasefire. And there's an understanding that there's still unfinished business with Tehran.\n\nCORNISH: I know it's been actually hard for you, because you have a lot of family and connection to Iran. We've been seeing these images of people mourning the death of the supreme leader.\n\nBut this is a dictatorship with -- that had a severe and violent crackdown of protests. What is the feeling for people who didn't have to make their way out into those streets?\n\nDAGRES: Well, you know, ironically, this past week marked the six- month anniversary of the January anti-regime uprising that resulted in the deaths of thousands of protesters. And so, a lot of those Iranians were honoring their memory, the people that could afford to in the capital of Tehran, where much of the main procession was happening for Supreme Leader Ayatollah Ali Khamenei's death was -- people took it as an opportunity to leave, to go to the North or Caspian Sea.\n\nAnd so, those people were not on the streets. They were not. And if you were an anti-regime protests or lost a loved one, I remember some of the commentary after the Internet blackout ended was, oh, well, you didn't let us bury our loved ones, but it took you many months to bury your own, meaning the supreme leader. So, I think that really tells a lot about this moment.\n\nCORNISH: Are people still scared?\n\nDAGRES: They're scared for many reasons, Audie. They're scared because they don't know where their future is, because they don't -- if you're an anti-regime Iranian, you don't want this regime.\n\nAnd you had the United States arguably say that help was on the way. That is, President Donald Trump, and that this was a regime change, or at least initially.\n\nAnd then to see that this is a more emboldened regime, one that, surprisingly, has more support from people that are critics of the war.\n\nAnd -- but also there's a worry: like, what if this war does continue? Their lives have gotten effectively worse. Economy's in shambles. They're saying they haven't seen numbers like that since the Iran-Iraq war.\n\nAnd so, if you're a young Iranian, you feel like your future -- there isn't really one. So, this is where Iranians are feeling, at least in this moment. I would say.\n\nCORNISH: OK. Holly, thank you so much for talking to us in this inflection point. We'll have you back soon.\n\nCORNISH: Now, after the break on CNN THIS MORNING, we're going to talk about the worker who saved a New York City high rise from collapse. They're speaking out.\n\nUNIDENTIFIED MALE: In this situation. They're calling me a hero. I don't believe I am.\n\nCORNISH: The job isn't done yet, however. Can workers save the building from partial demolition?\n\nPlus, Meta bolsters privacy features on its secret recording Ray-Ban glasses. Will that make them any less creepy?\n\nAnd a live look at the White House. The president's next construction project, the White House columns. You can see already they are covered with scaffolding.\n\nKYLIE JENNER, REALITY TV STAR: Hi, I'm Kylie Jenner, the new voice of Meta A.I. Hey, Meta A.I., is that a chicken?\n\nCORNISH: OK, Kylie Jenner. As she says, the new face and, it turns out, voice of Meta A.I. glasses. But, as everything with the Kardashians and A.I., comes the backlash.\n\nUNIDENTIFIED FEMALE: There's a way for you to tell, usually, if somebody is filming on their phone. With the glasses, there is no way for you to tell. And they are trying to get women more and more comfortable with that.\n\nSo, enter Kylie Jenner with this very cute pair of glasses.\n\nUNIDENTIFIED FEMALE: This collaboration with Kylie ultimately is roping in women consumers.\n\nUNIDENTIFIED MALE: To me, it's almost as if Meta is saying, like, OK, these creepy men are recording you, but hey, you can record them right back.\n\nCORNISH: All right. Needless to say, seems to be some real concerns. Turns out users can actually tamper with that LED light on the glasses, so you wouldn't know if you were being recorded.\n\nSo, now Meta is trying to address some of those concerns, saying it's rolling out a new update that will turn off the camera if users turn off the privacy light.\n\nSo, we're talking about all of this on this week's \"Engagement Party.\" So, joining the group chat, Ari Shapiro, my co-host of \"Engagement Party.\"\n\nSo, we were joking about the various tiers of people who hate this.\n\nARI SHAPIRO, CO-HOST, \"ENGAGEMENT PARTY\": Yes. This intersects with a lot of different backlashes.\n\nSHAPIRO: All going on at once.\n\nCORNISH: But also, there are some people who might make use of them. Help me understand why it's such a big thing online.\n\nSHAPIRO: All right. Well, first of all, you've got the A.I. backlash. You've got the tech billionaires backlash. You've got the surveillance technology backlash.\n\nSo, this is kind of summed up by people who are online calling this either Cybertrucks for the face, or there was another line I saw that: was the biggest advance in pervert technology since the trench coat.\n\nSHAPIRO: I think Meta has a public history of, No. 1, compromising their users' safety and security and privacy, then publicly apologizing for it.\n\nAnd No. 2, sinking tens of billions of dollars into transformative technologies that then die, like the Metaverse.\n\nToo early to say if this is going to be one or both of those things, but the public response is, to say the least, not positive. CORNISH: Yes. And we should say what started out kind of like social\n\nmedia stuff here and there, especially being posted by women, has moved to the lawsuit face [SIC] -- phase of this with you've got some states -- let me see who it was. There's some kid safety lawsuits that they're dealing with, four state attorneys general seeking $1.4 trillion in damages.\n\nAnd there have been a couple other cases, as you've mentioned, that Meta has either lost or settled this year. And then there's just, Lulu, people like you who have encountered these in the wild.\n\nGARCIA-NAVARRO: I've encountered these in the wild. It was deeply uncomfortable. Someone was, I thought, filming me when I was with my daughter. I didn't like it. And then it just starts to --\n\nCORNISH: And where were you?\n\nGARCIA-NAVARRO: I was on a train.\n\nGARCIA-NAVARRO: So, I was in a public space. But at the same time, it leads to these very awkward interactions.\n\nWhat are the social niceties for me to say, like, hello, sir, I don't -- are you filming me with your Meta glasses? I don't want to be filmed.\"\n\nSHAPIRO: Did he admit it?\n\nGARCIA-NAVARRO: No. It was just like this incredibly awkward.",
+  "segments": [
+    {
+      "seg": 1,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-10/segment/01",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nNeighbors Report Seeing McConnell Put in Ambulance on Stretcher; Israel Warns U.S. of Iran Plot to Assassinate Trump; Kylie's Meta Collaboration Sparks Backlash. Aired 6-6:30a ET\n\nAired July 10, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nBRAD SMITH, CNN ANCHOR: People in California, but not in a good way. This peach truck, it lost some of its fruit on the roadway and caused a major traffic jam.\n\nThe peaches were eventually pushed to the median, and the lane was thankfully reopened. As if there's not enough that L.A. drivers have to deal with.\n\nThat does it for CNN HEADLINE EXPRESS. I'm Brad Smith. CNN THIS MORNING with Audie Cornish starts right now.\n\nAUDIE CORNISH, CNN ANCHOR: All right. We've got new video just into CNN, showing the moment Mitch McConnell was taken to the hospital a month ago. It's bringing up questions about transparency surrounding his health.\n\nUNIDENTIFIED MALE: He's obviously not doing well, but don't know if he's alive or has passed away.\n\nCORNISH: And Israel shares intel of an Iran plant -- plan to assassinate President Trump. Does that explain the plane switcheroo and the renewed strikes by the U.S.?\n\nUrgent work continues to save that buckling building in New York from partial collapse. Is the timeline too ambitious?\n\nAnd from hot girl summer to hot surveillance summer. Is Meta trying to sweep privacy concerns under the rug by making Kylie Jenner the face of its new A.I. glasses?\n\nUNIDENTIFIED FEMALE: Do not buy the Kylie Jenner Meta glasses. Don't buy them. Point blank, period. They are manufacturing consent.\n\n(END VIDEO CLIP) CORNISH: So, this is new and exclusive video just into CNN. It's showing the moment a month ago that Senator Mitch McConnell was loaded into an ambulance.\n\nNow, his current health status remains in question.\n\nGood morning, everybody. I'm Audie Cornish, and we want to start with the discussion about the former Senate leader's health.\n\nCNN has exclusively obtained video of the moment that the Kentucky Republican was taken by ambulance from his home. This happened on June 14.\n\nNeighbors saw the senator being loaded into an ambulance on a stretcher. Two ambulances, a fire truck, and Capitol police officers were also seen blocking off the street.\n\nNow, the face of the person isn't visible in the video, but one neighbor told CNN that an eyewitness saw McConnell's face.\n\nNow, this is new detail around McConnell's hospitalization, which has been a mystery so far. Many Republican lawmakers on Capitol Hill say they've been kept in the dark.\n\nREP. BRETT GUTHRIE (R-KY): We haven't spoken directly. I've text with him, and I've talked to people with his office and his staff. And, you know, I don't know much more than what the public knows.\n\nSEN. MARSHA BLACKBURN (R-TN): I have not had any conversations with him. I understand that some of my colleagues have. We wish him a speedy recovery.\n\nREP. MARLIN STUTZMAN (R-IN): Yes. No, no, I have not heard from him. And I think it's a question that Republicans should be asking.\n\nUNIDENTIFIED FEMALE: Do you know that he's alive?\n\nSTUTZMAN: I don't. You know, just the things that I've heard and seen from some friends is that he's obviously not doing well, but don't know if he's alive or has passed away.\n\nCORNISH: So, joining me now in the group chat, Elliot Williams, CNN legal analyst and former federal prosecutor; Terry Schilling, president of the American Principles Project; and Lulu Garcia-Navarro, CNN contributor and \"New York Times\" journalist.\n\nOne of the reasons why people are talking about this, political people are talking about this in a kind of ghoulish way, frankly, is that the Kentucky Senate vacancy law, meaning what do you have to do if suddenly a Senate seat is open?\n\nWell, there's a special election. The governor has to call for it. And the seat has to be empty until a winner is certified.\n\nSo, the idea is that the clock is somehow ticking on if, suddenly. there's an open seat in Kentucky, whether it can be filled.\n\nWhat I don't know is why Republicans are kind of leading the charge online, talking about this. This is Nancy Mace in a social media post: \"If McConnell is in as bad a shape as Biden ever was, or worse, he needs to step aside. This charade can't continue. We can't demand of others what we won't demand of ourselves.\"\n\nTERRY SCHILLING, PRESIDENT, AMERICAN PRINCIPLES PROJECT: I think this is all getting kind of crazy, frankly. I can speak a little bit to this personally.\n\nWhen my dad was running for Congress in Iowa, Western Iowa, in 2020, he was diagnosed with stage four intestinal cancer. And we made the decision that, since it was an ongoing election, to come public and disclose everything.\n\nThe reality is, is that I think McConnell is doing fine. Scott Jennings has backed up that he's completely fine, and he's coherent.\n\nCORNISH: But don't skip over that. You said, \"We made the decision to be public.\"\n\nSCHILLING: Because there was a pending election that voters were going to make a decision on.\n\nBut you look at what's happening in the Senate right now. They're not doing anything of substance. There's -- there's not going to be a SAVE Vote Act. It looks like they don't need his vote right now.\n\nHe's announced his retirement. He's being replaced by, most likely, Andy Barr in Kentucky. It will be exciting to see.\n\nBut I think this is much ado about nothing. I think we should let -- give him the grace and give him some privacy. He'll come out when he is -- when he feels comfortable.\n\nELLIOT WILLIAMS, CNN LEGAL ANALYST: Can I ask a question? If you're a resident of the state of Kentucky and need help getting a passport with the State Department, who do you call?\n\nSCHILLING: You call Senator Mitch McConnell's office. You -- oh, please, the Senate staff. Everyone knows that the Senate staff is really where the magic happens and makes it all work.\n\nWILLIAMS: I think. Well, no, no, but I just -- I just think the notion that, because there is not a major piece of --\n\nCORNISH: Fighting legislation.\n\nWILLIAMS: Fighting legislation that's a priority to Republicans, that somehow, the residents of the state of Kentucky aren't entitled to -- aren't entitled to know, No. 1, what the health status is of one of the most senior senators in the United States.\n\nWILLIAMS: And two, the fact that there isn't an election somehow obviates the senator from one transparency or to doing his job.\n\nCORNISH: There's probably a trust issue, too, because I think during -- when McConnell was a leader, he was someone who manipulated the calendar a lot, somebody who would delay votes for this reason or that reason, most famously, when it came to the Supreme Court.\n\nMeghan McCain weighed in, as well. Another child of a politico, saying, \"I also have a lot of regrets almost a decade since my dad's passing. My family should have forced him to step down the second he was diagnosed, which is why I'm now an advocate of age and term limits in politics. I also sincerely hope Senator McConnell, OK.\"\n\nWhat struck me there was the word \"forced.\"\n\nLULU GARCIA-NAVARRO, CNN CONTRIBUTOR: Yes. This is two things. And you have the experience of having it be both a political matter and a personal matter.\n\nEveryone, as a personal matter, has had to deal with aging parents who you have to take their car keys away and --\n\nGARCIA-NAVARRO: -- and have that difficult conversation. They have to decide what they're going to do when they -- you know, if they're going to go into special facilities, et cetera, et cetera.\n\nWhen it becomes more than that, it's when it's a political matter and not just about the election, but about transparency.\n\nAnd I do take the point that, at this point, if -- if Mitch McConnell is well enough to be gabbing to Scott Jennings, he should be well enough to call in to CNN or to \"The New York Times\" or to FOX News or whatever, to -- to show that he's OK.\n\nAnd the fact that he hasn't done that is quite -- quite frankly, leading to these conspiracies.\n\nSCHILLING: If I could, because, again, I think there's a charitable way to read this, especially if you know Mitch McConnell.\n\nHe is a very strong man. He does not like being told what to do, especially by public pressure.\n\nSCHILLING: He -- he works on his own time frame. And so, I think you've got to give it to him. Give him a few days, take it -- take a deep breath. CORNISH: But let me play for someone you pointed out this week who you\n\ncould describe very similarly, the former defense secretary, Lloyd Austin. When he went to the hospital for his treatment, it became quite the scandal for Republicans.\n\nAnd in the end, he came out, more or less kind of apologized. And I want to play for you the lesson that he took away from that moment.\n\nLLOYD AUSTIN, FORMER SECRETARY OF DEFENSE: I don't think it's news that I'm a pretty private guy. I never liked burdening others with my problems. It's just not my way.\n\nBut I've learned from this experience, taking this kind of job means losing some of the privacy that most of us expect. The American people have a right to know if their leaders are facing health challenges that might affect their ability to perform their duties, even temporarily.\n\nCORNISH: \"Even temporarily.\" Also notice, he said, the loss of privacy is part of the gig.\n\nAnd I just want to put up some images here, in memoriam. These are lawmakers who have died while they were holding office since 2024. And you pointed out many of these names.\n\nSCHILLING: A lot of Dems up there.\n\nCORNISH: A lot of \"D's.\"\n\nWILLIAMS: Well, it's a lot of old people.\n\nWILLIAMS: I mean, I think let's just -- We should also discuss the fact that the United States Senate is a gerontocracy. It is. Well, it is.\n\nCORNISH: I think the reason why people are discussing is because the Biden thing --\n\nCORNISH: -- was like a big wakeup call where everybody was questioning, and Republicans are still questioning.\n\nGARCIA-NAVARRO: Can we talk about the Trump thing? I mean, this is the other thing.\n\nGARCIA-NAVARRO: We don't know what President Trump actually is suffering from. What are his swelling -- SCHILLING: What are you talking about?\n\nGARCIA-NAVARRO: Well, there's a lot of --\n\nCORNISH: There's -- we have done many segments on the rumors about various health issues.\n\nGARCIA-NAVARRO: About various health issues where doctors speculated, with has swollen ankles, you know, the continued bruising on his arms, like -- on his hands.\n\nI mean, there are lots of questions about, when -- when people get to a certain age. I mean, let's be honest. I mean, he's 80. Mitch McConnell is -- how old is Mitch McConnell now?\n\nSCHILLING: He should be in his 80s. I don't think --\n\nGARCIA-NAVARRO: Yes, he's in his 80s. I mean, obviously, Biden was also in his 80s. I mean, you start to have serious health concerns.\n\nAnd my point about this, more broadly, is I think the more general point, which is about transparency and what do you owe the voting public about --\n\nCORNISH: What do you owe?\n\nGARCIA-NAVARRO: What do you owe the voting public about your health?\n\nCORNISH: And here's a fact I owe all of you. He's 84.\n\nSCHILLING: Eighty-four.\n\nGARCIA-NAVARRO: Thank you.\n\nCORNISH: But I have to be honest. One of the things that happened with Biden and Trump was this idea of, like, well, there's a vigorous and, you know, still operating 80-something. And then there's, like, a deteriorating something.\n\nAnd I think what the audience and voters want to know is, are we all on the same page about when it's OK not to say anything --\n\nCORNISH: -- about what's happening? And the answer is sounding more and more like no.\n\nWILLIAMS: Well, yes. And moreover, I think a lot of people showed their behinds about Bidens age. I mean, I think we went through -- people don't remember, there was a year-long debate about Joe Biden being unfit for the presidency.\n\nWILLIAMS: Which was right for us to have as a nation, because it was clear the president was not fit.\n\nThis is an individual who is, No. 1, one of the senior leaders on the Appropriations Committee, a former Senate majority leader and a representative serving the state of Kentucky.\n\nAnd I think it's a reasonable question to ask, is this individual fit to serve? And are all the people who are out there vouching for his health creating problems for themselves?\n\nWILLIAMS: Later on, by being on the record about it?\n\nCORNISH: Let me follow up on something else quite serious. Coming up on CNN THIS MORNING, is Iran looking to assassinate President Trump? This was the warning from Israel to tip off the White House.\n\nPlus, extreme heat fueling dangerous and deadly wildfires in Spain.\n\nAnd where will LeBron go? The odds on Kalshi say there's a greater than 60 percent chance he heads to Cleveland, followed by the Heat and Warriors. We're going to tell you what Charles Barkley thinks.\n\nCHARLES BARKLEY, SPORTS ANALYST/FORMER PROFESSIONAL BASKETBALL PLAYER: He should go back to Cleveland and finish his career there. If he goes to Philly, there's people going to say he's ring-chasing to catch Michael. If he goes to Golden State, they're going to say he's ring- chasing.\n\nCORNISH: So, an alleged plot by Iran to assassinate President Trump, uncovered by Israel. Sources tell CNN they shared the intelligence with the United States this week.\n\nDONALD TRUMP, U.S. PRESIDENT: I'm No. 1 on the kill list for Iran. They're lovely people. I'm No. 1. I may be gone, too, because I'm their No. 1 target. It's out all over the place. I'm their No. 1, because they're scum.\n\nCORNISH: Now, during funeral processions for the former Iranian leader, Ayatollah Ali Khamenei, a hardline Iranian newspaper put a $100 million bounty on Trump's head.\n\nAnd there were countless banners calling for the president to be assassinated, along with other U.S. politicos like Senator Lindsey Graham.\n\nGraham posted this photo on social media, remarking, \"At least they used a good photo of me.\"\n\nJoining the group chat, Holly Dagres, senior fellow at the Washington Institute for Near East Policy.\n\nObviously, the U.S. and Israel were able to take out whole tiers of leadership in Iran. So, talk about how serious this assassination threat is, could have been based on what you're reading on the sources.\n\nHOLLY DAGRES, SENIOR FELLOW, WASHINGTON INSTITUTE FOR NEAR EAST POLICY: Well, first, we should start by saying that this was related to the targeted killing of Quds Force Commander Qasem Soleimani by a U.S. drone strike in Baghdad in 2020.\n\nSo, these calls for an assassination of not just President Donald Trump, but senior U.S. officials that were in the first Trump administration: then-Secretary of State Mike Pompeo, national security adviser John Bolton, among those. And actually, there have been two plots that were foiled related to the latter two.\n\nSo, this isn't entirely new. But to your point, I mean, this is right now happening after a three-month war.\n\nCORNISH: I do want to raise something, which is that the people who have been very critical of this war and critical of the U.S. and the Netanyahu and Trump relationship, have kind of questioned intel from Netanyahu, for example, on nuclear breakout periods or something like that.\n\nI want to play for you. This is Hillary Clinton. This is many weeks back, but she was talking about what it was like to deal with Netanyahu when she was secretary of state. And it's relevant here. Let me play it for you.\n\nHILLARY CLINTON, FORMER U.S. SECRETARY OF STATE: I remember one day I was on the phone for hours with Ehud, with Bibi, with others, you know. And they would say things like, you know, our planes are on the tarmac.\n\nAnd I'd say, Well, good luck. I mean, great. Why are you doing this?\n\nUNIDENTIFIED MALE: You're saying you were -- they were -- you were -- you were being played?\n\nCLINTON: All the time.\n\n(END VIDEO CLIP) CORNISH: Can you talk about this in this context? I think where people are speaking about Netanyahu and Israel with suspicion.\n\nDAGRES: Well, we've seen incidents where the Israeli prime minister, Benjamin Netanyahu, has been speaking to an audience of one, which famously in 2018, right before President Donald Trump withdrew from the Iran nuclear deal, Netanyahu did this very well-known presentation in English, of course, about new findings that Mossad had found from some files they had stolen from an undeclared site.\n\nBut even though it wasn't exactly new information, the fact that this had been presented was really what sold President Trump to decide that he was finally going to withdraw from the nuclear deal in May of 2018.\n\nSo, I think that a lot of questions are arising in this moment, because it's clear that the goals that the Israelis had for the war hadn't been met, but had to be deterred because of the ceasefire. And there's an understanding that there's still unfinished business with Tehran.\n\nCORNISH: I know it's been actually hard for you, because you have a lot of family and connection to Iran. We've been seeing these images of people mourning the death of the supreme leader.\n\nBut this is a dictatorship with -- that had a severe and violent crackdown of protests. What is the feeling for people who didn't have to make their way out into those streets?\n\nDAGRES: Well, you know, ironically, this past week marked the six- month anniversary of the January anti-regime uprising that resulted in the deaths of thousands of protesters. And so, a lot of those Iranians were honoring their memory, the people that could afford to in the capital of Tehran, where much of the main procession was happening for Supreme Leader Ayatollah Ali Khamenei's death was -- people took it as an opportunity to leave, to go to the North or Caspian Sea.\n\nAnd so, those people were not on the streets. They were not. And if you were an anti-regime protests or lost a loved one, I remember some of the commentary after the Internet blackout ended was, oh, well, you didn't let us bury our loved ones, but it took you many months to bury your own, meaning the supreme leader. So, I think that really tells a lot about this moment.\n\nCORNISH: Are people still scared?\n\nDAGRES: They're scared for many reasons, Audie. They're scared because they don't know where their future is, because they don't -- if you're an anti-regime Iranian, you don't want this regime.\n\nAnd you had the United States arguably say that help was on the way. That is, President Donald Trump, and that this was a regime change, or at least initially.\n\nAnd then to see that this is a more emboldened regime, one that, surprisingly, has more support from people that are critics of the war.\n\nAnd -- but also there's a worry: like, what if this war does continue? Their lives have gotten effectively worse. Economy's in shambles. They're saying they haven't seen numbers like that since the Iran-Iraq war.\n\nAnd so, if you're a young Iranian, you feel like your future -- there isn't really one. So, this is where Iranians are feeling, at least in this moment. I would say.\n\nCORNISH: OK. Holly, thank you so much for talking to us in this inflection point. We'll have you back soon.\n\nCORNISH: Now, after the break on CNN THIS MORNING, we're going to talk about the worker who saved a New York City high rise from collapse. They're speaking out.\n\nUNIDENTIFIED MALE: In this situation. They're calling me a hero. I don't believe I am.\n\nCORNISH: The job isn't done yet, however. Can workers save the building from partial demolition?\n\nPlus, Meta bolsters privacy features on its secret recording Ray-Ban glasses. Will that make them any less creepy?\n\nAnd a live look at the White House. The president's next construction project, the White House columns. You can see already they are covered with scaffolding.\n\nKYLIE JENNER, REALITY TV STAR: Hi, I'm Kylie Jenner, the new voice of Meta A.I. Hey, Meta A.I., is that a chicken?\n\nCORNISH: OK, Kylie Jenner. As she says, the new face and, it turns out, voice of Meta A.I. glasses. But, as everything with the Kardashians and A.I., comes the backlash.\n\nUNIDENTIFIED FEMALE: There's a way for you to tell, usually, if somebody is filming on their phone. With the glasses, there is no way for you to tell. And they are trying to get women more and more comfortable with that.\n\nSo, enter Kylie Jenner with this very cute pair of glasses.\n\nUNIDENTIFIED FEMALE: This collaboration with Kylie ultimately is roping in women consumers.\n\nUNIDENTIFIED MALE: To me, it's almost as if Meta is saying, like, OK, these creepy men are recording you, but hey, you can record them right back.\n\nCORNISH: All right. Needless to say, seems to be some real concerns. Turns out users can actually tamper with that LED light on the glasses, so you wouldn't know if you were being recorded.\n\nSo, now Meta is trying to address some of those concerns, saying it's rolling out a new update that will turn off the camera if users turn off the privacy light.\n\nSo, we're talking about all of this on this week's \"Engagement Party.\" So, joining the group chat, Ari Shapiro, my co-host of \"Engagement Party.\"\n\nSo, we were joking about the various tiers of people who hate this.\n\nARI SHAPIRO, CO-HOST, \"ENGAGEMENT PARTY\": Yes. This intersects with a lot of different backlashes.\n\nSHAPIRO: All going on at once.\n\nCORNISH: But also, there are some people who might make use of them. Help me understand why it's such a big thing online.\n\nSHAPIRO: All right. Well, first of all, you've got the A.I. backlash. You've got the tech billionaires backlash. You've got the surveillance technology backlash.\n\nSo, this is kind of summed up by people who are online calling this either Cybertrucks for the face, or there was another line I saw that: was the biggest advance in pervert technology since the trench coat.\n\nSHAPIRO: I think Meta has a public history of, No. 1, compromising their users' safety and security and privacy, then publicly apologizing for it.\n\nAnd No. 2, sinking tens of billions of dollars into transformative technologies that then die, like the Metaverse.\n\nToo early to say if this is going to be one or both of those things, but the public response is, to say the least, not positive. CORNISH: Yes. And we should say what started out kind of like social\n\nmedia stuff here and there, especially being posted by women, has moved to the lawsuit face [SIC] -- phase of this with you've got some states -- let me see who it was. There's some kid safety lawsuits that they're dealing with, four state attorneys general seeking $1.4 trillion in damages.\n\nAnd there have been a couple other cases, as you've mentioned, that Meta has either lost or settled this year. And then there's just, Lulu, people like you who have encountered these in the wild.\n\nGARCIA-NAVARRO: I've encountered these in the wild. It was deeply uncomfortable. Someone was, I thought, filming me when I was with my daughter. I didn't like it. And then it just starts to --\n\nCORNISH: And where were you?\n\nGARCIA-NAVARRO: I was on a train.\n\nGARCIA-NAVARRO: So, I was in a public space. But at the same time, it leads to these very awkward interactions.\n\nWhat are the social niceties for me to say, like, hello, sir, I don't -- are you filming me with your Meta glasses? I don't want to be filmed.\"\n\nSHAPIRO: Did he admit it?\n\nGARCIA-NAVARRO: No. It was just like this incredibly awkward."
+    }
+  ]
+}

@@ -1,0 +1,409 @@
+{
+  "date": "2026-07-10",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-10/segment/02",
+  "vocabulary": [
+    {
+      "word": "kerfuffle",
+      "phonetic": "/kərˈfʌfəl/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "混乱，骚动",
+      "en": "a commotion or fuss, especially one caused by conflicting views",
+      "excerpt": "I mean right now there's a whole kerfuffle over Instagram.",
+      "example_cn": "现在Instagram上闹得沸沸扬扬。"
+    },
+    {
+      "word": "opt in",
+      "phonetic": "/ɒpt ɪn/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "选择加入",
+      "en": "to choose to participate in something",
+      "excerpt": "Meta is now automatically opting you in to basically allowing your public Instagram page to be manipulated by A.I.",
+      "example_cn": "Meta现在自动让你选择加入，允许你的公开Instagram页面被人工智能操控。"
+    },
+    {
+      "word": "specter",
+      "phonetic": "/ˈspektər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "幽灵，恐惧",
+      "en": "something that haunts or perturbs the mind",
+      "excerpt": "there's just this specter of at any point I might be filmed",
+      "example_cn": "随时可能被拍摄的恐惧挥之不去。"
+    },
+    {
+      "word": "incidentally",
+      "phonetic": "/ˌɪnsɪˈdentli/",
+      "pos": "adv.",
+      "level": "六级",
+      "cn": "附带地，偶然地",
+      "en": "in a way that is secondary or subordinate",
+      "excerpt": "You're incidentally in the camera.",
+      "example_cn": "你偶然出现在镜头里。"
+    },
+    {
+      "word": "traction",
+      "phonetic": "/ˈtrækʃən/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "牵引力，支持",
+      "en": "the support or acceptance needed for progress",
+      "excerpt": "I just think the likelihood of any of these suits really gaining traction",
+      "example_cn": "我认为这些诉讼获得支持的可能性很低。"
+    },
+    {
+      "word": "oversee",
+      "phonetic": "/ˌoʊvərˈsiː/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "监督，监管",
+      "en": "to supervise or watch over",
+      "excerpt": "Congress can oversee and step in if ICE is behaving in a manner that's not appropriate.",
+      "example_cn": "如果ICE行为不当，国会可以监督并介入。"
+    },
+    {
+      "word": "appease",
+      "phonetic": "/əˈpiːz/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "安抚，平息",
+      "en": "to calm or satisfy someone by giving in to their demands",
+      "excerpt": "trying to appease Trump and work with him while also defending its population",
+      "example_cn": "试图安抚特朗普并与他合作，同时保护本国人民。"
+    },
+    {
+      "word": "radicalize",
+      "phonetic": "/ˈrædɪkəlaɪz/",
+      "pos": "v.",
+      "level": "专八",
+      "cn": "使激进",
+      "en": "to cause someone to adopt radical positions",
+      "excerpt": "the reasons that the president and his team were really radicalized",
+      "example_cn": "总统及其团队变得激进的原因。"
+    },
+    {
+      "word": "interregnum",
+      "phonetic": "/ˌɪntərˈreɡnəm/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "过渡期，空位期",
+      "en": "a period between governments or regimes",
+      "excerpt": "in the interregnum period before he came back to office",
+      "example_cn": "在他重返白宫之前的过渡期。"
+    },
+    {
+      "word": "prosecute",
+      "phonetic": "/ˈprɑːsɪkjuːt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "起诉，执行",
+      "en": "to institute legal proceedings against someone",
+      "excerpt": "prosecuting this war",
+      "example_cn": "执行这场战争。"
+    },
+    {
+      "word": "incremental",
+      "phonetic": "/ˌɪŋkrəˈmentl/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "递增的，逐步的",
+      "en": "increasing gradually by regular degrees",
+      "excerpt": "incremental comments matter",
+      "example_cn": "逐步的评论很重要。"
+    },
+    {
+      "word": "architect",
+      "phonetic": "/ˈɑːrkɪtekt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "建筑师，设计者",
+      "en": "a person who designs and oversees the construction of something",
+      "excerpt": "Stephen Miller has looked at as the architect of that.",
+      "example_cn": "斯蒂芬·米勒被视为其设计者。"
+    },
+    {
+      "word": "flood the zone",
+      "phonetic": "/flʌd ðə zoʊn/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "全面出击，大量投入",
+      "en": "to overwhelm an area with a large amount of something",
+      "excerpt": "there was such a flood the zone effort",
+      "example_cn": "他们采取了全面出击的策略。"
+    },
+    {
+      "word": "hard line",
+      "phonetic": "/hɑːrd laɪn/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "强硬的",
+      "en": "uncompromising; strict",
+      "excerpt": "He is more hard line on immigration than Trump",
+      "example_cn": "他在移民问题上比特朗普更强硬。"
+    },
+    {
+      "word": "reel in",
+      "phonetic": "/riːl ɪn/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "控制，收线",
+      "en": "to pull in or control someone or something",
+      "excerpt": "reel Miller in when there's negative media coverage",
+      "example_cn": "当有负面媒体报道时，控制米勒。"
+    },
+    {
+      "word": "showy",
+      "phonetic": "/ˈʃoʊi/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "炫耀的，显眼的",
+      "en": "ostentatious; designed to attract attention",
+      "excerpt": "these showy ICE sweeps into cities",
+      "example_cn": "这些炫耀性的ICE城市扫荡。"
+    },
+    {
+      "word": "clip",
+      "phonetic": "/klɪp/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "剪辑，剪下",
+      "en": "to cut or trim",
+      "excerpt": "the administration would clip and put out in social media videos",
+      "example_cn": "政府会剪辑并发布到社交媒体视频中。"
+    },
+    {
+      "word": "coda",
+      "phonetic": "/ˈkoʊdə/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "尾声，结尾",
+      "en": "a concluding event or section",
+      "excerpt": "This is a coda.",
+      "example_cn": "这是一个尾声。"
+    },
+    {
+      "word": "travesty",
+      "phonetic": "/ˈtrævəsti/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "歪曲，嘲弄",
+      "en": "a false, absurd, or distorted representation",
+      "excerpt": "one of the biggest travesties is when these blue states become so blue that they're not competitive",
+      "example_cn": "最大的讽刺之一是这些蓝州变得如此蓝以至于失去竞争力。"
+    },
+    {
+      "word": "punchy",
+      "phonetic": "/ˈpʌntʃi/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "有力的，简洁的",
+      "en": "having a vigorous impact; forceful",
+      "excerpt": "you can raise that just by going on a few punchy podcasts",
+      "example_cn": "你只需上几个有力的播客就能筹集到那笔钱。"
+    },
+    {
+      "word": "demonic",
+      "phonetic": "/dɪˈmɑːnɪk/",
+      "pos": "adj.",
+      "level": "专八",
+      "cn": "恶魔的，魔鬼般的",
+      "en": "of or like a demon",
+      "excerpt": "He performs prayers to free people of demonic oppression.",
+      "example_cn": "他进行祈祷以解放人们免受恶魔压迫。"
+    },
+    {
+      "word": "gnarly",
+      "phonetic": "/ˈnɑːrli/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "粗糙的，艰难的",
+      "en": "difficult, dangerous, or unpleasant",
+      "excerpt": "the CIA does some pretty gnarly stuff.",
+      "example_cn": "中情局干些相当棘手的事。"
+    },
+    {
+      "word": "teleport",
+      "phonetic": "/ˈtelɪpɔːrt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "瞬间移动",
+      "en": "to transport instantaneously",
+      "excerpt": "teleporting to a Waffle House",
+      "example_cn": "瞬间移动到华夫饼屋。"
+    },
+    {
+      "word": "vet",
+      "phonetic": "/vet/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "审查，检查",
+      "en": "to examine carefully for suitability",
+      "excerpt": "we could really vet people and put the best candidate forward",
+      "example_cn": "我们可以真正审查候选人，推出最佳人选。"
+    },
+    {
+      "word": "red line",
+      "phonetic": "/red laɪn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "红线，底线",
+      "en": "a limit beyond which something is unacceptable",
+      "excerpt": "Platner is accused of violence. I think that clearly turned out to be a red line.",
+      "example_cn": "普拉特纳被指控暴力，这显然成了一条红线。"
+    },
+    {
+      "word": "scandal-proof",
+      "phonetic": "/ˈskændl pruːf/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "丑闻免疫的",
+      "en": "immune to damage from scandals",
+      "excerpt": "While he may be scandal proof, not everyone else is.",
+      "example_cn": "虽然他可能对丑闻免疫，但其他人并非如此。"
+    },
+    {
+      "word": "populist",
+      "phonetic": "/ˈpɑːpjəlɪst/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "民粹主义者",
+      "en": "a person who appeals to ordinary people",
+      "excerpt": "we are led by a populist",
+      "example_cn": "我们被一个民粹主义者领导。"
+    },
+    {
+      "word": "allegation",
+      "phonetic": "/ˌæləˈɡeɪʃən/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "指控，断言",
+      "en": "a claim or assertion that someone has done something illegal or wrong",
+      "excerpt": "you have a president here who has many, many allegations",
+      "example_cn": "这里的总统面临许多指控。"
+    },
+    {
+      "word": "grapple",
+      "phonetic": "/ˈɡræpəl/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "努力解决，扭打",
+      "en": "to struggle or deal with something difficult",
+      "excerpt": "both Republicans and Democrats need to actually grapple with this",
+      "example_cn": "共和党和民主党都需要真正解决这个问题。"
+    },
+    {
+      "word": "he said/she said",
+      "phonetic": "/hiː sed ʃiː sed/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "各执一词",
+      "en": "a situation where two parties give conflicting accounts",
+      "excerpt": "This isn't like a he said/she said.",
+      "example_cn": "这不像各执一词的情况。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "I think one of the reasons they're doing this is not only because they think they're going to get satisfaction, but it is to be perceived by their own people as doing something, as raising complaints, as trying to actively engage.",
+      "cn": "我认为他们这样做的原因之一，不仅是因为他们认为会得到满意结果，而且是为了让本国人民看到他们在采取行动、提出抗议、积极介入。",
+      "structure": "主句（I think）+ 表语从句（one of the reasons...is not only...but...），其中not only...but连接两个并列的表语从句，but后的it is to be perceived...包含三个并列的as短语作主语补足语。",
+      "analysis": "该句结构复杂，包含多个从句和并列结构。not only...but...强调双重目的，as doing something等三个短语具体说明被感知的方式。"
+    },
+    {
+      "en": "And I think one of the reasons they're doing this is not only because they think they're going to get satisfaction, but it is to be perceived by their own people as doing something, as raising complaints, as trying to actively engage.",
+      "cn": "我认为他们这样做的原因之一，不仅是因为他们认为会得到满意结果，而且是为了让本国人民看到他们在采取行动、提出抗议、积极介入。",
+      "structure": "主句（I think）+ 表语从句（one of the reasons...is not only...but...），其中not only...but连接两个并列的表语从句，but后的it is to be perceived...包含三个并列的as短语作主语补足语。",
+      "analysis": "该句结构复杂，包含多个从句和并列结构。not only...but...强调双重目的，as doing something等三个短语具体说明被感知的方式。"
+    },
+    {
+      "en": "But we also describe how last year Steve Witkoff thought that he was getting close to a deal, and then Trump made some other pronouncement, and it became very clear that foreign policy, as someone said, you know, and we quote them anonymously in the book, is, whatever Trump says at any given moment.",
+      "cn": "但我们也描述了去年史蒂夫·维特科夫如何认为他即将达成协议，然后特朗普发表了其他声明，结果变得非常清楚：外交政策，正如有人所说——我们在书中匿名引用了他们——就是特朗普在任何时刻所说的任何话。",
+      "structure": "主句（we describe）+ 宾语从句（how...），宾语从句中包含三个并列分句（thought...，made...，became...），最后一个分句中包含that引导的主语从句（that foreign policy...is...），其中插入语as someone said和we quote them。",
+      "analysis": "该句通过how引导的宾语从句叙述事件发展，并列结构展示因果链。插入语as someone said和we quote them增加了口语化和引用色彩。"
+    },
+    {
+      "en": "And so, you are seeing that right now with this ceasefire where I think it is -- it is most problematic is for diplomat -- long-term diplomatic conversations, incremental comments matter, mixed signals matter.",
+      "cn": "所以，你现在在停火问题上看到的就是这种情况，我认为最成问题的是外交官——长期外交对话中，逐步的评论很重要，混杂的信号很重要。",
+      "structure": "主句（you are seeing that）+ 宾语从句（where I think...），其中I think后接省略that的从句，从句中it is most problematic is for diplomat...，后跟两个并列名词短语（incremental comments matter, mixed signals matter）作解释。",
+      "analysis": "该句口语化特征明显，where引导的定语从句修饰ceasefire，I think插入表示观点，破折号表示停顿和修正。"
+    },
+    {
+      "en": "And so, you are seeing that right now with this ceasefire where I think it is -- it is most problematic is for diplomat -- long-term diplomatic conversations, incremental comments matter, mixed signals matter.",
+      "cn": "所以，你现在在停火问题上看到的就是这种情况，我认为最成问题的是外交官——长期外交对话中，逐步的评论很重要，混杂的信号很重要。",
+      "structure": "主句（you are seeing that）+ 宾语从句（where I think...），其中I think后接省略that的从句，从句中it is most problematic is for diplomat...，后跟两个并列名词短语（incremental comments matter, mixed signals matter）作解释。",
+      "analysis": "该句口语化特征明显，where引导的定语从句修饰ceasefire，I think插入表示观点，破折号表示停顿和修正。"
+    },
+    {
+      "en": "And so, you are seeing that right now with this ceasefire where I think it is -- it is most problematic is for diplomat -- long-term diplomatic conversations, incremental comments matter, mixed signals matter.",
+      "cn": "所以，你现在在停火问题上看到的就是这种情况，我认为最成问题的是外交官——长期外交对话中，逐步的评论很重要，混杂的信号很重要。",
+      "structure": "主句（you are seeing that）+ 宾语从句（where I think...），其中I think后接省略that的从句，从句中it is most problematic is for diplomat...，后跟两个并列名词短语（incremental comments matter, mixed signals matter）作解释。",
+      "analysis": "该句口语化特征明显，where引导的定语从句修饰ceasefire，I think插入表示观点，破折号表示停顿和修正。"
+    },
+    {
+      "en": "And so, you are seeing that right now with this ceasefire where I think it is -- it is most problematic is for diplomat -- long-term diplomatic conversations, incremental comments matter, mixed signals matter.",
+      "cn": "所以，你现在在停火问题上看到的就是这种情况，我认为最成问题的是外交官——长期外交对话中，逐步的评论很重要，混杂的信号很重要。",
+      "structure": "主句（you are seeing that）+ 宾语从句（where I think...），其中I think后接省略that的从句，从句中it is most problematic is for diplomat...，后跟两个并列名词短语（incremental comments matter, mixed signals matter）作解释。",
+      "analysis": "该句口语化特征明显，where引导的定语从句修饰ceasefire，I think插入表示观点，破折号表示停顿和修正。"
+    },
+    {
+      "en": "And so, you are seeing that right now with this ceasefire where I think it is -- it is most problematic is for diplomat -- long-term diplomatic conversations, incremental comments matter, mixed signals matter.",
+      "cn": "所以，你现在在停火问题上看到的就是这种情况，我认为最成问题的是外交官——长期外交对话中，逐步的评论很重要，混杂的信号很重要。",
+      "structure": "主句（you are seeing that）+ 宾语从句（where I think...），其中I think后接省略that的从句，从句中it is most problematic is for diplomat...，后跟两个并列名词短语（incremental comments matter, mixed signals matter）作解释。",
+      "analysis": "该句口语化特征明显，where引导的定语从句修饰ceasefire，I think插入表示观点，破折号表示停顿和修正。"
+    },
+    {
+      "en": "And so, you are seeing that right now with this ceasefire where I think it is -- it is most problematic is for diplomat -- long-term diplomatic conversations, incremental comments matter, mixed signals matter.",
+      "cn": "所以，你现在在停火问题上看到的就是这种情况，我认为最成问题的是外交官——长期外交对话中，逐步的评论很重要，混杂的信号很重要。",
+      "structure": "主句（you are seeing that）+ 宾语从句（where I think...），其中I think后接省略that的从句，从句中it is most problematic is for diplomat...，后跟两个并列名词短语（incremental comments matter, mixed signals matter）作解释。",
+      "analysis": "该句口语化特征明显，where引导的定语从句修饰ceasefire，I think插入表示观点，破折号表示停顿和修正。"
+    },
+    {
+      "en": "And so, you are seeing that right now with this ceasefire where I think it is -- it is most problematic is for diplomat -- long-term diplomatic conversations, incremental comments matter, mixed signals matter.",
+      "cn": "所以，你现在在停火问题上看到的就是这种情况，我认为最成问题的是外交官——长期外交对话中，逐步的评论很重要，混杂的信号很重要。",
+      "structure": "主句（you are seeing that）+ 宾语从句（where I think...），其中I think后接省略that的从句，从句中it is most problematic is for diplomat...，后跟两个并列名词短语（incremental comments matter, mixed signals matter）作解释。",
+      "analysis": "该句口语化特征明显，where引导的定语从句修饰ceasefire，I think插入表示观点，破折号表示停顿和修正。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "Meta智能眼镜与隐私争议",
+      "content": "Meta推出智能眼镜，具备拍摄功能，引发隐私担忧。CNN主持人Lulu Garcia-Navarro在节目中遭遇他人用Meta眼镜拍摄，讨论公共场合拍摄的合法性及Meta在隐私方面的不良记录。",
+      "keywords": "Meta, smart glasses, privacy, filming, public space"
+    },
+    {
+      "title": "墨西哥就ICE致死事件向美国施压",
+      "content": "一名52岁墨西哥男子在休斯顿被ICE执法人员射杀，引发墨西哥政府强烈反应。墨西哥总统Sheinbaum要求美国进行刑事调查，并指控ICE行动导致17名墨西哥人死亡。讨论涉及ICE执法透明度、墨西哥外交策略及美国国内政治。",
+      "keywords": "ICE, Mexico, migrant deaths, criminal investigation, diplomatic tension"
+    },
+    {
+      "title": "特朗普政府移民政策与ICE执法",
+      "content": "特朗普第二任期移民执法力度加大，ICE逮捕人数上升，但执法方式引发争议。Stephen Miller作为政策设计者，推动大规模逮捕，但面临执行困难。墨西哥死亡事件凸显执法中的暴力问题。",
+      "keywords": "Trump, immigration, ICE, Stephen Miller, enforcement"
+    },
+    {
+      "title": "伊朗涉嫌暗杀特朗普阴谋",
+      "content": "以色列情报显示伊朗计划暗杀特朗普，已与美国分享情报。特朗普此前曾遭遇暗杀未遂，此事可能加剧其安全担忧，并影响外交决策。",
+      "keywords": "Iran, assassination plot, Trump, Israel, intelligence"
+    },
+    {
+      "title": "特朗普新书《政权更迭》内容",
+      "content": "《纽约时报》记者Maggie Haberman新书《政权更迭：特朗普的帝王式总统》出版，揭示特朗普第二任期决策过程、外交政策混乱及移民政策幕后。",
+      "keywords": "Maggie Haberman, Regime Change, Trump, book, White House"
+    },
+    {
+      "title": "科罗拉多州长共和党初选结果",
+      "content": "海军老兵Victor Marx赢得科罗拉多州长共和党初选，但其对手拒绝支持，称其为“灾难”和“骗子”。讨论候选人质量问题，以及极端候选人在深蓝州的崛起。",
+      "keywords": "Colorado, governor, primary, Victor Marx, candidate quality"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nMexico Seeks investigation of Migrant Deaths; Maggie Haberman is Interviewed about Her Book on Trump; Victor Marx Wins Primary in Colorado. Aired 6:30-7a ET\n\nAired July 10, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nLULU GARCIA-NAVARRO, CNN CONTRIBUTOR: I don't -- are you filming me you're your Meta glasses? I don't want to be filmed.\n\nARI SHAPIRO, CO-HOST, \"ENGAGEMENT PARTY\" PODCAST: Did he admit it?\n\nGARCIA-NAVARRO: No. It was just like this incredibly awkward interaction where he just, like, kind of glared at me, took off his glasses, and, you know, it was just this very weird -- as a, you know, we gotcha.\n\nAUDIE CORNISH, CNN ANCHOR: Yes. Like, I'm not filming you, but I'm taking these off. Yes.\n\nGARCIA-NAVARRO: Yes. And so the whole thing was just really uncomfortable. And I don't, you know, and I don't know what the social interactions are. I put -- I posted this on social media. I got all these responses basically saying, it's legal to film people in most states, which I think you can speak to.\n\nELLIOT WILLIAMS, CNN LEGAL ANALYST: Yes.\n\nGARCIA-NAVARRO: So, suck it up.\n\nCORNISH: What's the deal? What can we do?\n\nWILLIAMS: It really is legal to film people in most states. Think about every time you go to a monument or a park, you see someone out with their cell phone. Well, they're filming you too. You're incidentally in the camera.\n\nNow, it gets trickier where you are recording one person. Some states you have to -- both people have to know that they're being -- that someone's being recorded.\n\nWILLIAMS: Some states you can just record one person.\n\nOne interesting thing that Ari had said about Meta being sued or just taking fire over the years over its users privacy --\n\nSHAPIRO: Especially for Instagram.\n\nWILLIAMS: Especially for Instagram. Here -- this is interesting because it's not just users' privacy, it's third party's privacies. People like Lulu who are now at -- or anybody now at risk. It's not just the user who's getting pulled into this, right? And so, even if someone's not being filmed, there's just this specter of --\n\nWILLIAMS: At any point I might be filmed, I don't know if I'm being filmed, and that's deeply uncomfortable.\n\nWILLIAMS: To admit (ph) to people.\n\nCORNISH: And we talked about the potential uses for this.\n\nCORNISH: In the accessibility community. People who are hard of hearing. People who have issues with their site. The information they'd be able to get in the glasses.\n\nI'm pretty sure I can guess lawmakers -- law enforcement is going to be excited about this. So, there are uses for it. And it's interesting that the way they're marketing it though is like, hey girls, this is fun.\n\nSHAPIRO: Oh, they've got this lineup of mega celebs. I mean they're spending, I think, $70 billion to promote and produce these.\n\nSHAPIRO: And they've got Teyana Taylor, Doja Cat, Kylie Jenner. Like, they are bringing out the all-stars to try to tell people that this is cool. I feel like it's part of Mark Zuckerberg's long campaign to convince people that he's cool. He wanted to be the Elon Musk pre- DOGE, and maybe his reputation is heading more in a direction of Elon Musk today.\n\nCORNISH: Even if he's in the front row of Prada at the start of their relationship?\n\nSHAPIRO: Yes, I'm not sure that that's a sign.\n\nGARCIA-NAVARRO: But it's all -- but at the end of the day, nobody really trusts Meta with their own personal safety online.\n\nCORNISH: The data that's ours.\n\nGARCIA-NAVARRO: The data that's ours. I mean right now there's a whole kerfuffle over Instagram. If you have a public facing Instagram page, Meta is now automatically opting you in to basically allowing your public Instagram page to be manipulated by A.I. You have to actually actively go in there, which I did yesterday, to change those settings. These are the kinds of actions that make people very upset.\n\nGARCIA-NAVARRO: CAA is getting involved in this, of course, the big Hollywood agency. These are issues that really come at the core of people's identity, their public facing profiles.\n\nSHAPIRO: So, I think what we're seeing here, as I say in \"Engagement Party,\" in our latest episode, is, number one, a failure of government to actually protect people's privacy and identity. But number two, a success of the people who are saying, you may be spending tens of billions of dollars to make this a thing, but we don't want it to be a thing.\n\nSHAPIRO: And the people have the final say.\n\nCORNISH: What do the young say, it's propaganda they're unsubscribing from?\n\nAri Shapiro, thank you so much.\n\nYou can catch us on the newest episode of \"Engagement Party\" now. New episodes are out Friday. We talk about this and also the movement of FROYO. And so, it's a lot of fun.\n\nAll right, straight ahead on CNN THIS MORNING, we're going to turn to this news. The threats from Mexico to take the U.S. to court over the deaths of ICE detainees. And could a foreign government succeed where U.S. advocates have failed?\n\nPlus, personality over substance. Voters getting candidates who are actually qualified for the job. Maybe. Maybe not.\n\nCORNISH: So, the 52-year-old Mexican man killed by ICE in Houston this week was not the target of an immigration operation. That's according to a source. Texas authorities previously notified ICE about two people believed to be in the U.S. illegally, traveling in a white van. And neither of those men were the victim.\n\nYou're looking at video from the aftermath of the shooting. I have to warn you, it is disturbing because you can see a bloodied person on the ground. Now, there's no official footage of the shooting that has been released. Federal officials involved were not wearing body cameras. ICE claims the man attempted to take off as agents tried to pull him over. His family is pushing back on that.\n\nRONALDO SALGADO, SON OF ICE SHOOTING VICTIM: He did not know that those vehicles following him were ICE agents. Again, these vehicles were unmarked. They had no emblems, no logos, no flashing lights. There was no way for him to know that they were ICE agents. I know my dad would have stopped had ICE agents formally and clearly identified themselves, at least through their vehicle markings.\n\nCORNISH: In the meantime, Mexico, fed up with the deaths of its people on U.S. soil. Their president is seeking a criminal investigation in the U.S. related deaths of 17 Mexican nationals during immigration operations in recent months.\n\nPRESIDENT CLAUDIA SHEINBAUM, MEXICO (through translator): What happened recently with the death of a Mexican in an ICE operation, not only is it sad and regrettable, but it seems to be targeted. So, obviously, we will maintain the diplomatic relationship. But we made the decision to file a formal complaint with the state and federal prosecutor's office of the United States against those who are found responsible for what we consider to be homicides.\n\nCORNISH: Mexico's foreign minister says the country will file criminal complaints directly with U.S. prosecutors.\n\nThe group chat is back.\n\nAnd, Elliot, we need your expertise.\n\nCORNISH: Because, in general, when you're looking at deaths of ICE detainees --\n\nCORNISH: Obviously there is a spike. As of 2025, that number up to 33. It's gone down a bit. And I think people thought maybe ICE had been operating differently, or at least more covertly on the streets of the U.S.\n\nCORNISH: You're shaking your head.\n\nWILLIAMS: No. It's just covertly might be the word or just simply not in public in the same way. Now, the big picture governing all of this is that law enforcement has\n\ntremendously broad latitude. And I think latitude that would shock and alarm many people, both in terms of deaths in custody, but also in terms of their conduct in the field.\n\nNow, certainly, Mexico is free to try to, you know, engage prosecutors, file lawsuits or whatever else. I will note, you know, the Department of Homeland Security will be defended by the Justice Department in any federal suit in the United States right now. And I just think the likelihood of any of these suits really gaining traction --\n\nWILLIAMS: Just based on who the Justice Department is right now, they have an interest in protecting the Department of Homeland Security, is pretty low, but they can. That is their right.\n\nBut two other avenues. Really quick, Audie, two other avenues for proceeding, if they're serious. Number one, go to the states. Every state can entertain lawsuits, even against the federal government. You can have the attorney general or local prosecutor bring a lawsuit. But also Congress can oversee and step in if ICE is behaving in a manner that's not appropriate.\n\nCORNISH: So, right now, ICE related Mexican national deaths in Trump's term, 14 people in ICE custody, three in ICE operations.\n\nSheinbaum had more or less kind of played nice with Trump when it came to tariffs, right, and when it came to the drug war. Why do you think, Lulu, that she is speaking out now and in such a specific way, using the phrase targeted?\n\nGARCIA-NAVARRO: Yes. This is always a hugely sensitive issue for Mexico. Let's not forget that, you know, Mexico has the largest number of immigrants in the United States, and they share a border. And so, the way that ICE and Border Patrol interact with that population has always been a source of enormous sensitivity and tension. And I think one of the reasons they're doing this is not only because they think they're going to get satisfaction, but it is to be perceived by their own people as doing something, as raising complaints, as trying to actively engage.\n\nBecause it's not only that the government is in this very difficult position with trying to appease Trump and work with him while also defending its population, but the people themselves do not like the Trump administration, do not like the way that this is playing out, and want their government to do something.\n\nGARCIA-NAVARRO: And so, this is a way of them showing that they are.\n\nCORNISH: And it raises the profile of ICE operations in a moment when they had effectively lowered the temperature after the mass protests in two separate cities, and deaths on the streets. TERRY SCHILLING, PRESIDENT, AMERICAN PRINCIPLES PROJECT: Yes. Well,\n\nlook, I -- my message to the president of Mexico, Claudia Sheinbaum, is, game on. You know, you want to sue over this. I guess we'll have to sue over the hundreds of thousands of young men and women in this country that have died from fentanyl overdoses or even the hundreds of people that have had violence inflicted on them that have been raped and sexually assaulted.\n\nYou know, Claudia Sheinbaum is one to talk. She was elected in a year where there were over 27 political assassinations in her party. She's literally a hand-picked candidate for the cartels. And again --\n\nCORNISH: You've levied a lot of different things there.\n\nCORNISH: So, I want to hold on because I'm not fact checking you on that level, OK. But I do have this question about, is it fair for a country to say, you're killing our nationals on your street and that this is state sanctioned deaths, and therefore.\n\nSCHILLING: Well, look, I noticed in that chart, in 2023 and 2024 there were -- I think in 2023 it said there were seven deaths by ICE and 11 deaths in 2024. That's when there was like no immigration enforcement at all. And it's only around 50 between these last two years. There it goes, 33 and 19 in two years. That's 52.\n\nSCHILLING: That's when we're actually deporting people and actually enforcing the law. So, it seems like there's some violence embedded into illegal immigration in the first place.\n\nWILLIAMS: I -- well, no, no, no. I -- the only thing I will say to sort of push back on that gently is, and I worked at -- I was a senior official at ICE for five years. You're still talking about deporting 400,000 people a year, even under the low points of any administration's immigration enforcement efforts.\n\nSo, the idea that enforcement simply isn't happening, and those are, I believe we were talking about detention centers, people are detained, beds are full. It's just not accurate that no -- that no enforcement was happening.\n\nNow, certainly we can agree, and I think we should, that more enforcement is happening now than happened in 2023. But I -- but I don't think that that -- those numbers are reflective of enforcement simply not happening in detention centers.\n\nGARCIA-NAVARRO: And it was --\n\nWILLIAMS: So, a lot of people are detained by the United States.\n\nGARCIA-NAVARRO: And I'll also say that they -- (CROSS TALK)\n\nGARCIA-NAVARRO: And I will say that the implication --\n\nSCHILLING: And a lot more people were coming into the United States in those years.\n\nWILLIAMS: Sure. Sure. Sure.\n\nGARCIA-NAVARRO: Yes, but I'll also say that the implication that somehow enforcement is violent and therefore these deaths are somehow acceptable is --\n\nSCHILLING: Well, when --\n\nCORNISH: And not accept -- well, let's pause on this. It's not acceptable, certainly, to the families. And as we started this story with somebody who's lost their father when they weren't even the target of the operation. So, I think the question of, what standard do we hold ourselves to is coming up in this.\n\nI want you guys to stay with me. We're going to turn to another story in the future talking about NASA, because NASA is now recruiting volunteers for a yearlong moon and mars simulation. Voters will be in space-like -- sorry, volunteers will be in space-like conditions, living inside confined habitats and carrying out tasks, just as astronauts would at the start of the year.\n\nCORNISH: An alleged plot by Iran to assassinate President Trump uncovered by Israel. Sources tell CNN they shared the intelligence with the U.S. this week.\n\nI'm bringing in \"New York Times\" White House correspondent Maggie Haberman. She's co-author of the new bestseller \"Regime Change: Inside the Imperial Presidency of Donald Trump.\"\n\nMaggie, thank you so much for being here.\n\nThis seems like a good week to have this conversation between the inflection point ending the ceasefire and then this moment of this reporting we're getting now of a potential assassination attempt, information shared by Israel. This is a president who has survived assassination attempts. Does this kind of concern loom large for him?\n\nMAGGIE HABERMAN, WHITE HOUSE CORRESPONDENT, \"THE NEW YORK TIMES\": Well, there's no question that among the reasons that the president and his team were really radicalized in the interregnum period before he came back to office, and we write about this in the book, were the assassination attempts that he faced. In particular, he -- Butler happened around the time that someone had been charged with being part of a murder for hire plot involving -- or set up by Iranian officials allegedly. And in his mind, and in the campaign's mind at the time, it all became one thing. And so, there's no question that the fact that this new information about a potential plot is going to loom large for this team. It is going to raise new concerns.\n\nYou are already seeing a president who, Audie, does not travel outside the White House that much. Part of it is that, you know, he would tell aides at the beginning of the -- of the term, I'm done campaigning. But part of it are -- is legitimate security concerns.\n\nCORNISH: It's interesting talk -- hearing from you in this moment because he has such a different cast of characters around him compared to term one. How does that affect something like prosecuting this war, where we see like while people are having talks, he says, look, ceasefire is over, and all of a sudden we are in the middle of strikes again.\n\nHABERMAN: So, there's a couple of things, Audie. One is that this government, unlike term one, and one of the things that we write about very clearly is how radically different this term is than the first term. The decisions are being made by a small handful of about a half a dozen advisors. And if someone is not in the room with those advisors in the government, they often have no idea what is going on. And that is generally by design, including Steve Witkoff, who is Trump's envoy for everything, who had been negotiating this ceasefire or some kind of an Iranian deal for some time.\n\nBut we also describe how last year Steve Witkoff thought that he was getting close to a deal, and then Trump made some other pronouncement, and it became very clear that foreign policy, as someone said, you know, and we quote them anonymously in the book, is, whatever Trump says at any given moment.\n\nAnd so, you are seeing that right now with this ceasefire where I think it is -- it is most problematic is for diplomat -- long-term diplomatic conversations, incremental comments matter, mixed signals matter. And that has obviously happened for some time here. This is also a war that the president clearly wants to be done with. And there just is no quick fix. And that is frustrating him.\n\nCORNISH: I want to turn to another issue because immigration has been obviously a defining issue for Trump in both terms, but arguably he's probably made the most gains in this term. Largely, Stephen Miller has looked at as the architect of that. Can you talk to me about the, where we are now, meaning Noem is gone, we were just talking about Mexico complaining about Mexican nationals being targeted. Is this something that the architects around Trump -- that it's by design?\n\nHABERMAN: So, we have seen a lot of fits and starts with immigration efforts and policy because there was such a flood the zone effort. Stephen Miller spent several years preparing for a second Trump term. He looked at all of the levers of government. He had it -- he has an actual plan for what he wanted to do. He is more hard line on immigration than Trump is, although Trump obviously only tends to react and, you know, reel Miller in when there's negative media coverage. And so, you saw that earlier this year with the shooting deaths of Renee Good and Alex Pretti. And these showy ICE sweeps into cities, these, you know, dramatic\n\ndisplays that the administration would clip and put out in social media videos, those slowed down, but that doesn't mean that the efforts slowed down. And so, you are going -- you are seeing -- my colleagues have written about this at \"The Times,\" larger sweeps. You are seeing -- they're just broadcast with less vigor and intensity. It calmed the protests down at the time. I don't know where this goes now. But they are trying now -- Stephen Miller had a target of 3,000 arrests a day. That was not doable. Now there is a smaller target, but it's still quite high. And he is very intent on pushing this ahead for as long as he can.\n\nCORNISH: OK, that's Maggie Haberman. Her new book with Jonathan Swan is called \"Regime Change: Inside the Imperial Presidency of Donald Trump.\" It's out now.\n\nI also want to turn to this, the ballot for governor in Colorado, it's set. Marine veteran Victor Marx secured the top Republican spot when the race was called last night. Both of his GOP rivals in the race have said they won't support him in the general election, calling him, quote, \"a disaster\" and a \"con man.\"\n\nVICTOR MARX (R), COLORADO CANDIDATE FOR GOVERNOR: So, if you are frustrated, skeptical or wondering if anything can actually change, I just proved it by winning the primary.\n\nCORNISH: OK, group chat is back.\n\nThis is a coda. I'm sorry, Terry, this is a coda.\n\nSCHILLING: You got me (ph).\n\nCORNISH: You and I talked about this in -- last week. And you were like, look, ignore people like this. This was in our Platner discussion.\n\nCORNISH: And you were like, look, this is not a guy that you should be focusing on. He is now the GOP candidate for governor in Colorado.\n\nSCHILLING: In Colorado, in Illinois, in New York, in California.\n\nCORNISH: But also two Republicans in the race.\n\nCORNISH: Sour grapes or them literally being like, this disaster is a con man. SCHILLING: Again -- look, again, I think one of the biggest travesties\n\nis when these blue states become so blue that they're not competitive. And when they're not competitive, you don't get the quality candidates that you need actually to win.\n\nCORNISH: No, no, no, Terry, he raised $3 million. That's not ate (ph) money from Democrats.\n\nSCHILLING: I know. That's not very much for -- but for a governor race --\n\nSCHILLING: You know, you can raise that just by going on a few punchy podcasts. It's really not that much money for even a congressional race at this point.\n\nCORNISH: Right. He claims to have rescued 45,000 abuse victims. He performs prayers to free people of demonic oppression. Claims to have called an airstrike on ISIS. Says he was forced to kill a man at age seven. Who among us?\n\nSCHILLING: Well, look, we got Abigail Spanberger, who's an admitted CIA operative, as the governor of Virginia. I'd like to know what she's done in her career.\n\nCORNISH: From the CIA?\n\nSCHILLING: From the -- the CIA does some pretty gnarly stuff.\n\nCORNISH: And you don't want to know about demonic -- OK. OK.\n\nSCHILLING: No, I definitely want to know about that. I believe in the spiritual world.\n\nCORNISH: I mean, work with me, Terry. Work with me.\n\nLulu, the reason why I'm talking about this is because candidate quality, a term that we heard from Mitch McConnell.\n\nWILLIAMS: All week. Yes.\n\nCORNISH: You know what I mean? It's been so on the minds of everyone with the Graham Platner thing in the Senate. And just like in Republican circles, in Colorado, the voters want what the voters want.\n\nWhat have we learned about the limits of that?\n\nGARCIA-NAVARRO: We've learned that demonic possession is a thing, clearly.\n\nSCHILLING: Yes, 100 percent.\n\nGARCIA-NAVARRO: That is -- that is -- that is --\n\nCORNISH: Also teleporting to a Waffle House. A different story. SCHILLING: That's different.\n\nGARCIA-NAVARRO: And teleporting to a Waffle House. I mean -- listen, this is a huge issue, I think, for both Republicans and Democrats and what I think any -- or what I hear from both my Democratic and Republican friends who are in the political system in that way is that they say, well, it's because the parties are so weak and we no longer get to decide about quality candidates -- you know, candidate quality. These decisions used to be made in backrooms. And so we could really vet people and put the best candidate forward.\n\nGARCIA-NAVARRO: And that is true.\n\nWhat voters will say is, yay, I'm so glad that this is no longer being done in backrooms.\n\nCORNISH: I know, but how come some people can ride it out and some people can't? Now, Platner is accused of violence. I think that clearly turned out to be a red line. But there's lots of other people dealing with scandals. Ken Paxton in Texas.\n\nCORNISH: Obviously, Marx. I mean his -- one of the people he ran against said she ran a good race and, quote, \"for the record, I still haven't killed anyone.\" It seems as though --\n\nWILLIAMS: That's the bar.\n\nCORNISH: Yes, that's the bar.\n\nCORNISH: What is the bar for voters?\n\nWILLIAMS: You know, I mean, we have to understand that primary voters in any party are the most activist and sort of most partisan of any voters in the country.\n\nGARCIA-NAVARRO: That's why we should have open primaries.\n\nWILLIAMS: That's why we should have open primaries or ranked choice voting, you know, as you have -- as you have in --\n\nGARCIA-NAVARRO: Or ranked choice voting.\n\nCORNISH: Oh, they hate -- the parties hate ranked choice voting.\n\nWILLIAMS: Well, but my point -- sure, but all I'm saying is that when the most activist people are the ones casting the votes, you're going to occasionally get stuff like this in --\n\nGARCIA-NAVARRO: It's not only that --\n\nGARCIA-NAVARRO: But to your point, actually, when you have one party rule in a state, the opposition party becomes very radicalized I think. We see that in California with the GOP. We see that, you know, in Democratic politics and sort of right leaning states. And so, I do think that you get like the most hardcore people putting candidates forward. And we are in an era, we are led by a populist, we are led by someone who was a celebrity, who has innumerable sort of scandals, both previous and current, and I think it's opened the door --\n\nCORNISH: Yes, but what we have -- we've learned, while he may be --\n\nCORNISH: While he may be scandal proof, not everyone else is. That's what we have learned.\n\nGARCIA-NAVARRO: Yes. But maybe. But maybe not.\n\nGARCIA-NAVARRO: I mean, I think everyone's trying their game and they're trying to see how far they can push it until voters or the parties or people just say, the establishment says enough is enough.\n\nRape seems to -- accusations of rape seem to be that line for the Democrats, but that certainly hasn't been the line for Republicans.\n\nSCHILLING: Well, it was the line until it became clear that Platner was actually weakened and was most likely going to lose. The Democrats did not care about Lyndsey Fifield when she made her accusations because she was a Republican.\n\nGARCIA-NAVARRO: I'm -- what I'm trying to -- what I'm --\n\nSCHILLING: So, it's, believe all Democrat women, not believe any Republican women.\n\nGARCIA-NAVARRO: What I'm -- what I'm trying to say is, you have a president here who has many, many allegations. All I'm saying --\n\nSCHILLING: Not credible.\n\nGARCIA-NAVARRO: Yes, well --\n\nCORNISH: It's funny, we are ending the week the way we started it, almost with the exact same discussion is that --\n\nGARCIA-NAVARRO: I'm not arguing with you.\n\nCORNISH: No, no, it's the same beats I hear partisan wise.\n\nGARCIA-NAVARRO: I'm just saying is, what's good for the goose is good for the gander. And I think both Republicans and Democrats need to -- need to actually grapple with this. This isn't like a he said/she said.\n\nCORNISH: We hope to have more news for you next week.\n\nThank you for being in the group chat. Thank you for waking up with us. A lot of places you can spend your time, and you choose to spend it with us. I really appreciate it.\n\nI'm Audie Cornish, and the headlines are next.",
+  "segments": [
+    {
+      "seg": 2,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-10/segment/02",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nMexico Seeks investigation of Migrant Deaths; Maggie Haberman is Interviewed about Her Book on Trump; Victor Marx Wins Primary in Colorado. Aired 6:30-7a ET\n\nAired July 10, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nLULU GARCIA-NAVARRO, CNN CONTRIBUTOR: I don't -- are you filming me you're your Meta glasses? I don't want to be filmed.\n\nARI SHAPIRO, CO-HOST, \"ENGAGEMENT PARTY\" PODCAST: Did he admit it?\n\nGARCIA-NAVARRO: No. It was just like this incredibly awkward interaction where he just, like, kind of glared at me, took off his glasses, and, you know, it was just this very weird -- as a, you know, we gotcha.\n\nAUDIE CORNISH, CNN ANCHOR: Yes. Like, I'm not filming you, but I'm taking these off. Yes.\n\nGARCIA-NAVARRO: Yes. And so the whole thing was just really uncomfortable. And I don't, you know, and I don't know what the social interactions are. I put -- I posted this on social media. I got all these responses basically saying, it's legal to film people in most states, which I think you can speak to.\n\nELLIOT WILLIAMS, CNN LEGAL ANALYST: Yes.\n\nGARCIA-NAVARRO: So, suck it up.\n\nCORNISH: What's the deal? What can we do?\n\nWILLIAMS: It really is legal to film people in most states. Think about every time you go to a monument or a park, you see someone out with their cell phone. Well, they're filming you too. You're incidentally in the camera.\n\nNow, it gets trickier where you are recording one person. Some states you have to -- both people have to know that they're being -- that someone's being recorded.\n\nWILLIAMS: Some states you can just record one person.\n\nOne interesting thing that Ari had said about Meta being sued or just taking fire over the years over its users privacy --\n\nSHAPIRO: Especially for Instagram.\n\nWILLIAMS: Especially for Instagram. Here -- this is interesting because it's not just users' privacy, it's third party's privacies. People like Lulu who are now at -- or anybody now at risk. It's not just the user who's getting pulled into this, right? And so, even if someone's not being filmed, there's just this specter of --\n\nWILLIAMS: At any point I might be filmed, I don't know if I'm being filmed, and that's deeply uncomfortable.\n\nWILLIAMS: To admit (ph) to people.\n\nCORNISH: And we talked about the potential uses for this.\n\nCORNISH: In the accessibility community. People who are hard of hearing. People who have issues with their site. The information they'd be able to get in the glasses.\n\nI'm pretty sure I can guess lawmakers -- law enforcement is going to be excited about this. So, there are uses for it. And it's interesting that the way they're marketing it though is like, hey girls, this is fun.\n\nSHAPIRO: Oh, they've got this lineup of mega celebs. I mean they're spending, I think, $70 billion to promote and produce these.\n\nSHAPIRO: And they've got Teyana Taylor, Doja Cat, Kylie Jenner. Like, they are bringing out the all-stars to try to tell people that this is cool. I feel like it's part of Mark Zuckerberg's long campaign to convince people that he's cool. He wanted to be the Elon Musk pre- DOGE, and maybe his reputation is heading more in a direction of Elon Musk today.\n\nCORNISH: Even if he's in the front row of Prada at the start of their relationship?\n\nSHAPIRO: Yes, I'm not sure that that's a sign.\n\nGARCIA-NAVARRO: But it's all -- but at the end of the day, nobody really trusts Meta with their own personal safety online.\n\nCORNISH: The data that's ours.\n\nGARCIA-NAVARRO: The data that's ours. I mean right now there's a whole kerfuffle over Instagram. If you have a public facing Instagram page, Meta is now automatically opting you in to basically allowing your public Instagram page to be manipulated by A.I. You have to actually actively go in there, which I did yesterday, to change those settings. These are the kinds of actions that make people very upset.\n\nGARCIA-NAVARRO: CAA is getting involved in this, of course, the big Hollywood agency. These are issues that really come at the core of people's identity, their public facing profiles.\n\nSHAPIRO: So, I think what we're seeing here, as I say in \"Engagement Party,\" in our latest episode, is, number one, a failure of government to actually protect people's privacy and identity. But number two, a success of the people who are saying, you may be spending tens of billions of dollars to make this a thing, but we don't want it to be a thing.\n\nSHAPIRO: And the people have the final say.\n\nCORNISH: What do the young say, it's propaganda they're unsubscribing from?\n\nAri Shapiro, thank you so much.\n\nYou can catch us on the newest episode of \"Engagement Party\" now. New episodes are out Friday. We talk about this and also the movement of FROYO. And so, it's a lot of fun.\n\nAll right, straight ahead on CNN THIS MORNING, we're going to turn to this news. The threats from Mexico to take the U.S. to court over the deaths of ICE detainees. And could a foreign government succeed where U.S. advocates have failed?\n\nPlus, personality over substance. Voters getting candidates who are actually qualified for the job. Maybe. Maybe not.\n\nCORNISH: So, the 52-year-old Mexican man killed by ICE in Houston this week was not the target of an immigration operation. That's according to a source. Texas authorities previously notified ICE about two people believed to be in the U.S. illegally, traveling in a white van. And neither of those men were the victim.\n\nYou're looking at video from the aftermath of the shooting. I have to warn you, it is disturbing because you can see a bloodied person on the ground. Now, there's no official footage of the shooting that has been released. Federal officials involved were not wearing body cameras. ICE claims the man attempted to take off as agents tried to pull him over. His family is pushing back on that.\n\nRONALDO SALGADO, SON OF ICE SHOOTING VICTIM: He did not know that those vehicles following him were ICE agents. Again, these vehicles were unmarked. They had no emblems, no logos, no flashing lights. There was no way for him to know that they were ICE agents. I know my dad would have stopped had ICE agents formally and clearly identified themselves, at least through their vehicle markings.\n\nCORNISH: In the meantime, Mexico, fed up with the deaths of its people on U.S. soil. Their president is seeking a criminal investigation in the U.S. related deaths of 17 Mexican nationals during immigration operations in recent months.\n\nPRESIDENT CLAUDIA SHEINBAUM, MEXICO (through translator): What happened recently with the death of a Mexican in an ICE operation, not only is it sad and regrettable, but it seems to be targeted. So, obviously, we will maintain the diplomatic relationship. But we made the decision to file a formal complaint with the state and federal prosecutor's office of the United States against those who are found responsible for what we consider to be homicides.\n\nCORNISH: Mexico's foreign minister says the country will file criminal complaints directly with U.S. prosecutors.\n\nThe group chat is back.\n\nAnd, Elliot, we need your expertise.\n\nCORNISH: Because, in general, when you're looking at deaths of ICE detainees --\n\nCORNISH: Obviously there is a spike. As of 2025, that number up to 33. It's gone down a bit. And I think people thought maybe ICE had been operating differently, or at least more covertly on the streets of the U.S.\n\nCORNISH: You're shaking your head.\n\nWILLIAMS: No. It's just covertly might be the word or just simply not in public in the same way. Now, the big picture governing all of this is that law enforcement has\n\ntremendously broad latitude. And I think latitude that would shock and alarm many people, both in terms of deaths in custody, but also in terms of their conduct in the field.\n\nNow, certainly, Mexico is free to try to, you know, engage prosecutors, file lawsuits or whatever else. I will note, you know, the Department of Homeland Security will be defended by the Justice Department in any federal suit in the United States right now. And I just think the likelihood of any of these suits really gaining traction --\n\nWILLIAMS: Just based on who the Justice Department is right now, they have an interest in protecting the Department of Homeland Security, is pretty low, but they can. That is their right.\n\nBut two other avenues. Really quick, Audie, two other avenues for proceeding, if they're serious. Number one, go to the states. Every state can entertain lawsuits, even against the federal government. You can have the attorney general or local prosecutor bring a lawsuit. But also Congress can oversee and step in if ICE is behaving in a manner that's not appropriate.\n\nCORNISH: So, right now, ICE related Mexican national deaths in Trump's term, 14 people in ICE custody, three in ICE operations.\n\nSheinbaum had more or less kind of played nice with Trump when it came to tariffs, right, and when it came to the drug war. Why do you think, Lulu, that she is speaking out now and in such a specific way, using the phrase targeted?\n\nGARCIA-NAVARRO: Yes. This is always a hugely sensitive issue for Mexico. Let's not forget that, you know, Mexico has the largest number of immigrants in the United States, and they share a border. And so, the way that ICE and Border Patrol interact with that population has always been a source of enormous sensitivity and tension. And I think one of the reasons they're doing this is not only because they think they're going to get satisfaction, but it is to be perceived by their own people as doing something, as raising complaints, as trying to actively engage.\n\nBecause it's not only that the government is in this very difficult position with trying to appease Trump and work with him while also defending its population, but the people themselves do not like the Trump administration, do not like the way that this is playing out, and want their government to do something.\n\nGARCIA-NAVARRO: And so, this is a way of them showing that they are.\n\nCORNISH: And it raises the profile of ICE operations in a moment when they had effectively lowered the temperature after the mass protests in two separate cities, and deaths on the streets. TERRY SCHILLING, PRESIDENT, AMERICAN PRINCIPLES PROJECT: Yes. Well,\n\nlook, I -- my message to the president of Mexico, Claudia Sheinbaum, is, game on. You know, you want to sue over this. I guess we'll have to sue over the hundreds of thousands of young men and women in this country that have died from fentanyl overdoses or even the hundreds of people that have had violence inflicted on them that have been raped and sexually assaulted.\n\nYou know, Claudia Sheinbaum is one to talk. She was elected in a year where there were over 27 political assassinations in her party. She's literally a hand-picked candidate for the cartels. And again --\n\nCORNISH: You've levied a lot of different things there.\n\nCORNISH: So, I want to hold on because I'm not fact checking you on that level, OK. But I do have this question about, is it fair for a country to say, you're killing our nationals on your street and that this is state sanctioned deaths, and therefore.\n\nSCHILLING: Well, look, I noticed in that chart, in 2023 and 2024 there were -- I think in 2023 it said there were seven deaths by ICE and 11 deaths in 2024. That's when there was like no immigration enforcement at all. And it's only around 50 between these last two years. There it goes, 33 and 19 in two years. That's 52.\n\nSCHILLING: That's when we're actually deporting people and actually enforcing the law. So, it seems like there's some violence embedded into illegal immigration in the first place.\n\nWILLIAMS: I -- well, no, no, no. I -- the only thing I will say to sort of push back on that gently is, and I worked at -- I was a senior official at ICE for five years. You're still talking about deporting 400,000 people a year, even under the low points of any administration's immigration enforcement efforts.\n\nSo, the idea that enforcement simply isn't happening, and those are, I believe we were talking about detention centers, people are detained, beds are full. It's just not accurate that no -- that no enforcement was happening.\n\nNow, certainly we can agree, and I think we should, that more enforcement is happening now than happened in 2023. But I -- but I don't think that that -- those numbers are reflective of enforcement simply not happening in detention centers.\n\nGARCIA-NAVARRO: And it was --\n\nWILLIAMS: So, a lot of people are detained by the United States.\n\nGARCIA-NAVARRO: And I'll also say that they -- (CROSS TALK)\n\nGARCIA-NAVARRO: And I will say that the implication --\n\nSCHILLING: And a lot more people were coming into the United States in those years.\n\nWILLIAMS: Sure. Sure. Sure.\n\nGARCIA-NAVARRO: Yes, but I'll also say that the implication that somehow enforcement is violent and therefore these deaths are somehow acceptable is --\n\nSCHILLING: Well, when --\n\nCORNISH: And not accept -- well, let's pause on this. It's not acceptable, certainly, to the families. And as we started this story with somebody who's lost their father when they weren't even the target of the operation. So, I think the question of, what standard do we hold ourselves to is coming up in this.\n\nI want you guys to stay with me. We're going to turn to another story in the future talking about NASA, because NASA is now recruiting volunteers for a yearlong moon and mars simulation. Voters will be in space-like -- sorry, volunteers will be in space-like conditions, living inside confined habitats and carrying out tasks, just as astronauts would at the start of the year.\n\nCORNISH: An alleged plot by Iran to assassinate President Trump uncovered by Israel. Sources tell CNN they shared the intelligence with the U.S. this week.\n\nI'm bringing in \"New York Times\" White House correspondent Maggie Haberman. She's co-author of the new bestseller \"Regime Change: Inside the Imperial Presidency of Donald Trump.\"\n\nMaggie, thank you so much for being here.\n\nThis seems like a good week to have this conversation between the inflection point ending the ceasefire and then this moment of this reporting we're getting now of a potential assassination attempt, information shared by Israel. This is a president who has survived assassination attempts. Does this kind of concern loom large for him?\n\nMAGGIE HABERMAN, WHITE HOUSE CORRESPONDENT, \"THE NEW YORK TIMES\": Well, there's no question that among the reasons that the president and his team were really radicalized in the interregnum period before he came back to office, and we write about this in the book, were the assassination attempts that he faced. In particular, he -- Butler happened around the time that someone had been charged with being part of a murder for hire plot involving -- or set up by Iranian officials allegedly. And in his mind, and in the campaign's mind at the time, it all became one thing. And so, there's no question that the fact that this new information about a potential plot is going to loom large for this team. It is going to raise new concerns.\n\nYou are already seeing a president who, Audie, does not travel outside the White House that much. Part of it is that, you know, he would tell aides at the beginning of the -- of the term, I'm done campaigning. But part of it are -- is legitimate security concerns.\n\nCORNISH: It's interesting talk -- hearing from you in this moment because he has such a different cast of characters around him compared to term one. How does that affect something like prosecuting this war, where we see like while people are having talks, he says, look, ceasefire is over, and all of a sudden we are in the middle of strikes again.\n\nHABERMAN: So, there's a couple of things, Audie. One is that this government, unlike term one, and one of the things that we write about very clearly is how radically different this term is than the first term. The decisions are being made by a small handful of about a half a dozen advisors. And if someone is not in the room with those advisors in the government, they often have no idea what is going on. And that is generally by design, including Steve Witkoff, who is Trump's envoy for everything, who had been negotiating this ceasefire or some kind of an Iranian deal for some time.\n\nBut we also describe how last year Steve Witkoff thought that he was getting close to a deal, and then Trump made some other pronouncement, and it became very clear that foreign policy, as someone said, you know, and we quote them anonymously in the book, is, whatever Trump says at any given moment.\n\nAnd so, you are seeing that right now with this ceasefire where I think it is -- it is most problematic is for diplomat -- long-term diplomatic conversations, incremental comments matter, mixed signals matter. And that has obviously happened for some time here. This is also a war that the president clearly wants to be done with. And there just is no quick fix. And that is frustrating him.\n\nCORNISH: I want to turn to another issue because immigration has been obviously a defining issue for Trump in both terms, but arguably he's probably made the most gains in this term. Largely, Stephen Miller has looked at as the architect of that. Can you talk to me about the, where we are now, meaning Noem is gone, we were just talking about Mexico complaining about Mexican nationals being targeted. Is this something that the architects around Trump -- that it's by design?\n\nHABERMAN: So, we have seen a lot of fits and starts with immigration efforts and policy because there was such a flood the zone effort. Stephen Miller spent several years preparing for a second Trump term. He looked at all of the levers of government. He had it -- he has an actual plan for what he wanted to do. He is more hard line on immigration than Trump is, although Trump obviously only tends to react and, you know, reel Miller in when there's negative media coverage. And so, you saw that earlier this year with the shooting deaths of Renee Good and Alex Pretti. And these showy ICE sweeps into cities, these, you know, dramatic\n\ndisplays that the administration would clip and put out in social media videos, those slowed down, but that doesn't mean that the efforts slowed down. And so, you are going -- you are seeing -- my colleagues have written about this at \"The Times,\" larger sweeps. You are seeing -- they're just broadcast with less vigor and intensity. It calmed the protests down at the time. I don't know where this goes now. But they are trying now -- Stephen Miller had a target of 3,000 arrests a day. That was not doable. Now there is a smaller target, but it's still quite high. And he is very intent on pushing this ahead for as long as he can.\n\nCORNISH: OK, that's Maggie Haberman. Her new book with Jonathan Swan is called \"Regime Change: Inside the Imperial Presidency of Donald Trump.\" It's out now.\n\nI also want to turn to this, the ballot for governor in Colorado, it's set. Marine veteran Victor Marx secured the top Republican spot when the race was called last night. Both of his GOP rivals in the race have said they won't support him in the general election, calling him, quote, \"a disaster\" and a \"con man.\"\n\nVICTOR MARX (R), COLORADO CANDIDATE FOR GOVERNOR: So, if you are frustrated, skeptical or wondering if anything can actually change, I just proved it by winning the primary.\n\nCORNISH: OK, group chat is back.\n\nThis is a coda. I'm sorry, Terry, this is a coda.\n\nSCHILLING: You got me (ph).\n\nCORNISH: You and I talked about this in -- last week. And you were like, look, ignore people like this. This was in our Platner discussion.\n\nCORNISH: And you were like, look, this is not a guy that you should be focusing on. He is now the GOP candidate for governor in Colorado.\n\nSCHILLING: In Colorado, in Illinois, in New York, in California.\n\nCORNISH: But also two Republicans in the race.\n\nCORNISH: Sour grapes or them literally being like, this disaster is a con man. SCHILLING: Again -- look, again, I think one of the biggest travesties\n\nis when these blue states become so blue that they're not competitive. And when they're not competitive, you don't get the quality candidates that you need actually to win.\n\nCORNISH: No, no, no, Terry, he raised $3 million. That's not ate (ph) money from Democrats.\n\nSCHILLING: I know. That's not very much for -- but for a governor race --\n\nSCHILLING: You know, you can raise that just by going on a few punchy podcasts. It's really not that much money for even a congressional race at this point.\n\nCORNISH: Right. He claims to have rescued 45,000 abuse victims. He performs prayers to free people of demonic oppression. Claims to have called an airstrike on ISIS. Says he was forced to kill a man at age seven. Who among us?\n\nSCHILLING: Well, look, we got Abigail Spanberger, who's an admitted CIA operative, as the governor of Virginia. I'd like to know what she's done in her career.\n\nCORNISH: From the CIA?\n\nSCHILLING: From the -- the CIA does some pretty gnarly stuff.\n\nCORNISH: And you don't want to know about demonic -- OK. OK.\n\nSCHILLING: No, I definitely want to know about that. I believe in the spiritual world.\n\nCORNISH: I mean, work with me, Terry. Work with me.\n\nLulu, the reason why I'm talking about this is because candidate quality, a term that we heard from Mitch McConnell.\n\nWILLIAMS: All week. Yes.\n\nCORNISH: You know what I mean? It's been so on the minds of everyone with the Graham Platner thing in the Senate. And just like in Republican circles, in Colorado, the voters want what the voters want.\n\nWhat have we learned about the limits of that?\n\nGARCIA-NAVARRO: We've learned that demonic possession is a thing, clearly.\n\nSCHILLING: Yes, 100 percent.\n\nGARCIA-NAVARRO: That is -- that is -- that is --\n\nCORNISH: Also teleporting to a Waffle House. A different story. SCHILLING: That's different.\n\nGARCIA-NAVARRO: And teleporting to a Waffle House. I mean -- listen, this is a huge issue, I think, for both Republicans and Democrats and what I think any -- or what I hear from both my Democratic and Republican friends who are in the political system in that way is that they say, well, it's because the parties are so weak and we no longer get to decide about quality candidates -- you know, candidate quality. These decisions used to be made in backrooms. And so we could really vet people and put the best candidate forward.\n\nGARCIA-NAVARRO: And that is true.\n\nWhat voters will say is, yay, I'm so glad that this is no longer being done in backrooms.\n\nCORNISH: I know, but how come some people can ride it out and some people can't? Now, Platner is accused of violence. I think that clearly turned out to be a red line. But there's lots of other people dealing with scandals. Ken Paxton in Texas.\n\nCORNISH: Obviously, Marx. I mean his -- one of the people he ran against said she ran a good race and, quote, \"for the record, I still haven't killed anyone.\" It seems as though --\n\nWILLIAMS: That's the bar.\n\nCORNISH: Yes, that's the bar.\n\nCORNISH: What is the bar for voters?\n\nWILLIAMS: You know, I mean, we have to understand that primary voters in any party are the most activist and sort of most partisan of any voters in the country.\n\nGARCIA-NAVARRO: That's why we should have open primaries.\n\nWILLIAMS: That's why we should have open primaries or ranked choice voting, you know, as you have -- as you have in --\n\nGARCIA-NAVARRO: Or ranked choice voting.\n\nCORNISH: Oh, they hate -- the parties hate ranked choice voting.\n\nWILLIAMS: Well, but my point -- sure, but all I'm saying is that when the most activist people are the ones casting the votes, you're going to occasionally get stuff like this in --\n\nGARCIA-NAVARRO: It's not only that --\n\nGARCIA-NAVARRO: But to your point, actually, when you have one party rule in a state, the opposition party becomes very radicalized I think. We see that in California with the GOP. We see that, you know, in Democratic politics and sort of right leaning states. And so, I do think that you get like the most hardcore people putting candidates forward. And we are in an era, we are led by a populist, we are led by someone who was a celebrity, who has innumerable sort of scandals, both previous and current, and I think it's opened the door --\n\nCORNISH: Yes, but what we have -- we've learned, while he may be --\n\nCORNISH: While he may be scandal proof, not everyone else is. That's what we have learned.\n\nGARCIA-NAVARRO: Yes. But maybe. But maybe not.\n\nGARCIA-NAVARRO: I mean, I think everyone's trying their game and they're trying to see how far they can push it until voters or the parties or people just say, the establishment says enough is enough.\n\nRape seems to -- accusations of rape seem to be that line for the Democrats, but that certainly hasn't been the line for Republicans.\n\nSCHILLING: Well, it was the line until it became clear that Platner was actually weakened and was most likely going to lose. The Democrats did not care about Lyndsey Fifield when she made her accusations because she was a Republican.\n\nGARCIA-NAVARRO: I'm -- what I'm trying to -- what I'm --\n\nSCHILLING: So, it's, believe all Democrat women, not believe any Republican women.\n\nGARCIA-NAVARRO: What I'm -- what I'm trying to say is, you have a president here who has many, many allegations. All I'm saying --\n\nSCHILLING: Not credible.\n\nGARCIA-NAVARRO: Yes, well --\n\nCORNISH: It's funny, we are ending the week the way we started it, almost with the exact same discussion is that --\n\nGARCIA-NAVARRO: I'm not arguing with you.\n\nCORNISH: No, no, it's the same beats I hear partisan wise.\n\nGARCIA-NAVARRO: I'm just saying is, what's good for the goose is good for the gander. And I think both Republicans and Democrats need to -- need to actually grapple with this. This isn't like a he said/she said.\n\nCORNISH: We hope to have more news for you next week.\n\nThank you for being in the group chat. Thank you for waking up with us. A lot of places you can spend your time, and you choose to spend it with us. I really appreciate it.\n\nI'm Audie Cornish, and the headlines are next."
+    }
+  ]
+}
