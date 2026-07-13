@@ -1,0 +1,546 @@
+{
+  "date": "2026-07-12",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-12/segment/02",
+  "vocabulary": [
+    {
+      "word": "sudden illness",
+      "phonetic": "/ˈsʌdən ˈɪlnəs/",
+      "pos": "noun phrase",
+      "level": "六级",
+      "cn": "突发疾病",
+      "en": "an illness that occurs unexpectedly and progresses rapidly",
+      "excerpt": "the longtime senator died from a brief and sudden illness",
+      "example_cn": "他因突发疾病去世。"
+    },
+    {
+      "word": "pay tribute to",
+      "phonetic": "/peɪ ˈtrɪbjuːt tuː/",
+      "pos": "verb phrase",
+      "level": "六级",
+      "cn": "向...致敬",
+      "en": "to express respect or admiration for someone",
+      "excerpt": "President Trump paid tribute to Graham in a post on Truth Social",
+      "example_cn": "总统在演讲中向英雄致敬。"
+    },
+    {
+      "word": "patriot",
+      "phonetic": "/ˈpeɪtriət/",
+      "pos": "noun",
+      "level": "六级",
+      "cn": "爱国者",
+      "en": "a person who loves and strongly supports their country",
+      "excerpt": "a true American patriot",
+      "example_cn": "他是一位真正的爱国者。"
+    },
+    {
+      "word": "emergency dispatch",
+      "phonetic": "/ɪˈmɜːrdʒənsi dɪˈspætʃ/",
+      "pos": "noun phrase",
+      "level": "六级",
+      "cn": "紧急调度",
+      "en": "the system or act of sending emergency responders to a scene",
+      "excerpt": "details that we're getting from the emergency dispatch audio",
+      "example_cn": "紧急调度中心接到了求救电话。"
+    },
+    {
+      "word": "cardiac arrest",
+      "phonetic": "/ˈkɑːrdiæk əˈrest/",
+      "pos": "noun phrase",
+      "level": "六级",
+      "cn": "心脏骤停",
+      "en": "sudden loss of heart function",
+      "excerpt": "EMS six responds to engine seven medic seven with cardiac arrest",
+      "example_cn": "病人因心脏骤停被紧急送医。"
+    },
+    {
+      "word": "empower",
+      "phonetic": "/ɪmˈpaʊər/",
+      "pos": "verb",
+      "level": "六级",
+      "cn": "授权",
+      "en": "to give someone the authority or power to do something",
+      "excerpt": "the governor of South Carolina, Henry McMaster, is empowered to appoint a temporary replacement",
+      "example_cn": "法律授权总统签署条约。"
+    },
+    {
+      "word": "irreplaceable",
+      "phonetic": "/ˌɪrɪˈpleɪsəbl/",
+      "pos": "adjective",
+      "level": "六级",
+      "cn": "不可替代的",
+      "en": "too special or unique to be replaced by someone or something else",
+      "excerpt": "Lindsey Graham is irreplaceable",
+      "example_cn": "他对团队来说是不可替代的。"
+    },
+    {
+      "word": "steadfast",
+      "phonetic": "/ˈstedfæst/",
+      "pos": "adjective",
+      "level": "六级",
+      "cn": "坚定的",
+      "en": "loyal and unwavering",
+      "excerpt": "a loyal and steadfast friend",
+      "example_cn": "她是一位坚定的支持者。"
+    },
+    {
+      "word": "defining chapter",
+      "phonetic": "/dɪˈfaɪnɪŋ ˈtʃæptər/",
+      "pos": "noun phrase",
+      "level": "六级",
+      "cn": "决定性篇章",
+      "en": "the most important or characteristic period in someone's life or career",
+      "excerpt": "what do you think will be that defining chapter of his public life?",
+      "example_cn": "这段经历是他职业生涯的决定性篇章。"
+    },
+    {
+      "word": "impeachment",
+      "phonetic": "/ɪmˈpiːtʃmənt/",
+      "pos": "noun",
+      "level": "六级",
+      "cn": "弹劾",
+      "en": "the process of charging a public official with misconduct",
+      "excerpt": "he was a House manager for the impeachment of Bill Clinton",
+      "example_cn": "总统面临弹劾程序。"
+    },
+    {
+      "word": "reach across the aisle",
+      "phonetic": "/riːtʃ əˈkrɔːs ðə aɪl/",
+      "pos": "verb phrase",
+      "level": "六级",
+      "cn": "跨党派合作",
+      "en": "to cooperate with members of the opposing political party",
+      "excerpt": "Lindsey Graham was famous for reaching across the aisle",
+      "example_cn": "两党需要跨党派合作来通过法案。"
+    },
+    {
+      "word": "bipartisanship",
+      "phonetic": "/baɪˈpɑːrtɪzənʃɪp/",
+      "pos": "noun",
+      "level": "六级",
+      "cn": "两党合作",
+      "en": "cooperation between two political parties",
+      "excerpt": "he spoke of the importance of bipartisanship",
+      "example_cn": "两党合作对于民主至关重要。"
+    },
+    {
+      "word": "neoconservative",
+      "phonetic": "/ˌniːoʊkənˈsɜːrvətɪv/",
+      "pos": "noun",
+      "level": "六级",
+      "cn": "新保守主义者",
+      "en": "a person who advocates for an aggressive foreign policy and the promotion of democracy abroad",
+      "excerpt": "He was viewed as a neoconservative in the George W. Bush era",
+      "example_cn": "新保守主义者支持强有力的外交政策。"
+    },
+    {
+      "word": "contradict",
+      "phonetic": "/ˌkɑːntrəˈdɪkt/",
+      "pos": "verb",
+      "level": "六级",
+      "cn": "与...矛盾",
+      "en": "to be in opposition to something",
+      "excerpt": "seemed to be contradicting some of the commitments",
+      "example_cn": "他的行为与他的言论相矛盾。"
+    },
+    {
+      "word": "plight",
+      "phonetic": "/plaɪt/",
+      "pos": "noun",
+      "level": "六级",
+      "cn": "困境",
+      "en": "a difficult or unfortunate situation",
+      "excerpt": "the plight of Ukrainians",
+      "example_cn": "难民们的困境令人心碎。"
+    },
+    {
+      "word": "transformation",
+      "phonetic": "/ˌtrænsfərˈmeɪʃn/",
+      "pos": "noun",
+      "level": "六级",
+      "cn": "转变",
+      "en": "a complete change in form or nature",
+      "excerpt": "the big transformation, political transformation of the South",
+      "example_cn": "这个国家经历了巨大的经济转型。"
+    },
+    {
+      "word": "advocacy",
+      "phonetic": "/ˈædvəkəsi/",
+      "pos": "noun",
+      "level": "六级",
+      "cn": "倡导",
+      "en": "public support for a particular cause or policy",
+      "excerpt": "Graham was known for his advocacy and strong support for Israel",
+      "example_cn": "她致力于环保倡导工作。"
+    },
+    {
+      "word": "hawkish",
+      "phonetic": "/ˈhɔːkɪʃ/",
+      "pos": "adjective",
+      "level": "六级",
+      "cn": "鹰派的",
+      "en": "favoring a strong or aggressive policy, especially in foreign affairs",
+      "excerpt": "He was hawkish on Iran",
+      "example_cn": "这位参议员在外交政策上持鹰派立场。"
+    },
+    {
+      "word": "missile defense",
+      "phonetic": "/ˈmɪsaɪl dɪˈfens/",
+      "pos": "noun phrase",
+      "level": "六级",
+      "cn": "导弹防御",
+      "en": "systems designed to detect and destroy incoming missiles",
+      "excerpt": "He would advocate for Israel to have more funding when it came to missile defense",
+      "example_cn": "该国投资了先进的导弹防御系统。"
+    },
+    {
+      "word": "unwavering",
+      "phonetic": "/ʌnˈweɪvərɪŋ/",
+      "pos": "adjective",
+      "level": "六级",
+      "cn": "坚定不移的",
+      "en": "not changing or becoming weaker; steady",
+      "excerpt": "Lindsey had unwavering moral clarity",
+      "example_cn": "他对原则有着坚定不移的信念。"
+    },
+    {
+      "word": "skepticism",
+      "phonetic": "/ˈskeptɪsɪzəm/",
+      "pos": "noun",
+      "level": "六级",
+      "cn": "怀疑态度",
+      "en": "an attitude of doubt or disbelief",
+      "excerpt": "He openly expressed skepticism that Iran was negotiating in good intent",
+      "example_cn": "公众对这项新政策持怀疑态度。"
+    },
+    {
+      "word": "Memorandum of Understanding",
+      "phonetic": "/ˌmeməˈrændəm əv ˌʌndərˈstændɪŋ/",
+      "pos": "noun phrase",
+      "level": "六级",
+      "cn": "谅解备忘录",
+      "en": "a document describing the terms of an agreement between parties",
+      "excerpt": "that 60-day negotiation window would ever lead to a final agreement",
+      "example_cn": "两国签署了谅解备忘录。"
+    },
+    {
+      "word": "fierce advocate",
+      "phonetic": "/fɪrs ˈædvəkət/",
+      "pos": "noun phrase",
+      "level": "六级",
+      "cn": "强烈倡导者",
+      "en": "a person who strongly supports a cause",
+      "excerpt": "another place that he was a fierce advocate for Ukraine",
+      "example_cn": "她是人权事业的强烈倡导者。"
+    },
+    {
+      "word": "relentless",
+      "phonetic": "/rɪˈlentləs/",
+      "pos": "adjective",
+      "level": "六级",
+      "cn": "不懈的",
+      "en": "continuing without stopping; persistent",
+      "excerpt": "Graham's relentless diplomatic work",
+      "example_cn": "他坚持不懈地追求正义。"
+    },
+    {
+      "word": "kindred spirit",
+      "phonetic": "/ˈkɪndrɪd ˈspɪrɪt/",
+      "pos": "noun phrase",
+      "level": "六级",
+      "cn": "志同道合的人",
+      "en": "a person with similar interests or outlook",
+      "excerpt": "They saw Lindsey Graham as somebody that was a kindred spirit",
+      "example_cn": "在会议上我找到了许多志同道合的人。"
+    },
+    {
+      "word": "isolationist",
+      "phonetic": "/ˌaɪsəˈleɪʃənɪst/",
+      "pos": "adjective",
+      "level": "六级",
+      "cn": "孤立主义的",
+      "en": "favoring a policy of remaining apart from the affairs of other countries",
+      "excerpt": "President Trump's sort of MAGA-based, more isolationist vision",
+      "example_cn": "孤立主义政策可能导致国家脱离国际事务。"
+    },
+    {
+      "word": "falling out",
+      "phonetic": "/ˈfɔːlɪŋ aʊt/",
+      "pos": "noun phrase",
+      "level": "六级",
+      "cn": "争吵；不和",
+      "en": "a disagreement or quarrel",
+      "excerpt": "President Trump had the horrible falling out of President Zelenskyy",
+      "example_cn": "他们因财务问题发生了争吵。"
+    },
+    {
+      "word": "Coalition of the Willing",
+      "phonetic": "/ˌkoʊəˈlɪʃn əv ðə ˈwɪlɪŋ/",
+      "pos": "noun phrase",
+      "level": "六级",
+      "cn": "自愿联盟",
+      "en": "a group of countries that join together for a specific purpose",
+      "excerpt": "The Europeans responded by forming the Coalition of the Willing",
+      "example_cn": "自愿联盟由多个国家组成。"
+    },
+    {
+      "word": "sanctions package",
+      "phonetic": "/ˈsæŋkʃnz ˈpækɪdʒ/",
+      "pos": "noun phrase",
+      "level": "六级",
+      "cn": "制裁方案",
+      "en": "a set of economic or political penalties imposed on a country",
+      "excerpt": "this Russian sanctions package",
+      "example_cn": "欧盟批准了对俄罗斯的新制裁方案。"
+    },
+    {
+      "word": "stake out",
+      "phonetic": "/steɪk aʊt/",
+      "pos": "verb phrase",
+      "level": "六级",
+      "cn": "监视；守候",
+      "en": "to watch a place or person carefully, especially in secret",
+      "excerpt": "reporters would stake out a key position in the Senate basement",
+      "example_cn": "记者们在法院外守候。"
+    },
+    {
+      "word": "towering figure",
+      "phonetic": "/ˈtaʊərɪŋ ˈfɪɡjər/",
+      "pos": "noun phrase",
+      "level": "六级",
+      "cn": "杰出人物",
+      "en": "a person of great importance or influence",
+      "excerpt": "He was a towering figure in the United States Senate",
+      "example_cn": "他是科学界的杰出人物。"
+    },
+    {
+      "word": "interventionist",
+      "phonetic": "/ˌɪntərˈvenʃənɪst/",
+      "pos": "adjective",
+      "level": "六级",
+      "cn": "干预主义的",
+      "en": "favoring involvement in the affairs of other countries",
+      "excerpt": "the interventionist wing of the Republican Party",
+      "example_cn": "干预主义政策常常引发争议。"
+    },
+    {
+      "word": "dealmaker",
+      "phonetic": "/ˈdiːlmeɪkər/",
+      "pos": "noun",
+      "level": "六级",
+      "cn": "交易促成者",
+      "en": "a person who negotiates agreements",
+      "excerpt": "Lindsey Graham, a dealmaker on immigration",
+      "example_cn": "他是一位经验丰富的交易促成者。"
+    },
+    {
+      "word": "fend off",
+      "phonetic": "/fend ɔːf/",
+      "pos": "verb phrase",
+      "level": "六级",
+      "cn": "抵挡；避开",
+      "en": "to defend against or avoid something",
+      "excerpt": "He ultimately fended that off by some shrewd and deft maneuvering",
+      "example_cn": "他巧妙地避开了批评。"
+    },
+    {
+      "word": "orthodoxy",
+      "phonetic": "/ˈɔːrθədɑːksi/",
+      "pos": "noun",
+      "level": "六级",
+      "cn": "正统观念",
+      "en": "generally accepted beliefs or practices",
+      "excerpt": "things that were not within the GOP orthodoxy",
+      "example_cn": "他挑战了传统的正统观念。"
+    },
+    {
+      "word": "contentious",
+      "phonetic": "/kənˈtenʃəs/",
+      "pos": "adjective",
+      "level": "六级",
+      "cn": "有争议的",
+      "en": "causing or likely to cause disagreement",
+      "excerpt": "those very contentious hearings on Capitol Hill",
+      "example_cn": "这是一个有争议的话题。"
+    },
+    {
+      "word": "profound",
+      "phonetic": "/prəˈfaʊnd/",
+      "pos": "adjective",
+      "level": "六级",
+      "cn": "深远的",
+      "en": "very great or intense",
+      "excerpt": "He leaves a very profound, complex legacy",
+      "example_cn": "这一发现具有深远的影响。"
+    },
+    {
+      "word": "outpouring",
+      "phonetic": "/ˈaʊtpɔːrɪŋ/",
+      "pos": "noun",
+      "level": "六级",
+      "cn": "涌现；倾泻",
+      "en": "a sudden and strong expression of emotion",
+      "excerpt": "that outpouring of shock and concern",
+      "example_cn": "消息传出后，涌现出大量的支持。"
+    },
+    {
+      "word": "retaliatory strikes",
+      "phonetic": "/rɪˈtæliətɔːri straɪks/",
+      "pos": "noun phrase",
+      "level": "六级",
+      "cn": "报复性打击",
+      "en": "military attacks in response to an earlier attack",
+      "excerpt": "retaliatory strikes by the IRGC",
+      "example_cn": "该国进行了报复性打击。"
+    },
+    {
+      "word": "destabilize",
+      "phonetic": "/diːˈsteɪbəlaɪz/",
+      "pos": "verb",
+      "level": "六级",
+      "cn": "使不稳定",
+      "en": "to make something less stable or secure",
+      "excerpt": "this could certainly destabilize those efforts",
+      "example_cn": "经济危机可能 destabilize 整个地区。"
+    },
+    {
+      "word": "stark rhetoric",
+      "phonetic": "/stɑːrk ˈretərɪk/",
+      "pos": "noun phrase",
+      "level": "六级",
+      "cn": "严厉的言辞",
+      "en": "harsh or blunt language",
+      "excerpt": "very stark rhetoric from both the U.S. and the Iranian regime",
+      "example_cn": "双方都使用了严厉的言辞。"
+    },
+    {
+      "word": "ceasefire agreement",
+      "phonetic": "/ˈsiːsfaɪər əˈɡriːmənt/",
+      "pos": "noun phrase",
+      "level": "六级",
+      "cn": "停火协议",
+      "en": "an agreement to stop fighting",
+      "excerpt": "President Trump declared that ceasefire agreement with Iran to be over",
+      "example_cn": "双方签署了停火协议。"
+    },
+    {
+      "word": "strategic petroleum reserves",
+      "phonetic": "/strəˈtiːdʒɪk pəˈtroʊliəm rɪˈzɜːrvz/",
+      "pos": "noun phrase",
+      "level": "六级",
+      "cn": "战略石油储备",
+      "en": "stockpiles of crude oil maintained by a country to ensure energy security",
+      "excerpt": "releases from the strategic petroleum reserves",
+      "example_cn": "政府释放了战略石油储备以稳定油价。"
+    },
+    {
+      "word": "refined products",
+      "phonetic": "/rɪˈfaɪnd ˈprɑːdʌkts/",
+      "pos": "noun phrase",
+      "level": "六级",
+      "cn": "精炼产品",
+      "en": "products derived from crude oil after processing",
+      "excerpt": "We cannot afford to lose any refined products manufacturing",
+      "example_cn": "炼油厂生产各种精炼产品。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Senator Graham's spokesperson said that the senator died after a, quote, \"brief and sudden illness.\"",
+      "cn": "格雷厄姆参议员的发言人表示，这位参议员死于一场，引用原话，“短暂而突发的疾病”。",
+      "structure": "主句 + 宾语从句（that引导）",
+      "analysis": "主句为'Senator Graham's spokesperson said'，后接that引导的宾语从句，从句中'after a brief and sudden illness'为介词短语作时间状语，'quote'用于引出直接引语。"
+    },
+    {
+      "en": "According to audio of the emergency dispatch, emergency responders were dispatched to a Washington, D.C., address for Senator Graham at about 8:30 p.m. on Saturday evening for a report of someone suffering from chest pains.",
+      "cn": "根据紧急调度音频，急救人员在周六晚上大约8点30分被派往华盛顿特区的一个地址，处理格雷厄姆参议员那里有人胸痛的报告。",
+      "structure": "介词短语（According to...）作状语 + 主句（emergency responders were dispatched...）",
+      "analysis": "句首'According to...'为介词短语作状语，主句为被动语态'were dispatched'，后接地点状语'to...address'、时间状语'at about 8:30 p.m. on Saturday evening'和目的状语'for a report of...'。"
+    },
+    {
+      "en": "The audio indicates that someone had called in from Baltimore and was on the way to that home at that time.",
+      "cn": "音频显示，有人从巴尔的摩打来电话，当时正在前往那所住宅的路上。",
+      "structure": "主句 + 宾语从句（that引导）",
+      "analysis": "主句为'The audio indicates'，后接that引导的宾语从句，从句中'had called'为过去完成时，'was on the way'为过去进行时，表示过去某个时间点正在进行的动作。"
+    },
+    {
+      "en": "When he replaced Strom Thurmond in the Senate, Lindsey Graham gained in national recognition as Republicans gained control of the Senate.",
+      "cn": "当他接替斯特罗姆·瑟蒙德进入参议院时，随着共和党获得参议院控制权，林赛·格雷厄姆获得了全国性的认可。",
+      "structure": "时间状语从句（When...） + 主句 + 原因状语从句（as...）",
+      "analysis": "When引导时间状语从句，主句为'Lindsey Graham gained in national recognition'，as引导原因状语从句，说明主句发生的原因。"
+    },
+    {
+      "en": "He was in 2008, but well before then, a very close ally of Republican nominee, Senator John McCain.",
+      "cn": "他在2008年，甚至更早之前，就是共和党候选人约翰·麦凯恩参议员的亲密盟友。",
+      "structure": "主系表结构，插入语",
+      "analysis": "主句为'He was a very close ally'，插入语'but well before then'对时间进行补充说明，'of Republican nominee, Senator John McCain'为介词短语作定语修饰'ally'。"
+    },
+    {
+      "en": "And though he showed a desire for bipartisanship throughout most of his career, in recent years, he has seemed more partisan as he got closer to Donald Trump.",
+      "cn": "尽管他在职业生涯的大部分时间里表现出对两党合作的渴望，但近年来，随着他与唐纳德·特朗普关系日益密切，他显得更加党派化。",
+      "structure": "让步状语从句（Though...） + 主句 + 时间状语从句（as...）",
+      "analysis": "Though引导让步状语从句，主句为'he has seemed more partisan'，as引导时间状语从句，表示主句动作发生的时间背景。"
+    },
+    {
+      "en": "He openly expressed skepticism that Iran was negotiating in good intent and that it would stick to the terms of the Memorandum of Understanding or that that 60-day negotiation window would ever lead to a final agreement.",
+      "cn": "他公开表示怀疑，认为伊朗并非真心诚意地进行谈判，也不会遵守谅解备忘录的条款，或者那60天的谈判窗口期最终不会达成协议。",
+      "structure": "主句 + 同位语从句（that引导）",
+      "analysis": "主句为'He openly expressed skepticism'，后接三个由that引导的同位语从句，解释'skepticism'的具体内容，从句中使用了并列结构。"
+    },
+    {
+      "en": "And that is something that we've heard from President Zelenskyy, who has talked about the 10 times that the senator visited, Lindsey Graham visited Ukraine during Russia's war there since 2022.",
+      "cn": "这也是我们从泽连斯基总统那里听到的，他提到自2022年俄罗斯战争以来，这位参议员（林赛·格雷厄姆）访问了乌克兰10次。",
+      "structure": "主句 + 定语从句（that/who引导）",
+      "analysis": "主句为'And that is something'，后接that引导的定语从句修饰'something'，从句中又包含who引导的非限制性定语从句修饰'President Zelenskyy'，以及that引导的定语从句修饰'the 10 times'。"
+    },
+    {
+      "en": "He was all about putting more pressure on China to end that support as well.",
+      "cn": "他致力于向中国施加更大压力，以结束这种支持。",
+      "structure": "主系表结构 + 不定式短语",
+      "analysis": "主句为'He was all about putting more pressure on China'，'to end that support'为不定式短语作目的状语。"
+    },
+    {
+      "en": "He was someone who reporters like myself would often stake out, as you can see there on your screen, because knowing that he had something to say about something very critical, he could help drive the debate on a number of issues.",
+      "cn": "他是像我这样的记者经常守候的对象，正如你在屏幕上看到的，因为知道他对一些非常关键的问题有话要说，他可以帮助推动许多议题的辩论。",
+      "structure": "主句 + 定语从句（who引导） + 插入语 + 原因状语从句（because...）",
+      "analysis": "主句为'He was someone'，后接who引导的定语从句修饰'someone'，插入语'as you can see there on your screen'，原因状语从句'because knowing...'中'knowing'为现在分词短语作原因状语。"
+    },
+    {
+      "en": "And what we have seen in response to U.S. attacks on Iran just in the last 24 hours is, of course, retaliatory strikes by the IRGC as well, targeting U.S. allies in the Gulf, targeting military assets in the Gulf.",
+      "cn": "我们在过去24小时内看到的对美国袭击伊朗的回应，当然还有伊斯兰革命卫队的报复性打击，目标是海湾地区的美国盟友和军事资产。",
+      "structure": "主语从句（What...） + 系动词 + 表语 + 伴随状语（targeting...）",
+      "analysis": "主语从句'What we have seen...'作主语，系动词'is'，表语'retaliatory strikes'，后接两个现在分词短语'targeting...'作伴随状语，说明打击的目标。"
+    },
+    {
+      "en": "And there are real fears that this could certainly destabilize those efforts to restart mediation efforts.",
+      "cn": "人们确实担心这可能会破坏重启调解努力的努力。",
+      "structure": "主句 + 同位语从句（that引导）",
+      "analysis": "主句为'There are real fears'，后接that引导的同位语从句，解释'fears'的具体内容，从句中'to restart mediation efforts'为不定式短语作定语修饰'efforts'。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "美国参议员林赛·格雷厄姆去世",
+      "content": "南卡罗来纳州共和党参议员林赛·格雷厄姆因突发疾病去世，享年71岁。他曾担任众议员和参议员，是外交政策鹰派，支持以色列和乌克兰，后期成为特朗普的亲密盟友。",
+      "keywords": "Lindsey Graham, death, senator, South Carolina, Republican, foreign policy, Trump"
+    },
+    {
+      "title": "美国对伊朗军事打击",
+      "content": "美国中央司令部对伊朗140个军事目标进行打击，包括导弹和无人机基地、海军设施等，作为对伊朗在霍尔木兹海峡袭击商船的回应。伊朗威胁关闭海峡，并进行了报复性打击。",
+      "keywords": "Iran, U.S. strikes, Strait of Hormuz, IRGC, military targets, retaliation"
+    },
+    {
+      "title": "霍尔木兹海峡局势与全球油价",
+      "content": "伊朗声称关闭霍尔木兹海峡，但联合海事信息中心表示海峡仍开放双向通行。全球油价因伊朗冲突和乌克兰战争上涨，美国汽油价格可能突破4美元。战略石油储备释放即将耗尽，飓风季节可能进一步影响供应。",
+      "keywords": "Strait of Hormuz, oil prices, gasoline, strategic petroleum reserves, hurricane season"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nSen. Lindsey Graham Dies At 71 After Sudden Illness. Sen. Lindsey Graham Dies at 71 After Sudden Illness; U.S. Targets Iranian Military Sites; Iran Foreign Minister Holds Call with Pakistani Counterpart; Remembering Senator Lindsey Graham. Aired 7-8a ET\n\nAired July 12, 2026 - 07:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nRENE MARSH, CNN HOST: Well, it's Sunday, July 12th. Thanks so much for joining us this morning. I'm Rene Marsh in for Victor Blackwell.\n\nNow we begin with breaking news. South Carolina Senator Lindsey Graham has died. His office announced this morning that the longtime senator died from a brief and sudden illness, but did not give further details. Graham was elected to the House in 1994 and the Senate in 2002. He was running for his fifth term as senator in this fall's midterm elections.\n\nPresident Trump paid tribute to Graham in a post on Truth Social saying, \"Senator Graham, one of the greatest people and senators I have ever known, is dead. He was always working and was a true American patriot. Lindsey Graham will be greatly missed.\"\n\nLindsey Graham had just celebrated his 71st birthday last week. CNN's Brian Todd joins us now with the very latest on what we know so far. Brian?\n\nBRIAN TODD, CNN CORRESPONDENT: Well, Rene, we do have some new information. This is coming from details that we're getting from the emergency dispatch audio. We're going to play that in just one second. What we can tell you at this hour is that Senator Graham's spokesperson said that the senator died after a, quote, \"brief and sudden illness.\" The spokesperson is saying Senator Graham's family appreciates prayers at this time and asks for privacy during this incredibly difficult period.\n\nThey are only saying from his side that he died of a brief and sudden illness. But here's what we can tell you. According to audio of the emergency dispatch, this is on Broadcastify. Broadcastify is an online platform for streaming live public safety communications.\n\nAccording to audio of that emergency dispatch, emergency responders were dispatched to a Washington, D.C., address for Senator Graham at about 8:30 p.m. on Saturday evening for a report of someone suffering from chest pains. The audio indicates that someone had called in from Baltimore and was on the way to that home at that time. The dispatcher said the caller believed that the door to the home was unlocked, but when emergency responders got there, they said it was deadbolted. That is according to the audio of the emergency dispatch on Broadcastify. The audio shows that about 25 minutes later they reported that CPR was in progress.\n\nWe can play for you about a 10-second clip that gives some additional detail. This is from the emergency response broadcast on Broadcastify. Take a listen to this.\n\nUNIDENTIFIED FEMALE: EMS six responds to engine seven medic seven on scene cardiac arrest. EMS six responds to engine seven medic seven with cardiac arrest.\n\nTODD: And, again, we can just, you know, again reiterate that that call discusses cardiac arrest. We cannot confirm at this hour that Senator Graham actually died of cardiac arrest. That was a call discussing cardiac arrest, piecing it together. You can also -- we can also tell you that emergency responders were dispatched to the address for someone -- for Senator Graham at about 8:30 p.m. Saturday for a report of someone suffering from chest pains. That is according to audio of the emergency dispatch on the service Broadcastify.\n\nThe audio, again, indicates that someone had called in from Baltimore and was on the way to the home at that time at about 8:30 p.m. on Saturday. The dispatcher said the caller believed the door was unlocked, but emergency responders said it was deadbolted. That is according to that audio. And about 25 minutes later they reported that CPR was in progress.\n\nWe can also tell you that the governor of South Carolina, Henry McMaster, is empowered to appoint a temporary replacement for Senator Graham. We believe that Senator -- that Governor McMaster is, of course, dealing with that situation right now. Governor McMaster issued a statement posted on X saying, quote, \"Peggy and I and our children are devastated. Lindsey Graham is irreplaceable, the fiercest of fighters for South Carolina and America, and a loyal and steadfast friend. We grieve with Darline, his family, and his devoted staff. May God hold him gently in the palm of his hand. We shall not see his likes again.\"\n\nThat is a statement from Governor Henry McMaster of South Carolina. Governor McMaster is empowered to appoint a temporary replacement for Senator Graham. That reference to Darline is a reference to Graham's younger sister, Darline. Rene?\n\nMARSH: Brian Todd, thank you.\n\nAnd for more, we are joined by CNN Presidential Historian Tim Naftali. He's a former director of the Nixon Presidential Library. Thanks so much for joining us this morning on this breaking news day, really shocking news surrounding the death of Senator Lindsey Graham.\n\nI want, from your perspective, when historians look back at Graham's life and his career, what do you think will be that defining chapter of his public life?\n\nTIM NAFTALI, CNN PRESIDENTIAL HISTORIAN: Well, I think there have been a few chapters of Senator Graham's life that will define his long public career. When he was in the House at the very beginning of his congressional career, he was a House manager for the impeachment of Bill Clinton.\n\nAnd at that time, even though he was a new member of the House, he gained national prominence in making certain arguments about impeachment and why a crime wasn't necessary to remove a president. It depended on their character and whether they brought honor to the office.\n\nWhen he replaced Strom Thurmond in the Senate, Lindsey Graham gained in national recognition as Republicans gained control of the Senate. Lindsey Graham was famous for reaching across the aisle. He worked with Senator Ted Kennedy on immigration reform. He was known to -- he spoke of the importance of bipartisanship, although he was very clear about his own conservative values.\n\nIn foreign policy, he was an advocate of a strong American presence and a strong American involvement in international affairs. He was viewed as a neoconservative in the George W. Bush era. He was a strong advocate for Israel, but also a strong advocate for NATO and in most recent years for Ukraine.\n\nHe was in 2008, but well before then, a very close ally of Republican nominee, Senator John McCain. Indeed, they were considered very close friends. And so he was associated with Senator McCain's views of foreign policy and also with Senator McCain's willingness to work with Democrats.\n\nThe next phase is the phase, of course, that is most recent, which is where Senator Graham became close to Donald Trump, President Trump. And at times seemed to be contradicting, if only in spirit, but perhaps in act, some of the commitments that he had shown to the ideas of John McCain and also to the bipartisanship that had shaped some of his actions in the first couple of decades of his time in Washington.\n\nIn most recent years, despite the friendship, the clear friendship with Donald Trump, Senator Graham has continued to support NATO and has viewed the plight of Ukrainians as something that is a concern of American international security. And he has viewed -- and continued to view Russia as a threat.\n\nSo when looking at his career, one sees a man with conservative values who represents in the big transformation, political transformation of the South. Lindsey Graham replaced a Democrat when he was elected in the -- to the House from South Carolina and replaced Strom Thurmond.\n\nStrom Thurmond had started his career as a Democrat running against Harry Truman for the nomination of the Democratic Party in 1948. He switched to the Republican Party, but Lindsey Graham had been elected as a Republican. So Graham's career indicated was part of the shift to a solid South or somewhat solid South now for the Republican Party.\n\nAnd though he showed a desire for bipartisanship throughout most of his career, in recent years, he has seemed more partisan as he got closer to Donald Trump.\n\nMARSH: Yes. And his evolution on all of the things that you laid out certainly is a part of his legacy as well. Tim Naftali, thank you so much for joining us this morning.\n\nAnd we have more breaking news coverage on the death of Senator Lindsey Graham. Coming up, Graham's work on the world stage and the tributes pouring in from international leaders after the break.\n\nMARSH: Well, this morning we are seeing reaction to the sudden death of South Carolina Republican Senator Lindsey Graham. Graham was known for his advocacy and strong support for Israel. And just hours after news broke of his death, several Israeli leaders have expressed their sadness at his passing.\n\nIsraeli Prime Minister Benjamin Netanyahu posted this in part on social media, quote, \"Israel has lost one of its greatest friends. America lost a great patriot. I have lost a beloved friend.\"\n\nWell, for reaction in Israel, we turn now to Jerusalem Bureau Chief Oren Liebermann. Oren, 2 o'clock in the afternoon there. What are you hearing from people as far as reaction to the shocking news?\n\nOREN LIEBERMANN, CNN JERUSALEM BUREAU CHIEF: Rene, Israel sees the passing of Senator Lindsey Graham as a huge loss. He was a passionate advocate for Israel, a staunch supporter of Israel. And he was hawkish on Iran as well as Israel's other adversaries in the region. And that made him Israel's great ally in Washington.\n\nHe would advocate for Israel to have more funding when it came to missile defense. He was a big proponent of that. And then he visited often, and not only since October 7, 2023, for decades here, likely going back to when he became a senator in 2002.\n\nHe would visit Israel. He would hold press conferences here. He would meet not only the media but also officials. Of course, he would meet Prime Minister Benjamin Netanyahu and others repeatedly. He made it a point to be very openly and publicly pro-Israel. And that's why Israeli officials, not just from the coalition, not just from Netanyahu's side, but also from the opposition, view his passing as a huge loss.\n\nYou saw some of the statement there from Netanyahu. Let me read you just a couple of other statements. Former Prime Minister Naftali Bennett and one of Netanyahu's key challengers in the upcoming election said, quote, \"I am heartbroken to hear of the passing of my friend Senator Lindsey Graham. America has lost a devoted patriot, and Israel has lost one of its greatest friends.\"\n\nFormer Defense Minister Avigdor Lieberman said in a statement, \"Republican Senator Lindsey Graham, one of the greatest supporters of the state of Israel, has passed away. For years he stood by our side, even when it required courage and even when it involved significant criticism.\" And then former Prime Minister Yair Lapid said, \"Lindsey had unwavering moral clarity, a deep devotion of the people of Israel and a clear vision for a secure and peaceful Middle East.\"\n\nEven when there was a break between Netanyahu and President Donald Trump, some sort of division on how to handle a regional issue, Graham had Israel's ear, and he would be able to go to Trump and advocate Israel's position or at least try to sway Trump's thinking when it came to some of these issues. And, of course, crucially, especially at this time, that was on Iran.\n\nHe openly expressed skepticism that Iran was negotiating in good intent and that it would stick to the terms of the Memorandum of Understanding or that that 60-day negotiation window would ever lead to a final agreement. Israel, and specifically Netanyahu, have had those same doubts about Iran. And for Israel, it was frankly critical to have somebody in Washington, to have Graham, who was so close to Trump, advocating caution on the MOU, on Iran, and frankly advocating for, if necessary, a return to strikes, a return to the joint U.S.- Israeli military campaign.\n\nAnd that's just one of the many reasons that Israel viewed Graham as such an important ally in Washington. And at this point, it's unclear who will take that place. According to an Israeli source, Netanyahu is considering going to the funeral of Senator Lindsey Graham, whenever that's scheduled here in the coming days. That, too, may also give him a chance to meet Trump.\n\nThe two, in their last known phone call or publicly acknowledged phone call, had talked about meeting in the near future, although a date hadn't been scheduled yet, so perhaps that happens around the funeral of Senator Lindsey Graham. Rene?\n\nMARSH: Oren, thank you.\n\nAnd Senator Graham's final foreign trip was actually to Ukraine, another place that he was a fierce advocate for Ukraine. And on Friday, he met with Ukrainian President Volodymyr Zelenskyy. And in a social media post, Zelenskyy commented on Graham's relentless diplomatic work to support Ukraine in its battle against Russia.\n\nNow, CNN's International Diplomatic Editor Nic Robertson, he joins us now with more on this part of Graham's legacy. Nic?\n\nNIC ROBERTSON, CNN INTERNATIONAL DIPLOMATIC EDITOR: Yes, and it's a legacy that's so important, not just to Ukraine, but to Ukraine's European partners, who were so concerned about President Trump's sort of MAGA-based, more isolationist vision of the United States' future on the global stage, on foreign policy issues like Ukraine, like confronting President Putin. That they saw Lindsey Graham as somebody that was a kindred spirit, the sort of old-school republicanism on foreign policy, as you will, willing to intervene.\n\nMaybe they didn't back him on all the interventions like Iran and things like that. But when it came to Ukraine, you get a sense of that from what we've heard from the NATO Secretary General, Mark Rutte, mourning the passing of Lindsey Graham, but saying that he was, you know, strongly believed in the NATO alliance and that he was working on trying to bring an end to the war.\n\nAnd that is something that we've heard from President Zelenskyy. You know, President Zelenskyy has talked about the 10 times that the senator visited, Lindsey Graham visited Ukraine during Russia's war there since 2022. So a phenomenal high number of visits. And remembering, these visits are not easy.\n\nYou're going into an active war zone. You're going into Kyiv, a city that is under active and almost daily attack by Russia. It's not somewhere you can fly into. So the transport, the getting there is difficult and takes a long time. So not an easy thing to do. And that, to the Ukrainians, was hugely important.\n\nPresident Zelenskyy saying that Senator Graham was there whenever the country needed him. And they needed him because he could communicate, as Oren was saying, for Netanyahu in the White House, that he could communicate with President Trump. And that was the value to the Europeans as well.\n\nGo back to remembering that moment when President Trump had the horrible falling out of President Zelenskyy early last year. The Europeans responded by forming the Coalition of the Willing. It was Lindsey Graham that was a U.S. representative on that Coalition of the Willing because he understood the importance of standing with Ukraine.\n\nSo on this latest trip, he spoke about his latest efforts to try to get an end to the war. This is what he said.\n\nSEN. LINDSEY GRAHAM (R), SOUTH CAROLINA: We've reached agreement with the White House on a version of the Russian sanctions bill that they will support. It means it's going to become law. So when I get back to Washington, I'm going to go with Senator Blumenthal, to the Republican and Democratic leader to see if we can find time to move this Russian sanctions package that would give tools to President Trump to help end this war.\n\nROBERTSON: And ending the war is exactly what the European partners wanted. And of course, Europeans also have been pressuring President Trump to put more sanctions on Russia to bring the economic impact on Russia. Another kind of important point that Lindsey Graham made during that visit to Kyiv was pointing out that China's support for President Putin was key and vital to keeping the war going.\n\nHe was all about putting more pressure on China to end that support as well. So he got the big global picture in the same way that the United States' international allies did that oftentimes it was perceived President Trump didn't.\n\nMARSH: Nic Robertson, thank you so much for that perspective.\n\nAnd stick with CNN, we'll have more on our breaking news on the coverage of the death of U.S. Senator Lindsey Graham right after this break. Reaction from Capitol Hill where he was a strong voice for President Trump's agenda.\n\nMARSH: We are continuing to follow the breaking news out of Washington. Longtime Republican Senator Lindsey Graham has died from a, quote, \"brief and sudden illness.\" His office announced this earlier this morning. Graham served as a senator for South Carolina for more than two decades. Initial 911 audio revealed emergency personnel respond to a call for chest pains at Graham's home in D.C. around 8:30 in the evening. EMS reported that CPR was in progress about 25 minutes later.\n\nSenator Graham had a brief run for the Republican presidential nomination in 2015 when he was a critic of Donald Trump. But that changed after Trump took office in 2017. Graham quickly became a vocal ally. By Trump's second term, Graham became one of Trump's most trusted voices in the Senate.\n\nAnd Senator Graham was also known as a foreign policy hawk. He fiercely defended U.S. support for Israel and Ukraine. In fact, he had just returned from Kyiv where he met with Ukrainian President Zelenskyy on Friday. Lindsey Graham turned 71 just last week.\n\nWith us now is CNN Chief Congressional Correspondent Manu Raju. Manu, you know, you have been on Capitol Hill for decades and you have known Lindsey Graham for decades. From your perspective, what will be his lasting legacy?\n\nMANU RAJU, CNN CHIEF CONGRESSIONAL CORRESPONDENT: Well, it will be profound. He was a towering figure in the United States Senate and in Republican politics, an influential voice not just on foreign policy. Of course, he has been a longtime interventionist, and the interventionist wing of the Republican Party has not shifted away from that stance throughout his very long career, but also on the domestic front as well.\n\nHe plays such a key role on so many issues and was the person that really drove the debate on Capitol Hill on some of those critical issues. I mean, just even back when he was a member of the House, he was one of the impeachment managers for the Clinton impeachment trial, the Bill Clinton impeachment trial. That really put him on the map nationally. [07:30:10]\n\nThen ultimately, he ran for the United States Senate, won the United States Senate seat. He was a longtime ally of the late Senator John McCain, as well as the late Senator Joe Lieberman. They were referred to as the three amigos on Capitol Hill because they often broke ranks with their own party. They cut bipartisan deals. Lindsey Graham, a dealmaker on immigration, a supporter of comprehensive immigration reform, an issue that got him so much trouble from the right flank of his party, facing a Tea Party threat that threatened his career back in the 2014 primary.\n\nHe ultimately fended that off by some shrewd and deft maneuvering, defending his bipartisan deal making, even on issues like climate change, things that were not within the GOP orthodoxy. And you mentioned him being a staunch critic of Donald Trump when he ran for president back in 2016. That presidential race did not go over for him. But he warned Republicans about backing Donald Trump, warning that it would destroy the party.\n\nUltimately, he decided that he made the wrong calculation there, siding with Donald Trump time and time again, aligning himself, becoming a frequent golf partner of Trump's, defending him on some of the more controversial issues throughout Trump's 10 years here in public life.\n\nUltimately, something that his departure, people will remember in these later years of him being that stalwart ally of Donald Trump. But he did break with his party. He warned his party time and time again that it was time to cut deals with Democrats. That happened during the Obama years as well.\n\nRemember, he voted for the two Supreme Court justices that Barack Obama put on the Supreme Court. But he also played a critical role in getting Brett Kavanaugh confirmed to the Supreme Court during those very contentious hearings on Capitol Hill, playing a role that really won him over with the right flank of his party. People had been skeptical of those bipartisan deals over the years.\n\nSo, he leaves a very profound, complex legacy on the Hill, where he played such a mighty role on some of these key issues that really have affected Americans' lives and people around the world, given his role on the international front as well.\n\nRENE MARSH, CNN ANCHOR: And, Manu, I mean, you really got to know him very well. I mean, tell us more. What was Senator Graham like on Capitol Hill during your interactions with him?\n\nRAJU: He was very witty. He was very someone who was quick with a good quote. He didn't always want to talk to the press. Sometimes he was very clear. He did not want anything to do with talking to reporters. He was busy. He was oftentimes on his phone walking through the halls of the Capitol.\n\nBut when he wanted to talk, he would let loose. He was not afraid to dive very into his views. If he had a controversial position on something, he would defend that controversial position. He was someone who reporters like myself would often stake out, as you can see there on your screen, because knowing that he had something to say about something very critical, he could help drive the debate on a number of issues.\n\nI mean, reporters would stake out a key position in the Senate basement, knowing that he was going to leave his office and walk to the Senate floor through that position that became known as the Russell basement stakeout location. I started covering him there on Capitol Hill because he would go by there and stop and talk to reporters there.\n\nSo, he was someone frequently to speak to, a towering figure, a person that a lot of people on Capitol Hill will miss. And you're hearing that outpouring of shock and concern and people remembering him at this moment after his sudden death overnight.\n\nMARSH: Thank you, Manu. And I know you're going to have a lot more on this. Be sure to catch Manu at the top of the hour for \"Inside Politics Sunday\" for much more on the passing of Lindsey Graham.\n\nWe're also watching the breaking news in the war with Iran as the U.S. targets Iranian military sites in their latest strikes.\n\nANNOUNCER: This is CNN Breaking News.\n\nMARSH: Well, taking a live look at the traffic in the Strait of Hormuz right now. The Joint Maritime Information Center says it's open to two-way traffic. That's despite Iran's claim it is closed. But the security threat level in the waterway remains severe.\n\nAnd in recent hours, U.S. Central Command shared new video of strikes the U.S. military says it carried out on 140 Iranian military targets. The U.S. is blaming the Islamic Revolutionary Guard Corps for an attack on a merchant ship in the Strait.\n\nCNN's Nada Bashir joins me now. Nada, what are we hearing or learning about the latest with these strikes this morning?\n\nNADA BASHIR, CNN CORRESPONDENT: Well, this is the third round of U.S. strikes targeting Iran that we have seen in recent days. And this comes, of course, after the Iranian regime confirmed that it would be shutting the Strait of Hormuz down once again to the key shipping access route.\n\nAnd, of course, we've been learning more from the U.S. military as well. We've heard from the U.S. Central Command saying that they hit around 140 targets in Iran. That includes missile and drone sites, naval capabilities. That also includes ammunition storage facilities in Iran, as well as communication networks and coastal surveillance locations. Now, of course, the Strait of Hormuz continues to be a key stumbling block in efforts to mediate some sort of peaceful resolution between the U.S. and Iran. Iran has accused vessels of traveling through the Strait of Hormuz through an unauthorized route.\n\nSo, not using that corridor outlined by the Iranian regime along its coastal front, but rather using a corridor closer to the coast of Oman.\n\nBut, of course, this also comes as Iran and Oman carry out bilateral talks. We saw on Saturday Iran's foreign minister meeting with his Omani counterpart, Bashar al-Assad. where, according to sources, discussions were had focusing on trying to establish some sort of equal control mechanism over the Strait of Hormuz to allow for two separate passage routes, including, of course, the Iranian corridor, but also through the coast of Oman as well.\n\nIt's unclear at this stage whether there has been any firm resolution from those talks or whether that will be supported and championed by allies and neighbors in the Gulf region and, of course, the United States as well. And what we have seen in response to U.S. attacks on Iran just in the last 24 hours is, of course, retaliatory strikes by the IRGC as well, targeting U.S. allies in the Gulf, targeting military assets in the Gulf.\n\nWe've heard from some of those Gulf nations saying that interceptions were carried out in the early hours of Sunday morning, that there were detected threats from Iran as well. And there are real fears that this could certainly destabilize those efforts to restart mediation efforts. We know that Iranian officials have made contact with officials in Pakistan, again, a key mediator in that initial memorandum of understanding.\n\nBut at this stage, we are hearing very stark rhetoric from both the U.S., the Trump administration and the Iranian regime. And there are fears that this could certainly destabilize those efforts to mediate a renewed peace agreement.\n\nMARSH: Nada Bashir, thank you for that. And after President Trump declared that ceasefire agreement with Iran to be over, global oil prices started rising again.\n\nI want to go to Tom Kloza. He's the chief energy advisor for Gulf Oil. Tom, you have been in this space for decades now, and I'm interested in your perspective. I mean, Americans are seeing gas prices tick up. How much of this is directly tied to the Iran conflict and the war in Ukraine? And really, how much higher do you think that these gas prices could go in the near-term?\n\nTOM KLOZA, CHIEF ENERGY ADVISER, GULF OIL: Well, I don't suspect we're going to see a spike in gas prices anytime soon, although we may go up back above four dollars here on the loss of some of the crude departures from the Persian Gulf. You know, we've got our eyes focused on the Strait of Hormuz and the Persian Gulf and the Iran war. But what's happening in the Ukraine- Russia war is really having more of an impact on U.S. gasoline prices. Overnight, another 5 percent of Russian refining was knocked out by Ukrainian drones. And, you know, that together with the loss of refining in the Persian Gulf, with the loss of refining or messy operations in South America has made it so that there's plenty of crude oil for the moment, but there's not plenty of gasoline and there's particularly not plenty of diesel fuel.\n\nMARSH: And I hear you because you're what you're saying is it sounds like you're saying the Russia-Ukraine war and that conflict is the bigger driver of gas prices right now, despite our focus on the Strait of Hormuz. But I'm wondering, you know, when does that change?\n\nI mean, we don't really know when things will be resolved in the Strait of Hormuz. We know that Iran said that the Strait is closed and we're clearly not any closer to peace in that region. Is there a deadline for, you know, the uncertainty for the Strait of Hormuz over the next month or two, if that is not opened and a deal is not settled for safe passing for ships through the Strait of Hormuz? Could that then become a significant driver of gas prices? Again, I understand the Russia-Ukraine is the driver right now, but when might that change for the Strait?\n\nKLOZA: Well, the back half of the summer is going to be pretty critical to watch. We've got plenty of crude oil at the moment, not necessarily three months from now, is that there have been a lot of releases from the strategic petroleum reserves by the U.S. and by some foreign countries. Those run out in about 30 days. And that could mean that -- you know, and again, it's up against August's worldwide demand, when demand for all fuels is about as high as it's ever been.\n\nSo, we do have to worry about that later this summer. And we also have to worry about a hurricane season in August and September.\n\nMARSH: Yes, I was going to ask you about that.\n\nKLOZA: We cannot afford to lose any refined -- yes. We can't afford to lose any refined products manufacturing in the U.S. Gulf.\n\nAnd, you know, more than half of U.S. refined products comes from the Gulf of Mexico and usually on the coasts.\n\nMARSH: Yes. I mean, to your point about hurricane season, I mean, it's -- we're mid-July now. I know people like you, you're thinking about a major hurricane and the Gulf hitting maybe refining capacity. Are we essentially one disruption away from more severe gas prices considering we've got these two unresolved conflicts going on that are already taxing the supply?\n\nKLOZA: Yes. We're always one disruption away. You know, on the West Coast of the United States, you're one refinery event away from $6 and $7 and $8 gasoline. And the rest of the world, we're a -- you know, an event or if, you know, it's hard to determine how much oil is leaving the Persian Gulf region because you've go",
+  "segments": [
+    {
+      "seg": 2,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-12/segment/02",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nSen. Lindsey Graham Dies At 71 After Sudden Illness. Sen. Lindsey Graham Dies at 71 After Sudden Illness; U.S. Targets Iranian Military Sites; Iran Foreign Minister Holds Call with Pakistani Counterpart; Remembering Senator Lindsey Graham. Aired 7-8a ET\n\nAired July 12, 2026 - 07:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nRENE MARSH, CNN HOST: Well, it's Sunday, July 12th. Thanks so much for joining us this morning. I'm Rene Marsh in for Victor Blackwell.\n\nNow we begin with breaking news. South Carolina Senator Lindsey Graham has died. His office announced this morning that the longtime senator died from a brief and sudden illness, but did not give further details. Graham was elected to the House in 1994 and the Senate in 2002. He was running for his fifth term as senator in this fall's midterm elections.\n\nPresident Trump paid tribute to Graham in a post on Truth Social saying, \"Senator Graham, one of the greatest people and senators I have ever known, is dead. He was always working and was a true American patriot. Lindsey Graham will be greatly missed.\"\n\nLindsey Graham had just celebrated his 71st birthday last week. CNN's Brian Todd joins us now with the very latest on what we know so far. Brian?\n\nBRIAN TODD, CNN CORRESPONDENT: Well, Rene, we do have some new information. This is coming from details that we're getting from the emergency dispatch audio. We're going to play that in just one second. What we can tell you at this hour is that Senator Graham's spokesperson said that the senator died after a, quote, \"brief and sudden illness.\" The spokesperson is saying Senator Graham's family appreciates prayers at this time and asks for privacy during this incredibly difficult period.\n\nThey are only saying from his side that he died of a brief and sudden illness. But here's what we can tell you. According to audio of the emergency dispatch, this is on Broadcastify. Broadcastify is an online platform for streaming live public safety communications.\n\nAccording to audio of that emergency dispatch, emergency responders were dispatched to a Washington, D.C., address for Senator Graham at about 8:30 p.m. on Saturday evening for a report of someone suffering from chest pains. The audio indicates that someone had called in from Baltimore and was on the way to that home at that time. The dispatcher said the caller believed that the door to the home was unlocked, but when emergency responders got there, they said it was deadbolted. That is according to the audio of the emergency dispatch on Broadcastify. The audio shows that about 25 minutes later they reported that CPR was in progress.\n\nWe can play for you about a 10-second clip that gives some additional detail. This is from the emergency response broadcast on Broadcastify. Take a listen to this.\n\nUNIDENTIFIED FEMALE: EMS six responds to engine seven medic seven on scene cardiac arrest. EMS six responds to engine seven medic seven with cardiac arrest.\n\nTODD: And, again, we can just, you know, again reiterate that that call discusses cardiac arrest. We cannot confirm at this hour that Senator Graham actually died of cardiac arrest. That was a call discussing cardiac arrest, piecing it together. You can also -- we can also tell you that emergency responders were dispatched to the address for someone -- for Senator Graham at about 8:30 p.m. Saturday for a report of someone suffering from chest pains. That is according to audio of the emergency dispatch on the service Broadcastify.\n\nThe audio, again, indicates that someone had called in from Baltimore and was on the way to the home at that time at about 8:30 p.m. on Saturday. The dispatcher said the caller believed the door was unlocked, but emergency responders said it was deadbolted. That is according to that audio. And about 25 minutes later they reported that CPR was in progress.\n\nWe can also tell you that the governor of South Carolina, Henry McMaster, is empowered to appoint a temporary replacement for Senator Graham. We believe that Senator -- that Governor McMaster is, of course, dealing with that situation right now. Governor McMaster issued a statement posted on X saying, quote, \"Peggy and I and our children are devastated. Lindsey Graham is irreplaceable, the fiercest of fighters for South Carolina and America, and a loyal and steadfast friend. We grieve with Darline, his family, and his devoted staff. May God hold him gently in the palm of his hand. We shall not see his likes again.\"\n\nThat is a statement from Governor Henry McMaster of South Carolina. Governor McMaster is empowered to appoint a temporary replacement for Senator Graham. That reference to Darline is a reference to Graham's younger sister, Darline. Rene?\n\nMARSH: Brian Todd, thank you.\n\nAnd for more, we are joined by CNN Presidential Historian Tim Naftali. He's a former director of the Nixon Presidential Library. Thanks so much for joining us this morning on this breaking news day, really shocking news surrounding the death of Senator Lindsey Graham.\n\nI want, from your perspective, when historians look back at Graham's life and his career, what do you think will be that defining chapter of his public life?\n\nTIM NAFTALI, CNN PRESIDENTIAL HISTORIAN: Well, I think there have been a few chapters of Senator Graham's life that will define his long public career. When he was in the House at the very beginning of his congressional career, he was a House manager for the impeachment of Bill Clinton.\n\nAnd at that time, even though he was a new member of the House, he gained national prominence in making certain arguments about impeachment and why a crime wasn't necessary to remove a president. It depended on their character and whether they brought honor to the office.\n\nWhen he replaced Strom Thurmond in the Senate, Lindsey Graham gained in national recognition as Republicans gained control of the Senate. Lindsey Graham was famous for reaching across the aisle. He worked with Senator Ted Kennedy on immigration reform. He was known to -- he spoke of the importance of bipartisanship, although he was very clear about his own conservative values.\n\nIn foreign policy, he was an advocate of a strong American presence and a strong American involvement in international affairs. He was viewed as a neoconservative in the George W. Bush era. He was a strong advocate for Israel, but also a strong advocate for NATO and in most recent years for Ukraine.\n\nHe was in 2008, but well before then, a very close ally of Republican nominee, Senator John McCain. Indeed, they were considered very close friends. And so he was associated with Senator McCain's views of foreign policy and also with Senator McCain's willingness to work with Democrats.\n\nThe next phase is the phase, of course, that is most recent, which is where Senator Graham became close to Donald Trump, President Trump. And at times seemed to be contradicting, if only in spirit, but perhaps in act, some of the commitments that he had shown to the ideas of John McCain and also to the bipartisanship that had shaped some of his actions in the first couple of decades of his time in Washington.\n\nIn most recent years, despite the friendship, the clear friendship with Donald Trump, Senator Graham has continued to support NATO and has viewed the plight of Ukrainians as something that is a concern of American international security. And he has viewed -- and continued to view Russia as a threat.\n\nSo when looking at his career, one sees a man with conservative values who represents in the big transformation, political transformation of the South. Lindsey Graham replaced a Democrat when he was elected in the -- to the House from South Carolina and replaced Strom Thurmond.\n\nStrom Thurmond had started his career as a Democrat running against Harry Truman for the nomination of the Democratic Party in 1948. He switched to the Republican Party, but Lindsey Graham had been elected as a Republican. So Graham's career indicated was part of the shift to a solid South or somewhat solid South now for the Republican Party.\n\nAnd though he showed a desire for bipartisanship throughout most of his career, in recent years, he has seemed more partisan as he got closer to Donald Trump.\n\nMARSH: Yes. And his evolution on all of the things that you laid out certainly is a part of his legacy as well. Tim Naftali, thank you so much for joining us this morning.\n\nAnd we have more breaking news coverage on the death of Senator Lindsey Graham. Coming up, Graham's work on the world stage and the tributes pouring in from international leaders after the break.\n\nMARSH: Well, this morning we are seeing reaction to the sudden death of South Carolina Republican Senator Lindsey Graham. Graham was known for his advocacy and strong support for Israel. And just hours after news broke of his death, several Israeli leaders have expressed their sadness at his passing.\n\nIsraeli Prime Minister Benjamin Netanyahu posted this in part on social media, quote, \"Israel has lost one of its greatest friends. America lost a great patriot. I have lost a beloved friend.\"\n\nWell, for reaction in Israel, we turn now to Jerusalem Bureau Chief Oren Liebermann. Oren, 2 o'clock in the afternoon there. What are you hearing from people as far as reaction to the shocking news?\n\nOREN LIEBERMANN, CNN JERUSALEM BUREAU CHIEF: Rene, Israel sees the passing of Senator Lindsey Graham as a huge loss. He was a passionate advocate for Israel, a staunch supporter of Israel. And he was hawkish on Iran as well as Israel's other adversaries in the region. And that made him Israel's great ally in Washington.\n\nHe would advocate for Israel to have more funding when it came to missile defense. He was a big proponent of that. And then he visited often, and not only since October 7, 2023, for decades here, likely going back to when he became a senator in 2002.\n\nHe would visit Israel. He would hold press conferences here. He would meet not only the media but also officials. Of course, he would meet Prime Minister Benjamin Netanyahu and others repeatedly. He made it a point to be very openly and publicly pro-Israel. And that's why Israeli officials, not just from the coalition, not just from Netanyahu's side, but also from the opposition, view his passing as a huge loss.\n\nYou saw some of the statement there from Netanyahu. Let me read you just a couple of other statements. Former Prime Minister Naftali Bennett and one of Netanyahu's key challengers in the upcoming election said, quote, \"I am heartbroken to hear of the passing of my friend Senator Lindsey Graham. America has lost a devoted patriot, and Israel has lost one of its greatest friends.\"\n\nFormer Defense Minister Avigdor Lieberman said in a statement, \"Republican Senator Lindsey Graham, one of the greatest supporters of the state of Israel, has passed away. For years he stood by our side, even when it required courage and even when it involved significant criticism.\" And then former Prime Minister Yair Lapid said, \"Lindsey had unwavering moral clarity, a deep devotion of the people of Israel and a clear vision for a secure and peaceful Middle East.\"\n\nEven when there was a break between Netanyahu and President Donald Trump, some sort of division on how to handle a regional issue, Graham had Israel's ear, and he would be able to go to Trump and advocate Israel's position or at least try to sway Trump's thinking when it came to some of these issues. And, of course, crucially, especially at this time, that was on Iran.\n\nHe openly expressed skepticism that Iran was negotiating in good intent and that it would stick to the terms of the Memorandum of Understanding or that that 60-day negotiation window would ever lead to a final agreement. Israel, and specifically Netanyahu, have had those same doubts about Iran. And for Israel, it was frankly critical to have somebody in Washington, to have Graham, who was so close to Trump, advocating caution on the MOU, on Iran, and frankly advocating for, if necessary, a return to strikes, a return to the joint U.S.- Israeli military campaign.\n\nAnd that's just one of the many reasons that Israel viewed Graham as such an important ally in Washington. And at this point, it's unclear who will take that place. According to an Israeli source, Netanyahu is considering going to the funeral of Senator Lindsey Graham, whenever that's scheduled here in the coming days. That, too, may also give him a chance to meet Trump.\n\nThe two, in their last known phone call or publicly acknowledged phone call, had talked about meeting in the near future, although a date hadn't been scheduled yet, so perhaps that happens around the funeral of Senator Lindsey Graham. Rene?\n\nMARSH: Oren, thank you.\n\nAnd Senator Graham's final foreign trip was actually to Ukraine, another place that he was a fierce advocate for Ukraine. And on Friday, he met with Ukrainian President Volodymyr Zelenskyy. And in a social media post, Zelenskyy commented on Graham's relentless diplomatic work to support Ukraine in its battle against Russia.\n\nNow, CNN's International Diplomatic Editor Nic Robertson, he joins us now with more on this part of Graham's legacy. Nic?\n\nNIC ROBERTSON, CNN INTERNATIONAL DIPLOMATIC EDITOR: Yes, and it's a legacy that's so important, not just to Ukraine, but to Ukraine's European partners, who were so concerned about President Trump's sort of MAGA-based, more isolationist vision of the United States' future on the global stage, on foreign policy issues like Ukraine, like confronting President Putin. That they saw Lindsey Graham as somebody that was a kindred spirit, the sort of old-school republicanism on foreign policy, as you will, willing to intervene.\n\nMaybe they didn't back him on all the interventions like Iran and things like that. But when it came to Ukraine, you get a sense of that from what we've heard from the NATO Secretary General, Mark Rutte, mourning the passing of Lindsey Graham, but saying that he was, you know, strongly believed in the NATO alliance and that he was working on trying to bring an end to the war.\n\nAnd that is something that we've heard from President Zelenskyy. You know, President Zelenskyy has talked about the 10 times that the senator visited, Lindsey Graham visited Ukraine during Russia's war there since 2022. So a phenomenal high number of visits. And remembering, these visits are not easy.\n\nYou're going into an active war zone. You're going into Kyiv, a city that is under active and almost daily attack by Russia. It's not somewhere you can fly into. So the transport, the getting there is difficult and takes a long time. So not an easy thing to do. And that, to the Ukrainians, was hugely important.\n\nPresident Zelenskyy saying that Senator Graham was there whenever the country needed him. And they needed him because he could communicate, as Oren was saying, for Netanyahu in the White House, that he could communicate with President Trump. And that was the value to the Europeans as well.\n\nGo back to remembering that moment when President Trump had the horrible falling out of President Zelenskyy early last year. The Europeans responded by forming the Coalition of the Willing. It was Lindsey Graham that was a U.S. representative on that Coalition of the Willing because he understood the importance of standing with Ukraine.\n\nSo on this latest trip, he spoke about his latest efforts to try to get an end to the war. This is what he said.\n\nSEN. LINDSEY GRAHAM (R), SOUTH CAROLINA: We've reached agreement with the White House on a version of the Russian sanctions bill that they will support. It means it's going to become law. So when I get back to Washington, I'm going to go with Senator Blumenthal, to the Republican and Democratic leader to see if we can find time to move this Russian sanctions package that would give tools to President Trump to help end this war.\n\nROBERTSON: And ending the war is exactly what the European partners wanted. And of course, Europeans also have been pressuring President Trump to put more sanctions on Russia to bring the economic impact on Russia. Another kind of important point that Lindsey Graham made during that visit to Kyiv was pointing out that China's support for President Putin was key and vital to keeping the war going.\n\nHe was all about putting more pressure on China to end that support as well. So he got the big global picture in the same way that the United States' international allies did that oftentimes it was perceived President Trump didn't.\n\nMARSH: Nic Robertson, thank you so much for that perspective.\n\nAnd stick with CNN, we'll have more on our breaking news on the coverage of the death of U.S. Senator Lindsey Graham right after this break. Reaction from Capitol Hill where he was a strong voice for President Trump's agenda.\n\nMARSH: We are continuing to follow the breaking news out of Washington. Longtime Republican Senator Lindsey Graham has died from a, quote, \"brief and sudden illness.\" His office announced this earlier this morning. Graham served as a senator for South Carolina for more than two decades. Initial 911 audio revealed emergency personnel respond to a call for chest pains at Graham's home in D.C. around 8:30 in the evening. EMS reported that CPR was in progress about 25 minutes later.\n\nSenator Graham had a brief run for the Republican presidential nomination in 2015 when he was a critic of Donald Trump. But that changed after Trump took office in 2017. Graham quickly became a vocal ally. By Trump's second term, Graham became one of Trump's most trusted voices in the Senate.\n\nAnd Senator Graham was also known as a foreign policy hawk. He fiercely defended U.S. support for Israel and Ukraine. In fact, he had just returned from Kyiv where he met with Ukrainian President Zelenskyy on Friday. Lindsey Graham turned 71 just last week.\n\nWith us now is CNN Chief Congressional Correspondent Manu Raju. Manu, you know, you have been on Capitol Hill for decades and you have known Lindsey Graham for decades. From your perspective, what will be his lasting legacy?\n\nMANU RAJU, CNN CHIEF CONGRESSIONAL CORRESPONDENT: Well, it will be profound. He was a towering figure in the United States Senate and in Republican politics, an influential voice not just on foreign policy. Of course, he has been a longtime interventionist, and the interventionist wing of the Republican Party has not shifted away from that stance throughout his very long career, but also on the domestic front as well.\n\nHe plays such a key role on so many issues and was the person that really drove the debate on Capitol Hill on some of those critical issues. I mean, just even back when he was a member of the House, he was one of the impeachment managers for the Clinton impeachment trial, the Bill Clinton impeachment trial. That really put him on the map nationally. [07:30:10]\n\nThen ultimately, he ran for the United States Senate, won the United States Senate seat. He was a longtime ally of the late Senator John McCain, as well as the late Senator Joe Lieberman. They were referred to as the three amigos on Capitol Hill because they often broke ranks with their own party. They cut bipartisan deals. Lindsey Graham, a dealmaker on immigration, a supporter of comprehensive immigration reform, an issue that got him so much trouble from the right flank of his party, facing a Tea Party threat that threatened his career back in the 2014 primary.\n\nHe ultimately fended that off by some shrewd and deft maneuvering, defending his bipartisan deal making, even on issues like climate change, things that were not within the GOP orthodoxy. And you mentioned him being a staunch critic of Donald Trump when he ran for president back in 2016. That presidential race did not go over for him. But he warned Republicans about backing Donald Trump, warning that it would destroy the party.\n\nUltimately, he decided that he made the wrong calculation there, siding with Donald Trump time and time again, aligning himself, becoming a frequent golf partner of Trump's, defending him on some of the more controversial issues throughout Trump's 10 years here in public life.\n\nUltimately, something that his departure, people will remember in these later years of him being that stalwart ally of Donald Trump. But he did break with his party. He warned his party time and time again that it was time to cut deals with Democrats. That happened during the Obama years as well.\n\nRemember, he voted for the two Supreme Court justices that Barack Obama put on the Supreme Court. But he also played a critical role in getting Brett Kavanaugh confirmed to the Supreme Court during those very contentious hearings on Capitol Hill, playing a role that really won him over with the right flank of his party. People had been skeptical of those bipartisan deals over the years.\n\nSo, he leaves a very profound, complex legacy on the Hill, where he played such a mighty role on some of these key issues that really have affected Americans' lives and people around the world, given his role on the international front as well.\n\nRENE MARSH, CNN ANCHOR: And, Manu, I mean, you really got to know him very well. I mean, tell us more. What was Senator Graham like on Capitol Hill during your interactions with him?\n\nRAJU: He was very witty. He was very someone who was quick with a good quote. He didn't always want to talk to the press. Sometimes he was very clear. He did not want anything to do with talking to reporters. He was busy. He was oftentimes on his phone walking through the halls of the Capitol.\n\nBut when he wanted to talk, he would let loose. He was not afraid to dive very into his views. If he had a controversial position on something, he would defend that controversial position. He was someone who reporters like myself would often stake out, as you can see there on your screen, because knowing that he had something to say about something very critical, he could help drive the debate on a number of issues.\n\nI mean, reporters would stake out a key position in the Senate basement, knowing that he was going to leave his office and walk to the Senate floor through that position that became known as the Russell basement stakeout location. I started covering him there on Capitol Hill because he would go by there and stop and talk to reporters there.\n\nSo, he was someone frequently to speak to, a towering figure, a person that a lot of people on Capitol Hill will miss. And you're hearing that outpouring of shock and concern and people remembering him at this moment after his sudden death overnight.\n\nMARSH: Thank you, Manu. And I know you're going to have a lot more on this. Be sure to catch Manu at the top of the hour for \"Inside Politics Sunday\" for much more on the passing of Lindsey Graham.\n\nWe're also watching the breaking news in the war with Iran as the U.S. targets Iranian military sites in their latest strikes.\n\nANNOUNCER: This is CNN Breaking News.\n\nMARSH: Well, taking a live look at the traffic in the Strait of Hormuz right now. The Joint Maritime Information Center says it's open to two-way traffic. That's despite Iran's claim it is closed. But the security threat level in the waterway remains severe.\n\nAnd in recent hours, U.S. Central Command shared new video of strikes the U.S. military says it carried out on 140 Iranian military targets. The U.S. is blaming the Islamic Revolutionary Guard Corps for an attack on a merchant ship in the Strait.\n\nCNN's Nada Bashir joins me now. Nada, what are we hearing or learning about the latest with these strikes this morning?\n\nNADA BASHIR, CNN CORRESPONDENT: Well, this is the third round of U.S. strikes targeting Iran that we have seen in recent days. And this comes, of course, after the Iranian regime confirmed that it would be shutting the Strait of Hormuz down once again to the key shipping access route.\n\nAnd, of course, we've been learning more from the U.S. military as well. We've heard from the U.S. Central Command saying that they hit around 140 targets in Iran. That includes missile and drone sites, naval capabilities. That also includes ammunition storage facilities in Iran, as well as communication networks and coastal surveillance locations. Now, of course, the Strait of Hormuz continues to be a key stumbling block in efforts to mediate some sort of peaceful resolution between the U.S. and Iran. Iran has accused vessels of traveling through the Strait of Hormuz through an unauthorized route.\n\nSo, not using that corridor outlined by the Iranian regime along its coastal front, but rather using a corridor closer to the coast of Oman.\n\nBut, of course, this also comes as Iran and Oman carry out bilateral talks. We saw on Saturday Iran's foreign minister meeting with his Omani counterpart, Bashar al-Assad. where, according to sources, discussions were had focusing on trying to establish some sort of equal control mechanism over the Strait of Hormuz to allow for two separate passage routes, including, of course, the Iranian corridor, but also through the coast of Oman as well.\n\nIt's unclear at this stage whether there has been any firm resolution from those talks or whether that will be supported and championed by allies and neighbors in the Gulf region and, of course, the United States as well. And what we have seen in response to U.S. attacks on Iran just in the last 24 hours is, of course, retaliatory strikes by the IRGC as well, targeting U.S. allies in the Gulf, targeting military assets in the Gulf.\n\nWe've heard from some of those Gulf nations saying that interceptions were carried out in the early hours of Sunday morning, that there were detected threats from Iran as well. And there are real fears that this could certainly destabilize those efforts to restart mediation efforts. We know that Iranian officials have made contact with officials in Pakistan, again, a key mediator in that initial memorandum of understanding.\n\nBut at this stage, we are hearing very stark rhetoric from both the U.S., the Trump administration and the Iranian regime. And there are fears that this could certainly destabilize those efforts to mediate a renewed peace agreement.\n\nMARSH: Nada Bashir, thank you for that. And after President Trump declared that ceasefire agreement with Iran to be over, global oil prices started rising again.\n\nI want to go to Tom Kloza. He's the chief energy advisor for Gulf Oil. Tom, you have been in this space for decades now, and I'm interested in your perspective. I mean, Americans are seeing gas prices tick up. How much of this is directly tied to the Iran conflict and the war in Ukraine? And really, how much higher do you think that these gas prices could go in the near-term?\n\nTOM KLOZA, CHIEF ENERGY ADVISER, GULF OIL: Well, I don't suspect we're going to see a spike in gas prices anytime soon, although we may go up back above four dollars here on the loss of some of the crude departures from the Persian Gulf. You know, we've got our eyes focused on the Strait of Hormuz and the Persian Gulf and the Iran war. But what's happening in the Ukraine- Russia war is really having more of an impact on U.S. gasoline prices. Overnight, another 5 percent of Russian refining was knocked out by Ukrainian drones. And, you know, that together with the loss of refining in the Persian Gulf, with the loss of refining or messy operations in South America has made it so that there's plenty of crude oil for the moment, but there's not plenty of gasoline and there's particularly not plenty of diesel fuel.\n\nMARSH: And I hear you because you're what you're saying is it sounds like you're saying the Russia-Ukraine war and that conflict is the bigger driver of gas prices right now, despite our focus on the Strait of Hormuz. But I'm wondering, you know, when does that change?\n\nI mean, we don't really know when things will be resolved in the Strait of Hormuz. We know that Iran said that the Strait is closed and we're clearly not any closer to peace in that region. Is there a deadline for, you know, the uncertainty for the Strait of Hormuz over the next month or two, if that is not opened and a deal is not settled for safe passing for ships through the Strait of Hormuz? Could that then become a significant driver of gas prices? Again, I understand the Russia-Ukraine is the driver right now, but when might that change for the Strait?\n\nKLOZA: Well, the back half of the summer is going to be pretty critical to watch. We've got plenty of crude oil at the moment, not necessarily three months from now, is that there have been a lot of releases from the strategic petroleum reserves by the U.S. and by some foreign countries. Those run out in about 30 days. And that could mean that -- you know, and again, it's up against August's worldwide demand, when demand for all fuels is about as high as it's ever been.\n\nSo, we do have to worry about that later this summer. And we also have to worry about a hurricane season in August and September.\n\nMARSH: Yes, I was going to ask you about that.\n\nKLOZA: We cannot afford to lose any refined -- yes. We can't afford to lose any refined products manufacturing in the U.S. Gulf.\n\nAnd, you know, more than half of U.S. refined products comes from the Gulf of Mexico and usually on the coasts.\n\nMARSH: Yes. I mean, to your point about hurricane season, I mean, it's -- we're mid-July now. I know people like you, you're thinking about a major hurricane and the Gulf hitting maybe refining capacity. Are we essentially one disruption away from more severe gas prices considering we've got these two unresolved conflicts going on that are already taxing the supply?\n\nKLOZA: Yes. We're always one disruption away. You know, on the West Coast of the United States, you're one refinery event away from $6 and $7 and $8 gasoline. And the rest of the world, we're a -- you know, an event or if, you know, it's hard to determine how much oil is leaving the Persian Gulf region because you've go"
+    }
+  ]
+}
