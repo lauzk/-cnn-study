@@ -1,0 +1,434 @@
+{
+  "date": "2026-07-13",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-13/segment/02",
+  "vocabulary": [
+    {
+      "word": "ceasefire",
+      "phonetic": "/ˈsiːsfaɪər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "停火，停战",
+      "en": "a temporary stopping of fighting",
+      "excerpt": "U.S.-Iran Ceasefire Unravels over Strait of Hormuz Control",
+      "example_cn": "双方同意停火，但很快就被打破了。"
+    },
+    {
+      "word": "unravel",
+      "phonetic": "/ʌnˈrævəl/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "瓦解，崩溃",
+      "en": "to start to fail or become worse",
+      "excerpt": "U.S.-Iran Ceasefire Unravels over Strait of Hormuz Control",
+      "example_cn": "他们的计划开始瓦解。"
+    },
+    {
+      "word": "subpoena",
+      "phonetic": "/səˈpiːnə/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "传票",
+      "en": "a written order to attend court",
+      "excerpt": "the Department of Justice subpoenaed four \"New York Times\" reporters",
+      "example_cn": "法院向他发出了传票。"
+    },
+    {
+      "word": "disclose",
+      "phonetic": "/dɪsˈkloʊz/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "揭露，透露",
+      "en": "to make something known publicly",
+      "excerpt": "disclosing security concerns regarding Trump's Air Force One Qatari jet",
+      "example_cn": "他拒绝透露信息来源。"
+    },
+    {
+      "word": "intercept",
+      "phonetic": "/ˌɪntərˈsept/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "拦截",
+      "en": "to stop something before it reaches its destination",
+      "excerpt": "Jordan's state media reports it intercepted four missiles",
+      "example_cn": "导弹被成功拦截。"
+    },
+    {
+      "word": "flareup",
+      "phonetic": "/ˈflerʌp/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "突然爆发",
+      "en": "a sudden increase in violence or activity",
+      "excerpt": "This flareup in fighting is over the control of the Strait of Hormuz",
+      "example_cn": "边境地区爆发了新的冲突。"
+    },
+    {
+      "word": "maritime",
+      "phonetic": "/ˈmærɪtaɪm/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "海上的，航海的",
+      "en": "connected with the sea or ships",
+      "excerpt": "the Strait of Hormuz is a vital maritime corridor for global trade",
+      "example_cn": "该国拥有重要的海上贸易路线。"
+    },
+    {
+      "word": "corridor",
+      "phonetic": "/ˈkɔːrɪdɔːr/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "走廊，通道",
+      "en": "a long narrow passage",
+      "excerpt": "a vital maritime corridor for global trade",
+      "example_cn": "这条走廊连接着两个城市。"
+    },
+    {
+      "word": "leverage",
+      "phonetic": "/ˈlevərɪdʒ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "影响力，杠杆作用",
+      "en": "the power to influence people or events",
+      "excerpt": "It's their point of leverage",
+      "example_cn": "他们利用经济杠杆来施加影响。"
+    },
+    {
+      "word": "infighting",
+      "phonetic": "/ˈɪnfaɪtɪŋ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "内斗，内部争斗",
+      "en": "conflict within a group",
+      "excerpt": "is there some infighting that's preventing movement?",
+      "example_cn": "党内内斗削弱了他们的力量。"
+    },
+    {
+      "word": "faction",
+      "phonetic": "/ˈfækʃən/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "派系，小集团",
+      "en": "a small group within a larger group",
+      "excerpt": "there are two major factions in the Iranian system",
+      "example_cn": "该党分裂成了几个派系。"
+    },
+    {
+      "word": "hardliner",
+      "phonetic": "/ˌhɑːrdˈlaɪnər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "强硬派",
+      "en": "a person who supports extreme policies",
+      "excerpt": "some of the factions within the IRGC, the hardliners",
+      "example_cn": "强硬派拒绝任何妥协。"
+    },
+    {
+      "word": "sanctions",
+      "phonetic": "/ˈsæŋkʃənz/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "制裁",
+      "en": "official orders to restrict trade or contact",
+      "excerpt": "brings sanctions relief",
+      "example_cn": "美国对伊朗实施了新的制裁。"
+    },
+    {
+      "word": "bear the brunt",
+      "phonetic": "/ber ðə brʌnt/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "承受主要压力",
+      "en": "to suffer the worst part of something",
+      "excerpt": "they are bearing the brunt of this",
+      "example_cn": "平民承受了战争的主要冲击。"
+    },
+    {
+      "word": "geopolitics",
+      "phonetic": "/ˌdʒiːoʊpəˈlɪtɪks/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "地缘政治",
+      "en": "the study of how geography affects politics",
+      "excerpt": "affect the talk and the geopolitics of the region",
+      "example_cn": "地缘政治因素影响了该地区的稳定。"
+    },
+    {
+      "word": "memorandum of understanding",
+      "phonetic": "/ˌmeməˈrændəm əv ˌʌndərˈstændɪŋ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "谅解备忘录",
+      "en": "a document that describes an agreement between parties",
+      "excerpt": "point five of the memorandum of understanding",
+      "example_cn": "双方签署了一份谅解备忘录。"
+    },
+    {
+      "word": "interpretation",
+      "phonetic": "/ɪnˌtɜːrprɪˈteɪʃən/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "解释，理解",
+      "en": "the way something is understood",
+      "excerpt": "It was open to interpretation",
+      "example_cn": "这句话可以有多种解释。"
+    },
+    {
+      "word": "strategic asset",
+      "phonetic": "/strəˈtiːdʒɪk ˈæset/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "战略资产",
+      "en": "something valuable for achieving long-term goals",
+      "excerpt": "they have a strategic asset",
+      "example_cn": "该港口被视为战略资产。"
+    },
+    {
+      "word": "notorious",
+      "phonetic": "/noʊˈtɔːriəs/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "臭名昭著的",
+      "en": "famous for something bad",
+      "excerpt": "Iran's political system is notorious for slow decision making",
+      "example_cn": "该地区以腐败闻名。"
+    },
+    {
+      "word": "unconditional surrender",
+      "phonetic": "/ˌʌnkənˈdɪʃənl səˈrendər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "无条件投降",
+      "en": "giving up without any conditions",
+      "excerpt": "a document of unconditional surrender",
+      "example_cn": "他们要求无条件投降。"
+    },
+    {
+      "word": "comprehensive",
+      "phonetic": "/ˌkɑːmprɪˈhensɪv/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "全面的，综合的",
+      "en": "including everything",
+      "excerpt": "get a comprehensive agreement",
+      "example_cn": "我们需要一个全面的解决方案。"
+    },
+    {
+      "word": "toll",
+      "phonetic": "/toʊl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "伤亡人数",
+      "en": "the number of people killed or injured",
+      "excerpt": "the death toll after the twin earthquakes",
+      "example_cn": "死亡人数已超过100人。"
+    },
+    {
+      "word": "short circuit",
+      "phonetic": "/ʃɔːrt ˈsɜːrkɪt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "短路",
+      "en": "a faulty electrical connection",
+      "excerpt": "an electrical short circuit started the fire",
+      "example_cn": "短路导致了火灾。"
+    },
+    {
+      "word": "hawk",
+      "phonetic": "/hɔːk/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "鹰派人物",
+      "en": "someone who supports strong military action",
+      "excerpt": "Graham was a hawk on the wars",
+      "example_cn": "他是国会中的鹰派人物。"
+    },
+    {
+      "word": "isolationist",
+      "phonetic": "/ˌaɪsəˈleɪʃənɪst/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "孤立主义的",
+      "en": "supporting a policy of not getting involved in other countries' affairs",
+      "excerpt": "the Trump kind of isolationist era",
+      "example_cn": "他的外交政策是孤立主义的。"
+    },
+    {
+      "word": "eulogize",
+      "phonetic": "/ˈjuːlədʒaɪz/",
+      "pos": "v.",
+      "level": "专八",
+      "cn": "颂扬，悼念",
+      "en": "to praise someone who has died",
+      "excerpt": "you should be really eulogizing Lindsey Graham here",
+      "example_cn": "他在葬礼上颂扬了逝者。"
+    },
+    {
+      "word": "back channel",
+      "phonetic": "/bæk ˈtʃænəl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "秘密渠道",
+      "en": "a secret or unofficial way of communicating",
+      "excerpt": "perhaps that we have a back channel",
+      "example_cn": "他们通过秘密渠道进行谈判。"
+    },
+    {
+      "word": "railroad",
+      "phonetic": "/ˈreɪlroʊd/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "迫使，仓促通过",
+      "en": "to force something to happen quickly",
+      "excerpt": "the Democrats railroaded Brett Kavanaugh",
+      "example_cn": "他们仓促通过了这项法案。"
+    },
+    {
+      "word": "runoff",
+      "phonetic": "/ˈrʌnɔːf/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "决胜选举",
+      "en": "a second election to decide a winner",
+      "excerpt": "a two week runoff period",
+      "example_cn": "两位候选人将进行决胜选举。"
+    },
+    {
+      "word": "ruby red",
+      "phonetic": "/ˈruːbi red/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "深红色的（指坚定支持共和党的州）",
+      "en": "strongly Republican",
+      "excerpt": "South Carolina is one of those ruby red states",
+      "example_cn": "德克萨斯州是一个深红色的州。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "The Department of Justice subpoenaed four \"New York Times\" reporters for disclosing security concerns regarding Trump's Air Force One Qatari jet.",
+      "cn": "司法部传唤了四名《纽约时报》记者，因为他们披露了有关特朗普的空军一号卡塔尔喷气式飞机的安全担忧。",
+      "structure": "主谓宾+宾补（for disclosing...）",
+      "analysis": "主语：The Department of Justice；谓语：subpoenaed；宾语：four \"New York Times\" reporters；原因状语：for disclosing security concerns regarding Trump's Air Force One Qatari jet。"
+    },
+    {
+      "en": "The FBI requested to hold the article, citing national security threats, but refused further explanation.",
+      "cn": "联邦调查局以国家安全威胁为由要求扣留该文章，但拒绝进一步解释。",
+      "structure": "并列句，but连接两个谓语",
+      "analysis": "第一个分句：The FBI requested to hold the article, citing national security threats（citing为现在分词作状语）；第二个分句：but refused further explanation。"
+    },
+    {
+      "en": "The subpoenas will force the reporters to testify, despite attempts to protect their sources.",
+      "cn": "尽管试图保护消息来源，传票将迫使记者作证。",
+      "structure": "主谓宾+宾补，despite引导让步状语",
+      "analysis": "主语：The subpoenas；谓语：will force；宾语：the reporters；宾补：to testify；让步状语：despite attempts to protect their sources。"
+    },
+    {
+      "en": "This flareup in fighting is over the control of the Strait of Hormuz.",
+      "cn": "这次战斗的爆发是为了争夺霍尔木兹海峡的控制权。",
+      "structure": "主系表",
+      "analysis": "主语：This flareup in fighting；系动词：is；表语：over the control of the Strait of Hormuz（over表示原因）。"
+    },
+    {
+      "en": "The U.S. started striking after Iran's Islamic Revolutionary Guard fired what it called a warning shot at a vessel on Saturday, claiming that it was trying to cross the Strait via an unauthorized route.",
+      "cn": "美国开始打击是在伊朗伊斯兰革命卫队周六向一艘船只发射了所谓的警告射击之后，声称该船试图通过未经授权的路线穿越海峡。",
+      "structure": "主句+时间状语从句+定语从句+伴随状语",
+      "analysis": "主句：The U.S. started striking；时间状语从句：after Iran's Islamic Revolutionary Guard fired what it called a warning shot at a vessel on Saturday（what引导宾语从句）；伴随状语：claiming that it was trying to cross the Strait via an unauthorized route（现在分词短语，that引导宾语从句）。"
+    },
+    {
+      "en": "Iran wants to establish some sort of administrative influence, and the Americans are determined to undermine that influence.",
+      "cn": "伊朗想要建立某种行政影响力，而美国人决心削弱这种影响力。",
+      "structure": "并列句",
+      "analysis": "两个分句由and连接：第一个分句：Iran wants to establish some sort of administrative influence；第二个分句：the Americans are determined to undermine that influence。"
+    },
+    {
+      "en": "So, it's not necessarily fractured decision making; it's a very determined fight over who controls the Strait of Hormuz.",
+      "cn": "所以，这不一定是不连贯的决策；这是一场关于谁控制霍尔木兹海峡的非常坚决的斗争。",
+      "structure": "并列句，分号连接",
+      "analysis": "第一个分句：it's not necessarily fractured decision making；第二个分句：it's a very determined fight over who controls the Strait of Hormuz（who引导宾语从句）。"
+    },
+    {
+      "en": "But I think, ultimately, the best strategy for Iran and the U.S. is to resume talks, finish the MOU and get a comprehensive agreement that is not open to interpretation.",
+      "cn": "但我认为，最终，伊朗和美国的最佳策略是恢复谈判，完成谅解备忘录，并达成一项没有解释空间的全面协议。",
+      "structure": "主句+宾语从句",
+      "analysis": "主句：I think；宾语从句：ultimately, the best strategy for Iran and the U.S. is to resume talks, finish the MOU and get a comprehensive agreement that is not open to interpretation（that引导定语从句修饰agreement）。"
+    },
+    {
+      "en": "He was able to maintain this posture through the Trump kind of isolationist era.",
+      "cn": "他能够在特朗普那种孤立主义时代保持这种姿态。",
+      "structure": "主谓宾+状语",
+      "analysis": "主语：He；谓语：was able to maintain；宾语：this posture；状语：through the Trump kind of isolationist era。"
+    },
+    {
+      "en": "If you're someone who faulted the J.D. Vance dovish wing of the Republican Party and thinks that it was not supportive enough of NATO or not supportive enough of Ukraine, then you should be really eulogizing Lindsey Graham here.",
+      "cn": "如果你是一个指责J.D.万斯共和党鸽派的人，认为它对北约或乌克兰支持不够，那么你真的应该在这里颂扬林赛·格雷厄姆。",
+      "structure": "条件状语从句+主句",
+      "analysis": "条件状语从句：If you're someone who faulted the J.D. Vance dovish wing of the Republican Party and thinks that it was not supportive enough of NATO or not supportive enough of Ukraine（who引导定语从句修饰someone，that引导宾语从句）；主句：then you should be really eulogizing Lindsey Graham here。"
+    },
+    {
+      "en": "He's a guy who spent 24 hours a day of doing his job.",
+      "cn": "他是一个每天24小时都在工作的人。",
+      "structure": "主系表+定语从句",
+      "analysis": "主语：He；系动词：'s；表语：a guy；定语从句：who spent 24 hours a day of doing his job。"
+    },
+    {
+      "en": "Whatever the rest of us do with our spouses, with our children, with our hobbies, he plowed all that same amount of energy into his job.",
+      "cn": "无论我们其他人如何与配偶、孩子、爱好相处，他都把同样多的精力投入到工作中。",
+      "structure": "让步状语从句+主句",
+      "analysis": "让步状语从句：Whatever the rest of us do with our spouses, with our children, with our hobbies；主句：he plowed all that same amount of energy into his job。"
+    },
+    {
+      "en": "If you wanted an FBI investigation, you could have come to us.",
+      "cn": "如果你想要联邦调查局调查，你本可以来找我们。",
+      "structure": "条件状语从句+主句（虚拟语气）",
+      "analysis": "条件状语从句：If you wanted an FBI investigation（与过去事实相反）；主句：you could have come to us。"
+    },
+    {
+      "en": "What you want to do is destroy this guy's life, hold this seat open and hope you win in 2020.",
+      "cn": "你想做的是毁了这个人的生活，让这个席位空着，希望你在2020年获胜。",
+      "structure": "主语从句+系动词+不定式表语",
+      "analysis": "主语从句：What you want to do；系动词：is；表语：destroy this guy's life, hold this seat open and hope you win in 2020（三个并列的不定式短语）。"
+    },
+    {
+      "en": "He understood in that moment, hey, I can have a little fun here.",
+      "cn": "他在那一刻明白了，嘿，我可以在这里找点乐子。",
+      "structure": "主谓宾+宾语从句",
+      "analysis": "主语：He；谓语：understood；宾语从句：in that moment, hey, I can have a little fun here。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "美伊冲突与霍尔木兹海峡",
+      "content": "霍尔木兹海峡是连接波斯湾和印度洋的重要水道，全球约20%的石油运输经过此地。伊朗曾多次威胁封锁海峡以应对制裁或军事压力。2026年，美伊停火协议因对海峡控制权的不同解释而破裂，双方发生军事冲突。伊朗认为其有权管理海峡通行，而美国坚持海峡应保持自由通行。",
+      "keywords": "Strait of Hormuz, Iran, U.S., ceasefire, maritime corridor"
+    },
+    {
+      "title": "美国参议员林赛·格雷厄姆去世",
+      "content": "林赛·格雷厄姆（Lindsey Graham）是南卡罗来纳州共和党参议员，自2003年起任职，以强硬外交政策和司法委员会工作闻名。他支持军事干预，是特朗普时期的重要盟友，但也曾与民主党合作。2026年7月因心脏病去世，享年71岁。他的去世引发了对参议院席位争夺的讨论。",
+      "keywords": "Lindsey Graham, Senate, Republican, foreign policy, judiciary"
+    },
+    {
+      "title": "南卡罗来纳州参议员席位争夺",
+      "content": "格雷厄姆去世后，南卡罗来纳州州长亨利·麦克马斯特将任命临时参议员，随后在8月举行特别初选。潜在候选人包括众议员南希·梅斯、拉尔夫·诺曼、乔·威尔逊以及格雷厄姆的幕僚长理查德·佩里。民主党候选人安妮·安德鲁斯博士拥有近300万美元竞选资金，但南卡州是共和党铁票仓，民主党获胜难度大。",
+      "keywords": "South Carolina, Senate race, special election, Nancy Mace, Henry McMaster"
+    },
+    {
+      "title": "美国司法部传唤记者",
+      "content": "美国司法部传唤四名《纽约时报》记者，要求他们披露关于特朗普空军一号卡塔尔喷气式飞机安全担忧的消息来源。联邦调查局以国家安全为由要求扣留文章，但拒绝进一步解释。此举引发对新闻自由和举报人保护的争议。",
+      "keywords": "Department of Justice, subpoena, New York Times, whistleblower, national security"
+    },
+    {
+      "title": "委内瑞拉地震与泰国酒吧火灾",
+      "content": "2026年6月24日，委内瑞拉发生双地震，死亡人数超过4000人，16000多人受伤。泰国曼谷一家酒吧发生火灾，造成27人死亡，22人重伤，调查指向电路短路和堵塞的消防出口。",
+      "keywords": "Venezuela earthquake, Thailand pub fire, death toll, electrical short circuit"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nU.S.-Iran Ceasefire Unravels over Strait of Hormuz Control; World Leaders Remember Senator Graham; Graham's Death Sparks Race for Senate Seat. Aired 6:30-7a ET\n\nAired July 13, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nAUDIE CORNISH, CNN ANCHOR: Good morning, everybody. I'm Audie Cornish. I want to thank you for joining me on CNN THIS MORNING.\n\nIt is now half past the hour. And here's what's happening right now.\n\nThe Senate returns today without one of their crucial members. Republican Senator Lindsey Graham died over the weekend from a heart ailment. His sudden death is sending shockwaves through Capitol Hill and could impact the midterm elections. Graham served three decades in Congress, and he had been running for re-election. He was 71 years old.\n\nAnd the Department of Justice subpoenaed four \"New York Times\" reporters for disclosing security concerns regarding Trump's Air Force One Qatari jet. The FBI requested to hold the article, citing national security threats, but refused further explanation. The subpoenas will force the reporters to testify, despite attempts to protect their sources. The DOJ claims it's targeting whistleblowers, not the press.\n\nAnd this morning, gulf nations say they are under attack from Iran. Jordan's state media reports it intercepted four missiles in its airspace overnight. Kuwait reports it's dealing with hostile aerial targets. And Iranian media reported strikes targeting U.S. bases there and in Bahrain.\n\nAnd remember the ceasefire. As you can see, it has crumbled. U.S. forces hit dozens of targets in Iran. This was a fresh wave of attacks happening Sunday night. Second night in a row. This flareup in fighting is over the control of the Strait of Hormuz. The U.S. started striking after Iran's Islamic Revolutionary Guard fired what it called a warning shot at a vessel on Saturday, claiming that it was trying to cross the Strait via an unauthorized route. The U.S. military calls it a blatant attack.\n\nPresident Trump tells CNN the Strait is open as far as he's concerned. Central command putting it simply this morning, \"the Strait of Hormuz is a vital maritime corridor for global trade and Iran does not control it.\" Iran forces beg to differ. They say they have been shutting it down. An Iran war expert tells CNN that this is all part of Iran's bigger strategy.\n\nMEHRAN KAMRAVA, PROFESSOR OF GOVERNMENT, GEORGETOWN UNIVERSITY-QATAR: It's all about the Strait of Hormuz right now.\n\nIran wants to establish some sort of administrative influence, and the Americans are determined to undermine that influence. And so, you know, it's not necessarily fractured decision making. It's a very determined fight over who controls the Strait of Hormuz.\n\nCORNISH: So, we're bringing into the group chat, Sina Azodi, director of Middle East studies program at George Washington University. And he's also the author of the book \"Iran and The Bomb,\" which he brought me a copy. Thank you so much.\n\nSINA AZODI, DIRECTOR, MIDDLE EAST STUDIES PROGRAM, GEORGE WASHINGTON UNIVERSITY: Thank you.\n\nCORNISH: I'm going to get to the nuclear stuff. But first I want to talk about what we just heard, because you had Iran's top negotiator posting online saying the era of one-sided deals is over. But what I found interesting is he shared a screenshot of point five of the memorandum of understanding. And this is the part that says Iran will make arrangements for the safe passage of vessels through the Strait.\n\nIs Iran interpreting this as, we're going to be in charge of the Strait?\n\nAZODI: That's exactly right.\n\nCORNISH: Whereas the U.S. was like, you're going to chill on the Strait.\n\nAZODI: So, the MOU, the memorandum of understanding, was a very first good step that the U.S. and the Iranians took, but it's not enough. It was vague. It was open to interpretation. As you just pointed out, paragraph five --\n\nCORNISH: Yes, lots of people said vague but now we know what happens to vague.\n\nAZODI: Exactly right. What does \"in coordination\" actually mean? Iran's interpretation is that they determine what is the authorized route, which in their interpretation is the northern shipping lane. The U.S. side believes it's a southern shipping lane, the one that that ship --\n\nCORNISH: Well, the U.S. believes they're not in charge of anything.\n\nAZODI: Right. So, there's a different interpretation of who's in charge. And Iranians are not going to let go of this easy because they think that the United -- they have a strategic asset. The U.S. wants it to take it away from them.\n\nCORNISH: Yes. It's their point of leverage, a point gained through the U.S.-Israeli strikes, meaning, not leverage they had in January that they now have.\n\nCORNISH: And they're not -- they don't want to let go of it. But are there forces within Iran that are looking for this to come to a close, or is there some infighting that's preventing movement?\n\nAZODI: Well, Iran's political system is notorious for slow decision making. They've always had this problem. Right now there are two major factions in the Iranian system. They both believe that they want the war. Now, that's where the disagreement starts. A group thinks some of the factions within the IRGC, the hardliners think we want the war. It is the, you know, perfect opportunity to push the U.S. out of the region for good.\n\nCORNISH: All together.\n\nAZODI: Perfect. We won the war.\n\nThere's another group, mostly the foreign ministry, the speaker of the parliament, who's also the chief negotiator, Ghalibaf, who think that they won the war. It is time to sit down, talk to the American side and get some sort of a deal that brings sanctions relief, investments, so on and so forth. So, this is where the disagreement starts within the system.\n\nCORNISH: OK, what about Oman, Bahrain, Kuwait? All these countries are suffering under this situation because Iran is hitting them, right? I mean, yes, there are U.S. bases under threat, but they are bearing the brunt of this.\n\nCORNISH: How does that affect the talk and the geopolitics of the region?\n\nAZODI: I think it has made things -- Iran's relationship with GCC countries really difficult. But I think, ultimately, they don't have any other choice but to live together in peace and harmony because Iran is not going anywhere. The GCC countries are not going anywhere. And in fact, we saw -- we saw that after the signing of the MOU, there were some signs of improvement. The Saudis sent a delegation, albeit at the deputy foreign minister, to Khamenei's funeral. CORNISH: Yes.\n\nAZODI: We had the resumption of flights between Tehran and Dubai. So, there were some signs that things are improving. But again, we are back at this, unfortunately.\n\nCORNISH: I want to play for you the late Lindsey Graham. He was in Tel Aviv in February. This is him describing sort of the state of play. And I think we're right back to it.\n\nSEN. LINDSEY GRAHAM (R-SC) (February 16, 2026): There are two lines in the water right now. One's a diplomatic line, trying to find a way to end this regime diplomatically that will advance our national security interest. The other line is the military option. I think President Trump is looking for which line can catch the biggest fish.\n\nCORNISH: Which line can catch the biggest fish?\n\nAZODI: Well, I respectfully disagree with him. I think that what he was proposing was a document of unconditional surrender. That didn't work out. Military operations didn't lead to a regime change. That's what some people were proposing. So, I think there's all -- a different route, which, by the way, the late senator also approved the memorandum of understanding, which was not unconditional surrender.\n\nSo, I think, ultimately, the best strategy for Iran and the U.S. is to resume talks, finish the MOU and get a comprehensive agreement that is not open to interpretation.\n\nCORNISH: And the question is, can you do that while you are trading strikes?\n\nCORNISH: In the Strait of Hormuz.\n\nSina, I always appreciate having you here.\n\nCORNISH: You'll be back soon.\n\nAnd right now it is 39 minutes past the hour. This is your morning roundup. Some stories you might have missed.\n\nWe want to start with the death toll after the twin earthquakes in Venezuela. It has surpassed 4,000. More than 16,000 people were hurt after the June 24th earthquakes, and many more are still missing.\n\nAnd then there's that fire that went through a packed pub in Bangkok, Thailand. It killed 27 people, 22 others critically injured. Investigators are looking into whether an electrical short circuit started the fire and if blocked fire exits were the reason people were trapped. Officials say most of the victims were found in the restroom at the back of the pub.\n\nAnd the actor Sam Neill, best known for his starring role in the \"Jurassic Park\" franchise, has died at the age of 78. That's according to a statement released by his family. His death in Sydney, Australia, was, quote, \"sudden and unexpected,\" and that statement added that he was cancer free after a year's long battle with blood cancer.\n\nNext on CNN THIS MORNING, we're going to talk about more of the legacy of Senator Lindsey Graham, from his policies, to being a loud voice for the Republican Party. What he'll be remembered for in Washington.\n\nPlus, the race to find his replacement. What this means for the balance of power ahead of the midterms in the Senate. Group chat is back after that.\n\nSEN. ADAM SCHIFF (D-CA): Many of us considered him the Trump whisperer. If we wanted to know what the president's thinking was or how he might be moved on something, you would go to Lindsey to discuss it.\n\nCORNISH: Politicians in Washington and around the world remembering Senator Lindsey Graham and his impact on issues he held dear. Graham was a hawk on the wars involving Israel and Ukraine, pushing for stronger U.S. military involvement in those conflicts. Support not forgotten from their leaders. Ukrainian President Volodymyr Zelenskyy issued a statement saying, quote, \"Lindsey was a true defender of freedom and the values that make our world safer. He visited Ukraine ten times during the years of Russia's full scale invasion, and was here with our people when it was most needed.\"\n\nIsrael's leader also called Senator Graham \"a critical friend\" to his country.\n\nBENJAMIN NETANYAHU, ISRAELI PRIME MINISTER: Lindsey was so vibrant. He was so full of life. He was so full of energy and dedication that it's hard to accept the fact that he is no more. He -- I think America has lost a great patriot. Israel has lost one of the great champions of the American-Israeli alliance. And frankly, I've lost a beloved friend who I've had for many decades. There's just no one like him.\n\n(END VIDEO CLIP) CORNISH: Joining me now to discuss, Brad Todd, CNN political commentator and Republican strategist, and Ben Ferguson, host of \"The Ben Ferguson Show.\"\n\nThank you both for being here. We really appreciate it.\n\nFirst, I want to talk about Graham's view on foreign policy and the U.S. place in the world. I don't think of him as a neocon, so to speak, in that intervention is always the answer.\n\nBEN FREGUSON, HOST, \"THE BEN FERGUSON SHOW\": Yes.\n\nCORNISH: But he almost always was interested in being involved where the U.S. could show its military strength. And he took a lot of criticism for that.\n\nBen, can you start with how you parse him versus the Dick Cheney era or Bush era Republican?\n\nFREGUSON: Yes. Yes, look, he was someone that if you didn't understand his background, then you may have thought, well, he's always just a war hawk. But if you understood that he actually served in the military longer than he did in Congress, you understand that he actually passed away as a colonel. A lot of people don't know that about him, that he was a colonel. He was in JAG. And he was a massive advocate for the military. If you ever saw him, and as many times as he would go to the Middle East, for example, after the war in Iraq and Afghanistan, he was constantly advocating for those in the military. He was advocating for the military structure. He was advocating for military bases in his -- in his home state. And he was a massive advocate for veterans. This was an individual that believed that America's military was supposed to be used for good, that America's military could keep the world in check in many ways.\n\nI didn't always agree with him, and most didn't on every single time that he wanted the military to be involved. But if you understood him as a person and where he was coming from, his perspective, and on armed services and sitting with Zelenskyy or with Israel, wherever it may be in the world, he genuinely believed that America's military was a good institution that was used for good to protect innocent people around the world, and also to protect American interests. He believed that --\n\nFREGUSON: That Russia, for example, expanding, that was not protecting American interests. Same thing with Iran with a nuclear weapon. So, he had two kind of baselines for American involvement.\n\nI will say this, he was always consistent on it. You knew what he believed and why. And that's one of the reasons why I respected him.\n\nCORNISH: Yes. I want to ask Brad about that.\n\nHe was able to maintain this posture through the Trump kind of isolationist era. I mean in the weekend ahead of his death, he was, you know, dealing with the NATO Summit. He was trying to push forward.\n\nAnd his bill is still out there for increased sanctions on Russia.\n\nCORNISH: He was trying to advocate to drop sanctions on Syria's president.\n\nBRAD TODD, CNN POLITICAL COMMENTATOR: Sure.\n\nCORNISH: Brad, can you talk about how he was able to maintain this kind of posture in the Trump era?\n\nTODD: Well, he moved the president. And the president says so. You know, he -- if you -- if you're someone who faulted the J.D. Vance dovish wing of the Republican Party and thinks that it was not supportive enough of NATO or not supportive enough of Ukraine, then you should be really eulogizing Lindsey Graham here. He moved this administration and he moved a lot of his colleagues.\n\nYou know, I do Senate races around the country. And one of the first things that happens when you get elected as a Republican senators is Lindsey Graham asks you to go overseas with him. He's a big believer in diplomacy, too. I mean these trips he makes around the world, it's not to go say, here, we're going to send our troops. It's him getting to know other world leaders so that perhaps we have a back channel, perhaps that the U.S. Senate understands the situation more granularly.\n\nAnd it's just a thing that's been his passion. His passion is in his entire career. I got to know him in 1995 when he was a House freshman and I was a young staffer on The Hill. And, you know, he's a guy who spent 24 hours a day of doing his job. Whatever the rest of us do with our spouses, with our children, with our hobbies, he plowed all that same amount of energy into his job. And so, if you're working eight hours a day, and you're getting out worked by Lindsey Graham, it's two to one. It's just -- that's just the way he was.\n\nCORNISH: I want to turn to one other thing. He's among the kind of lions on the Judiciary. And I really think that is where the average person really gets to see senators at work during these very high- profile, intense hearings.\n\nCORNISH: I want to just play for you a bit of his defense of Justice Brett Kavanaugh during those confirmation hearings to the Supreme Court and really trying to take Democrats to task for bringing up allegations of sexual abuse during that time.\n\n(BEGIN VIDEO CLIP) SEN. LINDSEY GRAHAM (R-SC) (September 27, 2018): If you wanted an FBI investigation, you could have come to us. What you want to do is destroy this guy's life, hold this seat open and hope you win in 2020. You've said that, not me. You've got nothing to apologize for. When you see Sotomayor and Kagan, tell them that Lindsey said hello, because I voted for them. I would never do to them what you've done to this guy. This is the most unethical sham since I've been in politics. And if you really wanted to know the truth, you sure as hell wouldn't have done what you've done to this guy.\n\nCORNISH: Brad, you mentioned something. He noted that he voted for some of the Democratic appointees.\n\nTODD: Yes. In fact, now he's -- with his departure, there's only one member of the Senate Judiciary Committee in either party who's voted for the opposite party's nominee. There are only -- maybe only five or six in the next Congress total who voted for the opposite party.\n\nLindsey Graham started out with an open mind with every judicial nominee. And when the Democrats railroaded Brett Kavanaugh by holding back their accusation until the very last second, no time for an FBI investigation, Lindsey went nuts. I think that all of us in the -- in the Republican side of things view that as his finest moment. We also think it's one of the greatest moments in the history of the Senate. He reminded us of the conscience of the place. And it's going to be -- he's going to be remembered forever for it.\n\nCORNISH: Ben, one last thing that you and I were talking about earlier during the break is that Lindsey Graham was funny.\n\nCORNISH: Lindsey Graham made jokes while he was talking to you.\n\nCORNISH: I was a congressional reporter. I also remember him during his three amigos days, where he was hanging out with the late Senator Lieberman and McCain.\n\nCORNISH: That that's an end of another era.\n\nFERGUSON: And McCain, yes.\n\nCORNISH: Can you talk -- help us remember him in that way.\n\nFERGUSON: Yes. Yes, it -- not only did he speak Republican, but he also could speak Democrat like he can speak Trump. That's kind of what I think his secret sauce is. But he also understood when you could still build a relationship when you weren't getting along with someone. I was much younger. I was living in D.C. I was doing a TV hit, and\n\nthey'd asked me a question about something that Lindsey had said, and they played the clip beforehand. And they said, do you agree with his -- it dealt with Iraq or Afghanistan. And I -- and I said, no, I do not agree with him on this. And I explained why.\n\nI got off set, and I was a young 20 something then, and my phone rings. And I look down and I'm like, OK. So, I answer and it's Lindsey Graham. He's like, just unloading on me.\n\nNow, I'm like taking heat from a United States senator. This is new territory for me. And as I'm walking down the hall to the green room, I'm hearing the conversation on my phone getting closer to me. He was in the green room. He just wanted to mess with me.\n\nSo, I walk in and I'm like -- and I looked at him and he's dying laughing. And he gives me a hug. He's like, we're -- sometimes we're going to disagree, Ben. Sometimes we're going to agree. But you can always give someone a hard time when you see a chance. We chatted for 15, 20 minutes. That's who he was. He understood in that moment, hey, I can have a little fun here. I don't know how he got my number that fast. That was probably the best part of the whole thing was like how quick he was able to act.\n\nBut he saw the opportunity, I think, to say, hey, I can build a bridge here with someone that I don't know very well who's talking about me. And maybe down the road it could pay off. It did, because I liked Lindsey Graham from that moment, that interaction. That was one of the things about him. He was always in the room. When the temperature got hot, he knew how to bring it down, whether he was with his Republican colleagues in the Republican luncheon, and things got intense. Ukraine is a great example of that.\n\nFERGUSON: But he still knew how to have humor. And at the end of the day, his legacy is this, he loved this country. He loved everything about it. He dedicated his life to it. He didn't have a wife or kids. He was married to America. And I think that's going to be his enduring legacy. And I wish more people in Washington understood that you're supposed to fight for the people of this country instead of just fight with the other party all the time. That's something he did really well.\n\nCORNISH: OK. Ben Ferguson, thank you so much for joining us and for sharing that memory with us. I really appreciate it.\n\nFERGUSON: Good to see you.\n\nCORNISH: I'm also glad, Brad, you're going to stick around. As you mentioned, you know, Senate races. And this means this is now an open Senate race. The rest of the group is going to jump in.\n\nYou've got Governor Henry McMaster, who's going to have to appoint an interim replacement to Graham's seat. There's going to be a special primary in August that's going to determine who's going to take that nomination for the Senate. And McMaster said this. \"Lindsey Graham is irreplaceable. The fiercest of fighters for South Carolina and America, and a loyal and steadfast friend.\"\n\nMeanwhile, Nancy Mace, however, is hinting at throwing her hat in the ring already. Here's what she had to say.\n\nREP. NANCY MACE (R-SC): I would say right now, you know, my focus is on South Carolina. I think we're all still just sitting here stunned and shocked that it -- that this has happened. And we're mourning his loss. I'm never going to shut the door. I love the state of South Carolina. You only live once. And, you know, if the people of South Carolina would like me to serve in that capacity, I'll certainly take a look at it.\n\nCORNISH: So, Brad, I've got her name and plus two others. Rep. Ralph Norman and Rep. Joe Wilson. Are those names correct? Tell me I'm wrong.\n\nTODD: I think you could be wrong. I mean Nancy Mace is first on cable news and fifth in South Carolina.\n\nTODD: And so I don't think that she's --\n\nCORNISH: Meaning, she actually came in fifth in the gubernatorial.\n\nTODD: She did come in fifth. Yes, that's right.\n\nThis is a fast race though. This is going to happen on August 11th. There'll be a two week runoff period after that if no one gets -- if no one gets 50. I don't think that Joe Wilson is a likely candidate because the Republican House margin is so small. And the same for Ralph Norman.\n\nCORNISH: Meaning, you literally can't lose the House member.\n\nTODD: Yes, they need to be actually in town to vote.\n\nTODD: And so I think -- I think running for them would be a mistake.\n\nTODD: You know, I think that the appointment to finish the rest of this year, who knows what Henry McMaster is going to do. He knows every Republican in South Carolina, so he'll make a good decision.\n\nBut Richard Perry, Lindsay's chief of staff, is a -- is a likely nominee for that I think just off the top of my head. He would be able to keep the staff together and make Lindsay's office as effective as it could be for the next couple of months.\n\nCORNISH: Yes, we should say right now, Lindsey Graham's office, there was $4.23 million cash on hand. We were talking yesterday that we don't expect South Carolina to be flipped. But I do want to show you the person who is running, the Democrat nominee, Dr. Annie Andrews', has $2.87 million on hand. Is this another race to watch in the end?\n\nADAM HARRIS, CO-HOST, \"RADIO ATLANTIC\": You know, I was down in South Carolina in 2020 covering Jamie Harrison when he was running against Lindsey Graham, right?\n\nHARRIS: And that was -- that was a race that people really thought that might be able to get a Democrat out and actually see some success there. But I remember talking to Don Fowler, the old lion of the Democratic Party in South Carolina, and he said, you'll -- if you want to win a race like this, it's going to take getting out early and getting out often. And you just got to do it. And I kind of -- I had a -- I have a hard time sort of putting a lot of hope into the idea that something like that happens, or putting a lot of faith, I should say, in the idea that something like that happens. But, you know, South Carolina is one of those ruby red states right now that that is going to be really difficult for any Democrat to succeed (ph).\n\nCORNISH: You know, Brad said something interesting there where he mentioned that, like, you can't even have a guy want to be called up to the Senate because of what's ahead. What are the bills that they're working on or hope to pass?\n\nELENA SCHNEIDER, NATIONAL POLITICAL REPORTER, \"NOTUS\": Oh, there's enormous -- a number of things that are ahead for the House that they're going to get through, including -- or attempting to get through, including the SAVE Act, which we know is something that the president still really cares about and wants to pass through.\n\nBut look, I mean, to Adam's point, I also will just say, in terms of Senate races and the map, the way that it's building up right now, it is so expensive in all these places that Democrats hope to compete. South Carolina is so far down the list of priorities that they want to focus on.\n\nSCHNEIDER: There's going to be so many other places that are more gettable in their mind, more -- with people who are far better known and maybe even less -- well, not maybe less expensive, but just simply have more of a history of having voted for a Democrat in the past. So, I think ultimately South Carolina falls down that list.\n\nCORNISH: OK, I want to thank you all for being here and, especially you, Brad, thank you so much for helping us to remember the senator today.\n\nCORNISH: You brought up a lot of good points about his legacy when it comes to the Judiciary.\n\nWe also talked about his legacy when it comes to foreign policy. And I should say, one of the things that Graham had been working on before his death is a bill to increase sanctions on Russia. The question is where something like that goes now.\n\nSo, stick with us. The rest of the week is going to be interesting as the Senate heads back.\n\nI'm Audie Cornish. And the headlines are next.",
+  "segments": [
+    {
+      "seg": 2,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-13/segment/02",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nU.S.-Iran Ceasefire Unravels over Strait of Hormuz Control; World Leaders Remember Senator Graham; Graham's Death Sparks Race for Senate Seat. Aired 6:30-7a ET\n\nAired July 13, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nAUDIE CORNISH, CNN ANCHOR: Good morning, everybody. I'm Audie Cornish. I want to thank you for joining me on CNN THIS MORNING.\n\nIt is now half past the hour. And here's what's happening right now.\n\nThe Senate returns today without one of their crucial members. Republican Senator Lindsey Graham died over the weekend from a heart ailment. His sudden death is sending shockwaves through Capitol Hill and could impact the midterm elections. Graham served three decades in Congress, and he had been running for re-election. He was 71 years old.\n\nAnd the Department of Justice subpoenaed four \"New York Times\" reporters for disclosing security concerns regarding Trump's Air Force One Qatari jet. The FBI requested to hold the article, citing national security threats, but refused further explanation. The subpoenas will force the reporters to testify, despite attempts to protect their sources. The DOJ claims it's targeting whistleblowers, not the press.\n\nAnd this morning, gulf nations say they are under attack from Iran. Jordan's state media reports it intercepted four missiles in its airspace overnight. Kuwait reports it's dealing with hostile aerial targets. And Iranian media reported strikes targeting U.S. bases there and in Bahrain.\n\nAnd remember the ceasefire. As you can see, it has crumbled. U.S. forces hit dozens of targets in Iran. This was a fresh wave of attacks happening Sunday night. Second night in a row. This flareup in fighting is over the control of the Strait of Hormuz. The U.S. started striking after Iran's Islamic Revolutionary Guard fired what it called a warning shot at a vessel on Saturday, claiming that it was trying to cross the Strait via an unauthorized route. The U.S. military calls it a blatant attack.\n\nPresident Trump tells CNN the Strait is open as far as he's concerned. Central command putting it simply this morning, \"the Strait of Hormuz is a vital maritime corridor for global trade and Iran does not control it.\" Iran forces beg to differ. They say they have been shutting it down. An Iran war expert tells CNN that this is all part of Iran's bigger strategy.\n\nMEHRAN KAMRAVA, PROFESSOR OF GOVERNMENT, GEORGETOWN UNIVERSITY-QATAR: It's all about the Strait of Hormuz right now.\n\nIran wants to establish some sort of administrative influence, and the Americans are determined to undermine that influence. And so, you know, it's not necessarily fractured decision making. It's a very determined fight over who controls the Strait of Hormuz.\n\nCORNISH: So, we're bringing into the group chat, Sina Azodi, director of Middle East studies program at George Washington University. And he's also the author of the book \"Iran and The Bomb,\" which he brought me a copy. Thank you so much.\n\nSINA AZODI, DIRECTOR, MIDDLE EAST STUDIES PROGRAM, GEORGE WASHINGTON UNIVERSITY: Thank you.\n\nCORNISH: I'm going to get to the nuclear stuff. But first I want to talk about what we just heard, because you had Iran's top negotiator posting online saying the era of one-sided deals is over. But what I found interesting is he shared a screenshot of point five of the memorandum of understanding. And this is the part that says Iran will make arrangements for the safe passage of vessels through the Strait.\n\nIs Iran interpreting this as, we're going to be in charge of the Strait?\n\nAZODI: That's exactly right.\n\nCORNISH: Whereas the U.S. was like, you're going to chill on the Strait.\n\nAZODI: So, the MOU, the memorandum of understanding, was a very first good step that the U.S. and the Iranians took, but it's not enough. It was vague. It was open to interpretation. As you just pointed out, paragraph five --\n\nCORNISH: Yes, lots of people said vague but now we know what happens to vague.\n\nAZODI: Exactly right. What does \"in coordination\" actually mean? Iran's interpretation is that they determine what is the authorized route, which in their interpretation is the northern shipping lane. The U.S. side believes it's a southern shipping lane, the one that that ship --\n\nCORNISH: Well, the U.S. believes they're not in charge of anything.\n\nAZODI: Right. So, there's a different interpretation of who's in charge. And Iranians are not going to let go of this easy because they think that the United -- they have a strategic asset. The U.S. wants it to take it away from them.\n\nCORNISH: Yes. It's their point of leverage, a point gained through the U.S.-Israeli strikes, meaning, not leverage they had in January that they now have.\n\nCORNISH: And they're not -- they don't want to let go of it. But are there forces within Iran that are looking for this to come to a close, or is there some infighting that's preventing movement?\n\nAZODI: Well, Iran's political system is notorious for slow decision making. They've always had this problem. Right now there are two major factions in the Iranian system. They both believe that they want the war. Now, that's where the disagreement starts. A group thinks some of the factions within the IRGC, the hardliners think we want the war. It is the, you know, perfect opportunity to push the U.S. out of the region for good.\n\nCORNISH: All together.\n\nAZODI: Perfect. We won the war.\n\nThere's another group, mostly the foreign ministry, the speaker of the parliament, who's also the chief negotiator, Ghalibaf, who think that they won the war. It is time to sit down, talk to the American side and get some sort of a deal that brings sanctions relief, investments, so on and so forth. So, this is where the disagreement starts within the system.\n\nCORNISH: OK, what about Oman, Bahrain, Kuwait? All these countries are suffering under this situation because Iran is hitting them, right? I mean, yes, there are U.S. bases under threat, but they are bearing the brunt of this.\n\nCORNISH: How does that affect the talk and the geopolitics of the region?\n\nAZODI: I think it has made things -- Iran's relationship with GCC countries really difficult. But I think, ultimately, they don't have any other choice but to live together in peace and harmony because Iran is not going anywhere. The GCC countries are not going anywhere. And in fact, we saw -- we saw that after the signing of the MOU, there were some signs of improvement. The Saudis sent a delegation, albeit at the deputy foreign minister, to Khamenei's funeral. CORNISH: Yes.\n\nAZODI: We had the resumption of flights between Tehran and Dubai. So, there were some signs that things are improving. But again, we are back at this, unfortunately.\n\nCORNISH: I want to play for you the late Lindsey Graham. He was in Tel Aviv in February. This is him describing sort of the state of play. And I think we're right back to it.\n\nSEN. LINDSEY GRAHAM (R-SC) (February 16, 2026): There are two lines in the water right now. One's a diplomatic line, trying to find a way to end this regime diplomatically that will advance our national security interest. The other line is the military option. I think President Trump is looking for which line can catch the biggest fish.\n\nCORNISH: Which line can catch the biggest fish?\n\nAZODI: Well, I respectfully disagree with him. I think that what he was proposing was a document of unconditional surrender. That didn't work out. Military operations didn't lead to a regime change. That's what some people were proposing. So, I think there's all -- a different route, which, by the way, the late senator also approved the memorandum of understanding, which was not unconditional surrender.\n\nSo, I think, ultimately, the best strategy for Iran and the U.S. is to resume talks, finish the MOU and get a comprehensive agreement that is not open to interpretation.\n\nCORNISH: And the question is, can you do that while you are trading strikes?\n\nCORNISH: In the Strait of Hormuz.\n\nSina, I always appreciate having you here.\n\nCORNISH: You'll be back soon.\n\nAnd right now it is 39 minutes past the hour. This is your morning roundup. Some stories you might have missed.\n\nWe want to start with the death toll after the twin earthquakes in Venezuela. It has surpassed 4,000. More than 16,000 people were hurt after the June 24th earthquakes, and many more are still missing.\n\nAnd then there's that fire that went through a packed pub in Bangkok, Thailand. It killed 27 people, 22 others critically injured. Investigators are looking into whether an electrical short circuit started the fire and if blocked fire exits were the reason people were trapped. Officials say most of the victims were found in the restroom at the back of the pub.\n\nAnd the actor Sam Neill, best known for his starring role in the \"Jurassic Park\" franchise, has died at the age of 78. That's according to a statement released by his family. His death in Sydney, Australia, was, quote, \"sudden and unexpected,\" and that statement added that he was cancer free after a year's long battle with blood cancer.\n\nNext on CNN THIS MORNING, we're going to talk about more of the legacy of Senator Lindsey Graham, from his policies, to being a loud voice for the Republican Party. What he'll be remembered for in Washington.\n\nPlus, the race to find his replacement. What this means for the balance of power ahead of the midterms in the Senate. Group chat is back after that.\n\nSEN. ADAM SCHIFF (D-CA): Many of us considered him the Trump whisperer. If we wanted to know what the president's thinking was or how he might be moved on something, you would go to Lindsey to discuss it.\n\nCORNISH: Politicians in Washington and around the world remembering Senator Lindsey Graham and his impact on issues he held dear. Graham was a hawk on the wars involving Israel and Ukraine, pushing for stronger U.S. military involvement in those conflicts. Support not forgotten from their leaders. Ukrainian President Volodymyr Zelenskyy issued a statement saying, quote, \"Lindsey was a true defender of freedom and the values that make our world safer. He visited Ukraine ten times during the years of Russia's full scale invasion, and was here with our people when it was most needed.\"\n\nIsrael's leader also called Senator Graham \"a critical friend\" to his country.\n\nBENJAMIN NETANYAHU, ISRAELI PRIME MINISTER: Lindsey was so vibrant. He was so full of life. He was so full of energy and dedication that it's hard to accept the fact that he is no more. He -- I think America has lost a great patriot. Israel has lost one of the great champions of the American-Israeli alliance. And frankly, I've lost a beloved friend who I've had for many decades. There's just no one like him.\n\n(END VIDEO CLIP) CORNISH: Joining me now to discuss, Brad Todd, CNN political commentator and Republican strategist, and Ben Ferguson, host of \"The Ben Ferguson Show.\"\n\nThank you both for being here. We really appreciate it.\n\nFirst, I want to talk about Graham's view on foreign policy and the U.S. place in the world. I don't think of him as a neocon, so to speak, in that intervention is always the answer.\n\nBEN FREGUSON, HOST, \"THE BEN FERGUSON SHOW\": Yes.\n\nCORNISH: But he almost always was interested in being involved where the U.S. could show its military strength. And he took a lot of criticism for that.\n\nBen, can you start with how you parse him versus the Dick Cheney era or Bush era Republican?\n\nFREGUSON: Yes. Yes, look, he was someone that if you didn't understand his background, then you may have thought, well, he's always just a war hawk. But if you understood that he actually served in the military longer than he did in Congress, you understand that he actually passed away as a colonel. A lot of people don't know that about him, that he was a colonel. He was in JAG. And he was a massive advocate for the military. If you ever saw him, and as many times as he would go to the Middle East, for example, after the war in Iraq and Afghanistan, he was constantly advocating for those in the military. He was advocating for the military structure. He was advocating for military bases in his -- in his home state. And he was a massive advocate for veterans. This was an individual that believed that America's military was supposed to be used for good, that America's military could keep the world in check in many ways.\n\nI didn't always agree with him, and most didn't on every single time that he wanted the military to be involved. But if you understood him as a person and where he was coming from, his perspective, and on armed services and sitting with Zelenskyy or with Israel, wherever it may be in the world, he genuinely believed that America's military was a good institution that was used for good to protect innocent people around the world, and also to protect American interests. He believed that --\n\nFREGUSON: That Russia, for example, expanding, that was not protecting American interests. Same thing with Iran with a nuclear weapon. So, he had two kind of baselines for American involvement.\n\nI will say this, he was always consistent on it. You knew what he believed and why. And that's one of the reasons why I respected him.\n\nCORNISH: Yes. I want to ask Brad about that.\n\nHe was able to maintain this posture through the Trump kind of isolationist era. I mean in the weekend ahead of his death, he was, you know, dealing with the NATO Summit. He was trying to push forward.\n\nAnd his bill is still out there for increased sanctions on Russia.\n\nCORNISH: He was trying to advocate to drop sanctions on Syria's president.\n\nBRAD TODD, CNN POLITICAL COMMENTATOR: Sure.\n\nCORNISH: Brad, can you talk about how he was able to maintain this kind of posture in the Trump era?\n\nTODD: Well, he moved the president. And the president says so. You know, he -- if you -- if you're someone who faulted the J.D. Vance dovish wing of the Republican Party and thinks that it was not supportive enough of NATO or not supportive enough of Ukraine, then you should be really eulogizing Lindsey Graham here. He moved this administration and he moved a lot of his colleagues.\n\nYou know, I do Senate races around the country. And one of the first things that happens when you get elected as a Republican senators is Lindsey Graham asks you to go overseas with him. He's a big believer in diplomacy, too. I mean these trips he makes around the world, it's not to go say, here, we're going to send our troops. It's him getting to know other world leaders so that perhaps we have a back channel, perhaps that the U.S. Senate understands the situation more granularly.\n\nAnd it's just a thing that's been his passion. His passion is in his entire career. I got to know him in 1995 when he was a House freshman and I was a young staffer on The Hill. And, you know, he's a guy who spent 24 hours a day of doing his job. Whatever the rest of us do with our spouses, with our children, with our hobbies, he plowed all that same amount of energy into his job. And so, if you're working eight hours a day, and you're getting out worked by Lindsey Graham, it's two to one. It's just -- that's just the way he was.\n\nCORNISH: I want to turn to one other thing. He's among the kind of lions on the Judiciary. And I really think that is where the average person really gets to see senators at work during these very high- profile, intense hearings.\n\nCORNISH: I want to just play for you a bit of his defense of Justice Brett Kavanaugh during those confirmation hearings to the Supreme Court and really trying to take Democrats to task for bringing up allegations of sexual abuse during that time.\n\n(BEGIN VIDEO CLIP) SEN. LINDSEY GRAHAM (R-SC) (September 27, 2018): If you wanted an FBI investigation, you could have come to us. What you want to do is destroy this guy's life, hold this seat open and hope you win in 2020. You've said that, not me. You've got nothing to apologize for. When you see Sotomayor and Kagan, tell them that Lindsey said hello, because I voted for them. I would never do to them what you've done to this guy. This is the most unethical sham since I've been in politics. And if you really wanted to know the truth, you sure as hell wouldn't have done what you've done to this guy.\n\nCORNISH: Brad, you mentioned something. He noted that he voted for some of the Democratic appointees.\n\nTODD: Yes. In fact, now he's -- with his departure, there's only one member of the Senate Judiciary Committee in either party who's voted for the opposite party's nominee. There are only -- maybe only five or six in the next Congress total who voted for the opposite party.\n\nLindsey Graham started out with an open mind with every judicial nominee. And when the Democrats railroaded Brett Kavanaugh by holding back their accusation until the very last second, no time for an FBI investigation, Lindsey went nuts. I think that all of us in the -- in the Republican side of things view that as his finest moment. We also think it's one of the greatest moments in the history of the Senate. He reminded us of the conscience of the place. And it's going to be -- he's going to be remembered forever for it.\n\nCORNISH: Ben, one last thing that you and I were talking about earlier during the break is that Lindsey Graham was funny.\n\nCORNISH: Lindsey Graham made jokes while he was talking to you.\n\nCORNISH: I was a congressional reporter. I also remember him during his three amigos days, where he was hanging out with the late Senator Lieberman and McCain.\n\nCORNISH: That that's an end of another era.\n\nFERGUSON: And McCain, yes.\n\nCORNISH: Can you talk -- help us remember him in that way.\n\nFERGUSON: Yes. Yes, it -- not only did he speak Republican, but he also could speak Democrat like he can speak Trump. That's kind of what I think his secret sauce is. But he also understood when you could still build a relationship when you weren't getting along with someone. I was much younger. I was living in D.C. I was doing a TV hit, and\n\nthey'd asked me a question about something that Lindsey had said, and they played the clip beforehand. And they said, do you agree with his -- it dealt with Iraq or Afghanistan. And I -- and I said, no, I do not agree with him on this. And I explained why.\n\nI got off set, and I was a young 20 something then, and my phone rings. And I look down and I'm like, OK. So, I answer and it's Lindsey Graham. He's like, just unloading on me.\n\nNow, I'm like taking heat from a United States senator. This is new territory for me. And as I'm walking down the hall to the green room, I'm hearing the conversation on my phone getting closer to me. He was in the green room. He just wanted to mess with me.\n\nSo, I walk in and I'm like -- and I looked at him and he's dying laughing. And he gives me a hug. He's like, we're -- sometimes we're going to disagree, Ben. Sometimes we're going to agree. But you can always give someone a hard time when you see a chance. We chatted for 15, 20 minutes. That's who he was. He understood in that moment, hey, I can have a little fun here. I don't know how he got my number that fast. That was probably the best part of the whole thing was like how quick he was able to act.\n\nBut he saw the opportunity, I think, to say, hey, I can build a bridge here with someone that I don't know very well who's talking about me. And maybe down the road it could pay off. It did, because I liked Lindsey Graham from that moment, that interaction. That was one of the things about him. He was always in the room. When the temperature got hot, he knew how to bring it down, whether he was with his Republican colleagues in the Republican luncheon, and things got intense. Ukraine is a great example of that.\n\nFERGUSON: But he still knew how to have humor. And at the end of the day, his legacy is this, he loved this country. He loved everything about it. He dedicated his life to it. He didn't have a wife or kids. He was married to America. And I think that's going to be his enduring legacy. And I wish more people in Washington understood that you're supposed to fight for the people of this country instead of just fight with the other party all the time. That's something he did really well.\n\nCORNISH: OK. Ben Ferguson, thank you so much for joining us and for sharing that memory with us. I really appreciate it.\n\nFERGUSON: Good to see you.\n\nCORNISH: I'm also glad, Brad, you're going to stick around. As you mentioned, you know, Senate races. And this means this is now an open Senate race. The rest of the group is going to jump in.\n\nYou've got Governor Henry McMaster, who's going to have to appoint an interim replacement to Graham's seat. There's going to be a special primary in August that's going to determine who's going to take that nomination for the Senate. And McMaster said this. \"Lindsey Graham is irreplaceable. The fiercest of fighters for South Carolina and America, and a loyal and steadfast friend.\"\n\nMeanwhile, Nancy Mace, however, is hinting at throwing her hat in the ring already. Here's what she had to say.\n\nREP. NANCY MACE (R-SC): I would say right now, you know, my focus is on South Carolina. I think we're all still just sitting here stunned and shocked that it -- that this has happened. And we're mourning his loss. I'm never going to shut the door. I love the state of South Carolina. You only live once. And, you know, if the people of South Carolina would like me to serve in that capacity, I'll certainly take a look at it.\n\nCORNISH: So, Brad, I've got her name and plus two others. Rep. Ralph Norman and Rep. Joe Wilson. Are those names correct? Tell me I'm wrong.\n\nTODD: I think you could be wrong. I mean Nancy Mace is first on cable news and fifth in South Carolina.\n\nTODD: And so I don't think that she's --\n\nCORNISH: Meaning, she actually came in fifth in the gubernatorial.\n\nTODD: She did come in fifth. Yes, that's right.\n\nThis is a fast race though. This is going to happen on August 11th. There'll be a two week runoff period after that if no one gets -- if no one gets 50. I don't think that Joe Wilson is a likely candidate because the Republican House margin is so small. And the same for Ralph Norman.\n\nCORNISH: Meaning, you literally can't lose the House member.\n\nTODD: Yes, they need to be actually in town to vote.\n\nTODD: And so I think -- I think running for them would be a mistake.\n\nTODD: You know, I think that the appointment to finish the rest of this year, who knows what Henry McMaster is going to do. He knows every Republican in South Carolina, so he'll make a good decision.\n\nBut Richard Perry, Lindsay's chief of staff, is a -- is a likely nominee for that I think just off the top of my head. He would be able to keep the staff together and make Lindsay's office as effective as it could be for the next couple of months.\n\nCORNISH: Yes, we should say right now, Lindsey Graham's office, there was $4.23 million cash on hand. We were talking yesterday that we don't expect South Carolina to be flipped. But I do want to show you the person who is running, the Democrat nominee, Dr. Annie Andrews', has $2.87 million on hand. Is this another race to watch in the end?\n\nADAM HARRIS, CO-HOST, \"RADIO ATLANTIC\": You know, I was down in South Carolina in 2020 covering Jamie Harrison when he was running against Lindsey Graham, right?\n\nHARRIS: And that was -- that was a race that people really thought that might be able to get a Democrat out and actually see some success there. But I remember talking to Don Fowler, the old lion of the Democratic Party in South Carolina, and he said, you'll -- if you want to win a race like this, it's going to take getting out early and getting out often. And you just got to do it. And I kind of -- I had a -- I have a hard time sort of putting a lot of hope into the idea that something like that happens, or putting a lot of faith, I should say, in the idea that something like that happens. But, you know, South Carolina is one of those ruby red states right now that that is going to be really difficult for any Democrat to succeed (ph).\n\nCORNISH: You know, Brad said something interesting there where he mentioned that, like, you can't even have a guy want to be called up to the Senate because of what's ahead. What are the bills that they're working on or hope to pass?\n\nELENA SCHNEIDER, NATIONAL POLITICAL REPORTER, \"NOTUS\": Oh, there's enormous -- a number of things that are ahead for the House that they're going to get through, including -- or attempting to get through, including the SAVE Act, which we know is something that the president still really cares about and wants to pass through.\n\nBut look, I mean, to Adam's point, I also will just say, in terms of Senate races and the map, the way that it's building up right now, it is so expensive in all these places that Democrats hope to compete. South Carolina is so far down the list of priorities that they want to focus on.\n\nSCHNEIDER: There's going to be so many other places that are more gettable in their mind, more -- with people who are far better known and maybe even less -- well, not maybe less expensive, but just simply have more of a history of having voted for a Democrat in the past. So, I think ultimately South Carolina falls down that list.\n\nCORNISH: OK, I want to thank you all for being here and, especially you, Brad, thank you so much for helping us to remember the senator today.\n\nCORNISH: You brought up a lot of good points about his legacy when it comes to the Judiciary.\n\nWe also talked about his legacy when it comes to foreign policy. And I should say, one of the things that Graham had been working on before his death is a bill to increase sanctions on Russia. The question is where something like that goes now.\n\nSo, stick with us. The rest of the week is going to be interesting as the Senate heads back.\n\nI'm Audie Cornish. And the headlines are next."
+    }
+  ]
+}
