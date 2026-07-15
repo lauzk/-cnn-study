@@ -1,0 +1,459 @@
+{
+  "date": "2026-07-14",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-14/segment/02",
+  "vocabulary": [
+    {
+      "word": "fatal",
+      "phonetic": "/ˈfeɪtl/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "致命的",
+      "en": "causing death",
+      "excerpt": "The second fatal ICE shooting in less than a week.",
+      "example_cn": "这起事故是致命的。"
+    },
+    {
+      "word": "surveillance",
+      "phonetic": "/sɜːrˈveɪləns/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "监视",
+      "en": "close observation of a person or group",
+      "excerpt": "targeted surveillance on the last known address of an illegal alien.",
+      "example_cn": "警方对该地区进行了监视。"
+    },
+    {
+      "word": "alien",
+      "phonetic": "/ˈeɪliən/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "外国人；外星人",
+      "en": "a foreigner, especially one who is not a citizen of the country",
+      "excerpt": "targeted surveillance on the last known address of an illegal alien.",
+      "example_cn": "他是一名非法移民。"
+    },
+    {
+      "word": "flee",
+      "phonetic": "/fliː/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "逃跑",
+      "en": "to run away from danger or a threat",
+      "excerpt": "when they claim the car attempted to flee",
+      "example_cn": "他们试图逃离火灾现场。"
+    },
+    {
+      "word": "render aid",
+      "phonetic": "/ˈrendər eɪd/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "提供援助",
+      "en": "to give help or assistance",
+      "excerpt": "appear to be rendering aid to the victim.",
+      "example_cn": "医生正在向伤者提供援助。"
+    },
+    {
+      "word": "at odds with",
+      "phonetic": "/æt ɒdz wɪð/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "与...不和；与...有分歧",
+      "en": "in disagreement with",
+      "excerpt": "states are at odds with them.",
+      "example_cn": "他的观点与团队不一致。"
+    },
+    {
+      "word": "standard operating procedure",
+      "phonetic": "/ˈstændərd ˈɒpəreɪtɪŋ prəˈsiːdʒər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "标准操作程序",
+      "en": "established or prescribed methods to be followed routinely",
+      "excerpt": "just given the standard operating procedure by this Department of Homeland Security.",
+      "example_cn": "公司有标准操作程序来处理投诉。"
+    },
+    {
+      "word": "hunker down",
+      "phonetic": "/ˈhʌŋkər daʊn/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "蹲下；坚守；躲避",
+      "en": "to take shelter or adopt a defensive position",
+      "excerpt": "blame the victim and hunker down.",
+      "example_cn": "暴风雨来临时，他们蹲下躲避。"
+    },
+    {
+      "word": "unearth",
+      "phonetic": "/ʌnˈɜːrθ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "发掘；发现",
+      "en": "to discover something hidden or secret",
+      "excerpt": "try to understand and unearth what happened",
+      "example_cn": "考古学家发掘了一座古墓。"
+    },
+    {
+      "word": "stealth",
+      "phonetic": "/stelθ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "秘密行动；隐形",
+      "en": "the quality of being quiet and secretive",
+      "excerpt": "they just want stealth.",
+      "example_cn": "他们以隐蔽的方式行动。"
+    },
+    {
+      "word": "deescalate",
+      "phonetic": "/diːˈeskəleɪt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "使降级；缓和",
+      "en": "to reduce the intensity of a conflict or situation",
+      "excerpt": "you're not deescalating, you're escalating",
+      "example_cn": "警方试图缓和局势。"
+    },
+    {
+      "word": "transparency",
+      "phonetic": "/trænsˈpærənsi/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "透明；透明度",
+      "en": "the quality of being open and honest",
+      "excerpt": "we're not seeing much transparency",
+      "example_cn": "政府需要提高透明度。"
+    },
+    {
+      "word": "quota",
+      "phonetic": "/ˈkwoʊtə/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "配额；定额",
+      "en": "a fixed share or amount",
+      "excerpt": "the push for quotas",
+      "example_cn": "公司设定了销售配额。"
+    },
+    {
+      "word": "stonewall",
+      "phonetic": "/ˈstoʊnwɔːl/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "阻碍；拖延",
+      "en": "to delay or obstruct deliberately",
+      "excerpt": "local officials are saying they're also being stonewalled",
+      "example_cn": "政府被指责拖延调查。"
+    },
+    {
+      "word": "subpoena",
+      "phonetic": "/səˈpiːnə/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "传票",
+      "en": "a writ ordering a person to attend a court",
+      "excerpt": "I'm having to issue subpoenas a week later.",
+      "example_cn": "法院向他发出了传票。"
+    },
+    {
+      "word": "marginal",
+      "phonetic": "/ˈmɑːrdʒɪnl/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "边缘的；微小的",
+      "en": "of minor importance; not central",
+      "excerpt": "15 congressional races that are marginal",
+      "example_cn": "这是一个边缘选区。"
+    },
+    {
+      "word": "overlay",
+      "phonetic": "/ˌoʊvərˈleɪ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "覆盖；叠加",
+      "en": "to cover or lie over",
+      "excerpt": "you overlay the anxiety of ICE agents",
+      "example_cn": "地图上叠加了人口数据。"
+    },
+    {
+      "word": "implode",
+      "phonetic": "/ɪmˈploʊd/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "内爆；崩溃",
+      "en": "to collapse inward violently",
+      "excerpt": "support for Trump has imploded.",
+      "example_cn": "该公司的股价暴跌。"
+    },
+    {
+      "word": "gallivant",
+      "phonetic": "/ˈɡælɪvænt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "闲逛；游荡",
+      "en": "to go around amusing oneself",
+      "excerpt": "gallivanting around with whoever he's dating",
+      "example_cn": "他整天在外面闲逛。"
+    },
+    {
+      "word": "divergence",
+      "phonetic": "/daɪˈvɜːrdʒəns/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "分歧；差异",
+      "en": "a difference in opinion or direction",
+      "excerpt": "interesting to see the divergence",
+      "example_cn": "两人的观点存在分歧。"
+    },
+    {
+      "word": "antagonize",
+      "phonetic": "/ænˈtæɡənaɪz/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "使对抗；引起敌意",
+      "en": "to cause someone to become hostile",
+      "excerpt": "voters that you've been antagonizing.",
+      "example_cn": "他的言论激怒了很多人。"
+    },
+    {
+      "word": "placeholder",
+      "phonetic": "/ˈpleɪshoʊldər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "临时替代者；占位符",
+      "en": "a person who holds a position temporarily",
+      "excerpt": "her being a placeholder for the last few months",
+      "example_cn": "他只是一个临时替代者。"
+    },
+    {
+      "word": "trigger",
+      "phonetic": "/ˈtrɪɡər/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "触发；引发",
+      "en": "to cause something to happen",
+      "excerpt": "Our state law requires that there's a trigger",
+      "example_cn": "这件事引发了一场争论。"
+    },
+    {
+      "word": "runoff",
+      "phonetic": "/ˈrʌnɔːf/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": " runoff election 决选",
+      "en": "a second election to decide a winner",
+      "excerpt": "The runoff's on August 25th.",
+      "example_cn": "他们将在决选中对决。"
+    },
+    {
+      "word": "conspiracy theory",
+      "phonetic": "/kənˈspɪrəsi ˈθɪri/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "阴谋论",
+      "en": "a belief that events are secretly manipulated",
+      "excerpt": "spawns a lot of these conspiracy theories.",
+      "example_cn": "很多人相信阴谋论。"
+    },
+    {
+      "word": "vacuum",
+      "phonetic": "/ˈvækjuːm/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "真空；空白",
+      "en": "an empty space",
+      "excerpt": "filling that vacuum.",
+      "example_cn": "权力真空导致了混乱。"
+    },
+    {
+      "word": "nonpartisan",
+      "phonetic": "/ˌnɑːnˈpɑːrtɪzn/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "无党派的；超党派的",
+      "en": "not biased towards any political party",
+      "excerpt": "It's a nonpartisan issue, folks.",
+      "example_cn": "这是一个无党派问题。"
+    },
+    {
+      "word": "catalyst",
+      "phonetic": "/ˈkætəlɪst/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "催化剂；促进因素",
+      "en": "something that causes an important change",
+      "excerpt": "this is a catalyst for a shift",
+      "example_cn": "这件事是变革的催化剂。"
+    },
+    {
+      "word": "extract",
+      "phonetic": "/ɪkˈstrækt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "提取；获取",
+      "en": "to obtain something from a source",
+      "excerpt": "you really can extract power.",
+      "example_cn": "他们试图从数据中提取信息。"
+    },
+    {
+      "word": "zone defense",
+      "phonetic": "/zoʊn dɪˈfens/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "区域防守",
+      "en": "a defensive strategy in sports where players cover areas",
+      "excerpt": "Was it just zone defense?",
+      "example_cn": "篮球队采用了区域防守。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "And just like that other shooting, a senator tells us, the man killed yesterday was not the target of the operation.",
+      "cn": "就像另一起枪击事件一样，一位参议员告诉我们，昨天被杀的男子并不是行动的目标。",
+      "structure": "主句 + 插入语 + 宾语从句",
+      "analysis": "主句为'a senator tells us'，插入语'And just like that other shooting'作状语，宾语从句'the man...was not the target'为tells的宾语。"
+    },
+    {
+      "en": "Now, the Department of Homeland Security released a statement on the shooting about 12 hours after it happened, where they said in part, they were conducting, quote, \"targeted surveillance on the last known address of an illegal alien.\"",
+      "cn": "现在，国土安全部在枪击事件发生约12小时后发表了一份声明，其中部分内容称，他们正在对一名非法移民的最后已知地址进行“有针对性的监视”。",
+      "structure": "主句 + 时间状语 + 定语从句 + 宾语从句",
+      "analysis": "主句为'the Department...released a statement'，'about 12 hours after it happened'为时间状语，'where they said...'为定语从句修饰statement，'they were conducting...'为said的宾语从句。"
+    },
+    {
+      "en": "They said they saw a person leave in a car and tried to pull them over when they claim the car, quote, \"attempted to flee\" and, quote, \"fearing for public safety,\" an officer opened fire.",
+      "cn": "他们称看到一个人开车离开，并试图将其拦下，当时他们声称该车“试图逃跑”，并且“担心公共安全”，一名警官开了枪。",
+      "structure": "主句 + 宾语从句 + 时间状语从句 + 并列谓语",
+      "analysis": "主句为'They said'，后接宾语从句'they saw...and tried...'，'when they claim...'为时间状语从句，'an officer opened fire'为并列主句。"
+    },
+    {
+      "en": "So, I suspect that ICE and DHS are going to do what they always do, which is blame the victim and hunker down.",
+      "cn": "所以，我怀疑ICE和DHS会像往常一样，指责受害者并采取守势。",
+      "structure": "主句 + 宾语从句 + 定语从句",
+      "analysis": "主句为'I suspect'，后接宾语从句'that ICE and DHS are going to do...'，'what they always do'为do的宾语从句，'which is...'为非限制性定语从句修饰what。"
+    },
+    {
+      "en": "And then what you're going to see, in particular, this is interesting, because of the politics of Maine right now, I know it was your political story last week, you're going to see very aggressive local and state efforts to try to understand and unearth what happened because, obviously, Senator Collins voted for this massive increase by ICE.",
+      "cn": "然后你会看到，特别是，这很有趣，由于缅因州当前的政治局势，我知道这是你上周的政治故事，你会看到非常积极的地方和州层面的努力，试图了解和发掘发生了什么，因为显然，参议员柯林斯投票支持了ICE的大规模扩张。",
+      "structure": "主句 + 插入语 + 原因状语从句 + 同位语从句 + 原因状语从句",
+      "analysis": "主句为'you're going to see...efforts'，插入语'in particular, this is interesting'，'because of the politics...'为原因状语，'I know it was...'为插入的并列句，'to try to understand...'为不定式作定语，'because...'为原因状语从句。"
+    },
+    {
+      "en": "What you're seeing here is the same activities, the same lack of training, the same lack of standard operating procedures regarding, in particular, vehicle engagements.",
+      "cn": "你在这里看到的是同样的活动，同样的缺乏训练，同样的缺乏标准操作程序，尤其是在车辆接触方面。",
+      "structure": "主语从句 + 系动词 + 表语",
+      "analysis": "'What you're seeing here'为主语从句，'is'为系动词，'the same activities...'为并列表语。"
+    },
+    {
+      "en": "And what we're seeing is, people talked about anxiety.",
+      "cn": "我们看到的是，人们谈论焦虑。",
+      "structure": "主语从句 + 系动词 + 表语从句",
+      "analysis": "'What we're seeing'为主语从句，'is'为系动词，'people talked about anxiety'为表语从句。"
+    },
+    {
+      "en": "But is there something about repeated killings, about seeing like people stand up and say, my father didn't deserve to die this way, that might be affecting that calculus?",
+      "cn": "但是，反复的杀戮，看到人们站起来说“我父亲不应该这样死”，是否有什么东西可能影响这种计算？",
+      "structure": "主句 + 定语从句",
+      "analysis": "主句为'Is there something...'，'about repeated killings...'为介词短语作定语修饰something，'that might be affecting...'为定语从句修饰something。"
+    },
+    {
+      "en": "And they said, even folks who voted for Donald Trump, who were at my summit, said, look, we want the border to be secure.",
+      "cn": "他们说，即使是那些投票给唐纳德·特朗普、参加我峰会的人也说，看，我们希望边境安全。",
+      "structure": "主句 + 宾语从句 + 定语从句",
+      "analysis": "主句为'They said'，后接宾语从句'even folks...said...'，'who voted...'和'who were...'为定语从句修饰folks。"
+    },
+    {
+      "en": "And to me, Texas, in a lot of ways, sums up the fundamental questions of the midterms this year.",
+      "cn": "对我来说，德克萨斯州在很多方面概括了今年中期选举的基本问题。",
+      "structure": "主句 + 插入语",
+      "analysis": "主句为'Texas sums up the fundamental questions'，'to me'和'in a lot of ways'为插入语。"
+    },
+    {
+      "en": "And that's whether Latino voters, independents are going to be going after we saw such a big shift towards Trump in '24.",
+      "cn": "那就是，在2024年我们看到如此大的转向特朗普之后，拉丁裔选民和独立选民将何去何从。",
+      "structure": "主句 + 表语从句 + 时间状语从句",
+      "analysis": "主句为'That's'，后接表语从句'whether...are going to be going'，'after we saw...'为时间状语从句。"
+    },
+    {
+      "en": "And when people hear what Darline's had to say about Lindsey, you immediately know all you need to know about his character.",
+      "cn": "当人们听到达琳对林赛的评价时，你立刻就知道你需要知道的关于他性格的一切。",
+      "structure": "时间状语从句 + 主句 + 定语从句",
+      "analysis": "'When people hear...'为时间状语从句，主句为'you immediately know...'，'all you need to know...'为know的宾语，其中'you need to know'为定语从句修饰all。"
+    },
+    {
+      "en": "I think that the governor made an excellent pick.",
+      "cn": "我认为州长做出了一个极好的选择。",
+      "structure": "主句 + 宾语从句",
+      "analysis": "主句为'I think'，后接宾语从句'that the governor made an excellent pick'。"
+    },
+    {
+      "en": "And then there are some A.I. experts weighing in saying that there's no evidence to support that the image is A.I. generated.",
+      "cn": "然后有一些人工智能专家发表意见说，没有证据支持这张图片是人工智能生成的。",
+      "structure": "主句 + 定语 + 宾语从句",
+      "analysis": "主句为'There are some A.I. experts'，'weighing in saying...'为现在分词短语作定语，'that there's no evidence...'为saying的宾语从句，'to support...'为不定式作定语修饰evidence。"
+    },
+    {
+      "en": "And then lastly, Princess Kate.",
+      "cn": "最后，凯特王妃。",
+      "structure": "省略句",
+      "analysis": "这是一个省略句，完整形式应为'And then lastly, there was Princess Kate.'"
+    },
+    {
+      "en": "And this ended up causing some news agencies to say, the crown is not a trusted news source.",
+      "cn": "这最终导致一些新闻机构说，王室不是一个值得信赖的新闻来源。",
+      "structure": "主句 + 宾语补足语 + 宾语从句",
+      "analysis": "主句为'This ended up causing some news agencies'，'to say...'为宾语补足语，'the crown is not...'为say的宾语从句。"
+    },
+    {
+      "en": "Well, it speaks to how, especially when it comes to the health of these members of Congress, the absence of information is what spawns a lot of these conspiracy theories.",
+      "cn": "嗯，它说明了，尤其是在这些国会议员的健康问题上，信息的缺失是如何催生了许多这样的阴谋论。",
+      "structure": "主句 + 宾语从句 + 时间状语从句",
+      "analysis": "主句为'It speaks to'，后接宾语从句'how...the absence of information is...'，'especially when it comes to...'为时间状语从句。"
+    },
+    {
+      "en": "I think one of the things I'm wrestling with is the fact that, like, this could be helped by being more transparent.",
+      "cn": "我认为我正在努力解决的一个问题是，这可以通过更加透明来改善。",
+      "structure": "主句 + 定语从句 + 表语从句",
+      "analysis": "主句为'I think'，后接宾语从句'one of the things...is the fact...'，'I'm wrestling with'为定语从句修饰things，'that...this could be helped...'为同位语从句修饰fact。"
+    },
+    {
+      "en": "And I have wondered if, for some Latino voters, this is a catalyst for a shift in some way.",
+      "cn": "我一直在想，对于一些拉丁裔选民来说，这是否在某种程度上是转变的催化剂。",
+      "structure": "主句 + 宾语从句",
+      "analysis": "主句为'I have wondered'，后接宾语从句'if...this is a catalyst...'，'for some Latino voters'为插入语。"
+    },
+    {
+      "en": "And there are actually a lot of black activists right now who are complaining that they are not in this position right now.",
+      "cn": "实际上现在有很多黑人活动人士在抱怨他们现在没有处于这个位置。",
+      "structure": "主句 + 定语从句 + 宾语从句",
+      "analysis": "主句为'There are a lot of black activists'，'who are complaining...'为定语从句修饰activists，'that they are not...'为complaining的宾语从句。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "ICE执法争议与致命枪击事件",
+      "content": "美国移民和海关执法局（ICE）在缅因州和德克萨斯州接连发生致命枪击事件，引发对执法程序、透明度和问责制的质疑。缅因州事件中，一名26岁哥伦比亚男子被ICE特工射杀，而该男子并非行动目标。德克萨斯州事件中，一名52岁男子在休斯顿街头被杀。地方官员抱怨被排除在调查之外，ICE被指责缺乏培训和标准操作程序，尤其是车辆接触方面。",
+      "keywords": "ICE, shooting, Maine, Texas, surveillance, fatal, accountability, transparency"
+    },
+    {
+      "title": "2026年中期选举与拉丁裔选民",
+      "content": "德克萨斯州参议员选举中，民主党人James Talarico在拉丁裔选民中领先共和党人Ken Paxton。民调显示，经济和生活成本是拉丁裔选民最关心的问题，移民问题仅排第三。ICE枪击事件可能影响选民态度，但经济焦虑仍是主导因素。拉丁裔选民的政治影响力日益增长，两党都在争取其支持。",
+      "keywords": "midterm election, Latino voters, Texas, Talarico, Paxton, economy, immigration, polls"
+    },
+    {
+      "title": "南卡罗来纳州参议员席位临时任命",
+      "content": "已故参议员Lindsey Graham的妹妹Darline Graham Nordone被州长任命临时接替其席位，直至特别选举。她被视为临时人选，无意长期任职。特别选举流程快速，多位潜在候选人被提及，包括现任国会议员。",
+      "keywords": "South Carolina, Senate seat, Lindsey Graham, Darline Graham Nordone, temporary appointment, special election"
+    },
+    {
+      "title": "Mitch McConnell健康谣言与AI图像争议",
+      "content": "参议员Mitch McConnell的健康状况引发猜测，其办公室发布的照片被质疑为AI生成。右翼活动人士Laura Loomer提出质疑，但《华盛顿邮报》确认照片真实。事件反映了在信息缺失情况下阴谋论的滋生，以及AI时代对图像真实性的普遍怀疑。",
+      "keywords": "Mitch McConnell, health, AI-generated image, conspiracy theory, Laura Loomer, transparency"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nICE Shooting in Maine; Texas Polls Show Swing Towards Talarico; Chad Connelly is Interviewed about South Carolina's Senate Seat; McConnell Image Debunked. Aired 6:30-7a ET\n\nAired July 14, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nAUDIE CORNISH, CNN ANCHOR: So, a man in Maine shot and killed by ICE. The second fatal ICE shooting in less than a week. And just like that other shooting, a senator tells us, the man killed yesterday was not the target of the operation. It was a 26-year-old Colombian man in that white car. A neighbor tells CNN they heard shots. Then they saw this, the car circling and an agent running alongside. And please just take a beat because these next videos are disturbing.\n\nWhat we're showing you is agents pulling what appears to be an unconscious body from the car. They're placing him on the ground. Now, after that, more responders show up and appear to be rendering aid to the victim.\n\nNow, the Department of Homeland Security released a statement on the shooting about 12 hours after it happened, where they said in part, they were conducting, quote, \"targeted surveillance on the last known address of an illegal alien.\" They said they saw a person leave in a car and tried to pull them over when they claim the car, quote, \"attempted to flee\" and, quote, \"fearing for public safety,\" an officer opened fire.\n\nSo, we've got CNN national security analyst Juliette Kayyem here.\n\nAnd, Juliette, just so I can give people a little more detail about what happened. The Maine Immigrants Rights Coalition has said that the man was leaving for work when this shooting happened. And they also said that he was authorized to work in the U.S. Like he -- as in had a Social Security Number. Federal officials haven't confirmed that.\n\nCan you talk about what questions -- I guess, how does this work, right? We saw with ICE sometimes, if there's a shooting, you're not going to get access right away to investigate. Like states are at odds with them. So, how could this work?\n\nJULIETTE KAYYEM, CNN NATIONAL SECURITY ANALYST: So, I'll say how it should work and then how it's likely to work just given the standard operating procedure by this Department of Homeland Security. When there is a killing like this that appear -- you know, that is -- that is at the -- at the best narrative of it is that it was a mistake, right? Because what people -- what your audience needs to understand is that even if everything were true, that he was fleeing, that he wasn't authorized to work here, that he wasn't obeying orders, you still don't kill. Good law enforcement doesn't kill in that situation.\n\nICE kind of knows that. In their statement in the morning, they don't even say anymore that he was a threat to the law enforcement agent. They say he was a general threat to public safety. That could be true of any of us, right?\n\nSo, I suspect that ICE and DHS are going to do what they always do, which is blame the victim and hunker down. And then what you're going to see, in particular, this is interesting, because of the politics of Maine right now, I know it was your political story last week, you're going to see very aggressive local and state efforts to try to understand and unearth what happened because, obviously, Senator Collins voted for this massive increase by ICE. So, this will get political very, very fast (ph).\n\nCORNISH: Right. And even if that wasn't going on, there's protesters already hitting the streets.\n\nCORNISH: Already calling for ICE to get out of their town. You know, people didn't really know that while things were going down in Minnesota, there was a movement against ICE in Maine as people were frustrated with the enforcement that they saw there.\n\nCORNISH: I just want to play for you a witness who spoke to the Associated Press, because I think this is the kind of story that can spread quite quickly in this situation. Here he is.\n\nUNIDENTIFIED MALE: He started coming down the street, again, driving. I don't know how. And then the SUV hit him again. Try to -- and then that's when he stopped. An ICE agent got out, tried to open the door and had a difficult time, but eventually opened it, pulled the guy out. His face was bloody. His head was bloody.\n\nCORNISH: This is not some wild-eyed protester telling this story, right? And ICE was supposed to be, we were told, operating differently in the aftermath of the killing of those citizens in Minnesota. Is it operating differently or is this kind of revealing that there's a little bit of a standing operating procedure here?\n\n[06:35:07] KAYYEM: Yes. So, Secretary Mullen, the new secretary of the Department of Homeland Security, vowed for changes in what was going on. They saw the political protests across the aisle regarding Minnesota. I think a better way to put it is they just want stealth. That you had Secretary Noem, the previous secretary of Homeland Security, with her sort of, you know, behavior that got a lot of bad attention.\n\nWhat you're seeing here is the same activities, the same lack of training, the same lack of standard operating procedures regarding, in particular, vehicle engagements. Because what I'm seeing from my viewpoint, I'm seeing unidentified ICE agents masked. So, we have -- we only know that they're ICE now. Who put themselves in front of vehicles. So then, all of a sudden, you are now -- you're not deescalating, you're escalating, all for what, right? I mean the guy is in a car. You can get him a different way than shooting into the car.\n\nSo, I think this is a test of whether we should believe the new secretary in terms of training, in terms of how they're scaling ICE. But right now, we're not seeing much transparency, not seeing much from him, certainly not seeing much from the White House, which continues to push a numbers game, right? They just want the numbers. Well, the numbers are getting you this -- these deaths. It's the numbers. It's the push for quotas that is not aligned with the public safety threat that is -- that is getting these killings.\n\nCORNISH: Juliette Kayyem, thank you so much for talking with us about that potential investigation, what's going on.\n\nI want to turn to my panel because the calls for accountability are growing over these shootings. I mean, again, two in a month. Last week, a 52-year-old man killed in the streets of Houston. The League of United Latin American Citizens issued a statement condemning the shootings. And they say, quote, \"same tactics, same excuses\" and, quote, \"we're tired of hearing them.\"\n\nNow, local officials are saying they're also being stonewalled in the Texas investigation.\n\nSEAN TEARE, HARRIS COUNTY, TEXAS DISTRICT ATTORNEY: It is not normal that we're not invited to the scene moments after the shooting. It is not normal that I'm have to -- I'm having to issue subpoenas a week later. And it's certainly not normal that I don't know the identity of any of the agents that were involved in this shooting seven days later.\n\nCORNISH: So, group chat is back.\n\nAnd like Maine, there is a Senate race going on here. So, I wanted to talk a little bit about the politics, since we just heard about the effects of the investigation. And every week I have you here, and I want to know what's going on\n\nwith the Latino community, because you specifically are working with so many races on that issue. And I gather you were actually in a summit. Who was in the summit, and what were they talking about? Did ICE come up?\n\nCHUCK ROCHA, DEMOCRATIC STRATEGIST: Yes, it came up a lot. We hosted the nation's largest Latino voter summit last week in D.C. Two hundred Latino leaders came, including three senators and six congressmen, because this is on the tip of everybody's thinking right now, because it's not just Texas or Florida where you think about Latino voters. There are 15 congressional races that are marginal, that could flip either way, that have more than a majority Latino population, and four or five Senate races. So, this is going to be a big conversation.\n\nAnd what we're seeing is, people talked about anxiety. Folks understood that there's been an economic anxiety in lots of communities. But then you overlay the anxiety of ICE agents that they really don't understand what they're doing or who's at risk. They were under the --\n\nCORNISH: Or they understand it more than ever right now, I mean especially in border states.\n\nROCHA: They understood when they, some of them who voted for Trump, and there were Republicans at our summit --\n\nCORNISH: Yes. And can I show an exit poll while you're talking about this?\n\nROCHA: Please. Please.\n\nCORNISH: This is the Texas exit poll 2024 Latino voter. It's Texas. So, of course, Trump is winning, but it's winning Latino voters here. And I guess the question I want to know is, Democrats have, in the past, misjudged Latino voters --\n\nCORNISH: Thinking they care about things they don't care about. Thinking immigration is the thing they care the most about.\n\nCORNISH: And they have proven not to be. They've proven to be economic voters. But is there something about repeated killings, about seeing like people stand up and say, my father didn't deserve to die this way, that might be affecting that calculus?\n\nROCHA: That's what's really special about our summit is we had Republicans there on stage talking about this. Republican Hispanics, Democratic Hispanics and independents. And what they said is, even folks who voted for Donald Trump, who were at my summit, said, look, we want the border to be secure. We would like bad people who want to harm our country to be deported, but not what we're seeing right now.\n\nROCHA: And that's an overarching theme.\n\nCORNISH: In the Texas race right now we're finding, at least in some polls, I'll give you \"The New York Times\"/Siena poll finds that support for Trump has imploded. Also, new polls finding that Talarico, James Talarico, the Democrat, is leading Ken Paxton among Hispanics by 32 points. Again, I might not look askance of this in another state, but, Ashley, is this a Texas problem, is this a Paxton problem or is this Trump's problem with Latino voters?\n\nASHLEY DAVIS, FORMER HOMELAND SECURITY OFFICIAL: I'm not sure yet, but I am not -- I would like to know if you think that poll number is real, because, I mean, there's all ways you can poll people that some, you know, who their polling really matters. So, I mean, do you think it's that much today.\n\nCORNISH: Yes. I'll show you independents.\n\nCORNISH: Choice for Texas senate among independents. Talarico, 58 percent. Paxton, 31st -- 31 percent. But let me show you -- show you one. Most important voting issue among Texas Hispanics. Immigration is in third place, OK?\n\nCORNISH: The economy is first, cost of living and then immigration down below.\n\nROCHA: Everybody knows, and I've been open about this, I work for James Talarico, and I want to make one point. Is in June, and Nicholas knows this, in June the campaign spent $1 million on Spanish advertising around the World Cup to talk about economic anxiety and these ICE fears in our community. That's never been done in Texas.\n\nAnd we're seeing the same thing in internal polls as you're seeing now, is there's an anxiety in Texas. I'm not saying the polls will be there at the end of the day --\n\nROCHA: But right now, people are mad.\n\nCORNISH: Then there's a lot their --\n\nDAVIS: But I think they're mad -- upset about the economy much more than -- going back to Audie's point, more than --\n\nROCHA: It's cost and corruption. Cost and corruption across the board. We see that in every poll.\n\nCORNISH: That's the phrase you're using. DAVIS: Yes, is that your (INAUDIBLE)?\n\nCORNISH: Does it help that Paxton has problems? Meaning, his personal problems have made it to the headlines. It started with his wife announcing their, quote, \"biblical divorce\" way back when. But the headlines have persisted on my feed. I'm seeing images of people claiming that he's gallivanting around with whoever he's dating instead of being back home campaigning.\n\nNICHOLAS WU, CONGRESSIONAL REPORTER, \"SEMAFOR\": Yes, Democrats are really banking on a lot of these personal scandals dragging down Paxton. And as we're seeing in some of that polling, driving independents towards Talarico. I mean, it's interesting to see the divergence in the way we look at these statewide races in Texas. The Senate race is seen as very close. The gubernatorial race, maybe not quite as much.\n\nAnd, to me, Texas, in a lot of ways, sums up the fundamental questions of the midterms this year. And that's which way Latino voters, independents are going to be going --\n\nWU: After we saw such a big shift towards Trump in '24. Whether they're going to snap back toward Democrats or not.\n\nCORNISH: And this is somewhat with Paxton, where he, you know, as attorney general, because he's fought so hard for Trump, that has put him in a position oftentimes of accusing Latino activists in Texas of nefarious things, like around voting or whatever. So, I don't know how you build a relationship with voters that you've been antagonizing.\n\nDAVIS: Well, here's my thought on Texas. And you know it much better than I do in regards to the Senate race. Abbott's on the ballot. Are people really going in and going to vote for Abbott and vote for Talarico? I don't think that happens.\n\nROCHA: All I'm going to say is John Cornyn and Paxton just had a horrible primary where $100 million was spent on Republican on Republican violence. I don't think every one of them come back and vote for a James Talarico, but I think a lot of them skip that because they're still mad, within the Republican Party.\n\nCORNISH: Maybe just don't check the box?\n\nAll right, next, we're going to talk about the pick to replace the late Lindsey Graham. They didn't look far. Why South Carolina's governor turned to Graham's family.\n\nPlus. (BEGIN VIDEO CLIP)\n\nUNIDENTIFIED MALE: Well, I just heard from some other sources that was an older photo. So, I really don't know. I haven't talked to Mitch.\n\nCORNISH: That photo of Mitch McConnell has everyone just asking more questions. We're going to tell you what some reporters discovered when they looked into it.\n\nCORNISH: So, an unexpected solution to the question of who will fill the late Senator Lindsey Graham's Senate seat, at least for the next couple of months. It is his sister. Graham's younger sister, Darline Graham Nordone, will finish her brother's Senate term. South Carolina's governor asked her to take on the job early Sunday morning, just hours after her brother's passing.\n\nDARLINE GRAHAM NORDONE, LINDSEY GRAHAM'S SISTER: Now to Lindsey, I miss you more than I can even put into words, but I'm going to do this. I got it. Thank you.\n\nCORNISH: Joining me now, the former chairman of the South Carolina Republican Party, Chad Connelly.\n\nThank you so much for being here. Sorry for your loss. I'm sure you knew the senator well.\n\nDarline, obviously, they have a close relationship. He ended up adopting her when they were young so he could share their military benefits. Has she been someone who's always been on the campaign trail as well? What's her role in his political life?\n\nCHAD CONNELLY, FORMER CHAIRMAN, SOUTH CAROLINA REPUBLICAN PARTY: Well, good morning, Audie. Thanks for having me. I'm glad to be here.\n\nDarline has appeared occasionally, not often, but when she speaks, and she's spoken of Lindsey and tells the story of how, when their parents died, he just took her under his wing. He adopted her and he really raised her. It's special. And when people hear what Darline's had to say about Lindsey, you immediately know all you need to know about his character. He's always had a servant's heart. So, she hasn't appeared all the time in every cycle. But when she's appeared and spoken on his behalf, it's been powerful.\n\nCORNISH: Here's what he had to say about her in an interview in 2015.\n\nLINDSEY GRAHAM, LATE REPUBLICAN SOUTH CAROLINA SENATOR: Of all the things that have happened in my life, her turning out so well is the highlight of it.\n\nAnd if she took a role on, she would be a great representative of our country. I can't think of a better person to represent our country in an event than my sister.\n\nCORNISH: Is this a temporary appointment? Is there any indication that she is someone who could actually hold on to the seat beyond this moment?\n\nCONNELLY: I believe it is temporary, Audie. And I believe that the governor made an excellent pick. I don't think Darline has any long- term aspirations. Therefore, her being a placeholder for the last few months of this term for Lindsey is really appropriate.\n\nOur state law requires that there's a trigger, and that is a sudden death or resignation. So, the second Tuesday after that filing opens. That's a week from today. It closes in the next week. The primary is on August 11th. The runoff's on August 25th. So, the process is a really fast ramp. And so I think you're going to see a lot of people hop in.\n\nI don't think Darline wants to run or cares about being there long term. I think she cares about serving and honoring Lindsey's work in his memory.\n\nCORNISH: Top two names you're watching? Yesterday we heard someone mention Richard Perry, Lindsay's chief of staff. But are there other people who are starting to make noises and ask around?\n\nCONNELLY: Well, Richard's awesome and he probably leads one of the best staffs ever assembled on Capitol Hill. The team will surround Darline. I don't know if Richard runs for this. I've heard several names who just ran for governor, Ralph Norman, of course, Mark Lynch, who ran against Lindsey in the primary. I think that Pamela Evette, the lieutenant governor, could hop in. Nancy Mace.\n\nBut I'm also hearing Russell Fry and Sheri Biggs, who are sitting congressman right now. They'd have to obviously resign their nomination, which would trigger another special. But there are a lot of names floating around, and it'll be a competitive primary.\n\nBut this happens fast. So, you got to have statewide name I.D., and you're going to have to have money.\n\nCORNISH: I'm glad you're bringing up Congress, because we are going to talk about those thin margins next.\n\nChad Connelly, thank you so much for being with us. CONNELLY: Thank you. God bless. Have a great day.\n\nWe've also been following Senator Mitch McConnell's health. Here's the thing. It's taken a twist. There are some photos that he released showing that he is OK, and yet the internet has responded saying that they have questions, thinking that the picture is fake.\n\nTrying to point to an imagined picture of him from 2023, which, frankly, no one has actually tracked down this mythological other picture. So, \"The Washington Post\" got the original image that he sent out. They confirmed the metadata that it was taken Sunday. And then there are some A.I. experts weighing in saying that there's no evidence to support that the image is A.I. generated.\n\nThe group chat is back.\n\nAnd, you know, I want to go to the person who first raised concerns about McConnell's health, Laura Loomer, foremost intelligence officer outside of the White House. And she said this. \"Why does the text on the newspaper McConnell's staff claim he's holding look A.I. generated?\" She says, \"the text is blurry.\" \"The tag on his shirt is blurred.\" This is all her interpretation of the photo. \"Also, if he's in the hospital, why is there no IV connected to monitor his health?\" Quote, \"this is such B.S. His staff are liars.\"\n\nSo, I wanted to lead with this because I don't have a long list of just like Democrats being like, oh my gosh. Why is this coming from the right?\n\nDAVIS: Well, her, I mean, like, because I think that she's always --\n\nCORNISH: There's other people.\n\nDAVIS: No. But listen, the -- there's a lot of part on the right that don't like Mitch McConnell or the establishment of the Republicans. And she's one of them. She's been criticizing Mitch McConnell for years.\n\nBut here's -- at the end of the day, Mitch McConnell is not stepping down between now and November because he --\n\nCORNISH: Yes, he's already retiring.\n\nDAVIS: He's already retiring. There's no way they're going to let a Democrat governor appoint a senator, like they are -- you know, as they just did for South Carolina.\n\nDAVIS: So, in my mind, it doesn't matter. He's going to -- and Mitch McConnell, no matter how ill he is or not, he will stick it out until after Election Day.\n\nCORNISH: Yes. And we should say, she's not the only one. We've all become A.I. experts. And we're -- just looking back. I don't know if you remember when the White House -- I think it was the White House, but Republicans issued this Jeffries in a sombrero image, right? Sometimes it's more realistic than others. Jeffries in a sombrero. Then I remember Benjamin Netanyahu at one point was put out a video where he was grabbing a cup of coffee. People start counting the fingers on the cup of coffee. Oh, there's the sombrero. Here's the coffee. This was another one where people were like, is this real? We're going to look. We're going to double check and sleuth it out.\n\nAnd then lastly, Princess Kate. I don't know if anyone remembers Kate- gate when they put out this photo --\n\nCORNISH: And then immediately everyone starts counting fingers and legs, being, like, what is this? And this ended up causing some news agencies to say, the crown is not a trusted news source.\n\nCan anyone prove anything in the age of A.I.?\n\nWU: Well, it speaks to how, especially when it comes to the health of these members of Congress, the absence of information is what spawns a lot of these conspiracy theories. Like, you know, some of these members of Congress were not as transparent about their health. And in the -- you know, in the absence of any formal statements from them explaining what was going on --\n\nCORNISH: Yes, and he hasn't been seen since early June.\n\nWU: Exactly. Right. You have folks like Laura Loomer and other conspiracy theorists filling that vacuum.\n\nCORNISH: I think one of the things I'm wrestling with is the fact that, like, this could be helped by being more transparent. It could be helped by stepping down sooner and --\n\nROCHA: Or having age limits on Congress.\n\nROCHA: I'm not talking about 55 or 65. I'm talking about, let's put it at 75.\n\nCORNISH: You know a lot of Democrats would be gone if you said that.\n\nDAVIS: Yes, like, half your party.\n\nCORNISH: It would be the rapture at that age.\n\nDAVIS: Every single one of your chairmen.\n\nROCHA: It's a nonpartisan issue, folks.\n\nCORNISH: You would be the leftovers. You would be sorry in the Democratic --\n\nROCHA: Right, I am -- I am 57. I barely got out of bed this morning. I can't imagine doing this job at 70.\n\nCORNISH: OK. Listen, I want to talk to you guys about your group chats because the senators are back. They've got to deal with somebody who's passed away. Somebody who is ill. Congress is back. If somebody wanted to run for one of these seats, they might be told, sit down, brother, we can't lose a vote.\n\nWhat are you going to be watching for this week? What's in your group chat, if it's non-politics, it's OK. I won't hold it against you.\n\nWU: The thing in my group chat, you know, on top of, right, all these members of Congress coming back is this polling that showed that, you know, 41 percent of men under 30 thought they could score a penalty kick in the world goal --\n\nCORNISH: In the World Cup.\n\nWU: In the -- in the World Cup.\n\nWU: Kind of remarkable.\n\nCORNISH: So, like, all the couch athletes --\n\nCORNISH: Were like, I could do that.\n\nDAVIS: That have never played soccer.\n\nCORNISH: Yes, narrator, you can't do that. I don't know if you actually watch these guys running around for hours, but I haven't really met any average person who thinks they can. But, of course, it would be a young voter.\n\nROCHA: Look, on top of the world --\n\nCORNISH: Maybe that's how you can get voters, just stage penalty kick competitions.\n\nROCHA: I like this. You just heard me say we spent $1 million on soccer advertisement because this is where folks' eyes are. And the soccer's not in my group chat, but we were talking off camera about me explaining the -- how much the world loves soccer to my wife this weekend because we watched the game and she's like, this is the greatest thing I've ever watched. I'm like, well, people do this all over the world every day in the Euro League and other leagues.\n\nMy group chat is, I'm headed to L.A. tomorrow where over 1,000 Latino elected officials, non-partisan, are getting together to do the 50 year anniversary of NALEO, which is a big thing. CORNISH: Oh, interesting.\n\nROCHA: Because we've talked about the importance of the Latino vote. Well, all these elected officials are getting together. They all talk about ICE, but they don't talk a lot about the economy. I'm just happy that there's an organization that's bipartisan out there doing the hard work that are lifting -- these are --\n\nCORNISH: Is it really bipartisan, NALEO?\n\nROCHA: It really is. But if you think of it, 70 percent of the Latino elected officials in America are Democrat. I put that out there. It's just a fact. But most of these folks aren't congressmen. Most of them are your local city councilman, your local water treatment guide, the local dog catcher commissioner, whoever it is. Those are the folks I like having these conversations with.\n\nCORNISH: It's interesting because it feels like, you know, every minority or marginalized group in the U.S. has its point of like real political maturity. It happens every few years where there's a catalyst and then there's -- something shifts within that population. And I have wondered if, for some Latino voters, this is a catalyst for a shift in some way.\n\nROCHA: Both parties having to work to get our votes, a good thing for the community because then you really can extract power.\n\nROCHA: You can say, if you want our vote, come show us.\n\nCORNISH: And there are actually a lot of black activists right now who are complaining that they are not in this position right now.\n\nROCHA: Right. Exactly that. Exactly right.\n\nCORNISH: OK, Ashley, what about you?\n\nDAVIS: OK. We're going to show a picture here because I have become mom of the year.\n\nDAVIS: I have been given myself the award.\n\nROCHA: Who are these young men?\n\nDAVIS: My son -- my son's the light bulb in the middle that looks like me.\n\nCORNISH: Ah. A light bulb.\n\nROCHA: Oh, he looks just like you.\n\nCORNISH: This is the most mom thing to say.\n\nROCHA: Does he play soccer for Norway (ph). Hang on just a second. He looks like that gentleman on (INAUDIBLE).\n\nDAVIS: No, they're hockey players.\n\nDAVIS: But listen, myself and one other mom took all of these boys to the beach -- her name's Jodie Paige (ph) -- for a week, and we survived.\n\nCORNISH: (INAUDIBLE). Yes, you survived.\n\nDAVIS: And we cooked, we cleaned, and we worried they'd come home at night.\n\nROCHA: Here, I -- what?\n\nDAVIS: Well, you know, they're 17.\n\nCORNISH: You cooked and cleaned? That many people. They can clean.\n\nDAVIS: Seventeen eight-year-old boys. I know.\n\nCORNISH: Let them do the laundry.\n\nROCHA: Eighteen years old.\n\nCORNISH: You were outnumbered.\n\nDAVIS: And all they did was eat. Seventeen.\n\nCORNISH: How did you manage that? Was it just zone defense? Or, like, what's the --\n\nDAVIS: They were very respectful. No, they were very respectful. They were very good. We would do it again. But, you know, and they let us hang out a little bit.\n\nCORNISH: Well, you're hot mom Ashley.\n\nROCHA: But also, I have a question.\n\nCORNISH: I mean let's -- let's be fair. I think I can say that.\n\nDAVIS: I think Oliver's cringing right now.\n\nCORNISH: Well, sorry, Oliver. Sorry to that man. That's the situation you're in.\n\nROCHA: Wait just a second. I -- it's been a hot second since I was 17. Did these boys talk about politics? Do they talk about girls? Do they talk about soccer?\n\nCORNISH: No, they talk about hockey.\n\nDAVIS: They're sitting there saying, we can make that goal. Believe me, they are --\n\nDAVIS: I'm just kidding. But, I mean, yes, no, they don't -- they don't really talk about girls. It's like, you know, they talk about stuff.\n\nCORNISH: Oh, Ashley, come on.\n\nDAVIS: Well, in front of us, sometimes.\n\nCORNISH: Yes, in front of the two moms they did not talk about girls. I don't think that's how that went down.\n\nDAVIS: We asked a lot of questions.\n\nROCHA: The other thing is, are they moving away from this thing? Are they -- are they actually a movement?\n\nCORNISH: Yes, was it a phone free week?\n\nROCHA: Yes, that's what I wanted to know.\n\nDAVIS: No, it wasn't a phone free week.\n\nROCHA: Because I think -- I think these new kids today are understanding, just like, let's say folks in cigarettes back in the '70s or '80s, like, folks started understanding, well, maybe we don't want to eat all the hamburgers, or they're saying, maybe we shouldn't be on our phone and we can enjoy each other.\n\nCORNISH: I feel like I need to wheel a rocking chair out here for you. You're like, these kids.\n\nROCHA: It's a focus group.\n\nCORNISH: These -- like, you're leaning too far into this.\n\nDAVIS: Wait, we have one -- we have one more group chat.\n\nCORNISH: What is it? DAVIS: Chuck and I are going to the prom.\n\nROCHA: Oh, the tie? You like that? It's a yellow tie.\n\nCORNISH: These guys have reached their final form in the group chat where they are prom dates. It's -- I've only been on this show for a year and a half, and this is my finest moment.\n\nCORNISH: The marriage of Chuck and Ashley.\n\nOK, we actually have a lot of serious news coming up today. As we mentioned, the Senate is back. As we mentioned, there's all kinds of questions about ICE and these investigations. So, we want you to stick here with us at CNN.\n\nI'm Audie Cornish, and those headlines are next.",
+  "segments": [
+    {
+      "seg": 2,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-14/segment/02",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nICE Shooting in Maine; Texas Polls Show Swing Towards Talarico; Chad Connelly is Interviewed about South Carolina's Senate Seat; McConnell Image Debunked. Aired 6:30-7a ET\n\nAired July 14, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nAUDIE CORNISH, CNN ANCHOR: So, a man in Maine shot and killed by ICE. The second fatal ICE shooting in less than a week. And just like that other shooting, a senator tells us, the man killed yesterday was not the target of the operation. It was a 26-year-old Colombian man in that white car. A neighbor tells CNN they heard shots. Then they saw this, the car circling and an agent running alongside. And please just take a beat because these next videos are disturbing.\n\nWhat we're showing you is agents pulling what appears to be an unconscious body from the car. They're placing him on the ground. Now, after that, more responders show up and appear to be rendering aid to the victim.\n\nNow, the Department of Homeland Security released a statement on the shooting about 12 hours after it happened, where they said in part, they were conducting, quote, \"targeted surveillance on the last known address of an illegal alien.\" They said they saw a person leave in a car and tried to pull them over when they claim the car, quote, \"attempted to flee\" and, quote, \"fearing for public safety,\" an officer opened fire.\n\nSo, we've got CNN national security analyst Juliette Kayyem here.\n\nAnd, Juliette, just so I can give people a little more detail about what happened. The Maine Immigrants Rights Coalition has said that the man was leaving for work when this shooting happened. And they also said that he was authorized to work in the U.S. Like he -- as in had a Social Security Number. Federal officials haven't confirmed that.\n\nCan you talk about what questions -- I guess, how does this work, right? We saw with ICE sometimes, if there's a shooting, you're not going to get access right away to investigate. Like states are at odds with them. So, how could this work?\n\nJULIETTE KAYYEM, CNN NATIONAL SECURITY ANALYST: So, I'll say how it should work and then how it's likely to work just given the standard operating procedure by this Department of Homeland Security. When there is a killing like this that appear -- you know, that is -- that is at the -- at the best narrative of it is that it was a mistake, right? Because what people -- what your audience needs to understand is that even if everything were true, that he was fleeing, that he wasn't authorized to work here, that he wasn't obeying orders, you still don't kill. Good law enforcement doesn't kill in that situation.\n\nICE kind of knows that. In their statement in the morning, they don't even say anymore that he was a threat to the law enforcement agent. They say he was a general threat to public safety. That could be true of any of us, right?\n\nSo, I suspect that ICE and DHS are going to do what they always do, which is blame the victim and hunker down. And then what you're going to see, in particular, this is interesting, because of the politics of Maine right now, I know it was your political story last week, you're going to see very aggressive local and state efforts to try to understand and unearth what happened because, obviously, Senator Collins voted for this massive increase by ICE. So, this will get political very, very fast (ph).\n\nCORNISH: Right. And even if that wasn't going on, there's protesters already hitting the streets.\n\nCORNISH: Already calling for ICE to get out of their town. You know, people didn't really know that while things were going down in Minnesota, there was a movement against ICE in Maine as people were frustrated with the enforcement that they saw there.\n\nCORNISH: I just want to play for you a witness who spoke to the Associated Press, because I think this is the kind of story that can spread quite quickly in this situation. Here he is.\n\nUNIDENTIFIED MALE: He started coming down the street, again, driving. I don't know how. And then the SUV hit him again. Try to -- and then that's when he stopped. An ICE agent got out, tried to open the door and had a difficult time, but eventually opened it, pulled the guy out. His face was bloody. His head was bloody.\n\nCORNISH: This is not some wild-eyed protester telling this story, right? And ICE was supposed to be, we were told, operating differently in the aftermath of the killing of those citizens in Minnesota. Is it operating differently or is this kind of revealing that there's a little bit of a standing operating procedure here?\n\n[06:35:07] KAYYEM: Yes. So, Secretary Mullen, the new secretary of the Department of Homeland Security, vowed for changes in what was going on. They saw the political protests across the aisle regarding Minnesota. I think a better way to put it is they just want stealth. That you had Secretary Noem, the previous secretary of Homeland Security, with her sort of, you know, behavior that got a lot of bad attention.\n\nWhat you're seeing here is the same activities, the same lack of training, the same lack of standard operating procedures regarding, in particular, vehicle engagements. Because what I'm seeing from my viewpoint, I'm seeing unidentified ICE agents masked. So, we have -- we only know that they're ICE now. Who put themselves in front of vehicles. So then, all of a sudden, you are now -- you're not deescalating, you're escalating, all for what, right? I mean the guy is in a car. You can get him a different way than shooting into the car.\n\nSo, I think this is a test of whether we should believe the new secretary in terms of training, in terms of how they're scaling ICE. But right now, we're not seeing much transparency, not seeing much from him, certainly not seeing much from the White House, which continues to push a numbers game, right? They just want the numbers. Well, the numbers are getting you this -- these deaths. It's the numbers. It's the push for quotas that is not aligned with the public safety threat that is -- that is getting these killings.\n\nCORNISH: Juliette Kayyem, thank you so much for talking with us about that potential investigation, what's going on.\n\nI want to turn to my panel because the calls for accountability are growing over these shootings. I mean, again, two in a month. Last week, a 52-year-old man killed in the streets of Houston. The League of United Latin American Citizens issued a statement condemning the shootings. And they say, quote, \"same tactics, same excuses\" and, quote, \"we're tired of hearing them.\"\n\nNow, local officials are saying they're also being stonewalled in the Texas investigation.\n\nSEAN TEARE, HARRIS COUNTY, TEXAS DISTRICT ATTORNEY: It is not normal that we're not invited to the scene moments after the shooting. It is not normal that I'm have to -- I'm having to issue subpoenas a week later. And it's certainly not normal that I don't know the identity of any of the agents that were involved in this shooting seven days later.\n\nCORNISH: So, group chat is back.\n\nAnd like Maine, there is a Senate race going on here. So, I wanted to talk a little bit about the politics, since we just heard about the effects of the investigation. And every week I have you here, and I want to know what's going on\n\nwith the Latino community, because you specifically are working with so many races on that issue. And I gather you were actually in a summit. Who was in the summit, and what were they talking about? Did ICE come up?\n\nCHUCK ROCHA, DEMOCRATIC STRATEGIST: Yes, it came up a lot. We hosted the nation's largest Latino voter summit last week in D.C. Two hundred Latino leaders came, including three senators and six congressmen, because this is on the tip of everybody's thinking right now, because it's not just Texas or Florida where you think about Latino voters. There are 15 congressional races that are marginal, that could flip either way, that have more than a majority Latino population, and four or five Senate races. So, this is going to be a big conversation.\n\nAnd what we're seeing is, people talked about anxiety. Folks understood that there's been an economic anxiety in lots of communities. But then you overlay the anxiety of ICE agents that they really don't understand what they're doing or who's at risk. They were under the --\n\nCORNISH: Or they understand it more than ever right now, I mean especially in border states.\n\nROCHA: They understood when they, some of them who voted for Trump, and there were Republicans at our summit --\n\nCORNISH: Yes. And can I show an exit poll while you're talking about this?\n\nROCHA: Please. Please.\n\nCORNISH: This is the Texas exit poll 2024 Latino voter. It's Texas. So, of course, Trump is winning, but it's winning Latino voters here. And I guess the question I want to know is, Democrats have, in the past, misjudged Latino voters --\n\nCORNISH: Thinking they care about things they don't care about. Thinking immigration is the thing they care the most about.\n\nCORNISH: And they have proven not to be. They've proven to be economic voters. But is there something about repeated killings, about seeing like people stand up and say, my father didn't deserve to die this way, that might be affecting that calculus?\n\nROCHA: That's what's really special about our summit is we had Republicans there on stage talking about this. Republican Hispanics, Democratic Hispanics and independents. And what they said is, even folks who voted for Donald Trump, who were at my summit, said, look, we want the border to be secure. We would like bad people who want to harm our country to be deported, but not what we're seeing right now.\n\nROCHA: And that's an overarching theme.\n\nCORNISH: In the Texas race right now we're finding, at least in some polls, I'll give you \"The New York Times\"/Siena poll finds that support for Trump has imploded. Also, new polls finding that Talarico, James Talarico, the Democrat, is leading Ken Paxton among Hispanics by 32 points. Again, I might not look askance of this in another state, but, Ashley, is this a Texas problem, is this a Paxton problem or is this Trump's problem with Latino voters?\n\nASHLEY DAVIS, FORMER HOMELAND SECURITY OFFICIAL: I'm not sure yet, but I am not -- I would like to know if you think that poll number is real, because, I mean, there's all ways you can poll people that some, you know, who their polling really matters. So, I mean, do you think it's that much today.\n\nCORNISH: Yes. I'll show you independents.\n\nCORNISH: Choice for Texas senate among independents. Talarico, 58 percent. Paxton, 31st -- 31 percent. But let me show you -- show you one. Most important voting issue among Texas Hispanics. Immigration is in third place, OK?\n\nCORNISH: The economy is first, cost of living and then immigration down below.\n\nROCHA: Everybody knows, and I've been open about this, I work for James Talarico, and I want to make one point. Is in June, and Nicholas knows this, in June the campaign spent $1 million on Spanish advertising around the World Cup to talk about economic anxiety and these ICE fears in our community. That's never been done in Texas.\n\nAnd we're seeing the same thing in internal polls as you're seeing now, is there's an anxiety in Texas. I'm not saying the polls will be there at the end of the day --\n\nROCHA: But right now, people are mad.\n\nCORNISH: Then there's a lot their --\n\nDAVIS: But I think they're mad -- upset about the economy much more than -- going back to Audie's point, more than --\n\nROCHA: It's cost and corruption. Cost and corruption across the board. We see that in every poll.\n\nCORNISH: That's the phrase you're using. DAVIS: Yes, is that your (INAUDIBLE)?\n\nCORNISH: Does it help that Paxton has problems? Meaning, his personal problems have made it to the headlines. It started with his wife announcing their, quote, \"biblical divorce\" way back when. But the headlines have persisted on my feed. I'm seeing images of people claiming that he's gallivanting around with whoever he's dating instead of being back home campaigning.\n\nNICHOLAS WU, CONGRESSIONAL REPORTER, \"SEMAFOR\": Yes, Democrats are really banking on a lot of these personal scandals dragging down Paxton. And as we're seeing in some of that polling, driving independents towards Talarico. I mean, it's interesting to see the divergence in the way we look at these statewide races in Texas. The Senate race is seen as very close. The gubernatorial race, maybe not quite as much.\n\nAnd, to me, Texas, in a lot of ways, sums up the fundamental questions of the midterms this year. And that's which way Latino voters, independents are going to be going --\n\nWU: After we saw such a big shift towards Trump in '24. Whether they're going to snap back toward Democrats or not.\n\nCORNISH: And this is somewhat with Paxton, where he, you know, as attorney general, because he's fought so hard for Trump, that has put him in a position oftentimes of accusing Latino activists in Texas of nefarious things, like around voting or whatever. So, I don't know how you build a relationship with voters that you've been antagonizing.\n\nDAVIS: Well, here's my thought on Texas. And you know it much better than I do in regards to the Senate race. Abbott's on the ballot. Are people really going in and going to vote for Abbott and vote for Talarico? I don't think that happens.\n\nROCHA: All I'm going to say is John Cornyn and Paxton just had a horrible primary where $100 million was spent on Republican on Republican violence. I don't think every one of them come back and vote for a James Talarico, but I think a lot of them skip that because they're still mad, within the Republican Party.\n\nCORNISH: Maybe just don't check the box?\n\nAll right, next, we're going to talk about the pick to replace the late Lindsey Graham. They didn't look far. Why South Carolina's governor turned to Graham's family.\n\nPlus. (BEGIN VIDEO CLIP)\n\nUNIDENTIFIED MALE: Well, I just heard from some other sources that was an older photo. So, I really don't know. I haven't talked to Mitch.\n\nCORNISH: That photo of Mitch McConnell has everyone just asking more questions. We're going to tell you what some reporters discovered when they looked into it.\n\nCORNISH: So, an unexpected solution to the question of who will fill the late Senator Lindsey Graham's Senate seat, at least for the next couple of months. It is his sister. Graham's younger sister, Darline Graham Nordone, will finish her brother's Senate term. South Carolina's governor asked her to take on the job early Sunday morning, just hours after her brother's passing.\n\nDARLINE GRAHAM NORDONE, LINDSEY GRAHAM'S SISTER: Now to Lindsey, I miss you more than I can even put into words, but I'm going to do this. I got it. Thank you.\n\nCORNISH: Joining me now, the former chairman of the South Carolina Republican Party, Chad Connelly.\n\nThank you so much for being here. Sorry for your loss. I'm sure you knew the senator well.\n\nDarline, obviously, they have a close relationship. He ended up adopting her when they were young so he could share their military benefits. Has she been someone who's always been on the campaign trail as well? What's her role in his political life?\n\nCHAD CONNELLY, FORMER CHAIRMAN, SOUTH CAROLINA REPUBLICAN PARTY: Well, good morning, Audie. Thanks for having me. I'm glad to be here.\n\nDarline has appeared occasionally, not often, but when she speaks, and she's spoken of Lindsey and tells the story of how, when their parents died, he just took her under his wing. He adopted her and he really raised her. It's special. And when people hear what Darline's had to say about Lindsey, you immediately know all you need to know about his character. He's always had a servant's heart. So, she hasn't appeared all the time in every cycle. But when she's appeared and spoken on his behalf, it's been powerful.\n\nCORNISH: Here's what he had to say about her in an interview in 2015.\n\nLINDSEY GRAHAM, LATE REPUBLICAN SOUTH CAROLINA SENATOR: Of all the things that have happened in my life, her turning out so well is the highlight of it.\n\nAnd if she took a role on, she would be a great representative of our country. I can't think of a better person to represent our country in an event than my sister.\n\nCORNISH: Is this a temporary appointment? Is there any indication that she is someone who could actually hold on to the seat beyond this moment?\n\nCONNELLY: I believe it is temporary, Audie. And I believe that the governor made an excellent pick. I don't think Darline has any long- term aspirations. Therefore, her being a placeholder for the last few months of this term for Lindsey is really appropriate.\n\nOur state law requires that there's a trigger, and that is a sudden death or resignation. So, the second Tuesday after that filing opens. That's a week from today. It closes in the next week. The primary is on August 11th. The runoff's on August 25th. So, the process is a really fast ramp. And so I think you're going to see a lot of people hop in.\n\nI don't think Darline wants to run or cares about being there long term. I think she cares about serving and honoring Lindsey's work in his memory.\n\nCORNISH: Top two names you're watching? Yesterday we heard someone mention Richard Perry, Lindsay's chief of staff. But are there other people who are starting to make noises and ask around?\n\nCONNELLY: Well, Richard's awesome and he probably leads one of the best staffs ever assembled on Capitol Hill. The team will surround Darline. I don't know if Richard runs for this. I've heard several names who just ran for governor, Ralph Norman, of course, Mark Lynch, who ran against Lindsey in the primary. I think that Pamela Evette, the lieutenant governor, could hop in. Nancy Mace.\n\nBut I'm also hearing Russell Fry and Sheri Biggs, who are sitting congressman right now. They'd have to obviously resign their nomination, which would trigger another special. But there are a lot of names floating around, and it'll be a competitive primary.\n\nBut this happens fast. So, you got to have statewide name I.D., and you're going to have to have money.\n\nCORNISH: I'm glad you're bringing up Congress, because we are going to talk about those thin margins next.\n\nChad Connelly, thank you so much for being with us. CONNELLY: Thank you. God bless. Have a great day.\n\nWe've also been following Senator Mitch McConnell's health. Here's the thing. It's taken a twist. There are some photos that he released showing that he is OK, and yet the internet has responded saying that they have questions, thinking that the picture is fake.\n\nTrying to point to an imagined picture of him from 2023, which, frankly, no one has actually tracked down this mythological other picture. So, \"The Washington Post\" got the original image that he sent out. They confirmed the metadata that it was taken Sunday. And then there are some A.I. experts weighing in saying that there's no evidence to support that the image is A.I. generated.\n\nThe group chat is back.\n\nAnd, you know, I want to go to the person who first raised concerns about McConnell's health, Laura Loomer, foremost intelligence officer outside of the White House. And she said this. \"Why does the text on the newspaper McConnell's staff claim he's holding look A.I. generated?\" She says, \"the text is blurry.\" \"The tag on his shirt is blurred.\" This is all her interpretation of the photo. \"Also, if he's in the hospital, why is there no IV connected to monitor his health?\" Quote, \"this is such B.S. His staff are liars.\"\n\nSo, I wanted to lead with this because I don't have a long list of just like Democrats being like, oh my gosh. Why is this coming from the right?\n\nDAVIS: Well, her, I mean, like, because I think that she's always --\n\nCORNISH: There's other people.\n\nDAVIS: No. But listen, the -- there's a lot of part on the right that don't like Mitch McConnell or the establishment of the Republicans. And she's one of them. She's been criticizing Mitch McConnell for years.\n\nBut here's -- at the end of the day, Mitch McConnell is not stepping down between now and November because he --\n\nCORNISH: Yes, he's already retiring.\n\nDAVIS: He's already retiring. There's no way they're going to let a Democrat governor appoint a senator, like they are -- you know, as they just did for South Carolina.\n\nDAVIS: So, in my mind, it doesn't matter. He's going to -- and Mitch McConnell, no matter how ill he is or not, he will stick it out until after Election Day.\n\nCORNISH: Yes. And we should say, she's not the only one. We've all become A.I. experts. And we're -- just looking back. I don't know if you remember when the White House -- I think it was the White House, but Republicans issued this Jeffries in a sombrero image, right? Sometimes it's more realistic than others. Jeffries in a sombrero. Then I remember Benjamin Netanyahu at one point was put out a video where he was grabbing a cup of coffee. People start counting the fingers on the cup of coffee. Oh, there's the sombrero. Here's the coffee. This was another one where people were like, is this real? We're going to look. We're going to double check and sleuth it out.\n\nAnd then lastly, Princess Kate. I don't know if anyone remembers Kate- gate when they put out this photo --\n\nCORNISH: And then immediately everyone starts counting fingers and legs, being, like, what is this? And this ended up causing some news agencies to say, the crown is not a trusted news source.\n\nCan anyone prove anything in the age of A.I.?\n\nWU: Well, it speaks to how, especially when it comes to the health of these members of Congress, the absence of information is what spawns a lot of these conspiracy theories. Like, you know, some of these members of Congress were not as transparent about their health. And in the -- you know, in the absence of any formal statements from them explaining what was going on --\n\nCORNISH: Yes, and he hasn't been seen since early June.\n\nWU: Exactly. Right. You have folks like Laura Loomer and other conspiracy theorists filling that vacuum.\n\nCORNISH: I think one of the things I'm wrestling with is the fact that, like, this could be helped by being more transparent. It could be helped by stepping down sooner and --\n\nROCHA: Or having age limits on Congress.\n\nROCHA: I'm not talking about 55 or 65. I'm talking about, let's put it at 75.\n\nCORNISH: You know a lot of Democrats would be gone if you said that.\n\nDAVIS: Yes, like, half your party.\n\nCORNISH: It would be the rapture at that age.\n\nDAVIS: Every single one of your chairmen.\n\nROCHA: It's a nonpartisan issue, folks.\n\nCORNISH: You would be the leftovers. You would be sorry in the Democratic --\n\nROCHA: Right, I am -- I am 57. I barely got out of bed this morning. I can't imagine doing this job at 70.\n\nCORNISH: OK. Listen, I want to talk to you guys about your group chats because the senators are back. They've got to deal with somebody who's passed away. Somebody who is ill. Congress is back. If somebody wanted to run for one of these seats, they might be told, sit down, brother, we can't lose a vote.\n\nWhat are you going to be watching for this week? What's in your group chat, if it's non-politics, it's OK. I won't hold it against you.\n\nWU: The thing in my group chat, you know, on top of, right, all these members of Congress coming back is this polling that showed that, you know, 41 percent of men under 30 thought they could score a penalty kick in the world goal --\n\nCORNISH: In the World Cup.\n\nWU: In the -- in the World Cup.\n\nWU: Kind of remarkable.\n\nCORNISH: So, like, all the couch athletes --\n\nCORNISH: Were like, I could do that.\n\nDAVIS: That have never played soccer.\n\nCORNISH: Yes, narrator, you can't do that. I don't know if you actually watch these guys running around for hours, but I haven't really met any average person who thinks they can. But, of course, it would be a young voter.\n\nROCHA: Look, on top of the world --\n\nCORNISH: Maybe that's how you can get voters, just stage penalty kick competitions.\n\nROCHA: I like this. You just heard me say we spent $1 million on soccer advertisement because this is where folks' eyes are. And the soccer's not in my group chat, but we were talking off camera about me explaining the -- how much the world loves soccer to my wife this weekend because we watched the game and she's like, this is the greatest thing I've ever watched. I'm like, well, people do this all over the world every day in the Euro League and other leagues.\n\nMy group chat is, I'm headed to L.A. tomorrow where over 1,000 Latino elected officials, non-partisan, are getting together to do the 50 year anniversary of NALEO, which is a big thing. CORNISH: Oh, interesting.\n\nROCHA: Because we've talked about the importance of the Latino vote. Well, all these elected officials are getting together. They all talk about ICE, but they don't talk a lot about the economy. I'm just happy that there's an organization that's bipartisan out there doing the hard work that are lifting -- these are --\n\nCORNISH: Is it really bipartisan, NALEO?\n\nROCHA: It really is. But if you think of it, 70 percent of the Latino elected officials in America are Democrat. I put that out there. It's just a fact. But most of these folks aren't congressmen. Most of them are your local city councilman, your local water treatment guide, the local dog catcher commissioner, whoever it is. Those are the folks I like having these conversations with.\n\nCORNISH: It's interesting because it feels like, you know, every minority or marginalized group in the U.S. has its point of like real political maturity. It happens every few years where there's a catalyst and then there's -- something shifts within that population. And I have wondered if, for some Latino voters, this is a catalyst for a shift in some way.\n\nROCHA: Both parties having to work to get our votes, a good thing for the community because then you really can extract power.\n\nROCHA: You can say, if you want our vote, come show us.\n\nCORNISH: And there are actually a lot of black activists right now who are complaining that they are not in this position right now.\n\nROCHA: Right. Exactly that. Exactly right.\n\nCORNISH: OK, Ashley, what about you?\n\nDAVIS: OK. We're going to show a picture here because I have become mom of the year.\n\nDAVIS: I have been given myself the award.\n\nROCHA: Who are these young men?\n\nDAVIS: My son -- my son's the light bulb in the middle that looks like me.\n\nCORNISH: Ah. A light bulb.\n\nROCHA: Oh, he looks just like you.\n\nCORNISH: This is the most mom thing to say.\n\nROCHA: Does he play soccer for Norway (ph). Hang on just a second. He looks like that gentleman on (INAUDIBLE).\n\nDAVIS: No, they're hockey players.\n\nDAVIS: But listen, myself and one other mom took all of these boys to the beach -- her name's Jodie Paige (ph) -- for a week, and we survived.\n\nCORNISH: (INAUDIBLE). Yes, you survived.\n\nDAVIS: And we cooked, we cleaned, and we worried they'd come home at night.\n\nROCHA: Here, I -- what?\n\nDAVIS: Well, you know, they're 17.\n\nCORNISH: You cooked and cleaned? That many people. They can clean.\n\nDAVIS: Seventeen eight-year-old boys. I know.\n\nCORNISH: Let them do the laundry.\n\nROCHA: Eighteen years old.\n\nCORNISH: You were outnumbered.\n\nDAVIS: And all they did was eat. Seventeen.\n\nCORNISH: How did you manage that? Was it just zone defense? Or, like, what's the --\n\nDAVIS: They were very respectful. No, they were very respectful. They were very good. We would do it again. But, you know, and they let us hang out a little bit.\n\nCORNISH: Well, you're hot mom Ashley.\n\nROCHA: But also, I have a question.\n\nCORNISH: I mean let's -- let's be fair. I think I can say that.\n\nDAVIS: I think Oliver's cringing right now.\n\nCORNISH: Well, sorry, Oliver. Sorry to that man. That's the situation you're in.\n\nROCHA: Wait just a second. I -- it's been a hot second since I was 17. Did these boys talk about politics? Do they talk about girls? Do they talk about soccer?\n\nCORNISH: No, they talk about hockey.\n\nDAVIS: They're sitting there saying, we can make that goal. Believe me, they are --\n\nDAVIS: I'm just kidding. But, I mean, yes, no, they don't -- they don't really talk about girls. It's like, you know, they talk about stuff.\n\nCORNISH: Oh, Ashley, come on.\n\nDAVIS: Well, in front of us, sometimes.\n\nCORNISH: Yes, in front of the two moms they did not talk about girls. I don't think that's how that went down.\n\nDAVIS: We asked a lot of questions.\n\nROCHA: The other thing is, are they moving away from this thing? Are they -- are they actually a movement?\n\nCORNISH: Yes, was it a phone free week?\n\nROCHA: Yes, that's what I wanted to know.\n\nDAVIS: No, it wasn't a phone free week.\n\nROCHA: Because I think -- I think these new kids today are understanding, just like, let's say folks in cigarettes back in the '70s or '80s, like, folks started understanding, well, maybe we don't want to eat all the hamburgers, or they're saying, maybe we shouldn't be on our phone and we can enjoy each other.\n\nCORNISH: I feel like I need to wheel a rocking chair out here for you. You're like, these kids.\n\nROCHA: It's a focus group.\n\nCORNISH: These -- like, you're leaning too far into this.\n\nDAVIS: Wait, we have one -- we have one more group chat.\n\nCORNISH: What is it? DAVIS: Chuck and I are going to the prom.\n\nROCHA: Oh, the tie? You like that? It's a yellow tie.\n\nCORNISH: These guys have reached their final form in the group chat where they are prom dates. It's -- I've only been on this show for a year and a half, and this is my finest moment.\n\nCORNISH: The marriage of Chuck and Ashley.\n\nOK, we actually have a lot of serious news coming up today. As we mentioned, the Senate is back. As we mentioned, there's all kinds of questions about ICE and these investigations. So, we want you to stick here with us at CNN.\n\nI'm Audie Cornish, and those headlines are next."
+    }
+  ]
+}

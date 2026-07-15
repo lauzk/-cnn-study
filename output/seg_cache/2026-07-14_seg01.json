@@ -1,0 +1,404 @@
+{
+  "date": "2026-07-14",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-14/segment/01",
+  "vocabulary": [
+    {
+      "word": "blockade",
+      "phonetic": "/blɒˈkeɪd/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "封锁",
+      "en": "an act or means of sealing off a place to prevent goods or people from entering or leaving",
+      "excerpt": "Later today, the blockade on Iranian ports is back on.",
+      "example_cn": "今天晚些时候，对伊朗港口的封锁将重新开始。"
+    },
+    {
+      "word": "reimburse",
+      "phonetic": "/ˌriːɪmˈbɜːrs/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "偿还，报销",
+      "en": "to pay back money to someone who has spent it for you or lost it",
+      "excerpt": "We are going to be reimbursed for protection.",
+      "example_cn": "我们将因保护而获得补偿。"
+    },
+    {
+      "word": "skirmish",
+      "phonetic": "/ˈskɜːrmɪʃ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "小规模战斗，冲突",
+      "en": "a short and unplanned fight, especially between small groups of soldiers",
+      "excerpt": "This is almost a military skirmish.",
+      "example_cn": "这几乎是一场军事小冲突。"
+    },
+    {
+      "word": "ceasefire",
+      "phonetic": "/ˈsiːsfaɪər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "停火",
+      "en": "an agreement to stop fighting for a period of time",
+      "excerpt": "Here's what it does not look like anymore: a ceasefire.",
+      "example_cn": "它看起来不再像停火了。"
+    },
+    {
+      "word": "escalation",
+      "phonetic": "/ˌeskəˈleɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "升级，扩大",
+      "en": "the increase in intensity or magnitude of something",
+      "excerpt": "That's why we're in a new series of a cycle of escalation.",
+      "example_cn": "这就是为什么我们陷入新一轮的升级循环。"
+    },
+    {
+      "word": "deter",
+      "phonetic": "/dɪˈtɜːr/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "威慑，阻止",
+      "en": "to discourage someone from doing something by making them realize the difficulties or unpleasant results",
+      "excerpt": "Iran and other regional actors were deterred from disrupting traffic.",
+      "example_cn": "伊朗和其他地区行为体被威慑而不敢扰乱交通。"
+    },
+    {
+      "word": "rupture",
+      "phonetic": "/ˈrʌptʃər/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "破裂，断裂",
+      "en": "to break or burst suddenly",
+      "excerpt": "We ruptured that entire system by attacking Iran in February.",
+      "example_cn": "我们通过二月份攻击伊朗破坏了整个系统。"
+    },
+    {
+      "word": "deplete",
+      "phonetic": "/dɪˈpliːt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "耗尽，减少",
+      "en": "to reduce the amount of something, especially a supply of energy, money, etc.",
+      "excerpt": "He is depleting, day by day, the Strategic Petroleum Reserve.",
+      "example_cn": "他日复一日地消耗战略石油储备。"
+    },
+    {
+      "word": "impunity",
+      "phonetic": "/ɪmˈpjuːnəti/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "不受惩罚，免罪",
+      "en": "exemption from punishment or freedom from the injurious consequences of an action",
+      "excerpt": "Iran can really strike the entire region with impunity.",
+      "example_cn": "伊朗可以真正地不受惩罚地打击整个地区。"
+    },
+    {
+      "word": "scathing",
+      "phonetic": "/ˈskeɪðɪŋ/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "严厉的，尖刻的",
+      "en": "severely critical and unsparing",
+      "excerpt": "issuing a scathing rebuke against the president's IRS settlement.",
+      "example_cn": "对总统的国税局和解协议发出严厉的谴责。"
+    },
+    {
+      "word": "sanction",
+      "phonetic": "/ˈsæŋkʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "制裁，处罚",
+      "en": "a threatened penalty for disobeying a law or rule",
+      "excerpt": "slapping the lawyers who brought the lawsuit with sanctions",
+      "example_cn": "对提起该诉讼的律师实施制裁。"
+    },
+    {
+      "word": "adverseness",
+      "phonetic": "/ədˈvɜːrsnəs/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "对抗性，对立",
+      "en": "the state of being opposed or conflicting",
+      "excerpt": "There was never an adverseness between the parties.",
+      "example_cn": "双方之间从未存在对抗性。"
+    },
+    {
+      "word": "controversy",
+      "phonetic": "/ˈkɑːntrəvɜːrsi/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "争议，争论",
+      "en": "a prolonged public dispute concerning a matter of opinion",
+      "excerpt": "There was never a case or controversy.",
+      "example_cn": "从未存在案件或争议。"
+    },
+    {
+      "word": "prevail",
+      "phonetic": "/prɪˈveɪl/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "获胜，占上风",
+      "en": "to prove more powerful than opposing forces; be victorious",
+      "excerpt": "There was never a question as to who would prevail.",
+      "example_cn": "谁将获胜从来都不是问题。"
+    },
+    {
+      "word": "rebuke",
+      "phonetic": "/rɪˈbjuːk/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "指责，谴责",
+      "en": "an expression of sharp disapproval or criticism",
+      "excerpt": "issuing a scathing rebuke against the president's IRS settlement.",
+      "example_cn": "对总统的国税局和解协议发出严厉的谴责。"
+    },
+    {
+      "word": "manipulate",
+      "phonetic": "/məˈnɪpjuleɪt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "操纵，控制",
+      "en": "to control or influence something or someone in a clever or dishonest way",
+      "excerpt": "a bad faith attempt to manipulate the judicial process.",
+      "example_cn": "恶意操纵司法程序的企图。"
+    },
+    {
+      "word": "judicial",
+      "phonetic": "/dʒuːˈdɪʃl/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "司法的，审判的",
+      "en": "relating to the administration of justice or the function of a judge",
+      "excerpt": "a bad faith attempt to manipulate the judicial process.",
+      "example_cn": "恶意操纵司法程序的企图。"
+    },
+    {
+      "word": "veto",
+      "phonetic": "/ˈviːtoʊ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "否决权",
+      "en": "a constitutional right to reject a decision or proposal made by a law-making body",
+      "excerpt": "He's one of those folks who's wanted this to go away.",
+      "example_cn": "他是希望这件事消失的人之一。"
+    },
+    {
+      "word": "predisposition",
+      "phonetic": "/ˌpriːdɪspəˈzɪʃn/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "倾向，偏好",
+      "en": "a tendency to behave in a particular way or to suffer from a particular condition",
+      "excerpt": "I've got a positive predisposition towards Blanche.",
+      "example_cn": "我对布兰奇有积极的倾向。"
+    },
+    {
+      "word": "ramification",
+      "phonetic": "/ˌræmɪfɪˈkeɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "后果，影响",
+      "en": "a complex or unwelcome consequence of an action or event",
+      "excerpt": "There's no ramifications that you can put on him.",
+      "example_cn": "你无法对他施加任何后果。"
+    },
+    {
+      "word": "accountability",
+      "phonetic": "/əˌkaʊntəˈbɪləti/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "问责，责任",
+      "en": "the fact or condition of being responsible for one's actions",
+      "excerpt": "Attorneys for Renee Good say this is a step towards accountability.",
+      "example_cn": "蕾妮·古德的律师表示这是迈向问责的一步。"
+    },
+    {
+      "word": "mishandle",
+      "phonetic": "/ˌmɪsˈhændl/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "处理不当",
+      "en": "to deal with something incorrectly or ineptly",
+      "excerpt": "The survivors say he mishandled the release of the Epstein files.",
+      "example_cn": "幸存者说他处理爱泼斯坦文件的发布不当。"
+    },
+    {
+      "word": "merger",
+      "phonetic": "/ˈmɜːrdʒər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "合并",
+      "en": "the combination of two or more companies into one",
+      "excerpt": "one of the biggest media mergers in history.",
+      "example_cn": "历史上最大的媒体合并之一。"
+    },
+    {
+      "word": "acquisition",
+      "phonetic": "/ˌækwɪˈzɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "收购",
+      "en": "the buying of one company by another",
+      "excerpt": "Paramount's proposed acquisition of Warner Bros. Discovery.",
+      "example_cn": "派拉蒙拟收购华纳兄弟探索公司。"
+    },
+    {
+      "word": "encounter",
+      "phonetic": "/ɪnˈkaʊntər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "遭遇，冲突",
+      "en": "a meeting, especially one that is unexpected or violent",
+      "excerpt": "a deadly encounter with ICE officers",
+      "example_cn": "与ICE官员的致命遭遇。"
+    },
+    {
+      "word": "fatally",
+      "phonetic": "/ˈfeɪtəli/",
+      "pos": "adv.",
+      "level": "六级",
+      "cn": "致命地",
+      "en": "in a way that causes death",
+      "excerpt": "the ICE officer who fatally shot a man in Maine",
+      "example_cn": "在缅因州开枪打死一名男子的ICE官员。"
+    },
+    {
+      "word": "transit",
+      "phonetic": "/ˈtrænzɪt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "运输，通行",
+      "en": "the carrying of people or goods from one place to another",
+      "excerpt": "secure transit through the Strait of Hormuz",
+      "example_cn": "确保通过霍尔木兹海峡的通行安全。"
+    },
+    {
+      "word": "legitimize",
+      "phonetic": "/lɪˈdʒɪtəmaɪz/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "使合法化",
+      "en": "to make something legitimate or acceptable",
+      "excerpt": "legitimizing that demand",
+      "example_cn": "使那个要求合法化。"
+    },
+    {
+      "word": "concession",
+      "phonetic": "/kənˈseʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "让步",
+      "en": "something that is granted, especially in response to demands",
+      "excerpt": "too proud, too embarrassed to make this concession now",
+      "example_cn": "现在太骄傲、太尴尬而无法做出这个让步。"
+    },
+    {
+      "word": "deterrent",
+      "phonetic": "/dɪˈtɜːrənt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "威慑因素",
+      "en": "a thing that discourages or is intended to discourage someone from doing something",
+      "excerpt": "Iran and other regional actors were deterred from disrupting traffic.",
+      "example_cn": "伊朗和其他地区行为体被威慑而不敢扰乱交通。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "The deal granted Trump and his family tax immunity and a $1.8 billion fund.",
+      "cn": "该协议授予特朗普及其家人税收豁免权和18亿美元基金。",
+      "structure": "主语(The deal) + 谓语(granted) + 间接宾语(Trump and his family) + 直接宾语(tax immunity and a $1.8 billion fund)",
+      "analysis": "简单句，谓语granted后接双宾语。"
+    },
+    {
+      "en": "The judge now calling it a bad faith attempt to manipulate the judicial process.",
+      "cn": "法官现在称其为恶意操纵司法程序的企图。",
+      "structure": "主语(The judge) + 谓语(calling) + 宾语(it) + 宾语补足语(a bad faith attempt to manipulate the judicial process)",
+      "analysis": "现在分词短语作谓语，省略了be动词，实际为现在进行时。"
+    },
+    {
+      "en": "The facts before this court demonstrate that there was never an adverseness between the parties.",
+      "cn": "本法院面前的事实表明，双方之间从未存在对抗性。",
+      "structure": "主语(The facts) + 定语(before this court) + 谓语(demonstrate) + 宾语从句(that there was never an adverseness between the parties)",
+      "analysis": "主句包含一个that引导的宾语从句。"
+    },
+    {
+      "en": "The main thing that allowed ships to transit through the Strait of Hormuz is that Iran and other regional actors were deterred from disrupting traffic.",
+      "cn": "允许船只通过霍尔木兹海峡的主要因素是伊朗和其他地区行为体被威慑而不敢扰乱交通。",
+      "structure": "主语(The main thing) + 定语从句(that allowed ships to transit through the Strait of Hormuz) + 系动词(is) + 表语从句(that Iran and other regional actors were deterred from disrupting traffic)",
+      "analysis": "主句包含一个定语从句和一个表语从句。"
+    },
+    {
+      "en": "We ruptured that entire system by attacking Iran in February and removing any incentive they had to restrain themselves.",
+      "cn": "我们通过二月份攻击伊朗并消除他们自我克制的任何动机，破坏了整个系统。",
+      "structure": "主语(We) + 谓语(ruptured) + 宾语(that entire system) + 方式状语(by attacking Iran in February and removing any incentive they had to restrain themselves)",
+      "analysis": "简单句，by引导的介词短语作方式状语，其中包含一个定语从句修饰incentive。"
+    },
+    {
+      "en": "The only reason it may not last as long as Iraq and Afghanistan is that there are countdown clocks adding pressure to Trump.",
+      "cn": "它可能不会像伊拉克和阿富汗那样持久的唯一原因是存在倒计时时钟给特朗普增加压力。",
+      "structure": "主语(The only reason) + 定语从句(it may not last as long as Iraq and Afghanistan) + 系动词(is) + 表语从句(that there are countdown clocks adding pressure to Trump)",
+      "analysis": "主句包含一个定语从句和一个表语从句。"
+    },
+    {
+      "en": "With the attacks resuming, we're also depleting, day by day, our stores of missile defense interceptors.",
+      "cn": "随着攻击的恢复，我们也日复一日地消耗着导弹防御拦截器的库存。",
+      "structure": "伴随状语(With the attacks resuming) + 主语(we) + 谓语(are depleting) + 宾语(our stores of missile defense interceptors) + 插入语(day by day)",
+      "analysis": "简单句，with复合结构作伴随状语。"
+    },
+    {
+      "en": "When those go to zero -- and they could, if we keep fighting, going for another month or two -- it means Iran can hit whatever they want in the region.",
+      "cn": "当这些库存归零时——如果我们继续战斗一两个月，它们可能会归零——这意味着伊朗可以打击该地区他们想要的任何目标。",
+      "structure": "时间状语从句(When those go to zero) + 插入语(and they could, if we keep fighting, going for another month or two) + 主句(it means Iran can hit whatever they want in the region)",
+      "analysis": "复合句，包含时间状语从句、条件状语从句（插入语中）和宾语从句（whatever引导）。"
+    },
+    {
+      "en": "The judge accusing the president and attorney general, Todd Blanche, of misusing the courts, issuing a scathing rebuke against the president's IRS settlement.",
+      "cn": "法官指控总统和司法部长托德·布兰奇滥用法院，对总统的国税局和解协议发出严厉谴责。",
+      "structure": "主语(The judge) + 谓语(accusing) + 宾语(the president and attorney general, Todd Blanche) + 宾语补足语(of misusing the courts) + 伴随状语(issuing a scathing rebuke against the president's IRS settlement)",
+      "analysis": "现在分词短语作谓语，伴随状语表示同时发生的动作。"
+    },
+    {
+      "en": "The judge isn't just talking; she's dropping the hammer by slapping the lawyers who brought the lawsuit with sanctions and dragging acting attorney general Todd Blanche straight to the ethics board.",
+      "cn": "法官不只是说说而已；她正在采取严厉措施，对提起该诉讼的律师实施制裁，并将代理司法部长托德·布兰奇直接拖到道德委员会。",
+      "structure": "分号连接两个并列句。第一句：主语(The judge) + 谓语(isn't just talking)；第二句：主语(she) + 谓语(is dropping the hammer) + 方式状语(by slapping the lawyers who brought the lawsuit with sanctions and dragging acting attorney general Todd Blanche straight to the ethics board)",
+      "analysis": "并列句，第二句包含by引导的介词短语作方式状语，其中包含一个定语从句修饰lawyers。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "美伊冲突与霍尔木兹海峡",
+      "content": "美国对伊朗实施新封锁，特朗普提出对通过霍尔木兹海峡的船只收取20%保护费。伊朗外长阿拉格奇回应称伊朗一直是海峡的守护者，并暗示收费合理但20%过高。分析人士指出，美国此举可能使局势升级，且美国海军此前未能有效保护船只。",
+      "keywords": "Strait of Hormuz, blockade, protection fee, Iran, Trump, escalation"
+    },
+    {
+      "title": "特朗普IRS和解协议被法官驳回",
+      "content": "联邦法官驳回特朗普与国税局的和解协议，该协议给予特朗普及其家人税收豁免和18亿美元基金。法官称该协议是恶意操纵司法程序，并对相关律师实施制裁，将代理司法部长布兰奇提交道德委员会。此事可能影响布兰奇的司法部长确认听证。",
+      "keywords": "IRS settlement, bad faith, judicial process, Todd Blanche, confirmation hearing"
+    },
+    {
+      "title": "ICE执法致人死亡事件",
+      "content": "缅因州发生ICE官员枪杀一名男子事件，国土安全部称官员出于公共安全考虑。当地官员要求联邦政府给出答案。此前一周内已发生两起致命ICE枪击事件，可能影响关键选民群体。",
+      "keywords": "ICE, shooting, Maine, public safety, accountability"
+    },
+    {
+      "title": "爱泼斯坦档案处理争议",
+      "content": "爱泼斯坦幸存者发布视频，呼吁参议员拒绝托德·布兰奇的司法部长提名，称其处理爱泼斯坦档案不当，泄露受害者个人信息。参议院司法委员会民主党人将邀请幸存者作证。",
+      "keywords": "Epstein files, survivors, Todd Blanche, confirmation, privacy"
+    },
+    {
+      "title": "媒体合并案面临法律挑战",
+      "content": "12个州的总检察长提起诉讼，阻止派拉蒙收购华纳兄弟探索公司，认为该交易会损害竞争。派拉蒙表示将抗诉。华纳兄弟探索公司是CNN的母公司。",
+      "keywords": "media merger, Paramount, Warner Bros. Discovery, antitrust, lawsuit"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nTrump Orders New Blockade, Offers Ships 20% Protection Fee; Judge Rips Trump's IRS Lawsuit: It was in 'Bad Faith'. Aired 6-6:30a ET\n\nAired July 14, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nBRIAN ABEL, CNN ANCHOR: -- on one knee while she was being rescued and asked her to marry him. Some good news out of this situation: She said yes.\n\nAll right. That is quite the story there. Interesting timing. That does it for us CNN HEADLINE EXPRESS. I'm Brian Abel. CNN THIS MORNING with Audie Cornish starts right now.\n\nAUDIE CORNISH, CNN ANCHOR: Homeland security says the ICE officer who fatally shot a man in Maine was, quote, \"fearing for public safety.\" So, what happened in the moments right before the gunfire?\n\nUNIDENTIFIED FEMALE: There's a dead body across the street from my house. And that is a human being.\n\nCORNISH: And President Trump offers to protect ships in the Strait of Hormuz for a 20 percent fee. How exactly would that work?\n\nAnd the late Lindsey Graham's sister has been appointed to his seat after his sudden death. Will this be a short- or a long-term visit?\n\nAnd Senator Mitch McConnell posts a recovery picture. The Internet has questions. Seriously, what's a guy got to do to prove he's alive in the age of A.I.?\n\nDONALD TRUMP, U.S. PRESIDENT: And they have a little capability, but they don't have any capability for us. This is almost a military skirmish.\n\nCORNISH: So, now it's a skirmish. Here's what it does not look like anymore: a ceasefire.\n\nGood morning, everybody. I'm Audie Cornish. So, remember that memorandum of understanding? Feels like ages ago. Last night, the U.S. launched a third night of strikes designed to stop Iran's ability to attack commercial ships.\n\nLater today, the blockade on Iranian ports is back on. Video here showing ports on fire across Southern Iran as both sides declare control over the Strait of Hormuz.\n\nPresident Trump says he wants his cut. Trump said on social media the U.S. will now, quote, \"be reimbursed at the rate of 20 percent on all cargo shipped through the strait.\"\n\nTRUMP: We're taking out all of their capability for anything having to do with the strait, with the Hormuz Strait. And I think, in the end, we will end up just controlling the whole thing.\n\nWe're protecting a very rich portion of the world. We're spending money. And so, what we've done is we are going to be reimbursed for protection.\n\nCORNISH: Joining me now, Harrison Mann, former U.S. Army major and former executive director of Defense Intelligence Agency's Middle East Africa Regional Center.\n\nThank you so much for being here. I'm glad you're here. I'm going to show you the cover of \"The New York Post,\" which under here, it says U.S. will be the \"guardian angel\" of the waterway.\n\nI usually don't pay my guardian angels. So, how does this work?\n\nHARRISON MANN, FORMER EXECUTIVE OFFICER, DEFENSE INTELLIGENCE AGENCY: This is -- this is just new -- new levels of desperation that I didn't -- couldn't -- couldn't have imagined a couple of months ago.\n\nI think we've got to remember that the free protection from the U.S. Navy has not been successful for the past several months. That's why we're in a -- in a new series of -- a cycle of escalation.\n\nOver the past week, the Navy has repeatedly tried to secure transit through the Strait of Hormuz. Iran has still been able to attack ships.\n\nSo, the protecting ships part of it we already know won't work.\n\nIs he actually going to charge fees? I doubt it. But he is doing something that's kind of dangerous for his own strategy, which is legitimizing that demand. We've repeatedly said -- Marco Rubio just two weeks ago said nobody can charge a passage through this international waterway.\n\nTrump is now saying, Oh, no, actually, that's fine. We're going to try and do it. CORNISH: Yes. Here's what Araghchi is saying, of Iran. He says the\n\npresident's absolutely right. And he tweets this: \"Whoever provides secure and safe passage of commercial vessels through the Strait of Hormuz should be compensated for this service. Iran has always been the guardian of the strait and will remain so forever.\"\n\nAnd then 20 -- 20 percent is, of course, too much, he says: \"We will be fair.\"\n\nBut to your point, in January, nobody was charging to go through the Strait of Hormuz. And now we are in a war about who can charge money to go through the Strait of Hormuz. That's what this war has yielded so far.\n\nMANN: Yes. Yes, we are -- we are so much worse off than we were before Trump started this illegal war. And now I really think it's a kind of a contest between Trump and Tehran about convincing Donald Trump of the reality of the situation, which is control of the strait is now a core interest for the Iranian government.\n\nMANN: Because it's, like, the only thing that they think they can still get out of this war. And it's something that Trump really just found out about a couple of months ago.\n\nAnd I think he's either too -- too proud, too embarrassed to make this concession now. But even while they're having this discussion through -- through combat, unfortunately, Iran benefits each day.\n\nCORNISH: Well, can I ask something?\n\nCORNISH: The president has been saying, Look, the U.S. actually has been, more or less, protecting and maintaining passage through the Strait of Hormuz, he said, going back 50 years.\n\nAnd I went to fact check this, and like, yes, indeed, Carter era on, certainly after the Iraq war, we had ships near the strait, because we were constantly sort of saying to the world, this is a free shipping lane.\n\nSo, is it something that the U.S. should be compensated for now, as the president is saying? He's saying, we've always been there. Maybe now we should be able to be up front about the cost of that.\n\nMANN: Yes, I mean, that could have been true in the past. But if anything, now it's the opposite. We've now cost the entire world and the region billions, if not trillions, of dollars by basically breaking the system that guaranteed safe passage.\n\nThe main thing that allowed ships to transit through the Strait of Hormuz is that Iran and other regional actors were deterred from disrupting traffic. We ruptured that entire system by attacking Iran in February and removing any incentive they had to -- to restrain themselves.\n\nCORNISH: Yes, I want to play for you. I know you care about forever wars, right? You were a person who very much is politically animated by the idea of the U.S. being trapped in forever wars and trying to prevent that.\n\nSome senators were asked about the state of the conflict last night on CNN. I want to play for you what they had to say.\n\nKAITLAN COLLINS, CNN ANCHOR: Is this a forever war?\n\nSEN. ROGER MARSHALL (R-KS): Not yet. And it's not going to be. I will guarantee you, you know, that this will not be --\n\nCOLLINS: How do you guarantee that?\n\nMARSHALL: -- be -- be a forever war. I think that, at some point in time, the bombing has to stop.\n\nSEN. CORY BOOKER (D-NJ): We are in a crisis that he doesn't know how to get out of. He's failed in his negotiations before this war. He signed an MOU that was stunningly incompetent in what they allowed to go on. And now, he is yet again in this war.\n\nCORNISH: Now, based on your answer earlier, I'm going to say you agree with Cory Booker, Democrat of New Jersey. But talk to me about what Senator Marshall had to say when he said, No, not yet. That's not where we are.\n\nMANN: So, it's definitely a war with no end in sight. And it's a war that the Trump administration has no idea how to end. The -- I don't even want to say this is a glimmer of hope. But the only reason it may not last as long as Iraq and Afghanistan is that there are countdown clocks adding pressure to Trump.\n\nHe is depleting, day by day, the Strategic Petroleum Reserve, which he's expanding to keep the price of oil and gas down.\n\nWith the attacks resuming, we're also depleting, day by day, our stores of missile defense interceptors. When those go to zero -- and they could, if we keep fighting, going for another month or two -- it means Iran can hit whatever they want in the region.\n\nCORNISH: Did you say a month or two?\n\nMANN: So, in the -- the one month of intense fighting before the April 7 ceasefire, I think CNN reported 30 percent of America's stockpiles globally were depleted. And they're not getting reconstituted --\n\nCORNISH: Replenished fast enough. MANN: -- very, very quickly. And so, you know, of that 30 percent globally, I don't know how much of that was in the Middle East. Right? We still need stuff in Europe. We still need stuff in -- in Asia.\n\nAnd so, if we go back to -- to full-fledged war, which I think Trump is still trying to avoid, we could easily get to the point where Iran can really strike the entire region with impunity, even more than it already does.\n\nSo, even this, this kind of not quite ceasefire, not quite full -- full-fledged war stage that we're in still builds pressure on Trump every day.\n\nAnd so, that -- that's the only reason that he probably can't draw this out for years and years.\n\nCORNISH: OK. Harrison, we're, of course, going to have you back, especially if it turns out we're all going to be facing new charges on products from our own country's fees on the Strait of Hormuz.\n\nI really appreciate your time. Thank you.\n\nThis morning, we're also going to be talking about an ICE-involved shooting. It left one man dead, this time in Maine. Plenty of questions, very few answers.\n\nPlus, we're going to talk about this. The federal judge accusing the president and attorney general, Todd Blanche, of misusing the courts, issuing a scathing rebuke against the president's IRS settlement. So, the group chat is back to talk about it right after the break.\n\nCORNISH: So, remember when President Trump settled that lawsuit with the IRS? Well, a federal judge just blew it up.\n\nThe deal granted Trump and his family tax immunity and a $1.8 billion fund. The judge now calling it a bad faith attempt to manipulate the judicial process.\n\nSo, she said in the ruling, quote, \"The facts before this court demonstrate that there was never an adverseness between the parties. There was never a case or controversy. There was never a question as to who would prevail.\"\n\nAnd the judge isn't just talking. She's dropping the hammer by slapping the lawyers who brought the lawsuit with sanctions and dragging acting attorney general Todd Blanche straight to the ethics board.\n\nNow, this couldn't have come at a worse time for Blanche. He's scheduled for his permanent attorney general confirmation hearing tomorrow. To talk about this in the group chat, Nicholas Wu, congressional\n\nreporter for \"Semafor\"; Chuck Rocha, a Democratic strategist; Ashley Davis, former White House official under President George W. Bush.\n\nSo, I think when we all first started talking about this settlement, it was because there was supposed to be this fund to reimburse people who felt wronged by the government. We were all up in arms about January 6th rioters being compensated. That went away because of congressional blowback.\n\nBut this thing didn't. This idea that Trump could never be audited, and his family could never be audited ever again.\n\nDid the questions continue, and this judge just underlined it, or like what was happening in the background?\n\nNICHOLAS WU, CONGRESSIONAL REPORTER, \"SEMAFOR\": Well, the questions very much continued. I mean, this is something that Republicans on Capitol Hill, as well as Democrats, have had a lot of questions about.\n\nAnd as Attorney General [SIC] Todd Blanche, his confirmation process really heats up, there are lawmakers who want to hear what's actually going to happen with this.\n\nThis has been a problem for some of them, like Senator Tillis on the Judiciary Committee, who -- who has, you know, potentially a veto power over this confirmation. He's one of those folks who's wanted this to go away.\n\nCORNISH: One of the reasons why I wanted to talk about this is because since that story, we now know more about the president's income in 2025: 1.4 billion in crypto. There's a half a billion in his resorts. There's all kinds of money being made during this term. And anyone who might have questions about them would not be able to get them answered in an audit.\n\nIs the president -- was he pushing his luck with this one? And is the judge basically calling B.S.?\n\nASHLEY DAVIS, FORMER WHITE HOUSE OFFICIAL UNDER PRESIDENT GEORGE W. BUSH: I think he was pushing his luck, but I also think that he's -- fully expects, just like last time when he lost in 2020, that the IRS was going to go after he and his family, which they did. I mean, you can say it was politicized or not. I think that that will happen.\n\nCORNISH: Yes, he very much does. That's what's the point of the settlement.\n\nCORNISH: To say, IRS, you have wronged me. And this is our settlement.\n\nAnd the judge is, like, if you're negotiating with your own IRS, that's not much of a negotiation. DAVIS: Right. It's still -- yes. And I think that -- that the judge --\n\nI mean, obviously they'll probably appeal it.\n\nBut I also think with Blanche, it's not only this issue, which is going to be a big issue, but he also has all the Epstein stuff that's going to come up.\n\nCHUCK ROCHA, DEMOCRATIC STRATEGIST: You know, the American people are not huge fans of the IRS or any of their auditors, so they sympathize with him. And that's the smart move that he made on this.\n\nThe bad move that he made is that he's made more money in the first year of his presidency than anybody ever in the history of the presidency.\n\nAnd even regular folks at home who were looking at -- down the barrel of four months before a midterm can say, this looks a little shady. I can't have a ten-year exemption from the IRS. Why should anybody else, even the president? So, that's the bad move.\n\nCORNISH: As you mentioned, Todd Blanche is going to be getting a lot of questions. Back in May, when people were asking him about this, here's what he had to say.\n\nSEN. THOM TILLIS (R-NC): I've got a positive predisposition towards Blanche.\n\nBut if there's even a whiff of a -- of a lack of independence, then that could influence my vote.\n\nCORNISH: And apologies. That's Senator Thom Tillis. He's a Republican from North Carolina. You mentioned him earlier.\n\nHere's Todd Blanche talking in May.\n\nTODD BLANCHE, ACTING U.S. ATTORNEY GENERAL: The president has -- has -- has outside counsel, and there are counsel at the Department of Justice, not me. And there was negotiations. And this was what was -- what -- part of those negotiations included a discussion around the, you know, any pending audits.\n\nCORNISH: So, there's this weird thing where the president's former personal attorney is telling the public that, no, he has other new personal attorneys, and they're the ones who worked out this deal. We don't know each other. We're not friends. I don't know her. And I'm sure it's fine.\n\nWhat does this do to Blanche's nomination? I mean, you said there are people with questions, but does -- is there a vote problem? Especially when one Republican has passed away and another is not voting, because they're in the hospital?\n\nWU: The margin is pretty hard for them, especially on the Judiciary Committee, where because of the way things are, you know, they'll fill the seat that Lindsey Graham left pretty soon. As soon as today.\n\nCORNISH: Yes, which we're going to talk about.\n\nWU: Right. But, you know, on the committee, Senator Tillis still effectively exercises veto power because of their margin. So, he's a key person to watch on where he eventually lands on Blanche.\n\nCORNISH: But this judge is doing it right at the kind of worst time for Blanche. I mean, judges, they're not political, but like, basically, this thing that might have been in the background.\n\nDAVIS: This thing -- yes.\n\nCORNISH: And then he would have had to answer for Epstein.\n\nDAVIS: I would say there's going to be other things.\n\nCORNISH: Yes, no, for sure. And people might say that. I think the question is how voters feel about it.\n\nDAVIS: I think Blanche has been spending a lot of time with Thom Tillis. Everyone understands that he is the vote, and so --\n\nCORNISH: And we'll find out if that dating has worked?\n\nDAVIS: Yes. And, from what I understand, he does think that Blanche is a good guy. We'll see if it works.\n\nROCHA: For everybody at home, you should know that this senator we keep talking about and putting up there is not up for reelection. There's no ramifications that you can put on him. He's not going to serve anymore. He's not running for reelection. That's why he has this liberty to do whatever he wants.\n\nCORNISH: OK, you guys, after the break, we're going to talk more about acting Attorney General Todd Blanche, because he's got a confirmation hearing. As we said, Epstein survivors have something to say about it.\n\nAnd months after the killings of Alex Pretti and Renee Good, why investigators say they can finally move forward.\n\nCORNISH: It's now 23 minutes past the hour. This is your morning roundup.\n\nFederal prosecutors finally turning over key evidence in the killings of Renee Good and Alex Pretti, the two U.S. citizens shot fatally by federal agents during protests in Minnesota that happened earlier this year. Evidence was withheld for months.\n\nOfficials say they've now received hard drives, including statements and body cam footage. Attorneys for Renee Good say this is a step towards accountability.\n\nAnd a group of Epstein survivors released a video. They're calling on senators to reject the nomination of Todd Blanche for attorney general.\n\nUNIDENTIFIED FEMALE: Todd Blanche had a duty to protect us.\n\nUNIDENTIFIED FEMALE: Instead, he protected the people --\n\nUNIDENTIFIED FEMALE: -- who committed crimes against us.\n\nCORNISH: The survivors say he mishandled the release of the Epstein files, revealing personal information of the victims involved. Senate Judiciary Democrats will invite a survivor to testify against Blanche.\n\nBlanche's confirmation hearing is scheduled to begin tomorrow.\n\nAnd a multi-state legal challenge could delay one of the biggest media mergers in history. A group of 12 state attorneys general has sued to block Paramount's proposed acquisition of Warner Bros. Discovery.\n\nThe states are arguing that the deal would hurt competition. Paramount is saying it's going to fight the lawsuit.\n\nAnd Warner Bros. Discovery is the parent company of CNN.\n\nStraight ahead on CNN THIS MORNING, a deadly encounter with ICE officers, this time in Maine. And this morning, local officials are demanding answers from the federal government.\n\nPlus, that's two deadly ICE shootings in a week. A key voting bloc could have something to say about this.\n\nIn the meantime, good morning to viewers in the Windy City. A live look at the Chicago skyline.",
+  "segments": [
+    {
+      "seg": 1,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-14/segment/01",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nTrump Orders New Blockade, Offers Ships 20% Protection Fee; Judge Rips Trump's IRS Lawsuit: It was in 'Bad Faith'. Aired 6-6:30a ET\n\nAired July 14, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nBRIAN ABEL, CNN ANCHOR: -- on one knee while she was being rescued and asked her to marry him. Some good news out of this situation: She said yes.\n\nAll right. That is quite the story there. Interesting timing. That does it for us CNN HEADLINE EXPRESS. I'm Brian Abel. CNN THIS MORNING with Audie Cornish starts right now.\n\nAUDIE CORNISH, CNN ANCHOR: Homeland security says the ICE officer who fatally shot a man in Maine was, quote, \"fearing for public safety.\" So, what happened in the moments right before the gunfire?\n\nUNIDENTIFIED FEMALE: There's a dead body across the street from my house. And that is a human being.\n\nCORNISH: And President Trump offers to protect ships in the Strait of Hormuz for a 20 percent fee. How exactly would that work?\n\nAnd the late Lindsey Graham's sister has been appointed to his seat after his sudden death. Will this be a short- or a long-term visit?\n\nAnd Senator Mitch McConnell posts a recovery picture. The Internet has questions. Seriously, what's a guy got to do to prove he's alive in the age of A.I.?\n\nDONALD TRUMP, U.S. PRESIDENT: And they have a little capability, but they don't have any capability for us. This is almost a military skirmish.\n\nCORNISH: So, now it's a skirmish. Here's what it does not look like anymore: a ceasefire.\n\nGood morning, everybody. I'm Audie Cornish. So, remember that memorandum of understanding? Feels like ages ago. Last night, the U.S. launched a third night of strikes designed to stop Iran's ability to attack commercial ships.\n\nLater today, the blockade on Iranian ports is back on. Video here showing ports on fire across Southern Iran as both sides declare control over the Strait of Hormuz.\n\nPresident Trump says he wants his cut. Trump said on social media the U.S. will now, quote, \"be reimbursed at the rate of 20 percent on all cargo shipped through the strait.\"\n\nTRUMP: We're taking out all of their capability for anything having to do with the strait, with the Hormuz Strait. And I think, in the end, we will end up just controlling the whole thing.\n\nWe're protecting a very rich portion of the world. We're spending money. And so, what we've done is we are going to be reimbursed for protection.\n\nCORNISH: Joining me now, Harrison Mann, former U.S. Army major and former executive director of Defense Intelligence Agency's Middle East Africa Regional Center.\n\nThank you so much for being here. I'm glad you're here. I'm going to show you the cover of \"The New York Post,\" which under here, it says U.S. will be the \"guardian angel\" of the waterway.\n\nI usually don't pay my guardian angels. So, how does this work?\n\nHARRISON MANN, FORMER EXECUTIVE OFFICER, DEFENSE INTELLIGENCE AGENCY: This is -- this is just new -- new levels of desperation that I didn't -- couldn't -- couldn't have imagined a couple of months ago.\n\nI think we've got to remember that the free protection from the U.S. Navy has not been successful for the past several months. That's why we're in a -- in a new series of -- a cycle of escalation.\n\nOver the past week, the Navy has repeatedly tried to secure transit through the Strait of Hormuz. Iran has still been able to attack ships.\n\nSo, the protecting ships part of it we already know won't work.\n\nIs he actually going to charge fees? I doubt it. But he is doing something that's kind of dangerous for his own strategy, which is legitimizing that demand. We've repeatedly said -- Marco Rubio just two weeks ago said nobody can charge a passage through this international waterway.\n\nTrump is now saying, Oh, no, actually, that's fine. We're going to try and do it. CORNISH: Yes. Here's what Araghchi is saying, of Iran. He says the\n\npresident's absolutely right. And he tweets this: \"Whoever provides secure and safe passage of commercial vessels through the Strait of Hormuz should be compensated for this service. Iran has always been the guardian of the strait and will remain so forever.\"\n\nAnd then 20 -- 20 percent is, of course, too much, he says: \"We will be fair.\"\n\nBut to your point, in January, nobody was charging to go through the Strait of Hormuz. And now we are in a war about who can charge money to go through the Strait of Hormuz. That's what this war has yielded so far.\n\nMANN: Yes. Yes, we are -- we are so much worse off than we were before Trump started this illegal war. And now I really think it's a kind of a contest between Trump and Tehran about convincing Donald Trump of the reality of the situation, which is control of the strait is now a core interest for the Iranian government.\n\nMANN: Because it's, like, the only thing that they think they can still get out of this war. And it's something that Trump really just found out about a couple of months ago.\n\nAnd I think he's either too -- too proud, too embarrassed to make this concession now. But even while they're having this discussion through -- through combat, unfortunately, Iran benefits each day.\n\nCORNISH: Well, can I ask something?\n\nCORNISH: The president has been saying, Look, the U.S. actually has been, more or less, protecting and maintaining passage through the Strait of Hormuz, he said, going back 50 years.\n\nAnd I went to fact check this, and like, yes, indeed, Carter era on, certainly after the Iraq war, we had ships near the strait, because we were constantly sort of saying to the world, this is a free shipping lane.\n\nSo, is it something that the U.S. should be compensated for now, as the president is saying? He's saying, we've always been there. Maybe now we should be able to be up front about the cost of that.\n\nMANN: Yes, I mean, that could have been true in the past. But if anything, now it's the opposite. We've now cost the entire world and the region billions, if not trillions, of dollars by basically breaking the system that guaranteed safe passage.\n\nThe main thing that allowed ships to transit through the Strait of Hormuz is that Iran and other regional actors were deterred from disrupting traffic. We ruptured that entire system by attacking Iran in February and removing any incentive they had to -- to restrain themselves.\n\nCORNISH: Yes, I want to play for you. I know you care about forever wars, right? You were a person who very much is politically animated by the idea of the U.S. being trapped in forever wars and trying to prevent that.\n\nSome senators were asked about the state of the conflict last night on CNN. I want to play for you what they had to say.\n\nKAITLAN COLLINS, CNN ANCHOR: Is this a forever war?\n\nSEN. ROGER MARSHALL (R-KS): Not yet. And it's not going to be. I will guarantee you, you know, that this will not be --\n\nCOLLINS: How do you guarantee that?\n\nMARSHALL: -- be -- be a forever war. I think that, at some point in time, the bombing has to stop.\n\nSEN. CORY BOOKER (D-NJ): We are in a crisis that he doesn't know how to get out of. He's failed in his negotiations before this war. He signed an MOU that was stunningly incompetent in what they allowed to go on. And now, he is yet again in this war.\n\nCORNISH: Now, based on your answer earlier, I'm going to say you agree with Cory Booker, Democrat of New Jersey. But talk to me about what Senator Marshall had to say when he said, No, not yet. That's not where we are.\n\nMANN: So, it's definitely a war with no end in sight. And it's a war that the Trump administration has no idea how to end. The -- I don't even want to say this is a glimmer of hope. But the only reason it may not last as long as Iraq and Afghanistan is that there are countdown clocks adding pressure to Trump.\n\nHe is depleting, day by day, the Strategic Petroleum Reserve, which he's expanding to keep the price of oil and gas down.\n\nWith the attacks resuming, we're also depleting, day by day, our stores of missile defense interceptors. When those go to zero -- and they could, if we keep fighting, going for another month or two -- it means Iran can hit whatever they want in the region.\n\nCORNISH: Did you say a month or two?\n\nMANN: So, in the -- the one month of intense fighting before the April 7 ceasefire, I think CNN reported 30 percent of America's stockpiles globally were depleted. And they're not getting reconstituted --\n\nCORNISH: Replenished fast enough. MANN: -- very, very quickly. And so, you know, of that 30 percent globally, I don't know how much of that was in the Middle East. Right? We still need stuff in Europe. We still need stuff in -- in Asia.\n\nAnd so, if we go back to -- to full-fledged war, which I think Trump is still trying to avoid, we could easily get to the point where Iran can really strike the entire region with impunity, even more than it already does.\n\nSo, even this, this kind of not quite ceasefire, not quite full -- full-fledged war stage that we're in still builds pressure on Trump every day.\n\nAnd so, that -- that's the only reason that he probably can't draw this out for years and years.\n\nCORNISH: OK. Harrison, we're, of course, going to have you back, especially if it turns out we're all going to be facing new charges on products from our own country's fees on the Strait of Hormuz.\n\nI really appreciate your time. Thank you.\n\nThis morning, we're also going to be talking about an ICE-involved shooting. It left one man dead, this time in Maine. Plenty of questions, very few answers.\n\nPlus, we're going to talk about this. The federal judge accusing the president and attorney general, Todd Blanche, of misusing the courts, issuing a scathing rebuke against the president's IRS settlement. So, the group chat is back to talk about it right after the break.\n\nCORNISH: So, remember when President Trump settled that lawsuit with the IRS? Well, a federal judge just blew it up.\n\nThe deal granted Trump and his family tax immunity and a $1.8 billion fund. The judge now calling it a bad faith attempt to manipulate the judicial process.\n\nSo, she said in the ruling, quote, \"The facts before this court demonstrate that there was never an adverseness between the parties. There was never a case or controversy. There was never a question as to who would prevail.\"\n\nAnd the judge isn't just talking. She's dropping the hammer by slapping the lawyers who brought the lawsuit with sanctions and dragging acting attorney general Todd Blanche straight to the ethics board.\n\nNow, this couldn't have come at a worse time for Blanche. He's scheduled for his permanent attorney general confirmation hearing tomorrow. To talk about this in the group chat, Nicholas Wu, congressional\n\nreporter for \"Semafor\"; Chuck Rocha, a Democratic strategist; Ashley Davis, former White House official under President George W. Bush.\n\nSo, I think when we all first started talking about this settlement, it was because there was supposed to be this fund to reimburse people who felt wronged by the government. We were all up in arms about January 6th rioters being compensated. That went away because of congressional blowback.\n\nBut this thing didn't. This idea that Trump could never be audited, and his family could never be audited ever again.\n\nDid the questions continue, and this judge just underlined it, or like what was happening in the background?\n\nNICHOLAS WU, CONGRESSIONAL REPORTER, \"SEMAFOR\": Well, the questions very much continued. I mean, this is something that Republicans on Capitol Hill, as well as Democrats, have had a lot of questions about.\n\nAnd as Attorney General [SIC] Todd Blanche, his confirmation process really heats up, there are lawmakers who want to hear what's actually going to happen with this.\n\nThis has been a problem for some of them, like Senator Tillis on the Judiciary Committee, who -- who has, you know, potentially a veto power over this confirmation. He's one of those folks who's wanted this to go away.\n\nCORNISH: One of the reasons why I wanted to talk about this is because since that story, we now know more about the president's income in 2025: 1.4 billion in crypto. There's a half a billion in his resorts. There's all kinds of money being made during this term. And anyone who might have questions about them would not be able to get them answered in an audit.\n\nIs the president -- was he pushing his luck with this one? And is the judge basically calling B.S.?\n\nASHLEY DAVIS, FORMER WHITE HOUSE OFFICIAL UNDER PRESIDENT GEORGE W. BUSH: I think he was pushing his luck, but I also think that he's -- fully expects, just like last time when he lost in 2020, that the IRS was going to go after he and his family, which they did. I mean, you can say it was politicized or not. I think that that will happen.\n\nCORNISH: Yes, he very much does. That's what's the point of the settlement.\n\nCORNISH: To say, IRS, you have wronged me. And this is our settlement.\n\nAnd the judge is, like, if you're negotiating with your own IRS, that's not much of a negotiation. DAVIS: Right. It's still -- yes. And I think that -- that the judge --\n\nI mean, obviously they'll probably appeal it.\n\nBut I also think with Blanche, it's not only this issue, which is going to be a big issue, but he also has all the Epstein stuff that's going to come up.\n\nCHUCK ROCHA, DEMOCRATIC STRATEGIST: You know, the American people are not huge fans of the IRS or any of their auditors, so they sympathize with him. And that's the smart move that he made on this.\n\nThe bad move that he made is that he's made more money in the first year of his presidency than anybody ever in the history of the presidency.\n\nAnd even regular folks at home who were looking at -- down the barrel of four months before a midterm can say, this looks a little shady. I can't have a ten-year exemption from the IRS. Why should anybody else, even the president? So, that's the bad move.\n\nCORNISH: As you mentioned, Todd Blanche is going to be getting a lot of questions. Back in May, when people were asking him about this, here's what he had to say.\n\nSEN. THOM TILLIS (R-NC): I've got a positive predisposition towards Blanche.\n\nBut if there's even a whiff of a -- of a lack of independence, then that could influence my vote.\n\nCORNISH: And apologies. That's Senator Thom Tillis. He's a Republican from North Carolina. You mentioned him earlier.\n\nHere's Todd Blanche talking in May.\n\nTODD BLANCHE, ACTING U.S. ATTORNEY GENERAL: The president has -- has -- has outside counsel, and there are counsel at the Department of Justice, not me. And there was negotiations. And this was what was -- what -- part of those negotiations included a discussion around the, you know, any pending audits.\n\nCORNISH: So, there's this weird thing where the president's former personal attorney is telling the public that, no, he has other new personal attorneys, and they're the ones who worked out this deal. We don't know each other. We're not friends. I don't know her. And I'm sure it's fine.\n\nWhat does this do to Blanche's nomination? I mean, you said there are people with questions, but does -- is there a vote problem? Especially when one Republican has passed away and another is not voting, because they're in the hospital?\n\nWU: The margin is pretty hard for them, especially on the Judiciary Committee, where because of the way things are, you know, they'll fill the seat that Lindsey Graham left pretty soon. As soon as today.\n\nCORNISH: Yes, which we're going to talk about.\n\nWU: Right. But, you know, on the committee, Senator Tillis still effectively exercises veto power because of their margin. So, he's a key person to watch on where he eventually lands on Blanche.\n\nCORNISH: But this judge is doing it right at the kind of worst time for Blanche. I mean, judges, they're not political, but like, basically, this thing that might have been in the background.\n\nDAVIS: This thing -- yes.\n\nCORNISH: And then he would have had to answer for Epstein.\n\nDAVIS: I would say there's going to be other things.\n\nCORNISH: Yes, no, for sure. And people might say that. I think the question is how voters feel about it.\n\nDAVIS: I think Blanche has been spending a lot of time with Thom Tillis. Everyone understands that he is the vote, and so --\n\nCORNISH: And we'll find out if that dating has worked?\n\nDAVIS: Yes. And, from what I understand, he does think that Blanche is a good guy. We'll see if it works.\n\nROCHA: For everybody at home, you should know that this senator we keep talking about and putting up there is not up for reelection. There's no ramifications that you can put on him. He's not going to serve anymore. He's not running for reelection. That's why he has this liberty to do whatever he wants.\n\nCORNISH: OK, you guys, after the break, we're going to talk more about acting Attorney General Todd Blanche, because he's got a confirmation hearing. As we said, Epstein survivors have something to say about it.\n\nAnd months after the killings of Alex Pretti and Renee Good, why investigators say they can finally move forward.\n\nCORNISH: It's now 23 minutes past the hour. This is your morning roundup.\n\nFederal prosecutors finally turning over key evidence in the killings of Renee Good and Alex Pretti, the two U.S. citizens shot fatally by federal agents during protests in Minnesota that happened earlier this year. Evidence was withheld for months.\n\nOfficials say they've now received hard drives, including statements and body cam footage. Attorneys for Renee Good say this is a step towards accountability.\n\nAnd a group of Epstein survivors released a video. They're calling on senators to reject the nomination of Todd Blanche for attorney general.\n\nUNIDENTIFIED FEMALE: Todd Blanche had a duty to protect us.\n\nUNIDENTIFIED FEMALE: Instead, he protected the people --\n\nUNIDENTIFIED FEMALE: -- who committed crimes against us.\n\nCORNISH: The survivors say he mishandled the release of the Epstein files, revealing personal information of the victims involved. Senate Judiciary Democrats will invite a survivor to testify against Blanche.\n\nBlanche's confirmation hearing is scheduled to begin tomorrow.\n\nAnd a multi-state legal challenge could delay one of the biggest media mergers in history. A group of 12 state attorneys general has sued to block Paramount's proposed acquisition of Warner Bros. Discovery.\n\nThe states are arguing that the deal would hurt competition. Paramount is saying it's going to fight the lawsuit.\n\nAnd Warner Bros. Discovery is the parent company of CNN.\n\nStraight ahead on CNN THIS MORNING, a deadly encounter with ICE officers, this time in Maine. And this morning, local officials are demanding answers from the federal government.\n\nPlus, that's two deadly ICE shootings in a week. A key voting bloc could have something to say about this.\n\nIn the meantime, good morning to viewers in the Windy City. A live look at the Chicago skyline."
+    }
+  ]
+}
