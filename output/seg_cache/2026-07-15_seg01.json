@@ -1,0 +1,424 @@
+{
+  "date": "2026-07-15",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-15/segment/01",
+  "vocabulary": [
+    {
+      "word": "suspend",
+      "phonetic": "/səˈspend/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "暂停，中止",
+      "en": "to temporarily stop something from continuing",
+      "excerpt": "DHS now directing ICE agents to largely suspend their vehicle stops",
+      "example_cn": "公司决定暂停该项目。"
+    },
+    {
+      "word": "spark",
+      "phonetic": "/spɑːrk/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "引发，触发",
+      "en": "to cause something to start or develop",
+      "excerpt": "The shootings are also sparking outrage in two states",
+      "example_cn": "他的言论引发了激烈的争论。"
+    },
+    {
+      "word": "outrage",
+      "phonetic": "/ˈaʊtreɪdʒ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "愤怒，愤慨",
+      "en": "a strong feeling of anger and shock",
+      "excerpt": "sparking outrage in two states",
+      "example_cn": "公众对这项决定感到愤怒。"
+    },
+    {
+      "word": "impunity",
+      "phonetic": "/ɪmˈpjuːnəti/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "不受惩罚，免罪",
+      "en": "freedom from punishment or harm",
+      "excerpt": "This is murder with impunity.",
+      "example_cn": "腐败官员似乎可以逍遥法外。"
+    },
+    {
+      "word": "legitimate",
+      "phonetic": "/lɪˈdʒɪtɪmət/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "合法的，正当的",
+      "en": "allowed by law or correct according to the law",
+      "excerpt": "He has a legitimate reason for being here.",
+      "example_cn": "他有合法的居留身份。"
+    },
+    {
+      "word": "mandate",
+      "phonetic": "/ˈmændeɪt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "授权，命令",
+      "en": "the authority given to a government or person to act in a particular way",
+      "excerpt": "you might indeed have a mandate",
+      "example_cn": "政府获得了实施改革的授权。"
+    },
+    {
+      "word": "overreach",
+      "phonetic": "/ˌoʊvərˈriːtʃ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "过度扩张，越权",
+      "en": "the act of trying to do more than you can or should",
+      "excerpt": "mandate can quickly turn into overreach",
+      "example_cn": "政府的过度干预引发了批评。"
+    },
+    {
+      "word": "tactic",
+      "phonetic": "/ˈtæktɪk/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "策略，战术",
+      "en": "a particular method or plan for achieving something",
+      "excerpt": "whenever ICE tactics become the conversation",
+      "example_cn": "他们改变了谈判策略。"
+    },
+    {
+      "word": "reckon",
+      "phonetic": "/ˈrekən/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "处理，应对",
+      "en": "to deal with a difficult situation",
+      "excerpt": "the Trump administration is going to have to reckon with",
+      "example_cn": "我们必须面对现实。"
+    },
+    {
+      "word": "unfavorable",
+      "phonetic": "/ʌnˈfeɪvərəbl/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "不利的，反对的",
+      "en": "not good or not likely to be successful",
+      "excerpt": "61 percent unfavorable",
+      "example_cn": "民意调查显示多数人持反对态度。"
+    },
+    {
+      "word": "approve",
+      "phonetic": "/əˈpruːv/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "赞成，批准",
+      "en": "to have a positive opinion of someone or something",
+      "excerpt": "Do you approve or disapprove of how Trump is handling immigration?",
+      "example_cn": "我赞成这项计划。"
+    },
+    {
+      "word": "disapprove",
+      "phonetic": "/ˌdɪsəˈpruːv/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "不赞成，反对",
+      "en": "to have a negative opinion of someone or something",
+      "excerpt": "disapprove, 55 percent",
+      "example_cn": "她反对他的决定。"
+    },
+    {
+      "word": "conviction",
+      "phonetic": "/kənˈvɪkʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "定罪，信念",
+      "en": "the fact of being found guilty of a crime",
+      "excerpt": "no history of criminal convictions",
+      "example_cn": "他有盗窃前科。"
+    },
+    {
+      "word": "parameter",
+      "phonetic": "/pəˈræmɪtər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "参数，界限",
+      "en": "a limit that controls the way something can be done",
+      "excerpt": "some parameters around ICE",
+      "example_cn": "我们需要设定一些参数。"
+    },
+    {
+      "word": "advocate",
+      "phonetic": "/ˈædvəkeɪt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "提倡，主张",
+      "en": "to publicly support a particular policy or way of doing things",
+      "excerpt": "Democrats advocated for was some parameters around ICE",
+      "example_cn": "他们主张改革。"
+    },
+    {
+      "word": "fallout",
+      "phonetic": "/ˈfɔːlaʊt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "后果，余波",
+      "en": "the unpleasant results of something that has happened",
+      "excerpt": "There's still fallout.",
+      "example_cn": "丑闻的余波仍在持续。"
+    },
+    {
+      "word": "cooperation",
+      "phonetic": "/koʊˌɑːpəˈreɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "合作，配合",
+      "en": "the act of working together for a common purpose",
+      "excerpt": "they will not get cooperation from ICE",
+      "example_cn": "我们需要你的合作。"
+    },
+    {
+      "word": "capsize",
+      "phonetic": "/ˈkæpsaɪz/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "倾覆，翻船",
+      "en": "to turn over or cause to turn over in the water",
+      "excerpt": "a pontoon boat capsized near Alcatraz Island",
+      "example_cn": "小船在暴风雨中倾覆。"
+    },
+    {
+      "word": "diagnose",
+      "phonetic": "/ˌdaɪəɡˈnoʊs/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "诊断",
+      "en": "to identify the nature of an illness or problem",
+      "excerpt": "he's been diagnosed with early-stage Alzheimer's",
+      "example_cn": "医生诊断他患有肺炎。"
+    },
+    {
+      "word": "curfew",
+      "phonetic": "/ˈkɜːrfjuː/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "宵禁，禁令",
+      "en": "a rule that people must stay indoors at a particular time",
+      "excerpt": "an overnight social media curfew for teenagers",
+      "example_cn": "政府实施了宵禁。"
+    },
+    {
+      "word": "mandatory",
+      "phonetic": "/ˈmændətɔːri/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "强制性的，义务的",
+      "en": "required by law or rules",
+      "excerpt": "It wouldn't be mandatory.",
+      "example_cn": "参加是强制性的。"
+    },
+    {
+      "word": "opt out",
+      "phonetic": "/ɑːpt aʊt/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "选择退出",
+      "en": "to choose not to participate in something",
+      "excerpt": "The kids could simply opt out by changing their settings",
+      "example_cn": "你可以选择退出该计划。"
+    },
+    {
+      "word": "parasite",
+      "phonetic": "/ˈpærəsaɪt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "寄生虫",
+      "en": "a small animal or plant that lives on or inside another animal or plant",
+      "excerpt": "a stomach parasite spreads to multiple states",
+      "example_cn": "这种寄生虫会引起腹泻。"
+    },
+    {
+      "word": "outbreak",
+      "phonetic": "/ˈaʊtbreɪk/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "爆发，突然发生",
+      "en": "the sudden start of something unpleasant, especially a disease",
+      "excerpt": "much of the outbreak is in the Midwest",
+      "example_cn": "疾病爆发后，政府采取了紧急措施。"
+    },
+    {
+      "word": "culprit",
+      "phonetic": "/ˈkʌlprɪt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "罪魁祸首，原因",
+      "en": "the person or thing responsible for a problem or crime",
+      "excerpt": "determine the culprit of the infections",
+      "example_cn": "调查人员正在寻找事故的元凶。"
+    },
+    {
+      "word": "perishable",
+      "phonetic": "/ˈperɪʃəbl/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "易腐烂的，易变质的",
+      "en": "likely to decay or go bad quickly",
+      "excerpt": "this perishable item that came through the food system",
+      "example_cn": "易腐烂的食物需要冷藏。"
+    },
+    {
+      "word": "minimize",
+      "phonetic": "/ˈmɪnɪmaɪz/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "最小化，减少",
+      "en": "to reduce something to the smallest possible amount or degree",
+      "excerpt": "how to minimize risk with leafy greens",
+      "example_cn": "我们应该尽量减少风险。"
+    },
+    {
+      "word": "budgetary",
+      "phonetic": "/ˈbʌdʒɪteri/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "预算的",
+      "en": "relating to a budget",
+      "excerpt": "a food safety system that has been dealt budgetary blows",
+      "example_cn": "预算削减影响了项目。"
+    },
+    {
+      "word": "epidemiologist",
+      "phonetic": "/ˌepɪdiːmiˈɑːlədʒɪst/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "流行病学家",
+      "en": "a scientist who studies the spread and control of diseases",
+      "excerpt": "monitoring by epidemiologists",
+      "example_cn": "流行病学家正在追踪疫情。"
+    },
+    {
+      "word": "surveillance",
+      "phonetic": "/sɜːrˈveɪləns/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "监视，监测",
+      "en": "the careful watching of a person or place, especially by the police or army",
+      "excerpt": "the mandatory tracking system for food surveillance",
+      "example_cn": "卫生部门加强了疾病监测。"
+    },
+    {
+      "word": "dissolve",
+      "phonetic": "/dɪˈzɑːlv/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "解散，消除",
+      "en": "to officially end a group or organization",
+      "excerpt": "the department that tracks parasitic diseases dissolved completely",
+      "example_cn": "委员会被解散了。"
+    },
+    {
+      "word": "red herring",
+      "phonetic": "/red ˈherɪŋ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "转移注意力的事物",
+      "en": "a fact or idea that is intended to divert attention from the real issue",
+      "excerpt": "That's just a red herring.",
+      "example_cn": "他的论点只是转移注意力的幌子。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "A source telling CNN, the Department of Homeland Security now directing ICE agents to largely suspend their vehicle stops, because it was one of those kinds of stops which led to the fatal shootings which killed a Mexican immigrant in Texas and a 26-year-old Colombian man in Maine.",
+      "cn": "一位消息人士告诉CNN，国土安全部现在指示ICE特工大幅暂停他们的车辆拦截，因为正是这种拦截导致了致命的枪击事件，造成德克萨斯州一名墨西哥移民和缅因州一名26岁哥伦比亚男子死亡。",
+      "structure": "主句（A source telling CNN）+ 宾语从句（the Department...suspend...）+ 原因状语从句（because...）+ 定语从句（which led to...which killed...）",
+      "analysis": "这是一个复杂句，包含多个从句。主句是'A source telling CNN'，后面跟一个省略了that的宾语从句。宾语从句中又包含一个原因状语从句，其中有两个嵌套的定语从句修饰'stops'和'shootings'。"
+    },
+    {
+      "en": "The shootings are also sparking outrage in two states where Republicans are trying to defend Senate seats in the midterms.",
+      "cn": "这些枪击事件也在两个州引发了愤怒，共和党人正试图在这些州的中期选举中捍卫参议院席位。",
+      "structure": "主句（The shootings are sparking outrage）+ 定语从句（where Republicans are trying to defend...）",
+      "analysis": "主句是现在进行时，表示正在发生。定语从句由where引导，修饰'two states'，说明这些州的情况。"
+    },
+    {
+      "en": "And it puts the president's mass deportation promise back on full display.",
+      "cn": "这也让总统的大规模驱逐承诺再次充分展现。",
+      "structure": "主谓宾结构（it puts...promise back on full display）",
+      "analysis": "这是一个简单句，'puts...on full display'是固定搭配，意为'充分展示'。"
+    },
+    {
+      "en": "The reason why I want to bring this up is because, when you come into office, you might indeed have a mandate.",
+      "cn": "我想提出这个问题的原因是，当你上任时，你确实可能拥有授权。",
+      "structure": "主句（The reason is）+ 表语从句（because...）+ 时间状语从句（when you come into office）",
+      "analysis": "主句主语是'The reason'，后面跟why引导的定语从句修饰reason，系动词is后接because引导的表语从句，其中包含一个时间状语从句。"
+    },
+    {
+      "en": "And so, this is something that the Trump administration is going to reckon with, especially as we know that after Minnesota, people's belief that ICE acts rationally all the time isn't necessarily there.",
+      "cn": "因此，这是特朗普政府将要面对的问题，尤其是我们知道，在明尼苏达事件之后，人们认为ICE始终理性行事的信念不一定存在。",
+      "structure": "主句（this is something）+ 定语从句（that...reckon with）+ 原因状语从句（especially as...）+ 宾语从句（that after...）+ 同位语从句（that ICE acts...）",
+      "analysis": "这是一个多层嵌套的复杂句。主句后跟定语从句修饰'something'，接着是as引导的原因状语从句，其中包含that引导的宾语从句，宾语从句中又有一个同位语从句修饰'belief'。"
+    },
+    {
+      "en": "And what Democrats advocated for was some parameters around ICE: body cameras.",
+      "cn": "而民主党人所倡导的是围绕ICE的一些参数：随身摄像头。",
+      "structure": "主语从句（What Democrats advocated for）+ 系动词（was）+ 表语（some parameters）",
+      "analysis": "这是一个主语从句作主语的句子，what引导的从句作主语，系动词was后接表语。"
+    },
+    {
+      "en": "But to your point, the way Antjuan is talking about Senator Collins, even though she is not the sole reason why ICE funding is what it is, means these votes will be held against Republicans in places where the tide is turning.",
+      "cn": "但就你的观点而言，Antjuan谈论参议员Collins的方式，即使她不是ICE资金现状的唯一原因，意味着这些投票将在形势转变的地方对共和党不利。",
+      "structure": "主句（the way...means...）+ 定语从句（Antjuan is talking about...）+ 让步状语从句（even though...）+ 定语从句（why ICE funding is what it is）+ 宾语从句（these votes will be held...）+ 定语从句（where the tide is turning）",
+      "analysis": "这是一个非常复杂的句子。主句主语是'the way'，后面跟一个省略了that的定语从句修饰way。接着是even though引导的让步状语从句，其中包含why引导的定语从句修饰'reason'。主句谓语means后接宾语从句，宾语从句中又包含where引导的定语从句修饰'places'。"
+    },
+    {
+      "en": "And that is what Congress wants to see.",
+      "cn": "这正是国会希望看到的。",
+      "structure": "主系表结构（That is what...）",
+      "analysis": "这是一个简单句，what引导表语从句。"
+    },
+    {
+      "en": "And I think that those two differences are perhaps why people feel that the Democratic Party -- or the Republican Party is not being responsive enough when these things happen.",
+      "cn": "我认为，这两种差异也许就是为什么人们觉得民主党或共和党在这些事情发生时反应不够迅速的原因。",
+      "structure": "主句（I think）+ 宾语从句（that those two differences are...why...）+ 表语从句（why people feel...）+ 宾语从句（that the...Party is not being responsive...）+ 时间状语从句（when these things happen）",
+      "analysis": "这是一个多层嵌套的复杂句。主句I think后接that引导的宾语从句，其中包含why引导的表语从句，表语从句中又包含that引导的宾语从句，最后是when引导的时间状语从句。"
+    },
+    {
+      "en": "And the thing that I think is most frustrating for someone like me, who's been working on foodborne disease now for over 50 years, including cyclosporiasis, is the fact that we keep talking about how to minimize risk with leafy greens.",
+      "cn": "而我认为，对于像我这样从事食源性疾病（包括环孢子虫病）研究超过50年的人来说，最令人沮丧的是，我们一直在谈论如何将绿叶蔬菜的风险降到最低。",
+      "structure": "主句（The thing is the fact）+ 定语从句（that I think is most frustrating...）+ 定语从句（who's been working...）+ 同位语从句（that we keep talking about...）",
+      "analysis": "这是一个复杂句。主句主语是'The thing'，后面跟that引导的定语从句，其中包含who引导的定语从句修饰'someone like me'。系动词is后接the fact，后面跟that引导的同位语从句说明fact的内容。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "ICE执法与移民政策争议",
+      "content": "美国移民和海关执法局（ICE）在执法过程中导致两名移民死亡，引发社会愤怒。国土安全部暂停了ICE的车辆拦截行动。参议员要求独立调查，但ICE是否配合调查存疑。特朗普政府的移民政策面临公众支持率下降的挑战。",
+      "keywords": "ICE, 移民执法, 车辆拦截, 枪击事件, 公众支持率"
+    },
+    {
+      "title": "环孢子虫病疫情与食品安全",
+      "content": "美国多州爆发环孢子虫病，已确认近1700例病例，主要集中在中西部。疫情可能与袋装生菜有关。公共卫生专家指出，联邦和州级食品安全监测系统因预算削减而能力下降，但强调疫情已过高峰。CDC和FDA的应对措施受到质疑。",
+      "keywords": "环孢子虫病, 疫情, 食品安全, 生菜, CDC, FDA, 预算削减"
+    },
+    {
+      "title": "特朗普政府官员任命与听证会",
+      "content": "代理司法部长Todd Blanche的确认听证会即将举行，爱泼斯坦文件可能成为焦点。同时，CDC新提名人也将面临听证，预计将就疫情应对和公共卫生资金问题接受质询。",
+      "keywords": "Todd Blanche, 确认听证会, 爱泼斯坦文件, CDC提名人, 公共卫生"
+    },
+    {
+      "title": "社交媒体青少年宵禁",
+      "content": "英国计划对青少年实施社交媒体宵禁，禁止在午夜至早上6点间访问社交平台。该措施非强制性，青少年可通过更改设置选择退出。这是英国限制青少年社交媒体使用的最新举措。",
+      "keywords": "社交媒体, 青少年, 宵禁, 英国, 网络监管"
+    },
+    {
+      "title": "世界足球赛况",
+      "content": "西班牙击败法国进入世界杯决赛，将迎战英格兰或阿根廷。美国队未晋级。比赛引发广泛关注。",
+      "keywords": "世界杯, 西班牙, 法国, 英格兰, 阿根廷, 足球"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nDHS Pauses Traffic Stops by ICE Agents After Shootings; CDC Investigates Surge in Cyclosporiasis Cases. Aired 6-6:30a ET\n\nAired July 15, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nBRIAN ABEL, CNN ANCHOR: She's walking up to 4 miles a day and is set to return home to her 11-year-old son later this week.\n\nThe world's most expensive fossil has been sold in New York. This is Gus, a South Dakota T-Rex skeleton that was sold for over $50 million at Sotheby's on Tuesday.\n\nThe skeleton is about 67 million years old.\n\nAnd that does it for us here on CNN HEADLINE EXPRESS. I'm Brian Abel. CNN THIS MORNING with Audie Cornish starts right now.\n\nAUDIE CORNISH, CNN ANCHOR: Here is where we start. Two deadly shootings by ICE, zero body cameras in either case. What's going on?\n\nSEN. ANGUS KING (I-ME): Police forces all over the country have body cameras. The ICE people should be following the same -- the same regulations and processes.\n\nCORNISH: And the acting attorney general about to get grilled at his confirmation hearing. Could the Epstein files derail the nomination of Todd Blanche.\n\nAnd thousands more people sick as a stomach parasite spreads to multiple states. Are CDC and FDA cutbacks making it harder to track?\n\nAnd President Trump will speak about free and fair elections in a prime-time address tomorrow. Is this about past grievances or future control?\n\nKING: This is a shameful process. It's tragic.\n\nSEN. SUSAN COLLINS (R-ME): What you can't have is ICE investigating itself.\n\n(END VIDEO CLIP) CORNISH: OK. Both of the senators in Maine demanding an unbiased investigation into a fatal ICE shooting. The question is, are they going to get one?\n\nGood morning everybody. I'm Audie Cornish, and I want to talk about the deaths of two men in ICE-involved killings. This is in less than a week.\n\nA source telling CNN, the Department of Homeland Security now directing ICE agents to largely suspend their vehicle stops, because it was one of those kinds of stops which led to the fatal shootings which killed a Mexican immigrant in Texas and a 26-year-old Colombian man in Maine.\n\nThe shootings are also sparking outrage in two states where Republicans are trying to defend Senate seats in the midterms. And it puts the president's mass deportation promise back on full display.\n\nUNIDENTIFIED MALE: People have to realize this is not normal, and it cannot become normal at all.\n\nUNIDENTIFIED FEMALE: This is murder with impunity. And this could be happening to any one of us, any one of us. He's 26 year old with a child. He has a legitimate reason for being here. He had Social Security. It's horrific.\n\nCORNISH: Joining me now in the group chat, Jasmine Wright, White House correspondent at \"NOTUS\"; Terry Schilling, president of the American Principles Project; and Antjuan Seawright, Democratic strategist.\n\nSo, first, I just want to take a beat for the people who have died so far. We were looking at the list since January of 2025. People who have been in ICE-involved killings related to immigration agents in Maine and Texas, as we just mentioned.\n\nOf course, Alex Pretti and Renee Good during the protests in Minnesota. Back in December, Keith Porter in California; in Texas, Isaias Sanchez Barboza; in Illinois, Silverio Villegas Gonzalez and in Texas last march, Ruben Ray Martinez.\n\nAnd that comes from the Trace, which is a gun violence archive.\n\nThe reason why I want to bring this up is because, when you come into office, you might indeed have a mandate. You might, indeed, be doing something that voters are hoping you will do.\n\nThings can change. Just ask a Newt Gingrich. Just ask, you know, a Biden. There's plenty of people who learn that mandate can quickly turn into overreach.\n\nWhere is the Trump administration on understanding its immigration policy impacts on public approval? JASMINE WRIGHT, WHITE HOUSE CORRESPONDENT, \"NOTUS\": I think the Trump\n\nadministration believes that they are fulfilling their duty to the American people that -- that elected them for this very thing.\n\nThe problem is, is that whenever ICE tactics become the conversation in the nation, that puts ICE and DHS on the back foot.\n\nIf you remember, Markwayne Mullin promised that he would take DHS and their -- the tactics that they use and the criticism that they were getting out of the national conversation. That was a part of his own mandate when he took over the DHS after Kristi Noem. And you see right now that that is not happening.\n\nAnd so, this is something that the Trump administration is going to reckon -- or going to have to reckon with, especially as we know that after Minnesota, people's belief that ICE is -- that ICE acts rationally all the time isn't necessarily there.\n\nCORNISH: I want to show you guys just a little more polling. One, the question asked by Marquette University in May, \"What is your opinion of immigration and customs enforcement?\"\n\nSo, right now, nationally, we are showing that number 61 percent unfavorable.\n\nI also want to show you, \"Do you approve or disapprove of how Trump is handling immigration?\" That number right now, disapprove, 55 percent.\n\nAgain, if there is this situation where the tactics, every time they surface, become a problem, at what point do you really change the tactics or admit this is not going the way people intended?\n\nANTJUAN SEAWRIGHT, DEMOCRATIC STRATEGIST: ICE needs to chill.\n\nWhen the Trump administration came in, they promised to get rid of the bad actors, the violent criminals. Democrats agree with that. We do need to get rid of the bad actors.\n\nThe problem is, according to the conservative Cato Institute, 70 percent of those who have been arrested have no -- have no history of criminal convictions. Less than 15 percent have a history of violent -- of violent crimes. That's a problem.\n\nNo. 2, Susan Collins is responsible for the budget that funds ICE. That includes the $70 billion in the Big Ugly Bill. And this additional $75 billion, I think, by way of reconciliation.\n\nAnd so, what Democrats advocated for was some parameters around ICE: body cameras. Most people would agree with that. Let's not invade personal spaces: hospitals, schools, polling locations. Most people agree with that. But yet --\n\nCORNISH: Let me give people an update on that.\n\nSEAWRIGHT: Republicans ignored that.\n\nCORNISH: So much of that fell apart during the government shutdown; the effects of that on transportation and airports. Some of this fell by the wayside.\n\nBut to your point, the way Antjuan is talking about Senator Collins, even though she is not the sole reason why ICE funding is what it is, means these votes will be held against Republicans in places where the tide is turning.\n\nWe saw that yesterday in our numbers with Latino voters in Texas.\n\nSo, what is the counter, other than telling people this is what you wanted? Is there another argument starting to develop in Republican circles about how to talk about the moments when ICE makes a mistake?\n\nTERRY SCHILLING, PRESIDENT, AMERICAN PRINCIPLES PROJECT: Yes. Look, I think this is why both parties support body cameras. This is a -- it's a necessary thing. It gives a lot of clarity to the people on the ground and the rest of America on what these officers are actually dealing with.\n\nI would go further, Antjuan. First of all, I would say you've got to discount anything Cato says about immigration enforcement. They are an open borders organization. They are not conservative. They're libertarian.\n\nBut secondly, we have to do this. This is for the safety of our country. It's not just ICE that needs to chill out. People need to stop resisting arrest.\n\nSEAWRIGHT: Wait, wait, wait.\n\nSCHILLING: People need to -- when -- when you get pulled over, you don't have a right to resist arrest. Your resisting comes in the courts, comes in the lawyers.\n\nSEAWRIGHT: Terry -- Terry, respectfully, that's why the body cam cameras matter. Did you -- I don't know if you saw the video, but they drugged this gentleman out of the car and handcuffed him after he was shot dead. That's brutal. That's deadly.\n\nWe -- we see these cold-blooded murders in real time. Unfortunately, we've gone so numb to this, to we want to put it back on the individual. ICE needs to be reined in.\n\nCORNISH: Terry, can I ask a question? Is the acknowledgment that vehicle stops are no longer in the policy? They're saying, look, were going to pause on this. Is that an acknowledgment that things are going sideways, that their take is not, well, they're fleeing. So, everybody deal.\n\nThey're saying, OK, wait a second. We've got to pause for a minute and figure out what to do.\n\nSCHILLING: I think this is a mistake. I think that -- CORNISH: You think it's a mistake to pause vehicle stops?\n\nSCHILLING: Yes. I think -- I think Mullins is -- is making a big mistake. He's showing weakness here.\n\nLook, the reality is, is that no one likes these headlines more than the Democratic Party of Maine. They just pulled a 2024 maneuver where they replaced the top of the ticket with a new person. We don't even know who that's going to be yet.\n\nCORNISH: I think people remember Platner went through a massive scandal.\n\nSCHILLING: Yes, but -- but Audie --\n\nCORNISH: So, I don't think people think they pulled him. It seems like he imploded on the launch pad.\n\nSCHILLING: Audie, with all due respect, they were defending him up until it was a Democrat. There is --\n\nSEAWRIGHT: Well, there is that thing about Maine, but what about Minnesota? Because, you know --\n\nSCHILLING: What about Minnesota? I was just about to get to Minnesota.\n\nSEAWRIGHT: You all -- you all make these claims about people resisting arrest, et cetera. But yet, the footage comes out to say something differently. And then you want to ignore the reality and the facts that are right in front of your face.\n\nSCHILLING: Check -- first of all, in Minnesota, she tried to run him over with her -- she did hit him with her car.\n\nCORNISH: This actually gets to something about body cameras I think has always been fascinating.\n\nFor the last 20 years, especially in the anti-police brutality movement, people have talked about body cams and it has not exonerated. It has not helped victims. It's usually ended up the victims are -- the police involved are exonerated.\n\nSo, I don't -- I don't think video solves this problem, because what we have found is people can argue. Good people can disagree on things they see with their own eyes.\n\nYou see a body dragged out of the car. Lots of people see that.\n\nAnd you see a person who resisted arrest and, therefore, led to their own death. I think that this is a little bit of a thing where, is the White House starting to see what Antjuan sees, or are they still seeing what Terry sees?\n\nWRIGHT: I think it's a mixture of both, because you saw Tom Homan yesterday say that these stops are only temporary -- temporary, I think in response to what you're hearing from Terry, which is a part of the right saying that we don't want these vehicles to stop.\n\nI think your point on body cameras is also interesting, but you see that as the go-to position of both Republicans and Democrats in Congress. Timing, timing, timing.\n\nCORNISH: Something everyone can agree on;\n\nWRIGHT: It's something they go on. It's something that we've heard them talk about time and time again.\n\nJust yesterday, we heard Angus King from Maine say that they need to focus more on body cameras.\n\nAnd so, even though people can take what they believe from these videos, that is the position of Congress.\n\nWRIGHT: And that is what Congress wants to see. And I think that those two differences are perhaps why people feel that the Democratic [SIC] Party -- or the Republican Party is not being responsive enough when these things happen.\n\nCORNISH: We're going to talk about a couple other things today, because, as we said, this is a shifting story. There's still fallout. There will be, at least, questions from these states, who have learned that they will not get cooperation from ICE in these investigations of what happened.\n\nSo, I do think this story will continue. You guys will be able to talk about it.\n\nI want to talk about one other thing today: Todd Blanche, acting attorney general. He's going to have a confirmation hearing. And the question is, will the Epstein files return to the headlines as a result? We're going to have a survivor here to talk about what's at stake.\n\nAnd then -- I don't know -- no more midnight doom scrolling? A new social media curfew for teens in the U.K.\n\nAnd that stomach parasite making thousands of people sick. We're going to ask whether cuts to the public health and food safety network are making it harder to contain.\n\nCORNISH: It is now 15 minutes past the hour. This is your morning roundup.\n\nNow, one person confirmed dead. Three people are missing after a pontoon boat capsized near Alcatraz Island in San Francisco. Sixteen others were rescued. Most of the people were family members.\n\nPolice say this boating accident was the first reported -- was first reported as a fire. Witnesses say that, by the time help reached the boat, the flames were out, but the boat was sinking.\n\nAnd he's best known pulling off the Miracle on the Hudson. Captain Chesley \"Sully\" Sullenberger is the pilot who safely landed a plane on the Hudson River in 2009. Now he's announced he's been diagnosed with early-stage Alzheimer's.\n\nSully says he's sharing his diagnosis to encourage others to speak up about the disease.\n\nAnd it will be Spain heading to the World Cup final for only the second time in history after defeating tournament favorite France 2- nil on Tuesday.\n\nUNIDENTIFIED MALE: Olmo. Olmo, the return. Pedro Porro!\n\nCORNISH: Spain is going to face either England or defending champion Argentina in the final on Sunday, and that game will be determined today.\n\nThe U.K. planning to introduce an overnight social media curfew for teenagers. That means that they'd be blocked from the sites from midnight to 6 a.m.\n\nIt wouldn't be mandatory. The kids could simply opt out by changing their settings, but this is part of the country's announcement last month to ban all social media for those under the age of 16.\n\nGroup chat is back. Did anyone watch the game yesterday? Because I did.\n\nSCHILLING: I didn't, I totally missed it.\n\nWRIGHT: We watched it at the office. First of all --\n\nCORNISH: You mean you were working very hard during a day of hearings?\n\nWRIGHT: Tap, tap, tap, watching the TV.\n\nWRIGHT: And it was crazy.\n\nCORNISH: Yes, it was an amazing game, I have to say.\n\nSEAWRIGHT: I'm for England.\n\nCORNISH: You are? Pro England?\n\nSEAWRIGHT: Bellingham. Bellingham. He's a stud.\n\nSEAWRIGHT: He's a stud.\n\nWRIGHT: OK. I was wondering.\n\nCORNISH: All right. I'm going to talk about something very serious next. The Daylight Savings Time debate. Should \"spring forward\" be permanent?\n\nAnd the Trump administration has cut some public health programs. And now there's this fast-spreading stomach parasite.\n\nAnd good morning to our viewers in Atlanta, where England and Argentina will play today in the World Cup semifinals.\n\nUNIDENTIFIED FEMALE: I'm on day three of this 2026 stomach bug thing. And I just cried because I felt so bad. But genuinely, like, I can't do this another day.\n\nUNIDENTIFIED FEMALE: This is not a joke. I'm actually scared to eat anything, and it literally kept me up at night.\n\nCORNISH: OK, nearly 1,700 cases of cyclosporiasis now confirmed. Thousands of others being investigated. Since May 1, this parasite has reached at least 34 states.\n\nNow, much of the outbreak is in the Midwest, but it has spread coast to coast, and health officials are in the middle of multiple investigations to determine the culprit of the infections.\n\nMichigan seeing the worst of it. Its investigation is leading them to lettuce. They've been warning people to avoid bagged lettuce and pre- mixed salad kits.\n\nSo, joining me now Dr. Michael Osterholm, director of Center for Infectious Disease Research and Policy. That's at the University of Minnesota.\n\nSo, you just heard some -- some poor ladies talking about having some rough nights there. What do you think people need to be looking out for? We've heard that you should purchase whole heads of lettuce and peel\n\nthe outer layers. We've heard that you've got to wash everything thoroughly and cook it when possible. Any other things we should know?\n\nDR. MICHAEL OSTERHOLM, DIRECTOR, CENTER FOR INFECTIOUS DISEASE RESEARCH AND POLICY, UNIVERSITY OF MINNESOTA: Yes. Well, I think first of all, Audie, just to put this into some context, don't forget that about 150 million servings of leafy greens occur every day in this country. That's over a billion every week.\n\nAnd so, what we're talking about here is actually something that is very, very low risk, relative to everyday eating of produce.\n\nSurely in this situation, where you have an outbreak, is you have a very limited hit, meaning that a product comes in; could be from one or two fields. It gets distributed in a very localized area.\n\nFor example, we keep talking about a national outbreak. Yet, as of Monday, there were fewer than 300 cases West of the Mississippi. Less than 300. And so, it really has been concentrated in the Detroit, Southeastern Michigan, Northwestern Ohio, Kentucky, West Virginia. And it all relates back to what product got served, where.\n\nAnd what's happened, unfortunately, is everyone has condemned leafy greens across the board as being involved. And that's simply just not the case.\n\nCORNISH: So, do you have an opinion on Taco Bell basically saying they're removing some ingredients from their menu, even though, as you said, they haven't heard from health officials about any one specific vegetable that's the problem?\n\nOSTERHOLM: Yes. I think you're going to hear today more information about a linkage to a specific source. I hope that's the case.\n\nI think this outbreak is one that really needs to be re-examined when it's all done, because I think, frankly, we should have had these answers weeks ago and didn't.\n\nAnd I can't attribute that to any one thing, other than a lack of overall leadership in responding to this.\n\nYesterday, the CDC put out what was called a health alert network award (ph). And at that point, that's something that should have been sent out four weeks ago, not at the end of this.\n\nI can say right now, I think the outbreak is over. And what I mean by that is this perishable item that came through the food system 4 to 6 weeks ago is gone. It's not there anymore.\n\nPeople are still sick. We're still going to hear about new cases because they're just now getting diagnosed. And as you heard on the lead-in on the social media commentary we just heard, there are people who are still very sick. The good news is they can be treated. The really also good news is\n\nthat leafy greens generally are very safe to eat.\n\nAnd the thing that I think is most frustrating for someone like me, who's been working on foodborne disease now for over 50 years, including cyclosporiasis, is the fact that we keep talking about how to minimize risk with leafy greens. And most of the stuff, there's no data to support it. Cutting head lettuce, open 2 or 3 leaves. There's no data to support that that makes a difference.\n\nThe idea that bagged lettuce is washed may not be as safe as others. In fact, it's much safer.\n\nAnd so, one of the challenges we've had is just a lot of people are on the air or in print, saying things that they don't know what they're talking about.\n\nCORNISH: Can I ask you a question, then? One of the things that is different right now is we're operating under a food safety system that has been dealt budgetary blows.\n\nSo, whether you're talking about 18 percent of the workforce at the USDA being gone.\n\nCORNISH: The public health funding that has been cut for state and local monitoring by epidemiologists; whether that's the fact that the mandatory tracking system, as we mentioned, for food surveillance, made cyclospora monitor -- monitoring optional; or even the fact that parasitic diseases --\n\nCORNISH: -- the department that tracks parasitic diseases dissolved completely.\n\nI hear you saying that things -- this happens all the time. As a reporter, I am looking at a safety net that looks like it has slightly bigger holes than it used to, and it makes us wonder if this could have been prevented sooner.\n\nOSTERHOLM: Yes, there's a lot of misinformation going around about this right now. Let me tell you, I'm not afraid to be critical of the federal government or even state governments with regard to respond.\n\nBut let's be really clear what the changes that occurred at CDC were, were eliminating certain diseases from what would be considered community laboratories. The food net system. These are ten sites where they do much more extensive study.\n\nThe way cases get reported to local and state health departments and the CDC is what -- through the national notifiable disease system. That has not changed.\n\nSo, this idea that somehow, what changes occurred at CDC basically caused this outbreak not to be well investigated, just simply aren't true.\n\nHowever, the problem we have is that in the first instance, like politics, all of foodborne disease investigations start at the state and local level.\n\nAnd today, 94 percent of all the budgets for all 50 state health departments depend on this federal support to achieve that, that level of protection. And right now, we're having challenges at the state and local health department where, in fact, these investigations begin.\n\nSo, that is a problem. But it's not what has been made the problem with this food net system. That's just a red herring.\n\nCORNISH: Today there's going to be a new CDC nominee in hearings on Capitol Hill. What do you think she'll be asked about this? Because I -- I have to admit, Dr. Osterholm, there's a couple people in their bathroom somewhere who are not comforted by you saying this is not as big an issue as the media is making it out to be.\n\nCORNISH: So, what do you think she will be asked to talk about, this new CDC nominee?\n\nOSTERHOLM: Yes. Well, let me be very clear. I'm not saying this isn't a big issue. Where it's bad, it's bad, but where it's not, it's not.\n\nAnd I think what's happened is you have heard over and over again, story after story, not isolating these cases.\n\nI mean, has anyone reported on CNN that there have been fewer than 300 cases West of the Mississippi tied to this outbreak? You know, that's a very different picture than what's happening in places like Michigan, Ohio, West Virginia and Kentucky.\n\nSo, I'm not minimizing it there.\n\nAnd I'm also not minimizing the people who are currently sick. Please see a physician. You can treat this disease quite easily. And it's horrible to think of people spending weeks and weeks with this horrible diarrhea. So -- so let's just be really clear.\n\nWhat we should have been doing is messaging where is the problem?",
+  "segments": [
+    {
+      "seg": 1,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-15/segment/01",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nDHS Pauses Traffic Stops by ICE Agents After Shootings; CDC Investigates Surge in Cyclosporiasis Cases. Aired 6-6:30a ET\n\nAired July 15, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nBRIAN ABEL, CNN ANCHOR: She's walking up to 4 miles a day and is set to return home to her 11-year-old son later this week.\n\nThe world's most expensive fossil has been sold in New York. This is Gus, a South Dakota T-Rex skeleton that was sold for over $50 million at Sotheby's on Tuesday.\n\nThe skeleton is about 67 million years old.\n\nAnd that does it for us here on CNN HEADLINE EXPRESS. I'm Brian Abel. CNN THIS MORNING with Audie Cornish starts right now.\n\nAUDIE CORNISH, CNN ANCHOR: Here is where we start. Two deadly shootings by ICE, zero body cameras in either case. What's going on?\n\nSEN. ANGUS KING (I-ME): Police forces all over the country have body cameras. The ICE people should be following the same -- the same regulations and processes.\n\nCORNISH: And the acting attorney general about to get grilled at his confirmation hearing. Could the Epstein files derail the nomination of Todd Blanche.\n\nAnd thousands more people sick as a stomach parasite spreads to multiple states. Are CDC and FDA cutbacks making it harder to track?\n\nAnd President Trump will speak about free and fair elections in a prime-time address tomorrow. Is this about past grievances or future control?\n\nKING: This is a shameful process. It's tragic.\n\nSEN. SUSAN COLLINS (R-ME): What you can't have is ICE investigating itself.\n\n(END VIDEO CLIP) CORNISH: OK. Both of the senators in Maine demanding an unbiased investigation into a fatal ICE shooting. The question is, are they going to get one?\n\nGood morning everybody. I'm Audie Cornish, and I want to talk about the deaths of two men in ICE-involved killings. This is in less than a week.\n\nA source telling CNN, the Department of Homeland Security now directing ICE agents to largely suspend their vehicle stops, because it was one of those kinds of stops which led to the fatal shootings which killed a Mexican immigrant in Texas and a 26-year-old Colombian man in Maine.\n\nThe shootings are also sparking outrage in two states where Republicans are trying to defend Senate seats in the midterms. And it puts the president's mass deportation promise back on full display.\n\nUNIDENTIFIED MALE: People have to realize this is not normal, and it cannot become normal at all.\n\nUNIDENTIFIED FEMALE: This is murder with impunity. And this could be happening to any one of us, any one of us. He's 26 year old with a child. He has a legitimate reason for being here. He had Social Security. It's horrific.\n\nCORNISH: Joining me now in the group chat, Jasmine Wright, White House correspondent at \"NOTUS\"; Terry Schilling, president of the American Principles Project; and Antjuan Seawright, Democratic strategist.\n\nSo, first, I just want to take a beat for the people who have died so far. We were looking at the list since January of 2025. People who have been in ICE-involved killings related to immigration agents in Maine and Texas, as we just mentioned.\n\nOf course, Alex Pretti and Renee Good during the protests in Minnesota. Back in December, Keith Porter in California; in Texas, Isaias Sanchez Barboza; in Illinois, Silverio Villegas Gonzalez and in Texas last march, Ruben Ray Martinez.\n\nAnd that comes from the Trace, which is a gun violence archive.\n\nThe reason why I want to bring this up is because, when you come into office, you might indeed have a mandate. You might, indeed, be doing something that voters are hoping you will do.\n\nThings can change. Just ask a Newt Gingrich. Just ask, you know, a Biden. There's plenty of people who learn that mandate can quickly turn into overreach.\n\nWhere is the Trump administration on understanding its immigration policy impacts on public approval? JASMINE WRIGHT, WHITE HOUSE CORRESPONDENT, \"NOTUS\": I think the Trump\n\nadministration believes that they are fulfilling their duty to the American people that -- that elected them for this very thing.\n\nThe problem is, is that whenever ICE tactics become the conversation in the nation, that puts ICE and DHS on the back foot.\n\nIf you remember, Markwayne Mullin promised that he would take DHS and their -- the tactics that they use and the criticism that they were getting out of the national conversation. That was a part of his own mandate when he took over the DHS after Kristi Noem. And you see right now that that is not happening.\n\nAnd so, this is something that the Trump administration is going to reckon -- or going to have to reckon with, especially as we know that after Minnesota, people's belief that ICE is -- that ICE acts rationally all the time isn't necessarily there.\n\nCORNISH: I want to show you guys just a little more polling. One, the question asked by Marquette University in May, \"What is your opinion of immigration and customs enforcement?\"\n\nSo, right now, nationally, we are showing that number 61 percent unfavorable.\n\nI also want to show you, \"Do you approve or disapprove of how Trump is handling immigration?\" That number right now, disapprove, 55 percent.\n\nAgain, if there is this situation where the tactics, every time they surface, become a problem, at what point do you really change the tactics or admit this is not going the way people intended?\n\nANTJUAN SEAWRIGHT, DEMOCRATIC STRATEGIST: ICE needs to chill.\n\nWhen the Trump administration came in, they promised to get rid of the bad actors, the violent criminals. Democrats agree with that. We do need to get rid of the bad actors.\n\nThe problem is, according to the conservative Cato Institute, 70 percent of those who have been arrested have no -- have no history of criminal convictions. Less than 15 percent have a history of violent -- of violent crimes. That's a problem.\n\nNo. 2, Susan Collins is responsible for the budget that funds ICE. That includes the $70 billion in the Big Ugly Bill. And this additional $75 billion, I think, by way of reconciliation.\n\nAnd so, what Democrats advocated for was some parameters around ICE: body cameras. Most people would agree with that. Let's not invade personal spaces: hospitals, schools, polling locations. Most people agree with that. But yet --\n\nCORNISH: Let me give people an update on that.\n\nSEAWRIGHT: Republicans ignored that.\n\nCORNISH: So much of that fell apart during the government shutdown; the effects of that on transportation and airports. Some of this fell by the wayside.\n\nBut to your point, the way Antjuan is talking about Senator Collins, even though she is not the sole reason why ICE funding is what it is, means these votes will be held against Republicans in places where the tide is turning.\n\nWe saw that yesterday in our numbers with Latino voters in Texas.\n\nSo, what is the counter, other than telling people this is what you wanted? Is there another argument starting to develop in Republican circles about how to talk about the moments when ICE makes a mistake?\n\nTERRY SCHILLING, PRESIDENT, AMERICAN PRINCIPLES PROJECT: Yes. Look, I think this is why both parties support body cameras. This is a -- it's a necessary thing. It gives a lot of clarity to the people on the ground and the rest of America on what these officers are actually dealing with.\n\nI would go further, Antjuan. First of all, I would say you've got to discount anything Cato says about immigration enforcement. They are an open borders organization. They are not conservative. They're libertarian.\n\nBut secondly, we have to do this. This is for the safety of our country. It's not just ICE that needs to chill out. People need to stop resisting arrest.\n\nSEAWRIGHT: Wait, wait, wait.\n\nSCHILLING: People need to -- when -- when you get pulled over, you don't have a right to resist arrest. Your resisting comes in the courts, comes in the lawyers.\n\nSEAWRIGHT: Terry -- Terry, respectfully, that's why the body cam cameras matter. Did you -- I don't know if you saw the video, but they drugged this gentleman out of the car and handcuffed him after he was shot dead. That's brutal. That's deadly.\n\nWe -- we see these cold-blooded murders in real time. Unfortunately, we've gone so numb to this, to we want to put it back on the individual. ICE needs to be reined in.\n\nCORNISH: Terry, can I ask a question? Is the acknowledgment that vehicle stops are no longer in the policy? They're saying, look, were going to pause on this. Is that an acknowledgment that things are going sideways, that their take is not, well, they're fleeing. So, everybody deal.\n\nThey're saying, OK, wait a second. We've got to pause for a minute and figure out what to do.\n\nSCHILLING: I think this is a mistake. I think that -- CORNISH: You think it's a mistake to pause vehicle stops?\n\nSCHILLING: Yes. I think -- I think Mullins is -- is making a big mistake. He's showing weakness here.\n\nLook, the reality is, is that no one likes these headlines more than the Democratic Party of Maine. They just pulled a 2024 maneuver where they replaced the top of the ticket with a new person. We don't even know who that's going to be yet.\n\nCORNISH: I think people remember Platner went through a massive scandal.\n\nSCHILLING: Yes, but -- but Audie --\n\nCORNISH: So, I don't think people think they pulled him. It seems like he imploded on the launch pad.\n\nSCHILLING: Audie, with all due respect, they were defending him up until it was a Democrat. There is --\n\nSEAWRIGHT: Well, there is that thing about Maine, but what about Minnesota? Because, you know --\n\nSCHILLING: What about Minnesota? I was just about to get to Minnesota.\n\nSEAWRIGHT: You all -- you all make these claims about people resisting arrest, et cetera. But yet, the footage comes out to say something differently. And then you want to ignore the reality and the facts that are right in front of your face.\n\nSCHILLING: Check -- first of all, in Minnesota, she tried to run him over with her -- she did hit him with her car.\n\nCORNISH: This actually gets to something about body cameras I think has always been fascinating.\n\nFor the last 20 years, especially in the anti-police brutality movement, people have talked about body cams and it has not exonerated. It has not helped victims. It's usually ended up the victims are -- the police involved are exonerated.\n\nSo, I don't -- I don't think video solves this problem, because what we have found is people can argue. Good people can disagree on things they see with their own eyes.\n\nYou see a body dragged out of the car. Lots of people see that.\n\nAnd you see a person who resisted arrest and, therefore, led to their own death. I think that this is a little bit of a thing where, is the White House starting to see what Antjuan sees, or are they still seeing what Terry sees?\n\nWRIGHT: I think it's a mixture of both, because you saw Tom Homan yesterday say that these stops are only temporary -- temporary, I think in response to what you're hearing from Terry, which is a part of the right saying that we don't want these vehicles to stop.\n\nI think your point on body cameras is also interesting, but you see that as the go-to position of both Republicans and Democrats in Congress. Timing, timing, timing.\n\nCORNISH: Something everyone can agree on;\n\nWRIGHT: It's something they go on. It's something that we've heard them talk about time and time again.\n\nJust yesterday, we heard Angus King from Maine say that they need to focus more on body cameras.\n\nAnd so, even though people can take what they believe from these videos, that is the position of Congress.\n\nWRIGHT: And that is what Congress wants to see. And I think that those two differences are perhaps why people feel that the Democratic [SIC] Party -- or the Republican Party is not being responsive enough when these things happen.\n\nCORNISH: We're going to talk about a couple other things today, because, as we said, this is a shifting story. There's still fallout. There will be, at least, questions from these states, who have learned that they will not get cooperation from ICE in these investigations of what happened.\n\nSo, I do think this story will continue. You guys will be able to talk about it.\n\nI want to talk about one other thing today: Todd Blanche, acting attorney general. He's going to have a confirmation hearing. And the question is, will the Epstein files return to the headlines as a result? We're going to have a survivor here to talk about what's at stake.\n\nAnd then -- I don't know -- no more midnight doom scrolling? A new social media curfew for teens in the U.K.\n\nAnd that stomach parasite making thousands of people sick. We're going to ask whether cuts to the public health and food safety network are making it harder to contain.\n\nCORNISH: It is now 15 minutes past the hour. This is your morning roundup.\n\nNow, one person confirmed dead. Three people are missing after a pontoon boat capsized near Alcatraz Island in San Francisco. Sixteen others were rescued. Most of the people were family members.\n\nPolice say this boating accident was the first reported -- was first reported as a fire. Witnesses say that, by the time help reached the boat, the flames were out, but the boat was sinking.\n\nAnd he's best known pulling off the Miracle on the Hudson. Captain Chesley \"Sully\" Sullenberger is the pilot who safely landed a plane on the Hudson River in 2009. Now he's announced he's been diagnosed with early-stage Alzheimer's.\n\nSully says he's sharing his diagnosis to encourage others to speak up about the disease.\n\nAnd it will be Spain heading to the World Cup final for only the second time in history after defeating tournament favorite France 2- nil on Tuesday.\n\nUNIDENTIFIED MALE: Olmo. Olmo, the return. Pedro Porro!\n\nCORNISH: Spain is going to face either England or defending champion Argentina in the final on Sunday, and that game will be determined today.\n\nThe U.K. planning to introduce an overnight social media curfew for teenagers. That means that they'd be blocked from the sites from midnight to 6 a.m.\n\nIt wouldn't be mandatory. The kids could simply opt out by changing their settings, but this is part of the country's announcement last month to ban all social media for those under the age of 16.\n\nGroup chat is back. Did anyone watch the game yesterday? Because I did.\n\nSCHILLING: I didn't, I totally missed it.\n\nWRIGHT: We watched it at the office. First of all --\n\nCORNISH: You mean you were working very hard during a day of hearings?\n\nWRIGHT: Tap, tap, tap, watching the TV.\n\nWRIGHT: And it was crazy.\n\nCORNISH: Yes, it was an amazing game, I have to say.\n\nSEAWRIGHT: I'm for England.\n\nCORNISH: You are? Pro England?\n\nSEAWRIGHT: Bellingham. Bellingham. He's a stud.\n\nSEAWRIGHT: He's a stud.\n\nWRIGHT: OK. I was wondering.\n\nCORNISH: All right. I'm going to talk about something very serious next. The Daylight Savings Time debate. Should \"spring forward\" be permanent?\n\nAnd the Trump administration has cut some public health programs. And now there's this fast-spreading stomach parasite.\n\nAnd good morning to our viewers in Atlanta, where England and Argentina will play today in the World Cup semifinals.\n\nUNIDENTIFIED FEMALE: I'm on day three of this 2026 stomach bug thing. And I just cried because I felt so bad. But genuinely, like, I can't do this another day.\n\nUNIDENTIFIED FEMALE: This is not a joke. I'm actually scared to eat anything, and it literally kept me up at night.\n\nCORNISH: OK, nearly 1,700 cases of cyclosporiasis now confirmed. Thousands of others being investigated. Since May 1, this parasite has reached at least 34 states.\n\nNow, much of the outbreak is in the Midwest, but it has spread coast to coast, and health officials are in the middle of multiple investigations to determine the culprit of the infections.\n\nMichigan seeing the worst of it. Its investigation is leading them to lettuce. They've been warning people to avoid bagged lettuce and pre- mixed salad kits.\n\nSo, joining me now Dr. Michael Osterholm, director of Center for Infectious Disease Research and Policy. That's at the University of Minnesota.\n\nSo, you just heard some -- some poor ladies talking about having some rough nights there. What do you think people need to be looking out for? We've heard that you should purchase whole heads of lettuce and peel\n\nthe outer layers. We've heard that you've got to wash everything thoroughly and cook it when possible. Any other things we should know?\n\nDR. MICHAEL OSTERHOLM, DIRECTOR, CENTER FOR INFECTIOUS DISEASE RESEARCH AND POLICY, UNIVERSITY OF MINNESOTA: Yes. Well, I think first of all, Audie, just to put this into some context, don't forget that about 150 million servings of leafy greens occur every day in this country. That's over a billion every week.\n\nAnd so, what we're talking about here is actually something that is very, very low risk, relative to everyday eating of produce.\n\nSurely in this situation, where you have an outbreak, is you have a very limited hit, meaning that a product comes in; could be from one or two fields. It gets distributed in a very localized area.\n\nFor example, we keep talking about a national outbreak. Yet, as of Monday, there were fewer than 300 cases West of the Mississippi. Less than 300. And so, it really has been concentrated in the Detroit, Southeastern Michigan, Northwestern Ohio, Kentucky, West Virginia. And it all relates back to what product got served, where.\n\nAnd what's happened, unfortunately, is everyone has condemned leafy greens across the board as being involved. And that's simply just not the case.\n\nCORNISH: So, do you have an opinion on Taco Bell basically saying they're removing some ingredients from their menu, even though, as you said, they haven't heard from health officials about any one specific vegetable that's the problem?\n\nOSTERHOLM: Yes. I think you're going to hear today more information about a linkage to a specific source. I hope that's the case.\n\nI think this outbreak is one that really needs to be re-examined when it's all done, because I think, frankly, we should have had these answers weeks ago and didn't.\n\nAnd I can't attribute that to any one thing, other than a lack of overall leadership in responding to this.\n\nYesterday, the CDC put out what was called a health alert network award (ph). And at that point, that's something that should have been sent out four weeks ago, not at the end of this.\n\nI can say right now, I think the outbreak is over. And what I mean by that is this perishable item that came through the food system 4 to 6 weeks ago is gone. It's not there anymore.\n\nPeople are still sick. We're still going to hear about new cases because they're just now getting diagnosed. And as you heard on the lead-in on the social media commentary we just heard, there are people who are still very sick. The good news is they can be treated. The really also good news is\n\nthat leafy greens generally are very safe to eat.\n\nAnd the thing that I think is most frustrating for someone like me, who's been working on foodborne disease now for over 50 years, including cyclosporiasis, is the fact that we keep talking about how to minimize risk with leafy greens. And most of the stuff, there's no data to support it. Cutting head lettuce, open 2 or 3 leaves. There's no data to support that that makes a difference.\n\nThe idea that bagged lettuce is washed may not be as safe as others. In fact, it's much safer.\n\nAnd so, one of the challenges we've had is just a lot of people are on the air or in print, saying things that they don't know what they're talking about.\n\nCORNISH: Can I ask you a question, then? One of the things that is different right now is we're operating under a food safety system that has been dealt budgetary blows.\n\nSo, whether you're talking about 18 percent of the workforce at the USDA being gone.\n\nCORNISH: The public health funding that has been cut for state and local monitoring by epidemiologists; whether that's the fact that the mandatory tracking system, as we mentioned, for food surveillance, made cyclospora monitor -- monitoring optional; or even the fact that parasitic diseases --\n\nCORNISH: -- the department that tracks parasitic diseases dissolved completely.\n\nI hear you saying that things -- this happens all the time. As a reporter, I am looking at a safety net that looks like it has slightly bigger holes than it used to, and it makes us wonder if this could have been prevented sooner.\n\nOSTERHOLM: Yes, there's a lot of misinformation going around about this right now. Let me tell you, I'm not afraid to be critical of the federal government or even state governments with regard to respond.\n\nBut let's be really clear what the changes that occurred at CDC were, were eliminating certain diseases from what would be considered community laboratories. The food net system. These are ten sites where they do much more extensive study.\n\nThe way cases get reported to local and state health departments and the CDC is what -- through the national notifiable disease system. That has not changed.\n\nSo, this idea that somehow, what changes occurred at CDC basically caused this outbreak not to be well investigated, just simply aren't true.\n\nHowever, the problem we have is that in the first instance, like politics, all of foodborne disease investigations start at the state and local level.\n\nAnd today, 94 percent of all the budgets for all 50 state health departments depend on this federal support to achieve that, that level of protection. And right now, we're having challenges at the state and local health department where, in fact, these investigations begin.\n\nSo, that is a problem. But it's not what has been made the problem with this food net system. That's just a red herring.\n\nCORNISH: Today there's going to be a new CDC nominee in hearings on Capitol Hill. What do you think she'll be asked about this? Because I -- I have to admit, Dr. Osterholm, there's a couple people in their bathroom somewhere who are not comforted by you saying this is not as big an issue as the media is making it out to be.\n\nCORNISH: So, what do you think she will be asked to talk about, this new CDC nominee?\n\nOSTERHOLM: Yes. Well, let me be very clear. I'm not saying this isn't a big issue. Where it's bad, it's bad, but where it's not, it's not.\n\nAnd I think what's happened is you have heard over and over again, story after story, not isolating these cases.\n\nI mean, has anyone reported on CNN that there have been fewer than 300 cases West of the Mississippi tied to this outbreak? You know, that's a very different picture than what's happening in places like Michigan, Ohio, West Virginia and Kentucky.\n\nSo, I'm not minimizing it there.\n\nAnd I'm also not minimizing the people who are currently sick. Please see a physician. You can treat this disease quite easily. And it's horrible to think of people spending weeks and weeks with this horrible diarrhea. So -- so let's just be really clear.\n\nWhat we should have been doing is messaging where is the problem?"
+    }
+  ]
+}

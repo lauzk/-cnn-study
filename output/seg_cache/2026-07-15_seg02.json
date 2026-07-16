@@ -1,0 +1,675 @@
+{
+  "date": "2026-07-15",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-15/segment/02",
+  "vocabulary": [
+    {
+      "word": "diarrhea",
+      "phonetic": "/ˌdaɪəˈriːə/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "腹泻",
+      "en": "a condition in which feces are discharged from the bowels frequently and in a liquid form",
+      "excerpt": "Horrible to think of spending weeks and weeks with this horrible diarrhea.",
+      "example_cn": "他因腹泻而脱水。"
+    },
+    {
+      "word": "messaging",
+      "phonetic": "/ˈmesɪdʒɪŋ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "信息传达；消息发送",
+      "en": "the sending of messages; the act of communicating a message",
+      "excerpt": "So, let's just be really clear, what we should have been doing is messaging, where is the problem?",
+      "example_cn": "有效的消息传达对于危机管理至关重要。"
+    },
+    {
+      "word": "designate",
+      "phonetic": "/ˈdezɪɡneɪt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "指定者；被任命者",
+      "en": "a person who has been designated to do something",
+      "excerpt": "And as far as what the CDC director will say today, or a designate, I don't have a clue.",
+      "example_cn": "他被任命为委员会主席。"
+    },
+    {
+      "word": "confirmation hearing",
+      "phonetic": "/ˌkɑːnfərˈmeɪʃn ˈhɪrɪŋ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "确认听证会",
+      "en": "a hearing held by a legislative body to confirm a nominee for a position",
+      "excerpt": "the Epstein files could define Todd Blanche's confirmation hearing today.",
+      "example_cn": "最高法院大法官的确认听证会持续了三天。"
+    },
+    {
+      "word": "survivor",
+      "phonetic": "/sərˈvaɪvər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "幸存者",
+      "en": "a person who survives, especially a person remaining alive after an event in which others have died",
+      "excerpt": "We're going to have a survivor joining us live to talk about what she wants lawmakers to ask him.",
+      "example_cn": "她是那场空难的唯一幸存者。"
+    },
+    {
+      "word": "primetime",
+      "phonetic": "/ˈpraɪm taɪm/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "黄金时段的",
+      "en": "the time when the largest number of people are watching television or listening to the radio",
+      "excerpt": "Trump is promising a primetime address.",
+      "example_cn": "黄金时段的广告费用非常昂贵。"
+    },
+    {
+      "word": "integrity",
+      "phonetic": "/ɪnˈteɡrəti/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "完整；正直",
+      "en": "the quality of being honest and having strong moral principles; the state of being whole and undivided",
+      "excerpt": "It will be about election integrity.",
+      "example_cn": "他以其正直而闻名。"
+    },
+    {
+      "word": "strike",
+      "phonetic": "/straɪk/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "打击；罢工",
+      "en": "a military attack; a work stoppage",
+      "excerpt": "The U.S. has carried out a fourth day of strikes against Iran.",
+      "example_cn": "空袭摧毁了多个目标。"
+    },
+    {
+      "word": "Strait of Hormuz",
+      "phonetic": "/streɪt əv hɔːrˈmuːz/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "霍尔木兹海峡",
+      "en": "a strait between the Persian Gulf and the Gulf of Oman",
+      "excerpt": "hitting dozens of military targets near the Strait of Hormuz.",
+      "example_cn": "霍尔木兹海峡是重要的石油运输通道。"
+    },
+    {
+      "word": "blockade",
+      "phonetic": "/blɑːˈkeɪd/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "封锁",
+      "en": "an act or means of sealing off a place to prevent goods or people from entering or leaving",
+      "excerpt": "as a response to the U.S. naval blockade.",
+      "example_cn": "海军封锁切断了该岛的补给。"
+    },
+    {
+      "word": "bipartisan",
+      "phonetic": "/ˌbaɪpɑːrtɪˈzæn/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "两党的",
+      "en": "involving the agreement or cooperation of two political parties",
+      "excerpt": "That's according to a bipartisan panel.",
+      "example_cn": "该法案得到了两党的支持。"
+    },
+    {
+      "word": "liable",
+      "phonetic": "/ˈlaɪəbl/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "有责任的；易于…的",
+      "en": "responsible by law; likely to do something",
+      "excerpt": "a jury found him liable for sexual abuse and defamation.",
+      "example_cn": "如果造成损失，公司可能要承担责任。"
+    },
+    {
+      "word": "defamation",
+      "phonetic": "/ˌdefəˈmeɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "诽谤",
+      "en": "the action of damaging the good reputation of someone",
+      "excerpt": "a jury found him liable for sexual abuse and defamation.",
+      "example_cn": "她因诽谤提起了诉讼。"
+    },
+    {
+      "word": "allegation",
+      "phonetic": "/ˌæləˈɡeɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "指控；主张",
+      "en": "a claim or assertion that someone has done something illegal or wrong, typically one made without proof",
+      "excerpt": "The president has continued to deny Carroll's allegations.",
+      "example_cn": "他否认了所有指控。"
+    },
+    {
+      "word": "defunct",
+      "phonetic": "/dɪˈfʌŋkt/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "不再存在的；失效的",
+      "en": "no longer existing or functioning",
+      "excerpt": "the now defunct $1.8 billion anti-weaponization fund.",
+      "example_cn": "这家公司已经倒闭了。"
+    },
+    {
+      "word": "manipulate",
+      "phonetic": "/məˈnɪpjuleɪt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "操纵；控制",
+      "en": "to control or influence (someone or something) in a clever or unscrupulous way",
+      "excerpt": "an effort to, quote, \"manipulate the judicial process.\"",
+      "example_cn": "他试图操纵选举结果。"
+    },
+    {
+      "word": "credibility",
+      "phonetic": "/ˌkredəˈbɪləti/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "可信度",
+      "en": "the quality of being trusted and believed in",
+      "excerpt": "doubting Blanche's credibility to carry out the role",
+      "example_cn": "他的可信度受到了质疑。"
+    },
+    {
+      "word": "redact",
+      "phonetic": "/rɪˈdækt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "编辑；删减",
+      "en": "to edit (text) for publication; to censor or obscure",
+      "excerpt": "they had redacted all of the potential abusers",
+      "example_cn": "出于隐私考虑，姓名已被编辑。"
+    },
+    {
+      "word": "unredact",
+      "phonetic": "/ʌn rɪˈdækt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "取消编辑；恢复原状",
+      "en": "to reverse the redaction of; to make visible again",
+      "excerpt": "somehow unredacted all of your faces and names and images",
+      "example_cn": "文件中的敏感信息被取消编辑。"
+    },
+    {
+      "word": "sweetheart deal",
+      "phonetic": "/ˈswiːthɑːrt diːl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "私下交易；优惠协议",
+      "en": "a deal made between two parties that is very favorable to one side, often secretly",
+      "excerpt": "It replicates exactly, very similarly, what Epstein got.",
+      "example_cn": "批评者称该合同为私下交易。"
+    },
+    {
+      "word": "egregious",
+      "phonetic": "/ɪˈɡriːdʒiəs/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "极坏的；惊人的",
+      "en": "outstandingly bad; shocking",
+      "excerpt": "he is responsible for the egregious mistakes that were made",
+      "example_cn": "这是一个极其严重的错误。"
+    },
+    {
+      "word": "task force",
+      "phonetic": "/ˈtæsk fɔːrs/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "特别工作组",
+      "en": "a group of people brought together to carry out a specific task",
+      "excerpt": "a DEA task force, literal cartel hunters, joined in",
+      "example_cn": "政府成立了一个特别工作组来调查此事。"
+    },
+    {
+      "word": "cartel",
+      "phonetic": "/kɑːrˈtel/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "卡特尔；垄断集团",
+      "en": "an association of manufacturers or suppliers with the purpose of maintaining prices at a high level and restricting competition",
+      "excerpt": "literal cartel hunters",
+      "example_cn": "毒品卡特尔控制着该地区的贩毒活动。"
+    },
+    {
+      "word": "prosecution",
+      "phonetic": "/ˌprɑːsɪˈkjuːʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "起诉；检举",
+      "en": "the institution and conducting of legal proceedings against someone in respect of a criminal charge",
+      "excerpt": "referred two complaints to the district attorney's office for possible prosecution.",
+      "example_cn": "他面临刑事起诉。"
+    },
+    {
+      "word": "stymie",
+      "phonetic": "/ˈstaɪmi/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "阻碍；妨碍",
+      "en": "to prevent or hinder the progress of",
+      "excerpt": "the president has been stymied when it comes to making election reform changes.",
+      "example_cn": "谈判因分歧而受阻。"
+    },
+    {
+      "word": "purge",
+      "phonetic": "/pɜːrdʒ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "清除；清洗",
+      "en": "to remove (someone) from an organization or position in a sudden or violent way",
+      "excerpt": "removal of voters from the rolls. Georgia, of course, rejected a purge of voters in 2025.",
+      "example_cn": "该党清除了异己分子。"
+    },
+    {
+      "word": "strike down",
+      "phonetic": "/straɪk daʊn/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "推翻；废除",
+      "en": "to invalidate (a law or regulation) by judicial decision",
+      "excerpt": "Michigan struck down the removal of voters from the rolls.",
+      "example_cn": "最高法院推翻了该法律。"
+    },
+    {
+      "word": "declassify",
+      "phonetic": "/diːˈklæsɪfaɪ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "解密",
+      "en": "to officially declare (information or documents) to be no longer secret",
+      "excerpt": "But also to declassify findings like this.",
+      "example_cn": "政府决定解密这些文件。"
+    },
+    {
+      "word": "debunk",
+      "phonetic": "/diːˈbʌŋk/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "揭穿；驳斥",
+      "en": "to expose the falseness or hollowness of (a myth, idea, or belief)",
+      "excerpt": "even though they've been debunked time and time again.",
+      "example_cn": "科学家揭穿了这个神话。"
+    },
+    {
+      "word": "rigged",
+      "phonetic": "/rɪɡd/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "被操纵的",
+      "en": "dishonestly arranged to achieve a particular result",
+      "excerpt": "The sense in which I think the election in 2020 was rigged",
+      "example_cn": "他们声称选举被操纵了。"
+    },
+    {
+      "word": "obliterate",
+      "phonetic": "/əˈblɪtəreɪt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "消灭；抹去",
+      "en": "to destroy utterly; to wipe out",
+      "excerpt": "completely obliterated the real open exchange of ideas.",
+      "example_cn": "炸弹将整个村庄夷为平地。"
+    },
+    {
+      "word": "voter suppression",
+      "phonetic": "/ˈvoʊtər səˈpreʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "选民压制",
+      "en": "strategies used to prevent certain groups from voting",
+      "excerpt": "voter suppression, voter intimidation, and voter fear is a strategy",
+      "example_cn": "选民压制是民主的威胁。"
+    },
+    {
+      "word": "intimidation",
+      "phonetic": "/ɪnˌtɪmɪˈdeɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "恐吓；威胁",
+      "en": "the action of frightening or threatening someone",
+      "excerpt": "voter suppression, voter intimidation, and voter fear is a strategy",
+      "example_cn": "目击者受到了恐吓。"
+    },
+    {
+      "word": "ginormous",
+      "phonetic": "/dʒaɪˈnɔːrməs/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "巨大的",
+      "en": "extremely large",
+      "excerpt": "passed this ginormous bill",
+      "example_cn": "他们建造了一座巨大的建筑。"
+    },
+    {
+      "word": "rectify",
+      "phonetic": "/ˈrektɪfaɪ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "纠正；改正",
+      "en": "to put right; to correct",
+      "excerpt": "And he wants to see that rectified.",
+      "example_cn": "我们必须尽快纠正这个错误。"
+    },
+    {
+      "word": "affordability crisis",
+      "phonetic": "/əˌfɔːrdəˈbɪləti ˈkraɪsɪs/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "可负担性危机",
+      "en": "a situation where many people cannot afford basic necessities",
+      "excerpt": "the affordability crisis is top priority for Americans",
+      "example_cn": "住房可负担性危机正在加剧。"
+    },
+    {
+      "word": "bare minimum",
+      "phonetic": "/ber ˈmɪnɪməm/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "最低限度",
+      "en": "the smallest possible amount or degree",
+      "excerpt": "That should be like a bare minimum, like, standard.",
+      "example_cn": "我们只做了最低限度的工作。"
+    },
+    {
+      "word": "conspiracy theorist",
+      "phonetic": "/kənˈspɪrəsi ˈθɪərɪst/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "阴谋论者",
+      "en": "a person who believes in or promotes conspiracy theories",
+      "excerpt": "two known far-right conspiracy theorist, Jacob Wohl, Jack Burkman",
+      "example_cn": "阴谋论者声称政府隐瞒了真相。"
+    },
+    {
+      "word": "pardon advocate",
+      "phonetic": "/ˈpɑːrdn ˈædvəkeɪt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "赦免倡导者",
+      "en": "a person who advocates for a pardon",
+      "excerpt": "who are also pardon advocates",
+      "example_cn": "赦免倡导者正在游说总统。"
+    },
+    {
+      "word": "apparatus",
+      "phonetic": "/ˌæpəˈrætəs/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "机构；装置",
+      "en": "the complex structure of a particular organization or system",
+      "excerpt": "the pardon apparatus has changed.",
+      "example_cn": "政府的宣传机器全力运作。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "And as far as what the CDC director will say today, or a designate, I don't have a clue.",
+      "cn": "至于CDC主任或指定代表今天会说什么，我完全不知道。",
+      "structure": "复合句，主句为I don't have a clue，as far as引导状语从句，从句中what引导宾语从句。",
+      "analysis": "as far as表示“就……而言”，what引导的从句作介词as far as的宾语。"
+    },
+    {
+      "en": "The Epstein files could define Todd Blanche's confirmation hearing today.",
+      "cn": "爱泼斯坦文件可能会决定今天托德·布兰奇的确认听证会。",
+      "structure": "简单句，主语The Epstein files，谓语could define，宾语Todd Blanche's confirmation hearing。",
+      "analysis": "define在此处意为“决定……的结果”。"
+    },
+    {
+      "en": "Survivors of Epstein's abuse have released a series of PSA's doubting Blanche's credibility to carry out the role after personal details were leaked with the release of the files at the time he was deputy attorney general.",
+      "cn": "爱泼斯坦虐待案的幸存者发布了一系列公益广告，质疑布兰奇担任该职务的可信度，因为在他担任副司法部长期间，文件公布时个人详细信息被泄露。",
+      "structure": "复合句，主句为Survivors...have released...PSA's，现在分词短语doubting...作定语修饰PSA's，after引导时间状语从句，从句中包含at the time he was...。",
+      "analysis": "PSA是public service announcement的缩写。doubting...现在分词短语作后置定语。"
+    },
+    {
+      "en": "When he says there was nothing to investigate, this is what I'd like to ask you.",
+      "cn": "当他说没什么可调查时，这正是我想问你的。",
+      "structure": "复合句，when引导时间状语从句，主句为this is what I'd like to ask you，what引导表语从句。",
+      "analysis": "what引导表语从句，在从句中作ask的宾语。"
+    },
+    {
+      "en": "If there are six million files collected over 20 years, to the point where in 2015 a DEA task force, literal cartel hunters, joined in across multiple departments working on this, spending millions of taxpayer dollars, and he's saying it was for two people.",
+      "cn": "如果20年间收集了600万份文件，以至于2015年一个DEA特别工作组（真正的卡特尔猎手）跨多个部门参与其中，花费了数百万纳税人的钱，而他却说这只是为了两个人。",
+      "structure": "复合句，if引导条件状语从句，主句省略（隐含质疑），从句中包含where引导的定语从句修饰point，and连接并列谓语。",
+      "analysis": "to the point where...表示“到……的程度”。literal cartel hunters是同位语。"
+    },
+    {
+      "en": "The whole debate over the Trump administration's settlement with the IRS is that that was kind of a sweetheart deal, that the administration settled with itself and in that settlement gave itself money and, you know, all kinds of privileges.",
+      "cn": "关于特朗普政府与国税局和解的整个争论是，那是一种私下交易，政府与自己和解，并在和解中给了自己钱和各种特权。",
+      "structure": "复合句，主句为The whole debate...is that...，that引导表语从句，从句中包含两个that从句（第一个是表语，第二个是同位语）。",
+      "analysis": "第一个that引导表语从句，第二个that引导同位语从句解释sweetheart deal。"
+    },
+    {
+      "en": "They definitely believe that Blanche is going to be on the defense.",
+      "cn": "他们确信布兰奇将处于守势。",
+      "structure": "复合句，主句They believe，that引导宾语从句。",
+      "analysis": "on the defense意为“处于防守状态”。"
+    },
+    {
+      "en": "And so you're going to see him get a lot of questions about that fund.",
+      "cn": "所以你会看到他收到很多关于那笔基金的问题。",
+      "structure": "简单句，主语you，谓语are going to see，宾语him，get...作宾语补足语。",
+      "analysis": "see sb. do sth.表示“看到某人做某事”。"
+    },
+    {
+      "en": "And folks directly link that to Todd Blanche.",
+      "cn": "人们直接将其与托德·布兰奇联系起来。",
+      "structure": "简单句，主语folks，谓语link，宾语that，to Todd Blanche作状语。",
+      "analysis": "link A to B意为“将A与B联系起来”。"
+    },
+    {
+      "en": "And so you're going to see him get questions, really heated questions, from a plethora of different senators on both sides on a bevy of issues that he's going to have to be prepared for and answer correctly so that he gets at least Republicans on his side when it comes to pushing him through.",
+      "cn": "所以你会看到他收到来自两党众多参议员关于一系列问题的非常激烈的问题，他必须做好准备并正确回答，以便在推动他通过时至少获得共和党人的支持。",
+      "structure": "复合句，主句you're going to see him get questions，that引导定语从句修饰issues，so that引导目的状语从句，when it comes to...是时间状语。",
+      "analysis": "a plethora of和a bevy of都表示“大量”。when it comes to意为“当谈到……时”。"
+    },
+    {
+      "en": "Since Blanche won't meet with us, we are asking senators to meet with us.",
+      "cn": "既然布兰奇不愿见我们，我们正在请求参议员们与我们见面。",
+      "structure": "复合句，since引导原因状语从句，主句为we are asking senators to meet with us。",
+      "analysis": "ask sb. to do sth.意为“请求某人做某事”。"
+    },
+    {
+      "en": "Unless there's something, you know, reasonable, some reasonable reason for me not to pass Todd Blanche through, I'm going to pass him through.",
+      "cn": "除非有什么合理的理由让我不通过托德·布兰奇，否则我会让他通过。",
+      "structure": "复合句，unless引导条件状语从句，主句为I'm going to pass him through。",
+      "analysis": "pass through意为“使通过”。"
+    },
+    {
+      "en": "The political dynamics will have certainly have an impact on whether or not he's confirmed or not or how swiftly he is confirmed or not.",
+      "cn": "政治动态肯定会影响他是否被确认以及确认的速度。",
+      "structure": "复合句，主句The political dynamics will have an impact on，whether...or not和how...引导宾语从句作介词on的宾语。",
+      "analysis": "have an impact on意为“对……有影响”。"
+    },
+    {
+      "en": "This is expected to be yet another opportunity for the president to also dispute the results of the 2020 election, which he lost.",
+      "cn": "这预计将是总统再次质疑2020年大选结果的又一个机会，而他输掉了那次选举。",
+      "structure": "复合句，主句This is expected to be...，which引导非限制性定语从句修饰the 2020 election。",
+      "analysis": "be expected to do意为“预计会做”。dispute意为“质疑”。"
+    },
+    {
+      "en": "Sources tell CNN, what the president is expected to focus on is voting machine security, and alleged that efforts by foreign nations to influence U.S. elections has occurred.",
+      "cn": "消息人士告诉CNN，总统预计将重点关注投票机安全，并声称外国影响美国选举的努力已经发生。",
+      "structure": "复合句，主句Sources tell CNN，what引导主语从句，and alleged that...是并列谓语。",
+      "analysis": "what引导主语从句，在从句中作focus on的宾语。allege意为“声称”。"
+    },
+    {
+      "en": "The backdrop to this is the president has been stymied when it comes to making election reform changes.",
+      "cn": "其背景是总统在选举改革方面一直受阻。",
+      "structure": "复合句，主句The backdrop to this is...，省略that的表语从句，从句中包含when it comes to...时间状语。",
+      "analysis": "stymie意为“阻碍”。when it comes to意为“当谈到……时”。"
+    },
+    {
+      "en": "This is something that is very personal to the president.",
+      "cn": "这对总统来说是非常个人化的事情。",
+      "structure": "复合句，主句This is something，that引导定语从句修饰something。",
+      "analysis": "be personal to sb.意为“对某人来说是私人的”。"
+    },
+    {
+      "en": "He's been talking about this for years, he just won't move off of the 2020 positions, even though they've been debunked time and time again.",
+      "cn": "他多年来一直在谈论这件事，就是不肯放弃2020年的立场，尽管这些立场一再被揭穿。",
+      "structure": "并列复合句，第一个分句He's been talking，第二个分句he won't move off，even though引导让步状语从句。",
+      "analysis": "move off of意为“离开；放弃”。debunk意为“揭穿”。"
+    },
+    {
+      "en": "If he calls Georgia's senators illegitimate, he is calling Georgia's voters illegitimate.",
+      "cn": "如果他称佐治亚州的参议员不合法，那他就是在称佐治亚州的选民不合法。",
+      "structure": "复合句，if引导条件状语从句，主句为he is calling...。",
+      "analysis": "illegitimate意为“不合法的”。"
+    },
+    {
+      "en": "The sense in which I think the election in 2020 was rigged, I'm sorry, is that you had technology companies that were putting their thumb on the scale in a way that completely obliterated the real open exchange of ideas.",
+      "cn": "我认为2020年大选被操纵的意义在于，科技公司以完全抹杀真正开放思想交流的方式施加了影响。",
+      "structure": "复合句，主句The sense...is that...，in which引导定语从句修饰sense，that引导表语从句，表语从句中包含that引导的定语从句修饰companies，以及in a way that...方式状语。",
+      "analysis": "put one's thumb on the scale意为“施加不公平影响”。obliterate意为“抹杀”。"
+    },
+    {
+      "en": "The first election before I could actually vote was 2000, right?",
+      "cn": "在我真正能投票之前的第一次选举是2000年，对吧？",
+      "structure": "复合句，主句The first election...was 2000，before引导时间状语从句。",
+      "analysis": "before引导从句，表示“在……之前”。"
+    },
+    {
+      "en": "It's hurting young people and their energy to vote.",
+      "cn": "这正在伤害年轻人及其投票的积极性。",
+      "structure": "简单句，主语It，谓语is hurting，宾语young people and their energy to vote。",
+      "analysis": "energy to vote意为“投票的积极性”。"
+    },
+    {
+      "en": "You could fix it with two things, voter I.D., very simple, high support, and getting your election and your votes counted on the same day.",
+      "cn": "你可以用两件事来解决：选民身份证（非常简单，支持率高）以及让选举和计票在同一天完成。",
+      "structure": "简单句，主语You，谓语could fix，宾语it，with引导方式状语。",
+      "analysis": "voter I.D.和getting...是并列的名词短语。"
+    },
+    {
+      "en": "The largest case of election fraud in modern history happened in North Carolina, in the Dan McCready district, by which a Republican operative was convicted for his crimes in his involvement in that election.",
+      "cn": "现代史上最大的选举舞弊案发生在北卡罗来纳州的丹·麦克雷迪选区，一名共和党特工因参与该选举而被定罪。",
+      "structure": "复合句，主句The largest case...happened...，by which引导定语从句修饰case。",
+      "analysis": "by which相当于by the case。be convicted for意为“因……被定罪”。"
+    },
+    {
+      "en": "When you hear Republicans talk about election fraud, then you should turn to...",
+      "cn": "当你听到共和党人谈论选举舞弊时，你应该转向……",
+      "structure": "复合句，when引导时间状语从句，主句为you should turn to...。",
+      "analysis": "hear sb. do sth.意为“听到某人做某事”。"
+    },
+    {
+      "en": "We're in a moment where we're back to war with Iran.",
+      "cn": "我们正处于与伊朗再次开战的时刻。",
+      "structure": "复合句，主句We're in a moment，where引导定语从句修饰moment。",
+      "analysis": "be back to意为“回到”。"
+    },
+    {
+      "en": "The SAVE America Act is what the president talks about is what he wants to see.",
+      "cn": "SAVE美国法案是总统谈论的，也是他想看到的。",
+      "structure": "复合句，主句The SAVE America Act is...，what引导表语从句，从句中又包含what引导的宾语从句。",
+      "analysis": "第一个what引导表语从句，第二个what引导宾语从句作talks about的宾语。"
+    },
+    {
+      "en": "It is also a lot of cultural issues that are also in this.",
+      "cn": "其中还包括许多文化问题。",
+      "structure": "复合句，主句It is also a lot of cultural issues，that引导定语从句修饰issues。",
+      "analysis": "that在从句中作主语。"
+    },
+    {
+      "en": "I think this speech is going to, not just be talking about all the things that he wants to see change, but putting pressure on them to do so.",
+      "cn": "我认为这次演讲不仅会谈论他想看到改变的所有事情，还会向他们施压，要求他们这样做。",
+      "structure": "复合句，主句I think，省略that的宾语从句，从句中not just...but...连接并列谓语。",
+      "analysis": "put pressure on sb. to do sth.意为“向某人施压做某事”。"
+    },
+    {
+      "en": "It's a proof of citizenship bill.",
+      "cn": "这是一项公民身份证明法案。",
+      "structure": "简单句，主语It，谓语is，宾语a proof of citizenship bill。",
+      "analysis": "proof of citizenship意为“公民身份证明”。"
+    },
+    {
+      "en": "I feel like Democrats tend to talk about these issues and really big suppression democracy, it's over terms, instead of just being like, here are all the ways this is going to make your life harder.",
+      "cn": "我觉得民主党人倾向于谈论这些问题和非常严重的压制民主，用一些大词，而不是直接说，这就是所有会让你的生活更艰难的方式。",
+      "structure": "复合句，主句I feel like，省略that的宾语从句，从句中tend to talk about...instead of...。",
+      "analysis": "tend to do意为“倾向于做”。instead of意为“而不是”。"
+    },
+    {
+      "en": "When it comes to prioritizing what's important to the American people, the affordability crisis is top priority for Americans that Republicans have created.",
+      "cn": "当谈到优先考虑对美国人民重要的事情时，可负担性危机是共和党人为美国人制造的头等大事。",
+      "structure": "复合句，when引导时间状语从句，主句为the affordability crisis is top priority，that引导定语从句修饰Americans。",
+      "analysis": "prioritize意为“优先考虑”。top priority意为“头等大事”。"
+    },
+    {
+      "en": "You just admitted that you don't have to prove citizenship in order to participate in America's elections.",
+      "cn": "你刚刚承认了，为了参与美国选举，你不需要证明公民身份。",
+      "structure": "复合句，主句You admitted，that引导宾语从句，in order to...作目的状语。",
+      "analysis": "admit意为“承认”。in order to意为“为了”。"
+    },
+    {
+      "en": "We had a problem with elections broadly by the Republican Party when Donald Trump came on the scene.",
+      "cn": "当唐纳德·特朗普出现时，共和党在选举方面普遍存在问题。",
+      "structure": "复合句，主句We had a problem，when引导时间状语从句。",
+      "analysis": "have a problem with意为“在……方面有问题”。come on the scene意为“出现”。"
+    },
+    {
+      "en": "My group chat has been filled with folks talking about a story that I broke with \"NOTUS\" and my colleague Taylor Giorno about a little rapper, Boosie Badazz, paying $600,000 to two known far-right conspiracy theorist, Jacob Wohl, Jack Burkman, who are also pardon advocates, basically trying to get a pardon.",
+      "cn": "我的群聊里充满了人们谈论我和我的同事泰勒·乔尔诺在“NOTUS”上爆料的一个故事，关于一个小说唱歌手Boosie Badazz向两名已知的极右翼阴谋论者Jacob Wohl和Jack Burkman支付60万美元，这两人也是赦免倡导者，基本上是在试图获得赦免。",
+      "structure": "复合句，主句My group chat has been filled with folks，现在分词talking about...作定语修饰folks，that引导定语从句修饰story，who引导定语从句修饰theorist。",
+      "analysis": "break a story意为“爆料”。pay...to...意为“向……支付……”。"
+    },
+    {
+      "en": "He's not paying for the pardon, he's paying these advocates to advocate to him to the administration to be pardoned.",
+      "cn": "他不是在花钱买赦免，而是付钱给这些倡导者，让他们向政府为他游说以获得赦免。",
+      "structure": "并列句，两个分句由逗号连接。",
+      "analysis": "pay sb. to do sth.意为“付钱给某人做某事”。advocate to sb.意为“向某人游说”。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "Todd Blanche Confirmation Hearing",
+      "content": "Todd Blanche, acting Attorney General, faces Senate Judiciary Committee for confirmation to lead DOJ. Issues include Epstein file release, Ghislaine Maxwell interview, and anti-weaponization fund. Survivors and Democrats oppose his nomination.",
+      "keywords": "Todd Blanche, confirmation hearing, Epstein files, Ghislaine Maxwell, DOJ, Senate Judiciary Committee"
+    },
+    {
+      "title": "Epstein Case and Survivor Advocacy",
+      "content": "Epstein survivor Jess Michaels criticizes Blanche for mishandling files and giving Maxwell a 'sweetheart deal'. Survivors demand accountability and investigation into the vast Epstein network.",
+      "keywords": "Epstein, Jess Michaels, survivor, Ghislaine Maxwell, sweetheart deal, DOJ"
+    },
+    {
+      "title": "U.S.-Iran Conflict",
+      "content": "U.S. conducts fourth day of strikes against Iran near Strait of Hormuz. Iran threatens to block energy export routes. Over 30 killed. Tensions escalate.",
+      "keywords": "Iran, strikes, Strait of Hormuz, blockade, military, energy exports"
+    },
+    {
+      "title": "Election Integrity and Voter ID Debate",
+      "content": "Trump plans primetime address on election security, focusing on voting machines and foreign interference. Debate over SAVE Act, voter ID, and claims of voter fraud. Democrats call it voter suppression.",
+      "keywords": "election integrity, voter ID, SAVE Act, Trump, voter suppression, Georgia, 2020 election"
+    },
+    {
+      "title": "Elon Musk and Wisconsin Election Law",
+      "content": "Elon Musk likely violated Wisconsin law by giving $1 million checks to voters in 2025 state supreme court election. Bipartisan panel refers complaints for prosecution.",
+      "keywords": "Elon Musk, Wisconsin, election law, $1 million checks, prosecution"
+    },
+    {
+      "title": "E. Jean Carroll vs. Trump",
+      "content": "E. Jean Carroll receives over $5 million from Trump after jury found him liable for sexual abuse and defamation. Trump denies allegations.",
+      "keywords": "E. Jean Carroll, Trump, sexual abuse, defamation, payment"
+    },
+    {
+      "title": "Pardon Advocacy and Boosie Badazz",
+      "content": "Rapper Boosie Badazz pays $600,000 to far-right conspiracy theorists Jacob Wohl and Jack Burkman to advocate for a pardon from the Trump administration.",
+      "keywords": "Boosie Badazz, pardon, Jacob Wohl, Jack Burkman, conspiracy theorist, Trump"
+    },
+    {
+      "title": "Senate Dynamics and Confirmation Process",
+      "content": "Senate dynamics shift after primaries, with senators more willing to challenge nominees. Blanche faces tough questions from both parties.",
+      "keywords": "Senate, confirmation, Todd Blanche, primaries, political dynamics"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nEpstein Survivor Jess Michaels is Interviewed about Blanche's Nomination; Trump to Discuss Elections in Speech. Aired 6:30-7a ET\n\nAired July 15, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nDR. MICHAEL OSTERHOLM, DIRECTOR, CENTER FOR INFECTIOUS DISEASE RESEARCH AND POLICY, UNIVERSITY OF MINNESOTA: Horrible to think of spending weeks and weeks with this horrible diarrhea.\n\nSo, let's just be really clear, what we should have been doing is messaging, where is the problem? How can we deal with the problem in those locations I just mentioned.\n\nAnd as far as what the CDC director will say today, or a designate, I don't have a clue. You know, at this point, I think it's going to be a challenge to just deal with issues around vaccines and so forth on this committee.\n\nAUDIE CORNISH, CNN ANCHOR: OK. That's Dr. Michael Osterholm. Thank you so much.\n\nOSTERHOLM: Thank you.\n\nCORNISH: And straight ahead on CNN THIS MORNING, the Epstein files could define Todd Blanche's confirmation hearing today. We're going to have a survivor joining us live to talk about what she wants lawmakers to ask him.\n\nPlus, Trump is promising a primetime address. It will be about election integrity.\n\nCORNISH: Good morning, everybody. I'm Audie Cornish. I want to thank you for joining me on CNN THIS MORNING.\n\nIt's now half past the hour. And here's what's happening right now.\n\nThe U.S. has carried out a fourth day of strikes against Iran, hitting dozens of military targets near the Strait of Hormuz. An Iranian spokesperson says seven military members were killed overnight. More than 30 people have been killed in the past several days. Iran's military is now threatening to stop energy export routes in the Middle East altogether as a response to the U.S. naval blockade. Elon Musk likely broke Wisconsin law when he handed out $1 million\n\nchecks to voters in the 2025 state supreme court election. That's according to a bipartisan panel. Now, the Wisconsin Elections Commission has referred two complaints to the district attorney's office for possible prosecution.\n\nAnd E. Jean Carroll received more than $5 million from President Trump. The payment comes more than three years after a jury found him liable for sexual abuse and defamation in a civil case. The president has continued to deny Carroll's allegations.\n\nAnd in just a few hours, Acting Attorney General Todd Blanche will face the Senate Judiciary Committee for his confirmation hearing to lead the Department of Justice. Now, he's expected to face tough questions on the now defunct $1.8 billion anti-weaponization fund. A federal judge this week called the lawsuit, which led to that fund, an effort to, quote, \"manipulate the judicial process.\"\n\nAnd Senate Democrats are also expected to call on an Epstein survivor to testify at today's hearing. Survivors of Epstein's abuse have released a series of PSA's doubting Blanche's credibility to carry out the role after personal details were leaked with the release of the files at the time he was deputy attorney general.\n\nUNIDENTIFIED FEMALE: Todd Blanche failed us.\n\nUNIDENTIFIED FEMALE: He failed victims everywhere.\n\nUNIDENTIFIED FEMALE: We deserve better.\n\nUNIDENTIFIED FEMALE: Our country deserves better.\n\nUNIDENTIFIED FEMALE: Vote no on Todd Blanche for attorney general.\n\nUNIDENTIFIED FEMALE: Vote no.\n\nUNIDENTIFIED FEMALE: No.\n\nUNIDENTIFIED FEMALE: No.\n\nUNIDENTIFIED FEMALE: No.\n\nUNIDENTIFIED FEMALE: Vote no on Todd Blanche.\n\nCORNISH: Joining us now in the group chat, Jess Michaels, one of the survivors of Epstein.\n\nI think I saw you in that video.\n\nAnd there's a couple issues I think survivors have had with Blanche. One is, when the department released files, they had redacted all of the potential abusers and somehow unredacted all of your faces and names and images, right? So, there is that.\n\nAnd then around this time last year, Blanche interviewed Ghislaine Maxwell. And, after that, she was transferred to a lower security prison. And he was asked a while back about the goals of that interview. And here's what he said.\n\nTODD BLANCHE, ATTORNEY GENERAL NOMINEE: The point of the interview was not for me to pressure test every single answer she gave. Of course not. The point of the interview was to give her an opportunity to speak, which nobody had done before. And so, she had been -- she had been in prison for many, many years. And she had offered to speak on many, many occasions. And she was never given that opportunity.\n\nCORNISH: Is this one of the sources of your frustration with him, or is there something more?\n\nJESS MICHAELS, EPSTEIN SURVIVOR: Well, it really is the second sweetheart deal in this case, right? It replicates exactly, very similarly, what Epstein got. So, it's very frustrating that Ghislaine Maxwell is getting more protection, more attention from the DOJ than any of the victims. I mean nine hours with her and we've had zero.\n\nCORNISH: Here's what he said when people were asking him, hey, are there going to be any other investigations? What more could there be? He said this in February.\n\nTODD BLANCHE, ATTORNEY GENERAL NOMINEE: I can't talk about any investigations. But I will say the following, which is that, in July, the Department of Justice said that we had reviewed the files, the, quote, \"Epstein files,\" and that there was nothing in there that allowed us to prosecute anybody.\n\nNow, there's a lot of correspondence, there's a lot of emails, there's a lot of photographs, there's a lot of horrible photographs that appear to be taken by Mr. Epstein or people around him. But that doesn't allow us necessarily to prosecute somebody.\n\nCORNISH: What is it that you would expect under a Blanche Justice Department, different from a Bondi Justice Department, or is the issue Trump?\n\nMICHAELS: I don't know whether the issue is Trump. I mean, Blanche is Trump's personal criminal attorney. So, we, you know, can make an assumption there.\n\nWhat I know is that Pam Bondi said that Blanche was in charge of the release of these files. And so he is responsible for the egregious mistakes that were made and that have never been addressed.\n\nWhen he says there was nothing to investigate, this is what I'd like to ask you. If there are six million files collected over 20 years, to the point where in 2015 a DEA task force, literal cartel hunters, joined in across multiple departments working on this, spending millions of taxpayer dollars, and he's saying it was for two people.\n\nCORNISH: I think at a certain point the administration has been hoping that this would go away.\n\nCORNISH: It seems pretty clear.\n\nTerry, will it or does every time someone like this comes up, and Jess comes up and says, hey, don't forget about us, it doesn't go away.\n\nTERRY SCHILLING, PRESIDENT, AMERICAN PRINCIPLES PROJECT: Well, I certainly hope it doesn't go away, at least until we get justice for the victims. And I think there's a lot of people that agree with me and --\n\nCORNISH: Do you think the administration believes that? If they're saying there's nothing more to investigate, do you see an administration that says, there's more justice to be gotten?\n\nSCHILLING: I don't. I would say that there are people within the administration that do want to get justice here. But we have to remember, 20 years, six million files. This is a failure, not of Todd Blanche, not of Donald Trump. This is a failure of every single FBI administration, every single DOJ official, every single president since then.\n\nCORNISH: Do you agree with that?\n\nMICHAELS: We've said that. We've said it's five administrations. In fact, this is just falling in line.\n\nMICHAELS: So, that's the problem is they say, oh, well we released files. No, you actually created the exact same situation that we've said over and over again for decades, that no one is investigating what we're telling them is there.\n\nCORNISH: Yes. You know, Jess used the phrase \"sweetheart deals,\" and I want to follow up on that because the whole debate over the Trump administration's settlement with the IRS is that that was kind of a sweetheart deal, that the administration settled with itself and in that settlement gave itself money and, you know, all kinds of privileges. No audits, for example.\n\nDo they foresee a Blanche being on the defense for the whole day today for more than even what Pam Bondi had to deal with?\n\nJASMINE WRIGHT, WHITE HOUSE CORRESPONDENT, \"NOTUS\": They definitely believe that Blanche is going to be on the defense. He's been preparing for this moment. I think he will get a lot of questions about that fund. Thom Tillis, senator from North Carolina, we know he's retiring, has said that he wants to push Blanche through, but he won't unless he gets the answers that satisfy his questions over that fund. He's not the only one that feels that way. And so you're going to see him get a lot of questions about that.\n\nYou're going to see him get a lot of questions about some of these criminalization efforts of people who are perceived to be Trump's foes. You're going to see him get a lot of questions about the downsizing of DOJ. They've lost thousands of career attorneys and other folks within the building.\n\nCORNISH: Yes. He's (ph) actually gone to some states.\n\nWRIGHT: And folks directly link that to Todd Blanche. And so you're going to see him get questions, really heated questions, from a plethora of different senators on both sides on a bevy of issues that he's going to have to be prepared for and answer correctly so that he gets at least Republicans on his side when it comes to pushing him through.\n\nCORNISH: Do you expect answers or do you expect stock replies?\n\nMICHAELS: So, we actually started Blanche bingo in our group chat.\n\nCORNISH: In your group chat.\n\nMICHAELS: In fact, all of the -- and, again, all of the --\n\nCORNISH: Because you expect --\n\nMICHAELS: Because we have certain expectations of what, you know, will there be a binder? Will, you know, will they (ph) say there was nothing to investigate? You know, there are so --\n\nCORNISH: Check. Drink. Drink. Drink.\n\nMICHAELS: Exactly. Exactly.\n\nCORNISH: Gallows humor --\n\nCORNISH: On a story that I don't know how you guys have had any resilience through. And you have. You have. I --\n\nCan I -- can I say one thing when you're talking about Tillis too? If -- since Blanche won't meet with us, we are asking senators to meet with us. Senator Tillis, Senator Cornyn, Senator Kennedy. CORNISH: Have they said yes?\n\nMICHAELS: No, we can't get through to their office. So, we're -- they're -- as we understand it from Senator Tillis specifically said, unless there's something, you know, reasonable, some reasonable reason for me not to pass Todd Blanche through, I'm going to pass him through. And I'm like, well, hello, there are over a thousand of us. Those are reasonable --\n\nANTJUAN SEAWRIGHT, DEMOCRATIC STRATEGIST: Audie, I would say the dynamics in the Senate have changed now for this confirmation process.\n\nCORNISH: Yes, especially post all these primaries.\n\nSEAWRIGHT: Post all these primaries. People have nothing to lose. And, quite frankly, they've seen the behavior of some of these cabinet officials and secretaries. And so, the political dynamics will have certainly have an impact on whether or not he's confirmed or not or how swiftly he is confirmed or not. And I think people are looking for something different because the American people are now demanding something different.\n\nCORNISH: I think how swiftly maybe is the issue.\n\nWell, thank you so much for talking with us.\n\nCORNISH: Hope to see you back. Jess Michaels.\n\nNext on CNN THIS MORNING, we're going to talk about something, I don't know, an hour of sleep or an hour of sunlight.\n\nCongress says it may be time to stop doing both. They want a new daylight savings bill that could change our lives.\n\nPlus, President Trump is back in 2020. He's going to talk about why two Georgia's -- Georgia's two sitting senators are in the spotlight.\n\nSEN. JON OSSOFF (D-GA): Privately, most elected Republicans in this building think the president has lost it.\n\nCORNISH: OK, so that's Georgia's Democratic Senator Jon Ossoff. He's reacting to President Trump's plan to deliver a primetime address tomorrow night.\n\nWhat is he going to discuss? Quote, \"new findings\" about the security of American elections.\n\nNow, this is expected to be yet another opportunity for the president to also dispute the results of the 2020 election, which he lost.\n\nDONALD TRUMP, PRESIDENT OF THE UNITED STATES: It's really, really big news. And our country has to shape up. But that's what we're going to be talking about Thursday is, it doesn't get bigger because without free and fair elections, you don't have a country.\n\nCORNISH: So, sources tell CNN, what the president is expected to focus on is voting machine security, and alleged that efforts by foreign nations to influence U.S. elections has occurred.\n\nAnd the group chat is back.\n\nThe backdrop to this is the president has been stymied when it comes to making election reform changes. He did several executive orders in Arizona, they blocked him, removal of voters from the rolls. Georgia, of course, rejected a purge of voters in 2025. Michigan struck down the removal of voters from the rolls. Never mind the fact that the SAVE Act is stalled.\n\nWRIGHT: Yes, I think the DOJ just lost their 15th attempt to grab voter rolls in the state in court.\n\nCORNISH: Did you just say 15?\n\nWRIGHT: Fifteen. Zero out of 15.\n\nSEAWRIGHT: Idaho (INAUDIBLE).\n\nCORNISH: Not a blue state.\n\nSEAWRIGHT: Not a blue state. Idaho's attorney general sent the letter basically telling them to chill out.\n\nWRIGHT: Yes. So, they are not doing well in that regard.\n\nLook, I think this is a natural evolution of putting Bill Pulte into the ODNI position.\n\nWRIGHT: He put him in, he said in his own words, to kind of purge what they believe is the deep state aspect of ODNI, the folks who they don't believe are doing anything.\n\nCORNISH: And this is the office that is supposed to help coordinate and oversee all the intelligence offices.\n\nWRIGHT: Yes, the national intelligence office. Yes.\n\nWRIGHT: But also to declassify findings like this. Tulsi Gabbard was doing it when she was at the head of that position. Now, Bill Pulte perhaps is going to be doing it as well.\n\nThis is something that is very personal to the president. He's been talking about this for years. He just won't move off of the 2020 positions, even though they've been debunked time and time again. And no administration have really put up evidence to show that there has been widespread voter fraud.\n\nCORNISH: But this is what he's expected to talk about tomorrow. As we said, our reporting is that he's going to allege some sort of issue in Georgia.\n\nThis is Senator Ossoff talking about why he thinks the president is going to make this speech tomorrow night.\n\nSEN. JON OSSOFF (D-GA): If he calls Georgia's senators illegitimate, he is calling Georgia's voters illegitimate.\n\nHe fears defeat in the midterms. And that explains his spiral into conspiracy theories. Conspiracy theories that put Georgia Republicans in a terrible bind.\n\nCORNISH: Then I want to play one more thing for you. This is Bill Maher. This was in June. J.D. Vance -- sorry, I think it was actually, yes, late June, and J.D. Vance was on the show talking about election integrity. Here's Bill Maher.\n\nBILL MAHER, HOST, \"REAL TIME WITH BILL MAHER\": Here's my deal breaker for your side.\n\nJ.D. VANCE, VICE PRESIDENT OF THE UNITED STATES: OK.\n\nMAHER: OK. Under Trump, you guys have two outcomes in an election can be, either we win or they cheated. That shit has to stop.\n\nVANCE: The sense in which I think the election in 2020 was rigged, I'm sorry, is that you had technology companies that were putting their thumb on the scale in a way that completely obliterated the real open exchange of ideas.\n\nCORNISH: Terry, which one do you want to take their, Maher or Vance?\n\nSCHILLING: Look, I'm with Vance on this. I think there was a lot with big tech. I know, I know, but --\n\nCORNISH: But what is your response to someone like Maher, who has been very open to Trump? He's not a never-Trumper.\n\nSCHILLING: Agreed (ph).\n\nCORNISH: He doesn't have Trump derangement syndrome. And he's like, we don't buy the either we win or they cheated.\n\nCORNISH: Because I think a lot of Americans hear that when the president describes the scenario of any election outcome.\n\nSCHILLING: Look, the first election before I could actually vote was 2000, right? And Democrats have been playing the same game. We shouldn't pretend otherwise.\n\nBut the reality is, is that America is a $6.5 billion -- or $6.5 trillion budget. It's got the most powerful military in the world. It is a target for election tampering. That's what we were told the 2016 election was all about was the Russians, they tamper with it.\n\nSCHILLING: Real quick. Real quick.\n\nI just want to say, it's hurting young people and their energy to vote. A lot of people don't think these things are real. They think they're rigged. And I think that, you know, if you -- you could fix it with two things, voter I.D., very simple, high support, and getting your election and your votes counted on the same day. Florida counted 10.5 million ballots and had all the election results done within two hours. I don't think that's hard to ask.\n\nCORNISH: Let me let Antjuan.\n\nSEAWRIGHT: A couple things. Senator Marco Rubio agreed, as a senator, that Russia did interfere with our elections. I want to just start there.\n\nBut number two, voter suppression, voter intimidation, and voter fear is a strategy by Donald Trump and the Republican Party.\n\nSCHILLING: I disagree with that.\n\nSEAWRIGHT: By the Republican Party. And so, what tends to happen is, when black voters or voters of color defeat Donald Trump, then he automatically turns to this idea somehow or another, cheating is involved.\n\nThat's why there's this big focus and attention on Georgia, because we've seen a large surge in voter -- black participation at the ballot box. Lastly, I'll remind you, the largest case of election fraud in modern\n\nhistory happened in North Carolina, in the Dan McCready district, by which a Republican operative was convicted for his crimes in -- his involvement in that election. So, when you hear Republicans --\n\nSCHILLING: So, we should support voter integrity.\n\nCORNISH: So, can he --\n\nSEAWRIGHT: When you hear Republicans talk about election fraud --\n\nSCHILLING: You're with me now.\n\nSEAWRIGHT: Then you should turn to --\n\nSCHILLING: You're with -- if Republicans are --\n\nSEAWRIGHT: And then -- but let me also --\n\nSCHILLING: Join (ph) our efforts.\n\nCORNISH: I want to give some people some facts about voter I.D. and what the president is asking for in the SAVE Act.\n\nNumber one, your driver's license would not be enough to prove you are a citizen in your registration for voting. If you have a name change or anything like that, you will have to provide different documentation. States would not be given any money whatsoever to implement changes. That would go into effect almost immediately.\n\nNow, we're in a moment where we're back to war with Iran. Kevin Warsh was just testifying about the economy. Labor participation rates are down. People are talking about prices and worries about inflation. We can't seem to get a primetime address about any of those things. Why do they still feel that this is an issue that is worth primetime addressing?\n\nWRIGHT: When you talk to White House officials, they say that the SAVE America Act is the president's foremost priority. Yes, he is dealing with Iran. They want a resolution on that. Yes, he is still focused on the economy. They say he wants to continue that. But the SAVE America Act is what the president talks about is what he wants to see. And he's upset that Congress hasn't done what he's asked, which is passed this ginormous bill, which is not just the elections part, although that is very important.\n\nCORNISH: Yes, there are other things --\n\nWRIGHT: It is also a lot of cultural issues that are also in this.\n\nCORNISH: It's a Christmas tree of random ornaments. Yes.\n\nWRIGHT: And he is upset that Senate Republicans have not moved on this bill in a way that the House has. And he wants to see that rectified. And I believe that this speech is going to, not just be talking about all the things that he wants to see change, but putting pressure on them to do so.\n\nSEAWRIGHT: It's a -- it's a proof of citizenship bill. It's a voter suppression strategy and bill that we've seen time and time again, different iterations of it. It's also --\n\nCORNISH: How come Democrats never talk about that? I feel like Democrats tend to talk about these issues and really big suppression democracy, it's over terms, instead of just being like, here are all the ways this is going to make your life harder. Like, really just talk about what's in the bill.\n\nSEAWRIGHT: Well, we try. But we try. But there's very limited oxygen supply. And quite frankly, when it comes to prioritizing what's important to the American people, the affordability crisis is top priority for Americans hat Republicans have created.\n\nAnd so you have to pick which plum you want to eat. I think most people want to focus on the affordability crisis that Republicans have created, because that's what they feel every single day.\n\nSCHILLING: I just don't think you guys realize what you just admitted. You just admitted that you don't have to prove citizenship in order to participate in America's elections. That should be like a bare minimum, like, standard.\n\nSEAWRIGHT: Well, you do. That's -- well, nobody -- but, Terry, nobody said that because every time I go to vote, I have to present my driver's license.\n\nSCHILLING: Well, then, why is it a big deal for this law -- this bill? Like --\n\nSEAWRIGHT: Because this is not --\n\nCORNISH: Because it says a driver's license wouldn't be enough.\n\nSEAWRIGHT: Wouldn't be an issue.\n\nSCHILLING: Well, we all have to get Real I.D. now to fly.\n\nCORNISH: It literally --\n\nSCHILLING: I mean, I -- is that -- we can do this with flying, but we can't do it with voting?\n\nCORNISH: Only -- no, there's only x amount of -- there's only a hand --\n\nWRIGHT: You can use your Real I.D. to fly and you can't use that in this bill.\n\nCORNISH: Your Real I.D. to fly and not in this bill.\n\nSCHILLING: Well, I need to look that up.\n\nCORNISH: That's the kind of thing we're dwelling (ph) on here. SEAWRIGHT: And, Terry, I would also suggest to you, we had a problem with elections broadly by the Republican Party when Donald Trump came on the scene. This was not an issue before the election denying of Donald Trump --\n\nSEAWRIGHT: Broadly speaking.\n\nCORNISH: Yes, but let --\n\nSEAWRIGHT: Before Donald Trump came on the scene.\n\nCORNISH: Let's take a pause, quite frankly, because he's about to talk about this at length tomorrow night at primetime. I think this is going to put it back on the menu.\n\nSo, for those of you scared of salad or can't afford salad, good luck because we won't be talking about that this week. We'll be talking about voter issues.\n\nI want to talk about what is in your group chat. What have you been talking about?\n\nWRIGHT: My group chat has been filled with folks talking about a story that I broke with \"NOTUS\" and my colleague Taylor Giorno about a little rapper, Boosie Badazz, paying $600,000 to two known far-right conspiracy theorist, Jacob Wohl, Jack Burkman, who are also pardon advocates, basically trying to get a pardon. He's not paying for the pardon, he's paying these advocates to advocate to him to the administration to be pardoned.\n\nCORNISH: And we have talked about the infrastructure of people that have grown up to lobby the White House for --\n\nWRIGHT: Yes, because of the way -- yes, for pardons because of the way that the pardon apparatus has changed. And it's been a huge story.\n\nSEAWRIGHT: My group chat has been filled with the Michigan Senate race and this emotional conversation style versus substance in that regard. But also the death of our late senator from South Carolina, Lindsey Graham --\n\nCORNISH: Yes. Of course.\n\nSEAWRIGHT: And the recent appointment of his sister to the U.S. Senate as of yesterday.\n\nTerry, for you. SCHILLING: I just got back yesterday. My brother and his wife, KiKi,\n\nthey had their six baby. He was with us for five days. He had a rare genetic lung disease, and his lungs didn't properly form.\n\nAnd I just want to share that because it was -- all life is sacred. All life is beautiful. I saw -- we saw so many people come out of the woodwork with the GoFundMe, the prayers and all the support. It was -- it was really beautiful. And every life is meaningful and every life should be sacred.\n\nCORNISH: You know, Terry, you don't have to share things like that with us. And the fact that you do is really meaningful.\n\nSCHILLING: Thank you.\n\nCORNISH: So, I'm sorry for your loss.\n\nSCHILLING: Thank you.\n\nCORNISH: Thank you so much.\n\nAnd thank you for being with us. Stay with us. The headlines are next.",
+  "segments": [
+    {
+      "seg": 2,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-15/segment/02",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nEpstein Survivor Jess Michaels is Interviewed about Blanche's Nomination; Trump to Discuss Elections in Speech. Aired 6:30-7a ET\n\nAired July 15, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nDR. MICHAEL OSTERHOLM, DIRECTOR, CENTER FOR INFECTIOUS DISEASE RESEARCH AND POLICY, UNIVERSITY OF MINNESOTA: Horrible to think of spending weeks and weeks with this horrible diarrhea.\n\nSo, let's just be really clear, what we should have been doing is messaging, where is the problem? How can we deal with the problem in those locations I just mentioned.\n\nAnd as far as what the CDC director will say today, or a designate, I don't have a clue. You know, at this point, I think it's going to be a challenge to just deal with issues around vaccines and so forth on this committee.\n\nAUDIE CORNISH, CNN ANCHOR: OK. That's Dr. Michael Osterholm. Thank you so much.\n\nOSTERHOLM: Thank you.\n\nCORNISH: And straight ahead on CNN THIS MORNING, the Epstein files could define Todd Blanche's confirmation hearing today. We're going to have a survivor joining us live to talk about what she wants lawmakers to ask him.\n\nPlus, Trump is promising a primetime address. It will be about election integrity.\n\nCORNISH: Good morning, everybody. I'm Audie Cornish. I want to thank you for joining me on CNN THIS MORNING.\n\nIt's now half past the hour. And here's what's happening right now.\n\nThe U.S. has carried out a fourth day of strikes against Iran, hitting dozens of military targets near the Strait of Hormuz. An Iranian spokesperson says seven military members were killed overnight. More than 30 people have been killed in the past several days. Iran's military is now threatening to stop energy export routes in the Middle East altogether as a response to the U.S. naval blockade. Elon Musk likely broke Wisconsin law when he handed out $1 million\n\nchecks to voters in the 2025 state supreme court election. That's according to a bipartisan panel. Now, the Wisconsin Elections Commission has referred two complaints to the district attorney's office for possible prosecution.\n\nAnd E. Jean Carroll received more than $5 million from President Trump. The payment comes more than three years after a jury found him liable for sexual abuse and defamation in a civil case. The president has continued to deny Carroll's allegations.\n\nAnd in just a few hours, Acting Attorney General Todd Blanche will face the Senate Judiciary Committee for his confirmation hearing to lead the Department of Justice. Now, he's expected to face tough questions on the now defunct $1.8 billion anti-weaponization fund. A federal judge this week called the lawsuit, which led to that fund, an effort to, quote, \"manipulate the judicial process.\"\n\nAnd Senate Democrats are also expected to call on an Epstein survivor to testify at today's hearing. Survivors of Epstein's abuse have released a series of PSA's doubting Blanche's credibility to carry out the role after personal details were leaked with the release of the files at the time he was deputy attorney general.\n\nUNIDENTIFIED FEMALE: Todd Blanche failed us.\n\nUNIDENTIFIED FEMALE: He failed victims everywhere.\n\nUNIDENTIFIED FEMALE: We deserve better.\n\nUNIDENTIFIED FEMALE: Our country deserves better.\n\nUNIDENTIFIED FEMALE: Vote no on Todd Blanche for attorney general.\n\nUNIDENTIFIED FEMALE: Vote no.\n\nUNIDENTIFIED FEMALE: No.\n\nUNIDENTIFIED FEMALE: No.\n\nUNIDENTIFIED FEMALE: No.\n\nUNIDENTIFIED FEMALE: Vote no on Todd Blanche.\n\nCORNISH: Joining us now in the group chat, Jess Michaels, one of the survivors of Epstein.\n\nI think I saw you in that video.\n\nAnd there's a couple issues I think survivors have had with Blanche. One is, when the department released files, they had redacted all of the potential abusers and somehow unredacted all of your faces and names and images, right? So, there is that.\n\nAnd then around this time last year, Blanche interviewed Ghislaine Maxwell. And, after that, she was transferred to a lower security prison. And he was asked a while back about the goals of that interview. And here's what he said.\n\nTODD BLANCHE, ATTORNEY GENERAL NOMINEE: The point of the interview was not for me to pressure test every single answer she gave. Of course not. The point of the interview was to give her an opportunity to speak, which nobody had done before. And so, she had been -- she had been in prison for many, many years. And she had offered to speak on many, many occasions. And she was never given that opportunity.\n\nCORNISH: Is this one of the sources of your frustration with him, or is there something more?\n\nJESS MICHAELS, EPSTEIN SURVIVOR: Well, it really is the second sweetheart deal in this case, right? It replicates exactly, very similarly, what Epstein got. So, it's very frustrating that Ghislaine Maxwell is getting more protection, more attention from the DOJ than any of the victims. I mean nine hours with her and we've had zero.\n\nCORNISH: Here's what he said when people were asking him, hey, are there going to be any other investigations? What more could there be? He said this in February.\n\nTODD BLANCHE, ATTORNEY GENERAL NOMINEE: I can't talk about any investigations. But I will say the following, which is that, in July, the Department of Justice said that we had reviewed the files, the, quote, \"Epstein files,\" and that there was nothing in there that allowed us to prosecute anybody.\n\nNow, there's a lot of correspondence, there's a lot of emails, there's a lot of photographs, there's a lot of horrible photographs that appear to be taken by Mr. Epstein or people around him. But that doesn't allow us necessarily to prosecute somebody.\n\nCORNISH: What is it that you would expect under a Blanche Justice Department, different from a Bondi Justice Department, or is the issue Trump?\n\nMICHAELS: I don't know whether the issue is Trump. I mean, Blanche is Trump's personal criminal attorney. So, we, you know, can make an assumption there.\n\nWhat I know is that Pam Bondi said that Blanche was in charge of the release of these files. And so he is responsible for the egregious mistakes that were made and that have never been addressed.\n\nWhen he says there was nothing to investigate, this is what I'd like to ask you. If there are six million files collected over 20 years, to the point where in 2015 a DEA task force, literal cartel hunters, joined in across multiple departments working on this, spending millions of taxpayer dollars, and he's saying it was for two people.\n\nCORNISH: I think at a certain point the administration has been hoping that this would go away.\n\nCORNISH: It seems pretty clear.\n\nTerry, will it or does every time someone like this comes up, and Jess comes up and says, hey, don't forget about us, it doesn't go away.\n\nTERRY SCHILLING, PRESIDENT, AMERICAN PRINCIPLES PROJECT: Well, I certainly hope it doesn't go away, at least until we get justice for the victims. And I think there's a lot of people that agree with me and --\n\nCORNISH: Do you think the administration believes that? If they're saying there's nothing more to investigate, do you see an administration that says, there's more justice to be gotten?\n\nSCHILLING: I don't. I would say that there are people within the administration that do want to get justice here. But we have to remember, 20 years, six million files. This is a failure, not of Todd Blanche, not of Donald Trump. This is a failure of every single FBI administration, every single DOJ official, every single president since then.\n\nCORNISH: Do you agree with that?\n\nMICHAELS: We've said that. We've said it's five administrations. In fact, this is just falling in line.\n\nMICHAELS: So, that's the problem is they say, oh, well we released files. No, you actually created the exact same situation that we've said over and over again for decades, that no one is investigating what we're telling them is there.\n\nCORNISH: Yes. You know, Jess used the phrase \"sweetheart deals,\" and I want to follow up on that because the whole debate over the Trump administration's settlement with the IRS is that that was kind of a sweetheart deal, that the administration settled with itself and in that settlement gave itself money and, you know, all kinds of privileges. No audits, for example.\n\nDo they foresee a Blanche being on the defense for the whole day today for more than even what Pam Bondi had to deal with?\n\nJASMINE WRIGHT, WHITE HOUSE CORRESPONDENT, \"NOTUS\": They definitely believe that Blanche is going to be on the defense. He's been preparing for this moment. I think he will get a lot of questions about that fund. Thom Tillis, senator from North Carolina, we know he's retiring, has said that he wants to push Blanche through, but he won't unless he gets the answers that satisfy his questions over that fund. He's not the only one that feels that way. And so you're going to see him get a lot of questions about that.\n\nYou're going to see him get a lot of questions about some of these criminalization efforts of people who are perceived to be Trump's foes. You're going to see him get a lot of questions about the downsizing of DOJ. They've lost thousands of career attorneys and other folks within the building.\n\nCORNISH: Yes. He's (ph) actually gone to some states.\n\nWRIGHT: And folks directly link that to Todd Blanche. And so you're going to see him get questions, really heated questions, from a plethora of different senators on both sides on a bevy of issues that he's going to have to be prepared for and answer correctly so that he gets at least Republicans on his side when it comes to pushing him through.\n\nCORNISH: Do you expect answers or do you expect stock replies?\n\nMICHAELS: So, we actually started Blanche bingo in our group chat.\n\nCORNISH: In your group chat.\n\nMICHAELS: In fact, all of the -- and, again, all of the --\n\nCORNISH: Because you expect --\n\nMICHAELS: Because we have certain expectations of what, you know, will there be a binder? Will, you know, will they (ph) say there was nothing to investigate? You know, there are so --\n\nCORNISH: Check. Drink. Drink. Drink.\n\nMICHAELS: Exactly. Exactly.\n\nCORNISH: Gallows humor --\n\nCORNISH: On a story that I don't know how you guys have had any resilience through. And you have. You have. I --\n\nCan I -- can I say one thing when you're talking about Tillis too? If -- since Blanche won't meet with us, we are asking senators to meet with us. Senator Tillis, Senator Cornyn, Senator Kennedy. CORNISH: Have they said yes?\n\nMICHAELS: No, we can't get through to their office. So, we're -- they're -- as we understand it from Senator Tillis specifically said, unless there's something, you know, reasonable, some reasonable reason for me not to pass Todd Blanche through, I'm going to pass him through. And I'm like, well, hello, there are over a thousand of us. Those are reasonable --\n\nANTJUAN SEAWRIGHT, DEMOCRATIC STRATEGIST: Audie, I would say the dynamics in the Senate have changed now for this confirmation process.\n\nCORNISH: Yes, especially post all these primaries.\n\nSEAWRIGHT: Post all these primaries. People have nothing to lose. And, quite frankly, they've seen the behavior of some of these cabinet officials and secretaries. And so, the political dynamics will have certainly have an impact on whether or not he's confirmed or not or how swiftly he is confirmed or not. And I think people are looking for something different because the American people are now demanding something different.\n\nCORNISH: I think how swiftly maybe is the issue.\n\nWell, thank you so much for talking with us.\n\nCORNISH: Hope to see you back. Jess Michaels.\n\nNext on CNN THIS MORNING, we're going to talk about something, I don't know, an hour of sleep or an hour of sunlight.\n\nCongress says it may be time to stop doing both. They want a new daylight savings bill that could change our lives.\n\nPlus, President Trump is back in 2020. He's going to talk about why two Georgia's -- Georgia's two sitting senators are in the spotlight.\n\nSEN. JON OSSOFF (D-GA): Privately, most elected Republicans in this building think the president has lost it.\n\nCORNISH: OK, so that's Georgia's Democratic Senator Jon Ossoff. He's reacting to President Trump's plan to deliver a primetime address tomorrow night.\n\nWhat is he going to discuss? Quote, \"new findings\" about the security of American elections.\n\nNow, this is expected to be yet another opportunity for the president to also dispute the results of the 2020 election, which he lost.\n\nDONALD TRUMP, PRESIDENT OF THE UNITED STATES: It's really, really big news. And our country has to shape up. But that's what we're going to be talking about Thursday is, it doesn't get bigger because without free and fair elections, you don't have a country.\n\nCORNISH: So, sources tell CNN, what the president is expected to focus on is voting machine security, and alleged that efforts by foreign nations to influence U.S. elections has occurred.\n\nAnd the group chat is back.\n\nThe backdrop to this is the president has been stymied when it comes to making election reform changes. He did several executive orders in Arizona, they blocked him, removal of voters from the rolls. Georgia, of course, rejected a purge of voters in 2025. Michigan struck down the removal of voters from the rolls. Never mind the fact that the SAVE Act is stalled.\n\nWRIGHT: Yes, I think the DOJ just lost their 15th attempt to grab voter rolls in the state in court.\n\nCORNISH: Did you just say 15?\n\nWRIGHT: Fifteen. Zero out of 15.\n\nSEAWRIGHT: Idaho (INAUDIBLE).\n\nCORNISH: Not a blue state.\n\nSEAWRIGHT: Not a blue state. Idaho's attorney general sent the letter basically telling them to chill out.\n\nWRIGHT: Yes. So, they are not doing well in that regard.\n\nLook, I think this is a natural evolution of putting Bill Pulte into the ODNI position.\n\nWRIGHT: He put him in, he said in his own words, to kind of purge what they believe is the deep state aspect of ODNI, the folks who they don't believe are doing anything.\n\nCORNISH: And this is the office that is supposed to help coordinate and oversee all the intelligence offices.\n\nWRIGHT: Yes, the national intelligence office. Yes.\n\nWRIGHT: But also to declassify findings like this. Tulsi Gabbard was doing it when she was at the head of that position. Now, Bill Pulte perhaps is going to be doing it as well.\n\nThis is something that is very personal to the president. He's been talking about this for years. He just won't move off of the 2020 positions, even though they've been debunked time and time again. And no administration have really put up evidence to show that there has been widespread voter fraud.\n\nCORNISH: But this is what he's expected to talk about tomorrow. As we said, our reporting is that he's going to allege some sort of issue in Georgia.\n\nThis is Senator Ossoff talking about why he thinks the president is going to make this speech tomorrow night.\n\nSEN. JON OSSOFF (D-GA): If he calls Georgia's senators illegitimate, he is calling Georgia's voters illegitimate.\n\nHe fears defeat in the midterms. And that explains his spiral into conspiracy theories. Conspiracy theories that put Georgia Republicans in a terrible bind.\n\nCORNISH: Then I want to play one more thing for you. This is Bill Maher. This was in June. J.D. Vance -- sorry, I think it was actually, yes, late June, and J.D. Vance was on the show talking about election integrity. Here's Bill Maher.\n\nBILL MAHER, HOST, \"REAL TIME WITH BILL MAHER\": Here's my deal breaker for your side.\n\nJ.D. VANCE, VICE PRESIDENT OF THE UNITED STATES: OK.\n\nMAHER: OK. Under Trump, you guys have two outcomes in an election can be, either we win or they cheated. That shit has to stop.\n\nVANCE: The sense in which I think the election in 2020 was rigged, I'm sorry, is that you had technology companies that were putting their thumb on the scale in a way that completely obliterated the real open exchange of ideas.\n\nCORNISH: Terry, which one do you want to take their, Maher or Vance?\n\nSCHILLING: Look, I'm with Vance on this. I think there was a lot with big tech. I know, I know, but --\n\nCORNISH: But what is your response to someone like Maher, who has been very open to Trump? He's not a never-Trumper.\n\nSCHILLING: Agreed (ph).\n\nCORNISH: He doesn't have Trump derangement syndrome. And he's like, we don't buy the either we win or they cheated.\n\nCORNISH: Because I think a lot of Americans hear that when the president describes the scenario of any election outcome.\n\nSCHILLING: Look, the first election before I could actually vote was 2000, right? And Democrats have been playing the same game. We shouldn't pretend otherwise.\n\nBut the reality is, is that America is a $6.5 billion -- or $6.5 trillion budget. It's got the most powerful military in the world. It is a target for election tampering. That's what we were told the 2016 election was all about was the Russians, they tamper with it.\n\nSCHILLING: Real quick. Real quick.\n\nI just want to say, it's hurting young people and their energy to vote. A lot of people don't think these things are real. They think they're rigged. And I think that, you know, if you -- you could fix it with two things, voter I.D., very simple, high support, and getting your election and your votes counted on the same day. Florida counted 10.5 million ballots and had all the election results done within two hours. I don't think that's hard to ask.\n\nCORNISH: Let me let Antjuan.\n\nSEAWRIGHT: A couple things. Senator Marco Rubio agreed, as a senator, that Russia did interfere with our elections. I want to just start there.\n\nBut number two, voter suppression, voter intimidation, and voter fear is a strategy by Donald Trump and the Republican Party.\n\nSCHILLING: I disagree with that.\n\nSEAWRIGHT: By the Republican Party. And so, what tends to happen is, when black voters or voters of color defeat Donald Trump, then he automatically turns to this idea somehow or another, cheating is involved.\n\nThat's why there's this big focus and attention on Georgia, because we've seen a large surge in voter -- black participation at the ballot box. Lastly, I'll remind you, the largest case of election fraud in modern\n\nhistory happened in North Carolina, in the Dan McCready district, by which a Republican operative was convicted for his crimes in -- his involvement in that election. So, when you hear Republicans --\n\nSCHILLING: So, we should support voter integrity.\n\nCORNISH: So, can he --\n\nSEAWRIGHT: When you hear Republicans talk about election fraud --\n\nSCHILLING: You're with me now.\n\nSEAWRIGHT: Then you should turn to --\n\nSCHILLING: You're with -- if Republicans are --\n\nSEAWRIGHT: And then -- but let me also --\n\nSCHILLING: Join (ph) our efforts.\n\nCORNISH: I want to give some people some facts about voter I.D. and what the president is asking for in the SAVE Act.\n\nNumber one, your driver's license would not be enough to prove you are a citizen in your registration for voting. If you have a name change or anything like that, you will have to provide different documentation. States would not be given any money whatsoever to implement changes. That would go into effect almost immediately.\n\nNow, we're in a moment where we're back to war with Iran. Kevin Warsh was just testifying about the economy. Labor participation rates are down. People are talking about prices and worries about inflation. We can't seem to get a primetime address about any of those things. Why do they still feel that this is an issue that is worth primetime addressing?\n\nWRIGHT: When you talk to White House officials, they say that the SAVE America Act is the president's foremost priority. Yes, he is dealing with Iran. They want a resolution on that. Yes, he is still focused on the economy. They say he wants to continue that. But the SAVE America Act is what the president talks about is what he wants to see. And he's upset that Congress hasn't done what he's asked, which is passed this ginormous bill, which is not just the elections part, although that is very important.\n\nCORNISH: Yes, there are other things --\n\nWRIGHT: It is also a lot of cultural issues that are also in this.\n\nCORNISH: It's a Christmas tree of random ornaments. Yes.\n\nWRIGHT: And he is upset that Senate Republicans have not moved on this bill in a way that the House has. And he wants to see that rectified. And I believe that this speech is going to, not just be talking about all the things that he wants to see change, but putting pressure on them to do so.\n\nSEAWRIGHT: It's a -- it's a proof of citizenship bill. It's a voter suppression strategy and bill that we've seen time and time again, different iterations of it. It's also --\n\nCORNISH: How come Democrats never talk about that? I feel like Democrats tend to talk about these issues and really big suppression democracy, it's over terms, instead of just being like, here are all the ways this is going to make your life harder. Like, really just talk about what's in the bill.\n\nSEAWRIGHT: Well, we try. But we try. But there's very limited oxygen supply. And quite frankly, when it comes to prioritizing what's important to the American people, the affordability crisis is top priority for Americans hat Republicans have created.\n\nAnd so you have to pick which plum you want to eat. I think most people want to focus on the affordability crisis that Republicans have created, because that's what they feel every single day.\n\nSCHILLING: I just don't think you guys realize what you just admitted. You just admitted that you don't have to prove citizenship in order to participate in America's elections. That should be like a bare minimum, like, standard.\n\nSEAWRIGHT: Well, you do. That's -- well, nobody -- but, Terry, nobody said that because every time I go to vote, I have to present my driver's license.\n\nSCHILLING: Well, then, why is it a big deal for this law -- this bill? Like --\n\nSEAWRIGHT: Because this is not --\n\nCORNISH: Because it says a driver's license wouldn't be enough.\n\nSEAWRIGHT: Wouldn't be an issue.\n\nSCHILLING: Well, we all have to get Real I.D. now to fly.\n\nCORNISH: It literally --\n\nSCHILLING: I mean, I -- is that -- we can do this with flying, but we can't do it with voting?\n\nCORNISH: Only -- no, there's only x amount of -- there's only a hand --\n\nWRIGHT: You can use your Real I.D. to fly and you can't use that in this bill.\n\nCORNISH: Your Real I.D. to fly and not in this bill.\n\nSCHILLING: Well, I need to look that up.\n\nCORNISH: That's the kind of thing we're dwelling (ph) on here. SEAWRIGHT: And, Terry, I would also suggest to you, we had a problem with elections broadly by the Republican Party when Donald Trump came on the scene. This was not an issue before the election denying of Donald Trump --\n\nSEAWRIGHT: Broadly speaking.\n\nCORNISH: Yes, but let --\n\nSEAWRIGHT: Before Donald Trump came on the scene.\n\nCORNISH: Let's take a pause, quite frankly, because he's about to talk about this at length tomorrow night at primetime. I think this is going to put it back on the menu.\n\nSo, for those of you scared of salad or can't afford salad, good luck because we won't be talking about that this week. We'll be talking about voter issues.\n\nI want to talk about what is in your group chat. What have you been talking about?\n\nWRIGHT: My group chat has been filled with folks talking about a story that I broke with \"NOTUS\" and my colleague Taylor Giorno about a little rapper, Boosie Badazz, paying $600,000 to two known far-right conspiracy theorist, Jacob Wohl, Jack Burkman, who are also pardon advocates, basically trying to get a pardon. He's not paying for the pardon, he's paying these advocates to advocate to him to the administration to be pardoned.\n\nCORNISH: And we have talked about the infrastructure of people that have grown up to lobby the White House for --\n\nWRIGHT: Yes, because of the way -- yes, for pardons because of the way that the pardon apparatus has changed. And it's been a huge story.\n\nSEAWRIGHT: My group chat has been filled with the Michigan Senate race and this emotional conversation style versus substance in that regard. But also the death of our late senator from South Carolina, Lindsey Graham --\n\nCORNISH: Yes. Of course.\n\nSEAWRIGHT: And the recent appointment of his sister to the U.S. Senate as of yesterday.\n\nTerry, for you. SCHILLING: I just got back yesterday. My brother and his wife, KiKi,\n\nthey had their six baby. He was with us for five days. He had a rare genetic lung disease, and his lungs didn't properly form.\n\nAnd I just want to share that because it was -- all life is sacred. All life is beautiful. I saw -- we saw so many people come out of the woodwork with the GoFundMe, the prayers and all the support. It was -- it was really beautiful. And every life is meaningful and every life should be sacred.\n\nCORNISH: You know, Terry, you don't have to share things like that with us. And the fact that you do is really meaningful.\n\nSCHILLING: Thank you.\n\nCORNISH: So, I'm sorry for your loss.\n\nSCHILLING: Thank you.\n\nCORNISH: Thank you so much.\n\nAnd thank you for being with us. Stay with us. The headlines are next."
+    }
+  ]
+}
