@@ -1,0 +1,554 @@
+{
+  "date": "2026-07-16",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-16/segment/01",
+  "vocabulary": [
+    {
+      "word": "stunning",
+      "phonetic": "/ˈstʌnɪŋ/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "令人震惊的",
+      "en": "extremely surprising or shocking",
+      "excerpt": "a stunning new vote by House Democrats",
+      "example_cn": "众议院民主党人投出了令人震惊的一票。"
+    },
+    {
+      "word": "primetime",
+      "phonetic": "/ˈpraɪmtaɪm/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "黄金时段",
+      "en": "the time when the largest number of people are watching television or listening to radio",
+      "excerpt": "President Trump promising, quote, \"really big news\" in tonight's primetime address.",
+      "example_cn": "特朗普总统承诺在今晚的黄金时段讲话中发布“真正的大新闻”。"
+    },
+    {
+      "word": "gripe",
+      "phonetic": "/ɡraɪp/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "抱怨",
+      "en": "a minor complaint",
+      "excerpt": "Will it actually be old gripes about the 2020 election?",
+      "example_cn": "这真的会是关于2020年大选的老调重弹吗？"
+    },
+    {
+      "word": "testosterone",
+      "phonetic": "/teˈstɒstərəʊn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "睾酮",
+      "en": "a hormone that causes male characteristics",
+      "excerpt": "I'm authorizing a new screening program for testosterone deficiency for our service members.",
+      "example_cn": "我正在批准一项针对军人的睾酮缺乏筛查计划。"
+    },
+    {
+      "word": "deficiency",
+      "phonetic": "/dɪˈfɪʃnsi/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "缺乏，不足",
+      "en": "a lack of something that is necessary",
+      "excerpt": "testosterone deficiency",
+      "example_cn": "睾酮缺乏"
+    },
+    {
+      "word": "candor",
+      "phonetic": "/ˈkændər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "坦诚",
+      "en": "the quality of being honest and telling the truth",
+      "excerpt": "I say this with all candor.",
+      "example_cn": "我坦诚地说。"
+    },
+    {
+      "word": "screw up",
+      "phonetic": "/skruː ʌp/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "搞砸",
+      "en": "to make a mistake or do something badly",
+      "excerpt": "we absolutely screwed up the comms of the Epstein files.",
+      "example_cn": "我们完全搞砸了爱泼斯坦文件的沟通。"
+    },
+    {
+      "word": "take the fall",
+      "phonetic": "/teɪk ðə fɔːl/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "承担责任（尤指代人受过）",
+      "en": "to accept blame or punishment for something, often for someone else",
+      "excerpt": "who could now take the fall for it?",
+      "example_cn": "现在谁会为此承担责任？"
+    },
+    {
+      "word": "massive",
+      "phonetic": "/ˈmæsɪv/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "大规模的",
+      "en": "very large in size, amount, or degree",
+      "excerpt": "More evidence of a massive shift in Congress.",
+      "example_cn": "更多证据表明国会发生了巨大转变。"
+    },
+    {
+      "word": "shift",
+      "phonetic": "/ʃɪft/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "转变",
+      "en": "a change in position, direction, or tendency",
+      "excerpt": "a massive shift in Congress",
+      "example_cn": "国会的巨大转变"
+    },
+    {
+      "word": "midterms",
+      "phonetic": "/ˈmɪdtɜːmz/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "中期选举",
+      "en": "elections held in the middle of a president's term",
+      "excerpt": "what does the vote mean for the midterms and beyond?",
+      "example_cn": "这次投票对中期选举及以后意味着什么？"
+    },
+    {
+      "word": "amendment",
+      "phonetic": "/əˈmendmənt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "修正案",
+      "en": "a change or addition to a law or document",
+      "excerpt": "103 Democrats voted in favor of the amendment",
+      "example_cn": "103名民主党人投票支持该修正案。"
+    },
+    {
+      "word": "sponsor",
+      "phonetic": "/ˈspɒnsər/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "发起，赞助",
+      "en": "to introduce and support a proposal in a legislature",
+      "excerpt": "which was sponsored by Kentucky Republican Thomas Massie",
+      "example_cn": "该修正案由肯塔基州共和党人托马斯·马西发起。"
+    },
+    {
+      "word": "progressive",
+      "phonetic": "/prəˈɡresɪv/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "进步的",
+      "en": "favoring new or modern ideas and changes",
+      "excerpt": "For progressive Democrats, the vote signals a shift",
+      "example_cn": "对于进步派民主党人来说，这次投票标志着一个转变。"
+    },
+    {
+      "word": "taxpayer",
+      "phonetic": "/ˈtækspeɪər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "纳税人",
+      "en": "a person who pays taxes",
+      "excerpt": "we cannot use taxpayer dollars for endless wars",
+      "example_cn": "我们不能将纳税人的钱用于无休止的战争。"
+    },
+    {
+      "word": "electorate",
+      "phonetic": "/ɪˈlektərət/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "全体选民",
+      "en": "all the people who have the right to vote in an election",
+      "excerpt": "the majority of the Democratic Party is most in touch with the American electorate",
+      "example_cn": "民主党的大多数最了解美国选民。"
+    },
+    {
+      "word": "lagging indicator",
+      "phonetic": "/ˈlæɡɪŋ ˈɪndɪkeɪtər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "滞后指标",
+      "en": "an economic indicator that changes after the economy has changed",
+      "excerpt": "Congress is a lagging indicator",
+      "example_cn": "国会是一个滞后指标。"
+    },
+    {
+      "word": "net favorable",
+      "phonetic": "/net ˈfeɪvərəbl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "净支持率",
+      "en": "the percentage of people who have a favorable opinion minus those with an unfavorable opinion",
+      "excerpt": "the net favorables are down 29 percent",
+      "example_cn": "净支持率下降了29%。"
+    },
+    {
+      "word": "anti-war",
+      "phonetic": "/ˌænti ˈwɔːr/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "反战的",
+      "en": "opposed to war",
+      "excerpt": "a massive victory for anti-war, pro-peace Americans",
+      "example_cn": "反战、支持和平的美国人的巨大胜利。"
+    },
+    {
+      "word": "withhold",
+      "phonetic": "/wɪðˈhəʊld/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "拒绝给予",
+      "en": "to refuse to give something",
+      "excerpt": "withhold aid to Israel",
+      "example_cn": "拒绝向以色列提供援助"
+    },
+    {
+      "word": "PAC",
+      "phonetic": "/pæk/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "政治行动委员会",
+      "en": "Political Action Committee, an organization that raises money for political campaigns",
+      "excerpt": "pro-Israel donors and PACs like AIPAC",
+      "example_cn": "亲以色列的捐助者和像AIPAC这样的政治行动委员会"
+    },
+    {
+      "word": "fringe",
+      "phonetic": "/frɪndʒ/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "边缘的",
+      "en": "not part of the mainstream; extreme",
+      "excerpt": "That's a fringe position.",
+      "example_cn": "那是一个边缘立场。"
+    },
+    {
+      "word": "undemocratic",
+      "phonetic": "/ˌʌndeməˈkrætɪk/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "不民主的",
+      "en": "not supporting democracy or the principles of democracy",
+      "excerpt": "this is still quite an undemocratic outcome",
+      "example_cn": "这仍然是一个相当不民主的结果。"
+    },
+    {
+      "word": "ceasefire",
+      "phonetic": "/ˈsiːsfaɪər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "停火",
+      "en": "an agreement to stop fighting for a period of time",
+      "excerpt": "he's no longer on a ceasefire deal",
+      "example_cn": "他不再参与停火协议。"
+    },
+    {
+      "word": "undermine",
+      "phonetic": "/ˌʌndərˈmaɪn/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "破坏",
+      "en": "to make something weaker or less effective",
+      "excerpt": "the Israeli government that was sort of undermining the atmosphere around this deal",
+      "example_cn": "以色列政府正在破坏围绕该协议的氛围。"
+    },
+    {
+      "word": "civil war",
+      "phonetic": "/ˈsɪvl wɔːr/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "内战",
+      "en": "a war between groups of people in the same country",
+      "excerpt": "this ongoing civil war that I think is emerging within the Democratic Party",
+      "example_cn": "我认为民主党内部正在出现的这场持续的内战。"
+    },
+    {
+      "word": "morality",
+      "phonetic": "/məˈræləti/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "道德",
+      "en": "principles concerning right and wrong behavior",
+      "excerpt": "the morality of foreign aid",
+      "example_cn": "对外援助的道德问题"
+    },
+    {
+      "word": "swing district",
+      "phonetic": "/swɪŋ ˈdɪstrɪkt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "摇摆选区",
+      "en": "a district where voters are not strongly committed to one party",
+      "excerpt": "In swing districts, this is not even a top five issue for voters.",
+      "example_cn": "在摇摆选区，这对选民来说甚至不是前五的问题。"
+    },
+    {
+      "word": "affordability",
+      "phonetic": "/əˌfɔːrdəˈbɪləti/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "可负担性",
+      "en": "the state of being cheap enough for people to buy",
+      "excerpt": "when we have such a crisis here with affordability",
+      "example_cn": "当我们面临如此严重的可负担性危机时。"
+    },
+    {
+      "word": "litmus test",
+      "phonetic": "/ˈlɪtməs test/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "试金石",
+      "en": "a test that uses a single indicator to make a decision",
+      "excerpt": "this is an accurate litmus test for whether or not a politician shares their morality",
+      "example_cn": "这是检验政客是否与他们有相同道德观的准确试金石。"
+    },
+    {
+      "word": "genocide",
+      "phonetic": "/ˈdʒenəsaɪd/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "种族灭绝",
+      "en": "the deliberate killing of a large group of people, especially those of a particular nation or ethnic group",
+      "excerpt": "whether they called it a genocide",
+      "example_cn": "他们是否称之为种族灭绝"
+    },
+    {
+      "word": "confiscate",
+      "phonetic": "/ˈkɒnfɪskeɪt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "没收",
+      "en": "to take something away officially",
+      "excerpt": "top Trump officials confiscating phones",
+      "example_cn": "特朗普高级官员没收手机"
+    },
+    {
+      "word": "leaker",
+      "phonetic": "/ˈliːkər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "泄密者",
+      "en": "a person who makes secret information known to the public",
+      "excerpt": "the hunt for White House leakers",
+      "example_cn": "追查白宫泄密者"
+    },
+    {
+      "word": "deployability",
+      "phonetic": "/dɪˌplɔɪəˈbɪləti/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "部署能力",
+      "en": "the ability to be sent to a place where military forces are needed",
+      "excerpt": "Testosterone replacement therapy can actually affect deployability",
+      "example_cn": "睾酮替代疗法实际上会影响部署能力。"
+    },
+    {
+      "word": "anabolic steroid",
+      "phonetic": "/ˌænəˈbɒlɪk ˈstɪərɔɪd/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "合成代谢类固醇",
+      "en": "a hormone that helps muscle grow, often used illegally by athletes",
+      "excerpt": "testosterone at a certain level is an anabolic steroid",
+      "example_cn": "一定水平的睾酮是一种合成代谢类固醇。"
+    },
+    {
+      "word": "culture war",
+      "phonetic": "/ˈkʌltʃər wɔːr/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "文化战争",
+      "en": "conflict between groups with different cultural values",
+      "excerpt": "who benefits from this latest culture war obsession?",
+      "example_cn": "谁从这种最新的文化战争痴迷中受益？"
+    },
+    {
+      "word": "gender-affirming care",
+      "phonetic": "/ˈdʒendər əˈfɜːmɪŋ keər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "性别确认护理",
+      "en": "medical care that supports a person's gender identity",
+      "excerpt": "Is it good to offer everybody in the military gender-affirming care who wants it?",
+      "example_cn": "向军队中所有想要的人提供性别确认护理是好事吗？"
+    },
+    {
+      "word": "perimenopause",
+      "phonetic": "/ˌperɪˈmenəpɔːz/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "围绝经期",
+      "en": "the period of time before a woman's menopause",
+      "excerpt": "I'm not holding my breath for his perimenopause screening",
+      "example_cn": "我不指望他会进行围绝经期筛查。"
+    },
+    {
+      "word": "recruitment",
+      "phonetic": "/rɪˈkruːtmənt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "招募",
+      "en": "the process of finding new people to join an organization",
+      "excerpt": "recruiting more young men to the military",
+      "example_cn": "招募更多年轻人参军"
+    },
+    {
+      "word": "infertility",
+      "phonetic": "/ˌɪnfɜːrˈtɪləti/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "不育",
+      "en": "the inability to have children",
+      "excerpt": "this could actually cause infertility in men",
+      "example_cn": "这实际上可能导致男性不育。"
+    },
+    {
+      "word": "meta-analysis",
+      "phonetic": "/ˈmetə əˈnæləsɪs/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "荟萃分析",
+      "en": "a statistical analysis that combines the results of multiple scientific studies",
+      "excerpt": "They have done massive studies and meta-analysis",
+      "example_cn": "他们进行了大规模研究和荟萃分析。"
+    },
+    {
+      "word": "TRT",
+      "phonetic": "/tiː ɑːr tiː/",
+      "pos": "abbr.",
+      "level": "六级",
+      "cn": "睾酮替代疗法",
+      "en": "Testosterone Replacement Therapy",
+      "excerpt": "giving TRT on the government dime",
+      "example_cn": "用政府的钱提供睾酮替代疗法"
+    },
+    {
+      "word": "weaponization",
+      "phonetic": "/ˌwepənaɪˈzeɪʃən/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "武器化",
+      "en": "the act of using something as a weapon or for political attack",
+      "excerpt": "this weaponization fund",
+      "example_cn": "这个武器化基金"
+    },
+    {
+      "word": "reparations",
+      "phonetic": "/ˌrepəˈreɪʃənz/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "赔偿",
+      "en": "payments made to compensate for wrongdoing",
+      "excerpt": "a potential fund for reparations",
+      "example_cn": "一个潜在的赔偿基金"
+    },
+    {
+      "word": "moot",
+      "phonetic": "/muːt/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "无实际意义的",
+      "en": "no longer relevant or important",
+      "excerpt": "the weaponization fund is a moot issue",
+      "example_cn": "武器化基金是一个无实际意义的问题。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "And it's not just because they suddenly found religion or changed their mind about their sense of morality.",
+      "cn": "这不仅仅是因为他们突然皈依宗教或改变了道德观念。",
+      "structure": "主系表结构，主语it，系动词is，表语从句由because引导。",
+      "analysis": "这是一个主系表结构，表语从句由because引导，从句中主语they，谓语found和changed，宾语religion和their mind。"
+    },
+    {
+      "en": "It means they are finally more afraid of their own voters than they are of pro-Israel donors and PACs like AIPAC.",
+      "cn": "这意味着他们终于更害怕自己的选民，而不是亲以色列的捐助者和像AIPAC这样的政治行动委员会。",
+      "structure": "主谓宾结构，主语it，谓语means，宾语从句省略that。",
+      "analysis": "主句主语it，谓语means，宾语从句中主语they，系动词are，表语more afraid，比较结构than引导比较状语从句。"
+    },
+    {
+      "en": "And so, we are seeing gradually elected Democrats catch up to where the voters are.",
+      "cn": "因此，我们逐渐看到当选的民主党人追赶选民立场。",
+      "structure": "主谓宾结构，主语we，谓语are seeing，宾语elected Democrats，宾语补足语catch up to，where引导地点状语从句。",
+      "analysis": "现在进行时，see sb do sth结构，catch up to是动词短语，where引导从句作介词to的宾语。"
+    },
+    {
+      "en": "But on the other hand, this is still quite an undemocratic outcome when you have half of Democrats in the House voting against the will of their voters.",
+      "cn": "但另一方面，当众议院一半的民主党人投票反对选民的意愿时，这仍然是一个相当不民主的结果。",
+      "structure": "主系表结构，主语this，系动词is，表语outcome，when引导时间状语从句。",
+      "analysis": "主句主系表，从句主语you，谓语have，宾语half of Democrats，宾补voting against。"
+    },
+    {
+      "en": "And I do think there is something specific to Israel because of the horrific nature of the crimes in Gaza, voters understand that this is an accurate litmus test for whether or not a politician shares their morality and whether or not a politician is beholden to their donors over their voters.",
+      "cn": "我确实认为以色列有特殊性，因为加沙罪行的可怕性质，选民明白这是检验政客是否与他们有相同道德观、是否更受捐助者而非选民影响的准确试金石。",
+      "structure": "主谓宾结构，主语I，谓语do think，宾语从句由there be引导，because of介词短语作原因状语，voters understand是并列句。",
+      "analysis": "这是一个并列复合句，第一个分句主谓宾，第二个分句主谓宾，宾语从句由that引导，从句中主语this，系动词is，表语litmus test，for whether...or...作定语。"
+    },
+    {
+      "en": "And then there are the Democrats who are middle-class working people who are like, why are we spending money and can't afford things?",
+      "cn": "然后还有那些中产阶级工薪阶层的民主党人，他们觉得，为什么我们要花钱却买不起东西？",
+      "structure": "there be句型，主语the Democrats，两个who引导定语从句。",
+      "analysis": "there be结构，主语后接两个定语从句，第二个定语从句中like后接直接引语。"
+    },
+    {
+      "en": "And you can see that in some of these races, that they are not voting for people based on their stance on Israel or Gaza, or whether they called it a genocide.",
+      "cn": "你可以看到，在一些竞选中，他们不是根据候选人对以色列或加沙的立场，或者是否称之为种族灭绝来投票。",
+      "structure": "主谓宾结构，主语you，谓语can see，宾语从句由that引导。",
+      "analysis": "主句主谓宾，宾语从句中主语they，谓语are not voting，based on...作状语。"
+    },
+    {
+      "en": "And I do think there is something specific to Israel because of the horrific nature of the crimes in Gaza, voters understand that this is an accurate litmus test for whether or not a politician shares their morality and whether or not a politician is beholden to their donors over their voters.",
+      "cn": "我确实认为以色列有特殊性，因为加沙罪行的可怕性质，选民明白这是检验政客是否与他们有相同道德观、是否更受捐助者而非选民影响的准确试金石。",
+      "structure": "主谓宾结构，主语I，谓语do think，宾语从句由there be引导，because of介词短语作原因状语，voters understand是并列句。",
+      "analysis": "这是一个并列复合句，第一个分句主谓宾，第二个分句主谓宾，宾语从句由that引导，从句中主语this，系动词is，表语litmus test，for whether...or...作定语。"
+    },
+    {
+      "en": "And I do think there is something specific to Israel because of the horrific nature of the crimes in Gaza, voters understand that this is an accurate litmus test for whether or not a politician shares their morality and whether or not a politician is beholden to their donors over their voters.",
+      "cn": "我确实认为以色列有特殊性，因为加沙罪行的可怕性质，选民明白这是检验政客是否与他们有相同道德观、是否更受捐助者而非选民影响的准确试金石。",
+      "structure": "主谓宾结构，主语I，谓语do think，宾语从句由there be引导，because of介词短语作原因状语，voters understand是并列句。",
+      "analysis": "这是一个并列复合句，第一个分句主谓宾，第二个分句主谓宾，宾语从句由that引导，从句中主语this，系动词is，表语litmus test，for whether...or...作定语。"
+    },
+    {
+      "en": "And I do think there is something specific to Israel because of the horrific nature of the crimes in Gaza, voters understand that this is an accurate litmus test for whether or not a politician shares their morality and whether or not a politician is beholden to their donors over their voters.",
+      "cn": "我确实认为以色列有特殊性，因为加沙罪行的可怕性质，选民明白这是检验政客是否与他们有相同道德观、是否更受捐助者而非选民影响的准确试金石。",
+      "structure": "主谓宾结构，主语I，谓语do think，宾语从句由there be引导，because of介词短语作原因状语，voters understand是并列句。",
+      "analysis": "这是一个并列复合句，第一个分句主谓宾，第二个分句主谓宾，宾语从句由that引导，从句中主语this，系动词is，表语litmus test，for whether...or...作定语。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "美国对以色列援助政策分歧",
+      "content": "美国众议院就停止对以色列军事援助的修正案进行投票，103名民主党人支持，但修正案最终失败。这反映了美国两党内部对以色列政策的深刻分歧，以及选民态度向反对援助的转变。",
+      "keywords": "Israel aid, House vote, Democratic Party, progressive, AIPAC"
+    },
+    {
+      "title": "美国公众对以色列看法变化",
+      "content": "盖洛普民调显示，美国对以色列的净支持率在五年内下降29个百分点，年轻选民尤其不支持。这导致国会议员面临选民压力，重新考虑对以政策。",
+      "keywords": "Gallup poll, public opinion, Israel, favorability, young voters"
+    },
+    {
+      "title": "美军睾酮筛查计划",
+      "content": "国防部长皮特·赫格塞斯批准对30岁以上军人进行睾酮缺乏筛查，并允许自愿治疗。此举被视为文化战争的一部分，旨在塑造符合其理想形象的军队，但也引发对健康风险和军事部署影响的担忧。",
+      "keywords": "testosterone, military, Pete Hegseth, screening, culture war"
+    },
+    {
+      "title": "特朗普政府泄密与爱泼斯坦文件争议",
+      "content": "副总统J.D.万斯承认政府在爱泼斯坦文件沟通上犯错，代理司法部长托德·布兰奇在听证会上为此道歉。同时，特朗普政府内部追查泄密者，没收手机。",
+      "keywords": "Epstein files, J.D. Vance, Todd Blanche, leak, hearing"
+    },
+    {
+      "title": "民主党内部意识形态斗争",
+      "content": "以色列援助投票暴露了民主党内部进步派与温和派之间的“内战”。进步派主张停止援助，而温和派更关注国内经济问题，如可负担性危机。",
+      "keywords": "Democratic Party, civil war, progressive, moderate, foreign aid"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\n100+ Democrats Vote Against Sending Aid to Israel; Gallup Poll: U.S. Opinion of Israel Drops 29 Points in 5 Years; Looksmaxxing the Military: Testosterone Testing for Troops; Todd Blanche Under Fire in hearings. Aired 6-6:30a ET\n\nAired July 16, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nAUDIE CORNISH, CNN ANCHOR: OK. Good morning, everybody. We're going to be talking about whether Israel's right-wing government is losing America. New criticism from the vice president and a stunning new vote by House Democrats.\n\nUNIDENTIFIED MALE: So, this is an important moment, because nothing will be the same on this issue ever again, I think, after this vote.\n\nCORNISH: And President Trump promising, quote, \"really big news\" in tonight's primetime address. Will it actually be old gripes about the 2020 election?\n\nPETE HEGSETH, U.S. DEFENSE SECRETARY: I'm authorizing a new screening program for testosterone deficiency for our service members.\n\nCORNISH: So, the Pentagon plans to test the troops for low T. Is this really a problem in the ranks?\n\nJ.D. VANCE, U.S. VICE PRESIDENT: I say this with all candor. Like, we absolutely screwed up the comms of the Epstein files.\n\nCORNISH: A big admission from J.D. Vance. The question is, who could now take the fall for it?\n\nREP. ALEXANDRIA OCASIO-CORTEZ (D-NY): We're not going to do it. The American people don't want to stand for this anymore.\n\nCORNISH: OK. More evidence of a massive shift in Congress. More than 100 Democrats vote against sending aid to Israel. So, what does the vote mean for the midterms and beyond?\n\nGood morning, everybody. I'm Audie Cornish, and this is where we start: this movement in the House to end U.S. military aid to Israel. It's drawing more support than it ever has.\n\nSo, 103 Democrats voted in favor of the amendment, which was sponsored by Kentucky Republican Thomas Massie. Ultimately, the amendment failed. The Republican majority and 98 Democrats voted it down.\n\nFor progressive Democrats, the vote signals a shift they once never thought was possible.\n\nREP. DELIA RAMIREZ (D-IL): I believe, looking at this list, that we're going to pick up more members, people who are saying that we cannot use taxpayer dollars for endless wars.\n\nOCASIO-CORTEZ: To me, what it says is that the majority of the Democratic Party is -- is most in touch with the American electorate, writ large.\n\nREP. ILHAN OMAR (D-MN): There are many members who took votes that I was surprised to take that yes vote today. And I am proud of them.\n\nCORNISH: Joining me now in the group chat, Harrison Mann, former U.S. Army major and former executive officer of the Defense Intelligence Agency's Middle East and Africa center; Mike Dubke, a former communications director at the Trump White House; and Meghan Hays, former director of message planning at the Biden White House.\n\nSo, first, I just want to start with -- I always joke that Congress is a lagging indicator. They're usually not at the forefront of things.\n\nSo, here's Gallup poll in February showing the overall opinion of Israel. And the difference is from 2021 to now. And you can see the net favorables are down 29 percent. It's a massive shift in a very short amount of time.\n\nHarrison, I want to start with you because full disclosure to the audience, you obviously left your job in government over Israel's actions in Gaza. So, this is very close to you. We know your opinion. What do you think of this moment and this shift in Congress?\n\nHARRISON MANN, FORMER EXECUTIVE OFFICER, DEFENSE INTELLIGENCE AGENCY: I think on one hand, it's a massive victory for anti-war, pro-peace Americans who have been pushing for this for years, who want to reevaluate the U.S. relationship with Israel.\n\nAnd, you know, on the other hand, we have to understand why we suddenly have up to two dozen new Democrats finally voting to -- to withhold aid to Israel.\n\nAnd it's not just because they suddenly found religion or changed their mind about their sense of morality. It means they are finally more afraid of their own voters than they are of pro-Israel donors and PACs like AIPAC. That is the shift.\n\nThe American people at large, and specifically Democratic voters, have wanted to see this for a long time. You know, recent polling shows, I think about 15 percent, only 15 percent of Democratic voters are supportive of Israel. That's a fringe position. That's the same number of Democratic voters who want to ban abortion.\n\nAnd so, we are seeing gradually elected Democrats catch up to where the voters are. But on the other hand, this is still quite an undemocratic outcome when you have half of Democrats in the House voting against the will of their voters.\n\nSo, to your point on public on polling, I looked at an A.P. poll. This was in June. Republicans' view on U.S. support for Israel. It's the 2024 versus now.\n\nAnd we're seeing some shift there, as well. It's a little more of a divide, obviously, than Democrats, but we're seeing a shift.\n\nThen you have people like J.D. Vance. He was just -- he's on his book tour. He's still talking. And he was --\n\nMIKE DUBKE, FORMER TRUMP WHITE HOUSE COMMUNICATIONS DIRECTOR: Still on the book tour?\n\nCORNISH: He's still talking.\n\nMEGHAN HAYS, FORMER BIDEN WHITE HOUSE DIRECTOR OF MESSAGE PLANNING: Keep on talking. Still talking.\n\nCORNISH: I mean, well, he's no longer on a ceasefire deal, OK? Because that's toast.\n\nSo, he's still talking. But on that deal, he was saying that it was the Israeli government that was sort of undermining the atmosphere around this deal. Here he is.\n\nVANCE: There's a lot of talk about how -- how much is the Israeli government influencing American politics? And there are certainly certain people within the Israeli government who hate the deal. And we see exact evidence.\n\nThere's a lot of talk about how -- how much is the Israeli government influencing American politics? And there are certainly certain people within the Israeli government who hate the deal. And we see exact evidence.\n\nCORNISH: So, he's not saying, \"Joe Rogan settle down. Joe Rogan, we -- our relationship with Israel\" -- you know what I mean? He's saying, Look, I understand. I hear you. What do you make of how he's trying to navigate the politics of this?\n\nCORNISH: Like he's at the heart of it. He actually --\n\nDUBKE: He's at the heart of it. But I do think that there's two separate -- two separate thoughts here, one of which is I'm not -- I'm not sure that this -- what the vote yesterday that we saw, to me, was less about America and more about this ongoing civil war that I think is emerging within the Democratic Party.\n\nCORNISH: Despite the Republican conversation, as well?\n\nCORNISH: Tucker leaving the party?\n\nDUBKE: Well, I think -- look, I think on the Republican side, a lot of this revolves around just the morality of foreign aid, whether or not we should be giving U.S. taxpayer dollars to any country.\n\nDUBKE: Let alone -- or let alone --\n\nDUBKE: -- holding Israel out.\n\nCORNISH: So, then let me play for you Jasmine Crockett, because I don't think you usually agree, but here's what she had to say after the vote.\n\nREP. JASMINE CROCKETT (D-TX): I don't want people who are already hurting, especially as we're heading into these significant midterms, to look at the Democrats and say, you know what? We can't afford gas. We can't afford food. Yet, you guys are still sending money elsewhere.\n\nDUBKE: And that's a very Republican position. I'm surprised she didn't win her primary.\n\nHAYS: So, I actually think that is more about what this is than necessarily the Israel-Gaza conflict. I think a lot of the voters and constituents in their districts are saying, We can't afford our own groceries and gas, but we're spending a significant amount of aid to foreign countries, and our debt is increasing. But I also don't want to overcrank on this. In swing districts, this\n\nis not even a top five issue for voters. So, we are not seeing this movement as we are seeing online. This might be an issue in New York City or in some of these very blue districts.\n\nCORNISH: Or in 100 districts, right?\n\nHAYS: But that's -- that's my -- like, this is not something that I think is really impacting the Democratic Party. And I do think this is a fair conversation that we need to be having as a country. And Congress needs to have. How much foreign aid are we going to be sending places?\n\nI don't think this is special to Israel. I think it is in general, when we have such a crisis here with affordability, that we are spending so much of our taxpayer dollars abroad. And I think that's what this about.\n\nCORNISH: Well, let me add one more thing.\n\nCORNISH: Because Rahm Emanuel went to Israel. He's trying to obviously lay down some -- some stones on the road to 2028. And here is what he had to say.\n\nRAHM EMMANUEL, FORMER OBAMA WHITE HOUSE CHIEF OF STAFF: So, I told the Israeli public, this is the price. You have lost America. It's not a Democratic Party problem.\n\nWhen two-thirds of the American people are not supporting Israel. And for ages 30 and younger, it's down to 21. That's not a Democratic Party problem. That's an America problem. And I thought it's better to be honest, better to be direct.\n\nDUBKE: It's crazy to me that every Democrat running for president is going to Israel. First we had Ro Khanna there this week, basically trying to --\n\nCORNISH: I think that's two. It's Rahm and Ro.\n\nDUBKE: Well, I think more of them will go.\n\nDUBKE: I do. I -- I think that they are trying to create this divide. And this is where I come back to the civil war within the Democratic Party.\n\nI think we're seeing this issue really take root within the Democratic Party debate. I think on the Republican side is exactly what Meghan saying, that it's foreign aid or not foreign aid. This is specifically about Israel with the Democrats.\n\nCORNISH: What do you see?\n\nMANN: Well, first, for the Republicans, I'm not sure it's about foreign aid, because every single Republican voted against this bill to restrict aid to Israel, except for one, Thomas Massie, who Trump has chased out of office.\n\nAnd within the Democrats, it absolutely is a civil war. But again, within elected leaders, because the voters are solidly on one side of this.\n\nAnd I do think there is something specific to Israel because of the horrific nature of the crimes in Gaza, voters understand that this this is an accurate litmus test for whether or not a politician shares their morality and whether or not a politician is beholden to their donors over their voters. And that's why this is a special issue.\n\nHAYS: I don't necessarily agree with that in the Democratic Party, because I think that there are a faction of Democrats that think that. And then there are the Democrats who are middle-class working people who are like, why are we spending money and can't afford things?\n\nSo,, I don't necessarily think this issue is 100 percent morality for every single Democrat. And that's not where the party stands writ large.\n\nAnd you can see that in some of these races, that they are not voting for people based on their stance on Israel or Gaza, or whether they called it a genocide. They're voting based on whether they can afford groceries and gas, and that is where they're coming down on this.\n\nSo, I just think that there's a split and that that is, to your point, a civil war in the Democratic Party.\n\nCORNISH: OK. Coming up on CNN THIS MORNING, we're going to talk to a congressman about his vote on aid to Israel. Representative Kevin Kiley. He is an independent, and he joins us in the next half hour.\n\nPlus, top Trump officials confiscating phones as the hunt for White House leakers reaches a new level.\n\nAnd then the Pentagon, they want to test the troops' testosterone. Is Hegseth looksmaxxing the military?\n\nHEGSETH: I'm authorizing a new screening program for testosterone deficiency for our service members, ensuring you have the right testosterone levels to operate at your absolute best. (END VIDEO CLIP)\n\nCORNISH: Defense Secretary Pete Hegseth wants our troops to be tested for testosterone deficiency. He says it will make them stronger.\n\nSo, here's how the plan will work. Anyone 30 years and older will be required to test. Those under 30, they can volunteer. And anyone diagnosed with a deficiency can voluntarily choose to receive treatment.\n\nThe Trump administration has been pushing for easier access to these therapies. In December, the FDA hosted an expert panel focusing on the benefits of testosterone replacement therapy for members of the military.\n\nAnd there are concerns.\n\nUNIDENTIFIED MALE: Testosterone replacement therapy can actually affect deployability and eligibility for special duty status. There are service members who work their entire careers to get these special duty statuses that are very highly sought after, and they worry that, if they get seen for this disease and treated for it, that they may lose that status.\n\nCORNISH: The group chat is back. Just to help clarify that point for people: testosterone at a certain level is an anabolic steroid, and in world sports competitions, it is considered a performance-enhancing drug.\n\nSo, that's why he's talking about people getting in trouble for it in the past.\n\nNow, since it was me and Meghan and Mike, we had to bring in more testosterone. That's why Harrison is here. And right now, I was looking at a tweet. Chrissy Houlahan saying online, \"I'm sure the testosterone industry is thrilled. Taxpayers should ask, who benefits from this latest culture war obsession?\"\n\nIs this something people might be excited about? Young men in the military?\n\nMANN: Yes, they might be, but they need to consult their -- their doctor. Like, we've got to first be clear: Pete Hegseth is not somebody who -- who understands or cares about the health of the troops under his responsibility.\n\nCORNISH: Why do you say that? He's always talking about their weight.\n\nMANN: Yes. Let's -- let's --\n\nCORNISH: Always talking about exercising.\n\nCORNISH: Facial hair.\n\nMANN: Yes. I've got to remind the viewers his last big medical announcement was canceling mandatory flu shots, a policy he had to reverse when a bunch of people at Air Force basic training got sick, and one died.\n\nSo, I don't trust him for medical advice.\n\nIs it good to offer everybody in the military gender-affirming care who wants it? Absolutely. I don't think that privilege should only be reserved for Pete Hegseth's conception of his ideal man, and that's what he's doing right now.\n\nCORNISH: I do think, though you've now hit on the culture war nerve center when you said \"gender-affirming care.\"\n\nCORNISH: This is what a lot of people are saying here. Senator Tammy Duckworth saying, \"It sounds like gender-affirming care to me.\"\n\nAnd of course, like, I'm not holding my breath for his perimenopause screening, but it's obviously --\n\nHAYS: Yes, they don't promote women --\n\nHAYS: -- so they don't -- doesn't matter.\n\nCORNISH: Obviously, this is an issue that's at the next -- I think it's at the junction of, like, Chad Looksmaxxing Boulevard and RFK Way. Like, there's a world that is obsessed with testosterone, because they're also obsessed with a couple other things that have to do with population decline or these other issues affecting men.\n\nDUBKE: There is one thing that Pete Hegseth and this administration is focused on, and that is recruiting more young men.\n\nDUBKE: Especially. But young people to the military.\n\nDUBKE: We went through years of having our -- missing our military recruitment numbers.\n\nCORNISH: Yes. I want to show that.\n\nDUBKE: And while this may seem --\n\nCORNISH: The military news has been reporting about the best numbers in 15 years. DUBKE: Yes.\n\nCORNISH: Show that while you're talking.\n\nDUBKE: And -- and I think this is part of it.\n\nMANN: That has to do with the economy.\n\nDUBKE: I think this is part of it, that we are -- that -- that they are focused on this. And this may seem bizarre on its face, that video that you showed. But it is part of this recruitment of young men joining the military.\n\nCORNISH: I don't think it's bizarre. Have you seen the commercials for testosterone? Like, this is a massive industry.\n\nDUBKE: Yes, Doug Flutie. Doug Flutie has a great one. That's -- but this is my point.\n\nCORNISH: But can I get -- Harrison just said something here under his breath. You don't think it is vibes. You think it's something else that's drawing people?\n\nMANN: Yes. I mean, it's not -- it's not vibes. It's part of -- like, this -- this video is --\n\nCORNISH: This is what will happen to you, by the way, if you take it. Yes.\n\nMANN: Yes. Like the video's goofy. Pete Hegseth posting we're going to have a high T military, I guess implying that up until now it was -- it was low T is goofy.\n\nBut the vision is not silly. And that's basically a white male military in Pete Hegseth's image. Like that's -- that's why he thinks about this stuff.\n\nDUBKE: I think -- now I think you're -- Now you're going overboard with this.\n\nMANN: He's -- he is firing or killing the careers of every black or female senior officer he can get his hands on. And we can't understand the other culture war stuff outside of that context.\n\nHe has his vision of, like, sweaty masculinity, kind of Pete Hegseth type of guy. He is trying to make the military look like that.\n\nI don't think he'll be successful. But these, you know, seemingly kind of incongruous announcements for a man who's supposed to be managing a massive war right now are -- are a little more frightening than they seem.\n\nHAYS: But also, we are now living in a place where we have canceled or we have canceled funding for HHS for -- HHS for a lot of different medical research and for science.\n\nAnd we now have a massive outbreak that people are getting from their food, because we don't have people monitoring food anymore.\n\nWhere is the scientific research that has said this -- that this -- this could actually cause infertility in men. This can cause a lot of damage to men. Where is the research, and where is the warning to the men?\n\nCORNISH: Well, to be fair, I do want to offer some facts. There's a man named Dr. Hagai Levine in Israel. They have done massive studies and meta-analysis, and male sperm counts and testosterone, it's down.\n\nWhat is not in agreement within the scientific community is how to deal with it, or what is causing it. Is it obesity? Is it diabetes? Is it sitting around in the pandemic? Right? There's a number of things.\n\nHAYS: A hundred percent.\n\nCORNISH: So, it's not even clear that giving TRT on the government dime to a bunch -- a male population is the absolute solve.\n\nHAYS: And then what happens when it does do something --\n\nCORNISH: And whether the military should be solving this issue for us, societally.\n\nDUBKE: I'm not saying they're trying to solve the issue.\n\nCORNISH: I know. I'm talking to Meghan.\n\nDUBKE: I don't know. You're looking at me and talking to her.\n\nCORNISH: We're friends. It's a group chat.\n\nHAYS: I just -- I just think that there's a lot here that is underlying current of what we're trying to do to our military, and who we're trying to isolate from the military, and who we're trying to recruit to the military.\n\nBut one thing that you said that I actually think is important about the recruitment is we are in a terrible economy. People are joining the military, because it gives them opportunities. It gives them a place to live. It gives them food. It gives them money when they sign up.\n\nSo, I think that there's a lot of ways out for people who don't necessarily think that college or there's other jobs for them. So, I think that's another reason that recruitment is up.\n\nDUBKE: Recruitment was down when we had an even worse economy. So, I'm not buying that. I --\n\nCORNISH: It was down, yes. HAYS: Totally. But that also could be a reason. Getting -- getting your free, like, T shot from the military isn't going to drive people.\n\nDUBKE: But here's the weird part, and this is why I'm saying it's bizarre. This is basically for those officers who are over 30 years of age, who have been in the military for ten, 12, 15 years.\n\nBut what it attracts -- and the point I'm trying to make is -- it attracts those young 16-, 17-, 18-year-olds who are buying into this cultural conversation of high testosterone.\n\nHAYS: And this -- herein lies the problem.\n\nHAYS: Herein lies the problem of how we are -- how people are being recruited, and how people are being influenced --\n\nHAYS: -- and what they want to make our military.\n\nDUBKE: And we can have that debate. But I think this is a recruitment tool.\n\nCORNISH: You can -- Yes, I could be testing T levels to come on the panel, too. I've been thinking about instituting that.\n\nDUBKE: I am raged about this right now.\n\nCORNISH: I just think that is only fair.\n\nHarrison Mann, thank you so much for being here. Really appreciate your time and expertise and point of view.\n\nAfter the break on CNN THIS MORNING, President Trump could return to a familiar playbook. Tonight, he's going to be talking about the 2020 election.\n\nAnd Vice President Vance admits the administration messed up on the Epstein files.\n\nVANCE: I say this with all candor, like, we absolutely screwed up the comms of the Epstein files. Like, we just did. But do I think the reason we screwed up the comms is because we were trying to hide something? No.\n\nCORNISH: Vice President J.D. Vance admitting the administration screwed up on the Epstein files. This comes as the president's pick for attorney general takes the stand in his confirmation hearing, having to own up to that process.\n\nTODD BLANCHE, ACTING U.S. ATTORNEY GENERAL: Any mistake that was made is not appropriate. And so, yes, I am sorry that, in about 1 percent of the -- of the documents, mistakes were made.\n\nBut what I will say on top of that is we put tons of resources to rectifying those mistakes immediately.\n\nCORNISH: Joining us in the group chat, Igor Bobic, congressional reporter at \"NOTUS.\"\n\nIgor, can I start with you? We are starting here with the Epstein issue. Is that the issue that took over this set of hearings, or did something else kind of move to the forefront?\n\nIGOR BOBIC, CONGRESSIONAL REPORTER, \"NOTUS\": It was one of them. I believe that Todd Blanche had to put that out there to sort of appease some of these Republican senators who believed that the administration ought to have done more about this Epstein issue.\n\nBut really, the overarching kind of thing that Republican senators wanted to hear is about this. You know, John Cornyn and Thom Tillis really wanted to get more information out of Blanche about this weaponization fund, anti-weaponization fund.\n\nCORNISH: Let me play that exchange for people. So, this is related to the settlement that Trump and his family made with the IRS over -- they believe that the IRS was weaponized against them.\n\nAnd the settlement led to a potential fund for reparations, reparations for people who felt they were wronged from the government.\n\nAnd Texas Senator John Cornyn, who lost his primary, is the person who raised this very pointed question.\n\nSEN. JOHN CORNYN (R-TX): First of all, I believe you have said that the weaponization fund is a moot issue. Is that your position?\n\nBLANCHE: Yes, it is a moot issue, meaning there is no weaponization fund. The weaponization fund is dead. It's not moving forward.\n\nCORNISH: Did it feel like that was enough for Cornyn?",
+  "segments": [
+    {
+      "seg": 1,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-16/segment/01",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\n100+ Democrats Vote Against Sending Aid to Israel; Gallup Poll: U.S. Opinion of Israel Drops 29 Points in 5 Years; Looksmaxxing the Military: Testosterone Testing for Troops; Todd Blanche Under Fire in hearings. Aired 6-6:30a ET\n\nAired July 16, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nAUDIE CORNISH, CNN ANCHOR: OK. Good morning, everybody. We're going to be talking about whether Israel's right-wing government is losing America. New criticism from the vice president and a stunning new vote by House Democrats.\n\nUNIDENTIFIED MALE: So, this is an important moment, because nothing will be the same on this issue ever again, I think, after this vote.\n\nCORNISH: And President Trump promising, quote, \"really big news\" in tonight's primetime address. Will it actually be old gripes about the 2020 election?\n\nPETE HEGSETH, U.S. DEFENSE SECRETARY: I'm authorizing a new screening program for testosterone deficiency for our service members.\n\nCORNISH: So, the Pentagon plans to test the troops for low T. Is this really a problem in the ranks?\n\nJ.D. VANCE, U.S. VICE PRESIDENT: I say this with all candor. Like, we absolutely screwed up the comms of the Epstein files.\n\nCORNISH: A big admission from J.D. Vance. The question is, who could now take the fall for it?\n\nREP. ALEXANDRIA OCASIO-CORTEZ (D-NY): We're not going to do it. The American people don't want to stand for this anymore.\n\nCORNISH: OK. More evidence of a massive shift in Congress. More than 100 Democrats vote against sending aid to Israel. So, what does the vote mean for the midterms and beyond?\n\nGood morning, everybody. I'm Audie Cornish, and this is where we start: this movement in the House to end U.S. military aid to Israel. It's drawing more support than it ever has.\n\nSo, 103 Democrats voted in favor of the amendment, which was sponsored by Kentucky Republican Thomas Massie. Ultimately, the amendment failed. The Republican majority and 98 Democrats voted it down.\n\nFor progressive Democrats, the vote signals a shift they once never thought was possible.\n\nREP. DELIA RAMIREZ (D-IL): I believe, looking at this list, that we're going to pick up more members, people who are saying that we cannot use taxpayer dollars for endless wars.\n\nOCASIO-CORTEZ: To me, what it says is that the majority of the Democratic Party is -- is most in touch with the American electorate, writ large.\n\nREP. ILHAN OMAR (D-MN): There are many members who took votes that I was surprised to take that yes vote today. And I am proud of them.\n\nCORNISH: Joining me now in the group chat, Harrison Mann, former U.S. Army major and former executive officer of the Defense Intelligence Agency's Middle East and Africa center; Mike Dubke, a former communications director at the Trump White House; and Meghan Hays, former director of message planning at the Biden White House.\n\nSo, first, I just want to start with -- I always joke that Congress is a lagging indicator. They're usually not at the forefront of things.\n\nSo, here's Gallup poll in February showing the overall opinion of Israel. And the difference is from 2021 to now. And you can see the net favorables are down 29 percent. It's a massive shift in a very short amount of time.\n\nHarrison, I want to start with you because full disclosure to the audience, you obviously left your job in government over Israel's actions in Gaza. So, this is very close to you. We know your opinion. What do you think of this moment and this shift in Congress?\n\nHARRISON MANN, FORMER EXECUTIVE OFFICER, DEFENSE INTELLIGENCE AGENCY: I think on one hand, it's a massive victory for anti-war, pro-peace Americans who have been pushing for this for years, who want to reevaluate the U.S. relationship with Israel.\n\nAnd, you know, on the other hand, we have to understand why we suddenly have up to two dozen new Democrats finally voting to -- to withhold aid to Israel.\n\nAnd it's not just because they suddenly found religion or changed their mind about their sense of morality. It means they are finally more afraid of their own voters than they are of pro-Israel donors and PACs like AIPAC. That is the shift.\n\nThe American people at large, and specifically Democratic voters, have wanted to see this for a long time. You know, recent polling shows, I think about 15 percent, only 15 percent of Democratic voters are supportive of Israel. That's a fringe position. That's the same number of Democratic voters who want to ban abortion.\n\nAnd so, we are seeing gradually elected Democrats catch up to where the voters are. But on the other hand, this is still quite an undemocratic outcome when you have half of Democrats in the House voting against the will of their voters.\n\nSo, to your point on public on polling, I looked at an A.P. poll. This was in June. Republicans' view on U.S. support for Israel. It's the 2024 versus now.\n\nAnd we're seeing some shift there, as well. It's a little more of a divide, obviously, than Democrats, but we're seeing a shift.\n\nThen you have people like J.D. Vance. He was just -- he's on his book tour. He's still talking. And he was --\n\nMIKE DUBKE, FORMER TRUMP WHITE HOUSE COMMUNICATIONS DIRECTOR: Still on the book tour?\n\nCORNISH: He's still talking.\n\nMEGHAN HAYS, FORMER BIDEN WHITE HOUSE DIRECTOR OF MESSAGE PLANNING: Keep on talking. Still talking.\n\nCORNISH: I mean, well, he's no longer on a ceasefire deal, OK? Because that's toast.\n\nSo, he's still talking. But on that deal, he was saying that it was the Israeli government that was sort of undermining the atmosphere around this deal. Here he is.\n\nVANCE: There's a lot of talk about how -- how much is the Israeli government influencing American politics? And there are certainly certain people within the Israeli government who hate the deal. And we see exact evidence.\n\nThere's a lot of talk about how -- how much is the Israeli government influencing American politics? And there are certainly certain people within the Israeli government who hate the deal. And we see exact evidence.\n\nCORNISH: So, he's not saying, \"Joe Rogan settle down. Joe Rogan, we -- our relationship with Israel\" -- you know what I mean? He's saying, Look, I understand. I hear you. What do you make of how he's trying to navigate the politics of this?\n\nCORNISH: Like he's at the heart of it. He actually --\n\nDUBKE: He's at the heart of it. But I do think that there's two separate -- two separate thoughts here, one of which is I'm not -- I'm not sure that this -- what the vote yesterday that we saw, to me, was less about America and more about this ongoing civil war that I think is emerging within the Democratic Party.\n\nCORNISH: Despite the Republican conversation, as well?\n\nCORNISH: Tucker leaving the party?\n\nDUBKE: Well, I think -- look, I think on the Republican side, a lot of this revolves around just the morality of foreign aid, whether or not we should be giving U.S. taxpayer dollars to any country.\n\nDUBKE: Let alone -- or let alone --\n\nDUBKE: -- holding Israel out.\n\nCORNISH: So, then let me play for you Jasmine Crockett, because I don't think you usually agree, but here's what she had to say after the vote.\n\nREP. JASMINE CROCKETT (D-TX): I don't want people who are already hurting, especially as we're heading into these significant midterms, to look at the Democrats and say, you know what? We can't afford gas. We can't afford food. Yet, you guys are still sending money elsewhere.\n\nDUBKE: And that's a very Republican position. I'm surprised she didn't win her primary.\n\nHAYS: So, I actually think that is more about what this is than necessarily the Israel-Gaza conflict. I think a lot of the voters and constituents in their districts are saying, We can't afford our own groceries and gas, but we're spending a significant amount of aid to foreign countries, and our debt is increasing. But I also don't want to overcrank on this. In swing districts, this\n\nis not even a top five issue for voters. So, we are not seeing this movement as we are seeing online. This might be an issue in New York City or in some of these very blue districts.\n\nCORNISH: Or in 100 districts, right?\n\nHAYS: But that's -- that's my -- like, this is not something that I think is really impacting the Democratic Party. And I do think this is a fair conversation that we need to be having as a country. And Congress needs to have. How much foreign aid are we going to be sending places?\n\nI don't think this is special to Israel. I think it is in general, when we have such a crisis here with affordability, that we are spending so much of our taxpayer dollars abroad. And I think that's what this about.\n\nCORNISH: Well, let me add one more thing.\n\nCORNISH: Because Rahm Emanuel went to Israel. He's trying to obviously lay down some -- some stones on the road to 2028. And here is what he had to say.\n\nRAHM EMMANUEL, FORMER OBAMA WHITE HOUSE CHIEF OF STAFF: So, I told the Israeli public, this is the price. You have lost America. It's not a Democratic Party problem.\n\nWhen two-thirds of the American people are not supporting Israel. And for ages 30 and younger, it's down to 21. That's not a Democratic Party problem. That's an America problem. And I thought it's better to be honest, better to be direct.\n\nDUBKE: It's crazy to me that every Democrat running for president is going to Israel. First we had Ro Khanna there this week, basically trying to --\n\nCORNISH: I think that's two. It's Rahm and Ro.\n\nDUBKE: Well, I think more of them will go.\n\nDUBKE: I do. I -- I think that they are trying to create this divide. And this is where I come back to the civil war within the Democratic Party.\n\nI think we're seeing this issue really take root within the Democratic Party debate. I think on the Republican side is exactly what Meghan saying, that it's foreign aid or not foreign aid. This is specifically about Israel with the Democrats.\n\nCORNISH: What do you see?\n\nMANN: Well, first, for the Republicans, I'm not sure it's about foreign aid, because every single Republican voted against this bill to restrict aid to Israel, except for one, Thomas Massie, who Trump has chased out of office.\n\nAnd within the Democrats, it absolutely is a civil war. But again, within elected leaders, because the voters are solidly on one side of this.\n\nAnd I do think there is something specific to Israel because of the horrific nature of the crimes in Gaza, voters understand that this this is an accurate litmus test for whether or not a politician shares their morality and whether or not a politician is beholden to their donors over their voters. And that's why this is a special issue.\n\nHAYS: I don't necessarily agree with that in the Democratic Party, because I think that there are a faction of Democrats that think that. And then there are the Democrats who are middle-class working people who are like, why are we spending money and can't afford things?\n\nSo,, I don't necessarily think this issue is 100 percent morality for every single Democrat. And that's not where the party stands writ large.\n\nAnd you can see that in some of these races, that they are not voting for people based on their stance on Israel or Gaza, or whether they called it a genocide. They're voting based on whether they can afford groceries and gas, and that is where they're coming down on this.\n\nSo, I just think that there's a split and that that is, to your point, a civil war in the Democratic Party.\n\nCORNISH: OK. Coming up on CNN THIS MORNING, we're going to talk to a congressman about his vote on aid to Israel. Representative Kevin Kiley. He is an independent, and he joins us in the next half hour.\n\nPlus, top Trump officials confiscating phones as the hunt for White House leakers reaches a new level.\n\nAnd then the Pentagon, they want to test the troops' testosterone. Is Hegseth looksmaxxing the military?\n\nHEGSETH: I'm authorizing a new screening program for testosterone deficiency for our service members, ensuring you have the right testosterone levels to operate at your absolute best. (END VIDEO CLIP)\n\nCORNISH: Defense Secretary Pete Hegseth wants our troops to be tested for testosterone deficiency. He says it will make them stronger.\n\nSo, here's how the plan will work. Anyone 30 years and older will be required to test. Those under 30, they can volunteer. And anyone diagnosed with a deficiency can voluntarily choose to receive treatment.\n\nThe Trump administration has been pushing for easier access to these therapies. In December, the FDA hosted an expert panel focusing on the benefits of testosterone replacement therapy for members of the military.\n\nAnd there are concerns.\n\nUNIDENTIFIED MALE: Testosterone replacement therapy can actually affect deployability and eligibility for special duty status. There are service members who work their entire careers to get these special duty statuses that are very highly sought after, and they worry that, if they get seen for this disease and treated for it, that they may lose that status.\n\nCORNISH: The group chat is back. Just to help clarify that point for people: testosterone at a certain level is an anabolic steroid, and in world sports competitions, it is considered a performance-enhancing drug.\n\nSo, that's why he's talking about people getting in trouble for it in the past.\n\nNow, since it was me and Meghan and Mike, we had to bring in more testosterone. That's why Harrison is here. And right now, I was looking at a tweet. Chrissy Houlahan saying online, \"I'm sure the testosterone industry is thrilled. Taxpayers should ask, who benefits from this latest culture war obsession?\"\n\nIs this something people might be excited about? Young men in the military?\n\nMANN: Yes, they might be, but they need to consult their -- their doctor. Like, we've got to first be clear: Pete Hegseth is not somebody who -- who understands or cares about the health of the troops under his responsibility.\n\nCORNISH: Why do you say that? He's always talking about their weight.\n\nMANN: Yes. Let's -- let's --\n\nCORNISH: Always talking about exercising.\n\nCORNISH: Facial hair.\n\nMANN: Yes. I've got to remind the viewers his last big medical announcement was canceling mandatory flu shots, a policy he had to reverse when a bunch of people at Air Force basic training got sick, and one died.\n\nSo, I don't trust him for medical advice.\n\nIs it good to offer everybody in the military gender-affirming care who wants it? Absolutely. I don't think that privilege should only be reserved for Pete Hegseth's conception of his ideal man, and that's what he's doing right now.\n\nCORNISH: I do think, though you've now hit on the culture war nerve center when you said \"gender-affirming care.\"\n\nCORNISH: This is what a lot of people are saying here. Senator Tammy Duckworth saying, \"It sounds like gender-affirming care to me.\"\n\nAnd of course, like, I'm not holding my breath for his perimenopause screening, but it's obviously --\n\nHAYS: Yes, they don't promote women --\n\nHAYS: -- so they don't -- doesn't matter.\n\nCORNISH: Obviously, this is an issue that's at the next -- I think it's at the junction of, like, Chad Looksmaxxing Boulevard and RFK Way. Like, there's a world that is obsessed with testosterone, because they're also obsessed with a couple other things that have to do with population decline or these other issues affecting men.\n\nDUBKE: There is one thing that Pete Hegseth and this administration is focused on, and that is recruiting more young men.\n\nDUBKE: Especially. But young people to the military.\n\nDUBKE: We went through years of having our -- missing our military recruitment numbers.\n\nCORNISH: Yes. I want to show that.\n\nDUBKE: And while this may seem --\n\nCORNISH: The military news has been reporting about the best numbers in 15 years. DUBKE: Yes.\n\nCORNISH: Show that while you're talking.\n\nDUBKE: And -- and I think this is part of it.\n\nMANN: That has to do with the economy.\n\nDUBKE: I think this is part of it, that we are -- that -- that they are focused on this. And this may seem bizarre on its face, that video that you showed. But it is part of this recruitment of young men joining the military.\n\nCORNISH: I don't think it's bizarre. Have you seen the commercials for testosterone? Like, this is a massive industry.\n\nDUBKE: Yes, Doug Flutie. Doug Flutie has a great one. That's -- but this is my point.\n\nCORNISH: But can I get -- Harrison just said something here under his breath. You don't think it is vibes. You think it's something else that's drawing people?\n\nMANN: Yes. I mean, it's not -- it's not vibes. It's part of -- like, this -- this video is --\n\nCORNISH: This is what will happen to you, by the way, if you take it. Yes.\n\nMANN: Yes. Like the video's goofy. Pete Hegseth posting we're going to have a high T military, I guess implying that up until now it was -- it was low T is goofy.\n\nBut the vision is not silly. And that's basically a white male military in Pete Hegseth's image. Like that's -- that's why he thinks about this stuff.\n\nDUBKE: I think -- now I think you're -- Now you're going overboard with this.\n\nMANN: He's -- he is firing or killing the careers of every black or female senior officer he can get his hands on. And we can't understand the other culture war stuff outside of that context.\n\nHe has his vision of, like, sweaty masculinity, kind of Pete Hegseth type of guy. He is trying to make the military look like that.\n\nI don't think he'll be successful. But these, you know, seemingly kind of incongruous announcements for a man who's supposed to be managing a massive war right now are -- are a little more frightening than they seem.\n\nHAYS: But also, we are now living in a place where we have canceled or we have canceled funding for HHS for -- HHS for a lot of different medical research and for science.\n\nAnd we now have a massive outbreak that people are getting from their food, because we don't have people monitoring food anymore.\n\nWhere is the scientific research that has said this -- that this -- this could actually cause infertility in men. This can cause a lot of damage to men. Where is the research, and where is the warning to the men?\n\nCORNISH: Well, to be fair, I do want to offer some facts. There's a man named Dr. Hagai Levine in Israel. They have done massive studies and meta-analysis, and male sperm counts and testosterone, it's down.\n\nWhat is not in agreement within the scientific community is how to deal with it, or what is causing it. Is it obesity? Is it diabetes? Is it sitting around in the pandemic? Right? There's a number of things.\n\nHAYS: A hundred percent.\n\nCORNISH: So, it's not even clear that giving TRT on the government dime to a bunch -- a male population is the absolute solve.\n\nHAYS: And then what happens when it does do something --\n\nCORNISH: And whether the military should be solving this issue for us, societally.\n\nDUBKE: I'm not saying they're trying to solve the issue.\n\nCORNISH: I know. I'm talking to Meghan.\n\nDUBKE: I don't know. You're looking at me and talking to her.\n\nCORNISH: We're friends. It's a group chat.\n\nHAYS: I just -- I just think that there's a lot here that is underlying current of what we're trying to do to our military, and who we're trying to isolate from the military, and who we're trying to recruit to the military.\n\nBut one thing that you said that I actually think is important about the recruitment is we are in a terrible economy. People are joining the military, because it gives them opportunities. It gives them a place to live. It gives them food. It gives them money when they sign up.\n\nSo, I think that there's a lot of ways out for people who don't necessarily think that college or there's other jobs for them. So, I think that's another reason that recruitment is up.\n\nDUBKE: Recruitment was down when we had an even worse economy. So, I'm not buying that. I --\n\nCORNISH: It was down, yes. HAYS: Totally. But that also could be a reason. Getting -- getting your free, like, T shot from the military isn't going to drive people.\n\nDUBKE: But here's the weird part, and this is why I'm saying it's bizarre. This is basically for those officers who are over 30 years of age, who have been in the military for ten, 12, 15 years.\n\nBut what it attracts -- and the point I'm trying to make is -- it attracts those young 16-, 17-, 18-year-olds who are buying into this cultural conversation of high testosterone.\n\nHAYS: And this -- herein lies the problem.\n\nHAYS: Herein lies the problem of how we are -- how people are being recruited, and how people are being influenced --\n\nHAYS: -- and what they want to make our military.\n\nDUBKE: And we can have that debate. But I think this is a recruitment tool.\n\nCORNISH: You can -- Yes, I could be testing T levels to come on the panel, too. I've been thinking about instituting that.\n\nDUBKE: I am raged about this right now.\n\nCORNISH: I just think that is only fair.\n\nHarrison Mann, thank you so much for being here. Really appreciate your time and expertise and point of view.\n\nAfter the break on CNN THIS MORNING, President Trump could return to a familiar playbook. Tonight, he's going to be talking about the 2020 election.\n\nAnd Vice President Vance admits the administration messed up on the Epstein files.\n\nVANCE: I say this with all candor, like, we absolutely screwed up the comms of the Epstein files. Like, we just did. But do I think the reason we screwed up the comms is because we were trying to hide something? No.\n\nCORNISH: Vice President J.D. Vance admitting the administration screwed up on the Epstein files. This comes as the president's pick for attorney general takes the stand in his confirmation hearing, having to own up to that process.\n\nTODD BLANCHE, ACTING U.S. ATTORNEY GENERAL: Any mistake that was made is not appropriate. And so, yes, I am sorry that, in about 1 percent of the -- of the documents, mistakes were made.\n\nBut what I will say on top of that is we put tons of resources to rectifying those mistakes immediately.\n\nCORNISH: Joining us in the group chat, Igor Bobic, congressional reporter at \"NOTUS.\"\n\nIgor, can I start with you? We are starting here with the Epstein issue. Is that the issue that took over this set of hearings, or did something else kind of move to the forefront?\n\nIGOR BOBIC, CONGRESSIONAL REPORTER, \"NOTUS\": It was one of them. I believe that Todd Blanche had to put that out there to sort of appease some of these Republican senators who believed that the administration ought to have done more about this Epstein issue.\n\nBut really, the overarching kind of thing that Republican senators wanted to hear is about this. You know, John Cornyn and Thom Tillis really wanted to get more information out of Blanche about this weaponization fund, anti-weaponization fund.\n\nCORNISH: Let me play that exchange for people. So, this is related to the settlement that Trump and his family made with the IRS over -- they believe that the IRS was weaponized against them.\n\nAnd the settlement led to a potential fund for reparations, reparations for people who felt they were wronged from the government.\n\nAnd Texas Senator John Cornyn, who lost his primary, is the person who raised this very pointed question.\n\nSEN. JOHN CORNYN (R-TX): First of all, I believe you have said that the weaponization fund is a moot issue. Is that your position?\n\nBLANCHE: Yes, it is a moot issue, meaning there is no weaponization fund. The weaponization fund is dead. It's not moving forward.\n\nCORNISH: Did it feel like that was enough for Cornyn?"
+    }
+  ]
+}
