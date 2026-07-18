@@ -1,0 +1,434 @@
+{
+  "date": "2026-07-17",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-17/segment/01",
+  "vocabulary": [
+    {
+      "word": "stranded",
+      "phonetic": "/ˈstrændɪd/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "搁浅的；被困的",
+      "en": "left in a difficult or helpless situation",
+      "excerpt": "Filming in the rain when they saw it was stranded in the water and quickly paddled over to help.",
+      "example_cn": "他们看到它被困在水中，迅速划过去帮忙。"
+    },
+    {
+      "word": "scoop",
+      "phonetic": "/skuːp/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "舀；铲起",
+      "en": "to lift or pick up with a scooping motion",
+      "excerpt": "Tucker said that he scooped the raccoon up with his paddle and took him to safety.",
+      "example_cn": "塔克说他用桨把浣熊舀起来，带到了安全的地方。"
+    },
+    {
+      "word": "gush",
+      "phonetic": "/ɡʌʃ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "喷出；涌出",
+      "en": "to flow out in a rapid and plentiful stream",
+      "excerpt": "the lava fountains have returned after three weeks, gushing hundreds of feet into the air.",
+      "example_cn": "熔岩喷泉在三周后重现，喷涌至数百英尺高。"
+    },
+    {
+      "word": "integrity",
+      "phonetic": "/ɪnˈteɡrəti/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "完整；正直",
+      "en": "the quality of being honest and having strong moral principles",
+      "excerpt": "President Trump's big promise of revelations about election integrity.",
+      "example_cn": "特朗普总统关于选举诚信的重大承诺。"
+    },
+    {
+      "word": "revelation",
+      "phonetic": "/ˌrevəˈleɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "揭露；启示",
+      "en": "a surprising and previously unknown fact",
+      "excerpt": "President Trump's big promise of revelations about election integrity.",
+      "example_cn": "特朗普总统关于选举诚信的揭露承诺。"
+    },
+    {
+      "word": "teleprompter",
+      "phonetic": "/ˈteliprɒmptə(r)/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "提词器",
+      "en": "a device that displays text for a speaker to read",
+      "excerpt": "the man who rolls the teleprompter at the White House, now under investigation.",
+      "example_cn": "白宫操作提词器的人正在接受调查。"
+    },
+    {
+      "word": "declassification",
+      "phonetic": "/diːˌklæsɪfɪˈkeɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "解密",
+      "en": "the process of making classified information public",
+      "excerpt": "I'm announcing the immediate declassification and release of critical intelligence.",
+      "example_cn": "我宣布立即解密并发布关键情报。"
+    },
+    {
+      "word": "vulnerability",
+      "phonetic": "/ˌvʌlnərəˈbɪləti/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "脆弱性；弱点",
+      "en": "the quality of being easily hurt or attacked",
+      "excerpt": "revealing shocking vulnerabilities in our election infrastructure.",
+      "example_cn": "揭示我们选举基础设施中令人震惊的脆弱性。"
+    },
+    {
+      "word": "smoke and mirrors",
+      "phonetic": "/sməʊk ənd ˈmɪrəz/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "障眼法；欺骗性手段",
+      "en": "something that is intended to deceive or confuse people",
+      "excerpt": "Are the claims smoke and mirrors?",
+      "example_cn": "这些说法是障眼法吗？"
+    },
+    {
+      "word": "groundbreaking",
+      "phonetic": "/ˈɡraʊndbreɪkɪŋ/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "开创性的",
+      "en": "innovative; introducing new ideas or methods",
+      "excerpt": "The president promoted Thursday night's address as a groundbreaking speech.",
+      "example_cn": "总统将周四晚上的演讲宣传为开创性的讲话。"
+    },
+    {
+      "word": "allege",
+      "phonetic": "/əˈledʒ/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "断言；指控",
+      "en": "to claim or assert without proof",
+      "excerpt": "He alleged that China carried out an influence campaign in the 2020 election.",
+      "example_cn": "他声称中国在2020年大选中进行了影响力活动。"
+    },
+    {
+      "word": "back up",
+      "phonetic": "/bæk ʌp/",
+      "pos": "phrasal v.",
+      "level": "六级",
+      "cn": "支持；证实",
+      "en": "to support or confirm",
+      "excerpt": "he says all that can be backed up by newly declassified documents.",
+      "example_cn": "他说所有这些都可以由新解密的文件证实。"
+    },
+    {
+      "word": "manipulate",
+      "phonetic": "/məˈnɪpjuleɪt/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "操纵；控制",
+      "en": "to control or influence in a clever or dishonest way",
+      "excerpt": "none of the declassified material supports the claim that any previous election results... were manipulated.",
+      "example_cn": "没有任何解密材料支持任何先前选举结果被操纵的说法。"
+    },
+    {
+      "word": "bedrock",
+      "phonetic": "/ˈbedrɒk/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "基石；基础",
+      "en": "the fundamental principles or foundation",
+      "excerpt": "Our elections are the bedrock of our democracy.",
+      "example_cn": "我们的选举是民主的基石。"
+    },
+    {
+      "word": "innuendo",
+      "phonetic": "/ˌɪnjuˈendəʊ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "暗讽；影射",
+      "en": "an indirect remark or suggestion",
+      "excerpt": "There's just a lot of innuendo, a lot of insinuation.",
+      "example_cn": "只有大量的影射和暗示。"
+    },
+    {
+      "word": "insinuation",
+      "phonetic": "/ɪnˌsɪnjuˈeɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "暗示；暗讽",
+      "en": "an indirect suggestion",
+      "excerpt": "There's just a lot of innuendo, a lot of insinuation.",
+      "example_cn": "只有大量的影射和暗示。"
+    },
+    {
+      "word": "prosecute",
+      "phonetic": "/ˈprɒsɪkjuːt/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "起诉；检举",
+      "en": "to institute legal proceedings against",
+      "excerpt": "The country did not fully prosecute the crimes of January 6th.",
+      "example_cn": "国家没有充分起诉1月6日的罪行。"
+    },
+    {
+      "word": "aftermath",
+      "phonetic": "/ˈɑːftəmæθ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "后果；余波",
+      "en": "the consequences or aftereffects of an event",
+      "excerpt": "we are still living with the aftermath of that today.",
+      "example_cn": "我们今天仍然生活在那个后果中。"
+    },
+    {
+      "word": "revive",
+      "phonetic": "/rɪˈvaɪv/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "复兴；重新提起",
+      "en": "to bring back to life or prominence",
+      "excerpt": "Why revive stuff that's, like, literally still in the courts?",
+      "example_cn": "为什么要重新提起那些还在法庭审理中的事情？"
+    },
+    {
+      "word": "predicate",
+      "phonetic": "/ˈpredɪkət/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "前提；基础",
+      "en": "a basis or foundation",
+      "excerpt": "this is a powerful predicate for that.",
+      "example_cn": "这是一个强有力的前提。"
+    },
+    {
+      "word": "disband",
+      "phonetic": "/dɪsˈbænd/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "解散",
+      "en": "to break up or dissolve",
+      "excerpt": "they disbanded the FBI's Foreign Influence Task Force.",
+      "example_cn": "他们解散了联邦调查局的外国影响力工作组。"
+    },
+    {
+      "word": "slash",
+      "phonetic": "/slæʃ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "大幅削减",
+      "en": "to reduce drastically",
+      "excerpt": "the DNI slashed the intel office budget by more than 700 million annually.",
+      "example_cn": "国家情报总监将情报办公室预算每年削减超过7亿美元。"
+    },
+    {
+      "word": "undermine",
+      "phonetic": "/ˌʌndəˈmaɪn/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "削弱；破坏",
+      "en": "to weaken or damage gradually",
+      "excerpt": "an intentional effort to undermine confidence in... the 2026 and maybe even the 2028 election.",
+      "example_cn": "故意削弱对2026年甚至2028年选举信心的努力。"
+    },
+    {
+      "word": "materialize",
+      "phonetic": "/məˈtɪəriəlaɪz/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "实现；显现",
+      "en": "to become actual or real",
+      "excerpt": "the evidence hasn't materialized that would actually support the kinds of claims.",
+      "example_cn": "能够支持这些说法的证据尚未出现。"
+    },
+    {
+      "word": "rhetoric",
+      "phonetic": "/ˈretərɪk/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "修辞；花言巧语",
+      "en": "the art of effective or persuasive speaking or writing",
+      "excerpt": "the rhetoric has to match the actual thing that you're trying to fix.",
+      "example_cn": "言辞必须与你试图解决的实际问题相匹配。"
+    },
+    {
+      "word": "outbreak",
+      "phonetic": "/ˈaʊtbreɪk/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "爆发",
+      "en": "a sudden occurrence of something unwelcome",
+      "excerpt": "the shredded lettuce... at the center of that parasite outbreak.",
+      "example_cn": "碎生菜是寄生虫爆发的中心。"
+    },
+    {
+      "word": "relentless",
+      "phonetic": "/rɪˈlentləs/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "无情的；持续的",
+      "en": "unyielding; persistent",
+      "excerpt": "Smoke from Canada's relentless wildfires drifting South.",
+      "example_cn": "加拿大无情野火的烟雾向南飘散。"
+    },
+    {
+      "word": "insider trading",
+      "phonetic": "/ɪnˈsaɪdə ˈtreɪdɪŋ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "内幕交易",
+      "en": "illegal trading based on confidential information",
+      "excerpt": "the White House teleprompter operator accused of insider trading.",
+      "example_cn": "白宫提词器操作员被指控内幕交易。"
+    },
+    {
+      "word": "reel",
+      "phonetic": "/riːl/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "感到震惊；蹒跚",
+      "en": "to feel shocked or confused",
+      "excerpt": "We are still reeling from what happened a year ago.",
+      "example_cn": "我们仍然对一年前发生的事情感到震惊。"
+    },
+    {
+      "word": "devastating",
+      "phonetic": "/ˈdevəsteɪtɪŋ/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "毁灭性的",
+      "en": "causing great damage or suffering",
+      "excerpt": "literally quite devastating for a lot of us.",
+      "example_cn": "对我们很多人来说简直是毁灭性的。"
+    },
+    {
+      "word": "cyclospora",
+      "phonetic": "/ˌsaɪkləˈspɔːrə/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "环孢子虫",
+      "en": "a parasite causing intestinal infection",
+      "excerpt": "the cyclospora outbreak.",
+      "example_cn": "环孢子虫爆发。"
+    },
+    {
+      "word": "cordial",
+      "phonetic": "/ˈkɔːdiəl/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "热情友好的",
+      "en": "warm and friendly",
+      "excerpt": "it wasn't all cordial.",
+      "example_cn": "并不全是友好的。"
+    },
+    {
+      "word": "inexplicable",
+      "phonetic": "/ˌɪnɪkˈsplɪkəbl/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "无法解释的",
+      "en": "impossible to explain",
+      "excerpt": "They're inexplicable.",
+      "example_cn": "他们无法解释。"
+    },
+    {
+      "word": "berserker",
+      "phonetic": "/bəˈzɜːkə(r)/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "狂暴战士",
+      "en": "a warrior who fights with frenzied fury",
+      "excerpt": "becomes a man possessed, a berserker.",
+      "example_cn": "变成一个着魔的人，一个狂暴战士。"
+    },
+    {
+      "word": "immortal",
+      "phonetic": "/ɪˈmɔːtl/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "不朽的",
+      "en": "living forever; never dying",
+      "excerpt": "cease being merely human and become immortal.",
+      "example_cn": "不再仅仅是人类，而成为不朽。"
+    },
+    {
+      "word": "legacy",
+      "phonetic": "/ˈleɡəsi/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "遗产；遗留",
+      "en": "something handed down from the past",
+      "excerpt": "What do you think is going to be the legacy from this play after all?",
+      "example_cn": "你认为这场比赛最终会留下什么遗产？"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "According to CNN analysis, the new documents usually show previously known intelligence, much of it already included in intelligence assessments from five years ago.",
+      "cn": "根据CNN分析，这些新文件通常显示的是先前已知的情报，其中大部分已经包含在五年前的情报评估中。",
+      "structure": "主句：the new documents usually show previously known intelligence；同位语：much of it already included in intelligence assessments from five years ago。",
+      "analysis": "句子的主干是the new documents show intelligence。much of it...是独立主格结构，补充说明intelligence。"
+    },
+    {
+      "en": "None of the declassified material supports the claim that any previous election results, including the 2020 election that Trump lost, were manipulated in a way that would have changed the outcome.",
+      "cn": "没有任何解密材料支持这样的说法：任何先前的选举结果，包括特朗普输掉的2020年大选，被以会改变结果的方式操纵。",
+      "structure": "主句：None of the declassified material supports the claim；同位语从句：that any previous election results... were manipulated；定语从句：that would have changed the outcome。",
+      "analysis": "that引导同位语从句解释claim的内容。including...是插入语。that would have changed是定语从句修饰way。"
+    },
+    {
+      "en": "If you actually look at the documents that he puts out, such that people will, it actually shows that they were going to help Trump get elected in 2020 by going after Biden in the end, such that you want to believe what the documents say.",
+      "cn": "如果你真的看他发布的文件，人们会看到，它实际上显示他们最终会通过攻击拜登来帮助特朗普在2020年当选，以至于你会相信文件所说的。",
+      "structure": "条件状语从句：If you actually look at the documents；定语从句：that he puts out；主句：it actually shows that...；结果状语从句：such that you want to believe...。",
+      "analysis": "句子结构复杂，包含多个从句。such that引导结果状语从句。"
+    },
+    {
+      "en": "I think any good will the president or the people around him, like Steve Bannon, might have had on this issue, they've undermined with, now, six years, eight years of statements that just went far beyond, you know, talking about reality.",
+      "cn": "我认为总统或他周围的人，比如史蒂夫·班农，在这个问题上可能拥有的任何善意，他们现在已经用六年、八年的声明破坏了，这些声明远远超出了谈论现实。",
+      "structure": "主句：I think...；宾语从句：any good will... they've undermined...；定语从句：that just went far beyond...。",
+      "analysis": "宾语从句中，主语是any good will，谓语是they've undermined，中间插入定语从句might have had修饰good will。"
+    },
+    {
+      "en": "It's as if his personality completely changes, and if he does this on Sunday, goes back-to-back, which would be the first time since 1962 any team has retained the World Cup, we will be able to watch together, Audie, a human being at the final whistle, cease being merely human and become immortal.",
+      "cn": "就好像他的性格完全改变了，如果他在周日做到这一点，连续夺冠，这将是自1962年以来任何球队首次卫冕世界杯，我们将能够一起观看，奥迪，一个人在终场哨响时，不再仅仅是人类，而成为不朽。",
+      "structure": "主句：It's as if...；条件状语从句：if he does this...；非限制性定语从句：which would be...；主句：we will be able to watch...。",
+      "analysis": "as if引导表语从句。which指代前面整个条件句的内容。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "2026年中期选举与选举安全",
+      "content": "特朗普总统在黄金时段发表关于选举安全的讲话，声称中国干预2020年大选、投票机存在漏洞、非公民选民登记等问题，并宣布解密相关文件。但CNN分析认为文件内容多为已知情报，且未证明选举结果被篡改。此举被视为推动《SAVE法案》和为2026年中期选举铺垫。",
+      "keywords": "election security, SAVE Act, voter ID, declassification, foreign interference"
+    },
+    {
+      "title": "白宫提词器操作员内幕交易案",
+      "content": "特朗普的长期提词器操作员因涉嫌利用总统演讲内容在预测网站Kalshi上下注，获利超过9万美元，目前正在接受调查。此案引发对白宫内部信息安全的关注。",
+      "keywords": "insider trading, teleprompter operator, Kalshi, prediction market"
+    },
+    {
+      "title": "2026年世界杯决赛：阿根廷vs西班牙",
+      "content": "2026年世界杯决赛将在阿根廷和西班牙之间展开，阿根廷有望卫冕，西班牙则寻求第二颗星。比赛门票均价高达1.1万美元，创美国体育赛事纪录。梅西与亚马尔的新老对决成为焦点。",
+      "keywords": "World Cup final, Argentina, Spain, Lionel Messi, Lamine Yamal"
+    },
+    {
+      "title": "加拿大野火与美国空气质量",
+      "content": "加拿大持续野火产生的烟雾向南飘散，导致美国部分地区空气质量恶化，出现危险水平。",
+      "keywords": "wildfires, Canada, air quality, smoke"
+    },
+    {
+      "title": "Taco Bell生菜引发环孢子虫疫情",
+      "content": "Taco Bell部分门店供应的碎生菜被怀疑与环孢子虫疫情有关，供应商为Taylor Farms。自5月以来已报告近7000例病例，140多人住院。",
+      "keywords": "cyclospora outbreak, Taco Bell, shredded lettuce, Taylor Farms"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nTrump Gives Speech on Election Security; Spain v. Argentina: World Cup Final This Weekend. Aired 6-6:30a ET\n\nAired July 17, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nBRAD SMITH, CNN ANCHOR: Filming in the rain when they saw it was stranded in the water and quickly paddled over to help.\n\nTucker said that he scooped the raccoon up with his paddle and took him to safety. Good work there.\n\nAnd on the big island of Hawaii, the lava fountains have returned after three weeks, gushing hundreds of feet into the air. There, some of those visuals from Kilauea.\n\nThat does it for CNN HEADLINE EXPRESS. I'm Brad Smith. CNN THIS MORNING with Audie Cornish starts right now.\n\nAUDIE CORNISH, CNN ANCHOR: Today in the group chat, President Trump's big promise of revelations about election integrity. But did that primetime address deliver?\n\nDONALD TRUMP, U.S. PRESIDENT: China engaged in other election related activities to undermine my first administration and our 2020 campaign.\n\nCORNISH: Also, sources say the man who rolls the teleprompter at the White House, now under investigation. Did he place bets on the president's speeches?\n\nSEN. JOHN FETTERMAN (D-PA): If the Democratic Party becomes official anti-Israel, then that's when I would -- force me out.\n\nCORNISH: Senator John Fetterman draws a line in the sand. Is he laying the groundwork to become a Republican?\n\nTRUMP: I'm announcing the immediate declassification and release of critical intelligence, revealing shocking vulnerabilities in our election infrastructure.\n\nCORNISH: So, the president, using a primetime White House speech to sound the alarm over U.S. elections. Are the claims smoke and mirrors?\n\nGood morning, everybody. I'm Audie Cornish. We're going to talk about that speech. The president promoted Thursday night's address as a groundbreaking speech on the shortfalls in our election system. It ran 27 minutes, hit on several topics.\n\nHe alleged that China carried out an influence campaign in the 2020 election. He claims vulnerabilities with U.S. voting machines and says more non-citizens are on voter rolls than previously known.\n\nAnd he said all that can be backed up by newly declassified documents.\n\nSo, here at CNN, we took a look at this. According to CNN analysis, the new documents usually show previously known intelligence, much of it already included in intelligence assessments from five years ago.\n\nNow, none of the declassified material supports the claim that any previous election results, including the 2020 election that Trump lost, were manipulated in a way that would have changed the outcome.\n\nBEN GINSBERG, REPUBLICAN ELECTION LAWYER: What stood out to me is that there's still no evidence of a result of any election being incorrect.\n\nSUE GORDON, FORMER DEPUTY DIRECTOR OF NATIONAL INTELLIGENCE: I think this was a dangerous speech about an incredibly important topic, with some really questionable remedies in mind.\n\nOur elections are the bedrock of our democracy. If we can't trust them, it is bad. But this doesn't prove it.\n\nCORNISH: All right. Joining me now in the group chat, we've got Elliot Williams, CNN legal analyst and a former federal prosecutor; Elizabeth Mitchell, White House correspondent for \"The Daily Signal\"; and Luke Thomas, political analyst and host of \"The Morning Combat\" podcast.\n\nSo, just to set things up for people, I want to play for you, the Joe Rogan podcast from this week, because J.D. Vance was on it. And this came up. And the reason why I want to play this is for you is because you may be wondering, who is this for? Why would Trump be talking about this? Here's an example.\n\nJOE ROGAN, PODCASTER: This idea that elections can't be stolen. I always say to people, OK, do you think that the amount of election fraud is 0 percent? No one thinks that.\n\nUNIDENTIFIED MALE: Yes.\n\nROGAN: No one thinks it's zero. There's always some overzealous person that works somewhere that's doing something. There's always crazy people.\n\nUNIDENTIFIED MALE: Correct.\n\nROGAN: They're like, blue, no matter who. We've got to win. Or red no matter what. There's always people right and left that are going to try to rig the election, because they think it's imperative.\n\nCORNISH: OK. So, Luke, our fellow podcaster and combat sport brotherhood.\n\nLUKE THOMAS, POLITICAL ANALYST: Yes.\n\nCORNISH: There's clearly a voter.\n\nTHOMAS: (UNINTELLIGIBLE), yes.\n\nCORNISH: You do. So, there's clearly a voter out there that is only too happy to talk about this. And would they be appeased, happy, pleased by what Trump was saying last night?\n\nTHOMAS: I don't think they're paying too much attention. This speech, to me, felt like a big dud. It felt like a big miss. It was 27 minutes. He had a very -- what do you want to call it? -- sleepy affect in the way he delivered it.\n\nAnd more to the point that you raise, there's nothing in the speech at all that says any of the voter tallies, any of the ways in which the vote was counted, any of the elections need to be overturned. There's just a lot of innuendo, a lot of insinuation.\n\nIf you actually look at the documents that he puts out, such that people will, it actually shows that they were going to help Trump get elected in 2020 by going after Biden in the end, such that you want to believe what the documents say.\n\nSo, like over and over again, it's this kind of attempt. Listen, here's the reality. The country did not fully prosecute the crimes of January 6th, and we are still living with the aftermath of that today. This is an example of it.\n\nCORNISH: Let me let people jump in there. Just for your example. When we talk about voting machines, he brought up the Smartmatic voting -- voting machines, which has come up time and time again.\n\nSmartmatic has actually sued over these allegations. And the president revived that particular set of allegations. Why revive stuff that's, like, literally still in the courts and not have anything that's going to disprove it? ELIZABETH MITCHELL, WHITE HOUSE CORRESPONDENT, \"THE DAILY SIGNAL\":\n\nThat's a good question. I think that his point in giving this speech was less to show that the 2020 election, as he said, is stolen. I think his point was more so to push the SAVE Act.\n\nI think he was trying to demonstrate. He said 278,000 people are illegally registered to vote in the United States. I don't think he had a specific proof that they have voted.\n\nCORNISH: But several states came out to say, where are you getting those numbers? We don't have those numbers. We'd like to see the evidence. The White House has not provided any yet.\n\nMITCHELL: And hopefully in coming weeks, we'll see more of that evidence. But I think his point was to show that, if this is not true, there should be no issue passing the SAVE America Act, because if people aren't illegally registered to vote, then what's the harm in checking out those voter rolls and requiring voter I.D.?\n\nCORNISH: The kind of people who would be happy about this kind of speech would be, like, a Steve Bannon, right? When people asked him about this, he has been saying, \"We need a National Security Emergency about the midterm elections immediately.\" And \"this is a powerful predicate for that.\" Steve Bannon, he wrote this in a text message to CNN.\n\nI wanted to ask you about that word \"predicate,\" which sounds a little bit legal, frankly.\n\nELLIOT WILLIAMS, CNN LEGAL ANALYST: Look at that. Look at that.\n\nCORNISH: And would be relevant to an administration that has made a lot of cuts and changes to the structures that actually are supposed to protect elections.\n\nCORNISH: So, they disbanded the FBI's Foreign Influence Task Force, literally. The Foreign Influence Task Force.\n\nThe State Department got rid of their Counter Foreign Information Manipulation and Interference Office. All of those words together sound like something we would need, given that speech.\n\nAnd then, the DNI slashed the intel office budget by more than 700 million annually. What does the word \"predicate\" say to you?\n\nWILLIAMS: Well, predicate suggests that there's an intentional effort to undermine confidence in, certainly, the 2026 and maybe even the 2028 election. Certainly --\n\nCORNISH: You're saying Bannon is saying that, or you're saying the use of the word \"predicate\" is saying --\n\nWILLIAMS: The use of the word \"predicate\" seems to suggest.\n\nCORNISH: -- we need -- there needs to be a reason.\n\nWILLIAMS: A basis, yes, for -- There needs to be a basis for these actions in the future.\n\nCORNISH: So, he knows there needs to be a basis?\n\nWILLIAMS: Yes, I guess. Here's the -- regardless, you know, of that, Audie. You know, I think any good will the president or the people around him, like Steve Bannon, might have had on this issue, they've undermined with, now, six years, eight years of statements that just went far beyond, you know, talking about reality. I think --\n\nCORNISH: But what they're trying to do is say to the Senate --\n\nCORNISH: -- hey, guys, there's plenty here to work with. You have reasons. You have support when it comes to voter I.D. Like, this is fundamentally about the elections of '26 and '28, right? Like not --\n\nWILLIAMS: Yes. And -- and even if there were a legal basis for passing legislation to correct some of these issues, I think the president sort of burned that goodwill in the way he's talked about, certainly 20 -- 2016 and 2020 elections.\n\nCORNISH: But there was just a raid on an Ohio voting ballot group --\n\nWILLIAMS: Right, right.\n\nCORNISH: -- by the FBI. I mean, do these kinds of conversations create the predicate to go out and say what we need to send people to take boxes and send people to take cell phones of, probably, Democratic leaning groups, right?\n\nWILLIAMS: Right. They are trying to set that predicate. I just think the evidence hasn't materialized that would actually support the kinds of claims that the president is making. That's sort of the point that I keep getting back to.\n\nIt's sort of yes, there might -- you know, there might be some measures of fraud happening in any system. I think, Steve, I think it was Joe Rogan who made that point.\n\nWILLIAMS: There's fraud in everything. There's fraud in -- probably at the local 7-Eleven, right?\n\nNow, the question is, how do you address that specific fraud without going beyond and saying that everybody who works at a 7-Eleven is a homicidal maniac who has a bomb in his pocket? That's just not -- you know, the rhetoric has to match the actual thing that you're trying to fix.\n\nWILLIAMS: And I think the president has just gone too far, and we know that.\n\nCORNISH: OK, we're going to talk more about this speech. But coming up, that late night run to Taco Bell, it's coming with a warning. The shredded lettuce they use now at the center of that parasite outbreak.\n\nPlus, you may be able to smell it. Smoke from Canada's relentless wildfires drifting South. Now, the air quality in some parts of the U.S. is dangerous.\n\nAnd the White House teleprompter operator accused of insider trading.\n\nMICHAEL KOSTA, COMEDY CENTRAL'S \"THE DAILY SHOW\": Now using a teleprompter to win bets is a recipe for trouble. I mean, I read from a prompter, and I know our operator would never purple bananas, purple bananas, purple bananas. (EXPLETIVE DELETED), Christina!\n\nCORNISH: It's now 15 minutes past the hour. This is your morning roundup.\n\nFlash flooding in Texas left two people dead. Those floods are drenching the Southern part of the state. Hundreds of people have been rescued, however.\n\nNow, it's all happening in the same region struck by deadly floods this time last year.\n\nUNIDENTIFIED MALE: We are still reeling from what happened a year ago. Those are not easily forgotten memories. And to have this happen again so suddenly is literally quite devastating for a lot of us.\n\nCORNISH: And officials say about a year's worth of rain has already fallen in the area. Storms are expected to ease up today.\n\nNow, health officials talking about shredded lettuce served at some Taco Bell locations may be behind the cyclospora outbreak. Taylor Farms, the supplier of that lettuce.\n\nThe outbreak has been centered mostly in the Midwest. At this point, nearly 7,000 cases and more than 140 hospitalizations have been reported since May.\n\nAnd acting attorney general, Todd Blanche, did meet with Epstein survivors yesterday afternoon. Senator Thom Tillis said the meeting needed to happen before he would vote in favor of Blanche's nomination.\n\nOne of the survivors who was in the meeting spoke to CNN last night.\n\nMARINA LACERDA, EPSTEIN SURVIVOR: It wasn't a productive meeting, but however, we do have, now, contact to the FBI to possibly start, you know, some new investigations, and I'm looking forward to that.\n\nCORNISH: Blanche also admitted that it was, quote, \"wasn't all cordial, because there's something that they want that I don't think I can give them, which is some form of justice.\"\n\nAnd sources tell CNN President Trump's longtime teleprompter operator now under investigation for insider trading. He allegedly bet on words Trump would say during speeches using the prediction site Kalshi.\n\nAnd a source tells U.S. [SIC] -- tells us that he raked in more than $90,000.\n\nNow, Kalshi is saying those profits are now frozen. And he has been placed on leave.\n\nWant to disclose that CNN does have a partnership with Kalshi.\n\nAnd after the break on CNN THIS MORNING, Senator John Fetterman draws a line over Israel. Is he warning Democrats or just eyeing a transition to a new party?\n\nPlus, the World Cup champion will be crowned this weekend. It appears one of them is all about the vibes.\n\nAnd a live look in uptown New York, where you can see that smoky haze from the wildfires in Canada.\n\nUNIDENTIFIED MALE: We love this team. We love Messi. It was just solidified. He's already the greatest of all time, but you could never argue it again.\n\nUNIDENTIFIED MALE: If we win, like on Sunday, it would just, like, actually blow my mind. Like, I don't have a voice right now. So, imagine on Sunday.\n\nCORNISH: Forty-six teams earned their way into the World Cup. Two remain, and it's going to be a clash of powerhouses when reigning world champion Argentina looks to pull off the impossible: a repeat. And reigning European champion Spain looks to add a second star to its jersey.\n\nThis all goes down Sunday at New Jersey stadium. And if you're looking to get in, you may need to take out a loan. This is the most expensive sporting event in U.S. history: average purchase price of $11,000 per ticket.\n\nRoger Bennett joins us now. He's the co-host of the \"Men in Blazers\" podcast. I hope you saved up. I don't know. That ticket price is outrageous, but I guess --\n\nROGER BENNETT, CO-HOST, \"MEN IN BLAZERS\": I thought you were treating me, Audie.\n\nBENNETT: I thought you were treating me.\n\nCORNISH: Yes. Just coins falling out of my pocket.\n\nSo, let's just talk about, in the end, despite all of these teams competing and Cinderella stories, we have two. The two powerhouses. What makes them different from each other in their style of play?\n\nBENNETT: Good lord, everything. You know, Spain are ordered. They have an idea of football. It's deeply ingrained. They've barely conceded. They play deeply tactical, rigorous, robust, smothering wonder.\n\nAnd Argentina are a hot mess. They're running on vibes and madness. They're inexplicable. They lose. It's like, what? It's like watching three Red Sox, love to be 3-nil down to the Yankees before they come alive.\n\nThey're the ultimate fourth quarter team, throwing up the fours constantly behind. They look out.\n\nAnd then Lionel Messi. This 39-year-old, he's a quasi- kind of mystical figure at this point, just comes alive and turns from a tiny little slumbering Ewok. It's like he just suddenly sticks a knife between his teeth and becomes a man possessed, a berserker and with force of will.\n\nIt's almost hard to understand how he does it; drags this team, drags this nation back into the game.\n\nSo, it's really an unbelievable football team, the best in the world, going against some kind of inexplicable magic.\n\nCORNISH: As much as I want you to write either a sorcerer spell or a novel about Messi, given that description, he's 39. He's a testament to athleticism and a testament to this age of athleticism where, whether you're Serena Williams or whoever, people, like, they're eking out some years here on the field.\n\nIs there -- is -- what do you see in him and how his play has shifted getting to this point?\n\nBENNETT: Audie, I am merely human. So, for me to comment on what Lionel Messi does is -- I am way out of my depth.\n\nLet me tell you this. I'm not sure it is athleticism we're watching. It's why he has been able to not just keep going, age 39, but actually get better and better and better. There's something about the mind.\n\n\"The Athletic\" discovered that Lionel Messi -- stay with me here -- he walks 63 percent of the game. He stands still a further 25 percent of the game. He does things that maybe you or I could do on a football field.\n\nBut it's the other 12 percent of that game where it's mental more than anything.\n\nBENNETT: He sees things mere humans don't see. He understands things. He understands space and time, and he can just destroy all comers.\n\nIt's as if his personality completely changes. And if he does this on Sunday, goes back-to-back, which would be the first time since 1962 any team has retained the World Cup. We will be able to watch together, Audie, a human being at the final whistle, cease being merely human and become immortal.\n\nIt's like Michelangelo or Mozart. People will be talking about this man for centuries. And we're going to be able to watch him live together.\n\nCORNISH: Well, for now, they're looking at this photo of him from many years ago, where he's literally giving a little bath to Lamine Yamal for a campaign. I think it was, like, UNICEF or something.\n\nCORNISH: And, like, now that person is playing on the same field.\n\nBENNETT: Not just playing. But that person is a 19-year-old superstar. That person is the 19-year-old kid who is expected by everybody to replace Messi as the greatest in the game.\n\nIt's as if you unearthed the photograph of Peyton Manning in his off time in like 2000, deciding, you know what? I'm going to give baby Patrick Mahomes a bath.\n\nThis is just incredible. And it's -- it's almost inexplicable. This is -- it almost seems a -- I mean, it seems the A.I.-est thing that ever A.I. is.\n\nCORNISH: But it has been verified.\n\nBENNETT: And these two humans will be face-to-face leading their nation's teams. This is -- this is why the World Cup is magic.\n\nCORNISH: Roger, I want to ask who you think is going to win, but I know who you think is going to win.\n\nCORNISH: So, before I let you go, who do you think, outside of the game, has won? In the end, this World Cup has been, like, pretty fascinating to watch; how it has, in fact, captured international attention and American attention.\n\nWhat do you think is going to be the legacy from this play after all?\n\nBENNETT: It's such a beautiful question. You know, ultimately, the World Cup is the world's biggest circus, and like any circus, it packs up and it leaves town. And we'll feel quite bereft for a moment.\n\nBut what no one can take away from us is the memories. And that the most important memories, I think, are of America welcoming the world, by and large, with open heart.\n\nYou think of the Lawrence, Kansas, opening its heart to the Algerian team and creating memories that they'll have forever.\n\nBut also, global football falling in love with America, one Buc-ee's, one Waffle House, one In-N-Out Burger at a time. We needed to be loved in this moment. It's so beautiful to be loved, isn't it, Audie?\n\nAnd so, those two memories side by side, I hope, are the legacy of this World Cup.\n\nCORNISH: OK. Roger Bennett, a person I hope to be my personal football commentator from now on. Thank you so much for being here.\n\nBENNETT: Audie, you are hearing (ph). Big, big love. Courage.\n\nCORNISH: And straight ahead on CNN THIS MORNING, Britain gets ready to crown a new leader. The final step before Andy Burnham officially becomes prime minister.\n\nPlus, some Republican senators aren't going quietly. Could President Trump's toughest resistance come from members of his own party?",
+  "segments": [
+    {
+      "seg": 1,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-17/segment/01",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nTrump Gives Speech on Election Security; Spain v. Argentina: World Cup Final This Weekend. Aired 6-6:30a ET\n\nAired July 17, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nBRAD SMITH, CNN ANCHOR: Filming in the rain when they saw it was stranded in the water and quickly paddled over to help.\n\nTucker said that he scooped the raccoon up with his paddle and took him to safety. Good work there.\n\nAnd on the big island of Hawaii, the lava fountains have returned after three weeks, gushing hundreds of feet into the air. There, some of those visuals from Kilauea.\n\nThat does it for CNN HEADLINE EXPRESS. I'm Brad Smith. CNN THIS MORNING with Audie Cornish starts right now.\n\nAUDIE CORNISH, CNN ANCHOR: Today in the group chat, President Trump's big promise of revelations about election integrity. But did that primetime address deliver?\n\nDONALD TRUMP, U.S. PRESIDENT: China engaged in other election related activities to undermine my first administration and our 2020 campaign.\n\nCORNISH: Also, sources say the man who rolls the teleprompter at the White House, now under investigation. Did he place bets on the president's speeches?\n\nSEN. JOHN FETTERMAN (D-PA): If the Democratic Party becomes official anti-Israel, then that's when I would -- force me out.\n\nCORNISH: Senator John Fetterman draws a line in the sand. Is he laying the groundwork to become a Republican?\n\nTRUMP: I'm announcing the immediate declassification and release of critical intelligence, revealing shocking vulnerabilities in our election infrastructure.\n\nCORNISH: So, the president, using a primetime White House speech to sound the alarm over U.S. elections. Are the claims smoke and mirrors?\n\nGood morning, everybody. I'm Audie Cornish. We're going to talk about that speech. The president promoted Thursday night's address as a groundbreaking speech on the shortfalls in our election system. It ran 27 minutes, hit on several topics.\n\nHe alleged that China carried out an influence campaign in the 2020 election. He claims vulnerabilities with U.S. voting machines and says more non-citizens are on voter rolls than previously known.\n\nAnd he said all that can be backed up by newly declassified documents.\n\nSo, here at CNN, we took a look at this. According to CNN analysis, the new documents usually show previously known intelligence, much of it already included in intelligence assessments from five years ago.\n\nNow, none of the declassified material supports the claim that any previous election results, including the 2020 election that Trump lost, were manipulated in a way that would have changed the outcome.\n\nBEN GINSBERG, REPUBLICAN ELECTION LAWYER: What stood out to me is that there's still no evidence of a result of any election being incorrect.\n\nSUE GORDON, FORMER DEPUTY DIRECTOR OF NATIONAL INTELLIGENCE: I think this was a dangerous speech about an incredibly important topic, with some really questionable remedies in mind.\n\nOur elections are the bedrock of our democracy. If we can't trust them, it is bad. But this doesn't prove it.\n\nCORNISH: All right. Joining me now in the group chat, we've got Elliot Williams, CNN legal analyst and a former federal prosecutor; Elizabeth Mitchell, White House correspondent for \"The Daily Signal\"; and Luke Thomas, political analyst and host of \"The Morning Combat\" podcast.\n\nSo, just to set things up for people, I want to play for you, the Joe Rogan podcast from this week, because J.D. Vance was on it. And this came up. And the reason why I want to play this is for you is because you may be wondering, who is this for? Why would Trump be talking about this? Here's an example.\n\nJOE ROGAN, PODCASTER: This idea that elections can't be stolen. I always say to people, OK, do you think that the amount of election fraud is 0 percent? No one thinks that.\n\nUNIDENTIFIED MALE: Yes.\n\nROGAN: No one thinks it's zero. There's always some overzealous person that works somewhere that's doing something. There's always crazy people.\n\nUNIDENTIFIED MALE: Correct.\n\nROGAN: They're like, blue, no matter who. We've got to win. Or red no matter what. There's always people right and left that are going to try to rig the election, because they think it's imperative.\n\nCORNISH: OK. So, Luke, our fellow podcaster and combat sport brotherhood.\n\nLUKE THOMAS, POLITICAL ANALYST: Yes.\n\nCORNISH: There's clearly a voter.\n\nTHOMAS: (UNINTELLIGIBLE), yes.\n\nCORNISH: You do. So, there's clearly a voter out there that is only too happy to talk about this. And would they be appeased, happy, pleased by what Trump was saying last night?\n\nTHOMAS: I don't think they're paying too much attention. This speech, to me, felt like a big dud. It felt like a big miss. It was 27 minutes. He had a very -- what do you want to call it? -- sleepy affect in the way he delivered it.\n\nAnd more to the point that you raise, there's nothing in the speech at all that says any of the voter tallies, any of the ways in which the vote was counted, any of the elections need to be overturned. There's just a lot of innuendo, a lot of insinuation.\n\nIf you actually look at the documents that he puts out, such that people will, it actually shows that they were going to help Trump get elected in 2020 by going after Biden in the end, such that you want to believe what the documents say.\n\nSo, like over and over again, it's this kind of attempt. Listen, here's the reality. The country did not fully prosecute the crimes of January 6th, and we are still living with the aftermath of that today. This is an example of it.\n\nCORNISH: Let me let people jump in there. Just for your example. When we talk about voting machines, he brought up the Smartmatic voting -- voting machines, which has come up time and time again.\n\nSmartmatic has actually sued over these allegations. And the president revived that particular set of allegations. Why revive stuff that's, like, literally still in the courts and not have anything that's going to disprove it? ELIZABETH MITCHELL, WHITE HOUSE CORRESPONDENT, \"THE DAILY SIGNAL\":\n\nThat's a good question. I think that his point in giving this speech was less to show that the 2020 election, as he said, is stolen. I think his point was more so to push the SAVE Act.\n\nI think he was trying to demonstrate. He said 278,000 people are illegally registered to vote in the United States. I don't think he had a specific proof that they have voted.\n\nCORNISH: But several states came out to say, where are you getting those numbers? We don't have those numbers. We'd like to see the evidence. The White House has not provided any yet.\n\nMITCHELL: And hopefully in coming weeks, we'll see more of that evidence. But I think his point was to show that, if this is not true, there should be no issue passing the SAVE America Act, because if people aren't illegally registered to vote, then what's the harm in checking out those voter rolls and requiring voter I.D.?\n\nCORNISH: The kind of people who would be happy about this kind of speech would be, like, a Steve Bannon, right? When people asked him about this, he has been saying, \"We need a National Security Emergency about the midterm elections immediately.\" And \"this is a powerful predicate for that.\" Steve Bannon, he wrote this in a text message to CNN.\n\nI wanted to ask you about that word \"predicate,\" which sounds a little bit legal, frankly.\n\nELLIOT WILLIAMS, CNN LEGAL ANALYST: Look at that. Look at that.\n\nCORNISH: And would be relevant to an administration that has made a lot of cuts and changes to the structures that actually are supposed to protect elections.\n\nCORNISH: So, they disbanded the FBI's Foreign Influence Task Force, literally. The Foreign Influence Task Force.\n\nThe State Department got rid of their Counter Foreign Information Manipulation and Interference Office. All of those words together sound like something we would need, given that speech.\n\nAnd then, the DNI slashed the intel office budget by more than 700 million annually. What does the word \"predicate\" say to you?\n\nWILLIAMS: Well, predicate suggests that there's an intentional effort to undermine confidence in, certainly, the 2026 and maybe even the 2028 election. Certainly --\n\nCORNISH: You're saying Bannon is saying that, or you're saying the use of the word \"predicate\" is saying --\n\nWILLIAMS: The use of the word \"predicate\" seems to suggest.\n\nCORNISH: -- we need -- there needs to be a reason.\n\nWILLIAMS: A basis, yes, for -- There needs to be a basis for these actions in the future.\n\nCORNISH: So, he knows there needs to be a basis?\n\nWILLIAMS: Yes, I guess. Here's the -- regardless, you know, of that, Audie. You know, I think any good will the president or the people around him, like Steve Bannon, might have had on this issue, they've undermined with, now, six years, eight years of statements that just went far beyond, you know, talking about reality. I think --\n\nCORNISH: But what they're trying to do is say to the Senate --\n\nCORNISH: -- hey, guys, there's plenty here to work with. You have reasons. You have support when it comes to voter I.D. Like, this is fundamentally about the elections of '26 and '28, right? Like not --\n\nWILLIAMS: Yes. And -- and even if there were a legal basis for passing legislation to correct some of these issues, I think the president sort of burned that goodwill in the way he's talked about, certainly 20 -- 2016 and 2020 elections.\n\nCORNISH: But there was just a raid on an Ohio voting ballot group --\n\nWILLIAMS: Right, right.\n\nCORNISH: -- by the FBI. I mean, do these kinds of conversations create the predicate to go out and say what we need to send people to take boxes and send people to take cell phones of, probably, Democratic leaning groups, right?\n\nWILLIAMS: Right. They are trying to set that predicate. I just think the evidence hasn't materialized that would actually support the kinds of claims that the president is making. That's sort of the point that I keep getting back to.\n\nIt's sort of yes, there might -- you know, there might be some measures of fraud happening in any system. I think, Steve, I think it was Joe Rogan who made that point.\n\nWILLIAMS: There's fraud in everything. There's fraud in -- probably at the local 7-Eleven, right?\n\nNow, the question is, how do you address that specific fraud without going beyond and saying that everybody who works at a 7-Eleven is a homicidal maniac who has a bomb in his pocket? That's just not -- you know, the rhetoric has to match the actual thing that you're trying to fix.\n\nWILLIAMS: And I think the president has just gone too far, and we know that.\n\nCORNISH: OK, we're going to talk more about this speech. But coming up, that late night run to Taco Bell, it's coming with a warning. The shredded lettuce they use now at the center of that parasite outbreak.\n\nPlus, you may be able to smell it. Smoke from Canada's relentless wildfires drifting South. Now, the air quality in some parts of the U.S. is dangerous.\n\nAnd the White House teleprompter operator accused of insider trading.\n\nMICHAEL KOSTA, COMEDY CENTRAL'S \"THE DAILY SHOW\": Now using a teleprompter to win bets is a recipe for trouble. I mean, I read from a prompter, and I know our operator would never purple bananas, purple bananas, purple bananas. (EXPLETIVE DELETED), Christina!\n\nCORNISH: It's now 15 minutes past the hour. This is your morning roundup.\n\nFlash flooding in Texas left two people dead. Those floods are drenching the Southern part of the state. Hundreds of people have been rescued, however.\n\nNow, it's all happening in the same region struck by deadly floods this time last year.\n\nUNIDENTIFIED MALE: We are still reeling from what happened a year ago. Those are not easily forgotten memories. And to have this happen again so suddenly is literally quite devastating for a lot of us.\n\nCORNISH: And officials say about a year's worth of rain has already fallen in the area. Storms are expected to ease up today.\n\nNow, health officials talking about shredded lettuce served at some Taco Bell locations may be behind the cyclospora outbreak. Taylor Farms, the supplier of that lettuce.\n\nThe outbreak has been centered mostly in the Midwest. At this point, nearly 7,000 cases and more than 140 hospitalizations have been reported since May.\n\nAnd acting attorney general, Todd Blanche, did meet with Epstein survivors yesterday afternoon. Senator Thom Tillis said the meeting needed to happen before he would vote in favor of Blanche's nomination.\n\nOne of the survivors who was in the meeting spoke to CNN last night.\n\nMARINA LACERDA, EPSTEIN SURVIVOR: It wasn't a productive meeting, but however, we do have, now, contact to the FBI to possibly start, you know, some new investigations, and I'm looking forward to that.\n\nCORNISH: Blanche also admitted that it was, quote, \"wasn't all cordial, because there's something that they want that I don't think I can give them, which is some form of justice.\"\n\nAnd sources tell CNN President Trump's longtime teleprompter operator now under investigation for insider trading. He allegedly bet on words Trump would say during speeches using the prediction site Kalshi.\n\nAnd a source tells U.S. [SIC] -- tells us that he raked in more than $90,000.\n\nNow, Kalshi is saying those profits are now frozen. And he has been placed on leave.\n\nWant to disclose that CNN does have a partnership with Kalshi.\n\nAnd after the break on CNN THIS MORNING, Senator John Fetterman draws a line over Israel. Is he warning Democrats or just eyeing a transition to a new party?\n\nPlus, the World Cup champion will be crowned this weekend. It appears one of them is all about the vibes.\n\nAnd a live look in uptown New York, where you can see that smoky haze from the wildfires in Canada.\n\nUNIDENTIFIED MALE: We love this team. We love Messi. It was just solidified. He's already the greatest of all time, but you could never argue it again.\n\nUNIDENTIFIED MALE: If we win, like on Sunday, it would just, like, actually blow my mind. Like, I don't have a voice right now. So, imagine on Sunday.\n\nCORNISH: Forty-six teams earned their way into the World Cup. Two remain, and it's going to be a clash of powerhouses when reigning world champion Argentina looks to pull off the impossible: a repeat. And reigning European champion Spain looks to add a second star to its jersey.\n\nThis all goes down Sunday at New Jersey stadium. And if you're looking to get in, you may need to take out a loan. This is the most expensive sporting event in U.S. history: average purchase price of $11,000 per ticket.\n\nRoger Bennett joins us now. He's the co-host of the \"Men in Blazers\" podcast. I hope you saved up. I don't know. That ticket price is outrageous, but I guess --\n\nROGER BENNETT, CO-HOST, \"MEN IN BLAZERS\": I thought you were treating me, Audie.\n\nBENNETT: I thought you were treating me.\n\nCORNISH: Yes. Just coins falling out of my pocket.\n\nSo, let's just talk about, in the end, despite all of these teams competing and Cinderella stories, we have two. The two powerhouses. What makes them different from each other in their style of play?\n\nBENNETT: Good lord, everything. You know, Spain are ordered. They have an idea of football. It's deeply ingrained. They've barely conceded. They play deeply tactical, rigorous, robust, smothering wonder.\n\nAnd Argentina are a hot mess. They're running on vibes and madness. They're inexplicable. They lose. It's like, what? It's like watching three Red Sox, love to be 3-nil down to the Yankees before they come alive.\n\nThey're the ultimate fourth quarter team, throwing up the fours constantly behind. They look out.\n\nAnd then Lionel Messi. This 39-year-old, he's a quasi- kind of mystical figure at this point, just comes alive and turns from a tiny little slumbering Ewok. It's like he just suddenly sticks a knife between his teeth and becomes a man possessed, a berserker and with force of will.\n\nIt's almost hard to understand how he does it; drags this team, drags this nation back into the game.\n\nSo, it's really an unbelievable football team, the best in the world, going against some kind of inexplicable magic.\n\nCORNISH: As much as I want you to write either a sorcerer spell or a novel about Messi, given that description, he's 39. He's a testament to athleticism and a testament to this age of athleticism where, whether you're Serena Williams or whoever, people, like, they're eking out some years here on the field.\n\nIs there -- is -- what do you see in him and how his play has shifted getting to this point?\n\nBENNETT: Audie, I am merely human. So, for me to comment on what Lionel Messi does is -- I am way out of my depth.\n\nLet me tell you this. I'm not sure it is athleticism we're watching. It's why he has been able to not just keep going, age 39, but actually get better and better and better. There's something about the mind.\n\n\"The Athletic\" discovered that Lionel Messi -- stay with me here -- he walks 63 percent of the game. He stands still a further 25 percent of the game. He does things that maybe you or I could do on a football field.\n\nBut it's the other 12 percent of that game where it's mental more than anything.\n\nBENNETT: He sees things mere humans don't see. He understands things. He understands space and time, and he can just destroy all comers.\n\nIt's as if his personality completely changes. And if he does this on Sunday, goes back-to-back, which would be the first time since 1962 any team has retained the World Cup. We will be able to watch together, Audie, a human being at the final whistle, cease being merely human and become immortal.\n\nIt's like Michelangelo or Mozart. People will be talking about this man for centuries. And we're going to be able to watch him live together.\n\nCORNISH: Well, for now, they're looking at this photo of him from many years ago, where he's literally giving a little bath to Lamine Yamal for a campaign. I think it was, like, UNICEF or something.\n\nCORNISH: And, like, now that person is playing on the same field.\n\nBENNETT: Not just playing. But that person is a 19-year-old superstar. That person is the 19-year-old kid who is expected by everybody to replace Messi as the greatest in the game.\n\nIt's as if you unearthed the photograph of Peyton Manning in his off time in like 2000, deciding, you know what? I'm going to give baby Patrick Mahomes a bath.\n\nThis is just incredible. And it's -- it's almost inexplicable. This is -- it almost seems a -- I mean, it seems the A.I.-est thing that ever A.I. is.\n\nCORNISH: But it has been verified.\n\nBENNETT: And these two humans will be face-to-face leading their nation's teams. This is -- this is why the World Cup is magic.\n\nCORNISH: Roger, I want to ask who you think is going to win, but I know who you think is going to win.\n\nCORNISH: So, before I let you go, who do you think, outside of the game, has won? In the end, this World Cup has been, like, pretty fascinating to watch; how it has, in fact, captured international attention and American attention.\n\nWhat do you think is going to be the legacy from this play after all?\n\nBENNETT: It's such a beautiful question. You know, ultimately, the World Cup is the world's biggest circus, and like any circus, it packs up and it leaves town. And we'll feel quite bereft for a moment.\n\nBut what no one can take away from us is the memories. And that the most important memories, I think, are of America welcoming the world, by and large, with open heart.\n\nYou think of the Lawrence, Kansas, opening its heart to the Algerian team and creating memories that they'll have forever.\n\nBut also, global football falling in love with America, one Buc-ee's, one Waffle House, one In-N-Out Burger at a time. We needed to be loved in this moment. It's so beautiful to be loved, isn't it, Audie?\n\nAnd so, those two memories side by side, I hope, are the legacy of this World Cup.\n\nCORNISH: OK. Roger Bennett, a person I hope to be my personal football commentator from now on. Thank you so much for being here.\n\nBENNETT: Audie, you are hearing (ph). Big, big love. Courage.\n\nCORNISH: And straight ahead on CNN THIS MORNING, Britain gets ready to crown a new leader. The final step before Andy Burnham officially becomes prime minister.\n\nPlus, some Republican senators aren't going quietly. Could President Trump's toughest resistance come from members of his own party?"
+    }
+  ]
+}
