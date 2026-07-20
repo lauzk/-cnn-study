@@ -1,0 +1,439 @@
+{
+  "date": "2026-07-19",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-19/segment/01",
+  "vocabulary": [
+    {
+      "word": "retaliation",
+      "phonetic": "/rɪˌtæliˈeɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "报复",
+      "en": "action taken in return for an injury or offense",
+      "excerpt": "The U.S. launched another round of strikes on Iran, Saturday, in retaliation for the death of two U.S. soldiers.",
+      "example_cn": "美国周六对伊朗发动了新一轮打击，以报复两名美国士兵的死亡。"
+    },
+    {
+      "word": "intercept",
+      "phonetic": "/ˌɪntərˈsept/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "拦截",
+      "en": "to stop, catch, or seize something in transit",
+      "excerpt": "Kuwait says it is actively intercepting missile and drone attacks, citing Iranian aggression.",
+      "example_cn": "科威特表示正在积极拦截导弹和无人机袭击，并指责伊朗的侵略行为。"
+    },
+    {
+      "word": "aggression",
+      "phonetic": "/əˈɡreʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "侵略",
+      "en": "hostile or violent behavior or attitudes",
+      "excerpt": "Kuwait says it is actively intercepting missile and drone attacks, citing Iranian aggression.",
+      "example_cn": "科威特表示正在积极拦截导弹和无人机袭击，并指责伊朗的侵略行为。"
+    },
+    {
+      "word": "wrap up",
+      "phonetic": "/ræp ʌp/",
+      "pos": "phr.",
+      "level": "考研",
+      "cn": "结束",
+      "en": "to complete or finish something",
+      "excerpt": "CENTCOM says it wrapped up an eighth night of strikes against Iran.",
+      "example_cn": "美国中央司令部表示已结束对伊朗的第八晚打击。"
+    },
+    {
+      "word": "retaliate",
+      "phonetic": "/rɪˈtælieɪt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "报复",
+      "en": "to make an attack or assault in return for a similar attack",
+      "excerpt": "The U.S. retaliating an eighth straight night of strikes targeting Islamic Revolutionary Guard Forces.",
+      "example_cn": "美国连续第八晚发动报复性打击，目标是伊斯兰革命卫队。"
+    },
+    {
+      "word": "missing in action",
+      "phonetic": "/ˈmɪsɪŋ ɪn ˈækʃn/",
+      "pos": "phr.",
+      "level": "考研",
+      "cn": "战斗中失踪",
+      "en": "a member of the armed forces who is unaccounted for after combat",
+      "excerpt": "No update on that person missing in action.",
+      "example_cn": "没有关于那名战斗中失踪人员的最新消息。"
+    },
+    {
+      "word": "prosecute",
+      "phonetic": "/ˈprɒsɪkjuːt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "进行；起诉",
+      "en": "to continue with a course of action; to institute legal proceedings against",
+      "excerpt": "The KC-135 Stratotankers are critical to prosecuting the war against Iran.",
+      "example_cn": "KC-135空中加油机对于对伊朗的战争行动至关重要。"
+    },
+    {
+      "word": "interdict",
+      "phonetic": "/ˌɪntərˈdɪkt/",
+      "pos": "v.",
+      "level": "专八",
+      "cn": "阻断",
+      "en": "to prohibit or forbid; to intercept or prevent the movement of",
+      "excerpt": "It's not clear how much this latest salvo has damaged Iran's ability to interdict shipping in the Strait of Hormuz.",
+      "example_cn": "目前尚不清楚这轮最新打击在多大程度上削弱了伊朗阻断霍尔木兹海峡航运的能力。"
+    },
+    {
+      "word": "salvo",
+      "phonetic": "/ˈsælvəʊ/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "齐射；一轮攻击",
+      "en": "a simultaneous discharge of artillery or other weapons; a sudden burst of activity",
+      "excerpt": "It's not clear how much this latest salvo has damaged Iran's ability to interdict shipping.",
+      "example_cn": "目前尚不清楚这轮最新齐射在多大程度上削弱了伊朗阻断航运的能力。"
+    },
+    {
+      "word": "allegation",
+      "phonetic": "/ˌæləˈɡeɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "指控",
+      "en": "a claim or assertion that someone has done something illegal or wrong, typically one made without proof",
+      "excerpt": "Brouillette has denied the allegations and was never charged.",
+      "example_cn": "布鲁耶特否认了这些指控，且从未被起诉。"
+    },
+    {
+      "word": "linger",
+      "phonetic": "/ˈlɪŋɡər/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "持续；逗留",
+      "en": "to stay in a place longer than necessary; to be slow to disappear",
+      "excerpt": "Brouillette told a court in Maine that he suffered lingering cognitive issues after a serious head injury.",
+      "example_cn": "布鲁耶特向缅因州法院表示，他在一次严重头部受伤后出现了持续的认知问题。"
+    },
+    {
+      "word": "cognitive",
+      "phonetic": "/ˈkɒɡnətɪv/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "认知的",
+      "en": "relating to the mental processes of perception, memory, judgment, and reasoning",
+      "excerpt": "Brouillette told a court in Maine that he suffered lingering cognitive issues.",
+      "example_cn": "布鲁耶特向缅因州法院表示，他出现了持续的认知问题。"
+    },
+    {
+      "word": "spark",
+      "phonetic": "/spɑːrk/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "引发",
+      "en": "to cause or provoke something to start or develop",
+      "excerpt": "The shooting has sparked protests across Maine.",
+      "example_cn": "枪击事件在缅因州引发了抗议活动。"
+    },
+    {
+      "word": "tariff",
+      "phonetic": "/ˈtærɪf/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "关税",
+      "en": "a tax or duty to be paid on a particular class of imports or exports",
+      "excerpt": "President Trump is threatening to impose tariffs on Canada over the smoke.",
+      "example_cn": "特朗普总统威胁要因烟雾问题对加拿大征收关税。"
+    },
+    {
+      "word": "push back",
+      "phonetic": "/pʊʃ bæk/",
+      "pos": "phr.",
+      "level": "考研",
+      "cn": "反驳；抵制",
+      "en": "to resist or oppose something; to respond forcefully",
+      "excerpt": "Ontario Premier Doug Ford pushed back against Trump's threats.",
+      "example_cn": "安大略省省长道格·福特对特朗普的威胁进行了反驳。"
+    },
+    {
+      "word": "flash flooding",
+      "phonetic": "/flæʃ ˈflʌdɪŋ/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "暴洪",
+      "en": "a sudden local flood due to heavy rain",
+      "excerpt": "Flash flooding follows days of smoke and heat in New York.",
+      "example_cn": "在纽约多日烟雾和高温之后，暴洪接踵而至。"
+    },
+    {
+      "word": "ground stop",
+      "phonetic": "/ɡraʊnd stɒp/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "地面停飞",
+      "en": "an order that prevents aircraft from taking off or landing at an airport",
+      "excerpt": "The intense rain forced ground stops at JFK, LaGuardia, and Newark airports.",
+      "example_cn": "强降雨迫使肯尼迪、拉瓜迪亚和纽瓦克机场实施地面停飞。"
+    },
+    {
+      "word": "cascade",
+      "phonetic": "/kæˈskeɪd/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "连锁反应",
+      "en": "a process whereby something is passed on or occurs in a series of stages",
+      "excerpt": "The ground stop triggered a cascade of cancellations and major flight delays.",
+      "example_cn": "地面停飞引发了一系列航班取消和严重延误。"
+    },
+    {
+      "word": "extradition",
+      "phonetic": "/ˌekstrəˈdɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "引渡",
+      "en": "the action of extraditing a person accused or convicted of a crime",
+      "excerpt": "U.S. marshals arrested the brothers on an extradition request from the U.K.",
+      "example_cn": "美国法警根据英国的引渡请求逮捕了这对兄弟。"
+    },
+    {
+      "word": "contamination",
+      "phonetic": "/kənˌtæmɪˈneɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "污染",
+      "en": "the action of making something impure or unsuitable by contact with something unclean",
+      "excerpt": "Taylor Farms is recalling iceberg lettuce due to potential cyclospora contamination.",
+      "example_cn": "泰勒农场因潜在的环孢子虫污染召回冰山生菜。"
+    },
+    {
+      "word": "recall",
+      "phonetic": "/rɪˈkɔːl/",
+      "pos": "v./n.",
+      "level": "六级",
+      "cn": "召回",
+      "en": "to officially request the return of a product that has been found to be faulty",
+      "excerpt": "Taylor Farms is recalling iceberg lettuce shipped to 27 states.",
+      "example_cn": "泰勒农场正在召回运往27个州的冰山生菜。"
+    },
+    {
+      "word": "cyclospora",
+      "phonetic": "/ˌsaɪkləˈspɔːrə/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "环孢子虫",
+      "en": "a microscopic parasite that causes intestinal infection",
+      "excerpt": "The recall is due to potential cyclospora contamination.",
+      "example_cn": "召回是由于潜在的环孢子虫污染。"
+    },
+    {
+      "word": "ballistic missile",
+      "phonetic": "/bəˈlɪstɪk ˈmɪsaɪl/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "弹道导弹",
+      "en": "a missile that follows a ballistic trajectory",
+      "excerpt": "Russia just launched one of its largest ballistic missile attacks against Ukraine.",
+      "example_cn": "俄罗斯刚刚对乌克兰发动了最大规模的弹道导弹袭击之一。"
+    },
+    {
+      "word": "escalation",
+      "phonetic": "/ˌeskəˈleɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "升级",
+      "en": "an increase in the intensity or seriousness of something",
+      "excerpt": "This really is seeming to be an escalation of the war right now.",
+      "example_cn": "这看起来确实是战争的升级。"
+    },
+    {
+      "word": "reverberation",
+      "phonetic": "/rɪˌvɜːrbəˈreɪʃn/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "反响；影响",
+      "en": "a continuing effect; a repercussion",
+      "excerpt": "Reverberations all across Europe here with higher prices and Ukrainian refugees.",
+      "example_cn": "整个欧洲都感受到了影响，物价上涨，乌克兰难民涌入。"
+    },
+    {
+      "word": "martyrdom",
+      "phonetic": "/ˈmɑːrtərdəm/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "殉难；牺牲",
+      "en": "the death or suffering of a martyr",
+      "excerpt": "Iran is a society built on the strength of martyrdom and sacrifice.",
+      "example_cn": "伊朗是一个建立在殉难和牺牲力量之上的社会。"
+    },
+    {
+      "word": "tit-for-tat",
+      "phonetic": "/ˌtɪt fər ˈtæt/",
+      "pos": "phr.",
+      "level": "考研",
+      "cn": "以牙还牙",
+      "en": "the equivalent given in return or retaliation",
+      "excerpt": "I think what we could be looking at is at least this tit-for-tat going through the end of this year.",
+      "example_cn": "我认为我们至少会看到这种以牙还牙的局面持续到今年年底。"
+    },
+    {
+      "word": "ceasefire",
+      "phonetic": "/ˈsiːsfaɪər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "停火",
+      "en": "a temporary suspension of fighting",
+      "excerpt": "The recent ceasefire allowed them to get a lot of the oil out.",
+      "example_cn": "最近的停火使他们得以运出大量石油。"
+    },
+    {
+      "word": "high wire act",
+      "phonetic": "/haɪ ˈwaɪər ækt/",
+      "pos": "phr.",
+      "level": "考研",
+      "cn": "惊险表演；高风险行动",
+      "en": "a dangerous or risky performance or situation",
+      "excerpt": "It's been sort of a high wire act with them.",
+      "example_cn": "对他们来说，这就像一场高空走钢丝表演。"
+    },
+    {
+      "word": "possession",
+      "phonetic": "/pəˈzeʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "控球",
+      "en": "the state of having or holding the ball in a game",
+      "excerpt": "Their specialty is possession.",
+      "example_cn": "他们的专长是控球。"
+    },
+    {
+      "word": "concede",
+      "phonetic": "/kənˈsiːd/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "失（球）；承认",
+      "en": "to allow the opponent to score; to admit something is true",
+      "excerpt": "They have conceded one goal in seven games.",
+      "example_cn": "他们在七场比赛中只失一球。"
+    },
+    {
+      "word": "comeback",
+      "phonetic": "/ˈkʌmbæk/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "逆转；复出",
+      "en": "a return to a former position or state, especially after a period of decline",
+      "excerpt": "Argentina have had these stunning last minute comeback wins.",
+      "example_cn": "阿根廷队有过多次令人震惊的最后一分钟逆转胜利。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "CENTCOM says it wrapped up an eighth night of strikes against Iran, targeting Islamic Revolutionary Guard Corps Forces behind attacks that killed two U.S. service members in Jordan on Friday.",
+      "cn": "美国中央司令部表示已结束对伊朗的第八晚打击，目标是周五在约旦造成两名美军士兵死亡的袭击背后的伊斯兰革命卫队部队。",
+      "structure": "主句（CENTCOM says）+ 宾语从句（it wrapped up...）+ 现在分词短语（targeting...）作状语 + 定语从句（that killed...）修饰attacks",
+      "analysis": "这是一个复合句，主句是CENTCOM says，后面是省略that的宾语从句。宾语从句中，现在分词短语targeting...作伴随状语，其中behind attacks是介词短语修饰Forces，而that killed...是定语从句修饰attacks。"
+    },
+    {
+      "en": "What the United States was targeting overnight were missile storage and drone storage facilities along the Strait of Hormuz.",
+      "cn": "美国夜间打击的目标是霍尔木兹海峡沿岸的导弹和无人机储存设施。",
+      "structure": "主语从句（What the United States was targeting overnight）+ 系动词（were）+ 表语（missile storage and drone storage facilities...）",
+      "analysis": "这是一个主语从句作主语的句子。What引导的主语从句在句中作主语，谓语动词用复数were，因为表语是复数名词。"
+    },
+    {
+      "en": "It's not clear how much this latest salvo of overnight operations from the United States has damaged Iran's ability to interdict shipping in the Strait of Hormuz.",
+      "cn": "目前尚不清楚美国这轮最新夜间行动在多大程度上削弱了伊朗阻断霍尔木兹海峡航运的能力。",
+      "structure": "形式主语It + 系动词is + 表语not clear + 真正主语从句（how much...）",
+      "analysis": "这是一个形式主语句型，真正的主语是how much引导的从句。从句中，主语是this latest salvo，谓语has damaged，宾语是Iran's ability，不定式to interdict...作定语修饰ability。"
+    },
+    {
+      "en": "Brouillette told a court in Maine that he suffered lingering cognitive issues after he suffered a serious head injury, leaving him unable to complete that training.",
+      "cn": "布鲁耶特向缅因州法院表示，他在一次严重头部受伤后出现了持续的认知问题，导致他无法完成训练。",
+      "structure": "主句（Brouillette told a court in Maine）+ 宾语从句（that he suffered...）+ 现在分词短语（leaving...）作结果状语",
+      "analysis": "主句是Brouillette told...，后面是that引导的宾语从句。从句中包含一个after引导的时间状语从句。现在分词短语leaving him unable...作结果状语，表示头部受伤导致的结果。"
+    },
+    {
+      "en": "The Department of Homeland Security says he was trying to flee the scene, and an ICE officer shot him, quote, \"fearing for public safety.\"",
+      "cn": "国土安全部表示，他当时试图逃离现场，一名ICE官员开枪击中了他，引用其说法是“担心公共安全”。",
+      "structure": "主句（The Department of Homeland Security says）+ 宾语从句（he was trying... and an ICE officer shot him...）",
+      "analysis": "主句是The Department of Homeland Security says，后面是省略that的宾语从句，由and连接两个并列分句。quote \"fearing for public safety\"是插入语，说明开枪的理由。"
+    },
+    {
+      "en": "What I keep hearing out of the White House is the same kind of things I heard during the Iraq and the Afghan war, but we've destroyed so much.",
+      "cn": "我不断从白宫听到的是我在伊拉克和阿富汗战争期间听到的同样的话，但我们已经摧毁了这么多。",
+      "structure": "主语从句（What I keep hearing out of the White House）+ 系动词（is）+ 表语（the same kind of things）+ 定语从句（I heard...）+ 并列句（but we've destroyed so much）",
+      "analysis": "这是一个并列复合句。第一个分句中，What引导的主语从句作主语，表语the same kind of things后面省略了关系代词that的定语从句。第二个分句由but连接，表示转折。"
+    },
+    {
+      "en": "From Iran's perspective, though, as many of us who've watched Iran for a very long time said before these attacks by the U.S. and Israel even began, Iran is a society built on the strength of martyrdom and the strength of sacrifice.",
+      "cn": "然而，从伊朗的角度来看，正如许多长期观察伊朗的人在美国和以色列发动这些攻击之前就说过的那样，伊朗是一个建立在殉难和牺牲力量之上的社会。",
+      "structure": "状语（From Iran's perspective）+ 插入语（as many of us... said...）+ 主句（Iran is a society...）",
+      "analysis": "这是一个复杂句。主句是Iran is a society...，前面是介词短语作状语。as引导的定语从句修饰整个主句，其中包含一个who引导的定语从句修饰many of us，以及一个before引导的时间状语从句。"
+    },
+    {
+      "en": "And that spells everything from people willing to smuggle goods to Iran, to nation states like China and Russia, who are already Iranian allies, willing to do whatever they can to keep the Iranian government going, because remember, that's also tiring the U.S. out.",
+      "cn": "这意味着从愿意向伊朗走私货物的人，到像中国和俄罗斯这样的国家（它们已经是伊朗的盟友），都愿意尽其所能维持伊朗政府的运转，因为请记住，这也让美国筋疲力尽。",
+      "structure": "主句（And that spells everything from... to...）+ 定语从句（who are...）+ 现在分词短语（willing to...）+ 原因状语从句（because...）",
+      "analysis": "主句是that spells everything from... to...，其中from... to...列举了范围。who引导的非限制性定语从句修饰China and Russia。willing to...是形容词短语作定语修饰nation states。because引导原因状语从句，其中remember是插入语。"
+    },
+    {
+      "en": "What Spain did is they put together a game plan where they were so defensively sound, their structure was so solid, and they really prevented France from getting a lot of openings on attack.",
+      "cn": "西班牙所做的是制定了一个比赛计划，他们的防守非常稳固，结构非常坚实，并且他们确实阻止了法国获得很多进攻机会。",
+      "structure": "主语从句（What Spain did）+ 系动词（is）+ 表语从句（they put together... where...）",
+      "analysis": "这是一个主语从句作主语的句子。What Spain did是主语，is是系动词，后面是省略that的表语从句。表语从句中包含一个where引导的定语从句修饰game plan，定语从句中由三个并列分句组成。"
+    },
+    {
+      "en": "And I think especially if Spain can get an early goal or can get a lead, it's going to be much harder for Argentina to come back today than it has been in previous games.",
+      "cn": "而且我认为，特别是如果西班牙能早早进球或取得领先，阿根廷今天想要逆转将比之前的比赛困难得多。",
+      "structure": "主句（I think）+ 宾语从句（especially if... it's going to be...）",
+      "analysis": "主句是I think，后面是省略that的宾语从句。宾语从句中包含一个if引导的条件状语从句，主句是it's going to be much harder...，其中包含一个比较结构than it has been...。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "U.S.-Iran Conflict",
+      "content": "美国与伊朗之间的军事冲突升级，美国连续第八晚对伊朗发动打击，伊朗则对科威特、巴林等美国盟友发动导弹和无人机袭击。两名美军士兵在约旦遇袭身亡，另一人失踪。美国中央司令部称打击目标是伊斯兰革命卫队。分析认为冲突可能持续，伊朗利用其地区代理人和民众的牺牲精神进行持久战。",
+      "keywords": "Iran, U.S. strikes, retaliation, CENTCOM, Islamic Revolutionary Guard Corps, Strait of Hormuz, Kuwait, Bahrain, Jordan, service members killed"
+    },
+    {
+      "title": "Maine Shooting and ICE Protests",
+      "content": "缅因州一名25岁哥伦比亚裔男子Johan Sebastian Duran Guerrero被ICE官员枪杀，引发反ICE抗议。涉事警官David Brouillette被曝有家暴史和头部受伤导致的认知问题。国土安全部称该男子试图逃离现场，ICE官员因担心公共安全开枪。",
+      "keywords": "Maine shooting, ICE, protest, David Brouillette, domestic abuse, cognitive issues, Johan Sebastian Duran Guerrero"
+    },
+    {
+      "title": "Canada Wildfires and U.S. Air Quality",
+      "content": "加拿大近千起野火燃烧，烟雾飘入美国中西部和东海岸，影响超过1亿人。特朗普威胁对加拿大征收关税，安大略省省长福特反驳称美国应记得加拿大曾帮助加州灭火。纽约等地在烟雾和高温后遭遇暴洪。",
+      "keywords": "wildfires, Canada, smoke, air quality, Trump, tariffs, Doug Ford, flash flooding, New York"
+    },
+    {
+      "title": "World Cup Final 2026",
+      "content": "2026年世界杯决赛在阿根廷和西班牙之间进行，比赛在新泽西举行。阿根廷力争卫冕，西班牙防守稳固。赛前恶劣天气导致航班延误，球迷滞留。决赛将有明星表演，特朗普将出席并颁发奖杯。",
+      "keywords": "World Cup final, Argentina, Spain, Lionel Messi, Lamine Yamal, New Jersey, Shakira, Trump, flight delays"
+    },
+    {
+      "title": "Tate Brothers Arrest",
+      "content": "社交媒体影响者Andrew和Tristan Tate在迈阿密被捕，面临英国引渡请求。英国检察官指控他们强奸、性交易等罪行。兄弟俩否认不当行为。",
+      "keywords": "Tate brothers, arrest, extradition, UK, rape, sex trafficking, Miami"
+    },
+    {
+      "title": "Russia-Ukraine War Escalation",
+      "content": "俄罗斯对乌克兰发动大规模弹道导弹和无人机袭击，基辅遭40多枚导弹和120多架无人机攻击。乌克兰此前对俄罗斯境内目标发动无人机打击，摧毁两个电商仓库。战争似乎进一步升级。",
+      "keywords": "Russia, Ukraine, ballistic missiles, drones, Kyiv, escalation, retaliation, Zelenskyy"
+    },
+    {
+      "title": "Michigan Senate Primary",
+      "content": "密歇根州民主党参议员初选竞争激烈，Abdul El-Sayed与Haley Stevens争夺接替退休参议员Gary Peters的席位。El-Sayed与伯尼·桑德斯和AOC集会，批评企业和大财团影响政治。",
+      "keywords": "Michigan, Senate primary, Abdul El-Sayed, Haley Stevens, Bernie Sanders, AOC, Gary Peters"
+    },
+    {
+      "title": "Lettuce Recall",
+      "content": "泰勒农场因潜在的环孢子虫污染召回运往27个州的冰山生菜。该公司此前曾向塔可钟供应生菜，与中西部环孢子虫病爆发有关。",
+      "keywords": "Taylor Farms, iceberg lettuce recall, cyclospora, contamination, Taco Bell"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nU.S. Wraps Up Eighth Night Of Strikes Against Iran; Two U.S. Service Members Dead; One Missing After Friday Attack; Kuwait Army Intercepting Missile, Drone Attacks From Iran; Deadly Maine Shooting Sparks Anti-ICE Protests; Ontario Premier Says It's A Shame Trump Is Blaming Canada For Wildfire Smoke; Flash Flooding Follows Days Of Smoke And Heat In New York; World Cup Fans Stranded As New York Storms Cause Airport Chaos; Spain And Argentina Prepare To Face Off In The World Cup Final; Tate Brothers Arrested In Miami On U.K. Extradition Request; Iceberg Lettuce Recalled In 27 States Due To Possible Contamination; Michigan Democrats Battle For Open Senate Seat; Russia Launches Massive Missile And Drone Attack Against Ukraine. Iran Suspending Commitment To Ceasefire Agreement; Top Two Teams In The World Make It To World Cup Finals; Catching Up With Quilen Blackwell, 2025 CNN Hero Of The Year; Andy Burnham To Take Over As U.K. Prime Minister Monday. Aired 6-7a ET\n\nAired July 19, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nDANNY FREEMAN, CNN ANCHOR: Welcome to CNN THIS MORNING. We're very glad you're with us here today.\n\nHere's what's new this morning. First up, the U.S. launched another round of strikes on Iran, Saturday, in retaliation for the death of two U.S. soldiers. And happening now, we're learning of new missile attacks by Iran on U.S. allies. We've got that coming up in a live report.\n\nAnd we're also following breaking news out of Ukraine. Russia is unleashing a major ballistic missile attack on Kyiv. We have new information and video of the damage coming in.\n\nAnd here in the U.S. first it was the smoke. Well, now it was the floods. Part of the northeast are drying out after flash floods swept through the region. We've got a look at the damage there and today's forecast.\n\nPlus, after more than 100 matches, thrilling wins and heartbreaking losses, it's all come down to this, the World Cup final. And let's take a live look at the stadium where Spain and Argentina are going to face off in just a little bit. We're going to take you there live coming up.\n\nA very good morning to you. It is Sunday, July 19th. Thank you so much for joining us. I'm Danny Freeman in for Victor Blackwell.\n\nAnd breaking overnight, U.S. ally Kuwait says it is actively intercepting missile and drone attacks, citing Iranian aggression. Sirens are also going off in Bahrain. Now, that happened just hours after U.S. Central Command posted this video saying it wrapped up an eighth night of strikes against Iran. CENTCOM says it targeted Islamic Revolutionary Guard Corps Forces behind attacks that killed two U.S. service members in Jordan on Friday. One service member is still missing.\n\nFor more on this, we have CNN's Nic Robertson joining us now. Nic, what more have we learned this morning?\n\nNIC ROBERTSON, CNN INTERNATIONAL DIPLOMATIC EDITOR: Well, the very latest is the latest round of strikes from Iran on Bahrain that was ongoing literally an hour ago. And a couple of hours before that as you mentioned Kuwait was taking the force of Iran's attacks.\n\nI think overall last night, it does appear Iran has targeted fewer countries in the Gulf region than it has done over previous nights. It's not clear if it targeted anywhere in Jordan, but Jordan has absolutely, over the past five or six days, been a real focus for Iranian strikes. They say that they've been hitting U.S. Air Force assets at different military bases inside of Jordan. We don't yet know the details about the strike that killed the two service members in Jordan, or the missing third member. No update on that person missing in action.\n\nThose who have been injured, U.S. service personnel injured in that strike in Jordan have been released from hospital. But where does that leave the bigger picture in the region at the moment? One of the things that we're seeing is that the U.S. is increasing its fleet of the KC-135 Stratotankers, the air refuelers for the F-35 and other fighter jets that are critical to prosecuting the war against Iran in the region at the moment and relocating some of them to Israel.\n\nSo in that -- in this context where Iran is trying to hit U.S. military assets closer to Iran, putting these assets in Israel, potentially making them safer, harder for Iran to reach Israel has strong -- very strong defensive procedures against incoming Iranian missiles. It has not been targeted yet.\n\nWhat the United States was targeting overnight were missile storage and drone storage facilities was targeting along the Strait of Hormuz. Again on the Island of Qeshm, which is right at that sort of critical, narrow point in the Strait of Hormuz and Bandar Abbas, which is the main city. Again, Iranian city on the Strait of Hormuz.\n\nIt's not clear how much this latest salvo of overnight operations from the United States has damaged Iran's ability to interdict shipping in the -- in the Strait of Hormuz. But that is -- that is the plan to stop Iran being able to cut off international maritime shipping in the strait.\n\nFREEMAN: And again, still heartbreaking for the families of those service members who were killed. Nic Robertson, thank you so much for that latest update.\n\n[06:05:01] Really do appreciate it. Switching gears now, we have new details about one of the officers on scene when 25-year-old Johan Sebastian Duran Guerrero was shot and killed in Maine back on Monday. Now a warning, the video you're about to see may be disturbing.\n\nCNN now confirmed David Brouillette was among those officers, according to two of his ex-wives. One of those ex-wives and one of his daughters told CNN that he told them he opened fire and thought the shooting was justified. CNN has not independently confirmed if Brouillette was the officer who shot Duran Guerrero, and federal officials have not publicly identified that officer.\n\nNow, after combing through public documents and speaking with those ex-wives, CNN uncovered more details about Brouillette's past. Both women described a history of alleged domestic abuse and intimidation. Brouillette has denied the allegations and was never charged.\n\nAnother note from his past, Brouillette told a court in Maine that he suffered lingering cognitive issues after he suffered a serious head injury. A steel beam fell on his head while he was in firefighter training, leaving him unable to complete that training. Well, Brouillette has not responded to several requests by CNN for comment. Now, the shooting has sparked protests across Maine like this.\n\nUNIDENTIFIED FEMALE: I mean, I think just grief stricken silence, anger, disbelief, shock. Yes, because it happened here.\n\nUNIDENTIFIED MALE: I was down at Biddeford and I'm here because I care about that. And, you know, I mean, who doesn't?\n\nFREEMAN: Twenty-five year old Duran Guerrero was from Colombia. He was here with his partner and daughter working as a delivery driver. The Department of Homeland Security says he was trying to flee the scene, and an ICE officer shot him, quote, \"fearing for public safety.\"\n\nAlso this morning, nearly 1,000 wildfires are burning across Canada. In Ontario alone, crews are battling 191 active fires, with more than 150 firefighting teams spread across the province.\n\nNow the smoke is drifting deep into the U.S., Midwest and East Coast, prompting air quality alerts for more than 100 million people. President Trump is blaming Canada for the smoke and threatening to impose tariffs on Canada over it. Yesterday, Ontario Premier Doug Ford pushed back.\n\nDOUG FORD, ONTARIO PREMIER: I find it a shame, the administration in the U.S. and Congress people, writing these letters and blaming us and so on and so forth. They have a very short, short memory. We had the water bombers, everyone ready, going over to California. It was last year. We sent down hydro linemen down to the Carolinas and Georgia to help out. That's what neighbors do, right? You don't get on and start threatening and criticizing because, guess what? One day it's going to be your turn.\n\nFREEMAN: Meanwhile, thousands of people have been forced from their homes in Canada with no clear timeline for when they can return. And of course, here in the U.S., the smoke is disrupting everything from summer events to outdoor activities across more than a dozen states, including near the venue for today's World Cup final.\n\nThough after days of smoke and extreme heat, New Yorkers found themselves dealing with a completely different problem, flash flooding. Heavy rain moved through the region yesterday, flooding roads and causing problems on parts of the transit system. Some areas picked up several inches of rain in just a few hours.\n\nCNN's Melissa Nord joins me now. Melissa, I was, you know, I'm here in New York, and it really was coming down yesterday. What can people expect today?\n\nMELISSA NORD, CNN METEOROLOGIST: I know it was really intense, but it's going to be looking a lot better, Danny, today in New York for that World Cup final. You can see over 400 reports of damaging winds yesterday. And there are all of those flash flooding reports through New York City.\n\nThe front, though is further south. So we've had this wind direction shift. It's pushed the smoke out of there. It is encompassing the Midwest today. But for New York itself, it looks great for game time.\n\nWe've got kickoff there at 3:00. We'll be in the 80s. There's low humidity. So really nice weather there.\n\nThe storm system that brought that flash flooding to New York City yesterday further south at this point, that's going to bring some severe weather to the Carolinas, down to Georgia. It's daytime heating. So it's driven in the afternoon and evening watch for heavy rain that could lead to flash flooding and damaging winds.\n\nAnd then south of there, we're also watching some trouble in the tropics. This little swirl across the Eastern Gulf now has a 60 percent chance of development. Hurricane hunters expected to fly into this later today to get more information. It's going to swirl around in the Eastern Gulf the next couple of days, bringing some intense rain bands right along the coastline.\n\nIt could become a tropical depression if it becomes a named storm Bertha would be the name there. You can see forecast rainfall. Much of this just right along the Big Bend region, Apalachicola, and even down to the Tampa area. We could see locally some places get around four inches of rain, Danny.\n\nFREEMAN: Man, a wet week coming up. All right. Melissa, thank you so much. Really do appreciate it. And severe weather has left soccer fans stranded just ahead of the World Cup final in New Jersey. The intense rain forced ground stops at JFK, LaGuardia, and Newark airports, triggering a cascade of cancellations and major flight delays for thousands of fans traveling on the eve of today's championship match.\n\nBLAKE FERTITTA, FAN TRAVELING TO WORLD CUP FINAL: Yes, mostly been checking online and see that the ground stop has finally ended, so hopefully they'll board and we can get up there tonight. That's the hope. If not, either try to recoup the tickets on a -- you know, sell the ticket or potentially get a rental car through the night.\n\nFREEMAN: I hope they get there. All right. Coming up next, we're going to take you live to New Jersey and the site of today's World Cup final, where fans are already making their predictions. And we're going to tell you what fans can expect if they're heading to the match as well.\n\nPlus, also a duo of controversial influencers are back in legal trouble. They've been arrested in the U.S. and are facing extradition to the U.K. We're going to explain the accusations against the Tate brothers.\n\nAnd later, Andy Burnham is set out to become the UK's new prime minister tomorrow. We're going to lay out the challenges he's facing as Britain's incoming new leader.\n\nFREEMAN: After 38 days of nonstop action, the 2026 World Cup final is finally here. At 3:00 p.m. eastern today, world number one Argentina faces world number two Spain in front of a packed new stadium. It's going to be a spectacular clash featuring soccer superstar Lionel Messi and prodigy Lamine Yamal. President Trump will also be in attendance, and FIFA's president even stated that Trump would hand the trophy to the winning team.\n\nLeigh Waldman is live outside of the New York -- New Jersey stadium where these games are taking place. Leigh, so great to see you and so much excitement ahead of today's match.\n\nLEIGH WALDMAN, CNN CORRESPONDENT: Danny, so much excitement. The 3:00 a.m. alarm is not so bad on a Sunday when this is what your day at work is here. It has all led up to this moment. These two teams have such different playing styles on the pitch, so this is going to be a really thrilling match to watch between Spain and Argentina. But even if you don't necessarily identify as a sports fan, this day has something for everyone, including a performance from Miss FIFA herself, Shakira, Shakira.\n\nGOV. MIKIE SHERRILL (D-NJ): Welcoming the world to New Jersey. Some people have compared it to having your cousins over and your mom let you stay up late.\n\nWALDMAN (voice-over): An incredible tournament that has brought memorable moments on and off the field.\n\nSHAUN ALEXANDER, WORLD CUP FAN VISITING U.S. FROM SCOTLAND: Buc-ee's is like America in a box, a very, very large box. But, you know, you go in there, it's very colorful. There's all these kind of gifts and all this different food and smells.\n\nWALDMAN (voice-over): After weeks of intense matches, it all comes down to this. Two giants meeting on the pitch in New Jersey. La Roja versus La Albiceleste.\n\nUNIDENTIFIED YOUNG FAN: I think they would be pretty proud of seeing all these fans just happy to support them always.\n\nUNIDENTIFIED YOUNG FAN: It was really cool seeing Spain walk by, seeing all my favorite players walk by. Yes.\n\nUNIDENTIFIED YOUNG FAN: All the players are great and it's like a great experience to see everybody. And Spain is going to win the World Cup.\n\nWALDMAN (voice-over): This is the first time the two teams have played each other at the World Cup since the group stage of the 1966 tournament in England, when Argentina won two-one. While both teams have a lot riding on this game, Argentina is playing for history, trying to be the first repeat champions since the 1960s.\n\nToday's final has something for everyone, including those who don't identify as sports fans. Ahead of the game, FIFA is hosting a star studded show with performances from some of the biggest names in music and entertainment. At halftime, Madonna, Justin Bieber, Shakira, BTS and more will be coming together for what's sure to be an unforgettable performance.\n\nWALDMAN: And, Danny, if we need to make today even more exciting, let me add another level for you. This is the first ever World Cup final to be contested by the champions of the world versus the champions of Europe. Messi, he is hoping to answer a very important question today. Is he the GOAT?\n\nFREEMAN: Yes, I think he's for sure the GOAT. That's undisputed. And, Leigh, I just love that you are wearing the blue and white stripes for Argentina. And also the red earrings for Spain. I really like that. Nice touch. Leigh Waldman, thanks so much. Have a good time out there. All right. Coming up after a break, we have new information about the cyclospora outbreak. The company behind the contaminated lettuce is issuing a recall. We're going to tell you what you need to know coming up next.\n\nFREEMAN: In headlines this morning, we're learning more about the arrest of social media influencers Andrew and Tristan Tate. U.S. marshals arrested the brothers yesterday in Miami on an extradition request from the U.K. British prosecutors accused the brothers of rape, sex trafficking and other offenses tied to an investigation involving multiple alleged victims. They're expected to appear in federal court in Miami this week as the extradition process moves forward. The brothers have repeatedly denied wrongdoing.\n\nAnd produce supplier Taylor Farms is recalling iceberg lettuce shipped to 27 states due to potential cyclospora contamination. This is the same company that supplied shredded lettuce to Taco Bell restaurants that have been linked to the cyclosporiasis outbreak in the Midwest. The recall covers lettuce distributed between June 29th and July 16th. If you have it, the company says you should immediately throw it away.\n\nAnd later today, Michigan Democrats will get another look at one of the party's most closely watched Senate primaries. Abdul El-Sayed is set to rally with Bernie Sanders and Alexandria Ocasio-Cortez in Grand Rapids. El-Sayed and Congresswoman Haley Stevens are competing to replace retiring Democratic Senator Gary Peters. As he campaigns for the Senate, El-Sayed is framing his message around who he says really holds power in Washington. Here's part of what he told supporters.\n\nABDUL EL-SAYED (D), MICHIGAN SENATE CANDIDATE: Donald Trump is not himself the disease of our politics.\n\nHe's just the worst symptom of the disease of our politics. The disease is the system that allows big corporations, billionaires, special interests like AIPAC to buy and sell, politicians to do their bidding instead of ours. We have to pay more for all we pay for. Get paid less for the work we do, and watch as our tax dollars get misappropriated to drop bombs and buy tanks abroad, rather than to invest in schools and health care here at home.\n\nFREEMAN: And coming up later this morning, El-Sayed joins Jake Tapper on \"STATE OF THE UNION.\" Moving abroad, Russia just launched one of its largest ballistic missile attacks against Ukraine since the war began over four years ago. Ukraine says more than 40 missiles and 120 drones were fired overnight by the Russians, most of them targeting the capital, Kyiv. Rescue operations are underway at this hour. The attacks followed deadly strikes by the Ukrainians deep into Russia, destroying two e-commerce warehouses, one of them in Moscow. At least eight people were killed.\n\nPRESIDENT VOLODYMYR ZELENSKYY, UKRAINE (through translator): These were Russian logistics facilities, including warehouses supplying equipment for the war effort, such as navigation systems, components used in drone production and other supplies for the Russian military. Our Ukrainian weapons also struck another oil facility and targets in the waters of the Sea of Azov and the Black Sea. This was an important operation. There will be more.\n\nFREEMAN: CNN's Barbie Latza Nadeau is tracking the latest developments. Barbie, this war really seems to be escalating to a dangerous new level.\n\nBARBIE LATZA NADEAU, CNN CONTRIBUTOR: Yes, this really was a brutal overnight attack on the Ukrainian capital. Those 40 missiles raining down in less than two hours, sparking fires, residential areas were hit, a shopping center was hit. But of course, they are retaliating against that Ukrainian twin drone strike deep into the heart of Russia, very close to Moscow, hitting those distribution centers.\n\nYou know, this really is seeming to be an escalation of the war right now. And it remains to be seen if Ukraine is now going to or has the capability to strike Russia again inside, and whether or not this sort of escalation is going to bring either side closer to the negotiating table and bring these countries in this ongoing war closer to an end and peace in the region.\n\nIt has been four difficult years, obviously, in Ukraine. Reverberations all across Europe here with higher prices and Ukrainian refugees. So everybody's looking for an end to this, except it seems, Vladimir Putin and Russia -- Danny.\n\nFREEMAN: All right. Barbie Latza Nadeau, thank you very much for that update and report.\n\nAll right. Let's get more now on our top story this morning. Two U.S. service members killed in action in Jordan, the first American fatalities from Iranian fire since March. And another U.S. soldier is missing. The U.S. retaliating an eighth straight night of strikes targeting Islamic Revolutionary Guard Forces believed to be behind those attacks.\n\nCNN global affairs analyst Kimberly Dozier joins us now from Washington to break all this down. Kim, good to see you. Though I'm sad to see you on a hard weekend for the U.S.\n\nListen, we still don't have a ton of information about this attack in Jordan that killed those two service members. But what's your read on where this conflict stands today after this awful news? I mean, surely this will only make things worse\n\nKIMBERLY DOZIER, CNN GLOBAL AFFAIRS ANALYST: Yes. First of all, we don't have much information because the way the U.S. military does its notification, it only does it between 6:00 a.m. and 10:00 p.m. in wherever the families are located, so that they never have to fear a knock at the door in the middle of the night with the worst possible news of their lives. So that process is ongoing, and then we'll likely get more details about how those troops were lost after that notification.\n\nAs for the battle itself between the U.S. and Iran, what this shows is that while the U.S. might have taken out Iran's conventional military capability, largely that Iran maintains weapons and militia groups and operatives throughout the region that have been there for years, and they still have capability. And so wherever the U.S. has a weak point, troops in a vulnerable location, Iran is going to note that and strike.\n\nFREEMAN: Kim, I'm curious, what do you expect U.S. retaliation to look like in the coming days? We've already seen eight straight nights of strikes against Iran.\n\nDOZIER: Well, we've seen them expand. CENTCOM has been hitting bridges. And according to Iranian authorities, even desalination facilities. It seems the goal is now, you know, that they've run out of many of the conventional military targets to hit some of the economic targets, to make it harder for the government to maintain power. That gets them into the gray area of -- a lot of these things will be dual use.\n\nWhen you take out a bridge, yes, U.S. military troops might go over that bridge, but also civilians use it, which has led to accusations across the Gulf and the Middle East. I just came back from Europe, where I heard this chorus from people that the U.S. was committing war crimes. That can't be great for the U.S. reputation long term.\n\nAnd that is all to Iran's benefit, as Iran takes more pain than the U.S. can and continues to mete out at least reputational damage and some military damage as well.\n\nDANNY FREEMAN, CNN ANCHOR: Kim, can you break down and help us understand, I mean, how vulnerable are some of these U.S. military bases in the region of the Middle East? Because, you know, I think that a lot of folks would have assumed that those would be a little bit more secure, certainly.\n\nDOZIER (on-camera): Well, it's just like, you know, when I used to be based in Iraq, the U.S. bases were as secure as they could be. But we're undergoing pretty constant attack. That is happening right now in Iraq. Hundreds of attacks have happened against U.S. diplomatic and military facilities by militias who are funded by Iran, in some cases ordered by Iran.\n\nSo Iran has a lot of capability to harass U.S. troops, but also to by hitting the Gulf nations, which it's doing right now, it's increasing the pain for having those U.S. troops based in those countries, with the ultimate goal of getting the Gulf countries themselves to eject U.S. forces.\n\nFREEMAN: Kim, from your perspective, does it seem like the administration continues to underestimate what Iran or its proxies are capable of?\n\nDOZIER (on-camera): What I keep hearing out of the White House is, you know, the same kind of things I heard during the Iraq and the Afghan war, but we've destroyed so much. We've taken --\n\nDOZIER (on-camera): -- so much equipment off of the battlefield. But what they don't seem to be able to do is take away the will to fight. And they are just confused and perplexed by that.\n\nFrom Iran's perspective, though, as many of us who've watched Iran for a very long time said before these attacks by the U.S. and Israel even began, Iran is a society built on the strength of martyrdom and the strength of sacrifice. The more pain they endure, the better that is in terms of their support from the local population and also the admiration that they're increasingly getting from other countries around the globe.\n\nAnd that spells everything from people willing to smuggle goods to Iran, to nation states like China and Russia, who are already Iranian allies, willing to do whatever they can to keep the Iranian government going, because remember, that's also tiring the U.S. out. And for an adversary like China, that's a good thing.\n\nFREEMAN: Kim, last thing, and I know it's hard to assess this in still, I guess, relatively early days, but I mean, is this beginning to look like what forever wars look like?\n\nDOZIER (on-camera): I think what we could be looking at is at least this tit-for-tat going through the end of this year. From the Iranian perspective, they don't want to hand Trump the diplomatic victory of a full sort of Iranian nuclear deal or anything approaching that. But they do need to get economic relief.\n\nThe recent ceasefire allowed them to get a lot of the oil that had backed up in all their storage facilities. It allowed them to get that oil out. It allowed them to get some cash in. So at least for a time, several weeks, I think you'll see this back and forth go on until Gulf countries will reach out and say, you know, there's got to be some peace talks because our people need relief from this constant barrage.\n\nSo I think we're going to see that seesaw back and forth as opposed to a forever war.\n\nFREEMAN: Yes, again, especially with more of those U.S. allies being dragged in continuously.\n\nKim Dozier, thank you so much for your expertise as always. Good to see you.\n\nDOZIER (on-camera): Thanks, Dan.\n\nFREEMAN: All right, coming up, today's World Cup final will be a battle of the soccer giants. Argentina looking to repeat as champions, but Spain is standing in their way.\n\nWe're going to preview today's matchup coming up after a quick break.\n\nAnd if you're heading out, remember, you can stream our show from anywhere in the U.S., right from the CNN app. You can also go to CNN.com/Watch. We're all over the place. See you in a bit.\n\nFREEMAN: It all comes down to this. Argentina versus Spain this afternoon at New Jersey Stadium. Will Lionel Messi get that what could be his final World Cup trophy and be a back-to-back champion? Or will Spain pull off an upset?\n\nSeth Vertelney with USA Today is here with us to talk through it all. Seth, it's been a pleasure having you with us on the weekends for this entire World Cup run. Great to see you. Let's start here.\n\nWhat are you thinking? Argentina? Spain? Who's going to win?\n\nSETH VERTELNEY, SOCCER EDITOR, USA TODAY: Oh, man, it should be a really good game. I'm really looking forward to this. If you had to ask me, I would probably make Spain a slight favorite. The reason is, Argentina, for all the quality that they have, has been really close in all four of their knockout games to losing. It's been sort of a high wire act with them. Even going back to the round of 32 against Cape Verde, they had to go into extra time and they continue to find ways to win in really dramatic fashion.\n\nAnd, you know, we saw that again in the semifinal against England, they were trailing with about five minutes left and they found a way to score twice in the last six, seven minutes of that game to beat England and make it to the final. But this Spain team has been so solid throughout this entire World Cup. They have conceded one goal in seven games. And I think where I see Spain having an advantage is they're so good at keeping the ball. Their specialty is possession. And Argentina in the last five, 10, 20 minutes of that game against England had all of the ball.\n\nAnd I think especially if Spain can get an early goal or can get a lead, it's going to be much harder for Argentina to come back today than it has been in previous games.\n\nFREEMAN: No, that's super well said. But I guess that's the question, right? I mean, because Argentina, especially in the England game, have had these stunning last minute comeback wins, can Spain ever rest? Like even if they do get an early lead, what do they need to do to hold Argentina off from pulling another upset off?\n\nVERTELNEY: Yes, I think they need to do what they do best, which is keep the ball. Spain, I think we saw it best exemplified against France in the semifinal. I mean, going into that game, I think people would make France a slight favorite because of how dynamic their attack had been throughout the tournament. In every game, it seemed like they were overwhelming teams.\n\nAnd what Spain did is they put together a game plan where they were so defensively sound, their structure was so solid. And they really prevented France from getting a lot of openings on attack. And when Spain has the ball, they're able to maintain possession and they're able to find moments to hurt teams when they are in the attack in third.\n\nAnd so I think that's what they need to do again today is have a really strong defensive structure, have a good shape, and they should feel confident, especially the way that they controlled the game against France. They should feel confident heading into today's game.\n\nFREEMAN: Yes, because shutting down Mbappe is no easy feat.\n\nSeth, are we thinking this is going to be Messi's final World Cup run?\n\nVERTELNEY: I would imagine so. I mean, he turned 39 at this tournament. You know, you never want to say never, especially because in 2030, Argentina will host a game of this World Cup.\n\nAnd so, you never know. Messi has been kind of taking things day by day, moment by moment for the last four years. You know, he never really said he was for sure going to play in",
+  "segments": [
+    {
+      "seg": 1,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-19/segment/01",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nU.S. Wraps Up Eighth Night Of Strikes Against Iran; Two U.S. Service Members Dead; One Missing After Friday Attack; Kuwait Army Intercepting Missile, Drone Attacks From Iran; Deadly Maine Shooting Sparks Anti-ICE Protests; Ontario Premier Says It's A Shame Trump Is Blaming Canada For Wildfire Smoke; Flash Flooding Follows Days Of Smoke And Heat In New York; World Cup Fans Stranded As New York Storms Cause Airport Chaos; Spain And Argentina Prepare To Face Off In The World Cup Final; Tate Brothers Arrested In Miami On U.K. Extradition Request; Iceberg Lettuce Recalled In 27 States Due To Possible Contamination; Michigan Democrats Battle For Open Senate Seat; Russia Launches Massive Missile And Drone Attack Against Ukraine. Iran Suspending Commitment To Ceasefire Agreement; Top Two Teams In The World Make It To World Cup Finals; Catching Up With Quilen Blackwell, 2025 CNN Hero Of The Year; Andy Burnham To Take Over As U.K. Prime Minister Monday. Aired 6-7a ET\n\nAired July 19, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nDANNY FREEMAN, CNN ANCHOR: Welcome to CNN THIS MORNING. We're very glad you're with us here today.\n\nHere's what's new this morning. First up, the U.S. launched another round of strikes on Iran, Saturday, in retaliation for the death of two U.S. soldiers. And happening now, we're learning of new missile attacks by Iran on U.S. allies. We've got that coming up in a live report.\n\nAnd we're also following breaking news out of Ukraine. Russia is unleashing a major ballistic missile attack on Kyiv. We have new information and video of the damage coming in.\n\nAnd here in the U.S. first it was the smoke. Well, now it was the floods. Part of the northeast are drying out after flash floods swept through the region. We've got a look at the damage there and today's forecast.\n\nPlus, after more than 100 matches, thrilling wins and heartbreaking losses, it's all come down to this, the World Cup final. And let's take a live look at the stadium where Spain and Argentina are going to face off in just a little bit. We're going to take you there live coming up.\n\nA very good morning to you. It is Sunday, July 19th. Thank you so much for joining us. I'm Danny Freeman in for Victor Blackwell.\n\nAnd breaking overnight, U.S. ally Kuwait says it is actively intercepting missile and drone attacks, citing Iranian aggression. Sirens are also going off in Bahrain. Now, that happened just hours after U.S. Central Command posted this video saying it wrapped up an eighth night of strikes against Iran. CENTCOM says it targeted Islamic Revolutionary Guard Corps Forces behind attacks that killed two U.S. service members in Jordan on Friday. One service member is still missing.\n\nFor more on this, we have CNN's Nic Robertson joining us now. Nic, what more have we learned this morning?\n\nNIC ROBERTSON, CNN INTERNATIONAL DIPLOMATIC EDITOR: Well, the very latest is the latest round of strikes from Iran on Bahrain that was ongoing literally an hour ago. And a couple of hours before that as you mentioned Kuwait was taking the force of Iran's attacks.\n\nI think overall last night, it does appear Iran has targeted fewer countries in the Gulf region than it has done over previous nights. It's not clear if it targeted anywhere in Jordan, but Jordan has absolutely, over the past five or six days, been a real focus for Iranian strikes. They say that they've been hitting U.S. Air Force assets at different military bases inside of Jordan. We don't yet know the details about the strike that killed the two service members in Jordan, or the missing third member. No update on that person missing in action.\n\nThose who have been injured, U.S. service personnel injured in that strike in Jordan have been released from hospital. But where does that leave the bigger picture in the region at the moment? One of the things that we're seeing is that the U.S. is increasing its fleet of the KC-135 Stratotankers, the air refuelers for the F-35 and other fighter jets that are critical to prosecuting the war against Iran in the region at the moment and relocating some of them to Israel.\n\nSo in that -- in this context where Iran is trying to hit U.S. military assets closer to Iran, putting these assets in Israel, potentially making them safer, harder for Iran to reach Israel has strong -- very strong defensive procedures against incoming Iranian missiles. It has not been targeted yet.\n\nWhat the United States was targeting overnight were missile storage and drone storage facilities was targeting along the Strait of Hormuz. Again on the Island of Qeshm, which is right at that sort of critical, narrow point in the Strait of Hormuz and Bandar Abbas, which is the main city. Again, Iranian city on the Strait of Hormuz.\n\nIt's not clear how much this latest salvo of overnight operations from the United States has damaged Iran's ability to interdict shipping in the -- in the Strait of Hormuz. But that is -- that is the plan to stop Iran being able to cut off international maritime shipping in the strait.\n\nFREEMAN: And again, still heartbreaking for the families of those service members who were killed. Nic Robertson, thank you so much for that latest update.\n\n[06:05:01] Really do appreciate it. Switching gears now, we have new details about one of the officers on scene when 25-year-old Johan Sebastian Duran Guerrero was shot and killed in Maine back on Monday. Now a warning, the video you're about to see may be disturbing.\n\nCNN now confirmed David Brouillette was among those officers, according to two of his ex-wives. One of those ex-wives and one of his daughters told CNN that he told them he opened fire and thought the shooting was justified. CNN has not independently confirmed if Brouillette was the officer who shot Duran Guerrero, and federal officials have not publicly identified that officer.\n\nNow, after combing through public documents and speaking with those ex-wives, CNN uncovered more details about Brouillette's past. Both women described a history of alleged domestic abuse and intimidation. Brouillette has denied the allegations and was never charged.\n\nAnother note from his past, Brouillette told a court in Maine that he suffered lingering cognitive issues after he suffered a serious head injury. A steel beam fell on his head while he was in firefighter training, leaving him unable to complete that training. Well, Brouillette has not responded to several requests by CNN for comment. Now, the shooting has sparked protests across Maine like this.\n\nUNIDENTIFIED FEMALE: I mean, I think just grief stricken silence, anger, disbelief, shock. Yes, because it happened here.\n\nUNIDENTIFIED MALE: I was down at Biddeford and I'm here because I care about that. And, you know, I mean, who doesn't?\n\nFREEMAN: Twenty-five year old Duran Guerrero was from Colombia. He was here with his partner and daughter working as a delivery driver. The Department of Homeland Security says he was trying to flee the scene, and an ICE officer shot him, quote, \"fearing for public safety.\"\n\nAlso this morning, nearly 1,000 wildfires are burning across Canada. In Ontario alone, crews are battling 191 active fires, with more than 150 firefighting teams spread across the province.\n\nNow the smoke is drifting deep into the U.S., Midwest and East Coast, prompting air quality alerts for more than 100 million people. President Trump is blaming Canada for the smoke and threatening to impose tariffs on Canada over it. Yesterday, Ontario Premier Doug Ford pushed back.\n\nDOUG FORD, ONTARIO PREMIER: I find it a shame, the administration in the U.S. and Congress people, writing these letters and blaming us and so on and so forth. They have a very short, short memory. We had the water bombers, everyone ready, going over to California. It was last year. We sent down hydro linemen down to the Carolinas and Georgia to help out. That's what neighbors do, right? You don't get on and start threatening and criticizing because, guess what? One day it's going to be your turn.\n\nFREEMAN: Meanwhile, thousands of people have been forced from their homes in Canada with no clear timeline for when they can return. And of course, here in the U.S., the smoke is disrupting everything from summer events to outdoor activities across more than a dozen states, including near the venue for today's World Cup final.\n\nThough after days of smoke and extreme heat, New Yorkers found themselves dealing with a completely different problem, flash flooding. Heavy rain moved through the region yesterday, flooding roads and causing problems on parts of the transit system. Some areas picked up several inches of rain in just a few hours.\n\nCNN's Melissa Nord joins me now. Melissa, I was, you know, I'm here in New York, and it really was coming down yesterday. What can people expect today?\n\nMELISSA NORD, CNN METEOROLOGIST: I know it was really intense, but it's going to be looking a lot better, Danny, today in New York for that World Cup final. You can see over 400 reports of damaging winds yesterday. And there are all of those flash flooding reports through New York City.\n\nThe front, though is further south. So we've had this wind direction shift. It's pushed the smoke out of there. It is encompassing the Midwest today. But for New York itself, it looks great for game time.\n\nWe've got kickoff there at 3:00. We'll be in the 80s. There's low humidity. So really nice weather there.\n\nThe storm system that brought that flash flooding to New York City yesterday further south at this point, that's going to bring some severe weather to the Carolinas, down to Georgia. It's daytime heating. So it's driven in the afternoon and evening watch for heavy rain that could lead to flash flooding and damaging winds.\n\nAnd then south of there, we're also watching some trouble in the tropics. This little swirl across the Eastern Gulf now has a 60 percent chance of development. Hurricane hunters expected to fly into this later today to get more information. It's going to swirl around in the Eastern Gulf the next couple of days, bringing some intense rain bands right along the coastline.\n\nIt could become a tropical depression if it becomes a named storm Bertha would be the name there. You can see forecast rainfall. Much of this just right along the Big Bend region, Apalachicola, and even down to the Tampa area. We could see locally some places get around four inches of rain, Danny.\n\nFREEMAN: Man, a wet week coming up. All right. Melissa, thank you so much. Really do appreciate it. And severe weather has left soccer fans stranded just ahead of the World Cup final in New Jersey. The intense rain forced ground stops at JFK, LaGuardia, and Newark airports, triggering a cascade of cancellations and major flight delays for thousands of fans traveling on the eve of today's championship match.\n\nBLAKE FERTITTA, FAN TRAVELING TO WORLD CUP FINAL: Yes, mostly been checking online and see that the ground stop has finally ended, so hopefully they'll board and we can get up there tonight. That's the hope. If not, either try to recoup the tickets on a -- you know, sell the ticket or potentially get a rental car through the night.\n\nFREEMAN: I hope they get there. All right. Coming up next, we're going to take you live to New Jersey and the site of today's World Cup final, where fans are already making their predictions. And we're going to tell you what fans can expect if they're heading to the match as well.\n\nPlus, also a duo of controversial influencers are back in legal trouble. They've been arrested in the U.S. and are facing extradition to the U.K. We're going to explain the accusations against the Tate brothers.\n\nAnd later, Andy Burnham is set out to become the UK's new prime minister tomorrow. We're going to lay out the challenges he's facing as Britain's incoming new leader.\n\nFREEMAN: After 38 days of nonstop action, the 2026 World Cup final is finally here. At 3:00 p.m. eastern today, world number one Argentina faces world number two Spain in front of a packed new stadium. It's going to be a spectacular clash featuring soccer superstar Lionel Messi and prodigy Lamine Yamal. President Trump will also be in attendance, and FIFA's president even stated that Trump would hand the trophy to the winning team.\n\nLeigh Waldman is live outside of the New York -- New Jersey stadium where these games are taking place. Leigh, so great to see you and so much excitement ahead of today's match.\n\nLEIGH WALDMAN, CNN CORRESPONDENT: Danny, so much excitement. The 3:00 a.m. alarm is not so bad on a Sunday when this is what your day at work is here. It has all led up to this moment. These two teams have such different playing styles on the pitch, so this is going to be a really thrilling match to watch between Spain and Argentina. But even if you don't necessarily identify as a sports fan, this day has something for everyone, including a performance from Miss FIFA herself, Shakira, Shakira.\n\nGOV. MIKIE SHERRILL (D-NJ): Welcoming the world to New Jersey. Some people have compared it to having your cousins over and your mom let you stay up late.\n\nWALDMAN (voice-over): An incredible tournament that has brought memorable moments on and off the field.\n\nSHAUN ALEXANDER, WORLD CUP FAN VISITING U.S. FROM SCOTLAND: Buc-ee's is like America in a box, a very, very large box. But, you know, you go in there, it's very colorful. There's all these kind of gifts and all this different food and smells.\n\nWALDMAN (voice-over): After weeks of intense matches, it all comes down to this. Two giants meeting on the pitch in New Jersey. La Roja versus La Albiceleste.\n\nUNIDENTIFIED YOUNG FAN: I think they would be pretty proud of seeing all these fans just happy to support them always.\n\nUNIDENTIFIED YOUNG FAN: It was really cool seeing Spain walk by, seeing all my favorite players walk by. Yes.\n\nUNIDENTIFIED YOUNG FAN: All the players are great and it's like a great experience to see everybody. And Spain is going to win the World Cup.\n\nWALDMAN (voice-over): This is the first time the two teams have played each other at the World Cup since the group stage of the 1966 tournament in England, when Argentina won two-one. While both teams have a lot riding on this game, Argentina is playing for history, trying to be the first repeat champions since the 1960s.\n\nToday's final has something for everyone, including those who don't identify as sports fans. Ahead of the game, FIFA is hosting a star studded show with performances from some of the biggest names in music and entertainment. At halftime, Madonna, Justin Bieber, Shakira, BTS and more will be coming together for what's sure to be an unforgettable performance.\n\nWALDMAN: And, Danny, if we need to make today even more exciting, let me add another level for you. This is the first ever World Cup final to be contested by the champions of the world versus the champions of Europe. Messi, he is hoping to answer a very important question today. Is he the GOAT?\n\nFREEMAN: Yes, I think he's for sure the GOAT. That's undisputed. And, Leigh, I just love that you are wearing the blue and white stripes for Argentina. And also the red earrings for Spain. I really like that. Nice touch. Leigh Waldman, thanks so much. Have a good time out there. All right. Coming up after a break, we have new information about the cyclospora outbreak. The company behind the contaminated lettuce is issuing a recall. We're going to tell you what you need to know coming up next.\n\nFREEMAN: In headlines this morning, we're learning more about the arrest of social media influencers Andrew and Tristan Tate. U.S. marshals arrested the brothers yesterday in Miami on an extradition request from the U.K. British prosecutors accused the brothers of rape, sex trafficking and other offenses tied to an investigation involving multiple alleged victims. They're expected to appear in federal court in Miami this week as the extradition process moves forward. The brothers have repeatedly denied wrongdoing.\n\nAnd produce supplier Taylor Farms is recalling iceberg lettuce shipped to 27 states due to potential cyclospora contamination. This is the same company that supplied shredded lettuce to Taco Bell restaurants that have been linked to the cyclosporiasis outbreak in the Midwest. The recall covers lettuce distributed between June 29th and July 16th. If you have it, the company says you should immediately throw it away.\n\nAnd later today, Michigan Democrats will get another look at one of the party's most closely watched Senate primaries. Abdul El-Sayed is set to rally with Bernie Sanders and Alexandria Ocasio-Cortez in Grand Rapids. El-Sayed and Congresswoman Haley Stevens are competing to replace retiring Democratic Senator Gary Peters. As he campaigns for the Senate, El-Sayed is framing his message around who he says really holds power in Washington. Here's part of what he told supporters.\n\nABDUL EL-SAYED (D), MICHIGAN SENATE CANDIDATE: Donald Trump is not himself the disease of our politics.\n\nHe's just the worst symptom of the disease of our politics. The disease is the system that allows big corporations, billionaires, special interests like AIPAC to buy and sell, politicians to do their bidding instead of ours. We have to pay more for all we pay for. Get paid less for the work we do, and watch as our tax dollars get misappropriated to drop bombs and buy tanks abroad, rather than to invest in schools and health care here at home.\n\nFREEMAN: And coming up later this morning, El-Sayed joins Jake Tapper on \"STATE OF THE UNION.\" Moving abroad, Russia just launched one of its largest ballistic missile attacks against Ukraine since the war began over four years ago. Ukraine says more than 40 missiles and 120 drones were fired overnight by the Russians, most of them targeting the capital, Kyiv. Rescue operations are underway at this hour. The attacks followed deadly strikes by the Ukrainians deep into Russia, destroying two e-commerce warehouses, one of them in Moscow. At least eight people were killed.\n\nPRESIDENT VOLODYMYR ZELENSKYY, UKRAINE (through translator): These were Russian logistics facilities, including warehouses supplying equipment for the war effort, such as navigation systems, components used in drone production and other supplies for the Russian military. Our Ukrainian weapons also struck another oil facility and targets in the waters of the Sea of Azov and the Black Sea. This was an important operation. There will be more.\n\nFREEMAN: CNN's Barbie Latza Nadeau is tracking the latest developments. Barbie, this war really seems to be escalating to a dangerous new level.\n\nBARBIE LATZA NADEAU, CNN CONTRIBUTOR: Yes, this really was a brutal overnight attack on the Ukrainian capital. Those 40 missiles raining down in less than two hours, sparking fires, residential areas were hit, a shopping center was hit. But of course, they are retaliating against that Ukrainian twin drone strike deep into the heart of Russia, very close to Moscow, hitting those distribution centers.\n\nYou know, this really is seeming to be an escalation of the war right now. And it remains to be seen if Ukraine is now going to or has the capability to strike Russia again inside, and whether or not this sort of escalation is going to bring either side closer to the negotiating table and bring these countries in this ongoing war closer to an end and peace in the region.\n\nIt has been four difficult years, obviously, in Ukraine. Reverberations all across Europe here with higher prices and Ukrainian refugees. So everybody's looking for an end to this, except it seems, Vladimir Putin and Russia -- Danny.\n\nFREEMAN: All right. Barbie Latza Nadeau, thank you very much for that update and report.\n\nAll right. Let's get more now on our top story this morning. Two U.S. service members killed in action in Jordan, the first American fatalities from Iranian fire since March. And another U.S. soldier is missing. The U.S. retaliating an eighth straight night of strikes targeting Islamic Revolutionary Guard Forces believed to be behind those attacks.\n\nCNN global affairs analyst Kimberly Dozier joins us now from Washington to break all this down. Kim, good to see you. Though I'm sad to see you on a hard weekend for the U.S.\n\nListen, we still don't have a ton of information about this attack in Jordan that killed those two service members. But what's your read on where this conflict stands today after this awful news? I mean, surely this will only make things worse\n\nKIMBERLY DOZIER, CNN GLOBAL AFFAIRS ANALYST: Yes. First of all, we don't have much information because the way the U.S. military does its notification, it only does it between 6:00 a.m. and 10:00 p.m. in wherever the families are located, so that they never have to fear a knock at the door in the middle of the night with the worst possible news of their lives. So that process is ongoing, and then we'll likely get more details about how those troops were lost after that notification.\n\nAs for the battle itself between the U.S. and Iran, what this shows is that while the U.S. might have taken out Iran's conventional military capability, largely that Iran maintains weapons and militia groups and operatives throughout the region that have been there for years, and they still have capability. And so wherever the U.S. has a weak point, troops in a vulnerable location, Iran is going to note that and strike.\n\nFREEMAN: Kim, I'm curious, what do you expect U.S. retaliation to look like in the coming days? We've already seen eight straight nights of strikes against Iran.\n\nDOZIER: Well, we've seen them expand. CENTCOM has been hitting bridges. And according to Iranian authorities, even desalination facilities. It seems the goal is now, you know, that they've run out of many of the conventional military targets to hit some of the economic targets, to make it harder for the government to maintain power. That gets them into the gray area of -- a lot of these things will be dual use.\n\nWhen you take out a bridge, yes, U.S. military troops might go over that bridge, but also civilians use it, which has led to accusations across the Gulf and the Middle East. I just came back from Europe, where I heard this chorus from people that the U.S. was committing war crimes. That can't be great for the U.S. reputation long term.\n\nAnd that is all to Iran's benefit, as Iran takes more pain than the U.S. can and continues to mete out at least reputational damage and some military damage as well.\n\nDANNY FREEMAN, CNN ANCHOR: Kim, can you break down and help us understand, I mean, how vulnerable are some of these U.S. military bases in the region of the Middle East? Because, you know, I think that a lot of folks would have assumed that those would be a little bit more secure, certainly.\n\nDOZIER (on-camera): Well, it's just like, you know, when I used to be based in Iraq, the U.S. bases were as secure as they could be. But we're undergoing pretty constant attack. That is happening right now in Iraq. Hundreds of attacks have happened against U.S. diplomatic and military facilities by militias who are funded by Iran, in some cases ordered by Iran.\n\nSo Iran has a lot of capability to harass U.S. troops, but also to by hitting the Gulf nations, which it's doing right now, it's increasing the pain for having those U.S. troops based in those countries, with the ultimate goal of getting the Gulf countries themselves to eject U.S. forces.\n\nFREEMAN: Kim, from your perspective, does it seem like the administration continues to underestimate what Iran or its proxies are capable of?\n\nDOZIER (on-camera): What I keep hearing out of the White House is, you know, the same kind of things I heard during the Iraq and the Afghan war, but we've destroyed so much. We've taken --\n\nDOZIER (on-camera): -- so much equipment off of the battlefield. But what they don't seem to be able to do is take away the will to fight. And they are just confused and perplexed by that.\n\nFrom Iran's perspective, though, as many of us who've watched Iran for a very long time said before these attacks by the U.S. and Israel even began, Iran is a society built on the strength of martyrdom and the strength of sacrifice. The more pain they endure, the better that is in terms of their support from the local population and also the admiration that they're increasingly getting from other countries around the globe.\n\nAnd that spells everything from people willing to smuggle goods to Iran, to nation states like China and Russia, who are already Iranian allies, willing to do whatever they can to keep the Iranian government going, because remember, that's also tiring the U.S. out. And for an adversary like China, that's a good thing.\n\nFREEMAN: Kim, last thing, and I know it's hard to assess this in still, I guess, relatively early days, but I mean, is this beginning to look like what forever wars look like?\n\nDOZIER (on-camera): I think what we could be looking at is at least this tit-for-tat going through the end of this year. From the Iranian perspective, they don't want to hand Trump the diplomatic victory of a full sort of Iranian nuclear deal or anything approaching that. But they do need to get economic relief.\n\nThe recent ceasefire allowed them to get a lot of the oil that had backed up in all their storage facilities. It allowed them to get that oil out. It allowed them to get some cash in. So at least for a time, several weeks, I think you'll see this back and forth go on until Gulf countries will reach out and say, you know, there's got to be some peace talks because our people need relief from this constant barrage.\n\nSo I think we're going to see that seesaw back and forth as opposed to a forever war.\n\nFREEMAN: Yes, again, especially with more of those U.S. allies being dragged in continuously.\n\nKim Dozier, thank you so much for your expertise as always. Good to see you.\n\nDOZIER (on-camera): Thanks, Dan.\n\nFREEMAN: All right, coming up, today's World Cup final will be a battle of the soccer giants. Argentina looking to repeat as champions, but Spain is standing in their way.\n\nWe're going to preview today's matchup coming up after a quick break.\n\nAnd if you're heading out, remember, you can stream our show from anywhere in the U.S., right from the CNN app. You can also go to CNN.com/Watch. We're all over the place. See you in a bit.\n\nFREEMAN: It all comes down to this. Argentina versus Spain this afternoon at New Jersey Stadium. Will Lionel Messi get that what could be his final World Cup trophy and be a back-to-back champion? Or will Spain pull off an upset?\n\nSeth Vertelney with USA Today is here with us to talk through it all. Seth, it's been a pleasure having you with us on the weekends for this entire World Cup run. Great to see you. Let's start here.\n\nWhat are you thinking? Argentina? Spain? Who's going to win?\n\nSETH VERTELNEY, SOCCER EDITOR, USA TODAY: Oh, man, it should be a really good game. I'm really looking forward to this. If you had to ask me, I would probably make Spain a slight favorite. The reason is, Argentina, for all the quality that they have, has been really close in all four of their knockout games to losing. It's been sort of a high wire act with them. Even going back to the round of 32 against Cape Verde, they had to go into extra time and they continue to find ways to win in really dramatic fashion.\n\nAnd, you know, we saw that again in the semifinal against England, they were trailing with about five minutes left and they found a way to score twice in the last six, seven minutes of that game to beat England and make it to the final. But this Spain team has been so solid throughout this entire World Cup. They have conceded one goal in seven games. And I think where I see Spain having an advantage is they're so good at keeping the ball. Their specialty is possession. And Argentina in the last five, 10, 20 minutes of that game against England had all of the ball.\n\nAnd I think especially if Spain can get an early goal or can get a lead, it's going to be much harder for Argentina to come back today than it has been in previous games.\n\nFREEMAN: No, that's super well said. But I guess that's the question, right? I mean, because Argentina, especially in the England game, have had these stunning last minute comeback wins, can Spain ever rest? Like even if they do get an early lead, what do they need to do to hold Argentina off from pulling another upset off?\n\nVERTELNEY: Yes, I think they need to do what they do best, which is keep the ball. Spain, I think we saw it best exemplified against France in the semifinal. I mean, going into that game, I think people would make France a slight favorite because of how dynamic their attack had been throughout the tournament. In every game, it seemed like they were overwhelming teams.\n\nAnd what Spain did is they put together a game plan where they were so defensively sound, their structure was so solid. And they really prevented France from getting a lot of openings on attack. And when Spain has the ball, they're able to maintain possession and they're able to find moments to hurt teams when they are in the attack in third.\n\nAnd so I think that's what they need to do again today is have a really strong defensive structure, have a good shape, and they should feel confident, especially the way that they controlled the game against France. They should feel confident heading into today's game.\n\nFREEMAN: Yes, because shutting down Mbappe is no easy feat.\n\nSeth, are we thinking this is going to be Messi's final World Cup run?\n\nVERTELNEY: I would imagine so. I mean, he turned 39 at this tournament. You know, you never want to say never, especially because in 2030, Argentina will host a game of this World Cup.\n\nAnd so, you never know. Messi has been kind of taking things day by day, moment by moment for the last four years. You know, he never really said he was for sure going to play in"
+    }
+  ]
+}

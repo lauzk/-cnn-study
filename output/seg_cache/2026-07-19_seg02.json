@@ -1,0 +1,709 @@
+{
+  "date": "2026-07-19",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-19/segment/02",
+  "vocabulary": [
+    {
+      "word": "retaliation",
+      "phonetic": "/rɪˌtæliˈeɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "报复",
+      "en": "action taken in return for an injury or offense",
+      "excerpt": "the U.S. launched another round of strikes on Iran Saturday in retaliation for the death of two U.S. soldiers.",
+      "example_cn": "美国周六对伊朗发动了又一轮打击，以报复两名美国士兵的死亡。"
+    },
+    {
+      "word": "escalation",
+      "phonetic": "/ˌeskəˈleɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "升级",
+      "en": "increase in intensity or magnitude",
+      "excerpt": "we're also following new escalations in the war between Russia and Ukraine.",
+      "example_cn": "我们也在关注俄罗斯和乌克兰战争的新升级。"
+    },
+    {
+      "word": "ballistic missile",
+      "phonetic": "/bəˈlɪstɪk ˈmɪsaɪl/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "弹道导弹",
+      "en": "a missile that follows a ballistic trajectory",
+      "excerpt": "Russia launching a major ballistic missile attack on Kyiv.",
+      "example_cn": "俄罗斯对基辅发动了大规模弹道导弹袭击。"
+    },
+    {
+      "word": "evacuate",
+      "phonetic": "/ɪˈvækjueɪt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "疏散",
+      "en": "remove (someone) from a place of danger to a safer place",
+      "excerpt": "The U.S. embassy in Jordan says the air and seaports in Aqaba are being evacuated.",
+      "example_cn": "美国驻约旦大使馆表示，亚喀巴的机场和海港正在疏散。"
+    },
+    {
+      "word": "credible threat",
+      "phonetic": "/ˈkredəbl θret/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "可信的威胁",
+      "en": "a threat that is believable and likely to be carried out",
+      "excerpt": "They're citing a, quote, \"specific and credible threat.\"",
+      "example_cn": "他们引用了一个“具体且可信的威胁”。"
+    },
+    {
+      "word": "Islamic Revolutionary Guard Corps",
+      "phonetic": "/ɪzˈlæmɪk ˌrevəˈluːʃəneri ɡɑːrd kɔːr/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "伊斯兰革命卫队",
+      "en": "a branch of Iran's armed forces",
+      "excerpt": "CENTCOM says it targeted Islamic Revolutionary Guard Corps forces behind attacks that killed two U.S. service members.",
+      "example_cn": "中央司令部表示，其目标是杀害两名美国军人的袭击背后的伊斯兰革命卫队部队。"
+    },
+    {
+      "word": "Strait of Hormuz",
+      "phonetic": "/streɪt əv hɔːrˈmuːz/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "霍尔木兹海峡",
+      "en": "a strait between the Persian Gulf and the Gulf of Oman",
+      "excerpt": "Iranian state news says explosions were heard in Bandar Abbas and in the Strait of Hormuz.",
+      "example_cn": "伊朗国家新闻称，在阿巴斯港和霍尔木兹海峡听到了爆炸声。"
+    },
+    {
+      "word": "crosshairs",
+      "phonetic": "/ˈkrɔːsherz/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "十字准线；焦点",
+      "en": "a set of fine lines at the focus of an optical instrument; used figuratively to mean the center of attention or target",
+      "excerpt": "it really does put Jordan very much in the crosshairs of Iran's actions against the U.S. interests in this region right now.",
+      "example_cn": "这确实使约旦成为伊朗在该地区针对美国利益行动的焦点。"
+    },
+    {
+      "word": "discharge",
+      "phonetic": "/dɪsˈtʃɑːrdʒ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "开枪；发射",
+      "en": "to fire (a gun or other weapon)",
+      "excerpt": "CNN has not independently confirmed that Brouillette was the one who discharged his weapon.",
+      "example_cn": "CNN尚未独立确认Brouillette是开枪的人。"
+    },
+    {
+      "word": "cognitive issues",
+      "phonetic": "/ˈkɒɡnətɪv ˈɪʃuːz/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "认知问题",
+      "en": "problems related to mental processes such as thinking, learning, and memory",
+      "excerpt": "Brouillette previously reported lingering cognitive issues after a serious head injury.",
+      "example_cn": "Brouillette此前报告称，在严重头部受伤后存在持续的认知问题。"
+    },
+    {
+      "word": "domestic abuse",
+      "phonetic": "/dəˈmestɪk əˈbjuːs/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "家庭虐待",
+      "en": "violent or aggressive behavior within the home",
+      "excerpt": "Brouillette's ex-wives also described a history of alleged domestic abuse and intimidation.",
+      "example_cn": "Brouillette的前妻们还描述了涉嫌家庭虐待和恐吓的历史。"
+    },
+    {
+      "word": "intimidation",
+      "phonetic": "/ɪnˌtɪmɪˈdeɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "恐吓",
+      "en": "the act of frightening or threatening someone",
+      "excerpt": "Brouillette's ex-wives also described a history of alleged domestic abuse and intimidation.",
+      "example_cn": "Brouillette的前妻们还描述了涉嫌家庭虐待和恐吓的历史。"
+    },
+    {
+      "word": "vetting",
+      "phonetic": "/ˈvetɪŋ/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "审查",
+      "en": "the process of examining someone or something carefully",
+      "excerpt": "raises serious questions about how ICE is doing its training and its officer vetting.",
+      "example_cn": "对ICE如何进行培训和官员审查提出了严重质疑。"
+    },
+    {
+      "word": "crackdown",
+      "phonetic": "/ˈkrækdaʊn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "镇压；打击",
+      "en": "severe action taken to restrict or suppress undesirable activities",
+      "excerpt": "as they race to meet the demands of the Trump administration's immigration crackdown.",
+      "example_cn": "因为他们急于满足特朗普政府移民打击行动的要求。"
+    },
+    {
+      "word": "justified",
+      "phonetic": "/ˈdʒʌstɪfaɪd/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "有正当理由的",
+      "en": "having a good reason for something",
+      "excerpt": "he thought the shooting was justified.",
+      "example_cn": "他认为枪击是正当的。"
+    },
+    {
+      "word": "lingering",
+      "phonetic": "/ˈlɪŋɡərɪŋ/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "持续的；拖延的",
+      "en": "lasting for a long time or slow to end",
+      "excerpt": "Brouillette previously reported lingering cognitive issues after a serious head injury.",
+      "example_cn": "Brouillette此前报告称，在严重头部受伤后存在持续的认知问题。"
+    },
+    {
+      "word": "alleged",
+      "phonetic": "/əˈledʒd/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "涉嫌的；被指控的",
+      "en": "said or thought to be true but not proven",
+      "excerpt": "Brouillette's ex-wives also described a history of alleged domestic abuse and intimidation.",
+      "example_cn": "Brouillette的前妻们还描述了涉嫌家庭虐待和恐吓的历史。"
+    },
+    {
+      "word": "independently confirm",
+      "phonetic": "/ˌɪndɪˈpendəntli kənˈfɜːrm/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "独立确认",
+      "en": "to verify something without relying on others",
+      "excerpt": "CNN has not independently confirmed that Brouillette was the officer who discharged the weapon.",
+      "example_cn": "CNN尚未独立确认Brouillette是开枪的警官。"
+    },
+    {
+      "word": "deadly force",
+      "phonetic": "/ˈdedli fɔːrs/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "致命武力",
+      "en": "force that is likely to cause death or serious injury",
+      "excerpt": "the officer used deadly force because they feared for public safety.",
+      "example_cn": "该警官使用了致命武力，因为他们担心公共安全。"
+    },
+    {
+      "word": "sue",
+      "phonetic": "/suː/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "起诉",
+      "en": "to take legal action against a person or organization",
+      "excerpt": "He sued the Maine Community College system because of that injury.",
+      "example_cn": "他因那次受伤起诉了缅因社区学院系统。"
+    },
+    {
+      "word": "head injury",
+      "phonetic": "/hed ˈɪndʒəri/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "头部受伤",
+      "en": "an injury to the head",
+      "excerpt": "he had suffered lingering cognitive issues after he suffered a serious head injury.",
+      "example_cn": "他在遭受严重头部受伤后出现了持续的认知问题。"
+    },
+    {
+      "word": "steel beam",
+      "phonetic": "/stiːl biːm/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "钢梁",
+      "en": "a long piece of steel used in construction",
+      "excerpt": "a steel beam fell on his head during a training exercise.",
+      "example_cn": "在一次训练中，一根钢梁掉在了他的头上。"
+    },
+    {
+      "word": "firefighting certificate",
+      "phonetic": "/ˈfaɪərfaɪtɪŋ sərˈtɪfɪkət/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "消防证书",
+      "en": "a document certifying that someone is qualified to fight fires",
+      "excerpt": "a training exercise for a firefighting certificate.",
+      "example_cn": "一次消防证书的训练演习。"
+    },
+    {
+      "word": "ex-wife",
+      "phonetic": "/eks waɪf/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "前妻",
+      "en": "a woman to whom one was formerly married",
+      "excerpt": "Brouillette's ex-wives also described a history of alleged domestic abuse.",
+      "example_cn": "Brouillette的前妻们还描述了涉嫌家庭虐待的历史。"
+    },
+    {
+      "word": "allegation",
+      "phonetic": "/ˌæləˈɡeɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "指控",
+      "en": "a claim or assertion that someone has done something illegal or wrong",
+      "excerpt": "he denies the allegations.",
+      "example_cn": "他否认这些指控。"
+    },
+    {
+      "word": "conviction",
+      "phonetic": "/kənˈvɪkʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "定罪",
+      "en": "a formal declaration that someone is guilty of a criminal offense",
+      "excerpt": "We have not been able to confirm any criminal convictions or charges.",
+      "example_cn": "我们无法确认任何刑事定罪或指控。"
+    },
+    {
+      "word": "immigrant",
+      "phonetic": "/ˈɪmɪɡrənt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "移民",
+      "en": "a person who comes to live permanently in a foreign country",
+      "excerpt": "an ICE officer shot and killed an immigrant behind the wheel.",
+      "example_cn": "一名ICE官员开枪打死了一名坐在方向盘后面的移民。"
+    },
+    {
+      "word": "span",
+      "phonetic": "/spæn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "一段时间",
+      "en": "the length of time that something lasts",
+      "excerpt": "the fourth killing this year alone by federal immigration authorities.",
+      "example_cn": "仅今年一年，联邦移民当局就发生了第四起杀人事件。"
+    },
+    {
+      "word": "World Cup final",
+      "phonetic": "/wɜːrld kʌp ˈfaɪnl/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "世界杯决赛",
+      "en": "the final match of the FIFA World Cup",
+      "excerpt": "Spain and Argentina are going to battle it out in the World Cup final.",
+      "example_cn": "西班牙和阿根廷将在世界杯决赛中一决胜负。"
+    },
+    {
+      "word": "palpable",
+      "phonetic": "/ˈpælpəbl/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "明显的；可感知的",
+      "en": "so strong that it seems almost physically real",
+      "excerpt": "the excitement is palpable.",
+      "example_cn": "兴奋之情溢于言表。"
+    },
+    {
+      "word": "orchestra vs heavy metal",
+      "phonetic": "/ˈɔːrkɪstrə vs ˈhevi ˈmetl/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "管弦乐与重金属（比喻风格迥异）",
+      "en": "a metaphor for contrasting styles, one refined and complex, the other aggressive and loud",
+      "excerpt": "People are comparing it to orchestra versus heavy metal.",
+      "example_cn": "人们将其比作管弦乐与重金属。"
+    },
+    {
+      "word": "SEAR 1 event",
+      "phonetic": "/sɪr wʌn ɪˈvent/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "一级特殊活动评估等级",
+      "en": "the highest level of security designation for an event",
+      "excerpt": "This is a SEAR 1 event.",
+      "example_cn": "这是一级特殊活动评估等级事件。"
+    },
+    {
+      "word": "no drone zone",
+      "phonetic": "/noʊ droʊn zoʊn/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "禁飞无人机区域",
+      "en": "an area where drones are not allowed to fly",
+      "excerpt": "It's a no drone zone.",
+      "example_cn": "这是一个禁飞无人机区域。"
+    },
+    {
+      "word": "flash flooding",
+      "phonetic": "/flæʃ ˈflʌdɪŋ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "暴洪",
+      "en": "sudden flooding caused by heavy rain",
+      "excerpt": "Flash flooding follows days of smoke & heat in New York.",
+      "example_cn": "纽约在经历了数天的烟雾和高温后出现了暴洪。"
+    },
+    {
+      "word": "basement apartment",
+      "phonetic": "/ˈbeɪsmənt əˈpɑːrtmənt/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "地下室公寓",
+      "en": "an apartment located in the basement of a building",
+      "excerpt": "officials urged people living in basement apartments to move to higher floors.",
+      "example_cn": "官员敦促住在地下室公寓的人搬到更高的楼层。"
+    },
+    {
+      "word": "record rainfall",
+      "phonetic": "/ˈrekɔːrd ˈreɪnfɔːl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "创纪录的降雨量",
+      "en": "the highest amount of rain ever recorded in a given period",
+      "excerpt": "Record rainfall yesterday.",
+      "example_cn": "昨天创下了降雨量纪录。"
+    },
+    {
+      "word": "wildfire smoke",
+      "phonetic": "/ˈwaɪldfaɪər smoʊk/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "野火烟雾",
+      "en": "smoke produced by wildfires",
+      "excerpt": "All the wildfire smoke infiltrating the Midwest.",
+      "example_cn": "所有野火烟雾正在渗入中西部。"
+    },
+    {
+      "word": "air quality",
+      "phonetic": "/er ˈkwɑːləti/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "空气质量",
+      "en": "the degree to which the air is clean or polluted",
+      "excerpt": "air quality today looking much better at the stadium.",
+      "example_cn": "今天体育场的空气质量看起来好多了。"
+    },
+    {
+      "word": "tornado",
+      "phonetic": "/tɔːrˈneɪdoʊ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "龙卷风",
+      "en": "a violent storm with very strong winds that move in a circle",
+      "excerpt": "even an isolated tornado can't be ruled out.",
+      "example_cn": "甚至不能排除孤立的龙卷风。"
+    },
+    {
+      "word": "tropics",
+      "phonetic": "/ˈtrɒpɪks/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "热带地区",
+      "en": "the region of the Earth near the equator",
+      "excerpt": "to the south of their trouble in the tropics as well.",
+      "example_cn": "在南方，热带地区也有麻烦。"
+    },
+    {
+      "word": "hurricane hunters",
+      "phonetic": "/ˈhʌrɪkeɪn ˈhʌntərz/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "飓风猎人",
+      "en": "aircraft that fly into hurricanes to collect data",
+      "excerpt": "The hurricane hunters with NOAA going to be flying into the system.",
+      "example_cn": "NOAA的飓风猎人将飞入该系统。"
+    },
+    {
+      "word": "rainmaker",
+      "phonetic": "/ˈreɪnmeɪkər/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "带来降雨的事物",
+      "en": "something that causes or brings rain",
+      "excerpt": "regardless of development or not, it's a rainmaker just along the coastline.",
+      "example_cn": "无论是否发展，它都是沿海地区的降雨制造者。"
+    },
+    {
+      "word": "isolated accumulations",
+      "phonetic": "/ˈaɪsəleɪtɪd əˌkjuːmjəˈleɪʃnz/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "局部累积",
+      "en": "rainfall amounts that occur in isolated areas",
+      "excerpt": "that could lead to some isolated accumulations.",
+      "example_cn": "可能导致一些局部累积。"
+    },
+    {
+      "word": "extradition",
+      "phonetic": "/ˌekstrəˈdɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "引渡",
+      "en": "the act of sending a person accused of a crime to another country for trial",
+      "excerpt": "The Tate brothers have been arrested in the U.S. and are facing extradition to the U.K.",
+      "example_cn": "泰特兄弟在美国被捕，面临被引渡到英国。"
+    },
+    {
+      "word": "sex trafficking",
+      "phonetic": "/seks ˈtræfɪkɪŋ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "性贩卖",
+      "en": "the illegal trade of people for sexual exploitation",
+      "excerpt": "British prosecutors accused the brothers of rape, sex trafficking, and other offenses.",
+      "example_cn": "英国检察官指控兄弟俩强奸、性贩卖和其他罪行。"
+    },
+    {
+      "word": "cyclospora contamination",
+      "phonetic": "/ˌsaɪkləˈspɔːrə kənˌtæmɪˈneɪʃn/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "环孢子虫污染",
+      "en": "contamination with the parasite Cyclospora",
+      "excerpt": "Taylor Farms is recalling iceberg lettuce due to potential cyclospora contamination.",
+      "example_cn": "Taylor Farms因潜在的环孢子虫污染召回冰山生菜。"
+    },
+    {
+      "word": "cyclosporiasis outbreak",
+      "phonetic": "/ˌsaɪkləspəˈraɪəsɪs ˈaʊtbreɪk/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "环孢子虫病爆发",
+      "en": "an outbreak of the disease caused by Cyclospora",
+      "excerpt": "linked to the cyclosporiasis outbreak in the Midwest.",
+      "example_cn": "与中西部环孢子虫病爆发有关。"
+    },
+    {
+      "word": "data center",
+      "phonetic": "/ˈdeɪtə ˈsentər/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "数据中心",
+      "en": "a facility used to house computer systems and associated components",
+      "excerpt": "protest against the building of data centers took place across the country.",
+      "example_cn": "反对建设数据中心的抗议活动在全国范围内发生。"
+    },
+    {
+      "word": "artificial intelligence",
+      "phonetic": "/ˌɑːrtɪˈfɪʃl ɪnˈtelɪdʒəns/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "人工智能",
+      "en": "the simulation of human intelligence by machines",
+      "excerpt": "supporters argued these facilities are vital to expanding technology like artificial intelligence.",
+      "example_cn": "支持者认为这些设施对于扩展人工智能等技术至关重要。"
+    },
+    {
+      "word": "delegate selection process",
+      "phonetic": "/ˈdelɪɡət sɪˈlekʃn ˈprɑːses/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "代表选举过程",
+      "en": "the process of choosing delegates for a convention",
+      "excerpt": "Troy Jackson dominated the first day of Maine's two-day delegate selection process.",
+      "example_cn": "Troy Jackson在缅因州为期两天的代表选举过程的第一天占据主导地位。"
+    },
+    {
+      "word": "blue-collar logger",
+      "phonetic": "/bluː ˈkɑːlər ˈlɒɡər/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "蓝领伐木工",
+      "en": "a working-class person who cuts down trees for a living",
+      "excerpt": "The blue-collar logger and former state Senate president captured a large majority of the delegates.",
+      "example_cn": "这位蓝领伐木工和前州参议院议长赢得了绝大多数代表的支持。"
+    },
+    {
+      "word": "progressive message",
+      "phonetic": "/prəˈɡresɪv ˈmesɪdʒ/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "进步主义信息",
+      "en": "a political message advocating for social reform",
+      "excerpt": "with his progressive message.",
+      "example_cn": "凭借他的进步主义信息。"
+    },
+    {
+      "word": "corporate price gouging",
+      "phonetic": "/ˈkɔːrpərət praɪs ˈɡaʊdʒɪŋ/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "企业价格欺诈",
+      "en": "the practice of charging excessively high prices by corporations",
+      "excerpt": "I believe that we can take on corporate price gouging and lower costs for working families.",
+      "example_cn": "我相信我们可以应对企业价格欺诈，降低工薪家庭的成本。"
+    },
+    {
+      "word": "unionize",
+      "phonetic": "/ˈjuːniənaɪz/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "成立工会",
+      "en": "to form or join a labor union",
+      "excerpt": "workers deserve the freedom to unionize without intimidation, retaliation, or fear.",
+      "example_cn": "工人有权在不受恐吓、报复或恐惧的情况下成立工会。"
+    },
+    {
+      "word": "intimidation",
+      "phonetic": "/ɪnˌtɪmɪˈdeɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "恐吓",
+      "en": "the act of frightening or threatening someone",
+      "excerpt": "without intimidation, retaliation, or fear.",
+      "example_cn": "没有恐吓、报复或恐惧。"
+    },
+    {
+      "word": "retaliation",
+      "phonetic": "/rɪˌtæliˈeɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "报复",
+      "en": "action taken in return for an injury or offense",
+      "excerpt": "without intimidation, retaliation, or fear.",
+      "example_cn": "没有恐吓、报复或恐惧。"
+    },
+    {
+      "word": "commanding position",
+      "phonetic": "/kəˈmændɪŋ pəˈzɪʃn/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "主导地位",
+      "en": "a position of control or advantage",
+      "excerpt": "he's in a really, really commanding position.",
+      "example_cn": "他处于非常主导的地位。"
+    },
+    {
+      "word": "SNAP-nominating race",
+      "phonetic": "/snæp ˈnɒmɪneɪtɪŋ reɪs/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "快速提名竞选",
+      "en": "a rapid nomination process",
+      "excerpt": "all the candidates in this SNAP-nominating race have tried to hitch themselves to Platner's progressive policies.",
+      "example_cn": "所有参加这次快速提名竞选的候选人都试图与Platner的进步政策挂钩。"
+    },
+    {
+      "word": "hitch themselves to",
+      "phonetic": "/hɪtʃ ðəmˈselvz tuː/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "依附于；与...挂钩",
+      "en": "to attach oneself to something or someone for support or advantage",
+      "excerpt": "all the candidates in this SNAP-nominating race have tried to hitch themselves to Platner's progressive policies.",
+      "example_cn": "所有参加这次快速提名竞选的候选人都试图与Platner的进步政策挂钩。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "The U.S. launched another round of strikes on Iran Saturday in retaliation for the death of two U.S. soldiers.",
+      "cn": "美国周六对伊朗发动了又一轮打击，以报复两名美国士兵的死亡。",
+      "structure": "主谓宾 + 时间状语 + 目的状语",
+      "analysis": "主语：The U.S.；谓语：launched；宾语：another round of strikes；时间状语：on Iran Saturday；目的状语：in retaliation for the death of two U.S. soldiers。"
+    },
+    {
+      "en": "CENTCOM says it targeted Islamic Revolutionary Guard Corps forces behind attacks that killed two U.S. service members in Jordan on Friday.",
+      "cn": "中央司令部表示，其目标是杀害两名美国军人的袭击背后的伊斯兰革命卫队部队。",
+      "structure": "主谓宾 + 宾语从句（主谓宾 + 定语从句）",
+      "analysis": "主句：CENTCOM says；宾语从句：it targeted Islamic Revolutionary Guard Corps forces；定语从句：that killed two U.S. service members in Jordan on Friday 修饰 attacks。"
+    },
+    {
+      "en": "CNN has confirmed that David Brouillette was among the officers at the scene, but CNN has not independently confirmed that Brouillette was the one who discharged his weapon.",
+      "cn": "CNN已确认David Brouillette是现场警官之一，但CNN尚未独立确认Brouillette是开枪的人。",
+      "structure": "并列句，每个分句包含宾语从句",
+      "analysis": "第一分句：CNN has confirmed that...；第二分句：CNN has not independently confirmed that...；第二个that从句中包含定语从句who discharged his weapon修饰the one。"
+    },
+    {
+      "en": "What has emerged is a troubling picture that raises serious questions about how ICE is doing its training and its officer vetting as they race to meet the demands of the Trump administration's immigration crackdown.",
+      "cn": "浮现出的是一幅令人不安的画面，它引发了关于ICE如何进行培训和官员审查的严重质疑，因为他们急于满足特朗普政府移民打击行动的要求。",
+      "structure": "主语从句 + 系表结构 + 定语从句 + 状语从句",
+      "analysis": "主语从句：What has emerged；系动词：is；表语：a troubling picture；定语从句：that raises serious questions about...；状语从句：as they race to meet...。"
+    },
+    {
+      "en": "Brouillette's ex-wives also described a history of alleged domestic abuse and intimidation, all of this in court filings, where he denies the allegations.",
+      "cn": "Brouillette的前妻们还描述了涉嫌家庭虐待和恐吓的历史，所有这些都在法庭文件中，他在文件中否认了这些指控。",
+      "structure": "主谓宾 + 同位语 + 定语从句",
+      "analysis": "主句：Brouillette's ex-wives also described a history of alleged domestic abuse and intimidation；同位语：all of this in court filings；定语从句：where he denies the allegations 修饰 court filings。"
+    },
+    {
+      "en": "The attack follows deadly strikes by the Ukrainians deep into Russia, destroying two e-commerce warehouses, one of them in Moscow.",
+      "cn": "此次袭击之前，乌克兰人深入俄罗斯境内发动了致命打击，摧毁了两个电子商务仓库，其中一个在莫斯科。",
+      "structure": "主谓宾 + 伴随状语",
+      "analysis": "主语：The attack；谓语：follows；宾语：deadly strikes；伴随状语：destroying two e-commerce warehouses, one of them in Moscow。"
+    },
+    {
+      "en": "This is the same company that supplied shredded lettuce to Taco Bell restaurants that have been linked to the cyclosporiasis outbreak in the Midwest.",
+      "cn": "这家公司正是向塔可钟餐厅供应切碎生菜的公司，这些餐厅与中西部环孢子虫病爆发有关。",
+      "structure": "主系表 + 定语从句（嵌套定语从句）",
+      "analysis": "主句：This is the same company；定语从句1：that supplied shredded lettuce to Taco Bell restaurants；定语从句2：that have been linked to the cyclosporiasis outbreak in the Midwest 修饰 Taco Bell restaurants。"
+    },
+    {
+      "en": "Troy Jackson dominated the first day of Maine's two-day delegate selection process on Saturday, capturing a large majority of the delegates with his progressive message.",
+      "cn": "Troy Jackson在周六缅因州为期两天的代表选举过程的第一天占据主导地位，凭借他的进步主义信息赢得了绝大多数代表的支持。",
+      "structure": "主谓宾 + 伴随状语",
+      "analysis": "主语：Troy Jackson；谓语：dominated；宾语：the first day of Maine's two-day delegate selection process；伴随状语：capturing a large majority of the delegates with his progressive message。"
+    },
+    {
+      "en": "I believe that we can take on corporate price gouging and lower costs for working families.",
+      "cn": "我相信我们可以应对企业价格欺诈，降低工薪家庭的成本。",
+      "structure": "主谓宾 + 宾语从句",
+      "analysis": "主句：I believe；宾语从句：that we can take on corporate price gouging and lower costs for working families。"
+    },
+    {
+      "en": "All the candidates in this SNAP-nominating race have tried to hitch themselves to Platner's progressive policies and his sort of organizing momentum.",
+      "cn": "所有参加这次快速提名竞选的候选人都试图与Platner的进步政策和他的组织势头挂钩。",
+      "structure": "主谓宾 + 不定式短语",
+      "analysis": "主语：All the candidates；谓语：have tried；宾语：to hitch themselves to Platner's progressive policies and his sort of organizing momentum。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "U.S.-Iran Conflict",
+      "content": "美国与伊朗之间的军事冲突升级，美国对伊朗进行多轮打击，伊朗则攻击美国盟友。涉及霍尔木兹海峡的战略重要性、伊斯兰革命卫队、以及美国在中东的军事存在。",
+      "keywords": "U.S. strikes, Iran, retaliation, CENTCOM, Islamic Revolutionary Guard Corps, Strait of Hormuz, Jordan, Kuwait, Bahrain"
+    },
+    {
+      "title": "Russia-Ukraine War",
+      "content": "俄罗斯对乌克兰发动大规模导弹和无人机袭击，乌克兰则深入俄罗斯境内打击后勤设施。战争持续四年多，双方互相攻击，局势不断升级。",
+      "keywords": "Russia, Ukraine, ballistic missile, drone attack, Kyiv, Zelenskyy, escalation, e-commerce warehouses"
+    },
+    {
+      "title": "ICE Officer Controversy",
+      "content": "ICE官员David Brouillette在缅因州枪杀一名移民，CNN调查发现其有头部受伤史、认知问题、家庭虐待指控等背景，引发对ICE培训和审查程序的质疑。",
+      "keywords": "ICE, officer, shooting, Maine, David Brouillette, cognitive issues, domestic abuse, vetting, immigration crackdown"
+    },
+    {
+      "title": "World Cup Final 2026",
+      "content": "2026年世界杯决赛在西班牙和阿根廷之间进行，比赛在新泽西州东卢瑟福举行。门票价格高昂，安保级别最高，同时纽约地区受加拿大野火烟雾影响。",
+      "keywords": "World Cup final, Spain, Argentina, Lionel Messi, Lamine Yamal, security, SEAR 1, ticket prices, wildfire smoke"
+    },
+    {
+      "title": "New York Flash Flooding",
+      "content": "纽约在经历高温和野火烟雾后遭遇暴洪，部分地区降雨量创纪录，导致道路和交通系统问题。官员敦促地下室公寓居民转移。",
+      "keywords": "flash flooding, New York, record rainfall, basement apartment, transit system, wildfire smoke"
+    },
+    {
+      "title": "Tate Brothers Arrest",
+      "content": "社交媒体影响者Andrew和Tristan Tate在美国被捕，面临英国引渡请求，被指控强奸、性贩卖等罪行。",
+      "keywords": "Tate brothers, arrest, extradition, U.K., rape, sex trafficking, Miami"
+    },
+    {
+      "title": "Taylor Farms Lettuce Recall",
+      "content": "Taylor Farms因潜在的环孢子虫污染召回冰山生菜，涉及27个州，与中西部环孢子虫病爆发有关。",
+      "keywords": "Taylor Farms, recall, iceberg lettuce, cyclospora contamination, cyclosporiasis outbreak, Taco Bell"
+    },
+    {
+      "title": "Maine Senate Race",
+      "content": "缅因州民主党在Graham Platner退出后快速提名候选人，Troy Jackson在代表选举中领先，其进步主义信息获得支持。",
+      "keywords": "Maine, Senate, Troy Jackson, delegate selection, progressive, Platner, SNAP-nominating"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nU.S. Wraps Up 8th Night Of Strikes Against Iran; Kuwait Army Intercepting Missile, Drone Attacks; Court Documents Reveal ICE Office Connected To Fatal Maine Shooting Was Accused Of Abuse By Two Ex- Wives; Spain And Argentina Prepare To Face Off In World Cup Final; Flash Flooding Follows Days Of Smoke & Heat In New York. 2 U.S. Service Members Dead, 1 Missing After Friday Attack; Russia Launches Massive Missile and Drone Attack Against Ukraine; Jackson Takes Lead in Race to Replace Platner in Maine. Aired 7-8a ET\n\nAired July 19, 2026 - 07:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nDANNY FREEMAN, CNN HOST: Welcome back to CNN This Morning. Here's what you need to know today. First up, the U.S. launched another round of strikes on Iran Saturday in retaliation for the death of two U.S. soldiers. And happening now, we're learning of new missile attacks by Iran on U.S. allies. We've got that coming up in a live report.\n\nAnd we're also following new escalations in the war between Russia and Ukraine. Russia launching a major ballistic missile attack on Kyiv. New information and video of the damage is coming in.\n\nAnd we have more information about one of the officers connected to that deadly ICE shooting in Maine back on Monday. The new details CNN uncovered about his past coming up.\n\nPlus, after more than 100 matches, thrilling wins and heartbreaking losses, it is all down to this, the World Cup final. Let's take a live look at the stadium where Spain and Argentina will face off later today. We're going to take you there live coming up.\n\nVery good morning to you. It is Sunday, July 19th. Thank you so much for joining us. I'm Danny Freeman in for Victor Blackwell.\n\nWe begin with breaking news. The U.S. embassy in Jordan says the air and seaports in Aqaba are being evacuated. They're citing a, quote, \"specific and credible threat.\"\n\nNow, this right here happened just hours after U.S. Central Command posted this video. CENTCOM says it targeted Islamic Revolutionary Guard Corps forces behind attacks that killed two U.S. service members in Jordan on Friday. One service member is still missing. Iranian state news says explosions were heard in Bandar Abbas and in the Strait of Hormuz.\n\nCNN's Nic Robertson joins us now. Nic, what more are we learning this morning as this conflict intensifies?\n\nNIC ROBERTSON, CNN INTERNATIONAL DIPLOMATIC EDITOR: Yes, this announcement by the Jordan -- excuse me -- by Jordanian officials that the U.S. Embassy in Jordan is also putting out about warning U.S. citizens not to go to the international airport or the seaport in Aqaba, which is right in the very south of Jordan on the Red Sea.\n\nThe Red Sea port there is is a new very new development. Specific and credible threat now just across the border into Israel from Aqaba is Eilat in Israel. And we know that Eilat in the past has been targeted by missiles that have been fired believed by the Houthis. Drones have been fired. Their Iran's missiles have also impacted just across the border in Israel in the earlier phase of the war back in March this year.\n\nBut it's not clear why Jordan is putting out these alerts about the airport and seaport in Aqaba. And it's worth noting as well that the Aqaba is quite some distance, significant distance from any of the air bases inside of Jordan that Iran says it's been targeting over the past week. So this is a significant development. It speaks to the broader warning that the State Department has put out for American citizens in this region.\n\nAt the moment, the Iranians, their government is saying or the state media in Iran is saying that the United States targeted one of their civilian nuclear facilities in the southwest of Iran, about 50, 80 miles over the border from Kuwait. So right in the southwest of Iran, Iranians are saying that the U.S. targeted that overnight.\n\nWe know that Qeshm Island, we know that Bandar Abbas in Iran were targets of U.S. Air Force overnight trying to get missile storage sites, drone storage sites, maritime sort of communication nodes along the Strait of Hormuz. But this morning as well, the Iranians targeting Kuwait again, targeting Bahrain again, the warning sirens going off in both of those countries.\n\nSo at the moment, this threat in Jordan, of course, that's the country where two U.S. service personnel, CENTCOM announced yesterday had been sadly killed in an Iranian strike at -- their one person, one service personnel. A person still missing in that attack. Four injured taken to hospital now released from hospital in Jordan. But it really does put Jordan very much in the crosshairs of Iran's actions against the U.S. interests in this region right now.\n\nFREEMAN: Yes. Well said. All eyes on Jordan as this conflict again seems to be intensifying this weekend.\n\nNic Robertson, thank you very much. Appreciate your reporting.\n\nSwitching gears now, we have new details that are emerging about an ICE officer connected to the fatal shooting of a man in Maine. And we want to warn you, some of the video in this report may be disturbing. Now, CNN has confirmed that David Brouillette was among the officers at the scene. But CNN has not independently confirmed that Brouillette was the one who discharged his weapon.\n\nCNN investigation has uncovered court records showing Brouillette previously reported lingering cognitive issues after a serious head injury and revealing other questions about his background. CNN's Gloria Pazmino takes a closer look.\n\nGLORIA PAZMINO, CNN NATIONAL CORRESPONDENT: That's right. And we're getting a much fuller picture about who this officer is now that we have confirmed that David Brouillette was among the officers in the scene in Biddeford, Maine, where an ICE officer fatally shot, Joan Sebastian Duran Guerrero. This is all according to two of his ex-wives who reviewed photos and spoke with CNN.\n\nNow, we should mention that CNN has not independently confirmed whether Brouillette was the officer who discharged the weapon killing Duran Guerrero. And investigators have not publicly identified the officer who shot the victim. Federal sources have separately confirmed to CNN that Brouillette is an ICE officer. The Department of Homeland Security has declined to comment on the identity of the officer, and they have said that the officer used deadly force because they feared for public safety.\n\nNow, we have been trying to gather details to get a fuller picture about who Brouillette is. My colleagues Michael Williams, Kurt Devine and Priscilla Alvarez have been combing through public documents. And what has emerged is a troubling picture that raises serious questions about how ICE is doing its training and its officer vetting as they race to meet the demands of the Trump administration's immigration crackdown.\n\nOne of Brouillette's ex-wives and one of his daughters also told CNN that he contacted them days after the shooting and said that he had opened fire. Both said he told them that he thought the shooting was justified.\n\nNow, here's some of what we have learned. In 2023, Brouillette told a court in Maine that he had suffered lingering cognitive issues after he suffered a serious head injury when a steel beam fell on his head during a training exercise for a firefighting certificate. He sued the Maine Community College system because of that injury, but it was just two years after he filed that lawsuit that he started working for ICE.\n\nBrouillette's ex-wives also described a history of alleged domestic abuse and intimidation, all of this in court filings, where he denies the allegations. And we have not been able to confirm any criminal convictions or charges. We also reached out to Brouillette and he did not respond to several requests for comments.\n\nWe should mention Duran Guerrero's killing was the second time that an ICE officer shot and killed an immigrant behind the wheel in the span of just a week. And it's the fourth killing this year alone by federal immigration authorities.\n\nGloria Pazmino, CNN, New York.\n\nFREEMAN: All right, Gloria, thank you for that reporting. All right. Still ahead, a brutal night across Ukraine as Russia unleashed its biggest missile attacks of the war. We have details ahead.\n\nPlus, Taylor Farms is expanding its recall of iceberg linked to diarrhea outbreak. We'll tell you which products to look out for.\n\nAnd let's take a live look now at East Rutherford, New Jersey, where just hours from now, Argentina and Spain are going to battle it out in the World Cup final. We're going to show you what to expect after a quick break.\n\nFREEMAN: The time has come. After more than 100 matches, two teams are going to battle it out in today's FIFA World Cup final. Spain versus Argentina, and two soccer giants will meet on the pitch. Argentina's Lionel Messi versus Spain's Lamine Yamal.\n\nLeigh Waldman is live outside of the New York-New Jersey stadium where these games are taking place. Leigh, the excitement is palpable. What are we expecting today?\n\nLEIGH WALDMAN, CNN CORRESPONDENT: Danny, so much excitement in the air. We just heard them testing the mic system inside and, you know, it gets your heart pumping. We're ready to see these two teams face off.\n\nAnd they play very different styles on the pitch, Spain and Argentina. People are comparing it to orchestra versus heavy metal. We know that Argentina will be very aggressive on the pitch.\n\nMeanwhile, Spain is hoping to play a complex passing game and take any advantage that they can to try and score on Argentina to make this match even more special. It's the very first time in a World Cup final we are seeing it contested by the champions of the world versus the champions of England. So many fans coming here trying to take in a moment out of what is going to be an incredible match here, Danny.\n\nFREEMAN: I'm curious, I know that President Trump is expected to attend today's game. Can you take us through what that means for security for this final?\n\nWALDMAN: Absolutely. So we have heard from FIFA officials and they say they are heavily increasing the security measures that are in place here at the stadium behind us. Not only because of President Donald Trump, but multiple other international dignitaries who are expected to be in attendance today.\n\nThis is a SEAR 1 event. That is the highest level of security coordinated by the FBI, DHS and Secret Service. They're right now are putting in active roadblocks to shut down the traffic around this stadium. Fans who are in attendance today, they can expect to go through extensive TSA style screenings in order to get inside of this stadium.\n\nIt's a no drone zone. If you're coming to this game today, you're being told come hours early ahead of that 3:00 p.m. kickoff.\n\nFREEMAN: Wow, that's wild. Meanwhile, Leigh, New York I know has been dealing with a lot of poor air quality conditions from those Canadian wildfires. We were looking at a live picture of the stadium a moment ago.\n\nStill seems a little hazy out there. How is it out there? Is it going to affect the game today? What do you think?\n\nWALDMAN: Just a little bit hazy. But, Danny, we never cheer for weekend rain showers, right? Yesterday was a rainy day in New York City. But that's actually helping with the wildfire smoke that we've been dealing with these last few days.\n\nLast week, very hazy, smelled like a campfire all throughout New York City. Right now, this is a lot better. It's going to be humid. There's still going to be a little bit of smoke in the air. But 80 degrees today when these two teams kick off. So it's going to be a much better day for the players on the pitch but also for the fans who are here to attend.\n\nFREEMAN: All right. Last thing, Leigh. We can't talk about the final without talking about ticket prices. How much is it going to cost for last-minute tickets? Should we get one? Should we get two tickets and go?\n\nWALDMAN: OK, Danny. So I'm going to say our DMs are open. So if anyone is feeling generous and wants to send us some tickets, we can go together. But unless you've been saving up probably your entire life, I don't think you're affording a ticket inside today.\n\nThe cheapest tickets, Joey, my producer, and I were looking this morning, almost $8,000. And that's for a nosebleed seat. If you want to get closer to the action, you're shelling out $20,000, $30,000, even $40,000 for one of these tickets. But they're also offering some bundle packages to include your food and drinks.\n\nWho doesn't want that? $32,000 to $33,000 there. This is an expensive game to go ahead and see. All those fans who are flying into the United States, I don't know where they're getting all this money, man.\n\nFREEMAN: Listen, $32,000, I should hope that you could get at least a hot dog included with that.\n\nLeigh Waldman, thank you so much. Great to see you. Have a great time out there. Looking forward to it.\n\nAll right, to this now. After days of extreme heat and smoke, New Yorkers found themselves actually dealing with a completely different problem, flash flooding. Heavy rain moved through the region yesterday, flooding roads and causing problems on parts of the transit system.\n\nSome neighborhoods actually picked up several inches of rain in just a few hours. Lower Manhattan, along with parts of Brooklyn and Queens, took the hardest hit. And officials urged people living in basement apartments to move to higher floors.\n\nCNN's Melissa Nord joins me now. Melissa, again, the thunderstorms were intense. The lightning, the rain. What can people expect today, though?\n\nMELISSA NORD, CNN METEOROLOGIST: Well, they came down really fast and heavy, Danny. Some of those rainfall amounts in just a matter of 30 minutes. Some places picked up an inch, an inch and a half of rainfall. Record rainfall yesterday.\n\nJFK, Newark, Manhattan picked up over three inches. Dozens of flooding reports there. But what's good about that system coming yesterday is that we got the rain out of here and the smoke out of here. The front's to the south now. All the wildfire smoke infiltrating the Midwest. So air quality today looking much better at the stadium.\n\nThree o'clock kickoff will be in the low 80s. And humidity is also lower, making it a lot more comfortable outside. But as that front sags a little bit south, two areas of concern for severe weather, the first of which over the Carolinas, level two risk of severe weather, damaging winds, even an isolated tornado can't be ruled out.\n\nThat chance of damaging wind stretches into Atlanta. We'll get that daytime heating going. That helps to bring in a new round of heavy thunderstorms. Some of those could lead to flash flooding and then to the south of their trouble in the tropics as well.\n\nThis area in the eastern Gulf now has a 60 percent chance of development. The hurricane hunters with NOAA going to be flying into the system in this 91 L to investigate what the winds looking like, regardless of development or not, it's a rainmaker just along the coastline from the Big Bend Apalachicola down to Tampa.\n\nWe'll see some rounds of heavy rain moving on shore that could lead to some isolated accumulations. That could be 4 inches with some flash flooding. Danny?\n\nFREEMAN: Melissa Nord, thank you so much for that forecast. Appreciate it.\n\nAll right. Coming up in just a moment, a duo of controversial influencers is back in legal trouble. The Tate brothers have been arrested in the U.S. and are facing extradition to the U.K. We're going to explain the accusations against them.\n\nPlus, the U.S. military carries out another round of strikes on Iran as details of the deaths of two U.S. service members are revealed. Stay with us.\n\nFREEMAN: This just in. The Jordanian government is now denying there were evacuations of air or sea ports there. And this comes after the U.S. embassy said they were evacuated due to a credible threat.\n\nThe U.S. has now bombed Iran for an eighth straight night. Now targeting facilities for air and coastal defenses and weapons storage sites, according to U.S. Central Command. And two American soldiers were killed following Iranian strikes in Jordan Friday and one is still missing.\n\nJoining me now is Major John Spencer, chair of War Studies for the Madison Policy Forum. He's also the author of the upcoming book, \"20 Times I Almost Died.\" Major Spencer, thank you so much for joining us this morning on a hard weekend for our service members.\n\nLet's start there, though. We still don't have a lot of information about these attacks in Jordan that killed those two service members. But what's your perspective here? What do you think this means for next steps in this war?\n\nMAJOR JOHN SPENCER (RET,), CHAIR OF WAR STUDIES, MADISON POLICY FORUM: I think that it means that, one, we're going to mourn our losses but understand that the greatest thing we can do, in my opinion, to our service members is to accomplish the mission and finish the job. We have an integrated air defense system on all of our bases, but Iran's continuing to attack all of the countries, I think seven countries in seven days, where U.S. forces or not, because they're attacking desalination plants in Kuwait and other locations, striking back at the U.S. attacks now on eight consecutive nights.\n\nFREEMAN: What do you believe this says about the vulnerability of our troops or our military installations in the region right now?\n\nSPENCER: I mean, I think we have very strong defenses, but there is no perfect system, even what we've seen in Israel that has, you know, its Iron Dome and other systems. If you can still get about 1 percent, and that's what Iran is getting, depending on where we're talking about, that's still something's going to get through and adjustments are made, and they've been using different types of tactics, you know, different missiles of the capabilities they have left.\n\nFREEMAN: Major, I'm curious, from your perspective, is the U.S. right now underestimating the capabilities of Iran and these proxies in the region? Because we've been told time and time again that their military has been seriously weakened, and yet we see instances like this.\n\nSPENCER: No, I don't think we underestimate them, the U.S. military, and I think we're moving more assets into the region to stop their ability to influence the Strait of Hormuz. That's what we're really seeing now is the Battle of Hormuz being fought through and U.S. forces in different areas of these countries. Of course, they're in harm's way, right? That's what our troops are signed up for, but I do think we're underestimating them. And even if you destroyed a vast majority of their capabilities, they still have capabilities. It's a large country that was invested in these capabilities, drones, missiles, for a long time to be able to do just this.\n\nSo I don't think it's underestimating. I mean, it's the will that is the problem at this point, not the capability, although we don't like seeing any capability being projected out of Iran, but that's the importance of the mission is that this is about changing the regime's behavior, not a regime change operation, and they're vastly different.\n\nFREEMAN: Major, from your view, are we closer to peace today? I mean, it seemed like for a moment there, there were signings of MOUs, there were steps towards ceasefires, and then it seems like in the past week plus or so, certainly this weekend, we've taken several steps backwards.\n\nSPENCER: Yes, I think we all had a -- or had a hope that the memorandum of understanding, which is an agreement to have a conversation, would lead to a negotiated settlement of the operation. I mean, I don't think we're closer now, of course.\n\nAccording to President Trump, the ceasefire is over. The MOU, despite both sides maybe thinking that it said something different in -- especially in relation to the Strait of Hormuz, I don't think we're closer to peace at this moment and that we will likely have to accelerate the operation in order to achieve that goal of getting to the negotiation table.\n\nIt's always going to end at a negotiation table, but I do believe that the region and the United States is safer today. They're not closer to a nuclear weapon. Their capabilities to project power have been drastically impacted.\n\nFREEMAN: Major, the Pentagon has mostly stopped doing media briefings now and updates regularly on the war, so reporters have not really been able to ask questions of the administration about the latest objectives or where things stand. I'm just curious, what do you make of that? Do you think that's an important thing that should be happening more frequently?\n\nSPENCER: Absolutely. I'm definitely a big fan of communicating at all levels, so both from the White House Press Corps Secretary and the Pentagon. But I think we're in this situation where they do want the negotiations to continue, and according to President Trump and others, that they are talking to people in Iran, and people want that to work without the statements, even though the new supreme leader made a statement, although nobody's seen him, on what he thinks about the negotiation and memorandum understanding. I think we're in a sensitive situation, and hopefully we do see those briefings, because I do think they're a daily to have them, is important.\n\nDANNY FREEMAN, CNN ANCHOR: And last question for me, Major, is, I know it's hard to project into the future, especially since we're only still a few months into this conflict, but is this looking more and more like a forever war to you?\n\nSPENCER: No, not at all. And I use that term very, I don't use that often, because I understand this isn't a forever war, a nation- building war, we're going to overthrow the regime and institute a democracy. This is a limited war. Four limited objectives, I think, are worth fighting for, in my opinion, non-nuclear proliferation and the freedom of navigation, which would impact the U.S. economy from the gas prices to fertilizer across the globe if Iran was allowed to do what they are trying to say that they want to do, which is control the Strait of Hormuz.\n\nI think it's worth fighting for and achieving this limited goal, but not a forever war. And although we are, you know, whether you count the entire time, five months into it, that there has been progress made. And I do believe that there are people willing to come to terms, but it has to be on these very non-negotiable aspects of no nuclear weapons and freedom of navigation.\n\nFREEMAN: Major John Spencer, thank you very much for your insight and perspective this morning. Really do appreciate it.\n\nSPENCER: Thanks, Danny.\n\nFREEMAN: All right. To this now, Russia just unleashed a massive ballistic missile attack against Ukraine, one of the largest since the war began over four years ago. More than 40 missiles and 120 drones were fired overnight by the Russians, most of them targeting the capital of Kyiv. Rescue operations are underway at this hour. And the attack follows deadly strikes by the Ukrainians deep into Russia, destroying two e-commerce warehouses, one of them in Moscow. At least eight people were killed there.\n\nCNN's Barbie Latza Nadeau has been tracking the latest developments. Barbie, this war really seems to be escalating at a dangerous pace at this point.\n\nBARBIE LATZA NADEAU, CNN CONTRIBUTOR: Yes. You know, this was really a brutal attack against Ukrainian capital. Forty of those missiles raining down in less than two hours, sparking fires in residential areas and in a shopping area and in a mall. But this does come on the heels of those twin drone attacks deep into Russia, including one of these centers near Moscow.\n\nNow, eight people were killed in that attack. And the Ukraine says that those were logistical centers that were used in drone production and drone. Let's listen to what President Volodymyr Zelenskyy had to say about it.\n\nVOLODYMYR ZELENSKYY, UKRAINIAN PRESIDENT (through translator): These were Russian logistics facilities, including warehouses supplying equipment for the war effort, such as navigation systems, components used in drone production and other supplies for the Russian military. Our Ukrainian weapons also struck another oil facility and targets in the waters of the Sea of Azov and the Black Sea. This was an important operation. There will be more.\n\nNADEAU: And what's really important about this, and I think something to understand, is this is a change of strategy for Ukraine. Previously, they had only attacked energy infrastructure and maritime assets. To go so deep into the country and attack an area that is for e-commerce, you know, distribution is a change.\n\nNow, whether or not that is going to change Russia's approach is unknown yet. And whether it's going to bring them closer to the negotiating table. Clearly, Russians saw the black pillowing smoke across their country on Saturday. Whether that's going to make any difference in the negotiation remains to be seen.\n\nBut all eyes here in Europe are definitely on what happens next, and if this escalation spreads beyond Ukraine. Danny.\n\nFREEMAN: They certainly are. All right. Barbie Latza Nadeau, thank you very much for that reporting. Really do appreciate it.\n\nAll right. Let's check in on some other headlines this morning. We're learning more about the arrest of social media influencers Andrew and Tristan Tate. U.S. Marshals arrested the brothers yesterday in Miami on an extradition request from the U.K. British prosecutors accused the brothers of rape, sex trafficking, and other offenses tied to an investigation involving multiple alleged victims. They're expected to appear in federal court in Miami this week as the extradition process moves forward. The brothers have repeatedly denied wrongdoing.\n\nAnd produce supplier, Taylor Farms, is recalling iceberg lettuce shipped to 27 states due to potential cyclospora contamination. This is the same company that supplied shredded lettuce to Taco Bell restaurants that have been linked to the cyclosporiasis outbreak in the Midwest. The recall covers lettuce distributed between June 29th and July 16th. If you had lettuce to Taco Bell restaurants that have been linked to the cyclosporiasis outbreak in the Midwest, the recall covers lettuce distributed between June 29th and July 16th. If you have it, the company says, you should throw it away immediately.\n\nAnd protest against the building of data centers took place across the country on Saturday. A handful of people protested over a highway overpass in Berkeley, California. Opponents worry about noise, pollution, and strained resources. However, supporters argued these facilities are vital to expanding technology like artificial intelligence while boosting local economies.\n\nStill ahead, Maine Democrats begin the process of replacing former Senate candidate, Graham Platner. We're going to dig into the race to the nomination.\n\nAnd if you're heading out, remember, you can stream our show from anywhere in the U.S. right from the CNN app. You can also always go to cnn.com/watch. We'll be right back. (COMMERCIAL BREAK)\n\nFREEMAN: Democrats in Maine have been scrambling to find a replacement for former U.S. Senate nominee Graham Platner and it looks like they may have found one. Troy Jackson dominated the first day of Maine's two-day delegate selection process on Saturday. The blue- collar logger and former state Senate president captured a large majority of the delegates with his progressive message. Take a listen.\n\nTROY JACKSON (D), MAINE SENATE CANDIDATE: I believe that we can take on corporate price gouging and lower costs for working families. I believe we can build housing that people can afford. I believe that workers deserve the freedom to unionize without intimidation, retaliation, or fear.\n\nFREEMAN: For more on this, let's bring in Michael Shepherd. He's a reporter with the Banger Daily News. Michael, thank you so much for getting up early and chatting with us. Let's start here. Is this race looking competitive anymore or is Jackson actually in a super strong position after this weekend?\n\nMICHAEL SHEPHERD, POLITICS EDITOR AND REPORTER, BANGOR DAILY NEWS: No, it's not looking competitive. He won 290 by my count of the first 319 delegates that were decided on Saturday. We'll have the rest awarded in county caucuses today and this is to a state convention that happens next weekend in Bangor. So, that was a dominant share by any measure. He's now, again by my count, which I think is conservative, only 11 delegates shy of hitting that 301.\n\nNow, it's worth pointing out that these delegates are formally unbound, but these are people who are on his slate or have told me or someone else that they're supporting him. So, he's in a really, really commanding position. I would be surprised if his opponents, if this goes the way it went yesterday, are in the race after today.\n\nFREEMAN: It's remarkable how quickly all of this really came together after Platner's exit. I'm curious though, will Jackson's former support of Platner weigh him down at all if he advances to the general? What do you think?\n\nSHEPHERD: Yes, this is a tough balance for him to strike in this race. He is the closest thing to a one-to-one comparison to Graham Platner. Both are deeply tied to organized labor. Platner ranked Jackson first on his gubernatorial ballot when he was in that primary back in June. Jackson was a really early kind of institutional endorser of Platner early in the race and had a rough relationship with Governor Janet Mills.\n\nSo, they are really, really closely tied. And all the candidates in this SNAP-nominating race have tried to hitch themselves to Platner's progressive policies and his sort of organizing momentum. I think Jackson picked up a lot of the support from the people on the ground who were really behind Platner. So, it's a delicate balance because these candidates want to bring in the progressive movement that Platner created but leave him beh",
+  "segments": [
+    {
+      "seg": 2,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-19/segment/02",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nU.S. Wraps Up 8th Night Of Strikes Against Iran; Kuwait Army Intercepting Missile, Drone Attacks; Court Documents Reveal ICE Office Connected To Fatal Maine Shooting Was Accused Of Abuse By Two Ex- Wives; Spain And Argentina Prepare To Face Off In World Cup Final; Flash Flooding Follows Days Of Smoke & Heat In New York. 2 U.S. Service Members Dead, 1 Missing After Friday Attack; Russia Launches Massive Missile and Drone Attack Against Ukraine; Jackson Takes Lead in Race to Replace Platner in Maine. Aired 7-8a ET\n\nAired July 19, 2026 - 07:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nDANNY FREEMAN, CNN HOST: Welcome back to CNN This Morning. Here's what you need to know today. First up, the U.S. launched another round of strikes on Iran Saturday in retaliation for the death of two U.S. soldiers. And happening now, we're learning of new missile attacks by Iran on U.S. allies. We've got that coming up in a live report.\n\nAnd we're also following new escalations in the war between Russia and Ukraine. Russia launching a major ballistic missile attack on Kyiv. New information and video of the damage is coming in.\n\nAnd we have more information about one of the officers connected to that deadly ICE shooting in Maine back on Monday. The new details CNN uncovered about his past coming up.\n\nPlus, after more than 100 matches, thrilling wins and heartbreaking losses, it is all down to this, the World Cup final. Let's take a live look at the stadium where Spain and Argentina will face off later today. We're going to take you there live coming up.\n\nVery good morning to you. It is Sunday, July 19th. Thank you so much for joining us. I'm Danny Freeman in for Victor Blackwell.\n\nWe begin with breaking news. The U.S. embassy in Jordan says the air and seaports in Aqaba are being evacuated. They're citing a, quote, \"specific and credible threat.\"\n\nNow, this right here happened just hours after U.S. Central Command posted this video. CENTCOM says it targeted Islamic Revolutionary Guard Corps forces behind attacks that killed two U.S. service members in Jordan on Friday. One service member is still missing. Iranian state news says explosions were heard in Bandar Abbas and in the Strait of Hormuz.\n\nCNN's Nic Robertson joins us now. Nic, what more are we learning this morning as this conflict intensifies?\n\nNIC ROBERTSON, CNN INTERNATIONAL DIPLOMATIC EDITOR: Yes, this announcement by the Jordan -- excuse me -- by Jordanian officials that the U.S. Embassy in Jordan is also putting out about warning U.S. citizens not to go to the international airport or the seaport in Aqaba, which is right in the very south of Jordan on the Red Sea.\n\nThe Red Sea port there is is a new very new development. Specific and credible threat now just across the border into Israel from Aqaba is Eilat in Israel. And we know that Eilat in the past has been targeted by missiles that have been fired believed by the Houthis. Drones have been fired. Their Iran's missiles have also impacted just across the border in Israel in the earlier phase of the war back in March this year.\n\nBut it's not clear why Jordan is putting out these alerts about the airport and seaport in Aqaba. And it's worth noting as well that the Aqaba is quite some distance, significant distance from any of the air bases inside of Jordan that Iran says it's been targeting over the past week. So this is a significant development. It speaks to the broader warning that the State Department has put out for American citizens in this region.\n\nAt the moment, the Iranians, their government is saying or the state media in Iran is saying that the United States targeted one of their civilian nuclear facilities in the southwest of Iran, about 50, 80 miles over the border from Kuwait. So right in the southwest of Iran, Iranians are saying that the U.S. targeted that overnight.\n\nWe know that Qeshm Island, we know that Bandar Abbas in Iran were targets of U.S. Air Force overnight trying to get missile storage sites, drone storage sites, maritime sort of communication nodes along the Strait of Hormuz. But this morning as well, the Iranians targeting Kuwait again, targeting Bahrain again, the warning sirens going off in both of those countries.\n\nSo at the moment, this threat in Jordan, of course, that's the country where two U.S. service personnel, CENTCOM announced yesterday had been sadly killed in an Iranian strike at -- their one person, one service personnel. A person still missing in that attack. Four injured taken to hospital now released from hospital in Jordan. But it really does put Jordan very much in the crosshairs of Iran's actions against the U.S. interests in this region right now.\n\nFREEMAN: Yes. Well said. All eyes on Jordan as this conflict again seems to be intensifying this weekend.\n\nNic Robertson, thank you very much. Appreciate your reporting.\n\nSwitching gears now, we have new details that are emerging about an ICE officer connected to the fatal shooting of a man in Maine. And we want to warn you, some of the video in this report may be disturbing. Now, CNN has confirmed that David Brouillette was among the officers at the scene. But CNN has not independently confirmed that Brouillette was the one who discharged his weapon.\n\nCNN investigation has uncovered court records showing Brouillette previously reported lingering cognitive issues after a serious head injury and revealing other questions about his background. CNN's Gloria Pazmino takes a closer look.\n\nGLORIA PAZMINO, CNN NATIONAL CORRESPONDENT: That's right. And we're getting a much fuller picture about who this officer is now that we have confirmed that David Brouillette was among the officers in the scene in Biddeford, Maine, where an ICE officer fatally shot, Joan Sebastian Duran Guerrero. This is all according to two of his ex-wives who reviewed photos and spoke with CNN.\n\nNow, we should mention that CNN has not independently confirmed whether Brouillette was the officer who discharged the weapon killing Duran Guerrero. And investigators have not publicly identified the officer who shot the victim. Federal sources have separately confirmed to CNN that Brouillette is an ICE officer. The Department of Homeland Security has declined to comment on the identity of the officer, and they have said that the officer used deadly force because they feared for public safety.\n\nNow, we have been trying to gather details to get a fuller picture about who Brouillette is. My colleagues Michael Williams, Kurt Devine and Priscilla Alvarez have been combing through public documents. And what has emerged is a troubling picture that raises serious questions about how ICE is doing its training and its officer vetting as they race to meet the demands of the Trump administration's immigration crackdown.\n\nOne of Brouillette's ex-wives and one of his daughters also told CNN that he contacted them days after the shooting and said that he had opened fire. Both said he told them that he thought the shooting was justified.\n\nNow, here's some of what we have learned. In 2023, Brouillette told a court in Maine that he had suffered lingering cognitive issues after he suffered a serious head injury when a steel beam fell on his head during a training exercise for a firefighting certificate. He sued the Maine Community College system because of that injury, but it was just two years after he filed that lawsuit that he started working for ICE.\n\nBrouillette's ex-wives also described a history of alleged domestic abuse and intimidation, all of this in court filings, where he denies the allegations. And we have not been able to confirm any criminal convictions or charges. We also reached out to Brouillette and he did not respond to several requests for comments.\n\nWe should mention Duran Guerrero's killing was the second time that an ICE officer shot and killed an immigrant behind the wheel in the span of just a week. And it's the fourth killing this year alone by federal immigration authorities.\n\nGloria Pazmino, CNN, New York.\n\nFREEMAN: All right, Gloria, thank you for that reporting. All right. Still ahead, a brutal night across Ukraine as Russia unleashed its biggest missile attacks of the war. We have details ahead.\n\nPlus, Taylor Farms is expanding its recall of iceberg linked to diarrhea outbreak. We'll tell you which products to look out for.\n\nAnd let's take a live look now at East Rutherford, New Jersey, where just hours from now, Argentina and Spain are going to battle it out in the World Cup final. We're going to show you what to expect after a quick break.\n\nFREEMAN: The time has come. After more than 100 matches, two teams are going to battle it out in today's FIFA World Cup final. Spain versus Argentina, and two soccer giants will meet on the pitch. Argentina's Lionel Messi versus Spain's Lamine Yamal.\n\nLeigh Waldman is live outside of the New York-New Jersey stadium where these games are taking place. Leigh, the excitement is palpable. What are we expecting today?\n\nLEIGH WALDMAN, CNN CORRESPONDENT: Danny, so much excitement in the air. We just heard them testing the mic system inside and, you know, it gets your heart pumping. We're ready to see these two teams face off.\n\nAnd they play very different styles on the pitch, Spain and Argentina. People are comparing it to orchestra versus heavy metal. We know that Argentina will be very aggressive on the pitch.\n\nMeanwhile, Spain is hoping to play a complex passing game and take any advantage that they can to try and score on Argentina to make this match even more special. It's the very first time in a World Cup final we are seeing it contested by the champions of the world versus the champions of England. So many fans coming here trying to take in a moment out of what is going to be an incredible match here, Danny.\n\nFREEMAN: I'm curious, I know that President Trump is expected to attend today's game. Can you take us through what that means for security for this final?\n\nWALDMAN: Absolutely. So we have heard from FIFA officials and they say they are heavily increasing the security measures that are in place here at the stadium behind us. Not only because of President Donald Trump, but multiple other international dignitaries who are expected to be in attendance today.\n\nThis is a SEAR 1 event. That is the highest level of security coordinated by the FBI, DHS and Secret Service. They're right now are putting in active roadblocks to shut down the traffic around this stadium. Fans who are in attendance today, they can expect to go through extensive TSA style screenings in order to get inside of this stadium.\n\nIt's a no drone zone. If you're coming to this game today, you're being told come hours early ahead of that 3:00 p.m. kickoff.\n\nFREEMAN: Wow, that's wild. Meanwhile, Leigh, New York I know has been dealing with a lot of poor air quality conditions from those Canadian wildfires. We were looking at a live picture of the stadium a moment ago.\n\nStill seems a little hazy out there. How is it out there? Is it going to affect the game today? What do you think?\n\nWALDMAN: Just a little bit hazy. But, Danny, we never cheer for weekend rain showers, right? Yesterday was a rainy day in New York City. But that's actually helping with the wildfire smoke that we've been dealing with these last few days.\n\nLast week, very hazy, smelled like a campfire all throughout New York City. Right now, this is a lot better. It's going to be humid. There's still going to be a little bit of smoke in the air. But 80 degrees today when these two teams kick off. So it's going to be a much better day for the players on the pitch but also for the fans who are here to attend.\n\nFREEMAN: All right. Last thing, Leigh. We can't talk about the final without talking about ticket prices. How much is it going to cost for last-minute tickets? Should we get one? Should we get two tickets and go?\n\nWALDMAN: OK, Danny. So I'm going to say our DMs are open. So if anyone is feeling generous and wants to send us some tickets, we can go together. But unless you've been saving up probably your entire life, I don't think you're affording a ticket inside today.\n\nThe cheapest tickets, Joey, my producer, and I were looking this morning, almost $8,000. And that's for a nosebleed seat. If you want to get closer to the action, you're shelling out $20,000, $30,000, even $40,000 for one of these tickets. But they're also offering some bundle packages to include your food and drinks.\n\nWho doesn't want that? $32,000 to $33,000 there. This is an expensive game to go ahead and see. All those fans who are flying into the United States, I don't know where they're getting all this money, man.\n\nFREEMAN: Listen, $32,000, I should hope that you could get at least a hot dog included with that.\n\nLeigh Waldman, thank you so much. Great to see you. Have a great time out there. Looking forward to it.\n\nAll right, to this now. After days of extreme heat and smoke, New Yorkers found themselves actually dealing with a completely different problem, flash flooding. Heavy rain moved through the region yesterday, flooding roads and causing problems on parts of the transit system.\n\nSome neighborhoods actually picked up several inches of rain in just a few hours. Lower Manhattan, along with parts of Brooklyn and Queens, took the hardest hit. And officials urged people living in basement apartments to move to higher floors.\n\nCNN's Melissa Nord joins me now. Melissa, again, the thunderstorms were intense. The lightning, the rain. What can people expect today, though?\n\nMELISSA NORD, CNN METEOROLOGIST: Well, they came down really fast and heavy, Danny. Some of those rainfall amounts in just a matter of 30 minutes. Some places picked up an inch, an inch and a half of rainfall. Record rainfall yesterday.\n\nJFK, Newark, Manhattan picked up over three inches. Dozens of flooding reports there. But what's good about that system coming yesterday is that we got the rain out of here and the smoke out of here. The front's to the south now. All the wildfire smoke infiltrating the Midwest. So air quality today looking much better at the stadium.\n\nThree o'clock kickoff will be in the low 80s. And humidity is also lower, making it a lot more comfortable outside. But as that front sags a little bit south, two areas of concern for severe weather, the first of which over the Carolinas, level two risk of severe weather, damaging winds, even an isolated tornado can't be ruled out.\n\nThat chance of damaging wind stretches into Atlanta. We'll get that daytime heating going. That helps to bring in a new round of heavy thunderstorms. Some of those could lead to flash flooding and then to the south of their trouble in the tropics as well.\n\nThis area in the eastern Gulf now has a 60 percent chance of development. The hurricane hunters with NOAA going to be flying into the system in this 91 L to investigate what the winds looking like, regardless of development or not, it's a rainmaker just along the coastline from the Big Bend Apalachicola down to Tampa.\n\nWe'll see some rounds of heavy rain moving on shore that could lead to some isolated accumulations. That could be 4 inches with some flash flooding. Danny?\n\nFREEMAN: Melissa Nord, thank you so much for that forecast. Appreciate it.\n\nAll right. Coming up in just a moment, a duo of controversial influencers is back in legal trouble. The Tate brothers have been arrested in the U.S. and are facing extradition to the U.K. We're going to explain the accusations against them.\n\nPlus, the U.S. military carries out another round of strikes on Iran as details of the deaths of two U.S. service members are revealed. Stay with us.\n\nFREEMAN: This just in. The Jordanian government is now denying there were evacuations of air or sea ports there. And this comes after the U.S. embassy said they were evacuated due to a credible threat.\n\nThe U.S. has now bombed Iran for an eighth straight night. Now targeting facilities for air and coastal defenses and weapons storage sites, according to U.S. Central Command. And two American soldiers were killed following Iranian strikes in Jordan Friday and one is still missing.\n\nJoining me now is Major John Spencer, chair of War Studies for the Madison Policy Forum. He's also the author of the upcoming book, \"20 Times I Almost Died.\" Major Spencer, thank you so much for joining us this morning on a hard weekend for our service members.\n\nLet's start there, though. We still don't have a lot of information about these attacks in Jordan that killed those two service members. But what's your perspective here? What do you think this means for next steps in this war?\n\nMAJOR JOHN SPENCER (RET,), CHAIR OF WAR STUDIES, MADISON POLICY FORUM: I think that it means that, one, we're going to mourn our losses but understand that the greatest thing we can do, in my opinion, to our service members is to accomplish the mission and finish the job. We have an integrated air defense system on all of our bases, but Iran's continuing to attack all of the countries, I think seven countries in seven days, where U.S. forces or not, because they're attacking desalination plants in Kuwait and other locations, striking back at the U.S. attacks now on eight consecutive nights.\n\nFREEMAN: What do you believe this says about the vulnerability of our troops or our military installations in the region right now?\n\nSPENCER: I mean, I think we have very strong defenses, but there is no perfect system, even what we've seen in Israel that has, you know, its Iron Dome and other systems. If you can still get about 1 percent, and that's what Iran is getting, depending on where we're talking about, that's still something's going to get through and adjustments are made, and they've been using different types of tactics, you know, different missiles of the capabilities they have left.\n\nFREEMAN: Major, I'm curious, from your perspective, is the U.S. right now underestimating the capabilities of Iran and these proxies in the region? Because we've been told time and time again that their military has been seriously weakened, and yet we see instances like this.\n\nSPENCER: No, I don't think we underestimate them, the U.S. military, and I think we're moving more assets into the region to stop their ability to influence the Strait of Hormuz. That's what we're really seeing now is the Battle of Hormuz being fought through and U.S. forces in different areas of these countries. Of course, they're in harm's way, right? That's what our troops are signed up for, but I do think we're underestimating them. And even if you destroyed a vast majority of their capabilities, they still have capabilities. It's a large country that was invested in these capabilities, drones, missiles, for a long time to be able to do just this.\n\nSo I don't think it's underestimating. I mean, it's the will that is the problem at this point, not the capability, although we don't like seeing any capability being projected out of Iran, but that's the importance of the mission is that this is about changing the regime's behavior, not a regime change operation, and they're vastly different.\n\nFREEMAN: Major, from your view, are we closer to peace today? I mean, it seemed like for a moment there, there were signings of MOUs, there were steps towards ceasefires, and then it seems like in the past week plus or so, certainly this weekend, we've taken several steps backwards.\n\nSPENCER: Yes, I think we all had a -- or had a hope that the memorandum of understanding, which is an agreement to have a conversation, would lead to a negotiated settlement of the operation. I mean, I don't think we're closer now, of course.\n\nAccording to President Trump, the ceasefire is over. The MOU, despite both sides maybe thinking that it said something different in -- especially in relation to the Strait of Hormuz, I don't think we're closer to peace at this moment and that we will likely have to accelerate the operation in order to achieve that goal of getting to the negotiation table.\n\nIt's always going to end at a negotiation table, but I do believe that the region and the United States is safer today. They're not closer to a nuclear weapon. Their capabilities to project power have been drastically impacted.\n\nFREEMAN: Major, the Pentagon has mostly stopped doing media briefings now and updates regularly on the war, so reporters have not really been able to ask questions of the administration about the latest objectives or where things stand. I'm just curious, what do you make of that? Do you think that's an important thing that should be happening more frequently?\n\nSPENCER: Absolutely. I'm definitely a big fan of communicating at all levels, so both from the White House Press Corps Secretary and the Pentagon. But I think we're in this situation where they do want the negotiations to continue, and according to President Trump and others, that they are talking to people in Iran, and people want that to work without the statements, even though the new supreme leader made a statement, although nobody's seen him, on what he thinks about the negotiation and memorandum understanding. I think we're in a sensitive situation, and hopefully we do see those briefings, because I do think they're a daily to have them, is important.\n\nDANNY FREEMAN, CNN ANCHOR: And last question for me, Major, is, I know it's hard to project into the future, especially since we're only still a few months into this conflict, but is this looking more and more like a forever war to you?\n\nSPENCER: No, not at all. And I use that term very, I don't use that often, because I understand this isn't a forever war, a nation- building war, we're going to overthrow the regime and institute a democracy. This is a limited war. Four limited objectives, I think, are worth fighting for, in my opinion, non-nuclear proliferation and the freedom of navigation, which would impact the U.S. economy from the gas prices to fertilizer across the globe if Iran was allowed to do what they are trying to say that they want to do, which is control the Strait of Hormuz.\n\nI think it's worth fighting for and achieving this limited goal, but not a forever war. And although we are, you know, whether you count the entire time, five months into it, that there has been progress made. And I do believe that there are people willing to come to terms, but it has to be on these very non-negotiable aspects of no nuclear weapons and freedom of navigation.\n\nFREEMAN: Major John Spencer, thank you very much for your insight and perspective this morning. Really do appreciate it.\n\nSPENCER: Thanks, Danny.\n\nFREEMAN: All right. To this now, Russia just unleashed a massive ballistic missile attack against Ukraine, one of the largest since the war began over four years ago. More than 40 missiles and 120 drones were fired overnight by the Russians, most of them targeting the capital of Kyiv. Rescue operations are underway at this hour. And the attack follows deadly strikes by the Ukrainians deep into Russia, destroying two e-commerce warehouses, one of them in Moscow. At least eight people were killed there.\n\nCNN's Barbie Latza Nadeau has been tracking the latest developments. Barbie, this war really seems to be escalating at a dangerous pace at this point.\n\nBARBIE LATZA NADEAU, CNN CONTRIBUTOR: Yes. You know, this was really a brutal attack against Ukrainian capital. Forty of those missiles raining down in less than two hours, sparking fires in residential areas and in a shopping area and in a mall. But this does come on the heels of those twin drone attacks deep into Russia, including one of these centers near Moscow.\n\nNow, eight people were killed in that attack. And the Ukraine says that those were logistical centers that were used in drone production and drone. Let's listen to what President Volodymyr Zelenskyy had to say about it.\n\nVOLODYMYR ZELENSKYY, UKRAINIAN PRESIDENT (through translator): These were Russian logistics facilities, including warehouses supplying equipment for the war effort, such as navigation systems, components used in drone production and other supplies for the Russian military. Our Ukrainian weapons also struck another oil facility and targets in the waters of the Sea of Azov and the Black Sea. This was an important operation. There will be more.\n\nNADEAU: And what's really important about this, and I think something to understand, is this is a change of strategy for Ukraine. Previously, they had only attacked energy infrastructure and maritime assets. To go so deep into the country and attack an area that is for e-commerce, you know, distribution is a change.\n\nNow, whether or not that is going to change Russia's approach is unknown yet. And whether it's going to bring them closer to the negotiating table. Clearly, Russians saw the black pillowing smoke across their country on Saturday. Whether that's going to make any difference in the negotiation remains to be seen.\n\nBut all eyes here in Europe are definitely on what happens next, and if this escalation spreads beyond Ukraine. Danny.\n\nFREEMAN: They certainly are. All right. Barbie Latza Nadeau, thank you very much for that reporting. Really do appreciate it.\n\nAll right. Let's check in on some other headlines this morning. We're learning more about the arrest of social media influencers Andrew and Tristan Tate. U.S. Marshals arrested the brothers yesterday in Miami on an extradition request from the U.K. British prosecutors accused the brothers of rape, sex trafficking, and other offenses tied to an investigation involving multiple alleged victims. They're expected to appear in federal court in Miami this week as the extradition process moves forward. The brothers have repeatedly denied wrongdoing.\n\nAnd produce supplier, Taylor Farms, is recalling iceberg lettuce shipped to 27 states due to potential cyclospora contamination. This is the same company that supplied shredded lettuce to Taco Bell restaurants that have been linked to the cyclosporiasis outbreak in the Midwest. The recall covers lettuce distributed between June 29th and July 16th. If you had lettuce to Taco Bell restaurants that have been linked to the cyclosporiasis outbreak in the Midwest, the recall covers lettuce distributed between June 29th and July 16th. If you have it, the company says, you should throw it away immediately.\n\nAnd protest against the building of data centers took place across the country on Saturday. A handful of people protested over a highway overpass in Berkeley, California. Opponents worry about noise, pollution, and strained resources. However, supporters argued these facilities are vital to expanding technology like artificial intelligence while boosting local economies.\n\nStill ahead, Maine Democrats begin the process of replacing former Senate candidate, Graham Platner. We're going to dig into the race to the nomination.\n\nAnd if you're heading out, remember, you can stream our show from anywhere in the U.S. right from the CNN app. You can also always go to cnn.com/watch. We'll be right back. (COMMERCIAL BREAK)\n\nFREEMAN: Democrats in Maine have been scrambling to find a replacement for former U.S. Senate nominee Graham Platner and it looks like they may have found one. Troy Jackson dominated the first day of Maine's two-day delegate selection process on Saturday. The blue- collar logger and former state Senate president captured a large majority of the delegates with his progressive message. Take a listen.\n\nTROY JACKSON (D), MAINE SENATE CANDIDATE: I believe that we can take on corporate price gouging and lower costs for working families. I believe we can build housing that people can afford. I believe that workers deserve the freedom to unionize without intimidation, retaliation, or fear.\n\nFREEMAN: For more on this, let's bring in Michael Shepherd. He's a reporter with the Banger Daily News. Michael, thank you so much for getting up early and chatting with us. Let's start here. Is this race looking competitive anymore or is Jackson actually in a super strong position after this weekend?\n\nMICHAEL SHEPHERD, POLITICS EDITOR AND REPORTER, BANGOR DAILY NEWS: No, it's not looking competitive. He won 290 by my count of the first 319 delegates that were decided on Saturday. We'll have the rest awarded in county caucuses today and this is to a state convention that happens next weekend in Bangor. So, that was a dominant share by any measure. He's now, again by my count, which I think is conservative, only 11 delegates shy of hitting that 301.\n\nNow, it's worth pointing out that these delegates are formally unbound, but these are people who are on his slate or have told me or someone else that they're supporting him. So, he's in a really, really commanding position. I would be surprised if his opponents, if this goes the way it went yesterday, are in the race after today.\n\nFREEMAN: It's remarkable how quickly all of this really came together after Platner's exit. I'm curious though, will Jackson's former support of Platner weigh him down at all if he advances to the general? What do you think?\n\nSHEPHERD: Yes, this is a tough balance for him to strike in this race. He is the closest thing to a one-to-one comparison to Graham Platner. Both are deeply tied to organized labor. Platner ranked Jackson first on his gubernatorial ballot when he was in that primary back in June. Jackson was a really early kind of institutional endorser of Platner early in the race and had a rough relationship with Governor Janet Mills.\n\nSo, they are really, really closely tied. And all the candidates in this SNAP-nominating race have tried to hitch themselves to Platner's progressive policies and his sort of organizing momentum. I think Jackson picked up a lot of the support from the people on the ground who were really behind Platner. So, it's a delicate balance because these candidates want to bring in the progressive movement that Platner created but leave him beh"
+    }
+  ]
+}
