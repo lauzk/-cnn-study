@@ -1,0 +1,539 @@
+{
+  "date": "2026-07-20",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-20/segment/02",
+  "vocabulary": [
+    {
+      "word": "cluster",
+      "phonetic": "/ˈklʌstər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "集群，聚集",
+      "en": "a group of similar things or people positioned closely together",
+      "excerpt": "three people are dead in connection with a cluster of legionnaires disease in New York City",
+      "example_cn": "纽约市发生一起军团病聚集性疫情，已致三人死亡。"
+    },
+    {
+      "word": "legionnaires disease",
+      "phonetic": "/ˌliːdʒəˈnerz dɪˈziːz/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "军团病",
+      "en": "a serious lung infection caused by the Legionella bacterium",
+      "excerpt": "three people are dead in connection with a cluster of legionnaires disease in New York City",
+      "example_cn": "军团病是一种由军团菌引起的严重肺部感染。"
+    },
+    {
+      "word": "cooling tower",
+      "phonetic": "/ˈkuːlɪŋ ˈtaʊər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "冷却塔",
+      "en": "a device that rejects waste heat to the atmosphere through the cooling of a water stream to a lower temperature",
+      "excerpt": "Officials believe the cases are connected with bacteria found in building cooling towers on the upper east side",
+      "example_cn": "官员认为病例与上东区建筑冷却塔中发现的细菌有关。"
+    },
+    {
+      "word": "ramp up",
+      "phonetic": "/ræmp ʌp/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "增加，加强",
+      "en": "to increase in amount or intensity",
+      "excerpt": "the U.S. military ramping up attacks in Iran for a ninth straight night",
+      "example_cn": "美军连续第九晚加大对伊朗的打击力度。"
+    },
+    {
+      "word": "controlled detonation",
+      "phonetic": "/kənˈtroʊld ˌdetəˈneɪʃən/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "受控引爆",
+      "en": "the deliberate and controlled explosion of a device or ordnance",
+      "excerpt": "trying to do a controlled detonation of a downed Iranian attack drone",
+      "example_cn": "试图对一架被击落的伊朗攻击无人机进行受控引爆。"
+    },
+    {
+      "word": "onslaught",
+      "phonetic": "/ˈɑːnslɔːt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "猛攻，冲击",
+      "en": "a fierce or destructive attack",
+      "excerpt": "How is it handling up under the onslaught from Iran?",
+      "example_cn": "面对伊朗的猛攻，它表现如何？"
+    },
+    {
+      "word": "Shahed 136",
+      "phonetic": "/ʃɑːˈhɛd wʌn θriː sɪks/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "沙希德136无人机",
+      "en": "an Iranian-made loitering munition drone",
+      "excerpt": "one of the common ones, the Shahed 136",
+      "example_cn": "其中常见的一种是沙希德136无人机。"
+    },
+    {
+      "word": "explosive ordnance disposal",
+      "phonetic": "/ɪkˈsploʊsɪv ˈɔːrdnəns dɪˈspoʊzəl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "爆炸物处理",
+      "en": "the process of rendering explosive devices safe",
+      "excerpt": "when the explosive ordnance disposal technicians look at these weapon systems",
+      "example_cn": "当爆炸物处理技术人员检查这些武器系统时。"
+    },
+    {
+      "word": "defuse",
+      "phonetic": "/diːˈfjuːz/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "拆除引信，缓和",
+      "en": "to remove the fuse from an explosive device; to make a situation less tense",
+      "excerpt": "they try to defuse them",
+      "example_cn": "他们试图拆除引信。"
+    },
+    {
+      "word": "fuse",
+      "phonetic": "/fjuːz/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "引信，保险丝",
+      "en": "a device that initiates an explosive charge",
+      "excerpt": "many of the drones that the Iranians have, have fuses that go off after the bombing",
+      "example_cn": "伊朗的许多无人机都有在轰炸后引爆的引信。"
+    },
+    {
+      "word": "obliterate",
+      "phonetic": "/əˈblɪtəreɪt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "消灭，摧毁",
+      "en": "to destroy completely",
+      "excerpt": "an Iran that has not been obliterated militarily",
+      "example_cn": "一个尚未被军事摧毁的伊朗。"
+    },
+    {
+      "word": "malfunction",
+      "phonetic": "/ˌmælˈfʌŋkʃən/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "故障",
+      "en": "a failure to function properly",
+      "excerpt": "sometimes there are malfunctions of their equipment as well",
+      "example_cn": "有时他们的设备也会出现故障。"
+    },
+    {
+      "word": "countermeasure",
+      "phonetic": "/ˈkaʊntərˌmeʒər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "对策，反制措施",
+      "en": "an action taken to counteract a danger or threat",
+      "excerpt": "whether or not there are other countermeasures that we can use",
+      "example_cn": "我们是否还有其他反制措施可用。"
+    },
+    {
+      "word": "Patriot missile",
+      "phonetic": "/ˈpeɪtriət ˈmɪsəl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "爱国者导弹",
+      "en": "a surface-to-air missile system used for air defense",
+      "excerpt": "the Patriot missiles",
+      "example_cn": "爱国者导弹。"
+    },
+    {
+      "word": "PAC-3 interceptor",
+      "phonetic": "/pæk θriː ˌɪntərˈseptər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "PAC-3拦截弹",
+      "en": "a hit-to-kill interceptor missile used in the Patriot system",
+      "excerpt": "the PAC-3 interceptors that are part of the Patriot packages",
+      "example_cn": "作为爱国者系统一部分的PAC-3拦截弹。"
+    },
+    {
+      "word": "reverse engineer",
+      "phonetic": "/rɪˈvɜːrs ˌendʒɪˈnɪr/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "逆向工程",
+      "en": "to study a product to understand its design and produce a copy",
+      "excerpt": "a reverse engineered Shahed drone",
+      "example_cn": "一种逆向工程制造的沙希德无人机。"
+    },
+    {
+      "word": "fiscal equation",
+      "phonetic": "/ˈfɪskəl ɪˈkweɪʒən/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "财政等式，成本效益",
+      "en": "the balance between costs and benefits in financial terms",
+      "excerpt": "we're getting better at that fiscal equation",
+      "example_cn": "我们越来越擅长处理这个财政等式。"
+    },
+    {
+      "word": "supplement",
+      "phonetic": "/ˈsʌplɪmənt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "补充，追加",
+      "en": "something added to complete or enhance something",
+      "excerpt": "$80 billion Iran war supplement",
+      "example_cn": "800亿美元的伊朗战争追加拨款。"
+    },
+    {
+      "word": "appetite",
+      "phonetic": "/ˈæpɪtaɪt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "欲望，胃口",
+      "en": "a strong desire or liking for something",
+      "excerpt": "What's the political appetite right now?",
+      "example_cn": "目前的政治意愿如何？"
+    },
+    {
+      "word": "maneuver",
+      "phonetic": "/məˈnuːvər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "策略，调动",
+      "en": "a planned and controlled movement or action",
+      "excerpt": "Republican leaders are using a maneuver that only needs Republican votes",
+      "example_cn": "共和党领导人正在使用一种只需共和党投票的策略。"
+    },
+    {
+      "word": "authorization",
+      "phonetic": "/ˌɔːθərəˈzeɪʃən/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "授权",
+      "en": "official permission or approval",
+      "excerpt": "they have sought no essentially no authorization from Congress",
+      "example_cn": "他们基本上没有寻求国会的授权。"
+    },
+    {
+      "word": "YouGov polling",
+      "phonetic": "/juː ɡɒv ˈpoʊlɪŋ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "YouGov民意调查",
+      "en": "opinion polling conducted by YouGov, a market research firm",
+      "excerpt": "when we look at the YouGov polling",
+      "example_cn": "当我们查看YouGov的民调时。"
+    },
+    {
+      "word": "forever war generation",
+      "phonetic": "/fərˈevər wɔːr ˌdʒenəˈreɪʃən/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "永战一代",
+      "en": "the generation that has grown up with continuous U.S. military engagements",
+      "excerpt": "The forever war generation, how much the public sentiment matters",
+      "example_cn": "永战一代，公众情绪有多重要。"
+    },
+    {
+      "word": "vestige",
+      "phonetic": "/ˈvestɪdʒ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "残余，痕迹",
+      "en": "a trace or remnant of something that is disappearing",
+      "excerpt": "It was still a, you know, vestige",
+      "example_cn": "它仍然是一个残余。"
+    },
+    {
+      "word": "debacle",
+      "phonetic": "/dɪˈbɑːkəl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "惨败，崩溃",
+      "en": "a sudden and ignominious failure",
+      "excerpt": "you saw the debacle in Desert One",
+      "example_cn": "你看到了沙漠一号的惨败。"
+    },
+    {
+      "word": "ubiquitous",
+      "phonetic": "/juːˈbɪkwɪtəs/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "无处不在的",
+      "en": "present, appearing, or found everywhere",
+      "excerpt": "when we didn't have ubiquitous media coverage about military actions",
+      "example_cn": "当我们没有无处不在的军事行动媒体报道时。"
+    },
+    {
+      "word": "max out",
+      "phonetic": "/mæks aʊt/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "达到极限，最大化",
+      "en": "to reach the maximum capacity or limit",
+      "excerpt": "they're going to send it to have it be maxed out",
+      "example_cn": "他们将把它送去进行最大化的升级。"
+    },
+    {
+      "word": "bells and whistles",
+      "phonetic": "/belz ænd ˈwɪsəlz/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "附加功能，花哨配置",
+      "en": "attractive but non-essential features",
+      "excerpt": "Most world leaders don't have the kinds of bells and whistles that Air Force One has",
+      "example_cn": "大多数世界领导人没有空军一号那样的花哨配置。"
+    },
+    {
+      "word": "aerodynamic",
+      "phonetic": "/ˌeroʊdaɪˈnæmɪk/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "空气动力学的",
+      "en": "relating to the study of the motion of air and the forces on objects moving through it",
+      "excerpt": "There could be, you know, aerodynamic reasons",
+      "example_cn": "可能有空气动力学方面的原因。"
+    },
+    {
+      "word": "circuitous",
+      "phonetic": "/sərˈkjuːɪtəs/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "迂回的，绕圈子的",
+      "en": "longer than the most direct way; roundabout",
+      "excerpt": "There's a lot of, you know, circuitous",
+      "example_cn": "有很多迂回的说法。"
+    },
+    {
+      "word": "slate",
+      "phonetic": "/sleɪt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "预定，安排",
+      "en": "to schedule or plan for a particular time",
+      "excerpt": "now slated for 2028",
+      "example_cn": "现在预定于2028年。"
+    },
+    {
+      "word": "bridge",
+      "phonetic": "/brɪdʒ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "桥梁，过渡",
+      "en": "something that serves as a connection or transition",
+      "excerpt": "this Qatari jet is supposed to serve as a bridge",
+      "example_cn": "这架卡塔尔飞机应该起到桥梁作用。"
+    },
+    {
+      "word": "nail biter",
+      "phonetic": "/neɪl ˈbaɪtər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "扣人心弦的比赛",
+      "en": "a situation that is tense and exciting, often a close contest",
+      "excerpt": "the World Cup final on U.S. soil was a nail biter",
+      "example_cn": "在美国本土举行的世界杯决赛扣人心弦。"
+    },
+    {
+      "word": "overtime",
+      "phonetic": "/ˈoʊvərtaɪm/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "加时赛",
+      "en": "extra time added to a game to break a tie",
+      "excerpt": "This was in overtime",
+      "example_cn": "这是在加时赛中。"
+    },
+    {
+      "word": "GOAT",
+      "phonetic": "/ɡoʊt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "史上最佳（Greatest of All Time）",
+      "en": "an acronym for 'greatest of all time'",
+      "excerpt": "this game was sort of the GOAT versus the kids",
+      "example_cn": "这场比赛有点像史上最佳对阵年轻人。"
+    },
+    {
+      "word": "legacy",
+      "phonetic": "/ˈleɡəsi/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "遗产，传承",
+      "en": "something handed down from the past",
+      "excerpt": "Can you talk about that legacy?",
+      "example_cn": "你能谈谈那个遗产吗？"
+    },
+    {
+      "word": "meme",
+      "phonetic": "/miːm/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "迷因，网络梗",
+      "en": "an image, video, or piece of text that is spread rapidly online",
+      "excerpt": "one of the biggest memes of this entire tournament",
+      "example_cn": "整个赛事中最大的网络梗之一。"
+    },
+    {
+      "word": "populist",
+      "phonetic": "/ˈpɑːpjəlɪst/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "民粹主义的",
+      "en": "relating to a political approach that appeals to ordinary people",
+      "excerpt": "this is somebody who is a genuine Maine populist",
+      "example_cn": "这是一个真正的缅因州民粹主义者。"
+    },
+    {
+      "word": "logger",
+      "phonetic": "/ˈlɔːɡər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "伐木工",
+      "en": "a person who cuts down trees for timber",
+      "excerpt": "He's a fifth generation logger",
+      "example_cn": "他是第五代伐木工。"
+    },
+    {
+      "word": "charisma",
+      "phonetic": "/kəˈrɪzmə/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "魅力，感召力",
+      "en": "compelling attractiveness or charm that inspires devotion",
+      "excerpt": "he doesn't have the same charisma",
+      "example_cn": "他没有同样的魅力。"
+    },
+    {
+      "word": "workhorse",
+      "phonetic": "/ˈwɜːrkhɔːrs/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "勤恳工作的人",
+      "en": "a person who works hard and reliably",
+      "excerpt": "they're not show horses, they're workhorses",
+      "example_cn": "他们不是作秀的马，而是勤恳的马。"
+    },
+    {
+      "word": "oppo researcher",
+      "phonetic": "/ˈɑːpoʊ rɪˈsɜːrtʃər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "对手研究专员",
+      "en": "a person who investigates an opponent's background for political advantage",
+      "excerpt": "You're supposed to have oppo researchers who are figuring all this out early",
+      "example_cn": "你应该有对手研究专员提前弄清楚这一切。"
+    },
+    {
+      "word": "solemn",
+      "phonetic": "/ˈsɑːləm/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "庄严的，肃穆的",
+      "en": "formal and dignified; serious",
+      "excerpt": "this is one of the most solemn rituals",
+      "example_cn": "这是最庄严的仪式之一。"
+    },
+    {
+      "word": "juxtapose",
+      "phonetic": "/ˈdʒʌkstəpoʊz/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "并列，对比",
+      "en": "to place close together for comparison",
+      "excerpt": "you juxtapose that against what just occurred with the World Cup",
+      "example_cn": "你将其与刚刚发生的世界杯进行对比。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "And one U.S. service member also died in northern Iraq Sunday while trying to do a controlled detonation of a downed Iranian attack drone.",
+      "cn": "周日，一名美国军人在伊拉克北部试图对一架被击落的伊朗攻击无人机进行受控引爆时身亡。",
+      "structure": "主句 + while + 现在分词短语作时间状语",
+      "analysis": "主句为'one U.S. service member also died'，'while trying to do...'是省略了主语和be动词的现在分词短语作时间状语，相当于'while he was trying to do...'。"
+    },
+    {
+      "en": "And it reminded me of the fact that the U.S. has had to have this whole system to intercept and deal with drones.",
+      "cn": "这让我想起了一个事实：美国不得不建立一整套系统来拦截和处理无人机。",
+      "structure": "主句 + 同位语从句",
+      "analysis": "主句为'it reminded me of the fact'，'that the U.S. has had to have...'是同位语从句，解释'fact'的内容。"
+    },
+    {
+      "en": "When you look at the rate of production and the rate of expenditure of those missiles, then it becomes a shortage.",
+      "cn": "当你考虑这些导弹的生产率和消耗率时，就会出现短缺。",
+      "structure": "时间状语从句 + 主句",
+      "analysis": "'When you look at...'是时间状语从句，主句为'it becomes a shortage'。'rate of production'和'rate of expenditure'是并列名词短语。"
+    },
+    {
+      "en": "But the key thing to remember, Audie, is this, CENTCOM and other elements are moving into a different era where we're actually using drones against the Iranians as well.",
+      "cn": "但关键要记住的是，Audie，中央司令部和其他部门正在进入一个不同的时代，我们实际上也在使用无人机对抗伊朗人。",
+      "structure": "主句 + 表语从句 + 定语从句",
+      "analysis": "主句为'the key thing...is this'，'CENTCOM and other elements are moving...'是表语从句，'where we're actually using...'是定语从句修饰'era'。"
+    },
+    {
+      "en": "I think in any other circumstance, you would have found some Democrats who are willing to say, you know, we may not love this war, but the Pentagon does need the money and the resources.",
+      "cn": "我认为在任何其他情况下，你都会发现一些民主党人愿意说，你知道，我们可能不喜欢这场战争，但五角大楼确实需要资金和资源。",
+      "structure": "主句 + 宾语从句 + 定语从句 + 直接引语",
+      "analysis": "主句为'I think'，'you would have found...'是宾语从句，'who are willing to say'是定语从句修饰'Democrats'，直接引语部分包含两个并列句。"
+    },
+    {
+      "en": "But because of what we talked about earlier, how the president has not made a case for this war, how they have sought no essentially no authorization from Congress to authorize these strikes, the Democrats are saying, we're not going to help with passing this one at all.",
+      "cn": "但由于我们之前谈到的，总统没有为这场战争提出理由，他们基本上没有寻求国会授权进行这些打击，民主党人表示，我们根本不会帮助通过这项法案。",
+      "structure": "原因状语从句 + 主句 + 直接引语",
+      "analysis": "'Because of what we talked about earlier'是原因状语，'how the president...'和'how they have sought...'是并列的同位语从句解释'what'，主句为'the Democrats are saying'，直接引语为'we're not going to help...'。"
+    },
+    {
+      "en": "Now, I know you're not political, but I feel like every military man who came of age post-Vietnam is now aware of how much the public sentiment matters.",
+      "cn": "我知道你不搞政治，但我觉得每个在越战后成年的军人都意识到公众情绪有多重要。",
+      "structure": "并列句 + 定语从句 + 宾语从句",
+      "analysis": "两个并列句由'but'连接。第二个分句中，'every military man'是主语，'who came of age post-Vietnam'是定语从句，'is aware of'是谓语，'how much the public sentiment matters'是宾语从句。"
+    },
+    {
+      "en": "And one of the problems that we had with the him coming back from the NATO Summit was that there was apparently an active threat from Iran.",
+      "cn": "我们遇到的一个问题是，他从北约峰会返回时，显然存在来自伊朗的积极威胁。",
+      "structure": "主句 + 定语从句 + 表语从句",
+      "analysis": "主句为'one of the problems...was that...'，'that we had with him coming back...'是定语从句修饰'problems'，'that there was...'是表语从句。"
+    },
+    {
+      "en": "And that is, you know, something that requires a lot of engineering expertise and it also requires a willingness to, you know, in essence, you know, integrate technologies into places where they don't normally belong.",
+      "cn": "这需要大量的工程专业知识，也需要一种意愿，本质上，将技术整合到它们通常不属于的地方。",
+      "structure": "并列句 + 定语从句",
+      "analysis": "两个并列句由'and'连接。第一个分句中，'something'后跟定语从句'that requires...'；第二个分句中，'places'后跟定语从句'where they don't normally belong'。"
+    },
+    {
+      "en": "But on the whole, a lot of the worrisome and things that people had about this World Cup heading in didn't really come across.",
+      "cn": "但总的来说，人们对本届世界杯的许多担忧和事情并没有真正出现。",
+      "structure": "主句 + 定语从句",
+      "analysis": "主句为'a lot of the worrisome and things...didn't really come across'，'that people had about this World Cup heading in'是定语从句修饰'worrisome and things'。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "U.S.-Iran Conflict and Military Casualties",
+      "content": "The transcript discusses the ongoing U.S. military strikes against Iran and retaliatory attacks, resulting in the deaths of U.S. service members. It highlights the challenges of drone warfare, including the cost-effectiveness of Iranian drones and the strain on U.S. defense systems like Patriot missiles. The political and public sentiment regarding the war is also examined, with polling showing significant opposition.",
+      "keywords": "Iran war, U.S. military, drone, casualties, public opinion"
+    },
+    {
+      "title": "Air Force One Upgrade and Security",
+      "content": "The segment covers the Qatari-donated Air Force One jet, which is set to be upgraded ('maxed out') with additional defensive countermeasures. The discussion includes the need for enhanced security due to active threats, the technical challenges of integrating military-grade countermeasures into a large passenger jet, and the political implications of using public funds for the upgrade.",
+      "keywords": "Air Force One, Qatar, security upgrade, countermeasures, presidential aircraft"
+    },
+    {
+      "title": "2026 World Cup in the United States",
+      "content": "The World Cup final between Spain and Argentina is discussed, with Spain winning in overtime. The tournament's success in the U.S. is highlighted, including record revenue and positive international perception. The legacy of the tournament is considered, including the transition from veteran players like Messi to young stars like Lamine Yamal, and the potential for future World Cups in the U.S.",
+      "keywords": "World Cup, Spain, Argentina, soccer, U.S. hosting, legacy"
+    },
+    {
+      "title": "Maine Senate Race and Democratic Nominee",
+      "content": "The transcript covers the Democratic primary in Maine to replace Graham Platner as the nominee to challenge Republican Senator Susan Collins. Troy Jackson, a fifth-generation logger and former state senate president, emerges as the likely nominee. The discussion focuses on his authenticity as a Maine populist, the short campaign timeline, and the contrast with the national party's vetting failures.",
+      "keywords": "Maine, Senate race, Troy Jackson, Susan Collins, Democratic primary"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nThree U.S. Troops Killed in Jordan and Iraq; Qatari Air Force One Will be Maxed Out; New York Magazine's Will Leitch is Interviewed about the World Cup; Maine zeroes in on Senate Replacement. Aired 6:30-7a ET\n\nAired July 20, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nAUDIE CORNISH, CNN ANCHOR: Good morning, everybody. I'm Audie Cornish. Thank you for joining me on CNN THIS MORNING.\n\nIt is half past the hour. And here's what's happening right now.\n\nAny moment now the U.K. will have a new prime minister. Keir Starmer delivered his last address, formally resigning, leaving as the shortest serving Labour prime minister in history. Andy Burnham will take over. He will become the country's seventh prime minister in just ten years.\n\nAnd three people are dead in connection with a cluster of legionnaires disease in New York City. Officials believe the cases are connected with bacteria found in building cooling towers on the upper east side. According to the health department, 74 cases have been reported and eight people now hospitalized.\n\nAnd the U.S. military ramping up attacks in Iran for a ninth straight night. In return, Iran hitting targets across seven countries, including a U.S. base in Jordan, where two service members were killed on Friday. Another is missing. And one U.S. service member also died in northern Iraq Sunday while trying to do a controlled detonation of a downed Iranian attack drone.\n\nDONALD TRUMP, PRESIDENT OF THE UNITED STATES: Well, we feel very badly, but, you know, those great people, those great patriots who are out there fighting that Iran cannot have a nuclear weapon.\n\nCORNISH: OK, so the strikes from both sides raising serious concerns, again, about an all-out war breaking out in the region.\n\nAnd we're adding retired Air Force colonel, and CNN military analyst, Cedric Leighton.\n\nThank you so much for being here. I'm sorry it's under these circumstances, as the death toll of U.S. killed in action is now 17.\n\nI want to ask about one of those deaths. They were trying to detonate a drone, right? An Iranian drone lands. They're trying to get rid of it. Someone dies in the process. And it reminded me of the fact that the U.S. has had to have this whole system to intercept and deal with drones. An expensive system. How is it handling up under the onslaught from Iran?\n\nCOL. CEDRIC LEIGHTON (RET.), CNN MILITARY ANALYST: Yes, well, this is one of the key questions that CENTCOM and really all military officials in the U.S. have to answer this morning, Audie. And, you know, one of the things to look at here is that the Iranians have some very cheap, very efficient drones in many respects. So, you know, when you look at one of the common ones, the Shahed 136. About $30,000 a pop. And if it's coupled with explosives, then you've got a whole different set of things to worry about.\n\nSo, when the explosive ordnance disposal technicians look at these weapon systems, they have to go in and they try to defuse them.\n\nBasically they're defusing bombs when they do this. And we know that many of the drones that the Iranians have, have fuses that go off after the bombing -- or after the drone impacts a particular area. So --\n\nCORNISH: After it impacts, then it goes off again.\n\nLEIGHTON: It can. It --\n\nCORNISH: Is this a sense -- is this adaptation? Are we seeing an Iran that has not been obliterated militarily, but has found ways to adapt?\n\nLEIGHTON: Well, they've definitely found ways to adapt. And sometimes there are malfunctions of their equipment as well. So, in this case, we're probably talking about a malfunction. But those are the kinds of things that do happen. And the explosive ordnance folks look at these things in an effort to try to determine what those weapons actually are, what they're capable of, and how they actually, you know, how they explode, how they work, and whether or not there are other countermeasures that we can use. So, when it comes to those countermeasures, we are looking at a lot of different things. And it's, you know, it's definitely a very difficult problem set because it's a lot cheaper to throw things like drones of the Shahed type against a particular target than it is to defend them.\n\nCORNISH: So, it's not that we're running out of things, it's that we are running out of the things to intercept?\n\nLEIGHTON: Well, there are some things that we're running out of, or at least there's difficulty. Like, for example, the Patriot missiles. You know, when you look at the PAC-3 interceptors that are part of the Patriot packages, those are, first of all, hard to build. When you look at the rate of production and the rate of expenditure of those missiles, then --\n\nCORNISH: Yes, how long can we keep going.\n\nLEIGHTON: Then it's -- then it becomes a shortage. But the key thing to remember, Audie, is this, CENTCOM and other elements are moving into a different era where we're actually using drones against the Iranians as well. And some of the defense systems that we have right now are actually of the cheaper variety. There's a system called the LUCAS system, for example, that is a reverse engineered Shahed drone. And it is about $30,000 to $40,000 as well in terms of its expense. So, we're getting to the point where we're getting better at that fiscal equation.\n\nCORNISH: Yes. But we're going to need money. You said fiscal equation. I know Hegseth is asking for, I think, $80 billion Iran war supplement, $1.5 trillion for the fiscal year. And then a $30 billion estimated current cost of the war at this point.\n\nWhat's the political appetite right now? I mean once you have service members dying, I have a hard time picturing any lawmaker I've ever met saying, we're not going to give money to this. Sorry, guys.\n\nSEUNG MIN KIM, CNN POLITICAL ANALYST: The political appetite is such that Republican leaders are using a maneuver that only needs Republican votes to try to push through this. I think in any other circumstance, you would have found some Democrats who are willing to say --\n\nKIM: Well, you know, we may not love this war, but the Pentagon does need the money and the resources.\n\nBut because of what we talked about earlier, how the president has not made a case for this war, how they have sought no -- essentially no authorization from Congress to authorize these strikes, the Democrats are saying, we're not going to help with passing this one at all.\n\nCORNISH: Yes. And I just want to say, when we look at the YouGov polling, this is for mid-July, was Iran war a wrong decision? So, this is people being asked, essentially, how do you feel about the president's handling of the war. Democrats, needless to say, 89 percent not happy. Independents, 65 percent saying the Iran war was the wrong decision. Not like wrong direction, wrong decision. And non- MAGA Republicans, 51 percent.\n\nNow, I know you're not political, but I feel like every military man who came of age post-Vietnam is now aware of how much the public sentiment matters. The forever war generation, how much the public sentiment matters. I don't want to overestimate casualties when there are going to be casualties in war. But how do you see it, given that people don't think he made the right call going?\n\nLEIGHTON: Yes. Well, one of the things that's different about the Vietnam era and what we're dealing with right now is that there is genuine support for the military itself. So, when you look at the American population at large, there's a lot of support for the military.\n\nYou know, I have not encountered the types of things that I encountered the first year I went through ROTC. First year I went through ROTC, people were against -- and it was 1980. You know, we were against the Vietnam War. It was still a, you know, vestige --\n\nLEIGHTON: That was over -- had been over for five years at that point. And you looked at a, you know, a completely different equation. But when it came to, you know, basically the election of Ronald Reagan, all of a sudden sentiment changed. Even on a liberal college campus. I went to Cornell. And that was a completely different environment.\n\nAnd then as, you know, during the Reagan years, there was a much better sense that people had that the military was becoming better, that it was becoming more efficient. And that actually is true because the military learned lessons from Vietnam.\n\nLEIGHTON: They changed the way they did business. And, you know, you saw the debacle, you know, going back to Iran, you saw the debacle in Desert One, which was the hostage rescue attempt.\n\nCORNISH: But I think as a result and beyond, also the draft and many other things, it's made the U.S. populace more sensitive to deaths.\n\nLEIGHTON: Absolutely. And I think, in, you know, deaths are a horrible thing. It's one of the, you know, if you could call it a good thing is the fact that people realize more what this is all about. In the past, when we didn't have ubiquitous media coverage about military actions, they were kind of abstract.\n\nLEIGHTON: Deaths were kind of abstract.\n\nLEIGHTON: And that is a real problem. But nowadays people are very sensitive to it and they're very -- I think they're very thankful for what the military is doing. I certainly sense that when I talk to people in general and it's, you know, it's something we definitely notice.\n\nCORNISH: Now, since I have you here, I want to ask about one more thing. That new Air Force One. Because it's getting another upgrade. It came from another country. It came from Qatar. And, obviously, there's been growing concerns about its security features. That came into focus earlier this month when the president unexpectedly ditched the jet during his return from the NATO Summit in Turkey. And he's like, yes, there's some changes coming.\n\nDONALD TRUMP, PRESIDENT OF THE UNITED STATES: It has a lot of capability. But as I understand it, in about a month or so they're going to send it to have it be maxed out.\n\nCORNISH: What does maxed out mean?\n\nLEIGHTON: Well, it's probably in the eye of the beholder. But here's what I think is happening.\n\nWhen you look at the Qatari donated Air Force One, and you look at the Air Force One that has been flown up until now, there are -- there are --\n\nCORNISH: Yes. U.S. made.\n\nLEIGHTON: The U.S. made one.\n\nLEIGHTON: Well, they're both U.S. made actually.\n\nLEIGHTON: But there are differences in the bubbles, we'll call them, that are there. And what those bubbles include are some of the electronic countermeasures that are used for Air Force One.\n\nNow, possession of a particular electronic countermeasure does not necessarily mean that it doesn't exist on the new airplane, but it -- there could be a reason to have it in a certain area. There could be, you know, aerodynamic reasons. But the key thing is this, there are certain active countermeasures that Air Force One has, at least the traditional Air Force One has, that may not be included in the current one. So --\n\nCORNISH: So, let's say he maxes it out.\n\nCORNISH: Uses the public's money, I assume, to max it out.\n\nLEIGHTON: Presumably, yes.\n\nCORNISH: Who does it go to at the end? Does he get to take away a maxed-out fake Air Force One with him after he leaves office?\n\nKIM: So, he has indicated that he wants to take that jet for his eventual presidential library. He -- I believe he has indicated that he will not actually use it. Now, once he leaves office, who knows what would happen.\n\nCORNISH: So, it's a gift to the country, not him.\n\nCORNISH: That he keeps, but won't use?\n\nKIM: Right. There's a lot of, you know, circuitous --\n\nCORNISH: I'm trying. I'm trying. I'm saying here (ph).\n\nKIM: Yes. The reason why he is even able to take -- why that option of him even taking the Qatari jet with him exists because this is -- this was never supposed to be the permanent Air Force One. Basically you had -- you had two new Air Force Ones that were supposed to come into existence but they've been delayed for years.\n\nKIM: And those Air Force Ones are coming into operation, now slated for 2028. The traditional Air Force Ones that we've seen, they've been flying for 36 years. They're old. They needed an upgrade. So, this Qatari jet is supposed to serve as a bridge between those old Air Force Ones and the new Air Force Ones that come in in 2028.\n\nCORNISH: Was this necessary?\n\nLEIGHTON: Well, you definitely want to protect the president, you know. And one of the problems that we had with the -- him coming back from the NATO Summit was that there was apparently an active threat from Iran. So, if that is true, then they had to do something to make sure that he was completely protected. And if there's any lack of countermeasures, proper countermeasures in a presidential jet, then that has to be remedied. Most world leaders don't have the kinds of bells and whistles that Air Force One has.\n\nLEIGHTON: And we're talking bells and whistles, not in terms of luxury, but in terms of actual defensive countermeasures. And those are the kinds of things that are necessary. In essence, what you're having is some types of -- some of the countermeasures are similar to the ones that you have on fighter jets, but you're putting them on a really big aircraft, a really big passenger jet.\n\nLEIGHTON: And that is, you know, something that requires a lot of engineering expertise. And it also requires a willingness to, you know, in essence, you know, integrate technologies into places where they don't normally belong. And that can be a challenge.\n\nCORNISH: Well, at some point I'll have you back to tell me about the delays in the original Air Force One. You'd think that was on the hurry up kind of list. So, I have questions.\n\nLEIGHTON: Yes, certainly would have been. Yes. Sure.\n\nCORNISH: Cedric Leighton, thank you for being here.\n\nNext on CNN THIS MORNING, we're going to talk about what's going on in Maine. We now know who's likely to take Graham Platner's place on the ballot and take on Republican Susan Collins for the Senate.\n\nPlus, the World Cup final on U.S. soil was a nail biter. Are Americans now ready to embrace the world's game?\n\nCORNISH: There's a new champ in town. Spain beat Argentina to become the winners of the World Cup. And they beat the defending champs with a single goal yesterday. This was in overtime.\n\nAs a host nation, the tournament brought soccer to the states in a way we haven't seen in a while. So, how long is the hype going to hold?\n\nJoining me now, Will Leitch, contributing editor for \"New York Magazine.\"\n\nThank you so much for being here.\n\nWILL LEITCH, CONTRIBUTING EDITOR, \"NEW YORK MAGAZINE\": Of course.\n\nCORNISH: I'm sure you had a blast watching this game, which was kind of wild to watch. How did you feel about it living up to the hype?\n\nLEITCH: Well, certainly it was ugly for a long time. Argentina went a full 100 plus minutes without a shot.\n\nBut, of course, the glory of soccer is that they still almost brought it to penalties.\n\nSpain was clearly the better team really throughout the entire tournament. They only gave up one goal the entire tournament to Belgium, the team that beat the United States. So, the U.S. can feel better about that, I suppose.\n\nBut Spain was clearly the best team. And even though Argentina had the biggest fan base, pretty much everywhere I saw them, I saw them twice in Atlanta, saw them again in East Rutherford yesterday, their fan base was overwhelming. But Spain was really the best team yesterday and the entire tournament. They're certainly a deserving champion.\n\nCORNISH: It's interesting, this game was sort of the GOAT versus the kids. Like, Spain having these, like, do you see what I did there? That Spain had these like teenagers playing. And it reminded me that several of the most high-profile players of this generation say this was their last World Cup.\n\nCan you talk about that legacy?\n\nLEITCH: Yes, certainly. This was almost certainly Messi's last World Cup. To be fair, we've said that a couple of times with him, but now it certainly feels like it's going to be his last one. A lot of those legacy players have gone on for a while now, and now you have someone like Lamine Yamal, who's the Spain player who's -- who just turned 19, is the -- one of the biggest memes of this entire tournament was a photo of him being bathed by Messi as a baby, which has -- he won a contest. So, that's how long the generations kind of went of this.\n\nThe next tournament will actually partly be hosted by Spain, so certainly they're going to be the defending champs. He's going to be the star of that tournament. This clearly being crossed over to that next generation. The best young player of the tournament was also on Spain, who won that award at this. So, clearly that's a young team moving forward.\n\nA lot of this is going to be built off what is universally considered one of the most, at least financially, successful World Cups ever here in the United States. There's going to be a lot of revenue. There's estimates that FIFA made $8.9 billion from this tournament alone. Some of those estimates even come in a little low as they go on. So, clearly, they're going to be building off this for a long time. And, frankly, it wouldn't be shocking to see if they can get back to the United States, frankly, as soon as they can after this.\n\nCORNISH: Before I let you go, I think back to my teen years watching women win a World Cup and the like images from that time have become the stuff of legend. What is going to be the legacy for the men's game out of this World Cup, which is -- had its really complicated moments?\n\nLEITCH: It certainly did. But you know, when you think, I was around in -- I was in high school in 1994, and I remember how big of a deal it was then. That really kind of launched soccer in this country. Obviously, we've seen a lot of the results of that at this. This was a much, much bigger tournament.\n\nIt you -- it often takes decades to kind of understand how much larger things have gotten to this. But you saw the street parties. You saw so much of the -- certainly the U.S. team and Trump's involvement. It was a little complicated. But on the whole, a lot of the worrisome and things that people had about this World Cup heading in didn't really come across. It wasn't perfect, but certainly, for a lot of people, the tournament not only showed kind of soccer in the United States, it actually kind of helped the United States reputation around the world. I think a lot of people were nervous about coming to the United States to watch this tournament. They're not really coming away -- they're coming away thinking this was a pretty terrific tournament, and they had a wonderful time. And actually even kind of maybe feeling a little better about America in the realm. So, I suppose that doesn't hurt as well.\n\nAnd again, this tournament may be -- very well be back in 12 years. And so I'll be very curious to see where it is then.\n\nCORNISH: OK. Will, thank you so much. Glad you had a blast LEITCH: I hope everybody else did too. Thank you.\n\nCORNISH: All right, we want to turn to one last thing. Democrats in Maine might be replacing an oyster man with a logger in their effort to unseat Senator Susan Collins. Over the weekend, Troy Jackson effectively locked up the nomination to replace Graham Platner. There are delegates supporting his campaign. He won 460 of those delegates. There's about 500 slots up for grabs. They're going to be among those meeting Saturday to officially name a nominee.\n\nNow, four of Jackson's competitors just dropped out, and Jackson is the former president of Maine's senate. He's a fifth generation logger. He also had Platner's endorsement when he was running for the Democratic nomination to become Maine's governor. Jackson eventually ended up in third place.\n\nUNIDENTIFIED FEMALE: He has been connecting with a lot of the same voters that Mr. Platner connected with. So, I'm really hoping that Troy can carry that momentum into November.\n\nCORNISH: Group chat is back.\n\nI wonder if the thing that mattered was that photo. That's like Graham Platner, Bernie and Troy. Like, if you've been arm in arm with Platner and people feel as though you represent the same things, is the movement energy transferable?\n\nSARA FISCHER, CNN SENIOR MEDIA ANALYST: I think the biggest thing is not who he's affiliating himself with, it's the fact that this is somebody who is a genuine Maine populist.\n\nCORNISH: Yes, he's a Maine guy. That's real (ph).\n\nFISCHER: I think that's why people in the Democratic Party feel pretty comfortable and confident about him. It's not like the national party plucked some person that they thought could be great for Maine. This is somebody who has a fifth -- he's a fifth generation logger. He has so much political clout within the Maine system.\n\nI don't think being affiliated with those guys does much. I think being a true Mainer is what helps him.\n\nCORNISH: And to Sara's point also, I'm under the impression that district that he's closest with are rural ones.\n\nJULIA MANCHESTER, NATIONAL POLITICAL REPORTER, \"THE HILL\": Absolutely. And that's very important for Democrats to turn out that rural vote when they oftentimes struggle with that vote. I think one thing he also has working in his favor is he always -- he already has a bit of a campaign apparatus behind him, having run statewide for governor in this primary.\n\nCORNISH: And can just like scribble out your name and the --\n\nMANCHESTER: Exactly. Exactly.\n\nCORNISH: You scribble out the word \"governor\" and just put \"Senate.\" Yes.\n\nMANCHESTER: Right. Right. There you go. There you go.\n\nKIM: Save some money.\n\nMANCHESTER: But one thing I do hear some concerns about Troy Jackson is that he doesn't have the same charisma, the same personality, you know, able to rally a --\n\nCORNISH: Yes. But do you need charisma for like ten days or can you just --\n\nFISCHER: I think no charisma is actually helpful for him.\n\nCORNISH: You want less. Do less.\n\nFISCHER: Like, people are so sick of the whole (INAUDIBLE).\n\nFISCHER: People just want somebody who's going to do the job well and be authentic to themselves.\n\nFISCHER: And that's kind of the vibe that you're getting from Troy Jackson.\n\nBy the way, Susan Collins is not miss charisma either.\n\nFISCHER: I don't think Maine is the type of place that's trying to put up Mamdani's.\n\nCORNISH: Yes. Oh, that's an interesting point. Because I guess what I was thinking of, it's a really short campaign time, right?\n\nCORNISH: But you're saying that that's negated by the fact that he has already campaigned for many weeks and months.\n\nMANCHESTER: Right. Exactly. KIM: Right. Right. I mean we will point out that he came in third. So, you -- in one sense, voters have kind of already rendered their verdict on whether he want -- whether they want him as a statewide official.\n\nCORNISH: For governor, yes.\n\nKIM: Correct. But I think, to your point, I mean, charisma isn't always kind of the thing for a political candidate. Obviously, it certainly helps. But if you look at the history of Maine, people they've elected to the Senate, its usually these workhorses. You're thinking Susan Collins, Olympia Snowe, Angus King. I mean, they're not necessarily, like --\n\nCORNISH: Yes. They're not show horses, they're workhorses.\n\nCORNISH: No, I get that. And I actually think that there's been so much national dialog about this race that people in Maine, you can sense the fatigue. Like, they actually don't want more attention. They want a senator.\n\nFISCHER: Yes, especially because whoever did the vetting on the Democratic side should be absolutely embarrassed and mortified about what happened with Graham Platner, right?\n\nCORNISH: Well, betting on the Democratic socialists outsider side, right?\n\nCORNISH: Like, that's the question. Those people who were like, we're getting -- we're out there finding the man's man's to run and not really check -- dotting the i's are getting major question marks. I think that will be the legacy out of this couple of weeks.\n\nFISCHER: But also just, yes, on the Democratic side. On the Republican side, too. You're supposed to have oppo researchers who are figuring all this out early and taking candidates down early. And they both missed the boat, right? Democrats and Republicans both missed the boat on pulling Graham Platner out of this early. And so, I think everybody now is sort of in a sense of retreat. Like, let this play out so that we can start a new and fresh after we get this out, because no one did particularly well here.\n\nCORNISH: Their job. Yes.\n\nCORNISH: All right, I want to turn to something because I'm getting some breaking news right now just in to CNN. The Pentagon has actually released the names of the two troops who lost their lives in Jordan. Their names are First Lieutenant Tyler James Feehan. He was 25 years old. He was from Hawaii. And Private Isabella Gonzalez. She was 19 years old. She was from Texas. They are now among the 17 deaths connected to the war with Iran. We're going to have more on this coming up. We'll have more details for you at the top of the hour.\n\nNow, since we're at the start of this week, I want to talk to you guys about what you're listening for in the road ahead. We're in this moment where we're coming off over the weekend with actual service member deaths. This is how we are starting the week. What are you listening for from the administration the next couple of days?\n\nKIM: Well, certainly we're going to expect, as with any, you know, active duty deaths, we'll see the president travel to Dover and pay respects. I mean, this is one of the most -- the most solemn rituals that any commander in chief has to take. And unfortunately, throughout the course of the war in Iraq, the president has had to do this multiple times. So, certainly we'll be watching for that.\n\nAnd also just again, how he continues to talk about these troop deaths and, you know, his interactions with --\n\nCORNISH: Or Hegseth, for that matter, right, when he comes out to the press (ph).\n\nKIM: Hegseth, interactions with the families. Correct. Correct.\n\nCORNISH: What are you listening for?\n\nMANCHESTER: Look, we have a number of primaries tomorrow, particularly in Arizona. So, watching for that. Watching for, you know, anything we can glean from the Republican-Democratic side of the aisle. We've been watching for, particularly out of the Dem side, what's the populist message, the progressive message? So, watching for that.\n\nAnd we're also seeing continuing campaigning for the primaries in August. Michigan really seems to be the hot race right now.\n\nCORNISH: We're talking up a storm about Michigan.\n\nWhat about you, Sara?\n\nFISCHER: I think you have such a solemn time right now with these lives that are being lost. We're still at war. And you juxtapose that against what just occurred with the World Cup and people celebrating American culture and people celebrating all of the events. And I think that we are now heading into a point in the summer where people kind of just want to back out a little bit --\n\nFISCHER: And take a second to just process all the things that are happening, the good, the bad, what it means to be America. We're coming off the 250 -- in America, coming off of the 250th anniversary. I think there's just a lot for people to take in.\n\nCORNISH: Yes, it will be interesting. I was thinking -- I saw \"The Odyssey\" over the weekend and fundamentally, Christopher Nolan's take has made this hero somebody who is a soldier, kind of with trauma, and it's about the cost of war and what it means to be at war.\n\nSo, we won't be able to escape very far, I think. It's not far from our minds culturally.\n\nAs we said, we're learning the identities of those troops who were lost overseas. That brings the death toll of service members up to 17. We're going to be following the U.S. and Iran trading strikes in the Middle East. So, please, stay with us. The headlines are next.",
+  "segments": [
+    {
+      "seg": 2,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-20/segment/02",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nThree U.S. Troops Killed in Jordan and Iraq; Qatari Air Force One Will be Maxed Out; New York Magazine's Will Leitch is Interviewed about the World Cup; Maine zeroes in on Senate Replacement. Aired 6:30-7a ET\n\nAired July 20, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nAUDIE CORNISH, CNN ANCHOR: Good morning, everybody. I'm Audie Cornish. Thank you for joining me on CNN THIS MORNING.\n\nIt is half past the hour. And here's what's happening right now.\n\nAny moment now the U.K. will have a new prime minister. Keir Starmer delivered his last address, formally resigning, leaving as the shortest serving Labour prime minister in history. Andy Burnham will take over. He will become the country's seventh prime minister in just ten years.\n\nAnd three people are dead in connection with a cluster of legionnaires disease in New York City. Officials believe the cases are connected with bacteria found in building cooling towers on the upper east side. According to the health department, 74 cases have been reported and eight people now hospitalized.\n\nAnd the U.S. military ramping up attacks in Iran for a ninth straight night. In return, Iran hitting targets across seven countries, including a U.S. base in Jordan, where two service members were killed on Friday. Another is missing. And one U.S. service member also died in northern Iraq Sunday while trying to do a controlled detonation of a downed Iranian attack drone.\n\nDONALD TRUMP, PRESIDENT OF THE UNITED STATES: Well, we feel very badly, but, you know, those great people, those great patriots who are out there fighting that Iran cannot have a nuclear weapon.\n\nCORNISH: OK, so the strikes from both sides raising serious concerns, again, about an all-out war breaking out in the region.\n\nAnd we're adding retired Air Force colonel, and CNN military analyst, Cedric Leighton.\n\nThank you so much for being here. I'm sorry it's under these circumstances, as the death toll of U.S. killed in action is now 17.\n\nI want to ask about one of those deaths. They were trying to detonate a drone, right? An Iranian drone lands. They're trying to get rid of it. Someone dies in the process. And it reminded me of the fact that the U.S. has had to have this whole system to intercept and deal with drones. An expensive system. How is it handling up under the onslaught from Iran?\n\nCOL. CEDRIC LEIGHTON (RET.), CNN MILITARY ANALYST: Yes, well, this is one of the key questions that CENTCOM and really all military officials in the U.S. have to answer this morning, Audie. And, you know, one of the things to look at here is that the Iranians have some very cheap, very efficient drones in many respects. So, you know, when you look at one of the common ones, the Shahed 136. About $30,000 a pop. And if it's coupled with explosives, then you've got a whole different set of things to worry about.\n\nSo, when the explosive ordnance disposal technicians look at these weapon systems, they have to go in and they try to defuse them.\n\nBasically they're defusing bombs when they do this. And we know that many of the drones that the Iranians have, have fuses that go off after the bombing -- or after the drone impacts a particular area. So --\n\nCORNISH: After it impacts, then it goes off again.\n\nLEIGHTON: It can. It --\n\nCORNISH: Is this a sense -- is this adaptation? Are we seeing an Iran that has not been obliterated militarily, but has found ways to adapt?\n\nLEIGHTON: Well, they've definitely found ways to adapt. And sometimes there are malfunctions of their equipment as well. So, in this case, we're probably talking about a malfunction. But those are the kinds of things that do happen. And the explosive ordnance folks look at these things in an effort to try to determine what those weapons actually are, what they're capable of, and how they actually, you know, how they explode, how they work, and whether or not there are other countermeasures that we can use. So, when it comes to those countermeasures, we are looking at a lot of different things. And it's, you know, it's definitely a very difficult problem set because it's a lot cheaper to throw things like drones of the Shahed type against a particular target than it is to defend them.\n\nCORNISH: So, it's not that we're running out of things, it's that we are running out of the things to intercept?\n\nLEIGHTON: Well, there are some things that we're running out of, or at least there's difficulty. Like, for example, the Patriot missiles. You know, when you look at the PAC-3 interceptors that are part of the Patriot packages, those are, first of all, hard to build. When you look at the rate of production and the rate of expenditure of those missiles, then --\n\nCORNISH: Yes, how long can we keep going.\n\nLEIGHTON: Then it's -- then it becomes a shortage. But the key thing to remember, Audie, is this, CENTCOM and other elements are moving into a different era where we're actually using drones against the Iranians as well. And some of the defense systems that we have right now are actually of the cheaper variety. There's a system called the LUCAS system, for example, that is a reverse engineered Shahed drone. And it is about $30,000 to $40,000 as well in terms of its expense. So, we're getting to the point where we're getting better at that fiscal equation.\n\nCORNISH: Yes. But we're going to need money. You said fiscal equation. I know Hegseth is asking for, I think, $80 billion Iran war supplement, $1.5 trillion for the fiscal year. And then a $30 billion estimated current cost of the war at this point.\n\nWhat's the political appetite right now? I mean once you have service members dying, I have a hard time picturing any lawmaker I've ever met saying, we're not going to give money to this. Sorry, guys.\n\nSEUNG MIN KIM, CNN POLITICAL ANALYST: The political appetite is such that Republican leaders are using a maneuver that only needs Republican votes to try to push through this. I think in any other circumstance, you would have found some Democrats who are willing to say --\n\nKIM: Well, you know, we may not love this war, but the Pentagon does need the money and the resources.\n\nBut because of what we talked about earlier, how the president has not made a case for this war, how they have sought no -- essentially no authorization from Congress to authorize these strikes, the Democrats are saying, we're not going to help with passing this one at all.\n\nCORNISH: Yes. And I just want to say, when we look at the YouGov polling, this is for mid-July, was Iran war a wrong decision? So, this is people being asked, essentially, how do you feel about the president's handling of the war. Democrats, needless to say, 89 percent not happy. Independents, 65 percent saying the Iran war was the wrong decision. Not like wrong direction, wrong decision. And non- MAGA Republicans, 51 percent.\n\nNow, I know you're not political, but I feel like every military man who came of age post-Vietnam is now aware of how much the public sentiment matters. The forever war generation, how much the public sentiment matters. I don't want to overestimate casualties when there are going to be casualties in war. But how do you see it, given that people don't think he made the right call going?\n\nLEIGHTON: Yes. Well, one of the things that's different about the Vietnam era and what we're dealing with right now is that there is genuine support for the military itself. So, when you look at the American population at large, there's a lot of support for the military.\n\nYou know, I have not encountered the types of things that I encountered the first year I went through ROTC. First year I went through ROTC, people were against -- and it was 1980. You know, we were against the Vietnam War. It was still a, you know, vestige --\n\nLEIGHTON: That was over -- had been over for five years at that point. And you looked at a, you know, a completely different equation. But when it came to, you know, basically the election of Ronald Reagan, all of a sudden sentiment changed. Even on a liberal college campus. I went to Cornell. And that was a completely different environment.\n\nAnd then as, you know, during the Reagan years, there was a much better sense that people had that the military was becoming better, that it was becoming more efficient. And that actually is true because the military learned lessons from Vietnam.\n\nLEIGHTON: They changed the way they did business. And, you know, you saw the debacle, you know, going back to Iran, you saw the debacle in Desert One, which was the hostage rescue attempt.\n\nCORNISH: But I think as a result and beyond, also the draft and many other things, it's made the U.S. populace more sensitive to deaths.\n\nLEIGHTON: Absolutely. And I think, in, you know, deaths are a horrible thing. It's one of the, you know, if you could call it a good thing is the fact that people realize more what this is all about. In the past, when we didn't have ubiquitous media coverage about military actions, they were kind of abstract.\n\nLEIGHTON: Deaths were kind of abstract.\n\nLEIGHTON: And that is a real problem. But nowadays people are very sensitive to it and they're very -- I think they're very thankful for what the military is doing. I certainly sense that when I talk to people in general and it's, you know, it's something we definitely notice.\n\nCORNISH: Now, since I have you here, I want to ask about one more thing. That new Air Force One. Because it's getting another upgrade. It came from another country. It came from Qatar. And, obviously, there's been growing concerns about its security features. That came into focus earlier this month when the president unexpectedly ditched the jet during his return from the NATO Summit in Turkey. And he's like, yes, there's some changes coming.\n\nDONALD TRUMP, PRESIDENT OF THE UNITED STATES: It has a lot of capability. But as I understand it, in about a month or so they're going to send it to have it be maxed out.\n\nCORNISH: What does maxed out mean?\n\nLEIGHTON: Well, it's probably in the eye of the beholder. But here's what I think is happening.\n\nWhen you look at the Qatari donated Air Force One, and you look at the Air Force One that has been flown up until now, there are -- there are --\n\nCORNISH: Yes. U.S. made.\n\nLEIGHTON: The U.S. made one.\n\nLEIGHTON: Well, they're both U.S. made actually.\n\nLEIGHTON: But there are differences in the bubbles, we'll call them, that are there. And what those bubbles include are some of the electronic countermeasures that are used for Air Force One.\n\nNow, possession of a particular electronic countermeasure does not necessarily mean that it doesn't exist on the new airplane, but it -- there could be a reason to have it in a certain area. There could be, you know, aerodynamic reasons. But the key thing is this, there are certain active countermeasures that Air Force One has, at least the traditional Air Force One has, that may not be included in the current one. So --\n\nCORNISH: So, let's say he maxes it out.\n\nCORNISH: Uses the public's money, I assume, to max it out.\n\nLEIGHTON: Presumably, yes.\n\nCORNISH: Who does it go to at the end? Does he get to take away a maxed-out fake Air Force One with him after he leaves office?\n\nKIM: So, he has indicated that he wants to take that jet for his eventual presidential library. He -- I believe he has indicated that he will not actually use it. Now, once he leaves office, who knows what would happen.\n\nCORNISH: So, it's a gift to the country, not him.\n\nCORNISH: That he keeps, but won't use?\n\nKIM: Right. There's a lot of, you know, circuitous --\n\nCORNISH: I'm trying. I'm trying. I'm saying here (ph).\n\nKIM: Yes. The reason why he is even able to take -- why that option of him even taking the Qatari jet with him exists because this is -- this was never supposed to be the permanent Air Force One. Basically you had -- you had two new Air Force Ones that were supposed to come into existence but they've been delayed for years.\n\nKIM: And those Air Force Ones are coming into operation, now slated for 2028. The traditional Air Force Ones that we've seen, they've been flying for 36 years. They're old. They needed an upgrade. So, this Qatari jet is supposed to serve as a bridge between those old Air Force Ones and the new Air Force Ones that come in in 2028.\n\nCORNISH: Was this necessary?\n\nLEIGHTON: Well, you definitely want to protect the president, you know. And one of the problems that we had with the -- him coming back from the NATO Summit was that there was apparently an active threat from Iran. So, if that is true, then they had to do something to make sure that he was completely protected. And if there's any lack of countermeasures, proper countermeasures in a presidential jet, then that has to be remedied. Most world leaders don't have the kinds of bells and whistles that Air Force One has.\n\nLEIGHTON: And we're talking bells and whistles, not in terms of luxury, but in terms of actual defensive countermeasures. And those are the kinds of things that are necessary. In essence, what you're having is some types of -- some of the countermeasures are similar to the ones that you have on fighter jets, but you're putting them on a really big aircraft, a really big passenger jet.\n\nLEIGHTON: And that is, you know, something that requires a lot of engineering expertise. And it also requires a willingness to, you know, in essence, you know, integrate technologies into places where they don't normally belong. And that can be a challenge.\n\nCORNISH: Well, at some point I'll have you back to tell me about the delays in the original Air Force One. You'd think that was on the hurry up kind of list. So, I have questions.\n\nLEIGHTON: Yes, certainly would have been. Yes. Sure.\n\nCORNISH: Cedric Leighton, thank you for being here.\n\nNext on CNN THIS MORNING, we're going to talk about what's going on in Maine. We now know who's likely to take Graham Platner's place on the ballot and take on Republican Susan Collins for the Senate.\n\nPlus, the World Cup final on U.S. soil was a nail biter. Are Americans now ready to embrace the world's game?\n\nCORNISH: There's a new champ in town. Spain beat Argentina to become the winners of the World Cup. And they beat the defending champs with a single goal yesterday. This was in overtime.\n\nAs a host nation, the tournament brought soccer to the states in a way we haven't seen in a while. So, how long is the hype going to hold?\n\nJoining me now, Will Leitch, contributing editor for \"New York Magazine.\"\n\nThank you so much for being here.\n\nWILL LEITCH, CONTRIBUTING EDITOR, \"NEW YORK MAGAZINE\": Of course.\n\nCORNISH: I'm sure you had a blast watching this game, which was kind of wild to watch. How did you feel about it living up to the hype?\n\nLEITCH: Well, certainly it was ugly for a long time. Argentina went a full 100 plus minutes without a shot.\n\nBut, of course, the glory of soccer is that they still almost brought it to penalties.\n\nSpain was clearly the better team really throughout the entire tournament. They only gave up one goal the entire tournament to Belgium, the team that beat the United States. So, the U.S. can feel better about that, I suppose.\n\nBut Spain was clearly the best team. And even though Argentina had the biggest fan base, pretty much everywhere I saw them, I saw them twice in Atlanta, saw them again in East Rutherford yesterday, their fan base was overwhelming. But Spain was really the best team yesterday and the entire tournament. They're certainly a deserving champion.\n\nCORNISH: It's interesting, this game was sort of the GOAT versus the kids. Like, Spain having these, like, do you see what I did there? That Spain had these like teenagers playing. And it reminded me that several of the most high-profile players of this generation say this was their last World Cup.\n\nCan you talk about that legacy?\n\nLEITCH: Yes, certainly. This was almost certainly Messi's last World Cup. To be fair, we've said that a couple of times with him, but now it certainly feels like it's going to be his last one. A lot of those legacy players have gone on for a while now, and now you have someone like Lamine Yamal, who's the Spain player who's -- who just turned 19, is the -- one of the biggest memes of this entire tournament was a photo of him being bathed by Messi as a baby, which has -- he won a contest. So, that's how long the generations kind of went of this.\n\nThe next tournament will actually partly be hosted by Spain, so certainly they're going to be the defending champs. He's going to be the star of that tournament. This clearly being crossed over to that next generation. The best young player of the tournament was also on Spain, who won that award at this. So, clearly that's a young team moving forward.\n\nA lot of this is going to be built off what is universally considered one of the most, at least financially, successful World Cups ever here in the United States. There's going to be a lot of revenue. There's estimates that FIFA made $8.9 billion from this tournament alone. Some of those estimates even come in a little low as they go on. So, clearly, they're going to be building off this for a long time. And, frankly, it wouldn't be shocking to see if they can get back to the United States, frankly, as soon as they can after this.\n\nCORNISH: Before I let you go, I think back to my teen years watching women win a World Cup and the like images from that time have become the stuff of legend. What is going to be the legacy for the men's game out of this World Cup, which is -- had its really complicated moments?\n\nLEITCH: It certainly did. But you know, when you think, I was around in -- I was in high school in 1994, and I remember how big of a deal it was then. That really kind of launched soccer in this country. Obviously, we've seen a lot of the results of that at this. This was a much, much bigger tournament.\n\nIt you -- it often takes decades to kind of understand how much larger things have gotten to this. But you saw the street parties. You saw so much of the -- certainly the U.S. team and Trump's involvement. It was a little complicated. But on the whole, a lot of the worrisome and things that people had about this World Cup heading in didn't really come across. It wasn't perfect, but certainly, for a lot of people, the tournament not only showed kind of soccer in the United States, it actually kind of helped the United States reputation around the world. I think a lot of people were nervous about coming to the United States to watch this tournament. They're not really coming away -- they're coming away thinking this was a pretty terrific tournament, and they had a wonderful time. And actually even kind of maybe feeling a little better about America in the realm. So, I suppose that doesn't hurt as well.\n\nAnd again, this tournament may be -- very well be back in 12 years. And so I'll be very curious to see where it is then.\n\nCORNISH: OK. Will, thank you so much. Glad you had a blast LEITCH: I hope everybody else did too. Thank you.\n\nCORNISH: All right, we want to turn to one last thing. Democrats in Maine might be replacing an oyster man with a logger in their effort to unseat Senator Susan Collins. Over the weekend, Troy Jackson effectively locked up the nomination to replace Graham Platner. There are delegates supporting his campaign. He won 460 of those delegates. There's about 500 slots up for grabs. They're going to be among those meeting Saturday to officially name a nominee.\n\nNow, four of Jackson's competitors just dropped out, and Jackson is the former president of Maine's senate. He's a fifth generation logger. He also had Platner's endorsement when he was running for the Democratic nomination to become Maine's governor. Jackson eventually ended up in third place.\n\nUNIDENTIFIED FEMALE: He has been connecting with a lot of the same voters that Mr. Platner connected with. So, I'm really hoping that Troy can carry that momentum into November.\n\nCORNISH: Group chat is back.\n\nI wonder if the thing that mattered was that photo. That's like Graham Platner, Bernie and Troy. Like, if you've been arm in arm with Platner and people feel as though you represent the same things, is the movement energy transferable?\n\nSARA FISCHER, CNN SENIOR MEDIA ANALYST: I think the biggest thing is not who he's affiliating himself with, it's the fact that this is somebody who is a genuine Maine populist.\n\nCORNISH: Yes, he's a Maine guy. That's real (ph).\n\nFISCHER: I think that's why people in the Democratic Party feel pretty comfortable and confident about him. It's not like the national party plucked some person that they thought could be great for Maine. This is somebody who has a fifth -- he's a fifth generation logger. He has so much political clout within the Maine system.\n\nI don't think being affiliated with those guys does much. I think being a true Mainer is what helps him.\n\nCORNISH: And to Sara's point also, I'm under the impression that district that he's closest with are rural ones.\n\nJULIA MANCHESTER, NATIONAL POLITICAL REPORTER, \"THE HILL\": Absolutely. And that's very important for Democrats to turn out that rural vote when they oftentimes struggle with that vote. I think one thing he also has working in his favor is he always -- he already has a bit of a campaign apparatus behind him, having run statewide for governor in this primary.\n\nCORNISH: And can just like scribble out your name and the --\n\nMANCHESTER: Exactly. Exactly.\n\nCORNISH: You scribble out the word \"governor\" and just put \"Senate.\" Yes.\n\nMANCHESTER: Right. Right. There you go. There you go.\n\nKIM: Save some money.\n\nMANCHESTER: But one thing I do hear some concerns about Troy Jackson is that he doesn't have the same charisma, the same personality, you know, able to rally a --\n\nCORNISH: Yes. But do you need charisma for like ten days or can you just --\n\nFISCHER: I think no charisma is actually helpful for him.\n\nCORNISH: You want less. Do less.\n\nFISCHER: Like, people are so sick of the whole (INAUDIBLE).\n\nFISCHER: People just want somebody who's going to do the job well and be authentic to themselves.\n\nFISCHER: And that's kind of the vibe that you're getting from Troy Jackson.\n\nBy the way, Susan Collins is not miss charisma either.\n\nFISCHER: I don't think Maine is the type of place that's trying to put up Mamdani's.\n\nCORNISH: Yes. Oh, that's an interesting point. Because I guess what I was thinking of, it's a really short campaign time, right?\n\nCORNISH: But you're saying that that's negated by the fact that he has already campaigned for many weeks and months.\n\nMANCHESTER: Right. Exactly. KIM: Right. Right. I mean we will point out that he came in third. So, you -- in one sense, voters have kind of already rendered their verdict on whether he want -- whether they want him as a statewide official.\n\nCORNISH: For governor, yes.\n\nKIM: Correct. But I think, to your point, I mean, charisma isn't always kind of the thing for a political candidate. Obviously, it certainly helps. But if you look at the history of Maine, people they've elected to the Senate, its usually these workhorses. You're thinking Susan Collins, Olympia Snowe, Angus King. I mean, they're not necessarily, like --\n\nCORNISH: Yes. They're not show horses, they're workhorses.\n\nCORNISH: No, I get that. And I actually think that there's been so much national dialog about this race that people in Maine, you can sense the fatigue. Like, they actually don't want more attention. They want a senator.\n\nFISCHER: Yes, especially because whoever did the vetting on the Democratic side should be absolutely embarrassed and mortified about what happened with Graham Platner, right?\n\nCORNISH: Well, betting on the Democratic socialists outsider side, right?\n\nCORNISH: Like, that's the question. Those people who were like, we're getting -- we're out there finding the man's man's to run and not really check -- dotting the i's are getting major question marks. I think that will be the legacy out of this couple of weeks.\n\nFISCHER: But also just, yes, on the Democratic side. On the Republican side, too. You're supposed to have oppo researchers who are figuring all this out early and taking candidates down early. And they both missed the boat, right? Democrats and Republicans both missed the boat on pulling Graham Platner out of this early. And so, I think everybody now is sort of in a sense of retreat. Like, let this play out so that we can start a new and fresh after we get this out, because no one did particularly well here.\n\nCORNISH: Their job. Yes.\n\nCORNISH: All right, I want to turn to something because I'm getting some breaking news right now just in to CNN. The Pentagon has actually released the names of the two troops who lost their lives in Jordan. Their names are First Lieutenant Tyler James Feehan. He was 25 years old. He was from Hawaii. And Private Isabella Gonzalez. She was 19 years old. She was from Texas. They are now among the 17 deaths connected to the war with Iran. We're going to have more on this coming up. We'll have more details for you at the top of the hour.\n\nNow, since we're at the start of this week, I want to talk to you guys about what you're listening for in the road ahead. We're in this moment where we're coming off over the weekend with actual service member deaths. This is how we are starting the week. What are you listening for from the administration the next couple of days?\n\nKIM: Well, certainly we're going to expect, as with any, you know, active duty deaths, we'll see the president travel to Dover and pay respects. I mean, this is one of the most -- the most solemn rituals that any commander in chief has to take. And unfortunately, throughout the course of the war in Iraq, the president has had to do this multiple times. So, certainly we'll be watching for that.\n\nAnd also just again, how he continues to talk about these troop deaths and, you know, his interactions with --\n\nCORNISH: Or Hegseth, for that matter, right, when he comes out to the press (ph).\n\nKIM: Hegseth, interactions with the families. Correct. Correct.\n\nCORNISH: What are you listening for?\n\nMANCHESTER: Look, we have a number of primaries tomorrow, particularly in Arizona. So, watching for that. Watching for, you know, anything we can glean from the Republican-Democratic side of the aisle. We've been watching for, particularly out of the Dem side, what's the populist message, the progressive message? So, watching for that.\n\nAnd we're also seeing continuing campaigning for the primaries in August. Michigan really seems to be the hot race right now.\n\nCORNISH: We're talking up a storm about Michigan.\n\nWhat about you, Sara?\n\nFISCHER: I think you have such a solemn time right now with these lives that are being lost. We're still at war. And you juxtapose that against what just occurred with the World Cup and people celebrating American culture and people celebrating all of the events. And I think that we are now heading into a point in the summer where people kind of just want to back out a little bit --\n\nFISCHER: And take a second to just process all the things that are happening, the good, the bad, what it means to be America. We're coming off the 250 -- in America, coming off of the 250th anniversary. I think there's just a lot for people to take in.\n\nCORNISH: Yes, it will be interesting. I was thinking -- I saw \"The Odyssey\" over the weekend and fundamentally, Christopher Nolan's take has made this hero somebody who is a soldier, kind of with trauma, and it's about the cost of war and what it means to be at war.\n\nSo, we won't be able to escape very far, I think. It's not far from our minds culturally.\n\nAs we said, we're learning the identities of those troops who were lost overseas. That brings the death toll of service members up to 17. We're going to be following the U.S. and Iran trading strikes in the Middle East. So, please, stay with us. The headlines are next."
+    }
+  ]
+}
