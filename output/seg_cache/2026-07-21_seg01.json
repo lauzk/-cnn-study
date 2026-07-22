@@ -1,0 +1,534 @@
+{
+  "date": "2026-07-21",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-21/segment/01",
+  "vocabulary": [
+    {
+      "word": "escalatory",
+      "phonetic": "/ˈeskəleɪtəri/",
+      "pos": "adj.",
+      "level": "专八",
+      "cn": "升级的，逐步升级的",
+      "en": "tending to increase in intensity or extent",
+      "excerpt": "You're saying the U.S. is in a kind of escalatory spiral?",
+      "example_cn": "你说美国正处于一种升级的螺旋中？"
+    },
+    {
+      "word": "spiral",
+      "phonetic": "/ˈspaɪrəl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "螺旋，不断恶化",
+      "en": "a continuous and often worsening situation",
+      "excerpt": "You're saying the U.S. is in a kind of escalatory spiral?",
+      "example_cn": "你说美国正处于一种升级的螺旋中？"
+    },
+    {
+      "word": "ceasefire",
+      "phonetic": "/ˈsiːsfaɪər/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "停火，停战",
+      "en": "a temporary suspension of fighting",
+      "excerpt": "There were some reports of a ten-day ceasefire being floated by mediators between the U.S. and Iran.",
+      "example_cn": "有报道称调解人提出了美伊之间为期十天的停火。"
+    },
+    {
+      "word": "mediator",
+      "phonetic": "/ˈmiːdieɪtər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "调解人，调停者",
+      "en": "a person who tries to bring about agreement between others",
+      "excerpt": "There were some reports of a ten-day ceasefire being floated by mediators between the U.S. and Iran.",
+      "example_cn": "有报道称调解人提出了美伊之间为期十天的停火。"
+    },
+    {
+      "word": "stall",
+      "phonetic": "/stɔːl/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "拖延，推迟",
+      "en": "to delay or obstruct deliberately",
+      "excerpt": "All they want to do is stall, stall, stall.",
+      "example_cn": "他们只想拖延、拖延、再拖延。"
+    },
+    {
+      "word": "escalation",
+      "phonetic": "/ˌeskəˈleɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "升级，扩大",
+      "en": "an increase in intensity or scope",
+      "excerpt": "what we saw over the weekend is a natural outcome of this escalation we've seen since the return to conflict",
+      "example_cn": "我们周末看到的是自冲突恢复以来我们所看到的升级的自然结果。"
+    },
+    {
+      "word": "outcome",
+      "phonetic": "/ˈaʊtkʌm/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "结果，结局",
+      "en": "the result or consequence of an action",
+      "excerpt": "what we saw over the weekend is a natural outcome of this escalation",
+      "example_cn": "我们周末看到的是这种升级的自然结果。"
+    },
+    {
+      "word": "reach",
+      "phonetic": "/riːtʃ/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "范围，影响范围",
+      "en": "the extent or range of something",
+      "excerpt": "The Iranians are taking this moment to show that they still have reach",
+      "example_cn": "伊朗人正借此机会表明他们仍有影响力。"
+    },
+    {
+      "word": "strategic",
+      "phonetic": "/strəˈtiːdʒɪk/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "战略的，策略的",
+      "en": "relating to the identification of long-term goals and means",
+      "excerpt": "not looking at their own strategic outcomes as much",
+      "example_cn": "不那么关注自己的战略成果。"
+    },
+    {
+      "word": "directive",
+      "phonetic": "/dəˈrektɪv/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "指令，命令",
+      "en": "an official instruction or order",
+      "excerpt": "This directive has been passed on to the Secretary of War",
+      "example_cn": "这一指令已传达给战争部长。"
+    },
+    {
+      "word": "lifeline",
+      "phonetic": "/ˈlaɪflaɪn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "生命线，命脉",
+      "en": "a thing on which someone or something depends for survival",
+      "excerpt": "the Red Sea, which has been a key lifeline for the global economy",
+      "example_cn": "红海一直是全球经济的关键生命线。"
+    },
+    {
+      "word": "leverage",
+      "phonetic": "/ˈlevərɪdʒ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "利用，施加影响",
+      "en": "to use something to maximum advantage",
+      "excerpt": "the way Iran has been able to leverage the Strait of Hormuz",
+      "example_cn": "伊朗利用霍尔木兹海峡的方式。"
+    },
+    {
+      "word": "refrain",
+      "phonetic": "/rɪˈfreɪn/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "克制，避免",
+      "en": "to stop oneself from doing something",
+      "excerpt": "they had refrained from significant engagement",
+      "example_cn": "他们一直避免重大参与。"
+    },
+    {
+      "word": "engagement",
+      "phonetic": "/ɪnˈɡeɪdʒmənt/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "交战，参与",
+      "en": "involvement in military conflict",
+      "excerpt": "they had refrained from significant engagement",
+      "example_cn": "他们一直避免重大参与。"
+    },
+    {
+      "word": "backer",
+      "phonetic": "/ˈbækər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "支持者，赞助者",
+      "en": "a person or organization that supports someone or something",
+      "excerpt": "Their primary backer is saying, We need you in the fight.",
+      "example_cn": "他们的主要支持者说，我们需要你加入战斗。"
+    },
+    {
+      "word": "array",
+      "phonetic": "/əˈreɪ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "一系列，大量",
+      "en": "an impressive display or range of things",
+      "excerpt": "using their wide array of drones and missiles",
+      "example_cn": "使用他们大量的无人机和导弹。"
+    },
+    {
+      "word": "stockpile",
+      "phonetic": "/ˈstɒkpaɪl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "储备，库存",
+      "en": "a large supply of something kept for future use",
+      "excerpt": "how is the U.S. prepared to refill its stockpiles of munitions",
+      "example_cn": "美国如何准备补充其弹药库存。"
+    },
+    {
+      "word": "munitions",
+      "phonetic": "/mjuːˈnɪʃnz/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "军火，弹药",
+      "en": "military weapons, ammunition, and equipment",
+      "excerpt": "how is the U.S. prepared to refill its stockpiles of munitions",
+      "example_cn": "美国如何准备补充其弹药库存。"
+    },
+    {
+      "word": "draw down",
+      "phonetic": "/drɔː daʊn/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "消耗，减少",
+      "en": "to reduce a stock or supply",
+      "excerpt": "it's drawn down significantly",
+      "example_cn": "它已经大幅消耗。"
+    },
+    {
+      "word": "industrial base",
+      "phonetic": "/ɪnˈdʌstriəl beɪs/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "工业基础",
+      "en": "the manufacturing capacity of a country",
+      "excerpt": "increase the capacity of the industrial base",
+      "example_cn": "提高工业基础的能力。"
+    },
+    {
+      "word": "tactical",
+      "phonetic": "/ˈtæktɪkl/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "战术的，策略的",
+      "en": "relating to actions carefully planned to gain a specific result",
+      "excerpt": "it is capable of tactical victories",
+      "example_cn": "它能够取得战术上的胜利。"
+    },
+    {
+      "word": "calculus",
+      "phonetic": "/ˈkælkjələs/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "计算，算计",
+      "en": "a method of calculation or reasoning",
+      "excerpt": "that's not changing the calculus of the regime",
+      "example_cn": "这并没有改变该政权的算计。"
+    },
+    {
+      "word": "regime",
+      "phonetic": "/reɪˈʒiːm/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "政权，政体",
+      "en": "a government, especially an authoritarian one",
+      "excerpt": "that's not changing the calculus of the regime",
+      "example_cn": "这并没有改变该政权的算计。"
+    },
+    {
+      "word": "negotiating table",
+      "phonetic": "/nɪˈɡoʊʃieɪtɪŋ ˈteɪbl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "谈判桌",
+      "en": "a place where negotiations take place",
+      "excerpt": "find a way back to the negotiating table",
+      "example_cn": "找到回到谈判桌的方法。"
+    },
+    {
+      "word": "sidelined",
+      "phonetic": "/ˈsaɪdlaɪnd/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "被边缘化的，被排除在外的",
+      "en": "removed from a position of influence or activity",
+      "excerpt": "the president has more or less sidelined Congress in the war",
+      "example_cn": "总统在战争中或多或少地将国会边缘化了。"
+    },
+    {
+      "word": "caretaker",
+      "phonetic": "/ˈkeərteɪkər/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "临时的，代理的",
+      "en": "holding power temporarily",
+      "excerpt": "it's usually a caretaker situation",
+      "example_cn": "这通常是一种临时的情况。"
+    },
+    {
+      "word": "primary",
+      "phonetic": "/ˈpraɪmeri/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "初选",
+      "en": "a preliminary election to select a candidate",
+      "excerpt": "the primary election in this special situation is coming up",
+      "example_cn": "这种特殊情况下的初选即将到来。"
+    },
+    {
+      "word": "endorsement",
+      "phonetic": "/ɪnˈdɔːrsmənt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "支持，背书",
+      "en": "a public statement of support",
+      "excerpt": "President Trump encouraged her to run... saying he would give her his complete and total endorsement.",
+      "example_cn": "特朗普总统鼓励她参选……说他将给予她完全和彻底的支持。"
+    },
+    {
+      "word": "incumbent",
+      "phonetic": "/ɪnˈkʌmbənt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "现任者，在职者",
+      "en": "the holder of an office or post",
+      "excerpt": "Will she be seen as an extension of an incumbent?",
+      "example_cn": "她会被视为现任者的延伸吗？"
+    },
+    {
+      "word": "extension",
+      "phonetic": "/ɪkˈstenʃn/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "延伸，扩展",
+      "en": "a part that is added to something to enlarge or prolong it",
+      "excerpt": "Will she be seen as an extension of an incumbent?",
+      "example_cn": "她会被视为现任者的延伸吗？"
+    },
+    {
+      "word": "extradition",
+      "phonetic": "/ˌekstrəˈdɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "引渡",
+      "en": "the surrender of an alleged criminal to another jurisdiction",
+      "excerpt": "They are facing extradition on human trafficking charges.",
+      "example_cn": "他们面临人口贩卖指控的引渡。"
+    },
+    {
+      "word": "human trafficking",
+      "phonetic": "/ˈhjuːmən ˈtræfɪkɪŋ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "人口贩卖",
+      "en": "the illegal trade of human beings for exploitation",
+      "excerpt": "They are facing extradition on human trafficking charges.",
+      "example_cn": "他们面临人口贩卖指控的引渡。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Defense Secretary Pete Hegseth faces lawmakers today for the first time since the U.S. went back to war with Iran.",
+      "cn": "国防部长皮特·赫格塞斯今天将首次面对国会议员，这是自美国与伊朗重新开战以来的第一次。",
+      "structure": "主谓宾 + 时间状语 + 原因状语从句",
+      "analysis": "主句为Defense Secretary Pete Hegseth faces lawmakers today，for the first time是时间状语，since引导时间状语从句。"
+    },
+    {
+      "en": "The Pentagon has confirmed nearly 100 U.S. service members have been injured in just the past two weeks.",
+      "cn": "五角大楼已确认在过去两周内就有近100名美国军人受伤。",
+      "structure": "主谓宾 + 宾语从句",
+      "analysis": "主句为The Pentagon has confirmed，后面是省略that的宾语从句nearly 100 U.S. service members have been injured in just the past two weeks。"
+    },
+    {
+      "en": "There were some reports of a ten-day ceasefire being floated by mediators between the U.S. and Iran.",
+      "cn": "有报道称调解人提出了美伊之间为期十天的停火。",
+      "structure": "There be句型 + 介词短语 + 动名词短语",
+      "analysis": "There were some reports是主干，of a ten-day ceasefire being floated by mediators是介词短语修饰reports，其中being floated是动名词被动形式。"
+    },
+    {
+      "en": "What we saw over the weekend is a natural outcome of this escalation we've seen since the return to conflict, as the MOU and the ceasefire collapsed.",
+      "cn": "我们周末看到的是自冲突恢复以来我们所看到的升级的自然结果，因为谅解备忘录和停火协议破裂了。",
+      "structure": "主语从句 + 系表结构 + 定语从句 + 原因状语从句",
+      "analysis": "What we saw over the weekend是主语从句，is a natural outcome是系表结构，of this escalation是介词短语，we've seen是定语从句修饰escalation，since the return to conflict是时间状语，as引导原因状语从句。"
+    },
+    {
+      "en": "The Iranians are taking this moment to show that they still have reach, that they still have missiles.",
+      "cn": "伊朗人正借此机会表明他们仍有影响力，他们仍有导弹。",
+      "structure": "主谓宾 + 不定式目的状语 + 两个宾语从句",
+      "analysis": "主句为The Iranians are taking this moment，to show是不定式作目的状语，后面跟两个that引导的宾语从句。"
+    },
+    {
+      "en": "What we're really seeing now is that both sides are actually responding to the other's hits, not looking at their own strategic outcomes as much.",
+      "cn": "我们现在真正看到的是，双方实际上都在回应对方的打击，而不太关注自己的战略成果。",
+      "structure": "主语从句 + 系表结构 + 表语从句",
+      "analysis": "What we're really seeing now是主语从句，is是系动词，that引导表语从句，从句中not looking是现在分词短语作伴随状语。"
+    },
+    {
+      "en": "Every time Iran kills an American soldier, they will pay for that killing many times over.",
+      "cn": "每次伊朗杀死一名美国士兵，他们都将为此付出多倍的代价。",
+      "structure": "时间状语从句 + 主句",
+      "analysis": "Every time引导时间状语从句，主句为they will pay for that killing many times over。"
+    },
+    {
+      "en": "What has happened here is a combination of Iranian pressure, right? Their primary backer is saying, We need you in the fight.",
+      "cn": "这里发生的是伊朗压力的结合，对吧？他们的主要支持者说，我们需要你加入战斗。",
+      "structure": "主语从句 + 系表结构 + 同位语",
+      "analysis": "What has happened here是主语从句，is a combination是系表结构，of Iranian pressure是介词短语，right是反问，后面句子是进一步解释。"
+    },
+    {
+      "en": "And now, they're trying to find a way to show their strength in this moment and highlight that they can stop shipping through the Red Sea, potentially, using their wide array of drones and missiles.",
+      "cn": "现在，他们正试图找到一种方式来展示他们此刻的力量，并强调他们可以阻止通过红海的航运，可能使用他们大量的无人机和导弹。",
+      "structure": "主谓宾 + 不定式目的状语 + 宾语从句 + 现在分词短语",
+      "analysis": "主句为they're trying to find a way，to show...and highlight是不定式短语作目的状语，highlight后跟that宾语从句，using...是现在分词短语作方式状语。"
+    },
+    {
+      "en": "I think one of the outstanding questions for him will be, how is the U.S. prepared to refill its stockpiles of munitions that it's drawn down significantly, particularly in that early phase of the war?",
+      "cn": "我认为对他来说一个突出的问题是，美国如何准备补充其弹药库存，这些库存已经大幅消耗，尤其是在战争初期？",
+      "structure": "主谓宾 + 宾语从句（含定语从句）",
+      "analysis": "主句为I think，后面是省略that的宾语从句，从句主语为one of the outstanding questions，how引导表语从句，其中that it's drawn down significantly是定语从句修饰munitions。"
+    },
+    {
+      "en": "And it's not only putting the money into the production, but it's finding a way to speed it up because, for many of these key inputs, the key weapon systems, particularly our long-range strike systems like a Tomahawk or the key air defense systems -- Patriot and the SM-3 -- those are all -- those all take years to produce.",
+      "cn": "这不仅是将资金投入生产，而且是在寻找加速生产的方法，因为对于许多关键投入，关键武器系统，特别是我们的远程打击系统如战斧导弹或关键防空系统——爱国者和SM-3——这些都需要数年时间才能生产。",
+      "structure": "并列结构 + 原因状语从句",
+      "analysis": "not only...but also连接两个并列谓语，because引导原因状语从句，从句中for...是介词短语，破折号内是同位语，those are all...是主句。"
+    },
+    {
+      "en": "But so far, that's not changing the calculus of the regime.",
+      "cn": "但到目前为止，这并没有改变该政权的算计。",
+      "structure": "主谓宾",
+      "analysis": "简单句，主语that，谓语is not changing，宾语the calculus of the regime。"
+    },
+    {
+      "en": "And the issue that has really taken over: the status of the Strait of Hormuz, and whether ships will really be able to freely transit and all of that oil, natural gas.",
+      "cn": "真正占据主导地位的问题是：霍尔木兹海峡的状况，以及船只是否真的能够自由通行，以及所有的石油和天然气。",
+      "structure": "主语 + 定语从句 + 同位语",
+      "analysis": "主语the issue，that has really taken over是定语从句，冒号后是同位语，包括两个并列成分：the status...和whether...从句。"
+    },
+    {
+      "en": "But a week-long filing period opens today for the special Republican primary, which was set for August 11th to fill the seat officially.",
+      "cn": "但为期一周的申请期今天开始，用于特别共和党初选，该初选定于8月11日举行，以正式填补席位。",
+      "structure": "主谓宾 + 定语从句",
+      "analysis": "主句为a week-long filing period opens today，for...是介词短语，which引导非限制性定语从句修饰primary。"
+    },
+    {
+      "en": "President Trump encouraged her to run in a Truth Social post last week, saying he would give her his complete and total endorsement.",
+      "cn": "特朗普总统上周在Truth Social上发帖鼓励她参选，称他将给予她完全和彻底的支持。",
+      "structure": "主谓宾 + 现在分词短语",
+      "analysis": "主句为President Trump encouraged her to run，in a Truth Social post last week是状语，saying是现在分词短语作伴随状语，后面跟宾语从句。"
+    },
+    {
+      "en": "It seems to have been a surprise to a number of people, including some of the people who were hoping to, and still are hoping, to run for the seat, that there was this understanding.",
+      "cn": "这似乎让许多人感到惊讶，包括一些希望并仍在希望竞选该席位的人，竟然有这样的理解。",
+      "structure": "主系表 + 不定式完成时 + 介词短语 + 定语从句 + 同位语从句",
+      "analysis": "It seems to have been a surprise是主系表，to a number of people是介词短语，including...是介词短语，who引导定语从句，that引导同位语从句解释surprise。"
+    },
+    {
+      "en": "But there was this feeling like she would not be part of it.",
+      "cn": "但有一种感觉，她不会参与其中。",
+      "structure": "There be句型 + 同位语从句",
+      "analysis": "There was this feeling是主干，like引导同位语从句（非正式用法，相当于that）。"
+    },
+    {
+      "en": "Now the question is this -- the primary election in this special situation is coming up in just a few weeks.",
+      "cn": "现在的问题是——这种特殊情况下的初选将在几周后举行。",
+      "structure": "主系表 + 同位语",
+      "analysis": "主句为the question is this，破折号后是同位语，解释this。"
+    },
+    {
+      "en": "I think that this is a really good thing.",
+      "cn": "我认为这是一件非常好的事情。",
+      "structure": "主谓宾 + 宾语从句",
+      "analysis": "主句为I think，that引导宾语从句。"
+    },
+    {
+      "en": "But also, you know, you've heard on the other side, like, is she qualified, blah, blah, blah.",
+      "cn": "但你也知道，你在另一边听到过，比如，她是否合格，等等。",
+      "structure": "插入语 + 主谓宾 + 直接引语",
+      "analysis": "you've heard是主谓，on the other side是状语，like引导直接引语。"
+    },
+    {
+      "en": "I don't think that that automatically makes you not qualified.",
+      "cn": "我不认为这自动让你不合格。",
+      "structure": "主谓宾 + 宾语从句",
+      "analysis": "主句为I don't think，that引导宾语从句，从句中that指代前文。"
+    },
+    {
+      "en": "The condition here is that she has the Senate seat because she was appointed to it, right?",
+      "cn": "这里的情况是她拥有参议院席位，因为她被任命了，对吧？",
+      "structure": "主系表 + 表语从句 + 原因状语从句",
+      "analysis": "主句为The condition here is，that引导表语从句，从句中because引导原因状语从句。"
+    },
+    {
+      "en": "It just so happens that this one was up this year.",
+      "cn": "碰巧这个席位今年到期。",
+      "structure": "主谓 + 主语从句",
+      "analysis": "It是形式主语，just so happens是谓语，that引导主语从句。"
+    },
+    {
+      "en": "Lindsey Graham just had a primary two months ago.",
+      "cn": "林赛·格雷厄姆两个月前刚进行了一场初选。",
+      "structure": "主谓宾 + 时间状语",
+      "analysis": "简单句，主语Lindsey Graham，谓语had，宾语a primary，时间状语two months ago。"
+    },
+    {
+      "en": "And it's also important to say that Lindsey Graham only got 56 percent of the Republican vote in the Republican primary against a nobody.",
+      "cn": "同样重要的是要说，林赛·格雷厄姆在共和党初选中只获得了56%的共和党选票，对手是个无名小卒。",
+      "structure": "形式主语 + 系表 + 不定式短语 + 宾语从句",
+      "analysis": "It是形式主语，is important是系表，to say是真正主语，that引导宾语从句。"
+    },
+    {
+      "en": "Will she be seen as an extension of an incumbent?",
+      "cn": "她会被视为现任者的延伸吗？",
+      "structure": "一般疑问句",
+      "analysis": "助动词Will提前，主语she，be seen是谓语，as...是主语补足语。"
+    },
+    {
+      "en": "I actually think, though, it was because Lindsey had -- Lindsey also isn't considered conservative enough for South Carolina.",
+      "cn": "不过，我实际上认为，这是因为林赛——林赛也被认为对南卡罗来纳州来说不够保守。",
+      "structure": "插入语 + 主谓宾 + 宾语从句 + 原因状语从句",
+      "analysis": "主句为I actually think，though是插入语，后面是省略that的宾语从句，从句中because引导原因状语从句。"
+    },
+    {
+      "en": "It'll be interesting to see what aspects of his agenda she is most vocal about, or if she really positions herself as \"I'm a caretaker of this legacy, and I want to help follow through on the things he cared about,\" of which some of them are still up for a vote, right?",
+      "cn": "看看她最直言不讳地谈论他议程的哪些方面，或者她是否真的将自己定位为“我是这一遗产的守护者，我想帮助完成他关心的事情”，其中一些事情仍有待投票，这将会很有趣。",
+      "structure": "形式主语 + 系表 + 不定式短语 + 宾语从句 + 定语从句",
+      "analysis": "It是形式主语，will be interesting是系表，to see是真正主语，后面跟what和if引导的宾语从句，of which引导定语从句修饰things。"
+    },
+    {
+      "en": "But here's the other thing that I think is interesting.",
+      "cn": "但这是我认为有趣的另一件事。",
+      "structure": "倒装句 + 定语从句",
+      "analysis": "Here's the other thing是倒装，that引导定语从句修饰thing，从句中I think是插入语。"
+    },
+    {
+      "en": "There is a singer accused of murder who's due in court.",
+      "cn": "有一名被指控谋杀的歌手今天要出庭。",
+      "structure": "There be句型 + 过去分词短语 + 定语从句",
+      "analysis": "There is a singer是主干，accused of murder是过去分词短语作定语，who's due in court是定语从句。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "美伊冲突升级",
+      "content": "美国与伊朗重新开战，国防部长赫格塞斯向国会寻求870亿美元战争资金。美军在伊朗冲突中已有17人死亡，近100人受伤。伊朗展示其导弹能力，胡塞武装也被卷入，威胁红海航运。",
+      "keywords": "Iran, Hegseth, ceasefire, escalation, Strait of Hormuz, Houthi"
+    },
+    {
+      "title": "南卡罗来纳州参议员席位争夺",
+      "content": "已故参议员林赛·格雷厄姆的妹妹达琳·格雷厄姆被任命接替其席位，并决定竞选连任。特朗普支持她，但面临其他共和党人如拉塞尔·弗莱、拉尔夫·诺曼的挑战。",
+      "keywords": "Darline Graham, Lindsey Graham, Senate, primary, endorsement"
+    },
+    {
+      "title": "其他新闻",
+      "content": "热带风暴贝莎逼近墨西哥湾沿岸；歌手D4vd因谋杀14岁少女出庭；俄亥俄州五人因救人溺亡；退伍军人涉嫌在纽约联邦大楼纵火；司法部调查哈佛大学财务援助项目。",
+      "keywords": "Tropical Storm Bertha, D4vd, Ohio drowning, arson, Harvard"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nToday: Hegseth Faces Senators after New Troop Deaths, Injuries; Darline Graham Launches Bid for Full Senate Term. Aired 6-6:30a ET\n\nAired July 21, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nBRAD SMITH, CNN ANCHOR: -- involving two tractor-trailers. Highway patrol says a huge amount of diesel was leaked on the interstate.\n\nThe cause of the incident and the accident here is under investigation. We'll continue to keep you updated with any of the details as they continue to come forward.\n\nJust crazy scenes that we're getting a glimpse of here from that accident.\n\nWell, that does it for CNN HEADLINE EXPRESS. I'm Brad Smith. CNN THIS MORNING with Audie Cornish starts right now.\n\nAUDIE CORNISH, CNN ANCHOR: Defense Secretary Pete Hegseth faces lawmakers today for the first time since the U.S. went back to war with Iran. How will he answer for the troop deaths and injured this month in the fight?\n\nAnd the lawyer for the Tate brothers thinks Marco Rubio could save them from facing rape and sex trafficking charges in the U.K. But what does the State Department say?\n\nSEN. DARLINE GRAHAM (R-SC): I feel like I can do it. I feel an inner peace about it.\n\nCORNISH: Lindsey Graham's sister wants to run for his Senate seat. Will President Trump's support be enough to carry the first-time candidate?\n\nAnd you see him take on Pete Hegseth and take care of his wife, Gabby Giffords. Do Democrats see Senator Mark Kelly as a candidate for president?\n\nUNIDENTIFIED MALE: They have not been telling us what's been happening in terms of lost equipment, in terms of the cost of the war, and certainly in terms of the service members who have been wounded.\n\nCORNISH: OK. The escalating attacks between the U.S. and Iran come at a cost. The Pentagon has confirmed nearly 100 U.S. service members have been injured in just the past two weeks.\n\nGood morning, everybody. I'm Audie Cornish. And the Trump administration wants more money to carry out a fresh round of attacks on Iran. They're going to need Congress to make that happen.\n\nToday, Defense Secretary Pete Hegseth heads to Capitol Hill, where he's going to ask senators for another $87 billion to fund the war.\n\nThe U.S. military is also sending more fighter jets, other aircraft to the region, giving the U.S. more options to strike Iran.\n\nThere were some reports of a ten-day ceasefire being floated by mediators between the U.S. and Iran. But right now, the odds of that happening remain slim.\n\nREP. CARLOS GIMENEZ (R-FL): Anything that says, Oh, we want a ten-day ceasefire, I think I've been there before. I've read that book. I've seen that movie. And -- and you know what? You just can't trust the Iranians. All they want to do is stall, stall, stall.\n\nCORNISH: So, joining me now to discuss, Adam Farrar, senior political analyst at Bloomberg, former member of the White House Security Council. Thank you so much for being here.\n\nFirst, I want to address this thing we've been talking about today: the 17 service members who were killed in the Iran war so far, with one more identity still to be revealed.\n\nThen the American soldiers killed in Jordan, in particular: Lieutenant Tyler James Feehan and Private Isabella Gonzales.\n\nYou're saying the U.S. is in a kind of escalatory spiral? What does that mean? Are we expecting to see more casualties? The reality of war?\n\nADAM FARRAR, FORMER MEMBER OF WHITE HOUSE SECURITY COUNCIL: I think that's certainly possible. And what we saw over the weekend is a natural outcome of this escalation we've seen since the return to conflict, as the MOU and the ceasefire collapsed.\n\nThe Iranians are taking this moment to show that they still have reach, that they still have missiles. They can -- they can hit targets well beyond just the Gulf. And in the case of these service members, U.S. operating areas in Jordan.\n\nAnd, you know, when we talk about this escalatory spiral, what we're really seeing now is that both sides are actually responding to the other's hits, not looking at their own strategic outcomes as much. You know, the president came out yesterday and said that he would --\n\nthe United States would strike back every time a U.S. service member dies.\n\nCORNISH: Yes. Let me show, actually, his Truth Social post. I don't know if it's the one you're referring to. But he says, \"Every time Iran kills an American soldier, they will pay for that killing many times over. This directive has been passed on to the Secretary of War, Pete Hegseth, Chairman of the Joint Chiefs of Staff, every Leader in the Military.\"\n\nSo, we understand the position.\n\nHelp me understand a picture of what's happening, though, beyond the U.S. and Iran. Are there other actors who are -- who are joining the fight? Are we still keeping an eye on what's happening between Israel and Hezbollah in Lebanon? What is going to contribute to the escalation?\n\nFARRAR: There's so many facets to this right now. Certainly, the United States and Iran are the key actors. But what we've seen just over the last couple days is this rising question of what will happen with the Houthi forces that operate out of Yemen.\n\nThey've now put forward a claim that they will be stopping Saudi Arabian shipping moving through the Red Sea, which has been a key lifeline for the global economy as oil has shifted out of the Strait of Hormuz through a Saudi pipeline.\n\nCORNISH: But they've been operating in the Red Sea for a long time. We have been, actually, in support of going after them in the Red Sea for a long time.\n\nAre you saying they're looking at what's happening with Iran and the way Iran has been able to leverage the Strait of Hormuz and saying, Great, we're going to do that too?\n\nFARRAR: Actually, it looks like the Houthis are kind of getting dragged into this conflict.\n\nFrom the start, back in February, the outstanding question was if and when they were going to join. And so far, they had refrained from significant engagement.\n\nBut what has happened here is a combination of Iranian pressure, right? Their primary backer is saying, We need you in the fight. We need you to put pressure not only on the United States, but the world to end this conflict.\n\nAnd at the same time, the Saudi Arabians have conducted a series of strikes in Yemen that have, you know, forced the Houthis' hand, in their their -- their perspective.\n\nAnd now, they're trying to find a way to show their strength in this moment and highlight that they can stop shipping through the Red Sea, potentially, using their wide array of drones and missiles.\n\nCORNISH: And as you pointed out, that might mean putting a stop to, what, some 4 million barrels of Saudi oil that passes through the Red Sea.\n\nSo, let's think about Hegseth on the Hill today. He's going to come to them and say, This is what we need to finish fighting this war.\n\nBut you've outlined a lot of complexities here. What will it take? Is it more interceptors? Is it more -- like, help me understand what you're going to be listening for in a hearing like this.\n\nFARRAR: So, I think one of the outstanding questions for him will be, how is the U.S. prepared to refill its stockpiles of munitions that it's drawn down significantly, particularly in that early phase of the war? And now, day in and day out, as the United States has just completed its 10th day of strikes, we're seeing that fall even further. And that's what part of that 87 billion is meant to do.\n\nAnd it's not only putting the money into the production, but it's finding a way to speed it up because, for many of these key inputs, the key weapon systems, particularly our long-range strike systems like a Tomahawk or the key air defense systems -- Patriot and the SM-3 -- those are all -- those all take years to produce.\n\nFARRAR: And so, there's this broader effort going on to increase the capacity of the industrial base.\n\nBut I think the real place in which we'll see a lot of these questions is, what does the administration see is --\n\nCORNISH: What's the plan?\n\nFARRAR: -- the new plan? How does this end? Because what the military is showing: that it is capable of tactical victories and tactical success on a daily basis. It can hit the target.\n\nBut so far, that's not changing the calculus of the regime. And so, with that in front of us, I think there are going to be lots of questions on how do we get off this path of escalatory -- escalation and find a way back to the negotiating table to, hopefully, bring Iran to a position where it actually will agree to the restrictions that the administration says are essential to stopping its nuclear program?\n\nAnd the issue that has really taken over: the status of the Strait of Hormuz, and whether ships will really be able to freely transit and all of that oil, natural gas.\n\nCORNISH: Right. Or at what cost? Will it involve our military for that flow to --\n\nFARRAR: That's right.\n\nCORNISH: -- happen in the future? Thank you so much. We're going to be keeping an eye out today for what you talked about in that hearing, because the president has more or less sidelined Congress in the war.\n\nAnd we're going to talk to Representative Jonathan Jackson. He's from the House Foreign Affairs Committee about what lawmakers can do, if anything, about it.\n\nThen in the meantime, we're going to talk about that attack outside of a New York federal building. What the FBI is now saying about the suspect.\n\nAnd Lindsey Graham's sister wants to make her own run for her late brother's Senate seat. We're going to talk about whether that's a good idea for a political newcomer. And our group chat is here to discuss.\n\nGRAHAM: I feel like I can do it. I feel an inner peace about it. Will it be difficult? Yes, absolutely.\n\nSEAN HANNITY, FOX NEWS HOST: So, you're inclined to get in? Or have you even made a final decision?\n\nGRAHAM: I've made a decision.\n\nCORNISH: So, the sister of the late Lindsey Graham launches a bid for a full term in his South Carolina seat. Senator Darline Graham was sworn in to finish her brother's term just last week.\n\nBut a week-long filing period opens today for the special Republican primary, which was set for August 11th to fill the seat officially.\n\nPresident Trump encouraged her to run in a Truth Social post last week, saying he would give her his complete and total endorsement.\n\nJoining us in the group chat today, Isaac Dovere, CNN senior reporter; Chuck Rocha, Democratic strategist; and Ashley Davis, former Bush White House official.\n\nGood to see you guys.\n\nCHUCK ROCHA, DEMOCRATIC STRATEGIST: Good morning.\n\nASHLEY DAVIS, FORMER BUSH WHITE HOUSE OFFICIAL: Good morning.\n\nCORNISH: I want to start with Isaac, because when I was reading and reporting on this last week, it was this person has passed away. His sister has been appointed by the governor to fill in for the months, and then someone else will be running and will take that seat, full- time.\n\nSo, was this surprise to the establishment, to the governor? Like, was this not a surprise inside South Carolina?\n\nEDWARD-ISAAC DOVERE, CNN SENIOR REPORTER: It seems to have been a surprise to a number of people, including some of the people who were hoping to, and still are hoping, to run for the seat, that there was this understanding. She is -- this has happened before, where a family member gets appointed when somebody dies suddenly, but that it's usually a caretaker situation, especially for a Senate seat.\n\nIt's no requirement for them. It's up to Darline Graham to decide what she wants to do. But there was this feeling like she would not be part of it.\n\nNow the question is this -- the primary election in this special situation is coming up in just a few weeks. What do other South Carolina Republicans do? Do they back off?\n\nCORNISH: Yes. Can I show, while you are talking, here are some of the guys who are running: Rep Russell Fry; Rep. Ralph Norman; Marc Lynch, a businessman; Duke Buckner, attorney.\n\nI don't know if any of these people in South Carolina have the name recognition of Graham. Right? But we know that she would be a first- time candidate.\n\nShe's worked for the Commissioner for the Blind. She's got a master's in rehab counseling. She has campaigned with Graham. Can she run and be Graham, who had such a, I think, very interesting sort of pedestal and perch within the Trump White House?\n\nDAVIS: I mean, I think she's going to be very different than her brother. Obviously, I think Lindsey had a very unique quality of being able to make his colleagues laugh, make his colleagues angry. But at the end of the day, both sides of the aisle really respected him.\n\nBut from my perspective, I think that this is a really good thing. One, I'm always big on getting more women into office, and that's very good, especially on our side. We're not that good at it.\n\nBut also, you know, you've heard on the other side, like, is she qualified, blah, blah, blah. And I'm like, listen, how many candidates have run for office that, like, haven't been in politics before? I don't think that that automatically makes you not qualified.\n\nDOVERE: The condition (ph) here is that she has the Senate seat because she was appointed to it, right?\n\nDOVERE: Not -- not having faced voters, which is something that other people --\n\nDAVIS: And she'll face -- and she'll face --\n\nDOVERE: -- and then we'll see what happens when she does face them.\n\nDAVIS: Yes. But that's anybody that would have been appointed.\n\nDAVIS: That usually -- I mean, if Mitch McConnell wasn't there, and someone put in -- and the governor of Kentucky put somebody in as a Democrat, that person would probably run. I mean, that's not unusual.\n\nROCHA: It's important to say that these Senate elections are up every six years. It just so happens that this one was up this year.\n\nROCHA: Lindsey Graham just had a primary two months ago. And it's also important to say that Lindsey Graham only got 56 percent of the Republican vote in the Republican primary against a nobody.\n\nROCHA: Now, let's pull in the politics here.\n\nCORNISH: No, but that's helpful, because I think I'm assuming this is going to stay a red seat.\n\nDAVIS: It's going to stay a red seat, yes.\n\nROCHA: It should. It absolutely should. But --\n\nCORNISH: But you're saying it wasn't 90 percent.\n\nCORNISH: It was -- OK.\n\nROCHA: As we sit here and judge Democrat or Republican in any primary. I remember us sitting here and judging Graham Platner when he was still in. Did he get enough of the Democratic vote?\n\nWell, Lindsey Graham only got 56 percent of the Republican vote. That shows that there's things on both sides of these parties where folks aren't liking incumbents. Will she be seen as an extension of an incumbent?\n\nDAVIS: Well, I actually think, though, it was because Lindsey had -- Lindsey also isn't considered conservative enough for South Carolina. I mean, that's kind of the issue.\n\nROCHA: I think he used to not be.\n\nDAVIS: No. But he's still not. No. Because of some of his war issues.\n\nCORNISH: It'll be interesting to see what aspects of his agenda she is most vocal about, or if she really positions herself as \"I'm a caretaker of this legacy, and I want to help\" --\n\nROCHA: We just don't know.\n\nCORNISH: -- \"follow through on the things he cared about,\" of which some of them are still up for a vote, right?\n\nDOVERE: Yes. And there were a couple of senators who, after she made it clear that she was going to run, started to say she's been -- she's a great senator. I'm not sure that she has done enough in the Senate to be great or terrible or anything yet.\n\nDOVERE: She's barely been a senator. So, we'll see what that looks like, and what her positions are, and how much she puts herself forward as a continuation of Lindsey Graham, or starts to be her own right.\n\nCORNISH: But fundamentally, Trump tipped the balance on this, right?\n\nDAVIS: That's when I thought she was running: after he met with her on Friday, I guess it was. And then he put out this Truth Social post.\n\nBut here's the other thing that I think is interesting. You know, like, let's just take Ralph Norman for a second. I mean, he's very, very, very conservative. He's part of the extreme right in the party. Like for me, that is not, from what I understand so far, the -- Senator Graham's -- the new Senator Graham's -- position on things.\n\nSo, I think for kind of us mainstream Republicans, she's a much better candidate.\n\nCORNISH: Interesting. OK. Well, we're going to turn to something else. We do have some serious news today.\n\nThere is a singer accused of murder who's due in court. We're going to talk about how a judge will decide if his case actually goes to trial.\n\nPlus, the Trump administration escalates its fight with Harvard University.\n\nCORNISH: It is 23 minutes past the hour. Here are five things that are making the news this morning.\n\nThe Gulf Coast bracing for the impact of Tropical Storm Bertha. The storm is currently about 110 miles South of Panama City. Sustained winds of 40 miles per hour.\n\nNow, a tropical storm watch is underway for a large chunk of the Gulf Coast. According to the National Hurricane Center, Bertha has been drifting erratically but is expected to move to the Northwest and West.\n\nAnd the singer D4vd is expected to appear in an L.A. court today, where a judge will decide if there is enough evidence to take his case to trial.\n\nProsecutors there say the 21-year-old killed 14-year-old Celeste Rivas Hernandez. Prosecutors claim D4vd continuously sexually abused the teen and that he killed her when she threatened to expose him.\n\nNow, her body was found in the trunk of his car last fall. So far, he has pleaded not guilty.\n\nIn Ohio, five people confirmed dead after trying to rescue another person from a river. They jumped in the water when they noticed the person was struggling. And officials say a young child who was with the group flagged a driver down for help. And then that person called 911.\n\nWhen rescue crews got to the river, they pulled two women out of the water, and they were pronounced dead at the hospital. The three other bodies were recovered hours later.\n\nAnd a 43-year-old Army veteran now being accused of setting a fire outside a federal building in New York. Officials are saying that he poured gasoline outside the building and then ignited it with a firework.\n\nNow, the building has offices for ICE, and the FBI arresting officers say the suspect shouted anti-ICE terms while being taken into custody.\n\nAnd the Justice Department is investigating Harvard University's financial aid programs for potential discrimination against U.S. students.\n\nNow, the Justice Department is accusing the Ivy League of accepting money from Chinese donors to support aid programs limited to students from certain countries.\n\nHarvard says it is reviewing the Justice Department's notice.\n\nAnd straight ahead on CNN THIS MORNING, does anyone want to save the Tate brothers? They are facing extradition on human trafficking charges. They are hoping for help from the Trump administration.\n\nPlus, Senator Mark Kelly has been a fighter pilot and an astronaut. Could he be a candidate for president?\n\nIn the meantime, good morning to my friends in Nashville. A live look at the skyline over Music City. (COMMERCIAL BREAK)",
+  "segments": [
+    {
+      "seg": 1,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-21/segment/01",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nToday: Hegseth Faces Senators after New Troop Deaths, Injuries; Darline Graham Launches Bid for Full Senate Term. Aired 6-6:30a ET\n\nAired July 21, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nBRAD SMITH, CNN ANCHOR: -- involving two tractor-trailers. Highway patrol says a huge amount of diesel was leaked on the interstate.\n\nThe cause of the incident and the accident here is under investigation. We'll continue to keep you updated with any of the details as they continue to come forward.\n\nJust crazy scenes that we're getting a glimpse of here from that accident.\n\nWell, that does it for CNN HEADLINE EXPRESS. I'm Brad Smith. CNN THIS MORNING with Audie Cornish starts right now.\n\nAUDIE CORNISH, CNN ANCHOR: Defense Secretary Pete Hegseth faces lawmakers today for the first time since the U.S. went back to war with Iran. How will he answer for the troop deaths and injured this month in the fight?\n\nAnd the lawyer for the Tate brothers thinks Marco Rubio could save them from facing rape and sex trafficking charges in the U.K. But what does the State Department say?\n\nSEN. DARLINE GRAHAM (R-SC): I feel like I can do it. I feel an inner peace about it.\n\nCORNISH: Lindsey Graham's sister wants to run for his Senate seat. Will President Trump's support be enough to carry the first-time candidate?\n\nAnd you see him take on Pete Hegseth and take care of his wife, Gabby Giffords. Do Democrats see Senator Mark Kelly as a candidate for president?\n\nUNIDENTIFIED MALE: They have not been telling us what's been happening in terms of lost equipment, in terms of the cost of the war, and certainly in terms of the service members who have been wounded.\n\nCORNISH: OK. The escalating attacks between the U.S. and Iran come at a cost. The Pentagon has confirmed nearly 100 U.S. service members have been injured in just the past two weeks.\n\nGood morning, everybody. I'm Audie Cornish. And the Trump administration wants more money to carry out a fresh round of attacks on Iran. They're going to need Congress to make that happen.\n\nToday, Defense Secretary Pete Hegseth heads to Capitol Hill, where he's going to ask senators for another $87 billion to fund the war.\n\nThe U.S. military is also sending more fighter jets, other aircraft to the region, giving the U.S. more options to strike Iran.\n\nThere were some reports of a ten-day ceasefire being floated by mediators between the U.S. and Iran. But right now, the odds of that happening remain slim.\n\nREP. CARLOS GIMENEZ (R-FL): Anything that says, Oh, we want a ten-day ceasefire, I think I've been there before. I've read that book. I've seen that movie. And -- and you know what? You just can't trust the Iranians. All they want to do is stall, stall, stall.\n\nCORNISH: So, joining me now to discuss, Adam Farrar, senior political analyst at Bloomberg, former member of the White House Security Council. Thank you so much for being here.\n\nFirst, I want to address this thing we've been talking about today: the 17 service members who were killed in the Iran war so far, with one more identity still to be revealed.\n\nThen the American soldiers killed in Jordan, in particular: Lieutenant Tyler James Feehan and Private Isabella Gonzales.\n\nYou're saying the U.S. is in a kind of escalatory spiral? What does that mean? Are we expecting to see more casualties? The reality of war?\n\nADAM FARRAR, FORMER MEMBER OF WHITE HOUSE SECURITY COUNCIL: I think that's certainly possible. And what we saw over the weekend is a natural outcome of this escalation we've seen since the return to conflict, as the MOU and the ceasefire collapsed.\n\nThe Iranians are taking this moment to show that they still have reach, that they still have missiles. They can -- they can hit targets well beyond just the Gulf. And in the case of these service members, U.S. operating areas in Jordan.\n\nAnd, you know, when we talk about this escalatory spiral, what we're really seeing now is that both sides are actually responding to the other's hits, not looking at their own strategic outcomes as much. You know, the president came out yesterday and said that he would --\n\nthe United States would strike back every time a U.S. service member dies.\n\nCORNISH: Yes. Let me show, actually, his Truth Social post. I don't know if it's the one you're referring to. But he says, \"Every time Iran kills an American soldier, they will pay for that killing many times over. This directive has been passed on to the Secretary of War, Pete Hegseth, Chairman of the Joint Chiefs of Staff, every Leader in the Military.\"\n\nSo, we understand the position.\n\nHelp me understand a picture of what's happening, though, beyond the U.S. and Iran. Are there other actors who are -- who are joining the fight? Are we still keeping an eye on what's happening between Israel and Hezbollah in Lebanon? What is going to contribute to the escalation?\n\nFARRAR: There's so many facets to this right now. Certainly, the United States and Iran are the key actors. But what we've seen just over the last couple days is this rising question of what will happen with the Houthi forces that operate out of Yemen.\n\nThey've now put forward a claim that they will be stopping Saudi Arabian shipping moving through the Red Sea, which has been a key lifeline for the global economy as oil has shifted out of the Strait of Hormuz through a Saudi pipeline.\n\nCORNISH: But they've been operating in the Red Sea for a long time. We have been, actually, in support of going after them in the Red Sea for a long time.\n\nAre you saying they're looking at what's happening with Iran and the way Iran has been able to leverage the Strait of Hormuz and saying, Great, we're going to do that too?\n\nFARRAR: Actually, it looks like the Houthis are kind of getting dragged into this conflict.\n\nFrom the start, back in February, the outstanding question was if and when they were going to join. And so far, they had refrained from significant engagement.\n\nBut what has happened here is a combination of Iranian pressure, right? Their primary backer is saying, We need you in the fight. We need you to put pressure not only on the United States, but the world to end this conflict.\n\nAnd at the same time, the Saudi Arabians have conducted a series of strikes in Yemen that have, you know, forced the Houthis' hand, in their their -- their perspective.\n\nAnd now, they're trying to find a way to show their strength in this moment and highlight that they can stop shipping through the Red Sea, potentially, using their wide array of drones and missiles.\n\nCORNISH: And as you pointed out, that might mean putting a stop to, what, some 4 million barrels of Saudi oil that passes through the Red Sea.\n\nSo, let's think about Hegseth on the Hill today. He's going to come to them and say, This is what we need to finish fighting this war.\n\nBut you've outlined a lot of complexities here. What will it take? Is it more interceptors? Is it more -- like, help me understand what you're going to be listening for in a hearing like this.\n\nFARRAR: So, I think one of the outstanding questions for him will be, how is the U.S. prepared to refill its stockpiles of munitions that it's drawn down significantly, particularly in that early phase of the war? And now, day in and day out, as the United States has just completed its 10th day of strikes, we're seeing that fall even further. And that's what part of that 87 billion is meant to do.\n\nAnd it's not only putting the money into the production, but it's finding a way to speed it up because, for many of these key inputs, the key weapon systems, particularly our long-range strike systems like a Tomahawk or the key air defense systems -- Patriot and the SM-3 -- those are all -- those all take years to produce.\n\nFARRAR: And so, there's this broader effort going on to increase the capacity of the industrial base.\n\nBut I think the real place in which we'll see a lot of these questions is, what does the administration see is --\n\nCORNISH: What's the plan?\n\nFARRAR: -- the new plan? How does this end? Because what the military is showing: that it is capable of tactical victories and tactical success on a daily basis. It can hit the target.\n\nBut so far, that's not changing the calculus of the regime. And so, with that in front of us, I think there are going to be lots of questions on how do we get off this path of escalatory -- escalation and find a way back to the negotiating table to, hopefully, bring Iran to a position where it actually will agree to the restrictions that the administration says are essential to stopping its nuclear program?\n\nAnd the issue that has really taken over: the status of the Strait of Hormuz, and whether ships will really be able to freely transit and all of that oil, natural gas.\n\nCORNISH: Right. Or at what cost? Will it involve our military for that flow to --\n\nFARRAR: That's right.\n\nCORNISH: -- happen in the future? Thank you so much. We're going to be keeping an eye out today for what you talked about in that hearing, because the president has more or less sidelined Congress in the war.\n\nAnd we're going to talk to Representative Jonathan Jackson. He's from the House Foreign Affairs Committee about what lawmakers can do, if anything, about it.\n\nThen in the meantime, we're going to talk about that attack outside of a New York federal building. What the FBI is now saying about the suspect.\n\nAnd Lindsey Graham's sister wants to make her own run for her late brother's Senate seat. We're going to talk about whether that's a good idea for a political newcomer. And our group chat is here to discuss.\n\nGRAHAM: I feel like I can do it. I feel an inner peace about it. Will it be difficult? Yes, absolutely.\n\nSEAN HANNITY, FOX NEWS HOST: So, you're inclined to get in? Or have you even made a final decision?\n\nGRAHAM: I've made a decision.\n\nCORNISH: So, the sister of the late Lindsey Graham launches a bid for a full term in his South Carolina seat. Senator Darline Graham was sworn in to finish her brother's term just last week.\n\nBut a week-long filing period opens today for the special Republican primary, which was set for August 11th to fill the seat officially.\n\nPresident Trump encouraged her to run in a Truth Social post last week, saying he would give her his complete and total endorsement.\n\nJoining us in the group chat today, Isaac Dovere, CNN senior reporter; Chuck Rocha, Democratic strategist; and Ashley Davis, former Bush White House official.\n\nGood to see you guys.\n\nCHUCK ROCHA, DEMOCRATIC STRATEGIST: Good morning.\n\nASHLEY DAVIS, FORMER BUSH WHITE HOUSE OFFICIAL: Good morning.\n\nCORNISH: I want to start with Isaac, because when I was reading and reporting on this last week, it was this person has passed away. His sister has been appointed by the governor to fill in for the months, and then someone else will be running and will take that seat, full- time.\n\nSo, was this surprise to the establishment, to the governor? Like, was this not a surprise inside South Carolina?\n\nEDWARD-ISAAC DOVERE, CNN SENIOR REPORTER: It seems to have been a surprise to a number of people, including some of the people who were hoping to, and still are hoping, to run for the seat, that there was this understanding. She is -- this has happened before, where a family member gets appointed when somebody dies suddenly, but that it's usually a caretaker situation, especially for a Senate seat.\n\nIt's no requirement for them. It's up to Darline Graham to decide what she wants to do. But there was this feeling like she would not be part of it.\n\nNow the question is this -- the primary election in this special situation is coming up in just a few weeks. What do other South Carolina Republicans do? Do they back off?\n\nCORNISH: Yes. Can I show, while you are talking, here are some of the guys who are running: Rep Russell Fry; Rep. Ralph Norman; Marc Lynch, a businessman; Duke Buckner, attorney.\n\nI don't know if any of these people in South Carolina have the name recognition of Graham. Right? But we know that she would be a first- time candidate.\n\nShe's worked for the Commissioner for the Blind. She's got a master's in rehab counseling. She has campaigned with Graham. Can she run and be Graham, who had such a, I think, very interesting sort of pedestal and perch within the Trump White House?\n\nDAVIS: I mean, I think she's going to be very different than her brother. Obviously, I think Lindsey had a very unique quality of being able to make his colleagues laugh, make his colleagues angry. But at the end of the day, both sides of the aisle really respected him.\n\nBut from my perspective, I think that this is a really good thing. One, I'm always big on getting more women into office, and that's very good, especially on our side. We're not that good at it.\n\nBut also, you know, you've heard on the other side, like, is she qualified, blah, blah, blah. And I'm like, listen, how many candidates have run for office that, like, haven't been in politics before? I don't think that that automatically makes you not qualified.\n\nDOVERE: The condition (ph) here is that she has the Senate seat because she was appointed to it, right?\n\nDOVERE: Not -- not having faced voters, which is something that other people --\n\nDAVIS: And she'll face -- and she'll face --\n\nDOVERE: -- and then we'll see what happens when she does face them.\n\nDAVIS: Yes. But that's anybody that would have been appointed.\n\nDAVIS: That usually -- I mean, if Mitch McConnell wasn't there, and someone put in -- and the governor of Kentucky put somebody in as a Democrat, that person would probably run. I mean, that's not unusual.\n\nROCHA: It's important to say that these Senate elections are up every six years. It just so happens that this one was up this year.\n\nROCHA: Lindsey Graham just had a primary two months ago. And it's also important to say that Lindsey Graham only got 56 percent of the Republican vote in the Republican primary against a nobody.\n\nROCHA: Now, let's pull in the politics here.\n\nCORNISH: No, but that's helpful, because I think I'm assuming this is going to stay a red seat.\n\nDAVIS: It's going to stay a red seat, yes.\n\nROCHA: It should. It absolutely should. But --\n\nCORNISH: But you're saying it wasn't 90 percent.\n\nCORNISH: It was -- OK.\n\nROCHA: As we sit here and judge Democrat or Republican in any primary. I remember us sitting here and judging Graham Platner when he was still in. Did he get enough of the Democratic vote?\n\nWell, Lindsey Graham only got 56 percent of the Republican vote. That shows that there's things on both sides of these parties where folks aren't liking incumbents. Will she be seen as an extension of an incumbent?\n\nDAVIS: Well, I actually think, though, it was because Lindsey had -- Lindsey also isn't considered conservative enough for South Carolina. I mean, that's kind of the issue.\n\nROCHA: I think he used to not be.\n\nDAVIS: No. But he's still not. No. Because of some of his war issues.\n\nCORNISH: It'll be interesting to see what aspects of his agenda she is most vocal about, or if she really positions herself as \"I'm a caretaker of this legacy, and I want to help\" --\n\nROCHA: We just don't know.\n\nCORNISH: -- \"follow through on the things he cared about,\" of which some of them are still up for a vote, right?\n\nDOVERE: Yes. And there were a couple of senators who, after she made it clear that she was going to run, started to say she's been -- she's a great senator. I'm not sure that she has done enough in the Senate to be great or terrible or anything yet.\n\nDOVERE: She's barely been a senator. So, we'll see what that looks like, and what her positions are, and how much she puts herself forward as a continuation of Lindsey Graham, or starts to be her own right.\n\nCORNISH: But fundamentally, Trump tipped the balance on this, right?\n\nDAVIS: That's when I thought she was running: after he met with her on Friday, I guess it was. And then he put out this Truth Social post.\n\nBut here's the other thing that I think is interesting. You know, like, let's just take Ralph Norman for a second. I mean, he's very, very, very conservative. He's part of the extreme right in the party. Like for me, that is not, from what I understand so far, the -- Senator Graham's -- the new Senator Graham's -- position on things.\n\nSo, I think for kind of us mainstream Republicans, she's a much better candidate.\n\nCORNISH: Interesting. OK. Well, we're going to turn to something else. We do have some serious news today.\n\nThere is a singer accused of murder who's due in court. We're going to talk about how a judge will decide if his case actually goes to trial.\n\nPlus, the Trump administration escalates its fight with Harvard University.\n\nCORNISH: It is 23 minutes past the hour. Here are five things that are making the news this morning.\n\nThe Gulf Coast bracing for the impact of Tropical Storm Bertha. The storm is currently about 110 miles South of Panama City. Sustained winds of 40 miles per hour.\n\nNow, a tropical storm watch is underway for a large chunk of the Gulf Coast. According to the National Hurricane Center, Bertha has been drifting erratically but is expected to move to the Northwest and West.\n\nAnd the singer D4vd is expected to appear in an L.A. court today, where a judge will decide if there is enough evidence to take his case to trial.\n\nProsecutors there say the 21-year-old killed 14-year-old Celeste Rivas Hernandez. Prosecutors claim D4vd continuously sexually abused the teen and that he killed her when she threatened to expose him.\n\nNow, her body was found in the trunk of his car last fall. So far, he has pleaded not guilty.\n\nIn Ohio, five people confirmed dead after trying to rescue another person from a river. They jumped in the water when they noticed the person was struggling. And officials say a young child who was with the group flagged a driver down for help. And then that person called 911.\n\nWhen rescue crews got to the river, they pulled two women out of the water, and they were pronounced dead at the hospital. The three other bodies were recovered hours later.\n\nAnd a 43-year-old Army veteran now being accused of setting a fire outside a federal building in New York. Officials are saying that he poured gasoline outside the building and then ignited it with a firework.\n\nNow, the building has offices for ICE, and the FBI arresting officers say the suspect shouted anti-ICE terms while being taken into custody.\n\nAnd the Justice Department is investigating Harvard University's financial aid programs for potential discrimination against U.S. students.\n\nNow, the Justice Department is accusing the Ivy League of accepting money from Chinese donors to support aid programs limited to students from certain countries.\n\nHarvard says it is reviewing the Justice Department's notice.\n\nAnd straight ahead on CNN THIS MORNING, does anyone want to save the Tate brothers? They are facing extradition on human trafficking charges. They are hoping for help from the Trump administration.\n\nPlus, Senator Mark Kelly has been a fighter pilot and an astronaut. Could he be a candidate for president?\n\nIn the meantime, good morning to my friends in Nashville. A live look at the skyline over Music City. (COMMERCIAL BREAK)"
+    }
+  ]
+}
