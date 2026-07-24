@@ -1,0 +1,414 @@
+{
+  "date": "2026-07-23",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-23/segment/01",
+  "vocabulary": [
+    {
+      "word": "unpopular",
+      "phonetic": "/ʌnˈpɒpjələ(r)/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "不受欢迎的",
+      "en": "not liked or popular",
+      "excerpt": "Polls Show Iran War Unpopular as Gas Prices Rise",
+      "example_cn": "这项政策在选民中很不受欢迎。"
+    },
+    {
+      "word": "airstrike",
+      "phonetic": "/ˈeəstraɪk/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "空袭",
+      "en": "an attack by military aircraft",
+      "excerpt": "the U.S. military carries out a 12th straight night of airstrikes inside Iran",
+      "example_cn": "空袭摧毁了敌人的基地。"
+    },
+    {
+      "word": "midterm",
+      "phonetic": "/ˌmɪdˈtɜːm/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "中期选举",
+      "en": "an election held in the middle of a president's term",
+      "excerpt": "Is the GOP prepared to own this war heading into the midterms?",
+      "example_cn": "中期选举将决定国会的控制权。"
+    },
+    {
+      "word": "backlash",
+      "phonetic": "/ˈbæklæʃ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "强烈反对",
+      "en": "a strong negative reaction",
+      "excerpt": "Will there be backlash in November?",
+      "example_cn": "该政策引发了公众的强烈反对。"
+    },
+    {
+      "word": "nuclear deal",
+      "phonetic": "/ˈnjuːkliə diːl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "核协议",
+      "en": "an agreement regarding nuclear programs",
+      "excerpt": "the U.S. just signed a nuclear deal with the kingdom of Saudi Arabia",
+      "example_cn": "两国签署了一项核协议。"
+    },
+    {
+      "word": "arms race",
+      "phonetic": "/ɑːmz reɪs/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "军备竞赛",
+      "en": "a competition between nations for superiority in weapons",
+      "excerpt": "Could that lead to a dangerous arms race in the Middle East?",
+      "example_cn": "军备竞赛加剧了地区紧张局势。"
+    },
+    {
+      "word": "autopsy",
+      "phonetic": "/ˈɔːtɒpsi/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "尸检",
+      "en": "a medical examination of a dead body to determine cause of death",
+      "excerpt": "An independent autopsy raises more questions about the death of young Nolan Wells.",
+      "example_cn": "尸检结果显示死因不明。"
+    },
+    {
+      "word": "primary",
+      "phonetic": "/ˈpraɪməri/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "初选",
+      "en": "a preliminary election to select a candidate",
+      "excerpt": "Alexandria Ocasio-Cortez leads a new primary poll of Democrats for president.",
+      "example_cn": "她在初选中领先。"
+    },
+    {
+      "word": "poll",
+      "phonetic": "/pəʊl/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "民意调查",
+      "en": "a survey of public opinion",
+      "excerpt": "Polls Show Iran War Unpopular as Gas Prices Rise",
+      "example_cn": "民意调查显示大多数人不支持战争。"
+    },
+    {
+      "word": "survey",
+      "phonetic": "/ˈsɜːveɪ/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "调查",
+      "en": "a study of a group of people to gather information",
+      "excerpt": "New \"Washington Post\" survey finds 68 percent saying the war is not worth fighting",
+      "example_cn": "这项调查涵盖了1000名受访者。"
+    },
+    {
+      "word": "munitions",
+      "phonetic": "/mjuːˈnɪʃnz/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "弹药",
+      "en": "military weapons and ammunition",
+      "excerpt": "We have the munitions we need to defend America.",
+      "example_cn": "军队需要补充弹药。"
+    },
+    {
+      "word": "leverage",
+      "phonetic": "/ˈlevərɪdʒ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "影响力；杠杆作用",
+      "en": "the power to influence people or events",
+      "excerpt": "this is one of the Democrats' only pieces of leverage",
+      "example_cn": "他们利用经济杠杆来施加压力。"
+    },
+    {
+      "word": "ceasefire",
+      "phonetic": "/ˈsiːsfaɪə(r)/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "停火",
+      "en": "a temporary stop in fighting",
+      "excerpt": "when the president announced a ceasefire",
+      "example_cn": "双方同意停火。"
+    },
+    {
+      "word": "recession",
+      "phonetic": "/rɪˈseʃn/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "经济衰退",
+      "en": "a period of economic decline",
+      "excerpt": "there might be a global recession",
+      "example_cn": "经济衰退导致失业率上升。"
+    },
+    {
+      "word": "reserves",
+      "phonetic": "/rɪˈzɜːvz/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "储备",
+      "en": "supplies kept for future use",
+      "excerpt": "we are getting perilously low on world reserves",
+      "example_cn": "石油储备正在减少。"
+    },
+    {
+      "word": "exporter",
+      "phonetic": "/ɪkˈspɔːtə(r)/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "出口国",
+      "en": "a country that sells goods to other countries",
+      "excerpt": "We are a net exporter",
+      "example_cn": "该国是主要的石油出口国。"
+    },
+    {
+      "word": "shortage",
+      "phonetic": "/ˈʃɔːtɪdʒ/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "短缺",
+      "en": "a lack of something",
+      "excerpt": "a really dangerous shortage of a lot of our munitions",
+      "example_cn": "水资源短缺是一个严重问题。"
+    },
+    {
+      "word": "indicia",
+      "phonetic": "/ɪnˈdɪʃiə/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "标志；迹象",
+      "en": "a sign or indication",
+      "excerpt": "That would be an indicia of strangulation",
+      "example_cn": "这些迹象表明存在欺诈。"
+    },
+    {
+      "word": "strangulation",
+      "phonetic": "/ˌstræŋɡjuˈleɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "勒死；扼杀",
+      "en": "the act of killing by squeezing the throat",
+      "excerpt": "That would be an indicia of strangulation",
+      "example_cn": "死因被判定为窒息。"
+    },
+    {
+      "word": "drowning",
+      "phonetic": "/ˈdraʊnɪŋ/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "溺水",
+      "en": "death from being underwater",
+      "excerpt": "It can also tell you a lot about a potential drowning",
+      "example_cn": "溺水是儿童意外死亡的主要原因之一。"
+    },
+    {
+      "word": "toxicology",
+      "phonetic": "/ˌtɒksɪˈkɒlədʒi/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "毒理学",
+      "en": "the study of poisons and their effects",
+      "excerpt": "we're still waiting for the toxicology report",
+      "example_cn": "毒理学报告显示体内有酒精。"
+    },
+    {
+      "word": "grand jury",
+      "phonetic": "/ɡrænd ˈdʒʊəri/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "大陪审团",
+      "en": "a group that decides if there is enough evidence for a trial",
+      "excerpt": "the grand jury is ultimately going to decide whether or not there's evidence of a potential crime",
+      "example_cn": "大陪审团决定是否起诉。"
+    },
+    {
+      "word": "homicide",
+      "phonetic": "/ˈhɒmɪsaɪd/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "杀人",
+      "en": "the killing of one person by another",
+      "excerpt": "are they going to classify it accidental homicide",
+      "example_cn": "他被指控犯有杀人罪。"
+    },
+    {
+      "word": "dismember",
+      "phonetic": "/dɪsˈmembə(r)/",
+      "pos": "v.",
+      "level": "专八",
+      "cn": "肢解",
+      "en": "to cut off the limbs of a body",
+      "excerpt": "he dismembered the body of a teenager",
+      "example_cn": "凶手肢解了尸体。"
+    },
+    {
+      "word": "landfall",
+      "phonetic": "/ˈlændfɔːl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "登陆",
+      "en": "the arrival of a storm on land",
+      "excerpt": "Tropical Storm Bertha is expected to make landfall",
+      "example_cn": "飓风预计将在今晚登陆。"
+    },
+    {
+      "word": "cyclosporiasis",
+      "phonetic": "/ˌsaɪkləʊspəˈraɪəsɪs/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "环孢子虫病",
+      "en": "an intestinal infection caused by the parasite Cyclospora",
+      "excerpt": "the FDA says it is investigating a new outbreak of cyclosporiasis",
+      "example_cn": "环孢子虫病爆发与受污染的食物有关。"
+    },
+    {
+      "word": "outbreak",
+      "phonetic": "/ˈaʊtbreɪk/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "爆发",
+      "en": "a sudden occurrence of something bad",
+      "excerpt": "a new outbreak of cyclosporiasis",
+      "example_cn": "疾病爆发导致多人住院。"
+    },
+    {
+      "word": "preliminary hearing",
+      "phonetic": "/prɪˈlɪmɪnəri ˈhɪərɪŋ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "预审听证会",
+      "en": "a court hearing to decide if there is enough evidence for a trial",
+      "excerpt": "a preliminary hearing will be back underway this morning",
+      "example_cn": "预审听证会定于下周举行。"
+    },
+    {
+      "word": "contradict",
+      "phonetic": "/ˌkɒntrəˈdɪkt/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "与…矛盾",
+      "en": "to be in conflict with",
+      "excerpt": "This contradicts ICE's claim",
+      "example_cn": "他的陈述与证据相矛盾。"
+    },
+    {
+      "word": "correspondent",
+      "phonetic": "/ˌkɒrəˈspɒndənt/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "记者",
+      "en": "a journalist who reports from a particular place",
+      "excerpt": "hundreds of former and retired journalists calling on the White House Correspondents Association",
+      "example_cn": "她是驻白宫记者。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "New \"Washington Post\" survey finds 68 percent saying the war is not worth fighting, 40 points higher than those who think it is.",
+      "cn": "《华盛顿邮报》最新调查发现，68%的人认为这场战争不值得打，比认为值得打的人高出40个百分点。",
+      "structure": "主谓宾+宾语从句+比较结构",
+      "analysis": "主句为New \"Washington Post\" survey finds，宾语从句省略that，saying为现在分词作定语修饰68 percent，40 points higher than...为比较状语。"
+    },
+    {
+      "en": "It took Americans nearly four years to reach the same conclusion about the war in Iraq.",
+      "cn": "美国人花了将近四年时间才对伊拉克战争得出同样的结论。",
+      "structure": "It takes sb. time to do sth.",
+      "analysis": "It为形式主语，真正主语为to reach...，nearly four years为时间状语。"
+    },
+    {
+      "en": "The fact is that this war has brought a really dangerous shortage of a lot of our munitions.",
+      "cn": "事实是，这场战争导致我们许多弹药出现非常危险的短缺。",
+      "structure": "主系表+表语从句",
+      "analysis": "The fact is为系表结构，that引导表语从句，从句中has brought为现在完成时，shortage of...为宾语。"
+    },
+    {
+      "en": "And that is a very different question than whether or not we need to fund our troops that are currently under active fire, and whether or not we need to re-supply our munitions.",
+      "cn": "这与我们是否需要为目前处于战火中的部队提供资金，以及是否需要重新供应弹药是完全不同的问题。",
+      "structure": "主系表+比较结构+并列宾语从句",
+      "analysis": "主句为that is a very different question，than后接两个whether引导的宾语从句，第一个从句中that are...为定语从句修饰troops。"
+    },
+    {
+      "en": "But that is a very different question of should we be supporting our troops? And should we be funding our ammunition restocking?",
+      "cn": "但这是一个完全不同的问题：我们是否应该支持我们的部队？我们是否应该为弹药补充提供资金？",
+      "structure": "主系表+同位语从句（疑问句形式）",
+      "analysis": "主句为that is a very different question，of后接两个疑问句作同位语，解释question的内容。"
+    },
+    {
+      "en": "And that is something that Democrats are going to have to grapple with, because do you give the Pentagon more money to go to a war that no one wants to be in that's costing the American people money, that's costing heartache at home?",
+      "cn": "这是民主党人必须应对的问题，因为你是给五角大楼更多钱去打一场没人想打、耗费美国人民金钱、给国内带来心痛的战争吗？",
+      "structure": "主系表+定语从句+原因状语从句+并列定语从句",
+      "analysis": "主句为that is something，that Democrats...为定语从句修饰something，because后为疑问句作原因状语，其中that no one...和that's costing...为并列定语从句修饰war。"
+    },
+    {
+      "en": "The private autopsy found no fractures or deep tissue injuries, but it did note a 12-by-8-inch area of red discoloration on the back of Wells's head.",
+      "cn": "私人尸检未发现骨折或深层组织损伤，但确实注意到威尔斯后脑勺有一块12乘8英寸的红色变色区域。",
+      "structure": "并列句，but连接",
+      "analysis": "第一个分句为简单主谓宾，第二个分句中did为强调，note为谓语，a 12-by-8-inch area...为宾语。"
+    },
+    {
+      "en": "For these reasons, this pathologist cannot rule out if any intervening, non-accidental factors contributed to or caused the death of Nolan Wells.",
+      "cn": "基于这些原因，这位病理学家无法排除任何干预性的非意外因素是否促成或导致了诺兰·威尔斯的死亡。",
+      "structure": "主谓宾+宾语从句",
+      "analysis": "主句为this pathologist cannot rule out，if引导宾语从句，从句中contributed to or caused为并列谓语。"
+    },
+    {
+      "en": "And that is why the findings of the state examination are going to be so significant in the case, because they did examine that throat structure.",
+      "cn": "这就是为什么州检查的结果在此案中如此重要，因为他们确实检查了喉咙结构。",
+      "structure": "主系表+表语从句+原因状语从句",
+      "analysis": "主句为that is why...，why引导表语从句，because引导原因状语从句，did为强调。"
+    },
+    {
+      "en": "And the more witnesses talk, the more we try to piece it together, but that is the job for investigators.",
+      "cn": "目击者说得越多，我们就越努力拼凑真相，但那是调查人员的工作。",
+      "structure": "the more..., the more...结构+并列句",
+      "analysis": "前半部分为the more..., the more...比较结构，but连接并列句。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "Iran War and Public Opinion",
+      "content": "美国与伊朗的军事冲突持续，民意调查显示战争不受欢迎，68%的受访者认为战争不值得打，而特朗普政府声称美国人并不反对战争。讨论涉及中期选举的政治影响、弹药短缺、以及油价上涨等问题。",
+      "keywords": "Iran war, polls, unpopular, midterms, gas prices, munitions shortage"
+    },
+    {
+      "title": "Nolan Wells Death Investigation",
+      "content": "18岁的Nolan Wells在密西西比州岛屿附近水域失踪后死亡，独立尸检未能确定死因，仅发现头部有红色变色区域。家属和公众质疑官方调查，要求更多答案。案件涉及目击者证词、毒理学报告、以及大陪审团程序。",
+      "keywords": "Nolan Wells, autopsy, undetermined, independent, family, investigation, grand jury"
+    },
+    {
+      "title": "U.S.-Saudi Arabia Nuclear Deal",
+      "content": "美国与沙特阿拉伯签署核协议，引发对中东军备竞赛的担忧。讨论涉及地区安全、石油市场、以及特朗普政府的能源政策。",
+      "keywords": "nuclear deal, Saudi Arabia, arms race, Middle East, oil, Strait of Hormuz"
+    },
+    {
+      "title": "2026 Midterm Elections",
+      "content": "距离中期选举仅100多天，战争的不受欢迎程度可能影响共和党选情。民主党利用拨款法案作为杠杆，要求对军事行动进行授权投票。",
+      "keywords": "midterms, GOP, Democrats, leverage, authorization, military action"
+    },
+    {
+      "title": "Tropical Storm Bertha",
+      "content": "热带风暴Bertha预计在墨西哥湾西北海岸登陆，带来洪水和强风，影响范围从南部到中大西洋地区。",
+      "keywords": "Tropical Storm Bertha, landfall, flood threat, Gulf Coast, heavy rain"
+    },
+    {
+      "title": "ICE Shooting Incident",
+      "content": "休斯顿一名男子被ICE特工枪杀，两名目击者称司机在开枪前已停车，与ICE的说法矛盾。案件仍在调查中。",
+      "keywords": "ICE, shooting, Houston, witness, contradiction, investigation"
+    },
+    {
+      "title": "Cyclosporiasis Outbreak",
+      "content": "FDA调查新的环孢子虫病爆发，72例病例与未确定的来源有关，此前已有数百人感染。",
+      "keywords": "FDA, cyclosporiasis, outbreak, investigation, food safety"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nPolls Show Iran War Unpopular as Gas Prices Rise; Nolan Wells's Cause of Death 'Undetermined'. Aired 6-6:30a ET\n\nAired July 23, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nBRAD SMITH, CNN ANCHOR: Excellent work there, Spidey. And just in time for the new film, as well.\n\nI mean, maybe this is promotion that we just don't know about. Who knows? But a very fitting color for his JEEP, as well, there. Spidey, good work.\n\nThat does it for CNN HEADLINE EXPRESS, everyone. I'm Brad Smith. CNN THIS MORNING with Audie Cornish starts right now.\n\nAUDIE CORNISH, CNN ANCHOR: OK. Today in the group chat, the president telling Americans are not against war with Iran. Polls are telling us a different story. Is the GOP prepared to own this war heading into the midterms?\n\nMANU RAJU, CNN CHIEF CONGRESSIONAL CORRESPONDENT: Will there be backlash in November?\n\nSEN. RAND PAUL (R-KY): Probably.\n\nCORNISH: And the U.S. just signed a nuclear deal with the kingdom of Saudi Arabia. Could that lead to a dangerous arms race in the Middle East?\n\nCHRISTINE WONSLEY, MOTHER OF NOLAN WELLS: The only question that we have is what happened to our son. That -- that is the only question.\n\nCORNISH: An independent autopsy raises more questions about the death of young Nolan Wells. When can his family get the answers they seek?\n\nAnd Alexandria Ocasio-Cortez leads a new primary poll of Democrats for president. Is she trying to channel Obama and be the hope and change candidate?\n\nREP. ALEXANDRIA OCASIO-CORTEZ (D-NY): Our hope is the only thing that that creates change.\n\nDONALD TRUMP, U.S. PRESIDENT: Americans aren't against the war. The -- a poll -- a poll just came out. Americans don't want high gasoline prices, but they're not against the war. That just came out loud and clear in a poll.\n\nCORNISH: President Trump says his war with Iran is popular. We're going to look at the polls actually say, as the U.S. military carries out a 12th straight night of airstrikes inside Iran.\n\nGood morning, everybody. I'm Audie Cornish, and I'm going to show you poll after poll finding a war that is historically unpopular, and in record time.\n\nNew \"Washington Post\" survey finds 68 percent saying the war is not worth fighting, 40 points higher than those who think it is. The Iraq and Afghanistan wars never reached that mark.\n\nAnd just two months into the war, 61 percent believe the war was a mistake. It took Americans nearly four years to reach the same conclusion about the war in Iraq.\n\nRAJU: So, are you, as Republicans prepared to own this heading into November, given its unpopularity, the war?\n\nREP. MIKE JOHNSON (R-LA): What we're voting on right now is $60 billion to make sure that our troops are supplied. We have the munitions we need to defend America. It is shameful to me that Democrats are unwilling to go along on that.\n\nCORNISH: Joining me now in the group chat, Alex Thompson CNN political analyst and national political reporter at Axios; Mike Dubke, former communications director at the Trump White House; and Meghan Hays, former director of message and planning at the Biden White House. Welcome back, everybody.\n\nAlex, I want to start with you, because yesterday on this panel, we talked a lot about the bill itself: Hegseth asking for this money, what they want it for, and whether we're actually even getting the accurate number of how much they will need going forward.\n\nToday, I want to talk to you about the politics of this. What do you know, either through Congress or coverage of the White House, about how the White House is approaching this? Because the president is just sort of like, things are going great. You don't know what you're talking about.\n\nALEX THOMPSON, CNN POLITICAL ANALYST: I mean, the White House is basically saying, are you going to vote against the troops or are you going to vote against the munitions?\n\nThe fact is that this war has brought a really dangerous shortage of a lot of our munitions. Like, the American military, is not -- if we are attacked or if there's anything else, we're in trouble.\n\nAnd so, the White House, basically, has been, like, we need this money because of the crisis and this munitions shortage that we created.\n\nCORNISH: What do you think is the disconnect, then, between the voter and the White House?\n\nMIKE DUBKE, FORMER TRUMP WHITE HOUSE COMMUNICATIONS DIRECTOR: The voter and the White House?\n\nCORNISH: Yes. Meaning why would this poll show people think it's literally not worth fighting?\n\nDUBKE: Because I think that -- because I think that's a different question than you were just asking. The question that the voters are facing in that is, \"Was it worth it?\" And I think that was the exact quote, actually, from the poll. Was the incursion and the conflict with -- with Iran worth it?\n\nAnd I think they're looking at this going, We haven't been sold on it being worth it.\n\nThat is a very, very different question than whether or not we need to fund our troops that are currently under active fire, and whether or not we need to re- -- re-supply our munitions.\n\nDUBKE: And that's a very different question that's happening on Capitol Hill.\n\nCORNISH: Here's a taste of what they're showing on FOX News. Just to give an example.\n\nBRIT HUME, FOX NEWS ANCHOR: He promised to keep us out of -- of endless wars or unsatisfactory wars. And now he's in one. And it's not at all clear how it's going to end.\n\nLAURA INGRAHAM, FOX NEWS HOST: With the midterm elections a little more than 100 days away, the clock is ticking for President Trump to get out of this war before voters head to the polls.\n\n(END VIDEO CLIP) CORNISH: It's interesting to me that people are talking about this in this way. They are not saying this is time to -- we've got to support the troop. We already are in there. There's nothing we can do. We broke it, we bought it. It's not that argument.\n\nIt's maybe this was a bad call, but we're here now. And I think the question is, will voters still punish people for the bad call?\n\nMEGHAN HAYS, FORMER BIDEN WHITE HOUSE DIRECTOR OF MESSAGE PLANNING: Yes, absolutely. And it's a bad call, because our gas prices are too high, and they can't afford meat and coffee at the grocery store. And so, that is what they're grappling with.\n\nBut that is a very different question of should we be supporting our troops? And should we be funding our ammunition restocking? And that is something that Democrats are going to have to grapple with, because do you give the Pentagon more money to go to a war that no one wants to be in that's costing the American people money, that's costing heartache at home?\n\nOr are you saying, no, we're not going to give you money? And then, that puts our troops in danger.\n\nCORNISH: With more service members killed in action recently.\n\nTHOMPSON: Well, this is one of the Democrats' only pieces of leverage, because the Republicans have done nothing to force a vote on whether or not to even authorize this military action.\n\nSo, the Democrats are using this opportunity for this moment of leverage.\n\nCORNISH: I also want to show you gas prices. I think during the Biden administration, there was a little bit of, like, don't look at this number. Look at that number. Don't worry about this. Let's talk about democracy. And in the meantime --\n\nDUBKE: I've got a better economist for you.\n\nCORNISH: You've got a better. And so, here are gas prices today: 4.09. In January of 2025 before we went to war, so $3.12. And then under Biden at its peak was 5.02.\n\nAnd today, as we said, when it comes to the Trump administration, we're at 4.09. And the Strait of Hormuz is not reopening.\n\nAnd now you've got Houthis in Yemen deciding they're going to jump into the Red Sea. The answer to this from Trump is saying, Look, don't worry about it. We don't need it. We've got Venezuela.\n\nI'm going to let you hear this explanation.\n\nTRUMP: You combine us and Venezuela, we have about 62 percent of the world's oil market. So, we don't need straits. We don't need anything. We don't need the Hormuz Street [SIC]. But we do it because we have to do it, because we cannot let Iran have a nuclear weapon.\n\nCORNISH: So, the U.S. is only in this position, because it became an exporter of energy at a certain point, right? We're doing pretty well.\n\nVenezuela, I was under the impression, had an enormous earthquake recently. And oil companies are wondering how they're even going to do the work that they're promising there.\n\nTHOMPSON: Also, any oil executive will tell you cannot -- it's not -- it's not like a faucet. You can't just suddenly have tons of oil flowing. It takes years of building up infrastructure. A lot of that infrastructure had been degraded in Venezuela.\n\nCORNISH: And we're eating into our reserves.\n\nTHOMPSON: Absolutely.\n\nHAYS: And didn't they go to the White House and say it's not economically feasible to go to Venezuela and build that infrastructure back up? So, I mean --\n\nTHOMPSON: Yes, but there have been some deals the Trump administration has --\n\nTHOMPSON: -- has signed. But it's just the very -- it's just the very beginning.\n\nAnd also, as you noted, we're a net exporter, but it's a global market. The Strait of Hormuz affects the price of oil everywhere, which is why, even though we are a net exporter, the prices are still up.\n\nDUBKE: We didn't get oil from the Strait of Hormuz. That's the other part of this.\n\nCORNISH: But when the president announced a ceasefire, the thing he said is if we didn't stop, there might be a global recession. Like, he said that when he explained to everyone why he wanted a pause in fighting.\n\nSo, it's hard not to picture a return to fighting leading to the scenario he introduced, which is a global recession.\n\nDUBKE: Well, they -- so the memorandum of understanding created a situation in which there was some oil that moved out. But again, we are getting perilously, perilously low on world reserves. And so, yes, are we coming back to that position? I think so. We've got a little bit of time on that. The bigger question, though, here is on the American exporting. If we\n\njust kept our oil and our -- and our gas, we'd be fine. But we're not. We are a net export. We are an exporter now.\n\nCORNISH: They're trying to keep prices down.\n\nDUBKE: And -- and in order to do that, in order to keep prices low in Europe and other places in the world, we're going to potentially see some shortages.\n\nCORNISH: Well, I'm sure we're going to talk more about this. I'm fascinated, because I think from the Biden era, we learned that the White House can say all it wants about how well things are going, but if people don't think it's -- feel it's going well, nothing can save you.\n\nSo, coming up on CNN THIS MORNING, there is a different kind of fight going on, on Capitol Hill. This one is over billions of dollars for the military. And we're going to talk about how that is working out this morning.\n\nPlus, the fight to find out how young Nolan Wells died is far from over. The new autopsy that raises more questions than answers.\n\nWONSLEY: The only question that we have is what happened to our son. That -- that is the only question.\n\nCORNISH: All right. But there are more questions than answers for the family of Nolan Wells after an independent autopsy could not determine what caused the 18-year-old's death.\n\nWells's body was found off the coast of an island in Mississippi, where he had gone boating with friends for the Fourth of July. He never returned home.\n\nThe private autopsy found no fractures or deep tissue injuries, but it did note a 12-by-8-inch area of red discoloration on the back of Wells's head.\n\nNow, the family attorney says the findings were limited, because Wells's body was not intact from the initial autopsy ordered by authorities.\n\nBENJAMIN CRUMP, ATTORNEY FOR NOLAN WELLS'S FAMILY: For these reasons, this pathologist cannot rule out if any intervening, non-accidental factors contributed to or caused the death of Nolan Wells. Understand? (END VIDEO CLIP)\n\nCORNISH: All right. Joining me now to discuss, former prosecutor Alyse Adamson.\n\nAlyse, thank you so much for coming on.\n\nA lot of people are talking about this online. And first, I want to talk about this independent autopsy, which means it's happening after the official one.\n\nBut that also means they did not receive what's called an intact body. There were aspects of his organs that were not available to this independent person doing the autopsy.\n\nHow common or uncommon is that? And if it is common, what can you really get out of such limited findings?\n\nALYSE ADAMSON, FORMER PROSECUTOR: Yes. Thank you, Audie.\n\nYou know, I would say it's relatively common. Autopsies are routine in cases of unexplained death, and medical examiners need to follow a certain protocol to get to the answers.\n\nHere, what was missing, significantly missing from the independent autopsy was the neck structure. That is because the neck can tell us a lot. Was the hyoid bone intact, for instance? That would be an indicia of strangulation, if it was not.\n\nIt can also tell you a lot about a potential drowning. Those are some of the critical questions in this case. And so, that's why the state medical examiners had removed it for examination.\n\nSo, in a case where that -- this isn't the central question. Perhaps the body could have given more information. But here, where the neck is so significant, it is -- it is not. It is not uncommon or surprising that the medical examiner was not able to reach a conclusion.\n\nAnd that is why the findings of the state examination are going to be so significant in the case, because they did examine that throat structure.\n\nCORNISH: You know, I want to play for you Nancy Grace, who's the noted sort of true crime, you know, investigator. She's jumped on this. And I think it just sort of reflects how much interest there is. And all of these sort of armchair investigators that are now looking at this case. We'll talk on the other side.\n\nNANCY GRACE, HOST, FOX'S \"CRIME STORIES\": So, am I left to believe that he goes out swimming all on his own? And the friend girl leaves; the mates from school leave. Everybody just leaves him out in the water, and he dies? And then just conveniently washes ashore? Somebody just left him out in the water. Does that make sense to you? (END VIDEO CLIP)\n\nCORNISH: Is this going to add more pressure to investigators to give more answers to both the family and the public?\n\nADAMSON: Yes, I think so, Audie. I mean, first of all, you have the family's lawyer, Ben Crump, who's been out in front from day one. So, that alone, and the releasing of this independent autopsy has put a lot of pressure on investigators.\n\nBut you're right. Now, the national media has picked this up. And Nancy Grace is expressing what a lot of people are thinking, which is there's a lot of gaps. There are a lot of questions. And right now, because there's so many evidentiary gaps, it does look a little bit suspicious. The story doesn't make sense, because we don't have the full story.\n\nSo, you can bet that investigators are working around the clock to try to piece that together. And the autopsy, let's remember, is just one puzzle piece for the larger picture. We also need the witness statements, GPS, digital evidence.\n\nADAMSON: There's a lot of information that's not been public.\n\nCORNISH: One more thing for you related to that.\n\nCORNISH: You mentioned witnesses. One of the -- one of his -- the people who were present for that trip -- his name is Warren Hudson -- was speaking to a kind of manosphere, MAGA-ish podcast. It's called \"The Officer Tatum Show.\"\n\nAnd I found it interesting that he was sort of coming out publicly to a very specific outlet, which has broken up this interview into multiple parts. So, we don't have a lot of detail here.\n\nBut I want to give you an example of the kind of statement he's making publicly. It asks whether this kind of thing can come into play, if there's a case later. Here it is.\n\nWARREN HUDSON, FRIEND OF NOLAN WELLS: Everybody's drinking, you know. I mean, it's Fourth of July. Everyone's just trying to enjoy themselves. And, you know, it's a big party.\n\nIt was just a big -- I talked to Nolan and, you know, Nolan was drinking. Everybody was drinking. Most of everybody. And I mean, Nolan seemed completely fine every time I talked to him. We had just regular conversations.\n\nCORNISH: Everyone who speaks now, is this something that we might be kind of combing over later?\n\nADAMSON: Yes. It's interesting that he gave that interview to a podcaster and not investigators. That's not to say he hasn't spoken to investigators.\n\nBut yes, I mean, if he's ultimately called to trial, those statements could potentially come in, especially if he makes inconsistent statements.\n\nAnd look, we're still waiting for the toxicology report. You just heard him say Nolan seemed fine. Well, we'll see. Was he intoxicated? Was he under the influence? Was he sober? Again, we don't know. And that's why we need to wait for more information to come out.\n\nAnd the more witnesses talk, the more we try to piece it together. But that is the job for investigators. And we will see if these accounts hold up with the corroborating evidence or not.\n\nCORNISH: Before I let you go, I just want to play for you Christine Wonsley. She is the mother of Nolan Wells. And she had to come out after this conversation about this autopsy, which had to be the most heartbreaking thing I have seen in some time. Here she is.\n\nWONSLEY: It is our hope that our local authorities will do what they need to do, because us having the preliminary autopsy results and hearing nothing from them, it's heartbreaking. And it's concerning. Which again, is why we are here, why we have asked for this help.\n\nCORNISH: Alyse, what are you going to be listen -- listening for in the next few days?\n\nADAMSON: Yes, absolutely. Tragic case. Devastating to hear her -- her talk. I'll be looking for that state medical examiner report, again because they had the full body to examine. We should have more answers.\n\nThe independent was undetermined. We need to know, are they going to classify it accidental homicide, natural causes? What?\n\nWe're also going to be looking for the investigators to share more information. Again, is there going to be witness accounts that they want to tell us about? Digital evidence? That's what I'll be looking for in the immediate couple of days.\n\nWe have heard the state say that they're going to present this all to a grand jury. That's going to take a while, but the grand jury is ultimately going to decide whether or not there's evidence of a potential crime here. So, that is the short term I'm going to be looking for. And then what\n\nI'm going to be tracking in the long term. But just an absolutely tragic story, Audie. And I hope that investigators are able to come to some conclusions relatively soon to give this family some peace.\n\nCORNISH: OK. Alyse Adamson, thank you. Stay with us. We'll be back in a moment.\n\nCORNISH: OK, it's now 26 minutes past the hour. Here are five things that are making the news this morning.\n\nSo, a preliminary hearing will be back underway this morning in the murder case against the singer D4vd. Prosecutors are laying out their case in hopes of a judge taking it to trial.\n\nYesterday in court, they focused on samples of possible blood stains that were found in the singer's garage. It's where they are, alleging that he dismembered the body of a teenager, 14-year-old Celeste Rivas Hernandez.\n\nAnd Tropical Storm Bertha is expected to make landfall along the Northwestern Gulf Coast today and fueling a flood threat hundreds of miles away. Forecasters say windy conditions and rain will linger on the Gulf Coast for the next few days.\n\nMoisture linked to Bertha is feeding a flood threat that's stretching from the South to the mid-Atlantic, where some places could see a month's worth of rain -- a month's -- in just a few days.\n\nAnd new questions this morning about the fatal shooting of a Houston man by an ICE agent. Two passengers who were in the van told a federal court the driver parked the vehicle before the agent fired his weapon.\n\nNow, this contradicts ICE's claim that the officer was in danger. The shooting is still under investigation.\n\nAnd hundreds of former and retired journalists calling on the White House Correspondents Association to stand up to Trump and the Trump administration's recent attacks on the media.\n\nNow, during its rescheduled dinner on Friday, President Trump does plan to attend. The first dinner, of course, was cut short in April when a gunman opened fire in the building.\n\nAnd the FDA says it is investigating a new outbreak of cyclosporiasis. It says 72 cases are tied to a source that they have yet to identify.\n\nNow, this is linked to the outbreaks that has already caused hundreds of people to get sick across the country.\n\nNow, straight ahead on CNN THIS MORNING, we're going to be talking about the U.S. and Iran continuing to trade military strikes. How the Trump administration says it will respond as the fight spreads across the region.\n\nPlus, Speaker Mike Johnson backs a ban on lawmakers dating any staff. So, could this change the power dynamic in Washington?",
+  "segments": [
+    {
+      "seg": 1,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-23/segment/01",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nPolls Show Iran War Unpopular as Gas Prices Rise; Nolan Wells's Cause of Death 'Undetermined'. Aired 6-6:30a ET\n\nAired July 23, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nBRAD SMITH, CNN ANCHOR: Excellent work there, Spidey. And just in time for the new film, as well.\n\nI mean, maybe this is promotion that we just don't know about. Who knows? But a very fitting color for his JEEP, as well, there. Spidey, good work.\n\nThat does it for CNN HEADLINE EXPRESS, everyone. I'm Brad Smith. CNN THIS MORNING with Audie Cornish starts right now.\n\nAUDIE CORNISH, CNN ANCHOR: OK. Today in the group chat, the president telling Americans are not against war with Iran. Polls are telling us a different story. Is the GOP prepared to own this war heading into the midterms?\n\nMANU RAJU, CNN CHIEF CONGRESSIONAL CORRESPONDENT: Will there be backlash in November?\n\nSEN. RAND PAUL (R-KY): Probably.\n\nCORNISH: And the U.S. just signed a nuclear deal with the kingdom of Saudi Arabia. Could that lead to a dangerous arms race in the Middle East?\n\nCHRISTINE WONSLEY, MOTHER OF NOLAN WELLS: The only question that we have is what happened to our son. That -- that is the only question.\n\nCORNISH: An independent autopsy raises more questions about the death of young Nolan Wells. When can his family get the answers they seek?\n\nAnd Alexandria Ocasio-Cortez leads a new primary poll of Democrats for president. Is she trying to channel Obama and be the hope and change candidate?\n\nREP. ALEXANDRIA OCASIO-CORTEZ (D-NY): Our hope is the only thing that that creates change.\n\nDONALD TRUMP, U.S. PRESIDENT: Americans aren't against the war. The -- a poll -- a poll just came out. Americans don't want high gasoline prices, but they're not against the war. That just came out loud and clear in a poll.\n\nCORNISH: President Trump says his war with Iran is popular. We're going to look at the polls actually say, as the U.S. military carries out a 12th straight night of airstrikes inside Iran.\n\nGood morning, everybody. I'm Audie Cornish, and I'm going to show you poll after poll finding a war that is historically unpopular, and in record time.\n\nNew \"Washington Post\" survey finds 68 percent saying the war is not worth fighting, 40 points higher than those who think it is. The Iraq and Afghanistan wars never reached that mark.\n\nAnd just two months into the war, 61 percent believe the war was a mistake. It took Americans nearly four years to reach the same conclusion about the war in Iraq.\n\nRAJU: So, are you, as Republicans prepared to own this heading into November, given its unpopularity, the war?\n\nREP. MIKE JOHNSON (R-LA): What we're voting on right now is $60 billion to make sure that our troops are supplied. We have the munitions we need to defend America. It is shameful to me that Democrats are unwilling to go along on that.\n\nCORNISH: Joining me now in the group chat, Alex Thompson CNN political analyst and national political reporter at Axios; Mike Dubke, former communications director at the Trump White House; and Meghan Hays, former director of message and planning at the Biden White House. Welcome back, everybody.\n\nAlex, I want to start with you, because yesterday on this panel, we talked a lot about the bill itself: Hegseth asking for this money, what they want it for, and whether we're actually even getting the accurate number of how much they will need going forward.\n\nToday, I want to talk to you about the politics of this. What do you know, either through Congress or coverage of the White House, about how the White House is approaching this? Because the president is just sort of like, things are going great. You don't know what you're talking about.\n\nALEX THOMPSON, CNN POLITICAL ANALYST: I mean, the White House is basically saying, are you going to vote against the troops or are you going to vote against the munitions?\n\nThe fact is that this war has brought a really dangerous shortage of a lot of our munitions. Like, the American military, is not -- if we are attacked or if there's anything else, we're in trouble.\n\nAnd so, the White House, basically, has been, like, we need this money because of the crisis and this munitions shortage that we created.\n\nCORNISH: What do you think is the disconnect, then, between the voter and the White House?\n\nMIKE DUBKE, FORMER TRUMP WHITE HOUSE COMMUNICATIONS DIRECTOR: The voter and the White House?\n\nCORNISH: Yes. Meaning why would this poll show people think it's literally not worth fighting?\n\nDUBKE: Because I think that -- because I think that's a different question than you were just asking. The question that the voters are facing in that is, \"Was it worth it?\" And I think that was the exact quote, actually, from the poll. Was the incursion and the conflict with -- with Iran worth it?\n\nAnd I think they're looking at this going, We haven't been sold on it being worth it.\n\nThat is a very, very different question than whether or not we need to fund our troops that are currently under active fire, and whether or not we need to re- -- re-supply our munitions.\n\nDUBKE: And that's a very different question that's happening on Capitol Hill.\n\nCORNISH: Here's a taste of what they're showing on FOX News. Just to give an example.\n\nBRIT HUME, FOX NEWS ANCHOR: He promised to keep us out of -- of endless wars or unsatisfactory wars. And now he's in one. And it's not at all clear how it's going to end.\n\nLAURA INGRAHAM, FOX NEWS HOST: With the midterm elections a little more than 100 days away, the clock is ticking for President Trump to get out of this war before voters head to the polls.\n\n(END VIDEO CLIP) CORNISH: It's interesting to me that people are talking about this in this way. They are not saying this is time to -- we've got to support the troop. We already are in there. There's nothing we can do. We broke it, we bought it. It's not that argument.\n\nIt's maybe this was a bad call, but we're here now. And I think the question is, will voters still punish people for the bad call?\n\nMEGHAN HAYS, FORMER BIDEN WHITE HOUSE DIRECTOR OF MESSAGE PLANNING: Yes, absolutely. And it's a bad call, because our gas prices are too high, and they can't afford meat and coffee at the grocery store. And so, that is what they're grappling with.\n\nBut that is a very different question of should we be supporting our troops? And should we be funding our ammunition restocking? And that is something that Democrats are going to have to grapple with, because do you give the Pentagon more money to go to a war that no one wants to be in that's costing the American people money, that's costing heartache at home?\n\nOr are you saying, no, we're not going to give you money? And then, that puts our troops in danger.\n\nCORNISH: With more service members killed in action recently.\n\nTHOMPSON: Well, this is one of the Democrats' only pieces of leverage, because the Republicans have done nothing to force a vote on whether or not to even authorize this military action.\n\nSo, the Democrats are using this opportunity for this moment of leverage.\n\nCORNISH: I also want to show you gas prices. I think during the Biden administration, there was a little bit of, like, don't look at this number. Look at that number. Don't worry about this. Let's talk about democracy. And in the meantime --\n\nDUBKE: I've got a better economist for you.\n\nCORNISH: You've got a better. And so, here are gas prices today: 4.09. In January of 2025 before we went to war, so $3.12. And then under Biden at its peak was 5.02.\n\nAnd today, as we said, when it comes to the Trump administration, we're at 4.09. And the Strait of Hormuz is not reopening.\n\nAnd now you've got Houthis in Yemen deciding they're going to jump into the Red Sea. The answer to this from Trump is saying, Look, don't worry about it. We don't need it. We've got Venezuela.\n\nI'm going to let you hear this explanation.\n\nTRUMP: You combine us and Venezuela, we have about 62 percent of the world's oil market. So, we don't need straits. We don't need anything. We don't need the Hormuz Street [SIC]. But we do it because we have to do it, because we cannot let Iran have a nuclear weapon.\n\nCORNISH: So, the U.S. is only in this position, because it became an exporter of energy at a certain point, right? We're doing pretty well.\n\nVenezuela, I was under the impression, had an enormous earthquake recently. And oil companies are wondering how they're even going to do the work that they're promising there.\n\nTHOMPSON: Also, any oil executive will tell you cannot -- it's not -- it's not like a faucet. You can't just suddenly have tons of oil flowing. It takes years of building up infrastructure. A lot of that infrastructure had been degraded in Venezuela.\n\nCORNISH: And we're eating into our reserves.\n\nTHOMPSON: Absolutely.\n\nHAYS: And didn't they go to the White House and say it's not economically feasible to go to Venezuela and build that infrastructure back up? So, I mean --\n\nTHOMPSON: Yes, but there have been some deals the Trump administration has --\n\nTHOMPSON: -- has signed. But it's just the very -- it's just the very beginning.\n\nAnd also, as you noted, we're a net exporter, but it's a global market. The Strait of Hormuz affects the price of oil everywhere, which is why, even though we are a net exporter, the prices are still up.\n\nDUBKE: We didn't get oil from the Strait of Hormuz. That's the other part of this.\n\nCORNISH: But when the president announced a ceasefire, the thing he said is if we didn't stop, there might be a global recession. Like, he said that when he explained to everyone why he wanted a pause in fighting.\n\nSo, it's hard not to picture a return to fighting leading to the scenario he introduced, which is a global recession.\n\nDUBKE: Well, they -- so the memorandum of understanding created a situation in which there was some oil that moved out. But again, we are getting perilously, perilously low on world reserves. And so, yes, are we coming back to that position? I think so. We've got a little bit of time on that. The bigger question, though, here is on the American exporting. If we\n\njust kept our oil and our -- and our gas, we'd be fine. But we're not. We are a net export. We are an exporter now.\n\nCORNISH: They're trying to keep prices down.\n\nDUBKE: And -- and in order to do that, in order to keep prices low in Europe and other places in the world, we're going to potentially see some shortages.\n\nCORNISH: Well, I'm sure we're going to talk more about this. I'm fascinated, because I think from the Biden era, we learned that the White House can say all it wants about how well things are going, but if people don't think it's -- feel it's going well, nothing can save you.\n\nSo, coming up on CNN THIS MORNING, there is a different kind of fight going on, on Capitol Hill. This one is over billions of dollars for the military. And we're going to talk about how that is working out this morning.\n\nPlus, the fight to find out how young Nolan Wells died is far from over. The new autopsy that raises more questions than answers.\n\nWONSLEY: The only question that we have is what happened to our son. That -- that is the only question.\n\nCORNISH: All right. But there are more questions than answers for the family of Nolan Wells after an independent autopsy could not determine what caused the 18-year-old's death.\n\nWells's body was found off the coast of an island in Mississippi, where he had gone boating with friends for the Fourth of July. He never returned home.\n\nThe private autopsy found no fractures or deep tissue injuries, but it did note a 12-by-8-inch area of red discoloration on the back of Wells's head.\n\nNow, the family attorney says the findings were limited, because Wells's body was not intact from the initial autopsy ordered by authorities.\n\nBENJAMIN CRUMP, ATTORNEY FOR NOLAN WELLS'S FAMILY: For these reasons, this pathologist cannot rule out if any intervening, non-accidental factors contributed to or caused the death of Nolan Wells. Understand? (END VIDEO CLIP)\n\nCORNISH: All right. Joining me now to discuss, former prosecutor Alyse Adamson.\n\nAlyse, thank you so much for coming on.\n\nA lot of people are talking about this online. And first, I want to talk about this independent autopsy, which means it's happening after the official one.\n\nBut that also means they did not receive what's called an intact body. There were aspects of his organs that were not available to this independent person doing the autopsy.\n\nHow common or uncommon is that? And if it is common, what can you really get out of such limited findings?\n\nALYSE ADAMSON, FORMER PROSECUTOR: Yes. Thank you, Audie.\n\nYou know, I would say it's relatively common. Autopsies are routine in cases of unexplained death, and medical examiners need to follow a certain protocol to get to the answers.\n\nHere, what was missing, significantly missing from the independent autopsy was the neck structure. That is because the neck can tell us a lot. Was the hyoid bone intact, for instance? That would be an indicia of strangulation, if it was not.\n\nIt can also tell you a lot about a potential drowning. Those are some of the critical questions in this case. And so, that's why the state medical examiners had removed it for examination.\n\nSo, in a case where that -- this isn't the central question. Perhaps the body could have given more information. But here, where the neck is so significant, it is -- it is not. It is not uncommon or surprising that the medical examiner was not able to reach a conclusion.\n\nAnd that is why the findings of the state examination are going to be so significant in the case, because they did examine that throat structure.\n\nCORNISH: You know, I want to play for you Nancy Grace, who's the noted sort of true crime, you know, investigator. She's jumped on this. And I think it just sort of reflects how much interest there is. And all of these sort of armchair investigators that are now looking at this case. We'll talk on the other side.\n\nNANCY GRACE, HOST, FOX'S \"CRIME STORIES\": So, am I left to believe that he goes out swimming all on his own? And the friend girl leaves; the mates from school leave. Everybody just leaves him out in the water, and he dies? And then just conveniently washes ashore? Somebody just left him out in the water. Does that make sense to you? (END VIDEO CLIP)\n\nCORNISH: Is this going to add more pressure to investigators to give more answers to both the family and the public?\n\nADAMSON: Yes, I think so, Audie. I mean, first of all, you have the family's lawyer, Ben Crump, who's been out in front from day one. So, that alone, and the releasing of this independent autopsy has put a lot of pressure on investigators.\n\nBut you're right. Now, the national media has picked this up. And Nancy Grace is expressing what a lot of people are thinking, which is there's a lot of gaps. There are a lot of questions. And right now, because there's so many evidentiary gaps, it does look a little bit suspicious. The story doesn't make sense, because we don't have the full story.\n\nSo, you can bet that investigators are working around the clock to try to piece that together. And the autopsy, let's remember, is just one puzzle piece for the larger picture. We also need the witness statements, GPS, digital evidence.\n\nADAMSON: There's a lot of information that's not been public.\n\nCORNISH: One more thing for you related to that.\n\nCORNISH: You mentioned witnesses. One of the -- one of his -- the people who were present for that trip -- his name is Warren Hudson -- was speaking to a kind of manosphere, MAGA-ish podcast. It's called \"The Officer Tatum Show.\"\n\nAnd I found it interesting that he was sort of coming out publicly to a very specific outlet, which has broken up this interview into multiple parts. So, we don't have a lot of detail here.\n\nBut I want to give you an example of the kind of statement he's making publicly. It asks whether this kind of thing can come into play, if there's a case later. Here it is.\n\nWARREN HUDSON, FRIEND OF NOLAN WELLS: Everybody's drinking, you know. I mean, it's Fourth of July. Everyone's just trying to enjoy themselves. And, you know, it's a big party.\n\nIt was just a big -- I talked to Nolan and, you know, Nolan was drinking. Everybody was drinking. Most of everybody. And I mean, Nolan seemed completely fine every time I talked to him. We had just regular conversations.\n\nCORNISH: Everyone who speaks now, is this something that we might be kind of combing over later?\n\nADAMSON: Yes. It's interesting that he gave that interview to a podcaster and not investigators. That's not to say he hasn't spoken to investigators.\n\nBut yes, I mean, if he's ultimately called to trial, those statements could potentially come in, especially if he makes inconsistent statements.\n\nAnd look, we're still waiting for the toxicology report. You just heard him say Nolan seemed fine. Well, we'll see. Was he intoxicated? Was he under the influence? Was he sober? Again, we don't know. And that's why we need to wait for more information to come out.\n\nAnd the more witnesses talk, the more we try to piece it together. But that is the job for investigators. And we will see if these accounts hold up with the corroborating evidence or not.\n\nCORNISH: Before I let you go, I just want to play for you Christine Wonsley. She is the mother of Nolan Wells. And she had to come out after this conversation about this autopsy, which had to be the most heartbreaking thing I have seen in some time. Here she is.\n\nWONSLEY: It is our hope that our local authorities will do what they need to do, because us having the preliminary autopsy results and hearing nothing from them, it's heartbreaking. And it's concerning. Which again, is why we are here, why we have asked for this help.\n\nCORNISH: Alyse, what are you going to be listen -- listening for in the next few days?\n\nADAMSON: Yes, absolutely. Tragic case. Devastating to hear her -- her talk. I'll be looking for that state medical examiner report, again because they had the full body to examine. We should have more answers.\n\nThe independent was undetermined. We need to know, are they going to classify it accidental homicide, natural causes? What?\n\nWe're also going to be looking for the investigators to share more information. Again, is there going to be witness accounts that they want to tell us about? Digital evidence? That's what I'll be looking for in the immediate couple of days.\n\nWe have heard the state say that they're going to present this all to a grand jury. That's going to take a while, but the grand jury is ultimately going to decide whether or not there's evidence of a potential crime here. So, that is the short term I'm going to be looking for. And then what\n\nI'm going to be tracking in the long term. But just an absolutely tragic story, Audie. And I hope that investigators are able to come to some conclusions relatively soon to give this family some peace.\n\nCORNISH: OK. Alyse Adamson, thank you. Stay with us. We'll be back in a moment.\n\nCORNISH: OK, it's now 26 minutes past the hour. Here are five things that are making the news this morning.\n\nSo, a preliminary hearing will be back underway this morning in the murder case against the singer D4vd. Prosecutors are laying out their case in hopes of a judge taking it to trial.\n\nYesterday in court, they focused on samples of possible blood stains that were found in the singer's garage. It's where they are, alleging that he dismembered the body of a teenager, 14-year-old Celeste Rivas Hernandez.\n\nAnd Tropical Storm Bertha is expected to make landfall along the Northwestern Gulf Coast today and fueling a flood threat hundreds of miles away. Forecasters say windy conditions and rain will linger on the Gulf Coast for the next few days.\n\nMoisture linked to Bertha is feeding a flood threat that's stretching from the South to the mid-Atlantic, where some places could see a month's worth of rain -- a month's -- in just a few days.\n\nAnd new questions this morning about the fatal shooting of a Houston man by an ICE agent. Two passengers who were in the van told a federal court the driver parked the vehicle before the agent fired his weapon.\n\nNow, this contradicts ICE's claim that the officer was in danger. The shooting is still under investigation.\n\nAnd hundreds of former and retired journalists calling on the White House Correspondents Association to stand up to Trump and the Trump administration's recent attacks on the media.\n\nNow, during its rescheduled dinner on Friday, President Trump does plan to attend. The first dinner, of course, was cut short in April when a gunman opened fire in the building.\n\nAnd the FDA says it is investigating a new outbreak of cyclosporiasis. It says 72 cases are tied to a source that they have yet to identify.\n\nNow, this is linked to the outbreaks that has already caused hundreds of people to get sick across the country.\n\nNow, straight ahead on CNN THIS MORNING, we're going to be talking about the U.S. and Iran continuing to trade military strikes. How the Trump administration says it will respond as the fight spreads across the region.\n\nPlus, Speaker Mike Johnson backs a ban on lawmakers dating any staff. So, could this change the power dynamic in Washington?"
+    }
+  ]
+}

@@ -1,0 +1,394 @@
+{
+  "date": "2026-07-23",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-23/segment/02",
+  "vocabulary": [
+    {
+      "word": "airstrike",
+      "phonetic": "/ˈeərstraɪk/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "空袭",
+      "en": "an attack by military aircraft",
+      "excerpt": "the U.S. carries out its twelfth straight night of airstrikes against the country.",
+      "example_cn": "美国对该国进行了连续第十二晚的空袭。"
+    },
+    {
+      "word": "perjury",
+      "phonetic": "/ˈpɜːrdʒəri/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "伪证罪",
+      "en": "the crime of telling a lie in a court of law after promising to tell the truth",
+      "excerpt": "House Judiciary Committee Chairman Jim Jordan wants former Special Counsel Jack Smith to face perjury charges.",
+      "example_cn": "众议院司法委员会主席吉姆·乔丹希望前特别检察官杰克·史密斯面临伪证指控。"
+    },
+    {
+      "word": "romantically involved",
+      "phonetic": "/roʊˈmæntɪkli ɪnˈvɑːlvd/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "恋爱关系",
+      "en": "having a romantic relationship",
+      "excerpt": "Johnson is supporting a ban on lawmakers getting romantically involved with House staffers.",
+      "example_cn": "约翰逊支持禁止议员与众议院工作人员建立恋爱关系。"
+    },
+    {
+      "word": "creepiness",
+      "phonetic": "/ˈkriːpinəs/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "令人不安；怪异",
+      "en": "the quality of being strange and frightening",
+      "excerpt": "what we have seen is a culture of creepiness.",
+      "example_cn": "我们所看到的是令人不安的文化。"
+    },
+    {
+      "word": "tapped into",
+      "phonetic": "/tæpt ˈɪntuː/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "了解；融入",
+      "en": "to understand and be part of something",
+      "excerpt": "You're very tapped into the culture on The Hill.",
+      "example_cn": "你非常了解国会山的文化。"
+    },
+    {
+      "word": "above board",
+      "phonetic": "/əˈbʌv bɔːrd/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "光明正大的",
+      "en": "honest and legal",
+      "excerpt": "the rest of us all have the sort of above board experience of just covering stuff.",
+      "example_cn": "我们其他人只有那种光明正大的报道经验。"
+    },
+    {
+      "word": "sexual misconduct",
+      "phonetic": "/ˈsekʃuəl ˌmɪsˈkɑːndʌkt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "性行为不端",
+      "en": "unacceptable sexual behavior",
+      "excerpt": "the number of people investigated for sexual misconduct in Congress.",
+      "example_cn": "国会中因性行为不端被调查的人数。"
+    },
+    {
+      "word": "take advantage of",
+      "phonetic": "/teɪk ədˈvæntɪdʒ ʌv/",
+      "pos": "phrase",
+      "level": "考研",
+      "cn": "利用",
+      "en": "to use a situation or person for your own benefit",
+      "excerpt": "they like to use their power to take advantage of maybe staffers.",
+      "example_cn": "他们喜欢利用权力来占工作人员的便宜。"
+    },
+    {
+      "word": "high on one's own supply",
+      "phonetic": "/haɪ ɒn wʌnz oʊn səˈplaɪ/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "自我陶醉",
+      "en": "to be overly impressed with one's own success or power",
+      "excerpt": "People can get high on their own supply.",
+      "example_cn": "人们可能会自我陶醉。"
+    },
+    {
+      "word": "veered into",
+      "phonetic": "/vɪrd ˈɪntuː/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "转向；变成",
+      "en": "to change direction or topic suddenly",
+      "excerpt": "that's veered into abuse.",
+      "example_cn": "那已经变成了虐待。"
+    },
+    {
+      "word": "haunting",
+      "phonetic": "/ˈhɔːntɪŋ/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "萦绕心头的",
+      "en": "beautiful but sad and difficult to forget",
+      "excerpt": "it's the persons relationships with women that are haunting them in the public policy space.",
+      "example_cn": "正是他们与女性的关系在公共政策领域困扰着他们。"
+    },
+    {
+      "word": "get their chest puffed out",
+      "phonetic": "/ɡet ðeər tʃest pʌft aʊt/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "趾高气扬",
+      "en": "to show off or act proudly",
+      "excerpt": "some of those guys, they get their chest puffed out with their Congress pin on.",
+      "example_cn": "有些人戴着国会徽章，趾高气扬。"
+    },
+    {
+      "word": "consensual",
+      "phonetic": "/kənˈsenʃuəl/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "双方自愿的",
+      "en": "agreed to by all involved",
+      "excerpt": "there are consensual relationships.",
+      "example_cn": "存在双方自愿的关系。"
+    },
+    {
+      "word": "gray zones",
+      "phonetic": "/ɡreɪ zoʊnz/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "灰色地带",
+      "en": "areas that are not clearly defined or understood",
+      "excerpt": "You guys have a much clearer sense of gray zones, problematic behavior.",
+      "example_cn": "你们对灰色地带和问题行为有更清晰的认识。"
+    },
+    {
+      "word": "loosening the tie",
+      "phonetic": "/ˈluːsənɪŋ ðə taɪ/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "放松；不拘束",
+      "en": "to become less formal or strict",
+      "excerpt": "it's like loosening the tie and then it just feels like you get alcohol in the mix.",
+      "example_cn": "就像松开领带，然后酒精掺和进来，感觉规则就没了。"
+    },
+    {
+      "word": "boozy",
+      "phonetic": "/ˈbuːzi/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "饮酒的；醉醺醺的",
+      "en": "involving a lot of alcohol",
+      "excerpt": "you have this, you know, at times boozy culture, endless happy hours.",
+      "example_cn": "你有这种有时醉醺醺的文化，无尽的欢乐时光。"
+    },
+    {
+      "word": "conspicuous",
+      "phonetic": "/kənˈspɪkjuəs/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "引人注目的",
+      "en": "easy to notice",
+      "excerpt": "And it's been conspicuous.",
+      "example_cn": "而且这很引人注目。"
+    },
+    {
+      "word": "shimmying",
+      "phonetic": "/ˈʃɪmiɪŋ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "扭动；摆动",
+      "en": "to move in a way that shakes or sways",
+      "excerpt": "I'm shimmying around in this sheath dress.",
+      "example_cn": "我穿着紧身裙扭来扭去。"
+    },
+    {
+      "word": "proliferation",
+      "phonetic": "/prəˌlɪfəˈreɪʃn/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "扩散",
+      "en": "the rapid increase in the number or amount of something",
+      "excerpt": "concerning any time there's proliferation and a nation gets that ability to enrich.",
+      "example_cn": "任何时候出现扩散，一个国家获得浓缩能力，都令人担忧。"
+    },
+    {
+      "word": "enrich",
+      "phonetic": "/ɪnˈrɪtʃ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "浓缩（铀）",
+      "en": "to increase the proportion of a particular isotope in a material",
+      "excerpt": "It allows for enriching uranium, but only to create energy.",
+      "example_cn": "它允许浓缩铀，但仅限于生产能源。"
+    },
+    {
+      "word": "normalization",
+      "phonetic": "/ˌnɔːrmələˈzeɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "正常化",
+      "en": "the process of making something normal or returning to a normal state",
+      "excerpt": "Saudi Arabia gets nuclear capabilities without progress towards normalization.",
+      "example_cn": "沙特阿拉伯在没有正常化进展的情况下获得了核能力。"
+    },
+    {
+      "word": "humbled",
+      "phonetic": "/ˈhʌmbld/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "谦卑的",
+      "en": "feeling less important or proud",
+      "excerpt": "I feel very, you know, humbled by the support of everyday people.",
+      "example_cn": "我对普通民众的支持感到非常谦卑。"
+    },
+    {
+      "word": "insurgency",
+      "phonetic": "/ɪnˈsɜːrdʒənsi/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "叛乱；起义",
+      "en": "an attempt to take control of a country by force",
+      "excerpt": "Obama really was an insurgency against the party establishment of his time.",
+      "example_cn": "奥巴马确实是对当时党内建制派的一次起义。"
+    },
+    {
+      "word": "jockeying",
+      "phonetic": "/ˈdʒɑːkiɪŋ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "争夺；操纵",
+      "en": "the activity of trying to get an advantage",
+      "excerpt": "there's a lot of behind the scenes jockeying going on this week.",
+      "example_cn": "本周有很多幕后争夺。"
+    },
+    {
+      "word": "sleeper hit",
+      "phonetic": "/ˈsliːpər hɪt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "黑马；意外成功",
+      "en": "a movie, song, etc. that becomes popular unexpectedly",
+      "excerpt": "there's a sleeper hit summer series.",
+      "example_cn": "有一部夏季黑马剧集。"
+    },
+    {
+      "word": "binge",
+      "phonetic": "/bɪndʒ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "狂看；放纵",
+      "en": "to watch a lot of something in a short period",
+      "excerpt": "I ran into last weekend to binge.",
+      "example_cn": "我上周末偶然发现并狂看了一番。"
+    },
+    {
+      "word": "preachy",
+      "phonetic": "/ˈpriːtʃi/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "说教的",
+      "en": "tending to give moral advice in a way that is annoying",
+      "excerpt": "Oh, mine's preachy.",
+      "example_cn": "哦，我的有点说教。"
+    },
+    {
+      "word": "whinging",
+      "phonetic": "/wɪndʒɪŋ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "抱怨",
+      "en": "to complain in an annoying way",
+      "excerpt": "Elon Musk's follow-up to his whinging about the casting.",
+      "example_cn": "埃隆·马斯克在抱怨选角之后。"
+    },
+    {
+      "word": "slop",
+      "phonetic": "/slɑːp/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "劣质食物；垃圾",
+      "en": "food that is unpleasant or of low quality",
+      "excerpt": "if you want to swallow slop, here's a spoon.",
+      "example_cn": "如果你想吞下垃圾，这里有个勺子。"
+    },
+    {
+      "word": "homeric",
+      "phonetic": "/hoʊˈmerɪk/",
+      "pos": "adj.",
+      "level": "专八",
+      "cn": "荷马式的；史诗般的",
+      "en": "relating to the ancient Greek poet Homer or his epic poems",
+      "excerpt": "It's all a homeric journey.",
+      "example_cn": "这都是一场史诗般的旅程。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Trump says that the U.S. will start bombing power plants and bridges if Iran targets ships in the Strait of Hormuz.",
+      "cn": "特朗普表示，如果伊朗 targeting 霍尔木兹海峡的船只，美国将开始轰炸发电厂和桥梁。",
+      "structure": "主句（Trump says）+ 宾语从句（that the U.S. will start bombing... if Iran targets...）",
+      "analysis": "这是一个复合句，主句为Trump says，后接that引导的宾语从句。宾语从句中包含一个if引导的条件状语从句，表示假设情况。"
+    },
+    {
+      "en": "Johnson is supporting a ban on lawmakers getting romantically involved with House staffers, and that includes the staffers who don't work for them.",
+      "cn": "约翰逊支持禁止议员与众议院工作人员建立恋爱关系，这包括那些不为他们工作的工作人员。",
+      "structure": "主句（Johnson is supporting a ban）+ 介词短语（on lawmakers getting...）+ 并列句（and that includes...）+ 定语从句（who don't work for them）",
+      "analysis": "主句为Johnson is supporting a ban，后接on引导的介词短语说明禁令内容。and连接并列句，其中that指代前文，who引导定语从句修饰staffers。"
+    },
+    {
+      "en": "I think a lot of the people who are elected in Congress are becoming cool for the first time in their lives.",
+      "cn": "我认为很多当选国会议员的人一生中第一次变得很酷。",
+      "structure": "主句（I think）+ 宾语从句（a lot of the people... are becoming cool...）+ 定语从句（who are elected in Congress）",
+      "analysis": "主句为I think，后接省略that的宾语从句。宾语从句中主语a lot of the people由who引导的定语从句修饰。"
+    },
+    {
+      "en": "And I think they like to use their power to take advantage of maybe staffers or people who work on The Hill.",
+      "cn": "我认为他们喜欢利用权力来占工作人员或国会山工作人员的便宜。",
+      "structure": "主句（I think）+ 宾语从句（they like to use their power...）+ 不定式短语（to take advantage of...）+ 定语从句（who work on The Hill）",
+      "analysis": "主句为I think，后接宾语从句。宾语从句中不定式短语作目的状语，who引导定语从句修饰people。"
+    },
+    {
+      "en": "I think the question that people are worried about, and, Alex, maybe you can talk about this, is that's veered into abuse.",
+      "cn": "我认为人们担心的问题，亚历克斯，也许你可以谈谈这个，就是这已经变成了虐待。",
+      "structure": "主句（I think）+ 宾语从句（the question... is that's veered into abuse）+ 定语从句（that people are worried about）+ 插入语（and, Alex, maybe you can talk about this）",
+      "analysis": "主句为I think，后接宾语从句。宾语从句主语the question由that引导的定语从句修饰，插入语分隔了主谓。"
+    },
+    {
+      "en": "And what's interesting about her doing this is it is an attempt to expand her appeal beyond just, you know, Democratic socialist revolutionaries.",
+      "cn": "她这样做有趣的一点是，这是一种尝试，将她的吸引力扩展到不仅仅是民主社会主义革命者。",
+      "structure": "主语从句（What's interesting about her doing this）+ 系动词（is）+ 表语从句（it is an attempt...）",
+      "analysis": "what引导的主语从句作主语，系动词is后接表语从句。表语从句中不定式短语作定语修饰attempt。"
+    },
+    {
+      "en": "And as you -- just because you mentioned the name of MBS, of course people -- plenty of people have talked about the human rights history in Saudi Arabia.",
+      "cn": "正如你——仅仅因为你提到了MBS的名字，当然人们——很多人谈论过沙特阿拉伯的人权历史。",
+      "structure": "状语从句（As you...）+ 插入语（just because you mentioned...）+ 主句（plenty of people have talked about...）",
+      "analysis": "as引导方式状语从句，插入语由because引导的原因状语从句构成，主句说明事实。"
+    },
+    {
+      "en": "I think if we do all those things, we can probably achieve the overarching objectives here.",
+      "cn": "我认为如果我们做了所有这些事情，我们很可能能够实现这里的总体目标。",
+      "structure": "主句（I think）+ 宾语从句（if we do... we can achieve...）",
+      "analysis": "主句为I think，后接宾语从句。宾语从句中包含if引导的条件状语从句，主句为we can achieve。"
+    },
+    {
+      "en": "And what's interesting about her doing this is it is an attempt to expand her appeal beyond just, you know, Democratic socialist revolutionaries.",
+      "cn": "她这样做有趣的一点是，这是一种尝试，将她的吸引力扩展到不仅仅是民主社会主义革命者。",
+      "structure": "主语从句（What's interesting about her doing this）+ 系动词（is）+ 表语从句（it is an attempt...）",
+      "analysis": "what引导的主语从句作主语，系动词is后接表语从句。表语从句中不定式短语作定语修饰attempt。"
+    },
+    {
+      "en": "I think that's a really good point, people can get high on their own supply.",
+      "cn": "我认为这是一个非常好的观点，人们可能会自我陶醉。",
+      "structure": "主句（I think）+ 宾语从句（that's a really good point）+ 同位语（people can get high on their own supply）",
+      "analysis": "主句为I think，后接宾语从句。同位语对point进行解释说明。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "Congressional Workplace Ethics and Dating Ban",
+      "content": "House Speaker Mike Johnson supports a ban on lawmakers dating any House staffers, citing inappropriate workplace dynamics. The discussion highlights a culture of 'creepiness' and power imbalances on Capitol Hill, with several recent cases of sexual misconduct. The ban aims to align Congress with corporate America's standards.",
+      "keywords": "dating ban, workplace ethics, power dynamics, sexual misconduct, Capitol Hill culture"
+    },
+    {
+      "title": "U.S.-Saudi Arabia Civilian Nuclear Deal",
+      "content": "The Trump administration signed a 30-year deal granting Saudi Arabia a civilian nuclear program, including uranium enrichment for energy only. Critics worry about proliferation risks, while supporters argue it keeps Saudi Arabia aligned with the U.S. and counters Iranian influence. Israel expresses concern over lack of normalization progress.",
+      "keywords": "nuclear deal, Saudi Arabia, uranium enrichment, proliferation, normalization, Iran"
+    },
+    {
+      "title": "2028 Democratic Presidential Primary Poll",
+      "content": "A New Hampshire poll shows Alexandria Ocasio-Cortez leading with 22%, followed by Pete Buttigieg. The discussion analyzes her appeal as a 'fighter' and her rhetorical similarities to Obama. Other potential candidates include Mark Kelly, Gavin Newsom, and Bernie Sanders. The DNC is also deciding the 2028 primary calendar order.",
+      "keywords": "2028 election, Democratic primary, AOC, Pete Buttigieg, New Hampshire poll, primary calendar"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nJohnson Backs Ban on Lawmakers Dating Any Staffers; U.S. Signals Deal with Saudi Arabia; New Democratic Presidential Poll. Aired 6:30-7a ET\n\nAired July 23, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nAUDIE CORNISH, CNN ANCHOR: Good morning, everybody. I'm Audie Cornish. I want to thank you for joining me on CNN THIS MORNING.\n\nIt's half past the hour. And here is what's happening right now.\n\nPresident Trump issued new threats against Iran as the U.S. carries out its twelfth straight night of airstrikes against the country. Trump says that the U.S. will start bombing power plants and bridges if Iran targets ships in the Strait of Hormuz. In response, Iran now saying they'd strike back with, quote, \"an eye for an eye\" in the region.\n\nAnd the House takes a step forward in funding some of the president's plans. House Speaker Mike Johnson helped pass the blueprint for the budget plans, including funding the war with Iran, promoting the president's SAVE America Voting Act and aid for farmers. It still faces an uncertain path through the Senate.\n\nAnd House Judiciary Committee Chairman Jim Jordan wants former Special Counsel Jack Smith to face perjury charges. Jordan sent a letter to the DOJ, obtained by CNN. In the letter, he claims Smith made false statements when testifying before Congress last December. Smith previously prosecuted President Trump.\n\nNow, if House Speaker Mike Johnson has his way, there's another rule in Congress that may come to pass, a no dating zone.\n\nWe're talking full stop. Johnson is supporting a ban on lawmakers getting romantically involved with House staffers. And that includes the staffers who don't work for them.\n\nREP. MIKE JOHNSON (R-LA): It's inappropriate, as it would be in any workplace. And most companies have that. We should -- we should, at a bare minimum in Congress, have a, you know, rules and traditions that are adhered to in corporate America. So, that's an easy one for me. (END VIDEO CLIP)\n\nCORNISH: So, why would this be a problem? Well, Republican Congresswoman Kat Cammack of Florida says, \"what we have seen is a culture of creepiness. I wouldn't feel comfortable sending my daughter to work here on Capitol Hill.\"\n\nThe group chat is back.\n\nAnd we're bringing in Jacob Wasserman, co-managing editor at TMZ DC.\n\nThank you so much for being here, Jacob.\n\nJACOB WASSERMAN, CO-MANAGING EDITOR, TMZ DC: Thank you for having me.\n\nCORNISH: So, one of the reasons why I wanted to talk to you is because I have seen you online. You're very tapped into the culture on The Hill. Literally, how people are talking to each other, what they're like in the hallways. And the rest of us all have the sort of above board experience of just covering stuff. So, like, Mike, what are the rules, right? Like, was it that you just couldn't date your own staffers, or is it -- this would be a radical change?\n\nMIKE DUBKE, FORMER TRUMP WHITE HOUSE COMMUNICATIONS DIRECTOR: I am a terrible person to ask, because I'm actually married to a co-worker that I met on a political campaign. So --\n\nCORNISH: Fair. On a political campaign. That's true.\n\nCORNISH: Many couples that are like that.\n\nDUBKE: So, yes, no. But I think -- whatever the creepiness factor is, that should be your guide. If it feels creepy, walk away.\n\nMEGHAN HAYS, FORMER BIDEN WHTIE HOUSE DIRECTOR OF MESSAGE PLANNING: That's right.\n\nCORNISH: But, and yet -- and yet, and yet, and yet. Right now the number of people investigated for sexual misconduct in Congress. Eric Swalwell, 2026, right, misconduct included with a staffer. Tony Gonzalez, sexual relationship with a staffer, one that reportedly ended with her mental health problems. And then Cory Mills, currently still there, sexual misconduct and partner violence. The famous Matt Gaetz in Florida, he of Venmo (ph). And then George Santos, who we all know is somebody perhaps with campaign finance issues, he actually was dealing with a complaint about sexual harassment of a staffer.\n\nWASSERMAN: I have a theory on this. I think a lot of the people who are elected in Congress are becoming cool for the first time in their lives. They basically come from maybe small towns across the country. Maybe you owned like a car dealership or something like that. And then, boom, you become this star. You get a social media following. And everyone has, in their own mind, what it means to be cool. Some -- for some people it's like taking photos with celebrities. We see politicians do that. Some people, it's going on cable news and having like a big opinion. And for some people, it's women.\n\nWASSERMAN: And I think they like to use their power to take advantage of maybe staffers or people who work on The Hill. And that's why people feel uncomfortable, like that woman said about sending their daughter here.\n\nCORNISH: I think that is a really good point. People can get high on their own supply. If you think back to someone like Anthony Weiner, what you're saying is exactly follows, someone who gets big on the internet, someone who starts to kind of believe their own press about who they are and the ego that follows.\n\nI think the question that people are worried about, and, Alex, maybe you can talk about this, is that's veered into abuse. And that's veered into real problems politically. Like Graham Platner, whatever people are saying about those allegations, again, it's the persons relationships with women that are haunting them in the public policy space.\n\nALEX THOMPSON, CNN POLITICAL ANALYST: Well, and, you know, to add to the point, you know, we've all been around The Hill where, you know, some of those guys, they get their chest puffed out with their Congress pin on and, you know, they get -- they're getting, you know, flirt -- they're being flirted with by all these other -- by all these staffers. Sometimes it's, you know, it's the handsome male staffers.\n\nCORNISH: Yes. Because we should be clear, there are consensual relationships.\n\nCORNISH: What Mike said is not that unusual at all.\n\nTHOMPSON: Well, to -- I mean, right -- the right --\n\nCORNISH: Plenty of people have met their spouses --\n\nCORNISH: Probably because they never leave the office. And the question is how that veers into abuse.\n\nTHOMPSON: Absolutely.\n\nCORNISH: Jacob, do you think part of this is generational? Meaning, like, I feel like your era, post Me Too -- I know, I'm just going to say it, Jacob, OK, your era post Me Too. You guys have a much clearer sense of gray zones, problematic behavior, willingness to call it out.\n\nWASSERMAN: Yes. I mean, I'm sure you're absolutely right because it's now talked about in the workplace so much. Everyone goes through these training programs. They know what to look out for.\n\nSo, the interesting part, though, is there's so much overlap between politicians, members of the media and staffers when you go out to bars. There are all these bars around D.C., and everyone's hanging out with each other. And it's like loosening the tie and then it just feels like you get alcohol in the mix and, you know, the rules are off.\n\nCORNISH: That's a good point. I mean, all beat building seems to begin over a bar, over alcohol.\n\nTHOMPSON: Yes. I mean the era of work -- Mike Johnson is right, the era of workplace romances ended in corporate America post Me Too but it has not hit Capitol Hill, in part because you have this, you know, at times boozy culture, endless happy hours. And, you know, on Congress, it seemed that they had an out.\n\nNow, Mike Johnson, you know, comes from a pretty conservative, culturally conservative place.\n\nCORNISH: Yes. He says he's not worried. Yes.\n\nTHOMPSON: It's going to -- it's going to be curious if there's any -- if there's any -- especially members of Congress that vocally come out against this and be like, well, I still wanted to have a little bit of a dating life.\n\nTHOMPSON: And it's been conspicuous (INAUDIBLE).\n\nDUBKE: I seem to remember a Coldplay concert in which corporate romance didn't end in the -- in the boardroom.\n\nDUBKE: And you're not mentioning lobbyist people.\n\nCORNISH: We are not --\n\nDUBKE: Come on. Let's --\n\nCORNISH: That -- lobbyists. Well, hold on, let's let the -- a woman talk on this panel, OK. Just for --\n\nDUBKE: I'm leaning back.\n\nCORNISH: For the fun of it. DUBKE: Go. Go.\n\nCORNISH: Tell me how you -- I felt like when I was covering The Hill, first of all, at the time, it was like you're wearing high heels because they were very weird about the dress code.\n\nCORNISH: So, I'm shimmying around in this sheath dress, destroying my knee cartilage, for why? For what? You know what I mean?\n\nCORNISH: And it was this sense that you were part of a display.\n\nCORNISH: And all the staffers were hot. And it was confusing to me what I was a part of.\n\nHAYS: One of my first jobs in Washington, my boss told me they prefer us to wear dresses, and the shorter the better. So that wasn't that long ago that that was the culture. And I think there were members of Congress who demanded that their staffers wore dresses. That was part of their dress code. So, I mean, that is not unusual here.\n\nI do think that the thing that's a little bit unfortunate that we even have to have this conversation, like why can't you be the leader that you're elected to be by the people? And I think that's what's different than in corporate America.\n\nCORNISH: But is this --\n\nHAYS: You were elected --\n\nCORNISH: I think this is leadership of -- I mean Johnson doesn't have to do this either (ph).\n\nHAYS: I'm sorry, the -- right, but the fact that we even have -- that Johnson even has to do this, or is even talked about is sort of gross.\n\nHAYS: And I think it's the inappropriate nature. I think if there is a single member of Congress who is dating someone that is age appropriate in another -- in another office, go forth and conquer.\n\nHAYS: I hope you have a happy life together, just like you and your wife do. But that's not what's happening here. And that's not -- and these -- and those four or five cases that you put up on the screen, that's only what's been reported.\n\nCORNISH: I was just going to say --\n\nHAYS: Most girls and most women that are working on Congress are young and don't report them.\n\nDUBKE: But three of those -- but three of those are already illegal.\n\nDUBKE: Which, under the rules of the -- of Congress, you are not supposed to date a staffer in your office.\n\nCORNISH: Right. And these ones -- yes.\n\nDUBKE: And three of the five are all -- are just that.\n\nHAYS: No, but, to his point, this is exactly -- they're cool for the first time. They were nerds in high school, and now all of a sudden women are paying attention to them and they say things that they don't realize are inappropriate. And it just continues to escalate. And then there are women who feel maybe they also are cool for the first time and no one's ever paid attention to them. And then this member of Congress all of a sudden is making them feel important. It's a gross culture.\n\nCORNISH: But the power dynamic is built into the whole thing.\n\nHAYS: A thousand percent.\n\nWASSERMAN: Yes. And when you go out to these bars, it's like a member of Congress is like hanging out a bar. And everyone wants a piece of him. It's like reporters are talking to him.\n\nWASSERMAN: Staffers are talking to him. So, of course, it creates this weird power dynamic.\n\nCORNISH: All right, Jacob, thank you. I hope we can have you back.\n\nCORNISH: You guys are doing a good job kind of explaining the weird ways that we all take for granted.\n\nCORNISH: We've sort of ignored some of this stuff. And I love that TMZ is coming in and taking a look at it. Thank you.\n\nWASSERMAN: Thank you.\n\nCORNISH: All right, next, we want to turn to this. Pretty serious. The president striking up a new nuclear deal. And it's not with Iran. We're going to talk about a deal with Saudi Arabia.\n\nPlus, AOC says she's focused on the midterms. So, why is everyone else talking about her in 2028?\n\nCHRIS WRIGHT, ENERGY SECRETARY: President Trump's agenda in the Middle East has been commerce, not conflict. Saudi Arabia has been an ally of the United States since the nation's forming. And I'm thrilled in our efforts and where this is going.\n\nCORNISH: Commerce, not conflict. U.S. Energy Secretary Chris Wright is hailing a deal between the U.S. and Saudi Arabia, which will grant the kingdom a civilian nuclear program. President Trump signed off Wednesday. It now goes to Congress. The deal is for 30 years. It involves American companies giving technology and expertise to the Saudi program. It allows for enriching uranium, but only to create energy, not a nuclear bomb. Some critics are not convinced.\n\nREP. JOHN GARAMENDI (D-CA): We've already got around with a -- an ability to enrich uranium to the point of being able to make a bomb. And we're going to turn that over to Saudi Arabia? No, we're not. This is just terrible, terrible policy.\n\nCORNISH: Joining me now, Admiral James Stavridis, CNN's senior military analyst and former NATO supreme allied commander.\n\nI think for those of us, sort of, who were raised post 9/11, this feels really surprising and maybe almost out of left field. But I realize there may be security reasons this is happening. Can you talk about how this has been talked about prior to this point? Like, how did we get here?\n\nADM. JAMES STAVRIDIS (RET.), CNN SENIOR MILITARY ANALYST: It's been a conversation ongoing for well over a decade, the idea of not a nuclear weapon, and we need to be clear here, we're talking about nuclear power. Civilian use of nuclear power. But, yes, concerning any time there's proliferation and a nation gets that ability to enrich. And, of course, that's what we don't want Iran to have. So, why Saudi Arabia?\n\nShort answer. We want to stay very aligned with the Saudis. Point two, Saudi Arabia already has a very close relationship with Pakistan and a reasonable relationship with Russia. So, I think part of the conversation here, and I agree with this, is better we should work with the Saudis. They're going to get this capability. And I'll close with this. If you're the crown prince of Saudi Arabia, who you're showing here --\n\nSTAVRIDIS: Mohammed bin Salman, and you look at your neighborhood and Israel has nuclear power and nuclear weapons. Iran has nuclear power and is striving for a nuclear weapon. I think the minimum for you, as a responsible leader of the kingdom, is to get to nuclear power and do it in concert with the United States.\n\nCORNISH: And as you -- just because you mentioned the name of MBS, of course people -- plenty of people have talked about the human rights history in Saudi Arabia.\n\nThey are the global leader in executions. A lot of cracking down on online speech. And, of course, best known in the U.S., 2018, sanctioned the murder of Jamal Khashoggi.\n\nAnd I think I want to help better understand this relationship. How is Trump different in his approach with Saudi Arabia than Biden?\n\nSTAVRIDIS: The Trump administration is willing to move further along in close alignment with the kingdom. And let's back up. Three years ago, Audie, when the horrific events of October of '23 occurred, what happened right before that? Right before that, the Biden administration was trying to bring the kingdom of Saudi Arabia and Israel together in formal recognition of each other. This is an extension of Trump one, the so-called Abraham Accords.\n\nSo, there's been a bipartisan consensus through both Biden and Trump to try and bring the kingdom closer to Israel and to keep it aligned with the United States. This is a logical extension of both of those.\n\nCORNISH: So, I want to play one last thing for you then. Naftali Bennett, former Israeli prime minister. Here is his reaction to this.\n\nNAFTALI BENNETT, FORMER ISRAELI PRIME MINISTER (through translator): Saudi Arabia gets nuclear capabilities without progress towards normalization, without anything in return. In all of these, Israel is not at the table, but on the table.\n\nCORNISH: Just want to add that one more point. As you said, on the one hand, you want to get to a path of normalization. On the other hand, not sounding happy.\n\nSTAVRIDIS: Yes. Completely agree with Naftali Bennett. I know all of the senior Israeli leaders. They are all going to want to see concrete progress toward that alignment you and I just talked about before the kingdom gets to the enrichment. So, let's look at the details of the deal. Let's look at the timeline. Let's listen to the Israelis. I think if we do all those things, we can probably achieve the overarching objectives here.\n\nCORNISH: OK. That's Admiral James Stavridis. Thank you so much for that context. Really appreciate it\n\nCORNISH: I want to turn to this. A new University of New Hampshire poll -- that's right, we're already on New Hampshire, because the leading Democrat for president, according to them, is Alexandria Ocasio-Cortez in 2028. The New York congresswoman is favored by 22 percent of likely Democratic primary voters. Pete Buttigieg is one point behind. Rounding out the top five, Mark Kelly, Gavin Newsom and Bernie Sanders.\n\nREP. ALEXANDRIA OCASIO-CORTEZ (D-NY): I feel very, you know, humbled by the support of everyday people. I think that, you know, polls go up, polls go down. That's kind of part of how all of this works.\n\nMANU RAJU, CNN CHIEF CONGRESSIONAL CORRESPONDENT: Why do you think yours are going up right now?\n\nOCASIO-CORTEZ: You'd have to ask folks in New Hampshire.\n\nCORNISH: OK, the group chat is back.\n\nThere's been -- whoa, this side of the, head shaking. Wait, let me start with the Democrat.\n\nHAYS: I mean, I just -- none of those five people, I think, are going to be the nominee for the Democratic Party come 2028. I think we're a long way from that. But I do think that people see AOC as a fighter. And I think they see her pushing back on Trump and also pushing back on members of her own party. And I think that's important to Democrats right now.\n\nI also think that it's really interesting to watch how she -- who she is endorsing in the midterms versus someone like a Bernie Sanders.\n\nHAYS: She is much more conservative and much more thorough with her endorsements, which I think shows her willingness to be more selective and also her probably desire for higher office. I'm not sure she will run for president. I see her more running for Senate.\n\nCORNISH: But what if she sounded like this when she talked to the voters. A name and image you might recognize. (BEGIN VIDEO CLIP)\n\nBARACK OBAMA, FORMER U.S. PRESIDENT (November 4, 2008): And bend it once more toward the hope of a better day. It's been a long time coming, but tonight, because of what we did on this day, in this election, at this defining moment, change has come to America.\n\nREP. ALEXANDRIA OCASIO-CORTEZ (D-NY) (May 28, 2026): Ask your skeptical neighbor to believe. It's the only thing that we have. Our hope is the only thing that creates change.\n\nCORNISH: Trying out a little something?\n\nTHOMPSON: I mean, I was following AOC around this last weekend throughout Michigan, and the first -- the first speech, I was like, huh, that sounds -- that sounds a bit familiar. And then I just went back. I literally went back through all these Obama speeches from the 2007 campaign. And there is similar rhetoric.\n\nAnd what's interesting about her doing this is it is an attempt to expand her appeal beyond just, you know, Democratic socialist revolutionaries.\n\nShe's also positioning herself as a change -- potential change candidate. And as -- you know, people sometimes forget that Obama really was an insurgency against the party establishment of his time. And she very much is trying to -- it's not just about Democratic socialism, it is about fighting off, you know, generational change and also just changing the status of the party.\n\nCORNISH: Yes, I'm surprised. I mean, honestly, I feel like it's been a hot minute and I expected to hear more of this rhetoric from more candidates. In the meantime, the media is doing what you're doing. We're looking at all the names we can possibly look at. OK, Mark Kelly is being reported in \"The Atlantic Council.\" \"The New York Magazine\" going all in with, like it or not, Kamala Harris is the front runner. And then Pete Buttigieg emerging. That is the word from \"The Advocate.\" So, everyone's taking (INAUDIBLE).\n\nDUBKE: We should -- we should bring Jacob back because I feel like that's a TMZ list.\n\nDUBKE: Of Democrats who have been on camera the most. Gavin Newsom at six percent. He's going to unbutton one more button of his shirt.\n\nCORNISH: That's a different job.\n\nDUBKE: So, that's what we're going to get.\n\nCORNISH: Yes. DUBKE: But she's only one point ahead of Mayor Pete, who hasn't really been campaigning. So, I don't --\n\nCORNISH: That's not true. Mayor Pete is everywhere.\n\nHAYS: Mayor Pete did just invest in all 50 states and giving money. So, he is doing things to actively strengthen the Democratic Party. But you're -- you know, to your point --\n\nHAYS: This is all about name recognition right now.\n\nHAYS: And who's out there right now. And AOC is out there.\n\nCORNISH: Whose name can you remember?\n\nHAYS: And she's fighting, right?\n\nDUBKE: And that's exactly what Democrats need.\n\nDUBKE: And Mark Kelly -- and Mark Kelly has risen to the top because, again, of Donald Trump going after him. So --\n\nTHOMPSON: There's an extra level of intrigue going on this week because the DNC is meeting to decide which states go first in the 2028 primary calendar.\n\nCORNISH: Oh, this thing.\n\nTHOMPSON: And AOC and Bernie would have an advantage -- or a left wing candidate would have an advantage in New Hampshire or Nevada.\n\nCORNISH: In New Hampshire, yes.\n\nTHOMPSON: Because Bernie won Nevada by almost 50 percent last time. If South Carolina goes first --\n\nCORNISH: Instead of a South Carolina.\n\nTHOMPSON: And so there's a lot of behind the scenes jockeying going on this week.\n\nHAYS: I recommend a five, four, two, one strategy. It wins the presidency. But that's just my personal opinion here.\n\nCORNISH: We're going to -- because 2028 is a ways away, we will come back to this. (INAUDIBLE) this.\n\nDUBKE: But as Republicans, we don't change. We keep it the same way year after year.\n\nCORNISH: Yes. You do. You do. You're hardcore.\n\nAll right, because it's Thursday and people online get mad at me if we don't do the group chats, we're doing the group chat.\n\nWe're going to start with Meghan.\n\nHAYS: Sure. So, there's a sleeper hit summer series, \"The Five-Star Weekend\" on Peacock, which I ran into last weekend to binge. Jennifer Garner is in it.\n\nCORNISH: Is this Chloe Sevigny and a couple other people?\n\nHAYS: It's after a book. It's very good. It's not as light-hearted as you would think it was when I first turned it on, but it's -- I recommend it to everyone.\n\nCORNISH: Nice. What about you?\n\nDUBKE: Oh, mine's preachy. It's, be bad at something.\n\nCORNISH: I like this.\n\nDUBKE: It's really -- it's so -- it's this time, and I was talking --\n\nHAYS: That's why we show up every Thursday.\n\nI was talking to my wife about this.\n\nDUBKE: Try something new. Like --\n\nCORNISH: And don't be afraid to fail.\n\nDUBKE: And don't be afraid to fail because when we get older we stop doing new things. We stop beginning new things. We do and repeat and get in a rut about all the stuff we're good at. And so, try something new. Be bad.\n\nCORNISH: I love this. We're going to talk after because I have been trying to do things lately, and it's taken me to some very strange place.\n\nDUBKE: Probably in a good way. CORNISH: Very funny. In a good way. In a good way.\n\nDUBKE: In a good way.\n\nCORNISH: Now, you and I saw \"The Odyssey.\"\n\nCORNISH: So, what's in my group chat is Elon Musk's follow-up to his whinging (ph) about the casting by saying he is going to deliver -- someone was like, I want you to give Mel Gibson $100 million to film your own. And then there are people who have been putting out their own versions of \"The Odyssey\" with the cast they imagine. And I just -- I love that for them. It's like, if you want to swallow slop, here's a spoon. I would much rather choose Nolan.\n\nTHOMPSON: Well, this is -- this is part of my larger group chat, which is Greek mythology is back, baby. And everyone --\n\nCORNISH: And all -- and all the men who are into the Roman empire.\n\nCORNISH: This is your time. Rise up.\n\nTHOMPSON: But even, you know, and every --\n\nDUBKE: That's a pick-up line on Capitol Hill, by the way.\n\nHAYS: That Congress is using.\n\nDUBKE: Let me -- let me tell you about my Greek history.\n\nCORNISH: My God, where is the sea monster when you need them?\n\nTHOMPSON: I also -- I also love Elon Musk being like, I want the historically accurate version of \"The Odyssey, when it's not history. Like, it's --\n\nTHOMPSON: But -- but, you know, everyone -- I think it's -- it's great, in my opinion. Like, me and my nerdy friends, like, I just started the -- Stephen Fry's version of \"Troy\" last night.\n\nTHOMPSON: Like, we're talking about Greek mythology in a way that I haven't since high school.\n\nCORNISH: We are. People are obsessed.\n\nCORNISH: The amount -- I know this is --\n\nHAYS: This is not what we're doing over here. We are not doing this.\n\nTHOMPSON: But we're debating the Edith Wilson version versus the previous version.\n\nHAYS: We're watching reality TV, going to sporting events live.\n\nCORNISH: You might like -- words and (ph) translation.\n\nTHOMPSON: I bought the thirsty (ph) book. Like things --\n\nDUBKE: There are 10 -- there are at least ten versions of \"The Odyssey\" that are out there. 2001, \"A Space Odyssey.\"\n\nCORNISH: There's been --\n\nTHOMPSON: Well, 11 now with Elon.\n\nDUBKE: Well, yes, 11.\n\n\"SpongeBob SquarePants\" movie, that is based on \"The Odessey.\"\n\nCORNISH: Also \"Odyssey.\"\n\nCORNISH: It's all a homeric (ph) journey.\n\nCORNISH: I appreciate that.\n\nDUBKE: Part of your friend group, are you watching \"SpongeBob\"? Have you seen \"O Brother Where Art Thou\"?\n\nTHOMPSON: Not yet. I was not aware of the \"SpongeBob.\"\n\nCORNISH: Wait, you don't know this?\n\nTHOMPSON: Maybe it's because I don't have kids. I don't know. I didn't watch the \"SpongeBob\" movie.\n\nCORNISH: Listen, I mean it's also -- it's a testament to the idea of a hero's journey and this story that is so old is embedded in all of our storytelling to this day.\n\nLike, and I think that's really fascinating.\n\nDUBKE: And who hasn't told their wife, I know I should have been home after ten minutes of a short journey, but it took me 10 years --\n\nTHOMPSON: But ran to Charlize Theron and --\n\nDUBKE: It took me ten years to it (ph).\n\nCORNISH: If it makes you feel --\n\nHAYS: Remember (ph) the Congress again telling their wives --\n\nCORNISH: Meghan, Penelope had many suitors, so it could have been the bachelorette of our time.\n\nAll right, I'm Audie Cornish. The serious news is coming up, I promise you. \"NEWS CENTRAL\" is next.",
+  "segments": [
+    {
+      "seg": 2,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-23/segment/02",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nJohnson Backs Ban on Lawmakers Dating Any Staffers; U.S. Signals Deal with Saudi Arabia; New Democratic Presidential Poll. Aired 6:30-7a ET\n\nAired July 23, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nAUDIE CORNISH, CNN ANCHOR: Good morning, everybody. I'm Audie Cornish. I want to thank you for joining me on CNN THIS MORNING.\n\nIt's half past the hour. And here is what's happening right now.\n\nPresident Trump issued new threats against Iran as the U.S. carries out its twelfth straight night of airstrikes against the country. Trump says that the U.S. will start bombing power plants and bridges if Iran targets ships in the Strait of Hormuz. In response, Iran now saying they'd strike back with, quote, \"an eye for an eye\" in the region.\n\nAnd the House takes a step forward in funding some of the president's plans. House Speaker Mike Johnson helped pass the blueprint for the budget plans, including funding the war with Iran, promoting the president's SAVE America Voting Act and aid for farmers. It still faces an uncertain path through the Senate.\n\nAnd House Judiciary Committee Chairman Jim Jordan wants former Special Counsel Jack Smith to face perjury charges. Jordan sent a letter to the DOJ, obtained by CNN. In the letter, he claims Smith made false statements when testifying before Congress last December. Smith previously prosecuted President Trump.\n\nNow, if House Speaker Mike Johnson has his way, there's another rule in Congress that may come to pass, a no dating zone.\n\nWe're talking full stop. Johnson is supporting a ban on lawmakers getting romantically involved with House staffers. And that includes the staffers who don't work for them.\n\nREP. MIKE JOHNSON (R-LA): It's inappropriate, as it would be in any workplace. And most companies have that. We should -- we should, at a bare minimum in Congress, have a, you know, rules and traditions that are adhered to in corporate America. So, that's an easy one for me. (END VIDEO CLIP)\n\nCORNISH: So, why would this be a problem? Well, Republican Congresswoman Kat Cammack of Florida says, \"what we have seen is a culture of creepiness. I wouldn't feel comfortable sending my daughter to work here on Capitol Hill.\"\n\nThe group chat is back.\n\nAnd we're bringing in Jacob Wasserman, co-managing editor at TMZ DC.\n\nThank you so much for being here, Jacob.\n\nJACOB WASSERMAN, CO-MANAGING EDITOR, TMZ DC: Thank you for having me.\n\nCORNISH: So, one of the reasons why I wanted to talk to you is because I have seen you online. You're very tapped into the culture on The Hill. Literally, how people are talking to each other, what they're like in the hallways. And the rest of us all have the sort of above board experience of just covering stuff. So, like, Mike, what are the rules, right? Like, was it that you just couldn't date your own staffers, or is it -- this would be a radical change?\n\nMIKE DUBKE, FORMER TRUMP WHITE HOUSE COMMUNICATIONS DIRECTOR: I am a terrible person to ask, because I'm actually married to a co-worker that I met on a political campaign. So --\n\nCORNISH: Fair. On a political campaign. That's true.\n\nCORNISH: Many couples that are like that.\n\nDUBKE: So, yes, no. But I think -- whatever the creepiness factor is, that should be your guide. If it feels creepy, walk away.\n\nMEGHAN HAYS, FORMER BIDEN WHTIE HOUSE DIRECTOR OF MESSAGE PLANNING: That's right.\n\nCORNISH: But, and yet -- and yet, and yet, and yet. Right now the number of people investigated for sexual misconduct in Congress. Eric Swalwell, 2026, right, misconduct included with a staffer. Tony Gonzalez, sexual relationship with a staffer, one that reportedly ended with her mental health problems. And then Cory Mills, currently still there, sexual misconduct and partner violence. The famous Matt Gaetz in Florida, he of Venmo (ph). And then George Santos, who we all know is somebody perhaps with campaign finance issues, he actually was dealing with a complaint about sexual harassment of a staffer.\n\nWASSERMAN: I have a theory on this. I think a lot of the people who are elected in Congress are becoming cool for the first time in their lives. They basically come from maybe small towns across the country. Maybe you owned like a car dealership or something like that. And then, boom, you become this star. You get a social media following. And everyone has, in their own mind, what it means to be cool. Some -- for some people it's like taking photos with celebrities. We see politicians do that. Some people, it's going on cable news and having like a big opinion. And for some people, it's women.\n\nWASSERMAN: And I think they like to use their power to take advantage of maybe staffers or people who work on The Hill. And that's why people feel uncomfortable, like that woman said about sending their daughter here.\n\nCORNISH: I think that is a really good point. People can get high on their own supply. If you think back to someone like Anthony Weiner, what you're saying is exactly follows, someone who gets big on the internet, someone who starts to kind of believe their own press about who they are and the ego that follows.\n\nI think the question that people are worried about, and, Alex, maybe you can talk about this, is that's veered into abuse. And that's veered into real problems politically. Like Graham Platner, whatever people are saying about those allegations, again, it's the persons relationships with women that are haunting them in the public policy space.\n\nALEX THOMPSON, CNN POLITICAL ANALYST: Well, and, you know, to add to the point, you know, we've all been around The Hill where, you know, some of those guys, they get their chest puffed out with their Congress pin on and, you know, they get -- they're getting, you know, flirt -- they're being flirted with by all these other -- by all these staffers. Sometimes it's, you know, it's the handsome male staffers.\n\nCORNISH: Yes. Because we should be clear, there are consensual relationships.\n\nCORNISH: What Mike said is not that unusual at all.\n\nTHOMPSON: Well, to -- I mean, right -- the right --\n\nCORNISH: Plenty of people have met their spouses --\n\nCORNISH: Probably because they never leave the office. And the question is how that veers into abuse.\n\nTHOMPSON: Absolutely.\n\nCORNISH: Jacob, do you think part of this is generational? Meaning, like, I feel like your era, post Me Too -- I know, I'm just going to say it, Jacob, OK, your era post Me Too. You guys have a much clearer sense of gray zones, problematic behavior, willingness to call it out.\n\nWASSERMAN: Yes. I mean, I'm sure you're absolutely right because it's now talked about in the workplace so much. Everyone goes through these training programs. They know what to look out for.\n\nSo, the interesting part, though, is there's so much overlap between politicians, members of the media and staffers when you go out to bars. There are all these bars around D.C., and everyone's hanging out with each other. And it's like loosening the tie and then it just feels like you get alcohol in the mix and, you know, the rules are off.\n\nCORNISH: That's a good point. I mean, all beat building seems to begin over a bar, over alcohol.\n\nTHOMPSON: Yes. I mean the era of work -- Mike Johnson is right, the era of workplace romances ended in corporate America post Me Too but it has not hit Capitol Hill, in part because you have this, you know, at times boozy culture, endless happy hours. And, you know, on Congress, it seemed that they had an out.\n\nNow, Mike Johnson, you know, comes from a pretty conservative, culturally conservative place.\n\nCORNISH: Yes. He says he's not worried. Yes.\n\nTHOMPSON: It's going to -- it's going to be curious if there's any -- if there's any -- especially members of Congress that vocally come out against this and be like, well, I still wanted to have a little bit of a dating life.\n\nTHOMPSON: And it's been conspicuous (INAUDIBLE).\n\nDUBKE: I seem to remember a Coldplay concert in which corporate romance didn't end in the -- in the boardroom.\n\nDUBKE: And you're not mentioning lobbyist people.\n\nCORNISH: We are not --\n\nDUBKE: Come on. Let's --\n\nCORNISH: That -- lobbyists. Well, hold on, let's let the -- a woman talk on this panel, OK. Just for --\n\nDUBKE: I'm leaning back.\n\nCORNISH: For the fun of it. DUBKE: Go. Go.\n\nCORNISH: Tell me how you -- I felt like when I was covering The Hill, first of all, at the time, it was like you're wearing high heels because they were very weird about the dress code.\n\nCORNISH: So, I'm shimmying around in this sheath dress, destroying my knee cartilage, for why? For what? You know what I mean?\n\nCORNISH: And it was this sense that you were part of a display.\n\nCORNISH: And all the staffers were hot. And it was confusing to me what I was a part of.\n\nHAYS: One of my first jobs in Washington, my boss told me they prefer us to wear dresses, and the shorter the better. So that wasn't that long ago that that was the culture. And I think there were members of Congress who demanded that their staffers wore dresses. That was part of their dress code. So, I mean, that is not unusual here.\n\nI do think that the thing that's a little bit unfortunate that we even have to have this conversation, like why can't you be the leader that you're elected to be by the people? And I think that's what's different than in corporate America.\n\nCORNISH: But is this --\n\nHAYS: You were elected --\n\nCORNISH: I think this is leadership of -- I mean Johnson doesn't have to do this either (ph).\n\nHAYS: I'm sorry, the -- right, but the fact that we even have -- that Johnson even has to do this, or is even talked about is sort of gross.\n\nHAYS: And I think it's the inappropriate nature. I think if there is a single member of Congress who is dating someone that is age appropriate in another -- in another office, go forth and conquer.\n\nHAYS: I hope you have a happy life together, just like you and your wife do. But that's not what's happening here. And that's not -- and these -- and those four or five cases that you put up on the screen, that's only what's been reported.\n\nCORNISH: I was just going to say --\n\nHAYS: Most girls and most women that are working on Congress are young and don't report them.\n\nDUBKE: But three of those -- but three of those are already illegal.\n\nDUBKE: Which, under the rules of the -- of Congress, you are not supposed to date a staffer in your office.\n\nCORNISH: Right. And these ones -- yes.\n\nDUBKE: And three of the five are all -- are just that.\n\nHAYS: No, but, to his point, this is exactly -- they're cool for the first time. They were nerds in high school, and now all of a sudden women are paying attention to them and they say things that they don't realize are inappropriate. And it just continues to escalate. And then there are women who feel maybe they also are cool for the first time and no one's ever paid attention to them. And then this member of Congress all of a sudden is making them feel important. It's a gross culture.\n\nCORNISH: But the power dynamic is built into the whole thing.\n\nHAYS: A thousand percent.\n\nWASSERMAN: Yes. And when you go out to these bars, it's like a member of Congress is like hanging out a bar. And everyone wants a piece of him. It's like reporters are talking to him.\n\nWASSERMAN: Staffers are talking to him. So, of course, it creates this weird power dynamic.\n\nCORNISH: All right, Jacob, thank you. I hope we can have you back.\n\nCORNISH: You guys are doing a good job kind of explaining the weird ways that we all take for granted.\n\nCORNISH: We've sort of ignored some of this stuff. And I love that TMZ is coming in and taking a look at it. Thank you.\n\nWASSERMAN: Thank you.\n\nCORNISH: All right, next, we want to turn to this. Pretty serious. The president striking up a new nuclear deal. And it's not with Iran. We're going to talk about a deal with Saudi Arabia.\n\nPlus, AOC says she's focused on the midterms. So, why is everyone else talking about her in 2028?\n\nCHRIS WRIGHT, ENERGY SECRETARY: President Trump's agenda in the Middle East has been commerce, not conflict. Saudi Arabia has been an ally of the United States since the nation's forming. And I'm thrilled in our efforts and where this is going.\n\nCORNISH: Commerce, not conflict. U.S. Energy Secretary Chris Wright is hailing a deal between the U.S. and Saudi Arabia, which will grant the kingdom a civilian nuclear program. President Trump signed off Wednesday. It now goes to Congress. The deal is for 30 years. It involves American companies giving technology and expertise to the Saudi program. It allows for enriching uranium, but only to create energy, not a nuclear bomb. Some critics are not convinced.\n\nREP. JOHN GARAMENDI (D-CA): We've already got around with a -- an ability to enrich uranium to the point of being able to make a bomb. And we're going to turn that over to Saudi Arabia? No, we're not. This is just terrible, terrible policy.\n\nCORNISH: Joining me now, Admiral James Stavridis, CNN's senior military analyst and former NATO supreme allied commander.\n\nI think for those of us, sort of, who were raised post 9/11, this feels really surprising and maybe almost out of left field. But I realize there may be security reasons this is happening. Can you talk about how this has been talked about prior to this point? Like, how did we get here?\n\nADM. JAMES STAVRIDIS (RET.), CNN SENIOR MILITARY ANALYST: It's been a conversation ongoing for well over a decade, the idea of not a nuclear weapon, and we need to be clear here, we're talking about nuclear power. Civilian use of nuclear power. But, yes, concerning any time there's proliferation and a nation gets that ability to enrich. And, of course, that's what we don't want Iran to have. So, why Saudi Arabia?\n\nShort answer. We want to stay very aligned with the Saudis. Point two, Saudi Arabia already has a very close relationship with Pakistan and a reasonable relationship with Russia. So, I think part of the conversation here, and I agree with this, is better we should work with the Saudis. They're going to get this capability. And I'll close with this. If you're the crown prince of Saudi Arabia, who you're showing here --\n\nSTAVRIDIS: Mohammed bin Salman, and you look at your neighborhood and Israel has nuclear power and nuclear weapons. Iran has nuclear power and is striving for a nuclear weapon. I think the minimum for you, as a responsible leader of the kingdom, is to get to nuclear power and do it in concert with the United States.\n\nCORNISH: And as you -- just because you mentioned the name of MBS, of course people -- plenty of people have talked about the human rights history in Saudi Arabia.\n\nThey are the global leader in executions. A lot of cracking down on online speech. And, of course, best known in the U.S., 2018, sanctioned the murder of Jamal Khashoggi.\n\nAnd I think I want to help better understand this relationship. How is Trump different in his approach with Saudi Arabia than Biden?\n\nSTAVRIDIS: The Trump administration is willing to move further along in close alignment with the kingdom. And let's back up. Three years ago, Audie, when the horrific events of October of '23 occurred, what happened right before that? Right before that, the Biden administration was trying to bring the kingdom of Saudi Arabia and Israel together in formal recognition of each other. This is an extension of Trump one, the so-called Abraham Accords.\n\nSo, there's been a bipartisan consensus through both Biden and Trump to try and bring the kingdom closer to Israel and to keep it aligned with the United States. This is a logical extension of both of those.\n\nCORNISH: So, I want to play one last thing for you then. Naftali Bennett, former Israeli prime minister. Here is his reaction to this.\n\nNAFTALI BENNETT, FORMER ISRAELI PRIME MINISTER (through translator): Saudi Arabia gets nuclear capabilities without progress towards normalization, without anything in return. In all of these, Israel is not at the table, but on the table.\n\nCORNISH: Just want to add that one more point. As you said, on the one hand, you want to get to a path of normalization. On the other hand, not sounding happy.\n\nSTAVRIDIS: Yes. Completely agree with Naftali Bennett. I know all of the senior Israeli leaders. They are all going to want to see concrete progress toward that alignment you and I just talked about before the kingdom gets to the enrichment. So, let's look at the details of the deal. Let's look at the timeline. Let's listen to the Israelis. I think if we do all those things, we can probably achieve the overarching objectives here.\n\nCORNISH: OK. That's Admiral James Stavridis. Thank you so much for that context. Really appreciate it\n\nCORNISH: I want to turn to this. A new University of New Hampshire poll -- that's right, we're already on New Hampshire, because the leading Democrat for president, according to them, is Alexandria Ocasio-Cortez in 2028. The New York congresswoman is favored by 22 percent of likely Democratic primary voters. Pete Buttigieg is one point behind. Rounding out the top five, Mark Kelly, Gavin Newsom and Bernie Sanders.\n\nREP. ALEXANDRIA OCASIO-CORTEZ (D-NY): I feel very, you know, humbled by the support of everyday people. I think that, you know, polls go up, polls go down. That's kind of part of how all of this works.\n\nMANU RAJU, CNN CHIEF CONGRESSIONAL CORRESPONDENT: Why do you think yours are going up right now?\n\nOCASIO-CORTEZ: You'd have to ask folks in New Hampshire.\n\nCORNISH: OK, the group chat is back.\n\nThere's been -- whoa, this side of the, head shaking. Wait, let me start with the Democrat.\n\nHAYS: I mean, I just -- none of those five people, I think, are going to be the nominee for the Democratic Party come 2028. I think we're a long way from that. But I do think that people see AOC as a fighter. And I think they see her pushing back on Trump and also pushing back on members of her own party. And I think that's important to Democrats right now.\n\nI also think that it's really interesting to watch how she -- who she is endorsing in the midterms versus someone like a Bernie Sanders.\n\nHAYS: She is much more conservative and much more thorough with her endorsements, which I think shows her willingness to be more selective and also her probably desire for higher office. I'm not sure she will run for president. I see her more running for Senate.\n\nCORNISH: But what if she sounded like this when she talked to the voters. A name and image you might recognize. (BEGIN VIDEO CLIP)\n\nBARACK OBAMA, FORMER U.S. PRESIDENT (November 4, 2008): And bend it once more toward the hope of a better day. It's been a long time coming, but tonight, because of what we did on this day, in this election, at this defining moment, change has come to America.\n\nREP. ALEXANDRIA OCASIO-CORTEZ (D-NY) (May 28, 2026): Ask your skeptical neighbor to believe. It's the only thing that we have. Our hope is the only thing that creates change.\n\nCORNISH: Trying out a little something?\n\nTHOMPSON: I mean, I was following AOC around this last weekend throughout Michigan, and the first -- the first speech, I was like, huh, that sounds -- that sounds a bit familiar. And then I just went back. I literally went back through all these Obama speeches from the 2007 campaign. And there is similar rhetoric.\n\nAnd what's interesting about her doing this is it is an attempt to expand her appeal beyond just, you know, Democratic socialist revolutionaries.\n\nShe's also positioning herself as a change -- potential change candidate. And as -- you know, people sometimes forget that Obama really was an insurgency against the party establishment of his time. And she very much is trying to -- it's not just about Democratic socialism, it is about fighting off, you know, generational change and also just changing the status of the party.\n\nCORNISH: Yes, I'm surprised. I mean, honestly, I feel like it's been a hot minute and I expected to hear more of this rhetoric from more candidates. In the meantime, the media is doing what you're doing. We're looking at all the names we can possibly look at. OK, Mark Kelly is being reported in \"The Atlantic Council.\" \"The New York Magazine\" going all in with, like it or not, Kamala Harris is the front runner. And then Pete Buttigieg emerging. That is the word from \"The Advocate.\" So, everyone's taking (INAUDIBLE).\n\nDUBKE: We should -- we should bring Jacob back because I feel like that's a TMZ list.\n\nDUBKE: Of Democrats who have been on camera the most. Gavin Newsom at six percent. He's going to unbutton one more button of his shirt.\n\nCORNISH: That's a different job.\n\nDUBKE: So, that's what we're going to get.\n\nCORNISH: Yes. DUBKE: But she's only one point ahead of Mayor Pete, who hasn't really been campaigning. So, I don't --\n\nCORNISH: That's not true. Mayor Pete is everywhere.\n\nHAYS: Mayor Pete did just invest in all 50 states and giving money. So, he is doing things to actively strengthen the Democratic Party. But you're -- you know, to your point --\n\nHAYS: This is all about name recognition right now.\n\nHAYS: And who's out there right now. And AOC is out there.\n\nCORNISH: Whose name can you remember?\n\nHAYS: And she's fighting, right?\n\nDUBKE: And that's exactly what Democrats need.\n\nDUBKE: And Mark Kelly -- and Mark Kelly has risen to the top because, again, of Donald Trump going after him. So --\n\nTHOMPSON: There's an extra level of intrigue going on this week because the DNC is meeting to decide which states go first in the 2028 primary calendar.\n\nCORNISH: Oh, this thing.\n\nTHOMPSON: And AOC and Bernie would have an advantage -- or a left wing candidate would have an advantage in New Hampshire or Nevada.\n\nCORNISH: In New Hampshire, yes.\n\nTHOMPSON: Because Bernie won Nevada by almost 50 percent last time. If South Carolina goes first --\n\nCORNISH: Instead of a South Carolina.\n\nTHOMPSON: And so there's a lot of behind the scenes jockeying going on this week.\n\nHAYS: I recommend a five, four, two, one strategy. It wins the presidency. But that's just my personal opinion here.\n\nCORNISH: We're going to -- because 2028 is a ways away, we will come back to this. (INAUDIBLE) this.\n\nDUBKE: But as Republicans, we don't change. We keep it the same way year after year.\n\nCORNISH: Yes. You do. You do. You're hardcore.\n\nAll right, because it's Thursday and people online get mad at me if we don't do the group chats, we're doing the group chat.\n\nWe're going to start with Meghan.\n\nHAYS: Sure. So, there's a sleeper hit summer series, \"The Five-Star Weekend\" on Peacock, which I ran into last weekend to binge. Jennifer Garner is in it.\n\nCORNISH: Is this Chloe Sevigny and a couple other people?\n\nHAYS: It's after a book. It's very good. It's not as light-hearted as you would think it was when I first turned it on, but it's -- I recommend it to everyone.\n\nCORNISH: Nice. What about you?\n\nDUBKE: Oh, mine's preachy. It's, be bad at something.\n\nCORNISH: I like this.\n\nDUBKE: It's really -- it's so -- it's this time, and I was talking --\n\nHAYS: That's why we show up every Thursday.\n\nI was talking to my wife about this.\n\nDUBKE: Try something new. Like --\n\nCORNISH: And don't be afraid to fail.\n\nDUBKE: And don't be afraid to fail because when we get older we stop doing new things. We stop beginning new things. We do and repeat and get in a rut about all the stuff we're good at. And so, try something new. Be bad.\n\nCORNISH: I love this. We're going to talk after because I have been trying to do things lately, and it's taken me to some very strange place.\n\nDUBKE: Probably in a good way. CORNISH: Very funny. In a good way. In a good way.\n\nDUBKE: In a good way.\n\nCORNISH: Now, you and I saw \"The Odyssey.\"\n\nCORNISH: So, what's in my group chat is Elon Musk's follow-up to his whinging (ph) about the casting by saying he is going to deliver -- someone was like, I want you to give Mel Gibson $100 million to film your own. And then there are people who have been putting out their own versions of \"The Odyssey\" with the cast they imagine. And I just -- I love that for them. It's like, if you want to swallow slop, here's a spoon. I would much rather choose Nolan.\n\nTHOMPSON: Well, this is -- this is part of my larger group chat, which is Greek mythology is back, baby. And everyone --\n\nCORNISH: And all -- and all the men who are into the Roman empire.\n\nCORNISH: This is your time. Rise up.\n\nTHOMPSON: But even, you know, and every --\n\nDUBKE: That's a pick-up line on Capitol Hill, by the way.\n\nHAYS: That Congress is using.\n\nDUBKE: Let me -- let me tell you about my Greek history.\n\nCORNISH: My God, where is the sea monster when you need them?\n\nTHOMPSON: I also -- I also love Elon Musk being like, I want the historically accurate version of \"The Odyssey, when it's not history. Like, it's --\n\nTHOMPSON: But -- but, you know, everyone -- I think it's -- it's great, in my opinion. Like, me and my nerdy friends, like, I just started the -- Stephen Fry's version of \"Troy\" last night.\n\nTHOMPSON: Like, we're talking about Greek mythology in a way that I haven't since high school.\n\nCORNISH: We are. People are obsessed.\n\nCORNISH: The amount -- I know this is --\n\nHAYS: This is not what we're doing over here. We are not doing this.\n\nTHOMPSON: But we're debating the Edith Wilson version versus the previous version.\n\nHAYS: We're watching reality TV, going to sporting events live.\n\nCORNISH: You might like -- words and (ph) translation.\n\nTHOMPSON: I bought the thirsty (ph) book. Like things --\n\nDUBKE: There are 10 -- there are at least ten versions of \"The Odyssey\" that are out there. 2001, \"A Space Odyssey.\"\n\nCORNISH: There's been --\n\nTHOMPSON: Well, 11 now with Elon.\n\nDUBKE: Well, yes, 11.\n\n\"SpongeBob SquarePants\" movie, that is based on \"The Odessey.\"\n\nCORNISH: Also \"Odyssey.\"\n\nCORNISH: It's all a homeric (ph) journey.\n\nCORNISH: I appreciate that.\n\nDUBKE: Part of your friend group, are you watching \"SpongeBob\"? Have you seen \"O Brother Where Art Thou\"?\n\nTHOMPSON: Not yet. I was not aware of the \"SpongeBob.\"\n\nCORNISH: Wait, you don't know this?\n\nTHOMPSON: Maybe it's because I don't have kids. I don't know. I didn't watch the \"SpongeBob\" movie.\n\nCORNISH: Listen, I mean it's also -- it's a testament to the idea of a hero's journey and this story that is so old is embedded in all of our storytelling to this day.\n\nLike, and I think that's really fascinating.\n\nDUBKE: And who hasn't told their wife, I know I should have been home after ten minutes of a short journey, but it took me 10 years --\n\nTHOMPSON: But ran to Charlize Theron and --\n\nDUBKE: It took me ten years to it (ph).\n\nCORNISH: If it makes you feel --\n\nHAYS: Remember (ph) the Congress again telling their wives --\n\nCORNISH: Meghan, Penelope had many suitors, so it could have been the bachelorette of our time.\n\nAll right, I'm Audie Cornish. The serious news is coming up, I promise you. \"NEWS CENTRAL\" is next."
+    }
+  ]
+}
