@@ -1,0 +1,419 @@
+{
+  "date": "2026-07-26",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-26/segment/02",
+  "vocabulary": [
+    {
+      "word": "ramp",
+      "phonetic": "/ræmp/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "猛撞；冲撞",
+      "en": "to crash into something with force",
+      "excerpt": "Police say a man intentionally ramped his car into a pride event",
+      "example_cn": "警方称一名男子故意驾车冲撞骄傲活动。"
+    },
+    {
+      "word": "pride event",
+      "phonetic": "/praɪd ɪˈvent/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "骄傲活动（LGBTQ+活动）",
+      "en": "an event celebrating LGBTQ+ pride",
+      "excerpt": "ramped his car into a pride event",
+      "example_cn": "驾车冲撞骄傲活动。"
+    },
+    {
+      "word": "ramming",
+      "phonetic": "/ˈræmɪŋ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "撞击；冲撞",
+      "en": "the act of hitting something with force",
+      "excerpt": "the main suspect in this ramming",
+      "example_cn": "这次撞击事件的主要嫌疑人。"
+    },
+    {
+      "word": "manhunt",
+      "phonetic": "/ˈmænhʌnt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "搜捕；追捕",
+      "en": "an organized search for a criminal or suspect",
+      "excerpt": "the police have now launched this very public manhunt",
+      "example_cn": "警方现已展开非常公开的搜捕。"
+    },
+    {
+      "word": "Islamist",
+      "phonetic": "/ɪzˈlɑːmɪst/",
+      "pos": "adj.",
+      "level": "专八",
+      "cn": "伊斯兰主义的",
+      "en": "relating to a political movement that supports strict Islamic law",
+      "excerpt": "he was in the Islamic -- Islamist scene in Germany",
+      "example_cn": "他属于德国的伊斯兰主义圈子。"
+    },
+    {
+      "word": "leanings",
+      "phonetic": "/ˈliːnɪŋz/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "倾向；偏好",
+      "en": "tendencies or inclinations",
+      "excerpt": "those seem to be some of the leanings that this person appears to have had",
+      "example_cn": "这些似乎是此人曾有的一些倾向。"
+    },
+    {
+      "word": "cordon off",
+      "phonetic": "/ˈkɔːrdn ɒf/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "封锁；隔离",
+      "en": "to close off an area with a line of police or barriers",
+      "excerpt": "several areas cordoned off with police vehicles",
+      "example_cn": "几个区域被警车封锁。"
+    },
+    {
+      "word": "smolder",
+      "phonetic": "/ˈsmoʊldər/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "闷烧；冒烟",
+      "en": "to burn slowly without flames",
+      "excerpt": "the embers smoldered",
+      "example_cn": "余烬在闷烧。"
+    },
+    {
+      "word": "kindling",
+      "phonetic": "/ˈkɪndlɪŋ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "引火物；易燃物",
+      "en": "small sticks or materials used to start a fire",
+      "excerpt": "the bracken and the ferns turned to kindling",
+      "example_cn": "蕨类植物变成了引火物。"
+    },
+    {
+      "word": "implode",
+      "phonetic": "/ɪmˈploʊd/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "崩溃；内爆",
+      "en": "to collapse or fail suddenly",
+      "excerpt": "Graham Platner's campaign imploded",
+      "example_cn": "格雷厄姆·普拉特纳的竞选活动崩溃了。"
+    },
+    {
+      "word": "referendum",
+      "phonetic": "/ˌrefəˈrendəm/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "公投；全民公决",
+      "en": "a direct vote by the people on a political issue",
+      "excerpt": "make this a referendum on Senator Collins",
+      "example_cn": "使这成为对柯林斯参议员的公投。"
+    },
+    {
+      "word": "stockpile",
+      "phonetic": "/ˈstɑːkpaɪl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "储备；库存",
+      "en": "a large supply of something kept for future use",
+      "excerpt": "further depleting the U.S. munition stockpile",
+      "example_cn": "进一步耗尽美国的弹药储备。"
+    },
+    {
+      "word": "blockade",
+      "phonetic": "/blɑːˈkeɪd/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "封锁",
+      "en": "the blocking of a place to prevent goods or people from entering or leaving",
+      "excerpt": "continued its naval blockade of Iranian ports",
+      "example_cn": "继续对伊朗港口的海上封锁。"
+    },
+    {
+      "word": "ceasefire",
+      "phonetic": "/ˈsiːsfaɪər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "停火",
+      "en": "an agreement to stop fighting",
+      "excerpt": "the ceasefire that was put in place several months ago",
+      "example_cn": "几个月前实施的停火。"
+    },
+    {
+      "word": "diplomacy",
+      "phonetic": "/dɪˈploʊməsi/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "外交",
+      "en": "the management of relations between countries",
+      "excerpt": "Omani diplomacy over the last couple of days",
+      "example_cn": "过去几天的阿曼外交。"
+    },
+    {
+      "word": "relinquish",
+      "phonetic": "/rɪˈlɪŋkwɪʃ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "放弃；交出",
+      "en": "to give up something",
+      "excerpt": "Iran relinquish its desire and commitment",
+      "example_cn": "伊朗放弃其愿望和承诺。"
+    },
+    {
+      "word": "inaccurate",
+      "phonetic": "/ɪnˈækjərət/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "不准确的",
+      "en": "not correct or exact",
+      "excerpt": "warning about \"inaccurate information\"",
+      "example_cn": "警告关于“不准确信息”。"
+    },
+    {
+      "word": "exhibition",
+      "phonetic": "/ˌeksɪˈbɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "展览；展览会",
+      "en": "a public display of works of art or items of interest",
+      "excerpt": "this is not a political exhibition",
+      "example_cn": "这不是政治展览。"
+    },
+    {
+      "word": "jurisdiction",
+      "phonetic": "/ˌdʒʊrɪsˈdɪkʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "管辖权；司法权",
+      "en": "the official power to make legal decisions and judgments",
+      "excerpt": "they don't have any jurisdiction over that",
+      "example_cn": "他们对此没有管辖权。"
+    },
+    {
+      "word": "fracturization",
+      "phonetic": "/ˌfræktʃəraɪˈzeɪʃn/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "分裂；碎片化",
+      "en": "the process of breaking into fragments",
+      "excerpt": "this fracturization and people go further and further to one side",
+      "example_cn": "这种分裂以及人们越来越走向一边。"
+    },
+    {
+      "word": "flack",
+      "phonetic": "/flæk/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "批评；抨击",
+      "en": "strong criticism or opposition",
+      "excerpt": "I got a lot of flack from this",
+      "example_cn": "我因此受到了很多批评。"
+    },
+    {
+      "word": "misogyny",
+      "phonetic": "/mɪˈsɑːdʒəni/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "厌女症",
+      "en": "hatred of women",
+      "excerpt": "known largely for their misogyny",
+      "example_cn": "主要以厌女症闻名。"
+    },
+    {
+      "word": "sex trafficking",
+      "phonetic": "/seks ˈtræfɪkɪŋ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "性贩卖",
+      "en": "the illegal trade of people for sexual exploitation",
+      "excerpt": "charged with several sex crimes including rape and sex trafficking",
+      "example_cn": "被指控多项性犯罪，包括强奸和性贩卖。"
+    },
+    {
+      "word": "extradite",
+      "phonetic": "/ˈekstrədaɪt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "引渡",
+      "en": "to hand over a person accused of a crime to another country",
+      "excerpt": "whether or not they'll be extradited to the U.K.",
+      "example_cn": "他们是否会被引渡到英国。"
+    },
+    {
+      "word": "intervene",
+      "phonetic": "/ˌɪntərˈviːn/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "干预；介入",
+      "en": "to become involved in a situation to change its outcome",
+      "excerpt": "asking for the Trump administration to intervene",
+      "example_cn": "要求特朗普政府干预。"
+    },
+    {
+      "word": "livable wage",
+      "phonetic": "/ˈlɪvəbl weɪdʒ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "维持生活的工资",
+      "en": "a wage that is enough to live on",
+      "excerpt": "commentary on just livable wage",
+      "example_cn": "关于维持生活工资的评论。"
+    },
+    {
+      "word": "spud surplus",
+      "phonetic": "/spʌd ˈsɜːrpləs/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "土豆过剩",
+      "en": "an excess supply of potatoes",
+      "excerpt": "spud surplus",
+      "example_cn": "土豆过剩。"
+    },
+    {
+      "word": "retribution",
+      "phonetic": "/ˌretrɪˈbjuːʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "报应；惩罚",
+      "en": "punishment inflicted on someone as vengeance",
+      "excerpt": "culture war retribution",
+      "example_cn": "文化战争的报复。"
+    },
+    {
+      "word": "bleeding-heart",
+      "phonetic": "/ˈbliːdɪŋ hɑːrt/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "心肠软的；同情心泛滥的",
+      "en": "showing excessive sympathy for others",
+      "excerpt": "a liberal bastion and a bleeding-heart liberal",
+      "example_cn": "一个自由派堡垒和一个心肠软的自由派。"
+    },
+    {
+      "word": "daylight saving time",
+      "phonetic": "/ˈdeɪlaɪt ˈseɪvɪŋ taɪm/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "夏令时",
+      "en": "the practice of setting clocks forward to extend evening daylight",
+      "excerpt": "about daylight saving time",
+      "example_cn": "关于夏令时。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Police say a man intentionally ramped his car into a pride event in what they're calling an act of terror.",
+      "cn": "警方称一名男子故意驾车冲撞骄傲活动，他们称之为恐怖行为。",
+      "structure": "主句（Police say）+ 宾语从句（a man intentionally ramped his car into a pride event）+ 介词短语（in what they're calling an act of terror）",
+      "analysis": "宾语从句中，'in what they're calling an act of terror' 是介词短语作状语，其中 'what' 引导名词性从句作 'in' 的宾语。"
+    },
+    {
+      "en": "Berlin police say that one person is dead, 15 others are injured, some of them from stab wounds.",
+      "cn": "柏林警方称一人死亡，15人受伤，其中一些是刺伤。",
+      "structure": "主句（Berlin police say）+ 宾语从句（that one person is dead, 15 others are injured）+ 独立主格结构（some of them from stab wounds）",
+      "analysis": "独立主格结构 'some of them from stab wounds' 补充说明受伤情况，相当于 'and some of them are from stab wounds'。"
+    },
+    {
+      "en": "And eyewitnesses certainly say that that vehicle plowed through the crowd that was taking place here on the sidelines of that Pride event.",
+      "cn": "目击者称那辆车冲入了正在这里举行的骄傲活动旁边的人群。",
+      "structure": "主句（eyewitnesses say）+ 宾语从句（that that vehicle plowed through the crowd）+ 定语从句（that was taking place here on the sidelines of that Pride event）",
+      "analysis": "第一个 'that' 是连词，第二个 'that' 是指示代词修饰 'vehicle'。定语从句修饰 'the crowd'。"
+    },
+    {
+      "en": "The police also coming out and saying that they believe that he was in the Islamic -- Islamist scene in Germany.",
+      "cn": "警方还出面表示，他们认为他属于德国的伊斯兰主义圈子。",
+      "structure": "主句（The police also coming out and saying）+ 宾语从句（that they believe that he was in the Islamic -- Islamist scene in Germany）",
+      "analysis": "现在分词短语 'coming out and saying' 作伴随状语。'believe' 后接 'that' 引导的宾语从句。"
+    },
+    {
+      "en": "The trouble is that what happened last night is that the conditions got worse.",
+      "cn": "问题在于昨晚发生的情况是条件变得更糟了。",
+      "structure": "主句（The trouble is）+ 表语从句（that what happened last night is that the conditions got worse）",
+      "analysis": "表语从句中，主语是 'what happened last night'，系动词 'is'，表语是 'that the conditions got worse'。"
+    },
+    {
+      "en": "So even as they'd managed to start containing it in those moments, places, I was just showing you a moment ago, Victor, where the fire started here on Wednesday, and still the embers smoldered, as you saw then, it continues to rage uncontrollably to the north of here.",
+      "cn": "因此，即使他们当时已经开始控制火势，就在我刚才给你看的地方，维克多，那里周三起火，余烬仍在闷烧，正如你当时所见，火势仍在向北失控蔓延。",
+      "structure": "主句（it continues to rage uncontrollably to the north of here）+ 让步状语从句（even as they'd managed to start containing it）+ 插入语（places, I was just showing you a moment ago, Victor, where the fire started here on Wednesday）+ 并列句（and still the embers smoldered）+ 插入语（as you saw then）",
+      "analysis": "句子结构复杂，包含多个插入语和从句。'where' 引导定语从句修饰 'places'。"
+    },
+    {
+      "en": "He said that he'd be leaving for Washington tomorrow and that he would be meeting with President Trump on Tuesday, that all pending issues were going to be discussed, including Iran.",
+      "cn": "他说他明天将前往华盛顿，周二将与特朗普总统会面，所有悬而未决的问题都将被讨论，包括伊朗问题。",
+      "structure": "主句（He said）+ 三个并列的宾语从句（that he'd be leaving... and that he would be meeting... that all pending issues were going to be discussed）",
+      "analysis": "三个 'that' 从句并列作 'said' 的宾语。'including Iran' 是现在分词短语作状语。"
+    },
+    {
+      "en": "The history of America has always been, I guess, debated about what is being taught in schools and what kind of information people are taking in.",
+      "cn": "我想，美国的历史一直存在争议，关于学校教什么以及人们接受什么样的信息。",
+      "structure": "主句（The history of America has always been debated）+ 插入语（I guess）+ 介词短语（about what is being taught in schools and what kind of information people are taking in）",
+      "analysis": "'about' 后接两个并列的 'what' 引导的名词性从句作宾语。"
+    },
+    {
+      "en": "And so, it just -- this is stuff that makes people kind of cringe at that whole concept, right, this guy was able to essentially donate his way into being a special government employee and then comes out after the fact and says, well, I didn't do that great of a job and maybe I was out of my depth.",
+      "cn": "所以，这——这就是让人们有点反感整个概念的东西，对吧，这家伙基本上通过捐款成为了特别政府雇员，然后事后出来说，嗯，我做得不太好，也许我力不从心。",
+      "structure": "主句（this is stuff）+ 定语从句（that makes people kind of cringe at that whole concept）+ 并列句（this guy was able to... and then comes out... and says...）",
+      "analysis": "定语从句修饰 'stuff'。并列句包含三个谓语：'was able to donate'、'comes out'、'says'。"
+    },
+    {
+      "en": "The controversy is whether or not they'll be, you know, extradited to the U.K.",
+      "cn": "争议在于他们是否会被引渡到英国。",
+      "structure": "主句（The controversy is）+ 表语从句（whether or not they'll be extradited to the U.K.）",
+      "analysis": "'whether or not' 引导表语从句，'you know' 是插入语。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "柏林恐怖袭击",
+      "content": "2026年7月26日，柏林骄傲活动期间发生恐怖袭击，一名嫌疑人驾车冲撞人群，造成1死15伤。警方正在搜捕21岁的嫌疑人Abdul B.，认为其有伊斯兰主义背景。",
+      "keywords": "Berlin, terror attack, pride event, manhunt, Islamist"
+    },
+    {
+      "title": "法国和西班牙野火",
+      "content": "法国西南部和西班牙多地野火肆虐，超过20万人被迫撤离。法国近25万英亩土地被烧，西班牙今年已烧毁13万公顷，远超年均水平。高温和干旱加剧火势。",
+      "keywords": "wildfires, France, Spain, evacuations, heatwave"
+    },
+    {
+      "title": "缅因州参议员选举",
+      "content": "缅因州民主党提名前州参议院议长Troy Jackson挑战共和党参议员Susan Collins。此前原候选人Graham Platner因性侵指控退选。Jackson需团结党内并筹集资金。",
+      "keywords": "Maine, Senate race, Troy Jackson, Susan Collins, midterm"
+    },
+    {
+      "title": "美国与伊朗冲突",
+      "content": "美国暂停对伊朗的轰炸行动，但继续海上封锁。副总统万斯和参谋长联席会议主席凯恩警告特朗普升级战争可能耗尽弹药储备。以色列总理内塔尼亚胡将与特朗普会面讨论伊朗问题。",
+      "keywords": "Iran, US, naval blockade, ceasefire, Netanyahu"
+    },
+    {
+      "title": "史密森尼博物馆争议",
+      "content": "特朗普政府下令在史密森尼博物馆外放置标牌，警告游客展品存在“不准确信息”。博物馆馆长强烈反对，称展览非政治性且基于事实。此举被视为文化战争的一部分。",
+      "keywords": "Smithsonian, Trump, inaccurate information, culture war"
+    },
+    {
+      "title": "泰特兄弟案",
+      "content": "社交媒体影响者安德鲁·泰特和特里斯坦·泰特在英国面临59项性犯罪指控，包括强奸和性贩卖。他们此前在罗马尼亚被控，现被关押在佛罗里达，面临引渡。",
+      "keywords": "Tate brothers, sex crimes, extradition, UK"
+    },
+    {
+      "title": "ESPN裁员事件",
+      "content": "ESPN在直播中解雇NFL分析师Ryan Clark，他认为是因他支持Angel Reese而遭报复。Clark在播客中表示自己曾改变以保住工作，但仍被解雇。",
+      "keywords": "ESPN, Ryan Clark, layoff, culture war"
+    },
+    {
+      "title": "夏令时立法",
+      "content": "美国众议院通过法案使夏令时永久化，但参议院尚未表决。该议题存在争议，支持者认为可节能，反对者担心健康影响。",
+      "keywords": "daylight saving time, House bill, permanent"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nBerlin Police Search For Suspect In Deadly Terror Attack; Wildfires Rage Across France & Spain As Temperatures Soar; Maine Dems Pick Jackson To Face Sen. Collins In November; U.S. Military Boards Tanker Amid Iran Naval Blockade; Trump To Meet Netanyahu This Week; Trump Orders Warning About \"Inaccurate Information\" Outside Smithsonian. Tate Brothers Due in Court Monday; ESPN Host Ryan Clark Let Go While On-Air; House Votes to Eliminate Daylight Saving Time; Denver Dealing with Overload of Donated Potatoes. Aired 7-8a ET\n\nAired July 26, 2026 - 07:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nVICTOR BLACKWELL, CNN HOST: Welcome back to CNN This Morning. Here's what you need to know. There is breaking news out of Germany. Police say a man intentionally ramped his car into a pride event in what they're calling an act of terror. We have a live report for you on that in a moment.\n\nHundreds of thousands of people have been forced to leave as wildfires rage in France and Spain. Extreme heat and the lack of rain are really fueling those fires. We'll take you there live.\n\nAnd it's take two for Maine Democrats. They've nominated a new candidate to take on GOP Senator Susan Collins.\n\nTROY JACKSON (D), MAINE SENATE NOMINEE: For nearly 30 years, Collins has told Maine that she is concerned. Maine does not need another six years of concern.\n\nBLACKWELL: How Democrats are hoping to shift the focus back on Collins in this final sprint to the midterm election. The skies over Iran, again, quiet for a second night in a row as the U.S. pauses its bombing campaign there. Good concerns about the U.S. weapons stockpile be to blame.\n\nPlus, did DOGE go too far?\n\nSunday, July 26th. Good to have you with me. I'm Victor Blackwell.\n\nRight now, German police are searching for the suspect accused of a deadly terror attack at a Berlin Pride event. Berlin police say that one person is dead, 15 others are injured, some of them from stab wounds. Police have identified this man, 21-year-old Abdul B., as the person they say rammed into a crowd gathered for Germany's largest LGBTQ event. Now, authorities say the suspect hit several people with a white van that was later found abandoned after it slammed into a tree.\n\nCNN Senior International Correspondent Fred Pleitgen is with us now. Fred, what's the latest?\n\nFREDERIK PLEITGEN, CNN SENIOR INTERNATIONAL CORRESPONDENT: Good morning. And this is pretty much as close as we're going to be able to get to the scene of where all of this happened. We're about, I'd say, about 100 yards away from where that van slammed into a tree.\n\nI'm going to get out of your way for a second. We're going to see if we can zoom in to where this happened. You can see the van there is still very much up against that tree. We've been seeing police forensic teams there working on that vehicle, but we can also see, we have seen from several angles here, that the van's front is completely totaled.\n\nSo certainly that meshes with some of the things that eyewitnesses have been saying, that apparently it went down that path at a pretty high velocity ramming into people. One of the things we need to point out is that area that you're seeing there, where that van is now standing up against that tree, that is not a public road. That is actually a path through one of the main parks here in the center of Berlin.\n\nAnd eyewitnesses certainly say that that vehicle plowed through the crowd that was taking place here on the sidelines of that Pride event. And there were eyewitnesses who said that they were absolutely terrified by what was going on. Here's what one of them said.\n\nUNIDENTIFIED MALE (through translation): At first, we couldn't make out what the screams were because of the party, the music and the atmosphere. And we only realized later exactly what was going on when the police cleared the park with machine guns and asked us to go home.\n\nPLEITGEN: All of this happening, of course, on the sidelines of the big Christopher Street Day Pride event here in Berlin that was taking place on Saturday. And you're absolutely right to point out that the police have now launched this very public manhunt with an image of what they say is the main suspect in this ramming, Abdul B, 21 years old. They say he's about 6'3, has black hair.\n\nAnd the police are urging anyone who sees him to actually dial the German version of 9/11, which is 110, rather than to try and talk to this person saying that he could be armed and could potentially be very dangerous. The police also coming out and saying that they believe that he was in the Islamic -- Islamist scene in Germany. Not exactly clear what that specifically means, but certainly saying that those seem to be some of the leanings that this person appears to have had.\n\nAgain right now, this manhunt underway here in Berlin, here in Germany. And one of the things that we've been seeing here in the city is choppers overhead seemingly searching for someone. I've also seen several areas cordoned off with police vehicles and seemingly police officers also searching several places, including some of the subway stations here in Berlin.\n\nSo this is definitely a manhunt that's going on and full speed. And at the same time, as you can imagine, deep shock here in Berlin, deep shock here also among politicians in Germany as well, Victor.\n\nBLACKWELL: Fred Pleitgen reporting there for us. Fred, thanks so much.\n\nMore than 200,000 people have been forced from their homes in southwest France. Firefighters are battling wildfires. Around 30 of them are burning right now. French officials say nearly a quarter million acres have already burned. Homes and cars are burned out shells as crews are working around the clock to try to keep those flames from spreading. About 7,000 people are now staying in temporary shelters, and a lot of them woke up to emergency alerts telling them to leave immediately and take whatever they could grab.\n\nUNIDENTIFIED FEMALE (through translation): It's actually not knowing why we're really here, whether it's because of the fire approaching our home or the ashes that fell from the sky when the wind picked up and not knowing in the end when we'll be able to go home.\n\nBLACKWELL: CNN's Melissa Bell joins us now from France. Melissa, last hour we saw you, you were near some of the smoldering remains of an area where the fire had already passed through. Where are you now?\n\nMELISSA BELL, CNN SENIOR INTERNATIONAL CORRESPONDENT: This is the command and control center to the south of this main fire from which the firefighters are coordinating their efforts, Victor, to try and get it under control. The trouble is that what happened last night is that the conditions got worse.\n\nThe fire, according to -- we've been hearing from the prime minister saying this morning, the very latest about what happened, the head of police as well and emergency services, the fact that what happened last night because of those conditions is that the fire started raging again uncontrollably with its own sort of wind systems and acting erratically and jumping from place to place.\n\nSo even as they'd managed to start containing it in those moments, places, I was just showing you a moment ago, Victor, where the fire started here on Wednesday, and still the embers smoldered, as you saw then, it continues to rage uncontrollably to the north of here. It is very large. There are several different centers to it. But now it has spread to the southeast. And that's why you've seen those extra evacuations overnight, 55,000 extra people evacuated overnight from their homes. And that fire now continuing to spread.\n\nSo the conditions extremely difficult here in terms of trying to bring this fire under control, even as they seek to contain it in one place. And that has not yet happened. It spreads elsewhere, and it is getting ever closer to Bordeaux city center. So extremely worrying situation on the ground. It is also extremely difficult for firefighters across the border, Victor.\n\nIn Spain, we've been looking these last couple of days at these wildfires to the west of Madrid. There had been some 60,000 evacuations as a result of those. Now it is the wildfires near Valencia that have been picking up with 15,000 fresh evacuations there.\n\nAnd again, authorities really stretched to their limit. We were hearing only yesterday from the Spanish Prime Minister, Pedro Sanchez, about the fact that already yesterday 130,000 hectares had burned in Spain over the course of the year as a result of all these wildfires they've had. The annual average overall tends to be under 100,000.\n\nSo that gives you an idea of just how bad things are on both sides of this border as a result of this extremely hot summer and those conditions that have turned what we were just seeing here, the ground of these pine forests, the bracken and the ferns turned to kindling. So dry are they, Victor.\n\nBLACKWELL: Melissa Bell reporting on the latest from these devastating wildfires there in France and Spain.\n\nMaine Democrats, they've now chosen their nominee to run against incumbent Republican Senator Susan Collins in November. This weekend, they selected former State Senate President Troy Jackson in a special convention to replace Graham Platner. Platner dropped out amid sexual assault allegations, which he's denied.\n\nJACKSON: This is the absolute honor of my life to accept the Democratic nomination for the U.S. Senate.\n\nToday, we turn the page. Today, this becomes a general election campaign. And today, we win the work of defeating Susan Collins in November.\n\nBLACKWELL: CNN's Jeff Zeleny has more on how he won and what lies ahead for both candidates.\n\nJEFF ZELENY, CNN CHIEF NATIONAL AFFAIRS CORRESPONDENT: Well, Maine Democrats finally turning the page in one of the most consequential Senate races in the country, formally replacing their Senate nominee. Of course, Graham Platner's campaign imploded a few weeks ago after months and months of controversy.\n\nHe was replaced by Troy Jackson, the former President of the Maine State Senate. He wasted no time going directly after his opponent, Republican Senator Susan Collins.\n\nJACKSON: For nearly 30 years, Collins has told Maine that she is concerned. Maine does not need another six years of concern. We need someone with courage. We need a fighter. And we need a senator who remembers exactly who sent them to Washington, which is you.\n\nZELENY: Of course, Collins has a track record of winning in tough races again and again. Every Democrat who has tried to challenge her for 30 years has come up short. Of course, this is a different political environment. There is no question about that.\n\nBut for Jackson going forward, one thing is clear. He must unite his own Democratic Party, as well as make this a referendum on Senator Collins. But it's clear talking to delegates here, there's still some work to do to unite Democrats and move away from that Platner controversy.\n\nWe caught up with Jackson afterward and asked him about that.\n\nZELENY: Part of seeing the energy that Graham Platner brought without being consumed by the baggage, how do you do that?\n\nJACKSON: Graham just tapped into, I believe, what was already there, people's frustration, you know, their anger that government was not working for him. This is not about Graham, it's about the movement, the people, the issues. It's bigger than any one person. I know for a fact it's bigger than me.\n\nZELENY: And as we talked to Jackson, he also told us that he would not support Chuck Schumer to be the Democratic Senate leader should Democrats win a majority in the U.S. Senate. But, of course, before any of that can be discussed, he must win this race. And that definitely remains an open question.\n\nHe said it is a challenge. There is no question about it, a fundraising challenge as well. Susan Collins has a big head start. The Democrats are all in on this race. They still see it as an important piece of the puzzle if they're going to try and win control of the Senate.\n\nJeff Zeleny, CNN, Bangor, Maine. BLACKWELL: Headlines we're watching this morning, a NASA astronaut is back on Earth after nearly eight months aboard the International Space Station. Chris Williams and two Russian crewmates landed safely in Kazakhstan about a half hour ago aboard the Soyuz spacecraft. It was the first space flight for Williams. He'll now begin post-landing medical checks before heading back to the U.S.\n\nGas prices climbing again as fighting between Iran and the U.S. intensifies. The average price for a gallon of gas is now $4.11 nationwide. That's up $0.11 in just the past week.\n\nRenewed fighting has slowed shipping through key waterways in the Middle East, making it harder to move crude oil to world markets.\n\nIn New York, new video shows several teenagers riding on top of a moving subway train in Brooklyn. Look at this. Police say drones spotted six people on the train and alerted officers on the ground. Five teens were arrested, including a 12-year-old. Investigators say they recovered six stolen MTA keys from one of the suspects. The teens now face several charges, including reckless endangerment and criminal trespass.\n\nNext, a high stakes meeting at the White House this week. What we can expect from the meeting between President Trump and Israeli Prime Minister Benjamin Netanyahu.\n\nPlus, our panel reacts to President Trump ordering new signs at the Smithsonian Museum warning of, quote, \"inaccurate information.\" That's coming up in the morning roundup.\n\nBLACKWELL: This morning, CNN has new reporting about a key meeting related to the U.S. war with Iran. A source and U.S. officials say that Vice President JD Vance and Joint Chiefs Chairman General Dan Caine warned President Trump about potential consequences if he escalates the war. According to those sources, Caine expressed concerns about further depleting the U.S. munition stockpile and other possible negative effects.\n\nNow, it's unclear if that's why the U.S. decided to suspend nearly two weeks of attacks against Iran. The U.S. military has conducted or rather continued its naval blockade of Iranian ports. U.S. Central Command posted on social media yesterday that it boarded a tanker in the Arabian Sea that violated that blockade.\n\nCNN International Diplomatic Editor Nic Robertson is with us now. Nic, it's all happening ahead of that meeting between President Trump, Israeli Prime Minister Benjamin Netanyahu, their first since the start face-to-face in this war.\n\nNIC ROBERTSON, CNN INTERNATIONAL DIPLOMATIC EDITOR: Yes, and it's going to be an important one because Prime Minister Netanyahu has not been happy with the ceasefire that was put in place several months ago, and it's not clear where he stands on the current pause that's underway at the moment. He was speaking to the government this morning.\n\nHe said that he'd be leaving for Washington tomorrow and that he would be meeting with President Trump on Tuesday, that all pending issues were going to be discussed, including Iran. So, I think everyone here imagines that's pretty much going to be front and center.\n\nWe've watched Omani diplomacy over the last couple of days. They took a trip, sent a delegation to Tehran. They got there Friday, left Saturday. The conversation was about the Strait of Hormuz. Of course, what the United States wants to see is Iran relinquish its desire and commitment to having some kind of payment method, some kind of continued control over ships coming and going from the Strait of Hormuz.\n\nIt's not clear if the Omanis made any headway there, but it perhaps was this sort of pause has allowed that diplomacy to happen. So the question is, how will the President view the outcome of the conversations the Omanis had?\n\nBut, as you say, the United States continuing its blockade. The Iranians doing the same, saying that they've stopped six ships from going into the Strait of Hormuz, not by fire, but they're saying those ships have been now put at anchor. But the U.S. Central Command saying that they have told 12 ships and stopped 12 ships from passing through the Strait of Hormuz over the last few days during the current bout of conflict.\n\nSo where it goes from here, this really does seem to be a matter of whether diplomacy has been able to take advantage of this pause.\n\nBLACKWELL: Nic Robertson, thanks so much.\n\nQuestion for you this morning, have you ever stuck around at a job you really didn't like? Well, more people are doing that. A new survey shows more than 20 million Americans are for the same reason. We'll tell you why coming up in the morning round up.\n\nAnd let's take a look at Pittsburgh. Good morning.\n\nBLACKWELL: New signage is going up outside the Smithsonian Museum, courtesy of the Trump administration. The signs warn visitors about, quote, \"inaccurate information\" in those exhibits.\n\nJoining me now for the morning roundup, Jason \"Jah\" Lee, senior editor of Bossip, Atlanta News Anchor Kaitlyn Ross, and Attorney Madeleine Simmons. Everybody, welcome back to the table. We got some morning roundup veterans. Jah, let me start with you about this. This is an executive order the President signed on Friday, says that it warns the public of inaccurate information and then advises them or directs allegedly to other sources. What do you make of this being the continued narrative from the White House?\n\nJASON \"JAH\" LEE, SENIOR EDITOR, \"BOSSIP\": It makes me feel like maybe Donald Trump and the administration, maybe they think they are like Tommy Lee Jones in \"Men in Black.\" Like there's no special gadget that you can flash in front of our eyes. There's no sign that you can put up that will make us forget the history of America.\n\nThe history of America has always been, I guess, debated about what is being taught in schools and what kind of information people are taking in. But we all know generally what happened. And so to put this asterisk outside of somewhere like the Smithsonian that has a reputation of preserving that history and making sure that we're all aware of what's going on in the country, what has gone on in the country, it just -- it brings hollow to me as an effort to control a narrative that can't be controlled. The toothpaste is out of the tube.\n\nKAITLYN ROSS, ATLANTA NEWS ANCHOR: The director of the Smithsonian really pushed back hard against this, saying that this is not a political exhibition, that they have sought to honor the history of the United States, and they do it very deliberately and with truth in mind. So I thought it was interesting just how strongly they pushed back against this.\n\nMADELEINE SIMMONS, ATTORNEY: And the fact that, you know, the Trump administration can't get these signs inside of the Smithsonian --\n\nSIMMONS: -- because they don't have any jurisdiction over that.\n\nSIMMONS: -- but they can get them on the sidewalks, I think was a little bit funny because it just shows how petty it is. Like, you can't even get inside there to get this message out of the inaccurate information. You have to have it out on the sidewalk. So how impactful is that even going to be?\n\nBLACKWELL: And that's one thing I wanted to ask you from a legal perspective. We saw what the White House tried to do at the Kennedy Center, right?\n\nSIMMONS: Yes. Unsuccessfully.\n\nBLACKWELL: Unsuccessfully. Is this something, you brought up jurisdiction inside the building, that even outside the building that somebody might be able to stop?\n\nSIMMONS: So on the sidewalks -- BLACKWELL: Because the sidewalks are under the jurisdiction of the\n\nDepartment of Interior.\n\nSIMMONS: Right. I don't see them being able to stop putting signage on the sidewalks. But certainly, like at the Kennedy Center, trying to put signage on the actual building, they're not going to be able to do that.\n\nBLACKWELL: Yes. You know, this is something, obviously, that the President has been focused on beyond the scope of the midterm elections. We've seen how culture war issues have impacted the vote. Is this going to be something people are thinking about in November? Do you think that the culture war element plays at all in the next 100 days?\n\nROSS: Well, I will say the reaction online is just as divided as we see people in person. People have very strong opinions about this, and it really is aligning with political values. So I think as you continue to see this fracturization and people go further and further to one side or the other, that's the reaction you're seeing to this.\n\nSo I think if you agree with it, you are screaming online that you agree with it. If you disagree, you are strongly in there with the exclamation points disagreeing. So it just depends what side you're on.\n\nBLACKWELL: Kaitlyn, let me start with you on this next one. Elon Musk sat down with a reporter from The Economist. They talked about a lot, including his time as a special government employee and leading DOGE. Here's what he said.\n\nELON MUSK, BILLIONAIRE: I think I got a little too involved in politics, got carried away, frankly. So the, you know, the goal with the sort of DOGE stuff was to try to do something about the deficit, which is massive. So I thought, well, we need to sort of take a close look at spending and make sure that money is being spent in sensible ways and that it is not wasted or spent on fraudulent activities. And I got a lot of flack from this.\n\nBLACKWELL: You covered the firings and layoffs here in Atlanta. CDC is here during the DOGE era where you know hundreds, thousands of people were losing their jobs. His takeaway is that he got the flack because he was thinking about sensible spending. Remind us of that period and just what it felt like for so many people.\n\nKAITLYN ROSS, ATLANTA NEWS ANCHOR: Well, I think especially when we were covering government employees who, in their minds, they were being laid off from really essential positions. It's more than just getting carried away. My friends at the CDC were saying, we're taking away critical public health information that people need and it's keeping the community safe.\n\nSo, I think a little carried away might be an understatement here. And I thought it was interesting that he said it seemed almost to me in that clip like he was surprised that he got flack, but if you look at how strongly people feel about this it's surprising to me that he would be shocked by that.\n\nJASON \"JAH\" LEE, SENIOR EDITOR, \"BOSSIP\": Well, Elon Musk has reportedly spent $250 million in support of the Trump campaign and the Trump administration. So. it just makes me wonder what is his definition of unnecessary spending? You know nowadays people have the public sentiment on billionaires and what it means to be a billionaire or trillionaire, in some people's cases, has turned.\n\nAnd so, it just -- this is stuff that makes people kind of cringe at that whole concept, right, this guy was able to essentially donate his way into being a special government employee and then comes out after the fact and says, well, I didn't do that great of a job and maybe I was out of my depth. No kidding. You don't say.\n\nBut this is the kind of sugar honey iced tea that is made people upset about how people are hoarding wealth and what they're doing with it to control power.\n\nBLACKWELL: I appreciate the morning translation there. Let's -- I want to talk about the Tate brothers in the couple of minutes we have left in this segment, Madeleine. These are two social media influencers known largely for their misogyny. They've been charged in the U.K. with several sex crimes including rape and sex trafficking. They've denied the allegations. What do we need to know about the parameters of this case?\n\nMADELEINE SIMMONS, ATTORNEY AND PARTNER, STEWART MILLER SIMMONS: So, it's interesting with the Tate brothers because they were first charged in Romania. They were under house arrest there for three years. That case is ongoing for multiple sex trafficking type of charges. Last year, they were allowed to leave Romania to go to Florida. So, they flew to Florida on a private jet and have been in Florida since. And then the U.K., who already had some charges against them, came out with now a total of 59 charges together against both brothers for, like you said, very serious sex crimes. And so, they were able to effectuate that arrest in Florida, and now they're being held in a Florida jail.\n\nThe controversy is whether or not they'll be, you know, extradited to the U.K. Their lawyers would like them to stay here, of course, and they're trying to say, well, that may mess with the Romanian case, and it's not going to do that.\n\nBLACKWELL: It's interesting because Andrew Tate is an outspoken Trump supporter and at least one of their attorneys is asking for the Trump administration to intervene. What do you think the likelihood of that is?\n\nSIMMONS: I don't see the Trump administration intervening or the Department of State because there'd be no benefit to them to do that. It's a very normal process the treaty process between the US and the U.K. to extradite criminals in these types of situations. It is a legal process. You go before a judge. You show that the arrest was properly made, and I don't see this being as controversial as the Tate brothers would like it to be by getting politics involved. I think they're going to be on to the U.K. --\n\nBLACKWELL: And politically, what benefit is there to the administration to intervene in a sex crimes case to keep these two men from going back to the U.K.?\n\nSIMMONS: They have enough heat with the Epstein files. And if Marco Rubio is looking for a presidential bid he doesn't want to be involved with this.\n\nBLACKWELL: Let's move on to this last one we teased before this segment. A new survey from West Health-Gallup Center on health care found that nearly a quarter of workers representing 23 million Americans they don't like the job they're in but they're staying just to keep the health insurance.\n\nI mean, in one way this is a commentary on the expense of health insurance in this country and the difficult decisions people have to make.\n\nROSS: I mean, good benefits really are priceless. If you can go to the doctor if you can be seen for all of your needs that touches every aspect of your life, and to have to walk away from that is really difficult especially when you know that you have the stability and then you're looking at other jobs which maybe don't offer as good of a benefits package or they don't have that health insurance that you need. And so, it's understandable that people would stay in those situations.\n\nLEE: And I would say also commentary on just livable wage and what money means and inflation and everything else. I mean, to stay somewhere where you are not particularly happy you maybe don't see professional growth there but to stay there just in case you get sick then you know that you might lose your house or lose your car or, you know, in other -- have other negative impact by not being able to afford a trip to the doctor with this bad state of affairs.\n\nBLACKWELL: I mean, it's not the first time that this survey has found that a large group of Americans are doing this but it is a much higher number than it has been in previous surveys.\n\nAll right. Everybody stay with me we got a lot to hit. Next, spud surplus. Why one city is literally begging people to take 21 tons of potatoes off their hands.\n\n(COMMERCIAL BREAK) [07:40:00]\n\nBLACKWELL: ESPN just made some major cuts, the most dramatic of which happened mid-show, according to The Athletic. NFL analyst, Ryan Clark, was on air for NFL Live on Monday and found out that he was cut during the show. He didn't finish the program.\n\nWe're back with the Morning Roundup. Jah, Kaitlyn and Madeleine are here. Jah, let me start with you. Ryan responded to this in an episode of his podcast, \"The Pivot.\" I'm going to play just a small portion of what he said.\n\nRYAN CLARK, FORMER NFL PLAYER: What I'm not going to defend is you standing up for Angel Reese and everybody being mad about the way you did it, about what you said about, I'm not going to defend that. No. I'm not going to defend you standing on 10 toes for them all the time. It's not what I'm going to do. I'm not going to take those calls. And that was the decision that was made. And I believe that that has a large role in why it was made.\n\nBLACKWELL: Yes. Clark there says that he believes that was the perspective of the bosses, that they would stand up for lawsuits and talent attacking executives, but they wouldn't stand up for him and his defense of Angel Reese. What do you think about what happened?\n\nLEE: I think that Ryan Clark got swept -- you know, earlier we talked about culture war and how that is affecting things. And I think Ryan Clark got swept up in some level of culture war retribution. The fact -- the reason he got fired during the segment is because an outlet called OutKick was contacting ESPN, threatening to leak this information.\n\nHow would OutKick get this information? Well, OutKick is owned by Fox News Corp and was established by a man named Clay Travis. And if you know, Clay Travis, you know, he is not a bleeding-heart liberal. And so, I feel that this was -- I feel like a lot of this was purposely done to embarrass Ryan Clark. And ESPN has taken a lot of heat for being a liberal bastion lately. And I feel like his bosses perhaps thought this was a time to push the other direction.\n\nBLACKWELL: Yes. I'd watched much more of the podcast and I think people should go there. Because he said that he was sad that he started to change himself to keep his job and that he thought he was so good that he wouldn't be fired. There's a lesson in that for everybody.\n\nBLACKWELL: For everybody.\n\nBLACKWELL: Let's talk about something else, it's pretty controversial on Capitol Hill. And it is about daylight saving time.\n\nROSS: You're going there.\n\nBLACKWELL: So, the president wants it to be permanent. The House passed a bill to make it p",
+  "segments": [
+    {
+      "seg": 2,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-26/segment/02",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nBerlin Police Search For Suspect In Deadly Terror Attack; Wildfires Rage Across France & Spain As Temperatures Soar; Maine Dems Pick Jackson To Face Sen. Collins In November; U.S. Military Boards Tanker Amid Iran Naval Blockade; Trump To Meet Netanyahu This Week; Trump Orders Warning About \"Inaccurate Information\" Outside Smithsonian. Tate Brothers Due in Court Monday; ESPN Host Ryan Clark Let Go While On-Air; House Votes to Eliminate Daylight Saving Time; Denver Dealing with Overload of Donated Potatoes. Aired 7-8a ET\n\nAired July 26, 2026 - 07:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nVICTOR BLACKWELL, CNN HOST: Welcome back to CNN This Morning. Here's what you need to know. There is breaking news out of Germany. Police say a man intentionally ramped his car into a pride event in what they're calling an act of terror. We have a live report for you on that in a moment.\n\nHundreds of thousands of people have been forced to leave as wildfires rage in France and Spain. Extreme heat and the lack of rain are really fueling those fires. We'll take you there live.\n\nAnd it's take two for Maine Democrats. They've nominated a new candidate to take on GOP Senator Susan Collins.\n\nTROY JACKSON (D), MAINE SENATE NOMINEE: For nearly 30 years, Collins has told Maine that she is concerned. Maine does not need another six years of concern.\n\nBLACKWELL: How Democrats are hoping to shift the focus back on Collins in this final sprint to the midterm election. The skies over Iran, again, quiet for a second night in a row as the U.S. pauses its bombing campaign there. Good concerns about the U.S. weapons stockpile be to blame.\n\nPlus, did DOGE go too far?\n\nSunday, July 26th. Good to have you with me. I'm Victor Blackwell.\n\nRight now, German police are searching for the suspect accused of a deadly terror attack at a Berlin Pride event. Berlin police say that one person is dead, 15 others are injured, some of them from stab wounds. Police have identified this man, 21-year-old Abdul B., as the person they say rammed into a crowd gathered for Germany's largest LGBTQ event. Now, authorities say the suspect hit several people with a white van that was later found abandoned after it slammed into a tree.\n\nCNN Senior International Correspondent Fred Pleitgen is with us now. Fred, what's the latest?\n\nFREDERIK PLEITGEN, CNN SENIOR INTERNATIONAL CORRESPONDENT: Good morning. And this is pretty much as close as we're going to be able to get to the scene of where all of this happened. We're about, I'd say, about 100 yards away from where that van slammed into a tree.\n\nI'm going to get out of your way for a second. We're going to see if we can zoom in to where this happened. You can see the van there is still very much up against that tree. We've been seeing police forensic teams there working on that vehicle, but we can also see, we have seen from several angles here, that the van's front is completely totaled.\n\nSo certainly that meshes with some of the things that eyewitnesses have been saying, that apparently it went down that path at a pretty high velocity ramming into people. One of the things we need to point out is that area that you're seeing there, where that van is now standing up against that tree, that is not a public road. That is actually a path through one of the main parks here in the center of Berlin.\n\nAnd eyewitnesses certainly say that that vehicle plowed through the crowd that was taking place here on the sidelines of that Pride event. And there were eyewitnesses who said that they were absolutely terrified by what was going on. Here's what one of them said.\n\nUNIDENTIFIED MALE (through translation): At first, we couldn't make out what the screams were because of the party, the music and the atmosphere. And we only realized later exactly what was going on when the police cleared the park with machine guns and asked us to go home.\n\nPLEITGEN: All of this happening, of course, on the sidelines of the big Christopher Street Day Pride event here in Berlin that was taking place on Saturday. And you're absolutely right to point out that the police have now launched this very public manhunt with an image of what they say is the main suspect in this ramming, Abdul B, 21 years old. They say he's about 6'3, has black hair.\n\nAnd the police are urging anyone who sees him to actually dial the German version of 9/11, which is 110, rather than to try and talk to this person saying that he could be armed and could potentially be very dangerous. The police also coming out and saying that they believe that he was in the Islamic -- Islamist scene in Germany. Not exactly clear what that specifically means, but certainly saying that those seem to be some of the leanings that this person appears to have had.\n\nAgain right now, this manhunt underway here in Berlin, here in Germany. And one of the things that we've been seeing here in the city is choppers overhead seemingly searching for someone. I've also seen several areas cordoned off with police vehicles and seemingly police officers also searching several places, including some of the subway stations here in Berlin.\n\nSo this is definitely a manhunt that's going on and full speed. And at the same time, as you can imagine, deep shock here in Berlin, deep shock here also among politicians in Germany as well, Victor.\n\nBLACKWELL: Fred Pleitgen reporting there for us. Fred, thanks so much.\n\nMore than 200,000 people have been forced from their homes in southwest France. Firefighters are battling wildfires. Around 30 of them are burning right now. French officials say nearly a quarter million acres have already burned. Homes and cars are burned out shells as crews are working around the clock to try to keep those flames from spreading. About 7,000 people are now staying in temporary shelters, and a lot of them woke up to emergency alerts telling them to leave immediately and take whatever they could grab.\n\nUNIDENTIFIED FEMALE (through translation): It's actually not knowing why we're really here, whether it's because of the fire approaching our home or the ashes that fell from the sky when the wind picked up and not knowing in the end when we'll be able to go home.\n\nBLACKWELL: CNN's Melissa Bell joins us now from France. Melissa, last hour we saw you, you were near some of the smoldering remains of an area where the fire had already passed through. Where are you now?\n\nMELISSA BELL, CNN SENIOR INTERNATIONAL CORRESPONDENT: This is the command and control center to the south of this main fire from which the firefighters are coordinating their efforts, Victor, to try and get it under control. The trouble is that what happened last night is that the conditions got worse.\n\nThe fire, according to -- we've been hearing from the prime minister saying this morning, the very latest about what happened, the head of police as well and emergency services, the fact that what happened last night because of those conditions is that the fire started raging again uncontrollably with its own sort of wind systems and acting erratically and jumping from place to place.\n\nSo even as they'd managed to start containing it in those moments, places, I was just showing you a moment ago, Victor, where the fire started here on Wednesday, and still the embers smoldered, as you saw then, it continues to rage uncontrollably to the north of here. It is very large. There are several different centers to it. But now it has spread to the southeast. And that's why you've seen those extra evacuations overnight, 55,000 extra people evacuated overnight from their homes. And that fire now continuing to spread.\n\nSo the conditions extremely difficult here in terms of trying to bring this fire under control, even as they seek to contain it in one place. And that has not yet happened. It spreads elsewhere, and it is getting ever closer to Bordeaux city center. So extremely worrying situation on the ground. It is also extremely difficult for firefighters across the border, Victor.\n\nIn Spain, we've been looking these last couple of days at these wildfires to the west of Madrid. There had been some 60,000 evacuations as a result of those. Now it is the wildfires near Valencia that have been picking up with 15,000 fresh evacuations there.\n\nAnd again, authorities really stretched to their limit. We were hearing only yesterday from the Spanish Prime Minister, Pedro Sanchez, about the fact that already yesterday 130,000 hectares had burned in Spain over the course of the year as a result of all these wildfires they've had. The annual average overall tends to be under 100,000.\n\nSo that gives you an idea of just how bad things are on both sides of this border as a result of this extremely hot summer and those conditions that have turned what we were just seeing here, the ground of these pine forests, the bracken and the ferns turned to kindling. So dry are they, Victor.\n\nBLACKWELL: Melissa Bell reporting on the latest from these devastating wildfires there in France and Spain.\n\nMaine Democrats, they've now chosen their nominee to run against incumbent Republican Senator Susan Collins in November. This weekend, they selected former State Senate President Troy Jackson in a special convention to replace Graham Platner. Platner dropped out amid sexual assault allegations, which he's denied.\n\nJACKSON: This is the absolute honor of my life to accept the Democratic nomination for the U.S. Senate.\n\nToday, we turn the page. Today, this becomes a general election campaign. And today, we win the work of defeating Susan Collins in November.\n\nBLACKWELL: CNN's Jeff Zeleny has more on how he won and what lies ahead for both candidates.\n\nJEFF ZELENY, CNN CHIEF NATIONAL AFFAIRS CORRESPONDENT: Well, Maine Democrats finally turning the page in one of the most consequential Senate races in the country, formally replacing their Senate nominee. Of course, Graham Platner's campaign imploded a few weeks ago after months and months of controversy.\n\nHe was replaced by Troy Jackson, the former President of the Maine State Senate. He wasted no time going directly after his opponent, Republican Senator Susan Collins.\n\nJACKSON: For nearly 30 years, Collins has told Maine that she is concerned. Maine does not need another six years of concern. We need someone with courage. We need a fighter. And we need a senator who remembers exactly who sent them to Washington, which is you.\n\nZELENY: Of course, Collins has a track record of winning in tough races again and again. Every Democrat who has tried to challenge her for 30 years has come up short. Of course, this is a different political environment. There is no question about that.\n\nBut for Jackson going forward, one thing is clear. He must unite his own Democratic Party, as well as make this a referendum on Senator Collins. But it's clear talking to delegates here, there's still some work to do to unite Democrats and move away from that Platner controversy.\n\nWe caught up with Jackson afterward and asked him about that.\n\nZELENY: Part of seeing the energy that Graham Platner brought without being consumed by the baggage, how do you do that?\n\nJACKSON: Graham just tapped into, I believe, what was already there, people's frustration, you know, their anger that government was not working for him. This is not about Graham, it's about the movement, the people, the issues. It's bigger than any one person. I know for a fact it's bigger than me.\n\nZELENY: And as we talked to Jackson, he also told us that he would not support Chuck Schumer to be the Democratic Senate leader should Democrats win a majority in the U.S. Senate. But, of course, before any of that can be discussed, he must win this race. And that definitely remains an open question.\n\nHe said it is a challenge. There is no question about it, a fundraising challenge as well. Susan Collins has a big head start. The Democrats are all in on this race. They still see it as an important piece of the puzzle if they're going to try and win control of the Senate.\n\nJeff Zeleny, CNN, Bangor, Maine. BLACKWELL: Headlines we're watching this morning, a NASA astronaut is back on Earth after nearly eight months aboard the International Space Station. Chris Williams and two Russian crewmates landed safely in Kazakhstan about a half hour ago aboard the Soyuz spacecraft. It was the first space flight for Williams. He'll now begin post-landing medical checks before heading back to the U.S.\n\nGas prices climbing again as fighting between Iran and the U.S. intensifies. The average price for a gallon of gas is now $4.11 nationwide. That's up $0.11 in just the past week.\n\nRenewed fighting has slowed shipping through key waterways in the Middle East, making it harder to move crude oil to world markets.\n\nIn New York, new video shows several teenagers riding on top of a moving subway train in Brooklyn. Look at this. Police say drones spotted six people on the train and alerted officers on the ground. Five teens were arrested, including a 12-year-old. Investigators say they recovered six stolen MTA keys from one of the suspects. The teens now face several charges, including reckless endangerment and criminal trespass.\n\nNext, a high stakes meeting at the White House this week. What we can expect from the meeting between President Trump and Israeli Prime Minister Benjamin Netanyahu.\n\nPlus, our panel reacts to President Trump ordering new signs at the Smithsonian Museum warning of, quote, \"inaccurate information.\" That's coming up in the morning roundup.\n\nBLACKWELL: This morning, CNN has new reporting about a key meeting related to the U.S. war with Iran. A source and U.S. officials say that Vice President JD Vance and Joint Chiefs Chairman General Dan Caine warned President Trump about potential consequences if he escalates the war. According to those sources, Caine expressed concerns about further depleting the U.S. munition stockpile and other possible negative effects.\n\nNow, it's unclear if that's why the U.S. decided to suspend nearly two weeks of attacks against Iran. The U.S. military has conducted or rather continued its naval blockade of Iranian ports. U.S. Central Command posted on social media yesterday that it boarded a tanker in the Arabian Sea that violated that blockade.\n\nCNN International Diplomatic Editor Nic Robertson is with us now. Nic, it's all happening ahead of that meeting between President Trump, Israeli Prime Minister Benjamin Netanyahu, their first since the start face-to-face in this war.\n\nNIC ROBERTSON, CNN INTERNATIONAL DIPLOMATIC EDITOR: Yes, and it's going to be an important one because Prime Minister Netanyahu has not been happy with the ceasefire that was put in place several months ago, and it's not clear where he stands on the current pause that's underway at the moment. He was speaking to the government this morning.\n\nHe said that he'd be leaving for Washington tomorrow and that he would be meeting with President Trump on Tuesday, that all pending issues were going to be discussed, including Iran. So, I think everyone here imagines that's pretty much going to be front and center.\n\nWe've watched Omani diplomacy over the last couple of days. They took a trip, sent a delegation to Tehran. They got there Friday, left Saturday. The conversation was about the Strait of Hormuz. Of course, what the United States wants to see is Iran relinquish its desire and commitment to having some kind of payment method, some kind of continued control over ships coming and going from the Strait of Hormuz.\n\nIt's not clear if the Omanis made any headway there, but it perhaps was this sort of pause has allowed that diplomacy to happen. So the question is, how will the President view the outcome of the conversations the Omanis had?\n\nBut, as you say, the United States continuing its blockade. The Iranians doing the same, saying that they've stopped six ships from going into the Strait of Hormuz, not by fire, but they're saying those ships have been now put at anchor. But the U.S. Central Command saying that they have told 12 ships and stopped 12 ships from passing through the Strait of Hormuz over the last few days during the current bout of conflict.\n\nSo where it goes from here, this really does seem to be a matter of whether diplomacy has been able to take advantage of this pause.\n\nBLACKWELL: Nic Robertson, thanks so much.\n\nQuestion for you this morning, have you ever stuck around at a job you really didn't like? Well, more people are doing that. A new survey shows more than 20 million Americans are for the same reason. We'll tell you why coming up in the morning round up.\n\nAnd let's take a look at Pittsburgh. Good morning.\n\nBLACKWELL: New signage is going up outside the Smithsonian Museum, courtesy of the Trump administration. The signs warn visitors about, quote, \"inaccurate information\" in those exhibits.\n\nJoining me now for the morning roundup, Jason \"Jah\" Lee, senior editor of Bossip, Atlanta News Anchor Kaitlyn Ross, and Attorney Madeleine Simmons. Everybody, welcome back to the table. We got some morning roundup veterans. Jah, let me start with you about this. This is an executive order the President signed on Friday, says that it warns the public of inaccurate information and then advises them or directs allegedly to other sources. What do you make of this being the continued narrative from the White House?\n\nJASON \"JAH\" LEE, SENIOR EDITOR, \"BOSSIP\": It makes me feel like maybe Donald Trump and the administration, maybe they think they are like Tommy Lee Jones in \"Men in Black.\" Like there's no special gadget that you can flash in front of our eyes. There's no sign that you can put up that will make us forget the history of America.\n\nThe history of America has always been, I guess, debated about what is being taught in schools and what kind of information people are taking in. But we all know generally what happened. And so to put this asterisk outside of somewhere like the Smithsonian that has a reputation of preserving that history and making sure that we're all aware of what's going on in the country, what has gone on in the country, it just -- it brings hollow to me as an effort to control a narrative that can't be controlled. The toothpaste is out of the tube.\n\nKAITLYN ROSS, ATLANTA NEWS ANCHOR: The director of the Smithsonian really pushed back hard against this, saying that this is not a political exhibition, that they have sought to honor the history of the United States, and they do it very deliberately and with truth in mind. So I thought it was interesting just how strongly they pushed back against this.\n\nMADELEINE SIMMONS, ATTORNEY: And the fact that, you know, the Trump administration can't get these signs inside of the Smithsonian --\n\nSIMMONS: -- because they don't have any jurisdiction over that.\n\nSIMMONS: -- but they can get them on the sidewalks, I think was a little bit funny because it just shows how petty it is. Like, you can't even get inside there to get this message out of the inaccurate information. You have to have it out on the sidewalk. So how impactful is that even going to be?\n\nBLACKWELL: And that's one thing I wanted to ask you from a legal perspective. We saw what the White House tried to do at the Kennedy Center, right?\n\nSIMMONS: Yes. Unsuccessfully.\n\nBLACKWELL: Unsuccessfully. Is this something, you brought up jurisdiction inside the building, that even outside the building that somebody might be able to stop?\n\nSIMMONS: So on the sidewalks -- BLACKWELL: Because the sidewalks are under the jurisdiction of the\n\nDepartment of Interior.\n\nSIMMONS: Right. I don't see them being able to stop putting signage on the sidewalks. But certainly, like at the Kennedy Center, trying to put signage on the actual building, they're not going to be able to do that.\n\nBLACKWELL: Yes. You know, this is something, obviously, that the President has been focused on beyond the scope of the midterm elections. We've seen how culture war issues have impacted the vote. Is this going to be something people are thinking about in November? Do you think that the culture war element plays at all in the next 100 days?\n\nROSS: Well, I will say the reaction online is just as divided as we see people in person. People have very strong opinions about this, and it really is aligning with political values. So I think as you continue to see this fracturization and people go further and further to one side or the other, that's the reaction you're seeing to this.\n\nSo I think if you agree with it, you are screaming online that you agree with it. If you disagree, you are strongly in there with the exclamation points disagreeing. So it just depends what side you're on.\n\nBLACKWELL: Kaitlyn, let me start with you on this next one. Elon Musk sat down with a reporter from The Economist. They talked about a lot, including his time as a special government employee and leading DOGE. Here's what he said.\n\nELON MUSK, BILLIONAIRE: I think I got a little too involved in politics, got carried away, frankly. So the, you know, the goal with the sort of DOGE stuff was to try to do something about the deficit, which is massive. So I thought, well, we need to sort of take a close look at spending and make sure that money is being spent in sensible ways and that it is not wasted or spent on fraudulent activities. And I got a lot of flack from this.\n\nBLACKWELL: You covered the firings and layoffs here in Atlanta. CDC is here during the DOGE era where you know hundreds, thousands of people were losing their jobs. His takeaway is that he got the flack because he was thinking about sensible spending. Remind us of that period and just what it felt like for so many people.\n\nKAITLYN ROSS, ATLANTA NEWS ANCHOR: Well, I think especially when we were covering government employees who, in their minds, they were being laid off from really essential positions. It's more than just getting carried away. My friends at the CDC were saying, we're taking away critical public health information that people need and it's keeping the community safe.\n\nSo, I think a little carried away might be an understatement here. And I thought it was interesting that he said it seemed almost to me in that clip like he was surprised that he got flack, but if you look at how strongly people feel about this it's surprising to me that he would be shocked by that.\n\nJASON \"JAH\" LEE, SENIOR EDITOR, \"BOSSIP\": Well, Elon Musk has reportedly spent $250 million in support of the Trump campaign and the Trump administration. So. it just makes me wonder what is his definition of unnecessary spending? You know nowadays people have the public sentiment on billionaires and what it means to be a billionaire or trillionaire, in some people's cases, has turned.\n\nAnd so, it just -- this is stuff that makes people kind of cringe at that whole concept, right, this guy was able to essentially donate his way into being a special government employee and then comes out after the fact and says, well, I didn't do that great of a job and maybe I was out of my depth. No kidding. You don't say.\n\nBut this is the kind of sugar honey iced tea that is made people upset about how people are hoarding wealth and what they're doing with it to control power.\n\nBLACKWELL: I appreciate the morning translation there. Let's -- I want to talk about the Tate brothers in the couple of minutes we have left in this segment, Madeleine. These are two social media influencers known largely for their misogyny. They've been charged in the U.K. with several sex crimes including rape and sex trafficking. They've denied the allegations. What do we need to know about the parameters of this case?\n\nMADELEINE SIMMONS, ATTORNEY AND PARTNER, STEWART MILLER SIMMONS: So, it's interesting with the Tate brothers because they were first charged in Romania. They were under house arrest there for three years. That case is ongoing for multiple sex trafficking type of charges. Last year, they were allowed to leave Romania to go to Florida. So, they flew to Florida on a private jet and have been in Florida since. And then the U.K., who already had some charges against them, came out with now a total of 59 charges together against both brothers for, like you said, very serious sex crimes. And so, they were able to effectuate that arrest in Florida, and now they're being held in a Florida jail.\n\nThe controversy is whether or not they'll be, you know, extradited to the U.K. Their lawyers would like them to stay here, of course, and they're trying to say, well, that may mess with the Romanian case, and it's not going to do that.\n\nBLACKWELL: It's interesting because Andrew Tate is an outspoken Trump supporter and at least one of their attorneys is asking for the Trump administration to intervene. What do you think the likelihood of that is?\n\nSIMMONS: I don't see the Trump administration intervening or the Department of State because there'd be no benefit to them to do that. It's a very normal process the treaty process between the US and the U.K. to extradite criminals in these types of situations. It is a legal process. You go before a judge. You show that the arrest was properly made, and I don't see this being as controversial as the Tate brothers would like it to be by getting politics involved. I think they're going to be on to the U.K. --\n\nBLACKWELL: And politically, what benefit is there to the administration to intervene in a sex crimes case to keep these two men from going back to the U.K.?\n\nSIMMONS: They have enough heat with the Epstein files. And if Marco Rubio is looking for a presidential bid he doesn't want to be involved with this.\n\nBLACKWELL: Let's move on to this last one we teased before this segment. A new survey from West Health-Gallup Center on health care found that nearly a quarter of workers representing 23 million Americans they don't like the job they're in but they're staying just to keep the health insurance.\n\nI mean, in one way this is a commentary on the expense of health insurance in this country and the difficult decisions people have to make.\n\nROSS: I mean, good benefits really are priceless. If you can go to the doctor if you can be seen for all of your needs that touches every aspect of your life, and to have to walk away from that is really difficult especially when you know that you have the stability and then you're looking at other jobs which maybe don't offer as good of a benefits package or they don't have that health insurance that you need. And so, it's understandable that people would stay in those situations.\n\nLEE: And I would say also commentary on just livable wage and what money means and inflation and everything else. I mean, to stay somewhere where you are not particularly happy you maybe don't see professional growth there but to stay there just in case you get sick then you know that you might lose your house or lose your car or, you know, in other -- have other negative impact by not being able to afford a trip to the doctor with this bad state of affairs.\n\nBLACKWELL: I mean, it's not the first time that this survey has found that a large group of Americans are doing this but it is a much higher number than it has been in previous surveys.\n\nAll right. Everybody stay with me we got a lot to hit. Next, spud surplus. Why one city is literally begging people to take 21 tons of potatoes off their hands.\n\n(COMMERCIAL BREAK) [07:40:00]\n\nBLACKWELL: ESPN just made some major cuts, the most dramatic of which happened mid-show, according to The Athletic. NFL analyst, Ryan Clark, was on air for NFL Live on Monday and found out that he was cut during the show. He didn't finish the program.\n\nWe're back with the Morning Roundup. Jah, Kaitlyn and Madeleine are here. Jah, let me start with you. Ryan responded to this in an episode of his podcast, \"The Pivot.\" I'm going to play just a small portion of what he said.\n\nRYAN CLARK, FORMER NFL PLAYER: What I'm not going to defend is you standing up for Angel Reese and everybody being mad about the way you did it, about what you said about, I'm not going to defend that. No. I'm not going to defend you standing on 10 toes for them all the time. It's not what I'm going to do. I'm not going to take those calls. And that was the decision that was made. And I believe that that has a large role in why it was made.\n\nBLACKWELL: Yes. Clark there says that he believes that was the perspective of the bosses, that they would stand up for lawsuits and talent attacking executives, but they wouldn't stand up for him and his defense of Angel Reese. What do you think about what happened?\n\nLEE: I think that Ryan Clark got swept -- you know, earlier we talked about culture war and how that is affecting things. And I think Ryan Clark got swept up in some level of culture war retribution. The fact -- the reason he got fired during the segment is because an outlet called OutKick was contacting ESPN, threatening to leak this information.\n\nHow would OutKick get this information? Well, OutKick is owned by Fox News Corp and was established by a man named Clay Travis. And if you know, Clay Travis, you know, he is not a bleeding-heart liberal. And so, I feel that this was -- I feel like a lot of this was purposely done to embarrass Ryan Clark. And ESPN has taken a lot of heat for being a liberal bastion lately. And I feel like his bosses perhaps thought this was a time to push the other direction.\n\nBLACKWELL: Yes. I'd watched much more of the podcast and I think people should go there. Because he said that he was sad that he started to change himself to keep his job and that he thought he was so good that he wouldn't be fired. There's a lesson in that for everybody.\n\nBLACKWELL: For everybody.\n\nBLACKWELL: Let's talk about something else, it's pretty controversial on Capitol Hill. And it is about daylight saving time.\n\nROSS: You're going there.\n\nBLACKWELL: So, the president wants it to be permanent. The House passed a bill to make it p"
+    }
+  ]
+}
