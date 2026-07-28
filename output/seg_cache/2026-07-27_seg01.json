@@ -1,0 +1,399 @@
+{
+  "date": "2026-07-27",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-27/segment/01",
+  "vocabulary": [
+    {
+      "word": "evacuate",
+      "phonetic": "/ɪˈvækjueɪt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "疏散，撤离",
+      "en": "to move people from a dangerous place to a safer place",
+      "excerpt": "More than 300,000 people forced to evacuate as wildfires scorched across Europe.",
+      "example_cn": "由于野火在欧洲肆虐，超过30万人被迫疏散。"
+    },
+    {
+      "word": "casualty",
+      "phonetic": "/ˈkæʒuəlti/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "伤亡人员",
+      "en": "a person who is killed or injured in a war or accident",
+      "excerpt": "Pentagon Updates Casualty Database to 600 Plus Wounded, 18 Killed",
+      "example_cn": "五角大楼更新伤亡数据库，受伤人数超过600人，18人死亡。"
+    },
+    {
+      "word": "bureaucracy",
+      "phonetic": "/bjʊˈrɒkrəsi/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "官僚机构，官僚主义",
+      "en": "a system of government in which most decisions are taken by state officials rather than by elected representatives",
+      "excerpt": "This is where Pentagon bureaucracy meets the reality of families who are grieving.",
+      "example_cn": "这就是五角大楼的官僚机构与悲痛家庭现实相遇的地方。"
+    },
+    {
+      "word": "grieving",
+      "phonetic": "/ˈɡriːvɪŋ/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "悲痛的，哀悼的",
+      "en": "feeling or showing great sadness, especially because someone has died",
+      "excerpt": "This is where Pentagon bureaucracy meets the reality of families who are grieving.",
+      "example_cn": "这就是五角大楼的官僚机构与悲痛家庭现实相遇的地方。"
+    },
+    {
+      "word": "revise",
+      "phonetic": "/rɪˈvaɪz/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "修订，修改",
+      "en": "to change or update something in order to correct or improve it",
+      "excerpt": "the Pentagon revises the number of injured.",
+      "example_cn": "五角大楼修订了受伤人数。"
+    },
+    {
+      "word": "midterms",
+      "phonetic": "/ˈmɪdtɜːrmz/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "中期选举",
+      "en": "elections held in the middle of a president's term",
+      "excerpt": "Rahm Emanuel says progressives could cost Democrats the midterms.",
+      "example_cn": "拉姆·伊曼纽尔表示，进步派可能让民主党输掉中期选举。"
+    },
+    {
+      "word": "suspect",
+      "phonetic": "/ˈsʌspekt/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "嫌疑犯",
+      "en": "a person who is thought to be guilty of a crime",
+      "excerpt": "one suspect is on the run, the other in custody.",
+      "example_cn": "一名嫌疑人在逃，另一名已被拘留。"
+    },
+    {
+      "word": "custody",
+      "phonetic": "/ˈkʌstədi/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "拘留，监护",
+      "en": "the state of being kept in prison or being guarded by the police",
+      "excerpt": "one suspect is on the run, the other in custody.",
+      "example_cn": "一名嫌疑人在逃，另一名已被拘留。"
+    },
+    {
+      "word": "open fire",
+      "phonetic": "/ˈoʊpən ˈfaɪər/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "开火",
+      "en": "to start shooting",
+      "excerpt": "two gunmen open fire at the annual Bite of Seattle Festival.",
+      "example_cn": "两名枪手在西雅图美食节上开火。"
+    },
+    {
+      "word": "outstanding",
+      "phonetic": "/aʊtˈstændɪŋ/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "未解决的，未完成的",
+      "en": "not yet dealt with or resolved",
+      "excerpt": "We believe there is one outstanding.",
+      "example_cn": "我们相信还有一名在逃。"
+    },
+    {
+      "word": "surveillance",
+      "phonetic": "/sɜːrˈveɪləns/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "监视",
+      "en": "close observation of a person or group, especially one suspected of a crime",
+      "excerpt": "trying to get any available surveillance in that area",
+      "example_cn": "试图获取该地区的任何可用监控。"
+    },
+    {
+      "word": "motive",
+      "phonetic": "/ˈmoʊtɪv/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "动机",
+      "en": "a reason for doing something",
+      "excerpt": "establishing motive",
+      "example_cn": "确定动机。"
+    },
+    {
+      "word": "fractured",
+      "phonetic": "/ˈfræktʃərd/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "破裂的，分裂的",
+      "en": "broken or split, especially in a way that causes disagreement",
+      "excerpt": "We have a fractured relationship between community members and police",
+      "example_cn": "社区成员与警察之间的关系破裂。"
+    },
+    {
+      "word": "bystander",
+      "phonetic": "/ˈbaɪstændər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "旁观者",
+      "en": "a person who is present at an event but does not take part",
+      "excerpt": "another bystander will talk to police",
+      "example_cn": "另一个旁观者会与警方交谈。"
+    },
+    {
+      "word": "vital",
+      "phonetic": "/ˈvaɪtl/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "至关重要的",
+      "en": "extremely important and necessary",
+      "excerpt": "witnesses are key and vital to ongoing investigations",
+      "example_cn": "目击者对正在进行的调查至关重要。"
+    },
+    {
+      "word": "casualty count",
+      "phonetic": "/ˈkæʒuəlti kaʊnt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "伤亡人数",
+      "en": "the number of people killed or injured in a war or accident",
+      "excerpt": "an update to the casualty count now for the war with Iran",
+      "example_cn": "伊朗战争伤亡人数的更新。"
+    },
+    {
+      "word": "on the heels of",
+      "phonetic": "/ɒn ðə hiːlz ɒv/",
+      "pos": "phrase",
+      "level": "六级",
+      "cn": "紧随其后",
+      "en": "immediately after something",
+      "excerpt": "This coming on the heels of outrage over the Pentagon removing four names",
+      "example_cn": "这紧随五角大楼删除四个名字引发的愤怒之后。"
+    },
+    {
+      "word": "reclassify",
+      "phonetic": "/riːˈklæsɪfaɪ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "重新分类",
+      "en": "to put something into a different category",
+      "excerpt": "how they're trying to reclassify it at the Pentagon",
+      "example_cn": "五角大楼如何试图重新分类。"
+    },
+    {
+      "word": "ceasefire",
+      "phonetic": "/ˈsiːsfaɪər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "停火",
+      "en": "an agreement to stop fighting for a period of time",
+      "excerpt": "if the Trump administration had the ceasefire break down",
+      "example_cn": "如果特朗普政府的停火破裂。"
+    },
+    {
+      "word": "holistically",
+      "phonetic": "/hoʊˈlɪstɪkli/",
+      "pos": "adv.",
+      "level": "六级",
+      "cn": "整体地",
+      "en": "in a way that considers the whole of something rather than just parts",
+      "excerpt": "They just want to understand holistically how many people were hurt",
+      "example_cn": "他们只想整体了解有多少人受伤。"
+    },
+    {
+      "word": "stockpile",
+      "phonetic": "/ˈstɒkpaɪl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "储备物资",
+      "en": "a large supply of something that is kept for future use",
+      "excerpt": "questions about the stockpile that the U.S. military has",
+      "example_cn": "关于美军储备的问题。"
+    },
+    {
+      "word": "ration",
+      "phonetic": "/ˈræʃn/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "定量配给",
+      "en": "to limit the amount of something that someone is allowed to have",
+      "excerpt": "they're talking about rationing them",
+      "example_cn": "他们正在讨论定量配给。"
+    },
+    {
+      "word": "diplomatic",
+      "phonetic": "/ˌdɪpləˈmætɪk/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "外交的",
+      "en": "relating to the management of relations between countries",
+      "excerpt": "to allow diplomatic efforts to continue",
+      "example_cn": "允许外交努力继续。"
+    },
+    {
+      "word": "displace",
+      "phonetic": "/dɪsˈpleɪs/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "使流离失所",
+      "en": "to force people to leave their homes",
+      "excerpt": "Nearly 300,000 people have been displaced.",
+      "example_cn": "近30万人流离失所。"
+    },
+    {
+      "word": "ghost town",
+      "phonetic": "/ɡoʊst taʊn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "鬼城，废弃城镇",
+      "en": "a town that has been abandoned by its inhabitants",
+      "excerpt": "Several villages reduced to ash, ghost towns",
+      "example_cn": "几个村庄化为灰烬，成为鬼城。"
+    },
+    {
+      "word": "scorch",
+      "phonetic": "/skɔːrtʃ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "烧焦，烤焦",
+      "en": "to burn the surface of something with intense heat",
+      "excerpt": "wildfires scorched across Europe",
+      "example_cn": "野火在欧洲肆虐。"
+    },
+    {
+      "word": "heat dome",
+      "phonetic": "/hiːt doʊm/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "热穹顶",
+      "en": "a weather phenomenon where a high-pressure system traps hot air over an area",
+      "excerpt": "Millions of Americans baking under yet another dangerous heat dome.",
+      "example_cn": "数百万美国人再次在危险的热穹顶下炙烤。"
+    },
+    {
+      "word": "bake",
+      "phonetic": "/beɪk/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "炙烤，烘烤",
+      "en": "to become very hot",
+      "excerpt": "Millions of Americans baking under yet another dangerous heat dome.",
+      "example_cn": "数百万美国人再次在危险的热穹顶下炙烤。"
+    },
+    {
+      "word": "advance",
+      "phonetic": "/ədˈvæns/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "前进，推进",
+      "en": "to move forward",
+      "excerpt": "the advance of the flames",
+      "example_cn": "火焰的推进。"
+    },
+    {
+      "word": "aftermath",
+      "phonetic": "/ˈæftərmæθ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "后果，余波",
+      "en": "the situation that exists after a bad event",
+      "excerpt": "the aftermath of the flames",
+      "example_cn": "火焰过后的景象。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "This is where Pentagon bureaucracy meets the reality of families who are grieving.",
+      "cn": "这就是五角大楼的官僚机构与悲痛家庭现实相遇的地方。",
+      "structure": "主系表结构，where引导表语从句，who引导定语从句修饰families",
+      "analysis": "句子主干为This is where...，where引导的表语从句说明地点或情况，who引导的定语从句修饰families，说明这些家庭正在悲痛。"
+    },
+    {
+      "en": "The Trump administration telling Congress that Operation Epic Fury is over and new operation is now underway.",
+      "cn": "特朗普政府告诉国会，‘史诗之怒’行动已经结束，新的行动正在进行中。",
+      "structure": "主谓宾结构，现在分词短语作谓语，that引导宾语从句",
+      "analysis": "主语The Trump administration，谓语telling，间接宾语Congress，直接宾语为that引导的从句，从句中and连接两个并列句。"
+    },
+    {
+      "en": "These databases should really be reflecting reality, regardless of the political niceties of the War Powers Act or, you know, which operation you're in, whether it's Epic Fury or the follow on to Epic Fury or something else.",
+      "cn": "这些数据库应该真实反映现实，无论《战争权力法》的政治细节如何，或者，你知道，无论你处于哪个行动中，无论是‘史诗之怒’还是其后续行动或其他什么。",
+      "structure": "主谓宾结构，regardless of引导让步状语，whether...or...引导选择状语",
+      "analysis": "主干为These databases should be reflecting reality，regardless of...为让步状语，其中包含which引导的宾语从句和whether...or...结构。"
+    },
+    {
+      "en": "The fact that the Defense Department is classifying deaths, injuries in a different way, also looking to do Overseas Operation versus Operation Epic Fury, that has a really significant impact, Francesca.",
+      "cn": "国防部以不同方式分类死亡和受伤，还试图区分‘海外行动’和‘史诗之怒’行动，这一事实具有重大影响，弗朗西斯卡。",
+      "structure": "同位语从句，主语为The fact，that引导同位语从句，主句为that has a really significant impact",
+      "analysis": "The fact后接that引导的同位语从句，说明事实内容，主句为that has...，其中that指代前文事实。"
+    },
+    {
+      "en": "He said that it was 18 compared to some of these other wars that lasted years and had thousands of deaths.",
+      "cn": "他说，与那些持续数年、造成数千人死亡的其他战争相比，这个数字是18。",
+      "structure": "主谓宾结构，that引导宾语从句，compared to...作状语，that引导定语从句修饰wars",
+      "analysis": "主干He said that...，宾语从句中compared to...为比较状语，that lasted...为定语从句修饰wars。"
+    },
+    {
+      "en": "Now, as far as how they're trying to reclassify it at the Pentagon, you know, I was speaking to House Speaker Mike Johnson earlier in the month and he had also said that he thought that the 60-day clock on this would restart if the Trump administration had the ceasefire break down and then restart.",
+      "cn": "现在，至于五角大楼如何试图重新分类，你知道，我本月早些时候与众议院议长迈克·约翰逊交谈过，他也说过，他认为如果特朗普政府的停火破裂然后重新开始，这个60天时钟将重新启动。",
+      "structure": "复合句，as far as引导状语从句，主句为I was speaking...，and连接并列句，that引导宾语从句，if引导条件状语从句",
+      "analysis": "as far as...引导状语从句，主句为I was speaking...，and后he had said that...，that从句中包含that引导的宾语从句和if引导的条件状语从句。"
+    },
+    {
+      "en": "It also matters a lot for congressional funding because when you're asking Congress for money, one of the things that you have to consider, if you're a member is, do we need to give more funding to protect people's lives?",
+      "cn": "这对国会拨款也很重要，因为当你向国会要钱时，如果你是议员，你必须考虑的一件事是，我们是否需要提供更多资金来保护人们的生命？",
+      "structure": "主谓宾结构，because引导原因状语从句，when引导时间状语从句，that引导定语从句，if引导条件状语从句",
+      "analysis": "主干It matters...，because引导原因状语从句，从句中when引导时间状语，that引导定语从句修饰things，if引导条件状语。"
+    },
+    {
+      "en": "The administration doesn't really either have control over, you know, the production of these or the money, that's Congress' job.",
+      "cn": "政府实际上既无法控制这些武器的生产，也无法控制资金，那是国会的工作。",
+      "structure": "主谓宾结构，either...or...连接并列宾语，that's Congress' job为补充说明",
+      "analysis": "主语The administration，谓语doesn't have control over，宾语为either...or...连接的两个名词短语，后面that's...为独立分句。"
+    },
+    {
+      "en": "We were told to over the weekend, this is a pause, right, to allow diplomatic efforts to continue.",
+      "cn": "我们在周末被告知，这是一个暂停，对吧，以允许外交努力继续。",
+      "structure": "被动语态，主谓宾结构，不定式短语作目的状语",
+      "analysis": "主干We were told，to over the weekend为时间状语，this is a pause为直接引语，to allow...为目的状语。"
+    },
+    {
+      "en": "The United States is having to tap into some of the munitions that it has in other places.",
+      "cn": "美国不得不动用其在其他地方的一些弹药。",
+      "structure": "主谓宾结构，that引导定语从句修饰munitions",
+      "analysis": "主干The United States is having to tap into...，that引导定语从句修饰munitions，说明弹药所在位置。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "Seattle Food Festival Shooting",
+      "content": "2026年7月27日，西雅图美食节发生枪击事件，造成3人死亡、4人受伤，其中包括一名2岁儿童。两名枪手互相射击，一人被捕，一人在逃。警方呼吁目击者提供线索。",
+      "keywords": "Seattle, food festival, shooting, suspect, witness"
+    },
+    {
+      "title": "Pentagon Casualty Database Update",
+      "content": "五角大楼更新了‘史诗之怒’行动的伤亡数据库，受伤人数从482人增至600多人，死亡18人。此前曾删除4名阵亡士兵名字，后恢复但重新分类。此举引发对战争透明度的质疑。",
+      "keywords": "Pentagon, casualty, database, Iran war, transparency"
+    },
+    {
+      "title": "Wildfires in Europe",
+      "content": "欧洲多国遭遇野火，法国近30万人疏散，为二战后最大规模。西班牙超10万人疏散，马德里附近火势严峻。高温和干旱加剧火势，预计未来几天仍有热浪。",
+      "keywords": "wildfire, Europe, evacuation, France, Spain, heat wave"
+    },
+    {
+      "title": "US-Iran War and Weapon Stockpile",
+      "content": "美国对伊朗的军事行动持续，特朗普政府称‘史诗之怒’行动结束，新行动开始。美军武器库存紧张，国防承包商加速生产，但供应仍不足。国会要求更多资金。",
+      "keywords": "Iran, war, stockpile, munitions, Pentagon, Congress"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nThree Dead, Several Injured In Shooting At Seattle Food Festival; Pentagon Updates Casualty Database to 600 Plus Wounded, 18 Killed; 300,000 Plus People Evacuated Amid Wildfires In France. Aired 6-6:30a ET\n\nAired July 27, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nERICA HILL, CNN ANCHOR: Breaking news overnight. A family event turning tragic after shooting leaves three people dead at a food festival in Seattle.\n\nUNIDENTIFIED MALE: I saw families, kids, everyone just like running out of the -- out of the fair.\n\nHILL: More than 300,000 people forced to evacuate as wildfires scorched across Europe. Why officials say the crisis there is far from over.\n\nCOL. CEDRIC LEIGHTON (RET.), CNN MILITARY ANALYST: This is where Pentagon bureaucracy meets the reality of -- of families who are grieving.\n\nHILL: The human cost of the war in Iran increasing as the Pentagon revises the number of injured. Are Americans getting the full picture of this war?\n\nRahm Emanuel says progressives could cost Democrats the midterms. Bernie Sanders says, they're the party's future. So, who's right?\n\nUNIDENTIFIED MALE: (INAUDIBLE). I see all of them. Oh, my God. I think I got it here.\n\nHILL: Terrifying moments in downtown Seattle at an iconic food festival as it turns into a crime scene. This morning, one suspect is on the run, the other in custody.\n\nGood morning, everyone. I'm Erica Hill in for Audie Cornish.\n\nWe do begin with an update from police. We can tell you three people are dead, four others injured, among them a two-year-old child. This after two gunmen open fire at the annual Bite of Seattle Festival.\n\nUNIDENTIFIED MALE: I was about 20 feet or less maybe from the -- one of the people whose shot. And I couldn't really clearly see what's on, but I ran toward the gunfire and there was a, I would say at least two dozen shots.\n\nUNIDENTIFIED MALE: I saw families, kids, everyone just like running out of the -- out of the fair. And he had told me, like, just run, just run. Active shooter. Someone was yelling active shooter. I jumped the fence quickly and I ran.\n\nHILL: This morning, the search is on for a suspect authorities say fled the scene. One person has been arrested. Now, police believe the two suspects may have actually been targeting each other.\n\nASSISTANT CHIEF TYRONE DAVIS: Right now, we believe that we have no outstanding threat to the community. We do have one suspect that is being interviewed.\n\nWe believe there is one outstanding. That is part of our investigation.\n\nUNIDENTIFIED MALE: So, this was a shootout in Bite of Seattle?\n\nDAVIS: There were two people who we believe were shooting at each other.\n\nHILL: Joining me now is retired NYPD officer, Jillian Snider. Jillian, it's good to have you with us.\n\nWhen we look at where things stand this morning, it does not appear, based on what we know, that the festival itself was a target. We know that one suspect, we're told, is still on the loose there. Where would your focus be this morning both in terms of that suspect but also the investigation?\n\nJILLIAN SNIDER, RETIRED NYPD OFFICER: Good morning, Erica. So, what I would do or any investigator will do is they do have one suspect in custody, and that any information that they could get from that suspect is going to be critical.\n\nAdditionally, talking to witnesses that were there. We've already seen a few segments where people that were participating in the festival have come forward. But what's really going to be important is trying to get any available surveillance in that area to try and piece this together as we saw police have already kind of confirmed that it looks like it wasn't targeted at the festival itself. It may have been two individuals targeting one another.\n\nSo, not to minimize the situation but it doesn't seem like the festival itself was the target which is always really important for establishing motive.\n\nHILL: Yes, absolutely. And to -- and to be able to say to the community which we heard, of course, not long after that they didn't believe there was an additional threat to the community directly.\n\nYou talked about the importance of witnesses. The -- the assistant police chief actually really pleading for witnesses to come forward. I want to play a little bit of what he had to say.\n\nDAVIS: We have witnesses. There are witnesses. They're not coming forward. We need people to be brave to reach out to us. You can do so anonymously. We know that we have people who probably have evidence or have information that they can share with us.\n\nHILL: You hear the assistant chief there saying, asking people to be brave to come forward. Based on what we know about this shooting, do you believe that this could be an incident where people are perhaps fearful for some reason to come forward?\n\nSNIDER: Honestly, I don't think it's that people are fearful to come forward, because again this seemed to be two individuals targeting one another.\n\nWe have two issues here. We have a fractured relationship between community members and police and that's not isolated to Seattle. That's kind of nationwide right now.\n\nSecondary, we have a behavioral understanding that people assume the other person is going to talk to police. I don't have to do it because someone else will do it. And that's not uncommon. That's actually very, very common in situations like this where a lot of people saw something, but they just assume another person or another bystander will talk to police and that they don't have to get involved.\n\nIt's more that an individual doesn't want to get consumed into a police investigation, having to be a potential witness, having to put their name on paper, having to potentially go to court one day. So, it's -- it's that really.\n\nBut what the assistant chief was saying is -- is really important because in a situation like this, witness statements and surveillance, other than suspect information, witnesses are key and vital to ongoing investigations like this.\n\nHILL: Yes, absolutely. And we'll be watching for any developments, of course, throughout the day, as they continue to look for that one other suspect. Jillian, appreciate it. Thank you.\n\nSNIDER: Thank you, Erica.\n\nHILL: Ahead here on \"CNN This Morning,\" an update to the casualty count now for the war with Iran. Why the Pentagon's new math is raising new questions.\n\nAnd a bit later, Mayor Mamdani called him a war criminal. Now, Benjamin Netanyahu is firing back.\n\nMIKE WALTZ, UNITED STATES AMBASSADOR TO THE UNITED NATIONS:What the president is doing right now, as we've seen all along, is giving some talks, some space. Talks are ongoing. They're happening at every level.\n\nHILL: After two straight weeks of bombing Iran, the Trump administration taking a pause, but also warning every option to hit Iran is still on the table.\n\nNow, meantime, the full cost of this war is becoming clear. Over the weekend, the Pentagon quietly updated the total injuries and casualties since the start of Operation Epic Fury.\n\nAn online Defense Department database now lists more than 600 wounded. That's up from 482 just last week. It also lists the total number of troops killed as 18. This coming on the heels of outrage, frankly, over the Pentagon removing four names from the war's official death toll. The deaths of those service members have been reinstated but in a new category.\n\nThe Trump administration telling Congress that Operation Epic Fury is over and new operation is now underway.\n\nLEIGHTON: These databases should really be reflecting reality, regardless of the political niceties of the War Powers Act or, you know, which operation you're in, whether it's Epic Fury or the follow on to Epic Fury or something else.\n\nThe key thing is that these databases be accurate and that they reflect the true nature of the cost of war.\n\nJoining me now in the Group Chat, Sara Fischer, CNN senior media analyst and senior media reporter at \"Axios.\" Laura Davison, Washington deputy bureau chief at Bloomberg News. And Francesca Chambers, White House correspondent at \"USA Today.\"\n\nThe fact that the Defense Department is classifying deaths, injuries in a different way, also looking to do Overseas Operation versus Operation Epic Fury. That has a really significant impact, Francesca.\n\nFRANCESCA CHAMBERS, WHITE HOUSE CORRESPONDENT, USA TODAY: And this also comes after President Trump himself said that the number was 18 last week, while he was justifying the ongoing war in Iran and -- and defending it, especially after the House had just taken that vote to say that the operations should not continue in Iran.\n\nHe said that it was 18 compared to some of these other wars that lasted years and had thousands of deaths. So, you know, just putting that out there as an acknowledgement from the president himself of what the death toll in this war has been.\n\nNow, as far as how they're trying to reclassify it at the Pentagon, you know, I was speaking to House Speaker Mike Johnson earlier in the month and he -- or at the end of last month, you know, and he had also said that -- that -- that he thought that the 60-day clock on this would restart if the Trump administration had the ceasefire break down and then restart. That seems to be the -- the argument that the Trump administration is trying to make now, which is that this is a new conflict. Clocks restarted on this congressional approval timeframe.\n\nHILL: It is fascinating, though, to watch the -- the back and forth here. I mean, this is right and certainly the backlash that we saw. This is all entirely of the administration are making, message-wise.\n\nSARA FISCHER, CNN SENIOR MEDIA ANALYST: Yes. And it's part of a larger communications failure around the war. It's not just deaths. It's also how and when does this ceasefire actually start, when does it conclude.\n\nI think that the American people are not naive. They look at this conflict in its totality, which is it didn't have to be a war of it our making. It was a war by choice, as the Democrats are saying. And they don't really care whether or not a death occurred in one part of the war or after a ceasefire.\n\nThey just want to understand holistically how many people were hurt, how many people were killed.\n\nIt also matters a lot for congressional funding. Because when you're asking Congress for money, one of the things that you have to consider, if you're a member is, do we need to give more funding to protect people's lives?\n\nWell, if you don't have a real accurate sense of how many people's lives are being impacted, how do you make those decisions?\n\nAnd so this is a crisis of confidence in terms of not just how much we are reporting, but also how we're communicating it. I don't think the American people are buying necessarily this reclassification of the numbers.\n\nHILL: Any administration that likes to build itself is the most transparent, right, in history and you're dealing with the Pentagon that is not frankly transparent and is not as forthcoming with information and in making themselves as available.\n\nThere have also been -- there has also been reporting about some pushback from Vice President Vance, as well as General Caine. And questions about the stockpile that the U.S. military has. And Mike Waltz addressed some of that over the weekend. I just want to play what he have to say.\n\nWALTZ: We don't have that. But -- but so -- so Mike Waltz, the U.S. ambassador to the U.N., was asked specifically about the low stockpiles. One of the things that he noted, I'm paraphrasing here was that part of the reason the stockpiles were so low was because of the Ukraine war, because of decisions made under President Biden's administration.\n\nYou know, and speaking with military officials, it's not really that -- that simple. The fact though that the stockpiles are being questioned, how does that add to complications for this administration, when there are questions about just how prepared and for how long the U.S. could be involved?\n\nLAURA DAVISON, WASHINGTON DEPUTY BUREAU CHIEF, BLOOMBERG NEWS: This really just shows how few options the administration has at this moment. This is kind of a classic supply and demand problem of there aren't enough missiles that can be resupplied. The defense contractors have been to the White House multiple times. Trump has really been hurrying them to produce faster, but there's lots of regulations. They have to be produced domestically. They just can't keep up with the -- the speed at which they're being used.\n\nSecondly, the Pentagon is also needing more money. You know, you've seen Hegseth up on the Hill, asking for $70 billion more to fund this war.\n\nThe administration doesn't really either have control over, you know, the production of these or the -- the -- the money, that -- that's Congress' job. All they can do is control how quickly they're using them.\n\nSo, we're seeing now, you know, that at least there -- there are reports that they're talking about rationing them to, you know, be able to, you know, have a war that was supposed to last four to six weeks. Now, we're in that four to six months range. And who really knows where this ends?\n\nHILL: We were told to over the -- over the weekend, this is a pause, right, to allow diplomatic efforts to continue.\n\nIs there a sense that there's any change in those diplomatic efforts? Any change in the part of the United States or even Iran on what is potentially being offered?\n\nCHAMBERS: I mean, we've seen this repeatedly, right, that the -- the negotiations are on, the negotiations are off, then the U.S. was, you know, was bombing for nearly two straight weeks every single night, trying to force Iran to get back to the table.\n\nSo, it's -- it's very difficult to say at this point where these talks, you know, stand and how much longer we expect the war to go on.\n\nOn the munitions stockpiles, though, I just want to add, that, you know, allies around the world are -- are concerned, I think, about the munitions levels in case of another potential conflict breaking out somewhere else.\n\nThe United States is, you know, having to tap into some of the munitions that it has in other places. You've got countries like Ukraine where it isn't being given stockpiles from the U.S. anymore. It is buying those through NATO, but asking to co-produce missiles and weapons with the United States now, just saying, let us produce them at this point. We can do it just as quickly. And so this is part of a broader argument about readiness around the world for conflicts.\n\nStill ahead here after the break on \"CNN This Morning,\" we are going to take a closer look at those wildfires forcing mass evacuations across Europe, some of the largest evacuations since World War II, hot weather moving in to the region for this week, making those conditions for crews all the more complicated.\n\nAlso, what Trump's border czar is now admitting about the ICE officer connected to a deadly shooting in Maine.\n\nHILL: Wildfires raging across Europe, scorching thousands of acres, forcing mass evacuations in France. Nearly 300,000 people have been displaced. It is the country's largest displacement since World War II.\n\nSeveral villages reduced to ash, ghost towns, firefighters facing challenging conditions with rising temperatures, more hot weather on the forecast for those fire zones, and no rain on the horizon. France itself has already recorded more than 300 wildfires this year.\n\nAnd the situation, fairly similar in Spain. Wildfires also raging there. Temperatures expected to hover around 100 degrees Fahrenheit for the next few days.\n\nIn Spain, more than 100,000 people have been evacuated. Nearly 30,000 of them from Madrid alone. Firefighters are really focused on the city, on these individual fires that are burning around Madrid, and they're trying to keep them from merging. This morning, officials say those flames are advancing more slowly, but they are still active and uncontrolled. We do know at least one person has died. That death connected now to the wildfires.\n\nAnd there are more wildfires than normal this summer. If you think that's what it seems like, you're right. All of this really related to climate change. We had an abnormally wet winter, record hot summer, really dry fueling these flames.\n\nCNN international correspondent Pau Mosquera joining us now from just outside Madrid.\n\nThis is such a battle for firefighters. Where do things stand right now on the ground, Pau?\n\nPAU MOSQUERA, CNN INTERNATIONAL CORRESPONDENT: Well, we know, Erica, that overnight, firefighters have been working nonstop to try to control the different fires that are now devastating the region of Madrid.\n\nActually, we are in Navas del Rey. This is the closest that could -- we could get to one of the active fire fronts that are now burning in the region. And you can see the presence of the fire because of the tower of smoke that is behind me.\n\nHave a look here. Twenty kilometers far from the area where right now the fire is burning. You can see the presence of this thick column of smoke that is marking the place where right now all the devastation is happening.\n\nAnd I can tell you, Erica, that we are constantly hearing and seeing planes and helicopters flying overhead as they are going to San Juan Reservoir, which is just a few meters from where we are to get some water and drop on the top of the flames in that area that we are showing here.\n\nBut it's important to say, Erica, that this place, Navas del Rey, was already affected for the blaze a few days ago. You can see actually the aftermath of the flames here. The ground looks completely black.\n\nAnd actually some houses in the area, in the region, were completely damaged because the advance of the flames.\n\nRight now, the authority say today, Monday, it's going to be quite a complicated day because they are expecting wind gusts of up to 30 kilometers per hour, which should and may complicate things a little bit.\n\nAnd as you were saying, also, we're expecting from Wednesday and on another heat wave here in Spain. So, the temperatures, again, are going to climb, Erica.\n\nHILL: Absolutely. Not ideal conditions to put it mildly. Pau, appreciate it. Thank you. Straight ahead here on \"CNN This Morning,\" we'll take a closer look at the extreme weather here at home. Millions of Americans baking under yet another dangerous heat dome.\n\nPlus, after weeks of war with Iran, concerns are mounting as we were discussing over the weapon supply.",
+  "segments": [
+    {
+      "seg": 1,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-27/segment/01",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nThree Dead, Several Injured In Shooting At Seattle Food Festival; Pentagon Updates Casualty Database to 600 Plus Wounded, 18 Killed; 300,000 Plus People Evacuated Amid Wildfires In France. Aired 6-6:30a ET\n\nAired July 27, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nERICA HILL, CNN ANCHOR: Breaking news overnight. A family event turning tragic after shooting leaves three people dead at a food festival in Seattle.\n\nUNIDENTIFIED MALE: I saw families, kids, everyone just like running out of the -- out of the fair.\n\nHILL: More than 300,000 people forced to evacuate as wildfires scorched across Europe. Why officials say the crisis there is far from over.\n\nCOL. CEDRIC LEIGHTON (RET.), CNN MILITARY ANALYST: This is where Pentagon bureaucracy meets the reality of -- of families who are grieving.\n\nHILL: The human cost of the war in Iran increasing as the Pentagon revises the number of injured. Are Americans getting the full picture of this war?\n\nRahm Emanuel says progressives could cost Democrats the midterms. Bernie Sanders says, they're the party's future. So, who's right?\n\nUNIDENTIFIED MALE: (INAUDIBLE). I see all of them. Oh, my God. I think I got it here.\n\nHILL: Terrifying moments in downtown Seattle at an iconic food festival as it turns into a crime scene. This morning, one suspect is on the run, the other in custody.\n\nGood morning, everyone. I'm Erica Hill in for Audie Cornish.\n\nWe do begin with an update from police. We can tell you three people are dead, four others injured, among them a two-year-old child. This after two gunmen open fire at the annual Bite of Seattle Festival.\n\nUNIDENTIFIED MALE: I was about 20 feet or less maybe from the -- one of the people whose shot. And I couldn't really clearly see what's on, but I ran toward the gunfire and there was a, I would say at least two dozen shots.\n\nUNIDENTIFIED MALE: I saw families, kids, everyone just like running out of the -- out of the fair. And he had told me, like, just run, just run. Active shooter. Someone was yelling active shooter. I jumped the fence quickly and I ran.\n\nHILL: This morning, the search is on for a suspect authorities say fled the scene. One person has been arrested. Now, police believe the two suspects may have actually been targeting each other.\n\nASSISTANT CHIEF TYRONE DAVIS: Right now, we believe that we have no outstanding threat to the community. We do have one suspect that is being interviewed.\n\nWe believe there is one outstanding. That is part of our investigation.\n\nUNIDENTIFIED MALE: So, this was a shootout in Bite of Seattle?\n\nDAVIS: There were two people who we believe were shooting at each other.\n\nHILL: Joining me now is retired NYPD officer, Jillian Snider. Jillian, it's good to have you with us.\n\nWhen we look at where things stand this morning, it does not appear, based on what we know, that the festival itself was a target. We know that one suspect, we're told, is still on the loose there. Where would your focus be this morning both in terms of that suspect but also the investigation?\n\nJILLIAN SNIDER, RETIRED NYPD OFFICER: Good morning, Erica. So, what I would do or any investigator will do is they do have one suspect in custody, and that any information that they could get from that suspect is going to be critical.\n\nAdditionally, talking to witnesses that were there. We've already seen a few segments where people that were participating in the festival have come forward. But what's really going to be important is trying to get any available surveillance in that area to try and piece this together as we saw police have already kind of confirmed that it looks like it wasn't targeted at the festival itself. It may have been two individuals targeting one another.\n\nSo, not to minimize the situation but it doesn't seem like the festival itself was the target which is always really important for establishing motive.\n\nHILL: Yes, absolutely. And to -- and to be able to say to the community which we heard, of course, not long after that they didn't believe there was an additional threat to the community directly.\n\nYou talked about the importance of witnesses. The -- the assistant police chief actually really pleading for witnesses to come forward. I want to play a little bit of what he had to say.\n\nDAVIS: We have witnesses. There are witnesses. They're not coming forward. We need people to be brave to reach out to us. You can do so anonymously. We know that we have people who probably have evidence or have information that they can share with us.\n\nHILL: You hear the assistant chief there saying, asking people to be brave to come forward. Based on what we know about this shooting, do you believe that this could be an incident where people are perhaps fearful for some reason to come forward?\n\nSNIDER: Honestly, I don't think it's that people are fearful to come forward, because again this seemed to be two individuals targeting one another.\n\nWe have two issues here. We have a fractured relationship between community members and police and that's not isolated to Seattle. That's kind of nationwide right now.\n\nSecondary, we have a behavioral understanding that people assume the other person is going to talk to police. I don't have to do it because someone else will do it. And that's not uncommon. That's actually very, very common in situations like this where a lot of people saw something, but they just assume another person or another bystander will talk to police and that they don't have to get involved.\n\nIt's more that an individual doesn't want to get consumed into a police investigation, having to be a potential witness, having to put their name on paper, having to potentially go to court one day. So, it's -- it's that really.\n\nBut what the assistant chief was saying is -- is really important because in a situation like this, witness statements and surveillance, other than suspect information, witnesses are key and vital to ongoing investigations like this.\n\nHILL: Yes, absolutely. And we'll be watching for any developments, of course, throughout the day, as they continue to look for that one other suspect. Jillian, appreciate it. Thank you.\n\nSNIDER: Thank you, Erica.\n\nHILL: Ahead here on \"CNN This Morning,\" an update to the casualty count now for the war with Iran. Why the Pentagon's new math is raising new questions.\n\nAnd a bit later, Mayor Mamdani called him a war criminal. Now, Benjamin Netanyahu is firing back.\n\nMIKE WALTZ, UNITED STATES AMBASSADOR TO THE UNITED NATIONS:What the president is doing right now, as we've seen all along, is giving some talks, some space. Talks are ongoing. They're happening at every level.\n\nHILL: After two straight weeks of bombing Iran, the Trump administration taking a pause, but also warning every option to hit Iran is still on the table.\n\nNow, meantime, the full cost of this war is becoming clear. Over the weekend, the Pentagon quietly updated the total injuries and casualties since the start of Operation Epic Fury.\n\nAn online Defense Department database now lists more than 600 wounded. That's up from 482 just last week. It also lists the total number of troops killed as 18. This coming on the heels of outrage, frankly, over the Pentagon removing four names from the war's official death toll. The deaths of those service members have been reinstated but in a new category.\n\nThe Trump administration telling Congress that Operation Epic Fury is over and new operation is now underway.\n\nLEIGHTON: These databases should really be reflecting reality, regardless of the political niceties of the War Powers Act or, you know, which operation you're in, whether it's Epic Fury or the follow on to Epic Fury or something else.\n\nThe key thing is that these databases be accurate and that they reflect the true nature of the cost of war.\n\nJoining me now in the Group Chat, Sara Fischer, CNN senior media analyst and senior media reporter at \"Axios.\" Laura Davison, Washington deputy bureau chief at Bloomberg News. And Francesca Chambers, White House correspondent at \"USA Today.\"\n\nThe fact that the Defense Department is classifying deaths, injuries in a different way, also looking to do Overseas Operation versus Operation Epic Fury. That has a really significant impact, Francesca.\n\nFRANCESCA CHAMBERS, WHITE HOUSE CORRESPONDENT, USA TODAY: And this also comes after President Trump himself said that the number was 18 last week, while he was justifying the ongoing war in Iran and -- and defending it, especially after the House had just taken that vote to say that the operations should not continue in Iran.\n\nHe said that it was 18 compared to some of these other wars that lasted years and had thousands of deaths. So, you know, just putting that out there as an acknowledgement from the president himself of what the death toll in this war has been.\n\nNow, as far as how they're trying to reclassify it at the Pentagon, you know, I was speaking to House Speaker Mike Johnson earlier in the month and he -- or at the end of last month, you know, and he had also said that -- that -- that he thought that the 60-day clock on this would restart if the Trump administration had the ceasefire break down and then restart. That seems to be the -- the argument that the Trump administration is trying to make now, which is that this is a new conflict. Clocks restarted on this congressional approval timeframe.\n\nHILL: It is fascinating, though, to watch the -- the back and forth here. I mean, this is right and certainly the backlash that we saw. This is all entirely of the administration are making, message-wise.\n\nSARA FISCHER, CNN SENIOR MEDIA ANALYST: Yes. And it's part of a larger communications failure around the war. It's not just deaths. It's also how and when does this ceasefire actually start, when does it conclude.\n\nI think that the American people are not naive. They look at this conflict in its totality, which is it didn't have to be a war of it our making. It was a war by choice, as the Democrats are saying. And they don't really care whether or not a death occurred in one part of the war or after a ceasefire.\n\nThey just want to understand holistically how many people were hurt, how many people were killed.\n\nIt also matters a lot for congressional funding. Because when you're asking Congress for money, one of the things that you have to consider, if you're a member is, do we need to give more funding to protect people's lives?\n\nWell, if you don't have a real accurate sense of how many people's lives are being impacted, how do you make those decisions?\n\nAnd so this is a crisis of confidence in terms of not just how much we are reporting, but also how we're communicating it. I don't think the American people are buying necessarily this reclassification of the numbers.\n\nHILL: Any administration that likes to build itself is the most transparent, right, in history and you're dealing with the Pentagon that is not frankly transparent and is not as forthcoming with information and in making themselves as available.\n\nThere have also been -- there has also been reporting about some pushback from Vice President Vance, as well as General Caine. And questions about the stockpile that the U.S. military has. And Mike Waltz addressed some of that over the weekend. I just want to play what he have to say.\n\nWALTZ: We don't have that. But -- but so -- so Mike Waltz, the U.S. ambassador to the U.N., was asked specifically about the low stockpiles. One of the things that he noted, I'm paraphrasing here was that part of the reason the stockpiles were so low was because of the Ukraine war, because of decisions made under President Biden's administration.\n\nYou know, and speaking with military officials, it's not really that -- that simple. The fact though that the stockpiles are being questioned, how does that add to complications for this administration, when there are questions about just how prepared and for how long the U.S. could be involved?\n\nLAURA DAVISON, WASHINGTON DEPUTY BUREAU CHIEF, BLOOMBERG NEWS: This really just shows how few options the administration has at this moment. This is kind of a classic supply and demand problem of there aren't enough missiles that can be resupplied. The defense contractors have been to the White House multiple times. Trump has really been hurrying them to produce faster, but there's lots of regulations. They have to be produced domestically. They just can't keep up with the -- the speed at which they're being used.\n\nSecondly, the Pentagon is also needing more money. You know, you've seen Hegseth up on the Hill, asking for $70 billion more to fund this war.\n\nThe administration doesn't really either have control over, you know, the production of these or the -- the -- the money, that -- that's Congress' job. All they can do is control how quickly they're using them.\n\nSo, we're seeing now, you know, that at least there -- there are reports that they're talking about rationing them to, you know, be able to, you know, have a war that was supposed to last four to six weeks. Now, we're in that four to six months range. And who really knows where this ends?\n\nHILL: We were told to over the -- over the weekend, this is a pause, right, to allow diplomatic efforts to continue.\n\nIs there a sense that there's any change in those diplomatic efforts? Any change in the part of the United States or even Iran on what is potentially being offered?\n\nCHAMBERS: I mean, we've seen this repeatedly, right, that the -- the negotiations are on, the negotiations are off, then the U.S. was, you know, was bombing for nearly two straight weeks every single night, trying to force Iran to get back to the table.\n\nSo, it's -- it's very difficult to say at this point where these talks, you know, stand and how much longer we expect the war to go on.\n\nOn the munitions stockpiles, though, I just want to add, that, you know, allies around the world are -- are concerned, I think, about the munitions levels in case of another potential conflict breaking out somewhere else.\n\nThe United States is, you know, having to tap into some of the munitions that it has in other places. You've got countries like Ukraine where it isn't being given stockpiles from the U.S. anymore. It is buying those through NATO, but asking to co-produce missiles and weapons with the United States now, just saying, let us produce them at this point. We can do it just as quickly. And so this is part of a broader argument about readiness around the world for conflicts.\n\nStill ahead here after the break on \"CNN This Morning,\" we are going to take a closer look at those wildfires forcing mass evacuations across Europe, some of the largest evacuations since World War II, hot weather moving in to the region for this week, making those conditions for crews all the more complicated.\n\nAlso, what Trump's border czar is now admitting about the ICE officer connected to a deadly shooting in Maine.\n\nHILL: Wildfires raging across Europe, scorching thousands of acres, forcing mass evacuations in France. Nearly 300,000 people have been displaced. It is the country's largest displacement since World War II.\n\nSeveral villages reduced to ash, ghost towns, firefighters facing challenging conditions with rising temperatures, more hot weather on the forecast for those fire zones, and no rain on the horizon. France itself has already recorded more than 300 wildfires this year.\n\nAnd the situation, fairly similar in Spain. Wildfires also raging there. Temperatures expected to hover around 100 degrees Fahrenheit for the next few days.\n\nIn Spain, more than 100,000 people have been evacuated. Nearly 30,000 of them from Madrid alone. Firefighters are really focused on the city, on these individual fires that are burning around Madrid, and they're trying to keep them from merging. This morning, officials say those flames are advancing more slowly, but they are still active and uncontrolled. We do know at least one person has died. That death connected now to the wildfires.\n\nAnd there are more wildfires than normal this summer. If you think that's what it seems like, you're right. All of this really related to climate change. We had an abnormally wet winter, record hot summer, really dry fueling these flames.\n\nCNN international correspondent Pau Mosquera joining us now from just outside Madrid.\n\nThis is such a battle for firefighters. Where do things stand right now on the ground, Pau?\n\nPAU MOSQUERA, CNN INTERNATIONAL CORRESPONDENT: Well, we know, Erica, that overnight, firefighters have been working nonstop to try to control the different fires that are now devastating the region of Madrid.\n\nActually, we are in Navas del Rey. This is the closest that could -- we could get to one of the active fire fronts that are now burning in the region. And you can see the presence of the fire because of the tower of smoke that is behind me.\n\nHave a look here. Twenty kilometers far from the area where right now the fire is burning. You can see the presence of this thick column of smoke that is marking the place where right now all the devastation is happening.\n\nAnd I can tell you, Erica, that we are constantly hearing and seeing planes and helicopters flying overhead as they are going to San Juan Reservoir, which is just a few meters from where we are to get some water and drop on the top of the flames in that area that we are showing here.\n\nBut it's important to say, Erica, that this place, Navas del Rey, was already affected for the blaze a few days ago. You can see actually the aftermath of the flames here. The ground looks completely black.\n\nAnd actually some houses in the area, in the region, were completely damaged because the advance of the flames.\n\nRight now, the authority say today, Monday, it's going to be quite a complicated day because they are expecting wind gusts of up to 30 kilometers per hour, which should and may complicate things a little bit.\n\nAnd as you were saying, also, we're expecting from Wednesday and on another heat wave here in Spain. So, the temperatures, again, are going to climb, Erica.\n\nHILL: Absolutely. Not ideal conditions to put it mildly. Pau, appreciate it. Thank you. Straight ahead here on \"CNN This Morning,\" we'll take a closer look at the extreme weather here at home. Millions of Americans baking under yet another dangerous heat dome.\n\nPlus, after weeks of war with Iran, concerns are mounting as we were discussing over the weapon supply."
+    }
+  ]
+}
