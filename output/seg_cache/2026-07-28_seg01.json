@@ -1,0 +1,509 @@
+{
+  "date": "2026-07-28",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-28/segment/01",
+  "vocabulary": [
+    {
+      "word": "strain",
+      "phonetic": "/streɪn/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "压力，紧张",
+      "en": "a state of tension or pressure",
+      "excerpt": "the war in Iran putting a strain on one of the world's closest alliances",
+      "example_cn": "战争给最亲密的联盟带来了压力。"
+    },
+    {
+      "word": "reveal",
+      "phonetic": "/rɪˈviːl/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "揭示，透露",
+      "en": "to make known",
+      "excerpt": "just what will it reveal?",
+      "example_cn": "它会揭示什么？"
+    },
+    {
+      "word": "hold off",
+      "phonetic": "/hoʊld ɒf/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "推迟，拖延",
+      "en": "to delay or postpone",
+      "excerpt": "how long to hold off on strikes?",
+      "example_cn": "要推迟多久才发动打击？"
+    },
+    {
+      "word": "scramble",
+      "phonetic": "/ˈskræmbl/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "争抢，匆忙行动",
+      "en": "to move quickly and urgently",
+      "excerpt": "Crews now scrambling just to contain the flames.",
+      "example_cn": "消防队员正争分夺秒控制火势。"
+    },
+    {
+      "word": "contain",
+      "phonetic": "/kənˈteɪn/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "控制，遏制",
+      "en": "to keep within limits",
+      "excerpt": "Crews now scrambling just to contain the flames.",
+      "example_cn": "控制火势。"
+    },
+    {
+      "word": "settle",
+      "phonetic": "/ˈsetl/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "解决，平息",
+      "en": "to resolve or bring to an end",
+      "excerpt": "does this do anything to settle the demand for real answers about his health?",
+      "example_cn": "这能平息对他健康状况的质疑吗？"
+    },
+    {
+      "word": "high-stakes",
+      "phonetic": "/haɪ steɪks/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "高风险的",
+      "en": "involving serious risks or important consequences",
+      "excerpt": "Today, two high-stakes meetings",
+      "example_cn": "今天有两场高风险会议。"
+    },
+    {
+      "word": "balance",
+      "phonetic": "/ˈbæləns/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "平衡",
+      "en": "to keep in a state of equilibrium",
+      "excerpt": "just how will President Trump balance Zelenskyy's push for peace with Netanyahu's push for war?",
+      "example_cn": "特朗普总统将如何平衡泽连斯基的和平诉求与内塔尼亚胡的战争诉求？"
+    },
+    {
+      "word": "ally",
+      "phonetic": "/ˈælaɪ/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "盟友",
+      "en": "a person or country that cooperates with another",
+      "excerpt": "the funeral of their key ally, Senator Lindsey Graham",
+      "example_cn": "他们的关键盟友林赛·格雷厄姆参议员的葬礼。"
+    },
+    {
+      "word": "secure",
+      "phonetic": "/sɪˈkjʊr/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "获得，确保",
+      "en": "to obtain or guarantee",
+      "excerpt": "Zelenskyy is hoping to secure anti-ballistic defense",
+      "example_cn": "泽连斯基希望获得反弹道导弹防御系统。"
+    },
+    {
+      "word": "cooperation",
+      "phonetic": "/koʊˌɑːpəˈreɪʃn/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "合作",
+      "en": "the process of working together",
+      "excerpt": "strategic cooperation in the war with Russia",
+      "example_cn": "与俄罗斯战争中的战略合作。"
+    },
+    {
+      "word": "sanctions",
+      "phonetic": "/ˈsæŋkʃnz/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "制裁",
+      "en": "penalties imposed on a country",
+      "excerpt": "new Russian sanctions",
+      "example_cn": "新的对俄制裁。"
+    },
+    {
+      "word": "escalate",
+      "phonetic": "/ˈeskəleɪt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "升级，加剧",
+      "en": "to increase in intensity",
+      "excerpt": "Does he escalate the war, as Netanyahu wants, or talk things out?",
+      "example_cn": "他是按内塔尼亚胡的意愿升级战争，还是通过谈判解决？"
+    },
+    {
+      "word": "safeguard",
+      "phonetic": "/ˈseɪfɡɑːrd/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "保护，捍卫",
+      "en": "to protect from harm",
+      "excerpt": "our goal is to safeguard our security",
+      "example_cn": "我们的目标是保护我们的安全。"
+    },
+    {
+      "word": "expand",
+      "phonetic": "/ɪkˈspænd/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "扩大",
+      "en": "to increase in size or scope",
+      "excerpt": "expanding the circle of peace around us",
+      "example_cn": "扩大我们周围的和平圈。"
+    },
+    {
+      "word": "strain",
+      "phonetic": "/streɪn/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "紧张关系",
+      "en": "a state of tension",
+      "excerpt": "a little bit of a strain on this relationship",
+      "example_cn": "关系有些紧张。"
+    },
+    {
+      "word": "ceasefire",
+      "phonetic": "/ˈsiːsfaɪər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "停火",
+      "en": "a temporary suspension of fighting",
+      "excerpt": "ended the ceasefire agreement",
+      "example_cn": "结束了停火协议。"
+    },
+    {
+      "word": "resume",
+      "phonetic": "/rɪˈzuːm/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "重新开始",
+      "en": "to begin again",
+      "excerpt": "bombing in Iran has resumed",
+      "example_cn": "对伊朗的轰炸已经恢复。"
+    },
+    {
+      "word": "muscular",
+      "phonetic": "/ˈmʌskjələr/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "强有力的",
+      "en": "forceful and aggressive",
+      "excerpt": "have that muscular attack in Iran",
+      "example_cn": "对伊朗进行强有力的攻击。"
+    },
+    {
+      "word": "diplomatic",
+      "phonetic": "/ˌdɪpləˈmætɪk/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "外交的",
+      "en": "relating to diplomacy",
+      "excerpt": "a more diplomatic solution",
+      "example_cn": "更外交的解决方案。"
+    },
+    {
+      "word": "elusive",
+      "phonetic": "/ɪˈluːsɪv/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "难以实现的",
+      "en": "difficult to achieve",
+      "excerpt": "which has been, to this point, elusive",
+      "example_cn": "到目前为止，这还难以实现。"
+    },
+    {
+      "word": "anxiety",
+      "phonetic": "/æŋˈzaɪəti/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "焦虑",
+      "en": "a feeling of worry",
+      "excerpt": "there's an anxiety at the White House",
+      "example_cn": "白宫存在焦虑。"
+    },
+    {
+      "word": "tension",
+      "phonetic": "/ˈtenʃn/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "紧张",
+      "en": "a state of mental or emotional strain",
+      "excerpt": "the tension with Netanyahu",
+      "example_cn": "与内塔尼亚胡的紧张关系。"
+    },
+    {
+      "word": "midterms",
+      "phonetic": "/ˈmɪdtɜːrmz/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "中期选举",
+      "en": "elections held in the middle of a presidential term",
+      "excerpt": "concentrate on the midterms",
+      "example_cn": "专注于中期选举。"
+    },
+    {
+      "word": "worldview",
+      "phonetic": "/ˈwɜːrldvjuː/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "世界观",
+      "en": "a particular philosophy of life",
+      "excerpt": "Benjamin Netanyahu's worldview",
+      "example_cn": "本雅明·内塔尼亚胡的世界观。"
+    },
+    {
+      "word": "surrounded",
+      "phonetic": "/səˈraʊndɪd/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "被包围的",
+      "en": "enclosed on all sides",
+      "excerpt": "Israel is surrounded",
+      "example_cn": "以色列被包围。"
+    },
+    {
+      "word": "destruction",
+      "phonetic": "/dɪˈstrʌkʃn/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "毁灭",
+      "en": "the act of destroying",
+      "excerpt": "people who want their destruction",
+      "example_cn": "想要毁灭他们的人。"
+    },
+    {
+      "word": "singular",
+      "phonetic": "/ˈsɪŋɡjələr/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "单一的",
+      "en": "unique or one of a kind",
+      "excerpt": "Donald Trump looks at it as a singular threat",
+      "example_cn": "唐纳德·特朗普将其视为单一威胁。"
+    },
+    {
+      "word": "imminent",
+      "phonetic": "/ˈɪmɪnənt/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "即将发生的",
+      "en": "about to happen",
+      "excerpt": "its demise is imminent",
+      "example_cn": "其灭亡即将来临。"
+    },
+    {
+      "word": "casualties",
+      "phonetic": "/ˈkæʒuəltiz/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "伤亡",
+      "en": "people killed or injured in a war",
+      "excerpt": "the Russian people have suffered over a million casualties",
+      "example_cn": "俄罗斯人民遭受了超过一百万的伤亡。"
+    },
+    {
+      "word": "admirably",
+      "phonetic": "/ˈædmərəbli/",
+      "pos": "adv.",
+      "level": "六级",
+      "cn": "令人钦佩地",
+      "en": "in a way that deserves admiration",
+      "excerpt": "Zelenskyy and the Ukrainian people have held up admirably",
+      "example_cn": "泽连斯基和乌克兰人民表现得令人钦佩。"
+    },
+    {
+      "word": "solidify",
+      "phonetic": "/səˈlɪdɪfaɪ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "巩固",
+      "en": "to make stronger",
+      "excerpt": "to better solidify us",
+      "example_cn": "更好地巩固我们。"
+    },
+    {
+      "word": "project",
+      "phonetic": "/prəˈdʒekt/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "展现，投射",
+      "en": "to present or display",
+      "excerpt": "projecting strength",
+      "example_cn": "展现力量。"
+    },
+    {
+      "word": "deter",
+      "phonetic": "/dɪˈtɜːr/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "威慑，阻止",
+      "en": "to discourage from acting",
+      "excerpt": "deter some of those strikes",
+      "example_cn": "威慑那些打击。"
+    },
+    {
+      "word": "galvanize",
+      "phonetic": "/ˈɡælvənaɪz/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "激励，使振奋",
+      "en": "to shock or excite into action",
+      "excerpt": "a galvanizing event",
+      "example_cn": "一个激励人心的事件。"
+    },
+    {
+      "word": "impersonate",
+      "phonetic": "/ɪmˈpɜːrsəneɪt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "冒充",
+      "en": "to pretend to be someone else",
+      "excerpt": "armed men impersonating ICE officers",
+      "example_cn": "冒充移民执法人员的武装人员。"
+    },
+    {
+      "word": "tinker",
+      "phonetic": "/ˈtɪŋkər/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "摆弄",
+      "en": "to attempt to repair or adjust",
+      "excerpt": "tinkering with the 84-year-old's doorbell camera",
+      "example_cn": "摆弄84岁老人的门铃摄像头。"
+    },
+    {
+      "word": "phenomenon",
+      "phonetic": "/fɪˈnɑːmɪnən/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "现象",
+      "en": "a fact or event that can be observed",
+      "excerpt": "a phenomenon that has actually never been seen in France before",
+      "example_cn": "一种在法国从未见过的现象。"
+    },
+    {
+      "word": "scorched",
+      "phonetic": "/skɔːrtʃt/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "烧焦的",
+      "en": "burned superficially",
+      "excerpt": "scorched earth",
+      "example_cn": "烧焦的土地。"
+    },
+    {
+      "word": "charred",
+      "phonetic": "/tʃɑːrd/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "烧成炭的",
+      "en": "burned to charcoal",
+      "excerpt": "the ground looks completely black, charred",
+      "example_cn": "地面看起来完全黑色，烧焦了。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Today, two high-stakes meetings and one key question: just how will President Trump balance Zelenskyy's push for peace with Netanyahu's push for war?",
+      "cn": "今天有两场高风险会议和一个关键问题：特朗普总统将如何平衡泽连斯基的和平诉求与内塔尼亚胡的战争诉求？",
+      "structure": "简单句，冒号后为同位语解释说明。",
+      "analysis": "主干为'Today, two high-stakes meetings and one key question'，冒号后为同位语从句，解释'key question'的内容。'balance...with...'为固定搭配，表示平衡两者。"
+    },
+    {
+      "en": "Zelenskyy is hoping to secure anti-ballistic defense and strategic cooperation in the war with Russia, as well as new Russian sanctions that were backed by the late Senator Graham.",
+      "cn": "泽连斯基希望获得反弹道导弹防御系统以及与俄罗斯战争中的战略合作，以及已故参议员格雷厄姆支持的新对俄制裁。",
+      "structure": "复合句，包含定语从句。",
+      "analysis": "主干为'Zelenskyy is hoping to secure...'，宾语为'anti-ballistic defense and strategic cooperation'和'new Russian sanctions'。'as well as'连接并列宾语。'that were backed by the late Senator Graham'为定语从句修饰'sanctions'。"
+    },
+    {
+      "en": "And it comes as Trump is at a crossroads: does he escalate the war, as Netanyahu wants, or talk things out?",
+      "cn": "而此刻特朗普正处在十字路口：他是按内塔尼亚胡的意愿升级战争，还是通过谈判解决？",
+      "structure": "复合句，包含时间状语从句和同位语。",
+      "analysis": "主句为'it comes'，'as'引导时间状语从句。冒号后为同位语，解释'crossroads'的具体选择。'as Netanyahu wants'为方式状语从句。"
+    },
+    {
+      "en": "I think what we've seen over the last month has been that sort of increasingly strained relationship from those strikes in Lebanon that functionally ended the ceasefire agreement that had only been established for a little while.",
+      "cn": "我认为我们在过去一个月看到的是那种日益紧张的关系，源于黎巴嫩的打击，这些打击实际上结束了仅建立不久的停火协议。",
+      "structure": "复合句，包含多个从句。",
+      "analysis": "主句为'I think'，后接宾语从句'what we've seen...has been...'。'what we've seen'为主语从句。'that sort of...relationship'为表语。'from those strikes...'为介词短语作定语。'that functionally ended...'为定语从句修饰'strikes'。'that had only been established...'为定语从句修饰'ceasefire agreement'。"
+    },
+    {
+      "en": "I think that what we really are going to look for is whether or not, after 14 days of bombing in Iran has resumed, and President Trump has sort of backed away from it, whether the president and Prime Minister Netanyahu really sort of decide whether or not, you know, this is something that they're going to continue, right?",
+      "cn": "我认为我们真正要看的是，在伊朗轰炸恢复14天后，特朗普总统有点退缩了，总统和内塔尼亚胡总理是否真的决定是否要继续这件事。",
+      "structure": "复合句，包含多个从句。",
+      "analysis": "主句为'I think'，后接宾语从句'what we really are going to look for is...'。'what we really are going to look for'为主语从句。'whether or not...'为表语从句，其中包含'after...'时间状语从句和'whether...decide whether or not...'嵌套。"
+    },
+    {
+      "en": "But the fact of the matter is for Iran, that situation will not change unless the regime itself thinks that threat, that its demise is imminent.",
+      "cn": "但事实是，对伊朗来说，除非政权本身认为威胁——即其灭亡即将来临，否则情况不会改变。",
+      "structure": "复合句，包含条件状语从句和同位语。",
+      "analysis": "主句为'the fact of the matter is...'，后接表语从句'that situation will not change...'。'unless'引导条件状语从句。'that threat'后接同位语从句'that its demise is imminent'，解释'threat'的内容。"
+    },
+    {
+      "en": "But more importantly, as we're looking at these global conflicts in Iran, potential things brewing in Asia, I also want to look at the technologies and the battlefield technologies that have come out of Ukraine.",
+      "cn": "但更重要的是，当我们审视伊朗的全球冲突以及亚洲酝酿的潜在事态时，我也想关注从乌克兰涌现的技术和战场技术。",
+      "structure": "复合句，包含时间状语从句和定语从句。",
+      "analysis": "主句为'I also want to look at...'。'as'引导时间状语从句。'that have come out of Ukraine'为定语从句修饰'technologies'。"
+    },
+    {
+      "en": "And that functional -- what Laura Loomer called sort of a woke right, right? She referred to Tucker Carlson as a sort of woke right.",
+      "cn": "而这种功能性的——劳拉·卢默称之为某种觉醒右派，对吧？她称塔克·卡尔森为某种觉醒右派。",
+      "structure": "复合句，包含插入语和直接引语。",
+      "analysis": "'And that functional'后破折号插入'what Laura Loomer called sort of a woke right'，其中'what'引导名词性从句。后一句为直接引语，解释前文。"
+    },
+    {
+      "en": "The fact that they're both coming to Washington to honor him, along with a number of Senate colleagues on both sides of the aisle, says everything you need to know.",
+      "cn": "他们两人都来华盛顿向他致敬，以及两党多位参议院同事，这一事实说明了一切。",
+      "structure": "复合句，包含同位语从句和定语从句。",
+      "analysis": "主语为'The fact'，后接同位语从句'that they're both coming...'。谓语为'says'，宾语为'everything'，后接定语从句'you need to know'。"
+    },
+    {
+      "en": "Because like you said, Donald Trump, right when he came back from Kyiv and announced that we had an agreement, Donald Trump went along with it.",
+      "cn": "因为正如你所说，唐纳德·特朗普，就在他从基辅回来并宣布我们达成协议时，他同意了。",
+      "structure": "复合句，包含时间状语从句和宾语从句。",
+      "analysis": "'Because'引导原因状语从句。主句为'Donald Trump went along with it'。'right when he came back...'为时间状语从句，其中包含'and announced that...'，'that'引导宾语从句。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "美以关系与伊朗战争",
+      "content": "特朗普与内塔尼亚胡会面，讨论伊朗战争。内塔尼亚胡希望升级战争，而特朗普可能倾向于外交解决。两人关系因黎巴嫩打击和土耳其问题出现紧张。",
+      "keywords": "美以关系, 伊朗战争, 内塔尼亚胡, 特朗普, 外交, 升级"
+    },
+    {
+      "title": "美乌关系与俄乌战争",
+      "content": "泽连斯基访美寻求反导防御和战略合作，希望获得新制裁。特朗普可能因乌克兰近期胜利而改变态度，劳拉·卢默访乌也影响了MAGA阵营的看法。",
+      "keywords": "美乌关系, 俄乌战争, 泽连斯基, 特朗普, 制裁, 反导系统"
+    },
+    {
+      "title": "林赛·格雷厄姆葬礼及其影响",
+      "content": "参议员林赛·格雷厄姆的葬礼在华盛顿举行，特朗普致悼词。格雷厄姆是特朗普与外国领导人的关键联络人，其去世可能影响对俄制裁等政策。",
+      "keywords": "林赛·格雷厄姆, 葬礼, 特朗普, 制裁, 影响力"
+    },
+    {
+      "title": "欧洲野火危机",
+      "content": "法国和西班牙遭遇严重野火，法国出现前所未有的火云现象，西班牙面临史上最大火灾。高温热浪加剧火势，消防员奋力控制。",
+      "keywords": "野火, 法国, 西班牙, 热浪, 火云, 污染"
+    },
+    {
+      "title": "日本地震",
+      "content": "日本南部发生7.1级地震，导致桥梁倒塌、城堡受损，数千户停电，至少50人受伤，专家警告余震和山体滑坡。",
+      "keywords": "日本地震, 7.1级, 倒塌, 停电, 余震"
+    },
+    {
+      "title": "其他新闻",
+      "content": "歌手D4vd谋杀案将开庭；萨凡娜·格思里呼吁寻找失踪母亲；俄勒冈州出现冒充ICE官员事件；FAA警告波音737 MAX座椅安装错误；堪萨斯城酋长队教练之子被捕。",
+      "keywords": "D4vd, 萨凡娜·格思里, ICE冒充, 波音737 MAX, 埃里克·比尼米"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nToday: Trump to Meet with Zelenskyy and Netanyahu; Crews Race to Contain Flames in France & Spain. Aired 6-6:30a ET\n\nAired July 28, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nUNIDENTIFIED MALE: -- new home.\n\nBRAD SMITH, CNN ANCHOR: I might equip (ph). Not going to lie.\n\nAnd let's take you to Seattle. That's where the Internet's favorite raccoon, Jimothy, was honored in his city.\n\nALEXIS MERCEDES RINCK, SEATTLE COUNCIL MEMBER: Council members Alexis Mercedes Rinck and Dan Strauss proclaim summer of 2026 to be Jimothy Summer.\n\nSMITH: Hot Jimothy Summer rolls on. Hundreds of people gathered Sunday to honor the beloved critter.\n\nThat does it for CNN HEADLINE EXPRESS. I'm Brad Smith. CNN THIS MORNING with Audie Cornish starts right now.\n\nERICA HILL, CNN ANCHOR: Today in the group chat, the war in Iran putting a strain on one of the world's closest alliances. So, will today's meeting between President Trump and Prime Minister Netanyahu, just what will it reveal?\n\nUNIDENTIFIED MALE: What have you said to Prime Minister Netanyahu about Iran, and how long to hold off on strikes?\n\nDONALD TRUMP, U.S. PRESIDENT: That's fine. He'll do whatever I want him to do.\n\nHILL: President Trump also set to meet with President Zelenskyy today. Could the White House be changing its approach to the war in Ukraine?\n\nEurope's wildfire crisis getting worse. Crews now scrambling just to contain the flames. Can they actually get ahead of any?\n\nAnd a new picture and a doctor's note from Senator McConnell's office. But does this do anything to settle the demand for real answers about his health?\n\nUNIDENTIFIED FEMALE: Why is Mitch not talking on a video? Why y'all won't let the man talk? If he is fit to sit on Congress, he should be able to talk.\n\nHILL: Today, two high-stakes meetings and one key question. Just how will President Trump balance Zelenskyy's push for peace with Netanyahu's push for war?\n\nGood morning, everyone, on this Tuesday. I'm Erica Hill, in for Audie Cornish. Nice to have you with us.\n\nBenjamin Netanyahu and Vladimir Zelenskyy are in town this morning for the funeral of their key ally, Senator Lindsey Graham. But it's not the only thing on their agendas. Zelenskyy is hoping to secure anti- ballistic defense and strategic cooperation in the war with Russia, as well as new Russian sanctions that were backed by the late Senator Graham.\n\nNow, for Netanyahu, this is actually the first time he'll be meeting with Trump face-to-face since the war with Iran began. And it comes as Trump is at a crossroads. Does he escalate the war, as Netanyahu wants, or talk things out?\n\nBENJAMIN NETANYAHU, ISRAELI PRIME MINISTER (through translator): We will discuss all the issues on the agenda, foremost among them Iran. Of course, our goal is to safeguard our security while also expanding the circle of peace around us.\n\nUNIDENTIFIED MALE: Are you on the same page on Iran, you and Prime Minister Netanyahu?\n\nTRUMP: Pretty close. Yes. Pretty close. We have a little difference, but pretty close. Yes.\n\nHILL: Today in the group chat, Adam Harris, co-host of \"Radio Atlantic\"; Chuck Rocha, Democratic strategist and former senior advisor for Bernie Sanders' presidential campaigns; and T.W. Arrighi, former senior communications aide to Lindsey Graham.\n\nGentlemen, it's nice to have all of you at the table today. We were joking. It was all ladies yesterday. Today it is all the men joining here at the table. This is a -- a big day. There is no getting around that. When we look\n\nat the leaders who are going -- going to be meeting with President Trump. And it's certainly an interesting time for both of them when it comes to.\n\nLet's start off with Prime Minister Netanyahu. It does seem that there's been a little bit of a strain on this relationship. The president calling him \"'F'-ing\" crazy over strikes in Lebanon, certainly not seeing eye-to-eye on the relationship with Turkey.\n\nI'm curious: when they do finally meet face-to-face today, how do you expect this to play out?\n\nADAM HARRIS, CO-HOST, \"RADIO ATLANTIC\": You know, it will be -- it will be interesting, right? I think what we've seen over the last month has been that sort of increasingly strained relationship from those strikes in Lebanon that functionally ended the ceasefire agreement, that -- that had only been established for -- for a little while.\n\nI think that what we -- what we've really -- are going to look for is whether or not, after 14 days of -- of bombing in Iran has resumed, and President Trump has sort of backed away from it, whether the president and Prime Minister Netanyahu really sort of decide whether or not, you know, this -- this is something that they're going to continue, right?\n\nWhether they actually do want to be and sort of have that muscular attack in Iran, or if they want a more diplomatic solution to this, which has been, to this point, elusive.\n\nHILL: And there have been questions from the beginning, right, about different -- not only different strategies, but obviously different aims for each of these two leaders when it comes to the war.\n\nAll of this playing out, as well, as we have, of course, the Ukraine issue on the table. President Zelenskyy coming in. How different do you think these meetings will be?\n\nCHUCK ROCHA, DEMOCRATIC STRATEIGST: I think there's an anxiety at the White House and abroad over a couple of things. And let's talk about and build off of what Adam said about what's the tension.\n\nThe tension with Netanyahu is he wants to continue to blow things up in Iran as much as possible. I'm putting that in redneck terms this morning.\n\nBut the president wants it to end as quickly as possible. He may not say that, but I will promise you, him, and especially Republicans in Congress, with gas at $4.11 a gallon, they want the war to be over; so gas prices can come down, and they can concentrate on the midterms, and have some a good-faith effort to try to fight the Democrats at midterms without talking about this war that is so unpopular with Democrats and Republicans.\n\n[06:05:04] HILL: OK. But you didn't answer my question about the difference in the meetings.\n\nROCHA: I was leaving that for T.W. He's a foreign expert.\n\nT.W. ARRIGHI, FORMER SENIOR COMMUNICATIONS AIDE TO LINDSEY GRAHAM: I don't know about that.\n\nI think, broadly speaking, that is correct. In -- in Iran and Israel. Let's start there with Benjamin Netanyahu.\n\nBenjamin Netanyahu's worldview is that Israel is surrounded, and the Jewish people are surrounded on all sides by people who want their destruction. So, his battle will not end until those threats cease.\n\nDonald Trump looks at it as a singular threat. Iran, who has the blood of thousands of Americans on their hands, who has been a terror to the world, who has disrupted trade for -- for many years and decades, including right now, obviously.\n\nBut the fact of the matter is for Iran, that situation will not change unless the regime itself thinks that threat, that its demise is imminent. Right now, they don't feel that way.\n\nWhere it goes from here is an open question. Obviously, Netanyahu would like a step up. People running for office would like a step down. That's an open question.\n\nWith Zelenskyy, the Russian people have suffered over a million casualties in that -- in that conflict. Zelenskyy and the Ukrainian people have held up admirably.\n\nBut more importantly, as we're looking at these global conflicts in Iran, potential things brewing in Asia, I also want to look at the technologies and the battlefield technologies that have come out of Ukraine.\n\nSo, look for President Trump to look for cooperation with Zelenskyy on those new technologies, going in both directions, to better --\n\nHILL: Which Zelenskyy has offered. Right?\n\nARRIGHI: -- solidify us.\n\nHILL: Especially since the start --\n\nARRIGHI: Yes, of course.\n\nHILL: Especially since -- the drones, since the start of the Iran War.\n\nHILL: It's also fascinating, when we look at Zelenskyy, I was spoken [SIC] with -- speaking with former ambassador to Ukraine Bill Taylor over the weekend. He said to me, too, what he sees is working in Zelenskyy's favor right now is Ukraine can point to some wins.\n\nDonald Trump likes a winner, so that could be helpful.\n\nThere's also the question, the Laura Loomer of it all, right? The fact that Laura Loomer was in Ukraine; the fact that this may be changing, perhaps, some perspective within the MAGAverse, within more right- leaning members.\n\nHow critical do you think that is to Zelenskyy's argument and to what he's bringing into this meeting?\n\nHARRIS: I think that that transition, right, of a lot of people in that MAGA universe sort of moving towards saying, you know, we should be supporting Ukraine, right? Russia is the aggressor here.\n\nAnd that functional -- what Laura Loomer called sort of a woke right, right? She -- she referred to Tucker Carlson as a sort of woke right.\n\nAnd -- and President Trump sort of approvingly sort of thumbs-upping her interview with Zelenskyy.\n\nI think that you're right in that the recent wins that Zelenskyy has had, alongside the -- the bombing of the Iranian ship more recently, I think that -- that he is seeing it as this is someone who is projecting strength, right, in the way that that the president likes to see strength projected.\n\nI think what will be interesting is that the fact that Russia has had this large barrage on -- on Iran [SIC], right? And on -- on Ukraine. And Ukraine is looking for these anti-ballistic missiles, right? They're looking for the -- the Patriot missiles so that they can -- they can sort of deter some of those strikes.\n\nAnd so, it will be -- this is a really crucial moment for Zelenskyy and for President Trump.\n\nHILL: What is missing now, of course, in this moment -- and T.W. this is for you for obvious reasons -- is Senator Graham, right, who was not only a very close ally. Right? And very big supporter of -- of these leaders, these -- these causes in this moment.\n\nBut he was -- I mean, he was the Trump whisperer, right? So, just before he passed, he had just come back from Kyiv; was talking about the support that he had earned, I think, finally, from the president when it came to the sanctions bill.\n\nWithout Lindsey Graham around to get in the president's ear, what does it change?\n\nARRIGHI: A lot. There is no natural successor to the level of influence Lindsey Graham had on the world stage, their close relationship he had with these world leaders.\n\nThe fact that they're both coming to Washington to honor him, along with a number of Senate colleagues on both sides of the aisle, says everything you need to know. So, yes, it is -- it is a huge deal. And I really hope, and I believe\n\nfully, that his sister, who's doing a tremendous job trying to fill his shoes, will help get across -- get across the finish line those Russia sanctions that are so desperately needed.\n\nBecause like you said, Donald Trump, right when he came back from Kyiv and announced that we had an agreement, Donald Trump went along with it.\n\nSo, that's a massive, massive step forward in Ukraine. And I hope that today is a -- and today we lay him to rest and celebrate his life over the next two days is a galvanizing event to get that finished in his memory.\n\nBut make no mistake about it: his impact will be felt, the loss of it, all over the world.\n\nHILL: All right. Much more ahead here on CNN THIS MORNING, including a major decision in the murder case against singer D4vd.\n\nPlus, \"Today Show\" anchor Savannah Guthrie with a new plea for her missing mother.\n\nAnd a troubling revelation about a very popular jetliner. This is widely used across the United States. The seats, the FAA says, have been installed all wrong. So, just how concerned should you be?\n\nHILL: Fourteen minutes past the hour here. We've got your morning roundup for you.\n\nThe case against singer D4vd will go to trial. A judge ruling there is, in fact, enough evidence to move forward.\n\nHe's accused of killing 14-year-old Celeste Rivas Hernandez and will be held without bail until an arraignment on August 31st.\n\nSavannah Guthrie, making a new plea to bring her missing mother home.\n\nSAVANNAH GUTHRIE, HOST, \"THE TODAY SHOW\": I'm asking you, begging you to do the right thing now. Make the right choice. Help us find her.\n\nHILL: It has been nearly six months since Nancy Guthrie was taken from her Arizona home.\n\nA masked man was seen tinkering with the 84-year-old's doorbell camera the morning she disappeared. No suspects, though, have been identified in the case. Oregon's governor is now calling for state and federal investigations.\n\nState and federal investigations have actually been opened in Oregon after reports of armed men impersonating ICE officers.\n\nA victim was allegedly assaulted last week after the suspects pulled them over on the highway, showed fake badges. They were also wearing vests that said \"Police\" on them; told the person they were being arrested, searched the car, held the victim for at least 15 minutes, but then let them go.\n\nThe FAA is warning that seats on hundreds of Boeing 737 MAX jets were incorrectly installed, and the FAA says if not fixed, those seats could cause serious injury in the case of an emergency landing.\n\nThe 737 MAX is widely used by U.S. airlines. This notice from the FAA impacts more than 450 which are currently registered across the country.\n\nThe FAA did not say how quickly airlines would need to fix that issue.\n\nAfter the break here on CNN THIS MORNING, we're going to take you live to Spain, where the wildfires are raging.\n\nPlus, questions about Senator McConnell's health not going away. Why this new photo is raising even more concerns.\n\nAnd a live look at St. Louis. Good morning to our friends out there. An extreme heat warning, of course, remains in effect. The real temperatures, real-feel temperatures for you guys today, around 111.\n\nHILL: We are following breaking news at this hour out of Japan. So, this is new video just coming into us here in the wake of a 7.1- magnitude earthquake in the Southern part of the country. You see that bridge collapsed there? A shrine, part of that has toppled.\n\nAnd we also have images for you that show a moat; a wall and a moat outside of a famous castle. I think we may have that, as well, which has crumbled.\n\nWe do know power has been knocked out to thousands of homes. Experts right now are warning residents about aftershocks and landslides.\n\nAt this hour, we know at least 50 people have been injured. We're going to continue to monitor that situation for you out of Japan.\n\nThe air in Bordeaux, France, raising serious concerns this morning as pollution levels are now six times above safety levels as wildfires burn with no end in sight.\n\nEMMANUEL MACRON, FRENCH PRESIDENT (through translator): We must understand that we are facing a completely unprecedented wildfire. The situation we are dealing with today is the most severe we have ever recorded, the toughest since the Second World War.\n\nHILL: Officials say firefighters are battling flames so intense the flames themselves are actually creating what's known as fire clouds. It's a phenomenon that has actually never been seen in France before.\n\nAnd of course, we have this heat wave we've been talking about that's moving in. That could further fuel the flames.\n\nThe situation not much better in Spain, where officials say the country is now facing the largest fire in the nation's history. CNN international correspondent Pau Mosquera, joining us now with more from Spain.\n\nWhere do things stand? We can see that scorched earth around you right now. Paul.\n\nPAU MOSQUERA, CNN INTERNATIONAL CORRESPONDENT: Exactly, Erica. Because what you can see around me is the result of the biggest wildfire ever registered in Spain.\n\nThis is the Bourgogne (ph) wildfire that started last week and has already scorched more than 50,000 hectares of land.\n\nJust have a look to the landscape. I mean, the ground looks completely black, charred, and there's no sign of plant life. Also, you can see that most of the trees have been reduced to ashes, and some of them are still standing, but the trunks have been completely burned.\n\nAnd actually, if you look behind me, you can see how the fires are still very much active. Because what you can see that seems to be a layer of haze is actually the smoke rising from the areas where there are active fire fronts, which is South and West from where we are.\n\nAnd this is also the reason, Erica, why we are wearing and using these face masks, just in case the air quality keeps deteriorating any further.\n\nNow, it is important to say that, despite this situation that we are showing you, authorities showed today a little bit of cautious optimism. Because they say that overnight, the 400 firefighters that have been working to contain this wildfire actually got to prevent the flames from spreading any further. But the fires are still out of control.\n\nAnd actually, it's important, because the next few hours are going to be crucial. Because tomorrow, Wednesday, the weather conditions are expected to worsen as the fourth heat wave of the summer is going to impact the Iberian Peninsula.\n\nAnd, you know, the higher the temperature, the lower the humidity, the greater the risk for new wildfires -- Erica.\n\nHILL: Yes, absolutely. And the more difficult, of course, it is for those crews that are battling the wildfires already there.\n\nPau, really appreciate it. Thank you.\n\nStill to come here on CNN THIS MORNING, the family of Kansas City Chiefs Coach Eric Bieniemy rocked by gun violence. His son now behind bars.\n\nPlus, President Trump taking his fight over mail-in voting to the high court.\n\nHILL: Good morning. Thanks for starting your day with us here on CNN THIS MORNING. Just about half past the hour now. Here's a look at what's happening right now.\n\nLater this morning, the funeral for Senator Lindsey Graham will be held. Services set to be held inside the Capitol Rotunda and at the National Cathedral. President Trump is expected to deliver the eulogy.\n\nGraham's casket will be transferred to South Carolina tomorrow for a private service.\n\nThe son of Kansas City Chiefs offensive coordinator Eric Bieniemy is being held without bond this morning after.",
+  "segments": [
+    {
+      "seg": 1,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-28/segment/01",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nToday: Trump to Meet with Zelenskyy and Netanyahu; Crews Race to Contain Flames in France & Spain. Aired 6-6:30a ET\n\nAired July 28, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nUNIDENTIFIED MALE: -- new home.\n\nBRAD SMITH, CNN ANCHOR: I might equip (ph). Not going to lie.\n\nAnd let's take you to Seattle. That's where the Internet's favorite raccoon, Jimothy, was honored in his city.\n\nALEXIS MERCEDES RINCK, SEATTLE COUNCIL MEMBER: Council members Alexis Mercedes Rinck and Dan Strauss proclaim summer of 2026 to be Jimothy Summer.\n\nSMITH: Hot Jimothy Summer rolls on. Hundreds of people gathered Sunday to honor the beloved critter.\n\nThat does it for CNN HEADLINE EXPRESS. I'm Brad Smith. CNN THIS MORNING with Audie Cornish starts right now.\n\nERICA HILL, CNN ANCHOR: Today in the group chat, the war in Iran putting a strain on one of the world's closest alliances. So, will today's meeting between President Trump and Prime Minister Netanyahu, just what will it reveal?\n\nUNIDENTIFIED MALE: What have you said to Prime Minister Netanyahu about Iran, and how long to hold off on strikes?\n\nDONALD TRUMP, U.S. PRESIDENT: That's fine. He'll do whatever I want him to do.\n\nHILL: President Trump also set to meet with President Zelenskyy today. Could the White House be changing its approach to the war in Ukraine?\n\nEurope's wildfire crisis getting worse. Crews now scrambling just to contain the flames. Can they actually get ahead of any?\n\nAnd a new picture and a doctor's note from Senator McConnell's office. But does this do anything to settle the demand for real answers about his health?\n\nUNIDENTIFIED FEMALE: Why is Mitch not talking on a video? Why y'all won't let the man talk? If he is fit to sit on Congress, he should be able to talk.\n\nHILL: Today, two high-stakes meetings and one key question. Just how will President Trump balance Zelenskyy's push for peace with Netanyahu's push for war?\n\nGood morning, everyone, on this Tuesday. I'm Erica Hill, in for Audie Cornish. Nice to have you with us.\n\nBenjamin Netanyahu and Vladimir Zelenskyy are in town this morning for the funeral of their key ally, Senator Lindsey Graham. But it's not the only thing on their agendas. Zelenskyy is hoping to secure anti- ballistic defense and strategic cooperation in the war with Russia, as well as new Russian sanctions that were backed by the late Senator Graham.\n\nNow, for Netanyahu, this is actually the first time he'll be meeting with Trump face-to-face since the war with Iran began. And it comes as Trump is at a crossroads. Does he escalate the war, as Netanyahu wants, or talk things out?\n\nBENJAMIN NETANYAHU, ISRAELI PRIME MINISTER (through translator): We will discuss all the issues on the agenda, foremost among them Iran. Of course, our goal is to safeguard our security while also expanding the circle of peace around us.\n\nUNIDENTIFIED MALE: Are you on the same page on Iran, you and Prime Minister Netanyahu?\n\nTRUMP: Pretty close. Yes. Pretty close. We have a little difference, but pretty close. Yes.\n\nHILL: Today in the group chat, Adam Harris, co-host of \"Radio Atlantic\"; Chuck Rocha, Democratic strategist and former senior advisor for Bernie Sanders' presidential campaigns; and T.W. Arrighi, former senior communications aide to Lindsey Graham.\n\nGentlemen, it's nice to have all of you at the table today. We were joking. It was all ladies yesterday. Today it is all the men joining here at the table. This is a -- a big day. There is no getting around that. When we look\n\nat the leaders who are going -- going to be meeting with President Trump. And it's certainly an interesting time for both of them when it comes to.\n\nLet's start off with Prime Minister Netanyahu. It does seem that there's been a little bit of a strain on this relationship. The president calling him \"'F'-ing\" crazy over strikes in Lebanon, certainly not seeing eye-to-eye on the relationship with Turkey.\n\nI'm curious: when they do finally meet face-to-face today, how do you expect this to play out?\n\nADAM HARRIS, CO-HOST, \"RADIO ATLANTIC\": You know, it will be -- it will be interesting, right? I think what we've seen over the last month has been that sort of increasingly strained relationship from those strikes in Lebanon that functionally ended the ceasefire agreement, that -- that had only been established for -- for a little while.\n\nI think that what we -- what we've really -- are going to look for is whether or not, after 14 days of -- of bombing in Iran has resumed, and President Trump has sort of backed away from it, whether the president and Prime Minister Netanyahu really sort of decide whether or not, you know, this -- this is something that they're going to continue, right?\n\nWhether they actually do want to be and sort of have that muscular attack in Iran, or if they want a more diplomatic solution to this, which has been, to this point, elusive.\n\nHILL: And there have been questions from the beginning, right, about different -- not only different strategies, but obviously different aims for each of these two leaders when it comes to the war.\n\nAll of this playing out, as well, as we have, of course, the Ukraine issue on the table. President Zelenskyy coming in. How different do you think these meetings will be?\n\nCHUCK ROCHA, DEMOCRATIC STRATEIGST: I think there's an anxiety at the White House and abroad over a couple of things. And let's talk about and build off of what Adam said about what's the tension.\n\nThe tension with Netanyahu is he wants to continue to blow things up in Iran as much as possible. I'm putting that in redneck terms this morning.\n\nBut the president wants it to end as quickly as possible. He may not say that, but I will promise you, him, and especially Republicans in Congress, with gas at $4.11 a gallon, they want the war to be over; so gas prices can come down, and they can concentrate on the midterms, and have some a good-faith effort to try to fight the Democrats at midterms without talking about this war that is so unpopular with Democrats and Republicans.\n\n[06:05:04] HILL: OK. But you didn't answer my question about the difference in the meetings.\n\nROCHA: I was leaving that for T.W. He's a foreign expert.\n\nT.W. ARRIGHI, FORMER SENIOR COMMUNICATIONS AIDE TO LINDSEY GRAHAM: I don't know about that.\n\nI think, broadly speaking, that is correct. In -- in Iran and Israel. Let's start there with Benjamin Netanyahu.\n\nBenjamin Netanyahu's worldview is that Israel is surrounded, and the Jewish people are surrounded on all sides by people who want their destruction. So, his battle will not end until those threats cease.\n\nDonald Trump looks at it as a singular threat. Iran, who has the blood of thousands of Americans on their hands, who has been a terror to the world, who has disrupted trade for -- for many years and decades, including right now, obviously.\n\nBut the fact of the matter is for Iran, that situation will not change unless the regime itself thinks that threat, that its demise is imminent. Right now, they don't feel that way.\n\nWhere it goes from here is an open question. Obviously, Netanyahu would like a step up. People running for office would like a step down. That's an open question.\n\nWith Zelenskyy, the Russian people have suffered over a million casualties in that -- in that conflict. Zelenskyy and the Ukrainian people have held up admirably.\n\nBut more importantly, as we're looking at these global conflicts in Iran, potential things brewing in Asia, I also want to look at the technologies and the battlefield technologies that have come out of Ukraine.\n\nSo, look for President Trump to look for cooperation with Zelenskyy on those new technologies, going in both directions, to better --\n\nHILL: Which Zelenskyy has offered. Right?\n\nARRIGHI: -- solidify us.\n\nHILL: Especially since the start --\n\nARRIGHI: Yes, of course.\n\nHILL: Especially since -- the drones, since the start of the Iran War.\n\nHILL: It's also fascinating, when we look at Zelenskyy, I was spoken [SIC] with -- speaking with former ambassador to Ukraine Bill Taylor over the weekend. He said to me, too, what he sees is working in Zelenskyy's favor right now is Ukraine can point to some wins.\n\nDonald Trump likes a winner, so that could be helpful.\n\nThere's also the question, the Laura Loomer of it all, right? The fact that Laura Loomer was in Ukraine; the fact that this may be changing, perhaps, some perspective within the MAGAverse, within more right- leaning members.\n\nHow critical do you think that is to Zelenskyy's argument and to what he's bringing into this meeting?\n\nHARRIS: I think that that transition, right, of a lot of people in that MAGA universe sort of moving towards saying, you know, we should be supporting Ukraine, right? Russia is the aggressor here.\n\nAnd that functional -- what Laura Loomer called sort of a woke right, right? She -- she referred to Tucker Carlson as a sort of woke right.\n\nAnd -- and President Trump sort of approvingly sort of thumbs-upping her interview with Zelenskyy.\n\nI think that you're right in that the recent wins that Zelenskyy has had, alongside the -- the bombing of the Iranian ship more recently, I think that -- that he is seeing it as this is someone who is projecting strength, right, in the way that that the president likes to see strength projected.\n\nI think what will be interesting is that the fact that Russia has had this large barrage on -- on Iran [SIC], right? And on -- on Ukraine. And Ukraine is looking for these anti-ballistic missiles, right? They're looking for the -- the Patriot missiles so that they can -- they can sort of deter some of those strikes.\n\nAnd so, it will be -- this is a really crucial moment for Zelenskyy and for President Trump.\n\nHILL: What is missing now, of course, in this moment -- and T.W. this is for you for obvious reasons -- is Senator Graham, right, who was not only a very close ally. Right? And very big supporter of -- of these leaders, these -- these causes in this moment.\n\nBut he was -- I mean, he was the Trump whisperer, right? So, just before he passed, he had just come back from Kyiv; was talking about the support that he had earned, I think, finally, from the president when it came to the sanctions bill.\n\nWithout Lindsey Graham around to get in the president's ear, what does it change?\n\nARRIGHI: A lot. There is no natural successor to the level of influence Lindsey Graham had on the world stage, their close relationship he had with these world leaders.\n\nThe fact that they're both coming to Washington to honor him, along with a number of Senate colleagues on both sides of the aisle, says everything you need to know. So, yes, it is -- it is a huge deal. And I really hope, and I believe\n\nfully, that his sister, who's doing a tremendous job trying to fill his shoes, will help get across -- get across the finish line those Russia sanctions that are so desperately needed.\n\nBecause like you said, Donald Trump, right when he came back from Kyiv and announced that we had an agreement, Donald Trump went along with it.\n\nSo, that's a massive, massive step forward in Ukraine. And I hope that today is a -- and today we lay him to rest and celebrate his life over the next two days is a galvanizing event to get that finished in his memory.\n\nBut make no mistake about it: his impact will be felt, the loss of it, all over the world.\n\nHILL: All right. Much more ahead here on CNN THIS MORNING, including a major decision in the murder case against singer D4vd.\n\nPlus, \"Today Show\" anchor Savannah Guthrie with a new plea for her missing mother.\n\nAnd a troubling revelation about a very popular jetliner. This is widely used across the United States. The seats, the FAA says, have been installed all wrong. So, just how concerned should you be?\n\nHILL: Fourteen minutes past the hour here. We've got your morning roundup for you.\n\nThe case against singer D4vd will go to trial. A judge ruling there is, in fact, enough evidence to move forward.\n\nHe's accused of killing 14-year-old Celeste Rivas Hernandez and will be held without bail until an arraignment on August 31st.\n\nSavannah Guthrie, making a new plea to bring her missing mother home.\n\nSAVANNAH GUTHRIE, HOST, \"THE TODAY SHOW\": I'm asking you, begging you to do the right thing now. Make the right choice. Help us find her.\n\nHILL: It has been nearly six months since Nancy Guthrie was taken from her Arizona home.\n\nA masked man was seen tinkering with the 84-year-old's doorbell camera the morning she disappeared. No suspects, though, have been identified in the case. Oregon's governor is now calling for state and federal investigations.\n\nState and federal investigations have actually been opened in Oregon after reports of armed men impersonating ICE officers.\n\nA victim was allegedly assaulted last week after the suspects pulled them over on the highway, showed fake badges. They were also wearing vests that said \"Police\" on them; told the person they were being arrested, searched the car, held the victim for at least 15 minutes, but then let them go.\n\nThe FAA is warning that seats on hundreds of Boeing 737 MAX jets were incorrectly installed, and the FAA says if not fixed, those seats could cause serious injury in the case of an emergency landing.\n\nThe 737 MAX is widely used by U.S. airlines. This notice from the FAA impacts more than 450 which are currently registered across the country.\n\nThe FAA did not say how quickly airlines would need to fix that issue.\n\nAfter the break here on CNN THIS MORNING, we're going to take you live to Spain, where the wildfires are raging.\n\nPlus, questions about Senator McConnell's health not going away. Why this new photo is raising even more concerns.\n\nAnd a live look at St. Louis. Good morning to our friends out there. An extreme heat warning, of course, remains in effect. The real temperatures, real-feel temperatures for you guys today, around 111.\n\nHILL: We are following breaking news at this hour out of Japan. So, this is new video just coming into us here in the wake of a 7.1- magnitude earthquake in the Southern part of the country. You see that bridge collapsed there? A shrine, part of that has toppled.\n\nAnd we also have images for you that show a moat; a wall and a moat outside of a famous castle. I think we may have that, as well, which has crumbled.\n\nWe do know power has been knocked out to thousands of homes. Experts right now are warning residents about aftershocks and landslides.\n\nAt this hour, we know at least 50 people have been injured. We're going to continue to monitor that situation for you out of Japan.\n\nThe air in Bordeaux, France, raising serious concerns this morning as pollution levels are now six times above safety levels as wildfires burn with no end in sight.\n\nEMMANUEL MACRON, FRENCH PRESIDENT (through translator): We must understand that we are facing a completely unprecedented wildfire. The situation we are dealing with today is the most severe we have ever recorded, the toughest since the Second World War.\n\nHILL: Officials say firefighters are battling flames so intense the flames themselves are actually creating what's known as fire clouds. It's a phenomenon that has actually never been seen in France before.\n\nAnd of course, we have this heat wave we've been talking about that's moving in. That could further fuel the flames.\n\nThe situation not much better in Spain, where officials say the country is now facing the largest fire in the nation's history. CNN international correspondent Pau Mosquera, joining us now with more from Spain.\n\nWhere do things stand? We can see that scorched earth around you right now. Paul.\n\nPAU MOSQUERA, CNN INTERNATIONAL CORRESPONDENT: Exactly, Erica. Because what you can see around me is the result of the biggest wildfire ever registered in Spain.\n\nThis is the Bourgogne (ph) wildfire that started last week and has already scorched more than 50,000 hectares of land.\n\nJust have a look to the landscape. I mean, the ground looks completely black, charred, and there's no sign of plant life. Also, you can see that most of the trees have been reduced to ashes, and some of them are still standing, but the trunks have been completely burned.\n\nAnd actually, if you look behind me, you can see how the fires are still very much active. Because what you can see that seems to be a layer of haze is actually the smoke rising from the areas where there are active fire fronts, which is South and West from where we are.\n\nAnd this is also the reason, Erica, why we are wearing and using these face masks, just in case the air quality keeps deteriorating any further.\n\nNow, it is important to say that, despite this situation that we are showing you, authorities showed today a little bit of cautious optimism. Because they say that overnight, the 400 firefighters that have been working to contain this wildfire actually got to prevent the flames from spreading any further. But the fires are still out of control.\n\nAnd actually, it's important, because the next few hours are going to be crucial. Because tomorrow, Wednesday, the weather conditions are expected to worsen as the fourth heat wave of the summer is going to impact the Iberian Peninsula.\n\nAnd, you know, the higher the temperature, the lower the humidity, the greater the risk for new wildfires -- Erica.\n\nHILL: Yes, absolutely. And the more difficult, of course, it is for those crews that are battling the wildfires already there.\n\nPau, really appreciate it. Thank you.\n\nStill to come here on CNN THIS MORNING, the family of Kansas City Chiefs Coach Eric Bieniemy rocked by gun violence. His son now behind bars.\n\nPlus, President Trump taking his fight over mail-in voting to the high court.\n\nHILL: Good morning. Thanks for starting your day with us here on CNN THIS MORNING. Just about half past the hour now. Here's a look at what's happening right now.\n\nLater this morning, the funeral for Senator Lindsey Graham will be held. Services set to be held inside the Capitol Rotunda and at the National Cathedral. President Trump is expected to deliver the eulogy.\n\nGraham's casket will be transferred to South Carolina tomorrow for a private service.\n\nThe son of Kansas City Chiefs offensive coordinator Eric Bieniemy is being held without bond this morning after."
+    }
+  ]
+}
