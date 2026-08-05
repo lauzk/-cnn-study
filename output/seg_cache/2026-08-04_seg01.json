@@ -1,0 +1,852 @@
+{
+  "date": "2026-08-04",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-08-04/segment/01",
+  "vocabulary": [
+    {
+      "word": "head-to-head",
+      "phonetic": "/ˌhed tə ˈhed/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "正面交锋的",
+      "en": "involving two people or groups competing directly against each other",
+      "excerpt": "Stevens, El-Sayed Go Head-to-Head in Michigan Primary",
+      "example_cn": "两位候选人在初选中正面交锋。"
+    },
+    {
+      "word": "primary",
+      "phonetic": "/ˈpraɪmeri/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "初选",
+      "en": "an election in which voters choose the candidates from each party who will compete in the general election",
+      "excerpt": "Stevens, El-Sayed Go Head-to-Head in Michigan Primary",
+      "example_cn": "初选是政党选择候选人的选举。"
+    },
+    {
+      "word": "embattled",
+      "phonetic": "/ɪmˈbætld/",
+      "pos": "adj.",
+      "level": "专八",
+      "cn": "处于困境的；四面受敌的",
+      "en": "involved in or prepared for war, especially because of being attacked; facing many problems and difficulties",
+      "excerpt": "An embattled congressman refusing to step aside.",
+      "example_cn": "这位四面楚歌的国会议员拒绝下台。"
+    },
+    {
+      "word": "step aside",
+      "phonetic": "/step əˈsaɪd/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "让位；辞职",
+      "en": "to leave a job or position so that someone else can take over",
+      "excerpt": "An embattled congressman refusing to step aside.",
+      "example_cn": "他拒绝辞职让位。"
+    },
+    {
+      "word": "weigh in",
+      "phonetic": "/weɪ ɪn/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "发表意见；参与讨论",
+      "en": "to add your opinion or advice to a discussion or decision",
+      "excerpt": "Now the president weighs in, telling him, quote, \"Things aren't looking good.\"",
+      "example_cn": "总统发表意见，告诉他情况不妙。"
+    },
+    {
+      "word": "scapegoat",
+      "phonetic": "/ˈskeɪpɡoʊt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "替罪羊",
+      "en": "a person who is blamed for something bad that someone else has done",
+      "excerpt": "Could Jeanine Pirro be his scapegoat.",
+      "example_cn": "珍妮·皮罗会成为他的替罪羊吗？"
+    },
+    {
+      "word": "arson",
+      "phonetic": "/ˈɑːrsn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "纵火罪",
+      "en": "the crime of deliberately setting fire to property",
+      "excerpt": "And a suspect charged with arson as the wildfires in Washington state rage on this morning.",
+      "example_cn": "华盛顿州野火肆虐，一名嫌疑人被控纵火。"
+    },
+    {
+      "word": "rage on",
+      "phonetic": "/reɪdʒ ɒn/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "猛烈持续；肆虐",
+      "en": "to continue with great force or violence",
+      "excerpt": "as the wildfires in Washington state rage on this morning",
+      "example_cn": "野火今晨仍在肆虐。"
+    },
+    {
+      "word": "anguish",
+      "phonetic": "/ˈæŋɡwɪʃ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "极度痛苦；苦恼",
+      "en": "severe pain, mental suffering, or unhappiness",
+      "excerpt": "The anguish from residents as they see what was spared from the flames.",
+      "example_cn": "居民们看到火焰中幸免的东西，感到极度痛苦。"
+    },
+    {
+      "word": "referendum",
+      "phonetic": "/ˌrefəˈrendəm/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "全民公决；公投",
+      "en": "a vote in which all the people in a country or an area decide on an important issue",
+      "excerpt": "It is election day in Michigan and a referendum for the Democratic Party.",
+      "example_cn": "今天是密歇根州的选举日，也是对民主党的公投。"
+    },
+    {
+      "word": "progressive",
+      "phonetic": "/prəˈɡresɪv/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "进步的；先进的",
+      "en": "in favor of new ideas, modern methods, and social change",
+      "excerpt": "Will voters back the progressive choice or the candidate backed by the establishment?",
+      "example_cn": "选民会支持进步派选择还是建制派支持的候选人？"
+    },
+    {
+      "word": "establishment",
+      "phonetic": "/ɪˈstæblɪʃmənt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "当权派；建制派",
+      "en": "the people in a society or profession who have power and influence and do not support change",
+      "excerpt": "Will voters back the progressive choice or the candidate backed by the establishment?",
+      "example_cn": "选民会支持进步派选择还是建制派支持的候选人？"
+    },
+    {
+      "word": "messy",
+      "phonetic": "/ˈmesi/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "混乱的；棘手的",
+      "en": "untidy or dirty; complicated and difficult to deal with",
+      "excerpt": "After a long and messy campaign today, Democratic voters will decide between congresswoman Haley Stevens or Abdul El-Sayed.",
+      "example_cn": "经过漫长而混乱的竞选，民主党选民将在国会议员海利·史蒂文斯和阿卜杜勒·埃尔-萨耶德之间做出选择。"
+    },
+    {
+      "word": "abolish",
+      "phonetic": "/əˈbɑːlɪʃ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "废除；取消",
+      "en": "to officially end a law, a system, or an institution",
+      "excerpt": "El-Sayed wants to abolish ICE.",
+      "example_cn": "埃尔-萨耶德希望废除ICE。"
+    },
+    {
+      "word": "meddle",
+      "phonetic": "/ˈmedl/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "干涉；干预",
+      "en": "to become involved in something that is not your business",
+      "excerpt": "There is a reason why Republicans are already spending thousands and thousands of dollars meddling in this primary",
+      "example_cn": "共和党人已经花费大量资金干预这次初选，这是有原因的。"
+    },
+    {
+      "word": "preferred",
+      "phonetic": "/prɪˈfɜːrd/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "优先的；偏好的",
+      "en": "liked or wanted more than anything else",
+      "excerpt": "trying to maybe get their preferred candidate.",
+      "example_cn": "试图得到他们偏好的候选人。"
+    },
+    {
+      "word": "inspiration",
+      "phonetic": "/ˌɪnspəˈreɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "灵感；鼓舞人心的人或事",
+      "en": "a feeling of enthusiasm you get from someone or something, which gives you new ideas",
+      "excerpt": "You can't buy inspiration.",
+      "example_cn": "你买不到灵感。"
+    },
+    {
+      "word": "hurdle",
+      "phonetic": "/ˈhɜːrdl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "障碍；难关",
+      "en": "a problem or difficulty that must be solved or dealt with before you can achieve something",
+      "excerpt": "the big hurdle that we thought Democrats would have",
+      "example_cn": "我们认为民主党将面临的巨大障碍。"
+    },
+    {
+      "word": "liability",
+      "phonetic": "/ˌlaɪəˈbɪləti/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "不利因素；累赘",
+      "en": "a person or thing that causes you a lot of problems",
+      "excerpt": "he's going to be a liability in the general election.",
+      "example_cn": "他将在普选中成为累赘。"
+    },
+    {
+      "word": "proxy",
+      "phonetic": "/ˈprɑːksi/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "代理人；代表",
+      "en": "a person or thing that acts for another; a figure that represents a particular position or opinion",
+      "excerpt": "Why has this become the proxy battle for the back and forth?",
+      "example_cn": "为什么这成为反复较量的代理人战争？"
+    },
+    {
+      "word": "perennial",
+      "phonetic": "/pəˈreniəl/",
+      "pos": "adj.",
+      "level": "专八",
+      "cn": "长期的；反复出现的",
+      "en": "lasting for a long time or happening again and again",
+      "excerpt": "I feel like that's my perennial report.",
+      "example_cn": "我觉得那是我长期以来的报告。"
+    },
+    {
+      "word": "marquee",
+      "phonetic": "/mɑːrˈkiː/",
+      "pos": "adj.",
+      "level": "专八",
+      "cn": "最重要的；招牌的",
+      "en": "most important or popular; leading",
+      "excerpt": "the big, big, like marquee name donors are sitting out",
+      "example_cn": "那些大名鼎鼎的捐赠者都袖手旁观。"
+    },
+    {
+      "word": "sit out",
+      "phonetic": "/sɪt aʊt/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "不参与；袖手旁观",
+      "en": "to not take part in something",
+      "excerpt": "the big, big, like marquee name donors are sitting out",
+      "example_cn": "大牌捐赠者都袖手旁观。"
+    },
+    {
+      "word": "vehicle",
+      "phonetic": "/ˈviːəkl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "工具；手段",
+      "en": "a way of achieving something or expressing something",
+      "excerpt": "donors are giving through different vehicles",
+      "example_cn": "捐赠者通过不同的渠道捐款。"
+    },
+    {
+      "word": "ideological",
+      "phonetic": "/ˌaɪdiəˈlɑːdʒɪkl/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "意识形态的",
+      "en": "based on or relating to a set of beliefs, especially political beliefs",
+      "excerpt": "a lot of ideological diversity that's allowed to work around his orbit",
+      "example_cn": "许多意识形态的多样性在他的轨道上运作。"
+    },
+    {
+      "word": "orbit",
+      "phonetic": "/ˈɔːrbɪt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "势力范围；轨道",
+      "en": "the area of power and influence of a person or organization",
+      "excerpt": "a lot of ideological diversity that's allowed to work around his orbit",
+      "example_cn": "许多意识形态的多样性在他的轨道上运作。"
+    },
+    {
+      "word": "kiss the ring",
+      "phonetic": "/kɪs ðə rɪŋ/",
+      "pos": "phr.",
+      "level": "专八",
+      "cn": "表示效忠；拍马屁",
+      "en": "to show loyalty or submission to someone in power",
+      "excerpt": "so long as you kiss that ring",
+      "example_cn": "只要你表示效忠。"
+    },
+    {
+      "word": "flank",
+      "phonetic": "/flæŋk/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "侧翼；派系",
+      "en": "the side of an army or a political group",
+      "excerpt": "the more radical flank",
+      "example_cn": "更激进的派系。"
+    },
+    {
+      "word": "canary",
+      "phonetic": "/kəˈneri/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "金丝雀；预警",
+      "en": "a person or thing that gives a warning of danger",
+      "excerpt": "Michigan has been a canary.",
+      "example_cn": "密歇根州一直是一个预警。"
+    },
+    {
+      "word": "downturn",
+      "phonetic": "/ˈdaʊntɜːrn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "衰退；下降",
+      "en": "a fall in the amount, value, or success of something",
+      "excerpt": "You've seen a downturn in manufacturing.",
+      "example_cn": "你看到了制造业的衰退。"
+    },
+    {
+      "word": "endorse",
+      "phonetic": "/ɪnˈdɔːrs/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "支持； endorsement",
+      "en": "to say publicly that you support a person, statement, or course of action",
+      "excerpt": "And that's why you see the UAW endorsed him.",
+      "example_cn": "这就是为什么你看到UAW支持他。"
+    },
+    {
+      "word": "virulently",
+      "phonetic": "/ˈvɪrələntli/",
+      "pos": "adv.",
+      "level": "专八",
+      "cn": "恶毒地；激烈地",
+      "en": "in a very strong and bitter way",
+      "excerpt": "he's running a virulently anti-Israel campaign",
+      "example_cn": "他正在进行一场恶毒的反以色列竞选。"
+    },
+    {
+      "word": "fruition",
+      "phonetic": "/fruˈɪʃn/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "实现；完成",
+      "en": "the successful result of a plan, idea, etc.",
+      "excerpt": "we are seeing the fruits of a long-running movement that may or may not be coming to fruition.",
+      "example_cn": "我们正在看到一个长期运动的成果，它可能实现也可能不会实现。"
+    },
+    {
+      "word": "censure",
+      "phonetic": "/ˈsenʃər/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "谴责；公开批评",
+      "en": "to criticize someone formally and officially",
+      "excerpt": "The ethics panel that wants to censure Republican Chuck Edwards.",
+      "example_cn": "道德小组想要谴责共和党人查克·爱德华兹。"
+    },
+    {
+      "word": "guardrails",
+      "phonetic": "/ˈɡɑːrdreɪlz/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "护栏；保护措施",
+      "en": "rules or limits that are intended to prevent something bad from happening",
+      "excerpt": "Will we finally get the guardrails that have been promised?",
+      "example_cn": "我们最终会得到承诺的保护措施吗？"
+    },
+    {
+      "word": "cyclosporiasis",
+      "phonetic": "/ˌsaɪkləspəˈraɪəsɪs/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "环孢子虫病",
+      "en": "an intestinal illness caused by the parasite Cyclospora",
+      "excerpt": "That multi-state cyclosporiasis outbreak has turned deadly.",
+      "example_cn": "多州环孢子虫病爆发已变得致命。"
+    },
+    {
+      "word": "dehydration",
+      "phonetic": "/ˌdiːhaɪˈdreɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "脱水",
+      "en": "the condition of not having enough water in the body",
+      "excerpt": "can lead to severe dehydration",
+      "example_cn": "可能导致严重脱水。"
+    },
+    {
+      "word": "subpoena",
+      "phonetic": "/səˈpiːnə/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "传票",
+      "en": "a legal order to appear in court or produce evidence",
+      "excerpt": "his use of subpoenas to obtain lawmakers' text messages",
+      "example_cn": "他使用传票获取立法者的短信。"
+    },
+    {
+      "word": "framework",
+      "phonetic": "/ˈfreɪmwɜːrk/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "框架；体系",
+      "en": "a set of rules, ideas, or beliefs that is used to plan or decide something",
+      "excerpt": "about a new framework for government oversight.",
+      "example_cn": "关于政府监督的新框架。"
+    },
+    {
+      "word": "oversight",
+      "phonetic": "/ˈoʊvərsaɪt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "监督；监管",
+      "en": "the job of checking that something is done correctly",
+      "excerpt": "about a new framework for government oversight.",
+      "example_cn": "关于政府监督的新框架。"
+    },
+    {
+      "word": "voluntarily",
+      "phonetic": "/ˌvɑːlənˈterəli/",
+      "pos": "adv.",
+      "level": "六级",
+      "cn": "自愿地",
+      "en": "in a willing way, without being forced",
+      "excerpt": "voluntarily allow the government to review new models before they release them.",
+      "example_cn": "自愿允许政府在新模型发布前进行审查。"
+    },
+    {
+      "word": "rogue",
+      "phonetic": "/roʊɡ/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "行为失常的；脱离控制的",
+      "en": "behaving in a way that is not expected or controlled",
+      "excerpt": "an A.I. agent going rogue and hacking into competitor companies.",
+      "example_cn": "一个人工智能代理行为失常，入侵竞争对手公司。"
+    },
+    {
+      "word": "near miss",
+      "phonetic": "/ˌnɪr ˈmɪs/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "侥幸脱险；险些相撞",
+      "en": "a situation where an accident almost happens",
+      "excerpt": "the FAA is investigating a near miss in Florida",
+      "example_cn": "美国联邦航空管理局正在调查佛罗里达州的一起险情。"
+    },
+    {
+      "word": "botched",
+      "phonetic": "/bɑːtʃt/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "搞砸的；拙劣的",
+      "en": "done badly or clumsily",
+      "excerpt": "the Justice Department admits it was a botched renovation that caused the issues with the Reflecting Pool",
+      "example_cn": "司法部承认是拙劣的翻新导致了倒影池的问题。"
+    },
+    {
+      "word": "vandalism",
+      "phonetic": "/ˈvændəlɪzəm/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "故意破坏公共财产的行为",
+      "en": "the crime of deliberately damaging property",
+      "excerpt": "not vandalism",
+      "example_cn": "不是故意破坏。"
+    },
+    {
+      "word": "lash out",
+      "phonetic": "/læʃ aʊt/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "猛烈抨击",
+      "en": "to suddenly attack someone or something with words or actions",
+      "excerpt": "he did, obviously, lash out at her",
+      "example_cn": "他显然猛烈抨击了她。"
+    },
+    {
+      "word": "flawed",
+      "phonetic": "/flɔːd/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "有缺陷的",
+      "en": "having a mistake or weakness",
+      "excerpt": "caused by a flawed renovation",
+      "example_cn": "由有缺陷的翻新造成。"
+    },
+    {
+      "word": "hasty",
+      "phonetic": "/ˈheɪsti/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "仓促的；草率的",
+      "en": "done quickly and without enough care",
+      "excerpt": "the $14 million renovation was hasty and botched.",
+      "example_cn": "1400万美元的翻新是仓促而拙劣的。"
+    },
+    {
+      "word": "hem and haw",
+      "phonetic": "/hem ənd hɔː/",
+      "pos": "phr.",
+      "level": "专八",
+      "cn": "支支吾吾；犹豫不决",
+      "en": "to take a long time to make a decision or express an opinion",
+      "excerpt": "There was a lot of hemming and hawing about the fact that Donald Trump would not abide by the decisions of the Supreme Court",
+      "example_cn": "关于唐纳德·特朗普不会遵守最高法院裁决的事实，人们支支吾吾。"
+    },
+    {
+      "word": "abide by",
+      "phonetic": "/əˈbaɪd baɪ/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "遵守；遵循",
+      "en": "to accept and obey a decision, rule, etc.",
+      "excerpt": "Donald Trump would not abide by the decisions of the Supreme Court",
+      "example_cn": "唐纳德·特朗普不会遵守最高法院的裁决。"
+    },
+    {
+      "word": "confines",
+      "phonetic": "/ˈkɒnfaɪnz/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "范围；界限",
+      "en": "the limits or borders of something",
+      "excerpt": "This administration is operating within the confines of the law",
+      "example_cn": "本届政府在法律范围内运作。"
+    },
+    {
+      "word": "crack down on",
+      "phonetic": "/kræk daʊn ɒn/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "严厉打击",
+      "en": "to take strong action to stop something",
+      "excerpt": "Has been involved in these efforts to clean up and crack down on crime in D.C.",
+      "example_cn": "参与了清理和打击华盛顿特区犯罪的努力。"
+    },
+    {
+      "word": "flop",
+      "phonetic": "/flɑːp/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "失败；砸锅",
+      "en": "to fail completely",
+      "excerpt": "And seen a lot of those cases flop, as well.",
+      "example_cn": "也看到很多这样的案件失败。"
+    },
+    {
+      "word": "withhold",
+      "phonetic": "/wɪðˈhoʊld/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "隐瞒；扣留",
+      "en": "to refuse to give something to someone",
+      "excerpt": "that department withheld evidence from us",
+      "example_cn": "那个部门向我们隐瞒了证据。"
+    },
+    {
+      "word": "wrongfully",
+      "phonetic": "/ˈrɒŋfəli/",
+      "pos": "adv.",
+      "level": "六级",
+      "cn": "不公正地；错误地",
+      "en": "in a way that is unfair or illegal",
+      "excerpt": "could have put somebody in prison wrongfully.",
+      "example_cn": "可能错误地将某人送进监狱。"
+    },
+    {
+      "word": "logical extent",
+      "phonetic": "/ˈlɒdʒɪkl ɪkˈstent/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "逻辑上的程度",
+      "en": "the degree to which something is reasonable or expected",
+      "excerpt": "Basically, that's the -- the logical extent of what they put out.",
+      "example_cn": "基本上，这是他们发布内容的逻辑程度。"
+    },
+    {
+      "word": "no-bid",
+      "phonetic": "/noʊ bɪd/",
+      "pos": "adj.",
+      "level": "专八",
+      "cn": "无竞标的",
+      "en": "a contract given without competitive bidding",
+      "excerpt": "The no-bid contract stuff",
+      "example_cn": "无竞标合同的事。"
+    },
+    {
+      "word": "stack up",
+      "phonetic": "/stæk ʌp/",
+      "pos": "phr.",
+      "level": "六级",
+      "cn": "累积；加起来",
+      "en": "to accumulate or add up",
+      "excerpt": "it's just another thing that stacks up.",
+      "example_cn": "这只是又一件累积起来的事情。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "After a long and messy campaign today, Democratic voters will decide between congresswoman Haley Stevens or Abdul El-Sayed.",
+      "cn": "经过今天漫长而混乱的竞选，民主党选民将在国会议员海利·史蒂文斯和阿卜杜勒·埃尔-萨耶德之间做出选择。",
+      "structure": "介词短语作时间状语 + 主句（主语 + 谓语 + 宾语 + 介词短语）",
+      "analysis": "句首的'After a long and messy campaign today'是时间状语，主句为'Democratic voters will decide between...'，其中'between...or...'是固定搭配，表示在两者之间选择。"
+    },
+    {
+      "en": "There is a reason why Republicans are already spending thousands and thousands of dollars meddling in this primary, trying to maybe get their preferred candidate.",
+      "cn": "共和党人已经花费大量资金干预这次初选，试图得到他们偏好的候选人，这是有原因的。",
+      "structure": "There be 句型 + 定语从句（why引导）+ 现在分词短语作状语",
+      "analysis": "'There is a reason'是主句，'why Republicans are already spending...'是定语从句修饰'reason'，其中'spending...meddling...'是现在分词短语作伴随状语，'trying to...'是目的状语。"
+    },
+    {
+      "en": "But even as that happens, we've seen these races like Michigan, where we're starting to see some doubts creep in.",
+      "cn": "但即使如此，我们也看到了像密歇根这样的竞选，那里开始出现一些疑虑。",
+      "structure": "让步状语从句（even as）+ 主句 + 非限制性定语从句（where）",
+      "analysis": "'even as that happens'是让步状语从句，主句为'we've seen these races like Michigan'，'where'引导非限制性定语从句修饰'Michigan'，'creep in'意为'悄悄出现'。"
+    },
+    {
+      "en": "And if they're not winning these swing states and these blue states, the map is just very tough for them as far as winning a Democratic Senate majority.",
+      "cn": "如果他们不能赢得这些摇摆州和蓝州，那么对于赢得民主党参议院多数席位来说，形势对他们非常严峻。",
+      "structure": "条件状语从句（if）+ 主句 + 介词短语（as far as）",
+      "analysis": "'if'引导条件状语从句，主句为'the map is just very tough for them'，'as far as'意为'就...而言'，后接动名词短语。"
+    },
+    {
+      "en": "There's one thing, Audie, that cuts across all of these that I want to talk about this morning, which is this change electorate.",
+      "cn": "奥黛，有一件事贯穿所有这些，我今天早上想谈谈，那就是这个变化的选民群体。",
+      "structure": "There be 句型 + 定语从句（that cuts across）+ 定语从句（that I want to talk about）+ 非限制性定语从句（which is）",
+      "analysis": "'There's one thing'是主句，'that cuts across all of these'是定语从句修饰'one thing'，'that I want to talk about'是另一个定语从句，'which is this change electorate'是非限制性定语从句补充说明。"
+    },
+    {
+      "en": "I think a lot of our problems in our politics right now are downstream from the fact that on the right, you've sort of got one guy who's in charge, who's a boss, and a lot of ideological diversity that's allowed to work around his orbit, so long as you kiss that ring and then over on the left, no one who's necessarily in charge.",
+      "cn": "我认为我们当前政治中的许多问题都源于这样一个事实：在右翼，你有一个负责的人，一个老板，并且允许许多意识形态的多样性在他的轨道上运作，只要你表示效忠；而在左翼，没有人真正负责。",
+      "structure": "主句（I think...）+ 宾语从句（a lot of...are downstream from the fact）+ 同位语从句（that on the right...）+ 并列结构（and then over on the left...）",
+      "analysis": "这是一个复杂句，'I think'后接宾语从句，'the fact'后接同位语从句解释事实内容，其中包含'who'引导的定语从句和'so long as'引导的条件状语从句，最后用'and then'连接左翼的情况。"
+    },
+    {
+      "en": "The mainstream Democrats, like the Haley Stevens of the party, haven't really been able to run effective campaigns against the more radical flank, because they're not willing to say what they're for that the DSA left is against.",
+      "cn": "主流民主党人，比如党内的海利·史蒂文斯，一直未能真正有效地对抗更激进的派系，因为他们不愿意说出他们支持而民主社会主义者左翼反对的东西。",
+      "structure": "主句（The mainstream Democrats...haven't been able to run...）+ 原因状语从句（because...）+ 宾语从句（what they're for）+ 定语从句（that the DSA left is against）",
+      "analysis": "主句主语是'The mainstream Democrats'，'like the Haley Stevens of the party'是插入语，'because'引导原因状语从句，其中'what they're for'是宾语从句，'that the DSA left is against'是定语从句修饰'what'。"
+    },
+    {
+      "en": "And I think that's why you see the UAW endorsed him.",
+      "cn": "我认为这就是为什么你看到UAW支持他。",
+      "structure": "主句（I think）+ 宾语从句（that's why...）",
+      "analysis": "'I think'后接宾语从句，'that's why'引导表语从句，表示原因。"
+    },
+    {
+      "en": "But again, to your point, it's because it's Michigan.",
+      "cn": "但再次，你说得对，这是因为密歇根州。",
+      "structure": "插入语（to your point）+ 主句（it's because...）",
+      "analysis": "'to your point'是插入语，意为'就你的观点而言'，主句是'it's because it's Michigan'，其中'because'引导表语从句。"
+    },
+    {
+      "en": "And that's why you see that.",
+      "cn": "这就是为什么你看到这种情况。",
+      "structure": "主句（that's why...）",
+      "analysis": "'that's why'引导表语从句，表示原因。"
+    },
+    {
+      "en": "I think Abdullah El-Sayed is winning, because he's running a virulently anti-Israel campaign, as you said, Audie.",
+      "cn": "我认为阿卜杜勒·埃尔-萨耶德正在获胜，因为他正在进行一场恶毒的反以色列竞选，正如你所说，奥黛。",
+      "structure": "主句（I think...）+ 宾语从句（Abdullah El-Sayed is winning）+ 原因状语从句（because...）+ 插入语（as you said）",
+      "analysis": "'I think'后接宾语从句，'because'引导原因状语从句，'as you said'是插入语，表示引用。"
+    },
+    {
+      "en": "I don't think it's because he's talking about bringing manufacturing back to Michigan.",
+      "cn": "我不认为这是因为他在谈论将制造业带回密歇根。",
+      "structure": "主句（I don't think）+ 宾语从句（it's because...）",
+      "analysis": "'I don't think'后接宾语从句，'because'引导表语从句，表示原因。"
+    },
+    {
+      "en": "And I want to give the last word to Aaron, because Bernie Sanders, when I think of him grumpy with his arms crossed at that DNC many years ago.",
+      "cn": "我想让亚伦说最后一句话，因为伯尼·桑德斯，当我想到多年前他在民主党全国代表大会上双臂交叉、脾气暴躁的样子。",
+      "structure": "主句（I want to give...）+ 原因状语从句（because...）+ 时间状语从句（when I think of...）",
+      "analysis": "主句是'I want to give the last word to Aaron'，'because'引导原因状语从句，其中'when I think of him grumpy...'是时间状语从句，'grumpy with his arms crossed'是形容词短语作补语。"
+    },
+    {
+      "en": "The reason is because the Democratic primary electorate has proven willing to elect these kinds of candidates.",
+      "cn": "原因是民主党初选选民已经证明愿意选举这类候选人。",
+      "structure": "主句（The reason is）+ 表语从句（because...）",
+      "analysis": "'The reason is'后接表语从句，'because'引导表语从句，说明原因。"
+    },
+    {
+      "en": "They haven't gotten these candidates, necessarily, through primaries in marquee races, in swing electorates.",
+      "cn": "他们不一定能让这些候选人通过重要竞选的初选，在摇摆选民中。",
+      "structure": "主句（They haven't gotten...）+ 插入语（necessarily）+ 介词短语（through primaries...）",
+      "analysis": "主句是'They haven't gotten these candidates'，'necessarily'是插入语，'through primaries in marquee races, in swing electorates'是介词短语作方式状语。"
+    },
+    {
+      "en": "So, getting Abdul el-Sayed through this primary and having him tested in a general election that is going to have lots of focus in November, is a big moment for this movement.",
+      "cn": "因此，让阿卜杜勒·埃尔-萨耶德通过这次初选，并让他在11月备受关注的普选中接受考验，对这个运动来说是一个重要时刻。",
+      "structure": "动名词短语作主语（getting...and having...）+ 系动词（is）+ 表语（a big moment）+ 定语从句（that is going to...）",
+      "analysis": "主语是两个并列的动名词短语'getting Abdul el-Sayed through this primary'和'having him tested in a general election'，'that is going to have lots of focus in November'是定语从句修饰'general election'。"
+    },
+    {
+      "en": "They need to prove that they can win in that kind of environment, not just primaries, but general elections with swing electorates.",
+      "cn": "他们需要证明他们能在那种环境中获胜，不仅仅是初选，而是有摇摆选民的普选。",
+      "structure": "主句（They need to prove）+ 宾语从句（that they can win...）+ 并列结构（not just...but...）",
+      "analysis": "'They need to prove'后接宾语从句，'not just...but...'是并列结构，强调不仅仅是初选，而是普选。"
+    },
+    {
+      "en": "Now, Grassley had asked him to testify on September 22nd, if approved by the Justice Department.",
+      "cn": "现在，格拉斯利曾要求他在9月22日作证，如果得到司法部批准的话。",
+      "structure": "主句（Grassley had asked him to testify...）+ 条件状语从句（if approved...）",
+      "analysis": "主句是'Grassley had asked him to testify on September 22nd'，'if approved by the Justice Department'是条件状语从句的省略形式，完整为'if he is approved by the Justice Department'。"
+    },
+    {
+      "en": "Now, it's expected to include provisions to voluntarily allow the government to review new models before they release them.",
+      "cn": "现在，预计它将包括允许政府在新模型发布前自愿审查这些模型的规定。",
+      "structure": "主句（it's expected to include...）+ 不定式短语作定语（to voluntarily allow...）+ 时间状语从句（before they release them）",
+      "analysis": "'it's expected to include'是主句，'to voluntarily allow...'是不定式短语作定语修饰'provisions'，'before they release them'是时间状语从句。"
+    },
+    {
+      "en": "Audio captures the moment the pilot warned that they wouldn't make it to the airport's runway.",
+      "cn": "音频捕捉到飞行员警告他们无法到达机场跑道的时刻。",
+      "structure": "主句（Audio captures the moment）+ 定语从句（the pilot warned...）",
+      "analysis": "'the moment'后接定语从句，省略了关系副词'when'，'warned'后接宾语从句'that they wouldn't make it...'。"
+    },
+    {
+      "en": "She confirmed that she is taking a step back from public life.",
+      "cn": "她确认她正在退出公众生活。",
+      "structure": "主句（She confirmed）+ 宾语从句（that she is taking...）",
+      "analysis": "'She confirmed'后接宾语从句，'that'引导宾语从句，'take a step back from'意为'退出'。"
+    },
+    {
+      "en": "So, what she told fans last night is that her decision is not reactive, and it's something that has been planned for some time.",
+      "cn": "所以，她昨晚告诉粉丝的是，她的决定不是被动的，而是已经计划了一段时间的事情。",
+      "structure": "主语从句（what she told fans last night）+ 系动词（is）+ 表语从句（that her decision is not reactive...）",
+      "analysis": "'what she told fans last night'是主语从句，'is'是系动词，'that'引导表语从句，其中包含'and'连接的并列结构。"
+    },
+    {
+      "en": "But what I don't understand is Trump lashing out at Pirro.",
+      "cn": "但我不明白的是特朗普猛烈抨击皮罗。",
+      "structure": "主语从句（what I don't understand）+ 系动词（is）+ 表语（Trump lashing out at Pirro）",
+      "analysis": "'what I don't understand'是主语从句，'is'是系动词，'Trump lashing out at Pirro'是动名词复合结构作表语。"
+    },
+    {
+      "en": "Why do you think she has come in for such criticism from him when she has gone after just about everyone, you know, that he has been frustrated with?",
+      "cn": "你为什么认为她受到他如此批评，而她已经追查了他几乎对每个人都感到沮丧的人？",
+      "structure": "特殊疑问句（Why do you think...）+ 宾语从句（she has come in for...）+ 时间状语从句（when she has gone after...）",
+      "analysis": "'Why do you think'是主句，后接宾语从句'she has come in for such criticism from him'，'when'引导时间状语从句，'you know'是插入语。"
+    },
+    {
+      "en": "The problem is that we've seen this over and over again, over the last 18 months or so; is that when these theories actually have to be tested in court, that doesn't go very well.",
+      "cn": "问题是我们在过去18个月左右反复看到这种情况；当这些理论实际上必须在法庭上检验时，情况并不顺利。",
+      "structure": "主句（The problem is）+ 表语从句（that we've seen...）+ 分号连接另一个表语从句（is that when...）",
+      "analysis": "'The problem is'后接两个表语从句，用分号连接，第二个表语从句中'when'引导时间状语从句。"
+    },
+    {
+      "en": "There was a lot of hemming and hawing about the fact that Donald Trump would not abide by the decisions of the Supreme Court or other courts at any point.",
+      "cn": "关于唐纳德·特朗普不会在任何时候遵守最高法院或其他法院的裁决这一事实，人们支支吾吾。",
+      "structure": "There be 句型 + 介词短语（about the fact）+ 同位语从句（that Donald Trump would not abide by...）",
+      "analysis": "'There was a lot of hemming and hawing'是主句，'about the fact'是介词短语，'that'引导同位语从句解释'fact'的内容。"
+    },
+    {
+      "en": "This administration is operating within the confines of the law and operating like it is bound to the law.",
+      "cn": "本届政府在法律范围内运作，并且像受法律约束一样运作。",
+      "structure": "主句（This administration is operating...and operating...）+ 方式状语从句（like it is bound to the law）",
+      "analysis": "主句有两个并列的谓语'is operating...and operating...'，'like'引导方式状语从句，意为'像...一样'。"
+    },
+    {
+      "en": "I think this is someone who's been a pretty good soldier for the president and his administration.",
+      "cn": "我认为这是一个为总统和他的政府相当忠诚的人。",
+      "structure": "主句（I think）+ 宾语从句（this is someone...）+ 定语从句（who's been...）",
+      "analysis": "'I think'后接宾语从句，'who'引导定语从句修饰'someone'。"
+    },
+    {
+      "en": "Remember the guy who went to Congress this week or last week, who wants a big job, who couldn't say that Joe Biden won the election because folks are scared to death to cross him?",
+      "cn": "还记得那个本周或上周去国会的人吗？他想要一个大职位，却不能说乔·拜登赢得了选举，因为人们害怕得罪他。",
+      "structure": "祈使句（Remember the guy）+ 定语从句（who went to Congress...）+ 定语从句（who wants a big job）+ 定语从句（who couldn't say...）+ 原因状语从句（because...）",
+      "analysis": "'Remember the guy'是祈使句，后面有三个'who'引导的定语从句修饰'the guy'，最后一个定语从句中'that'引导宾语从句，'because'引导原因状语从句。"
+    },
+    {
+      "en": "And I think that, in any other time, if, you know -- when Democrats take over the -- the House, if they do in January, this is the kind of thing that you would want to have congressional hearings and issue subpoenas.",
+      "cn": "我认为，在任何其他时候，如果——你知道——当民主党接管众议院时，如果他们在一月份这样做，这就是你想要举行国会听证会并发出传票的那种事情。",
+      "structure": "主句（I think that...）+ 条件状语从句（if...when...）+ 主句（this is the kind of thing...）+ 定语从句（that you would want...）",
+      "analysis": "'I think that'后接宾语从句，其中包含'if'和'when'引导的状语从句，主句是'this is the kind of thing'，'that'引导定语从句。"
+    },
+    {
+      "en": "But look, it's not the first time, and it won't be the last time that an administration looks to pursue a case that it knows it probably can't win in court.",
+      "cn": "但听着，这不是第一次，也不会是最后一次，一个政府试图追查一个它知道可能无法在法庭上获胜的案件。",
+      "structure": "并列句（it's not the first time, and it won't be the last time）+ 定语从句（that an administration looks to pursue...）+ 定语从句（that it knows...）",
+      "analysis": "这是一个并列句，'that'引导定语从句修饰'time'，其中包含另一个'that'引导的定语从句修饰'case'。"
+    },
+    {
+      "en": "We had with the Biden administration, right? They attempted to wipe all student debt until the Supreme Court came along and said, actually, you can't really do that.",
+      "cn": "我们与拜登政府有过这种情况，对吧？他们试图免除所有学生债务，直到最高法院出现并说，实际上，你不能真的那样做。",
+      "structure": "省略句（We had with the Biden administration）+ 主句（They attempted to wipe...）+ 时间状语从句（until the Supreme Court came along and said...）",
+      "analysis": "'We had with the Biden administration'是省略句，完整为'We had this with the Biden administration'，主句是'They attempted to wipe all student debt'，'until'引导时间状语从句。"
+    },
+    {
+      "en": "But each one of these is someone taking the time, doing the evidentiary work, going to court.",
+      "cn": "但每一个这些都是有人花时间，做证据工作，上法庭。",
+      "structure": "主句（each one of these is someone）+ 现在分词短语作定语（taking the time, doing the evidentiary work, going to court）",
+      "analysis": "主句是'each one of these is someone'，后面三个并列的现在分词短语修饰'someone'。"
+    },
+    {
+      "en": "And at what point, if you're running a business and you're a businessperson, do you look around and say, I'm just -- this is creating problems.",
+      "cn": "在什么情况下，如果你经营一家企业，你是一个商人，你会环顾四周说，我只是——这正在制造问题。",
+      "structure": "特殊疑问句（at what point...do you look around and say...）+ 条件状语从句（if you're running...）",
+      "analysis": "'at what point'是疑问词，'if'引导条件状语从句，主句是'do you look around and say'，后接直接引语。"
+    },
+    {
+      "en": "We've talked a lot about cost and corruption as we move into the midterms, and the thing that we're not talking about is we keep talking about this contractor.",
+      "cn": "随着我们进入中期选举，我们已经谈了很多关于成本和腐败的问题，而我们没有谈论的是我们一直在谈论这个承包商。",
+      "structure": "并列句（We've talked...and the thing...is...）+ 时间状语从句（as we move into the midterms）+ 定语从句（that we're not talking about）",
+      "analysis": "这是一个并列句，第一个分句有'as'引导的时间状语从句，第二个分句的主语是'the thing'，后接'that'引导的定语从句，'is'后接表语从句。"
+    },
+    {
+      "en": "We have reported on this network that the contract was somebody that worked on a pool down at Mar-a-Lago.",
+      "cn": "我们在这个网络上报道过，合同是某个在海湖庄园修过游泳池的人。",
+      "structure": "主句（We have reported on this network）+ 宾语从句（that the contract was somebody...）+ 定语从句（that worked on a pool...）",
+      "analysis": "'We have reported'后接宾语从句，'that'引导宾语从句，其中'that worked on a pool...'是定语从句修饰'somebody'。"
+    },
+    {
+      "en": "Now, I'm not saying any wrongdoing was done.",
+      "cn": "现在，我不是说有任何不当行为。",
+      "structure": "主句（I'm not saying）+ 宾语从句（any wrongdoing was done）",
+      "analysis": "'I'm not saying'后接宾语从句，'any wrongdoing was done'是宾语从句。"
+    },
+    {
+      "en": "But it's just another thing that stacks up.",
+      "cn": "但这只是又一件累积起来的事情。",
+      "structure": "主句（it's just another thing）+ 定语从句（that stacks up）",
+      "analysis": "'that'引导定语从句修饰'thing'，'stack up'意为'累积'。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "Michigan Democratic Primary",
+      "content": "The Michigan Democratic primary is a key race between progressive Abdul El-Sayed and establishment-backed Haley Stevens. The primary is seen as a test for the Democratic Party's direction, with issues like Medicare for All, ICE, and Israel policy dividing the candidates. The outcome could impact the party's chances in the general election.",
+      "keywords": "Michigan, primary, Democratic, progressive, establishment, El-Sayed, Stevens"
+    },
+    {
+      "title": "Reflecting Pool Vandalism Case",
+      "content": "The Justice Department dropped charges against an Olympian accused of vandalizing the Reflecting Pool, admitting the damage was due to a botched renovation. President Trump criticized U.S. Attorney Jeanine Pirro, saying she 'folded like an umbrella.' The case highlights tensions between the administration and the Justice Department.",
+      "keywords": "Reflecting Pool, vandalism, Justice Department, Jeanine Pirro, Trump, botched renovation"
+    },
+    {
+      "title": "AI Oversight Framework",
+      "content": "The White House is meeting with AI company leaders to discuss a new framework for government oversight, including voluntary review of new models. This comes after incidents of AI agents going rogue, raising concerns about safety and regulation.",
+      "keywords": "AI, oversight, White House, framework, voluntary review, rogue AI"
+    },
+    {
+      "title": "Washington Wildfires",
+      "content": "Wildfires in Washington state continue to rage, with a suspect charged with arson. Residents are experiencing significant losses, including personal belongings and memories.",
+      "keywords": "wildfires, Washington, arson, residents, losses"
+    },
+    {
+      "title": "Ariana Grande Stepping Back",
+      "content": "Ariana Grande announced she is taking a step back from public life, addressing rumors about her appearance. She stated the decision was planned and not reactive.",
+      "keywords": "Ariana Grande, stepping back, public life, rumors, planned"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nStevens, El-Sayed Go Head-to-Head in Michigan Primary; Trump: Pirro Folded 'Like an Umbrella' in Pool Vandalism Case. Aired 6-6:30a ET\n\nAired August 04, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nBRAD SMITH, CNN ANCHOR: Some people, as you could see, they could not resist having some fun with it. I mean, let's just take a second and -- yes, there's a little bit of joy than can be found.\n\nJust look at the scene. People are just trying to figure out what is going on. And yes, you've got to play with some bubbles every now and then. It is summertime.\n\nThat does it for CNN HEADLINE EXPRESS. I'm Brad Smith. CNN THIS MORNING with Audie Cornish starts right now.\n\nAUDIE CORNISH, CNN ANCHOR: OK. Today in the group chat, a big test for the big tent party. Will voters in Michigan follow other states and go with the far-left candidate, or will the establishment win out?\n\nABDUL EL-SAYED (D), MICHIGAN SENATORIAL CANDIDATE: Ours is the work of continuously building a bigger movement.\n\nREP. HALEY STEVENS (D-MI), MICHIGAN SENATORIAL CANDIDATE: When it comes to Michigan, I run through anyone and anything to stand up for us.\n\nCORNISH: An embattled congressman refusing to step aside. Now the president weighs in, telling him, quote, \"Things aren't looking good.\" Could this put a red state at risk come November?\n\nAnd Trump, furious over the Justice Department's decision to drop the Reflecting Pool case. Could Jeanine Pirro be his scapegoat.\n\nAnd a suspect charged with arson as the wildfires in Washington state rage on this morning. The anguish from residents as they see what was spared from the flames.\n\nUNIDENTIFIED FEMALE: It's a very, very hard loss. All of mine and my siblings' childhood pictures, all the baby clothes, I'm pretty sure my grandpa's ashes, everything was in there.\n\n(END VIDEO CLIP) (BEGIN VIDEO CLIP)\n\nUNIDENTIFIED FEMALE: The energy right now in Detroit and Michigan generally, it's really -- it feels great, you know, a little nerve wracking. But it's a -- it's a lot of people coming in. It almost feels like it's the general election. There's so much energy around it right now.\n\nUNIDENTIFIED FEMALE: In this room --\n\nCORNISH: It is election day in Michigan and a referendum for the Democratic Party. Will voters back the progressive choice or the candidate backed by the establishment?\n\nGood morning, everybody. I'm Audie Cornish, and here is where we start. The most expensive Democratic primary.\n\nAfter a long and messy campaign today, Democratic voters will decide between congresswoman Haley Stevens or Abdul El-Sayed. Under the big tent, these candidates are on opposite sides. El-Sayed wants Medicare for all. Stevens wants to improve Obamacare.\n\nEl-Sayed wants to abolish ICE. Stevens says she backs ICE reforms. And El-Sayed wants to stop aid to Israel. Stevens has been a pro-Israel vote in the House.\n\nIt's that last issue that's causing the most division. More than 60 million in cash, pouring in from outside groups to help Stevens. The biggest spender by far: a pro-Israeli super PAC.\n\nSTEVENS: There is a reason why Republicans are already spending thousands and thousands of dollars meddling in this primary, trying to maybe get their preferred candidate. Look, when it comes to Michigan, I run through anyone and anything to stand up for us.\n\nEL-SAYED: This movement of ours has proven that it can come through $80 million of spending in lies, because we're willing to hold with us the truth.\n\nYou can't buy inspiration. You can't buy people deciding to be a part of something. You can't buy hope. You can't buy belief.\n\nCORNISH: OK. Today in the group chat, Aaron Blake, CNN senior political reporter; Chuck Rocha, Democratic strategist and former senior adviser to Bernie Sanders' presidential campaigns; and Jesse Arm, pollster and vice president at the Manhattan Institute.\n\nGood morning, gentlemen. Welcome to the chat. I want to start with you, Aaron. You were saying Democrats have a new problem as they try to win the Senate. What is that problem? AARON BLAKE, CNN SENIOR POLITICAL REPORTER: Well, what we've seen in\n\nthe last several weeks here is the -- the big hurdle that we thought Democrats would have, which would be competing in a lot of these red states. You know, the states that Donald Trump won by double digits.\n\nThey've got the polling to back up that they can win in states like Iowa, like Texas, like Ohio. Those are on the table. They need some of those. But even as that happens --\n\nCORNISH: That list is like Iowa, Texas.\n\nCORNISH: Are you sure about this? I'm sort of shocked --\n\nCORNISH: -- shocked to hear these states.\n\nBLAKE: Those are polling pretty competitively.\n\nBut at the same time, we've seen these races like Michigan, where we're starting to see some doubts creep in. The Democratic establishment is very concerned, if Abdullah El-Sayed emerges from this primary, that he's going to be a liability in the general election.\n\nAnd if they're not winning these swing states and these blue states, the map is just very tough for them as far as winning a Democratic Senate majority.\n\nCORNISH: OK. If you live in Michigan, my apologies, because I'm going to play for you some clips from some of the ads you've probably been seeing nonstop from Stevens and El-Sayed. Here we go.\n\nEL-SAYED: Money in your pocket and Medicare --\n\nALEXANDRIA OCASIO-CORTEZ (D-NY): For all. That's the part they can't stand. That's why billionaires are spending millions to bury Abdul and this movement.\n\nSTEVENS: As chief of staff to President Obama's auto rescue, I helped save Michigan jobs.\n\nBARACK OBAMA, FORMER PRESIDENT OF THE UNITED STATES: And Haley Stevens, by the way, she was there. She was a critical part of my team.\n\nCORNISH: I love it. The music's giving Michigan Detroit vibes the whole way across the board. Why has this become the proxy battle for the back and forth? Every\n\ntime you and I are on set, we talk about like, oh, the Democratic socialists here, the moderates here. What makes Michigan different?\n\nCHUCK ROCHA, DEMOCRATIC STRATEGIST: Well, I think Aaron said it right, is that there's no way for us to win this majority in the Senate unless we can win these Democratic strongholds.\n\nAnd to your point, what makes Michigan different is that it's supposed to be one that's not this hard to win in November, and it's looking like it could be hard, because the polling just stacks up the way.\n\nThere's one thing, Audie, that cuts across all of these that I want to talk about this morning, which is this change electorate. And we've been living through change elections, through lots of elections.\n\nCORNISH: I was about to say, I feel like that's my perennial report.\n\nROCHA: But let me take that to Michigan. And this is where this Democrat gives Donald Trump credit. Michigan has been so desperate for change, they'd vote for Donald Trump twice. Folks there are sick and tired of being sick and tired, and they're looking for something different.\n\nAnd I think that's why El-Sayed is doing so well. Sure, he's got a great message and he's got things that may be bad, as well, but a lot more plus than minus. But it's just a change electorate overall.\n\nCORNISH: It's also interesting to see what's going on with donors. \"The Wall Street Journal\" was reporting that the big, big, like marquee name donors are sitting out; that they've nicknamed the DNC \"Do not contribute.\"\n\nAnd then, when I look at the cash on hand for Republicans, like, it's super PACs. You know what I mean? Like, it -- it feels like there's been a shift in who spends the money. And obviously, that has to do with the Supreme Court, et cetera.\n\nBut are we really feeling it in this election?\n\nJESSE ARM, POLLSTER/VICE PRESIDENT OF MANHATTAN INSTITUTE: Yes. Well, I mean, donors are giving through different vehicles. A lot of donors have been giving historically to some of these big ideological groups that have driven, you know, I think the Democratic Party further to the left -- right? -- as more of these groups are sort of organizing around the same causes.\n\nCORNISH: But you mean sort of like the way they'd be, like, Club for Growth, do you say this? And now the money is going to something not quite the same.\n\nCORNISH: Not as ideological. ARM: Actually, I do think they are saying increasingly the same thing.\n\nARM: I'm seeing a lot of ads from clients, a lot of communications on social media from Climate Defiance that are about issues in the Middle East.\n\nDitto a lot of the big abortion groups have all kind of consolidated on one sort of omni cause message.\n\nI think a lot of our problems in our politics right now are downstream from the fact that on the right, you've sort of got one guy who's in charge, who's a boss, and a lot of ideological diversity that's allowed to work around his orbit, so long as you kiss that ring and then over on the left, no one who's necessarily in charge. But everyone's swimming in the same direction ideologically.\n\nThe mainstream Democrats, like the Haley Stevens of the party, haven't really been able to run effective campaigns against the more radical flank, because they're not willing to say what they're for that the DSA left is against. That's been a real challenge for Haley Stevens.\n\nLook, Rashida Tlaib, the congresswoman from Michigan, is hitting Haley Stevens, because she's got support from General Motors and General Mills.\n\nCORNISH: But can I interrupt with those --\n\nARM: Those are big Michigan companies.\n\nCORNISH: I understand that. But also, Michigan has been a canary. Right? And its car factory for like a couple of years now. I mean, ever since October 7th.\n\nAnd I remember the Biden administration trying to find a way to talk about Gaza and Israel with an electorate. And it had nothing in common with that electorate anymore. And Michigan was the place where I remember the DNC. Their electors were the most frustrated. Right?\n\nThat's where you really -- it felt like that was the place that had this dialog the most strongly. And it feels almost inevitable that you'd see a candidate like Abdullah el-Sayed come forward.\n\nROCHA: And I think that's why you see the UAW endorsed him. I talked to somebody at the UAW this morning early, and they told me that they have talked to 120,000 of their active and retired members. And they make up 9 percent of the early vote, because they can take the data that we get back from the elections on who has voted early and cross match it against their voter files of their members.\n\nThat's crazy good for them. But again, to your point, it's because it's Michigan. You've seen a downturn in manufacturing. You have this very diverse electorate, and you see a lot of the economics coming to Michigan. And that's why you see that.\n\nCORNISH: I want to show you guys one more thing. Their supporters, who they've gotten endorsements from.\n\nSo, when you look at Haley Stevens, she's gotten the governor, Senator Chuck Schumer. And then when you look at Abdul el-Sayed, you've got Bernie Sanders, AOC, Elizabeth Warren.\n\nAnd that -- that last group of three, I feel like this has been percolating for a while, right? In terms of long-term movements percolating in the party.\n\nARM: Well, one thing that's worth mentioning and responding to is that the UAW, at a national level, is now 25 percent, more than that, graduate students. OK? So, this isn't your father's UAW.\n\nAnd Haley Stevens has the support of a lot of the big manufacturing unions that are constituted at a national level, more of actual workers at that level. So --\n\nCORNISH: So, you mean non-unions? Or what do you mean by that?\n\nARM: I think graduate students are part of what's driving the UAW farther to the left.\n\nCORNISH: No, I mean when you said what's supporting her? You're saying it's --\n\nARM: Haley Stevens has the support of a number of other unions in the state.\n\nCORNISH: That you see as more worker-oriented or not having the --\n\nCORNISH: -- one in four graduate --\n\nARM: I mean, I think Abdullah El-Sayed is winning, because he's running a virulently anti-Israel campaign, as you said, Audie.\n\nI don't think it's because he's talking about bringing manufacturing back to Michigan. That's what Haley Stevens has been talking about. In fact, it's kind of the only thing she can talk about.\n\nCORNISH: Let me underscore, I did not say he was running a virulently anti-Israel campaign.\n\nCORNISH: I want you to own your comments.\n\nARM: I don't think -- I don't think he -- I don't think he --\n\nCORNISH: Just so you can get credit for your own comments.\n\nARM: I did think he would dispute that he's running a virulently anti- Israel campaign. CORNISH: I would dispute I said it.\n\nAnd I want to give the last word to Aaron, because Bernie Sanders, when I think of him grumpy with his arms crossed at that DNC many years ago.\n\nBLAKE: With the mittens on, yes.\n\nCORNISH: Elizabeth Warren, it feels like we are seeing the fruits of a long-running movement that may or may not be coming to fruition.\n\nBLAKE: Yes. And this is a very big moment for that movement. And I'll tell you why. The reason is because the Democratic primary electorate has proven willing to elect these kinds of candidates. The DSA candidates in -- in cities like New York City, in cities, you know, heavily urban areas.\n\nCORNISH: And only now.\n\nBLAKE: In between Boulder in Colorado. They haven't gotten these candidates, necessarily, through primaries in marquee races, in swing electorates.\n\nSo, getting Abdul el-Sayed through this primary and having him tested in a general election that is going to have lots of focus in November, is a big moment for this movement. They need to prove that they can win in that kind of environment, not just primaries, but general elections with swing electorates. And that's why I think this race is so important for that movement.\n\nCORNISH: All right. So, big test. That's why we're watching it.\n\nI want to turn to something else on CNN THIS MORNING. The ethics panel that wants to censure Republican Chuck Edwards. We're going to talk about why some women in the House of Representatives say that is not enough.\n\nAnd then today, the White House will meet with leaders in A.I. Will we finally get the guardrails that have been promised?\n\nAnd Ariana Grande speaking out in her own words. Why she is stepping away from the spotlight.\n\nCORNISH: OK, it's now 15 minutes past the hour. Here are five things making the news this morning.\n\nThat multi-state cyclosporiasis outbreak has turned deadly. Two people in Michigan have died from the intestinal illness, which causes dramatic stomach upset and can lead to severe dehydration. Officials say both victims had underlying health conditions.\n\nAt this point, more than 18,000 cases have been reported in the U.S. And former special counsel Jack Smith, willing to testify publicly\n\nbefore a Senate committee. That's according to a letter from his attorneys to Chairman Chuck Grassley, obtained by CNN.\n\nNow, Grassley had asked him to testify on September 22nd, if approved by the Justice Department.\n\nSmith is facing scrutiny over his investigation into President Trump's alleged attempts to overthrow the 2020 election and his use of subpoenas to obtain lawmakers' text messages as part of that investigation.\n\nAnd later today, the White House is going to meet with the leaders of artificial intelligence companies about a new framework for government oversight.\n\nNow, it's expected to include provisions to voluntarily allow the government to review new models before they release them. And the meeting comes just before -- just before both. Sorry. Just after both OpenAI and Anthropic reported incidents of an A.I. agent going rogue and hacking into competitor companies.\n\nNow, the FAA is investigating a near miss in Florida after a small training plane lost engine power and then landed directly on the interstate.\n\nAudio captures the moment the pilot warned that they wouldn't make it to the airport's runway.\n\nUNIDENTIFIED FEMALE: We are not making the airport. We're going down on I-10. Tower, can you still hear for Number 62?\n\nUNIDENTIFIED MALE: Number 62, I've got you loud and clear. What do you need?\n\nUNIDENTIFIED FEMALE: I just want to let you know we are lined up with I-10, trying to avoid the cars.\n\nUNIDENTIFIED MALE: Number 62. Roger, we're going to get everybody over there as fast as they can to help you out.\n\nCORNISH: And then this is dash cam video from a truck showing the plane nearly missing a highway sign.\n\nAnd Ariana Grande addressing rumors in a speech to the crowd on her Chicago tour stop last night. She confirmed that she is taking a step back from public life.\n\nThe singer has been under intense scrutiny for her appearance, especially after her new album and its music video dropped last week.\n\nSo, what she told fans last night is that her decision is not reactive, and it's something that has been planned for some time.\n\nNow, after the break on CNN THIS MORNING, the Justice Department admits it was a botched renovation that caused the issues with the Reflecting Pool, not vandalism. But that's not what the president wanted to hear.\n\nSo, who might lose their jobs because of this?\n\nToday, the Senate Judiciary Committee is going to vote on Todd Blanche's nomination for A.G. Does he have the votes for a new gig?\n\nIn the meantime, good morning to our viewers in New York City. A look at the sunrise over the skyline.\n\nDONALD TRUMP, U.S. PRESIDENT: Jeanine Pirro made a mistake. There was vandalism.\n\nFrankly, I think she choked. She choked. I don't know what the hell happened.\n\nI was disappointed with Jeanine Pirro. Really disappointed with Jeanine Pirro. She -- she folded like an umbrella.\n\nCORNISH: OK. After weeks of algae blooms and chipping bottoms, President Trump furious at his longtime ally, Jeanine Pirro, the U.S. attorney in D.C., over the pool vandalism case.\n\nSo, you've got sources telling CNN that he stopped short of firing her during a White House meeting on Monday. But he did, obviously, lash out at her, because the Justice Department admitted the pool problems were caused by a flawed renovation rather than vandalism, as the president has long claimed.\n\nNow, her office also said it's dropping the criminal case against the man accused of being the so-called vandal. He was an Olympian, David Hearn.\n\nAnd the Justice Department acknowledged in a court filing that the $14 million renovation was hasty and botched.\n\nJust last month, Pirro was saying something different.\n\nUNIDENTIFIED MALE: Did he have any tools, or was it just his bare hands?\n\nJEANINE PIRRO, U.S. ATTORNEY IN WASHINGTON D.C.: Right now, we believe it's his bare hands. Both hands.\n\nUNIDENTIFIED MALE: Does that indicate, in your belief, that it was probably damaged before, or do you believe that he --\n\nPIRRO: Oh, he damaged it.\n\nUNIDENTIFIED MALE: Further. But do you believe it had already been damaged before?\n\nPIRRO: He damaged the pool.\n\nUNIDENTIFIED MALE: Before he touched it?\n\nPIRRO: He damaged this pool.\n\nCORNISH: Group chat is back. So, we were talking during the break. This filing is stunning. I know people have been talking about it for a couple of days.\n\nBut what I don't understand is Trump lashing out at Pirro. Why do you think she has come in for such criticism from him when she has gone after just about everyone, you know, that he has been frustrated with?\n\nBLAKE: Yes, I mean, look, Trump is somebody who certainly expects loyalty from the people around him. He wants them to hew to his theory of the case.\n\nAnd in this case, the theory of the case was that -- that there was vandalism, even though there wasn't any real public reason to believe that.\n\nThe problem is that we've seen this over and over again, over the last 18 months or so; is that when these theories actually have to be tested in court, that doesn't go very well. Because there are standards of evidence. There are representations.\n\nCORNISH: While you're talking, can I show you some headlines? Because we were looking at this. The number of cases: Minnesota protesters, right? Hurdles there in getting those arrests to charges right now.\n\nJustice Department drops its \"New York Times\" subpoena.\n\nCalifornia, the labor leader.\n\nI'm actually keeping a running list on my desk in office of cases that people have been arrested. The charges don't go anywhere.\n\nWhat's going on with the Justice Department? Or is the weaponization the point? Putting people through the frustration of arrests and all of that to kind of get rid of them or be a nuisance?\n\nARM: I mean, I do think it's, you know, nice to see that this administration is responsive to the courts. There was a lot of hemming and hawing about the fact that Donald Trump would not abide by the decisions of the Supreme Court or other courts at any point.\n\nThis administration is operating within the confines of the law and operating like it is bound to the law.\n\nCORNISH: So, they take the \"L,\" you're saying? They're not trying to override the system, like -- or the system is working?\n\nARM: Well, we'll see. I mean, we'll see what they do, right? I mean, he could theoretically fire Jeanine Pirro for this. I wouldn't necessarily be enthusiastic about that.\n\nI think this is someone who's been a pretty good soldier for the president and his administration. You know, has been -- has a job that's bigger than the Reflecting Pool, right?\n\nARM: Has been involved in these efforts to clean up and crack down on crime in D.C.\n\nCORNISH: And seen a lot of those cases flop, as well. This has been kind of interesting.\n\nROCHA: I think Donald Trump runs under the old East Texas philosophy of, if you lie long enough about having a horse, eventually somebody will buy you a saddle.\n\nHe's not used to telling the truth, and he don't like to be told he's wrong.\n\nRemember the guy who went to Congress this week or last week, who wants a big job, who couldn't say that Joe Biden won the election because folks are scared to death to cross him?\n\nAnd Jeanine Pirro, he thinks, just did that. And he don't like that at all.\n\nCORNISH: Did she really cross him? What do you think is going on legally in that office?\n\nBecause that filing not only said this was a botched renovation job, it said there's no way this guy reached into the middle of the pool with his bare hands, unless it was, like, one of the Fantastic Four. None of this makes sense.\n\nWe did not say this. The Interior Department said this. I mean, they threw another department under the bus.\n\nCORNISH: It was -- in its totality, it said this didn't happen.\n\nBLAKE: This -- this document read like some lawyers at the Justice Department, who were tired of dealing with this case and wanted to just get it out there and -- and wash their hands of it.\n\nIt is a remarkable document, because you're right. It's not just saying, oh, the evidence isn't quite there. It's basically pointing the finger at another department of the administration and saying that department withheld evidence from us that allowed us to move forward with a case that could have put somebody in prison wrongfully.\n\nBasically, that's the -- the logical extent of what they put out.\n\nBLAKE: And I think that, in any other time, if, you know -- when Democrats take over the -- the House, if they do in January, this is the kind of thing that you would want to have congressional hearings and issue subpoenas.\n\nCORNISH: The paperwork comes back. Yes, because it also points to the contractor and also points to -- it says it in here, that the contractor was rushing to meet the America 250 deadline.\n\nAnd it was, like, this is a lot to be putting in here for people to look at later and raise questions about.\n\nARM: Yes, I mean, I don't think it's an inherently bad thing that you had a contractor who was rushing to meet a deadline to try and clean up D.C. ahead of America 250.\n\nObviously, if you're going after the wrong person, that's a bigger problem.\n\nBut look, it's not the first time, and it won't be the last time that an administration looks to pursue a case that it knows it probably can't win in court.\n\nWe had with the Biden administration, right? They attempted to wipe all student debt until the Supreme Court came along and said, actually, you can't really do that. But Joe Biden's staffers saw --\n\nCORNISH: But each one of these is someone taking the time, doing the evidentiary work, going to court. It costs money.\n\nCORNISH: The Reflecting Pool costs money. Pretty soon, it starts to cost money.\n\nAnd at what point, if you're running a business and you're a businessperson, do you look around and say, I'm just -- this is creating problems. It's costing money. It's not working. And is that something that the voter starts to get frustrated with?\n\nROCHA: We've talked a lot about cost and corruption as we move into the midterms, and the thing that we're not talking about is we keep talking about this contractor.\n\nWe've reported on this network that the contract was somebody that worked on a pool down at Mar-a-Lago. We have said that. Now, I'm not saying any wrongdoing was done. But it looks like --\n\nCORNISH: Yes. The question of no-bid, et cetera.\n\nROCHA: Right. The no-bid contract stuff, and now it still ain't fixed. And it's cost how much money? Like I ain't running a TV commercial on this in the midterms. But it's just another thing that stacks up.\n\nARM: Well, that's the key point. I don't think any undecided voters are going to be making their decision based on Reflecting Pool dynamics.\n\nROCHA: But it's just one more thing. Right.",
+  "segments": [
+    {
+      "seg": 1,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-08-04/segment/01",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nStevens, El-Sayed Go Head-to-Head in Michigan Primary; Trump: Pirro Folded 'Like an Umbrella' in Pool Vandalism Case. Aired 6-6:30a ET\n\nAired August 04, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nBRAD SMITH, CNN ANCHOR: Some people, as you could see, they could not resist having some fun with it. I mean, let's just take a second and -- yes, there's a little bit of joy than can be found.\n\nJust look at the scene. People are just trying to figure out what is going on. And yes, you've got to play with some bubbles every now and then. It is summertime.\n\nThat does it for CNN HEADLINE EXPRESS. I'm Brad Smith. CNN THIS MORNING with Audie Cornish starts right now.\n\nAUDIE CORNISH, CNN ANCHOR: OK. Today in the group chat, a big test for the big tent party. Will voters in Michigan follow other states and go with the far-left candidate, or will the establishment win out?\n\nABDUL EL-SAYED (D), MICHIGAN SENATORIAL CANDIDATE: Ours is the work of continuously building a bigger movement.\n\nREP. HALEY STEVENS (D-MI), MICHIGAN SENATORIAL CANDIDATE: When it comes to Michigan, I run through anyone and anything to stand up for us.\n\nCORNISH: An embattled congressman refusing to step aside. Now the president weighs in, telling him, quote, \"Things aren't looking good.\" Could this put a red state at risk come November?\n\nAnd Trump, furious over the Justice Department's decision to drop the Reflecting Pool case. Could Jeanine Pirro be his scapegoat.\n\nAnd a suspect charged with arson as the wildfires in Washington state rage on this morning. The anguish from residents as they see what was spared from the flames.\n\nUNIDENTIFIED FEMALE: It's a very, very hard loss. All of mine and my siblings' childhood pictures, all the baby clothes, I'm pretty sure my grandpa's ashes, everything was in there.\n\n(END VIDEO CLIP) (BEGIN VIDEO CLIP)\n\nUNIDENTIFIED FEMALE: The energy right now in Detroit and Michigan generally, it's really -- it feels great, you know, a little nerve wracking. But it's a -- it's a lot of people coming in. It almost feels like it's the general election. There's so much energy around it right now.\n\nUNIDENTIFIED FEMALE: In this room --\n\nCORNISH: It is election day in Michigan and a referendum for the Democratic Party. Will voters back the progressive choice or the candidate backed by the establishment?\n\nGood morning, everybody. I'm Audie Cornish, and here is where we start. The most expensive Democratic primary.\n\nAfter a long and messy campaign today, Democratic voters will decide between congresswoman Haley Stevens or Abdul El-Sayed. Under the big tent, these candidates are on opposite sides. El-Sayed wants Medicare for all. Stevens wants to improve Obamacare.\n\nEl-Sayed wants to abolish ICE. Stevens says she backs ICE reforms. And El-Sayed wants to stop aid to Israel. Stevens has been a pro-Israel vote in the House.\n\nIt's that last issue that's causing the most division. More than 60 million in cash, pouring in from outside groups to help Stevens. The biggest spender by far: a pro-Israeli super PAC.\n\nSTEVENS: There is a reason why Republicans are already spending thousands and thousands of dollars meddling in this primary, trying to maybe get their preferred candidate. Look, when it comes to Michigan, I run through anyone and anything to stand up for us.\n\nEL-SAYED: This movement of ours has proven that it can come through $80 million of spending in lies, because we're willing to hold with us the truth.\n\nYou can't buy inspiration. You can't buy people deciding to be a part of something. You can't buy hope. You can't buy belief.\n\nCORNISH: OK. Today in the group chat, Aaron Blake, CNN senior political reporter; Chuck Rocha, Democratic strategist and former senior adviser to Bernie Sanders' presidential campaigns; and Jesse Arm, pollster and vice president at the Manhattan Institute.\n\nGood morning, gentlemen. Welcome to the chat. I want to start with you, Aaron. You were saying Democrats have a new problem as they try to win the Senate. What is that problem? AARON BLAKE, CNN SENIOR POLITICAL REPORTER: Well, what we've seen in\n\nthe last several weeks here is the -- the big hurdle that we thought Democrats would have, which would be competing in a lot of these red states. You know, the states that Donald Trump won by double digits.\n\nThey've got the polling to back up that they can win in states like Iowa, like Texas, like Ohio. Those are on the table. They need some of those. But even as that happens --\n\nCORNISH: That list is like Iowa, Texas.\n\nCORNISH: Are you sure about this? I'm sort of shocked --\n\nCORNISH: -- shocked to hear these states.\n\nBLAKE: Those are polling pretty competitively.\n\nBut at the same time, we've seen these races like Michigan, where we're starting to see some doubts creep in. The Democratic establishment is very concerned, if Abdullah El-Sayed emerges from this primary, that he's going to be a liability in the general election.\n\nAnd if they're not winning these swing states and these blue states, the map is just very tough for them as far as winning a Democratic Senate majority.\n\nCORNISH: OK. If you live in Michigan, my apologies, because I'm going to play for you some clips from some of the ads you've probably been seeing nonstop from Stevens and El-Sayed. Here we go.\n\nEL-SAYED: Money in your pocket and Medicare --\n\nALEXANDRIA OCASIO-CORTEZ (D-NY): For all. That's the part they can't stand. That's why billionaires are spending millions to bury Abdul and this movement.\n\nSTEVENS: As chief of staff to President Obama's auto rescue, I helped save Michigan jobs.\n\nBARACK OBAMA, FORMER PRESIDENT OF THE UNITED STATES: And Haley Stevens, by the way, she was there. She was a critical part of my team.\n\nCORNISH: I love it. The music's giving Michigan Detroit vibes the whole way across the board. Why has this become the proxy battle for the back and forth? Every\n\ntime you and I are on set, we talk about like, oh, the Democratic socialists here, the moderates here. What makes Michigan different?\n\nCHUCK ROCHA, DEMOCRATIC STRATEGIST: Well, I think Aaron said it right, is that there's no way for us to win this majority in the Senate unless we can win these Democratic strongholds.\n\nAnd to your point, what makes Michigan different is that it's supposed to be one that's not this hard to win in November, and it's looking like it could be hard, because the polling just stacks up the way.\n\nThere's one thing, Audie, that cuts across all of these that I want to talk about this morning, which is this change electorate. And we've been living through change elections, through lots of elections.\n\nCORNISH: I was about to say, I feel like that's my perennial report.\n\nROCHA: But let me take that to Michigan. And this is where this Democrat gives Donald Trump credit. Michigan has been so desperate for change, they'd vote for Donald Trump twice. Folks there are sick and tired of being sick and tired, and they're looking for something different.\n\nAnd I think that's why El-Sayed is doing so well. Sure, he's got a great message and he's got things that may be bad, as well, but a lot more plus than minus. But it's just a change electorate overall.\n\nCORNISH: It's also interesting to see what's going on with donors. \"The Wall Street Journal\" was reporting that the big, big, like marquee name donors are sitting out; that they've nicknamed the DNC \"Do not contribute.\"\n\nAnd then, when I look at the cash on hand for Republicans, like, it's super PACs. You know what I mean? Like, it -- it feels like there's been a shift in who spends the money. And obviously, that has to do with the Supreme Court, et cetera.\n\nBut are we really feeling it in this election?\n\nJESSE ARM, POLLSTER/VICE PRESIDENT OF MANHATTAN INSTITUTE: Yes. Well, I mean, donors are giving through different vehicles. A lot of donors have been giving historically to some of these big ideological groups that have driven, you know, I think the Democratic Party further to the left -- right? -- as more of these groups are sort of organizing around the same causes.\n\nCORNISH: But you mean sort of like the way they'd be, like, Club for Growth, do you say this? And now the money is going to something not quite the same.\n\nCORNISH: Not as ideological. ARM: Actually, I do think they are saying increasingly the same thing.\n\nARM: I'm seeing a lot of ads from clients, a lot of communications on social media from Climate Defiance that are about issues in the Middle East.\n\nDitto a lot of the big abortion groups have all kind of consolidated on one sort of omni cause message.\n\nI think a lot of our problems in our politics right now are downstream from the fact that on the right, you've sort of got one guy who's in charge, who's a boss, and a lot of ideological diversity that's allowed to work around his orbit, so long as you kiss that ring and then over on the left, no one who's necessarily in charge. But everyone's swimming in the same direction ideologically.\n\nThe mainstream Democrats, like the Haley Stevens of the party, haven't really been able to run effective campaigns against the more radical flank, because they're not willing to say what they're for that the DSA left is against. That's been a real challenge for Haley Stevens.\n\nLook, Rashida Tlaib, the congresswoman from Michigan, is hitting Haley Stevens, because she's got support from General Motors and General Mills.\n\nCORNISH: But can I interrupt with those --\n\nARM: Those are big Michigan companies.\n\nCORNISH: I understand that. But also, Michigan has been a canary. Right? And its car factory for like a couple of years now. I mean, ever since October 7th.\n\nAnd I remember the Biden administration trying to find a way to talk about Gaza and Israel with an electorate. And it had nothing in common with that electorate anymore. And Michigan was the place where I remember the DNC. Their electors were the most frustrated. Right?\n\nThat's where you really -- it felt like that was the place that had this dialog the most strongly. And it feels almost inevitable that you'd see a candidate like Abdullah el-Sayed come forward.\n\nROCHA: And I think that's why you see the UAW endorsed him. I talked to somebody at the UAW this morning early, and they told me that they have talked to 120,000 of their active and retired members. And they make up 9 percent of the early vote, because they can take the data that we get back from the elections on who has voted early and cross match it against their voter files of their members.\n\nThat's crazy good for them. But again, to your point, it's because it's Michigan. You've seen a downturn in manufacturing. You have this very diverse electorate, and you see a lot of the economics coming to Michigan. And that's why you see that.\n\nCORNISH: I want to show you guys one more thing. Their supporters, who they've gotten endorsements from.\n\nSo, when you look at Haley Stevens, she's gotten the governor, Senator Chuck Schumer. And then when you look at Abdul el-Sayed, you've got Bernie Sanders, AOC, Elizabeth Warren.\n\nAnd that -- that last group of three, I feel like this has been percolating for a while, right? In terms of long-term movements percolating in the party.\n\nARM: Well, one thing that's worth mentioning and responding to is that the UAW, at a national level, is now 25 percent, more than that, graduate students. OK? So, this isn't your father's UAW.\n\nAnd Haley Stevens has the support of a lot of the big manufacturing unions that are constituted at a national level, more of actual workers at that level. So --\n\nCORNISH: So, you mean non-unions? Or what do you mean by that?\n\nARM: I think graduate students are part of what's driving the UAW farther to the left.\n\nCORNISH: No, I mean when you said what's supporting her? You're saying it's --\n\nARM: Haley Stevens has the support of a number of other unions in the state.\n\nCORNISH: That you see as more worker-oriented or not having the --\n\nCORNISH: -- one in four graduate --\n\nARM: I mean, I think Abdullah El-Sayed is winning, because he's running a virulently anti-Israel campaign, as you said, Audie.\n\nI don't think it's because he's talking about bringing manufacturing back to Michigan. That's what Haley Stevens has been talking about. In fact, it's kind of the only thing she can talk about.\n\nCORNISH: Let me underscore, I did not say he was running a virulently anti-Israel campaign.\n\nCORNISH: I want you to own your comments.\n\nARM: I don't think -- I don't think he -- I don't think he --\n\nCORNISH: Just so you can get credit for your own comments.\n\nARM: I did think he would dispute that he's running a virulently anti- Israel campaign. CORNISH: I would dispute I said it.\n\nAnd I want to give the last word to Aaron, because Bernie Sanders, when I think of him grumpy with his arms crossed at that DNC many years ago.\n\nBLAKE: With the mittens on, yes.\n\nCORNISH: Elizabeth Warren, it feels like we are seeing the fruits of a long-running movement that may or may not be coming to fruition.\n\nBLAKE: Yes. And this is a very big moment for that movement. And I'll tell you why. The reason is because the Democratic primary electorate has proven willing to elect these kinds of candidates. The DSA candidates in -- in cities like New York City, in cities, you know, heavily urban areas.\n\nCORNISH: And only now.\n\nBLAKE: In between Boulder in Colorado. They haven't gotten these candidates, necessarily, through primaries in marquee races, in swing electorates.\n\nSo, getting Abdul el-Sayed through this primary and having him tested in a general election that is going to have lots of focus in November, is a big moment for this movement. They need to prove that they can win in that kind of environment, not just primaries, but general elections with swing electorates. And that's why I think this race is so important for that movement.\n\nCORNISH: All right. So, big test. That's why we're watching it.\n\nI want to turn to something else on CNN THIS MORNING. The ethics panel that wants to censure Republican Chuck Edwards. We're going to talk about why some women in the House of Representatives say that is not enough.\n\nAnd then today, the White House will meet with leaders in A.I. Will we finally get the guardrails that have been promised?\n\nAnd Ariana Grande speaking out in her own words. Why she is stepping away from the spotlight.\n\nCORNISH: OK, it's now 15 minutes past the hour. Here are five things making the news this morning.\n\nThat multi-state cyclosporiasis outbreak has turned deadly. Two people in Michigan have died from the intestinal illness, which causes dramatic stomach upset and can lead to severe dehydration. Officials say both victims had underlying health conditions.\n\nAt this point, more than 18,000 cases have been reported in the U.S. And former special counsel Jack Smith, willing to testify publicly\n\nbefore a Senate committee. That's according to a letter from his attorneys to Chairman Chuck Grassley, obtained by CNN.\n\nNow, Grassley had asked him to testify on September 22nd, if approved by the Justice Department.\n\nSmith is facing scrutiny over his investigation into President Trump's alleged attempts to overthrow the 2020 election and his use of subpoenas to obtain lawmakers' text messages as part of that investigation.\n\nAnd later today, the White House is going to meet with the leaders of artificial intelligence companies about a new framework for government oversight.\n\nNow, it's expected to include provisions to voluntarily allow the government to review new models before they release them. And the meeting comes just before -- just before both. Sorry. Just after both OpenAI and Anthropic reported incidents of an A.I. agent going rogue and hacking into competitor companies.\n\nNow, the FAA is investigating a near miss in Florida after a small training plane lost engine power and then landed directly on the interstate.\n\nAudio captures the moment the pilot warned that they wouldn't make it to the airport's runway.\n\nUNIDENTIFIED FEMALE: We are not making the airport. We're going down on I-10. Tower, can you still hear for Number 62?\n\nUNIDENTIFIED MALE: Number 62, I've got you loud and clear. What do you need?\n\nUNIDENTIFIED FEMALE: I just want to let you know we are lined up with I-10, trying to avoid the cars.\n\nUNIDENTIFIED MALE: Number 62. Roger, we're going to get everybody over there as fast as they can to help you out.\n\nCORNISH: And then this is dash cam video from a truck showing the plane nearly missing a highway sign.\n\nAnd Ariana Grande addressing rumors in a speech to the crowd on her Chicago tour stop last night. She confirmed that she is taking a step back from public life.\n\nThe singer has been under intense scrutiny for her appearance, especially after her new album and its music video dropped last week.\n\nSo, what she told fans last night is that her decision is not reactive, and it's something that has been planned for some time.\n\nNow, after the break on CNN THIS MORNING, the Justice Department admits it was a botched renovation that caused the issues with the Reflecting Pool, not vandalism. But that's not what the president wanted to hear.\n\nSo, who might lose their jobs because of this?\n\nToday, the Senate Judiciary Committee is going to vote on Todd Blanche's nomination for A.G. Does he have the votes for a new gig?\n\nIn the meantime, good morning to our viewers in New York City. A look at the sunrise over the skyline.\n\nDONALD TRUMP, U.S. PRESIDENT: Jeanine Pirro made a mistake. There was vandalism.\n\nFrankly, I think she choked. She choked. I don't know what the hell happened.\n\nI was disappointed with Jeanine Pirro. Really disappointed with Jeanine Pirro. She -- she folded like an umbrella.\n\nCORNISH: OK. After weeks of algae blooms and chipping bottoms, President Trump furious at his longtime ally, Jeanine Pirro, the U.S. attorney in D.C., over the pool vandalism case.\n\nSo, you've got sources telling CNN that he stopped short of firing her during a White House meeting on Monday. But he did, obviously, lash out at her, because the Justice Department admitted the pool problems were caused by a flawed renovation rather than vandalism, as the president has long claimed.\n\nNow, her office also said it's dropping the criminal case against the man accused of being the so-called vandal. He was an Olympian, David Hearn.\n\nAnd the Justice Department acknowledged in a court filing that the $14 million renovation was hasty and botched.\n\nJust last month, Pirro was saying something different.\n\nUNIDENTIFIED MALE: Did he have any tools, or was it just his bare hands?\n\nJEANINE PIRRO, U.S. ATTORNEY IN WASHINGTON D.C.: Right now, we believe it's his bare hands. Both hands.\n\nUNIDENTIFIED MALE: Does that indicate, in your belief, that it was probably damaged before, or do you believe that he --\n\nPIRRO: Oh, he damaged it.\n\nUNIDENTIFIED MALE: Further. But do you believe it had already been damaged before?\n\nPIRRO: He damaged the pool.\n\nUNIDENTIFIED MALE: Before he touched it?\n\nPIRRO: He damaged this pool.\n\nCORNISH: Group chat is back. So, we were talking during the break. This filing is stunning. I know people have been talking about it for a couple of days.\n\nBut what I don't understand is Trump lashing out at Pirro. Why do you think she has come in for such criticism from him when she has gone after just about everyone, you know, that he has been frustrated with?\n\nBLAKE: Yes, I mean, look, Trump is somebody who certainly expects loyalty from the people around him. He wants them to hew to his theory of the case.\n\nAnd in this case, the theory of the case was that -- that there was vandalism, even though there wasn't any real public reason to believe that.\n\nThe problem is that we've seen this over and over again, over the last 18 months or so; is that when these theories actually have to be tested in court, that doesn't go very well. Because there are standards of evidence. There are representations.\n\nCORNISH: While you're talking, can I show you some headlines? Because we were looking at this. The number of cases: Minnesota protesters, right? Hurdles there in getting those arrests to charges right now.\n\nJustice Department drops its \"New York Times\" subpoena.\n\nCalifornia, the labor leader.\n\nI'm actually keeping a running list on my desk in office of cases that people have been arrested. The charges don't go anywhere.\n\nWhat's going on with the Justice Department? Or is the weaponization the point? Putting people through the frustration of arrests and all of that to kind of get rid of them or be a nuisance?\n\nARM: I mean, I do think it's, you know, nice to see that this administration is responsive to the courts. There was a lot of hemming and hawing about the fact that Donald Trump would not abide by the decisions of the Supreme Court or other courts at any point.\n\nThis administration is operating within the confines of the law and operating like it is bound to the law.\n\nCORNISH: So, they take the \"L,\" you're saying? They're not trying to override the system, like -- or the system is working?\n\nARM: Well, we'll see. I mean, we'll see what they do, right? I mean, he could theoretically fire Jeanine Pirro for this. I wouldn't necessarily be enthusiastic about that.\n\nI think this is someone who's been a pretty good soldier for the president and his administration. You know, has been -- has a job that's bigger than the Reflecting Pool, right?\n\nARM: Has been involved in these efforts to clean up and crack down on crime in D.C.\n\nCORNISH: And seen a lot of those cases flop, as well. This has been kind of interesting.\n\nROCHA: I think Donald Trump runs under the old East Texas philosophy of, if you lie long enough about having a horse, eventually somebody will buy you a saddle.\n\nHe's not used to telling the truth, and he don't like to be told he's wrong.\n\nRemember the guy who went to Congress this week or last week, who wants a big job, who couldn't say that Joe Biden won the election because folks are scared to death to cross him?\n\nAnd Jeanine Pirro, he thinks, just did that. And he don't like that at all.\n\nCORNISH: Did she really cross him? What do you think is going on legally in that office?\n\nBecause that filing not only said this was a botched renovation job, it said there's no way this guy reached into the middle of the pool with his bare hands, unless it was, like, one of the Fantastic Four. None of this makes sense.\n\nWe did not say this. The Interior Department said this. I mean, they threw another department under the bus.\n\nCORNISH: It was -- in its totality, it said this didn't happen.\n\nBLAKE: This -- this document read like some lawyers at the Justice Department, who were tired of dealing with this case and wanted to just get it out there and -- and wash their hands of it.\n\nIt is a remarkable document, because you're right. It's not just saying, oh, the evidence isn't quite there. It's basically pointing the finger at another department of the administration and saying that department withheld evidence from us that allowed us to move forward with a case that could have put somebody in prison wrongfully.\n\nBasically, that's the -- the logical extent of what they put out.\n\nBLAKE: And I think that, in any other time, if, you know -- when Democrats take over the -- the House, if they do in January, this is the kind of thing that you would want to have congressional hearings and issue subpoenas.\n\nCORNISH: The paperwork comes back. Yes, because it also points to the contractor and also points to -- it says it in here, that the contractor was rushing to meet the America 250 deadline.\n\nAnd it was, like, this is a lot to be putting in here for people to look at later and raise questions about.\n\nARM: Yes, I mean, I don't think it's an inherently bad thing that you had a contractor who was rushing to meet a deadline to try and clean up D.C. ahead of America 250.\n\nObviously, if you're going after the wrong person, that's a bigger problem.\n\nBut look, it's not the first time, and it won't be the last time that an administration looks to pursue a case that it knows it probably can't win in court.\n\nWe had with the Biden administration, right? They attempted to wipe all student debt until the Supreme Court came along and said, actually, you can't really do that. But Joe Biden's staffers saw --\n\nCORNISH: But each one of these is someone taking the time, doing the evidentiary work, going to court. It costs money.\n\nCORNISH: The Reflecting Pool costs money. Pretty soon, it starts to cost money.\n\nAnd at what point, if you're running a business and you're a businessperson, do you look around and say, I'm just -- this is creating problems. It's costing money. It's not working. And is that something that the voter starts to get frustrated with?\n\nROCHA: We've talked a lot about cost and corruption as we move into the midterms, and the thing that we're not talking about is we keep talking about this contractor.\n\nWe've reported on this network that the contract was somebody that worked on a pool down at Mar-a-Lago. We have said that. Now, I'm not saying any wrongdoing was done. But it looks like --\n\nCORNISH: Yes. The question of no-bid, et cetera.\n\nROCHA: Right. The no-bid contract stuff, and now it still ain't fixed. And it's cost how much money? Like I ain't running a TV commercial on this in the midterms. But it's just another thing that stacks up.\n\nARM: Well, that's the key point. I don't think any undecided voters are going to be making their decision based on Reflecting Pool dynamics.\n\nROCHA: But it's just one more thing. Right."
+    }
+  ]
+}

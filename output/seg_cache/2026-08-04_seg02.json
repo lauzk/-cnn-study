@@ -1,0 +1,772 @@
+{
+  "date": "2026-08-04",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-08-04/segment/02",
+  "vocabulary": [
+    {
+      "word": "primary",
+      "phonetic": "/ˈpraɪmeri/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "初选",
+      "en": "an election in which voters choose candidates for a later election",
+      "excerpt": "Michigan's primary shines a light on the deep divide in the Democratic Party",
+      "example_cn": "密歇根州的初选揭示了民主党内部的深刻分歧。"
+    },
+    {
+      "word": "divide",
+      "phonetic": "/dɪˈvaɪd/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "分歧，差异",
+      "en": "a difference or separation between two groups",
+      "excerpt": "the deep divide in the Democratic Party",
+      "example_cn": "民主党内部的深刻分歧。"
+    },
+    {
+      "word": "ideology",
+      "phonetic": "/ˌaɪdiˈɑːlədʒi/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "意识形态",
+      "en": "a set of beliefs or principles, especially one on which a political system is based",
+      "excerpt": "whether voters are choosing an ideology or candidate they think can win in November",
+      "example_cn": "选民是在选择一种意识形态，还是选择他们认为能在十一月获胜的候选人。"
+    },
+    {
+      "word": "arson",
+      "phonetic": "/ˈɑːrsn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "纵火罪",
+      "en": "the crime of deliberately setting fire to property",
+      "excerpt": "a man is arrested on arson charges",
+      "example_cn": "一名男子因纵火罪被捕。"
+    },
+    {
+      "word": "bond",
+      "phonetic": "/bɑːnd/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "保释金",
+      "en": "an amount of money paid as a guarantee that someone will return to court",
+      "excerpt": "being held on a $1 million bond",
+      "example_cn": "被以100万美元保释金拘留。"
+    },
+    {
+      "word": "nomination",
+      "phonetic": "/ˌnɑːmɪˈneɪʃn/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "提名",
+      "en": "the act of officially suggesting someone for a position or job",
+      "excerpt": "the Senate Judiciary Committee will vote on Todd Blanche's nomination for attorney general",
+      "example_cn": "参议院司法委员会将对托德·布兰奇担任司法部长的提名进行投票。"
+    },
+    {
+      "word": "rescind",
+      "phonetic": "/rɪˈsɪnd/",
+      "pos": "v.",
+      "level": "专八",
+      "cn": "废除，撤销",
+      "en": "to officially end a law, decision, or agreement",
+      "excerpt": "after Blanche formally rescinded the president's $1.8 billion anti-weaponization fund",
+      "example_cn": "在布兰奇正式撤销总统的18亿美元反武器化基金之后。"
+    },
+    {
+      "word": "gubernatorial",
+      "phonetic": "/ˌɡuːbərnəˈtɔːriəl/",
+      "pos": "adj.",
+      "level": "专八",
+      "cn": "州长的",
+      "en": "relating to a state governor",
+      "excerpt": "gubernatorial races",
+      "example_cn": "州长竞选。"
+    },
+    {
+      "word": "pragmatic",
+      "phonetic": "/præɡˈmætɪk/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "务实的",
+      "en": "dealing with problems in a practical and sensible way",
+      "excerpt": "framing herself as the pragmatic choice",
+      "example_cn": "将自己定位为务实的选择。"
+    },
+    {
+      "word": "progressive",
+      "phonetic": "/prəˈɡresɪv/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "进步派人士",
+      "en": "a person who supports social and political change",
+      "excerpt": "rallied Detroit progressives",
+      "example_cn": "召集了底特律的进步派人士。"
+    },
+    {
+      "word": "endorsement",
+      "phonetic": "/ɪnˈdɔːrsmənt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "支持，背书",
+      "en": "public support for someone or something",
+      "excerpt": "put up their endorsements",
+      "example_cn": "公开表示支持。"
+    },
+    {
+      "word": "charismatic",
+      "phonetic": "/ˌkærɪzˈmætɪk/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "有魅力的",
+      "en": "having a strong personal charm that attracts and influences people",
+      "excerpt": "he's just extremely charismatic",
+      "example_cn": "他非常有魅力。"
+    },
+    {
+      "word": "electorate",
+      "phonetic": "/ɪˈlektərət/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "全体选民",
+      "en": "all the people who are allowed to vote in an election",
+      "excerpt": "the electorate is actually pretty close",
+      "example_cn": "选民实际上相当接近。"
+    },
+    {
+      "word": "electability",
+      "phonetic": "/ɪˌlektəˈbɪləti/",
+      "pos": "n.",
+      "level": "专四",
+      "cn": "可选举性",
+      "en": "the quality of being likely to win an election",
+      "excerpt": "It comes down to that dreaded word electability.",
+      "example_cn": "这归结为那个可怕的字眼：可选举性。"
+    },
+    {
+      "word": "populist",
+      "phonetic": "/ˈpɑːpjəlɪst/",
+      "pos": "adj.",
+      "level": "专八",
+      "cn": "民粹主义的",
+      "en": "relating to a political approach that claims to represent ordinary people",
+      "excerpt": "The populist appeal that he has is really considerable.",
+      "example_cn": "他的民粹主义号召力相当可观。"
+    },
+    {
+      "word": "pocketbook",
+      "phonetic": "/ˈpɑːkɪtbʊk/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "钱包；经济来源",
+      "en": "a person's financial resources",
+      "excerpt": "it's all pocketbook economic issues",
+      "example_cn": "都是与经济相关的问题。"
+    },
+    {
+      "word": "foist",
+      "phonetic": "/fɔɪst/",
+      "pos": "v.",
+      "level": "专八",
+      "cn": "强加于",
+      "en": "to force someone to accept something they do not want",
+      "excerpt": "those issues can be pretty much foisted on you",
+      "example_cn": "这些问题可能会强加于你。"
+    },
+    {
+      "word": "ignite",
+      "phonetic": "/ɪɡˈnaɪt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "点燃，激起",
+      "en": "to start a fire or to cause something to start",
+      "excerpt": "He can ignite a populist fire.",
+      "example_cn": "他能点燃民粹主义的火焰。"
+    },
+    {
+      "word": "cache",
+      "phonetic": "/kæʃ/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "威望，声望",
+      "en": "a quality that makes someone admired or respected",
+      "excerpt": "nobody else in the race at this time that has that cache",
+      "example_cn": "目前竞选中没有其他人拥有那种声望。"
+    },
+    {
+      "word": "wild card",
+      "phonetic": "/waɪld kɑːrd/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "未知因素，变数",
+      "en": "an unpredictable factor",
+      "excerpt": "Is that the kind of thing that's a wild card here in Michigan?",
+      "example_cn": "这是密歇根州的一个变数吗？"
+    },
+    {
+      "word": "turnout",
+      "phonetic": "/ˈtɜːrnaʊt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "投票率",
+      "en": "the number of people who vote in an election",
+      "excerpt": "to try to run up turnout in Black majority areas",
+      "example_cn": "试图提高黑人占多数地区的投票率。"
+    },
+    {
+      "word": "censure",
+      "phonetic": "/ˈsenʃər/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "谴责，斥责",
+      "en": "an official expression of strong disapproval",
+      "excerpt": "a Republican lawmaker facing censure",
+      "example_cn": "一名面临谴责的共和党议员。"
+    },
+    {
+      "word": "ethics",
+      "phonetic": "/ˈeθɪks/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "道德准则",
+      "en": "moral principles that govern a person's behavior",
+      "excerpt": "an ethics report",
+      "example_cn": "一份道德报告。"
+    },
+    {
+      "word": "restraining order",
+      "phonetic": "/rɪˈstreɪnɪŋ ˈɔːrdər/",
+      "pos": "n.",
+      "level": "专四",
+      "cn": "限制令",
+      "en": "a court order that prevents someone from doing something",
+      "excerpt": "filed for a temporary restraining order against Miller",
+      "example_cn": "申请对米勒的临时限制令。"
+    },
+    {
+      "word": "nondisclosure agreement",
+      "phonetic": "/ˌnɑːndɪsˈkloʊʒər əˈɡriːmənt/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "保密协议",
+      "en": "a legal contract that prohibits sharing confidential information",
+      "excerpt": "breaking the terms of a nondisclosure agreement",
+      "example_cn": "违反保密协议条款。"
+    },
+    {
+      "word": "disparage",
+      "phonetic": "/dɪˈspærɪdʒ/",
+      "pos": "v.",
+      "level": "专八",
+      "cn": "贬低，诋毁",
+      "en": "to criticize someone in a way that shows you do not respect them",
+      "excerpt": "agreed not to disparage each other publicly",
+      "example_cn": "同意不公开诋毁对方。"
+    },
+    {
+      "word": "allegation",
+      "phonetic": "/ˌæləˈɡeɪʃn/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "指控",
+      "en": "a statement that someone has done something wrong, made without proof",
+      "excerpt": "abuse allegations",
+      "example_cn": "虐待指控。"
+    },
+    {
+      "word": "notoriety",
+      "phonetic": "/ˌnoʊtəˈraɪəti/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "恶名，臭名昭著",
+      "en": "the state of being famous for something bad",
+      "excerpt": "somebody trying to get notoriety",
+      "example_cn": "有人试图出名。"
+    },
+    {
+      "word": "custody",
+      "phonetic": "/ˈkʌstədi/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "监护权",
+      "en": "the legal right to take care of a child",
+      "excerpt": "every minute he has custody of my granddaughter",
+      "example_cn": "他监护我孙女的每一分钟。"
+    },
+    {
+      "word": "scathing",
+      "phonetic": "/ˈskeɪðɪŋ/",
+      "pos": "adj.",
+      "level": "专八",
+      "cn": "严厉的，尖刻的",
+      "en": "criticizing someone very severely",
+      "excerpt": "released that scathing post on X",
+      "example_cn": "在X上发布了尖刻的帖子。"
+    },
+    {
+      "word": "ironworker",
+      "phonetic": "/ˈaɪərnwɜːrkər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "钢铁工人",
+      "en": "a person who works in the construction industry with steel",
+      "excerpt": "he's running against an ironworker",
+      "example_cn": "他的对手是一名钢铁工人。"
+    },
+    {
+      "word": "scrutiny",
+      "phonetic": "/ˈskruːtəni/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "仔细审查",
+      "en": "careful examination",
+      "excerpt": "facing ethics scrutiny",
+      "example_cn": "面临道德审查。"
+    },
+    {
+      "word": "lavish",
+      "phonetic": "/ˈlævɪʃ/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "奢华的",
+      "en": "large in amount and impressive",
+      "excerpt": "lavish gifts",
+      "example_cn": "奢华的礼物。"
+    },
+    {
+      "word": "due process",
+      "phonetic": "/duː ˈprɑːses/",
+      "pos": "n.",
+      "level": "专四",
+      "cn": "正当程序",
+      "en": "the legal requirement that the state must respect all legal rights",
+      "excerpt": "they've expressed some issues with due process",
+      "example_cn": "他们对正当程序提出了一些问题。"
+    },
+    {
+      "word": "overcorrection",
+      "phonetic": "/ˌoʊvərkəˈrekʃn/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "过度纠正",
+      "en": "an action that is too extreme in response to a problem",
+      "excerpt": "maybe a little bit of an overcorrection",
+      "example_cn": "可能有点过度纠正。"
+    },
+    {
+      "word": "salary cap",
+      "phonetic": "/ˈsæləri kæp/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "工资上限",
+      "en": "a limit on the amount of money a team can spend on players",
+      "excerpt": "Major League Baseball salary cap",
+      "example_cn": "美国职业棒球大联盟的工资上限。"
+    },
+    {
+      "word": "marginal",
+      "phonetic": "/ˈmɑːrdʒɪnl/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "边缘的，边际的",
+      "en": "small and not important; in politics, a marginal seat is one that may be won by a small margin",
+      "excerpt": "up in marginal seats",
+      "example_cn": "在边缘席位中。"
+    },
+    {
+      "word": "multiverse",
+      "phonetic": "/ˈmʌltivɜːrs/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "多元宇宙",
+      "en": "a hypothetical set of multiple universes",
+      "excerpt": "not like aliens from other dimensions coming in and messing up timelines",
+      "example_cn": "不像来自其他维度的外星人扰乱时间线。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Michigan's primary shines a light on the deep divide in the Democratic Party and ask whether voters are choosing an ideology or candidate they think can win in November.",
+      "cn": "密歇根州的初选揭示了民主党内部的深刻分歧，并询问选民是在选择一种意识形态，还是选择他们认为能在十一月获胜的候选人。",
+      "structure": "主语（Michigan's primary）+ 谓语（shines a light on）+ 宾语（the deep divide）+ 并列谓语（and ask）+ 宾语从句（whether...）",
+      "analysis": "该句为并列句，第一个分句用短语'shines a light on'表示揭示，第二个分句用'ask'后接whether引导的宾语从句，从句中'choosing'后接两个并列宾语'ideology'和'candidate'，'candidate'后接定语从句'they think can win'。"
+    },
+    {
+      "en": "It's a key test of where the party is headed.",
+      "cn": "这是对党未来走向的关键考验。",
+      "structure": "主语（It）+ 系动词（is）+ 表语（a key test）+ 介词短语（of where...）",
+      "analysis": "表语后接of介词短语，其中where引导名词性从句作of的宾语，表示'党走向何方'。"
+    },
+    {
+      "en": "There's Haley Stevens making her final campaign pitch, framing herself as the pragmatic choice to take on Republican Mike Rogers in November.",
+      "cn": "海利·史蒂文斯正在进行最后的竞选宣传，将自己定位为十一月对抗共和党人迈克·罗杰斯的务实选择。",
+      "structure": "There be 句型 + 现在分词短语（making...）作后置定语，其中包含另一个现在分词短语（framing...）作伴随状语",
+      "analysis": "There be句型中，主语后接现在分词短语作定语，'framing herself as'是伴随状语，表示'将自己定位为'。"
+    },
+    {
+      "en": "Meanwhile, Abdul El-Sayed rallied Detroit progressives and mounted a direct challenge to the party's Washington establishment.",
+      "cn": "与此同时，阿卜杜勒·埃尔-萨耶德召集了底特律的进步派人士，对党的华盛顿建制派发起了直接挑战。",
+      "structure": "主语（Abdul El-Sayed）+ 并列谓语（rallied... and mounted...）",
+      "analysis": "两个并列谓语动词，'rallied'表示召集，'mounted a challenge to'表示发起挑战。"
+    },
+    {
+      "en": "I believe in the opportunity we have in front of us to take our democracy back from the likes of the corporations and the billionaires and the special interests who want to tell us what we cannot have and should not fight for.",
+      "cn": "我相信我们面前的机会，将我们的民主从那些公司、亿万富翁和特殊利益集团手中夺回来，他们想告诉我们什么我们不能拥有，也不应该为之奋斗。",
+      "structure": "主句（I believe in the opportunity）+ 定语从句（we have...）+ 不定式短语（to take...）作目的状语，其中包含定语从句（who want...）修饰special interests",
+      "analysis": "该句结构复杂，'opportunity'后接定语从句'we have in front of us'，不定式短语表示目的，'from the likes of'后接三个并列名词，'who'引导定语从句修饰'special interests'，从句中'what'引导宾语从句。"
+    },
+    {
+      "en": "West Michigan needs a senator who's going to deliver, who's going to show up, who's going to show you that I can campaign like I govern and I govern like I campaign, I'm present, I'm focused, I'm dedicated.",
+      "cn": "西密歇根需要一位能够兑现承诺、能够挺身而出、能够向你展示我像治理一样竞选、像竞选一样治理的参议员，我在场，我专注，我投入。",
+      "structure": "主句（West Michigan needs a senator）+ 三个并列定语从句（who's going to...）+ 宾语从句（that I can...）",
+      "analysis": "三个who引导的定语从句并列修饰senator，第三个定语从句中嵌套that引导的宾语从句，宾语从句中又包含两个并列分句，最后三个短句强调个人品质。"
+    },
+    {
+      "en": "Since we have such a clear division between the folks who have lined up behind Abdul El-Sayed, progressives, AOC, Bernie Sanders and so on.",
+      "cn": "因为我们之间存在着如此明显的分歧，一边是支持阿卜杜勒·埃尔-萨耶德、进步派、AOC、伯尼·桑德斯等人。",
+      "structure": "原因状语从句（Since...）+ 主句（we have...）+ 定语从句（who have lined up...）",
+      "analysis": "Since引导原因状语从句，主句为'we have such a clear division'，'between'后接两个并列名词短语，第一个名词短语后接who引导的定语从句。"
+    },
+    {
+      "en": "And beyond that, you have very clear ideological divides when it comes to Israel, which, you know, in our post-October 7th environment has become such a huge dividing line among Democrats as they look to build the future of their party.",
+      "cn": "除此之外，在以色列问题上存在非常明显的意识形态分歧，你知道，在我们10月7日后的环境中，这已成为民主党内部一条巨大的分界线，因为他们希望建设党的未来。",
+      "structure": "主句（you have...）+ 时间状语从句（when it comes to...）+ 非限制性定语从句（which...has become...）+ 原因状语从句（as they look...）",
+      "analysis": "主句为'you have very clear ideological divides'，'when it comes to'表示'当涉及'，which引导非限制性定语从句修饰'Israel'，从句中插入'you know'，最后as引导原因状语从句。"
+    },
+    {
+      "en": "And for all the talk of divisions within the Democratic Party, the electorate is actually pretty close.",
+      "cn": "尽管民主党内部存在种种分歧的说法，但选民实际上相当接近。",
+      "structure": "让步状语（for all the talk...）+ 主句（the electorate is...）",
+      "analysis": "'for all'表示'尽管'，引导让步状语，主句说明选民实际状况。"
+    },
+    {
+      "en": "So, yeah, there's this huge divide they have on Israel, but the whole party is moving in El-Sayed direction on Israel.",
+      "cn": "所以，是的，他们在以色列问题上存在巨大分歧，但整个政党在以色列问题上正朝着埃尔-萨耶德的方向前进。",
+      "structure": "并列句（there's... but...）",
+      "analysis": "两个分句由but连接，第一个分句为there be句型，第二个分句用现在进行时表示趋势。"
+    },
+    {
+      "en": "The question of can I win in November is, is a question that voters alone can answer.",
+      "cn": "我能否在十一月获胜的问题，是只有选民才能回答的问题。",
+      "structure": "主语（The question of can I win in November）+ 系动词（is）+ 表语（a question）+ 定语从句（that voters alone can answer）",
+      "analysis": "主语中包含of介词短语，其中'can I win'为疑问句作宾语，表语后接that引导的定语从句。"
+    },
+    {
+      "en": "Electability is the thing that's best defined after the fact.",
+      "cn": "可选举性是在事后才能最好定义的东西。",
+      "structure": "主语（Electability）+ 系动词（is）+ 表语（the thing）+ 定语从句（that's best defined...）",
+      "analysis": "定语从句修饰'the thing'，'after the fact'表示'事后'。"
+    },
+    {
+      "en": "And so, I'm wondering if we're at the beginning of a movement that ends with some version of that for Democrats, someone that they thought was not electable, who suddenly is.",
+      "cn": "所以，我在想我们是否正处于一场运动的开端，这场运动最终会以某种形式出现在民主党人身上，一个他们曾认为没有当选可能的人，突然变得有当选可能。",
+      "structure": "主句（I'm wondering）+ 宾语从句（if we're...）+ 定语从句（that ends...）+ 同位语（someone）+ 定语从句（that they thought...）+ 非限制性定语从句（who suddenly is）",
+      "analysis": "if引导宾语从句，'that ends with'修饰movement，'someone'是'that'的同位语，后接两个定语从句，第二个定语从句中省略了'electable'。"
+    },
+    {
+      "en": "The conventional wisdom is Mike Rogers is very delighted to have El-Sayed as his opponent, but it's not entirely clear that that's the case.",
+      "cn": "传统观点认为，迈克·罗杰斯非常高兴有埃尔-萨耶德作为对手，但情况是否如此并不完全清楚。",
+      "structure": "并列句（The conventional wisdom is... but...）",
+      "analysis": "第一个分句中，'is'后接表语从句，第二个分句用it作形式主语，that从句为真正主语。"
+    },
+    {
+      "en": "She's the only one in the race that's actually been elected.",
+      "cn": "她是竞选中唯一真正当选过的人。",
+      "structure": "主句（She's the only one）+ 定语从句（that's actually been elected）",
+      "analysis": "定语从句修饰'the only one'，'that'在从句中作主语。"
+    },
+    {
+      "en": "Unfortunately, there's nobody else in the race at this time that has that cache.",
+      "cn": "不幸的是，目前竞选中没有其他人拥有那种声望。",
+      "structure": "There be句型 + 定语从句（that has that cache）",
+      "analysis": "定语从句修饰'nobody else'，'that'在从句中作主语。"
+    },
+    {
+      "en": "The strategy that the Stevens campaign is running is to try to run up turnout in Black majority areas in Michigan.",
+      "cn": "史蒂文斯竞选团队正在执行的策略是试图提高密歇根州黑人占多数地区的投票率。",
+      "structure": "主语（The strategy）+ 定语从句（that the Stevens campaign is running）+ 系动词（is）+ 表语（to try to run up...）",
+      "analysis": "定语从句修饰strategy，表语为不定式短语。"
+    },
+    {
+      "en": "And the polling shows him ahead, but it's just sort of a guess by the pollsters about is it going to be young male white voters? Is it going to be older female black voters?",
+      "cn": "民调显示他领先，但这只是民调专家的一种猜测，会是年轻的白人男性选民吗？会是年长的黑人女性选民吗？",
+      "structure": "并列句（the polling shows... but...）+ 介词短语（about...）",
+      "analysis": "第一个分句为简单句，第二个分句'it's just sort of a guess'，后接about介词短语，其中包含两个疑问句作宾语。"
+    },
+    {
+      "en": "President Trump publicly standing by embattled Republican Congressman Max Miller, even as his former press secretary launches a new legal battle against Miller.",
+      "cn": "特朗普总统公开支持陷入困境的共和党众议员马克斯·米勒，尽管他的前新闻秘书对米勒发起了新的法律诉讼。",
+      "structure": "独立主格结构（President Trump publicly standing by...）+ 让步状语从句（even as...）",
+      "analysis": "独立主格结构由名词+现在分词构成，表示伴随情况，'even as'引导让步状语从句。"
+    },
+    {
+      "en": "In a \"Washington Post\" op-ed, Grisham had written about abuse allegations dealing with an ex-boyfriend, and Miller sued her at the time, but they settled out of court and agreed not to disparage each other publicly.",
+      "cn": "在《华盛顿邮报》的一篇专栏文章中，格里沙姆曾写过关于前男友的虐待指控，米勒当时起诉了她，但他们庭外和解，并同意不公开诋毁对方。",
+      "structure": "并列句（Grisham had written... and Miller sued... but they settled...）",
+      "analysis": "三个分句由and和but连接，第一个分句为过去完成时，第二个分句为一般过去时，第三个分句为一般过去时。"
+    },
+    {
+      "en": "What should be noted is that allegation came out on the same day as somebody's book launch.",
+      "cn": "值得注意的是，这一指控是在某人新书发布当天出现的。",
+      "structure": "主语从句（What should be noted）+ 系动词（is）+ 表语从句（that allegation came out...）",
+      "analysis": "What引导主语从句，that引导表语从句，'the same day as'表示'与...同一天'。"
+    },
+    {
+      "en": "And she, in her own words, will tell you that I never did any of those things.",
+      "cn": "而且她，用她自己的话说，会告诉你我从未做过那些事。",
+      "structure": "主语（she）+ 插入语（in her own words）+ 谓语（will tell）+ 间接宾语（you）+ 宾语从句（that I never did...）",
+      "analysis": "插入语' in her own words'表示'用她自己的话'，that引导宾语从句。"
+    },
+    {
+      "en": "It appears this was a confidential agreement.",
+      "cn": "看来这是一份保密协议。",
+      "structure": "主语（It）+ 系动词（appears）+ 表语从句（this was...）",
+      "analysis": "It作形式主语，appears后接表语从句。"
+    },
+    {
+      "en": "And she's saying that in that interview, by denying the claims that she made, as well as the claims by his now ex-wife, that he broke that agreement.",
+      "cn": "她说，在那次采访中，通过否认她提出的指控以及他前妻的指控，他违反了该协议。",
+      "structure": "主句（she's saying）+ 宾语从句（that...he broke...）+ 方式状语（by denying...）",
+      "analysis": "that引导宾语从句，'by denying'为方式状语，其中'that she made'为定语从句修饰claims，'as well as'连接并列宾语。"
+    },
+    {
+      "en": "And there is also this audio obtained from earlier this year.",
+      "cn": "还有今年早些时候获得的这段音频。",
+      "structure": "There be句型 + 过去分词短语（obtained...）作后置定语",
+      "analysis": "过去分词短语修饰audio。"
+    },
+    {
+      "en": "Emily Moreno is telling police about an incident on New Year's Eve where she alleged that Miller held a gun to her head when she was changing their infant daughter.",
+      "cn": "艾米丽·莫雷诺正在向警方讲述新年夜发生的一起事件，她声称米勒在她给婴儿女儿换尿布时用枪指着她的头。",
+      "structure": "主句（Emily Moreno is telling police about an incident）+ 定语从句（where she alleged...）+ 时间状语从句（when she was changing...）",
+      "analysis": "where引导定语从句修饰incident，从句中that引导宾语从句，宾语从句中又包含when引导的时间状语从句。"
+    },
+    {
+      "en": "And I think that's part of the problem is that he keeps releasing more and more information and more evidence that can then be used against him in certain cases.",
+      "cn": "我认为部分问题在于他不断发布越来越多的信息和证据，这些信息和证据在特定情况下可能会对他不利。",
+      "structure": "主句（I think）+ 宾语从句（that's part of the problem）+ 表语从句（that he keeps...）+ 定语从句（that can then be used...）",
+      "analysis": "第一个that引导宾语从句，第二个that引导表语从句，第三个that引导定语从句修饰evidence。"
+    },
+    {
+      "en": "Bernie Moreno didn't say anything for a very long time.",
+      "cn": "伯尼·莫雷诺在很长一段时间内没有说任何话。",
+      "structure": "主语（Bernie Moreno）+ 谓语（didn't say）+ 宾语（anything）+ 时间状语（for a very long time）",
+      "analysis": "简单句，否定形式。"
+    },
+    {
+      "en": "I hope you never have to go through a situation like this and you wouldn't ask that kind of effing question.",
+      "cn": "我希望你永远不必经历这样的情况，你也不会问那种该死的问题。",
+      "structure": "主句（I hope）+ 宾语从句（you never have to... and you wouldn't ask...）",
+      "analysis": "hope后接两个并列的宾语从句。"
+    },
+    {
+      "en": "And I think it's a great example of the fact that they do want this not to be so public.",
+      "cn": "我认为这是一个很好的例子，说明他们确实不希望这件事如此公开。",
+      "structure": "主句（I think）+ 宾语从句（it's a great example）+ 同位语从句（that they do want...）",
+      "analysis": "that引导同位语从句修饰fact，'do'用于强调。"
+    },
+    {
+      "en": "Just because you're a senator don't mean you're up for elections every six years.",
+      "cn": "仅仅因为你是参议员并不意味着你每六年就要参加选举。",
+      "structure": "原因状语从句（Just because...）+ 主句（don't mean...）",
+      "analysis": "because引导原因状语从句，主句为否定形式，后接宾语从句。"
+    },
+    {
+      "en": "But when you put that on the screen, an ad maker like me can run that against -- he's running against an ironworker, a regular union guy, and that makes that be more vulnerable.",
+      "cn": "但当你把它放到屏幕上时，像我这样的广告制作人就可以利用这一点来攻击——他的对手是一名钢铁工人，一个普通的工会成员，这让他更加脆弱。",
+      "structure": "时间状语从句（when you put...）+ 主句（an ad maker...can run...）+ 并列句（and that makes...）",
+      "analysis": "when引导时间状语从句，主句为'can run that against'，破折号后解释说明，and连接并列句。"
+    },
+    {
+      "en": "That's why you have to put politics in this horrible situation where you're talking about guns and babies, which nobody should live through.",
+      "cn": "这就是为什么你必须把政治置于这种可怕的境地，谈论枪支和婴儿，这是任何人都不应该经历的。",
+      "structure": "表语从句（That's why...）+ 定语从句（where you're talking...）+ 非限制性定语从句（which nobody...）",
+      "analysis": "why引导表语从句，where引导定语从句修饰situation，which引导非限制性定语从句修饰整个主句。"
+    },
+    {
+      "en": "The ethics committee is recommending a full vote to censure North Carolina's Chuck Edwards, a months-long probe found that Edwards engaged in persistent, inappropriate conduct toward two young female staffers.",
+      "cn": "道德委员会建议对北卡罗来纳州的查克·爱德华兹进行全体投票谴责，一项长达数月的调查发现，爱德华兹对两名年轻女职员持续存在不当行为。",
+      "structure": "主句（The ethics committee is recommending...）+ 同位语（a months-long probe found...）",
+      "analysis": "同位语部分为完整句子，'found'后接that宾语从句。"
+    },
+    {
+      "en": "They claim that the ethics committee failed to demonstrate that either of the two staffers actually expressed discomfort to Edwards regarding his conduct with them.",
+      "cn": "他们声称，道德委员会未能证明这两名职员中的任何一人曾就爱德华兹对他们的行为向他表达过不适。",
+      "structure": "主句（They claim）+ 宾语从句（that the ethics committee failed...）+ 宾语从句（that either...expressed...）",
+      "analysis": "第一个that引导宾语从句，第二个that引导宾语从句作demonstrate的宾语。"
+    },
+    {
+      "en": "I remember thinking, Jorge Santos is not going to have to leave Congress unless a Democrat also is a problem, and they can be asked to leave Congress.",
+      "cn": "我记得当时在想，乔治·桑托斯不必离开国会，除非民主党人也有问题，他们可以被要求离开国会。",
+      "structure": "主句（I remember thinking）+ 宾语从句（Jorge Santos is not going to...）+ 条件状语从句（unless...）",
+      "analysis": "remember后接动名词thinking，后接宾语从句，unless引导条件状语从句。"
+    },
+    {
+      "en": "And I think this is where the American people are fed up with both parties.",
+      "cn": "我认为这就是美国人民对两党都感到厌倦的地方。",
+      "structure": "主句（I think）+ 宾语从句（this is where...）",
+      "analysis": "where引导表语从句。"
+    },
+    {
+      "en": "When you say, what do you think about Democrats? What do you think about Republicans? You're like, well, they're all too old, and they're all a bunch of crooks that seem like they're acting like a bunch of freaks on Capitol Hill.",
+      "cn": "当你说，你对民主党怎么看？你对共和党怎么看？你会说，嗯，他们都太老了，而且他们都是一群骗子，看起来就像一群在国会山上胡闹的怪人。",
+      "structure": "时间状语从句（When you say...）+ 主句（You're like...）",
+      "analysis": "when引导时间状语从句，其中包含两个疑问句，主句为'You're like'，后接直接引语。"
+    },
+    {
+      "en": "I just -- it is strange to me that, you know, even if it is true what his office is saying, that none of these people ever complained about this, that one would think it's appropriate to shower young female staffers and these kinds of gifts and invite them to things, it's just, you know, it's strange.",
+      "cn": "我只是——对我来说很奇怪，你知道，即使他的办公室所说的是真的，这些人中没有人抱怨过这件事，人们会认为给年轻女职员送这些礼物并邀请她们参加活动是合适的，这很奇怪。",
+      "structure": "主句（it is strange to me that...）+ 让步状语从句（even if...）+ 同位语从句（that none...）+ 结果状语从句（that one would think...）",
+      "analysis": "it作形式主语，that引导主语从句，其中包含even if引导的让步状语从句，以及两个that从句。"
+    },
+    {
+      "en": "I think there is some credit that is actually due here to Speaker Johnson, who I would say probably saying nobody who works in Congress can date anybody else who works in Congress is maybe a little bit of an overcorrection.",
+      "cn": "我认为议长约翰逊确实值得一些赞扬，我想说，也许说在国会工作的人不能与在国会工作的其他人约会可能有点过度纠正。",
+      "structure": "主句（I think）+ 宾语从句（there is some credit...）+ 定语从句（that is actually due...）+ 非限制性定语从句（who I would say...）",
+      "analysis": "that引导定语从句修饰credit，who引导非限制性定语从句修饰Johnson，其中包含宾语从句。"
+    },
+    {
+      "en": "And that ethics committee is the one that dealt down this decision.",
+      "cn": "而那个道德委员会就是做出这一决定的委员会。",
+      "structure": "主句（that ethics committee is the one）+ 定语从句（that dealt down...）",
+      "analysis": "that引导定语从句修饰the one。"
+    },
+    {
+      "en": "So, you know, I respect the fact and appreciate that there is at least an effort here to clean up house and recognition that there is a problem.",
+      "cn": "所以，你知道，我尊重这一事实，并赞赏这里至少有一种努力来整顿内部，并认识到存在问题。",
+      "structure": "主句（I respect the fact and appreciate that...）+ 同位语从句（that there is...）",
+      "analysis": "appreciate后接that宾语从句，'recognition'后接that同位语从句。"
+    },
+    {
+      "en": "And if Democrats take the House, which they probably will, at least in the house, it'd be interesting to watch how they deal -- how they deal with the ethics committee on either side.",
+      "cn": "如果民主党拿下众议院，他们很可能会，至少在众议院，那么观察他们如何处理——他们如何处理双方的道德委员会将会很有趣。",
+      "structure": "条件状语从句（if Democrats take...）+ 非限制性定语从句（which they probably will）+ 主句（it'd be interesting...）",
+      "analysis": "if引导条件状语从句，which引导非限制性定语从句，主句为it作形式主语，不定式短语为真正主语。"
+    },
+    {
+      "en": "Since you were here, we want to give you something positive to talk about what is in your group chat other than people being like, oh my God, did you talk to this lawmaker?",
+      "cn": "既然你在这里，我们想给你一些积极的东西来谈谈你的群聊里有什么，而不是人们像这样，哦，我的上帝，你和这位议员谈过吗？",
+      "structure": "原因状语从句（Since you were here）+ 主句（we want to give...）+ 不定式短语（to talk about...）",
+      "analysis": "since引导原因状语从句，不定式短语作目的状语，'other than'表示'除了'。"
+    },
+    {
+      "en": "But I think, you know, we're talking a lot about how the House, the Senate are going out.",
+      "cn": "但我认为，你知道，我们谈论很多关于众议院和参议院如何结束会议。",
+      "structure": "主句（I think）+ 宾语从句（we're talking...）+ 宾语从句（how...）",
+      "analysis": "how引导宾语从句作about的宾语。"
+    },
+    {
+      "en": "And it's going to be such a rush when they come back in September.",
+      "cn": "当他们九月回来时，将会非常匆忙。",
+      "structure": "主句（it's going to be such a rush）+ 时间状语从句（when they come back...）",
+      "analysis": "when引导时间状语从句。"
+    },
+    {
+      "en": "If you look at the trades that happened this week ahead of the trade deadline, the rich get richer.",
+      "cn": "如果你看看本周交易截止日期前发生的交易，富人变得更富。",
+      "structure": "条件状语从句（If you look at...）+ 主句（the rich get richer）",
+      "analysis": "if引导条件状语从句，其中that引导定语从句修饰trades。"
+    },
+    {
+      "en": "The Minnesota Twins need to have a level playing field to be able to compete with those teams.",
+      "cn": "明尼苏达双城队需要有一个公平的竞争环境才能与这些球队竞争。",
+      "structure": "主语（The Minnesota Twins）+ 谓语（need to have）+ 宾语（a level playing field）+ 目的状语（to be able to...）",
+      "analysis": "不定式短语作目的状语。"
+    },
+    {
+      "en": "And look at these are great Latino candidates who are up in marginal seats.",
+      "cn": "看看这些优秀的拉丁裔候选人，他们正在争夺边缘席位。",
+      "structure": "祈使句（look at）+ 宾语从句（these are...）+ 定语从句（who are up...）",
+      "analysis": "look at后接宾语从句，who引导定语从句修饰candidates。"
+    },
+    {
+      "en": "If Democrats take back Congress, it will be because --",
+      "cn": "如果民主党夺回国会，那将是因为——",
+      "structure": "条件状语从句（If Democrats take back Congress）+ 主句（it will be because...）",
+      "analysis": "if引导条件状语从句，主句为it will be because，后接原因。"
+    },
+    {
+      "en": "Given ICE and all these things and the miscalculation in the past of left activists about thinking Latinos care about immigration so much, I'm really interested to see.",
+      "cn": "鉴于ICE和所有这些事情，以及过去左翼活动人士错误地认为拉丁裔非常关心移民问题，我真的很感兴趣。",
+      "structure": "介词短语（Given...）+ 主句（I'm really interested to see）",
+      "analysis": "Given为介词，后接名词短语，主句为简单句。"
+    },
+    {
+      "en": "I'm so thrown off because I was going to say the thing about the MLB salary cap.",
+      "cn": "我太困惑了，因为我本来要说关于MLB工资帽的事情。",
+      "structure": "主句（I'm so thrown off）+ 原因状语从句（because I was going to say...）",
+      "analysis": "because引导原因状语从句，'be going to'表示过去打算。"
+    },
+    {
+      "en": "And this Spider-Man movie was really quality.",
+      "cn": "这部蜘蛛侠电影质量真的很高。",
+      "structure": "主语（this Spider-Man movie）+ 系动词（was）+ 表语（really quality）",
+      "analysis": "简单句，quality作形容词。"
+    },
+    {
+      "en": "The world is smaller.",
+      "cn": "世界更小了。",
+      "structure": "主语（The world）+ 系动词（is）+ 表语（smaller）",
+      "analysis": "简单句，比较级。"
+    },
+    {
+      "en": "There's not like aliens from other dimensions coming in and messing up timelines.",
+      "cn": "不像来自其他维度的外星人进来扰乱时间线。",
+      "structure": "There be句型 + 介词短语（like aliens...）+ 现在分词短语（coming in and messing up...）",
+      "analysis": "like后接名词，现在分词短语作后置定语。"
+    },
+    {
+      "en": "Has it already come out?",
+      "cn": "已经上映了吗？",
+      "structure": "现在完成时疑问句",
+      "analysis": "现在完成时表示过去动作对现在的影响。"
+    },
+    {
+      "en": "I don't blame you because the hype and run up to these things is just so long.",
+      "cn": "我不怪你，因为对这些事情的炒作和预热时间太长了。",
+      "structure": "主句（I don't blame you）+ 原因状语从句（because...）",
+      "analysis": "because引导原因状语从句。"
+    },
+    {
+      "en": "And it also means both Zendaya and Tom Holland, who may or may not be married, but they probably are, have two top box office films with \"The Odyssey\" and \"Brand New Day\".",
+      "cn": "这也意味着赞达亚和汤姆·霍兰德，他们可能结婚也可能没有，但很可能结婚了，有两部顶级票房电影《奥德赛》和《崭新的一天》。",
+      "structure": "主句（it also means...）+ 宾语从句（both Zendaya and Tom Holland...have...）+ 非限制性定语从句（who may or may not be married...）",
+      "analysis": "means后接宾语从句，who引导非限制性定语从句，插入语'but they probably are'。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "Michigan Democratic Senate Primary",
+      "content": "The Michigan Democratic Senate primary is a key test of the party's direction, with candidates Haley Stevens (pragmatic, establishment-backed) and Abdul El-Sayed (progressive, populist) representing different wings. The race highlights ideological divides on issues like Israel and economic policy, and the importance of electability in the general election against Republican Mike Rogers.",
+      "keywords": "primary, Democratic Party, ideology, electability, progressive, establishment"
+    },
+    {
+      "title": "Congressional Ethics and Misconduct",
+      "content": "The transcript discusses ethics investigations and misconduct allegations against lawmakers, including Rep. Max Miller (abuse allegations, NDA dispute with ex-staffer Stephanie Grisham) and Rep. Chuck Edwards (censure recommendation for inappropriate conduct toward staffers). It also touches on the political implications, such as the balance of power and party leadership's reluctance to expel members.",
+      "keywords": "ethics, censure, misconduct, allegations, NDA, restraining order"
+    },
+    {
+      "title": "Wildfires in Washington State",
+      "content": "A man was arrested on arson charges in connection with one of three wildfires burning in Washington state. The fires have forced over 65,000 people from their homes and are expected to continue for weeks. This is a developing news story covered at the top of the program.",
+      "keywords": "wildfire, arson, evacuation, Washington state"
+    },
+    {
+      "title": "Senate Judiciary Committee Vote on Todd Blanche",
+      "content": "The Senate Judiciary Committee is set to vote on Todd Blanche's nomination for attorney general. The vote was delayed due to concerns from two key Republicans, but they signaled support after Blanche rescinded a $1.8 billion anti-weaponization fund. This is part of the confirmation process for the Trump administration.",
+      "keywords": "nomination, attorney general, Senate Judiciary Committee, confirmation"
+    },
+    {
+      "title": "Midterm Elections and Key Races",
+      "content": "The program covers critical primary elections in five states (Michigan, Missouri, Kansas, Virginia, Washington) that will settle nominations for Senate, House, and gubernatorial races ahead of the November midterms. The outcomes will shape the balance of power in Congress.",
+      "keywords": "midterms, primary, Senate, House, gubernatorial"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nToday: Voters Head To Polls In Michigan Senate Race; Former Trump Official Files Restraining Order Against Rep. Miller. Aired 6:30-7a ET\n\nAired August 04, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nCHUCK ROCHA, DEMOCRATIC STRATEGIST: -- running a TV commercial on this in the midterms.\n\nBut it's just another thing that stacks up.\n\nJESSE ARM, POLLSTER: Well, that's the key point. I don't think any undecided voters are going to be making their decision based on reflecting pool dynamics.\n\nAUDIE CORNISH, CNN ANCHOR: Got it. Okay.\n\nStraight ahead on CNN THIS MORNING, Michigan's primary shines a light on the deep divide in the Democratic Party and ask whether voters are choosing an ideology or candidate they think can win in November. Plus, crews scrambling to gain control on wildfires in Washington state as the weather turns dangerous again.\n\nCORNISH: Good morning, everybody. I'm Audie Cornish. Thank you for joining me on CNN THIS MORNING.\n\nIt is half past the hour. And here's what's happening right now.\n\nIn Washington, a man is arrested on arson charges in connection with one of three wildfires burning in the state. The 37-year-old man is being held on a $1 million bond, and officials say the fires are expected to keep burning for weeks. Already, more than 65,000 people have been forced from their homes.\n\nAnd in just a few hours, the Senate Judiciary Committee will vote on Todd Blanche's nomination for attorney general. The first vote was delayed last week due to concerns from two key Republicans, but both have signaled they will vote yes after Blanche formally rescinded the presidents $1.8 billion anti-weaponization fund.\n\nAnd happening now, polls are set to open for critical primary elections in five key states. Michigan, Missouri, Kansas, Virginia and Washington. Today's races will settle nominations in the Senate, House and gubernatorial races as we get closer to the midterms this November.\n\nAnd one of today's most closely watched contests is Michigan's Democratic Senate primary. It's a key test of where the party is headed. There's Haley Stevens making her final campaign pitch, framing herself as the pragmatic choice to take on Republican Mike Rogers in November.\n\nMeanwhile, Abdul El-Sayed rallied Detroit progressives and mounted a direct challenge to the party's Washington establishment.\n\nABDUL EL-SAYED (D), MICHIGAN SENATE CANDIDATE; I believe in what we're going to do. I believe in the opportunity we have in front of us to take our democracy back from the likes of the corporations and the billionaires and the special interests who want to tell us what we cannot have and should not fight for.\n\nREP. HALEY STEVENS (D), MICHIGAN SENATE CANDIDATE: West Michigan needs a senator who's going to deliver, who's going to show up, who's going to show you that I can campaign like I govern and I govern like I campaign, I'm present, I'm focused, I'm dedicated.\n\nCORNISH: Joining me now, two journalists who have been following these candidates closely. Dana Milbank, political columnist for \"NOTUS\", and Nicholas Wu, congressional reporter for \"Semafor\".\n\nLet me start with my congressional reporter. I know you like to cover the House, so it must be so irritating to be stuck covering the Senate. What is it about this race that you think is making it kind of one of the most written about?\n\nNICHOLAS WU, CONGRESSIONAL REPORTER, SEMAFOR: Well, this is one of the clearest ideological divides were seeing in pretty much any Senate race in the country in the primary. Since we have such a clear division between the folks who have lined up behind Abdul El-Sayed, progressives, AOC, Bernie Sanders and so on.\n\nCORNISH: And put up their endorsements so people can see that pretty clearly. Haley stevens got Chuck Schumer, Gretchen Whitmer. It is -- it's pretty obvious if you were drawing, if you asked a kid to draw a picture of wings of the party, these are the faces that would be on opposite sides.\n\nWU: Exactly. And beyond that, you have very clear ideological divides when it comes to Israel, which, you know, in our post-October 7th environment has become such a huge dividing line among Democrats as they look to build the future of their party.\n\nCORNISH: How come you say this is not a civil war? You've been writing about this, and it sounds like you think it's overblown. DANA MILBANK, POLITICAL COLUMNIST, NOTUS: I mean, what Nick is saying\n\nis all true. I think some of it is a little overblown. I mean, one of the main reasons El-Sayed is doing so well is he's just extremely charismatic. I mean, he's a very good politician, you know?\n\nAnd for all the talk of divisions within the Democratic Party, the electorate is actually pretty close. You know, it's probably more unified than it's been really in decades. And you see, you know, even the mainstream of the party, the so-called establishment, has gone substantially to the left in recent years. So, yeah, there's this huge divide they have on Israel, but the whole party is moving in El-Sayed direction on Israel.\n\nThey're both looking for universal health care, just different ways of getting there.\n\nMILBANK: So a lot of --\n\nCORNISH: It comes down to that dreaded word electability. Here's what Abdul El-Sayed said about that when he was asked on CNN on Sunday.\n\nJEFF ZELENY, CNN CHIEF NATIONAL AFFAIRS CORRESPONDENT: How much of this is about convincing people that you can win in November?\n\nEL-SAYED: The question of can I win in November is, is a question that voters alone can answer. Convincing folks like you and everybody who watches from everywhere else, I'm so sorry. It just doesn't matter.\n\nElectability is the thing that's best defined after the fact. So -- if and when I get elected, then you'll know I'm electable.\n\nCORNISH: I feel like Donald Trump, it applied to him, right? Like for the longest time, all I heard from Republicans is this guy is not a Republican. This isn't serious. Some of the people in his cabinet, some of the people who are with him now were people who said he was not electable. And here we are.\n\nAnd so, I'm wondering if we're at the beginning of a movement that ends with some version of that for Democrats, someone that they thought was not electable, who suddenly is.\n\nMILBANK: Yeah, I'm not sure that he's wrong in making this electability argument. The populist appeal that he has is really considerable. You know, you don't hear a word out of his mouth about sort of the woke issues, the cultural issues, and it's all pocketbook economic issues. So I'm sure --\n\nCORNISH: But I think those issues can be pretty much foisted on you when you get to a general election, right? Like everything that Mamdani is doing in New York becomes the thing that everyone else has to run against.\n\nMILBANK: Right. I mean, the conventional wisdom is Mike Rogers is very delighted to have El-Sayed as his opponent, but it's not entirely clear that that's the case.\n\nMILBANK: He can ignite a populist fire. And that's what will be interesting in the fall.\n\nCORNISH: Let me play one more thing for you. It's the vote I always keep an eye on in states like this. This is the Reverend Dr. Charles William II on CNN. This was on Sunday.\n\nREV. DR. CHARLES WILLIAMS II, SENIOR PASTOR, HISTORIC KING SOLOMON BAPTIST CHURCH: She's the only one in the race that's actually been elected. She was elected a congressperson. She worked in the executive branch.\n\nAnd of course, she has been a legislator. She understands how to work to get policy passed. Unfortunately, there's nobody else in the race at this time that has that cache.\n\nCORNISH: Historic King Solomon Church. There is always that Black Church vote that comes out, and they aren't always aligned with the academic progressive left vote. We see this in South Carolina. Biden was happy to receive those votes.\n\nIs that the kind of thing that's a wild card here in Michigan, or are those voters also embracing some of these more populist ideas or ideas on foreign policy?\n\nWU: I mean, the strategy that the Stevens campaign is running is to try to run up turnout in Black majority areas in Michigan. Whether that is --\n\nCORNISH: I think I saw her at a church.\n\nWU: Exactly. Right. Right.\n\nCORNISH: The obligatory many times Democrats, Black church visit. That happens.\n\nWU: Exactly. She's been trying to run up turnout there. El-Sayed has been trying to cut into those margins. For example, you know, we saw him going around Detroit with a whole crew of influencers. So it's like it's a much different kind of strategy --\n\nCORNISH: Very different reach, but I understand.\n\nWU: Exactly. MILBANK: And the polling shows him ahead, but it's just sort of a\n\nguess by the pollsters about is it going to be young male white voters? Is it going to be older female black voters? We don't really know until tonight or tomorrow.\n\nCORNISH: Yeah. Both are frustrated for different reasons. And there's always the couch, as it's said, right.\n\nYou guys, thank you so much. Hope to have you back in the group.\n\nAnd tonight, don't miss key primary races across the country, including big gubernatorial and congressional races, as we've talked about of Michigan. We're going to talk about who's going to advance and we're going to have election results all night.\n\nYou can get that tonight on CNN and our CNN app.\n\nNext on CNN THIS MORNING, a Republican lawmaker facing censure after an ethics report showing that he gave female staffers jewelry, vacations and guns. But some don't think that punishment goes far enough.\n\nPlus, I'm going to talk to a reporter who sat down with Congressman Max Miller. What he told her about the abuse allegations he's facing.\n\nDONALD TRUMP, PRESIDENT OF THE UNITED STATES: I know Max. He's a -- he's a good person. I mean, I always thought he was a very good person. And I'm going to let the families figure that out. But it's accusations, and I'm going to let them figure that out.\n\nCORNISH: President Trump publicly standing by embattled Republican Congressman Max Miller, even as his former press secretary launches a new legal battle against Miller.\n\nSo, on Monday, Stephanie Grisham's lawyer filed for a temporary restraining order against Miller. Now she's suing him for breaking the terms of a nondisclosure agreement, an agreement that stems from 2021. In a \"Washington Post\" op-ed, Grisham had written about abuse allegations dealing with an ex-boyfriend, and Miller sued her at the time, but they settled out of court and agreed not to disparage each other publicly.\n\nGrisham now claims Miller violated the deal in this interview back in June.\n\nREP. MAX MILLER (R-OH): Without question, every allegation should be taken seriously. What should be noted is that allegation came out on the same day as somebody's book launch.\n\nAnd the other part, what I would like to discuss is my ex-wife was with me every single day during that time of my life, in that election. And she, in her own words, will tell you that I never did any of those things. And she never saw evidence of me ever doing those things. And that was nothing more than somebody trying to get notoriety.\n\nCORNISH: Joining the group chat, Harri Leigh, political correspondent at Spectrum News. She conducted that interview with Congressman Miller.\n\nThis is a fascinating conversation that you got to have with him. Before we get to the allegations within his family and ex-wife, can you talk about this issue with Stephanie Grisham, why they are all of a sudden back in court?\n\nHARRI LEIGH, POLITICAL CORRESPONDENT, SPECTRUM NEWS: Well, they're back in court partly because of that interview and their nondisclosure agreement back in 2021. It appears this was a confidential agreement. So we didn't know until she filed this suit.\n\nBut it appears that they agreed not to disparage each other. And she's saying that in that interview, by denying the claims that she made, as well as the claims by his now ex-wife, that he broke that agreement. And as you know, yesterday she also filed a restraining order.\n\nCORNISH: Right. Because he's basically saying there are not multiple allegations, right? He doesn't want this to sound like it's piling up. And so, he reached back to this conversation and she's like, no, keep me out of it.\n\nCORNISH: All right. So, let's talk about the Moreno family. The Senator Bernie Moreno has been obviously, like, very upset and frustrated. He has called for Miller to step down, saying he shouldn't be in Congress anymore.\n\nJoining him, Senator Shelley Moore Capito and Roger Marshall.\n\nAre we going to see any other senators speak up?\n\nARM: I think Rick Scott might have said something to that effect. Yeah, I don't know.\n\nCORNISH: When does it reach the House? The people who actually work with this guy?\n\nAARON BLAKE, CNN SENIOR POLITICAL REPORER: I think it's getting to that point now. We're seeing signals coming out of the White House where at least Trump is apparently privately saying that he doesn't think Max Miller can win reelection.\n\nThat seems like the beginnings of kind of a subtle pressure campaign to convince this person to at least step aside from his reelection campaign. And there's a very good reason for that. You know, even besides from -- aside from kind of the details of the allegations, this is a district that Republicans would worry about losing if Max Miller is on the ballot in November. That's the same with some of these other congressmen, which were talking about.\n\nCORNISH: But now, we're talking about family. So, for instance, Senator Moreno, like I said, he put out a statement where he says, as he admitted privately, Max Miller needs serious psychological help. He's a danger to my daughter. I hold my breath every minute he has custody of my granddaughter.\n\nAnd then there is also this audio obtained from earlier this year. Emily Moreno is telling police about an incident on New Year's Eve where she alleged that Miller held a gun to her head when she was changing their infant daughter. So just give you a moment to listen to this.\n\nOFFICER: So when -- when does the gun come into play?\n\nEMILY MORENO, EX-WIFE: When I'm changing (AUDIO DELETED).\n\nOFFICER: And what does he do?\n\nMORENO: Holds it on me.\n\nOFFICER: Holds it on you? Okay, can you show me where he held it to you?\n\nNo, hey, it's -- it's okay, that's fine, that's fine. Like I said, I -- that's a hard thing to talk about.\n\nCORNISH: Has he said anything about this incident or others? Because I know he released his own drop box of audio. So, he does want people to kind of hear his side as he's denying these allegations.\n\nLEIGH: Yeah. And I think that's part of the problem is that he keeps releasing more and more information and more evidence that can then be used against him in certain cases. He does deny that this incident even happened.\n\nCORNISH: What does he say about his father in law? Has he talked about what's going on publicly?\n\nLEIGH; So, for a long time he said that they could work together. He said that he could walk and chew gum at the same time. But after a while, he was saying that his father-in-law was helping his daughter, enabling her in what he said was lying. And so that is when he started taking to social media to criticize\n\nhim. Bernie Moreno didn't say anything for a very long time. His team consistently said no comment until Sunday, and that is when he released that scathing post on X.\n\nCORNISH: And then he was asked about it. I just want to play some video of the last time Moreno was asked about this incident. Oh, sorry about that. It is actually a full screen. I'm not sure I can say it because it involves swearing.\n\nIt says, you know, I hope you never have to go through a situation like this and you wouldn't ask that kind of effing question.\n\nAnd I think it's a great example of the fact that they do want this not to be so public. This isn't something that they want to be discussed this way. Do you think it would be discussed this way if it weren't two lawmakers involved?\n\nROCHA: Yeah, I think we'd be having a whole different conversation. We'd also be doing it different if Bernie Moreno wasn't just elected, that means he's not up for reelection. Everybody at home should know. Just because you're a senator don't mean you're up for elections every six years.\n\nJust elected. He's not up for another four and a half years for reelection. But in the house, to your point. Audie, everybody is up every two years. And in this congressional race, it's only an R plus seven, which should be a very safe seat. And in most circumstances, it would be a very safe seat.\n\nBut when you put that on the screen, an ad maker like me can run that against -- he's running against an ironworker, a regular union guy, and that makes that be more vulnerable.\n\nThat's why you have to put politics in this horrible situation where you're talking about guns and babies, which nobody should live through.\n\nCORNISH: All right, so let's turn to that. Another Huse Republican facing ethics scrutiny. The ethics committee is recommending a full vote to censure North Carolina's Chuck Edwards, a months-long probe found that Edwards engaged in persistent, inappropriate conduct toward two young female staffers. That's from the ethics panel report.\n\nNow, examples that they provided included skipping scheduled house votes to help a staffer decorate her Christmas tree, writing and reading a tearful personal poem at a staffers departure party and buying a staffer lavish gifts, including jewelry worth more than $1,000.\n\nEdwards and his team reject the allegations. They claim that the ethics committee failed to demonstrate that either of the two staffers actually expressed discomfort to Edwards regarding his conduct with them.\n\nThe group chat is back. I wanted to follow up with this because just a few weeks ago, Mike\n\nJohnson was saying, I want to ban dating, not just of your own staffers, but across the board. So, obviously, there was like a Houston, we have a problem situation.\n\nWhat do you see in the fact that there's a censure going on here, but that hasn't come up yet with Moreno.\n\nCORNISH: With Miller. Sorry.\n\nLEIGH: I think that they've -- they've expressed some issues with due process. I think that now that the ethics investigation is over with Edwards, they feel more comfortable moving forward with that. But we have seen several lawmakers refuse to take a stand until the Ethics Committee makes a decision.\n\nI don't actually know if they have started that yet, but --\n\nCORNISH: And I'm going to throw up on screen so people can see the number of lawmakers who are facing some kind of sexual harassment or ethics investigation at this point.\n\nAnd one of the people in the past was Jorge Santos. And it was interesting. I remember thinking, Jorge Santos is not going to have to leave Congress unless a Democrat also is a problem, and they can be asked to leave Congress. Like there seemed to be a kind of one for one situation that had to happen.\n\nIs that the case right now? Just the balance of power is so tight that leadership is loathe to let anyone go?\n\nROCHA: That's the point here. I mean, I think that's exactly what's happening.\n\nCORNISH: But even for Democrats, you can be like on your deathbed and still in Congress.\n\nROCHA: Absolutely. And you can die in office if you stay there until you're 90. I mean, it's just one thing after another.\n\nAnd I think this is where the American people are fed up with both parties. When you say, what do you think about Democrats? What do you think about Republicans? You're like, well, they're all too old, and they're all a bunch of crooks that seem like they\\re acting like a bunch of freaks on Capitol Hill.\n\nARM: I genuinely weird behavior from Edwards's part.\n\nARM: From Edwards's part.\n\nARM: I mean, that's the latest one you've raised, Audie. I just -- it is strange to me that, you know, even if it is true what his office is saying, that none of these people ever complained about this, that one would think it's appropriate to shower young female staffers and these kinds of gifts and invite them to things, it's just, you know, it's strange.\n\nCORNISH: Yeah, which two adult -- two consenting adults outside of this environment? Sure. But you know what I mean? But in Congress, there has been this sense that there's some other standard. And is that dead?\n\nARM: I think there is some credit that is actually due here to Speaker Johnson, who I would say probably saying nobody who works in Congress can date anybody else who works in Congress is maybe a little bit of an overcorrection. I'm not sure if that's exactly what he proposed, but if it is, I would say that, you know, maybe a bit heavy handed, but look, it's a -- it's a House Republican majority. And that ethics committee is the one that dealt down this decision.\n\nCORNISH: Right, it's Republicans leading that committee. Yeah.\n\nARM: Edwards. So, you know, I respect the fact and appreciate that there is at least an effort here to clean up house and recognition that there is a problem.\n\nROCHA: And if Democrats take the House, which they probably will, at least in the house, it'd be interesting to watch how they deal -- how they deal with the ethics committee on either side.\n\nCORNISH: I know, because they also always complain about the ethics committee. That's like a big Democrat thing. They're always frustrated with.\n\nSince you were here, we want to give you something positive to talk about what is in your group chat other than people being like, oh my God, did you talk to this lawmaker? How did that interview go? What are people talking about in your world?\n\nLEIGH: That's been a big thing this week, I'm going to say. But I think, you know, we're talking a lot about how the House, the Senate are going out. They leave so much unfinished business, so much that did not get passed. And it's going to be such a rush when they come back in September. Just talking about the budget, the NDAA, the crypto bill, military funding. So --\n\nCORNISH: The military funding, even?\n\nLEIGH: All the NDAA.\n\nCORNISH: Yeah. You think that's not going to get done this week?\n\nLEIGH: It could, but -- I mean --\n\nCORNISH: Group chats, not hopeful. Okay. Aaron, what about you?\n\nBLAKE: Major League Baseball salary cap. If you look at the trades that happened this week ahead of the trade deadline, the rich get richer. They get all the best players the Dodgers, the Yankees, the Phillies. We're tired of it. The Minnesota Twins need to have a level playing field to be able to compete with those teams. Salary cap.\n\nCORNISH: Really well-delivered. Quite the argument.\n\nROCHA: And the billionaires.\n\nWhat's in your group chat?\n\nROCHA: Look, it's the Latino group chat. We're getting past the primaries, Audie, and we're looking towards the general.\n\nROCHA: And look at these are great Latino candidates who are up in marginal seats. If Democrats take back Congress, it will be because --\n\nCORNISH: All right. These -- are these folks you're working with?\n\nROCHA: I've worked with some of these. Randy Villegas, I would draw your attention to who I was talking to in the green room is from Fresno, auto mechanic, college professor. Like working class guy that's not made up.\n\nCORNISH: That this is the other running trend I'm interested in, given ICE and all these things and the miscalculation in the past of left activists about thinking Latinos care about immigration so much, I'm really interested to see.\n\nROCHA: This story will be the story of the midterms.\n\nARM: Well, I'm so thrown off because I was going to say the thing about the MLB salary cap.\n\nCORNISH: Also a salary person?\n\nARM: I'm a Detroit Tigers fan. So, you know, I'm really hurt by this Tarik Skubal situation with Dodgers.\n\nCORNISH: I like this baseball populist.\n\nARM: But, no, no, no, no, I'm actually going to talk about the new Spider-Man movie because we haven't had a solid superhero movie in a hot minute at this point. And this Spider-Man movie was really quality.\n\nCORNISH: The last one probably was a Spider-Man movie. ARM: Yeah, probably. So, Spider-Man is just like the best pop culture\n\nfigure. Honestly, of any --\n\nCORNISH: Certainly the most durable, as is Tom Holland. Yeah.\n\nARM: So go see it. The world is smaller. It's not huge. There's not like aliens from other dimensions coming in and messing up timelines. So good movie.\n\nCORNISH: Anti-multiverse. What a take. Okay.\n\nROCHA: Has it already come out? I'm the old guy here. Has Spider-Man come out?\n\nCORNISH: Has already come out. I don't blame you because the hype and run up to these things is just so long.\n\nROCHA: It's actually show.\n\nCORNISH: No, it's actually out. And it also means both Zendaya and Tom Holland, who may or may not be married, but they probably are, have two top box office films with \"The Odyssey\" and \"Brand New Day\". So, shout out to them.\n\nThanks for being here, guys. Thanks for sharing what's in your group chat?\n\nThe headlines are next.",
+  "segments": [
+    {
+      "seg": 2,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-08-04/segment/02",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nToday: Voters Head To Polls In Michigan Senate Race; Former Trump Official Files Restraining Order Against Rep. Miller. Aired 6:30-7a ET\n\nAired August 04, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nCHUCK ROCHA, DEMOCRATIC STRATEGIST: -- running a TV commercial on this in the midterms.\n\nBut it's just another thing that stacks up.\n\nJESSE ARM, POLLSTER: Well, that's the key point. I don't think any undecided voters are going to be making their decision based on reflecting pool dynamics.\n\nAUDIE CORNISH, CNN ANCHOR: Got it. Okay.\n\nStraight ahead on CNN THIS MORNING, Michigan's primary shines a light on the deep divide in the Democratic Party and ask whether voters are choosing an ideology or candidate they think can win in November. Plus, crews scrambling to gain control on wildfires in Washington state as the weather turns dangerous again.\n\nCORNISH: Good morning, everybody. I'm Audie Cornish. Thank you for joining me on CNN THIS MORNING.\n\nIt is half past the hour. And here's what's happening right now.\n\nIn Washington, a man is arrested on arson charges in connection with one of three wildfires burning in the state. The 37-year-old man is being held on a $1 million bond, and officials say the fires are expected to keep burning for weeks. Already, more than 65,000 people have been forced from their homes.\n\nAnd in just a few hours, the Senate Judiciary Committee will vote on Todd Blanche's nomination for attorney general. The first vote was delayed last week due to concerns from two key Republicans, but both have signaled they will vote yes after Blanche formally rescinded the presidents $1.8 billion anti-weaponization fund.\n\nAnd happening now, polls are set to open for critical primary elections in five key states. Michigan, Missouri, Kansas, Virginia and Washington. Today's races will settle nominations in the Senate, House and gubernatorial races as we get closer to the midterms this November.\n\nAnd one of today's most closely watched contests is Michigan's Democratic Senate primary. It's a key test of where the party is headed. There's Haley Stevens making her final campaign pitch, framing herself as the pragmatic choice to take on Republican Mike Rogers in November.\n\nMeanwhile, Abdul El-Sayed rallied Detroit progressives and mounted a direct challenge to the party's Washington establishment.\n\nABDUL EL-SAYED (D), MICHIGAN SENATE CANDIDATE; I believe in what we're going to do. I believe in the opportunity we have in front of us to take our democracy back from the likes of the corporations and the billionaires and the special interests who want to tell us what we cannot have and should not fight for.\n\nREP. HALEY STEVENS (D), MICHIGAN SENATE CANDIDATE: West Michigan needs a senator who's going to deliver, who's going to show up, who's going to show you that I can campaign like I govern and I govern like I campaign, I'm present, I'm focused, I'm dedicated.\n\nCORNISH: Joining me now, two journalists who have been following these candidates closely. Dana Milbank, political columnist for \"NOTUS\", and Nicholas Wu, congressional reporter for \"Semafor\".\n\nLet me start with my congressional reporter. I know you like to cover the House, so it must be so irritating to be stuck covering the Senate. What is it about this race that you think is making it kind of one of the most written about?\n\nNICHOLAS WU, CONGRESSIONAL REPORTER, SEMAFOR: Well, this is one of the clearest ideological divides were seeing in pretty much any Senate race in the country in the primary. Since we have such a clear division between the folks who have lined up behind Abdul El-Sayed, progressives, AOC, Bernie Sanders and so on.\n\nCORNISH: And put up their endorsements so people can see that pretty clearly. Haley stevens got Chuck Schumer, Gretchen Whitmer. It is -- it's pretty obvious if you were drawing, if you asked a kid to draw a picture of wings of the party, these are the faces that would be on opposite sides.\n\nWU: Exactly. And beyond that, you have very clear ideological divides when it comes to Israel, which, you know, in our post-October 7th environment has become such a huge dividing line among Democrats as they look to build the future of their party.\n\nCORNISH: How come you say this is not a civil war? You've been writing about this, and it sounds like you think it's overblown. DANA MILBANK, POLITICAL COLUMNIST, NOTUS: I mean, what Nick is saying\n\nis all true. I think some of it is a little overblown. I mean, one of the main reasons El-Sayed is doing so well is he's just extremely charismatic. I mean, he's a very good politician, you know?\n\nAnd for all the talk of divisions within the Democratic Party, the electorate is actually pretty close. You know, it's probably more unified than it's been really in decades. And you see, you know, even the mainstream of the party, the so-called establishment, has gone substantially to the left in recent years. So, yeah, there's this huge divide they have on Israel, but the whole party is moving in El-Sayed direction on Israel.\n\nThey're both looking for universal health care, just different ways of getting there.\n\nMILBANK: So a lot of --\n\nCORNISH: It comes down to that dreaded word electability. Here's what Abdul El-Sayed said about that when he was asked on CNN on Sunday.\n\nJEFF ZELENY, CNN CHIEF NATIONAL AFFAIRS CORRESPONDENT: How much of this is about convincing people that you can win in November?\n\nEL-SAYED: The question of can I win in November is, is a question that voters alone can answer. Convincing folks like you and everybody who watches from everywhere else, I'm so sorry. It just doesn't matter.\n\nElectability is the thing that's best defined after the fact. So -- if and when I get elected, then you'll know I'm electable.\n\nCORNISH: I feel like Donald Trump, it applied to him, right? Like for the longest time, all I heard from Republicans is this guy is not a Republican. This isn't serious. Some of the people in his cabinet, some of the people who are with him now were people who said he was not electable. And here we are.\n\nAnd so, I'm wondering if we're at the beginning of a movement that ends with some version of that for Democrats, someone that they thought was not electable, who suddenly is.\n\nMILBANK: Yeah, I'm not sure that he's wrong in making this electability argument. The populist appeal that he has is really considerable. You know, you don't hear a word out of his mouth about sort of the woke issues, the cultural issues, and it's all pocketbook economic issues. So I'm sure --\n\nCORNISH: But I think those issues can be pretty much foisted on you when you get to a general election, right? Like everything that Mamdani is doing in New York becomes the thing that everyone else has to run against.\n\nMILBANK: Right. I mean, the conventional wisdom is Mike Rogers is very delighted to have El-Sayed as his opponent, but it's not entirely clear that that's the case.\n\nMILBANK: He can ignite a populist fire. And that's what will be interesting in the fall.\n\nCORNISH: Let me play one more thing for you. It's the vote I always keep an eye on in states like this. This is the Reverend Dr. Charles William II on CNN. This was on Sunday.\n\nREV. DR. CHARLES WILLIAMS II, SENIOR PASTOR, HISTORIC KING SOLOMON BAPTIST CHURCH: She's the only one in the race that's actually been elected. She was elected a congressperson. She worked in the executive branch.\n\nAnd of course, she has been a legislator. She understands how to work to get policy passed. Unfortunately, there's nobody else in the race at this time that has that cache.\n\nCORNISH: Historic King Solomon Church. There is always that Black Church vote that comes out, and they aren't always aligned with the academic progressive left vote. We see this in South Carolina. Biden was happy to receive those votes.\n\nIs that the kind of thing that's a wild card here in Michigan, or are those voters also embracing some of these more populist ideas or ideas on foreign policy?\n\nWU: I mean, the strategy that the Stevens campaign is running is to try to run up turnout in Black majority areas in Michigan. Whether that is --\n\nCORNISH: I think I saw her at a church.\n\nWU: Exactly. Right. Right.\n\nCORNISH: The obligatory many times Democrats, Black church visit. That happens.\n\nWU: Exactly. She's been trying to run up turnout there. El-Sayed has been trying to cut into those margins. For example, you know, we saw him going around Detroit with a whole crew of influencers. So it's like it's a much different kind of strategy --\n\nCORNISH: Very different reach, but I understand.\n\nWU: Exactly. MILBANK: And the polling shows him ahead, but it's just sort of a\n\nguess by the pollsters about is it going to be young male white voters? Is it going to be older female black voters? We don't really know until tonight or tomorrow.\n\nCORNISH: Yeah. Both are frustrated for different reasons. And there's always the couch, as it's said, right.\n\nYou guys, thank you so much. Hope to have you back in the group.\n\nAnd tonight, don't miss key primary races across the country, including big gubernatorial and congressional races, as we've talked about of Michigan. We're going to talk about who's going to advance and we're going to have election results all night.\n\nYou can get that tonight on CNN and our CNN app.\n\nNext on CNN THIS MORNING, a Republican lawmaker facing censure after an ethics report showing that he gave female staffers jewelry, vacations and guns. But some don't think that punishment goes far enough.\n\nPlus, I'm going to talk to a reporter who sat down with Congressman Max Miller. What he told her about the abuse allegations he's facing.\n\nDONALD TRUMP, PRESIDENT OF THE UNITED STATES: I know Max. He's a -- he's a good person. I mean, I always thought he was a very good person. And I'm going to let the families figure that out. But it's accusations, and I'm going to let them figure that out.\n\nCORNISH: President Trump publicly standing by embattled Republican Congressman Max Miller, even as his former press secretary launches a new legal battle against Miller.\n\nSo, on Monday, Stephanie Grisham's lawyer filed for a temporary restraining order against Miller. Now she's suing him for breaking the terms of a nondisclosure agreement, an agreement that stems from 2021. In a \"Washington Post\" op-ed, Grisham had written about abuse allegations dealing with an ex-boyfriend, and Miller sued her at the time, but they settled out of court and agreed not to disparage each other publicly.\n\nGrisham now claims Miller violated the deal in this interview back in June.\n\nREP. MAX MILLER (R-OH): Without question, every allegation should be taken seriously. What should be noted is that allegation came out on the same day as somebody's book launch.\n\nAnd the other part, what I would like to discuss is my ex-wife was with me every single day during that time of my life, in that election. And she, in her own words, will tell you that I never did any of those things. And she never saw evidence of me ever doing those things. And that was nothing more than somebody trying to get notoriety.\n\nCORNISH: Joining the group chat, Harri Leigh, political correspondent at Spectrum News. She conducted that interview with Congressman Miller.\n\nThis is a fascinating conversation that you got to have with him. Before we get to the allegations within his family and ex-wife, can you talk about this issue with Stephanie Grisham, why they are all of a sudden back in court?\n\nHARRI LEIGH, POLITICAL CORRESPONDENT, SPECTRUM NEWS: Well, they're back in court partly because of that interview and their nondisclosure agreement back in 2021. It appears this was a confidential agreement. So we didn't know until she filed this suit.\n\nBut it appears that they agreed not to disparage each other. And she's saying that in that interview, by denying the claims that she made, as well as the claims by his now ex-wife, that he broke that agreement. And as you know, yesterday she also filed a restraining order.\n\nCORNISH: Right. Because he's basically saying there are not multiple allegations, right? He doesn't want this to sound like it's piling up. And so, he reached back to this conversation and she's like, no, keep me out of it.\n\nCORNISH: All right. So, let's talk about the Moreno family. The Senator Bernie Moreno has been obviously, like, very upset and frustrated. He has called for Miller to step down, saying he shouldn't be in Congress anymore.\n\nJoining him, Senator Shelley Moore Capito and Roger Marshall.\n\nAre we going to see any other senators speak up?\n\nARM: I think Rick Scott might have said something to that effect. Yeah, I don't know.\n\nCORNISH: When does it reach the House? The people who actually work with this guy?\n\nAARON BLAKE, CNN SENIOR POLITICAL REPORER: I think it's getting to that point now. We're seeing signals coming out of the White House where at least Trump is apparently privately saying that he doesn't think Max Miller can win reelection.\n\nThat seems like the beginnings of kind of a subtle pressure campaign to convince this person to at least step aside from his reelection campaign. And there's a very good reason for that. You know, even besides from -- aside from kind of the details of the allegations, this is a district that Republicans would worry about losing if Max Miller is on the ballot in November. That's the same with some of these other congressmen, which were talking about.\n\nCORNISH: But now, we're talking about family. So, for instance, Senator Moreno, like I said, he put out a statement where he says, as he admitted privately, Max Miller needs serious psychological help. He's a danger to my daughter. I hold my breath every minute he has custody of my granddaughter.\n\nAnd then there is also this audio obtained from earlier this year. Emily Moreno is telling police about an incident on New Year's Eve where she alleged that Miller held a gun to her head when she was changing their infant daughter. So just give you a moment to listen to this.\n\nOFFICER: So when -- when does the gun come into play?\n\nEMILY MORENO, EX-WIFE: When I'm changing (AUDIO DELETED).\n\nOFFICER: And what does he do?\n\nMORENO: Holds it on me.\n\nOFFICER: Holds it on you? Okay, can you show me where he held it to you?\n\nNo, hey, it's -- it's okay, that's fine, that's fine. Like I said, I -- that's a hard thing to talk about.\n\nCORNISH: Has he said anything about this incident or others? Because I know he released his own drop box of audio. So, he does want people to kind of hear his side as he's denying these allegations.\n\nLEIGH: Yeah. And I think that's part of the problem is that he keeps releasing more and more information and more evidence that can then be used against him in certain cases. He does deny that this incident even happened.\n\nCORNISH: What does he say about his father in law? Has he talked about what's going on publicly?\n\nLEIGH; So, for a long time he said that they could work together. He said that he could walk and chew gum at the same time. But after a while, he was saying that his father-in-law was helping his daughter, enabling her in what he said was lying. And so that is when he started taking to social media to criticize\n\nhim. Bernie Moreno didn't say anything for a very long time. His team consistently said no comment until Sunday, and that is when he released that scathing post on X.\n\nCORNISH: And then he was asked about it. I just want to play some video of the last time Moreno was asked about this incident. Oh, sorry about that. It is actually a full screen. I'm not sure I can say it because it involves swearing.\n\nIt says, you know, I hope you never have to go through a situation like this and you wouldn't ask that kind of effing question.\n\nAnd I think it's a great example of the fact that they do want this not to be so public. This isn't something that they want to be discussed this way. Do you think it would be discussed this way if it weren't two lawmakers involved?\n\nROCHA: Yeah, I think we'd be having a whole different conversation. We'd also be doing it different if Bernie Moreno wasn't just elected, that means he's not up for reelection. Everybody at home should know. Just because you're a senator don't mean you're up for elections every six years.\n\nJust elected. He's not up for another four and a half years for reelection. But in the house, to your point. Audie, everybody is up every two years. And in this congressional race, it's only an R plus seven, which should be a very safe seat. And in most circumstances, it would be a very safe seat.\n\nBut when you put that on the screen, an ad maker like me can run that against -- he's running against an ironworker, a regular union guy, and that makes that be more vulnerable.\n\nThat's why you have to put politics in this horrible situation where you're talking about guns and babies, which nobody should live through.\n\nCORNISH: All right, so let's turn to that. Another Huse Republican facing ethics scrutiny. The ethics committee is recommending a full vote to censure North Carolina's Chuck Edwards, a months-long probe found that Edwards engaged in persistent, inappropriate conduct toward two young female staffers. That's from the ethics panel report.\n\nNow, examples that they provided included skipping scheduled house votes to help a staffer decorate her Christmas tree, writing and reading a tearful personal poem at a staffers departure party and buying a staffer lavish gifts, including jewelry worth more than $1,000.\n\nEdwards and his team reject the allegations. They claim that the ethics committee failed to demonstrate that either of the two staffers actually expressed discomfort to Edwards regarding his conduct with them.\n\nThe group chat is back. I wanted to follow up with this because just a few weeks ago, Mike\n\nJohnson was saying, I want to ban dating, not just of your own staffers, but across the board. So, obviously, there was like a Houston, we have a problem situation.\n\nWhat do you see in the fact that there's a censure going on here, but that hasn't come up yet with Moreno.\n\nCORNISH: With Miller. Sorry.\n\nLEIGH: I think that they've -- they've expressed some issues with due process. I think that now that the ethics investigation is over with Edwards, they feel more comfortable moving forward with that. But we have seen several lawmakers refuse to take a stand until the Ethics Committee makes a decision.\n\nI don't actually know if they have started that yet, but --\n\nCORNISH: And I'm going to throw up on screen so people can see the number of lawmakers who are facing some kind of sexual harassment or ethics investigation at this point.\n\nAnd one of the people in the past was Jorge Santos. And it was interesting. I remember thinking, Jorge Santos is not going to have to leave Congress unless a Democrat also is a problem, and they can be asked to leave Congress. Like there seemed to be a kind of one for one situation that had to happen.\n\nIs that the case right now? Just the balance of power is so tight that leadership is loathe to let anyone go?\n\nROCHA: That's the point here. I mean, I think that's exactly what's happening.\n\nCORNISH: But even for Democrats, you can be like on your deathbed and still in Congress.\n\nROCHA: Absolutely. And you can die in office if you stay there until you're 90. I mean, it's just one thing after another.\n\nAnd I think this is where the American people are fed up with both parties. When you say, what do you think about Democrats? What do you think about Republicans? You're like, well, they're all too old, and they're all a bunch of crooks that seem like they\\re acting like a bunch of freaks on Capitol Hill.\n\nARM: I genuinely weird behavior from Edwards's part.\n\nARM: From Edwards's part.\n\nARM: I mean, that's the latest one you've raised, Audie. I just -- it is strange to me that, you know, even if it is true what his office is saying, that none of these people ever complained about this, that one would think it's appropriate to shower young female staffers and these kinds of gifts and invite them to things, it's just, you know, it's strange.\n\nCORNISH: Yeah, which two adult -- two consenting adults outside of this environment? Sure. But you know what I mean? But in Congress, there has been this sense that there's some other standard. And is that dead?\n\nARM: I think there is some credit that is actually due here to Speaker Johnson, who I would say probably saying nobody who works in Congress can date anybody else who works in Congress is maybe a little bit of an overcorrection. I'm not sure if that's exactly what he proposed, but if it is, I would say that, you know, maybe a bit heavy handed, but look, it's a -- it's a House Republican majority. And that ethics committee is the one that dealt down this decision.\n\nCORNISH: Right, it's Republicans leading that committee. Yeah.\n\nARM: Edwards. So, you know, I respect the fact and appreciate that there is at least an effort here to clean up house and recognition that there is a problem.\n\nROCHA: And if Democrats take the House, which they probably will, at least in the house, it'd be interesting to watch how they deal -- how they deal with the ethics committee on either side.\n\nCORNISH: I know, because they also always complain about the ethics committee. That's like a big Democrat thing. They're always frustrated with.\n\nSince you were here, we want to give you something positive to talk about what is in your group chat other than people being like, oh my God, did you talk to this lawmaker? How did that interview go? What are people talking about in your world?\n\nLEIGH: That's been a big thing this week, I'm going to say. But I think, you know, we're talking a lot about how the House, the Senate are going out. They leave so much unfinished business, so much that did not get passed. And it's going to be such a rush when they come back in September. Just talking about the budget, the NDAA, the crypto bill, military funding. So --\n\nCORNISH: The military funding, even?\n\nLEIGH: All the NDAA.\n\nCORNISH: Yeah. You think that's not going to get done this week?\n\nLEIGH: It could, but -- I mean --\n\nCORNISH: Group chats, not hopeful. Okay. Aaron, what about you?\n\nBLAKE: Major League Baseball salary cap. If you look at the trades that happened this week ahead of the trade deadline, the rich get richer. They get all the best players the Dodgers, the Yankees, the Phillies. We're tired of it. The Minnesota Twins need to have a level playing field to be able to compete with those teams. Salary cap.\n\nCORNISH: Really well-delivered. Quite the argument.\n\nROCHA: And the billionaires.\n\nWhat's in your group chat?\n\nROCHA: Look, it's the Latino group chat. We're getting past the primaries, Audie, and we're looking towards the general.\n\nROCHA: And look at these are great Latino candidates who are up in marginal seats. If Democrats take back Congress, it will be because --\n\nCORNISH: All right. These -- are these folks you're working with?\n\nROCHA: I've worked with some of these. Randy Villegas, I would draw your attention to who I was talking to in the green room is from Fresno, auto mechanic, college professor. Like working class guy that's not made up.\n\nCORNISH: That this is the other running trend I'm interested in, given ICE and all these things and the miscalculation in the past of left activists about thinking Latinos care about immigration so much, I'm really interested to see.\n\nROCHA: This story will be the story of the midterms.\n\nARM: Well, I'm so thrown off because I was going to say the thing about the MLB salary cap.\n\nCORNISH: Also a salary person?\n\nARM: I'm a Detroit Tigers fan. So, you know, I'm really hurt by this Tarik Skubal situation with Dodgers.\n\nCORNISH: I like this baseball populist.\n\nARM: But, no, no, no, no, I'm actually going to talk about the new Spider-Man movie because we haven't had a solid superhero movie in a hot minute at this point. And this Spider-Man movie was really quality.\n\nCORNISH: The last one probably was a Spider-Man movie. ARM: Yeah, probably. So, Spider-Man is just like the best pop culture\n\nfigure. Honestly, of any --\n\nCORNISH: Certainly the most durable, as is Tom Holland. Yeah.\n\nARM: So go see it. The world is smaller. It's not huge. There's not like aliens from other dimensions coming in and messing up timelines. So good movie.\n\nCORNISH: Anti-multiverse. What a take. Okay.\n\nROCHA: Has it already come out? I'm the old guy here. Has Spider-Man come out?\n\nCORNISH: Has already come out. I don't blame you because the hype and run up to these things is just so long.\n\nROCHA: It's actually show.\n\nCORNISH: No, it's actually out. And it also means both Zendaya and Tom Holland, who may or may not be married, but they probably are, have two top box office films with \"The Odyssey\" and \"Brand New Day\". So, shout out to them.\n\nThanks for being here, guys. Thanks for sharing what's in your group chat?\n\nThe headlines are next."
+    }
+  ]
+}
