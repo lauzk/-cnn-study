@@ -1,0 +1,569 @@
+{
+  "date": "2026-08-06",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-08-06/segment/02",
+  "vocabulary": [
+    {
+      "word": "contempt",
+      "phonetic": "/kənˈtempt/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "蔑视； contempt of Congress 藐视国会",
+      "en": "the crime of not obeying a court or legislature",
+      "excerpt": "Senate Committee to Vote on Fauci Contempt",
+      "example_cn": "参议院委员会将就福奇藐视国会进行投票。"
+    },
+    {
+      "word": "invoke",
+      "phonetic": "/ɪnˈvoʊk/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "援引；行使（权利）",
+      "en": "to mention or use a law, rule, etc. as a reason for doing something",
+      "excerpt": "Dr. Fauci invoked the Fifth Amendment 111 times",
+      "example_cn": "福奇博士援引第五修正案111次。"
+    },
+    {
+      "word": "self-incrimination",
+      "phonetic": "/ˌself ɪnˌkrɪmɪˈneɪʃn/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "自证其罪",
+      "en": "the act of giving evidence that may make you seem guilty of a crime",
+      "excerpt": "whether Fauci had a valid constitutional right against self-incrimination",
+      "example_cn": "福奇是否有反对自证其罪的合法宪法权利。"
+    },
+    {
+      "word": "pardon",
+      "phonetic": "/ˈpɑːrdn/",
+      "pos": "n./v.",
+      "level": "考研",
+      "cn": "赦免；宽恕",
+      "en": "an official decision to forgive someone for a crime and free them from punishment",
+      "excerpt": "he was pardoned by former President Biden",
+      "example_cn": "他被前总统拜登赦免。"
+    },
+    {
+      "word": "blanket pardon",
+      "phonetic": "/ˈblæŋkɪt ˈpɑːrdn/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "全面赦免",
+      "en": "a pardon that covers all possible crimes",
+      "excerpt": "given a lot of blanket pardons out there",
+      "example_cn": "已经有很多全面赦免。"
+    },
+    {
+      "word": "kabuki theater",
+      "phonetic": "/kəˈbuːki ˈθiːətər/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "政治作秀（比喻）",
+      "en": "a situation that is done in a formal way but has no real effect",
+      "excerpt": "this has been a very long and I think sad kabuki theater",
+      "example_cn": "这是一场漫长而可悲的政治作秀。"
+    },
+    {
+      "word": "lab leak theory",
+      "phonetic": "/læb liːk ˈθɪəri/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "实验室泄漏理论",
+      "en": "the theory that COVID-19 originated from a laboratory leak",
+      "excerpt": "if the lab leak theory is true",
+      "example_cn": "如果实验室泄漏理论是真的。"
+    },
+    {
+      "word": "gag",
+      "phonetic": "/ɡæɡ/",
+      "pos": "n./v.",
+      "level": "六级",
+      "cn": "封口；压制言论",
+      "en": "to prevent someone from speaking freely",
+      "excerpt": "why there was a real gag on people not being allowed to say that",
+      "example_cn": "为什么人们被真正封口，不允许说那一点。"
+    },
+    {
+      "word": "boogeyman",
+      "phonetic": "/ˈbʊɡimæn/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "妖怪；可怕的人或事物",
+      "en": "an imaginary evil spirit used to frighten children; a person or thing that is blamed for problems",
+      "excerpt": "Fauci has become a boogeyman in a certain segment of the Republican Party.",
+      "example_cn": "福奇已成为共和党某些部分眼中的妖怪。"
+    },
+    {
+      "word": "constituency",
+      "phonetic": "/kənˈstɪtʃuənsi/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "选区；支持者群体",
+      "en": "a group of people who support a politician or party",
+      "excerpt": "That's a real constituency.",
+      "example_cn": "那是一个真正的支持者群体。"
+    },
+    {
+      "word": "telemedicine",
+      "phonetic": "/ˌtelɪˈmedɪsn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "远程医疗",
+      "en": "the practice of medicine using electronic communication",
+      "excerpt": "the majority of abortions take place using medication and a slight majority of them take place with telemedicine.",
+      "example_cn": "大多数堕胎使用药物，其中略多于一半通过远程医疗进行。"
+    },
+    {
+      "word": "obscenity law",
+      "phonetic": "/əbˈsenəti lɔː/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "淫秽法",
+      "en": "laws that prohibit obscene materials",
+      "excerpt": "this 19th century obscenity law, the Comstock Act",
+      "example_cn": "这部19世纪的淫秽法，即《康斯托克法》。"
+    },
+    {
+      "word": "shield law",
+      "phonetic": "/ʃiːld lɔː/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "保护法（如保护医生跨州提供堕胎药）",
+      "en": "a law that protects certain people from legal action",
+      "excerpt": "there will be a challenge to the shield laws that protect doctors",
+      "example_cn": "将会对保护医生的保护法提出挑战。"
+    },
+    {
+      "word": "frontrunner",
+      "phonetic": "/ˈfrʌntrʌnər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "领先者；热门人选",
+      "en": "the person or thing that is most likely to win",
+      "excerpt": "The Democratic socialist is the clear frontrunner for the gubernatorial primary",
+      "example_cn": "这位民主社会主义者是州长初选的明显领先者。"
+    },
+    {
+      "word": "gubernatorial",
+      "phonetic": "/ˌɡuːbərnəˈtɔːriəl/",
+      "pos": "adj.",
+      "level": "专八",
+      "cn": "州长的",
+      "en": "relating to a governor",
+      "excerpt": "Wisconsin's Gubernatorial Race",
+      "example_cn": "威斯康星州州长竞选。"
+    },
+    {
+      "word": "defund",
+      "phonetic": "/diːˈfʌnd/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "停止拨款",
+      "en": "to stop providing money for something",
+      "excerpt": "She has previously backed defunding the police.",
+      "example_cn": "她此前支持削减警察经费。"
+    },
+    {
+      "word": "anti-ICE",
+      "phonetic": "/ˈænti aɪ siː iː/",
+      "pos": "adj.",
+      "level": "专八",
+      "cn": "反对移民及海关执法局的",
+      "en": "opposed to ICE (Immigration and Customs Enforcement)",
+      "excerpt": "She is anti-ICE.",
+      "example_cn": "她反对移民及海关执法局。"
+    },
+    {
+      "word": "stump",
+      "phonetic": "/stʌmp/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "巡回演说",
+      "en": "to travel around making political speeches",
+      "excerpt": "She has been stumping with the far left.",
+      "example_cn": "她一直在与极左翼一起巡回演说。"
+    },
+    {
+      "word": "gotcha question",
+      "phonetic": "/ˈɡɑːtʃə ˈkwestʃən/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "刁难性问题",
+      "en": "a question designed to trick someone",
+      "excerpt": "Some things are a gotcha question.",
+      "example_cn": "有些问题是刁难性问题。"
+    },
+    {
+      "word": "emblematic",
+      "phonetic": "/ˌembləˈmætɪk/",
+      "pos": "adj.",
+      "level": "专八",
+      "cn": "象征性的",
+      "en": "representing something",
+      "excerpt": "going back to like a post from 2020 is emblematic of a certain era of candidate",
+      "example_cn": "回到2020年的帖子象征了某种时代的候选人。"
+    },
+    {
+      "word": "indigenous",
+      "phonetic": "/ɪnˈdɪdʒənəs/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "土著的",
+      "en": "native to a place",
+      "excerpt": "She talks about how it impacts indigenous folks.",
+      "example_cn": "她谈到这对土著人的影响。"
+    },
+    {
+      "word": "blue wall",
+      "phonetic": "/bluː wɔːl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "蓝墙（指民主党传统优势州）",
+      "en": "the group of states that traditionally vote for the Democratic Party",
+      "excerpt": "The blue wall. A wall that crumbled in 2024",
+      "example_cn": "蓝墙，一堵在2024年崩塌的墙。"
+    },
+    {
+      "word": "jilted",
+      "phonetic": "/ˈdʒɪltɪd/",
+      "pos": "adj.",
+      "level": "专八",
+      "cn": "被抛弃的",
+      "en": "rejected or abandoned",
+      "excerpt": "a dinner party of jilted MAGA members",
+      "example_cn": "一场被抛弃的MAGA成员的晚宴。"
+    },
+    {
+      "word": "turncoat",
+      "phonetic": "/ˈtɜːrnkoʊt/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "叛徒",
+      "en": "a person who changes their political party or principles",
+      "excerpt": "an embarrassing collection of mostly whiny turncoats",
+      "example_cn": "一群令人尴尬的、大多是牢骚满腹的叛徒。"
+    },
+    {
+      "word": "regime change",
+      "phonetic": "/reɪˈʒiːm tʃeɪndʒ/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "政权更迭",
+      "en": "the overthrow of a government",
+      "excerpt": "a regime change war in the Middle East against Iran",
+      "example_cn": "一场针对伊朗的中东政权更迭战争。"
+    },
+    {
+      "word": "anti-war",
+      "phonetic": "/ˌænti ˈwɔːr/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "反战的",
+      "en": "opposed to war",
+      "excerpt": "tapping into an anti-war sentiment",
+      "example_cn": "利用反战情绪。"
+    },
+    {
+      "word": "lark",
+      "phonetic": "/lɑːrk/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "玩笑；嬉戏",
+      "en": "something done for fun",
+      "excerpt": "He might do it as a lark.",
+      "example_cn": "他可能只是闹着玩。"
+    },
+    {
+      "word": "disinfectant",
+      "phonetic": "/ˌdɪsɪnˈfektənt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "消毒剂",
+      "en": "a substance that kills germs",
+      "excerpt": "sunshine is the best disinfectant",
+      "example_cn": "阳光是最好的消毒剂。"
+    },
+    {
+      "word": "weed",
+      "phonetic": "/wiːd/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "杂草",
+      "en": "a wild plant that grows where it is not wanted",
+      "excerpt": "it's also how weeds grow",
+      "example_cn": "这也是杂草生长的方式。"
+    },
+    {
+      "word": "earnest",
+      "phonetic": "/ˈɜːrnɪst/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "认真的；真诚的",
+      "en": "serious and sincere",
+      "excerpt": "I'm never going to say that I think Tucker Carlson is earnest.",
+      "example_cn": "我永远不会说我认为塔克·卡尔森是真诚的。"
+    },
+    {
+      "word": "patch together",
+      "phonetic": "/pætʃ təˈɡeðər/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "拼凑",
+      "en": "to assemble from various parts",
+      "excerpt": "He uniquely was able to sort of patch together the make America healthy again, these anti-war folks.",
+      "example_cn": "他独特地能够拼凑起“让美国再次健康”这些反战人士。"
+    },
+    {
+      "word": "disavow",
+      "phonetic": "/ˌdɪsəˈvaʊ/",
+      "pos": "v.",
+      "level": "专八",
+      "cn": "否认；拒绝承认",
+      "en": "to say that you are not responsible for something",
+      "excerpt": "He gets into a war that every other president disavowed.",
+      "example_cn": "他卷入了一场其他总统都否认的战争。"
+    },
+    {
+      "word": "rage bait",
+      "phonetic": "/reɪdʒ beɪt/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "愤怒诱饵（指引发愤怒的内容）",
+      "en": "content designed to provoke anger",
+      "excerpt": "rage bait is a thing",
+      "example_cn": "愤怒诱饵是真实存在的。"
+    },
+    {
+      "word": "resonate",
+      "phonetic": "/ˈrezəneɪt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "引起共鸣",
+      "en": "to produce a positive feeling or response",
+      "excerpt": "those arguments about war, et cetera, resonate in some way",
+      "example_cn": "那些关于战争的论点以某种方式引起共鸣。"
+    },
+    {
+      "word": "seasoned",
+      "phonetic": "/ˈsiːznd/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "经验丰富的",
+      "en": "experienced",
+      "excerpt": "I'm pretty seasoned, I think.",
+      "example_cn": "我觉得我相当有经验。"
+    },
+    {
+      "word": "ode",
+      "phonetic": "/oʊd/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "颂诗；颂歌",
+      "en": "a poem that celebrates something",
+      "excerpt": "wrote an ode to the BLT",
+      "example_cn": "写了一首颂扬BLT三明治的诗。"
+    },
+    {
+      "word": "slippery slope",
+      "phonetic": "/ˈslɪpəri sloʊp/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "滑坡谬误；危险的趋势",
+      "en": "a situation that could lead to serious problems",
+      "excerpt": "It's a slippery slope.",
+      "example_cn": "这是一个危险的趋势。"
+    },
+    {
+      "word": "microgreens",
+      "phonetic": "/ˈmaɪkroʊɡriːnz/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "微型蔬菜",
+      "en": "young vegetable greens",
+      "excerpt": "it's a slippery to microgreens",
+      "example_cn": "这是通往微型蔬菜的滑坡。"
+    },
+    {
+      "word": "trade deadline",
+      "phonetic": "/treɪd ˈdedlaɪn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "交易截止日",
+      "en": "the last day for trades in sports",
+      "excerpt": "post-trade deadline baseball",
+      "example_cn": "交易截止日后的棒球。"
+    },
+    {
+      "word": "contender",
+      "phonetic": "/kənˈtendər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "竞争者",
+      "en": "a person or team that competes for a title",
+      "excerpt": "the number one and two contenders for NL MVP",
+      "example_cn": "NL MVP的头号和第二号竞争者。"
+    },
+    {
+      "word": "rubber stamp",
+      "phonetic": "/ˈrʌbər stæmp/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "橡皮图章；不加思考的批准",
+      "en": "a person or organization that approves decisions without thinking",
+      "excerpt": "whether or not he would be a rubber stamp for the president",
+      "example_cn": "他是否会成为总统的橡皮图章。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "A contempt finding could open the door to an investigation into whether Fauci had a valid constitutional right against self-incrimination when he refused to answer the committee's questions.",
+      "cn": "藐视法庭的认定可能为调查福奇在拒绝回答委员会问题时是否拥有反对自证其罪的合法宪法权利打开大门。",
+      "structure": "主句：A contempt finding could open the door to an investigation；介词短语 into whether... 作定语修饰 investigation；when 引导时间状语从句。",
+      "analysis": "本句为复合句，主句谓语为 could open，宾语为 the door，to an investigation 为介词短语作状语。whether 引导宾语从句，作 into 的宾语。when 引导时间状语从句，说明调查的时间背景。"
+    },
+    {
+      "en": "Now, Senate investigators have just obtained a copy of Dr. Fauci's work iPhone from the pandemic era.",
+      "cn": "现在，参议院调查人员刚刚获得了一部福奇博士在疫情期间使用的工作iPhone。",
+      "structure": "主句：Senate investigators have just obtained a copy；of Dr. Fauci's work iPhone 为介词短语作定语；from the pandemic era 为介词短语作定语。",
+      "analysis": "本句为简单句，现在完成时表示刚刚完成的动作。a copy of 后接名词短语，from 短语说明来源。"
+    },
+    {
+      "en": "I think the thing looming over this is the fact that Dr. Fauci already has a pardon.",
+      "cn": "我认为笼罩在这件事上的是福奇博士已经获得赦免这一事实。",
+      "structure": "主句：I think；宾语从句：the thing looming over this is the fact；that 引导同位语从句解释 fact。",
+      "analysis": "本句为主从复合句。think 后接宾语从句，宾语从句中主语为 the thing，looming over this 为现在分词短语作定语，系动词为 is，表语为 the fact，that 引导同位语从句。"
+    },
+    {
+      "en": "Now, Democratic senators argue that having a pardon does not restrict you from using your Fifth Amendment right.",
+      "cn": "现在，民主党参议员辩称，拥有赦免并不限制你行使第五修正案权利。",
+      "structure": "主句：Democratic senators argue；that 引导宾语从句；宾语从句中主语为动名词短语 having a pardon，谓语为 does not restrict，宾语为 you，from using... 为介词短语作补语。",
+      "analysis": "本句为复合句。argue 后接 that 宾语从句。动名词短语作主语，谓语动词用单数。restrict sb. from doing sth. 为固定搭配。"
+    },
+    {
+      "en": "And I think that's also the argument that Democrats are making that Fauci has the right to assert the Fifth Amendment against self-incrimination.",
+      "cn": "我认为这也是民主党人提出的论点，即福奇有权援引第五修正案反对自证其罪。",
+      "structure": "主句：I think；宾语从句：that's also the argument；that Democrats are making 为定语从句修饰 argument；that Fauci has the right... 为同位语从句解释 argument。",
+      "analysis": "本句为多重复合句。think 后接宾语从句，宾语从句中 that's 为 that is 缩写。第一个 that 引导定语从句，第二个 that 引导同位语从句。"
+    },
+    {
+      "en": "What I can do today is what I'm going to do today.",
+      "cn": "我今天能做的就是我今天要做的事。",
+      "structure": "主语从句：What I can do today；系动词：is；表语从句：what I'm going to do today。",
+      "analysis": "本句为复合句，包含主语从句和表语从句。what 引导主语从句，在从句中作 do 的宾语；what 引导表语从句，在从句中作 do 的宾语。"
+    },
+    {
+      "en": "And if the lab leak theory is true, we're not getting to the bottom, as all of this is happening, of why there was a real gag on people not being allowed to say that that was a possibility.",
+      "cn": "如果实验室泄漏理论是真的，那么当这一切发生时，我们并没有查明真相，即为什么人们被真正封口，不允许说那是一种可能性。",
+      "structure": "条件状语从句：if the lab leak theory is true；主句：we're not getting to the bottom；as 引导时间状语从句；of why... 为介词短语作定语修饰 bottom。",
+      "analysis": "本句为复合句。if 引导条件状语从句，as 引导时间状语从句。主句中 get to the bottom of 为固定短语，of 后接 why 引导的宾语从句。"
+    },
+    {
+      "en": "It's shocking to me that Republicans are still laser focused on Anthony Fauci.",
+      "cn": "令我震惊的是，共和党人仍然高度关注安东尼·福奇。",
+      "structure": "形式主语：It；系动词：is；表语：shocking；真正主语：that 从句。",
+      "analysis": "本句为 it 作形式主语的句型。that 从句为真正主语。laser focused 为副词短语，表示“高度集中”。"
+    },
+    {
+      "en": "And I think that would be true if they were actually looking for the, as Doug said, the original cause of Covid.",
+      "cn": "我认为，如果他们真的像道格所说的那样寻找新冠的原始原因，那将是正确的。",
+      "structure": "主句：I think；宾语从句：that would be true；if 引导条件状语从句；as Doug said 为插入语。",
+      "analysis": "本句为复合句。think 后接宾语从句，宾语从句中 that 指代前文内容。if 引导虚拟条件句，表示与现在事实相反。as Doug said 为插入语。"
+    },
+    {
+      "en": "And so now the majority of abortions take place using medication and a slight majority of them take place with telemedicine.",
+      "cn": "因此，现在大多数堕胎使用药物进行，其中略多于一半通过远程医疗进行。",
+      "structure": "并列句：the majority of abortions take place using medication；and a slight majority of them take place with telemedicine。",
+      "analysis": "本句为并列句，由 and 连接两个分句。第一个分句主语为 the majority of abortions，谓语为 take place，using medication 为方式状语；第二个分句主语为 a slight majority of them，谓语为 take place，with telemedicine 为方式状语。"
+    },
+    {
+      "en": "Because abortion medication is so safe and effective and accessible now, that is the big reason why we do not have that.",
+      "cn": "因为堕胎药物现在如此安全、有效且易于获得，这就是我们没有看到那种情况的主要原因。",
+      "structure": "原因状语从句：Because abortion medication is so safe and effective and accessible now；主句：that is the big reason；why 引导定语从句修饰 reason。",
+      "analysis": "本句为复合句。Because 引导原因状语从句，主句为 that is the big reason，why 引导定语从句修饰 reason。"
+    },
+    {
+      "en": "And so, whether, you know, when Todd Blanche says make Dobbs permanent in every state, Dobbs does not say that blue states can't have their own abortion laws that both make it legal and protect these doctors.",
+      "cn": "所以，你知道，当托德·布兰奇说让多布斯在每个州永久化时，多布斯并没有说蓝州不能有自己的堕胎法，这些法律既使其合法又保护这些医生。",
+      "structure": "主句：Dobbs does not say；that 引导宾语从句；whether 引导让步状语从句；when 引导时间状语从句；that both make it legal and protect these doctors 为定语从句修饰 laws。",
+      "analysis": "本句为复合句。whether 引导让步状语从句，其中包含 when 引导的时间状语从句。主句为 Dobbs does not say，后接 that 宾语从句，宾语从句中又包含 that 定语从句。"
+    },
+    {
+      "en": "And so the question is, is there a majority on the Supreme Court for curtailing the free flow of medication through the mail from, again, legitimate, licensed doctors in their states, sending them to desperate patients in red states?",
+      "cn": "所以问题是，最高法院是否有多数人支持限制通过邮件从合法、有执照的医生那里向红州绝望患者发送药物的自由流动？",
+      "structure": "主句：the question is；表语从句：is there a majority...；for curtailing... 为介词短语作定语；from... 和 sending... 为介词短语和现在分词短语作定语。",
+      "analysis": "本句为复合句。the question is 后接表语从句，表语从句为一般疑问句语序。for curtailing 表示目的，from 和 sending 修饰 doctors。"
+    },
+    {
+      "en": "And I think that is the lane that, if he was going to run, I think it's clear that Carlson's going to run on that.",
+      "cn": "我认为这就是他的路线，如果他要参选，我认为很明显卡尔森将以此作为竞选纲领。",
+      "structure": "主句：I think；宾语从句：that is the lane；that 引导定语从句修饰 lane；if 引导条件状语从句；I think it's clear that... 为插入语。",
+      "analysis": "本句为复合句。think 后接宾语从句，宾语从句中 that is the lane，that 引导定语从句，定语从句中包含 if 条件状语从句和 I think 插入语。"
+    },
+    {
+      "en": "He uniquely was able to sort of patch together the make America healthy again, these anti-war folks.",
+      "cn": "他独特地能够拼凑起“让美国再次健康”这些反战人士。",
+      "structure": "主句：He uniquely was able to sort of patch together；宾语：the make America healthy again, these anti-war folks。",
+      "analysis": "本句为简单句。be able to 后接动词原形，patch together 为固定短语，意为“拼凑”。宾语部分为两个名词短语并列。"
+    },
+    {
+      "en": "And I think this is actually a window into what is going to happen post-Trump where...",
+      "cn": "我认为这实际上是了解后特朗普时代将会发生什么的窗口，在那里……",
+      "structure": "主句：I think；宾语从句：this is actually a window；into what... 为介词短语作定语；where 引导定语从句。",
+      "analysis": "本句为复合句。think 后接宾语从句，宾语从句中 a window into 为固定搭配，what 引导宾语从句作 into 的宾语，where 引导定语从句修饰 window。"
+    },
+    {
+      "en": "And they've both sort of fed into each other with their, you know, indignation and so forth.",
+      "cn": "他们俩都以各自的愤慨等情绪相互助长。",
+      "structure": "主句：they've both sort of fed into each other；with their indignation and so forth 为介词短语作方式状语。",
+      "analysis": "本句为简单句。feed into 为固定短语，意为“助长”。sort of 为口语表达，意为“有点”。"
+    },
+    {
+      "en": "And I think that's the reality.",
+      "cn": "我认为这就是现实。",
+      "structure": "主句：I think；宾语从句：that's the reality。",
+      "analysis": "本句为复合句，think 后接 that 宾语从句，that 可省略。"
+    },
+    {
+      "en": "And I think that's also the argument that Democrats are making that Fauci has the right to assert the Fifth Amendment against self-incrimination.",
+      "cn": "我认为这也是民主党人提出的论点，即福奇有权援引第五修正案反对自证其罪。",
+      "structure": "主句：I think；宾语从句：that's also the argument；that Democrats are making 为定语从句；that Fauci has the right... 为同位语从句。",
+      "analysis": "本句为多重复合句。think 后接宾语从句，宾语从句中 that's 为 that is 缩写。第一个 that 引导定语从句，第二个 that 引导同位语从句。"
+    },
+    {
+      "en": "And I think that's the reality.",
+      "cn": "我认为这就是现实。",
+      "structure": "主句：I think；宾语从句：that's the reality。",
+      "analysis": "本句为复合句，think 后接 that 宾语从句，that 可省略。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "Fauci Contempt Vote",
+      "content": "参议院委员会就福奇博士藐视国会进行投票。福奇在听证会上援引第五修正案111次，拒绝回答关于新冠处理的问题。此前他已获得拜登总统的全面赦免，但共和党人认为赦免不影响其作证义务。若认定藐视，可能移交司法部调查。",
+      "keywords": "contempt, Fifth Amendment, pardon, self-incrimination, Senate committee"
+    },
+    {
+      "title": "Abortion Policy and Telemedicine",
+      "content": "代理司法部长托德·布兰奇承诺使多布斯判决在每个州永久化，并可能通过《康斯托克法》限制邮寄堕胎药。远程医疗堕胎已成为多数，但面临法律挑战。最高法院可能介入，影响跨州堕胎药流动。",
+      "keywords": "Dobbs, abortion pills, telemedicine, Comstock Act, shield laws"
+    },
+    {
+      "title": "Wisconsin Gubernatorial Race",
+      "content": "民主党社会主义者弗朗西斯卡·洪在威斯康星州州长初选中领先，但因其2020年呼吁取消感恩节的帖子引发争议。她支持削减警察经费、反对ICE，并批评美国对以色列政策。进步派在蓝墙州的选举表现备受关注。",
+      "keywords": "gubernatorial, Democratic socialist, Thanksgiving, blue wall, primary"
+    },
+    {
+      "title": "Tucker Carlson and Third-Party Run",
+      "content": "塔克·卡尔森举办晚宴，聚集被特朗普抛弃的MAGA成员，并讨论组建第三党。他批评特朗普对伊朗发动战争，可能利用反战情绪参加2028年总统竞选。评论员对此看法不一。",
+      "keywords": "Tucker Carlson, third party, anti-war, MAGA, 2028 election"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nSenate Committee to Vote on Fauci Contempt; Blanche Aims to Make Dobbs Decision Permanent; Wisconsin's Gubernatorial Race; Tucker Carlson Fuels '28 Speculation. Aired 6:30-7a ET\n\nAired August 06, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nAUDIE CORNISH, CNN ANCHOR: So, in just two hours, a Republican-led Senate committee will vote on holding Dr. Anthony Fauci in contempt of Congress.\n\nSEN. JOSH HAWLEY (R-MO): What day of the week is it today?\n\nDR. ANTHONY FAUCI, FORMER DIRECTOR, NIAID: I respectfully decline to answer based upon my rights under the Fifth Amendment to the Constitution.\n\nCORNISH: Dr. Fauci invoked the Fifth Amendment 111 times last week during a hearing into his handling of the Covid pandemic. Now, Senate investigators have just obtained a copy of Dr. Fauci's work iPhone from the pandemic era.\n\nMANU RAJU, CNN CHIEF CONGRESSIONAL CORRESPONDENT: What do you expect on this contempt vote? Is that on Thursday? And what do you expect to happen?\n\nSEN. RAND PAUL (R-KY): Thursday. And I'm not sure yet what the vote will be, but we'll find out Thursday.\n\nRAJU: If you get the votes in the committee, is that enough to charge him?\n\nPAUL: Well, we don't do charging. The Department of Justice does.\n\nPAUL: So, we -- if we win the vote on Thursday, my plan is to send it to the Department of Justice.\n\n((END VIDEO CLIP) CORNISH: A contempt finding could open the door to an investigation into whether Fauci had a valid constitutional right against self- incrimination when he refused to answer the committee's questions.\n\nThe group chat is back.\n\nStephen, can I talk to you about this? Because it gets in the weeds a little bit. And it's not unusual for some lawmaker or policy person to plead the Fifth in these scenarios. I'll play for you the president, over the last couple of years. But this is what -- this is how Trump criticized Fauci about pleading the Fifth.\n\nDONALD TRUMP, PRESIDENT OF THE UNITED STATES: The mob takes the Fifth. If you're innocent, why are you taking the Fifth Amendment?\n\nI think it's disgraceful.\n\nHave you seen what's going on in front of Congress? Fifth Amendment, Fifth Amendment, Fifth Amendment. Horrible. Horrible.\n\nCORNISH: When he said in front of Congress, is that the key here? Because he himself invoked it 400 times, right, in a deposition. What is it about Congress that makes it special?\n\nSTEPHEN NEUKAM, CONGRESSIONAL REPORTER, \"NOTUS\": I think -- I think -- well, you know, one, I think Congress -- when you come in front of Congress and there's a legit sort of legislative oversight or, you know, that's what lawmakers do on these committees and you refuse to answer questions, they're going to be upset in general.\n\nI think the thing looming over this is the fact that Dr. Fauci already has a pardon. That is what a lot of Republicans on The Hill are saying, that if you already have a pardon, he was pardoned by former President Biden, why are you not willing to answer questions? Now, Democratic senators argue that having a pardon does not restrict you from using your Fifth Amendment right. We'll have to see what --\n\nCORNISH: So, it was a blanket pardon across the board.\n\nNEUKAM: That's right. But it's not going forward. It was only backward looking.\n\nNEUKAM: And I think that that's also the argument that Democrats are making that Fauci has the right to assert the Fifth Amendment against self-incrimination.\n\nCORNISH: Since Trump is pretty -- given a lot of pardons out there and given a lot of blanket pardons out there, is this a door Republicans want to open? Meaning, isn't there a world where, when Democrats are in charge they'll be like, hey, remember, someone pleads the Fifth, you can just --\n\nDOUG HEYE, REPUBLICAN STRATEGIST: So, Audie, I think you're thinking very long term, meaning next year. And in Congress, we don't -- we don't even think --\n\nCORNISH: November. Yes.\n\nHEYE: We don't think that long term anymore.\n\nHEYE: And I think that's the reality. What I can do today is what I'm going to do today. And what happens in a future Congress, you know, hello, filibuster, goes by the wayside.\n\nAnd I've worked a lot of Congressional hearings, and I worked on the contempt holding for Eric Holder. That issue was that he wouldn't show up. There's a very --\n\nCORNISH: I was going to say, usually they don't show up.\n\nCORNISH: They don't sit there and plead the Fifth.\n\nHEYE: So, I don't know the legalities on this one.\n\nBut what's troubled me for months now is, this has been a very long and I think sad kabuki theater.\n\nAnd that's been with Rand Paul. It's also been with Dr. Fauci, who I first had meetings with in 2005. And they've both sort of fed into each other with their, you know, indignation and so forth. And meanwhile, we're not getting to the bottom of what actually happened. And if the lab leak theory is true, we're not getting to the bottom, as all of this is happening, of why there was a real gag on people not being allowed to say that that was a possibility.\n\nCORNISH: How are you feeling about it? I hear Democrats saying, oh, well, the whole reason they're doing this is because they want to catch him in a lie, and then the lie will be the thing they can actually go after him for and get around the pardon.\n\nJOSH ORTON, PRESIDENT, DEMAND JUSTICE: Well, first of all, I'm like checking my calendar for what year it is, right? It's 2026, right, and prices are so high. There's a midterm election in a couple of months. It's shocking to me that Republicans are still laser focused on Anthony Fauci. They are talking to a small segment of their base.\n\nCORNISH: I don't think so. Here's why. So many independent voters who swung to Trump were people who were activated by their concerns out of Covid. People who hated lockdowns. People who didn't want to wear their masks. This, that and the other thing. That's a real constituency. And are they trying to reactivate it? ORTON: I mean, I think that would be true if they were actually\n\nlooking for the, as Doug said, the original cause of Covid. This back and forth, Fauci has become a boogeyman in a certain segment of the Republican Party.\n\nCORNISH: A bobblehead or a boogeyman.\n\nORTON: Yes. And to focus just on him, to me, is speaking just to that constituency and not to a broader group of parents and workers who actually had to deal with what happened in Covid. They would want answers. And I think that would be a legitimate conversation.\n\nThis is political theater aimed at a very narrow group of people.\n\nCORNISH: OK. Well, it's all we've got for now.\n\nIt is now 36 minutes past the hour. This is your morning roundup.\n\nNow, three people from three different states have been charged with threatening a judge, a witness and local officials tied to the Nolan Wells investigation. And the case is receiving nationwide attention and the threatening calls and Facebook messages, they came from three states, Ohio, California and Illinois. Now, no one's been charged in connection with the Wells case, and the black teens cause of death remains undetermined, at least to local officials.\n\nAnd the multistate outbreak of cyclosporiasis has spread to even more states. This lettuce parasite has been reported in 15 states. Two people have died. More than 6,000 people have fallen ill. Now, the CDC is saying they're actively monitoring and working on it, but that the risk to the general public is low.\n\nMEEK MILL, RAPPER: We trying to survive. We fighting the system.\n\nCORNISH: Eagle-eyed viewers may have caught Pennsylvania Governor Josh Shapiro there in Meek Mill's new music video for \"Nightmares to Dreams.\" And that surprise cameo was even a surprise to the governor. His office says it was Shapiro's kids who first spotted him in it, but this isn't the first time Mill and Shapiro have collaborated. In the past they've worked together on criminal justice reform.\n\nNext on CNN THIS MORNING, on the verge of confirmation, Todd Blanche makes a lofty promise to restrict abortion in every state. We're going to talk about whether or not he can do that.\n\nMEGYN KELLY, HOST, \"THE MEGYN KELLY SHOW\": I believe Tucker's so disgusted.\n\nUNIDENTIFIED MALE: Ys.\n\nKELLY: And the, you know, the neocons and what's happened within the Republican Party --\n\nUNIDENTIFIED MALE: Yes.\n\nKELLY: That, for the first time, he actually would consider it.\n\nCORNISH: We're going to follow up with this question. Is Tucker Carlson teeing up a run for president with his new America First party?\n\nTODD BLANCHE, ACTING ATTORNEY GENERAL: I've been talking to Republicans and Democrats for the past several months. And I'll continue to do so. And my team has been as well. So, no, I'm not worried about what's going to happen over the next couple days.\n\nCORNISH: Todd Blanche's attorney general nomination is still hanging by a thread. He can only afford to lose one more vote. And earlier this week, Senator Susan Collins says she's a no. Now, Senator Bill Cassidy is saying he's unsure.\n\nSEN. BILL CASSIDY (R-LA): I've got to be convinced that he is an attorney general who just happens to have once been President Trump's personal attorney, as opposed to person -- as opposed to President Trump's personal attorney who is now the attorney general.\n\nCORNISH: Then there's this. Blanche made, last week, these comments, adding fuel to concerns that Cassidy is bringing up. In a since deleted recording of Blanche's call with faith leaders, he laid out his goals for the future of abortion policy.\n\nTODD BLANCHE, ACTING ATTORNEY GENERAL: We're working, you know, hand in hand with HHS and the FDA and the White House and President Trump's team to get permanent solutions so that -- so that the Dobbs decision becomes permanent in every single state.\n\nCORNISH: All right, joining me now, Irin Carmon, senior correspondent for \"New York Magazine.\" She's also the author of \"Unbearable: The Truth about Pregnancy in America.\" I believe the paperback is coming out now. So, Irin, what I wanted to talk to you about is the mail order part of\n\nit. The Justice Department said in a statement that Blanche was referring to just that. And then he made these comments in his hearing last month where it came up again.\n\nTODD BLANCHE, ACTING ATTORNEY GENERAL: I've seen video myself of what appears to be pills coming even from overseas to young women. And it doesn't matter who applies for it. Anybody can get it. There's no instructions. They just come dumped out of a little plastic bag. And it's wrong.\n\nCORNISH: Irin, give me a sense of things here. I mean the telemedicine industry is huge. So, are people getting plastic bags of abortion pills from overseas?\n\nIRIN CARMON, SENIOR CORRESPONDENT, \"NEW YORK MAGAZINE\": Well, Audie, there is a sea change in how people are getting abortions, in states where it's legal and in states where it's not legal.\n\nWhat happened is that during Covid many of the regulations about getting abortion pills in person, or at least having to have one visit in person, were relaxed by the Biden administration, and it became clear that this -- there was a lot of research showing that this was a safe way to get an abortion, and patients were really interested in it.\n\nAnd so now the majority of abortions take place using medication and a slight majority of them take place with telemedicine. If you're getting an abortion in a state where abortion is illegal, the odds are that it is through telemedicine from a doctor, a legitimate doctor, not just, you know, random website who is practicing in a state like New York or California that protects their right to see patients across state lines in states that it is illegal.\n\nAnd this has made it so that, you know, we used to hear these dark warnings. It was the pre-Roe reality that women would be bleeding in alleyways when abortion was made illegal. Because abortion medication is so safe and effective and accessible now, that is the big reason why we do not have that. And, you know, understandably, those who would like abortion to be illegal are extremely angry about this, and they're looking for legal and medical solutions to try to -- or policy, regulatory solutions through HHS to try to undermine this.\n\nAnd so, there's a study underway at HHS which medical associations say is kind of looking for evidence that doesn't exist, that medication abortion is harmful. And on the legal perspective, what the attorney general could do is he could revise the Biden administration's opinion that it is legal under, you know, that it doesn't violate this 19th century obscenity law, the Comstock Act, which bans selling obscene materials through the mail. Anti-abortion activists feel that the Trump administration has not done enough, and they are demanding that they find a way, any way, through federal agencies to make it impossible for these women to access these pills.\n\nCORNISH: Can I underscore something you just said when you mentioned using obscenity laws to go after material that crosses state lines? This sounds like something where there's still legal question. I don't know if it's something the Supreme Court maybe has nodded to either in dissents or rulings, but is this something we're going to hear more about? Is it a ripe area for legal challenge?\n\nCARMON: It is absolutely a ripe area. I will say that the -- so far the Supreme Court hasn't been interested, even though it's been asked, to take up the question of the Comstock Act. But it is certainly expected by advocates in this space that there will be a challenge to the shield laws that protect doctors in states like New York and California that are currently, you know, being sued by, you know, in Louisiana and Texas for sending these pills across state lines. And so, whether, you know, when Todd Blanche says make Dobbs permanent in every state, Dobbs does not say that blue states can't have their own abortion laws that both make it legal and protect these doctors.\n\nBut Justice Alito said in a recent dissent about these very medication abortion pills and how -- pills and how they're regulated, that this -- that these laws undermine Dobbs. And so the question is, is there a majority on the Supreme Court for curtailing the free flow of medication through the mail from, again, legitimate, licensed doctors in their states, sending them to desperate patients in red states? And that, I believe in the next year, two years, three years, we're going to see those kinds of challenges reach the Supreme Court.\n\nCORNISH: OK, Irin Carmon, thank you so much. And please take a look out for her book. It's called \"Unbearable: The Truth about Pregnancy in America.\"\n\nWe're going to turn to this, fresh off a win from Abdul El-Sayed in Michigan, Francesca Hong in Wisconsin hopes to be the next big win for the left. The Democratic socialist is the clear frontrunner for the gubernatorial primary coming up on Tuesday in purple Wisconsin. Now, Hong, of course, has been critical of U.S. policy on Israel. She has previously backed defunding the police. She is anti-ICE. She has been stumping with the far left.\n\nHer stance that's got everybody riled up, however, is her opinion on Thanksgiving. So, it all started with this now deleted post from 2020, when Hong called for the holiday to be canceled.\n\nKAITLAN COLLINS, CNN ANCHOR: Do you still believe that Thanksgiving should be canceled?\n\nFRANCESCA HONG (D), WISCONSIN GUBERNATORIAL CANDIDATE: I'm a chef. And one of the first meals that I made that was for the community when I was 16 was a Thanksgiving meal.\n\nBut Thanksgiving is also a time that's incredibly painful for many people in our communities.\n\nMy favorite holiday is Thanksgiving because I love to --\n\nUNIDENTIFIED MALE: There you have it.\n\nHONG: Yes. I don't want to cancel it. I actually love it.\n\nCORNISH: OK, the group chat is back.\n\nCan't believe this is happening. But here's the conversation.\n\nCan I start with you guys? Like, my messaging folks. Some things are a gotcha question. Some things are not. But I think going back to like a post from 2020 is emblematic of a certain era of candidate we're dealing with now.\n\nHEYE: Yes, absolutely. And look, it's not just to me. It's not just that she hates Thanksgiving for whatever reason. If you look at the tweet --\n\nCORNISH: And also loves Thanksgiving.\n\nHEYE: Apparently now -- well, now. And that was sort of a tortured explanation. She talks about how it -- how it impacts indigenous folks. How does she spell folks? With an x. And I think the problem that a lot of these candidates have is they don't talk like normal people. Those voters that El-Sayed needs to win, that voted against him in the primary, white, working class African American voters, they don't speak like that. And so when you do, as a candidate, you're really turning off voters who could potentially support you.\n\nORTON: Yes, I can't imagine anyone wanting to cancel Thanksgiving.\n\nLook, I think, actually, El-Sayed is sort of a good contrast here because he's focused so much on the economic plight of Michiganders and talked about how he was going to take on power.\n\nI think that for, you know, for people who are running for higher office, for statewide office, in this moment, that needs to be the focus. And I think, you know, talking about these other particular things, you know, I don't think it's going to bring together the coalition that she needs to win. And, you know, I love Thanksgiving.\n\nOK, I just want to note one thing, that Bernie Sanders has endorsed Abdul El-Sayed, but he has not done the same for Hong. And when he was asked about this, he just said, look, she seems nice. I'm not familiar with the race. I was sort of surprised to see that. Is there -- is he really not doing gubernatorial races or has she just not caught his favor?\n\nNEUKAM: I guess I don't know enough -- I can't remember the last time Bernie's endorsed a governor candidate.\n\nNEUKAM: Very Congress focused. But I will say, I think the most interesting thing about this whole saga to me is where it's happening.\n\nNEUKAM: It's happening in a critical area for the party. The blue wall. A wall that crumbled in 2024, turned away from the party. The stakes couldn't be higher for progressives. If they fail in the midterms in 2026, if they are the candidates and they cannot win, Michigan, if you cannot win Wisconsin as governor --\n\nNEUKAM: The party is going to be very critical of that.\n\nCORNISH: I didn't think I'd be hearing about the blue wall so early, but here we are. Midterms. OK.\n\nNEUKAM: Cannot avoid it.\n\nCORNISH: All right. So, I want to turn to something else. Is Tucker Carlson plotting a third party run for president? So, Carlson hosted a dinner party of jilted MAGA members, and it was starring former Congresswoman Marjorie Taylor Greene, Congressman Thomas Massie and former Trump official Joe Kent, who actually resigned over the war with Iran. Take a look at that Thanksgiving dinner picture. The White House called the picture a, quote, \"embarrassing collection of mostly whiny turncoats.\" In a new podcast, Carlson laid out his vision for a new political system.\n\nTUCKER CARLSON, HOST, \"THE TUCKER CARLSON SHOW\": That the parties on the big issues are identical. Trump initiates the one thing he said he'd never do, a regime change war in the Middle East against Iran, a country much bigger and more powerful than the last regime change we attempted, which didn't work.\n\nSo, we're probably going to get a third party or multiple parties. Is that the best system? I don't know. It's better than the one we have.\n\nCORNISH: The group chat is back.\n\nI wanted to talk about this because every once in a while there is a third-party spoiler. I'm old enough to remember like a Ross Perot. But is this a person we should be paying closer attention to because of how loud he is and the platform he has?\n\nNEUKAM: I mean that platform is massive. I mean, if you remember when he was a cable news host, he was one of the, if not the biggest in the country. I think that his podcast audience is pretty large. And I think he's tapping into an anti-war sentiment, not just in the Republican Party, but with independents too, that is extremely strong. And if you listen to Carlson's podcast, which I do periodically just to sort of check in, there's a lot of talk about the anti-war and Iran and the decisions that the president has made specifically around foreign policy. So, I think that that is the lane that, if he was going to run, I think it's clear that Carlson's going to run on that.\n\nCORNISH: Online it has sparked a lot of dialog. You had Laura Loomer calling all of this a threat. Saying, quote, \"paging Vice President Vance, Tucker wants to hijack the GOP in 2026 and 2028.\"\n\nAnd then Megyn Kelly, Tucker's former colleague at Fox News, was talking about this on her show yesterday. Here's how that conversation went.\n\nMARK HALPERIN, HOST, \"NEXT UP WITH MARK HALPERIN: He might do it as a lark. But as a credible campaign --\n\nMEGYN KELLY, HOST, \"THE MEGYN KELLY SHOW\": No.\n\nHALPERIN: I don't believe it. I don't believe that support's their for him.\n\nKELLY: I got to tell you, I disagree.\n\nHALPERIN: What would -- what would the -- what --\n\nKELLY: I haven't talked to him directly about it, but I believe Tucker's so disgusted --\n\nKELLY: And the, you know, the neocons and what's happened within the Republican Party --\n\nKELLY: That, for the first time, he actually would consider it.\n\nHEYE: Well, one, our friends at \"USA Today\" say it's not too early for preseason considerations.\n\nHEYE: Now, that's about a football season that starts in about three weeks.\n\nHEYE: So, what happens after the midterms, I'm not entertaining yet. But I think -- I don't think -- there's not enough time in -- space in my brain or time in my life to focus on what I would call the cartoon characters in our politics. And whether they have Nazi tattoos or they sell cheap pillows, we spend too much time on these people. And I get it. You know, sunshine is the best disinfectant. But it also turns out, if we've learned anything in these past ten years, it's also how weeds grow. So, I don't have time right now to focus on any of this.\n\nCORNISH: But you did have time for those amazing metaphors, and I salute you.\n\nORTON: I sort of love this for the Republican Party, right? Look, I'm never going to say that I think Tucker Carlson is earnest. I think that, like, there's always an underlying motive here that I'm not really sure that -- you know, I would never take this at face value.\n\nHowever, I do think this is an interesting sort of analysis of what happened to the Trump coalition now that he is grossly unpopular. He uniquely was able to sort of patch together the make America healthy again, these anti-war folks. He really did pledge no more wars. And what does he do? He gets into a war that every other president disavowed. And so, I think that this is actually a function. And I -- and I know Doug is -- doesn't want to focus on the preseason, but I think this is a focus -- this is actually a window into what is going to happen post-Trump where --\n\nCORNISH: Yes. Yes. And these are also people responding to market forces.\n\nCORNISH: So, yes, rage bait is a thing. Yes, I understand what you're saying. But also, they have to believe there's an audience there for the thing they're talking about and who believe that those arguments about war, et cetera, resonate in some way, otherwise they wouldn't do it. I mean they're not known for doing stuff out of the goodness of their hearts here. Like, they're trying to respond to a constituency.\n\nCORNISH: All right, so, because we are almost at the end of the week, I'd love to hear what's in your group chats. And let me start with you, Steven.\n\nNEUKAM: Yes, my group chat is all about my brand-new baby niece who last week was born. Five days ago.\n\nCORNISH: Oh, look at that nose.\n\nNEUKAM: Yes. That's Wrenlee. And she is seven pounds one ounce. And that is the only thing going on inside of my group chat is that beautiful face.\n\nCORNISH: That makes sense because you are -- are you like a cool uncle? NEUKAM: I think I'm a cool uncle.\n\nNEUKAM: I have four nieces and nephews at this point. So, I'm pretty seasoned, I think. But we're fired up for this one.\n\nHEYE: So, a few weeks ago Steven's colleague at \"NOTUS,\" Tom Sietsema, he used to be the restaurant critic for \"The Washington Post,\" wrote an ode to the BLT. I've never had a BLT in my life. But it has sort of inspired me --\n\nCORNISH: I'm sorry, are you even American?\n\nHEYE: I don't -- I don't like lettuce.\n\nHEYE: But I do like --\n\nCORNISH: You don't like lettuce?\n\nHEYE: I do like spinach. So, I replaced it with spinach.\n\nCORNISH: Yes. And (INAUDIBLE) --\n\nHEYE: Threw in a little basil. I've had about six of them in the past two weeks. It is my obsession.\n\nCORNISH: Oh, my God. You're a Democrat now. Did you just say -- what --\n\nHEYE: How do you -- how do you figure?\n\nCORNISH: Didn't you say, what, basil and what else?\n\nCORNISH: Oh, well, I don't know about that. That's --\n\nHEYE: Was Popeye a Democrat?\n\nORTON: Arugula is next.\n\nCORNISH: Arugula is next. Yes. It's a slippery slope.\n\nHEYE: Well, like Obama said. You've seen the cross of arugula. I have.\n\nCORNISH: Yes, it's a slippery to microgreens, Doug, OK.\n\nGo. What's in your group chat?\n\nORTON: My group chats all about post-trade deadline baseball, right? Like, I love -- like, you know, I'm a Cubs fan, right? And yesterday you saw the Dodgers play the Cubs. You see the number one and two contenders for NL MVP both hit two home runs in the same game. Baseball is amazing right now. It's fun to watch. And look, between now and October is prime baseball season. It's a joy. And I think the Cubs have a legitimate shot at the playoffs.\n\nCORNISH: Are they also thinking of having a female league again? Have you guys heard about this?\n\nNEUKAM: I think they started one.\n\nCORNISH: They started already.\n\nCORNISH: So, I'm very intrigued. I'm excited for any baseball fans.\n\nNEUKAM: As an Orioles fan, I'm ready for football.\n\nCORNISH: You guys, thank you so much for being here today.\n\nCORNISH: I really appreciate having new people in the chat.\n\nWe've got a couple of big news stories coming up today we mentioned earlier. One, Anthony Fauci. He's going to be back. Theres going to be more conversation about whether or not he can be held in contempt for things that he, I guess, didn't say by pleading the Fifth so many times in his congressional hearings.\n\nWe're also following bilateral talks between Iran and Oman about safe routes and passage through the Strait of Hormuz. Of course, fighting has resumed between the U.S. and Iran. And therefore, we don't know yet if there's going to be a deal. The president talked earlier this week about strikes and backed off, saying there could be a fresh round of negotiations.\n\nAnd lastly, we're going to be talking about this week, Todd Blanche, the attorney general, whether or not he is going to get the votes he needs to get the job officially. He's currently acting attorney general. The most recent lawmaker to speak out against Blanche is Susan Collins of Maine, who says that she may not be voting for him after all.\n\nWe're , now keeping an eye on Senator Bill Cassidy. He has raised concerns about Blanche and whether or not he would be a rubber stamp for the president.\n\nPeople are all taking a fresh look now at what Blanche has to say about mail order abortion pills, and the effect that that could have on telemedicine.\n\nSo, we've got a lot of things happening this week. I know that you could spend your time nearly anywhere else, and we appreciate that you are spending it here with us. I'm Audie Cornish, and the headlines are next.",
+  "segments": [
+    {
+      "seg": 2,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-08-06/segment/02",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nSenate Committee to Vote on Fauci Contempt; Blanche Aims to Make Dobbs Decision Permanent; Wisconsin's Gubernatorial Race; Tucker Carlson Fuels '28 Speculation. Aired 6:30-7a ET\n\nAired August 06, 2026 - 06:30   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nAUDIE CORNISH, CNN ANCHOR: So, in just two hours, a Republican-led Senate committee will vote on holding Dr. Anthony Fauci in contempt of Congress.\n\nSEN. JOSH HAWLEY (R-MO): What day of the week is it today?\n\nDR. ANTHONY FAUCI, FORMER DIRECTOR, NIAID: I respectfully decline to answer based upon my rights under the Fifth Amendment to the Constitution.\n\nCORNISH: Dr. Fauci invoked the Fifth Amendment 111 times last week during a hearing into his handling of the Covid pandemic. Now, Senate investigators have just obtained a copy of Dr. Fauci's work iPhone from the pandemic era.\n\nMANU RAJU, CNN CHIEF CONGRESSIONAL CORRESPONDENT: What do you expect on this contempt vote? Is that on Thursday? And what do you expect to happen?\n\nSEN. RAND PAUL (R-KY): Thursday. And I'm not sure yet what the vote will be, but we'll find out Thursday.\n\nRAJU: If you get the votes in the committee, is that enough to charge him?\n\nPAUL: Well, we don't do charging. The Department of Justice does.\n\nPAUL: So, we -- if we win the vote on Thursday, my plan is to send it to the Department of Justice.\n\n((END VIDEO CLIP) CORNISH: A contempt finding could open the door to an investigation into whether Fauci had a valid constitutional right against self- incrimination when he refused to answer the committee's questions.\n\nThe group chat is back.\n\nStephen, can I talk to you about this? Because it gets in the weeds a little bit. And it's not unusual for some lawmaker or policy person to plead the Fifth in these scenarios. I'll play for you the president, over the last couple of years. But this is what -- this is how Trump criticized Fauci about pleading the Fifth.\n\nDONALD TRUMP, PRESIDENT OF THE UNITED STATES: The mob takes the Fifth. If you're innocent, why are you taking the Fifth Amendment?\n\nI think it's disgraceful.\n\nHave you seen what's going on in front of Congress? Fifth Amendment, Fifth Amendment, Fifth Amendment. Horrible. Horrible.\n\nCORNISH: When he said in front of Congress, is that the key here? Because he himself invoked it 400 times, right, in a deposition. What is it about Congress that makes it special?\n\nSTEPHEN NEUKAM, CONGRESSIONAL REPORTER, \"NOTUS\": I think -- I think -- well, you know, one, I think Congress -- when you come in front of Congress and there's a legit sort of legislative oversight or, you know, that's what lawmakers do on these committees and you refuse to answer questions, they're going to be upset in general.\n\nI think the thing looming over this is the fact that Dr. Fauci already has a pardon. That is what a lot of Republicans on The Hill are saying, that if you already have a pardon, he was pardoned by former President Biden, why are you not willing to answer questions? Now, Democratic senators argue that having a pardon does not restrict you from using your Fifth Amendment right. We'll have to see what --\n\nCORNISH: So, it was a blanket pardon across the board.\n\nNEUKAM: That's right. But it's not going forward. It was only backward looking.\n\nNEUKAM: And I think that that's also the argument that Democrats are making that Fauci has the right to assert the Fifth Amendment against self-incrimination.\n\nCORNISH: Since Trump is pretty -- given a lot of pardons out there and given a lot of blanket pardons out there, is this a door Republicans want to open? Meaning, isn't there a world where, when Democrats are in charge they'll be like, hey, remember, someone pleads the Fifth, you can just --\n\nDOUG HEYE, REPUBLICAN STRATEGIST: So, Audie, I think you're thinking very long term, meaning next year. And in Congress, we don't -- we don't even think --\n\nCORNISH: November. Yes.\n\nHEYE: We don't think that long term anymore.\n\nHEYE: And I think that's the reality. What I can do today is what I'm going to do today. And what happens in a future Congress, you know, hello, filibuster, goes by the wayside.\n\nAnd I've worked a lot of Congressional hearings, and I worked on the contempt holding for Eric Holder. That issue was that he wouldn't show up. There's a very --\n\nCORNISH: I was going to say, usually they don't show up.\n\nCORNISH: They don't sit there and plead the Fifth.\n\nHEYE: So, I don't know the legalities on this one.\n\nBut what's troubled me for months now is, this has been a very long and I think sad kabuki theater.\n\nAnd that's been with Rand Paul. It's also been with Dr. Fauci, who I first had meetings with in 2005. And they've both sort of fed into each other with their, you know, indignation and so forth. And meanwhile, we're not getting to the bottom of what actually happened. And if the lab leak theory is true, we're not getting to the bottom, as all of this is happening, of why there was a real gag on people not being allowed to say that that was a possibility.\n\nCORNISH: How are you feeling about it? I hear Democrats saying, oh, well, the whole reason they're doing this is because they want to catch him in a lie, and then the lie will be the thing they can actually go after him for and get around the pardon.\n\nJOSH ORTON, PRESIDENT, DEMAND JUSTICE: Well, first of all, I'm like checking my calendar for what year it is, right? It's 2026, right, and prices are so high. There's a midterm election in a couple of months. It's shocking to me that Republicans are still laser focused on Anthony Fauci. They are talking to a small segment of their base.\n\nCORNISH: I don't think so. Here's why. So many independent voters who swung to Trump were people who were activated by their concerns out of Covid. People who hated lockdowns. People who didn't want to wear their masks. This, that and the other thing. That's a real constituency. And are they trying to reactivate it? ORTON: I mean, I think that would be true if they were actually\n\nlooking for the, as Doug said, the original cause of Covid. This back and forth, Fauci has become a boogeyman in a certain segment of the Republican Party.\n\nCORNISH: A bobblehead or a boogeyman.\n\nORTON: Yes. And to focus just on him, to me, is speaking just to that constituency and not to a broader group of parents and workers who actually had to deal with what happened in Covid. They would want answers. And I think that would be a legitimate conversation.\n\nThis is political theater aimed at a very narrow group of people.\n\nCORNISH: OK. Well, it's all we've got for now.\n\nIt is now 36 minutes past the hour. This is your morning roundup.\n\nNow, three people from three different states have been charged with threatening a judge, a witness and local officials tied to the Nolan Wells investigation. And the case is receiving nationwide attention and the threatening calls and Facebook messages, they came from three states, Ohio, California and Illinois. Now, no one's been charged in connection with the Wells case, and the black teens cause of death remains undetermined, at least to local officials.\n\nAnd the multistate outbreak of cyclosporiasis has spread to even more states. This lettuce parasite has been reported in 15 states. Two people have died. More than 6,000 people have fallen ill. Now, the CDC is saying they're actively monitoring and working on it, but that the risk to the general public is low.\n\nMEEK MILL, RAPPER: We trying to survive. We fighting the system.\n\nCORNISH: Eagle-eyed viewers may have caught Pennsylvania Governor Josh Shapiro there in Meek Mill's new music video for \"Nightmares to Dreams.\" And that surprise cameo was even a surprise to the governor. His office says it was Shapiro's kids who first spotted him in it, but this isn't the first time Mill and Shapiro have collaborated. In the past they've worked together on criminal justice reform.\n\nNext on CNN THIS MORNING, on the verge of confirmation, Todd Blanche makes a lofty promise to restrict abortion in every state. We're going to talk about whether or not he can do that.\n\nMEGYN KELLY, HOST, \"THE MEGYN KELLY SHOW\": I believe Tucker's so disgusted.\n\nUNIDENTIFIED MALE: Ys.\n\nKELLY: And the, you know, the neocons and what's happened within the Republican Party --\n\nUNIDENTIFIED MALE: Yes.\n\nKELLY: That, for the first time, he actually would consider it.\n\nCORNISH: We're going to follow up with this question. Is Tucker Carlson teeing up a run for president with his new America First party?\n\nTODD BLANCHE, ACTING ATTORNEY GENERAL: I've been talking to Republicans and Democrats for the past several months. And I'll continue to do so. And my team has been as well. So, no, I'm not worried about what's going to happen over the next couple days.\n\nCORNISH: Todd Blanche's attorney general nomination is still hanging by a thread. He can only afford to lose one more vote. And earlier this week, Senator Susan Collins says she's a no. Now, Senator Bill Cassidy is saying he's unsure.\n\nSEN. BILL CASSIDY (R-LA): I've got to be convinced that he is an attorney general who just happens to have once been President Trump's personal attorney, as opposed to person -- as opposed to President Trump's personal attorney who is now the attorney general.\n\nCORNISH: Then there's this. Blanche made, last week, these comments, adding fuel to concerns that Cassidy is bringing up. In a since deleted recording of Blanche's call with faith leaders, he laid out his goals for the future of abortion policy.\n\nTODD BLANCHE, ACTING ATTORNEY GENERAL: We're working, you know, hand in hand with HHS and the FDA and the White House and President Trump's team to get permanent solutions so that -- so that the Dobbs decision becomes permanent in every single state.\n\nCORNISH: All right, joining me now, Irin Carmon, senior correspondent for \"New York Magazine.\" She's also the author of \"Unbearable: The Truth about Pregnancy in America.\" I believe the paperback is coming out now. So, Irin, what I wanted to talk to you about is the mail order part of\n\nit. The Justice Department said in a statement that Blanche was referring to just that. And then he made these comments in his hearing last month where it came up again.\n\nTODD BLANCHE, ACTING ATTORNEY GENERAL: I've seen video myself of what appears to be pills coming even from overseas to young women. And it doesn't matter who applies for it. Anybody can get it. There's no instructions. They just come dumped out of a little plastic bag. And it's wrong.\n\nCORNISH: Irin, give me a sense of things here. I mean the telemedicine industry is huge. So, are people getting plastic bags of abortion pills from overseas?\n\nIRIN CARMON, SENIOR CORRESPONDENT, \"NEW YORK MAGAZINE\": Well, Audie, there is a sea change in how people are getting abortions, in states where it's legal and in states where it's not legal.\n\nWhat happened is that during Covid many of the regulations about getting abortion pills in person, or at least having to have one visit in person, were relaxed by the Biden administration, and it became clear that this -- there was a lot of research showing that this was a safe way to get an abortion, and patients were really interested in it.\n\nAnd so now the majority of abortions take place using medication and a slight majority of them take place with telemedicine. If you're getting an abortion in a state where abortion is illegal, the odds are that it is through telemedicine from a doctor, a legitimate doctor, not just, you know, random website who is practicing in a state like New York or California that protects their right to see patients across state lines in states that it is illegal.\n\nAnd this has made it so that, you know, we used to hear these dark warnings. It was the pre-Roe reality that women would be bleeding in alleyways when abortion was made illegal. Because abortion medication is so safe and effective and accessible now, that is the big reason why we do not have that. And, you know, understandably, those who would like abortion to be illegal are extremely angry about this, and they're looking for legal and medical solutions to try to -- or policy, regulatory solutions through HHS to try to undermine this.\n\nAnd so, there's a study underway at HHS which medical associations say is kind of looking for evidence that doesn't exist, that medication abortion is harmful. And on the legal perspective, what the attorney general could do is he could revise the Biden administration's opinion that it is legal under, you know, that it doesn't violate this 19th century obscenity law, the Comstock Act, which bans selling obscene materials through the mail. Anti-abortion activists feel that the Trump administration has not done enough, and they are demanding that they find a way, any way, through federal agencies to make it impossible for these women to access these pills.\n\nCORNISH: Can I underscore something you just said when you mentioned using obscenity laws to go after material that crosses state lines? This sounds like something where there's still legal question. I don't know if it's something the Supreme Court maybe has nodded to either in dissents or rulings, but is this something we're going to hear more about? Is it a ripe area for legal challenge?\n\nCARMON: It is absolutely a ripe area. I will say that the -- so far the Supreme Court hasn't been interested, even though it's been asked, to take up the question of the Comstock Act. But it is certainly expected by advocates in this space that there will be a challenge to the shield laws that protect doctors in states like New York and California that are currently, you know, being sued by, you know, in Louisiana and Texas for sending these pills across state lines. And so, whether, you know, when Todd Blanche says make Dobbs permanent in every state, Dobbs does not say that blue states can't have their own abortion laws that both make it legal and protect these doctors.\n\nBut Justice Alito said in a recent dissent about these very medication abortion pills and how -- pills and how they're regulated, that this -- that these laws undermine Dobbs. And so the question is, is there a majority on the Supreme Court for curtailing the free flow of medication through the mail from, again, legitimate, licensed doctors in their states, sending them to desperate patients in red states? And that, I believe in the next year, two years, three years, we're going to see those kinds of challenges reach the Supreme Court.\n\nCORNISH: OK, Irin Carmon, thank you so much. And please take a look out for her book. It's called \"Unbearable: The Truth about Pregnancy in America.\"\n\nWe're going to turn to this, fresh off a win from Abdul El-Sayed in Michigan, Francesca Hong in Wisconsin hopes to be the next big win for the left. The Democratic socialist is the clear frontrunner for the gubernatorial primary coming up on Tuesday in purple Wisconsin. Now, Hong, of course, has been critical of U.S. policy on Israel. She has previously backed defunding the police. She is anti-ICE. She has been stumping with the far left.\n\nHer stance that's got everybody riled up, however, is her opinion on Thanksgiving. So, it all started with this now deleted post from 2020, when Hong called for the holiday to be canceled.\n\nKAITLAN COLLINS, CNN ANCHOR: Do you still believe that Thanksgiving should be canceled?\n\nFRANCESCA HONG (D), WISCONSIN GUBERNATORIAL CANDIDATE: I'm a chef. And one of the first meals that I made that was for the community when I was 16 was a Thanksgiving meal.\n\nBut Thanksgiving is also a time that's incredibly painful for many people in our communities.\n\nMy favorite holiday is Thanksgiving because I love to --\n\nUNIDENTIFIED MALE: There you have it.\n\nHONG: Yes. I don't want to cancel it. I actually love it.\n\nCORNISH: OK, the group chat is back.\n\nCan't believe this is happening. But here's the conversation.\n\nCan I start with you guys? Like, my messaging folks. Some things are a gotcha question. Some things are not. But I think going back to like a post from 2020 is emblematic of a certain era of candidate we're dealing with now.\n\nHEYE: Yes, absolutely. And look, it's not just to me. It's not just that she hates Thanksgiving for whatever reason. If you look at the tweet --\n\nCORNISH: And also loves Thanksgiving.\n\nHEYE: Apparently now -- well, now. And that was sort of a tortured explanation. She talks about how it -- how it impacts indigenous folks. How does she spell folks? With an x. And I think the problem that a lot of these candidates have is they don't talk like normal people. Those voters that El-Sayed needs to win, that voted against him in the primary, white, working class African American voters, they don't speak like that. And so when you do, as a candidate, you're really turning off voters who could potentially support you.\n\nORTON: Yes, I can't imagine anyone wanting to cancel Thanksgiving.\n\nLook, I think, actually, El-Sayed is sort of a good contrast here because he's focused so much on the economic plight of Michiganders and talked about how he was going to take on power.\n\nI think that for, you know, for people who are running for higher office, for statewide office, in this moment, that needs to be the focus. And I think, you know, talking about these other particular things, you know, I don't think it's going to bring together the coalition that she needs to win. And, you know, I love Thanksgiving.\n\nOK, I just want to note one thing, that Bernie Sanders has endorsed Abdul El-Sayed, but he has not done the same for Hong. And when he was asked about this, he just said, look, she seems nice. I'm not familiar with the race. I was sort of surprised to see that. Is there -- is he really not doing gubernatorial races or has she just not caught his favor?\n\nNEUKAM: I guess I don't know enough -- I can't remember the last time Bernie's endorsed a governor candidate.\n\nNEUKAM: Very Congress focused. But I will say, I think the most interesting thing about this whole saga to me is where it's happening.\n\nNEUKAM: It's happening in a critical area for the party. The blue wall. A wall that crumbled in 2024, turned away from the party. The stakes couldn't be higher for progressives. If they fail in the midterms in 2026, if they are the candidates and they cannot win, Michigan, if you cannot win Wisconsin as governor --\n\nNEUKAM: The party is going to be very critical of that.\n\nCORNISH: I didn't think I'd be hearing about the blue wall so early, but here we are. Midterms. OK.\n\nNEUKAM: Cannot avoid it.\n\nCORNISH: All right. So, I want to turn to something else. Is Tucker Carlson plotting a third party run for president? So, Carlson hosted a dinner party of jilted MAGA members, and it was starring former Congresswoman Marjorie Taylor Greene, Congressman Thomas Massie and former Trump official Joe Kent, who actually resigned over the war with Iran. Take a look at that Thanksgiving dinner picture. The White House called the picture a, quote, \"embarrassing collection of mostly whiny turncoats.\" In a new podcast, Carlson laid out his vision for a new political system.\n\nTUCKER CARLSON, HOST, \"THE TUCKER CARLSON SHOW\": That the parties on the big issues are identical. Trump initiates the one thing he said he'd never do, a regime change war in the Middle East against Iran, a country much bigger and more powerful than the last regime change we attempted, which didn't work.\n\nSo, we're probably going to get a third party or multiple parties. Is that the best system? I don't know. It's better than the one we have.\n\nCORNISH: The group chat is back.\n\nI wanted to talk about this because every once in a while there is a third-party spoiler. I'm old enough to remember like a Ross Perot. But is this a person we should be paying closer attention to because of how loud he is and the platform he has?\n\nNEUKAM: I mean that platform is massive. I mean, if you remember when he was a cable news host, he was one of the, if not the biggest in the country. I think that his podcast audience is pretty large. And I think he's tapping into an anti-war sentiment, not just in the Republican Party, but with independents too, that is extremely strong. And if you listen to Carlson's podcast, which I do periodically just to sort of check in, there's a lot of talk about the anti-war and Iran and the decisions that the president has made specifically around foreign policy. So, I think that that is the lane that, if he was going to run, I think it's clear that Carlson's going to run on that.\n\nCORNISH: Online it has sparked a lot of dialog. You had Laura Loomer calling all of this a threat. Saying, quote, \"paging Vice President Vance, Tucker wants to hijack the GOP in 2026 and 2028.\"\n\nAnd then Megyn Kelly, Tucker's former colleague at Fox News, was talking about this on her show yesterday. Here's how that conversation went.\n\nMARK HALPERIN, HOST, \"NEXT UP WITH MARK HALPERIN: He might do it as a lark. But as a credible campaign --\n\nMEGYN KELLY, HOST, \"THE MEGYN KELLY SHOW\": No.\n\nHALPERIN: I don't believe it. I don't believe that support's their for him.\n\nKELLY: I got to tell you, I disagree.\n\nHALPERIN: What would -- what would the -- what --\n\nKELLY: I haven't talked to him directly about it, but I believe Tucker's so disgusted --\n\nKELLY: And the, you know, the neocons and what's happened within the Republican Party --\n\nKELLY: That, for the first time, he actually would consider it.\n\nHEYE: Well, one, our friends at \"USA Today\" say it's not too early for preseason considerations.\n\nHEYE: Now, that's about a football season that starts in about three weeks.\n\nHEYE: So, what happens after the midterms, I'm not entertaining yet. But I think -- I don't think -- there's not enough time in -- space in my brain or time in my life to focus on what I would call the cartoon characters in our politics. And whether they have Nazi tattoos or they sell cheap pillows, we spend too much time on these people. And I get it. You know, sunshine is the best disinfectant. But it also turns out, if we've learned anything in these past ten years, it's also how weeds grow. So, I don't have time right now to focus on any of this.\n\nCORNISH: But you did have time for those amazing metaphors, and I salute you.\n\nORTON: I sort of love this for the Republican Party, right? Look, I'm never going to say that I think Tucker Carlson is earnest. I think that, like, there's always an underlying motive here that I'm not really sure that -- you know, I would never take this at face value.\n\nHowever, I do think this is an interesting sort of analysis of what happened to the Trump coalition now that he is grossly unpopular. He uniquely was able to sort of patch together the make America healthy again, these anti-war folks. He really did pledge no more wars. And what does he do? He gets into a war that every other president disavowed. And so, I think that this is actually a function. And I -- and I know Doug is -- doesn't want to focus on the preseason, but I think this is a focus -- this is actually a window into what is going to happen post-Trump where --\n\nCORNISH: Yes. Yes. And these are also people responding to market forces.\n\nCORNISH: So, yes, rage bait is a thing. Yes, I understand what you're saying. But also, they have to believe there's an audience there for the thing they're talking about and who believe that those arguments about war, et cetera, resonate in some way, otherwise they wouldn't do it. I mean they're not known for doing stuff out of the goodness of their hearts here. Like, they're trying to respond to a constituency.\n\nCORNISH: All right, so, because we are almost at the end of the week, I'd love to hear what's in your group chats. And let me start with you, Steven.\n\nNEUKAM: Yes, my group chat is all about my brand-new baby niece who last week was born. Five days ago.\n\nCORNISH: Oh, look at that nose.\n\nNEUKAM: Yes. That's Wrenlee. And she is seven pounds one ounce. And that is the only thing going on inside of my group chat is that beautiful face.\n\nCORNISH: That makes sense because you are -- are you like a cool uncle? NEUKAM: I think I'm a cool uncle.\n\nNEUKAM: I have four nieces and nephews at this point. So, I'm pretty seasoned, I think. But we're fired up for this one.\n\nHEYE: So, a few weeks ago Steven's colleague at \"NOTUS,\" Tom Sietsema, he used to be the restaurant critic for \"The Washington Post,\" wrote an ode to the BLT. I've never had a BLT in my life. But it has sort of inspired me --\n\nCORNISH: I'm sorry, are you even American?\n\nHEYE: I don't -- I don't like lettuce.\n\nHEYE: But I do like --\n\nCORNISH: You don't like lettuce?\n\nHEYE: I do like spinach. So, I replaced it with spinach.\n\nCORNISH: Yes. And (INAUDIBLE) --\n\nHEYE: Threw in a little basil. I've had about six of them in the past two weeks. It is my obsession.\n\nCORNISH: Oh, my God. You're a Democrat now. Did you just say -- what --\n\nHEYE: How do you -- how do you figure?\n\nCORNISH: Didn't you say, what, basil and what else?\n\nCORNISH: Oh, well, I don't know about that. That's --\n\nHEYE: Was Popeye a Democrat?\n\nORTON: Arugula is next.\n\nCORNISH: Arugula is next. Yes. It's a slippery slope.\n\nHEYE: Well, like Obama said. You've seen the cross of arugula. I have.\n\nCORNISH: Yes, it's a slippery to microgreens, Doug, OK.\n\nGo. What's in your group chat?\n\nORTON: My group chats all about post-trade deadline baseball, right? Like, I love -- like, you know, I'm a Cubs fan, right? And yesterday you saw the Dodgers play the Cubs. You see the number one and two contenders for NL MVP both hit two home runs in the same game. Baseball is amazing right now. It's fun to watch. And look, between now and October is prime baseball season. It's a joy. And I think the Cubs have a legitimate shot at the playoffs.\n\nCORNISH: Are they also thinking of having a female league again? Have you guys heard about this?\n\nNEUKAM: I think they started one.\n\nCORNISH: They started already.\n\nCORNISH: So, I'm very intrigued. I'm excited for any baseball fans.\n\nNEUKAM: As an Orioles fan, I'm ready for football.\n\nCORNISH: You guys, thank you so much for being here today.\n\nCORNISH: I really appreciate having new people in the chat.\n\nWe've got a couple of big news stories coming up today we mentioned earlier. One, Anthony Fauci. He's going to be back. Theres going to be more conversation about whether or not he can be held in contempt for things that he, I guess, didn't say by pleading the Fifth so many times in his congressional hearings.\n\nWe're also following bilateral talks between Iran and Oman about safe routes and passage through the Strait of Hormuz. Of course, fighting has resumed between the U.S. and Iran. And therefore, we don't know yet if there's going to be a deal. The president talked earlier this week about strikes and backed off, saying there could be a fresh round of negotiations.\n\nAnd lastly, we're going to be talking about this week, Todd Blanche, the attorney general, whether or not he is going to get the votes he needs to get the job officially. He's currently acting attorney general. The most recent lawmaker to speak out against Blanche is Susan Collins of Maine, who says that she may not be voting for him after all.\n\nWe're , now keeping an eye on Senator Bill Cassidy. He has raised concerns about Blanche and whether or not he would be a rubber stamp for the president.\n\nPeople are all taking a fresh look now at what Blanche has to say about mail order abortion pills, and the effect that that could have on telemedicine.\n\nSo, we've got a lot of things happening this week. I know that you could spend your time nearly anywhere else, and we appreciate that you are spending it here with us. I'm Audie Cornish, and the headlines are next."
+    }
+  ]
+}

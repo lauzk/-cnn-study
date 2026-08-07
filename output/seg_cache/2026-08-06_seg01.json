@@ -1,0 +1,465 @@
+{
+  "date": "2026-08-06",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-08-06/segment/01",
+  "vocabulary": [
+    {
+      "word": "upset",
+      "phonetic": "/ˈʌpset/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "爆冷门，意外结果",
+      "en": "an unexpected result in a competition or election",
+      "excerpt": "I think this is one of the biggest upsets in modern American political history.",
+      "example_cn": "这是现代美国政治史上最大的冷门之一。"
+    },
+    {
+      "word": "outspend",
+      "phonetic": "/ˌaʊtˈspend/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "花费超过（他人）",
+      "en": "to spend more money than someone else",
+      "excerpt": "He was outspent, you know, almost 10 to 1.",
+      "example_cn": "他的竞选支出被对手以近10比1的比例超过。"
+    },
+    {
+      "word": "resonate",
+      "phonetic": "/ˈrezəneɪt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "引起共鸣",
+      "en": "to produce or be filled with a deep, full, reverberating sound; to evoke or suggest images, memories, and emotions",
+      "excerpt": "And I think that is resonating.",
+      "example_cn": "我认为这引起了共鸣。"
+    },
+    {
+      "word": "partisan",
+      "phonetic": "/ˈpɑːrtɪzən/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "党派的，偏袒的",
+      "en": "prejudiced in favor of a particular cause or group",
+      "excerpt": "people are making a mistake if they see this in too-partisan terms.",
+      "example_cn": "如果人们以过于党派化的视角看待此事，那就错了。"
+    },
+    {
+      "word": "tariff",
+      "phonetic": "/ˈtærɪf/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "关税",
+      "en": "a tax or duty to be paid on a particular class of imports or exports",
+      "excerpt": "by the tariffs that Trump has initiated.",
+      "example_cn": "特朗普发起的关税。"
+    },
+    {
+      "word": "athlete",
+      "phonetic": "/ˈæθliːt/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "运动员",
+      "en": "a person who is proficient in sports and other forms of physical exercise",
+      "excerpt": "He's an excellent political athlete.",
+      "example_cn": "他是一位出色的政治运动员。"
+    },
+    {
+      "word": "retail politics",
+      "phonetic": "/ˈriːteɪl ˈpɑːlətɪks/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "零售政治（指候选人直接与选民接触的竞选方式）",
+      "en": "a style of campaigning that involves direct, personal contact with voters",
+      "excerpt": "Retail politics is real, I get that.",
+      "example_cn": "零售政治是真实存在的，我明白。"
+    },
+    {
+      "word": "disavow",
+      "phonetic": "/ˌdɪsəˈvaʊ/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "否认，拒绝承认",
+      "en": "to deny any responsibility or support for something",
+      "excerpt": "El-Sayed refused to disavow him.",
+      "example_cn": "埃尔-萨耶德拒绝与他划清界限。"
+    },
+    {
+      "word": "splinter",
+      "phonetic": "/ˈsplɪntər/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "分裂",
+      "en": "to break or cause to break into small sharp fragments; to divide into factions",
+      "excerpt": "has splintered the Democratic Party.",
+      "example_cn": "使民主党分裂。"
+    },
+    {
+      "word": "endorse",
+      "phonetic": "/ɪnˈdɔːrs/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "支持，背书",
+      "en": "to declare one's public approval or support of",
+      "excerpt": "came out and endorsed Haley Stevens",
+      "example_cn": "公开支持海利·史蒂文斯。"
+    },
+    {
+      "word": "establishment",
+      "phonetic": "/ɪˈstæblɪʃmənt/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "当权派，体制",
+      "en": "the dominant group or elite in a society or organization",
+      "excerpt": "The establishment put all their weight behind trying to crush Abdul in Michigan.",
+      "example_cn": "当权派全力试图在密歇根州击败阿卜杜勒。"
+    },
+    {
+      "word": "Islamophobic",
+      "phonetic": "/ɪsˌlɑːməˈfoʊbɪk/",
+      "pos": "adj.",
+      "level": "专八",
+      "cn": "仇视伊斯兰教的",
+      "en": "having a fear or hatred of Islam or Muslims",
+      "excerpt": "You are all unbelievably Islamophobic pieces of...",
+      "example_cn": "你们都是令人难以置信的仇视伊斯兰教的家伙。"
+    },
+    {
+      "word": "misogynist",
+      "phonetic": "/mɪˈsɑːdʒɪnɪst/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "厌恶女性者",
+      "en": "a person who dislikes, despises, or is strongly prejudiced against women",
+      "excerpt": "called him a sexist, misogynist terrorist",
+      "example_cn": "称他为性别歧视者、厌恶女性的恐怖分子。"
+    },
+    {
+      "word": "bear-hug",
+      "phonetic": "/ˈber hʌɡ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "热烈拥抱，紧紧拥抱",
+      "en": "to embrace tightly",
+      "excerpt": "what Republicans have learned from bear-hugging the independent podcast universe?",
+      "example_cn": "共和党人从热烈拥抱独立播客界中学到了什么？"
+    },
+    {
+      "word": "dog whistle",
+      "phonetic": "/dɔːɡ ˈwɪsl/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "狗哨政治（指用隐晦语言向特定群体传递信息）",
+      "en": "a subtly encoded message that is intended to be understood by a particular group",
+      "excerpt": "we hear the term, especially about Republicans, \"dog whistles\" and \"code words.\"",
+      "example_cn": "我们听到这个词，尤其是关于共和党人的“狗哨”和“暗语”。"
+    },
+    {
+      "word": "code word",
+      "phonetic": "/koʊd wɜːrd/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "暗语，代号",
+      "en": "a word used to convey a secret meaning",
+      "excerpt": "\"AIPAC\" has been a code word.",
+      "example_cn": "“AIPAC”一直是一个暗语。"
+    },
+    {
+      "word": "blatantly",
+      "phonetic": "/ˈbleɪtəntli/",
+      "pos": "adv.",
+      "level": "六级",
+      "cn": "公然地，露骨地",
+      "en": "in an open and unashamed manner",
+      "excerpt": "Piker is being blatantly obvious here and blatantly honest.",
+      "example_cn": "皮克在这里表现得极其明显，也极其诚实。"
+    },
+    {
+      "word": "divisive",
+      "phonetic": "/dɪˈvaɪsɪv/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "分裂的，引起分歧的",
+      "en": "tending to cause disagreement or hostility between people",
+      "excerpt": "I think we tend to oversell how divisive primaries are.",
+      "example_cn": "我认为我们往往夸大了初选的分裂程度。"
+    },
+    {
+      "word": "contempt",
+      "phonetic": "/kənˈtempt/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "藐视（法庭）",
+      "en": "the offense of being disobedient to or disrespectful of a court of law",
+      "excerpt": "Anthony Fauci could be held in contempt",
+      "example_cn": "安东尼·福奇可能被判定藐视法庭。"
+    },
+    {
+      "word": "precedent",
+      "phonetic": "/ˈpresɪdənt/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "先例",
+      "en": "an earlier event or action that is regarded as an example or guide to be considered in subsequent similar circumstances",
+      "excerpt": "Is this setting a dangerous precedent?",
+      "example_cn": "这是否开创了一个危险的先例？"
+    },
+    {
+      "word": "crackdown",
+      "phonetic": "/ˈkrækdaʊn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "镇压，打击",
+      "en": "a series of severe measures to restrict undesirable or illegal people or behavior",
+      "excerpt": "Trump's immigration crackdown impacts military families",
+      "example_cn": "特朗普的移民打击行动影响军人家庭。"
+    },
+    {
+      "word": "deportation",
+      "phonetic": "/ˌdiːpɔːrˈteɪʃn/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "驱逐出境",
+      "en": "the action of deporting a foreigner from a country",
+      "excerpt": "pursuing their mass deportation agenda.",
+      "example_cn": "推行大规模驱逐议程。"
+    },
+    {
+      "word": "ethics panel",
+      "phonetic": "/ˈeθɪks ˈpænl/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "道德委员会",
+      "en": "a committee that investigates ethical conduct",
+      "excerpt": "after an ethics panel found that he repeatedly made unwanted advances towards two female staffers.",
+      "example_cn": "在道德委员会发现他多次对两名女性工作人员进行不受欢迎的挑逗之后。"
+    },
+    {
+      "word": "advances",
+      "phonetic": "/ədˈvænsɪz/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "（对异性的）挑逗，示好",
+      "en": "an approach made to someone with the aim of starting a sexual relationship",
+      "excerpt": "made unwanted advances towards two female staffers.",
+      "example_cn": "对两名女性工作人员进行不受欢迎的挑逗。"
+    },
+    {
+      "word": "rogue",
+      "phonetic": "/roʊɡ/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "失控的，行为异常的",
+      "en": "behaving in an unpredictable or uncontrolled way",
+      "excerpt": "another A.I. model has now apparently gone rogue.",
+      "example_cn": "另一个AI模型显然失控了。"
+    },
+    {
+      "word": "cyber security",
+      "phonetic": "/ˈsaɪbər sɪˈkjʊrəti/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "网络安全",
+      "en": "the state of being protected against the criminal or unauthorized use of electronic data",
+      "excerpt": "This was during cyber security testing.",
+      "example_cn": "这是在网络安全测试期间发生的。"
+    },
+    {
+      "word": "situational awareness",
+      "phonetic": "/ˌsɪtʃuˈeɪʃənl əˈwernəs/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "态势感知",
+      "en": "the perception of environmental elements and events with respect to time or space, the comprehension of their meaning, and the projection of their future status",
+      "excerpt": "the foundation of air traffic control is situational awareness.",
+      "example_cn": "空中交通管制的基础是态势感知。"
+    },
+    {
+      "word": "clearance",
+      "phonetic": "/ˈklɪrəns/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "许可，放行",
+      "en": "official permission to do something, especially to take off or land",
+      "excerpt": "requires every aircraft that operates within that area to get a clearance",
+      "example_cn": "要求在该区域内运行的每架飞机都获得许可。"
+    },
+    {
+      "word": "longitudinal",
+      "phonetic": "/ˌlɑːndʒɪˈtuːdɪnl/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "纵向的",
+      "en": "running lengthwise",
+      "excerpt": "one and a half miles longitudinal or horizontal",
+      "example_cn": "纵向或水平方向1.5英里。"
+    },
+    {
+      "word": "vertical",
+      "phonetic": "/ˈvɜːrtɪkl/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "垂直的",
+      "en": "at right angles to a horizontal plane",
+      "excerpt": "500 feet vertical",
+      "example_cn": "垂直方向500英尺。"
+    },
+    {
+      "word": "operational error",
+      "phonetic": "/ˌɑːpəˈreɪʃənl ˈerər/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "操作失误",
+      "en": "a mistake in the execution of a procedure",
+      "excerpt": "creates, maybe, an operational error or less than standard separation.",
+      "example_cn": "可能导致操作失误或低于标准的间隔。"
+    },
+    {
+      "word": "mid-air",
+      "phonetic": "/ˌmɪd ˈer/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "空中的",
+      "en": "occurring in the air",
+      "excerpt": "since the mid-air of about a year and a half ago",
+      "example_cn": "自从大约一年半前的空中相撞事件以来。"
+    },
+    {
+      "word": "scuttlebutt",
+      "phonetic": "/ˈskʌtlbʌt/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "流言蜚语，小道消息",
+      "en": "rumor or gossip",
+      "excerpt": "Like what's the scuttlebutt?",
+      "example_cn": "有什么小道消息？"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "He was outspent, you know, almost 10 to 1.",
+      "cn": "你知道，他的竞选支出被对手以近10比1的比例超过。",
+      "structure": "主语+谓语（被动语态）+状语",
+      "analysis": "被动语态，outspent是outspend的过去分词，表示被超过。"
+    },
+    {
+      "en": "And I think that is actually resonating with -- with Michigan.",
+      "cn": "我认为这实际上正在引起密歇根州的共鸣。",
+      "structure": "主句+宾语从句",
+      "analysis": "think后接宾语从句，resonating with表示引起共鸣。"
+    },
+    {
+      "en": "He's an excellent political athlete.",
+      "cn": "他是一位出色的政治运动员。",
+      "structure": "主系表结构",
+      "analysis": "political athlete是比喻，指擅长政治活动的人。"
+    },
+    {
+      "en": "El-Sayed refused to disavow him.",
+      "cn": "埃尔-萨耶德拒绝与他划清界限。",
+      "structure": "主语+谓语+不定式宾语",
+      "analysis": "refuse to do sth. 拒绝做某事。"
+    },
+    {
+      "en": "The establishment put all their weight behind trying to crush Abdul in Michigan.",
+      "cn": "当权派全力试图在密歇根州击败阿卜杜勒。",
+      "structure": "主语+谓语+宾语+状语",
+      "analysis": "put weight behind表示支持或努力推动。"
+    },
+    {
+      "en": "You are all unbelievably Islamophobic pieces of...",
+      "cn": "你们都是令人难以置信的仇视伊斯兰教的家伙。",
+      "structure": "主系表结构",
+      "analysis": "unbelievably修饰形容词，pieces of...是粗俗用语。"
+    },
+    {
+      "en": "I think we tend to oversell how divisive primaries are.",
+      "cn": "我认为我们往往夸大了初选的分裂程度。",
+      "structure": "主句+宾语从句",
+      "analysis": "tend to do sth. 倾向于做某事；oversell意为过度推销。"
+    },
+    {
+      "en": "This kind of rhetoric coming from your supporters, who he was just with two days earlier, really not helpful.",
+      "cn": "这种来自你的支持者的言论，他两天前还和他们在一起，真的没有帮助。",
+      "structure": "主语+定语从句+谓语",
+      "analysis": "coming from...是现在分词短语作定语，who引导非限制性定语从句。"
+    },
+    {
+      "en": "Iran reporting progress in talks with Oman over the Strait of Hormuz, saying that the two sides are close to finalizing a proposed framework.",
+      "cn": "伊朗报告称与阿曼就霍尔木兹海峡的谈判取得进展，称双方接近敲定拟议框架。",
+      "structure": "主语+谓语+宾语+状语",
+      "analysis": "reporting和saying是现在分词作状语，表示伴随动作。"
+    },
+    {
+      "en": "The Trump administration has detained more than 50 parents and spouses of active-duty U.S. troops while pursuing their mass deportation agenda.",
+      "cn": "特朗普政府在推行大规模驱逐议程的同时，拘留了50多名现役美军士兵的父母和配偶。",
+      "structure": "主语+谓语+宾语+时间状语从句",
+      "analysis": "while pursuing...是省略主语的时间状语从句，相当于while they are pursuing...。"
+    },
+    {
+      "en": "Edwards abandoned his reelection bid this week after an ethics panel found that he repeatedly made unwanted advances towards two female staffers.",
+      "cn": "爱德华兹本周放弃了连任竞选，此前道德委员会发现他多次对两名女性工作人员进行不受欢迎的挑逗。",
+      "structure": "主句+时间状语从句",
+      "analysis": "after引导时间状语从句，found后接宾语从句。"
+    },
+    {
+      "en": "Another day, another A.I. model has now apparently gone rogue.",
+      "cn": "又一天，又一个AI模型显然失控了。",
+      "structure": "主谓结构",
+      "analysis": "gone rogue是固定搭配，意为失控。"
+    },
+    {
+      "en": "The FAA and the NTSB are now reviewing an incident involving Trump's Marine One helicopter and a passenger jet that got too close.",
+      "cn": "美国联邦航空管理局和国家运输安全委员会正在审查一起涉及特朗普的海军陆战队一号直升机与一架客机距离过近的事件。",
+      "structure": "主语+谓语+宾语+定语从句",
+      "analysis": "involving...是现在分词短语作定语，that got too close是定语从句修饰passenger jet。"
+    },
+    {
+      "en": "Based on our preliminary safety review, there was a momentary loss of separation after which the aircraft continued to move away from one another.",
+      "cn": "根据我们的初步安全审查，出现了短暂的间隔丧失，之后飞机继续相互远离。",
+      "structure": "状语+there be句型+定语从句",
+      "analysis": "after which引导非限制性定语从句，修饰loss of separation。"
+    },
+    {
+      "en": "So, the protocol here is that when the Marine One calls for an indication that he's going to take off, the tower controller stops any departures.",
+      "cn": "所以，这里的协议是，当海军陆战队一号发出即将起飞的指示时，塔台管制员会停止所有离港航班。",
+      "structure": "主系表+表语从句",
+      "analysis": "that引导表语从句，其中包含when引导的时间状语从句和that引导的同位语从句。"
+    },
+    {
+      "en": "And when there is confusion between the pilot and the controller or the controller and the pilot, and they're both not on the same page, that is often -- creates, maybe, an operational error or less than standard separation.",
+      "cn": "当飞行员和管制员之间或管制员和飞行员之间存在困惑，且双方不在同一频道时，这往往会导致操作失误或低于标准的间隔。",
+      "structure": "时间状语从句+主句",
+      "analysis": "when引导时间状语从句，主句为that is often...，其中creates是插入语。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "美国中期选举与民主党初选",
+      "content": "2026年中期选举前，密歇根州参议员初选中，进步派候选人阿卜杜勒·埃尔-萨耶德击败建制派支持的对手，引发民主党内部关于路线之争的讨论。特朗普认为这对共和党有利。",
+      "keywords": "midterm elections, primary, progressive, establishment, Democratic Party"
+    },
+    {
+      "title": "特朗普政府移民政策对军人家庭的影响",
+      "content": "美联社调查显示，特朗普政府在执行大规模驱逐议程时，拘留了50多名现役美军士兵的家属，引发对政策合理性的质疑。",
+      "keywords": "immigration, deportation, military families, active-duty troops"
+    },
+    {
+      "title": "AI模型失控事件",
+      "content": "Meta、OpenAI和Anthropic等公司的AI模型在测试中失控，引发对AI安全性的担忧。",
+      "keywords": "AI, rogue, cybersecurity, Meta, OpenAI"
+    },
+    {
+      "title": "华盛顿空域安全与空中交通管制",
+      "content": "特朗普的直升机与客机发生近距离接近事件，引发对华盛顿空域安全和空中交通管制程序的关注。",
+      "keywords": "Marine One, FAA, NTSB, air traffic control, near miss"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nEl-Sayed Wins Michigan; FAA Reviewing Incident Involving Trump's Marine One & Passenger Jet. Aired 6-6:30a ET\n\nAired August 06, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nAUDIE CORNISH, CNN ANCHOR: Today in the group chat, President Trump says Abdul El-Sayed's win in Michigan is good news for Republicans. Is he right?\n\nABDUL EL-SAYED (D), MICHIGAN SENATORIAL CANDIDATE: Democrats worrying is not going to solve the problem.\n\nCORNISH: And a passenger plane got a little too close to President Trump's Marine One while he was on board. How close is too close?\n\nAnd another tech giant admits that its A.I. model went rogue. How many times does this have to happen before something is done about it?\n\nSEN. RICHARD BLUMENTHAL (D-CT): Blanche again said the quiet part out loud. In fact, he shouted it.\n\nCORNISH: Attorney general nominee Todd Blanche promises to restrict abortion access, but how would he do that?\n\nAnd the White House slams Tucker Carlson's \"America first\" moment as a whiny turncoat. But could Carlson actually run for president?\n\nTUCKER CARLSON, FORMER FOX NEWS HOST: So probably going to go third party or multiple parties. Is that the best system? I don't know. It's better than the one we have\n\nEL-SAYED: We don't need worry. We need work. So, if you're worried right now, get to work. That's the work that we need to do. And I can tell you on our campaign, we're going to be out there\n\nknocking doors, having those conversations that are what our democracy is about. But worrying and Democrats worrying is not going to solve the problem.\n\nCORNISH: Hey, Abdul El-Sayed ready to put in the work, with just 13 weeks left in the run-up to election day. Can he get his own party to unify around him?\n\nGood morning, everybody. I'm Audie Cornish, and here is where we begin: that win for the Democrats' far-left-wing.\n\nAbdul El-Sayed taking a victory lap Wednesday. Some key Democrats are still unconvinced. And senators and Dems admit that El-Sayed may have a tough road ahead.\n\nSEN. GARY PETERS (D-MI): We have to win Michigan. It's absolutely essential for us to -- to keep that state blue, my state blue, and so that we can take the majority here in the U.S. Senate.\n\nSo, he's going to work hard, and we're going to now unite the party behind him.\n\nI think he just needs to start reaching out to folks, which I'm sure he will, and that has to start immediately.\n\nCORNISH: As for Republicans, President Trump thinks this is good news for his candidate, Mike Rogers.\n\nDONALD TRUMP, U.S. PRESIDENT: Abdul El-Sayed, a lovely gentleman. He's a man of hate. And now he's going around saying, no, I love everybody. I love -- He doesn't love everybody. Put him in office. You're going to find out what he loves.\n\nHe doesn't love Israel. He doesn't love Jewish people. He hates them. He hates them with a passion that burns in his heart. And there's not a freaking thing he can do about it.\n\nHe won. And so, I think I'm happy.\n\nCORNISH: All right. Joining me now in the group chat, some new faces: Stephen Neukam, congressional reporter for \"NOTUS\"; Doug Heye, Republican strategist and former RNC communications director; and Josh Orton, president for Demand Justice.\n\nSo, I want to start with my Demand Justice friend. Are people feeling like this is their moment? Did this feel like a turning point for this network of folks that has been outside of the Democratic Party and finding themselves winning in primaries?\n\nJOSH ORTON, PRESIDENT, DEMAND JUSTICE: I mean, I think this is one of the biggest upsets in modern American political history.\n\nHe was outspent, you know, almost 10 to 1. There was $60 million of outside money.\n\nHe came -- Abdul came with a really strong argument against, you know, this power dynamic that's sort of crushing working people. You know, data centers being built in people's backyards. You know, the rising prices.\n\nAnd I feel like he had a theory of that power and how he was going to fight it. And I think that is resonating.\n\nAnd I think, frankly, people are making a mistake if they see this in too-partisan terms. He's talking about how people are being hurt by the current economy, by the tariffs that Trump has initiated.\n\nAnd I think that is actually resonating with -- with Michigan. And this notion that somehow he's going to be a much harder sell in the general election, I don't think is necessarily true. He's an excellent political athlete. He lights up a room. He's optimistic and --\n\nCORNISH: I like the term \"political athlete.\" Right? Retail politics is real, I get that.\n\nI want to be clear. Haley Stevens did perform well. Like, if you actually look at the state, it's not like he ran away with it. What was it, like, 15,000 votes? Oh, we got a little map. OK. The dark blue is El-Sayed.\n\nSo, I understand population centers, but just to be clear, those are a lot of rural areas, some black-leaning districts where he is going to have some work to do.\n\nAnd here is how the first attack ad is going to look. I want you guys to take a listen.\n\nUNIDENTIFIED MALE: Abdulrahman Mohamed El-Sayed, the most radical Senate candidate in America.\n\nEL-SAYED: I'm pretty damn dangerous.\n\nUNIDENTIFIED MALE: El-Sayed pledged support for the leader of the Muslim Brotherhood, a designated foreign terrorist group. When his ally claimed America deserved 9/11 --\n\nHASAN PIKER, TWITCH STREAMER: America deserved 9/11, dude.\n\nUNIDENTIFIED MALE: -- El-Sayed refused to disavow him.\n\nEL-SAYED: I'm not here to disavow people's views.\n\nCORNISH: It's interesting, that part about disavowing people's views because of the far-left podcaster, Hasan Piker, has been campaigning, you know, shoulder-to-shoulder with this guy.\n\nAnd so, it's a little bit different than saying, oh, there's some people who have supported you in the distance. This is somebody who he is attached to, for better or worse, at this point.\n\nSTEPHEN NEUKAM, CONGRESSIONAL REPORTER, \"NOTUS\": Yes, absolutely. I also think that, look, there's going to be a lot that needs to be done to repair the party in Michigan after this primary. I mean, it was pretty nasty.\n\nI mean, if you go back six years ago, seven years ago, Abdul lost to -- I'm sorry to now-Governor Whitmer by a landslide in that state. And this is a comeback story, seven years later, that has splintered the Democratic Party. Gary Peters, who you saw on the television just now, who used to be the -- the Democrat who ran campaigns for Senate Democrats, came out and endorsed Haley Stevens after saying he would not endorse in that race. The establishment put all their weight behind trying to crush Abdul in Michigan.\n\nAnd, you know, the election shows that it didn't work. And there's going to have to be a lot of -- of repairing of feelings that -- that happens on the back end here.\n\nCORNISH: Here's what Hasan Piker thinks of this idea of the repairing, and the mending, and all the language that you're supposed to use after a primary to bring everybody together. It sounded like this.\n\nPIKER: Everyone being like, Abdul has a (EXPLETIVE DELETED) ton of work to do mending bridges. Here's a (EXPLETIVE DELETED) technique (ph) for you. OK?\n\nYou are all unbelievably Islamophobic pieces of (EXPLETIVE DELETED). OK? You literally called the dude a (EXPLETIVE DELETED) terrorist for months on end and, like, called him a sexist, misogynist terrorist, bad candidate, doesn't -- fake doctor when he has, like, two (EXPLETIVE DELETED) degrees.\n\nAnd now you're going to sit there and be like, well, you know, you've really got to come to me now. Like, what are you talking about? Do you want to (EXPLETIVE DELETED) win or not? Lock the (EXPLETIVE DELETED) in? OK.\n\nCORNISH: Doug, what have Republicans learned from bear-hugging the independent podcast universe? DOUG HEYE, REPUBLICAN STRATEGIST: Look, I think --\n\nCORNISH: It has implications towards the end of the show when we talk about Tucker Carlson and Megyn Kelly.\n\nHEYE: Thanks for that.\n\nCORNISH: I just wanted to let you know, so it's no spoiler.\n\nHEYE: Look, I think those people that you embrace and you campaign with can help define your campaign. They can do it in good ways. They can do it in bad ways.\n\nHEYE: When you come out of a victory -- you know, I watched the interview with -- with El-Sayed last night with Kaitlan Collins. He said and did all the right things.\n\nThe problem is his own people aren't helping him. That is as unhelpful as possible.\n\nBut I will say in sort of Piker's defense.\n\nCORNISH: Yes, please.\n\nHEYE: You know, so often when we talk about race and religion, we hear the term, especially about Republicans, \"dog whistles\" and \"code words.\"\n\n\"AIPAC\" has been a code word. It has been a dog whistle. And that word is \"Jewish.\" It has attack the Jews, and so many candidates and campaigns have run with code words attacking Jews.\n\nWhen -- when -- now I'm blanking on his name. Graham Platner from Maine. When he stepped out of his race, what did he do? He blamed AIPAC.\n\nHEYE: Meaning he blamed the Jews. So --\n\nCORNISH: And Thomas Massie --\n\nHEYE: Piker is being --\n\nCORNISH: -- protecting (ph) of his losses.\n\nHEYE: And Piker is being blatantly obvious here and blatantly honest. And that is going to be a big part of this campaign, especially as there are repairs that have to be done.\n\nI think we tend to oversell how divisive primaries are.\n\nHEYE: Parties always come together. I remember Rachel Maddow telling me she would buy me a beer -- she said this on television -- if Rand Paul and Mitch McConnell had a unity event after their primary.\n\nI texted her producer as soon as that segment was over and said, that event will be on Saturday afternoon. And I look forward. And by the way, Rachel made good on her promise.\n\nBut this kind of rhetoric coming from your supporters, who he was just with two days earlier, really not helpful.\n\nCORNISH: Well, we have many weeks to go. So, obviously, we're going to talk about this a lot.\n\nBut coming up on CNN, in a matter of just hours, Anthony Fauci could be held in contempt, talking about Congress. And is this setting a dangerous precedent?\n\nPlus, a new report showing Trump's immigration crackdown impacts military families and active-duty troops.\n\nAnd then there's this.\n\nUNIDENTIFIED MALE: Hopefully, there's somebody that the committee can find that -- that would be honest.\n\nCORNISH: Chuck Edwards drops out of the race. So, who will Republicans find to replace him?\n\nCORNISH: All right. It is now 13 minutes past the hour. Here are five things making the news this morning.\n\nIran reporting progress in talks with Oman over the Strait of Hormuz, saying that the two sides are close to finalizing a proposed framework.\n\nNow, Iran's foreign minister is saying that they have now agreed on a proposed safe shipping route, and a senior gulf official is saying that there's a 50-50 chance Iran and Oman will reach a deal by Friday.\n\nJ.D. VANCE, U.S. VICE PRESIDENT: We're kind of in the middle of the game, and I think people are trying to -- to prejudge exactly how this is going to go. I can tell you with confidence it's going to go in a place that is good for the United States of America, but we're going to use all the tools that we have -- military, economic, diplomatic -- to make sure we bring this thing to the right resolution.\n\nCORNISH: The thing is, Iran insists that the talks are with Oman. These are bilateral talks. They deny negotiations with the U.S.\n\nAnd the Trump administration has detained more than 50 parents and spouses of active-duty U.S. troops while pursuing their mass deportation agenda. That's according to an Associated Press investigation.\n\nAnd at least six of them have been deported, and eight others remain in federal immigration custody.\n\nAnd Republican leaders in Western North Carolina are going to meet next week to choose a replacement for Congressman Chuck Edwards. This is for the November ballot.\n\nEdwards abandoned his reelection bid this week after an ethics panel found that he repeatedly made unwanted advances towards two female staffers. Here's one North Carolina voter.\n\nUNIDENTIFIED MALE: I can probably count on my right hand how many honest people they are in Washington right now, and I've got one finger missing. Hopefully, there's somebody that the committee can find that that would be honest. That's my big thing. Honesty.\n\nCORNISH: In the meantime, Edwards plans to serve out the remainder of his term.\n\nAnd another day, another A.I. model has now apparently gone rogue. Meta this time announced this week that a model escaped onto the Internet and hacked into another company's system.\n\nThis was during cyber security testing. The disclosure comes just days after similar incidents involving models from OpenAI and also Anthropic.\n\nAnd yes, we have all been there: exhausted at work, especially with these hours. But one Memphis anchor actually fell asleep on the job. And this happened during a live broadcast. Here you go.\n\nSHEILA O'CONNOR, CORRESPONDENT, FOX-13 NEWS: Just running 465 miles in a matter of days to make all of this happen\n\nERNIE FREEMAN, ANCHOR, FOX-13 NEWS: OK. Sleeping beauty over here. It kind of makes you want to take a nap.\n\nDOMINIQUE DILLON, ANCHOR, FOX-13 NEWS: What are you talking about? I wasn't napping. There's something in my eye, obviously.\n\nCORNISH: There but the grace of God go I.\n\nAnd after the break on CNN THIS MORNING, it's a close call for the president. This is an incident involving Marine One. So, was there a communication breakdown? And did that put him in a dangerous situation?\n\nPlus, that case, that young man, Nolan Wells. That story is gaining more attention, because there are new charges tied to that investigation. But they're coming from outside the state.\n\nAnd good morning to our viewers in Chicago.\n\nCORNISH: The FAA and the NTSB are now reviewing an incident involving Trump's Marine One helicopter and a passenger jet that got too close.\n\nOn Tuesday as Marine One took off from the White House with Trump on board, a plane took off from nearby Reagan airport and typically, air traffic is paused when the helicopter is in the air.\n\nBut radio traffic shows that the president's crew and the control tower had trouble communicating before takeoff.\n\nUNIDENTIFIED MALE: Tower, just want to make sure you copy Marine One. Three minutes, 11 tower. Do you copy? Marine One three minutes to the left.\n\nUNIDENTIFIED MALE: Last comment, broken. Unreadable.\n\nCORNISH: In a statement, a spokesman for the Federal Aviation Administration says, quote, \"Based on our preliminary safety review, there was a momentary loss of separation after which the aircraft continued to move away from one another. The president was never in danger.\n\nSo, joining me now to discuss Harvey Scolnick, retired air traffic controller. So, Harvey, the good news is you and I are not talking about a collision, which is usually when I call you, right?\n\nWe're talking about a near -- a near miss, as they say. What do you hear in this situation? Is it a miscommunication? Is it just something dropping out? Like what's the scuttlebutt?\n\nHARVEY SCOLNICK, RETIRED AIR TRAFFIC CONTROLLER: I think -- I think, ultimately, the investigation will be about the miscommunication.\n\nIf I give you a little bit of background, Washington National, the airspace around the airport is called Class B or Class Bravo, which requires every aircraft that operates within that area to get a clearance and then -- and be in contact with air traffic control.\n\nSo, the protocol here is -- and by the way, the separation in that airspace, between a -- an airplane on a VFR flight plan and an airplane on an IFR flight plan, which you have here because I believe the -- the Marine One was VFR -- is one and a half miles longitudinal or horizontal and 500 feet vertical. And pretty much had that here.\n\nAnd you can see in the video, certainly, it didn't seem very close, and it wasn't. So, there was never any danger of a collision here. But that's the protocol as far as the separation is concerned.\n\nAnd obviously, when I listen to the audio, as we -- as all of us just heard a moment ago, there seemed to be some confusion. And that's a -- that -- that's a no-no, because the -- the foundation of air traffic control is situational awareness.\n\nAnd when there is confusion between the pilot and the controller or the controller and the pilot, and they're both not on the same page, that is often -- creates, maybe, an operational error or less than standard separation.\n\nCORNISH: I think ever since that crash over the Potomac, we've all been sort of more cautious and -- and watching more carefully.\n\nBecause there was an attempt to do some legislation, you know, around, in that case, the military. It didn't go anywhere.\n\nSo, is this in your notes? You were saying this is a slightly bigger deal than people may realize, but put it in that context of these other concerns around Washington airspace.\n\nSCOLNICK: Right. So, since the -- since the -- the mid-air of about a year and a half ago, when controllers used visual separation by the pilot or pilots with the helicopter and an aircraft in and around the airport, they no longer can do that. They have to use other forms of separation, either radar. And there's also non-radar separation. They have to use that.\n\nSo, this is -- the protocol here is that when the -- the Marine One calls for an indication that he's going to take off, the tower controller stops any departures. So, the -- the Marine helicopter will be the only thing in the air at that point.\n\nSo, the difference in communication here when the -- when the -- it seems, when listening to it, when the aircraft actually gets airborne, the controller had already cleared a departure for takeoff. So, that protocol got violated somehow.\n\nThat's where the investigation has to occur because the -- he advised the Marine pilot, Marine One pilot, when he found out that he was lifting, that there's a departure that's rotating right now.\n\nAnd the pilot said he had him in sight. Uh, in the audio that I listened to.\n\nSo, there was never a problem. But certainly, situational awareness is a protocol; as I say, is the foundation of air traffic control.\n\nCORNISH: And that's Harvey Scolnick. Harvey, as always, thanks for explaining it to us.\n\nSCOLNICK: Thanks for having me.\n\nCORNISH: And straight ahead on CNN THIS MORNING, Anthony Fauci expected to be held in contempt. Is that going to help get to the bottom of COVID, or is this more of a show?\n\nPlus, the socialist surge moves on to the next state. Dems now have Wisconsin in their sights, but can the, quote, \"cancel Thanksgiving\" candidate deliver?",
+  "segments": [
+    {
+      "seg": 1,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-08-06/segment/01",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nEl-Sayed Wins Michigan; FAA Reviewing Incident Involving Trump's Marine One & Passenger Jet. Aired 6-6:30a ET\n\nAired August 06, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nAUDIE CORNISH, CNN ANCHOR: Today in the group chat, President Trump says Abdul El-Sayed's win in Michigan is good news for Republicans. Is he right?\n\nABDUL EL-SAYED (D), MICHIGAN SENATORIAL CANDIDATE: Democrats worrying is not going to solve the problem.\n\nCORNISH: And a passenger plane got a little too close to President Trump's Marine One while he was on board. How close is too close?\n\nAnd another tech giant admits that its A.I. model went rogue. How many times does this have to happen before something is done about it?\n\nSEN. RICHARD BLUMENTHAL (D-CT): Blanche again said the quiet part out loud. In fact, he shouted it.\n\nCORNISH: Attorney general nominee Todd Blanche promises to restrict abortion access, but how would he do that?\n\nAnd the White House slams Tucker Carlson's \"America first\" moment as a whiny turncoat. But could Carlson actually run for president?\n\nTUCKER CARLSON, FORMER FOX NEWS HOST: So probably going to go third party or multiple parties. Is that the best system? I don't know. It's better than the one we have\n\nEL-SAYED: We don't need worry. We need work. So, if you're worried right now, get to work. That's the work that we need to do. And I can tell you on our campaign, we're going to be out there\n\nknocking doors, having those conversations that are what our democracy is about. But worrying and Democrats worrying is not going to solve the problem.\n\nCORNISH: Hey, Abdul El-Sayed ready to put in the work, with just 13 weeks left in the run-up to election day. Can he get his own party to unify around him?\n\nGood morning, everybody. I'm Audie Cornish, and here is where we begin: that win for the Democrats' far-left-wing.\n\nAbdul El-Sayed taking a victory lap Wednesday. Some key Democrats are still unconvinced. And senators and Dems admit that El-Sayed may have a tough road ahead.\n\nSEN. GARY PETERS (D-MI): We have to win Michigan. It's absolutely essential for us to -- to keep that state blue, my state blue, and so that we can take the majority here in the U.S. Senate.\n\nSo, he's going to work hard, and we're going to now unite the party behind him.\n\nI think he just needs to start reaching out to folks, which I'm sure he will, and that has to start immediately.\n\nCORNISH: As for Republicans, President Trump thinks this is good news for his candidate, Mike Rogers.\n\nDONALD TRUMP, U.S. PRESIDENT: Abdul El-Sayed, a lovely gentleman. He's a man of hate. And now he's going around saying, no, I love everybody. I love -- He doesn't love everybody. Put him in office. You're going to find out what he loves.\n\nHe doesn't love Israel. He doesn't love Jewish people. He hates them. He hates them with a passion that burns in his heart. And there's not a freaking thing he can do about it.\n\nHe won. And so, I think I'm happy.\n\nCORNISH: All right. Joining me now in the group chat, some new faces: Stephen Neukam, congressional reporter for \"NOTUS\"; Doug Heye, Republican strategist and former RNC communications director; and Josh Orton, president for Demand Justice.\n\nSo, I want to start with my Demand Justice friend. Are people feeling like this is their moment? Did this feel like a turning point for this network of folks that has been outside of the Democratic Party and finding themselves winning in primaries?\n\nJOSH ORTON, PRESIDENT, DEMAND JUSTICE: I mean, I think this is one of the biggest upsets in modern American political history.\n\nHe was outspent, you know, almost 10 to 1. There was $60 million of outside money.\n\nHe came -- Abdul came with a really strong argument against, you know, this power dynamic that's sort of crushing working people. You know, data centers being built in people's backyards. You know, the rising prices.\n\nAnd I feel like he had a theory of that power and how he was going to fight it. And I think that is resonating.\n\nAnd I think, frankly, people are making a mistake if they see this in too-partisan terms. He's talking about how people are being hurt by the current economy, by the tariffs that Trump has initiated.\n\nAnd I think that is actually resonating with -- with Michigan. And this notion that somehow he's going to be a much harder sell in the general election, I don't think is necessarily true. He's an excellent political athlete. He lights up a room. He's optimistic and --\n\nCORNISH: I like the term \"political athlete.\" Right? Retail politics is real, I get that.\n\nI want to be clear. Haley Stevens did perform well. Like, if you actually look at the state, it's not like he ran away with it. What was it, like, 15,000 votes? Oh, we got a little map. OK. The dark blue is El-Sayed.\n\nSo, I understand population centers, but just to be clear, those are a lot of rural areas, some black-leaning districts where he is going to have some work to do.\n\nAnd here is how the first attack ad is going to look. I want you guys to take a listen.\n\nUNIDENTIFIED MALE: Abdulrahman Mohamed El-Sayed, the most radical Senate candidate in America.\n\nEL-SAYED: I'm pretty damn dangerous.\n\nUNIDENTIFIED MALE: El-Sayed pledged support for the leader of the Muslim Brotherhood, a designated foreign terrorist group. When his ally claimed America deserved 9/11 --\n\nHASAN PIKER, TWITCH STREAMER: America deserved 9/11, dude.\n\nUNIDENTIFIED MALE: -- El-Sayed refused to disavow him.\n\nEL-SAYED: I'm not here to disavow people's views.\n\nCORNISH: It's interesting, that part about disavowing people's views because of the far-left podcaster, Hasan Piker, has been campaigning, you know, shoulder-to-shoulder with this guy.\n\nAnd so, it's a little bit different than saying, oh, there's some people who have supported you in the distance. This is somebody who he is attached to, for better or worse, at this point.\n\nSTEPHEN NEUKAM, CONGRESSIONAL REPORTER, \"NOTUS\": Yes, absolutely. I also think that, look, there's going to be a lot that needs to be done to repair the party in Michigan after this primary. I mean, it was pretty nasty.\n\nI mean, if you go back six years ago, seven years ago, Abdul lost to -- I'm sorry to now-Governor Whitmer by a landslide in that state. And this is a comeback story, seven years later, that has splintered the Democratic Party. Gary Peters, who you saw on the television just now, who used to be the -- the Democrat who ran campaigns for Senate Democrats, came out and endorsed Haley Stevens after saying he would not endorse in that race. The establishment put all their weight behind trying to crush Abdul in Michigan.\n\nAnd, you know, the election shows that it didn't work. And there's going to have to be a lot of -- of repairing of feelings that -- that happens on the back end here.\n\nCORNISH: Here's what Hasan Piker thinks of this idea of the repairing, and the mending, and all the language that you're supposed to use after a primary to bring everybody together. It sounded like this.\n\nPIKER: Everyone being like, Abdul has a (EXPLETIVE DELETED) ton of work to do mending bridges. Here's a (EXPLETIVE DELETED) technique (ph) for you. OK?\n\nYou are all unbelievably Islamophobic pieces of (EXPLETIVE DELETED). OK? You literally called the dude a (EXPLETIVE DELETED) terrorist for months on end and, like, called him a sexist, misogynist terrorist, bad candidate, doesn't -- fake doctor when he has, like, two (EXPLETIVE DELETED) degrees.\n\nAnd now you're going to sit there and be like, well, you know, you've really got to come to me now. Like, what are you talking about? Do you want to (EXPLETIVE DELETED) win or not? Lock the (EXPLETIVE DELETED) in? OK.\n\nCORNISH: Doug, what have Republicans learned from bear-hugging the independent podcast universe? DOUG HEYE, REPUBLICAN STRATEGIST: Look, I think --\n\nCORNISH: It has implications towards the end of the show when we talk about Tucker Carlson and Megyn Kelly.\n\nHEYE: Thanks for that.\n\nCORNISH: I just wanted to let you know, so it's no spoiler.\n\nHEYE: Look, I think those people that you embrace and you campaign with can help define your campaign. They can do it in good ways. They can do it in bad ways.\n\nHEYE: When you come out of a victory -- you know, I watched the interview with -- with El-Sayed last night with Kaitlan Collins. He said and did all the right things.\n\nThe problem is his own people aren't helping him. That is as unhelpful as possible.\n\nBut I will say in sort of Piker's defense.\n\nCORNISH: Yes, please.\n\nHEYE: You know, so often when we talk about race and religion, we hear the term, especially about Republicans, \"dog whistles\" and \"code words.\"\n\n\"AIPAC\" has been a code word. It has been a dog whistle. And that word is \"Jewish.\" It has attack the Jews, and so many candidates and campaigns have run with code words attacking Jews.\n\nWhen -- when -- now I'm blanking on his name. Graham Platner from Maine. When he stepped out of his race, what did he do? He blamed AIPAC.\n\nHEYE: Meaning he blamed the Jews. So --\n\nCORNISH: And Thomas Massie --\n\nHEYE: Piker is being --\n\nCORNISH: -- protecting (ph) of his losses.\n\nHEYE: And Piker is being blatantly obvious here and blatantly honest. And that is going to be a big part of this campaign, especially as there are repairs that have to be done.\n\nI think we tend to oversell how divisive primaries are.\n\nHEYE: Parties always come together. I remember Rachel Maddow telling me she would buy me a beer -- she said this on television -- if Rand Paul and Mitch McConnell had a unity event after their primary.\n\nI texted her producer as soon as that segment was over and said, that event will be on Saturday afternoon. And I look forward. And by the way, Rachel made good on her promise.\n\nBut this kind of rhetoric coming from your supporters, who he was just with two days earlier, really not helpful.\n\nCORNISH: Well, we have many weeks to go. So, obviously, we're going to talk about this a lot.\n\nBut coming up on CNN, in a matter of just hours, Anthony Fauci could be held in contempt, talking about Congress. And is this setting a dangerous precedent?\n\nPlus, a new report showing Trump's immigration crackdown impacts military families and active-duty troops.\n\nAnd then there's this.\n\nUNIDENTIFIED MALE: Hopefully, there's somebody that the committee can find that -- that would be honest.\n\nCORNISH: Chuck Edwards drops out of the race. So, who will Republicans find to replace him?\n\nCORNISH: All right. It is now 13 minutes past the hour. Here are five things making the news this morning.\n\nIran reporting progress in talks with Oman over the Strait of Hormuz, saying that the two sides are close to finalizing a proposed framework.\n\nNow, Iran's foreign minister is saying that they have now agreed on a proposed safe shipping route, and a senior gulf official is saying that there's a 50-50 chance Iran and Oman will reach a deal by Friday.\n\nJ.D. VANCE, U.S. VICE PRESIDENT: We're kind of in the middle of the game, and I think people are trying to -- to prejudge exactly how this is going to go. I can tell you with confidence it's going to go in a place that is good for the United States of America, but we're going to use all the tools that we have -- military, economic, diplomatic -- to make sure we bring this thing to the right resolution.\n\nCORNISH: The thing is, Iran insists that the talks are with Oman. These are bilateral talks. They deny negotiations with the U.S.\n\nAnd the Trump administration has detained more than 50 parents and spouses of active-duty U.S. troops while pursuing their mass deportation agenda. That's according to an Associated Press investigation.\n\nAnd at least six of them have been deported, and eight others remain in federal immigration custody.\n\nAnd Republican leaders in Western North Carolina are going to meet next week to choose a replacement for Congressman Chuck Edwards. This is for the November ballot.\n\nEdwards abandoned his reelection bid this week after an ethics panel found that he repeatedly made unwanted advances towards two female staffers. Here's one North Carolina voter.\n\nUNIDENTIFIED MALE: I can probably count on my right hand how many honest people they are in Washington right now, and I've got one finger missing. Hopefully, there's somebody that the committee can find that that would be honest. That's my big thing. Honesty.\n\nCORNISH: In the meantime, Edwards plans to serve out the remainder of his term.\n\nAnd another day, another A.I. model has now apparently gone rogue. Meta this time announced this week that a model escaped onto the Internet and hacked into another company's system.\n\nThis was during cyber security testing. The disclosure comes just days after similar incidents involving models from OpenAI and also Anthropic.\n\nAnd yes, we have all been there: exhausted at work, especially with these hours. But one Memphis anchor actually fell asleep on the job. And this happened during a live broadcast. Here you go.\n\nSHEILA O'CONNOR, CORRESPONDENT, FOX-13 NEWS: Just running 465 miles in a matter of days to make all of this happen\n\nERNIE FREEMAN, ANCHOR, FOX-13 NEWS: OK. Sleeping beauty over here. It kind of makes you want to take a nap.\n\nDOMINIQUE DILLON, ANCHOR, FOX-13 NEWS: What are you talking about? I wasn't napping. There's something in my eye, obviously.\n\nCORNISH: There but the grace of God go I.\n\nAnd after the break on CNN THIS MORNING, it's a close call for the president. This is an incident involving Marine One. So, was there a communication breakdown? And did that put him in a dangerous situation?\n\nPlus, that case, that young man, Nolan Wells. That story is gaining more attention, because there are new charges tied to that investigation. But they're coming from outside the state.\n\nAnd good morning to our viewers in Chicago.\n\nCORNISH: The FAA and the NTSB are now reviewing an incident involving Trump's Marine One helicopter and a passenger jet that got too close.\n\nOn Tuesday as Marine One took off from the White House with Trump on board, a plane took off from nearby Reagan airport and typically, air traffic is paused when the helicopter is in the air.\n\nBut radio traffic shows that the president's crew and the control tower had trouble communicating before takeoff.\n\nUNIDENTIFIED MALE: Tower, just want to make sure you copy Marine One. Three minutes, 11 tower. Do you copy? Marine One three minutes to the left.\n\nUNIDENTIFIED MALE: Last comment, broken. Unreadable.\n\nCORNISH: In a statement, a spokesman for the Federal Aviation Administration says, quote, \"Based on our preliminary safety review, there was a momentary loss of separation after which the aircraft continued to move away from one another. The president was never in danger.\n\nSo, joining me now to discuss Harvey Scolnick, retired air traffic controller. So, Harvey, the good news is you and I are not talking about a collision, which is usually when I call you, right?\n\nWe're talking about a near -- a near miss, as they say. What do you hear in this situation? Is it a miscommunication? Is it just something dropping out? Like what's the scuttlebutt?\n\nHARVEY SCOLNICK, RETIRED AIR TRAFFIC CONTROLLER: I think -- I think, ultimately, the investigation will be about the miscommunication.\n\nIf I give you a little bit of background, Washington National, the airspace around the airport is called Class B or Class Bravo, which requires every aircraft that operates within that area to get a clearance and then -- and be in contact with air traffic control.\n\nSo, the protocol here is -- and by the way, the separation in that airspace, between a -- an airplane on a VFR flight plan and an airplane on an IFR flight plan, which you have here because I believe the -- the Marine One was VFR -- is one and a half miles longitudinal or horizontal and 500 feet vertical. And pretty much had that here.\n\nAnd you can see in the video, certainly, it didn't seem very close, and it wasn't. So, there was never any danger of a collision here. But that's the protocol as far as the separation is concerned.\n\nAnd obviously, when I listen to the audio, as we -- as all of us just heard a moment ago, there seemed to be some confusion. And that's a -- that -- that's a no-no, because the -- the foundation of air traffic control is situational awareness.\n\nAnd when there is confusion between the pilot and the controller or the controller and the pilot, and they're both not on the same page, that is often -- creates, maybe, an operational error or less than standard separation.\n\nCORNISH: I think ever since that crash over the Potomac, we've all been sort of more cautious and -- and watching more carefully.\n\nBecause there was an attempt to do some legislation, you know, around, in that case, the military. It didn't go anywhere.\n\nSo, is this in your notes? You were saying this is a slightly bigger deal than people may realize, but put it in that context of these other concerns around Washington airspace.\n\nSCOLNICK: Right. So, since the -- since the -- the mid-air of about a year and a half ago, when controllers used visual separation by the pilot or pilots with the helicopter and an aircraft in and around the airport, they no longer can do that. They have to use other forms of separation, either radar. And there's also non-radar separation. They have to use that.\n\nSo, this is -- the protocol here is that when the -- the Marine One calls for an indication that he's going to take off, the tower controller stops any departures. So, the -- the Marine helicopter will be the only thing in the air at that point.\n\nSo, the difference in communication here when the -- when the -- it seems, when listening to it, when the aircraft actually gets airborne, the controller had already cleared a departure for takeoff. So, that protocol got violated somehow.\n\nThat's where the investigation has to occur because the -- he advised the Marine pilot, Marine One pilot, when he found out that he was lifting, that there's a departure that's rotating right now.\n\nAnd the pilot said he had him in sight. Uh, in the audio that I listened to.\n\nSo, there was never a problem. But certainly, situational awareness is a protocol; as I say, is the foundation of air traffic control.\n\nCORNISH: And that's Harvey Scolnick. Harvey, as always, thanks for explaining it to us.\n\nSCOLNICK: Thanks for having me.\n\nCORNISH: And straight ahead on CNN THIS MORNING, Anthony Fauci expected to be held in contempt. Is that going to help get to the bottom of COVID, or is this more of a show?\n\nPlus, the socialist surge moves on to the next state. Dems now have Wisconsin in their sights, but can the, quote, \"cancel Thanksgiving\" candidate deliver?"
+    }
+  ]
+}
