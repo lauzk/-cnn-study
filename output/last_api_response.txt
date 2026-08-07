@@ -1,1349 +1,1343 @@
 {
-  "date": "2026-08-04",
-  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-08-04/segment/01",
+  "date": "2026-08-07",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-08-07/segment/01",
   "vocabulary": [
     {
-      "word": "head-to-head",
-      "phonetic": "/ˌhed tə ˈhed/",
-      "pos": "adj.",
-      "level": "六级",
-      "cn": "正面交锋的",
-      "en": "involving two people or groups competing directly against each other",
-      "excerpt": "Stevens, El-Sayed Go Head-to-Head in Michigan Primary",
-      "example_cn": "两位候选人在初选中正面交锋。"
+      "word": "birthright citizenship",
+      "phonetic": "/ˈbɜːrθraɪt ˈsɪtɪzənʃɪp/",
+      "pos": "noun phrase",
+      "level": "考研",
+      "cn": "出生公民权",
+      "en": "the right of anyone born in a country to citizenship",
+      "excerpt": "Trump Tries New Executive Order to Limit Birthright Citizenship",
+      "example_cn": "出生公民权是美国宪法第十四修正案所规定的。"
     },
     {
-      "word": "primary",
-      "phonetic": "/ˈpraɪmeri/",
-      "pos": "n.",
-      "level": "六级",
-      "cn": "初选",
-      "en": "an election in which voters choose the candidates from each party who will compete in the main election",
-      "excerpt": "Stevens, El-Sayed Go Head-to-Head in Michigan Primary",
-      "example_cn": "初选是政党选择候选人的选举。"
+      "word": "executive order",
+      "phonetic": "/ɪɡˈzekjətɪv ˈɔːrdər/",
+      "pos": "noun phrase",
+      "level": "考研",
+      "cn": "行政命令",
+      "en": "a rule or order issued by the president to an executive branch of government",
+      "excerpt": "Trump Tries New Executive Order to Limit Birthright Citizenship",
+      "example_cn": "总统签署了一项行政命令来限制移民。"
     },
     {
-      "word": "embattled",
-      "phonetic": "/ɪmˈbætld/",
-      "pos": "adj.",
+      "word": "alien enemies",
+      "phonetic": "/ˈeɪliən ˈenəmiz/",
+      "pos": "noun phrase",
+      "level": "专四",
+      "cn": "敌国侨民",
+      "en": "foreign nationals of a country that is at war with the host country",
+      "excerpt": "this time targeting, quote, \"alien enemies.\"",
+      "example_cn": "在战争期间，敌国侨民可能被拘留。"
+    },
+    {
+      "word": "hold up",
+      "phonetic": "/hoʊld ʌp/",
+      "pos": "phrasal verb",
+      "level": "考研",
+      "cn": "维持；经得起检验",
+      "en": "to remain valid or withstand scrutiny",
+      "excerpt": "So, will this one hold up legally?",
+      "example_cn": "这个论点在法庭上经不起检验。"
+    },
+    {
+      "word": "birth tourism",
+      "phonetic": "/bɜːrθ ˈtʊərɪzəm/",
+      "pos": "noun",
+      "level": "六级",
+      "cn": "生育旅游",
+      "en": "travel to another country to give birth so the child obtains citizenship",
+      "excerpt": "the order also bans so-called \"birth tourism,\"",
+      "example_cn": "生育旅游在一些国家被视为滥用公民身份制度。"
+    },
+    {
+      "word": "ineligible",
+      "phonetic": "/ɪnˈelɪdʒəbl/",
+      "pos": "adjective",
+      "level": "考研",
+      "cn": "不合格的；无资格的",
+      "en": "not having the right to do or receive something",
+      "excerpt": "making children born to folks in those groups ineligible for U.S. citizenship.",
+      "example_cn": "由于年龄限制，他无资格参加选举。"
+    },
+    {
+      "word": "egregious",
+      "phonetic": "/ɪˈɡriːdʒəs/",
+      "pos": "adjective",
       "level": "专八",
-      "cn": "处于困境的；四面楚歌的",
-      "en": "involved in a difficult situation, especially one in which you are criticized or attacked",
-      "excerpt": "An embattled congressman refusing to step aside.",
-      "example_cn": "这位四面楚歌的国会议员拒绝下台。"
+      "cn": "极坏的；恶名昭彰的",
+      "en": "outstandingly bad; shocking",
+      "excerpt": "it ends what has been one of the greatest and most egregious abuses of the American system.",
+      "example_cn": "这种严重的不当行为必须受到惩罚。"
     },
     {
-      "word": "step aside",
-      "phonetic": "/step əˈsaɪd/",
-      "pos": "phr.",
-      "level": "六级",
-      "cn": "让位；辞职",
-      "en": "to leave a job or position so that someone else can do it",
-      "excerpt": "An embattled congressman refusing to step aside.",
-      "example_cn": "他拒绝辞职。"
+      "word": "sacred",
+      "phonetic": "/ˈseɪkrɪd/",
+      "pos": "adjective",
+      "level": "考研",
+      "cn": "神圣的",
+      "en": "regarded with great respect and reverence",
+      "excerpt": "it keeps American citizenship sacred.",
+      "example_cn": "公民身份被视为神圣的权利。"
     },
     {
-      "word": "weigh in",
-      "phonetic": "/weɪ ɪn/",
-      "pos": "phr.",
+      "word": "murky",
+      "phonetic": "/ˈmɜːrki/",
+      "pos": "adjective",
       "level": "六级",
-      "cn": "发表意见；参与讨论",
-      "en": "to add your opinion or advice to a discussion",
-      "excerpt": "Now the president weighs in, telling him, quote, \"Things aren't looking good.\"",
-      "example_cn": "总统发表意见，告诉他情况不妙。"
+      "cn": "模糊的；含糊的",
+      "en": "not clear; obscure",
+      "excerpt": "he's on murky legal ground.",
+      "example_cn": "这个法律问题仍然模糊不清。"
     },
     {
-      "word": "scapegoat",
-      "phonetic": "/ˈskeɪpɡoʊt/",
-      "pos": "n.",
-      "level": "六级",
-      "cn": "替罪羊",
-      "en": "a person who is blamed for something that someone else has done",
-      "excerpt": "Could Jeanine Pirro be his scapegoat.",
-      "example_cn": "珍妮·皮罗会成为他的替罪羊吗？"
+      "word": "run afoul of",
+      "phonetic": "/rʌn əˈfaʊl əv/",
+      "pos": "phrase",
+      "level": "专八",
+      "cn": "违反；与…冲突",
+      "en": "to break a law or rule; to come into conflict with",
+      "excerpt": "that still might run afoul of the Constitution.",
+      "example_cn": "该政策可能违反宪法。"
     },
     {
-      "word": "arson",
-      "phonetic": "/ˈɑːrsn/",
-      "pos": "n.",
-      "level": "六级",
-      "cn": "纵火罪",
-      "en": "the crime of deliberately setting fire to property",
-      "excerpt": "And a suspect charged with arson as the wildfires in Washington state rage on this morning.",
-      "example_cn": "一名嫌疑人被控纵火，华盛顿州的野火仍在肆虐。"
+      "word": "barred",
+      "phonetic": "/bɑːrd/",
+      "pos": "adjective",
+      "level": "考研",
+      "cn": "被禁止的",
+      "en": "forbidden; prohibited",
+      "excerpt": "it's already barred by the law.",
+      "example_cn": "该行为已被法律禁止。"
     },
     {
-      "word": "rage on",
-      "phonetic": "/reɪdʒ ɒn/",
-      "pos": "phr.",
-      "level": "六级",
-      "cn": "继续猛烈进行",
-      "en": "to continue with great force or intensity",
-      "excerpt": "the wildfires in Washington state rage on this morning",
-      "example_cn": "野火今晨仍在猛烈燃烧。"
+      "word": "political statement",
+      "phonetic": "/pəˈlɪtɪkl ˈsteɪtmənt/",
+      "pos": "noun phrase",
+      "level": "考研",
+      "cn": "政治声明",
+      "en": "an action or remark intended to express a political opinion",
+      "excerpt": "These are both political statements far more than legal ones.",
+      "example_cn": "这次抗议是一种政治声明。"
     },
     {
-      "word": "anguish",
-      "phonetic": "/ˈæŋɡwɪʃ/",
-      "pos": "n.",
+      "word": "affordability",
+      "phonetic": "/əˌfɔːrdəˈbɪləti/",
+      "pos": "noun",
       "level": "六级",
-      "cn": "极度痛苦",
-      "en": "severe pain, mental suffering, or unhappiness",
-      "excerpt": "The anguish from residents as they see what was spared from the flames.",
-      "example_cn": "居民们看到火焰中幸免于难的东西时感到极度痛苦。"
+      "cn": "可负担性",
+      "en": "the state of being affordable; ability to pay",
+      "excerpt": "The president was asked about, for example, affordability.",
+      "example_cn": "住房的可负担性是一个主要问题。"
+    },
+    {
+      "word": "midterms",
+      "phonetic": "/ˈmɪdtɜːrmz/",
+      "pos": "noun",
+      "level": "考研",
+      "cn": "中期选举",
+      "en": "elections held in the middle of a president's term",
+      "excerpt": "What is your message on affordability going into the midterms?",
+      "example_cn": "中期选举将决定国会的控制权。"
     },
     {
       "word": "referendum",
       "phonetic": "/ˌrefəˈrendəm/",
-      "pos": "n.",
+      "pos": "noun",
       "level": "六级",
-      "cn": "全民公投",
-      "en": "a vote in which all the people in a country or area are asked to give their opinion about a policy or law",
-      "excerpt": "It is election day in Michigan and a referendum for the Democratic Party.",
-      "example_cn": "今天是密歇根州的选举日，也是对民主党的公投。"
+      "cn": "公民投票",
+      "en": "a general vote by the electorate on a single political question",
+      "excerpt": "Can you turn the midterms into a referendum on Biden instead of Trump?",
+      "example_cn": "这次选举被视为对政府政策的公投。"
     },
     {
-      "word": "progressive",
-      "phonetic": "/prəˈɡresɪv/",
-      "pos": "adj.",
+      "word": "amp up",
+      "phonetic": "/æmp ʌp/",
+      "pos": "phrasal verb",
       "level": "六级",
-      "cn": "进步的；先进的",
-      "en": "supporting new ideas and social change",
-      "excerpt": "Will voters back the progressive choice or the candidate backed by the establishment?",
-      "example_cn": "选民会支持进步派的选择还是建制派支持的候选人？"
+      "cn": "增强；加剧",
+      "en": "to increase or intensify",
+      "excerpt": "really does amp up a certain percentage of the base.",
+      "example_cn": "这种言论加剧了支持者的热情。"
     },
     {
-      "word": "establishment",
-      "phonetic": "/ɪˈstæblɪʃmənt/",
-      "pos": "n.",
-      "level": "六级",
-      "cn": "建制派；当权派",
-      "en": "the people in a society or organization who have power and influence and do not want change",
-      "excerpt": "Will voters back the progressive choice or the candidate backed by the establishment?",
-      "example_cn": "选民会支持进步派还是建制派支持的候选人？"
+      "word": "distract from",
+      "phonetic": "/dɪˈstrækt frəm/",
+      "pos": "phrase",
+      "level": "考研",
+      "cn": "转移注意力",
+      "en": "to take attention away from something",
+      "excerpt": "using a bright shiny thing to distract from affordability.",
+      "example_cn": "政府试图用其他问题转移对经济问题的注意力。"
     },
     {
-      "word": "messy",
-      "phonetic": "/ˈmesi/",
-      "pos": "adj.",
-      "level": "六级",
-      "cn": "混乱的；棘手的",
-      "en": "complicated and difficult to deal with",
-      "excerpt": "After a long and messy campaign today, Democratic voters will decide between congresswoman Haley Stevens or Abdul El-Sayed.",
-      "example_cn": "经过漫长而混乱的竞选，民主党选民将在国会议员海利·史蒂文斯和阿卜杜勒·埃尔-赛义德之间做出选择。"
+      "word": "prosecute",
+      "phonetic": "/ˈprɑːsɪkjuːt/",
+      "pos": "verb",
+      "level": "考研",
+      "cn": "起诉；检控",
+      "en": "to institute legal proceedings against someone",
+      "excerpt": "Americans often get prosecuted for that.",
+      "example_cn": "他因欺诈被起诉。"
     },
     {
-      "word": "Medicare for all",
-      "phonetic": "/ˈmedɪker fɔːr ɔːl/",
-      "pos": "phr.",
-      "level": "六级",
-      "cn": "全民医保",
-      "en": "a proposal for a single-payer healthcare system in the US",
-      "excerpt": "El-Sayed wants Medicare for all.",
-      "example_cn": "埃尔-赛义德希望实现全民医保。"
+      "word": "strip",
+      "phonetic": "/strɪp/",
+      "pos": "verb",
+      "level": "考研",
+      "cn": "剥夺",
+      "en": "to remove something, especially rights or possessions",
+      "excerpt": "wherein citizenship is stripped of people who come from foreign countries",
+      "example_cn": "他被剥夺了公民身份。"
     },
     {
-      "word": "abolish",
-      "phonetic": "/əˈbɑːlɪʃ/",
-      "pos": "v.",
-      "level": "六级",
-      "cn": "废除",
-      "en": "to officially end a law, system, or institution",
-      "excerpt": "El-Sayed wants to abolish ICE.",
-      "example_cn": "埃尔-赛义德希望废除ICE。"
+      "word": "enforcement",
+      "phonetic": "/ɪnˈfɔːrsmənt/",
+      "pos": "noun",
+      "level": "考研",
+      "cn": "执行；实施",
+      "en": "the act of enforcing a law or rule",
+      "excerpt": "I actually didn't get to enforcement.",
+      "example_cn": "法律的执行至关重要。"
     },
     {
-      "word": "pro-Israel",
-      "phonetic": "/ˌproʊ ˈɪzreɪl/",
-      "pos": "adj.",
+      "word": "oomph",
+      "phonetic": "/ʊmf/",
+      "pos": "noun",
       "level": "六级",
-      "cn": "亲以色列的",
-      "en": "supporting Israel",
-      "excerpt": "Stevens has been a pro-Israel vote in the House.",
-      "example_cn": "史蒂文斯在众议院一直投亲以色列的票。"
+      "cn": "活力；力量",
+      "en": "energy, vigor, or power",
+      "excerpt": "adding a little extra oomph to existing penalties?",
+      "example_cn": "这个广告需要一些活力。"
     },
     {
-      "word": "division",
-      "phonetic": "/dɪˈvɪʒn/",
-      "pos": "n.",
+      "word": "clap back",
+      "phonetic": "/klæp bæk/",
+      "pos": "phrasal verb",
       "level": "六级",
-      "cn": "分歧",
-      "en": "disagreement or difference in opinion",
-      "excerpt": "It's that last issue that's causing the most division.",
-      "example_cn": "正是最后一个问题引起了最大的分歧。"
+      "cn": "回击；反驳",
+      "en": "to respond sharply or critically to criticism",
+      "excerpt": "And clapping back at the Supreme Court.",
+      "example_cn": "她在社交媒体上回击了批评者。"
     },
     {
-      "word": "pour in",
-      "phonetic": "/pɔːr ɪn/",
-      "pos": "phr.",
-      "level": "六级",
-      "cn": "大量涌入",
-      "en": "to arrive in large numbers or amounts",
-      "excerpt": "More than 60 million in cash, pouring in from outside groups to help Stevens.",
-      "example_cn": "超过6000万美元的现金从外部团体涌入以帮助史蒂文斯。"
+      "word": "endorsement",
+      "phonetic": "/ɪnˈdɔːrsmənt/",
+      "pos": "noun",
+      "level": "考研",
+      "cn": "支持；背书",
+      "en": "public support or approval",
+      "excerpt": "We're going to ask about the power of a Trump endorsement this week.",
+      "example_cn": "总统的支持对候选人很重要。"
     },
     {
-      "word": "super PAC",
-      "phonetic": "/ˈsuːpər pæk/",
-      "pos": "n.",
+      "word": "ration",
+      "phonetic": "/ˈræʃn/",
+      "pos": "verb",
       "level": "六级",
-      "cn": "超级政治行动委员会",
-      "en": "a political action committee that can raise unlimited funds for independent political spending",
-      "excerpt": "The biggest spender by far: a pro-Israeli super PAC.",
-      "example_cn": "迄今为止最大的支出者：一个亲以色列的超级政治行动委员会。"
+      "cn": "定量配给",
+      "en": "to allow each person to have a fixed amount of something",
+      "excerpt": "more than 180,000 Puerto Ricans forced to ration water",
+      "example_cn": "在干旱期间，水被定量配给。"
     },
     {
-      "word": "meddle",
-      "phonetic": "/ˈmedl/",
-      "pos": "v.",
+      "word": "relentless",
+      "phonetic": "/rɪˈlentləs/",
+      "pos": "adjective",
       "level": "六级",
-      "cn": "干涉；干预",
-      "en": "to become involved in something that is not your business",
-      "excerpt": "Republicans are already spending thousands and thousands of dollars meddling in this primary",
-      "example_cn": "共和党人已经花费数千美元干预这次初选。"
+      "cn": "不间断的；残酷的",
+      "en": "continuing in a severe or extreme way",
+      "excerpt": "amid a relentless drought.",
+      "example_cn": "无情的热浪持续不断。"
     },
     {
-      "word": "preferred",
-      "phonetic": "/prɪˈfɜːrd/",
-      "pos": "adj.",
-      "level": "六级",
-      "cn": "优先的；偏爱的",
-      "en": "liked or wanted more than something else",
-      "excerpt": "trying to maybe get their preferred candidate",
-      "example_cn": "试图得到他们偏爱的候选人。"
+      "word": "liable",
+      "phonetic": "/ˈlaɪəbl/",
+      "pos": "adjective",
+      "level": "考研",
+      "cn": "负有法律责任的",
+      "en": "legally responsible for something",
+      "excerpt": "where a jury already found the company liable back in March",
+      "example_cn": "该公司被判对损害负有责任。"
     },
     {
-      "word": "inspiration",
-      "phonetic": "/ˌɪnspəˈreɪʃn/",
-      "pos": "n.",
+      "word": "hefty",
+      "phonetic": "/ˈhefti/",
+      "pos": "adjective",
       "level": "六级",
-      "cn": "灵感；鼓舞",
-      "en": "a feeling of enthusiasm and new ideas",
-      "excerpt": "You can't buy inspiration.",
-      "example_cn": "你买不到灵感。"
+      "cn": "大额的；重的",
+      "en": "large in amount or size",
+      "excerpt": "ordering them to pay another hefty fine.",
+      "example_cn": "他收到了一张巨额罚单。"
     },
     {
-      "word": "hurdle",
-      "phonetic": "/ˈhɜːrdl/",
-      "pos": "n.",
-      "level": "六级",
-      "cn": "障碍；难关",
-      "en": "a problem or difficulty that must be overcome",
-      "excerpt": "the big hurdle that we thought Democrats would have",
-      "example_cn": "我们认为民主党会遇到的巨大障碍。"
+      "word": "appeal",
+      "phonetic": "/əˈpiːl/",
+      "pos": "verb",
+      "level": "考研",
+      "cn": "上诉",
+      "en": "to apply to a higher court for a reversal of a decision",
+      "excerpt": "Meta denies the claims and plans to appeal.",
+      "example_cn": "该公司计划对判决提出上诉。"
     },
     {
-      "word": "liability",
-      "phonetic": "/ˌlaɪəˈbɪləti/",
-      "pos": "n.",
-      "level": "六级",
-      "cn": "不利因素；累赘",
-      "en": "a person or thing that causes problems or is likely to cause problems",
-      "excerpt": "he's going to be a liability in the general election",
-      "example_cn": "他将在普选中成为一个累赘。"
-    },
-    {
-      "word": "swing state",
-      "phonetic": "/swɪŋ steɪt/",
-      "pos": "n.",
-      "level": "六级",
-      "cn": "摇摆州",
-      "en": "a state where the vote is likely to be close and could go to either party",
-      "excerpt": "if they're not winning these swing states and these blue states",
-      "example_cn": "如果他们不能赢得这些摇摆州和蓝州。"
-    },
-    {
-      "word": "proxy battle",
-      "phonetic": "/ˈprɑːksi ˈbætl/",
-      "pos": "n.",
+      "word": "vilify",
+      "phonetic": "/ˈvɪlɪfaɪ/",
+      "pos": "verb",
       "level": "专八",
-      "cn": "代理权之争；代理人战争",
-      "en": "a fight or competition in which one group represents another",
-      "excerpt": "Why has this become the proxy battle for the back and forth?",
-      "example_cn": "为什么这成了来回拉锯的代理人战争？"
+      "cn": "诽谤；中伤",
+      "en": "to speak or write about someone in an abusively disparaging manner",
+      "excerpt": "I don't mean to vilify tech in the way that tobacco",
+      "example_cn": "媒体试图诋毁这位政治家。"
     },
     {
-      "word": "perennial",
-      "phonetic": "/pəˈreniəl/",
-      "pos": "adj.",
+      "word": "litigation",
+      "phonetic": "/ˌlɪtɪˈɡeɪʃn/",
+      "pos": "noun",
+      "level": "专四",
+      "cn": "诉讼",
+      "en": "the process of taking legal action",
+      "excerpt": "the litigation strategy, the public relations strategy",
+      "example_cn": "公司面临多起诉讼。"
+    },
+    {
+      "word": "algorithm",
+      "phonetic": "/ˈælɡərɪðəm/",
+      "pos": "noun",
+      "level": "六级",
+      "cn": "算法",
+      "en": "a process or set of rules to be followed in calculations or problem-solving operations",
+      "excerpt": "in the time of streaming algorithms and TikTok",
+      "example_cn": "社交媒体算法决定了用户看到的内容。"
+    },
+    {
+      "word": "ubiquity",
+      "phonetic": "/juːˈbɪkwəti/",
+      "pos": "noun",
       "level": "专八",
-      "cn": "长期的；反复出现的",
-      "en": "lasting for a long time or happening again and again",
-      "excerpt": "I feel like that's my perennial report.",
-      "example_cn": "我觉得那是我长期以来的报告。"
+      "cn": "无处不在",
+      "en": "the state of being everywhere at once",
+      "excerpt": "the ubiquity of those songs and of an artist like Whitney Houston",
+      "example_cn": "智能手机的普及改变了生活。"
     },
     {
-      "word": "marquee",
-      "phonetic": "/mɑːrˈkiː/",
-      "pos": "adj.",
+      "word": "niche",
+      "phonetic": "/niːʃ/",
+      "pos": "adjective",
+      "level": "六级",
+      "cn": "小众的",
+      "en": "denoting products, services, or interests that appeal to a small, specialized section of the population",
+      "excerpt": "somebody who is very, very niche can find their audience",
+      "example_cn": "这个小众品牌拥有忠实的追随者。"
+    },
+    {
+      "word": "prevail",
+      "phonetic": "/prɪˈveɪl/",
+      "pos": "verb",
+      "level": "考研",
+      "cn": "获胜；占上风",
+      "en": "to prove more powerful than opposing forces; to be victorious",
+      "excerpt": "there are some other songs that could still prevail",
+      "example_cn": "正义最终会获胜。"
+    },
+    {
+      "word": "obligatory",
+      "phonetic": "/əˈblɪɡətɔːri/",
+      "pos": "adjective",
+      "level": "六级",
+      "cn": "必须的；义务的",
+      "en": "required by a legal, moral, or other rule; compulsory",
+      "excerpt": "The obligatory Taylor Swift entry.",
+      "example_cn": "会议以例行的介绍开始。"
+    },
+    {
+      "word": "dominant",
+      "phonetic": "/ˈdɒmɪnənt/",
+      "pos": "adjective",
+      "level": "考研",
+      "cn": "占主导地位的",
+      "en": "having power and influence over others",
+      "excerpt": "country is kind of dominant.",
+      "example_cn": "该公司在市场上占主导地位。"
+    },
+    {
+      "word": "catcalls",
+      "phonetic": "/ˈkætkɔːlz/",
+      "pos": "noun",
       "level": "专八",
-      "cn": "重要的；主要的",
-      "en": "important and well-known",
-      "excerpt": "the big, big, like marquee name donors are sitting out",
-      "example_cn": "那些大名鼎鼎的捐赠者都袖手旁观。"
+      "cn": "（表示不满的）嘘声；口哨声",
+      "en": "a loud whistle or a comment of a sexual nature made by a man to a passing woman",
+      "excerpt": "they are the catcalls of a nation baring its collective skin.",
+      "example_cn": "人群发出嘘声表示不满。"
     },
     {
-      "word": "sit out",
-      "phonetic": "/sɪt aʊt/",
-      "pos": "phr.",
+      "word": "sleeper",
+      "phonetic": "/ˈsliːpər/",
+      "pos": "noun",
       "level": "六级",
-      "cn": "不参与；袖手旁观",
-      "en": "to not take part in something",
-      "excerpt": "the big, big, like marquee name donors are sitting out",
-      "example_cn": "那些大牌捐赠者都不参与。"
+      "cn": "黑马；冷门",
+      "en": "a person or thing that is unexpectedly successful or popular",
+      "excerpt": "Sleeper was \"Dai Dai\" by Shakira and Burna Boy",
+      "example_cn": "这部电影是票房黑马。"
     },
     {
-      "word": "downstream",
-      "phonetic": "/ˌdaʊnˈstriːm/",
-      "pos": "adv.",
-      "level": "专八",
-      "cn": "在后续阶段；在下方",
-      "en": "happening as a result of something that happened earlier",
-      "excerpt": "I think a lot of our problems in our politics right now are downstream from the fact that...",
-      "example_cn": "我认为我们政治中的许多问题都是由于……这一事实而导致的。"
-    },
-    {
-      "word": "orbit",
-      "phonetic": "/ˈɔːrbɪt/",
-      "pos": "n.",
-      "level": "六级",
-      "cn": "势力范围；轨道",
-      "en": "the area of influence or activity of a person or organization",
-      "excerpt": "a lot of ideological diversity that's allowed to work around his orbit",
-      "example_cn": "许多意识形态多样性被允许在他的势力范围内运作。"
-    },
-    {
-      "word": "kiss the ring",
-      "phonetic": "/kɪs ðə rɪŋ/",
-      "pos": "phr.",
-      "level": "专八",
-      "cn": "表示效忠；拍马屁",
-      "en": "to show loyalty or submission to someone in power",
-      "excerpt": "so long as you kiss that ring",
-      "example_cn": "只要你表示效忠。"
-    },
-    {
-      "word": "flank",
-      "phonetic": "/flæŋk/",
-      "pos": "n.",
-      "level": "六级",
-      "cn": "侧翼；派系",
-      "en": "a particular part of a group or organization",
-      "excerpt": "the more radical flank",
-      "example_cn": "更激进的派系。"
-    },
-    {
-      "word": "canary",
-      "phonetic": "/kəˈneri/",
-      "pos": "n.",
-      "level": "专八",
-      "cn": "金丝雀；预警信号",
-      "en": "a sign that warns of danger",
-      "excerpt": "Michigan has been a canary.",
-      "example_cn": "密歇根州一直是一个预警信号。"
-    },
-    {
-      "word": "endorse",
-      "phonetic": "/ɪnˈdɔːrs/",
-      "pos": "v.",
-      "level": "六级",
-      "cn": "支持； endorsement",
-      "en": "to publicly support someone or something",
-      "excerpt": "And I think that's why you see the UAW endorsed him.",
-      "example_cn": "我认为这就是为什么UAW支持他。"
-    },
-    {
-      "word": "downturn",
-      "phonetic": "/ˈdaʊntɜːrn/",
-      "pos": "n.",
-      "level": "六级",
-      "cn": "衰退；下降",
-      "en": "a reduction in economic activity or a decline in something",
-      "excerpt": "You've seen a downturn in manufacturing.",
-      "example_cn": "你看到了制造业的衰退。"
-    },
-    {
-      "word": "percolate",
-      "phonetic": "/ˈpɜːrkəleɪt/",
-      "pos": "v.",
-      "level": "专八",
-      "cn": "逐渐传播；酝酿",
-      "en": "to spread gradually through a group or society",
-      "excerpt": "this has been percolating for a while",
-      "example_cn": "这已经酝酿了一段时间。"
-    },
-    {
-      "word": "virulently",
-      "phonetic": "/ˈvɪrələntli/",
-      "pos": "adv.",
-      "level": "专八",
-      "cn": "恶毒地；激烈地",
-      "en": "in a very strong and bitter way",
-      "excerpt": "he's running a virulently anti-Israel campaign",
-      "example_cn": "他正在进行一场恶毒的反以色列竞选。"
-    },
-    {
-      "word": "underscore",
-      "phonetic": "/ˌʌndərˈskɔːr/",
-      "pos": "v.",
-      "level": "六级",
-      "cn": "强调",
-      "en": "to emphasize or stress something",
-      "excerpt": "Let me underscore, I did not say he was running a virulently anti-Israel campaign.",
-      "example_cn": "我要强调，我没有说他正在进行恶毒的反以色列竞选。"
-    },
-    {
-      "word": "fruition",
-      "phonetic": "/fruˈɪʃn/",
-      "pos": "n.",
-      "level": "专八",
-      "cn": "实现；完成",
-      "en": "the successful result of a plan or idea",
-      "excerpt": "we are seeing the fruits of a long-running movement that may or may not be coming to fruition",
-      "example_cn": "我们正在看到一个长期运动的成果，这个运动可能实现也可能不会实现。"
-    },
-    {
-      "word": "censure",
-      "phonetic": "/ˈsenʃər/",
-      "pos": "v.",
-      "level": "六级",
-      "cn": "谴责；斥责",
-      "en": "to officially criticize someone for doing something wrong",
-      "excerpt": "The ethics panel that wants to censure Republican Chuck Edwards.",
-      "example_cn": "道德小组想要谴责共和党人查克·爱德华兹。"
-    },
-    {
-      "word": "guardrails",
-      "phonetic": "/ˈɡɑːrdreɪlz/",
-      "pos": "n.",
-      "level": "六级",
-      "cn": "护栏；保护措施",
-      "en": "rules or limits that are intended to prevent something bad from happening",
-      "excerpt": "Will we finally get the guardrails that have been promised?",
-      "example_cn": "我们最终会得到承诺的保护措施吗？"
-    },
-    {
-      "word": "cyclosporiasis",
-      "phonetic": "/ˌsaɪkləspəˈraɪəsɪs/",
-      "pos": "n.",
-      "level": "专八",
-      "cn": "环孢子虫病",
-      "en": "an intestinal illness caused by the parasite Cyclospora",
-      "excerpt": "That multi-state cyclosporiasis outbreak has turned deadly.",
-      "example_cn": "多州环孢子虫病爆发已变得致命。"
-    },
-    {
-      "word": "dehydration",
-      "phonetic": "/ˌdiːhaɪˈdreɪʃn/",
-      "pos": "n.",
-      "level": "六级",
-      "cn": "脱水",
-      "en": "the condition of losing too much water from the body",
-      "excerpt": "can lead to severe dehydration",
-      "example_cn": "可能导致严重脱水。"
-    },
-    {
-      "word": "subpoena",
-      "phonetic": "/səˈpiːnə/",
-      "pos": "n.",
-      "level": "专八",
-      "cn": "传票",
-      "en": "a legal order to appear in court or produce evidence",
-      "excerpt": "his use of subpoenas to obtain lawmakers' text messages",
-      "example_cn": "他使用传票获取立法者的短信。"
-    },
-    {
-      "word": "framework",
-      "phonetic": "/ˈfreɪmwɜːrk/",
-      "pos": "n.",
-      "level": "六级",
-      "cn": "框架；体系",
-      "en": "a set of rules or ideas that are used to make decisions",
-      "excerpt": "a new framework for government oversight",
-      "example_cn": "一个政府监督的新框架。"
-    },
-    {
-      "word": "voluntarily",
-      "phonetic": "/ˌvɑːlənˈterəli/",
-      "pos": "adv.",
-      "level": "六级",
-      "cn": "自愿地",
-      "en": "in a willing way, without being forced",
-      "excerpt": "voluntarily allow the government to review new models before they release them",
-      "example_cn": "自愿允许政府在发布新模型之前进行审查。"
-    },
-    {
-      "word": "rogue",
-      "phonetic": "/roʊɡ/",
-      "pos": "adj.",
-      "level": "六级",
-      "cn": "失控的；行为异常的",
-      "en": "behaving in a way that is not expected or controlled",
-      "excerpt": "an A.I. agent going rogue and hacking into competitor companies",
-      "example_cn": "一个失控的人工智能代理入侵竞争对手公司。"
-    },
-    {
-      "word": "near miss",
-      "phonetic": "/ˌnɪr ˈmɪs/",
-      "pos": "n.",
-      "level": "六级",
-      "cn": "侥幸避免的事故",
-      "en": "a situation where an accident almost happens",
-      "excerpt": "the FAA is investigating a near miss in Florida",
-      "example_cn": "美国联邦航空管理局正在调查佛罗里达州的一起险情。"
-    },
-    {
-      "word": "dash cam",
-      "phonetic": "/ˈdæʃ kæm/",
-      "pos": "n.",
-      "level": "六级",
-      "cn": "行车记录仪",
-      "en": "a camera mounted on the dashboard of a car that records the road ahead",
-      "excerpt": "this is dash cam video from a truck",
-      "example_cn": "这是卡车上的行车记录仪视频。"
-    },
-    {
-      "word": "scrutiny",
-      "phonetic": "/ˈskruːtəni/",
-      "pos": "n.",
-      "level": "六级",
-      "cn": "仔细审查",
-      "en": "careful and thorough examination",
-      "excerpt": "The singer has been under intense scrutiny for her appearance",
-      "example_cn": "这位歌手的外表受到密切关注。"
-    },
-    {
-      "word": "botched",
-      "phonetic": "/bɑːtʃt/",
-      "pos": "adj.",
-      "level": "六级",
-      "cn": "搞砸的；拙劣的",
-      "en": "done badly or clumsily",
-      "excerpt": "the Justice Department admits it was a botched renovation that caused the issues with the Reflecting Pool",
-      "example_cn": "司法部承认是拙劣的翻新导致了倒影池的问题。"
-    },
-    {
-      "word": "vandalism",
-      "phonetic": "/ˈvændəlɪzəm/",
-      "pos": "n.",
-      "level": "六级",
-      "cn": "故意破坏公共财产",
-      "en": "the crime of deliberately damaging property",
-      "excerpt": "not vandalism",
-      "example_cn": "不是故意破坏。"
-    },
-    {
-      "word": "choke",
-      "phonetic": "/tʃoʊk/",
-      "pos": "v.",
-      "level": "六级",
-      "cn": "（因紧张而）失败；窒息",
-      "en": "to fail to do something well because you are nervous or under pressure",
-      "excerpt": "Frankly, I think she choked.",
-      "example_cn": "坦白说，我认为她搞砸了。"
-    },
-    {
-      "word": "fold like an umbrella",
-      "phonetic": "/foʊld laɪk ən ʌmˈbrelə/",
-      "pos": "phr.",
-      "level": "专八",
-      "cn": "屈服；崩溃",
-      "en": "to give up or surrender easily",
-      "excerpt": "She folded like an umbrella.",
-      "example_cn": "她像雨伞一样屈服了。"
-    },
-    {
-      "word": "lash out",
-      "phonetic": "/læʃ aʊt/",
-      "pos": "phr.",
-      "level": "六级",
-      "cn": "猛烈抨击",
-      "en": "to suddenly attack someone or something with words or actions",
-      "excerpt": "he did, obviously, lash out at her",
-      "example_cn": "他显然猛烈抨击了她。"
-    },
-    {
-      "word": "algae bloom",
-      "phonetic": "/ˈældʒiː bluːm/",
-      "pos": "n.",
-      "level": "专八",
-      "cn": "藻华",
-      "en": "a rapid increase in the population of algae in water",
-      "excerpt": "After weeks of algae blooms and chipping bottoms",
-      "example_cn": "经过数周的藻华和底部剥落。"
-    },
-    {
-      "word": "chip",
-      "phonetic": "/tʃɪp/",
-      "pos": "v.",
-      "level": "六级",
-      "cn": "剥落；碎裂",
-      "en": "to break small pieces off something",
-      "excerpt": "chipping bottoms",
-      "example_cn": "底部剥落。"
-    },
-    {
-      "word": "hew to",
-      "phonetic": "/hjuː tuː/",
-      "pos": "phr.",
-      "level": "专八",
-      "cn": "坚持；遵守",
-      "en": "to follow or obey something closely",
-      "excerpt": "He wants them to hew to his theory of the case.",
-      "example_cn": "他希望他们坚持他对案件的看法。"
-    },
-    {
-      "word": "standards of evidence",
-      "phonetic": "/ˈstændərdz əv ˈevɪdəns/",
-      "pos": "phr.",
-      "level": "六级",
-      "cn": "证据标准",
-      "en": "the level of proof required in a legal case",
-      "excerpt": "Because there are standards of evidence.",
-      "example_cn": "因为有证据标准。"
-    },
-    {
-      "word": "weaponization",
-      "phonetic": "/ˌwepənəˈzeɪʃn/",
-      "pos": "n.",
-      "level": "专八",
-      "cn": "武器化",
-      "en": "the act of using something as a weapon",
-      "excerpt": "Or is the weaponization the point?",
-      "example_cn": "还是说武器化才是重点？"
-    },
-    {
-      "word": "nuisance",
-      "phonetic": "/ˈnuːsns/",
-      "pos": "n.",
-      "level": "六级",
-      "cn": "讨厌的人或事",
-      "en": "a person or thing that causes annoyance or difficulty",
-      "excerpt": "to kind of get rid of them or be a nuisance",
-      "example_cn": "为了摆脱他们或成为麻烦。"
-    },
-    {
-      "word": "hem and haw",
-      "phonetic": "/hem ənd hɔː/",
-      "pos": "phr.",
-      "level": "专八",
-      "cn": "支支吾吾",
-      "en": "to be indecisive or avoid giving a clear answer",
-      "excerpt": "There was a lot of hemming and hawing about the fact that Donald Trump would not abide by the decisions of the Supreme Court",
-      "example_cn": "关于唐纳德·特朗普不会遵守最高法院裁决的事实，人们支支吾吾。"
-    },
-    {
-      "word": "abide by",
-      "phonetic": "/əˈbaɪd baɪ/",
-      "pos": "phr.",
-      "level": "六级",
-      "cn": "遵守",
-      "en": "to accept and obey a rule or decision",
-      "excerpt": "would not abide by the decisions of the Supreme Court",
-      "example_cn": "不会遵守最高法院的裁决。"
-    },
-    {
-      "word": "confines",
-      "phonetic": "/ˈkɑːnfaɪnz/",
-      "pos": "n.",
-      "level": "六级",
-      "cn": "范围；界限",
-      "en": "the limits or boundaries of something",
-      "excerpt": "operating within the confines of the law",
-      "example_cn": "在法律范围内运作。"
-    },
-    {
-      "word": "take the L",
-      "phonetic": "/teɪk ðə el/",
-      "pos": "phr.",
-      "level": "六级",
-      "cn": "认输；接受失败",
-      "en": "to accept a loss or defeat",
-      "excerpt": "So, they take the \"L,\" you're saying?",
-      "example_cn": "所以，你是说他们认输了？"
-    },
-    {
-      "word": "flop",
-      "phonetic": "/flɑːp/",
-      "pos": "v.",
-      "level": "六级",
-      "cn": "失败",
-      "en": "to fail completely",
-      "excerpt": "And seen a lot of those cases flop, as well.",
-      "example_cn": "也看到很多这样的案件失败。"
-    },
-    {
-      "word": "wash one's hands of",
-      "phonetic": "/wɑːʃ wʌnz hændz əv/",
-      "pos": "phr.",
-      "level": "专八",
-      "cn": "洗手不干；不再负责",
-      "en": "to refuse to be responsible for something anymore",
-      "excerpt": "wanted to just get it out there and wash their hands of it",
-      "example_cn": "想把它说出来然后不再负责。"
-    },
-    {
-      "word": "withhold",
-      "phonetic": "/wɪðˈhoʊld/",
-      "pos": "v.",
-      "level": "六级",
-      "cn": "隐瞒；扣留",
-      "en": "to refuse to give something",
-      "excerpt": "that department withheld evidence from us",
-      "example_cn": "那个部门向我们隐瞒了证据。"
-    },
-    {
-      "word": "wrongfully",
-      "phonetic": "/ˈrɔːŋfəli/",
-      "pos": "adv.",
-      "level": "六级",
-      "cn": "不公正地；错误地",
-      "en": "in a way that is unfair or illegal",
-      "excerpt": "could have put somebody in prison wrongfully",
-      "example_cn": "可能错误地将某人送进监狱。"
-    },
-    {
-      "word": "no-bid contract",
-      "phonetic": "/noʊ bɪd ˈkɑːntrækt/",
-      "pos": "n.",
-      "level": "专八",
-      "cn": "无竞标合同",
-      "en": "a contract given without competitive bidding",
-      "excerpt": "The no-bid contract stuff",
-      "example_cn": "无竞标合同的事。"
-    },
-    {
-      "word": "stack up",
-      "phonetic": "/stæk ʌp/",
-      "pos": "phr.",
-      "level": "六级",
-      "cn": "累积；加起来",
-      "en": "to accumulate or add up",
-      "excerpt": "it's just another thing that stacks up",
-      "example_cn": "这只是又一件累积起来的事情。"
+      "word": "consciousness",
+      "phonetic": "/ˈkɑːnʃəsnəs/",
+      "pos": "noun",
+      "level": "考研",
+      "cn": "意识；知觉",
+      "en": "the state of being aware of and responsive to one's surroundings",
+      "excerpt": "it just sort of is in the consciousness now.",
+      "example_cn": "这首歌已经深入人心。"
     }
   ],
   "sentences": [
     {
-      "en": "An embattled congressman refusing to step aside.",
-      "cn": "一位四面楚歌的国会议员拒绝让位。",
-      "structure": "名词短语，现在分词短语作后置定语",
-      "analysis": "这是一个名词短语，中心词是congressman，现在分词短语refusing to step aside作后置定语修饰congressman。"
+      "en": "Now, just a few weeks ago, the Supreme Court ruled that Trump's effort to ban birthright citizenship by executive order was illegal.",
+      "cn": "就在几周前，最高法院裁定特朗普通过行政命令禁止出生公民权的努力是非法的。",
+      "structure": "主句 + 宾语从句（that引导）",
+      "analysis": "主句为\"the Supreme Court ruled\"，后接that引导的宾语从句，说明裁定的内容。\"just a few weeks ago\"为时间状语。"
     },
     {
-      "en": "Now the president weighs in, telling him, quote, \"Things aren't looking good.\"",
-      "cn": "现在总统发表意见，告诉他，引用原话，“情况看起来不妙。”",
-      "structure": "主句+现在分词短语作伴随状语",
-      "analysis": "主句为the president weighs in，现在分词短语telling him...作伴随状语，其中quote表示引用。"
-    },
-    {
-      "en": "Could this put a red state at risk come November?",
-      "cn": "这会让一个红州在十一月面临风险吗？",
-      "structure": "疑问句，come November为时间状语",
-      "analysis": "come November是固定用法，意为“当十一月来临时”，相当于when November comes。"
-    },
-    {
-      "en": "And Trump, furious over the Justice Department's decision to drop the Reflecting Pool case, could Jeanine Pirro be his scapegoat.",
-      "cn": "特朗普对司法部放弃倒影池案件的决定感到愤怒，珍妮·皮罗会成为他的替罪羊吗？",
-      "structure": "并列句，第一分句为名词短语+形容词短语作后置定语，第二分句为疑问句",
-      "analysis": "第一分句是名词短语，中心词是Trump，形容词短语furious over...作后置定语；第二分句是疑问句。"
-    },
-    {
-      "en": "And a suspect charged with arson as the wildfires in Washington state rage on this morning.",
-      "cn": "今天早上，华盛顿州的野火仍在肆虐，一名嫌疑人被控纵火。",
-      "structure": "名词短语+as引导的时间状语从句",
-      "analysis": "这是一个名词短语，中心词是suspect，过去分词短语charged with arson作后置定语；as引导时间状语从句。"
-    },
-    {
-      "en": "The anguish from residents as they see what was spared from the flames.",
-      "cn": "居民们看到火焰中幸免于难的东西时感到极度痛苦。",
-      "structure": "名词短语+as引导的时间状语从句",
-      "analysis": "名词短语中心词是anguish，as引导时间状语从句，其中what was spared from the flames是宾语从句。"
-    },
-    {
-      "en": "It is election day in Michigan and a referendum for the Democratic Party.",
-      "cn": "今天是密歇根州的选举日，也是对民主党的公投。",
-      "structure": "并列句",
-      "analysis": "由and连接两个并列分句，第二个分句省略了主语it。"
-    },
-    {
-      "en": "Will voters back the progressive choice or the candidate backed by the establishment?",
-      "cn": "选民会支持进步派的选择还是建制派支持的候选人？",
-      "structure": "选择疑问句",
-      "analysis": "选择疑问句，用or连接两个选项，过去分词短语backed by the establishment作后置定语修饰candidate。"
-    },
-    {
-      "en": "After a long and messy campaign today, Democratic voters will decide between congresswoman Haley Stevens or Abdul El-Sayed.",
-      "cn": "经过今天漫长而混乱的竞选，民主党选民将在国会议员海利·史蒂文斯和阿卜杜勒·埃尔-赛义德之间做出选择。",
-      "structure": "介词短语作时间状语+主句",
-      "analysis": "After a long and messy campaign today是时间状语，主句为Democratic voters will decide between...。"
-    },
-    {
-      "en": "It's that last issue that's causing the most division.",
-      "cn": "正是最后一个问题引起了最大的分歧。",
-      "structure": "强调句型",
-      "analysis": "It is...that...强调句型，强调主语that last issue。"
-    },
-    {
-      "en": "More than 60 million in cash, pouring in from outside groups to help Stevens.",
-      "cn": "超过6000万美元的现金从外部团体涌入以帮助史蒂文斯。",
-      "structure": "名词短语+现在分词短语作后置定语",
-      "analysis": "中心词是cash，现在分词短语pouring in...作后置定语。"
-    },
-    {
-      "en": "There is a reason why Republicans are already spending thousands and thousands of dollars meddling in this primary, trying to maybe get their preferred candidate.",
-      "cn": "共和党人已经花费数千美元干预这次初选，试图得到他们偏爱的候选人，这是有原因的。",
-      "structure": "There be句型+why引导的定语从句",
-      "analysis": "There is a reason是主句，why引导定语从句修饰reason，从句中spending...meddling...trying...是并列的现在分词短语作状语。"
-    },
-    {
-      "en": "This movement of ours has proven that it can come through $80 million of spending in lies, because we're willing to hold with us the truth.",
-      "cn": "我们的运动已经证明，它能经受住8000万美元的谎言支出，因为我们愿意坚持真理。",
-      "structure": "主句+that宾语从句+because原因状语从句",
-      "analysis": "主句为This movement of ours has proven，that引导宾语从句，because引导原因状语从句。"
-    },
-    {
-      "en": "You can't buy inspiration. You can't buy people deciding to be a part of something. You can't buy hope. You can't buy belief.",
-      "cn": "你买不到灵感。你买不到人们决定成为某事物一部分。你买不到希望。你买不到信念。",
-      "structure": "并列句",
-      "analysis": "四个并列的简单句，结构相同。"
-    },
-    {
-      "en": "Well, what we've seen in the last several weeks here is the big hurdle that we thought Democrats would have, which would be competing in a lot of these red states.",
-      "cn": "嗯，我们在过去几周看到的是我们认为民主党会遇到的巨大障碍，那就是在许多红州竞争。",
-      "structure": "主系表结构+定语从句",
-      "analysis": "主语是what we've seen...，系动词is，表语是the big hurdle，that引导定语从句修饰hurdle，which引导非限制性定语从句补充说明。"
-    },
-    {
-      "en": "They've got the polling to back up that they can win in states like Iowa, like Texas, like Ohio.",
-      "cn": "他们有民调支持他们能在爱荷华州、得克萨斯州、俄亥俄州等州获胜。",
-      "structure": "主句+不定式作目的状语+that宾语从句",
-      "analysis": "主句为They've got the polling，不定式to back up作目的状语，that引导宾语从句。"
-    },
-    {
-      "en": "But at the same time, we've seen these races like Michigan, where we're starting to see some doubts creep in.",
-      "cn": "但与此同时，我们看到了像密歇根这样的竞选，我们开始看到一些疑虑悄然出现。",
-      "structure": "主句+where引导的非限制性定语从句",
-      "analysis": "主句为we've seen these races，where引导非限制性定语从句修饰Michigan。"
-    },
-    {
-      "en": "The Democratic establishment is very concerned, if Abdullah El-Sayed emerges from this primary, that he's going to be a liability in the general election.",
-      "cn": "民主党建制派非常担心，如果阿卜杜拉·埃尔-赛义德从初选中胜出，他将在普选中成为一个累赘。",
-      "structure": "主句+if条件状语从句+that宾语从句",
-      "analysis": "主句为The Democratic establishment is very concerned，if引导条件状语从句，that引导宾语从句，与concerned搭配。"
-    },
-    {
-      "en": "And if they're not winning these swing states and these blue states, the map is just very tough for them as far as winning a Democratic Senate majority.",
-      "cn": "如果他们不能赢得这些摇摆州和蓝州，那么对于赢得民主党参议院多数席位来说，形势对他们非常艰难。",
-      "structure": "if条件状语从句+主句",
-      "analysis": "if引导条件状语从句，主句为the map is just very tough for them，as far as...是介词短语作状语。"
-    },
-    {
-      "en": "I love it. The music's giving Michigan Detroit vibes the whole way across the board.",
-      "cn": "我喜欢。音乐整体上给人一种密歇根底特律的感觉。",
+      "en": "On Thursday, he signed another executive order.",
+      "cn": "周四，他签署了另一项行政命令。",
       "structure": "简单句",
-      "analysis": "第一句是简单句，第二句是主谓宾结构，the whole way across the board是状语。"
+      "analysis": "时间状语\"On Thursday\"置于句首，主语\"he\"，谓语\"signed\"，宾语\"another executive order\"。"
     },
     {
-      "en": "Every time you and I are on set, we talk about like, oh, the Democratic socialists here, the moderates here.",
-      "cn": "每次你我在演播室，我们都会谈论，哦，这里的民主社会主义者，这里的温和派。",
-      "structure": "Every time引导时间状语从句+主句",
-      "analysis": "Every time引导时间状语从句，主句为we talk about...。"
+      "en": "The White House says this one will impact several groups, specifically, including alien enemies, members of foreign terror organizations, and people who work for foreign governments by making children born to folks in those groups ineligible for U.S. citizenship.",
+      "cn": "白宫表示，这项命令将影响多个群体，具体包括敌国侨民、外国恐怖组织成员以及为外国政府工作的人，通过使这些群体所生子女失去美国公民资格。",
+      "structure": "主句 + 宾语从句（省略that）",
+      "analysis": "主句为\"The White House says\"，后接宾语从句。从句中\"specifically\"为插入语，\"including\"引导列举，\"by making...\"为方式状语。"
     },
     {
-      "en": "Well, I think Aaron said it right, is that there's no way for us to win this majority in the Senate unless we can win these Democratic strongholds.",
-      "cn": "嗯，我认为亚伦说得对，除非我们能赢得这些民主党据点，否则我们不可能赢得参议院多数席位。",
-      "structure": "主句+宾语从句+表语从句+unless条件状语从句",
-      "analysis": "I think是主句，Aaron said it right是宾语从句，is that...是表语从句，unless引导条件状语从句。"
+      "en": "Now, because this is politically sound or smart, I think many people would agree.",
+      "cn": "现在，因为这在政治上是合理的或明智的，我想很多人会同意。",
+      "structure": "原因状语从句 + 主句",
+      "analysis": "\"because\"引导原因状语从句，主句为\"I think\"，后接省略that的宾语从句\"many people would agree\"。"
     },
     {
-      "en": "And to your point, what makes Michigan different is that it's supposed to be one that's not this hard to win in November, and it's looking like it could be hard, because the polling just stacks up the way.",
-      "cn": "关于你的观点，密歇根州的不同之处在于，它本应是一个在十一月不难赢的州，但现在看起来可能很难，因为民调就是这样累积的。",
-      "structure": "主系表结构+表语从句+并列句+because原因状语从句",
-      "analysis": "主语是what makes Michigan different，系动词is，表语从句为that it's supposed to be...，and连接并列句，because引导原因状语从句。"
-    },
-    {
-      "en": "There's one thing, Audie, that cuts across all of these that I want to talk about this morning, which is this change electorate.",
-      "cn": "奥黛，有一件事贯穿所有这些，我今天早上想谈谈，那就是这个变化的选民群体。",
-      "structure": "There be句型+that定语从句+which非限制性定语从句",
-      "analysis": "There's one thing是主句，that cuts across all of these是定语从句修饰thing，which is this change electorate是非限制性定语从句。"
-    },
-    {
-      "en": "And this is where this Democrat gives Donald Trump credit.",
-      "cn": "这就是这位民主党人称赞唐纳德·特朗普的地方。",
-      "structure": "主系表结构+where表语从句",
-      "analysis": "主语是this，系动词is，where引导表语从句。"
-    },
-    {
-      "en": "Michigan has been so desperate for change, they'd vote for Donald Trump twice.",
-      "cn": "密歇根州如此渴望改变，他们会两次投票给唐纳德·特朗普。",
-      "structure": "so...that...结构，that省略",
-      "analysis": "so desperate for change...they'd vote...相当于so...that...，that被省略。"
-    },
-    {
-      "en": "Folks there are sick and tired of being sick and tired, and they're looking for something different.",
-      "cn": "那里的人们厌倦了厌倦，他们在寻找不同的东西。",
-      "structure": "并列句",
-      "analysis": "由and连接两个并列分句。"
-    },
-    {
-      "en": "Sure, he's got a great message and he's got things that may be bad, as well, but a lot more plus than minus.",
-      "cn": "当然，他有很好的信息，他也有可能是坏的东西，但优点多于缺点。",
-      "structure": "并列句+that定语从句",
-      "analysis": "Sure引导让步，he's got a great message and he's got things是并列句，that may be bad是定语从句修饰things，but转折。"
-    },
-    {
-      "en": "But it's just a change electorate overall.",
-      "cn": "但总的来说，这只是一个变化的选民群体。",
+      "en": "We don't want the children of Hamas leadership or of al Qaeda being citizens of the United States.",
+      "cn": "我们不希望哈马斯领导层或基地组织成员的子女成为美国公民。",
       "structure": "简单句",
-      "analysis": "主系表结构。"
+      "analysis": "主语\"We\"，谓语\"don't want\"，宾语\"the children\"，后接\"being citizens\"为宾语补足语。"
     },
     {
-      "en": "It's also interesting to see what's going on with donors.",
-      "cn": "看到捐赠者的情况也很有趣。",
-      "structure": "It is+形容词+不定式+宾语从句",
-      "analysis": "It是形式主语，不定式to see是真正主语，what's going on with donors是宾语从句。"
+      "en": "Now we need to separate out the birthright one from the birth tourism one, which says something totally different and is on stronger legal ground.",
+      "cn": "现在我们需要将出生公民权与生育旅游区分开来，后者说的是完全不同的事情，并且具有更强的法律依据。",
+      "structure": "主句 + 非限制性定语从句",
+      "analysis": "主句为\"we need to separate out...\"，\"which\"引导非限制性定语从句，修饰\"the birth tourism one\"。"
     },
     {
-      "en": "\"The Wall Street Journal\" was reporting that the big, big, like marquee name donors are sitting out; that they've nicknamed the DNC \"Do not contribute.\"",
-      "cn": "《华尔街日报》报道说，那些大名鼎鼎的捐赠者都袖手旁观；他们给民主党全国委员会起了个绰号“不要捐款”。",
-      "structure": "主句+两个that宾语从句",
-      "analysis": "主句为The Wall Street Journal was reporting，两个that引导并列的宾语从句。"
+      "en": "Even it doesn't do anything, right?",
+      "cn": "即使它不起任何作用，对吧？",
+      "structure": "让步状语从句 + 主句",
+      "analysis": "\"Even\"引导让步状语从句，主句为\"it doesn't do anything\"，\"right\"为附加疑问。"
     },
     {
-      "en": "And then, when I look at the cash on hand for Republicans, like, it's super PACs.",
-      "cn": "然后，当我看到共和党人手头的现金时，比如，是超级政治行动委员会。",
-      "structure": "when时间状语从句+主句",
-      "analysis": "when引导时间状语从句，主句为it's super PACs。"
+      "en": "These are both political statements far more than legal ones.",
+      "cn": "这两者都是政治声明，而非法律声明。",
+      "structure": "简单句",
+      "analysis": "主语\"These\"，系动词\"are\"，表语\"political statements\"，\"far more than\"为比较结构。"
     },
     {
-      "en": "But are we really feeling it in this election?",
-      "cn": "但我们在这次选举中真的感受到这一点了吗？",
+      "en": "And that first one is absolutely going to be challenged in the courts.",
+      "cn": "而第一个绝对会在法庭上受到挑战。",
+      "structure": "简单句",
+      "analysis": "主语\"that first one\"，谓语\"is going to be challenged\"为将来时被动语态，\"in the courts\"为地点状语。"
+    },
+    {
+      "en": "The problem is, when we actually call people for polls and we ask, does Trump have the right priorities right now, the big number, 73 percent, say no.",
+      "cn": "问题是，当我们真正打电话给人们进行民意调查并询问特朗普现在的优先事项是否正确时，73%的多数人说不对。",
+      "structure": "主系表结构 + 时间状语从句",
+      "analysis": "主句为\"The problem is\"，后接表语从句。表语从句中\"when\"引导时间状语从句，\"does Trump have...\"为间接疑问句。"
+    },
+    {
+      "en": "Republicans who once thought, yes, pretty much, 70 percent of them.",
+      "cn": "曾经认为是的共和党人，差不多70%。",
+      "structure": "定语从句",
+      "analysis": "\"who\"引导定语从句修饰\"Republicans\"，\"yes\"为插入语，\"pretty much\"为程度副词。"
+    },
+    {
+      "en": "At what point should this shift actually be a concern for the Stephen Millers of the world?",
+      "cn": "这种转变在什么时候应该真正引起世界上像斯蒂芬·米勒这样的人的担忧？",
+      "structure": "特殊疑问句",
+      "analysis": "\"At what point\"为疑问词短语，\"should\"为情态动词，主语\"this shift\"，谓语\"be a concern\"。"
+    },
+    {
+      "en": "And I mean, to this birthright tourism and citizenship.",
+      "cn": "我的意思是，关于这个出生旅游和公民身份。",
+      "structure": "简单句",
+      "analysis": "\"I mean\"为插入语，\"to\"为介词，引出话题。"
+    },
+    {
+      "en": "I will say the president does like to keep the Supreme Court making their money and making sure Elliot has good things to talk about.",
+      "cn": "我要说的是，总统确实喜欢让最高法院赚钱，并确保埃利奥特有好话题可谈。",
+      "structure": "主句 + 宾语从句",
+      "analysis": "主句为\"I will say\"，后接宾语从句。从句中\"does\"为强调助动词，\"keep...making\"为复合宾语结构。"
+    },
+    {
+      "en": "And so, look, ultimately, this is going to have to be decided by Congress.",
+      "cn": "所以，看，最终这将必须由国会决定。",
+      "structure": "简单句",
+      "analysis": "\"look\"为插入语，\"ultimately\"为副词，主语\"this\"，谓语\"is going to have to be decided\"为被动语态。"
+    },
+    {
+      "en": "And then the president, if you want to change the laws, it's going to have to come from Congress.",
+      "cn": "然后总统，如果你想改变法律，就必须来自国会。",
+      "structure": "条件状语从句 + 主句",
+      "analysis": "\"if\"引导条件状语从句，主句为\"it's going to have to come from Congress\"。"
+    },
+    {
+      "en": "There is a process.",
+      "cn": "有一个过程。",
+      "structure": "存在句",
+      "analysis": "\"There\"为引导词，\"is\"为谓语，\"a process\"为主语。"
+    },
+    {
+      "en": "And look, the good news is you are starting to see some affordability come down.",
+      "cn": "看，好消息是你开始看到一些可负担性下降。",
+      "structure": "主系表结构 + 表语从句",
+      "analysis": "主句为\"the good news is\"，后接表语从句。从句中\"you are starting to see\"为进行时，\"come down\"为宾语补足语。"
+    },
+    {
+      "en": "His argument is that, hey, I inherited bad numbers, and therefore it's bad.",
+      "cn": "他的论点是，嘿，我继承了糟糕的数字，因此情况很糟。",
+      "structure": "主系表结构 + 表语从句",
+      "analysis": "主句为\"His argument is\"，后接that引导的表语从句。从句中\"hey\"为感叹词，\"and therefore\"为因果关系。"
+    },
+    {
+      "en": "Can you turn the midterms into a referendum on Biden instead of Trump?",
+      "cn": "你能把中期选举变成对拜登而非特朗普的公投吗？",
       "structure": "一般疑问句",
-      "analysis": "一般疑问句，现在进行时。"
+      "analysis": "情态动词\"Can\"置于句首，主语\"you\"，谓语\"turn\"，宾语\"the midterms\"，\"into\"为介词短语。"
     },
     {
-      "en": "Yes. Well, I mean, donors are giving through different vehicles.",
-      "cn": "是的。嗯，我的意思是，捐赠者通过不同的渠道捐款。",
+      "en": "I mean, one would hope not.",
+      "cn": "我的意思是，人们希望不会。",
       "structure": "简单句",
-      "analysis": "主谓宾结构。"
+      "analysis": "\"I mean\"为插入语，\"one\"为不定代词，\"would hope\"为谓语，\"not\"为省略。"
     },
     {
-      "en": "A lot of donors have been giving historically to some of these big ideological groups that have driven, you know, I think the Democratic Party further to the left -- right? -- as more of these groups are sort of organizing around the same causes.",
-      "cn": "历史上，许多捐赠者一直向一些大的意识形态团体捐款，这些团体推动民主党进一步左倾——对吧？——随着这些团体围绕相同的事业组织起来。",
-      "structure": "主句+that定语从句+as原因状语从句",
-      "analysis": "主句为A lot of donors have been giving...，that引导定语从句修饰groups，as引导原因状语从句。"
+      "en": "The administration returns to the well, when it when it thinks it has hit on an issue that people really care about.",
+      "cn": "当政府认为它找到了人们真正关心的问题时，它会回到老路子上。",
+      "structure": "时间状语从句 + 主句",
+      "analysis": "\"when\"引导时间状语从句，主句为\"The administration returns to the well\"。从句中\"it thinks\"后接宾语从句，\"that\"引导定语从句修饰\"issue\"。"
     },
     {
-      "en": "But you mean sort of like the way they'd be, like, Club for Growth, do you say this?",
-      "cn": "但你的意思是有点像他们以前的方式，比如“增长俱乐部”，你是这个意思吗？",
-      "structure": "疑问句+插入语",
-      "analysis": "这是一个疑问句，中间有插入语like。"
+      "en": "However, the inability to address affordability in any real way, as we just saw, it's going to be a problem.",
+      "cn": "然而，正如我们刚刚看到的，无法以任何实际方式解决可负担性问题将成为一个问题。",
+      "structure": "插入语 + 主句",
+      "analysis": "\"as we just saw\"为插入语，主句为\"the inability...it's going to be a problem\"，其中\"it\"为形式主语，真正主语为\"the inability\"。"
     },
     {
-      "en": "And now the money is going to something not quite the same.",
-      "cn": "现在钱流向不太一样的东西。",
-      "structure": "简单句",
-      "analysis": "主谓宾结构，not quite the same作后置定语。"
-    },
-    {
-      "en": "Actually, I do think they are saying increasingly the same thing.",
-      "cn": "实际上，我确实认为他们越来越说同样的话。",
-      "structure": "主句+宾语从句",
-      "analysis": "I do think是主句，do表示强调，they are saying...是宾语从句。"
-    },
-    {
-      "en": "I'm seeing a lot of ads from clients, a lot of communications on social media from Climate Defiance that are about issues in the Middle East.",
-      "cn": "我看到很多来自客户的广告，很多来自“气候反抗”组织的社交媒体信息，都是关于中东问题的。",
-      "structure": "主句+that定语从句",
-      "analysis": "主句为I'm seeing a lot of ads...，that引导定语从句修饰communications。"
-    },
-    {
-      "en": "Ditto a lot of the big abortion groups have all kind of consolidated on one sort of omni cause message.",
-      "cn": "同样，许多大型堕胎团体都整合成了一种全能事业的信息。",
+      "en": "Even something like banning people who -- from citizenship, who work for foreign governments.",
+      "cn": "即使是像禁止为外国政府工作的人获得公民身份这样的措施。",
       "structure": "省略句",
-      "analysis": "Ditto意为“同样”，后面是完整的句子。"
+      "analysis": "这是一个不完整的句子，\"Even something like banning people\"为主语，\"who\"引导定语从句修饰\"people\"。"
     },
     {
-      "en": "I think a lot of our problems in our politics right now are downstream from the fact that on the right, you've sort of got one guy who's in charge, who's a boss, and a lot of ideological diversity that's allowed to work around his orbit, so long as you kiss that ring and then over on the left, no one who's necessarily in charge.",
-      "cn": "我认为我们政治中的许多问题都是由于这样一个事实：在右翼，你有一个负责的人，一个老板，并且允许许多意识形态多样性在他的轨道上运作，只要你表示效忠；而在左翼，没有人真正负责。",
-      "structure": "主句+宾语从句+同位语从句+并列结构",
-      "analysis": "I think是主句，a lot of our problems...are downstream from the fact是宾语从句，that引导同位语从句解释fact，从句中on the right...and over on the left是并列结构。"
-    },
-    {
-      "en": "But everyone's swimming in the same direction ideologically.",
-      "cn": "但每个人在意识形态上都朝着同一个方向游。",
+      "en": "A lot of Americans do that.",
+      "cn": "很多美国人也这样做。",
       "structure": "简单句",
-      "analysis": "主谓宾结构，ideologically是副词作状语。"
+      "analysis": "主语\"A lot of Americans\"，谓语\"do\"，宾语\"that\"。"
     },
     {
-      "en": "The mainstream Democrats, like the Haley Stevens of the party, haven't really been able to run effective campaigns against the more radical flank, because they're not willing to say what they're for that the DSA left is against.",
-      "cn": "主流民主党人，比如党内的海利·史蒂文斯，还没有真正能够针对更激进的派系开展有效的竞选活动，因为他们不愿意说出他们支持什么，而民主社会主义者左翼反对什么。",
-      "structure": "主句+because原因状语从句+what宾语从句",
-      "analysis": "主句为The mainstream Democrats...haven't really been able to...，because引导原因状语从句，what they're for是宾语从句。"
+      "en": "So, how do you cut a line wherein citizenship is stripped of people who come from foreign countries, but Americans engage in the same kind?",
+      "cn": "那么，你如何划清界限，即剥夺来自外国的人的公民身份，而美国人却从事同样的行为？",
+      "structure": "特殊疑问句 + 定语从句",
+      "analysis": "\"how\"为疑问副词，\"wherein\"为关系副词引导定语从句，修饰\"line\"。从句中\"who\"引导定语从句修饰\"people\"。"
     },
     {
-      "en": "That's been a real challenge for Haley Stevens.",
-      "cn": "这对海利·史蒂文斯来说是一个真正的挑战。",
+      "en": "I actually didn't get to enforcement.",
+      "cn": "我实际上没有谈到执行问题。",
       "structure": "简单句",
-      "analysis": "主系表结构。"
+      "analysis": "主语\"I\"，谓语\"didn't get to\"，宾语\"enforcement\"。"
     },
     {
-      "en": "Look, Rashida Tlaib, the congresswoman from Michigan, is hitting Haley Stevens, because she's got support from General Motors and General Mills.",
-      "cn": "看，来自密歇根州的国会女议员拉希达·特莱布正在抨击海利·史蒂文斯，因为她得到了通用汽车和通用磨坊的支持。",
-      "structure": "主句+同位语+because原因状语从句",
-      "analysis": "主句为Rashida Tlaib is hitting Haley Stevens，the congresswoman from Michigan是同位语，because引导原因状语从句。"
+      "en": "Does this mean ICE is going to be at the airport?",
+      "cn": "这是否意味着ICE会出现在机场？",
+      "structure": "一般疑问句 + 宾语从句",
+      "analysis": "\"Does\"为助动词，主语\"this\"，谓语\"mean\"，后接省略that的宾语从句。"
     },
     {
-      "en": "But can I interrupt with those --",
-      "cn": "但我能打断一下吗——",
-      "structure": "疑问句",
-      "analysis": "一般疑问句。"
+      "en": "I traveled when I was pregnant, and let me tell you, if someone came up to me and started asking a bunch of questions, I would not be in the mood.",
+      "cn": "我怀孕时旅行过，让我告诉你，如果有人走到我面前开始问一堆问题，我可没心情。",
+      "structure": "并列句 + 条件状语从句",
+      "analysis": "第一分句为\"I traveled when I was pregnant\"，第二分句为\"let me tell you\"，后接条件状语从句\"if...\"。"
     },
     {
-      "en": "Those are big Michigan companies.",
-      "cn": "那些是密歇根的大公司。",
+      "en": "So, I can't really imagine this scenario where it's like, nice belly there.",
+      "cn": "所以我真的无法想象这种场景，比如“肚子不错”。",
+      "structure": "主句 + 定语从句",
+      "analysis": "主句为\"I can't really imagine this scenario\"，\"where\"引导定语从句修饰\"scenario\"。"
+    },
+    {
+      "en": "Would be a shame if something happened to it.",
+      "cn": "如果它出了什么事，那就太可惜了。",
+      "structure": "虚拟语气",
+      "analysis": "省略主语\"It\"，\"would be\"为虚拟语气，\"if\"引导条件状语从句。"
+    },
+    {
+      "en": "And also, like, are you in Hamas?",
+      "cn": "还有，比如，你在哈马斯吗？",
+      "structure": "一般疑问句",
+      "analysis": "\"are\"为系动词，主语\"you\"，表语\"in Hamas\"。"
+    },
+    {
+      "en": "Oh, and if you want to go down the legal hole, like, are you in Hamas or are you providing aid and comfort to people in Hamas, but not necessarily a member?",
+      "cn": "哦，如果你想深入法律问题，比如，你是在哈马斯，还是向哈马斯人员提供援助和安慰，但不一定是成员？",
+      "structure": "条件状语从句 + 并列疑问句",
+      "analysis": "\"if\"引导条件状语从句，主句为两个并列的一般疑问句。"
+    },
+    {
+      "en": "It just gets complicated legally --",
+      "cn": "这在法律上变得复杂——",
       "structure": "简单句",
-      "analysis": "主系表结构。"
+      "analysis": "主语\"It\"，谓语\"gets\"，表语\"complicated\"，\"legally\"为副词。"
     },
     {
-      "en": "I understand that. But also, Michigan has been a canary. Right? And its car factory for like a couple of years now.",
-      "cn": "我理解。但密歇根州一直是一个预警信号。对吧？而且它的汽车工厂已经好几年了。",
+      "en": "So, it's just really just about adding a little extra oomph to existing penalties?",
+      "cn": "所以，这真的只是给现有处罚增加一点额外的力度吗？",
+      "structure": "一般疑问句",
+      "analysis": "\"it's\"为主系表结构，\"about\"为介词，\"adding\"为动名词作宾语。"
+    },
+    {
+      "en": "I think so.",
+      "cn": "我想是的。",
+      "structure": "省略句",
+      "analysis": "完整形式为\"I think so\"，\"so\"代替上文内容。"
+    },
+    {
+      "en": "No, I think it's about making a political statement at a time --",
+      "cn": "不，我认为这是在一个时刻发表政治声明——",
+      "structure": "主句 + 宾语从句",
+      "analysis": "主句为\"I think\"，后接宾语从句。"
+    },
+    {
+      "en": "And clapping back at the Supreme Court.",
+      "cn": "并回击最高法院。",
+      "structure": "省略句",
+      "analysis": "省略主语，\"clapping back\"为动名词短语。"
+    },
+    {
+      "en": "That's what this is about.",
+      "cn": "这就是重点。",
+      "structure": "主系表结构 + 表语从句",
+      "analysis": "主语\"That\"，系动词\"is\"，表语从句\"what this is about\"。"
+    },
+    {
+      "en": "Coming up on CNN THIS MORNING, we want to talk about a couple more elections, this time on the Republican side.",
+      "cn": "在CNN《今晨》节目中，我们想谈谈另外几场选举，这次是共和党方面的。",
+      "structure": "简单句",
+      "analysis": "\"Coming up\"为现在分词短语作状语，主语\"we\"，谓语\"want to talk about\"。"
+    },
+    {
+      "en": "A Trump-backed candidate loses in Tennessee and then another in Michigan.",
+      "cn": "一位特朗普支持的候选人在田纳西州落选，另一位在密歇根州落选。",
       "structure": "并列句",
-      "analysis": "多个简单句并列。"
+      "analysis": "两个分句由\"and\"连接，第二个分句省略了动词\"loses\"。"
     },
     {
-      "en": "I mean, ever since October 7th.",
-      "cn": "我的意思是，自从10月7日以来。",
-      "structure": "省略句",
-      "analysis": "省略了主句，ever since引导时间状语。"
-    },
-    {
-      "en": "And I remember the Biden administration trying to find a way to talk about Gaza and Israel with an electorate.",
-      "cn": "我记得拜登政府试图找到一种方式与选民谈论加沙和以色列。",
-      "structure": "主句+现在分词短语作宾补",
-      "analysis": "主句为I remember，the Biden administration是宾语，trying to find...是现在分词短语作宾补。"
-    },
-    {
-      "en": "And it had nothing in common with that electorate anymore.",
-      "cn": "而且它与那个选民群体再也没有共同点。",
+      "en": "We're going to ask about the power of a Trump endorsement this week.",
+      "cn": "本周我们将探讨特朗普支持的力量。",
       "structure": "简单句",
-      "analysis": "主谓宾结构。"
+      "analysis": "主语\"We\"，谓语\"are going to ask about\"，宾语\"the power\"。"
     },
     {
-      "en": "And Michigan was the place where I remember the DNC.",
-      "cn": "密歇根是我记得民主党全国委员会的地方。",
-      "structure": "主系表结构+where定语从句",
-      "analysis": "主语是Michigan，系动词was，表语是the place，where引导定语从句。"
+      "en": "Plus, is it safe to eat lettuce again?",
+      "cn": "另外，再吃生菜安全吗？",
+      "structure": "一般疑问句",
+      "analysis": "\"is\"为系动词，主语\"it\"，表语\"safe\"，\"to eat lettuce\"为不定式作真正主语。"
     },
     {
-      "en": "Their electors were the most frustrated. Right?",
-      "cn": "他们的选举人最沮丧。对吧？",
+      "en": "Why the state at the center of the cyclospora outbreak is putting it back on the menu.",
+      "cn": "为什么处于环孢子虫疫情中心的州将其重新列入菜单。",
+      "structure": "特殊疑问句",
+      "analysis": "\"Why\"为疑问副词，主语\"the state\"，\"at the center\"为介词短语作定语，谓语\"is putting\"。"
+    },
+    {
+      "en": "And then in the meantime, there's a water crisis in Puerto Rico.",
+      "cn": "与此同时，波多黎各出现水危机。",
+      "structure": "存在句",
+      "analysis": "\"there's\"为存在句，\"in the meantime\"为时间状语。"
+    },
+    {
+      "en": "Thousands of people forced to cut back already scarce supplies.",
+      "cn": "成千上万的人被迫削减本已稀缺的供应。",
       "structure": "简单句",
-      "analysis": "主系表结构。"
+      "analysis": "主语\"Thousands of people\"，谓语\"forced\"，\"to cut back\"为不定式作宾语补足语。"
     },
     {
-      "en": "That's where you really -- it felt like that was the place that had this dialog the most strongly.",
-      "cn": "那就是你真正——感觉那就是最强烈地进行这种对话的地方。",
-      "structure": "主系表结构+where表语从句+that定语从句",
-      "analysis": "That's where...是主系表结构，where引导表语从句，that had this dialog...是定语从句修饰place。"
-    },
-    {
-      "en": "And it feels almost inevitable that you'd see a candidate like Abdullah el-Sayed come forward.",
-      "cn": "而且感觉几乎不可避免你会看到像阿卜杜拉·埃尔-赛义德这样的候选人站出来。",
-      "structure": "It feels+形容词+that主语从句",
-      "analysis": "It是形式主语，that引导主语从句。"
-    },
-    {
-      "en": "And I think that's why you see the UAW endorsed him.",
-      "cn": "我认为这就是为什么你看到UAW支持他。",
-      "structure": "主句+宾语从句",
-      "analysis": "I think是主句，that's why...是宾语从句。"
-    },
-    {
-      "en": "I talked to somebody at the UAW this morning early, and they told me that they have talked to 120,000 of their active and retired members.",
-      "cn": "我今天早上早些时候与UAW的某人交谈，他们告诉我他们已经与12万名在职和退休成员交谈过。",
-      "structure": "并列句+that宾语从句",
-      "analysis": "由and连接两个并列分句，第二个分句中that引导宾语从句。"
-    },
-    {
-      "en": "And they make up 9 percent of the early vote, because they can take the data that we get back from the elections on who has voted early and cross match it against their voter files of their members.",
-      "cn": "他们占提前投票的9%，因为他们可以获取我们从选举中得到的关于谁提前投票的数据，并将其与他们的成员选民档案进行交叉匹配。",
-      "structure": "主句+because原因状语从句+that定语从句",
-      "analysis": "主句为they make up 9 percent...，because引导原因状语从句，that引导定语从句修饰data。"
-    },
-    {
-      "en": "That's crazy good for them.",
-      "cn": "这对他们来说太好了。",
+      "en": "It is 13 minutes past the hour.",
+      "cn": "现在是整点过13分钟。",
       "structure": "简单句",
-      "analysis": "主系表结构。"
+      "analysis": "主语\"It\"，系动词\"is\"，表语\"13 minutes past the hour\"。"
     },
     {
-      "en": "But again, to your point, it's because it's Michigan.",
-      "cn": "但再次，关于你的观点，这是因为密歇根。",
-      "structure": "主系表结构+原因状语从句",
-      "analysis": "it's because...是主系表结构，because引导表语从句。"
-    },
-    {
-      "en": "You've seen a downturn in manufacturing.",
-      "cn": "你看到了制造业的衰退。",
+      "en": "This is your morning roundup.",
+      "cn": "这是你的早间新闻摘要。",
       "structure": "简单句",
-      "analysis": "主谓宾结构。"
+      "analysis": "主语\"This\"，系动词\"is\"，表语\"your morning roundup\"。"
     },
     {
-      "en": "You have this very diverse electorate, and you see a lot of the economics coming to Michigan.",
-      "cn": "你有非常多样化的选民，你看到很多经济活动来到密歇根。",
+      "en": "Senator Mitch McConnell saying that he's been discharged from a rehabilitation center, that he's back home, and he's still casting votes.",
+      "cn": "参议员米奇·麦康奈尔表示，他已从康复中心出院，已回家，并且仍在投票。",
+      "structure": "主句 + 宾语从句",
+      "analysis": "主语\"Senator Mitch McConnell\"，谓语\"saying\"，后接两个that引导的宾语从句。"
+    },
+    {
+      "en": "He voted by proxy on the Senate Agriculture Committee's farm bill.",
+      "cn": "他通过代理人对参议院农业委员会的农业法案进行了投票。",
+      "structure": "简单句",
+      "analysis": "主语\"He\"，谓语\"voted\"，\"by proxy\"为方式状语。"
+    },
+    {
+      "en": "His vote didn't count, because the bill failed.",
+      "cn": "他的投票无效，因为该法案未通过。",
+      "structure": "原因状语从句 + 主句",
+      "analysis": "主句为\"His vote didn't count\"，\"because\"引导原因状语从句。"
+    },
+    {
+      "en": "McConnell says he will continue to engage with his staff and colleagues on important Senate business while he recovers.",
+      "cn": "麦康奈尔表示，他将在康复期间继续与工作人员和同事就重要的参议院事务进行接触。",
+      "structure": "主句 + 宾语从句 + 时间状语从句",
+      "analysis": "主句为\"McConnell says\"，后接宾语从句。从句中\"while\"引导时间状语从句。"
+    },
+    {
+      "en": "And more than 180,000 Puerto Ricans forced to ration water amid a relentless drought.",
+      "cn": "超过18万波多黎各人因持续干旱被迫定量配水。",
+      "structure": "简单句",
+      "analysis": "主语\"more than 180,000 Puerto Ricans\"，谓语\"forced\"，\"to ration water\"为不定式作宾语补足语。"
+    },
+    {
+      "en": "People in San Juan and neighboring areas will be losing water for 48 hours at a time.",
+      "cn": "圣胡安及周边地区的人们将一次断水48小时。",
+      "structure": "简单句",
+      "analysis": "主语\"People\"，谓语\"will be losing\"为将来进行时，\"for 48 hours\"为时间状语。"
+    },
+    {
+      "en": "They've already been without reliable water for more than 100 days.",
+      "cn": "他们已经超过100天没有可靠的水了。",
+      "structure": "现在完成时",
+      "analysis": "主语\"They\"，谓语\"have been\"，\"without reliable water\"为表语。"
+    },
+    {
+      "en": "Officials say the water rationing schedule could expand to 72 hours at a time.",
+      "cn": "官员们表示，配水计划可能会扩大到一次72小时。",
+      "structure": "主句 + 宾语从句",
+      "analysis": "主句为\"Officials say\"，后接宾语从句。"
+    },
+    {
+      "en": "And a judge in New Mexico orders Meta to strictly restrict youth accounts and pay $567 million into a children's mental health fund for its role in a youth mental health crisis.",
+      "cn": "新墨西哥州的一名法官命令Meta严格限制青少年账户，并向儿童心理健康基金支付5.67亿美元，因为其在青少年心理健康危机中扮演的角色。",
+      "structure": "简单句",
+      "analysis": "主语\"a judge\"，谓语\"orders\"，宾语\"Meta\"，\"to strictly restrict...and pay...\"为宾语补足语。"
+    },
+    {
+      "en": "This decision is tied to a child safety case against Meta, where a jury already found the company liable back in March, ordering them to pay another hefty fine.",
+      "cn": "这一决定与针对Meta的儿童安全案件有关，陪审团已于3月裁定该公司负有责任，并命令其支付另一笔巨额罚款。",
+      "structure": "主句 + 非限制性定语从句",
+      "analysis": "主句为\"This decision is tied to a child safety case\"，\"where\"引导非限制性定语从句，\"ordering\"为现在分词作状语。"
+    },
+    {
+      "en": "Meta denies the claims and plans to appeal.",
+      "cn": "Meta否认这些指控，并计划上诉。",
       "structure": "并列句",
-      "analysis": "由and连接两个并列分句。"
+      "analysis": "两个谓语\"denies\"和\"plans\"由\"and\"连接。"
     },
     {
-      "en": "And that's why you see that.",
-      "cn": "这就是为什么你看到那个。",
-      "structure": "主系表结构+表语从句",
-      "analysis": "that's why...是主系表结构，why引导表语从句。"
+      "en": "And Noel and I have both done reporting on this, and it feels like the parents and the child safety cases are making gains.",
+      "cn": "诺埃尔和我都对此进行过报道，感觉家长和儿童安全案件正在取得进展。",
+      "structure": "并列句",
+      "analysis": "第一分句为\"Noel and I have both done reporting\"，第二分句为\"it feels like...\"。"
     },
     {
-      "en": "I want to show you guys one more thing.",
-      "cn": "我想再给你们看一件事。",
-      "structure": "主句+不定式作宾语",
-      "analysis": "I want是主句，to show you guys one more thing是不定式短语作宾语。"
+      "en": "The parents are winning.",
+      "cn": "家长们正在获胜。",
+      "structure": "现在进行时",
+      "analysis": "主语\"The parents\"，谓语\"are winning\"。"
     },
     {
-      "en": "So, when you look at Haley Stevens, she's gotten the governor, Senator Chuck Schumer.",
-      "cn": "所以，当你看到海利·史蒂文斯，她得到了州长、参议员查克·舒默的支持。",
-      "structure": "when时间状语从句+主句",
-      "analysis": "when引导时间状语从句，主句为she's gotten...。"
+      "en": "The parents are winning, and it's because you put them in court.",
+      "cn": "家长们正在获胜，这是因为你把他们告上了法庭。",
+      "structure": "并列句",
+      "analysis": "第一分句为\"The parents are winning\"，第二分句为\"it's because...\"。"
     },
     {
-      "en": "And then when you look at Abdul el-Sayed, you've got Bernie Sanders, AOC, Elizabeth Warren.",
-      "cn": "然后当你看到阿卜杜勒·埃尔-赛义德，你有伯尼·桑德斯、AOC、伊丽莎白·沃伦。",
-      "structure": "when时间状语从句+主句",
-      "analysis": "when引导时间状语从句，主句为you've got...。"
+      "en": "You put their kids in court up against a tech company CEO, and it's just impossible not to side --",
+      "cn": "你把他们的孩子告上法庭，与科技公司CEO对簿公堂，这让人很难不站在——",
+      "structure": "并列句",
+      "analysis": "第一分句为\"You put their kids in court\"，第二分句为\"it's just impossible not to side\"。"
     },
     {
-      "en": "And that -- that last group of three, I feel like this has been percolating for a while, right?",
-      "cn": "而那个——最后那三个人，我觉得这已经酝酿了一段时间，对吧？",
-      "structure": "主句+插入语",
-      "analysis": "I feel like是主句，this has been percolating...是宾语从句。"
-    },
-    {
-      "en": "In terms of long-term movements percolating in the party.",
-      "cn": "就党内长期运动的酝酿而言。",
+      "en": "In a lot of cases with the family.",
+      "cn": "在很多情况下，站在家庭一边。",
       "structure": "介词短语",
-      "analysis": "In terms of...是介词短语，percolating in the party是现在分词短语作后置定语。"
+      "analysis": "省略了主谓，\"in a lot of cases\"为状语，\"with the family\"为定语。"
     },
     {
-      "en": "Well, one thing that's worth mentioning and responding to is that the UAW, at a national level, is now 25 percent, more than that, graduate students.",
-      "cn": "嗯，值得一提和回应的一件事是，UAW在全国范围内现在有25%以上是研究生。",
-      "structure": "主系表结构+that定语从句+that表语从句",
-      "analysis": "主语是one thing，that's worth mentioning...是定语从句，系动词is，that引导表语从句。"
+      "en": "You know, especially.",
+      "cn": "你知道，尤其是。",
+      "structure": "省略句",
+      "analysis": "\"You know\"为插入语，\"especially\"为副词。"
     },
     {
-      "en": "OK? So, this isn't your father's UAW.",
-      "cn": "好吗？所以，这不是你父亲的UAW。",
+      "en": "You've reported on this issue, some of these horrible outcomes.",
+      "cn": "你报道过这个问题，其中一些可怕的后果。",
       "structure": "简单句",
-      "analysis": "主系表结构。"
+      "analysis": "主语\"You\"，谓语\"have reported\"，\"on this issue\"为状语，\"some of these horrible outcomes\"为同位语。"
     },
     {
-      "en": "And Haley Stevens has the support of a lot of the big manufacturing unions that are constituted at a national level, more of actual workers at that level.",
-      "cn": "海利·史蒂文斯得到了许多大型制造业工会的支持，这些工会在全国层面由更多实际工人组成。",
-      "structure": "主句+that定语从句",
-      "analysis": "主句为Haley Stevens has the support...，that引导定语从句修饰unions。"
+      "en": "And also, because Congress isn't really taking any action in this area.",
+      "cn": "而且，因为国会并没有真正在这方面采取行动。",
+      "structure": "原因状语从句",
+      "analysis": "\"because\"引导原因状语从句，主语\"Congress\"，谓语\"isn't taking\"。"
     },
     {
-      "en": "So --",
-      "cn": "所以——",
+      "en": "The states are --",
+      "cn": "各州正在——",
       "structure": "省略句",
-      "analysis": "不完整句。"
+      "analysis": "省略了谓语部分。"
     },
     {
-      "en": "So, you mean non-unions? Or what do you mean by that?",
-      "cn": "所以，你是指非工会？还是你什么意思？",
-      "structure": "选择疑问句",
-      "analysis": "两个疑问句。"
-    },
-    {
-      "en": "I think graduate students are part of what's driving the UAW farther to the left.",
-      "cn": "我认为研究生是推动UAW进一步左倾的一部分。",
-      "structure": "主句+宾语从句",
-      "analysis": "I think是主句，graduate students are part of...是宾语从句，what's driving...是介词of的宾语从句。"
-    },
-    {
-      "en": "No, I mean when you said what's supporting her? You're saying it's --",
-      "cn": "不，我的意思是你说什么支持她？你是说它是——",
-      "structure": "省略句",
-      "analysis": "不完整句。"
-    },
-    {
-      "en": "Haley Stevens has the support of a number of other unions in the state.",
-      "cn": "海利·史蒂文斯得到了该州许多其他工会的支持。",
+      "en": "Yes.",
+      "cn": "是的。",
       "structure": "简单句",
-      "analysis": "主谓宾结构。"
+      "analysis": "表示肯定。"
     },
     {
-      "en": "That you see as more worker-oriented or not having the --",
-      "cn": "你认为更以工人为导向或没有——",
-      "structure": "省略句",
-      "analysis": "不完整句。"
-    },
-    {
-      "en": "I mean, I think Abdullah El-Sayed is winning, because he's running a virulently anti-Israel campaign, as you said, Audie.",
-      "cn": "我的意思是，我认为阿卜杜拉·埃尔-赛义德正在获胜，因为他正在进行一场恶毒的反以色列竞选，正如你所说，奥黛。",
-      "structure": "主句+宾语从句+because原因状语从句",
-      "analysis": "I think是主句，Abdullah El-Sayed is winning是宾语从句，because引导原因状语从句。"
-    },
-    {
-      "en": "I don't think it's because he's talking about bringing manufacturing back to Michigan.",
-      "cn": "我不认为这是因为他在谈论将制造业带回密歇根。",
-      "structure": "主句+宾语从句",
-      "analysis": "I don't think是主句，it's because...是宾语从句。"
-    },
-    {
-      "en": "That's what Haley Stevens has been talking about.",
-      "cn": "那是海利·史蒂文斯一直在谈论的。",
-      "structure": "主系表结构+表语从句",
-      "analysis": "That's what...是主系表结构，what引导表语从句。"
-    },
-    {
-      "en": "In fact, it's kind of the only thing she can talk about.",
-      "cn": "事实上，这几乎是她唯一能谈论的事情。",
-      "structure": "主系表结构+定语从句",
-      "analysis": "it's kind of the only thing是主系表结构，she can talk about是定语从句修饰thing。"
-    },
-    {
-      "en": "Let me underscore, I did not say he was running a virulently anti-Israel campaign.",
-      "cn": "我要强调，我没有说他正在进行恶毒的反以色列竞选。",
-      "structure": "祈使句+宾语从句",
-      "analysis": "Let me underscore是祈使句，I did not say...是宾语从句。"
-    },
-    {
-      "en": "I want you to own your comments.",
-      "cn": "我希望你为自己的言论负责。",
-      "structure": "主句+不定式作宾补",
-      "analysis": "I want是主句，you是宾语，to own your comments是不定式作宾补。"
-    },
-    {
-      "en": "I don't think -- I don't think he -- I don't think he --",
-      "cn": "我不认为——我不认为他——我不认为他——",
-      "structure": "省略句",
-      "analysis": "不完整句。"
-    },
-    {
-      "en": "Just so you can get credit for your own comments.",
-      "cn": "只是为了让你能因自己的言论而获得认可。",
-      "structure": "目的状语从句",
-      "analysis": "Just so引导目的状语从句。"
-    },
-    {
-      "en": "I did think he would dispute that he's running a virulently anti-Israel campaign.",
-      "cn": "我确实认为他会否认他在进行恶毒的反以色列竞选。",
-      "structure": "主句+宾语从句",
-      "analysis": "I did think是主句，he would dispute...是宾语从句，that引导宾语从句。"
-    },
-    {
-      "en": "I would dispute I said it.",
-      "cn": "我会否认我说过。",
-      "structure": "主句+宾语从句",
-      "analysis": "I would dispute是主句，I said it是宾语从句。"
-    },
-    {
-      "en": "And I want to give the last word to Aaron, because Bernie Sanders, when I think of him grumpy with his arms crossed at that DNC many years ago.",
-      "cn": "我想让亚伦说最后一句话，因为伯尼·桑德斯，当我想到他多年前在民主党全国委员会上双臂交叉、脾气暴躁的样子。",
-      "structure": "主句+because原因状语从句+when时间状语从句",
-      "analysis": "主句为I want to give the last word to Aaron，because引导原因状语从句，when引导时间状语从句。"
-    },
-    {
-      "en": "With the mittens on, yes.",
-      "cn": "戴着连指手套，是的。",
-      "structure": "介词短语",
-      "analysis": "with复合结构。"
-    },
-    {
-      "en": "Elizabeth Warren, it feels like we are seeing the fruits of a long-running movement that may or may not be coming to fruition.",
-      "cn": "伊丽莎白·沃伦，感觉我们正在看到一个长期运动的成果，这个运动可能实现也可能不会实现。",
-      "structure": "主句+宾语从句+that定语从句",
-      "analysis": "it feels like是主句，we are seeing...是宾语从句，that引导定语从句修饰movement。"
-    },
-    {
-      "en": "Yes. And this is a very big moment for that movement.",
-      "cn": "是的。这对那个运动来说是一个非常重要的时刻。",
+      "en": "It's -- it's tobacco all over again.",
+      "cn": "这——这又是烟草事件的重演。",
       "structure": "简单句",
-      "analysis": "主系表结构。"
+      "analysis": "主语\"It\"，系动词\"is\"，表语\"tobacco all over again\"。"
     },
     {
-      "en": "And I'll tell you why.",
-      "cn": "我会告诉你为什么。",
-      "structure": "主句+宾语从句",
-      "analysis": "I'll tell you是主句，why是宾语从句。"
+      "en": "And we're going to keep seeing this.",
+      "cn": "我们将继续看到这种情况。",
+      "structure": "将来进行时",
+      "analysis": "主语\"we\"，谓语\"are going to keep seeing\"。"
     },
     {
-      "en": "The reason is because the Democratic primary electorate has proven willing to elect these kinds of candidates.",
-      "cn": "原因是民主党初选选民已经证明愿意选举这类候选人。",
-      "structure": "主系表结构+表语从句",
-      "analysis": "The reason is是主系表结构，because引导表语从句。"
+      "en": "And I don't mean to vilify tech in the way that tobacco, which literally killed many, many people who used it.",
+      "cn": "我并不是要像诋毁烟草那样诋毁科技，烟草确实害死了许多使用者。",
+      "structure": "主句 + 定语从句",
+      "analysis": "主句为\"I don't mean to vilify tech\"，\"in the way\"为方式状语，\"that\"引导定语从句修饰\"way\"，\"which\"引导非限制性定语从句修饰\"tobacco\"。"
     },
     {
-      "en": "The DSA candidates in -- in cities like New York City, in cities, you know, heavily urban areas.",
-      "cn": "民主社会主义者候选人在——在像纽约市这样的城市，在城市，你知道，高度城市化的地区。",
+      "en": "However, it's the same strategy, which is you have a product that, when used properly, causes some harms to some people.",
+      "cn": "然而，这是同样的策略，即你有一种产品，如果使用不当，会对某些人造成伤害。",
+      "structure": "主句 + 非限制性定语从句",
+      "analysis": "主句为\"it's the same strategy\"，\"which\"引导非限制性定语从句，从句中\"that\"引导定语从句修饰\"product\"，\"when used properly\"为省略的时间状语。"
+    },
+    {
+      "en": "And the litigation strategy, the public relations strategy --",
+      "cn": "以及诉讼策略、公关策略——",
       "structure": "名词短语",
-      "analysis": "这是一个名词短语，中心词是candidates，后面是介词短语作定语。"
+      "analysis": "列举名词短语。"
     },
     {
-      "en": "And only now.",
-      "cn": "而且只是现在。",
+      "en": "Is very similar.",
+      "cn": "非常相似。",
+      "structure": "简单句",
+      "analysis": "主语省略，系动词\"is\"，表语\"very similar\"。"
+    },
+    {
+      "en": "And just sort of the general social unease about it that's growing is -- is what's driving the day to day.",
+      "cn": "以及由此产生的普遍社会不安情绪日益增长，正是这种情绪在推动日常事务。",
+      "structure": "主系表结构 + 定语从句",
+      "analysis": "主语\"the general social unease\"，\"that's growing\"为定语从句，系动词\"is\"，表语从句\"what's driving the day to day\"。"
+    },
+    {
+      "en": "And you're seeing that here.",
+      "cn": "你在这里看到了这一点。",
+      "structure": "现在进行时",
+      "analysis": "主语\"you\"，谓语\"are seeing\"，宾语\"that\"。"
+    },
+    {
+      "en": "OK.",
+      "cn": "好的。",
+      "structure": "简单句",
+      "analysis": "表示同意。"
+    },
+    {
+      "en": "Well, I want to turn to this after the break.",
+      "cn": "好的，休息后我想转向这个话题。",
+      "structure": "简单句",
+      "analysis": "主语\"I\"，谓语\"want to turn to\"，宾语\"this\"。"
+    },
+    {
+      "en": "Hundreds of Boeing jets are going to be inspected for cracks.",
+      "cn": "数百架波音喷气式飞机将接受裂缝检查。",
+      "structure": "将来时被动语态",
+      "analysis": "主语\"Hundreds of Boeing jets\"，谓语\"are going to be inspected\"。"
+    },
+    {
+      "en": "So, we want to know whether or not they are safe for us to fly in.",
+      "cn": "所以，我们想知道它们是否安全，能否乘坐。",
+      "structure": "主句 + 宾语从句",
+      "analysis": "主句为\"we want to know\"，后接whether引导的宾语从句。"
+    },
+    {
+      "en": "Plus, is \"Choosin' Texas\" the song of the summer, or have algorithms killed the radio star?",
+      "cn": "另外，《选择德克萨斯》是夏日之歌，还是算法杀死了电台明星？",
+      "structure": "并列疑问句",
+      "analysis": "两个一般疑问句由\"or\"连接。"
+    },
+    {
+      "en": "And good morning to our viewers in Nashville.",
+      "cn": "向纳什维尔的观众问好。",
+      "structure": "简单句",
+      "analysis": "省略主语，\"good morning\"为问候语。"
+    },
+    {
+      "en": "Where is our song of the summer?",
+      "cn": "我们的夏日之歌在哪里？",
+      "structure": "特殊疑问句",
+      "analysis": "\"Where\"为疑问副词，系动词\"is\"，主语\"our song of the summer\"。"
+    },
+    {
+      "en": "Isn't it just that Ella Langley song?",
+      "cn": "不就是艾拉·兰利那首歌吗？",
+      "structure": "否定疑问句",
+      "analysis": "\"Isn't\"为否定疑问，主语\"it\"，表语\"that Ella Langley song\"。"
+    },
+    {
+      "en": "No, there has to be more than just \"Choosin' Texas.\"",
+      "cn": "不，肯定不止《选择德克萨斯》。",
+      "structure": "存在句",
+      "analysis": "\"there has to be\"为存在句，\"more than\"为比较结构。"
+    },
+    {
+      "en": "I released an album.",
+      "cn": "我发行了一张专辑。",
+      "structure": "简单句",
+      "analysis": "主语\"I\"，谓语\"released\"，宾语\"an album\"。"
+    },
+    {
+      "en": "Still no song of the summer.",
+      "cn": "仍然没有夏日之歌。",
       "structure": "省略句",
-      "analysis": "不完整句。"
+      "analysis": "省略了\"there is\"。"
     },
     {
-      "en": "In between Boulder in Colorado.",
-      "cn": "在科罗拉多州的博尔德之间。",
+      "en": "OK, I'm starting to get irritated because what?",
+      "cn": "好吧，我开始恼火了，因为什么？",
+      "structure": "原因状语从句",
+      "analysis": "主句为\"I'm starting to get irritated\"，\"because\"引导原因状语从句，但从句不完整。"
+    },
+    {
+      "en": "What is y'all?",
+      "cn": "你们是怎么回事？",
+      "structure": "特殊疑问句",
+      "analysis": "\"What\"为疑问代词，系动词\"is\"，主语\"y'all\"。"
+    },
+    {
+      "en": "What is everybody doing?",
+      "cn": "大家都在做什么？",
+      "structure": "特殊疑问句",
+      "analysis": "\"What\"为疑问代词，谓语\"is doing\"，主语\"everybody\"。"
+    },
+    {
+      "en": "Everybody is begging for the song of the summer.",
+      "cn": "每个人都在乞求夏日之歌。",
+      "structure": "现在进行时",
+      "analysis": "主语\"Everybody\"，谓语\"is begging\"。"
+    },
+    {
+      "en": "It is August, folks.",
+      "cn": "现在是八月，各位。",
+      "structure": "简单句",
+      "analysis": "主语\"It\"，系动词\"is\"，表语\"August\"。"
+    },
+    {
+      "en": "But in the time of streaming algorithms and TikTok, is the whole concept dead?",
+      "cn": "但在流媒体算法和TikTok时代，整个概念是否已经消亡？",
+      "structure": "一般疑问句",
+      "analysis": "\"in the time of\"为时间状语，主语\"the whole concept\"，系动词\"is\"，表语\"dead\"。"
+    },
+    {
+      "en": "\"Rolling Stone,\" \"Billboard,\" \"Pitchfork\" agree with some of those TikTokers, but the song of the summer might be Ella Langley's \"Choosin' Texas\" this year.",
+      "cn": "《滚石》、《公告牌》、《Pitchfork》同意一些TikTok用户的观点，但今年的夏日之歌可能是艾拉·兰利的《选择德克萨斯》。",
+      "structure": "并列句",
+      "analysis": "第一分句为\"Rolling Stone...agree\"，第二分句为\"the song of the summer might be\"。"
+    },
+    {
+      "en": "OK, so here's the metric we're using.",
+      "cn": "好的，这是我们使用的标准。",
+      "structure": "倒装句",
+      "analysis": "\"here's\"为倒装，\"the metric\"为主语，\"we're using\"为定语从句。"
+    },
+    {
+      "en": "The song has been No. 1 for 16 weeks.",
+      "cn": "这首歌已经连续16周排名第一。",
+      "structure": "现在完成时",
+      "analysis": "主语\"The song\"，谓语\"has been\"，表语\"No. 1\"。"
+    },
+    {
+      "en": "It has made history on the \"Billboard\" Hot 100.",
+      "cn": "它在《公告牌》百强单曲榜上创造了历史。",
+      "structure": "现在完成时",
+      "analysis": "主语\"It\"，谓语\"has made\"，宾语\"history\"。"
+    },
+    {
+      "en": "Spotify also added Drake's \"Janice STFU\" and Kacey Musgraves \"Mexico Honey\" to their list.",
+      "cn": "Spotify还将德雷克的《Janice STFU》和凯西·马斯格雷夫斯的《墨西哥蜂蜜》加入了他们的列表。",
+      "structure": "简单句",
+      "analysis": "主语\"Spotify\"，谓语\"added\"，宾语\"Drake's...and Kacey...\"，\"to their list\"为状语。"
+    },
+    {
+      "en": "But then when I talked about this online, y'all pretty much roasted me, saying that it's \"Spend Dat\" by Yung Miami.",
+      "cn": "但当我网上谈论这件事时，你们几乎都嘲笑我，说这是Yung Miami的《Spend Dat》。",
+      "structure": "时间状语从句 + 主句",
+      "analysis": "\"when\"引导时间状语从句，主句为\"y'all pretty much roasted me\"，\"saying\"为现在分词作状语。"
+    },
+    {
+      "en": "And Millie Bobby Brown thinks it's this.",
+      "cn": "米莉·博比·布朗认为是这样。",
+      "structure": "主句 + 宾语从句",
+      "analysis": "主句为\"Millie Bobby Brown thinks\"，后接省略that的宾语从句。"
+    },
+    {
+      "en": "I also got those in the comments.",
+      "cn": "我也在评论中看到了那些。",
+      "structure": "简单句",
+      "analysis": "主语\"I\"，谓语\"got\"，宾语\"those\"。"
+    },
+    {
+      "en": "So, no one can agree.",
+      "cn": "所以，没有人能达成一致。",
+      "structure": "简单句",
+      "analysis": "主语\"no one\"，谓语\"can agree\"。"
+    },
+    {
+      "en": "And that's why we're talking about it this week on \"Engagement Party.\"",
+      "cn": "这就是为什么我们本周在《订婚派对》上谈论它。",
+      "structure": "主系表结构 + 表语从句",
+      "analysis": "主语\"that\"，系动词\"is\"，表语从句\"why we're talking about it\"。"
+    },
+    {
+      "en": "Joining the chat, Ari Shapiro.",
+      "cn": "加入聊天的是阿里·夏皮罗。",
+      "structure": "倒装句",
+      "analysis": "\"Joining the chat\"为现在分词短语，主语\"Ari Shapiro\"。"
+    },
+    {
+      "en": "Thanks so much for being here.",
+      "cn": "非常感谢你来到这里。",
+      "structure": "省略句",
+      "analysis": "省略主语\"I\"，\"Thanks\"为名词。"
+    },
+    {
+      "en": "I love joining you on a Friday morning, Audie.",
+      "cn": "我喜欢在周五早上加入你，奥迪。",
+      "structure": "简单句",
+      "analysis": "主语\"I\"，谓语\"love\"，宾语\"joining you\"。"
+    },
+    {
+      "en": "OK, so we had a little bit of an argument about this.",
+      "cn": "好的，我们对此有点争论。",
+      "structure": "简单句",
+      "analysis": "主语\"we\"，谓语\"had\"，宾语\"a little bit of an argument\"。"
+    },
+    {
+      "en": "We disagreed, as we often do.",
+      "cn": "我们意见不一，就像我们经常做的那样。",
+      "structure": "方式状语从句",
+      "analysis": "主句为\"We disagreed\"，\"as\"引导方式状语从句。"
+    },
+    {
+      "en": "You are -- you're really into this Ella Langley situation.",
+      "cn": "你——你真的很喜欢艾拉·兰利这种情况。",
+      "structure": "简单句",
+      "analysis": "主语\"you\"，谓语\"are into\"，宾语\"this Ella Langley situation\"。"
+    },
+    {
+      "en": "It's not my personal feed.",
+      "cn": "这不是我的个人推送。",
+      "structure": "简单句",
+      "analysis": "主语\"It\"，系动词\"is\"，表语\"not my personal feed\"。"
+    },
+    {
+      "en": "I stand by the idea that I brought it up to multiple people.",
+      "cn": "我坚持我的观点，我向多人提过这件事。",
+      "structure": "主句 + 同位语从句",
+      "analysis": "主句为\"I stand by the idea\"，\"that\"引导同位语从句。"
+    },
+    {
+      "en": "And they were like, I've never heard this song.",
+      "cn": "他们就像说，我从未听过这首歌。",
+      "structure": "简单句",
+      "analysis": "主语\"they\"，谓语\"were like\"，后接直接引语。"
+    },
+    {
+      "en": "Who on the panel heard it, independent of news coverage of it?",
+      "cn": "小组中谁听过它，而不是通过新闻报道？",
+      "structure": "特殊疑问句",
+      "analysis": "\"Who\"为疑问代词，\"on the panel\"为定语，\"independent of\"为形容词短语。"
+    },
+    {
+      "en": "Absolutely, I hear it.",
+      "cn": "当然，我听过。",
+      "structure": "简单句",
+      "analysis": "主语\"I\"，谓语\"hear\"，宾语\"it\"。"
+    },
+    {
+      "en": "Not independent of news coverage, but I --",
+      "cn": "不是独立于新闻报道，但我——",
+      "structure": "省略句",
+      "analysis": "省略了主谓。"
+    },
+    {
+      "en": "I'll tell you -- I'll tell you why we listened to it.",
+      "cn": "我告诉你——我告诉你我们为什么听它。",
+      "structure": "主句 + 宾语从句",
+      "analysis": "主句为\"I'll tell you\"，后接宾语从句。"
+    },
+    {
+      "en": "I listened, because I don't want to listen to news in the car.",
+      "cn": "我听了，因为我不想在车里听新闻。",
+      "structure": "原因状语从句 + 主句",
+      "analysis": "主句为\"I listened\"，\"because\"引导原因状语从句。"
+    },
+    {
+      "en": "Listen to top 40 radio.",
+      "cn": "听前40名电台。",
+      "structure": "祈使句",
+      "analysis": "省略主语\"you\"，谓语\"Listen\"。"
+    },
+    {
+      "en": "And it's playing all the time in a constant loop.",
+      "cn": "它一直在循环播放。",
+      "structure": "现在进行时",
+      "analysis": "主语\"it\"，谓语\"is playing\"。"
+    },
+    {
+      "en": "As a dad of a ten and a 12-year-old.",
+      "cn": "作为一个10岁和12岁孩子的父亲。",
       "structure": "介词短语",
-      "analysis": "介词短语。"
+      "analysis": "\"As\"为介词，\"a dad\"为宾语。"
     },
     {
-      "en": "They haven't gotten these candidates, necessarily, through primaries in marquee races, in swing electorates.",
-      "cn": "他们不一定能让这些候选人通过重要竞选的初选，在摇摆选民中。",
+      "en": "We don't get in the car and not have that song get turned on.",
+      "cn": "我们上车后不会不打开那首歌。",
+      "structure": "双重否定",
+      "analysis": "主语\"We\"，谓语\"don't get\"，\"and not have\"为并列谓语。"
+    },
+    {
+      "en": "Here's the premise.",
+      "cn": "这是前提。",
+      "structure": "倒装句",
+      "analysis": "\"Here's\"为倒装，主语\"the premise\"。"
+    },
+    {
+      "en": "Two contradictory things can be true.",
+      "cn": "两个矛盾的事情可以同时为真。",
       "structure": "简单句",
-      "analysis": "主谓宾结构。"
+      "analysis": "主语\"Two contradictory things\"，谓语\"can be\"，表语\"true\"。"
     },
     {
-      "en": "So, getting Abdul el-Sayed through this primary and having him tested in a general election that is going to have lots of focus in November, is a big moment for this movement.",
-      "cn": "所以，让阿卜杜勒·埃尔-赛义德通过这次初选，并让他在十一月将备受关注的普选中接受考验，对这个运动来说是一个重要时刻。",
-      "structure": "动名词短语作主语+that定语从句",
-      "analysis": "主语是getting Abdul el-Sayed...and having him tested...，that引导定语从句修饰election。"
-    },
-    {
-      "en": "They need to prove that they can win in that kind of environment, not just primaries, but general elections with swing electorates.",
-      "cn": "他们需要证明他们能在那种环境中获胜，不仅仅是初选，还有摇摆选民的普选。",
-      "structure": "主句+that宾语从句",
-      "analysis": "主句为They need to prove，that引导宾语从句。"
-    },
-    {
-      "en": "And that's why I think this race is so important for that movement.",
-      "cn": "这就是为什么我认为这场比赛对那个运动如此重要。",
-      "structure": "主系表结构+表语从句",
-      "analysis": "that's why...是主系表结构，why引导表语从句，其中I think是插入语。"
-    },
-    {
-      "en": "All right. So, big test. That's why we're watching it.",
-      "cn": "好的。所以，重大考验。这就是我们关注它的原因。",
+      "en": "On the one hand, everyone has their own personalized feed.",
+      "cn": "一方面，每个人都有自己个性化的推送。",
       "structure": "简单句",
-      "analysis": "That's why...是主系表结构。"
+      "analysis": "主语\"everyone\"，谓语\"has\"，宾语\"their own personalized feed\"。"
     },
     {
-      "en": "I want to turn to something else on CNN THIS MORNING.",
-      "cn": "我想转向CNN今晨的其他内容。",
-      "structure": "主句+不定式作宾语",
-      "analysis": "I want是主句，to turn to...是不定式作宾语。"
+      "en": "Music exists in a silo that is algorithmed just for you.",
+      "cn": "音乐存在于一个为你量身定制的算法孤岛中。",
+      "structure": "主句 + 定语从句",
+      "analysis": "主句为\"Music exists in a silo\"，\"that\"引导定语从句修饰\"silo\"。"
     },
     {
-      "en": "The ethics panel that wants to censure Republican Chuck Edwards.",
-      "cn": "想要谴责共和党人查克·爱德华兹的道德小组。",
-      "structure": "名词短语+that定语从句",
-      "analysis": "中心词是panel，that引导定语从句。"
+      "en": "And on the other hand, Ella Langley has broken records that were held by Whitney Houston, Mariah Carey.",
+      "cn": "另一方面，艾拉·兰利打破了惠特妮·休斯顿、玛丽亚·凯莉保持的纪录。",
+      "structure": "主句 + 定语从句",
+      "analysis": "主句为\"Ella Langley has broken records\"，\"that\"引导定语从句修饰\"records\"。"
     },
     {
-      "en": "We're going to talk about why some women in the House of Representatives say that is not enough.",
-      "cn": "我们将讨论为什么众议院的一些女性说这还不够。",
-      "structure": "主句+why宾语从句+that宾语从句",
-      "analysis": "主句为We're going to talk about，why
+      "en": "It is a history making track.",
+      "cn": "这是一首创造历史的歌曲。",
+      "structure": "简单句",
+      "analysis": "主语\"It\"，系动词\"is\"，表语\"a history making track\"。"
+    },
+    {
+      "en": "I feel like the ubiquity of those songs and of an artist like Whitney Houston or an artist of Mariah Carey was on a different level.",
+      "cn": "我觉得那些歌曲和像惠特妮·休斯顿或玛丽亚·凯莉这样的艺术家的无处不在是另一个层次。",
+      "structure": "主句 + 宾语从句",
+      "analysis": "主句为\"I feel\"，后接宾语从句。从句中\"the ubiquity\"为主语，\"was\"为系动词。"
+    },
+    {
+      "en": "One of our \"Engagement Party\" producers said Ella Langley won the Electoral College of song of the summer.",
+      "cn": "我们《订婚派对》的一位制片人说，艾拉·兰利赢得了夏日之歌的选举人团。",
+      "structure": "主句 + 宾语从句",
+      "analysis": "主句为\"One of our producers said\"，后接宾语从句。"
+    },
+    {
+      "en": "Isn't that -- isn't that smart?",
+      "cn": "那是不是——那是不是很聪明？",
+      "structure": "否定疑问句",
+      "analysis": "\"Isn't\"为否定疑问，主语\"that\"，表语\"smart\"。"
+    },
+    {
+      "en": "I love that that's what the political panel understands.",
+      "cn": "我喜欢这就是政治小组所理解的。",
+      "structure": "主句 + 宾语从句",
+      "analysis": "主句为\"I love\"，后接宾语从句。从句中\"that's\"为主系表结构。"
+    },
+    {
+      "en": "That's like.",
+      "cn": "就像。",
+      "structure": "省略句",
+      "analysis": "省略了后续内容。"
+    },
+    {
+      "en": "Well, that's on now.",
+      "cn": "好吧，现在开始了。",
+      "structure": "简单句",
+      "analysis": "主语\"that\"，系动词\"is\"，表语\"on\"。"
+    },
+    {
+      "en": "All right.",
+      "cn": "好的。",
+      "structure": "简单句",
+      "analysis": "表示同意。"
+    },
+    {
+      "en": "This actually reminded me of when Lizzo, who is going through some creative struggles, put her two cents in.",
+      "cn": "这实际上让我想起了利佐，她正在经历一些创作困境，她发表了自己的看法。",
+      "structure": "主句 + 非限制性定语从句",
+      "analysis": "主句为\"This reminded me of\"，\"when\"引导时间状语从句，\"who\"引导非限制性定语从句修饰\"Lizzo\"。"
+    },
+    {
+      "en": "And this was last summer.",
+      "cn": "这是去年夏天。",
+      "structure": "简单句",
+      "analysis": "主语\"this\"，系动词\"was\"，表语\"last summer\"。"
+    },
+    {
+      "en": "But I think it stands.",
+      "cn": "但我认为它仍然成立。",
+      "structure": "主句 + 宾语从句",
+      "analysis": "主句为\"I think\"，后接宾语从句。"
+    },
+    {
+      "en": "Here's what she said at the time.",
+      "cn": "这是她当时说的话。",
+      "structure": "倒装句",
+      "analysis": "\"Here's\"为倒装，主语\"what she said\"。"
+    },
+    {
+      "en": "Back in the day, the music industry was very algorithmic as any other industry was.",
+      "cn": "在过去，音乐行业和其他行业一样非常算法化。",
+      "structure": "比较状语从句",
+      "analysis": "主句为\"the music industry was very algorithmic\"，\"as\"引导比较状语从句。"
+    },
+    {
+      "en": "But that industry was controlled, to a certain extent.",
+      "cn": "但在某种程度上，那个行业是受控制的。",
+      "structure": "简单句",
+      "analysis": "主语\"that industry\"，谓语\"was controlled\"，\"to a certain extent\"为状语。"
+    },
+    {
+      "en": "Now that we're in the digital streaming age, there is no control over the algorithm.",
+      "cn": "既然我们处于数字流媒体时代，算法就无法控制。",
+      "structure": "原因状语从句 + 存在句",
+      "analysis": "\"Now that\"引导原因状语从句，主句为\"there is no control\"。"
+    },
+    {
+      "en": "I'm going to be completely honest with you guys.",
+      "cn": "我要对你们完全诚实。",
+      "structure": "简单句",
+      "analysis": "主语\"I\"，谓语\"am going to be\"，表语\"honest\"。"
+    },
+    {
+      "en": "It's not because the music isn't incredible.",
+      "cn": "不是因为音乐不精彩。",
+      "structure": "主系表结构 + 表语从句",
+      "analysis": "主语\"It\"，系动词\"is\"，表语从句\"not because...\"。"
+    },
+    {
+      "en": "It's because the way that the algorithm is set up, no one can serve the masses anymore.",
+      "cn": "这是因为算法的设置方式，没有人再能为大众服务了。",
+      "structure": "主系表结构 + 表语从句",
+      "analysis": "主语\"It\"，系动词\"is\"，表语从句\"because...\"。从句中\"that\"引导定语从句修饰\"way\"。"
+    },
+    {
+      "en": "She went on to say, discovery is really hard, even for artists that are well-established.",
+      "cn": "她接着说，即使是知名艺术家，发现也很难。",
+      "structure": "主句 + 宾语从句",
+      "analysis": "主句为\"She went on to say\"，后接宾语从句。"
+    },
+    {
+      "en": "And I know people have gone after her saying, well, maybe your music is just not that good.",
+      "cn": "我知道人们攻击她，说，也许你的音乐就是没那么好。",
+      "structure": "主句 + 宾语从句",
+      "analysis": "主句为\"I know\"，后接宾语从句。从句中\"saying\"为现在分词作状语。"
+    },
+    {
+      "en": "But I think there's something to that.",
+      "cn": "但我认为这有一定道理。",
+      "structure": "主句 + 宾语从句",
+      "analysis": "主句为\"I think\"，后接宾语从句。"
+    },
+    {
+      "en": "People drop albums sometimes and I'm like, wait, when did that come out?",
+      "cn": "人们有时会发专辑，我会想，等等，那是什么时候出的？",
+      "structure": "并列句",
+      "analysis": "第一分句为\"People drop albums\"，第二分句为\"I'm like\"。"
+    },
+    {
+      "en": "That's true.",
+      "cn": "这是真的。",
+      "structure": "简单句",
+      "analysis": "主语\"That\"，系动词\"is\"，表语\"true\"。"
+    },
+    {
+      "en": "But the flip side of that coin is somebody who is very, very niche can find their audience without the radio station overlords having to decide that they are worth radio play.",
+      "cn": "但另一面是，非常小众的人可以找到他们的听众，而无需电台大佬决定他们是否值得播放。",
+      "structure": "主系表结构 + 表语从句",
+      "analysis": "主语\"the flip side\"，系动词\"is\"，表语从句\"somebody...can find\"。从句中\"who\"引导定语从句修饰\"somebody\"。"
+    },
+    {
+      "en": "So, again, two contradictory statements.",
+      "cn": "所以，再次，两个矛盾的陈述。",
+      "structure": "省略句",
+      "analysis": "省略了主谓。"
+    },
+    {
+      "en": "Both can be true.",
+      "cn": "两者都可以为真。",
+      "structure": "简单句",
+      "analysis": "主语\"Both\"，谓语\"can be\"，表语\"true\"。"
+    },
+    {
+      "en": "OK, there are some other songs that could still prevail or at least be talked about.",
+      "cn": "好的，还有一些其他歌曲可能仍然占上风，或者至少被谈论。",
+      "structure": "存在句 + 定语从句",
+      "analysis": "\"there are\"为存在句，\"that\"引导定语从句修饰\"songs\"。"
+    },
+    {
+      "en": "The obligatory Taylor Swift entry.",
+      "cn": "例行的泰勒·斯威夫特条目。",
+      "structure": "名词短语",
+      "analysis": "省略了主谓。"
+    },
+    {
+      "en": "Right now, No. 2 on the \"Billboard\" list, coming in hot from the \"Toy Story 5\" soundtrack.",
+      "cn": "现在，在《公告牌》榜单上排名第二，来自《玩具总动员5》原声带，势头强劲。",
+      "structure": "名词短语",
+      "analysis": "省略了主谓。"
+    },
+    {
+      "en": "Drake got on there, as we mentioned, which is good.",
+      "cn": "德雷克上榜了，正如我们提到的，这很好。",
+      "structure": "主句 + 非限制性定语从句",
+      "analysis": "主句为\"Drake got on there\"，\"as we mentioned\"为插入语，\"which\"引导非限制性定语从句。"
+    },
+    {
+      "en": "If you're going to release three albums, one would hope you'd have at least one hit.",
+      "cn": "如果你要发行三张专辑，人们会希望你至少有一首热门歌曲。",
+      "structure": "条件状语从句 + 主句",
+      "analysis": "\"If\"引导条件状语

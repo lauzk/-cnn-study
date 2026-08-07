@@ -1,0 +1,739 @@
+{
+  "date": "2026-08-07",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-08-07/segment/01",
+  "vocabulary": [
+    {
+      "word": "birthright citizenship",
+      "phonetic": "/ˈbɜːrθraɪt ˈsɪtɪzənʃɪp/",
+      "pos": "noun phrase",
+      "level": "考研",
+      "cn": "出生公民权",
+      "en": "the right of anyone born in a country to citizenship",
+      "excerpt": "Trump Tries New Executive Order to Limit Birthright Citizenship",
+      "example_cn": "出生公民权是美国宪法第十四修正案所规定的。"
+    },
+    {
+      "word": "executive order",
+      "phonetic": "/ɪɡˈzekjətɪv ˈɔːrdər/",
+      "pos": "noun phrase",
+      "level": "考研",
+      "cn": "行政命令",
+      "en": "a rule or order issued by the president to an executive branch of the government",
+      "excerpt": "Trump Tries New Executive Order to Limit Birthright Citizenship",
+      "example_cn": "总统签署了一项行政命令来限制移民。"
+    },
+    {
+      "word": "alien enemies",
+      "phonetic": "/ˈeɪliən ˈenəmiz/",
+      "pos": "noun phrase",
+      "level": "专四",
+      "cn": "敌国侨民",
+      "en": "citizens of a country that is at war with the country they are in",
+      "excerpt": "this time targeting, quote, \"alien enemies.\"",
+      "example_cn": "在战争期间，敌国侨民可能会被拘留。"
+    },
+    {
+      "word": "hold up",
+      "phonetic": "/hoʊld ʌp/",
+      "pos": "phrasal verb",
+      "level": "考研",
+      "cn": "站得住脚；维持",
+      "en": "to remain valid or true; to withstand scrutiny",
+      "excerpt": "So, will this one hold up legally?",
+      "example_cn": "这个论点在法庭上站得住脚吗？"
+    },
+    {
+      "word": "contempt",
+      "phonetic": "/kənˈtempt/",
+      "pos": "noun",
+      "level": "考研",
+      "cn": "藐视法庭",
+      "en": "disobedience or disrespect towards a court of law",
+      "excerpt": "And Dr. Fauci held in contempt",
+      "example_cn": "他因藐视法庭而被罚款。"
+    },
+    {
+      "word": "criminal prosecution",
+      "phonetic": "/ˈkrɪmɪnl ˌprɑːsɪˈkjuːʃn/",
+      "pos": "noun phrase",
+      "level": "考研",
+      "cn": "刑事起诉",
+      "en": "the institution of legal proceedings against someone for a criminal offense",
+      "excerpt": "and a criminal prosecution could be next.",
+      "example_cn": "他面临刑事起诉。"
+    },
+    {
+      "word": "legacy",
+      "phonetic": "/ˈleɡəsi/",
+      "pos": "noun",
+      "level": "考研",
+      "cn": "遗产；遗留问题",
+      "en": "something handed down from the past, especially a reputation or achievement",
+      "excerpt": "Did he do more harm than good to his legacy after invoking the Fifth?",
+      "example_cn": "他的政治遗产备受争议。"
+    },
+    {
+      "word": "invoke",
+      "phonetic": "/ɪnˈvoʊk/",
+      "pos": "verb",
+      "level": "考研",
+      "cn": "援引；调用",
+      "en": "to cite or appeal to (a law, principle, etc.) as an authority",
+      "excerpt": "after invoking the Fifth",
+      "example_cn": "他援引第五修正案拒绝作证。"
+    },
+    {
+      "word": "flame-fueling",
+      "phonetic": "/fleɪm ˈfjuːəlɪŋ/",
+      "pos": "adjective",
+      "level": "专八",
+      "cn": "助长火势的",
+      "en": "causing flames to grow stronger",
+      "excerpt": "And flame-fueling winds, intense heat.",
+      "example_cn": "助长火势的大风使灭火工作更加困难。"
+    },
+    {
+      "word": "contain",
+      "phonetic": "/kənˈteɪn/",
+      "pos": "verb",
+      "level": "考研",
+      "cn": "控制；遏制",
+      "en": "to keep within limits; to prevent from spreading",
+      "excerpt": "The race to contain the wildfires in Washington state",
+      "example_cn": "消防员努力控制火势。"
+    },
+    {
+      "word": "Pandora's box",
+      "phonetic": "/pænˈdɔːrəz bɑːks/",
+      "pos": "noun phrase",
+      "level": "专八",
+      "cn": "潘多拉魔盒；祸患之源",
+      "en": "a source of many unforeseen problems",
+      "excerpt": "Now that we've opened Pandora's box, how do we keep it from being used for harm?",
+      "example_cn": "这项技术打开了潘多拉魔盒。"
+    },
+    {
+      "word": "unfortunate",
+      "phonetic": "/ʌnˈfɔːrtʃənət/",
+      "pos": "adjective",
+      "level": "考研",
+      "cn": "不幸的；令人遗憾的",
+      "en": "regrettable; unlucky",
+      "excerpt": "We had a very unfortunate decision in the Supreme Court concerning birthright.",
+      "example_cn": "这是一个不幸的决定。"
+    },
+    {
+      "word": "adjustment",
+      "phonetic": "/əˈdʒʌstmənt/",
+      "pos": "noun",
+      "level": "考研",
+      "cn": "调整；调节",
+      "en": "a small change made to improve something",
+      "excerpt": "So, we're making adjustments.",
+      "example_cn": "我们需要做一些调整。"
+    },
+    {
+      "word": "ineligible",
+      "phonetic": "/ɪnˈelɪdʒəbl/",
+      "pos": "adjective",
+      "level": "考研",
+      "cn": "不合格的；无资格的",
+      "en": "not having the right to do or have something",
+      "excerpt": "making children born to folks in those groups ineligible for U.S. citizenship.",
+      "example_cn": "他因年龄不符合条件而无法参加选举。"
+    },
+    {
+      "word": "birth tourism",
+      "phonetic": "/bɜːrθ ˈtʊərɪzəm/",
+      "pos": "noun phrase",
+      "level": "专四",
+      "cn": "生育旅游",
+      "en": "travel to another country to give birth so the child obtains citizenship",
+      "excerpt": "the order also bans so-called \"birth tourism,\"",
+      "example_cn": "生育旅游在一些国家被禁止。"
+    },
+    {
+      "word": "egregious",
+      "phonetic": "/ɪˈɡriːdʒəs/",
+      "pos": "adjective",
+      "level": "专八",
+      "cn": "极坏的；恶名昭彰的",
+      "en": "outstandingly bad; shocking",
+      "excerpt": "one of the greatest and most egregious abuses of the American system.",
+      "example_cn": "这是对权力的严重滥用。"
+    },
+    {
+      "word": "sacred",
+      "phonetic": "/ˈseɪkrɪd/",
+      "pos": "adjective",
+      "level": "考研",
+      "cn": "神圣的",
+      "en": "regarded with great respect and reverence",
+      "excerpt": "And it keeps American citizenship sacred.",
+      "example_cn": "公民身份是神圣的。"
+    },
+    {
+      "word": "murky",
+      "phonetic": "/ˈmɜːrki/",
+      "pos": "adjective",
+      "level": "专八",
+      "cn": "模糊的；含糊的",
+      "en": "not clear; vague or obscure",
+      "excerpt": "he's on murky legal ground.",
+      "example_cn": "法律依据模糊不清。"
+    },
+    {
+      "word": "run afoul of",
+      "phonetic": "/rʌn əˈfaʊl əv/",
+      "pos": "phrase",
+      "level": "专八",
+      "cn": "违反；与…冲突",
+      "en": "to break a law or rule; to come into conflict with",
+      "excerpt": "that still might run afoul of the Constitution.",
+      "example_cn": "该政策可能违反宪法。"
+    },
+    {
+      "word": "bar",
+      "phonetic": "/bɑːr/",
+      "pos": "verb",
+      "level": "考研",
+      "cn": "禁止",
+      "en": "to prevent or prohibit",
+      "excerpt": "it's already barred by the law.",
+      "example_cn": "法律禁止这种行为。"
+    },
+    {
+      "word": "political statement",
+      "phonetic": "/pəˈlɪtɪkl ˈsteɪtmənt/",
+      "pos": "noun phrase",
+      "level": "考研",
+      "cn": "政治声明",
+      "en": "an action or remark intended to express a political opinion",
+      "excerpt": "These are both political statements far more than legal ones.",
+      "example_cn": "这次抗议是一种政治声明。"
+    },
+    {
+      "word": "affordability",
+      "phonetic": "/əˌfɔːrdəˈbɪləti/",
+      "pos": "noun",
+      "level": "考研",
+      "cn": "可负担性",
+      "en": "the state of being affordable; reasonable price",
+      "excerpt": "The president was asked about, for example, affordability.",
+      "example_cn": "住房的可负担性是一个大问题。"
+    },
+    {
+      "word": "midterms",
+      "phonetic": "/ˈmɪdtɜːrmz/",
+      "pos": "noun",
+      "level": "考研",
+      "cn": "中期选举",
+      "en": "elections held in the middle of a president's term",
+      "excerpt": "What is your message on affordability going into the midterms?",
+      "example_cn": "中期选举即将到来。"
+    },
+    {
+      "word": "inherit",
+      "phonetic": "/ɪnˈherɪt/",
+      "pos": "verb",
+      "level": "考研",
+      "cn": "继承",
+      "en": "to receive something from a predecessor",
+      "excerpt": "I inherited the highest prices ever.",
+      "example_cn": "他继承了前任留下的问题。"
+    },
+    {
+      "word": "referendum",
+      "phonetic": "/ˌrefəˈrendəm/",
+      "pos": "noun",
+      "level": "考研",
+      "cn": "公民投票",
+      "en": "a general vote by the public on a political issue",
+      "excerpt": "Can you turn the midterms into a referendum on Biden instead of Trump?",
+      "example_cn": "这次选举是对政府政策的公投。"
+    },
+    {
+      "word": "amp up",
+      "phonetic": "/æmp ʌp/",
+      "pos": "phrasal verb",
+      "level": "考研",
+      "cn": "增强；提高",
+      "en": "to increase or intensify",
+      "excerpt": "really does amp up a certain percentage of the base.",
+      "example_cn": "这种言论激起了支持者的热情。"
+    },
+    {
+      "word": "distract",
+      "phonetic": "/dɪˈstrækt/",
+      "pos": "verb",
+      "level": "考研",
+      "cn": "分散注意力",
+      "en": "to prevent someone from concentrating",
+      "excerpt": "using a bright shiny thing to distract from affordability.",
+      "example_cn": "他试图用其他话题来转移注意力。"
+    },
+    {
+      "word": "prosecute",
+      "phonetic": "/ˈprɑːsɪkjuːt/",
+      "pos": "verb",
+      "level": "考研",
+      "cn": "起诉",
+      "en": "to institute legal proceedings against",
+      "excerpt": "Americans often get prosecuted for that.",
+      "example_cn": "他被起诉犯有欺诈罪。"
+    },
+    {
+      "word": "strip",
+      "phonetic": "/strɪp/",
+      "pos": "verb",
+      "level": "考研",
+      "cn": "剥夺",
+      "en": "to remove something from someone, especially rights or property",
+      "excerpt": "wherein citizenship is stripped of people who come from foreign countries",
+      "example_cn": "他被剥夺了公民身份。"
+    },
+    {
+      "word": "enforcement",
+      "phonetic": "/ɪnˈfɔːrsmənt/",
+      "pos": "noun",
+      "level": "考研",
+      "cn": "执行；强制实施",
+      "en": "the act of enforcing a law or rule",
+      "excerpt": "I actually didn't get to enforcement.",
+      "example_cn": "法律的执行至关重要。"
+    },
+    {
+      "word": "oomph",
+      "phonetic": "/ʊmf/",
+      "pos": "noun",
+      "level": "专八",
+      "cn": "活力；力量",
+      "en": "energy, vitality, or power",
+      "excerpt": "adding a little extra oomph to existing penalties?",
+      "example_cn": "这个演讲需要一些活力。"
+    },
+    {
+      "word": "clap back",
+      "phonetic": "/klæp bæk/",
+      "pos": "phrasal verb",
+      "level": "专八",
+      "cn": "回击；反驳",
+      "en": "to respond sharply or critically to criticism",
+      "excerpt": "And clapping back at the Supreme Court.",
+      "example_cn": "她迅速回击了批评者。"
+    },
+    {
+      "word": "endorsement",
+      "phonetic": "/ɪnˈdɔːrsmənt/",
+      "pos": "noun",
+      "level": "考研",
+      "cn": "支持；背书",
+      "en": "public support or approval",
+      "excerpt": "We're going to ask about the power of a Trump endorsement this week.",
+      "example_cn": "他的支持对候选人很重要。"
+    },
+    {
+      "word": "discharge",
+      "phonetic": "/dɪsˈtʃɑːrdʒ/",
+      "pos": "verb",
+      "level": "考研",
+      "cn": "准许离开；出院",
+      "en": "to allow someone to leave a hospital or other institution",
+      "excerpt": "Senator Mitch McConnell saying that he's been discharged from a rehabilitation center",
+      "example_cn": "病人已经出院。"
+    },
+    {
+      "word": "proxy",
+      "phonetic": "/ˈprɑːksi/",
+      "pos": "noun",
+      "level": "考研",
+      "cn": "代理人；委托书",
+      "en": "a person authorized to act for another; a document giving such authority",
+      "excerpt": "He voted by proxy on the Senate Agriculture Committee's farm bill.",
+      "example_cn": "他通过代理人投票。"
+    },
+    {
+      "word": "ration",
+      "phonetic": "/ˈræʃn/",
+      "pos": "verb",
+      "level": "考研",
+      "cn": "定量配给",
+      "en": "to limit the amount of something each person can have",
+      "excerpt": "more than 180,000 Puerto Ricans forced to ration water",
+      "example_cn": "在干旱期间，水被定量配给。"
+    },
+    {
+      "word": "relentless",
+      "phonetic": "/rɪˈlentləs/",
+      "pos": "adjective",
+      "level": "考研",
+      "cn": "不间断的；残酷的",
+      "en": "continuing without stopping; harsh",
+      "excerpt": "amid a relentless drought.",
+      "example_cn": "无情的干旱摧毁了庄稼。"
+    },
+    {
+      "word": "liable",
+      "phonetic": "/ˈlaɪəbl/",
+      "pos": "adjective",
+      "level": "考研",
+      "cn": "负有法律责任的",
+      "en": "legally responsible",
+      "excerpt": "where a jury already found the company liable back in March",
+      "example_cn": "该公司被判负有责任。"
+    },
+    {
+      "word": "hefty",
+      "phonetic": "/ˈhefti/",
+      "pos": "adjective",
+      "level": "考研",
+      "cn": "大额的；重的",
+      "en": "large in amount or size",
+      "excerpt": "ordering them to pay another hefty fine.",
+      "example_cn": "他收到了一张巨额罚单。"
+    },
+    {
+      "word": "appeal",
+      "phonetic": "/əˈpiːl/",
+      "pos": "verb",
+      "level": "考研",
+      "cn": "上诉",
+      "en": "to apply to a higher court for a reversal of a decision",
+      "excerpt": "Meta denies the claims and plans to appeal.",
+      "example_cn": "该公司计划上诉。"
+    },
+    {
+      "word": "vilify",
+      "phonetic": "/ˈvɪlɪfaɪ/",
+      "pos": "verb",
+      "level": "专八",
+      "cn": "诽谤；中伤",
+      "en": "to speak or write about in an abusively disparaging manner",
+      "excerpt": "I don't mean to vilify tech in the way that tobacco",
+      "example_cn": "媒体试图诋毁这位政客。"
+    },
+    {
+      "word": "litigation",
+      "phonetic": "/ˌlɪtɪˈɡeɪʃn/",
+      "pos": "noun",
+      "level": "考研",
+      "cn": "诉讼",
+      "en": "the process of taking legal action",
+      "excerpt": "the litigation strategy, the public relations strategy",
+      "example_cn": "诉讼过程漫长而昂贵。"
+    },
+    {
+      "word": "algorithm",
+      "phonetic": "/ˈælɡərɪðəm/",
+      "pos": "noun",
+      "level": "考研",
+      "cn": "算法",
+      "en": "a process or set of rules to be followed in calculations or problem-solving operations",
+      "excerpt": "in the time of streaming algorithms and TikTok",
+      "example_cn": "社交媒体算法决定了我们看到的内容。"
+    },
+    {
+      "word": "ubiquity",
+      "phonetic": "/juːˈbɪkwəti/",
+      "pos": "noun",
+      "level": "专八",
+      "cn": "普遍存在",
+      "en": "the state of being everywhere at once",
+      "excerpt": "I feel like the ubiquity of those songs",
+      "example_cn": "智能手机的普及无处不在。"
+    },
+    {
+      "word": "electoral college",
+      "phonetic": "/ɪˈlektərəl ˈkɑːlɪdʒ/",
+      "pos": "noun phrase",
+      "level": "考研",
+      "cn": "选举团",
+      "en": "a body of people representing the states of the US, who formally cast votes for the election of the president",
+      "excerpt": "Ella Langley won the Electoral College of song of the summer.",
+      "example_cn": "选举团制度在美国总统选举中至关重要。"
+    },
+    {
+      "word": "niche",
+      "phonetic": "/niːʃ/",
+      "pos": "adjective",
+      "level": "考研",
+      "cn": "小众的",
+      "en": "denoting products, services, or interests that appeal to a small, specialized section of the population",
+      "excerpt": "somebody who is very, very niche can find their audience",
+      "example_cn": "这个小众市场有忠实的消费者。"
+    },
+    {
+      "word": "prevail",
+      "phonetic": "/prɪˈveɪl/",
+      "pos": "verb",
+      "level": "考研",
+      "cn": "获胜；占上风",
+      "en": "to prove more powerful than opposing forces; to be victorious",
+      "excerpt": "there are some other songs that could still prevail",
+      "example_cn": "正义最终会获胜。"
+    },
+    {
+      "word": "obligatory",
+      "phonetic": "/əˈblɪɡətɔːri/",
+      "pos": "adjective",
+      "level": "考研",
+      "cn": "必须的；义务的",
+      "en": "required by a legal, moral, or other rule; compulsory",
+      "excerpt": "The obligatory Taylor Swift entry.",
+      "example_cn": "这是必须的步骤。"
+    },
+    {
+      "word": "dominant",
+      "phonetic": "/ˈdɑːmɪnənt/",
+      "pos": "adjective",
+      "level": "考研",
+      "cn": "占主导地位的",
+      "en": "having power and influence over others",
+      "excerpt": "country is kind of dominant.",
+      "example_cn": "乡村音乐在排行榜上占主导地位。"
+    },
+    {
+      "word": "catcall",
+      "phonetic": "/ˈkætkɔːl/",
+      "pos": "noun",
+      "level": "专八",
+      "cn": "嘘声；口哨声",
+      "en": "a loud whistle or shout of disapproval or derision",
+      "excerpt": "they are the catcalls of a nation baring its collective skin.",
+      "example_cn": "人群发出嘘声。"
+    },
+    {
+      "word": "sleeper",
+      "phonetic": "/ˈsliːpər/",
+      "pos": "noun",
+      "level": "考研",
+      "cn": "黑马；冷门",
+      "en": "a person or thing that achieves unexpected success",
+      "excerpt": "Sleeper was \"Dai Dai\" by Shakira and Burna Boy",
+      "example_cn": "这部电影是票房黑马。"
+    },
+    {
+      "word": "consciousness",
+      "phonetic": "/ˈkɑːnʃəsnəs/",
+      "pos": "noun",
+      "level": "考研",
+      "cn": "意识；知觉",
+      "en": "the state of being aware of and responsive to one's surroundings",
+      "excerpt": "it just sort of is in the consciousness now.",
+      "example_cn": "这首歌已经深入人心。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Now, just a few weeks ago, the Supreme Court ruled that Trump's effort to ban birthright citizenship by executive order was illegal.",
+      "cn": "就在几周前，最高法院裁定特朗普通过行政命令禁止出生公民权的努力是非法的。",
+      "structure": "主句（the Supreme Court ruled）+ that引导的宾语从句（Trump's effort ... was illegal）",
+      "analysis": "宾语从句中，主语是Trump's effort，不定式to ban birthright citizenship作后置定语，by executive order作方式状语。"
+    },
+    {
+      "en": "The White House says this one will impact several groups, specifically, including alien enemies, members of foreign terror organizations, and people who work for foreign governments by making children born to folks in those groups ineligible for U.S. citizenship.",
+      "cn": "白宫表示，这项命令将影响几个群体，具体包括敌国侨民、外国恐怖组织成员以及为外国政府工作的人，通过使这些群体所生的孩子没有资格获得美国公民身份。",
+      "structure": "主句（The White House says）+ that宾语从句（省略that），从句中including...作插入语，by making...作方式状语",
+      "analysis": "宾语从句中，主语是this one，谓语will impact，宾语several groups，including...是对groups的补充说明，by making...是方式状语，其中born to folks in those groups是过去分词短语作后置定语修饰children。"
+    },
+    {
+      "en": "Any time the president, by executive order, attempts to redefine or change the definition of citizenship, he's on murky legal ground.",
+      "cn": "每当总统试图通过行政命令重新定义或改变公民身份的定义时，他就处于模糊的法律境地。",
+      "structure": "Any time引导时间状语从句，主句为he's on murky legal ground",
+      "analysis": "Any time相当于whenever，引导时间状语从句。从句中，主语the president，谓语attempts，不定式to redefine or change作宾语，by executive order是方式状语。"
+    },
+    {
+      "en": "Now, because this is politically sound or smart, I think many people would agree.",
+      "cn": "现在，因为这在政治上是合理的或明智的，我想很多人会同意。",
+      "structure": "because引导原因状语从句，主句为I think many people would agree",
+      "analysis": "原因状语从句中，this指代前文提到的政策。主句中，I think后接省略that的宾语从句。"
+    },
+    {
+      "en": "We don't want the children of Hamas leadership or of al Qaeda being citizens of the United States.",
+      "cn": "我们不希望哈马斯领导层或基地组织成员的子女成为美国公民。",
+      "structure": "主句（We don't want）+ 宾语（the children）+ 宾语补足语（being citizens）",
+      "analysis": "want后接复合宾语，the children是宾语，being citizens是现在分词短语作宾语补足语，表示状态。"
+    },
+    {
+      "en": "Now we need to separate out the birthright one from the birth tourism one, which says something totally different and is on stronger legal ground.",
+      "cn": "现在我们需要将出生公民权与生育旅游区分开来，后者说的是完全不同的事情，并且有更坚实的法律基础。",
+      "structure": "主句（we need to separate out...）+ which引导的非限制性定语从句",
+      "analysis": "separate out...from...表示“把…与…区分开”。which指代the birth tourism one，在定语从句中作主语，谓语是says和is。"
+    },
+    {
+      "en": "And then the president, if you want to change the laws, it's going to have to come from Congress.",
+      "cn": "然后总统，如果你想改变法律，就必须来自国会。",
+      "structure": "if引导条件状语从句，主句为it's going to have to come from Congress",
+      "analysis": "这是一个口语化的句子，结构松散。if you want to change the laws是条件状语，主句的主语it指代改变法律这件事。"
+    },
+    {
+      "en": "The administration returns to the well, when it thinks it has hit on an issue that people really care about.",
+      "cn": "当政府认为它找到了人们真正关心的问题时，它就会反复使用这一招。",
+      "structure": "主句（The administration returns to the well）+ when引导的时间状语从句，其中包含that引导的定语从句",
+      "analysis": "returns to the well是习语，意为“反复使用同一方法”。when从句中，it thinks后接省略that的宾语从句，宾语从句中又包含that引导的定语从句修饰issue。"
+    },
+    {
+      "en": "Even something like banning people who work for foreign governments from citizenship.",
+      "cn": "甚至像禁止为外国政府工作的人获得公民身份这样的措施。",
+      "structure": "省略主语的句子，核心是banning people from citizenship",
+      "analysis": "这是一个不完整的句子，可能是口语中的省略。banning people from citizenship是动名词短语，who work for foreign governments是定语从句修饰people。"
+    },
+    {
+      "en": "So, how do you cut a line wherein citizenship is stripped of people who come from foreign countries, but Americans engage in the same kind?",
+      "cn": "那么，你如何划清界限，剥夺来自外国的人的公民身份，而美国人却从事同样的行为？",
+      "structure": "主句（how do you cut a line）+ wherein引导的定语从句",
+      "analysis": "wherein相当于in which，引导定语从句修饰line。从句中，citizenship is stripped of people是主谓结构，who come from foreign countries是定语从句修饰people，but连接转折。"
+    },
+    {
+      "en": "And then in the meantime, there's a water crisis in Puerto Rico.",
+      "cn": "与此同时，波多黎各出现了水危机。",
+      "structure": "there be句型",
+      "analysis": "in the meantime是时间状语，there's是there is的缩写，表示存在。"
+    },
+    {
+      "en": "A judge in New Mexico orders Meta to strictly restrict youth accounts and pay $567 million into a children's mental health fund for its role in a youth mental health crisis.",
+      "cn": "新墨西哥州的一名法官命令Meta严格限制青少年账户，并向儿童心理健康基金支付5.67亿美元，因为其在青少年心理健康危机中扮演的角色。",
+      "structure": "主句（A judge orders Meta to...）+ and连接并列的不定式短语",
+      "analysis": "orders sb. to do sth.结构，to strictly restrict...和pay...是并列的不定式短语作宾语补足语。for its role...是原因状语。"
+    },
+    {
+      "en": "It's tobacco all over again.",
+      "cn": "这又是烟草问题的重演。",
+      "structure": "主系表结构",
+      "analysis": "all over again意为“再次”，表示类似的情况再次发生。"
+    },
+    {
+      "en": "However, it's the same strategy, which is you have a product that, when used properly, causes some harms to some people.",
+      "cn": "然而，这是同样的策略，即你有一种产品，如果使用得当，会对某些人造成一些伤害。",
+      "structure": "主句（it's the same strategy）+ which引导的非限制性定语从句，其中包含that引导的定语从句和when引导的省略状语从句",
+      "analysis": "which指代strategy，在定语从句中作表语。that引导定语从句修饰product，when used properly是省略了主语和be动词的状语从句，相当于when it is used properly。"
+    },
+    {
+      "en": "And you're seeing that here.",
+      "cn": "你在这里也看到了这一点。",
+      "structure": "主谓宾结构",
+      "analysis": "that指代前文提到的策略。"
+    },
+    {
+      "en": "But in the time of streaming algorithms and TikTok, is the whole concept dead?",
+      "cn": "但在流媒体算法和TikTok的时代，整个概念是否已经消亡？",
+      "structure": "一般疑问句，主语是the whole concept，系动词is，表语dead",
+      "analysis": "in the time of...是时间状语，表示“在…时代”。"
+    },
+    {
+      "en": "Two contradictory things can be true.",
+      "cn": "两件矛盾的事情可能都是真的。",
+      "structure": "主系表结构",
+      "analysis": "can be true表示“可能是真的”。"
+    },
+    {
+      "en": "On the one hand, everyone has their own personalized feed.",
+      "cn": "一方面，每个人都有自己个性化的信息流。",
+      "structure": "主谓宾结构",
+      "analysis": "on the one hand是插入语，表示“一方面”。"
+    },
+    {
+      "en": "And on the other hand, Ella Langley has broken records that were held by Whitney Houston, Mariah Carey.",
+      "cn": "另一方面，Ella Langley打破了惠特妮·休斯顿、玛丽亚·凯莉保持的纪录。",
+      "structure": "主句（Ella Langley has broken records）+ that引导的定语从句",
+      "analysis": "on the other hand是插入语，that在定语从句中作主语，指代records。"
+    },
+    {
+      "en": "One of our \"Engagement Party\" producers said Ella Langley won the Electoral College of song of the summer.",
+      "cn": "我们《Engagement Party》的一位制片人说，Ella Langley赢得了夏季歌曲的“选举人团”。",
+      "structure": "主句（One of our producers said）+ that宾语从句（省略that）",
+      "analysis": "宾语从句中，主语是Ella Langley，谓语won，宾语the Electoral College of song of the summer，这是一个比喻。"
+    },
+    {
+      "en": "Back in the day, the music industry was very algorithmic as any other industry was.",
+      "cn": "在过去，音乐行业和其他行业一样，非常算法化。",
+      "structure": "主句（the music industry was very algorithmic）+ as引导的比较状语从句",
+      "analysis": "as any other industry was是比较状语从句，表示“和其他行业一样”。"
+    },
+    {
+      "en": "Now that we're in the digital streaming age, there is no control over the algorithm.",
+      "cn": "既然我们处于数字流媒体时代，算法就无法控制。",
+      "structure": "Now that引导原因状语从句，主句为there be句型",
+      "analysis": "Now that意为“既然”，引导原因状语从句。主句是there is no control over...，表示“对…无法控制”。"
+    },
+    {
+      "en": "It's not because the music isn't incredible.",
+      "cn": "这不是因为音乐不够好。",
+      "structure": "主系表结构，because引导表语从句",
+      "analysis": "It指代前文提到的现象，not because...表示“不是因为…”。"
+    },
+    {
+      "en": "But I think there's something to that.",
+      "cn": "但我认为这有一定道理。",
+      "structure": "主句（I think）+ that宾语从句（省略that）",
+      "analysis": "there's something to that意为“那有一定道理”。"
+    },
+    {
+      "en": "People drop albums sometimes and I'm like, wait, when did that come out?",
+      "cn": "人们有时会发专辑，我会想，等等，那是什么时候出的？",
+      "structure": "并列句，由and连接",
+      "analysis": "第一个分句是主谓宾结构，第二个分句是主系表结构，I'm like是口语表达，意为“我想”。"
+    },
+    {
+      "en": "But the flip side of that coin is somebody who is very, very niche can find their audience without the radio station overlords having to decide that they are worth radio play.",
+      "cn": "但另一面是，非常小众的人可以找到自己的听众，而不需要电台大佬来决定他们是否值得播放。",
+      "structure": "主句（the flip side is somebody）+ who引导的定语从句，其中包含without复合结构",
+      "analysis": "the flip side of that coin是习语，意为“事情的另一面”。who引导定语从句修饰somebody，without the radio station overlords having to decide是without+名词+现在分词的复合结构，作状语。"
+    },
+    {
+      "en": "What's interesting to me here is how much country music there is.",
+      "cn": "对我来说有趣的是，乡村音乐有多少。",
+      "structure": "主语从句（What's interesting to me here）+ 系动词is + 表语从句（how much country music there is）",
+      "analysis": "What引导主语从句，how much引导表语从句，there is是存在句。"
+    },
+    {
+      "en": "Like country is really, I don't want to say having a moment.",
+      "cn": "就像乡村音乐真的，我不想说它正流行。",
+      "structure": "主句（country is really having a moment）+ 插入语（I don't want to say）",
+      "analysis": "I don't want to say是插入语，表示“我不想说”。having a moment意为“正流行”。"
+    },
+    {
+      "en": "And if you look at recent songs of the summer from like Lil Naz X, \"Old Town Road\" to Post Malone and Morgan Wallen, like country is kind of dominant.",
+      "cn": "如果你看看最近的夏季歌曲，从Lil Nas X的《Old Town Road》到Post Malone和Morgan Wallen，乡村音乐有点占主导地位。",
+      "structure": "if引导条件状语从句，主句为country is kind of dominant",
+      "analysis": "条件状语从句中，look at...from...to...表示“从…到…看”。主句中，kind of意为“有点”。"
+    },
+    {
+      "en": "Ann Powers from NPR, wrote a long time ago that what makes a song of the summer is it blares forth from car radios, boom boxes, and at the beach, and they are the catcalls of a nation baring its collective skin.",
+      "cn": "NPR的Ann Powers很久以前写道，一首歌成为夏季歌曲的原因是它从汽车收音机、音箱和海滩上大声播放，它们是一个国家裸露集体皮肤的嘘声。",
+      "structure": "主句（Ann Powers wrote）+ that宾语从句，其中包含what主语从句和and连接的并列句",
+      "analysis": "宾语从句中，what makes a song of the summer是主语从句，is是系动词，it blares forth...是表语从句。and连接两个并列句，第二个分句中baring its collective skin是现在分词作后置定语修饰nation。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "Birthright Citizenship and Executive Orders",
+      "content": "The segment discusses President Trump's second attempt to limit birthright citizenship via executive order, targeting alien enemies, foreign terror organization members, and foreign government employees. The Supreme Court previously ruled his first attempt illegal. Legal analysts note the order is likely unconstitutional and more of a political statement. The concept of birthright citizenship is rooted in the 14th Amendment.",
+      "keywords": "birthright citizenship, executive order, 14th Amendment, Supreme Court, alien enemies, birth tourism"
+    },
+    {
+      "title": "Midterm Elections and Political Priorities",
+      "content": "The conversation touches on the upcoming midterm elections, with polling showing 73% of Americans think Trump has wrong priorities. There is discussion about whether the administration can shift focus from affordability to other issues like immigration. The panel debates the effectiveness of Trump's endorsements in primaries.",
+      "keywords": "midterms, affordability, priorities, polling, Trump endorsement"
+    },
+    {
+      "title": "Children's Mental Health and Tech Accountability",
+      "content": "A judge in New Mexico ordered Meta to restrict youth accounts and pay $567 million into a children's mental health fund. This follows a jury finding Meta liable in a child safety case. The panel compares this to tobacco litigation, noting the growing legal and social pressure on tech companies regarding youth mental health.",
+      "keywords": "Meta, youth mental health, litigation, child safety, tobacco strategy"
+    },
+    {
+      "title": "Song of the Summer and Streaming Algorithms",
+      "content": "The segment debates whether the concept of 'song of the summer' is dead in the age of streaming algorithms and TikTok. Ella Langley's 'Choosin' Texas' is a top contender, breaking records. Panelists discuss how personalized feeds fragment cultural moments, yet some songs still achieve ubiquity. They share their personal picks.",
+      "keywords": "song of the summer, streaming algorithms, TikTok, Ella Langley, Billboard Hot 100"
+    }
+  ],
+  "raw_transcript": "Return to Transcripts main page\n\nTrump Tries New Executive Order to Limit Birthright Citizenship; Meta Ordered to Pay into Children's Mental Health Fund; Is the Song of the Summer Concept Officially Dead? Aired 6-6:30a ET\n\nAired August 07, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nBRAD SMITH, CNN ANCHOR: Any injuries.\n\nAll right. And take a look at this. Little rubber ducks took over the Chicago River to support the Special Olympics. Each duck was sold for at least $10, and the winning duck's owner received a new car.\n\nThe Chicago Ducky Derby has raised nearly $5 million for Special Olympic athletes since 2005.\n\nWell, that does it for CNN HEADLINE EXPRESS. I'm Brad Smith. CNN THIS MORNING with Audie Cornish starts right now.\n\nAUDIE CORNISH, CNN ANCHOR: Today in the group chat, the president taking another swing at birthright citizenship, this time targeting, quote, \"alien enemies.\" So, will this one hold up legally?\n\nSTEPHEN MILLER, WHITE HOUSE DEPUTY CHIEF OF STAFF: That practice of birth tourism is, as of the signing of this order, hereby banned.\n\nCORNISH: And Dr. Fauci held in contempt, and a criminal prosecution could be next. Did he do more harm than good to his legacy after invoking the Fifth?\n\nAnd flame-fueling winds, intense heat. The race to contain the wildfires in Washington state is about -- is about to get harder.\n\nAnd A.I. bots, now designing viruses. What could possibly go wrong?\n\nUNIDENTIFIED FEMALE: Now that we've opened Pandora's box, how do we keep it from being used for harm?\n\n(BEGIN VIDEO CLIP) DONALD TRUMP, U.S. PRESIDENT: We had a very unfortunate decision in\n\nthe Supreme Court concerning birthright. It was close, but a very, very unfortunate decision. So, we're making adjustments.\n\nCORNISH: If at first you don't succeed, make some adjustments. But will it work this time?\n\nGood morning, everybody. I'm Audie Cornish, and here is where we begin. President Trump with his second try at limiting birthright citizenship.\n\nNow, just a few weeks ago, the Supreme Court ruled that Trump's effort to ban birthright citizenship by executive order was illegal.\n\nOn Thursday, he signed another executive order. The White House says this one will impact several groups, specifically, including alien enemies, members of foreign terror organizations, and people who work for foreign governments by making children born to folks in those groups ineligible for U.S. citizenship.\n\nNow, the order also bans so-called \"birth tourism,\" even though that is already illegal under U.S. law.\n\nMILLER: -- be sure that domestic --\n\nI would put this in the top three in terms of importance, because it ends what has been one of the greatest and most egregious abuses of the American system. And it keeps American citizenship sacred.\n\nCORNISH: So, joining me now in the group chat, Noel King, co-host of the podcast and radio show \"Today, Explained\"; David Avella, chairman of GOPAC; and Elliot Williams, CNN legal analyst and former deputy assistant attorney general.\n\nElliot, since I bought your title, you get to go first. So, here's -- one, I just need the basics.\n\nELLIOT WILLIAMS, CNN LEGAL ANALYST: Yes.\n\nCORNISH: Fourteenth Amendment.\n\nCORNISH: Basically, the Supreme Court majority --\n\nCORNISH: -- said leave it alone. Yes, this is the law.\n\nWILLIAMS: Yes. CORNISH: So, what is different about this executive order, functionally?\n\nWILLIAMS: I don't know. And here's the challenging thing, Audie. Any time the president, by executive order, attempts to redefine or change the definition of citizenship, he's on murky legal ground. It's shaky. And the Supreme Court had said this before.\n\nNow, because this is politically sound or smart, I think many people would agree. We don't want the children of Hamas leadership or of al Qaeda being citizens of the United -- United States. OK, that's politically sound, but that still might run afoul of the Constitution.\n\nWILLIAMS: It's complicated.\n\nNow we need to separate out the birthright one from the birth tourism one, which says something totally different and is on stronger legal ground. Even it doesn't do anything, right? It's still -- it's already barred by the law. Right?\n\nCORNISH: It's already illegal. Yes.\n\nWILLIAMS: And so yes, same thing. These are both political statements far more than legal ones. And -- that first one is absolutely going to be challenged in the courts.\n\nCORNISH: So, let's go to political statements, then. People were, of course, asked, is this the most important thing right now to be talking about?\n\nAnd David, I want to ask you about it. The president was asked about, for example, affordability. Here was his take.\n\nMILLER: I would put this --\n\nUNIDENTIFIED FEMALE: What is your message on affordability going into the midterms?\n\nTRUMP: Well, that's a good question. But it's sort of simple to answer. I inherited the highest prices ever.\n\nCORNISH: OK. I want to show you some polling at the end of that statement was him saying I inherited the highest prices from the Biden administration.\n\nThe problem is, when we actually call people for polls and we ask, does Trump have the right priorities right now, the big number, 73 percent, say no.\n\nAnd then we did break it down by partisans. Does Trump have the right priorities?\n\nAnd what's worse is you see movement. Republicans who once thought, yes, pretty much, 70 percent of them. Now, 60 percent, 66 percent of them are like, you know, I don't know about that.\n\nIndependents, you also see a shift.\n\nAt what point should this shift actually be a concern for the Stephen Millers of the world?\n\nDAVID AVELLA, CHAIRMAN, GOPAC: Today, as we're getting closer and closer to the midterm elections, and that will ultimately decide what the final two years of the president's agenda looks like.\n\nAnd I mean, to this birthright tourism and citizenship. I will say the president does like to keep the Supreme Court making their money and making sure Elliot has good things to talk about.\n\nWILLIAMS: It's a great life. It's good. It's a good living if you can find it.\n\nAVELLA: And so, look, ultimately, this is going to have to be decided by Congress. And then the president, if you want to change the laws, it's going to have to come from Congress. And then --\n\nCORNISH: By laws we mean the Constitution.\n\nAVELLA: -- and then the president --\n\nCORNISH: Like it's not just a couple of -- yes.\n\nAVELLA: There is a process. That's right. For -- for long-term impact.\n\nNot just simply an executive order, which means then that's why the elections are so important.\n\nAnd look, the good news is you are starting to see some affordability come down. You're seeing companies like Walmart and others that are --\n\nAVELLA: -- voluntarily bringing down.\n\nCORNISH: His argument is that, hey, I inherited bad numbers, and therefore it's bad. And I don't know. Can you turn the midterms into a referendum on Biden instead of Trump?\n\nNOEL KING, CO-HOST, \"TODAY, EXPLAINED\": I mean, one would hope not. It's been a few years, right?\n\nCORNISH: Has it? Because we've been talking about Dr. Fauci, who we'll -- we'll still be discussing that at length today.\n\nKING: We're back in 2020.\n\nKING: I mean, the administration returns to the well, when it when it thinks it has hit on an issue that people really care about. And, you know, birthright tourism, that kind of thing --\n\nKING: -- really does amp up a certain percentage of the base.\n\nHowever, the inability to address affordability in any real way, as we just saw, it's going to be a problem. You know?\n\nWILLIAMS: But back to the -- the political point and just using a bright shiny thing to distract from affordability.\n\nEven something like banning people who -- from citizenship, who work for foreign governments. A lot of Americans do that. Americans often get prosecuted for that. Remember Paul Manafort --\n\nWILLIAMS: -- or the rapper Pras was prosecuted for this.\n\nWILLIAMS: Right, exactly. Was prosecuted for this, as well, working for foreign governments.\n\nSo, how do you cut a line wherein citizenship is stripped of people who come from foreign countries, but Americans engage in the same kind? So, it's just sort of a legal mess.\n\nCORNISH: I actually didn't get to enforcement.\n\nCORNISH: I wasn't clear on this. Does this mean ICE is going to be at the airport? I mean, I -- I traveled when I was pregnant, and let me tell you, if someone came up to me and started asking a bunch of questions, I would not be in the mood.\n\nSo, I can't really imagine this scenario where it's like, nice belly there.\n\nCORNISH: Would be a shame if something happened to it. That seems really dark. You know?\n\nCORNISH: Like, I don't understand --\n\nKING: And also, like, are you in Hamas? I mean, I really -- I do -- WILLIAMS: Oh, and if you want to go down the legal hole, like, are you\n\nin Hamas or are you providing aid and comfort to people in Hamas, but not necessarily a member? It just gets complicated legally --\n\nWILLIAMS: -- when you're going to start tinkering with --\n\nCORNISH: So, it's just really just about adding a little extra oomph to existing penalties?\n\nWILLIAMS: I think so. No, I think it's about making a political statement at a time --\n\nCORNISH: OK. I tried.\n\nWILLIAMS: No, you are. But you're right, though.\n\nCORNISH: I'm going -- I'm asking legal questions.\n\nWILLIAMS: And clapping back at the Supreme Court.\n\nWILLIAMS: That's what this is about.\n\nCORNISH: OK. Coming up on CNN THIS MORNING, we want to talk about a couple more elections, this time on the Republican side. A Trump- backed candidate loses in Tennessee and then another in Michigan. We're going to ask about the power of a Trump endorsement this week.\n\nPlus, is it safe to eat lettuce again? Why the state at the center of the cyclospora outbreak is putting it back on the menu.\n\nAnd then in the meantime, there's a water crisis in Puerto Rico. Thousands of people forced to cut back already scarce supplies.\n\nCORNISH: It is 13 minutes past the hour. This is your morning roundup.\n\nSenator Mitch McConnell saying that he's been discharged from a rehabilitation center, that he's back home, and he's still casting votes. He voted by proxy on the Senate Agriculture Committee's farm bill. His vote didn't count, because the bill failed.\n\nMcConnell says he will continue to engage with his staff and colleagues on important Senate business while he recovers.\n\nAnd more than 180,000 Puerto Ricans forced to ration water amid a relentless drought. People in San Juan and neighboring areas will be losing water for 48 hours at a time. They've already been without reliable water for more than 100 days.\n\nOfficials say the water rationing schedule could expand to 72 hours at a time.\n\nAnd a judge in New Mexico orders Meta to strictly restrict youth accounts and pay $567 million into a children's mental health fund for its role in a youth mental health crisis.\n\nThis decision is tied to a child safety case against Meta, where a jury already found the company liable back in March, ordering them to pay another hefty fine.\n\nMeta denies the claims and plans to appeal.\n\nAnd Noel and I have both done reporting on this, and it feels like the parents and the child safety cases are making gains.\n\nKING: The parents are winning. The parents are winning, and it's because you put them in court. You put their kids in court up against a tech company CEO, and it's just impossible not to side --\n\nKING: -- in a lot of cases with the family. You know, especially. You've reported on this issue, some of these horrible outcomes.\n\nCORNISH: Yes. And also, because Congress isn't really taking any action in this area.\n\nWILLIAMS: Yes. You know --\n\nCORNISH: The states are --\n\nWILLIAMS: Yes. It's -- it's tobacco all over again. And we're going to keep seeing this. And I don't mean to vilify tech in the way that tobacco, which literally killed many, many people who used it.\n\nHowever, it's the same strategy, which is you have a product that, when used properly, causes some harms to some people. And the litigation strategy, the public relations strategy --\n\nCORNISH: Is very similar. Yes.\n\nWILLIAMS: -- and just sort of the general social unease about it that's growing is -- is what's driving the day to day. And you're seeing that here.\n\nOK. Well, I want to turn to this after the break. Hundreds of Boeing jets are going to be inspected for cracks. So, we want to know whether or not they are safe for us to fly in.\n\nPlus, is \"Choosin' Texas\" the song of the summer, or have algorithms killed the radio star?\n\nAnd good morning to our viewers in Nashville.\n\n(COMMERCIAL BREAK) [06:20:17]\n\nUNIDENTIFIED MALE: Where is our song of the summer?\n\nUNIDENTIFIED MALE: Isn't it just that Ella Langley song?\n\nUNIDENTIFIED MALE: No, there has to be more than just \"Choosin' Texas.\"\n\nUNIDENTIFIED FEMALE: I released an album. Still no song of the summer. OK, I'm starting to get irritated because what? What is y'all? What is everybody doing?\n\nCORNISH: Everybody is begging for the song of the summer. It is August, folks.\n\nBut in the time of streaming algorithms and TikTok, is the whole concept dead? \"Rolling Stone,\" \"Billboard,\" \"Pitchfork\" agree with some of those TikTokers, but the song of the summer might be Ella Langley's \"Choosin' Texas\" this year.\n\nELLA LANGLEY, SINGER (singing): She's from Texas. I can tell by the way he's two-stepping round the room.\n\nCORNISH: OK, so here's the metric we're using. The song has been No. 1 for 16 weeks. It has made history on the \"Billboard\" Hot 100.\n\nSpotify also added Drake's \"Janice STFU\" and Kacey Musgraves \"Mexico Honey\" to their list. But then when I talked about this online, y'all pretty much roasted me, saying that it's \"Spend Dat\" by Yung Miami. And Millie Bobby Brown thinks it's this.\n\nMILLIE BOBBY BROWN, ACTRESS (singing): Never ending midnight sun.\n\nUNIDENTIFIED MALE: What was that?\n\nCORNISH: I also got those in the comments. So, no one can agree. And that's why we're talking about it this week on \"Engagement Party.\"\n\nJoining the chat, Ari Shapiro. Thanks so much for being here.\n\nARI SHAPIRO, CO-HOST, \"ENGAGEMENT PARTY\": I love joining you on a Friday morning, Audie.\n\nCORNISH: OK, so we had a little bit of an argument about this.\n\nSHAPIRO: We disagreed, as we often do.\n\nCORNISH: We disagreed. You are -- you're really into this Ella Langley situation.\n\nSHAPIRO: It's not my personal feed.\n\nCORNISH: I stand by the idea that I brought it up to multiple people. And they were like, I've never heard this song.\n\nSHAPIRO: Who on the panel heard it, independent of news coverage of it?\n\nWILLIAMS: Absolutely, I hear it.\n\nSHAPIRO: Right. Absolutely.\n\nKING: Not independent of news coverage, but I --\n\nWILLIAMS: I'll tell you -- I'll tell you why we listened to it. I listened, because I don't want to listen to news in the car. Listen to top 40 radio. And it's playing all the time in a constant loop.\n\nAVELLA: As a dad of a ten and a 12-year-old. We don't get in the car and not have that song get turned on.\n\nSHAPIRO: Here's the premise.\n\nSHAPIRO: Two contradictory things can be true. On the one hand, everyone has their own personalized feed. Music exists in a silo that is algorithmed just for you.\n\nAnd on the other hand, Ella Langley has broken records that were held by Whitney Houston, Mariah Carey. It is a history making track.\n\nCORNISH: It just doesn't. I feel like the ubiquity of those songs and of an artist like Whitney Houston or an artist of Mariah Carey was on a different level.\n\nSHAPIRO: Yes. One of our \"Engagement Party\" producers said Ella Langley won the Electoral College of song of the summer.\n\nSHAPIRO: Isn't that -- isn't that smart?\n\nCORNISH: I love that that's what the political panel understands. (CROSSTALK)\n\nCORNISH: That's like. Well, that's on now.\n\nAll right. This actually reminded me of when Lizzo, who is going through some creative struggles, put her two cents in. And this was last summer. But I think it stands. Here's what she said at the time.\n\nLIZZO, SINGER: Back in the day, the music industry was very algorithmic as any other industry was. But that industry was controlled, to a certain extent.\n\nNow that we're in the digital streaming age, there is no control over the algorithm.\n\nI'm going to be completely honest with you guys. It's not because the music isn't incredible. It's because the way that the algorithm is set up, no one can serve the masses anymore.\n\nCORNISH: She went on to say, discovery is really hard, even for artists that are well-established. And I know people have gone after her saying, well, maybe your music is just not that good.\n\nBut I think there's something to that. People drop albums sometimes and I'm like, wait, when did that come out?\n\nSHAPIRO: That's true. But the flip side of that coin is somebody who is very, very niche can find their audience without the radio station overlords having to decide that they are worth radio play.\n\nSHAPIRO: So, again, two contradictory statements. Both can be true.\n\nCORNISH: OK, there are some other songs that could still prevail or at least be talked about. The obligatory Taylor Swift entry.\n\nCORNISH: Right now, No. 2 on the \"Billboard\" list, coming in hot from the \"Toy Story 5\" soundtrack. Drake got on there, as we mentioned, which is good.\n\nSHAPIRO: If you're going to release three albums, one would hope you'd have at least one hit.\n\nCORNISH: Throw it at the wall, throw it at the wall. And more. Ella Langley, Ariana Grande, of course. Olivia Dean. Of course.\n\nSHAPIRO: What's interesting to me here is how much country music there is. Like country is really, I don't want to say having a moment. It's been having a moment for a long time. CORNISH: Yes, we've been saying that for a while.\n\nSHAPIRO: But it's not just \"Choosin' Texas.\" Like, country -- and also, if you look at recent songs of the summer from like Lil Naz X, \"Old Town Road\" to Post Malone and Morgan Wallen, like country is kind of dominant.\n\nCORNISH: So, one of our friends, Ann Powers from NPR, wrote a long time ago that what makes a song of the summer is it blares forth from car radios, boom boxes, and at the beach, and they are the catcalls of a nation baring its collective skin.\n\nSHAPIRO: She's such a brilliant writer.\n\nCORNISH: She's such a powerful --\n\nCORNISH: So, now I get to ask you guys what your songs of the summer are. It can be now. It can be forever.\n\nKING: I'm going to say Yung Miami.\n\nSHAPIRO: Can I play it on television?\n\nCORNISH: You know, Noel, saying that, that's what I like. That's what I like.\n\nSHAPIRO: Eight-dollar bill, gun to shoot.\n\nFor me, it's Raye, \"Joy.\" Love the kind of like clapping church vibes, horns, retro feel. That whole album by Raye is amazing. \"Joy\" is my song of the summer.\n\nAVELLA: Any song by Billy Joel.\n\nAVELLA: I go old school. Let's ride.\n\nSHAPIRO: Just all of them.\n\nAVELLA: His entire --\n\nCORNISH: The whole thing.\n\nAVELLA: His whole portfolio.\n\nWILLIAMS: I got two: \"Midnight Sun.\" And it's on the list by Zara Larsson. And PinkPantheress. It's all over. It's everywhere. It's catchy, it's upbeat and so on. It's one.\n\nAnd two. Sleeper was \"Dai Dai\" by Shakira and Burna Boy, only because --\n\nCORNISH: Yes. The World Cup vote.\n\nWILLIAMS: And that's the thing. Like, literally 5 billion people, I believe, watched the World Cup.\n\nSHAPIRO: Finger on the pulse.\n\nWILLIAMS: Finger on the pulse. And I don't think we realize how many times we've heard that song --\n\nWILLIAMS: -- since the beginning of June or July, and it just sort of is in the consciousness now.\n\nCORNISH: OK, love you guys weighing in.\n\nAri, thank you so much for being here.\n\nSHAPIRO: It's always a pleasure.\n\nCORNISH: And of course, you can catch new episodes of \"Engagement Party\" every Friday.\n\nNow straight ahead on CNN THIS MORNING, this is going to sound like the plot of a futuristic sci-fi movie. Not a great one. A.I. can now create viruses.\n\nPlus, the race to contain the flames. The dangerous fire weather in Washington state, and whether or not it could get worse.",
+  "segments": [
+    {
+      "seg": 1,
+      "url": "https://transcripts.cnn.com/show/ctmo/date/2026-08-07/segment/01",
+      "title": "CNN.com - Transcripts",
+      "text": "Return to Transcripts main page\n\nTrump Tries New Executive Order to Limit Birthright Citizenship; Meta Ordered to Pay into Children's Mental Health Fund; Is the Song of the Summer Concept Officially Dead? Aired 6-6:30a ET\n\nAired August 07, 2026 - 06:00   ET\n\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n\nBRAD SMITH, CNN ANCHOR: Any injuries.\n\nAll right. And take a look at this. Little rubber ducks took over the Chicago River to support the Special Olympics. Each duck was sold for at least $10, and the winning duck's owner received a new car.\n\nThe Chicago Ducky Derby has raised nearly $5 million for Special Olympic athletes since 2005.\n\nWell, that does it for CNN HEADLINE EXPRESS. I'm Brad Smith. CNN THIS MORNING with Audie Cornish starts right now.\n\nAUDIE CORNISH, CNN ANCHOR: Today in the group chat, the president taking another swing at birthright citizenship, this time targeting, quote, \"alien enemies.\" So, will this one hold up legally?\n\nSTEPHEN MILLER, WHITE HOUSE DEPUTY CHIEF OF STAFF: That practice of birth tourism is, as of the signing of this order, hereby banned.\n\nCORNISH: And Dr. Fauci held in contempt, and a criminal prosecution could be next. Did he do more harm than good to his legacy after invoking the Fifth?\n\nAnd flame-fueling winds, intense heat. The race to contain the wildfires in Washington state is about -- is about to get harder.\n\nAnd A.I. bots, now designing viruses. What could possibly go wrong?\n\nUNIDENTIFIED FEMALE: Now that we've opened Pandora's box, how do we keep it from being used for harm?\n\n(BEGIN VIDEO CLIP) DONALD TRUMP, U.S. PRESIDENT: We had a very unfortunate decision in\n\nthe Supreme Court concerning birthright. It was close, but a very, very unfortunate decision. So, we're making adjustments.\n\nCORNISH: If at first you don't succeed, make some adjustments. But will it work this time?\n\nGood morning, everybody. I'm Audie Cornish, and here is where we begin. President Trump with his second try at limiting birthright citizenship.\n\nNow, just a few weeks ago, the Supreme Court ruled that Trump's effort to ban birthright citizenship by executive order was illegal.\n\nOn Thursday, he signed another executive order. The White House says this one will impact several groups, specifically, including alien enemies, members of foreign terror organizations, and people who work for foreign governments by making children born to folks in those groups ineligible for U.S. citizenship.\n\nNow, the order also bans so-called \"birth tourism,\" even though that is already illegal under U.S. law.\n\nMILLER: -- be sure that domestic --\n\nI would put this in the top three in terms of importance, because it ends what has been one of the greatest and most egregious abuses of the American system. And it keeps American citizenship sacred.\n\nCORNISH: So, joining me now in the group chat, Noel King, co-host of the podcast and radio show \"Today, Explained\"; David Avella, chairman of GOPAC; and Elliot Williams, CNN legal analyst and former deputy assistant attorney general.\n\nElliot, since I bought your title, you get to go first. So, here's -- one, I just need the basics.\n\nELLIOT WILLIAMS, CNN LEGAL ANALYST: Yes.\n\nCORNISH: Fourteenth Amendment.\n\nCORNISH: Basically, the Supreme Court majority --\n\nCORNISH: -- said leave it alone. Yes, this is the law.\n\nWILLIAMS: Yes. CORNISH: So, what is different about this executive order, functionally?\n\nWILLIAMS: I don't know. And here's the challenging thing, Audie. Any time the president, by executive order, attempts to redefine or change the definition of citizenship, he's on murky legal ground. It's shaky. And the Supreme Court had said this before.\n\nNow, because this is politically sound or smart, I think many people would agree. We don't want the children of Hamas leadership or of al Qaeda being citizens of the United -- United States. OK, that's politically sound, but that still might run afoul of the Constitution.\n\nWILLIAMS: It's complicated.\n\nNow we need to separate out the birthright one from the birth tourism one, which says something totally different and is on stronger legal ground. Even it doesn't do anything, right? It's still -- it's already barred by the law. Right?\n\nCORNISH: It's already illegal. Yes.\n\nWILLIAMS: And so yes, same thing. These are both political statements far more than legal ones. And -- that first one is absolutely going to be challenged in the courts.\n\nCORNISH: So, let's go to political statements, then. People were, of course, asked, is this the most important thing right now to be talking about?\n\nAnd David, I want to ask you about it. The president was asked about, for example, affordability. Here was his take.\n\nMILLER: I would put this --\n\nUNIDENTIFIED FEMALE: What is your message on affordability going into the midterms?\n\nTRUMP: Well, that's a good question. But it's sort of simple to answer. I inherited the highest prices ever.\n\nCORNISH: OK. I want to show you some polling at the end of that statement was him saying I inherited the highest prices from the Biden administration.\n\nThe problem is, when we actually call people for polls and we ask, does Trump have the right priorities right now, the big number, 73 percent, say no.\n\nAnd then we did break it down by partisans. Does Trump have the right priorities?\n\nAnd what's worse is you see movement. Republicans who once thought, yes, pretty much, 70 percent of them. Now, 60 percent, 66 percent of them are like, you know, I don't know about that.\n\nIndependents, you also see a shift.\n\nAt what point should this shift actually be a concern for the Stephen Millers of the world?\n\nDAVID AVELLA, CHAIRMAN, GOPAC: Today, as we're getting closer and closer to the midterm elections, and that will ultimately decide what the final two years of the president's agenda looks like.\n\nAnd I mean, to this birthright tourism and citizenship. I will say the president does like to keep the Supreme Court making their money and making sure Elliot has good things to talk about.\n\nWILLIAMS: It's a great life. It's good. It's a good living if you can find it.\n\nAVELLA: And so, look, ultimately, this is going to have to be decided by Congress. And then the president, if you want to change the laws, it's going to have to come from Congress. And then --\n\nCORNISH: By laws we mean the Constitution.\n\nAVELLA: -- and then the president --\n\nCORNISH: Like it's not just a couple of -- yes.\n\nAVELLA: There is a process. That's right. For -- for long-term impact.\n\nNot just simply an executive order, which means then that's why the elections are so important.\n\nAnd look, the good news is you are starting to see some affordability come down. You're seeing companies like Walmart and others that are --\n\nAVELLA: -- voluntarily bringing down.\n\nCORNISH: His argument is that, hey, I inherited bad numbers, and therefore it's bad. And I don't know. Can you turn the midterms into a referendum on Biden instead of Trump?\n\nNOEL KING, CO-HOST, \"TODAY, EXPLAINED\": I mean, one would hope not. It's been a few years, right?\n\nCORNISH: Has it? Because we've been talking about Dr. Fauci, who we'll -- we'll still be discussing that at length today.\n\nKING: We're back in 2020.\n\nKING: I mean, the administration returns to the well, when it when it thinks it has hit on an issue that people really care about. And, you know, birthright tourism, that kind of thing --\n\nKING: -- really does amp up a certain percentage of the base.\n\nHowever, the inability to address affordability in any real way, as we just saw, it's going to be a problem. You know?\n\nWILLIAMS: But back to the -- the political point and just using a bright shiny thing to distract from affordability.\n\nEven something like banning people who -- from citizenship, who work for foreign governments. A lot of Americans do that. Americans often get prosecuted for that. Remember Paul Manafort --\n\nWILLIAMS: -- or the rapper Pras was prosecuted for this.\n\nWILLIAMS: Right, exactly. Was prosecuted for this, as well, working for foreign governments.\n\nSo, how do you cut a line wherein citizenship is stripped of people who come from foreign countries, but Americans engage in the same kind? So, it's just sort of a legal mess.\n\nCORNISH: I actually didn't get to enforcement.\n\nCORNISH: I wasn't clear on this. Does this mean ICE is going to be at the airport? I mean, I -- I traveled when I was pregnant, and let me tell you, if someone came up to me and started asking a bunch of questions, I would not be in the mood.\n\nSo, I can't really imagine this scenario where it's like, nice belly there.\n\nCORNISH: Would be a shame if something happened to it. That seems really dark. You know?\n\nCORNISH: Like, I don't understand --\n\nKING: And also, like, are you in Hamas? I mean, I really -- I do -- WILLIAMS: Oh, and if you want to go down the legal hole, like, are you\n\nin Hamas or are you providing aid and comfort to people in Hamas, but not necessarily a member? It just gets complicated legally --\n\nWILLIAMS: -- when you're going to start tinkering with --\n\nCORNISH: So, it's just really just about adding a little extra oomph to existing penalties?\n\nWILLIAMS: I think so. No, I think it's about making a political statement at a time --\n\nCORNISH: OK. I tried.\n\nWILLIAMS: No, you are. But you're right, though.\n\nCORNISH: I'm going -- I'm asking legal questions.\n\nWILLIAMS: And clapping back at the Supreme Court.\n\nWILLIAMS: That's what this is about.\n\nCORNISH: OK. Coming up on CNN THIS MORNING, we want to talk about a couple more elections, this time on the Republican side. A Trump- backed candidate loses in Tennessee and then another in Michigan. We're going to ask about the power of a Trump endorsement this week.\n\nPlus, is it safe to eat lettuce again? Why the state at the center of the cyclospora outbreak is putting it back on the menu.\n\nAnd then in the meantime, there's a water crisis in Puerto Rico. Thousands of people forced to cut back already scarce supplies.\n\nCORNISH: It is 13 minutes past the hour. This is your morning roundup.\n\nSenator Mitch McConnell saying that he's been discharged from a rehabilitation center, that he's back home, and he's still casting votes. He voted by proxy on the Senate Agriculture Committee's farm bill. His vote didn't count, because the bill failed.\n\nMcConnell says he will continue to engage with his staff and colleagues on important Senate business while he recovers.\n\nAnd more than 180,000 Puerto Ricans forced to ration water amid a relentless drought. People in San Juan and neighboring areas will be losing water for 48 hours at a time. They've already been without reliable water for more than 100 days.\n\nOfficials say the water rationing schedule could expand to 72 hours at a time.\n\nAnd a judge in New Mexico orders Meta to strictly restrict youth accounts and pay $567 million into a children's mental health fund for its role in a youth mental health crisis.\n\nThis decision is tied to a child safety case against Meta, where a jury already found the company liable back in March, ordering them to pay another hefty fine.\n\nMeta denies the claims and plans to appeal.\n\nAnd Noel and I have both done reporting on this, and it feels like the parents and the child safety cases are making gains.\n\nKING: The parents are winning. The parents are winning, and it's because you put them in court. You put their kids in court up against a tech company CEO, and it's just impossible not to side --\n\nKING: -- in a lot of cases with the family. You know, especially. You've reported on this issue, some of these horrible outcomes.\n\nCORNISH: Yes. And also, because Congress isn't really taking any action in this area.\n\nWILLIAMS: Yes. You know --\n\nCORNISH: The states are --\n\nWILLIAMS: Yes. It's -- it's tobacco all over again. And we're going to keep seeing this. And I don't mean to vilify tech in the way that tobacco, which literally killed many, many people who used it.\n\nHowever, it's the same strategy, which is you have a product that, when used properly, causes some harms to some people. And the litigation strategy, the public relations strategy --\n\nCORNISH: Is very similar. Yes.\n\nWILLIAMS: -- and just sort of the general social unease about it that's growing is -- is what's driving the day to day. And you're seeing that here.\n\nOK. Well, I want to turn to this after the break. Hundreds of Boeing jets are going to be inspected for cracks. So, we want to know whether or not they are safe for us to fly in.\n\nPlus, is \"Choosin' Texas\" the song of the summer, or have algorithms killed the radio star?\n\nAnd good morning to our viewers in Nashville.\n\n(COMMERCIAL BREAK) [06:20:17]\n\nUNIDENTIFIED MALE: Where is our song of the summer?\n\nUNIDENTIFIED MALE: Isn't it just that Ella Langley song?\n\nUNIDENTIFIED MALE: No, there has to be more than just \"Choosin' Texas.\"\n\nUNIDENTIFIED FEMALE: I released an album. Still no song of the summer. OK, I'm starting to get irritated because what? What is y'all? What is everybody doing?\n\nCORNISH: Everybody is begging for the song of the summer. It is August, folks.\n\nBut in the time of streaming algorithms and TikTok, is the whole concept dead? \"Rolling Stone,\" \"Billboard,\" \"Pitchfork\" agree with some of those TikTokers, but the song of the summer might be Ella Langley's \"Choosin' Texas\" this year.\n\nELLA LANGLEY, SINGER (singing): She's from Texas. I can tell by the way he's two-stepping round the room.\n\nCORNISH: OK, so here's the metric we're using. The song has been No. 1 for 16 weeks. It has made history on the \"Billboard\" Hot 100.\n\nSpotify also added Drake's \"Janice STFU\" and Kacey Musgraves \"Mexico Honey\" to their list. But then when I talked about this online, y'all pretty much roasted me, saying that it's \"Spend Dat\" by Yung Miami. And Millie Bobby Brown thinks it's this.\n\nMILLIE BOBBY BROWN, ACTRESS (singing): Never ending midnight sun.\n\nUNIDENTIFIED MALE: What was that?\n\nCORNISH: I also got those in the comments. So, no one can agree. And that's why we're talking about it this week on \"Engagement Party.\"\n\nJoining the chat, Ari Shapiro. Thanks so much for being here.\n\nARI SHAPIRO, CO-HOST, \"ENGAGEMENT PARTY\": I love joining you on a Friday morning, Audie.\n\nCORNISH: OK, so we had a little bit of an argument about this.\n\nSHAPIRO: We disagreed, as we often do.\n\nCORNISH: We disagreed. You are -- you're really into this Ella Langley situation.\n\nSHAPIRO: It's not my personal feed.\n\nCORNISH: I stand by the idea that I brought it up to multiple people. And they were like, I've never heard this song.\n\nSHAPIRO: Who on the panel heard it, independent of news coverage of it?\n\nWILLIAMS: Absolutely, I hear it.\n\nSHAPIRO: Right. Absolutely.\n\nKING: Not independent of news coverage, but I --\n\nWILLIAMS: I'll tell you -- I'll tell you why we listened to it. I listened, because I don't want to listen to news in the car. Listen to top 40 radio. And it's playing all the time in a constant loop.\n\nAVELLA: As a dad of a ten and a 12-year-old. We don't get in the car and not have that song get turned on.\n\nSHAPIRO: Here's the premise.\n\nSHAPIRO: Two contradictory things can be true. On the one hand, everyone has their own personalized feed. Music exists in a silo that is algorithmed just for you.\n\nAnd on the other hand, Ella Langley has broken records that were held by Whitney Houston, Mariah Carey. It is a history making track.\n\nCORNISH: It just doesn't. I feel like the ubiquity of those songs and of an artist like Whitney Houston or an artist of Mariah Carey was on a different level.\n\nSHAPIRO: Yes. One of our \"Engagement Party\" producers said Ella Langley won the Electoral College of song of the summer.\n\nSHAPIRO: Isn't that -- isn't that smart?\n\nCORNISH: I love that that's what the political panel understands. (CROSSTALK)\n\nCORNISH: That's like. Well, that's on now.\n\nAll right. This actually reminded me of when Lizzo, who is going through some creative struggles, put her two cents in. And this was last summer. But I think it stands. Here's what she said at the time.\n\nLIZZO, SINGER: Back in the day, the music industry was very algorithmic as any other industry was. But that industry was controlled, to a certain extent.\n\nNow that we're in the digital streaming age, there is no control over the algorithm.\n\nI'm going to be completely honest with you guys. It's not because the music isn't incredible. It's because the way that the algorithm is set up, no one can serve the masses anymore.\n\nCORNISH: She went on to say, discovery is really hard, even for artists that are well-established. And I know people have gone after her saying, well, maybe your music is just not that good.\n\nBut I think there's something to that. People drop albums sometimes and I'm like, wait, when did that come out?\n\nSHAPIRO: That's true. But the flip side of that coin is somebody who is very, very niche can find their audience without the radio station overlords having to decide that they are worth radio play.\n\nSHAPIRO: So, again, two contradictory statements. Both can be true.\n\nCORNISH: OK, there are some other songs that could still prevail or at least be talked about. The obligatory Taylor Swift entry.\n\nCORNISH: Right now, No. 2 on the \"Billboard\" list, coming in hot from the \"Toy Story 5\" soundtrack. Drake got on there, as we mentioned, which is good.\n\nSHAPIRO: If you're going to release three albums, one would hope you'd have at least one hit.\n\nCORNISH: Throw it at the wall, throw it at the wall. And more. Ella Langley, Ariana Grande, of course. Olivia Dean. Of course.\n\nSHAPIRO: What's interesting to me here is how much country music there is. Like country is really, I don't want to say having a moment. It's been having a moment for a long time. CORNISH: Yes, we've been saying that for a while.\n\nSHAPIRO: But it's not just \"Choosin' Texas.\" Like, country -- and also, if you look at recent songs of the summer from like Lil Naz X, \"Old Town Road\" to Post Malone and Morgan Wallen, like country is kind of dominant.\n\nCORNISH: So, one of our friends, Ann Powers from NPR, wrote a long time ago that what makes a song of the summer is it blares forth from car radios, boom boxes, and at the beach, and they are the catcalls of a nation baring its collective skin.\n\nSHAPIRO: She's such a brilliant writer.\n\nCORNISH: She's such a powerful --\n\nCORNISH: So, now I get to ask you guys what your songs of the summer are. It can be now. It can be forever.\n\nKING: I'm going to say Yung Miami.\n\nSHAPIRO: Can I play it on television?\n\nCORNISH: You know, Noel, saying that, that's what I like. That's what I like.\n\nSHAPIRO: Eight-dollar bill, gun to shoot.\n\nFor me, it's Raye, \"Joy.\" Love the kind of like clapping church vibes, horns, retro feel. That whole album by Raye is amazing. \"Joy\" is my song of the summer.\n\nAVELLA: Any song by Billy Joel.\n\nAVELLA: I go old school. Let's ride.\n\nSHAPIRO: Just all of them.\n\nAVELLA: His entire --\n\nCORNISH: The whole thing.\n\nAVELLA: His whole portfolio.\n\nWILLIAMS: I got two: \"Midnight Sun.\" And it's on the list by Zara Larsson. And PinkPantheress. It's all over. It's everywhere. It's catchy, it's upbeat and so on. It's one.\n\nAnd two. Sleeper was \"Dai Dai\" by Shakira and Burna Boy, only because --\n\nCORNISH: Yes. The World Cup vote.\n\nWILLIAMS: And that's the thing. Like, literally 5 billion people, I believe, watched the World Cup.\n\nSHAPIRO: Finger on the pulse.\n\nWILLIAMS: Finger on the pulse. And I don't think we realize how many times we've heard that song --\n\nWILLIAMS: -- since the beginning of June or July, and it just sort of is in the consciousness now.\n\nCORNISH: OK, love you guys weighing in.\n\nAri, thank you so much for being here.\n\nSHAPIRO: It's always a pleasure.\n\nCORNISH: And of course, you can catch new episodes of \"Engagement Party\" every Friday.\n\nNow straight ahead on CNN THIS MORNING, this is going to sound like the plot of a futuristic sci-fi movie. Not a great one. A.I. can now create viruses.\n\nPlus, the race to contain the flames. The dangerous fire weather in Washington state, and whether or not it could get worse."
+    }
+  ]
+}
